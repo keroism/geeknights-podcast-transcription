@@ -1,0 +1,3124 @@
+1
+00:00:08,380 --> 00:00:11,691
+Rym: It's Monday, May 20th, 2024.
+
+2
+00:00:11,691 --> 00:00:12,132
+Rym: I'm Rym.
+
+3
+00:00:12,834 --> 00:00:14,519
+Rym: I'm Scott and this is GeekNights.
+
+4
+00:00:14,559 --> 00:00:14,780
+Rym: tonight.
+
+5
+00:00:14,840 --> 00:00:18,732
+Rym: We were talking about markup languages like markdown.
+
+6
+00:00:19,013 --> 00:00:20,076
+Scott: Let's do this.
+
+7
+00:00:20,096 --> 00:00:23,427
+Rym: Oh Stanley Cup playoffs are going.
+
+8
+00:00:24,049 --> 00:00:25,353
+Rym: my brackets doing pretty well.
+
+9
+00:00:25,534 --> 00:00:37,000
+Rym: I have I have aspirationally, hope that the Rangers win because I feel like People don't often make a bracket unless they want their team to win and their team has even the tiniest plausible chance of winning.
+
+10
+00:00:37,522 --> 00:00:41,158
+Rym: But my brackets 64% correct so far, so I'm doing okay.
+
+11
+00:00:42,122 --> 00:00:43,166
+Scott: Mmm, I mean I have all.
+
+12
+00:00:43,206 --> 00:00:43,326
+Scott: the.
+
+13
+00:00:43,888 --> 00:00:50,494
+Scott: all the teams I've chosen have been correct to this point except I had the Leafs going into the second round and then losing.
+
+14
+00:00:50,514 --> 00:00:56,534
+Rym: I had way more faith in a Few teams than I should have look at.
+
+15
+00:00:56,554 --> 00:00:57,219
+Rym: you win a peg?
+
+16
+00:00:58,461 --> 00:00:59,204
+Scott: Yeah, no, they were.
+
+17
+00:00:59,224 --> 00:01:01,351
+Scott: no I pick Colorado obviously.
+
+18
+00:01:01,632 --> 00:01:03,579
+Scott: Yeah, and I correctly picked Dallas as well.
+
+19
+00:01:04,423 --> 00:01:04,745
+Scott: We'll see.
+
+20
+00:01:04,825 --> 00:01:06,072
+Scott: tonight is a game seven.
+
+21
+00:01:06,132 --> 00:01:08,743
+Scott: Vancouver in Edmonton, so I picked Edmonton.
+
+22
+00:01:08,803 --> 00:01:10,087
+Scott: so we'll see what happens.
+
+23
+00:01:10,107 --> 00:01:10,729
+Rym: we will see cuz.
+
+24
+00:01:10,849 --> 00:01:11,632
+Rym: I picked Vancouver.
+
+25
+00:01:11,752 --> 00:01:17,190
+Scott: one of Vancouver's best players is injured And so is their goalie and I did.
+
+26
+00:01:17,350 --> 00:01:20,060
+Rym: I did pick Oilers making it to the final.
+
+27
+00:01:20,827 --> 00:01:21,311
+Scott: I did not.
+
+28
+00:01:21,331 --> 00:01:22,199
+Scott: I picked Dallas.
+
+29
+00:01:22,260 --> 00:01:23,484
+Scott: It was the far superior.
+
+30
+00:01:23,845 --> 00:01:27,154
+Scott: either one of those Vancouver or Edmonton is gonna get destroyed by.
+
+31
+00:01:27,234 --> 00:01:30,239
+Rym: I figured Canadian spite was gonna get Someone there.
+
+32
+00:01:31,024 --> 00:01:34,460
+Scott: No, Dallas is by far eat the best team in the West everybody.
+
+33
+00:01:34,620 --> 00:01:39,694
+Scott: Yeah, I would be surprised if I was wrong and somehow didn't make it to the final right.
+
+34
+00:01:40,235 --> 00:01:54,899
+Rym: but so anyway in that I mentioned the other day in another episode that there was a weird noise in the streams that some of us have been watching particularly from Sportsnet streams in Canada And I dug into that a little more and I made a YouTube video in detail about it.
+
+35
+00:01:55,402 --> 00:02:22,480
+Rym: Because not only was I able to isolate the sound I was able to isolate the exact frequencies the sequence of tones and everything and I was able to make a relatively simple notch filter that 100% removes that sound Shockingly well with zero artifacting which means that sound is Overpowering any of the real or natural audio at those very specific frequency bands.
+
+36
+00:02:23,223 --> 00:02:26,475
+Scott: And it is you decode the digital data in the in that.
+
+37
+00:02:26,816 --> 00:02:27,499
+Rym: so I try.
+
+38
+00:02:27,519 --> 00:02:31,220
+Rym: I Did take an effort into seeing if there was something I could decode there.
+
+39
+00:02:31,541 --> 00:02:39,559
+Rym: But I'm not a second like expert or a signals expert Like I don't know much beyond what I learned at RIT about like Manchester encoding or whatever.
+
+40
+00:02:40,021 --> 00:02:44,040
+Scott: You probably just it's probably just you know, you've got to break it apart with like an FFT or something.
+
+41
+00:02:44,181 --> 00:02:46,711
+Rym: I mean, that's what I'll be some encoding scheme.
+
+42
+00:02:46,912 --> 00:02:48,760
+Rym: I mean I did break it apart with an FFT.
+
+43
+00:02:48,921 --> 00:02:57,380
+Rym: I know that but so what I can say is it appears there's no Modulation other than there are like five or six spikes.
+
+44
+00:02:58,123 --> 00:03:06,560
+Rym: Then it rotates through them spiking at different times But there does not appear to be any data encoded other than there's a spike or not a spike at a given time.
+
+45
+00:03:06,581 --> 00:03:07,320
+Rym: There isn't like a pulse.
+
+46
+00:03:07,360 --> 00:03:10,220
+Scott: I wonder what would happen if like you took it and like ran it through like a modem.
+
+47
+00:03:11,225 --> 00:03:20,500
+Rym: I looked into that because a listener suggested some Various old-school no longer use modem formats that are relatively within that range.
+
+48
+00:03:20,981 --> 00:03:33,198
+Rym: But I could not find any documented signal that at least one That's like normally known well enough to be like listed in Wikipedia page That exists in that range or uses the frequency bands that I found.
+
+49
+00:03:35,322 --> 00:03:36,144
+Rym: But I'm very.
+
+50
+00:03:36,184 --> 00:03:43,687
+Rym: I'm very satisfied that I posted this video around and all the comments are people who were like Oh my fucking god, it's real like.
+
+51
+00:03:44,068 --> 00:03:50,544
+Scott: I'm really curious if people with cable were paying for legit cable television In Canada are hearing it as well.
+
+52
+00:03:50,805 --> 00:04:00,366
+Rym: So just or just criminals who are it appears to be in both the legal and the Dubious online streams.
+
+53
+00:04:00,587 --> 00:04:01,511
+Rym: I know that was right.
+
+54
+00:04:01,531 --> 00:04:01,953
+Scott: But those are.
+
+55
+00:04:01,993 --> 00:04:04,505
+Scott: I'm talking about the cable television not the Right.
+
+56
+00:04:04,525 --> 00:04:07,100
+Scott: There's a legal online stream that people then restream.
+
+57
+00:04:07,361 --> 00:04:12,240
+Rym: So a couple people said they don't hear it if they watch cable directly in Canada.
+
+58
+00:04:12,742 --> 00:04:21,577
+Rym: But some other people said they hear it if they listen to the legal radio Broadcast from the same network and it's the same radio broadcast.
+
+59
+00:04:21,738 --> 00:04:24,586
+Scott: Yeah Terrestrial terrestrial radio.
+
+60
+00:04:24,706 --> 00:04:29,439
+Scott: Yes, but I have not verified that because he's FM and am in Canada.
+
+61
+00:04:29,459 --> 00:04:29,559
+Scott: like.
+
+62
+00:04:30,822 --> 00:04:32,529
+Rym: Yes, they use FM and am in Canada.
+
+63
+00:04:32,770 --> 00:04:34,497
+Scott: They're different countries got different radio.
+
+64
+00:04:34,537 --> 00:04:35,180
+Rym: They actually don't.
+
+65
+00:04:36,400 --> 00:04:36,943
+Scott: Some of them do.
+
+66
+00:04:37,003 --> 00:04:38,028
+Rym: no, they actually don't like.
+
+67
+00:04:38,068 --> 00:04:39,093
+Rym: nobody does like.
+
+68
+00:04:39,153 --> 00:04:40,580
+Rym: shortwave is a global thing.
+
+69
+00:04:40,801 --> 00:04:41,525
+Rym: It's not there.
+
+70
+00:04:41,605 --> 00:04:45,522
+Rym: There really aren't other radio standards for broadcast Mmm.
+
+71
+00:04:47,856 --> 00:04:55,340
+Rym: But Anyway ins if you if you're interested in hearing these sounds exactly like what I was talking about.
+
+72
+00:04:56,046 --> 00:04:56,894
+Rym: The video I uploaded.
+
+73
+00:04:56,914 --> 00:05:15,150
+Rym: it's not long Like I'm not gonna I didn't talk forever in it But most of the video is just a long segment of actual audio from a Rangers game Right at the end of the national anthem and I just turn the filter that removes the sound on and off and it Starkly apparent if I do this.
+
+74
+00:05:15,954 --> 00:05:17,000
+Scott: Oh, yeah, that'll make it obvious.
+
+75
+00:05:17,924 --> 00:05:32,420
+Rym: So in the news, you may remember a while back a cargo ship Extremely fucked up Port of Baltimore one of the most important ports in the entire world By doing an accidental terrorism and smashing a bridge that was actually in use.
+
+76
+00:05:32,761 --> 00:05:33,282
+Scott: frequently,
+
+77
+00:05:33,643 --> 00:05:50,987
+Rym: you know for as much as people worry about what if a terrorist like uses a truck to crash like Non-terrorist trucks kill people at such a high rate that if we We could save more lives by making traffic work better or banning cars than we could by doing most other things I could possibly do as humans.
+
+78
+00:05:51,549 --> 00:06:04,758
+Scott: It's like one person does a harm, you know If I and hurts like five people on purpose and they'll be like a huge Inquiry and all kinds of things going on right and this whole mechanisms into place right like to.
+
+79
+00:06:05,099 --> 00:06:07,399
+Scott: you know Do some security make sure it doesn't happen.
+
+80
+00:06:08,035 --> 00:06:11,714
+Scott: But Thousands of people by accident doesn't even get on the news.
+
+81
+00:06:11,774 --> 00:06:12,557
+Scott: No one cares.
+
+82
+00:06:12,698 --> 00:06:15,368
+Scott: Yep Don't do anything about it.
+
+83
+00:06:15,408 --> 00:06:17,219
+Scott: That's just normal everyday life, you know.
+
+84
+00:06:17,340 --> 00:06:18,967
+Rym: Well, I mean we're seeing this in real time.
+
+85
+00:06:19,008 --> 00:06:23,780
+Rym: like over the last decade mass shootings happened Like not only still happen in the u.s.
+
+86
+00:06:23,860 --> 00:06:28,995
+Rym: they happen faster and more frequently than they ever have and yet they really don't make the news.
+
+87
+00:06:29,055 --> 00:06:33,070
+Rym: unless like more than 20 people get Shot like or more like it's not.
+
+88
+00:06:33,371 --> 00:06:44,473
+Rym: it's fading into the background just like cars But anyway in a heroic feat of When we try we can actually do things.
+
+89
+00:06:44,995 --> 00:06:57,128
+Rym: it only took eight weeks to raise the ship that was that caused this disaster and get it out of the way so they can now investigate it and start rebuilding the bridge and fully open the harbor.
+
+90
+00:06:57,469 --> 00:07:17,207
+Rym: like eight weeks sounds like a lot of time but infrastructure takes a long time like there's like Infrastructure is a very hard problem that we don't invest in enough And this is just a very clear example of if we anyone when I was say we say Americans but any country could do this if they have money.
+
+91
+00:07:17,709 --> 00:07:28,790
+Rym: if you invest in infrastructure and make things better for everyone and Usually the reason why something goes slow is that the society is not actually investing in it eight weeks They get that ship floated is a fucking amazing.
+
+92
+00:07:29,332 --> 00:07:31,180
+Scott: It's it's I think it's broader than that.
+
+93
+00:07:31,360 --> 00:07:42,260
+Scott: It's that when any government that has you know resources tries even a little a Functioning government of some kind it can't be some you know fiasco government, right?
+
+94
+00:07:42,440 --> 00:07:43,585
+Scott: Yeah, some dictator and that right.
+
+95
+00:07:43,605 --> 00:07:53,240
+Scott: but anytime a legitimate functioning government of any kind Decides to invest in a thing that thing happens and succeeds pretty much almost all the time.
+
+96
+00:07:53,301 --> 00:07:53,785
+Rym: The u.s.
+
+97
+00:07:53,825 --> 00:07:55,580
+Rym: Was like we're gonna put a pier in Gaza.
+
+98
+00:07:55,781 --> 00:07:58,752
+Rym: It's there like foods being delivered right now over that pier.
+
+99
+00:07:59,073 --> 00:07:59,414
+Rym: the u.s.
+
+100
+00:07:59,434 --> 00:08:01,020
+Rym: Was like we go to embarrass the Soviets.
+
+101
+00:08:01,020 --> 00:08:02,184
+Rym: We're gonna put a dude on the moon.
+
+102
+00:08:02,445 --> 00:08:04,313
+Rym: it fucking happened before we.
+
+103
+00:08:04,333 --> 00:08:08,868
+Scott: as long as there is a as long as you have Political will plus money.
+
+104
+00:08:08,888 --> 00:08:12,620
+Scott: Yeah things that makes things happen, right?
+
+105
+00:08:12,660 --> 00:08:23,780
+Scott: You know, we've seen it time and time again, you know, Japan was like hey, we're gonna invest in this cool Japan which was really stupid and weird, but guess what there's tons of nerds going to Japan for tourism reasons.
+
+106
+00:08:23,800 --> 00:08:29,180
+Rym: Yep, Korea said we're going to make our music some of the most popular music in the entire world and they did it.
+
+107
+00:08:29,803 --> 00:08:33,059
+Scott: Yeah, that's because they government literally paid money for that to happen.
+
+108
+00:08:34,443 --> 00:08:45,838
+Scott: You know have it works on smaller scales to write New York City puts a lot gives a lot of money Towards helping people film movies and shit in New York City and guess what it happens.
+
+109
+00:08:45,938 --> 00:08:54,702
+Rym: Yep Imagine if a government like the United States put even the tiniest bit of will into something like health care Mm-hmm.
+
+110
+00:08:55,044 --> 00:08:57,051
+Scott: Well, there are countries that do that and it works.
+
+111
+00:08:57,071 --> 00:08:58,236
+Scott: their people are very healthy.
+
+112
+00:08:58,256 --> 00:08:59,160
+Scott: It's it works.
+
+113
+00:09:00,061 --> 00:09:04,676
+Rym: I'm silly that it strikes me very profoundly that way you so long.
+
+114
+00:09:04,696 --> 00:09:07,828
+Rym: back in like 2009 Emily I went to Costa Rica and that was one of my first.
+
+115
+00:09:07,848 --> 00:09:15,786
+Rym: like big international trips abroad and the fact that Costa Rica has universal health care and the u.s Doesn't just said a lot about the world.
+
+116
+00:09:16,308 --> 00:09:19,798
+Rym: not like the vaccine truck would just roll through town like free vaccines.
+
+117
+00:09:20,019 --> 00:09:21,674
+Rym: Let's go Mm-hmm.
+
+118
+00:09:22,961 --> 00:09:26,772
+Rym: So in some other news, this is a journalistic article like this.
+
+119
+00:09:26,792 --> 00:09:27,856
+Rym: Well, not journalistic article.
+
+120
+00:09:27,896 --> 00:09:29,380
+Rym: This is a scientific article.
+
+121
+00:09:30,205 --> 00:09:31,835
+Rym: I'm just gonna link directly to the article.
+
+122
+00:09:31,956 --> 00:09:37,360
+Rym: You can read it And it is one of many studies that are happening right now.
+
+123
+00:09:37,480 --> 00:09:46,594
+Rym: We're gonna see a lot more and these studies are not focused on Like how a eyes and machine learning and large language models are going to be used.
+
+124
+00:09:46,654 --> 00:09:48,840
+Rym: It's not focused on like their capabilities.
+
+125
+00:09:49,387 --> 00:09:55,960
+Rym: It's focused on Regardless of what they are what observable impact do they have on the world around them?
+
+126
+00:09:56,600 --> 00:10:02,060
+Rym: Which is a very important kind of study just like what does the internet do to people good or bad?
+
+127
+00:10:02,200 --> 00:10:03,684
+Rym: What does the advertising do to people?
+
+128
+00:10:03,764 --> 00:10:08,135
+Rym: So what is generative AI even if it's in its current form do?
+
+129
+00:10:08,376 --> 00:10:09,960
+Rym: is there a measurable impact?
+
+130
+00:10:10,421 --> 00:10:18,159
+Scott: Other than just looking at the like the uses of it itself I guess it depends which AI it is and what it was trained on and how the person uses it.
+
+131
+00:10:18,761 --> 00:10:19,082
+Scott: It's not.
+
+132
+00:10:19,183 --> 00:10:24,881
+Scott: it's not a thing like, you know advertisements for you're showing the same ad to people and it's reproducible in that in that way Right.
+
+133
+00:10:24,922 --> 00:10:28,060
+Scott: It's like what prompts are you using against which a eyes, right?
+
+134
+00:10:28,160 --> 00:10:33,274
+Scott: It's like someone who's doing the those criminal porn generators is gonna have.
+
+135
+00:10:33,354 --> 00:10:40,100
+Scott: it's gonna be quite different than somebody who's Asking tech questions and hoping that the results are better than Google.
+
+136
+00:10:40,341 --> 00:10:59,086
+Rym: Yeah, but if you zoom out and do a more abstract study and what this study basically did this one specifically They looked at traffic in basically stack overflows like Engagement questions posted answers hits per day all that kind of stuff and they compared it to reddit just as two baselines.
+
+137
+00:10:59,488 --> 00:11:07,384
+Rym: and then they charted that against the the proliferation of machine learning models Available to the public.
+
+138
+00:11:07,946 --> 00:11:19,450
+Rym: and what they found is that as these models were made available and became more common Stack Overflow has had a rapid drop in engagement and posts answers and questions and reddit has not.
+
+139
+00:11:19,470 --> 00:11:25,640
+Rym: and Then they dug into the details of the data to figure out is how much of this is correlation or causation?
+
+140
+00:11:25,860 --> 00:11:26,839
+Rym: What could be going on here?
+
+141
+00:11:27,140 --> 00:11:32,540
+Scott: It's because the audience of Stack Overflow are tech people who know who are adapting new technologies faster.
+
+142
+00:11:33,022 --> 00:11:45,414
+Rym: It actually makes some pretty significant observations a little deeper than that around how In both communities people who have newer accounts are less likely to return to those communities.
+
+143
+00:11:46,118 --> 00:11:49,373
+Rym: since GPT and things like it appeared like.
+
+144
+00:11:49,414 --> 00:12:11,005
+Rym: there's a lot of very specific observations here and There's a sort of broad potential story that's gonna need further study around the idea that The models that answer questions remove the incentive for people to ask or answer questions online which is Good in one way but it's bad in another way.
+
+145
+00:12:11,085 --> 00:12:24,703
+Rym: in that the only reason the models work is because they look at all these data sources of a thousand stupid people asking the same stupid question in a thousand different places and all the humans fighting over the answers to come up with The real answer.
+
+146
+00:12:25,406 --> 00:12:31,428
+Rym: and if the humans don't generate that mass of data The models can't answer questions.
+
+147
+00:12:31,809 --> 00:12:34,417
+Rym: So the models could destroy their own sources of data.
+
+148
+00:12:34,979 --> 00:12:35,400
+Scott: That's fine.
+
+149
+00:12:36,123 --> 00:12:44,610
+Scott: The thing that grinds my gears lately in a lot of internet communities of all kinds are Not people asking questions that like have been answered already.
+
+150
+00:12:44,770 --> 00:12:46,736
+Scott: Yeah, it's like or questions.
+
+151
+00:12:46,776 --> 00:12:48,420
+Scott: You could just google the answer, right?
+
+152
+00:12:48,480 --> 00:12:49,947
+Scott: It's like that's always been a thing.
+
+153
+00:12:49,967 --> 00:12:52,076
+Scott: There's a new thing at least it's.
+
+154
+00:12:52,136 --> 00:12:57,640
+Scott: I guess it's not new But it's been happening more in my eyes recently and bothering me more.
+
+155
+00:12:57,961 --> 00:13:05,449
+Scott: It could just be perception probably but it's people asking a question That no one could possibly know the answer to.
+
+156
+00:13:05,810 --> 00:13:17,380
+Scott: right for example, right going into like a Nintendo Community and saying hey when does this game that has no officially announced release date?
+
+157
+00:13:17,680 --> 00:13:19,105
+Scott: What is the release date of that game?
+
+158
+00:13:19,186 --> 00:13:20,611
+Scott: and it's like what you think.
+
+159
+00:13:20,631 --> 00:13:25,011
+Scott: someone here like fucking works for Nintendo and is gonna spill the Beans and ruin their NDA and get fired.
+
+160
+00:13:25,051 --> 00:13:26,539
+Scott: Like we don't fucking know.
+
+161
+00:13:27,121 --> 00:13:27,583
+Scott: He knows.
+
+162
+00:13:27,924 --> 00:13:31,957
+Scott: if you pay attention to the news then you'll know as soon as everyone else knows.
+
+163
+00:13:32,217 --> 00:13:35,854
+Scott: if you ask here Nobody knows cuz it's not announced.
+
+164
+00:13:36,015 --> 00:13:43,680
+Rym: one thing I could say though Is that a lot is wrong with don't know if something is announced or not partly because I have found total aside.
+
+165
+00:13:44,181 --> 00:13:50,800
+Rym: It is increasingly hard to search for press releases other than going directly to specific companies and looking at their media space.
+
+166
+00:13:51,181 --> 00:13:55,720
+Rym: So if I'm looking for that kind of information for things that aren't like Nintendo.
+
+167
+00:13:56,422 --> 00:14:02,220
+Rym: It's actually surprisingly hard to find consensus or to know what is public or not public information.
+
+168
+00:14:02,823 --> 00:14:06,320
+Scott: Not another example recently right in the hockey world, right?
+
+169
+00:14:06,540 --> 00:14:10,734
+Scott: It's like, you know, the Rangers win a game which means it's gonna be a new round of games.
+
+170
+00:14:11,115 --> 00:14:14,005
+Scott: people immediately ask like hey What's the schedule for the next round?
+
+171
+00:14:14,045 --> 00:14:17,057
+Scott: It's like nobody here knows that we're gonna know.
+
+172
+00:14:17,278 --> 00:14:23,886
+Scott: at the same time You know when I officially announce a don't know all their media When or how that's announced.
+
+173
+00:14:24,006 --> 00:14:27,596
+Rym: all they know is they googled for when is the Rangers game?
+
+174
+00:14:27,916 --> 00:14:29,300
+Rym: and they didn't find an answer.
+
+175
+00:14:29,962 --> 00:14:31,890
+Scott: Then that means nobody knows.
+
+176
+00:14:31,990 --> 00:14:32,753
+Scott: think about it.
+
+177
+00:14:32,833 --> 00:14:33,958
+Scott: How does these things get?
+
+178
+00:14:34,018 --> 00:14:34,560
+Scott: decide, right?
+
+179
+00:14:34,660 --> 00:14:41,662
+Scott: It's like there's no thought that goes into like how it is the schedule decided when it right it's like and then like a couple Hours later.
+
+180
+00:14:41,682 --> 00:14:48,140
+Scott: Yeah, the official people post it and all their channels on their email newsletters on their social medias on their website.
+
+181
+00:14:48,342 --> 00:14:50,863
+Scott: It's like here it is Everyone knows it.
+
+182
+00:14:50,923 --> 00:15:06,149
+Rym: now at the same time because I just think I think what you're discounting here is the fact that Most people are not just doing the normal life and then they just go on their phone out of nowhere and they decide hey Google, where's the next Rangers game?
+
+183
+00:15:06,189 --> 00:15:08,016
+Rym: And if they don't get an answer, they're like, oh, that's weird.
+
+184
+00:15:08,036 --> 00:15:08,940
+Rym: Why isn't there an answer?
+
+185
+00:15:09,305 --> 00:15:10,098
+Rym: I'll ask my friends.
+
+186
+00:15:10,961 --> 00:15:24,800
+Scott: Yeah, I want to make an internet community where you can ask questions ask all the questions you want but if your question is answerable by searching or You ask any question that cannot be answered you're bad.
+
+187
+00:15:25,041 --> 00:15:35,960
+Scott: And that way the only people in there are the intelligent question askers who actually ask questions that can be answered But aren't currently answered or aren't answered satisfactorily anyway.
+
+188
+00:15:36,040 --> 00:15:40,812
+Rym: I'm sure the one person who survives that process will love that kid.
+
+189
+00:15:40,852 --> 00:15:42,577
+Rym: That's just the inside of Scott's brain.
+
+190
+00:15:43,138 --> 00:15:43,619
+Scott: That's right.
+
+191
+00:15:45,722 --> 00:16:10,360
+Rym: The thing that's bothered the thing that's actually grinding my gears lately is more that I. I've gotten a new appreciation for the way humans answer questions in one very specific way in online communities that the Internet's starting to lose and I think this is part of why machine learning algorithms are increasingly giving Fucking insane answers like the one that was making the rounds today where I forget what?
+
+192
+00:16:10,741 --> 00:16:19,633
+Rym: LLM answered this question in public, but when someone asked what do you do about kidney stones that basically said drink gallons of urine But what?
+
+193
+00:16:20,038 --> 00:16:21,924
+Rym: yeah It conflated.
+
+194
+00:16:22,004 --> 00:16:29,770
+Rym: it hallucinated and conflated all the words about kidney stones and it ended up saying yes drink lots of urine To get rid of a doctor.
+
+195
+00:16:29,810 --> 00:16:30,495
+Scott: That's what you do.
+
+196
+00:16:30,858 --> 00:16:33,067
+Scott: Yeah Why you search it you shouldn't.
+
+197
+00:16:33,127 --> 00:16:36,097
+Scott: that's something you'd like, you know, you shouldn't be even searching for you.
+
+198
+00:16:36,117 --> 00:16:36,980
+Scott: Just go to doctor.
+
+199
+00:16:37,622 --> 00:16:42,722
+Scott: But how do you even know you have a kidney stone unless you went to a doctor in which case the doctor would have told You what to do.
+
+200
+00:16:43,264 --> 00:16:44,569
+Scott: and then why do you need to search?
+
+201
+00:16:44,950 --> 00:16:47,560
+Rym: but whereas in the past if you google for stuff like that?
+
+202
+00:16:47,841 --> 00:16:53,340
+Rym: You'd basically find WebMD and WebMD would both say well, you've definitely got rare incurable cancer.
+
+203
+00:16:53,440 --> 00:16:56,711
+Rym: But also you should talk to your doctor and not trust us.
+
+204
+00:16:57,233 --> 00:17:09,354
+Rym: and now the results you get back are all AI churn to the point that I don't think people Who aren't very aware of how the internet is starting to and shit.
+
+205
+00:17:09,374 --> 00:17:12,346
+Rym: if I I don't think they understand They're almost starting.
+
+206
+00:17:12,366 --> 00:17:13,050
+Rym: that comes back.
+
+207
+00:17:13,372 --> 00:17:15,864
+Scott: It's only been a decade or two It's just it's.
+
+208
+00:17:16,145 --> 00:17:37,315
+Rym: I guess it bothers me that the internet got Materially better year by year for most of my existence as a human and now it is getting worse To the point that I could easily see me being old saying Things like the internet used to do X and no one would believe me.
+
+209
+00:17:37,877 --> 00:17:38,600
+Scott: I don't think it's worse.
+
+210
+00:17:38,761 --> 00:17:42,740
+Scott: I think it's just that you know because of the discoverability, right?
+
+211
+00:17:42,820 --> 00:17:47,680
+Scott: It's like yeah, all the good stuff is still out there and there's more good stuff all the time.
+
+212
+00:17:47,861 --> 00:17:53,880
+Scott: It's just you can't get like a view Right of the internet that shows you the good stuff and not the bad stuff.
+
+213
+00:17:53,940 --> 00:17:58,945
+Scott: The bad stuff is like if you do a search on a Google or if you do a search on a YouTube But that's just it.
+
+214
+00:17:58,966 --> 00:18:00,660
+Rym: There's no search that works, right?
+
+215
+00:18:00,780 --> 00:18:01,465
+Scott: It's like there's no.
+
+216
+00:18:01,505 --> 00:18:03,679
+Scott: how do you go and and and you know?
+
+217
+00:18:04,081 --> 00:18:07,957
+Scott: It's like there's a giant pool a swimming pool of all the information on the internet.
+
+218
+00:18:08,058 --> 00:18:10,909
+Scott: and it's like How can you go in and scoop it?
+
+219
+00:18:11,090 --> 00:18:17,780
+Scott: which leaves me all the way bad stuff the bad stuff You don't want in your scoop is trying to force its way into that scoop, right?
+
+220
+00:18:18,180 --> 00:18:24,860
+Rym: So that leads me all the way back to the thing that I that's actually bothering me Way back to the earliest days of search engines.
+
+221
+00:18:25,921 --> 00:18:27,207
+Rym: Yahoo was right all along.
+
+222
+00:18:27,288 --> 00:18:29,800
+Rym: human curation is the only fucking way to do it.
+
+223
+00:18:30,522 --> 00:18:31,827
+Scott: I mean Google would just be.
+
+224
+00:18:31,847 --> 00:18:35,600
+Scott: I still say Google would be absolutely perfect and amazing.
+
+225
+00:18:36,182 --> 00:18:41,217
+Scott: It's like any human who looks at the Google results can say that's a content farm site.
+
+226
+00:18:41,417 --> 00:18:42,260
+Scott: That's a spam site.
+
+227
+00:18:42,320 --> 00:18:43,546
+Scott: That one's just full of ads.
+
+228
+00:18:43,808 --> 00:18:44,752
+Scott: that one's bullshit.
+
+229
+00:18:45,014 --> 00:18:46,280
+Scott: This one's legit, right?
+
+230
+00:18:47,203 --> 00:18:58,758
+Scott: It would not be hard for Google or they refuse to have any humans do anything right in terms of you know Curation, but it would be trivial to just be like have a human look at that website and say that's just a crap.
+
+231
+00:18:58,858 --> 00:19:03,270
+Scott: ad farm Farm website bands just banned the whole domain just banned.
+
+232
+00:19:03,290 --> 00:19:06,840
+Scott: domains have a big list of domains that are just banned.
+
+233
+00:19:07,221 --> 00:19:10,370
+Scott: Completely no content on those domains get into the search engine.
+
+234
+00:19:10,892 --> 00:19:13,480
+Rym: Ah, but how does Google make money?
+
+235
+00:19:14,262 --> 00:19:19,820
+Scott: Well, that's their problem, but if they did that then the research results would be just fucking fantastic.
+
+236
+00:19:20,181 --> 00:19:31,177
+Scott: Right because you'd basically be using a Google search only on domains that don't have bullshit same as Gmail spam filter, basically Yeah But you can't make money with that.
+
+237
+00:19:32,102 --> 00:19:35,759
+Scott: No, because all the websites you go to would have very minimal ad action going on.
+
+238
+00:19:36,264 --> 00:19:41,340
+Scott: Right It's the shitty sites that have tons of Google ads on them.
+
+239
+00:19:41,420 --> 00:19:49,812
+Scott: So suddenly all the sites that have Google ads on them Wouldn't get any traffic because Google wouldn't be directing anyone to those sites.
+
+240
+00:19:50,213 --> 00:19:55,620
+Scott: And so when Google tried to sell ads they'd be like Yeah, we're only getting like a very small number of impressions.
+
+241
+00:19:56,922 --> 00:20:00,520
+Scott: We can't sell as many ads as we did before because they're not ad little.
+
+242
+00:20:00,762 --> 00:20:03,199
+Scott: You know ad things aren't getting loaded because no one's looking at them.
+
+243
+00:20:03,741 --> 00:20:04,604
+Scott: What do we have to sell?
+
+244
+00:20:04,705 --> 00:20:06,270
+Scott: our shelves are bare ad buyers.
+
+245
+00:20:06,310 --> 00:20:07,916
+Scott: we don't have any ads to sell you.
+
+246
+00:20:07,936 --> 00:20:10,839
+Rym: uh-oh So you got any news?
+
+247
+00:20:12,040 --> 00:20:23,099
+Scott: Yeah, so Apple had a little iPad announcement and I was you know Looking at some new iPad because I got an iPad Pro third gen Which you know has served me very very well.
+
+248
+00:20:23,944 --> 00:20:25,492
+Scott: The keyboard was a ripoff.
+
+249
+00:20:25,552 --> 00:20:27,059
+Scott: I probably won't buy the keyboard again.
+
+250
+00:20:27,381 --> 00:20:31,640
+Scott: It's really annoying that the magic keyboard is not like compatible with like future.
+
+251
+00:20:31,901 --> 00:20:38,220
+Scott: It's like they're made specific to like one generation of iPad basically and like so when you upgrade your iPad.
+
+252
+00:20:38,280 --> 00:20:41,070
+Scott: It's like this $300 keyboard that only works with that.
+
+253
+00:20:41,230 --> 00:20:42,434
+Scott: one device is now gone.
+
+254
+00:20:42,535 --> 00:20:46,379
+Scott: Also, even though there's nothing wrong with it I mean, how does Apple make money?
+
+255
+00:20:47,160 --> 00:20:48,367
+Scott: Yeah, you know, well, they're.
+
+256
+00:20:48,588 --> 00:20:50,238
+Scott: they're bragging a whole bunch about.
+
+257
+00:20:50,278 --> 00:20:50,720
+Scott: you know How.
+
+258
+00:20:50,741 --> 00:20:57,118
+Scott: they're at least trying to be better about repairability and the new iPad is a little bit better at repairability then.
+
+259
+00:20:57,419 --> 00:20:57,820
+Scott: but anyway
+
+260
+00:20:57,840 --> 00:21:02,433
+Rym: They're also maliciously complying to the furthest extent possible anyway,
+
+261
+00:21:02,895 --> 00:21:24,712
+Scott: but they're doing something Anyway, but it's like hey when the iPad I'm gonna I'll keep it until it no longer is supported by iOS Which I'm gonna predict is gonna be September, but there's no guarantee of that It could last longer in which case I won't replace it, but I was like damn why you got to announce new ones now Before you announce whether mine will lose support.
+
+262
+00:21:24,772 --> 00:21:29,398
+Scott: cuz like if mine loses support in September Then I kind of would what I would just buy one right now.
+
+263
+00:21:29,920 --> 00:21:34,815
+Scott: But and you know get and not have this, you know, six-month period and try whatever.
+
+264
+00:21:35,135 --> 00:21:38,379
+Scott: five months whatever it is of You know anyway.
+
+265
+00:21:39,922 --> 00:21:42,071
+Scott: But anyway, they didn't announce the regular iPad.
+
+266
+00:21:42,091 --> 00:21:44,220
+Scott: They only did iPad air and iPad Pro.
+
+267
+00:21:44,581 --> 00:21:48,054
+Scott: So actually that's kind of okay because I'll probably just get regular iPad.
+
+268
+00:21:48,074 --> 00:21:52,695
+Scott: the proneness did not You know, at least now that I have a MacBook.
+
+269
+00:21:52,755 --> 00:21:55,779
+Scott: I don't need the pro iPad anymore, right.
+
+270
+00:21:56,341 --> 00:22:20,037
+Scott: But what's exciting about the new iPad Pro even though I won't buy one is that first of all they threw the m4 chip in There while there's still max with m2s and like only the high-end Mac books Like what I got got the m3 and they just like yeah, you know what fuck it m4 right now And it's like all shit really Wow, and it's only an iPad Pro and it's pretty insane You know, it's only a regular m4.
+
+271
+00:22:20,360 --> 00:22:22,731
+Scott: It's not a max or an ultra or any of those things.
+
+272
+00:22:22,752 --> 00:22:24,460
+Scott: so it doesn't have is like a shit ton of cores.
+
+273
+00:22:24,921 --> 00:22:27,910
+Scott: So the multi core is not, you know as powerful.
+
+274
+00:22:28,051 --> 00:22:48,898
+Scott: It's still pretty strong, but the single core is actually basically The best CPU you can buy as a normal person kinda which is kind of crazy In terms of single core performance, which is that bodes well for future actual computers them for some m4 ultras and maxes and all those sorts of things.
+
+275
+00:22:50,602 --> 00:22:53,497
+Scott: They also did something really interesting with the screen, right.
+
+276
+00:22:53,899 --> 00:23:05,240
+Scott: so You know, you got your OLED screens which are you know, we've talked about those before and you got you know The regular W OLEDs and then you got the QD OLEDs which throw in the quantum dots.
+
+277
+00:23:05,662 --> 00:23:08,940
+Scott: They throw in the quantum dots to get more brightness, right and whatnot.
+
+278
+00:23:11,022 --> 00:23:17,439
+Scott: What the Apple did is like, you know what we're not gonna do quantum dots But we recognize that regular OLED is not gonna be bright enough.
+
+279
+00:23:18,721 --> 00:23:25,840
+Scott: So we're gonna do is we're just gonna take two regular OLEDs and stack them on top of each other for basically double regular OLED.
+
+280
+00:23:26,961 --> 00:23:29,805
+Scott: I think they're calling it hybrid OLED or tandem OLED.
+
+281
+00:23:29,825 --> 00:23:30,947
+Scott: That's what they're calling it tandem.
+
+282
+00:23:31,087 --> 00:23:35,446
+Scott: And actually when they opened up the iFixit opened it up.
+
+283
+00:23:35,788 --> 00:23:38,200
+Scott: They're actually just two video connectors.
+
+284
+00:23:38,582 --> 00:23:48,600
+Scott: So it's basically like having two monitors plugged into two different DisplayPort connectors Or Thunder what I guess they're Thunderbolt connectors, there's some internal display.
+
+285
+00:23:48,660 --> 00:23:52,414
+Rym: I assume they turn one of those layers off when you're not.
+
+286
+00:23:52,434 --> 00:23:54,160
+Rym: we don't need that brightness to save battery.
+
+287
+00:23:54,200 --> 00:23:54,381
+Scott: I don't.
+
+288
+00:23:54,763 --> 00:23:55,205
+Scott: I think what.
+
+289
+00:23:55,245 --> 00:23:58,400
+Scott: well, it's not that each it's not that they turn off an entire layer.
+
+290
+00:23:58,981 --> 00:24:05,679
+Scott: It's that each individual pixel right is sort of using two blues two reds and two greens to different extents.
+
+291
+00:24:06,884 --> 00:24:17,218
+Scott: And I guess that they figured out that having two screens on top of each other For example two greens at half brightness is going to be less power for some reason than one green at full brightness.
+
+292
+00:24:17,700 --> 00:24:22,597
+Scott: and Also your max brightness now is much higher because you could do two greens at both at full.
+
+293
+00:24:22,617 --> 00:24:23,520
+Scott: Mmm, right?
+
+294
+00:24:23,760 --> 00:24:27,195
+Scott: So your maximum brightness is now double and the power consumption.
+
+295
+00:24:27,256 --> 00:24:30,589
+Scott: I'm gonna assume is Less if you use true.
+
+296
+00:24:30,649 --> 00:24:45,039
+Rym: I do imagine there's an efficiency curve there Just like how yeah my my old computer with a 1080 Appears to have drawn more power playing overwatch than my new computer with a 4080 And obviously your minimum brightness is still zero because you just turn them both off.
+
+297
+00:24:46,201 --> 00:24:51,056
+Scott: And apparently this works insanely well, and it's like one of the best screens that you can buy.
+
+298
+00:24:51,136 --> 00:24:53,632
+Rym: as a normal person though I just grew I was good.
+
+299
+00:24:53,653 --> 00:24:54,339
+Scott: It's not as good.
+
+300
+00:24:54,541 --> 00:25:02,519
+Scott: They claim that it's like the most advanced screen But I don't believe that it's as good as those like micro LED screens that cost six figures.
+
+301
+00:25:04,501 --> 00:25:10,440
+Rym: Though googling around for the new iPad screens, I see a bunch of people complaining that it looks grainy, but I can't like verify that.
+
+302
+00:25:13,925 --> 00:25:14,651
+Scott: But yeah, it's still.
+
+303
+00:25:14,872 --> 00:25:21,640
+Scott: it's still pretty impressive But yeah, it's like hey, you know if you don't have you know, if I didn't have the MacBook?
+
+304
+00:25:21,640 --> 00:25:29,743
+Rym: Oh, yeah, here's a ride with people posting pictures of their ultra new iPad and all this graininess in the display Mm-hmm.
+
+305
+00:25:29,763 --> 00:25:32,130
+Scott: No, I have to investigate that I'm not sure.
+
+306
+00:25:32,491 --> 00:25:35,500
+Rym: I clicked on a war two articles with no for all.
+
+307
+00:25:35,520 --> 00:25:37,026
+Rym: I know this is made up AI nonsense.
+
+308
+00:25:37,669 --> 00:25:40,520
+Scott: Yeah, I mean that seems to always happen for example, right?
+
+309
+00:25:40,620 --> 00:25:44,540
+Scott: The other thing about this iPad the last thing that's worth discussing is how thin it is.
+
+310
+00:25:44,700 --> 00:25:47,210
+Scott: It is I as iPod nano thin.
+
+311
+00:25:47,631 --> 00:25:49,980
+Scott: it is like insane thinness, right?
+
+312
+00:25:50,601 --> 00:25:53,573
+Scott: And so of course, there's like a whole bend break gate.
+
+313
+00:25:53,633 --> 00:26:04,387
+Scott: people like oh no, it's it's flimsy It has like an inside there's like a reinforcement bar down the middle It's that you know to help it stay, you know, cuz it is really insanely thin Yeah, which I love.
+
+314
+00:26:04,407 --> 00:26:11,909
+Scott: and there's also rumors now that they're gonna make an insanely thin iPhone Which hey if you're not gonna make it smaller in the other dimensions at least make it smaller in that dimension.
+
+315
+00:26:12,189 --> 00:26:12,550
+Scott: I'll take it.
+
+316
+00:26:13,802 --> 00:26:14,064
+Rym: We'll see.
+
+317
+00:26:14,104 --> 00:26:16,562
+Rym: if I do I'm still holding on to my 13.
+
+318
+00:26:16,562 --> 00:26:20,000
+Scott: I'm holding on unless they make another tiny one a mini one.
+
+319
+00:26:20,080 --> 00:26:25,738
+Scott: I'm gonna use this until iOS no longer supports it just like I am with the iPad.
+
+320
+00:26:25,778 --> 00:26:26,039
+Scott: I have.
+
+321
+00:26:26,119 --> 00:26:50,760
+Scott: so Still just really interesting Know that they found a way to at least, you know push forward in the iPad when in all their other products they seem to only be able to push forward in terms of You know performance and whatnot, right is they actually found some meaningful new developments in the iPad realm Where and which is also interesting is like that's the area that's the product.
+
+322
+00:26:51,021 --> 00:26:54,533
+Scott: They don't need to do this too because there's no competition right?
+
+323
+00:26:54,753 --> 00:26:56,720
+Scott: the phones and the computers have competition.
+
+324
+00:26:57,101 --> 00:26:58,445
+Scott: They need some new developments.
+
+325
+00:26:58,465 --> 00:26:59,288
+Scott: They don't have any.
+
+326
+00:26:59,308 --> 00:27:04,845
+Rym: I feel like there's only two tiers of tablets the super cheap ones that are Absolutely shitty and the iPad.
+
+327
+00:27:04,865 --> 00:27:05,808
+Rym: there's nothing in between.
+
+328
+00:27:05,828 --> 00:27:09,660
+Scott: No, there's also the iPad air than I thought for the iPad family.
+
+329
+00:27:10,363 --> 00:27:16,988
+Scott: Yeah, well the dip the iPads are quite apart from each other right the regular eye But the worst iPad vastly weak.
+
+330
+00:27:17,108 --> 00:27:21,100
+Rym: the worst iPad is better than most of the Android tablets I've ever encountered.
+
+331
+00:27:21,202 --> 00:27:22,380
+Scott: Oh, yeah for sure, right.
+
+332
+00:27:22,420 --> 00:27:29,060
+Scott: But the difference between the regular iPad and the air is is large and the difference in the air and the pro is also large.
+
+333
+00:27:29,346 --> 00:27:31,984
+Rym: so How much is?
+
+334
+00:27:32,024 --> 00:27:32,527
+Rym: I'm just looking.
+
+335
+00:27:32,547 --> 00:27:34,356
+Rym: how much does a Kindle fire tab they cause?
+
+336
+00:27:34,376 --> 00:27:35,040
+Rym: like nothing?
+
+337
+00:27:35,561 --> 00:27:38,530
+Rym: Yeah, they're basically box for a regular old fire.
+
+338
+00:27:38,831 --> 00:27:39,312
+Scott: You're paying.
+
+339
+00:27:39,333 --> 00:27:41,439
+Scott: you're paying for a lot of that with ads and such.
+
+340
+00:27:41,459 --> 00:27:59,079
+Rym: Yep So but anyway things Of the day, so this is a 60-second video, but it's it's very relevant Considering that there was a time in the distant past.
+
+341
+00:27:59,261 --> 00:28:04,929
+Rym: I think Scott and I might have talked about this in the GeekNights back in like 2005 But we stayed in a hotel that I would.
+
+342
+00:28:05,411 --> 00:28:11,579
+Rym: I would say it was like a three out of ten Maybe a four out of ten in terms of the absolute scale of quality.
+
+343
+00:28:12,821 --> 00:28:14,126
+Scott: It wasn't great, but it was cheap.
+
+344
+00:28:14,627 --> 00:28:18,420
+Rym: it was cheap and we're only there one night and we did not actually get bedbugs.
+
+345
+00:28:18,801 --> 00:28:22,596
+Rym: So like nobody got bedbugs from this hotel the Chai line motor in.
+
+346
+00:28:22,636 --> 00:28:24,686
+Scott: if it's even still there I don't think it's still there.
+
+347
+00:28:24,706 --> 00:28:25,310
+Scott: I think it's gone.
+
+348
+00:28:25,390 --> 00:28:26,617
+Rym: It'd be amazing if it was still there.
+
+349
+00:28:26,637 --> 00:28:27,220
+Rym: I'm not gonna check.
+
+350
+00:28:27,541 --> 00:28:29,287
+Scott: I'll double-check, but I'm pretty sure it's gone.
+
+351
+00:28:29,347 --> 00:28:50,645
+Rym: This video is just titled come stay in a $40 2 out of 10 hotel with me for it evening and it is meticulously timed and I would say that this person has in fact Exactly described the nature of a $40 2 out of 10 hotel room which Leads to the ultimate question.
+
+352
+00:28:51,347 --> 00:28:54,455
+Rym: What the fuck is a 1 out of 10 hotel.
+
+353
+00:28:54,475 --> 00:29:02,403
+Rym: I Guess it'd be the one from the Amazing Miss Maisel season 2.
+
+354
+00:29:02,403 --> 00:29:03,675
+Scott: Yeah, I'm pretty sure it's.
+
+355
+00:29:03,755 --> 00:29:04,159
+Scott: it's gone.
+
+356
+00:29:06,286 --> 00:29:07,015
+Rym: So, yeah, what do you got?
+
+357
+00:29:09,562 --> 00:29:24,240
+Scott: So, yeah, so, you know, it's not hard to take a video game and You know usually or any piece of software for that matter is gonna have you know, some constant values programmed into it Right, and then you could change those values to make something interesting happen.
+
+358
+00:29:24,320 --> 00:29:27,480
+Scott: For example, you could go into Zelda and you could say you know what?
+
+359
+00:29:27,920 --> 00:29:34,160
+Scott: We're gonna take link sword damage and make it bigger or we're gonna take art JRPG and make your health bigger, right?
+
+360
+00:29:34,321 --> 00:29:35,926
+Scott: Game genie deals, right?
+
+361
+00:29:35,946 --> 00:29:37,751
+Rym: Yeah, that's all the game genie did kids?
+
+362
+00:29:37,791 --> 00:29:44,050
+Rym: if you didn't realize that it just changed the value of a variable Yeah, you just find a number in the program not even a variable.
+
+363
+00:29:44,070 --> 00:29:47,000
+Rym: it changed the value of a rend of a memory location.
+
+364
+00:29:47,662 --> 00:29:49,950
+Scott: Yeah, so it's like what this person is doing.
+
+365
+00:29:50,011 --> 00:29:52,660
+Scott: is not that really exciting technologically?
+
+366
+00:29:52,781 --> 00:29:52,962
+Scott: They're?
+
+367
+00:29:53,083 --> 00:29:55,320
+Scott: they're basically just game genie in doom, right?
+
+368
+00:29:56,080 --> 00:30:08,926
+Scott: But they had the cleverness which I guess no one's had before this video was made To not try to change your health or your ammo or you know any of your score I guess or any of those kinds of things right?
+
+369
+00:30:09,408 --> 00:30:13,380
+Scott: instead they went and found the value of pi in the program.
+
+370
+00:30:13,764 --> 00:30:17,227
+Rym: Yep, it's just a constant It's old and you're like they're like.
+
+371
+00:30:17,287 --> 00:30:21,840
+Scott: what is what is the doom world look like if pi is instead of being three point one?
+
+372
+00:30:21,960 --> 00:30:24,308
+Scott: Four whatever estimation method they're using.
+
+373
+00:30:24,529 --> 00:30:27,199
+Scott: It's obviously not fully precise floating-point value.
+
+374
+00:30:28,461 --> 00:30:31,951
+Scott: What if we just change pi in doom to three instead?
+
+375
+00:30:32,232 --> 00:30:33,615
+Scott: what would doom look like then?
+
+376
+00:30:33,696 --> 00:30:35,240
+Scott: what if we make pi equal to one?
+
+377
+00:30:35,460 --> 00:30:37,470
+Scott: What do you make pi equal to e whatever right?
+
+378
+00:30:37,892 --> 00:30:39,360
+Scott: What would happen in the doom world?
+
+379
+00:30:39,860 --> 00:30:41,527
+Scott: What kind of you know, would it crash?
+
+380
+00:30:41,848 --> 00:30:42,411
+Scott: would it work?
+
+381
+00:30:42,752 --> 00:30:44,519
+Scott: Would there be some sort of horror show?
+
+382
+00:30:45,480 --> 00:30:49,227
+Scott: all of the above And that's a lot of fun.
+
+383
+00:30:49,388 --> 00:30:54,360
+Scott: Just just to see what doom looks like And you got to think it's like huh?
+
+384
+00:30:54,400 --> 00:30:59,798
+Scott: Well, what would the real world look like that if pi was yeah if I was e?
+
+385
+00:30:59,899 --> 00:31:06,620
+Rym: I Am just shocked that this worked at all and this video is actually kind of amazing.
+
+386
+00:31:07,203 --> 00:31:10,020
+Rym: Yeah, so in terms of what would it do to the real world?
+
+387
+00:31:10,220 --> 00:31:17,632
+Rym: I actually have some thoughts on that because I spent a lot of time watching Physics and quantum physics videos for the last like three years.
+
+388
+00:31:17,713 --> 00:31:18,856
+Rym: That's kind of a rabbit hole.
+
+389
+00:31:18,876 --> 00:31:30,859
+Rym: I went down during kovat and one Theory about pi itself is that it is a continuous value because there's no such thing as a curve in There in their actual universe.
+
+390
+00:31:31,402 --> 00:31:47,412
+Rym: So pi has arbitrary precision solely because you if if you zoom in forever There will always be a smaller Straight line rather than a curve like there's no such thing as a continuous Function anywhere in the universe.
+
+391
+00:31:47,473 --> 00:31:48,238
+Rym: That's just math.
+
+392
+00:31:49,264 --> 00:31:54,872
+Scott: Yeah, I mean if you're standing on you know I guess imagine if you're a flat person standing on a two-dimensional circle.
+
+393
+00:31:55,373 --> 00:32:00,740
+Scott: if the circle is big enough and you're small enough It just looks like everything's flat which is why you get flat earthers.
+
+394
+00:32:01,282 --> 00:32:06,705
+Rym: yeah, which also leads to a thing that I'm going to use for the future where a a Novel topology was discovered.
+
+395
+00:32:06,726 --> 00:32:10,960
+Rym: that breaks like and a very important assumption about topology.
+
+396
+00:32:11,101 --> 00:32:26,380
+Rym: That is kind of a big deal where you can't necessarily Understand much about a surface based on really any observations you make about that surface from that surface Which really sucks considering the only way we can query the universe is from the universe.
+
+397
+00:32:27,065 --> 00:32:28,800
+Rym: But that's the topic for another time.
+
+398
+00:32:31,102 --> 00:32:31,664
+Scott: That makes sense.
+
+399
+00:32:32,346 --> 00:32:34,855
+Rym: in the meta moment the geek nice book look book was.
+
+400
+00:32:34,875 --> 00:32:36,380
+Rym: the night is short walk on girl.
+
+401
+00:32:36,440 --> 00:32:37,243
+Rym: We did the episode.
+
+402
+00:32:37,283 --> 00:32:38,588
+Rym: It's done two things.
+
+403
+00:32:38,929 --> 00:32:39,571
+Rym: I have chosen.
+
+404
+00:32:39,591 --> 00:32:40,976
+Rym: I have two choices for you.
+
+405
+00:32:40,996 --> 00:32:48,032
+Rym: I Decided to go with two Extremely radically different kinds of choices.
+
+406
+00:32:48,132 --> 00:32:49,920
+Scott: So there is no common theme whatsoever.
+
+407
+00:32:49,920 --> 00:32:51,594
+Scott: It's just two books really wants to pick.
+
+408
+00:32:51,936 --> 00:32:52,741
+Rym: no comment There is.
+
+409
+00:32:53,183 --> 00:32:58,240
+Rym: I cannot even make up a way to tie these two properties together.
+
+410
+00:32:58,341 --> 00:32:59,809
+Scott: And it's not one point of data.
+
+411
+00:32:59,889 --> 00:33:02,343
+Scott: similar time period published I.
+
+412
+00:33:02,443 --> 00:33:03,428
+Rym: they are not the authors.
+
+413
+00:33:03,448 --> 00:33:11,080
+Rym: the authors have a letter in their name in common So I'm gonna say I'm gonna talk and speak to one of them first and then I'll speak to the other one.
+
+414
+00:33:11,120 --> 00:33:12,105
+Rym: There's no universe.
+
+415
+00:33:12,145 --> 00:33:13,794
+Rym: Well, you'll guess what the yeah, that's how things go.
+
+416
+00:33:13,834 --> 00:33:14,960
+Scott: You can't talk about two at once.
+
+417
+00:33:15,040 --> 00:33:16,527
+Scott: So you're gonna have to do one and then the other.
+
+418
+00:33:16,547 --> 00:33:19,419
+Rym: yeah, I could interleave it like word by word.
+
+419
+00:33:19,843 --> 00:33:20,878
+Scott: That would be interesting.
+
+420
+00:33:24,061 --> 00:33:28,493
+Rym: The first choice is some number of the Moomin books like.
+
+421
+00:33:28,553 --> 00:33:33,449
+Rym: they're famous they're important they're great They're also really short.
+
+422
+00:33:33,489 --> 00:33:35,519
+Rym: So I feel like we should do a few of them.
+
+423
+00:33:36,041 --> 00:33:37,827
+Rym: I was thinking of doing like the first time.
+
+424
+00:33:37,868 --> 00:33:45,940
+Rym: I like the novels and not comics or the Moomins and the Great Flood Comet in Moominland Finn family Moomintroll memoirs of Moominpapa.
+
+425
+00:33:47,721 --> 00:33:56,024
+Rym: We'll pick like three or four of them because some of them are really short and just make that the book club, okay Alright.
+
+426
+00:33:56,044 --> 00:33:58,559
+Scott: so so what has nothing in common with movements?
+
+427
+00:33:59,023 --> 00:34:04,933
+Rym: Alright, so we were talking about nonfiction But I didn't want to pick like the kind of nonfiction book that I usually read like.
+
+428
+00:34:04,973 --> 00:34:05,535
+Rym: I'm not gonna.
+
+429
+00:34:05,916 --> 00:34:18,426
+Rym: I'm not gonna propose I don't know like Shattered Sword an operational like discussion of the Battle of Midway or like this book on quantum physics because I know you won't pick that and I Don't even think you'll pick this one.
+
+430
+00:34:18,949 --> 00:34:31,326
+Rym: But while it is nonfiction It's not quite Fully nonfiction because I have chosen a book that is famous and important But it's also what I've never actually read.
+
+431
+00:34:31,346 --> 00:34:34,958
+Rym: I am NOT choosing fear and loathing in Las Vegas.
+
+432
+00:34:34,978 --> 00:34:35,480
+Rym: That's easy.
+
+433
+00:34:36,161 --> 00:34:39,331
+Rym: I'm choosing a very important book by the same individual.
+
+434
+00:34:39,953 --> 00:34:41,918
+Rym: fear and loathing on the campaign trail.
+
+435
+00:34:41,980 --> 00:34:43,324
+Scott: nice It's not the book that's hard to get.
+
+436
+00:34:43,344 --> 00:34:45,514
+Rym: I have a copy of it on.
+
+437
+00:34:45,534 --> 00:34:47,619
+Scott: the kid bought it like a used bookstore Just Kindle.
+
+438
+00:34:48,982 --> 00:34:50,210
+Scott: Is it available digitally?
+
+439
+00:34:50,310 --> 00:34:51,920
+Rym: I mean, I've got it on my Kindle.
+
+440
+00:34:52,281 --> 00:34:56,413
+Rym: I bought it for my Kindle a long time ago, and I never read it.
+
+441
+00:34:56,955 --> 00:34:58,419
+Rym: just because I bought it never read it.
+
+442
+00:34:59,002 --> 00:35:00,819
+Scott: Yeah, I don't really want to read any of these books.
+
+443
+00:35:02,022 --> 00:35:09,492
+Rym: So your choice is either three or four of the movement Valley books Which I think are delightful or fair and loathing on the campaign trail.
+
+444
+00:35:09,492 --> 00:35:30,860
+Rym: 72 a hunter s. Thompson gonzo journalism possibly psychotic drug fueled Frenzied reporting of Richard Nixon's campaign in the Democratic primary in 1972 Republican primary, which is prod yeah, but it is Richard Nixon the Democrat.
+
+445
+00:35:32,481 --> 00:35:33,356
+Scott: We'll read that one.
+
+446
+00:35:34,760 --> 00:35:43,840
+Rym: But everyone knows fear and loathing in Las Vegas mostly because of the new movie and I don't think a lot of people have read fear and loathing on the campaign trail with illustrations by Ralph Stedman.
+
+447
+00:35:44,940 --> 00:35:46,112
+Scott: Okay, I don't know who that is.
+
+448
+00:35:47,721 --> 00:35:48,846
+Rym: So you want to choose right now?
+
+449
+00:35:48,866 --> 00:35:50,653
+Rym: Do you need some time to think about?
+
+450
+00:35:50,914 --> 00:35:52,300
+Scott: I really don't want to read any of these books.
+
+451
+00:35:52,421 --> 00:35:54,359
+Rym: How could you not want to read the movement Valley books?
+
+452
+00:35:55,181 --> 00:35:56,787
+Scott: That's like just like some children's books.
+
+453
+00:35:56,807 --> 00:35:57,710
+Scott: they'll take five minutes.
+
+454
+00:35:57,830 --> 00:35:59,456
+Rym: there's a lot going on in those movement books.
+
+455
+00:36:00,239 --> 00:36:03,170
+Rym: Yeah Well, you could dive in with me.
+
+456
+00:36:03,432 --> 00:36:09,513
+Rym: We could we could hang out with Professor the hunter s. Thompson for some number of pages.
+
+457
+00:36:09,533 --> 00:36:14,473
+Scott: I Mean, I know he's like famous and whatever and whatnot.
+
+458
+00:36:14,533 --> 00:36:15,176
+Rym: I've read his essays.
+
+459
+00:36:16,643 --> 00:36:19,799
+Rym: I read fair and loathing in Las Vegas as a kid, but I've never read this.
+
+460
+00:36:20,262 --> 00:36:20,705
+Rym: I don't know.
+
+461
+00:36:20,726 --> 00:36:22,236
+Rym: I don't know how this goes.
+
+462
+00:36:22,296 --> 00:36:22,679
+Rym: this book.
+
+463
+00:36:24,440 --> 00:36:25,388
+Scott: I just never really cared.
+
+464
+00:36:25,408 --> 00:36:33,618
+Scott: I Know some people like oh, yeah, you know, you're you're trashing my you know, ultra famous important, dude But like no, I just don't care.
+
+465
+00:36:34,012 --> 00:36:42,669
+Rym: Yeah I think his form of journalism was important in many ways that I think are beyond the scope of the meta moment of a random GeekNights episode about markdown languages mark up.
+
+466
+00:36:43,190 --> 00:36:44,294
+Scott: I'm sure that's true.
+
+467
+00:36:44,314 --> 00:36:46,140
+Scott: I just don't personally care.
+
+468
+00:36:46,721 --> 00:36:51,650
+Rym: Well, you're gonna choose now or do you need some time?
+
+469
+00:36:52,693 --> 00:36:57,910
+Scott: Yeah Maybe I'll just choose the movement cuz it'll be shorter.
+
+470
+00:36:58,051 --> 00:36:58,392
+Scott: I could do it.
+
+471
+00:36:58,413 --> 00:36:59,237
+Scott: They'll take like a five.
+
+472
+00:36:59,277 --> 00:37:01,147
+Scott: how big is the other book is big, isn't it?
+
+473
+00:37:01,509 --> 00:37:04,500
+Rym: Uh, Okay, I guess I will reveal that to you.
+
+474
+00:37:04,620 --> 00:37:10,275
+Rym: So fair and loathing on the campaign trail is 506 softcover pages.
+
+475
+00:37:10,837 --> 00:37:18,082
+Rym: Yeah, we'll just do the movement cuz that way, you know, all right, I will pick 506 ish pages of movement for us to read.
+
+476
+00:37:18,866 --> 00:37:19,670
+Rym: that might be all of them.
+
+477
+00:37:23,032 --> 00:37:24,217
+Scott: All right, what was the for owes?
+
+478
+00:37:24,237 --> 00:37:33,981
+Rym: the first ever Moomin, oh the first ever was the movements and the Great Flood from the year 1945 And it's act as a novel.
+
+479
+00:37:34,022 --> 00:37:34,970
+Scott: I thought they were all comics.
+
+480
+00:37:35,411 --> 00:37:41,030
+Rym: No, a few of them are illustrated books and a few of them are just books with them.
+
+481
+00:37:41,290 --> 00:37:43,196
+Rym: Okay, I have scattering of illustrations.
+
+482
+00:37:43,878 --> 00:37:44,219
+Scott: I'll go.
+
+483
+00:37:44,259 --> 00:37:48,110
+Scott: I guess I'll get him from the library these books for six-year-olds.
+
+484
+00:37:48,413 --> 00:37:49,142
+Rym: We're doing the movement.
+
+485
+00:37:49,203 --> 00:37:54,248
+Rym: Sorry hunter Maybe next time I'll have to pick a Hunter S. Thompson book versus for Coase pendulum.
+
+486
+00:37:55,412 --> 00:37:57,199
+Scott: Well, I'll just take the the pendulum.
+
+487
+00:37:57,540 --> 00:38:00,450
+Rym: I've wanted I've wanted an excuse to read the pendulum for a long time.
+
+488
+00:38:00,490 --> 00:38:03,608
+Scott: I just haven't because it is also really when no one's stopping me, you know, you can.
+
+489
+00:38:03,649 --> 00:38:04,874
+Rym: yeah You know what's stopping me.
+
+490
+00:38:04,934 --> 00:38:14,709
+Rym: the same thing that caused the GeekNights book club to enter Very briefly a black hole of despair when we chose the tale of Genji and then read the entire on a bridge tale of Genji.
+
+491
+00:38:15,855 --> 00:38:21,945
+Rym: all right, so long long ago, uh I was in high school.
+
+492
+00:38:21,965 --> 00:38:22,730
+Rym: I think it was ninth grade.
+
+493
+00:38:23,171 --> 00:38:28,760
+Rym: I was sitting in a class and I was thinking about the internet because the internet was pretty new to people like me back then.
+
+494
+00:38:29,771 --> 00:38:31,434
+Rym: It was hard to access even in high school.
+
+495
+00:38:31,474 --> 00:38:42,521
+Rym: Like most people I knew didn't have real internet access and I wanted to make a website and a friend of mine had made a bunch of websites and was talking about HTML And I remember this word.
+
+496
+00:38:42,581 --> 00:38:47,861
+Rym: I remember him explaining HTML Someone else and he said the words.
+
+497
+00:38:48,283 --> 00:38:49,930
+Rym: No, it's so easy.
+
+498
+00:38:50,050 --> 00:38:55,086
+Rym: You just like type a B on either sides of something and it makes it bold.
+
+499
+00:38:55,447 --> 00:38:56,490
+Rym: It's kind of awesome.
+
+500
+00:38:56,570 --> 00:38:57,334
+Rym: You should learn it.
+
+501
+00:38:57,976 --> 00:39:00,789
+Rym: and that just the way he described HTML stuck with me.
+
+502
+00:39:01,311 --> 00:39:13,168
+Rym: But HTML was super important and it is one of many markup language and the concept of marking something up Is really important to computers and to information and we've never talked about it on GeekNights.
+
+503
+00:39:13,208 --> 00:39:13,590
+Rym: I don't think.
+
+504
+00:39:14,213 --> 00:39:15,609
+Scott: Well, if you think about it back in the day.
+
+505
+00:39:16,412 --> 00:39:18,560
+Scott: It's a you know, you only had paper right.
+
+506
+00:39:18,620 --> 00:39:24,970
+Scott: you would write down what you were gonna write maybe with a typewriter Yeah, and then somebody would come and mark up your document.
+
+507
+00:39:25,030 --> 00:39:32,570
+Scott: They would like certain underline misspelled words and write various, you know, you know corrections and things of that nature, right?
+
+508
+00:39:32,690 --> 00:39:35,799
+Scott: They would mark it up and that's where the word markup comes from.
+
+509
+00:39:35,879 --> 00:39:47,430
+Scott: but a markup language and a computer is basically saying hey You know, let's say you're doing word processing with like Microsoft Word 1.0 for DOS or an Apple computer of some kind.
+
+510
+00:39:47,651 --> 00:39:49,136
+Scott: Right and you make some.
+
+511
+00:39:49,156 --> 00:39:55,317
+Scott: you know, you write some text, but then there's this other stuff besides Your text, you know, where are the margins?
+
+512
+00:39:55,718 --> 00:39:56,440
+Scott: How big are they?
+
+513
+00:39:57,022 --> 00:39:58,266
+Scott: How much spacing is there?
+
+514
+00:39:58,547 --> 00:39:59,670
+Scott: What font are you using?
+
+515
+00:40:01,672 --> 00:40:02,635
+Scott: What is this bold?
+
+516
+00:40:02,675 --> 00:40:03,457
+Scott: Is it italics?
+
+517
+00:40:03,517 --> 00:40:04,400
+Scott: Is it superscript?
+
+518
+00:40:04,440 --> 00:40:05,543
+Scott: Is it subscript right?
+
+519
+00:40:05,603 --> 00:40:09,975
+Scott: You know, there's this extra information Around the text.
+
+520
+00:40:10,236 --> 00:40:20,170
+Scott: can that you know controls whether it's style its display But also could be indicating, you know sort of meta information about its content, right?
+
+521
+00:40:20,310 --> 00:40:24,270
+Scott: It could be like headers that are like hey, this is paragraph 1. this header goes with this text.
+
+522
+00:40:24,792 --> 00:40:26,599
+Scott: You know, this is an address right?
+
+523
+00:40:26,980 --> 00:40:48,821
+Scott: This is this is a link that you know can be clicked on and Back in the day if used a word processor the word processor saved files in a binder and a you know proprietary usually proprietary format like doc files or WordPerfect files and They would have a custom proprietary and arbitrary binary encoding of.
+
+524
+00:40:48,981 --> 00:40:55,883
+Scott: you know of how they you know, they would tell Microsoft Word, you know how to display the text how to print it and all that.
+
+525
+00:40:56,284 --> 00:41:08,133
+Scott: and so those files if you wanted to work On them you needed Microsoft Word you needed WordPerfect something to interact that markup of the information itself Your words.
+
+526
+00:41:08,594 --> 00:41:10,401
+Scott: so those were not markup languages.
+
+527
+00:41:10,441 --> 00:41:11,866
+Scott: Those are just file formats.
+
+528
+00:41:12,208 --> 00:41:18,738
+Scott: Yeah but then, you know eventually, you know how you had the Lex the text the latex.
+
+529
+00:41:18,778 --> 00:41:21,810
+Scott: those might have even been around maybe even before Microsoft Word.
+
+530
+00:41:21,910 --> 00:41:25,646
+Rym: So that's that's that's that's descriptive markup as a category.
+
+531
+00:41:26,268 --> 00:41:31,764
+Scott: Yes And basically what was going on, you know, even XML qualifies right?
+
+532
+00:41:31,804 --> 00:41:34,030
+Scott: It's like it's literally extended markup language.
+
+533
+00:41:34,532 --> 00:41:47,009
+Scott: It's like hey, what if instead of having this file format that's binary we make a file format where all the markup stuff is also text so that it's really just a text file?
+
+534
+00:41:47,510 --> 00:42:14,042
+Scott: and Even if you don't have the proprietary software that can load those files or whatever You can anyone everyone has text editors So anyone can edit these files right and see what's in them and then because it's text Anyone can write software to read these files and do anything they want with them and we'll have it standard publish and so forth.
+
+535
+00:42:14,346 --> 00:42:19,143
+Scott: so Basically, that's that's what we've got and that's what's been powering the world.
+
+536
+00:42:19,223 --> 00:42:26,284
+Scott: part of the reason this stuff didn't happen Or I guess get spread around earlier is because a the ease of use.
+
+537
+00:42:26,545 --> 00:42:35,560
+Scott: right you're you're asking the users Right if using Microsoft Word, right it's like, okay That wasn't gonna happen, right?
+
+538
+00:42:36,002 --> 00:42:36,705
+Scott: Nobody was gonna.
+
+539
+00:42:37,067 --> 00:42:38,940
+Scott: you know Do that, right?
+
+540
+00:42:39,242 --> 00:42:42,119
+Scott: And Secondly, is that just you know?
+
+541
+00:42:42,240 --> 00:43:04,050
+Scott: early computers didn't have a lot of space And there was a small but significant space and also processing power difference Between what it takes to take a markup language document and render it for display Or let you know or store it on disk with all those extra characters in there versus a binary file format.
+
+542
+00:43:04,070 --> 00:43:08,150
+Scott: It could be much more efficient and also much more powerful and flexible and such.
+
+543
+00:43:08,270 --> 00:43:15,758
+Scott: So it wasn't until computers were a little bit better that that started to proliferate Especially really the web.
+
+544
+00:43:15,798 --> 00:43:22,382
+Rym: proliferating HTML was the big one Yeah, because HTML hit this very interesting sweet spot of.
+
+545
+00:43:22,763 --> 00:43:30,134
+Rym: it was extremely useful to machines But it was simple enough for a human to grok it Very readily.
+
+546
+00:43:30,214 --> 00:43:39,222
+Rym: to the point that like I don't know if any of you were if you remember the early web at the World Wide Web Like you could look at source code like the source code.
+
+547
+00:43:39,262 --> 00:43:40,948
+Rym: I'm making finger quotes of a website.
+
+548
+00:43:40,968 --> 00:43:41,450
+Scott: I'll do that.
+
+549
+00:43:41,751 --> 00:43:45,467
+Rym: Yeah, well, I'll do that a lot you can in a lot of websites, but not all websites.
+
+550
+00:43:45,528 --> 00:43:49,041
+Scott: some websites Oh some websites try to obscure it, but you can.
+
+551
+00:43:49,162 --> 00:43:49,865
+Scott: you can get around that.
+
+552
+00:43:49,905 --> 00:43:50,126
+Scott: It's fun.
+
+553
+00:43:50,146 --> 00:43:56,979
+Rym: You can but like you would Make content in HTML kind of directly.
+
+554
+00:43:57,019 --> 00:44:10,500
+Rym: as a person like the first websites I made I just typed HTML I typed words and I typed HTML in a notepad and I would literally just take that file Rename it dot HTML and put it on the internet.
+
+555
+00:44:10,540 --> 00:44:11,664
+Rym: and that fucking worked.
+
+556
+00:44:12,165 --> 00:44:13,650
+Rym: and that was still works.
+
+557
+00:44:14,012 --> 00:44:14,737
+Rym: It does still work.
+
+558
+00:44:14,958 --> 00:44:16,730
+Rym: that is still how all websites work.
+
+559
+00:44:17,091 --> 00:44:20,125
+Rym: You could just there is no technical reason.
+
+560
+00:44:20,166 --> 00:44:24,090
+Rym: you could not use Notepad to make any website.
+
+561
+00:44:26,471 --> 00:44:29,441
+Rym: But there was another power there in that there was an.
+
+562
+00:44:29,681 --> 00:44:38,450
+Rym: that was also an era where a lot of people Got interested in the World Wide Web simultaneously and it became more accessible for a bunch of reasons around the same time.
+
+563
+00:44:38,971 --> 00:44:52,395
+Rym: So a lot of nerds all learned HTML as a very specific kind of market language Around the same time and it became an early lingua franca of markup for not just the internet But for data in general.
+
+564
+00:44:52,435 --> 00:45:02,014
+Rym: like I'd say most people our age encountered HTML before we even understood the concept of markup or the concept of XML or any of that kind of stuff Mm-hmm.
+
+565
+00:45:02,597 --> 00:45:04,810
+Scott: Well, you know XML also came later, right?
+
+566
+00:45:05,150 --> 00:45:08,379
+Scott: Yeah, you know HTML was the first one that was.
+
+567
+00:45:08,399 --> 00:45:09,803
+Scott: you know, it was.
+
+568
+00:45:09,823 --> 00:45:21,895
+Scott: it wasn't the first one period but it was the first one That was in the faces of Normal people and software was given to normal people to work with it Just on like every computer
+
+569
+00:45:21,935 --> 00:45:27,250
+Rym: and it's only like 30 years old like it's not even old that it's brand new on most scales
+
+570
+00:45:28,572 --> 00:45:31,505
+Scott: And it's had many many versions and changed a whole bunch.
+
+571
+00:45:31,666 --> 00:45:43,750
+Scott: Yeah But yeah, so, you know the thing with HTML even you know Despite it being very useful and widely spread is that writing it by hand kind of sucks, right?
+
+572
+00:45:43,950 --> 00:45:53,510
+Scott: It's not too bad Especially if you have an editor that helps you out with a lot of you know Like automatically closing tags and things like that, but it's not the greatest, right?
+
+573
+00:45:53,590 --> 00:45:56,686
+Scott: It's like, you know, if you go and you know write an essay, right?
+
+574
+00:45:57,450 --> 00:46:02,813
+Scott: You go type you just typing all the text of the essay in a text file only and then you come back and you're like All right.
+
+575
+00:46:03,195 --> 00:46:04,806
+Scott: Let me put some HTML on this.
+
+576
+00:46:04,927 --> 00:46:11,982
+Rym: It's like It's not a fun time but at the same time it did provide a certain amount of power.
+
+577
+00:46:12,042 --> 00:46:13,606
+Rym: so an anecdote from capital markets.
+
+578
+00:46:14,148 --> 00:46:18,321
+Rym: I Built a wiki system built on top of Twiki wiki.
+
+579
+00:46:18,462 --> 00:46:27,487
+Rym: this dates this pretty pretty heavily already For the company I worked for many moons ago to use company-wide as our documentation system or whatever.
+
+580
+00:46:27,507 --> 00:46:59,256
+Rym: I Taught all the traders in this company like people who you would not imagine would ever be willing to do something like this basic HTML and That what I observed was that they actually used it because in an era before WYSIWYG was really super available in web type things It was really powerful to let people do basic formatting using a language like HTML Like in that era and it's
+
+581
+00:46:59,316 --> 00:46:59,978
+Scott: dangerous though.
+
+582
+00:46:59,998 --> 00:47:03,740
+Scott: If you have a web application Obviously, it's going to be made out of HTML.
+
+583
+00:47:03,820 --> 00:47:12,670
+Scott: Yeah, you really don't want to let users Write HTML that will then be put on your website because they basically they can control your website.
+
+584
+00:47:12,851 --> 00:47:20,043
+Scott: Right, you want to use have them write in some other markup language such as markdown Restructured text.
+
+585
+00:47:20,083 --> 00:47:33,530
+Scott: Yeah wiki some sort of wiki ML ish thing like what Wikipedia uses which Right, which you will then turn into the HTML and that provides a security shield basically.
+
+586
+00:47:34,013 --> 00:47:35,886
+Scott: And so, you know, nobody could.
+
+587
+00:47:35,906 --> 00:47:42,872
+Scott: just you know What people are allowed to put on your website is only what you allow them to and not Anything.
+
+588
+00:47:42,953 --> 00:47:48,425
+Scott: if you let them write HTML, they could literally do anything like script equals And then that's it's game.
+
+589
+00:47:48,526 --> 00:47:48,890
+Scott: over course.
+
+590
+00:47:48,930 --> 00:47:49,251
+Rym: There are.
+
+591
+00:47:49,311 --> 00:47:57,808
+Rym: there were several applications that would take HTML and basically interpret it into HTML behind the scenes But that that's kind of that's not really.
+
+592
+00:47:57,828 --> 00:47:57,909
+Rym: yeah.
+
+593
+00:47:58,050 --> 00:48:06,230
+Scott: I mean there are ways you could like, you know, you could put in various protections like strip out the script eggs Escape the whatever but that's a pain in the ass.
+
+594
+00:48:06,350 --> 00:48:20,097
+Scott: It's much easier to just have users use some other markup language Yeah that you know is safe and does not include any sort of shenanigans and then run a program to convert that markup language into HTML which you then now have a webpage.
+
+595
+00:48:20,177 --> 00:48:24,649
+Rym: but those markup languages also provide another value in that if you're expecting users to type them.
+
+596
+00:48:25,512 --> 00:48:27,618
+Rym: You mentioned the moderate pain in the ass.
+
+597
+00:48:27,638 --> 00:48:35,229
+Rym: It is to just type our HTML like the mart like markdown is More designed for someone to type it.
+
+598
+00:48:35,571 --> 00:48:43,055
+Rym: So it actually once you learn it, it's really straightforward and it's very powerful to know The basics of markdown.
+
+599
+00:48:43,677 --> 00:48:51,108
+Scott: Yeah, that's basically the idea behind a lot, you know, the restructured text and the markdown is like hey let's have a markup language that you can actually type.
+
+600
+00:48:51,128 --> 00:48:58,167
+Scott: and Not only is it human readable like the standard for HTML and XML is like it's human readable.
+
+601
+00:48:58,187 --> 00:48:59,150
+Scott: a human could read it.
+
+602
+00:48:59,752 --> 00:49:03,803
+Scott: The standard for markdown is like no it's actually like pleasant to read.
+
+603
+00:49:03,864 --> 00:49:06,050
+Scott: it's like it's not a pain in the ass to read it.
+
+604
+00:49:06,110 --> 00:49:09,962
+Scott: It's like you're perfectly happy if someone sends you a markdown document and it doesn't.
+
+605
+00:49:10,063 --> 00:49:12,350
+Scott: you don't have a special tool to render it nicely.
+
+606
+00:49:12,450 --> 00:49:13,922
+Scott: You just have to read the raw text.
+
+607
+00:49:14,083 --> 00:49:16,535
+Scott: You're fine doing that Because it's not.
+
+608
+00:49:16,615 --> 00:49:18,930
+Scott: it's not cluttered up with a bunch of nonsense.
+
+609
+00:49:20,431 --> 00:49:27,890
+Scott: So, you know the newer markdown language is like the markdown, you know have advantages right easier to read easier to write.
+
+610
+00:49:28,954 --> 00:49:30,190
+Scott: But they also have disadvantages.
+
+611
+00:49:30,952 --> 00:49:36,287
+Scott: the disadvantages is that they're not really a one-to-one mapping with HTML a lot of the times.
+
+612
+00:49:36,929 --> 00:49:51,170
+Scott: so You know You can't necessarily do everything that you could do in HTML if you're only writing markdown like you're restricted Which is fine Like when I said about the use case of you have users who are maybe making forum posts on your website.
+
+613
+00:49:51,391 --> 00:49:53,798
+Scott: Yeah, you force them to write in markdown now.
+
+614
+00:49:54,220 --> 00:49:55,704
+Scott: They can't do everything right?
+
+615
+00:49:55,724 --> 00:49:56,888
+Scott: They can only do some things.
+
+616
+00:49:57,389 --> 00:50:01,724
+Scott: but Let's say you want to write a blog and you want to write your blog posts in markdown.
+
+617
+00:50:01,945 --> 00:50:03,714
+Scott: It's like well great That's awesome.
+
+618
+00:50:03,754 --> 00:50:06,370
+Scott: A lot of tons of blogs work that way shit tons of them.
+
+619
+00:50:06,430 --> 00:50:19,705
+Scott: And in fact, but you might it's your blog you want full control and it's like well some things You just can't do and you might have to write some HTML and mix it into your markdown or mess You know do some custom plugins with your.
+
+620
+00:50:19,725 --> 00:50:25,886
+Scott: you know Your markdown renderer to get it to output different HTML than it normally would.
+
+621
+00:50:26,047 --> 00:50:28,126
+Scott: or you know It can be a pain in the ass.
+
+622
+00:50:30,012 --> 00:50:34,314
+Scott: and I guess markdown specifically also has an issue and that There are many.
+
+623
+00:50:34,334 --> 00:50:45,308
+Scott: the spec the original for spec for markdown is not perfect far from it And there are many different competing standards and arguments about like what who is the real markdown?
+
+624
+00:50:45,689 --> 00:50:58,161
+Rym: Yeah This is a very big annoyance for me in that For most of my life on the internet if I wanted to mark up a document or mark up a forum post or anything I would just type HTML because that's what everything used if they used anything.
+
+625
+00:50:58,723 --> 00:51:00,027
+Scott: and BB also BB code.
+
+626
+00:51:00,087 --> 00:51:01,633
+Rym: Yeah, baby code I knew cuz.
+
+627
+00:51:02,054 --> 00:51:15,416
+Rym: but even though we even gave a whole talk at a penny arcade expo in ancient times about how that style of bulletin board is evil and incorrect compared to different forms of Code comes in PHP BB.
+
+628
+00:51:15,456 --> 00:51:16,218
+Scott: I believe right?
+
+629
+00:51:16,459 --> 00:51:20,230
+Rym: Yeah, PHP BB's were bad form design compared to vanilla.
+
+630
+00:51:20,693 --> 00:51:36,170
+Rym: well, whenever we did that lecture in like 2010, but Now I Have three different places I type into regularly that do certain things like embeds just differently with markdown and I just have to remember which one works.
+
+631
+00:51:36,190 --> 00:51:37,367
+Rym: Where did I fuck it up all the time?
+
+632
+00:51:38,353 --> 00:51:43,999
+Scott: Yep Yeah, this this common mark, which I think you know But it's like it's still not universal.
+
+633
+00:51:44,039 --> 00:51:51,430
+Scott: and then like you've got like slight variations like, you know Even on like there's like github flavored markdown right and things of that nature.
+
+634
+00:51:51,450 --> 00:51:55,461
+Scott: It's like on different websites are gonna have different parts that work and parts that don't.
+
+635
+00:51:56,143 --> 00:51:57,286
+Scott: it's it's just really.
+
+636
+00:51:57,306 --> 00:51:59,915
+Scott: it's kind of a mess But I guess there's.
+
+637
+00:51:59,975 --> 00:52:01,863
+Scott: no there's no fixing it right.
+
+638
+00:52:01,903 --> 00:52:03,469
+Scott: they kind of fudge that one up.
+
+639
+00:52:03,670 --> 00:52:08,290
+Scott: Yeah, and it's not like you could come in with a new markdown language and clean all the others away.
+
+640
+00:52:08,430 --> 00:52:13,930
+Scott: It'll just be that XKCD comic where it's like, ah, there's all these competing standards all of which are flawed.
+
+641
+00:52:14,071 --> 00:52:16,541
+Scott: I know my solution is a new standard.
+
+642
+00:52:16,582 --> 00:52:18,369
+Scott: There are now 11 competing standards.
+
+643
+00:52:18,550 --> 00:52:25,010
+Scott: Yeah, that's what'll happen if you try to make another one and that is that is what has happened several times with markdown.
+
+644
+00:52:25,010 --> 00:52:29,558
+Scott: That's why there are so many of them, but there's also On one hand.
+
+645
+00:52:29,638 --> 00:52:30,889
+Rym: I've seen there's an argument out there.
+
+646
+00:52:31,231 --> 00:52:33,929
+Rym: This is a common conversation in certain circles around.
+
+647
+00:52:34,511 --> 00:52:41,150
+Rym: Doesn't even matter because in the end shouldn't everything just give you a wizzy wig like direct editor with the UI around it?
+
+648
+00:52:41,814 --> 00:52:43,810
+Rym: And there's there's arguments made in both directions.
+
+649
+00:52:43,930 --> 00:52:52,410
+Rym: But one thing I've noticed that I think is important to people who interact heavily via text in environments that tend to use markdown.
+
+650
+00:52:53,228 --> 00:53:01,155
+Rym: I Find that it is just faster to type something like markdown than it is to use any amount of wizzy wig like adding a link to something.
+
+651
+00:53:01,357 --> 00:53:16,845
+Rym: absolutely is Materially faster using markdown where I just put two brackets and then I put two more and I put two Parens and I put my content in there and I just go versus highlighting my text Clicking on something to say add link and then pasting the URL.
+
+652
+00:53:17,086 --> 00:53:17,990
+Rym: that just takes longer.
+
+653
+00:53:18,432 --> 00:53:19,780
+Scott: So I yeah, I mean, well, that's just.
+
+654
+00:53:19,841 --> 00:53:29,273
+Scott: that has nothing to do with, you know I guess it sort of has something to do with markdown languages, but it's like yeah mouse computer mice, right are About friendliness.
+
+655
+00:53:29,433 --> 00:53:34,850
+Scott: right in terms of a GUI you can see your options and you can find the option and click on it, right?
+
+656
+00:53:35,191 --> 00:53:38,523
+Scott: Keyboards are not user-friendly.
+
+657
+00:53:38,684 --> 00:53:41,730
+Scott: right because there are no visible, right.
+
+658
+00:53:41,750 --> 00:53:53,962
+Scott: It's like you can't fill up the screen with like a keyboard shortcut reference that for someone to look at and then even if you did They would look at the reference then look at the keyboard All right, and then sort of make this like triple connection.
+
+659
+00:53:54,142 --> 00:53:54,343
+Scott: right.
+
+660
+00:53:54,724 --> 00:54:03,981
+Scott: for a keyboard to be Efficient the user has to know what to press not just in their conscious memory but in their muscle memory right where it's like.
+
+661
+00:54:04,001 --> 00:54:05,508
+Scott: you don't even think about it just happens.
+
+662
+00:54:05,528 --> 00:54:10,122
+Scott: and Which means they need to know things from some source.
+
+663
+00:54:10,222 --> 00:54:13,548
+Scott: studying practicing learning repetition.
+
+664
+00:54:14,713 --> 00:54:17,470
+Scott: You need to learn the markdown language somewhere somehow.
+
+665
+00:54:18,011 --> 00:54:23,927
+Scott: But once you do if you do that and you use a keyboard right you gain the efficiency of.
+
+666
+00:54:23,987 --> 00:54:29,478
+Scott: your screen isn't cluttered it's just a big open area to type and You gain the efficiency of.
+
+667
+00:54:29,699 --> 00:54:31,610
+Scott: you could just don't have to look at the keyboard.
+
+668
+00:54:31,871 --> 00:54:35,790
+Scott: You don't have to move your hand over to a mouse and spend time when the mouse is moving.
+
+669
+00:54:36,253 --> 00:54:37,822
+Scott: You could just fly right.
+
+670
+00:54:37,883 --> 00:54:45,550
+Scott: and so, you know Microsoft Word you could learn all the keyboard shortcuts and operate it completely via keyboard.
+
+671
+00:54:46,054 --> 00:54:50,982
+Scott: But because of the way it works There's many operations that are not.
+
+672
+00:54:51,122 --> 00:54:52,550
+Scott: they're expecting you to use a mouse.
+
+673
+00:54:52,771 --> 00:54:56,870
+Scott: So it's like if you want to select some text and make it bold, could you do that with the keyboard?
+
+674
+00:54:57,290 --> 00:55:01,027
+Rym: Yes, but it would be type your text hit ctrl B again, right?
+
+675
+00:55:01,650 --> 00:55:06,890
+Scott: It's like hold shift and alt and use the arrow keys to highlight the text you want then press ctrl B, right?
+
+676
+00:55:08,251 --> 00:55:13,370
+Scott: It's like sure that works, but it's actually that's probably faster to use the mouse.
+
+677
+00:55:13,430 --> 00:55:18,306
+Scott: They haven't optimized that user interface for the keyboard because their mouse is expected.
+
+678
+00:55:18,406 --> 00:55:24,070
+Scott: Whereas a text editor Its keyboard is expected and mouse is the outlier, right?
+
+679
+00:55:24,992 --> 00:55:37,110
+Rym: VI where the entire interface is The keyboard and that is crazy fast and powerful if you type a lot But it is inscrutable to beginners and like I know people struggle with that kind of interface.
+
+680
+00:55:37,110 --> 00:55:49,610
+Scott: But the point is that a markdown language in combination with a keyboard only text editor gives you the efficiency of Just like typing in notepad and not having to deal with the BS of a word processor.
+
+681
+00:55:50,211 --> 00:56:06,169
+Scott: But it's combined with some amount of power to mark up your text either for style and/or content so you can sort of get the best of both worlds and That's what computer professional people tend to do.
+
+682
+00:56:07,172 --> 00:56:18,050
+Rym: Yep, so and I think they're here to stay because that power has outlasted Many generations of how people type into blogs and forums and posts and things like that on the internet.
+
+683
+00:56:18,812 --> 00:56:25,570
+Scott: Well, I think you know the one thing that's sort of hurting the markdown languages these days is people with phones and tablets.
+
+684
+00:56:27,032 --> 00:56:31,590
+Scott: Even if you've got markdown, it's like writing markdown with a phone keyboard.
+
+685
+00:56:32,976 --> 00:56:34,050
+Scott: It's really unpleasant.
+
+686
+00:56:34,070 --> 00:56:45,750
+Rym: I mean, I don't I won't other than like discord chats or text messages Like I'm not typing into a forum or really anything on my phone other than a light social media post.
+
+687
+00:56:46,293 --> 00:56:49,510
+Scott: I mean, that's even even that is sort of a pain, right?
+
+688
+00:56:49,550 --> 00:57:01,219
+Scott: It's like if you're on discord, let's say and you want to paste in, you know Even if you copy paste some some source code And you want to paste it into a discord message on your phone.
+
+689
+00:57:01,600 --> 00:57:04,048
+Scott: You have to type the three backticks for y'all.
+
+690
+00:57:04,810 --> 00:57:08,902
+Rym: That's like not easy to type quickly typing three backticks on a phone.
+
+691
+00:57:09,463 --> 00:57:11,028
+Scott: Oh, that's just terrible, right?
+
+692
+00:57:11,048 --> 00:57:19,327
+Rym: So the keyboard Thinking Thinking the idea type three backticks just happens and I don't even know how my hand moved.
+
+693
+00:57:19,387 --> 00:57:21,175
+Rym: It's so automatic Right.
+
+694
+00:57:21,497 --> 00:57:23,669
+Scott: And so I think there would be a good.
+
+695
+00:57:24,672 --> 00:57:36,546
+Scott: It would be worthwhile for somebody to try to make either a user interface or a language or both to Basically type a markdown language on the phone.
+
+696
+00:57:36,606 --> 00:57:37,270
+Scott: pleasantly, right?
+
+697
+00:57:37,330 --> 00:57:42,909
+Scott: Don't use any symbols or characters that aren't, you know on the phone keyboard right away.
+
+698
+00:57:43,693 --> 00:58:02,769
+Scott: And or if you do there should be some sort of you know Weirdo shortcut right that you can just something that you could do that you could get into your muscle memory So that you could type with the phone keyboard quickly And efficiently and generate, you know an information rich document.
+
+699
+00:58:03,332 --> 00:58:14,674
+Rym: Yeah, I think phone interface for text is still lagging behind for a lot of reasons and I I don't know what effect that's gonna have on the internet long term because I mean it's Already had its effect.
+
+700
+00:58:14,695 --> 00:58:16,847
+Scott: people only write toots instead of blog posts.
+
+701
+00:58:17,510 --> 00:58:23,578
+Rym: I mean the sheer amount of text with full markup I can input into a computer if I am motivated.
+
+702
+00:58:23,679 --> 00:58:25,591
+Rym: using a keyboard is Just.
+
+703
+00:58:26,313 --> 00:58:30,484
+Rym: it's like being a level 10 wizard compared to like a mouse.
+
+704
+00:58:30,504 --> 00:58:38,852
+Scott: I See a lot is like when people like me who you mostly use a computer keyboard warrior all most of the time I'm on.
+
+705
+00:58:39,033 --> 00:58:41,990
+Scott: doing things on the web is all right a lot, right?
+
+706
+00:58:42,090 --> 00:58:48,734
+Scott: It's all like a comment and I'm like BAM big comment and you see other people these tiny comments and it's like, you know You it's like.
+
+707
+00:58:48,794 --> 00:58:49,939
+Scott: is that person like?
+
+708
+00:58:49,979 --> 00:58:51,165
+Scott: why are they typing so small?
+
+709
+00:58:51,205 --> 00:58:52,210
+Scott: It's like cuz they're on a phone.
+
+710
+00:58:52,351 --> 00:58:53,889
+Scott: That's why it's not cuz they're a dumb dumb.
+
+711
+00:58:55,811 --> 00:58:58,990
+Rym: They're human expression and engagement with the conversation.
+
+712
+00:58:59,870 --> 00:59:00,613
+Scott: Exactly, you're sorry.
+
+713
+00:59:00,654 --> 00:59:09,048
+Scott: It's like we're all if we're having a conversation with our mouths We'd all be saying the same thing, but when you're talking you're trying to speak through a phone, right?
+
+714
+00:59:09,950 --> 00:59:17,750
+Scott: It's like you could only fit so much in an amount of time So only some of what you have to say gets through where it's gonna have a keyboard.
+
+715
+00:59:18,212 --> 00:59:22,210
+Scott: It's like I have a much, you know, I don't have a you know, a bottleneck, right?
+
+716
+00:59:22,330 --> 00:59:25,890
+Scott: I could just play everything that I'm thinking I could just where I get it out there.
+
+717
+00:59:26,372 --> 00:59:32,430
+Scott: I have two observations related to this so one with a markdown language I can I can enrich what I'm getting out there as well.
+
+718
+00:59:32,450 --> 00:59:53,418
+Rym: So observation number one there are many times where I am like at work or in a place where my phone is the only way I'm gonna interact with a discord and there's a conversation happening in the discord and Like you I often have big thoughts But I almost feel like muted by the fact that I'm interfacing through my phone Like I like there's a God like.
+
+719
+00:59:53,458 --> 01:00:01,145
+Rym: I can't express myself just because of the sheer Slowness of inputting that much text via a phone via any mechanism.
+
+720
+01:00:01,185 --> 01:00:06,901
+Rym: I can type faster than I could talk But at the same time the other observation I have is in multiple discords.
+
+721
+01:00:07,062 --> 01:00:21,501
+Rym: I have found the people who can type quickly Tend to Completely dominate any serious conversation compared to the people who are absolute Absolutely and a lot of times you think you know.
+
+722
+01:00:21,863 --> 01:00:23,350
+Scott: on the one hand I'm like conscious of it.
+
+723
+01:00:23,390 --> 01:00:26,749
+Scott: It's like am I talking and typing too much, right?
+
+724
+01:00:27,870 --> 01:00:30,870
+Scott: Or is it just because I'm a keyboard person?
+
+725
+01:00:31,331 --> 01:00:32,276
+Scott: Yep, is it?
+
+726
+01:00:32,517 --> 01:00:33,843
+Scott: it's like if they had the keyboard.
+
+727
+01:00:33,904 --> 01:00:35,210
+Scott: would they be you know?
+
+728
+01:00:35,330 --> 01:00:40,330
+Scott: Is it because I'm you know, Dom it's like if you were in a conversation or actual room with people.
+
+729
+01:00:40,752 --> 01:00:43,965
+Scott: Am I the guy who doesn't shut up and is too loud and whatever?
+
+730
+01:00:44,065 --> 01:00:45,150
+Rym: are you talking normal speed?
+
+731
+01:00:45,230 --> 01:00:49,342
+Rym: And everyone else is like talking through a filter at a distance, right?
+
+732
+01:00:49,442 --> 01:00:52,671
+Scott: It's you know, I think it's both is definitely happening Right.
+
+733
+01:00:52,772 --> 01:00:54,240
+Scott: I'm the kind of person who's talking too much.
+
+734
+01:00:54,561 --> 01:00:55,506
+Scott: But also I have a keyboard.
+
+735
+01:00:55,627 --> 01:00:59,635
+Rym: Yep The board is a terrible power But I see it.
+
+736
+01:01:00,198 --> 01:01:05,148
+Rym: it really limits how people can express themselves online And I think that's gonna shape internet culture over the next decade.
+
+737
+01:01:06,190 --> 01:01:06,853
+Scott: He's gonna.
+
+738
+01:01:06,933 --> 01:01:07,535
+Scott: it has shape.
+
+739
+01:01:07,596 --> 01:01:10,568
+Scott: Oh, I know I think we're not talking about some going to shape.
+
+740
+01:01:10,588 --> 01:01:16,630
+Rym: This is already A bit a lot more as people like us eventually die and nobody knows how to type.
+
+741
+01:01:18,232 --> 01:01:18,653
+Scott: I don't know.
+
+742
+01:01:18,874 --> 01:01:22,487
+Scott: I don't know how much people know how to type now versus before.
+
+743
+01:01:22,507 --> 01:01:23,370
+Scott: I haven't looked into that.
+
+744
+01:01:23,550 --> 01:01:24,614
+Rym: Yeah, I haven't looked into that either.
+
+745
+01:01:24,715 --> 01:01:26,502
+Rym: and all are also just the.
+
+746
+01:01:26,582 --> 01:01:34,164
+Rym: the sheer percentage of people I know which is higher now than it was even a decade ago who only have a phone like.
+
+747
+01:01:34,385 --> 01:01:41,287
+Rym: I know people who are technical in My profession like as technical as me who do not have any computers or laptops at home?
+
+748
+01:01:41,608 --> 01:01:41,970
+Rym: not one.
+
+749
+01:01:42,272 --> 01:01:43,564
+Rym: They only have phones and tablets.
+
+750
+01:01:43,686 --> 01:01:48,990
+Scott: Yeah But the point is is that typing and markdown languages right go hand in hand.
+
+751
+01:01:49,095 --> 01:02:02,776
+Scott: Yeah the reason a markdown language is is powerful is not just that you have Text that has been enriched with extra information that is human readable and machine readable but also because Humans can generate it right.
+
+752
+01:02:02,976 --> 01:02:09,053
+Scott: if you remove that component then a lot of the advantage of the markdown language is Diminished.
+
+753
+01:02:09,193 --> 01:02:21,540
+Scott: right because if you if you have to jet if you can't generate it quickly Right with your little phone keyboard, you're better off using like, you know, like Apple Notes or something Which is not saving in a markdown language at all, right?
+
+754
+01:02:21,921 --> 01:02:30,937
+Scott: And once you're doing that, it's like well you might as well Share it and have the app load it like it's word processor days again Yep, but then you're dependent on that application.
+
+755
+01:02:31,278 --> 01:02:34,468
+Scott: That's how you or people just take screenshots these days, right?
+
+756
+01:02:34,909 --> 01:02:37,658
+Rym: Yeah It is fast, which then you lose.
+
+757
+01:02:37,698 --> 01:02:39,042
+Scott: you lose even more then right?
+
+758
+01:02:39,062 --> 01:02:39,604
+Scott: You can't you know,
+
+759
+01:02:40,186 --> 01:02:54,105
+Rym: so it is fascinating the sheer number of screenshots of text that I encounter in my daily life and it's only growing and I think that anti pattern says a lot about a Lot of things but we've gone on for longer than a typical geek night.
+
+760
+01:02:54,125 --> 01:02:55,009
+Rym: So I think we should stop here.
+
+761
+01:03:01,022 --> 01:03:03,391
+Rym: This has been GeekNights with Rym and Scott.
+
+762
+01:03:03,451 --> 01:03:05,960
+Rym: special thanks to DJ pretzel for the opening theme.
+
+763
+01:03:06,140 --> 01:03:12,180
+Scott: Be sure to visit our website at front row crew comm for show notes discussion links and more.
+
+764
+01:03:12,662 --> 01:03:23,859
+Rym: Remember GeekNights is not one but four different shows Mondays or science and technology Tuesdays gaming and games Wednesdays or animation and comics Thursdays are arbitrary and indiscriminate.
+
+765
+01:03:24,482 --> 01:03:29,420
+Rym: Peek nights is distributed under a Creative Commons attribution 4.0 international license.
+
+766
+01:03:29,861 --> 01:03:39,231
+Scott: GeekNights is recorded live with no studio and no audience, but unlike those other late shows It's actually recorded at night and the patreon.
+
+767
+01:03:39,251 --> 01:03:45,313
+Rym: patreons for this episode of GeekNights are Alan Joyce linkage You drive Lily Tenebra case care makes music Chris the dot clearest or for.
+
+768
+01:03:45,393 --> 01:03:52,600
+Rym: or Clinton Walton thin Joel Hayes penny rhyme or Rebecca Dunn Sam Erickson Sherman on all and a bunch of people whose names I will not say.
+
+769
+01:03:53,041 --> 01:04:01,588
+Rym: the moral of this episode of GeekNights is learn to type and learn markdown and you will be more powerful than Any of the people you interact with online.
+
+770
+01:04:01,869 --> 01:04:13,172
+Rym: you will become the wizard of whatever fucking discords you hang out in and tonight disappointed that Scott is Uninterested in both the movements and Hunter S. Thompson.
+
+771
+01:04:13,192 --> 01:04:17,039
+Rym: I leave you with y'all recording.
+
+772
+01:04:18,284 --> 01:04:23,180
+Scott: Uh, yep, you need you need us to move out of the way or sit somewhere else.
+
+773
+01:04:24,344 --> 01:04:25,515
+Rym: No, no, this should be fine.
+
+774
+01:04:27,509 --> 01:04:30,711
+Rym: Okay Well, this is sweet apple acres.
+
+775
+01:04:31,273 --> 01:04:36,552
+Scott: They've been running sweet apple acres about Boy 500 years something around there.
+
+776
+01:04:38,703 --> 01:04:44,054
+Scott: Yeah, some are around there something like that family-owned family business.
+
+777
+01:04:44,457 --> 01:04:49,832
+Rym: we grow Apples lots of different grow lots of different kinds of apples.
+
+778
+01:04:49,892 --> 01:04:58,360
+Rym: We got we got honey, Chris Autumn Chris cosmic Chris pink ladies Fuji apples Granny Smith.
+
+779
+01:04:59,241 --> 01:05:00,893
+Rym: Anyways, miss your grandmama.
+
+780
+01:05:01,698 --> 01:05:01,940
+Rym: What?
+
+781
+01:05:03,080 --> 01:05:06,250
+Rym: crash miss your grandmama I Yeah.
+

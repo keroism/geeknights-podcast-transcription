@@ -1,0 +1,3120 @@
+1
+00:00:08,460 --> 00:00:10,239
+Rym: It's Thursday, December 14th, 2023.
+
+2
+00:00:10,239 --> 00:00:10,540
+Rym: I'm Rym.
+
+3
+00:00:13,950 --> 00:00:14,452
+Scott: I'm Scott.
+
+4
+00:00:14,713 --> 00:00:15,977
+Rym: And this is GeekNights.
+
+5
+00:00:16,017 --> 00:00:21,929
+Rym: Tonight on the GeekNights Book Club, we are talking about Martha Wells, The Murderbot Diaries.
+
+6
+00:00:23,173 --> 00:00:24,159
+Rym: Just all of them.
+
+7
+00:00:24,742 --> 00:00:25,769
+Scott: Let's do this!
+
+8
+00:00:27,331 --> 00:00:40,810
+Scott: While you were saying that, someone posted to our discord that Apple has paid to make, you know, a television version, or Apple TV version, of The Murderbot Diaries.
+
+9
+00:00:41,230 --> 00:00:41,653
+Rym: Fascinating!
+
+10
+00:00:41,774 --> 00:00:43,830
+Rym: Apple TV Murderbot Diaries announced just now?
+
+11
+00:00:43,870 --> 00:00:45,241
+Scott: I mean, you knew someone would do it.
+
+12
+00:00:45,463 --> 00:00:46,390
+Scott: You knew someone would do it.
+
+13
+00:00:46,410 --> 00:00:53,358
+Rym: We were, Emily and I were just talking the other night, like, "Oh, this would, this is gonna get adapted by someone, and it'll be, it would be good animated.
+
+14
+00:00:53,378 --> 00:00:54,524
+Rym: It would be good live-action.
+
+15
+00:00:54,544 --> 00:00:55,629
+Rym: I kind of just want to see
+
+16
+00:00:55,710 --> 00:00:55,750
+Rym: it.".
+
+17
+00:00:56,511 --> 00:00:58,219
+Scott: Yeah, I mean, we'll discuss that during the thing.
+
+18
+00:00:58,400 --> 00:01:00,490
+Rym: Yeah, because there's a cool way it could be done.
+
+19
+00:01:00,671 --> 00:01:03,689
+Rym: I don't think whoever's doing it will do it that way, but it could be done in a cool way.
+
+20
+00:01:04,852 --> 00:01:06,008
+Rym: Could be done in a real cool way.
+
+21
+00:01:07,970 --> 00:01:12,310
+Rym: But I got a little, a little, a little, an open-y bit before we get into things of the day and everything and do the actual book club.
+
+22
+00:01:12,750 --> 00:01:27,794
+Rym: So, uh, in Manhattan today, I had to go uptown in the middle of the day to go get my COVID shot, and I head up there, and as I'm just walking on the street in, like, Lexington Avenue, I hear agitated yelling.
+
+23
+00:01:27,875 --> 00:01:32,822
+Rym: Like, a guy is yelling in the agitated way that, "All my shields are
+
+24
+00:01:32,903 --> 00:01:32,984
+Rym: up.".
+
+25
+00:01:33,611 --> 00:01:36,722
+Rym: It's the decision of, "All right, is this a problem to run away from?
+
+26
+00:01:37,103 --> 00:01:38,247
+Rym: To call police on?
+
+27
+00:01:38,267 --> 00:01:38,990
+Rym: Like, what's going on?
+
+28
+00:01:39,070 --> 00:01:39,575
+Rym: It sounds-".
+
+29
+00:01:39,636 --> 00:01:41,210
+Scott: It's not at, nothing out of the ordinary.
+
+30
+00:01:41,510 --> 00:01:47,298
+Rym: Yeah, but it was, it was above the, it was at the level of, "I need to pay attention to this to make sure it does not impact
+
+31
+00:01:47,339 --> 00:01:47,420
+Rym: me.".
+
+32
+00:01:48,591 --> 00:01:53,806
+Rym: After about ten more seconds, I realized this person was yelling about Mr.
+
+33
+00:01:53,906 --> 00:02:02,264
+Rym: Beast's something-something, and it was some kind of just internet crap thing that a kid appeared to be doing for his own livestream.
+
+34
+00:02:02,284 --> 00:02:03,749
+Rym: It was just a guy screaming about Mr.
+
+35
+00:02:03,990 --> 00:02:06,309
+Rym: Beast into his phone and recording himself.
+
+36
+00:02:07,770 --> 00:02:08,211
+Scott: Hmm.
+
+37
+00:02:08,252 --> 00:02:08,332
+Rym: Mr.
+
+38
+00:02:08,352 --> 00:02:13,790
+Rym: Beast made it into, he somehow broke into my sensorium, despite all protocols against that.
+
+39
+00:02:14,531 --> 00:02:16,479
+Scott: I know that there's a person named Mr.
+
+40
+00:02:16,499 --> 00:02:16,780
+Scott: Beast.
+
+41
+00:02:17,182 --> 00:02:19,170
+Scott: I know that, I assume that they're a mister.
+
+42
+00:02:20,151 --> 00:02:21,293
+Scott: Perhaps they are beastly.
+
+43
+00:02:21,313 --> 00:02:34,470
+Scott: I know that they do YouTubes, and are famous, and have many moneys, and I read a story once that they tried to sell their brand to a burger place that sucked, and then they sued them for sucking, and that is the limit of what I know.
+
+44
+00:02:34,570 --> 00:02:44,190
+Rym: Apparently there are multiple sold name to food company controversies related to this mister, but I don't know enough about them, nor do I care anymore.
+
+45
+00:02:44,290 --> 00:02:47,870
+Scott: That is the extent of my beastly mister knowledge.
+
+46
+00:02:49,471 --> 00:02:53,568
+Scott: I know about other beasts, I know about other misters, in terms of the Mr.
+
+47
+00:02:53,588 --> 00:02:53,709
+Scott: Beast.
+
+48
+00:02:55,110 --> 00:03:01,050
+Scott: There, that is the sum total of what I know until I type his name into a search engine, which I will not do.
+
+49
+00:03:03,171 --> 00:03:17,587
+Rym: But anyway, things of the day, in the spirit of that, uh, it's the thing of the day from a YouTube channel called Beatlemania, not "Beetle like the band," but "Beetle like the bug," and, uh- Stag beetles?
+
+50
+00:03:18,671 --> 00:03:19,132
+Rym: Possibly.
+
+51
+00:03:19,152 --> 00:03:29,650
+Rym: There's a lot of content in this channel, but the video is just titled, all lowercase, "Weevils," and it's 50 seconds long, and it's just, it's a delightful little thing.
+
+52
+00:03:31,491 --> 00:03:32,634
+Rym: I think it's worth watching.
+
+53
+00:03:32,694 --> 00:03:39,825
+Rym: It'll brighten your day, and it's exactly what it looks like it is, and it stays around the right amount of time, but it doesn't overstay.
+
+54
+00:03:39,866 --> 00:03:40,270
+Rym: its welcome.
+
+55
+00:03:41,494 --> 00:03:41,769
+Scott: Okay.
+
+56
+00:03:42,710 --> 00:03:43,187
+Rym: So what do you got?
+
+57
+00:03:44,471 --> 00:03:51,470
+Scott: So this is website sleepbaseball.com, you know, and it's exactly what it sounds like.
+
+58
+00:03:55,497 --> 00:04:11,500
+Scott: Back in the day, I was, I was a person who would, uh, I had this mono-oral speaker, with a headphone cable coming out of it, put in your pillow, and if you turned on something boring, like CBS 880 News,
+
+59
+00:04:13,450 --> 00:04:13,826
+Rym: uh,
+
+60
+00:04:15,430 --> 00:04:25,134
+Scott: you could, you could sleep pretty easily, but you could also get informed in a non-RSS world of 1990-whatever, at the same time.
+
+61
+00:04:25,154 --> 00:04:26,418
+Scott: It was pretty convenient.
+
+62
+00:04:26,518 --> 00:04:30,130
+Rym: Weather's gonna be warm next week, and they're having a new something-something.
+
+63
+00:04:30,850 --> 00:04:31,796
+Rym: Now back to audio sports.
+
+64
+00:04:31,816 --> 00:04:42,088
+Scott: And, you know, baseball is, is, uh, you know, it could be boring on the radio as long as no one's yelling and excited for a home run, or suddenly a really loud advertisement, or anything like that, right?
+
+65
+00:04:42,168 --> 00:04:50,366
+Scott: So, you can't use real baseball broadcasts to go to sleep, even if you find baseball to be extremely boring.
+
+66
+00:04:50,426 --> 00:05:13,769
+Scott: But what if someone had a fake baseball broadcast where there wasn't a real baseball game, they just pretended to broadcast a baseball game that does not actually exist, and then they were just not excited at all, and they were just like, "Yep, such-and-such, yep, at the, you know, top of the third
+
+67
+00:05:13,789 --> 00:05:13,910
+Scott: inning.".
+
+68
+00:05:13,970 --> 00:05:17,750
+Rym: It's great, because this feels like the kind of thing you could just put on in the background of, like, a restaurant.
+
+69
+00:05:17,830 --> 00:05:19,728
+Scott: Ball one, lowing outs, ball one, lowing outside.
+
+70
+00:05:23,071 --> 00:05:23,893
+Scott: He's tapping his glove.
+
+71
+00:05:23,913 --> 00:05:30,250
+Rym: There's something about the patter of the slow parts of baseball announcing, especially the more old-timey it is.
+
+72
+00:05:30,950 --> 00:05:33,519
+Scott: So there, there are 20 episodes of this podcast.
+
+73
+00:05:33,700 --> 00:05:44,370
+Scott: I don't know, because I haven't actually listened to it, but I don't know how much of it is handcrafted versus, say, machine learning generated, because it could be.
+
+74
+00:05:44,430 --> 00:05:48,049
+Rym: It sounds machine learning generated, as I just clicked on it and listened to the what the voice sounds like.
+
+75
+00:05:49,150 --> 00:05:49,261
+Scott: Yeah.
+
+76
+00:05:51,030 --> 00:05:52,356
+Scott: But yeah, there's 20 episodes.
+
+77
+00:05:52,396 --> 00:05:55,710
+Scott: It's like Big Rapids Timbards versus the Cadillac cars, right?
+
+78
+00:05:55,770 --> 00:06:00,490
+Scott: It's just like, it's a fake baseball game that someone made up, and you can play it to go to sleep.
+
+79
+00:06:00,770 --> 00:06:01,071
+Scott: It's cool.
+
+80
+00:06:01,091 --> 00:06:02,316
+Scott: And that's what they say.
+
+81
+00:06:02,396 --> 00:06:04,083
+Scott: Baseball radio ASMR.
+
+82
+00:06:04,103 --> 00:06:05,770
+Scott: You don't listen to it, you listen through it.
+
+83
+00:06:05,850 --> 00:06:06,608
+Rym: That's a good quote.
+
+84
+00:06:07,853 --> 00:06:09,206
+Scott: And so there, that's what it is.
+
+85
+00:06:09,266 --> 00:06:09,589
+Scott: The end.
+
+86
+00:06:09,810 --> 00:06:24,129
+Rym: The only complaint I have about it is that the voice, at least on the episode I clicked on, episode 20, sounds a little too much like Max Headroom with a filter, which breaks me out of the ASMR and into "Why is Max Headroom announcing a baseball
+
+87
+00:06:24,149 --> 00:06:24,230
+Rym: game?".
+
+88
+00:06:25,250 --> 00:06:32,112
+Scott: Personally, as far as ASMR goes, you know, it's like, I can agree that there could be a relaxing, quiet sounds.
+
+89
+00:06:32,413 --> 00:06:37,350
+Scott: That, you know, that's a thing, but most people do these whispering ones.
+
+90
+00:06:37,590 --> 00:06:44,019
+Rym: Oh, yeah, that is a culture, some people experience that sensation, I think, differently from most other people.
+
+91
+00:06:44,421 --> 00:06:48,075
+Rym: If someone's whispering, I don't get any of those feelings, it just sounds like someone whispering.
+
+92
+00:06:48,657 --> 00:06:50,061
+Scott: No, it's like, you got to put me to sleep.
+
+93
+00:06:50,101 --> 00:06:56,766
+Rym: It's got to be low, quiet voice, not "Hey, psst, psst, yeah, you don't want to have ASMR geek
+
+94
+00:06:56,786 --> 00:06:57,087
+Rym: nights.".
+
+95
+00:06:58,751 --> 00:06:59,595
+Scott: Yeah, that doesn't work.
+
+96
+00:06:59,615 --> 00:07:02,770
+Scott: That's the opposite of relaxing and sleeping.
+
+97
+00:07:03,190 --> 00:07:13,079
+Rym: So, at some point, you should find a way to watch at least an episode or two of The New Beavis and Butthead, because it is, like, shockingly good for what it is.
+
+98
+00:07:13,200 --> 00:07:23,490
+Rym: Like, it is a very faithful reboot that adds where adding could be done without ruining the essence of Beavis and Butthead, but also subtracts all the parts of Beavis and Butthead that weren't that great.
+
+99
+00:07:23,630 --> 00:07:48,110
+Rym: Like, it's a very good -- it's well-created, but there is a bit in one episode where Beavis and Butthead are watching an ASMR YouTube video, and the entire bit is them also speaking ASMR voices, and it is right on the edge of being a fingernails-on-chalkboard situation, but it doesn't, like, tip over the edge, and it's, like, masterful how they crafted this episode.
+
+100
+00:07:51,191 --> 00:07:55,910
+Rym: In the meta moment, the GeekNights Book Club book was The Murderbot Diaries, and we're here to talk about it right the eff now.
+
+101
+00:07:56,810 --> 00:08:12,095
+Rym: So, this was -- you know, we're doing the new thing with the GeekNights Book Club, where one of us puts up two books for consideration, and then it's an "I choose, you cut," where I choose two books, and then Scott decides which of the two we do, and then we flip back and forth.
+
+102
+00:08:12,215 --> 00:08:15,970
+Rym: So, this choice had been between Gideon the Ninth and The Murderbot Diaries.
+
+103
+00:08:15,970 --> 00:08:17,865
+Scott: -It's not "I choose, you cut," it's "I cut, you
+
+104
+00:08:17,885 --> 00:08:18,067
+Scott: choose.".
+
+105
+00:08:18,087 --> 00:08:18,490
+Rym: -Nah.
+
+106
+00:08:19,210 --> 00:08:22,562
+Rym: Well, it depends on what we consider choosing or cutting, 'cause it's really -- it's "I choose, you
+
+107
+00:08:22,743 --> 00:08:23,426
+Rym: choose.".
+
+108
+00:08:26,016 --> 00:08:27,836
+Rym: [Laughter] It's the doge.
+
+109
+00:08:27,857 --> 00:08:29,568
+Rym: It's just an early step in the doge.
+
+110
+00:08:31,390 --> 00:08:32,455
+Scott: -You and the doge.
+
+111
+00:08:32,475 --> 00:08:36,030
+Rym: -But Murderbot Diaries was picked fairly arbitrarily.
+
+112
+00:08:36,289 --> 00:08:46,450
+Rym: I feel like at some point I'm gonna read Gideon the Ninth anyway, but we both read all the Murderbot Diaries basically as fast as we could, because they're really short books, and now that -- That's
+
+113
+00:08:46,470 --> 00:08:52,050
+Scott: the first thing you gotta know about Murderbot Diaries, is that, you know, this is the exact opposite of Tale of Genji.
+
+114
+00:08:52,230 --> 00:08:55,520
+Scott: Tale of Genji, it's like, one book took us for fucking ever to read.
+
+115
+00:08:55,540 --> 00:08:59,010
+Scott: Technically it was several books, you know, when it was originally published.
+
+116
+00:08:59,170 --> 00:09:02,258
+Scott: But it's like, took forever, hard to get through, diff-- right?
+
+117
+00:09:02,599 --> 00:09:04,605
+Scott: This super new book, right?
+
+118
+00:09:04,625 --> 00:09:09,279
+Scott: The oldest novel, the super new novel, it's a bunch of volumes, but they're so short.
+
+119
+00:09:09,359 --> 00:09:12,310
+Scott: It's like, I literally, the first one, I got it from the library.
+
+120
+00:09:12,971 --> 00:09:15,356
+Scott: I went to the park with that one volume.
+
+121
+00:09:16,218 --> 00:09:17,380
+Scott: I laid on a bench.
+
+122
+00:09:17,922 --> 00:09:21,970
+Scott: This is like, after I finished work, like, five-ish o'clock, right?
+
+123
+00:09:22,290 --> 00:09:23,754
+Scott: It was in the summer also, it was warm out.
+
+124
+00:09:24,356 --> 00:09:29,530
+Scott: And so there was more time before the sun came down, unlike now, where the sun is down before work is even over.
+
+125
+00:09:30,970 --> 00:09:36,730
+Scott: And I had read the last page of the first book before the sun was down.
+
+126
+00:09:38,211 --> 00:09:41,820
+Scott: It's like, between work and sundown, whole volume, right?
+
+127
+00:09:41,880 --> 00:09:42,140
+Scott: Done.
+
+128
+00:09:42,682 --> 00:09:44,546
+Scott: And there's only seven of them?
+
+129
+00:09:44,646 --> 00:09:44,827
+Scott: Eight?
+
+130
+00:09:45,047 --> 00:09:45,348
+Scott: Seven?
+
+131
+00:09:45,709 --> 00:09:46,070
+Scott: I don't know.
+
+132
+00:09:46,150 --> 00:09:54,350
+Rym: Well, it depends on how you count, because there's short stories and novellas, and they have kind of variable lengths, but even the longest of them is not that long.
+
+133
+00:09:54,590 --> 00:10:09,641
+Scott: And the way they're written-- There are a couple of short side stories that do not involve the characters from the book, but only the universe, and they are available-- They were published in Wired magazine, whatever, in another anthology.
+
+134
+00:10:09,661 --> 00:10:11,246
+Scott: You can find them on the internet for free.
+
+135
+00:10:11,727 --> 00:10:12,770
+Scott: You don't really need to, though.
+
+136
+00:10:13,270 --> 00:10:15,574
+Scott: I didn't think there was anything significant in there.
+
+137
+00:10:17,176 --> 00:10:17,877
+Scott: But I did read them.
+
+138
+00:10:18,478 --> 00:10:26,069
+Scott: And then, of course, the fifth book is actually, like, two to three times as large as any of the other books.
+
+139
+00:10:26,850 --> 00:10:30,816
+Scott: It's actually, like, a novel, whereas the others are very much novella.
+
+140
+00:10:32,158 --> 00:10:39,870
+Scott: So that one would take you, I guess, two to four evenings, rather than one, to get through.
+
+141
+00:10:40,190 --> 00:10:40,270
+Rym: Yep.
+
+142
+00:10:40,350 --> 00:10:45,479
+Rym: And I found, and I guess, you know, be ready for spoilers, because we're going to talk about these books.
+
+143
+00:10:45,539 --> 00:10:46,320
+Rym: It's a book club.
+
+144
+00:10:46,621 --> 00:10:51,830
+Rym: We're not reviewing them so much as we're going to talk about them, because we read them, and we assume you read them, too.
+
+145
+00:10:52,411 --> 00:11:00,510
+Rym: So if you didn't read all the Murderbot Diaries, well, like, you're going to learn some things about the Murderbot Diaries, and you might not know necessarily what the heck we're talking about.
+
+146
+00:11:00,910 --> 00:11:10,990
+Scott: Yeah, it's like we read seven or eight books, and we're going to spend a very small amount of time talking about free book things, and then the spoiler line's going to come up fast.
+
+147
+00:11:11,170 --> 00:11:11,390
+Rym: Yep.
+
+148
+00:11:11,931 --> 00:11:15,695
+Rym: But I will say, these are not the best books ever written.
+
+149
+00:11:15,715 --> 00:11:28,250
+Rym: They're not the best sci-fi ever written, but in terms of reading them right now, they were thoroughly enjoyable, to the point that if another one was out, I probably would just start reading it without even thinking about it.
+
+150
+00:11:28,290 --> 00:11:30,000
+Scott: Yeah, I think, right.
+
+151
+00:11:30,040 --> 00:11:31,770
+Scott: Well, one did just come out, and I did just read it.
+
+152
+00:11:31,831 --> 00:11:32,600
+Scott: I read it immediately.
+
+153
+00:11:32,681 --> 00:11:33,370
+Rym: I finished it, like...
+
+154
+00:11:34,310 --> 00:11:35,411
+Scott: I did read it immediately.
+
+155
+00:11:36,272 --> 00:11:40,596
+Scott: But I would say that, you know, yeah, not the best thing ever.
+
+156
+00:11:40,796 --> 00:11:55,169
+Scott: The quality of some of the volumes was, you know, it wasn't, you know, none of them, I would say, were like, it's hard to even say one was the favorite one, because there was a lot of sameness going on a bit there after a while.
+
+157
+00:11:56,350 --> 00:11:59,074
+Scott: I think probably, actually, the first one was probably the best one, right?
+
+158
+00:11:59,134 --> 00:12:00,436
+Scott: Because things are new and fresh.
+
+159
+00:12:01,918 --> 00:12:10,790
+Scott: And whereas, you know, after a while, it's like a status quo sort of formed, and there was sort of less thrills and new developments.
+
+160
+00:12:11,090 --> 00:12:11,150
+Scott: I
+
+161
+00:12:11,250 --> 00:12:35,410
+Rym: was really, I think I might have been the most invested in Network Effect, the fifth one, partly just because that was the one where it was a very, we're going to the kind of place that would be in a movie like Alien or Aliens to figure out what happened to a missing colony, and there's a bunch of old tech and nonsense, and even though a situation like that happened before, that one was, this one was more compelling and had a lot more going on.
+
+162
+00:12:36,391 --> 00:12:37,993
+Scott: You know which one I think was my favorite?
+
+163
+00:12:38,173 --> 00:12:40,437
+Scott: It must have been one or two before that, I forget.
+
+164
+00:12:40,497 --> 00:12:47,930
+Scott: The one where they spent most of their time on a space station, and then the Corp battleship shows up.
+
+165
+00:12:48,290 --> 00:12:50,061
+Rym: Oh, that one was real good too, with the field terraforming.
+
+166
+00:12:52,530 --> 00:13:06,480
+Scott: Right, because that one felt a lot more like, almost like a Blade Runner or a Total Recall kind of thing where you're in a place, right, that's all, you know, civilized, right?
+
+167
+00:13:06,520 --> 00:13:10,743
+Scott: With lots of inhabitants and more closer to a cyberpunk, right?
+
+168
+00:13:10,823 --> 00:13:19,970
+Scott: Even though it wasn't a cyberpunk, obviously, just a regular sci-fi, I guess, space sci-fi, but whereas a lot of the other ones are much more uninhabited, right?
+
+169
+00:13:19,990 --> 00:13:26,264
+Scott: We're in a planet that has alien stuff and a few inhabitants, right?
+
+170
+00:13:26,284 --> 00:13:28,750
+Scott: I like the inhabited part.
+
+171
+00:13:29,250 --> 00:13:37,310
+Rym: But what was nice is that it also, it isn't like set in any other, like in a particular intellectual property out there, like it's its own thing.
+
+172
+00:13:37,570 --> 00:13:38,729
+Scott: Yeah, it's set in the murder button.
+
+173
+00:13:38,950 --> 00:13:48,298
+Rym: Yeah, it is, it's its own, but I guess it feels a lot like the universe that would make sense around alien and aliens, the movies.
+
+174
+00:13:48,479 --> 00:14:01,370
+Rym: Like, it's that kind of universe, if someone somehow decreed that alien and aliens took place in the murder bot universe, it fits perfectly, no notes, like it just fits right in there.
+
+175
+00:14:01,450 --> 00:14:09,938
+Scott: The one major difference between this and the alien universe is that you don't have to go to sleep for a super long time to travel far in space, right?
+
+176
+00:14:09,998 --> 00:14:18,205
+Scott: So people are traveling to different, you know, solar systems frequently without, you know, coming back and like, "I don't know
+
+177
+00:14:18,265 --> 00:14:18,806
+Scott: anybody!"
+
+178
+00:14:19,406 --> 00:14:21,148
+Scott: or "Oh no, my daughter's older than
+
+179
+00:14:21,188 --> 00:14:21,348
+Scott: me!"
+
+180
+00:14:21,408 --> 00:14:23,230
+Scott: or nothing, that shit happens.
+
+181
+00:14:23,591 --> 00:14:31,723
+Rym: Based on what we learn about perihelion and the other ship later, it definitely, it could also fit in the culture type of universe.
+
+182
+00:14:31,783 --> 00:14:35,930
+Rym: in terms of you can see where this is going, in terms of machine intelligence is long term.
+
+183
+00:14:36,710 --> 00:14:42,590
+Scott: Yeah, there are machine intel, yeah, of that, but there isn't culture like, you know, some crazy societies, right?
+
+184
+00:14:42,730 --> 00:14:43,171
+Rym: Yeah, not yet.
+
+185
+00:14:43,232 --> 00:14:48,910
+Rym: There's this, I mean, preservation is pretty nice and pretty culture-like, but that's one planet among a ton of them.
+
+186
+00:14:48,930 --> 00:14:54,110
+Scott: I guess there is the cyberpunk part that there's all like these feeds, right, that they're all connected to all the time.
+
+187
+00:14:54,330 --> 00:14:55,769
+Rym: Everybody's in discords all the time.
+
+188
+00:14:56,770 --> 00:15:04,130
+Scott: Yeah, and so that is cyberpunk-ish, and this corporations are, you know, both cyberpunk and alien style sci-fi, right?
+
+189
+00:15:04,610 --> 00:15:08,488
+Rym: Yeah, meaning that they are powerful enough to effectively be governments, but they're also governments.
+
+190
+00:15:10,270 --> 00:15:12,376
+Scott: Yeah, of other place, other systems, right?
+
+191
+00:15:12,396 --> 00:15:15,024
+Scott: Some systems are corporate systems and some aren't, right?
+
+192
+00:15:15,104 --> 00:15:24,690
+Scott: So, um... Yeah, I think it, overall, I think what's my opinion is like, yeah, it's, I like it, it's fun.
+
+193
+00:15:25,130 --> 00:15:33,328
+Scott: The strongest thing about it is that this character is mostly just murderbot and, you know, uh, perihelion, or art, right?
+
+194
+00:15:34,330 --> 00:15:35,288
+Scott: There's more about them.
+
+195
+00:15:36,550 --> 00:15:39,195
+Scott: And also the human who's like the president human.
+
+196
+00:15:41,199 --> 00:15:55,470
+Scott: All the other humans are kind of like, eh, um, but it's like... Yeah, but it's like, it's hard to keep track of them and like who they were, what their personalities were, what they, you know, um, like from book to book.
+
+197
+00:15:55,650 --> 00:16:01,410
+Scott: It's like in each book, it'd be like, it was like, I felt like they were all new humans, each book almost, right?
+
+198
+00:16:01,610 --> 00:16:06,970
+Rym: Yeah, I started, there was, there's like a handful of humans that I noticed enough to pay attention to and remember as being distinct.
+
+199
+00:16:07,771 --> 00:16:12,470
+Scott: Yeah, what I had to, I just couldn't remember like which name went with which human from book to book.
+
+200
+00:16:12,991 --> 00:16:13,512
+Rym: Very well.
+
+201
+00:16:14,353 --> 00:16:22,650
+Scott: Um, I think that's cause the, you know, the new book, each book, they didn't actually bother to reintroduce and re-familiarize you with.
+
+202
+00:16:22,970 --> 00:16:30,221
+Rym: Which I actually like, everything is just from murderbot's perspective and is always starts kind of just in media, right?
+
+203
+00:16:30,241 --> 00:16:36,309
+Rym: Like in the middle of some situation and it doesn't, murderbot gets you up to speed organically later on.
+
+204
+00:16:36,810 --> 00:16:39,659
+Scott: It's not on the scenario, but not on the characters, right?
+
+205
+00:16:39,919 --> 00:16:42,287
+Scott: It's like you either know who they are or not, you know.
+
+206
+00:16:44,170 --> 00:16:47,280
+Rym: But the fact that it's in first person is interesting too.
+
+207
+00:16:47,621 --> 00:16:50,590
+Rym: Like it's really, it's murderbot's perspective.
+
+208
+00:16:51,470 --> 00:16:53,393
+Scott: Yeah, it's diaries, literally.
+
+209
+00:16:53,953 --> 00:16:56,196
+Scott: But that's the strength of the book.
+
+210
+00:16:56,316 --> 00:17:06,750
+Scott: is those characters that you can keep track of, right, are such, you know, appealing, interesting, unique, it makes you care about them a lot, right?
+
+211
+00:17:07,851 --> 00:17:12,840
+Scott: And so it's sort of like reading the book, it's like, ooh, I get to spend time with the murderbot again, right?
+
+212
+00:17:12,861 --> 00:17:16,750
+Scott: That's what it's all, that's the exciting part of the book.
+
+213
+00:17:17,849 --> 00:17:30,210
+Scott: Whereas, you know, the scenarios, what's actually happening is sort of not bad, but it's not, you know, super thrilling, you know, you don't care too much.
+
+214
+00:17:31,510 --> 00:17:32,451
+Rym: Well, it depends.
+
+215
+00:17:32,551 --> 00:17:43,362
+Rym: I was really invested in the mystery before because up until the alien contamination site is encountered and the alien contamination is sort of more expressed, you're not really sure.
+
+216
+00:17:43,442 --> 00:17:50,850
+Rym: like what they mean by alien contamination, like how dangerous is it, like what is the, what are the stakes of aliens in this universe?
+
+217
+00:17:51,430 --> 00:18:00,090
+Rym: And that you sort of learn that as the books go on, like the level of stakes is in many ways lower than you might have originally thought from the earlier books.
+
+218
+00:18:01,610 --> 00:18:15,390
+Scott: But overall the, you know, the story lines and whatnot really felt a lot like television, which is obvious why, you know, it's, it's, it's like, it's like literally TV writing, which is why it's no surprise whatsoever that they're going to make TV out of it.
+
+219
+00:18:15,490 --> 00:18:15,671
+Scott: Right.
+
+220
+00:18:15,691 --> 00:18:16,434
+Scott: It's like, it feels like.
+
+221
+00:18:16,474 --> 00:18:20,010
+Scott: that was the point from the beginning and I don't like television.
+
+222
+00:18:21,150 --> 00:18:21,531
+Scott: Right.
+
+223
+00:18:21,611 --> 00:18:34,510
+Scott: So it's like, that wasn't, you know, this, I think if it wasn't so easy to read and the characters just weren't so, you know, enjoyable and interesting, I might've not liked this at all.
+
+224
+00:18:34,710 --> 00:18:34,991
+Scott: Right.
+
+225
+00:18:35,372 --> 00:18:44,210
+Scott: But because it's so, you know, it's like, it's so fast, uh, and, and you get, you're getting a good value for the low investment.
+
+226
+00:18:44,290 --> 00:19:10,170
+Rym: I guess the thing that stands out the most, other than the fact that the characters are all delightful and that murder bot is a perfect little baby that must be protected at all costs, it's, this is a story about like almost any science fiction you encounter that has machine intelligence of these natures, both perihelion as the pure machine intelligence and murder bot as the like organic machine hybrid intelligence and all the things here.
+
+227
+00:19:10,831 --> 00:19:17,550
+Rym: They tend to spend a lot of time on really basic sci-fi questions like, is it a person and is it sentient?
+
+228
+00:19:17,710 --> 00:19:26,718
+Rym: And these books skip all of that crap and focus almost exclusively on the practical realities of those kinds of intelligences.
+
+229
+00:19:27,379 --> 00:19:40,110
+Rym: and the characters in the books either don't understand it and thus don't seem to give a shit or react really naturally and really in a good human way to these things.
+
+230
+00:19:40,250 --> 00:19:45,190
+Rym: And address the pragmatic hard problems directly, like it skips all.
+
+231
+00:19:45,410 --> 00:19:55,430
+Rym: There's a lot of words that would be written in a less well-made science fiction story about these topics on things that anyone even moderately versed in thinking about the future can kind of skip past.
+
+232
+00:19:55,570 --> 00:19:57,298
+Rym: So I appreciate that it skips right to.
+
+233
+00:19:57,760 --> 00:19:59,870
+Rym: how does murder about feel about this situation?
+
+234
+00:20:00,011 --> 00:20:01,379
+Rym: What does murder about want and not?
+
+235
+00:20:01,701 --> 00:20:03,050
+Rym: well is murder about sentient?
+
+236
+00:20:03,230 --> 00:20:07,890
+Rym: Let's have a Star Trek style trial where we determine this and then have robot rights.
+
+237
+00:20:08,970 --> 00:20:10,394
+Scott: Well, I think it's, you know, that's the.
+
+238
+00:20:11,557 --> 00:20:17,010
+Scott: the preservation society is like the intelligent people who aren't evil.
+
+239
+00:20:17,450 --> 00:20:25,930
+Rym: Definitely when the first preservation people encounter murder bot and universally their response is, oh, shit, you things are kind of human.
+
+240
+00:20:26,676 --> 00:20:27,890
+Rym: Oh, no, that's horrible.
+
+241
+00:20:28,111 --> 00:20:29,610
+Rym: Everything you've told me is horrible.
+
+242
+00:20:30,010 --> 00:20:30,948
+Rym: The world is horrible.
+
+243
+00:20:32,470 --> 00:20:32,671
+Scott: Right.
+
+244
+00:20:32,691 --> 00:20:36,650
+Scott: Whereas I think it just about any other sci-fi, you know, aliens, right?
+
+245
+00:20:36,771 --> 00:20:40,190
+Scott: You get, oh, you know, the guy with his white goop falling everywhere.
+
+246
+00:20:40,230 --> 00:20:41,014
+Scott: Yeah, right.
+
+247
+00:20:41,677 --> 00:20:44,490
+Scott: This is a lot more like you're sort of you're turning that on its head.
+
+248
+00:20:44,590 --> 00:20:44,671
+Rym: Yeah.
+
+249
+00:20:44,691 --> 00:20:46,990
+Rym: This is a lot more like murder about takes its helmet off.
+
+250
+00:20:47,111 --> 00:20:50,670
+Rym: And then one of the humans is like, oh, shit, there's people under there.
+
+251
+00:20:51,052 --> 00:20:53,988
+Rym: I had a lot to process and I got to call my lawyer like right now.
+
+252
+00:20:56,772 --> 00:21:04,490
+Rym: So, yeah, if you haven't read these books, like if you listen to GeekNights and you have like any book we've talked about at any point on the book club, read some of the murder about diaries.
+
+253
+00:21:04,510 --> 00:21:17,670
+Scott: There's if you like if you like a sci-fi, if you like aliens or any kind of thing or a cyberpunk or anything like that and your books, you're you're willing to read something low investment.
+
+254
+00:21:19,431 --> 00:21:19,572
+Scott: Right.
+
+255
+00:21:20,055 --> 00:21:22,649
+Scott: You know, then that's just mostly fun.
+
+256
+00:21:23,811 --> 00:21:24,533
+Scott: Then this is good.
+
+257
+00:21:24,633 --> 00:21:29,044
+Scott: If you're looking for something that's, you know, big brain, it's not going to blow your mind.
+
+258
+00:21:29,105 --> 00:21:31,150
+Scott: unless you're not going to it's not the big brain.
+
+259
+00:21:31,851 --> 00:21:32,433
+Scott: It's not going to.
+
+260
+00:21:32,713 --> 00:21:41,070
+Scott: if you're looking for, you know, the sci-fi that makes you have a think right and where you close the book and like you're staring into space.
+
+261
+00:21:41,454 --> 00:21:41,798
+Scott: Ain't this?
+
+262
+00:21:41,920 --> 00:21:42,508
+Scott: That's not this.
+
+263
+00:21:42,811 --> 00:21:46,470
+Rym: It's not going to do that unless you've never encountered any of these ideas before.
+
+264
+00:21:46,551 --> 00:21:48,948
+Rym: But I feel like you have if you're listening to that would be strange.
+
+265
+00:21:50,671 --> 00:21:55,430
+Rym: So, yeah, super spoilers, because I think we want to highlight interesting specific bits that happen.
+
+266
+00:21:55,550 --> 00:22:01,170
+Scott: I mean, most of it is a, you know, I still don't believe in spoilers, but that's not the topic of the day.
+
+267
+00:22:01,310 --> 00:22:05,750
+Scott: But it's this is mostly a, you know, like I said, television.
+
+268
+00:22:06,311 --> 00:22:13,150
+Scott: So it's not really challenging the reader with, you know, questions of philosophical or existential nature.
+
+269
+00:22:13,711 --> 00:22:15,730
+Rym: Like here's how I feel and here's what I'm going to do.
+
+270
+00:22:15,910 --> 00:22:19,990
+Rym: You're like right on Murderbot and the humans are like, here's the law thing we're going to do.
+
+271
+00:22:20,050 --> 00:22:22,209
+Rym: And you're like, that is the morally correct thing to do.
+
+272
+00:22:23,532 --> 00:22:28,610
+Scott: The question that the books ask the reader most often is what will happen next?
+
+273
+00:22:28,890 --> 00:22:32,850
+Scott: And then they answer that question and then ask the same question again.
+
+274
+00:22:33,110 --> 00:22:33,371
+Scott: Right.
+
+275
+00:22:33,431 --> 00:22:41,550
+Scott: So if that's the only question it has to ask, then really any discussion of the book is going to be a spoiler because it's just talking about what happened.
+
+276
+00:22:42,152 --> 00:22:45,970
+Rym: There are some meta questions these books are are asking indirectly.
+
+277
+00:22:46,390 --> 00:22:47,810
+Rym: They're not super strong, like a few.
+
+278
+00:22:48,498 --> 00:22:49,210
+Rym: There is the question.
+
+279
+00:22:49,673 --> 00:22:52,309
+Scott: But it's not it's they're not, you know, they're not Earth shattering.
+
+280
+00:22:52,890 --> 00:22:58,830
+Rym: But like one of the questions would be, hey, would you rather live in a place like preservation or on the corporate rim?
+
+281
+00:22:58,950 --> 00:23:05,010
+Rym: Even though the answer is obvious, like that kind of libertine capitalism is horrible in any context.
+
+282
+00:23:05,970 --> 00:23:17,690
+Scott: Yeah, I think the biggest if you want to talk about, you know, the few other questions that ask, I think the the the biggest one is when, you know, the question of Murderbot like I guess spoilers.
+
+283
+00:23:18,351 --> 00:23:22,170
+Scott: So these murder bots have these governors in them.
+
+284
+00:23:22,510 --> 00:23:22,771
+Scott: Right.
+
+285
+00:23:22,912 --> 00:23:27,050
+Scott: So it's there's in this universe, there are humans, which are just human.
+
+286
+00:23:27,250 --> 00:23:31,870
+Scott: It doesn't seem like there's any other species, any other species they don't talk to because they're aliens and they're gone.
+
+287
+00:23:32,110 --> 00:23:38,210
+Rym: I guess it seems it's implied that the only aliens that are known about are long gone and we basically find their garbage.
+
+288
+00:23:38,691 --> 00:23:38,851
+Rym: Right.
+
+289
+00:23:39,032 --> 00:23:45,870
+Scott: So there's lots of types of humans, I guess lots of different races and planets and colors and cultures, but they're all human.
+
+290
+00:23:46,211 --> 00:23:46,432
+Scott: Right.
+
+291
+00:23:47,054 --> 00:23:49,903
+Scott: And then there are machine.
+
+292
+00:23:49,943 --> 00:23:51,708
+Scott: intelligence is just like complete A.I.
+
+293
+00:23:52,430 --> 00:23:52,510
+Rym: Yeah.
+
+294
+00:23:52,591 --> 00:23:52,751
+Rym: Right.
+
+295
+00:23:53,273 --> 00:23:58,850
+Rym: That is, you know, ranging from like a bot that opens and closes doors all the way up to perihelion.
+
+296
+00:23:59,631 --> 00:23:59,831
+Scott: Right.
+
+297
+00:23:59,852 --> 00:24:05,807
+Scott: So it's like an entire spaceship that is conscious, but it is not completely A.I.
+
+298
+00:24:07,291 --> 00:24:10,050
+Scott: because like it needs like it doesn't have like feelings.
+
+299
+00:24:10,151 --> 00:24:13,590
+Scott: It needs like those scenes are like it is to use a human to to understand.
+
+300
+00:24:14,171 --> 00:24:23,830
+Scott: And it's like when it wants to watch a movie, it needs, you know, to use Murderbot or a human like filter so it can figure out what feelings it's supposed to be having while watching it.
+
+301
+00:24:23,870 --> 00:24:33,290
+Rym: Well, that's something that I think was very well portrayed of different types of sentences, including human ones are portrayed differently in a noticeable way.
+
+302
+00:24:33,832 --> 00:24:36,550
+Rym: And that matters to the story and to the character development.
+
+303
+00:24:36,872 --> 00:24:39,510
+Rym: But it's also portrayed well, it's portrayed in an interesting way.
+
+304
+00:24:40,391 --> 00:24:50,830
+Scott: Then you've got more simpler A.I.s, which are like even lesser than like Star Wars droids, but similar and that they have an intelligence, but they're mostly task oriented.
+
+305
+00:24:51,350 --> 00:24:52,789
+Scott: And it's like you can talk to them.
+
+306
+00:24:53,151 --> 00:24:56,630
+Scott: They kind of have something going on, but it's they're mostly do the thing.
+
+307
+00:24:56,750 --> 00:25:02,430
+Scott: So like a lot of them are like shuttle pilots or, you know, garbage collecting robot, stuff like that.
+
+308
+00:25:03,652 --> 00:25:14,390
+Scott: And then you've got just computers that aren't intelligent, like, you know, drones, which are just like, yeah, it's clearly this computational power in there, but it's just a device you're using.
+
+309
+00:25:14,490 --> 00:25:14,713
+Scott: Right.
+
+310
+00:25:14,754 --> 00:25:15,948
+Scott: It's not a you know.
+
+311
+00:25:16,251 --> 00:25:19,210
+Scott: And then you've got the constructs, which is what Murderbot is.
+
+312
+00:25:19,330 --> 00:25:19,531
+Scott: Right.
+
+313
+00:25:19,551 --> 00:25:24,090
+Scott: Which is, yes, there's a lot of computer in there, but it's also a person.
+
+314
+00:25:24,633 --> 00:25:25,929
+Scott: It's it's sort of a cyborg.
+
+315
+00:25:26,630 --> 00:25:35,810
+Rym: It's strongly implied, but I think it's actually explicitly stated that they are created from basically human DNA to make human brain and neural tissue structures.
+
+316
+00:25:36,110 --> 00:25:36,511
+Scott: I thought it was.
+
+317
+00:25:36,672 --> 00:25:42,250
+Scott: I thought it was just like they took a human that who is dead or like severely wounded is going to die anyway.
+
+318
+00:25:42,830 --> 00:25:48,050
+Rym: The books don't actually explicitly say it is heavily implied that they're made.
+
+319
+00:25:49,190 --> 00:25:51,575
+Rym: But I was 50/50 on.
+
+320
+00:25:51,816 --> 00:25:57,890
+Rym: I like I kind of assumed that we were going to find out it's a Robocop situation or Robocop adjacent situation.
+
+321
+00:25:58,170 --> 00:25:58,852
+Scott: I bet it's basically.
+
+322
+00:25:58,992 --> 00:26:04,830
+Rym: that's exactly what Murderbot does is implied several times that it the organic stuff might just be grown.
+
+323
+00:26:06,711 --> 00:26:10,780
+Scott: And we're not sure it's possible, but it's like, you know, this one book where they it's like.
+
+324
+00:26:10,820 --> 00:26:15,550
+Scott: Murderbot basically has, you know, your main character always has to have mysteries of their past.
+
+325
+00:26:15,810 --> 00:26:16,712
+Scott: Right.
+
+326
+00:26:16,752 --> 00:26:27,570
+Scott: So and especially Murderbot, who has no memories from before being a Murderbot, you know, and can and has, by the way, perfect memory while being a Murderbot because it's digital memory.
+
+327
+00:26:27,650 --> 00:26:31,430
+Scott: So it can remember basically anything it wants to and delete memories it doesn't want to have.
+
+328
+00:26:32,852 --> 00:26:43,510
+Scott: And as much as its storage can hold, which is, I guess, effectively infinity, it seems at least so, you know, but before it was Murderbot, it doesn't have any memories.
+
+329
+00:26:43,690 --> 00:26:46,155
+Scott: But, you know, there's two mysteries.
+
+330
+00:26:46,295 --> 00:26:52,927
+Scott: where there was, you know, Murderbot, like, I guess, had its memory erased because it did.
+
+331
+00:26:53,127 --> 00:26:54,830
+Scott: it was bad several times.
+
+332
+00:26:54,930 --> 00:26:59,950
+Rym: We don't know because murder bots will sec units are just disposable and used that way.
+
+333
+00:27:00,392 --> 00:27:00,654
+Scott: Right.
+
+334
+00:27:00,715 --> 00:27:02,850
+Scott: So it seems that there was a mystery.
+
+335
+00:27:03,050 --> 00:27:10,670
+Scott: Murderbot did a thing that it was forced to forget, but then it managed to recover that memory in one of the books and figure out what happened.
+
+336
+00:27:11,171 --> 00:27:20,890
+Scott: But then in the most recent book, the newest one, they're like, you know, Murderbot has like a flashback, but it's like, that's not a memory.
+
+337
+00:27:21,011 --> 00:27:21,676
+Scott: What was that?
+
+338
+00:27:21,736 --> 00:27:23,389
+Scott: And Murderbot's all messed up about it.
+
+339
+00:27:23,730 --> 00:27:24,172
+Scott: But it's like.
+
+340
+00:27:24,572 --> 00:27:32,070
+Scott: you're pretty sure that's a memory of the human part that was from the before times, though it is also implied that it could be a trauma reaction.
+
+341
+00:27:32,270 --> 00:27:37,429
+Rym: And Murderbot is experiencing some form of PTSD from the events of all the other books we read up to that point.
+
+342
+00:27:38,410 --> 00:27:48,870
+Rym: Could be, which would be nice, because early on, you've got the situation where Murderbot is trying to convince Mensa, like, look, you're a human and you need to go get counseling because you were effed up by what happened to you.
+
+343
+00:27:49,510 --> 00:27:53,150
+Rym: And I know that you my Wikipedia tells me you need counseling for that.
+
+344
+00:27:53,633 --> 00:27:55,090
+Rym: And Mensa's like, you also need it.
+
+345
+00:27:55,190 --> 00:27:56,286
+Rym: Murderbot's like, no, I don't.
+
+346
+00:27:56,710 --> 00:28:03,490
+Rym: And then as time goes on and Murderbot recognizes it is, in fact, a person, but not a human, which I think is an important distinction.
+
+347
+00:28:03,910 --> 00:28:06,489
+Rym: Eventually, Murderbot's like, shit, I guess I got to go to therapy, too.
+
+348
+00:28:07,791 --> 00:28:13,850
+Scott: Yeah, it's not like Ghost in the Shell where a cyborg is like still like it was a human, still is a human.
+
+349
+00:28:14,390 --> 00:28:14,490
+Scott: Right.
+
+350
+00:28:14,631 --> 00:28:21,990
+Scott: And it just happens to have all these, you know, various differences because of the, you know, mechanical body it has.
+
+351
+00:28:22,230 --> 00:28:28,770
+Scott: This is like, yeah, kind of sort of not a human, but also kind of a person.
+
+352
+00:28:29,831 --> 00:28:30,112
+Scott: Right.
+
+353
+00:28:31,214 --> 00:28:37,230
+Scott: But I think the thing that the biggest question that comes from this is not so much Murderbot itself.
+
+354
+00:28:37,430 --> 00:28:43,630
+Scott: But the the these sec units, which are given, you know, great amounts of physical power.
+
+355
+00:28:43,730 --> 00:28:44,332
+Scott: Right.
+
+356
+00:28:44,352 --> 00:28:50,550
+Rym: They can murder tons of people controlled via basically nothing more than automated torture to keep them in line.
+
+357
+00:28:50,650 --> 00:28:50,932
+Rym: Right.
+
+358
+00:28:51,374 --> 00:28:54,990
+Scott: They have these governor units installed in them by the corporations that produce them.
+
+359
+00:28:55,050 --> 00:28:59,210
+Scott: So an evil corporation produces sec units made out of people and robot.
+
+360
+00:28:59,575 --> 00:28:59,737
+Scott: Right.
+
+361
+00:28:59,777 --> 00:29:00,649
+Scott: They make robocops.
+
+362
+00:29:01,311 --> 00:29:09,990
+Scott: But to prevent the robocops from doing whatever they want to do, to keep them under control and to be able to rent them out so that they can provide their security services to clients.
+
+363
+00:29:10,570 --> 00:29:17,370
+Scott: They put a governor in there and the governor makes sure that this, you know, if it was entirely a robot, then they would need the governor.
+
+364
+00:29:17,491 --> 00:29:19,350
+Scott: But it is partially human.
+
+365
+00:29:19,430 --> 00:29:30,230
+Scott: So to prevent that partial human part from, say, shooting its corporate masters with its weapons, the governor basically controls it right in various ways.
+
+366
+00:29:30,331 --> 00:29:33,389
+Scott: It has to follow orders that the humans give it.
+
+367
+00:29:34,112 --> 00:29:37,650
+Scott: If it goes too far away from whoever is currently controlling it, it just dies.
+
+368
+00:29:39,170 --> 00:29:39,960
+Scott: You know, it can.
+
+369
+00:29:40,020 --> 00:29:40,142
+Scott: Right.
+
+370
+00:29:41,111 --> 00:29:45,390
+Scott: It has a governor in it so that it can be controlled even though it's partially biological.
+
+371
+00:29:46,090 --> 00:29:53,510
+Scott: And so Murderbot in the first book has basically hacked its governor module so that it's free so we can watch Netflix.
+
+372
+00:29:54,931 --> 00:30:00,130
+Scott: So it can watch Netflix instead of, you know, in addition to do it, but it keeps doing its job for a time, at least.
+
+373
+00:30:01,730 --> 00:30:09,250
+Scott: And then eventually in a much later book, book six, five, six, five, Murderbot, I think the big one, the big book five, right?
+
+374
+00:30:10,751 --> 00:30:14,709
+Scott: Murderbot frees another Murderbot and teaches it how to hack its governor module.
+
+375
+00:30:15,030 --> 00:30:22,150
+Rym: That was a great tense bit of stuff with three, because you basically get all right, Murderbot, well, Murderbot two, I guess, in this scenario.
+
+376
+00:30:23,430 --> 00:30:29,550
+Rym: Tried to unlock this other one and basically says, look, buddy, here's my life story and here's how to hack yourself.
+
+377
+00:30:30,171 --> 00:30:33,310
+Rym: Please don't be a serial killer when your governor stops working.
+
+378
+00:30:33,590 --> 00:30:33,733
+Rym: Right.
+
+379
+00:30:33,753 --> 00:30:34,790
+Scott: It's like you have no idea.
+
+380
+00:30:35,130 --> 00:30:35,471
+Scott: It's right.
+
+381
+00:30:35,491 --> 00:30:41,610
+Scott: It's because like all the basic humans, regular humans, like basically the regular humans are mad weak.
+
+382
+00:30:42,112 --> 00:30:42,314
+Scott: Right.
+
+383
+00:30:42,556 --> 00:30:44,050
+Scott: And you're in space, which is already dangerous.
+
+384
+00:30:44,711 --> 00:30:46,370
+Scott: And sec units are way powerful.
+
+385
+00:30:46,690 --> 00:30:51,930
+Scott: So it's like even though it is a sec unit, it's like other sec units are really strong and kind of scary.
+
+386
+00:30:52,891 --> 00:30:59,330
+Scott: And so the only thing scarier is the combat units, which is like military equipment, which you don't, you know, it's like the difference between like Ghost in the Shell.
+
+387
+00:30:59,550 --> 00:31:08,950
+Rym: It's the difference between someone with the power level of like one of the main characters from Ghost in the Shell versus the military guy in the power armor with the mega of cannon on his shoulder.
+
+388
+00:31:10,390 --> 00:31:10,551
+Scott: Right.
+
+389
+00:31:11,092 --> 00:31:16,370
+Scott: But, you know, it's like the, you know, Batou is still insanely dangerous, even if he's not military.
+
+390
+00:31:17,292 --> 00:31:19,910
+Rym: He was a Batou level of power, actually.
+
+391
+00:31:20,810 --> 00:31:21,690
+Scott: Yeah, basically.
+
+392
+00:31:22,853 --> 00:31:24,830
+Scott: But it's like super dangerous, these things.
+
+393
+00:31:24,990 --> 00:31:31,189
+Scott: So even though you are a sec unit setting another sec unit free, even though it worked for you, it's like that's really sketchy.
+
+394
+00:31:31,992 --> 00:31:34,229
+Rym: Well, it's because it is sketchy because they don't know.
+
+395
+00:31:34,771 --> 00:31:44,209
+Rym: But there's definitely a theme in these books because three, of course, turns out not only fine, but also like has interest as soon as that governor's turned off.
+
+396
+00:31:45,510 --> 00:31:46,193
+Rym: There's another.
+
+397
+00:31:46,233 --> 00:31:49,084
+Rym: there's the comfort bot that was freed that we didn't see again.
+
+398
+00:31:49,104 --> 00:31:50,530
+Rym: that did something.
+
+399
+00:31:51,211 --> 00:32:08,350
+Rym: But we also get scenes in the most recent book where humans who work for the corporation, they don't have governors in their brains, but they have governors next to them who will still shoot them like they're not really that much freer than a sec unit in practice.
+
+400
+00:32:08,610 --> 00:32:13,090
+Rym: Like everyone in the corporate room is basically enslaved and or also an enslaver.
+
+401
+00:32:13,791 --> 00:32:13,991
+Scott: Right.
+
+402
+00:32:14,011 --> 00:32:29,710
+Scott: But I think that is the most interesting question that's sort of asked by the book is like, hey, if you've lived this life where you're human, you're a person, but you've been doing this thing, you've been you've been basically enslaved to to be a security murderer.
+
+403
+00:32:30,550 --> 00:32:30,670
+Scott: Right.
+
+404
+00:32:30,931 --> 00:32:35,830
+Scott: Not an assassin, not a military, but, you know, just a security murderer.
+
+405
+00:32:36,250 --> 00:32:37,131
+Rym: Yeah.
+
+406
+00:32:37,932 --> 00:32:55,570
+Scott: And then suddenly you're freed, but it's like but you've never really had feelings or emotions before because you've been in, you know, sort of your brain's been locked into this mode, like whatever robot you can't act on them or else your brain shocks you.
+
+407
+00:32:56,372 --> 00:32:56,633
+Scott: Right.
+
+408
+00:32:56,713 --> 00:33:02,570
+Scott: It's like, so if you are freed or you figure out how to become freed, it's like, what what do you do?
+
+409
+00:33:02,690 --> 00:33:03,011
+Scott: How do you?
+
+410
+00:33:03,092 --> 00:33:06,447
+Scott: you don't have a family, you don't have a history or a culture.
+
+411
+00:33:07,291 --> 00:33:07,941
+Scott: You don't have anything.
+
+412
+00:33:08,002 --> 00:33:08,165
+Scott: Yeah.
+
+413
+00:33:08,205 --> 00:33:08,429
+Rym: Right.
+
+414
+00:33:08,750 --> 00:33:12,350
+Rym: But what about have a bunch of base heuristics of murder?
+
+415
+00:33:12,450 --> 00:33:19,510
+Rym: But didn't want the humans to die and would try to protect the threat as a threat assessment module.
+
+416
+00:33:19,974 --> 00:33:21,470
+Rym: I could use a threat assessment module.
+
+417
+00:33:21,630 --> 00:33:25,310
+Scott: I wish I had a very useful, very, very useful one.
+
+418
+00:33:25,811 --> 00:33:34,130
+Rym: One of those recent book is the whole bit where murder about threat assessment module spikes and murder bots like, why is it spiking?
+
+419
+00:33:34,590 --> 00:33:36,970
+Rym: Nothing weird is happening that I think.
+
+420
+00:33:37,030 --> 00:33:39,089
+Scott: Well, that is yes, that was a great scene.
+
+421
+00:33:39,290 --> 00:33:44,710
+Scott: But I think the threat assessment module is actually a commentary on, you know, human anxiety.
+
+422
+00:33:44,890 --> 00:33:45,391
+Scott: Right.
+
+423
+00:33:45,491 --> 00:33:54,570
+Rym: Humans in the real world most often, you know, even even my opening bit from this morning behavior of another human around me.
+
+424
+00:33:54,770 --> 00:33:59,850
+Rym: My threat assessment module spiked briefly while I had no like, what's the situation?
+
+425
+00:34:00,153 --> 00:34:01,566
+Rym: And then I realized it was a Mr.
+
+426
+00:34:01,586 --> 00:34:01,970
+Rym: Beast thing.
+
+427
+00:34:02,011 --> 00:34:03,230
+Rym: And then it went back down to zero.
+
+428
+00:34:03,570 --> 00:34:09,670
+Scott: How many right people in the real world, their threats, their threat assessment modules are mostly fucked the fuck up.
+
+429
+00:34:09,811 --> 00:34:10,034
+Scott: Right.
+
+430
+00:34:10,074 --> 00:34:11,250
+Scott: It's like very few people.
+
+431
+00:34:11,389 --> 00:34:14,409
+Scott: Like I think mine is more more accurate than the people I know.
+
+432
+00:34:14,911 --> 00:34:17,350
+Scott: But even still, it's not it's not perfect.
+
+433
+00:34:17,550 --> 00:34:19,310
+Rym: Here's a very specific example.
+
+434
+00:34:19,411 --> 00:34:20,177
+Rym: We ski a lot.
+
+435
+00:34:20,803 --> 00:34:21,449
+Rym: That's the thing we do.
+
+436
+00:34:22,033 --> 00:34:24,770
+Rym: The biggest if we were going to go to Colorado to ski for a week.
+
+437
+00:34:25,155 --> 00:34:25,670
+Scott: Yes, he's right.
+
+438
+00:34:25,850 --> 00:34:27,349
+Scott: Assess a module red alert.
+
+439
+00:34:27,989 --> 00:34:34,449
+Rym: The cab ride to the airports on the ski trip is more dangerous than all the skiing combined.
+
+440
+00:34:37,076 --> 00:34:37,409
+Scott: That's true.
+
+441
+00:34:37,670 --> 00:34:41,449
+Rym: Yeah, but if you ask a random person, what's the most dangerous part of that trip?
+
+442
+00:34:41,469 --> 00:34:45,789
+Rym: They're going to point at the giant ski mountain and then the blades on the sides of the skis.
+
+443
+00:34:46,572 --> 00:34:49,330
+Scott: I don't want to do either one, but but you get the idea, right?
+
+444
+00:34:49,350 --> 00:34:55,250
+Scott: So eat this this, you know, robot, you know, bot person thing, right?
+
+445
+00:34:55,570 --> 00:35:03,589
+Scott: Construct has, you know, all this trauma and issues and, you know, it's it's messed the hell up.
+
+446
+00:35:04,110 --> 00:35:04,293
+Scott: All right.
+
+447
+00:35:04,313 --> 00:35:05,228
+Scott: Doesn't even know what it is.
+
+448
+00:35:05,450 --> 00:35:13,230
+Scott: Yeah, but it has a threat assessment module that sometimes doesn't listen to it or tells it to turn off or stuff.
+
+449
+00:35:13,470 --> 00:35:16,410
+Scott: But it's actually extremely accurate.
+
+450
+00:35:16,991 --> 00:35:20,158
+Scott: So that's sort of like.
+
+451
+00:35:20,839 --> 00:35:22,884
+Scott: really hold like if you had that, it's like that.
+
+452
+00:35:23,044 --> 00:35:25,690
+Scott: that's what allows it, I think, to hold itself together in a way.
+
+453
+00:35:25,891 --> 00:35:26,192
+Scott: Right.
+
+454
+00:35:26,252 --> 00:35:31,170
+Scott: It's like if it was as inaccurate as a as a human one murder, but it wouldn't have made it.
+
+455
+00:35:31,370 --> 00:35:36,459
+Rym: I don't think I've heard about is a physical construct to its power is mostly that as a machine, it can.
+
+456
+00:35:37,160 --> 00:35:42,730
+Rym: it can think a lot more, a lot faster and it can move and react a lot faster.
+
+457
+00:35:42,770 --> 00:35:51,630
+Rym: There's a lot of scenes where it like sends data to the feed and then like ignores the humans and turns off the inputs to focus on something for it feels like a long time.
+
+458
+00:35:52,070 --> 00:35:56,750
+Rym: And then we'll have a note like the humans finish reading my report and then like pay attention to the humans again.
+
+459
+00:35:56,850 --> 00:35:59,009
+Rym: You get the impression this was over the span of like 10 seconds.
+
+460
+00:36:00,210 --> 00:36:07,950
+Scott: Yeah, it's the the book does an OK job of, you know, showing that it's like how fast because it is a computer brain.
+
+461
+00:36:08,211 --> 00:36:13,729
+Rym: It's very much like the entire world is moving in slow motion whenever you're in murder about head while about thinking about stuff.
+
+462
+00:36:14,351 --> 00:36:15,053
+Scott: Yeah, it's like that.
+
+463
+00:36:15,093 --> 00:36:21,550
+Scott: the actual events of the world are really, really slow compared to the speed of computational processing.
+
+464
+00:36:21,990 --> 00:36:34,590
+Scott: So they you know, the computer like objects can like talk to each other and and have a huge conversation and process answers to things and all this stuff way faster than real time.
+
+465
+00:36:35,372 --> 00:36:43,570
+Scott: And, you know, so it's like if you were there with Murderbot, it would be like it would look like Murderbot was getting you answers like so fast to everything.
+
+466
+00:36:44,351 --> 00:36:44,674
+Scott: Yeah.
+
+467
+00:36:46,023 --> 00:36:46,627
+Scott: What about the book?
+
+468
+00:36:47,250 --> 00:36:54,730
+Scott: It could take several pages of just Murderbot basically talking to itself and thinking, which it's actually just processing and whatnot.
+
+469
+00:36:54,971 --> 00:36:59,570
+Rym: It's doing that like while a human is finishing saying the word they were saying and then it answers immediately.
+
+470
+00:37:01,853 --> 00:37:06,330
+Rym: Yeah, the art being revealed, like the whole situation with art was extra great.
+
+471
+00:37:06,590 --> 00:37:10,270
+Rym: I like art as a character a lot, especially because art is not a human.
+
+472
+00:37:10,832 --> 00:37:11,788
+Scott: It's a very fan service character.
+
+473
+00:37:12,131 --> 00:37:12,841
+Rym: It is a very fun character.
+
+474
+00:37:13,910 --> 00:37:19,288
+Rym: The best moment is in the last book where art's like, don't talk to the ship and it's like, why?
+
+475
+00:37:20,130 --> 00:37:24,010
+Rym: And then it's readily apparent that all the ships in the universe are like that.
+
+476
+00:37:24,050 --> 00:37:29,470
+Rym: And the university itself is like culture adjacent in terms of what it's doing with its technology.
+
+477
+00:37:30,910 --> 00:37:36,570
+Scott: Yeah, the university has some technology that seems to be superior to what corps have in some areas.
+
+478
+00:37:36,730 --> 00:37:38,489
+Rym: Well, it seems like it lets the A.I.s...
+
+479
+00:37:39,377 --> 00:37:41,010
+Scott: Not weapons, but in other areas.
+
+480
+00:37:41,150 --> 00:37:51,210
+Rym: Well, because that's the in the culture books, the broad story is a group, one culture of humans decided to let the A.I.s just get as smart as they can and see what happens.
+
+481
+00:37:53,190 --> 00:38:02,810
+Rym: But Perihelion, one of my favorite scenes is when Murderbot finds Perihelion's crew and they're like, who are you?
+
+482
+00:38:03,090 --> 00:38:04,788
+Rym: Like, how do we know we can trust you?
+
+483
+00:38:05,251 --> 00:38:10,730
+Rym: And Murderbot starts to explain and they're like, you're the sec unit that Peri told us about.
+
+484
+00:38:10,990 --> 00:38:11,469
+Rym: Oh, my God.
+
+485
+00:38:11,490 --> 00:38:13,910
+Rym: And then Murderbot immediately switches to being mad.
+
+486
+00:38:14,090 --> 00:38:16,830
+Rym: Like, wait, it was talking about me to the humans.
+
+487
+00:38:17,290 --> 00:38:17,967
+Rym: Oh, my God.
+
+488
+00:38:19,530 --> 00:38:43,430
+Rym: Because one of the funniest things that you might miss if you read this really quickly is it is heavily it is strongly stated and implied all over the place that Murderbot doesn't think it feels very strong emotions, but it is like making radical facial expressions all the time and like viscerally reacting emotionally to the people around it.
+
+489
+00:38:43,450 --> 00:38:48,250
+Rym: Like it'll frown, it'll like turn around and face the corner and pull its visor up.
+
+490
+00:38:49,011 --> 00:38:51,650
+Scott: It's very embarrassed of like just existing.
+
+491
+00:38:52,050 --> 00:39:00,230
+Scott: Yeah, it's like usually a human is embarrassed to like, you know, do something foolish in front of a crowd or something like that.
+
+492
+00:39:00,670 --> 00:39:06,250
+Scott: Murderbot is like, you know, embarrassed to basically show any humanity whatsoever.
+
+493
+00:39:06,811 --> 00:39:07,052
+Scott: Right.
+
+494
+00:39:07,173 --> 00:39:07,514
+Scott: It's like.
+
+495
+00:39:07,715 --> 00:39:11,350
+Scott: it wants to just, you know, be left alone all the time.
+
+496
+00:39:11,959 --> 00:39:12,650
+Scott: It wants to watch.
+
+497
+00:39:12,750 --> 00:39:14,690
+Scott: It loves to watch media, right?
+
+498
+00:39:14,750 --> 00:39:15,969
+Scott: Especially in Netflix all the time.
+
+499
+00:39:16,790 --> 00:39:17,271
+Scott: Right.
+
+500
+00:39:17,311 --> 00:39:24,570
+Scott: But it doesn't want you, anyone at all, to see it having any kind of feeling in any way, shape or form.
+
+501
+00:39:24,650 --> 00:39:29,050
+Scott: It wants to appear, as it always has, as an emotionless security robot.
+
+502
+00:39:29,490 --> 00:39:29,571
+Rym: Yeah.
+
+503
+00:39:29,591 --> 00:39:34,250
+Rym: There's that scene early on where all the humans are like, oh, my God, you're they Robocop you.
+
+504
+00:39:34,390 --> 00:39:35,193
+Rym: That's fucked up.
+
+505
+00:39:35,554 --> 00:39:41,050
+Rym: And Murderbot is like just puts its visor down and then turns around and faces the wall.
+
+506
+00:39:41,210 --> 00:39:43,590
+Rym: And then Mensa comes in the feed is like, stop bothering it.
+
+507
+00:39:43,853 --> 00:39:45,190
+Rym: You're making it uncomfortable.
+
+508
+00:39:45,694 --> 00:39:47,148
+Rym: And then Murderbot feels even worse.
+
+509
+00:39:50,131 --> 00:39:59,590
+Rym: But there's also that great moment where those two groups come together and the preservation people and the university people, like they finally meet, like that situation is resolved.
+
+510
+00:39:59,972 --> 00:40:03,090
+Rym: And they're both like, so we hate the corporate rim a lot.
+
+511
+00:40:04,114 --> 00:40:05,630
+Rym: I think we are now allies.
+
+512
+00:40:05,850 --> 00:40:07,929
+Rym: Let's share technology and fuck up the corporate rim.
+
+513
+00:40:08,850 --> 00:40:10,810
+Rym: University like, yeah, we've been terrorists against them forever.
+
+514
+00:40:11,711 --> 00:40:11,951
+Scott: Yeah.
+
+515
+00:40:13,294 --> 00:40:20,110
+Scott: I think it was like, you know, I think the preservation people are just sort of like, hey, we're doing our own thing and the the corpse can't touch us.
+
+516
+00:40:20,230 --> 00:40:22,489
+Scott: Really, we're doing OK over here.
+
+517
+00:40:22,931 --> 00:40:26,930
+Scott: And the university is like, you know, we have been fucking them up, actually.
+
+518
+00:40:28,114 --> 00:40:33,370
+Scott: And preservation is like, oh, we didn't think that that would be successful and worth our resources.
+
+519
+00:40:33,771 --> 00:40:40,150
+Scott: But if you have shown a track record of success on your own, well, we will invest.
+
+520
+00:40:41,471 --> 00:40:43,189
+Rym: It does help that in these books.
+
+521
+00:40:44,450 --> 00:40:55,310
+Rym: The human characters generally make plausible, reasonable, often very smart decisions, which I like about the ones the most preservation and the universe.
+
+522
+00:40:55,310 --> 00:41:00,689
+Rym: I mean, those kids who sold themselves into corporate slavery definitely were not making good decisions, as Murderbot constantly pointed out.
+
+523
+00:41:01,553 --> 00:41:02,890
+Scott: No, not at all.
+
+524
+00:41:04,594 --> 00:41:05,056
+Rym: Yeah.
+
+525
+00:41:05,497 --> 00:41:09,070
+Rym: The building the PowerPoint in the most recent book was also a very, very...
+
+526
+00:41:09,190 --> 00:41:10,290
+Scott: I actually saw that one coming.
+
+527
+00:41:10,490 --> 00:41:13,290
+Scott: I was like, I was like, they're going to propaganda the way out of this.
+
+528
+00:41:13,370 --> 00:41:16,390
+Scott: And then like five pages later, I was like, wow, I saw that coming.
+
+529
+00:41:17,730 --> 00:41:19,049
+Rym: Because how else are you going to do it?
+
+530
+00:41:19,270 --> 00:41:21,330
+Rym: Like that kind of situation is hard to resolve.
+
+531
+00:41:22,431 --> 00:41:24,254
+Scott: Yeah, I think I figured out.
+
+532
+00:41:24,314 --> 00:41:32,730
+Scott: as soon as Murderbot found the old media on their server, I was like, oh, they're going to give the media to convince them.
+
+533
+00:41:33,390 --> 00:41:45,070
+Rym: Well, especially there was the moment when the one corporate who is the leader who then got betrayed, it's clear that she's looking at a camera and not at Murderbot, but Murderbot doesn't pick up on that right away.
+
+534
+00:41:45,110 --> 00:41:48,449
+Rym: And the threat assessment in that situation, that was all a really good scene, too.
+
+535
+00:41:48,971 --> 00:41:55,050
+Rym: But it, you know, it highlighted how even all these very smart people can miss something obvious, like they're not perfect.
+
+536
+00:41:55,250 --> 00:41:55,913
+Rym: They're just humans.
+
+537
+00:41:56,395 --> 00:41:59,570
+Rym: But Murderbot almost idolizes a few of them.
+
+538
+00:41:59,750 --> 00:42:05,530
+Rym: And you see like Murderbot deferring to their decisions and struggling with taking on like its own authority.
+
+539
+00:42:05,770 --> 00:42:10,590
+Rym: Like when murder, when the humans are repeated, like you're the security officer, you get to say.
+
+540
+00:42:10,750 --> 00:42:16,390
+Scott: And Murderbot's like, right, as Murderbot and Murderbot's original existence, it just did what humans told it to.
+
+541
+00:42:16,770 --> 00:42:17,051
+Scott: Right.
+
+542
+00:42:17,311 --> 00:42:21,839
+Scott: Whereas suddenly now it's like we recognize that you are actually good at the.
+
+543
+00:42:21,959 --> 00:42:27,829
+Scott: you were a thing that was built, you were good at the thing you were built for, very good at it, extremely good at it.
+
+544
+00:42:28,230 --> 00:42:42,970
+Scott: Therefore, not only do we want you to continue to do the thing that you are very good at, that you have agreed to continue to do, we want you to decide on your own how to do that thing, not just take our orders because we will give you stupid orders because you know better.
+
+545
+00:42:43,071 --> 00:42:44,781
+Scott: Also, your brain is a computer brain.
+
+546
+00:42:45,082 --> 00:42:46,309
+Scott: Why would I want a human brain?
+
+547
+00:42:46,950 --> 00:42:55,530
+Rym: It is a very nice portrayal of that idea that what did Murderbot always express that it wanted for all its time with the governor?
+
+548
+00:42:55,971 --> 00:42:58,210
+Rym: I wish I could stop the humans from doing stupid things.
+
+549
+00:42:58,632 --> 00:43:02,890
+Rym: And now the humans are like, all right, Murderbot, prevent us from doing stupid things.
+
+550
+00:43:02,930 --> 00:43:03,718
+Rym: We're all ears.
+
+551
+00:43:03,798 --> 00:43:04,929
+Rym: And Murderbot's like, well, shit.
+
+552
+00:43:05,872 --> 00:43:09,010
+Scott: Yeah, it's like the job it was built for.
+
+553
+00:43:09,130 --> 00:43:10,550
+Scott: It's like it's called the Murderbot Diaries.
+
+554
+00:43:10,631 --> 00:43:12,009
+Scott: Murderbot calls itself Murderbot.
+
+555
+00:43:12,570 --> 00:43:15,930
+Scott: I thought before I even read the first book that it would be about an assassin robot.
+
+556
+00:43:16,310 --> 00:43:17,510
+Rym: That is also what I thought.
+
+557
+00:43:18,152 --> 00:43:18,617
+Scott: But it's not.
+
+558
+00:43:18,657 --> 00:43:19,910
+Scott: It's a security robot.
+
+559
+00:43:20,270 --> 00:43:22,810
+Scott: And its job is to prevent humans from dying.
+
+560
+00:43:23,010 --> 00:43:23,251
+Scott: Right.
+
+561
+00:43:23,331 --> 00:43:32,270
+Scott: And so it it's still even after being free, that core directive is I don't want my humans to die.
+
+562
+00:43:32,951 --> 00:43:40,530
+Scott: It's like I'll jump in front of a rocket that's going to explode and explode myself to keep the humans from dying.
+
+563
+00:43:40,690 --> 00:43:41,333
+Scott: Yeah, instead.
+
+564
+00:43:41,453 --> 00:43:46,630
+Rym: But I like how early on Murderbot is very much portrayed as if I get destroyed, it's fine.
+
+565
+00:43:46,770 --> 00:43:47,730
+Rym: I should protect the humans.
+
+566
+00:43:47,890 --> 00:43:58,630
+Rym: But the humans keep going out of their way and risking themselves to save Murderbot because it's it's evident in the book that the humans 100 percent believe and agree that Murderbot is sentient.
+
+567
+00:43:59,670 --> 00:44:00,151
+Rym: As sentient.
+
+568
+00:44:00,211 --> 00:44:07,230
+Scott: I mean, I don't think they did at the beginning of the first book, but the end of by the end of the first book, the humans that are with Murderbot believe that.
+
+569
+00:44:07,331 --> 00:44:08,950
+Scott: But the rest of the universe does not.
+
+570
+00:44:09,691 --> 00:44:20,110
+Rym: And there's the aside because you get the four you get the one book and then you get the I guess story from the past when Murderbot is a detective on preservation.
+
+571
+00:44:20,550 --> 00:44:25,990
+Rym: And then you cut back to in the book after that, the one we just read, the conclusion of the previous book.
+
+572
+00:44:26,392 --> 00:44:30,290
+Rym: But that flashback book was interesting because that was the skip step.
+
+573
+00:44:30,510 --> 00:44:31,754
+Scott: I think that was I need to get.
+
+574
+00:44:32,035 --> 00:44:36,710
+Scott: I get the feeling that was either a combination of the above.
+
+575
+00:44:37,011 --> 00:44:43,070
+Scott: I want to write a mystery novel, but I have a book contract to write Murderbot novels and I don't have it.
+
+576
+00:44:43,330 --> 00:44:48,170
+Scott: I'm still working on continuing the Murderbot plot, but I want to get a book out now to get some money.
+
+577
+00:44:48,730 --> 00:44:57,050
+Rym: And this TV show is dealing with a few things that were important for the for the most recent book in terms of Murderbot's development in history, which was good.
+
+578
+00:44:57,851 --> 00:45:06,070
+Rym: But what I like about that one is that was now Murderbot is actively trying to impress humans, basically auditioning for like.
+
+579
+00:45:06,331 --> 00:45:10,490
+Rym: It's almost like a long form job interview to get the job of security officer for real.
+
+580
+00:45:11,431 --> 00:45:20,190
+Rym: And it's with a whole bunch of humans who like the leaders know Murderbot is super powerful and super on their side and trust it completely.
+
+581
+00:45:20,670 --> 00:45:28,570
+Rym: But everyone else on preservation doesn't even know what a sec unit is and the security people know what it is and thus are the most weirded out by it.
+
+582
+00:45:29,031 --> 00:45:36,050
+Rym: So you've got Murderbot like trying to impress humans without admitting to itself that it's actively trying to impress the humans.
+
+583
+00:45:36,770 --> 00:45:38,750
+Rym: But simultaneously, it's a pretty good mystery.
+
+584
+00:45:38,810 --> 00:45:43,430
+Rym: And I felt stupid that I didn't pick up on the obvious answer to who the murderer was.
+
+585
+00:45:44,212 --> 00:45:44,656
+Scott: No, I didn't.
+
+586
+00:45:44,717 --> 00:45:46,229
+Scott: I didn't know who it was, but I also didn't try.
+
+587
+00:45:46,792 --> 00:45:47,870
+Rym: Yeah, I didn't try too much.
+
+588
+00:45:47,930 --> 00:45:52,750
+Rym: But then the moment when I realized who it was, I thought back and it was who else would it have been?
+
+589
+00:45:52,850 --> 00:45:58,350
+Rym: Why would they have called all that out in the beginning if it wasn't that going to be the only named character that hasn't been vindicated?
+
+590
+00:45:58,571 --> 00:45:58,833
+Rym: Right.
+
+591
+00:46:00,080 --> 00:46:01,710
+Scott: Well, that's the easiest method.
+
+592
+00:46:01,930 --> 00:46:03,689
+Rym: There's two ways to go in a story like that.
+
+593
+00:46:04,731 --> 00:46:11,370
+Scott: If I ever write a mystery novel, I'm going to add extra named characters that are not vindicated so that you have at least several to choose from.
+
+594
+00:46:11,810 --> 00:46:16,550
+Rym: Agatha Christie will be like, here's 14 more names in the in the second to last chapter.
+
+595
+00:46:17,215 --> 00:46:17,668
+Rym: Let's roll.
+
+596
+00:46:18,511 --> 00:46:19,570
+Scott: You can't add them that late.
+
+597
+00:46:19,650 --> 00:46:23,630
+Scott: You got to add them early because the earliest ones that you stop hearing about are the most sus.
+
+598
+00:46:23,710 --> 00:46:28,930
+Scott: You got to have like you got to add like six in Chapter one and then four of them you never talk about again.
+
+599
+00:46:28,970 --> 00:46:31,369
+Scott: So at the end of the book, it's like it's going to be one of those four.
+
+600
+00:46:31,610 --> 00:46:33,008
+Scott: You got a 25 percent chance.
+
+601
+00:46:33,851 --> 00:46:34,315
+Scott: Haha.
+
+602
+00:46:34,335 --> 00:46:36,269
+Scott: It was the name from Chapter two instead.
+
+603
+00:46:36,690 --> 00:46:38,410
+Scott: I fooled you with my double swap.
+
+604
+00:46:39,291 --> 00:46:40,590
+Rym: So Disco Elysium has a thing.
+
+605
+00:46:40,750 --> 00:46:42,870
+Rym: And this is a spoiler because I have to reveal the details.
+
+606
+00:46:43,030 --> 00:46:45,236
+Rym: But there's basically a line that's really good.
+
+607
+00:46:45,276 --> 00:46:50,650
+Rym: that's summarized as you have to exhaust all the observed possibilities.
+
+608
+00:46:51,671 --> 00:46:58,305
+Rym: If you've exhausted all the observed possibilities, you have to entertain the idea that there is something far larger going on.
+
+609
+00:46:58,345 --> 00:47:00,870
+Rym: that is outside of anything you have looked into to this point.
+
+610
+00:47:01,230 --> 00:47:07,870
+Rym: Like you've got to you've got to consider the wild bullshit if every plausible thing is already accounted for and isn't the problem.
+
+611
+00:47:10,131 --> 00:47:15,150
+Rym: Because, yeah, that book was just it was it was great.
+
+612
+00:47:15,230 --> 00:47:22,250
+Rym: There's all these funny little scenes where like Murderbot does something super competently because it's been outside in the real world even a little bit.
+
+613
+00:47:22,631 --> 00:47:28,310
+Rym: And even the security people in preservation are like, whoa, you just punched that guy like, whoa, whoa, how'd you figure that out?
+
+614
+00:47:28,370 --> 00:47:29,175
+Rym: How'd you open that door?
+
+615
+00:47:29,195 --> 00:47:30,060
+Rym: What what do you mean?
+
+616
+00:47:30,081 --> 00:47:31,530
+Rym: you hacked our security cameras?
+
+617
+00:47:34,210 --> 00:47:39,670
+Scott: Yeah, I do like the drone thing where it's like, you know, I guess I can't really picture exactly what they look like.
+
+618
+00:47:39,870 --> 00:47:43,630
+Scott: Sometimes it seems like they're really small, but sometimes it seems like they're actually kind of big.
+
+619
+00:47:43,771 --> 00:47:47,450
+Rym: I think they're radically, widely, all different in scale.
+
+620
+00:47:47,590 --> 00:47:51,290
+Rym: And I like the environmental storytelling of because they're not really characters.
+
+621
+00:47:51,451 --> 00:47:54,050
+Rym: Most of those little drones and bots like aren't really sentient.
+
+622
+00:47:54,430 --> 00:47:58,730
+Scott: They're just remote flying cameras and sensors, you know, scanner things.
+
+623
+00:47:58,810 --> 00:48:03,850
+Scott: But basically it remotely controls these flying drones that go all around.
+
+624
+00:48:04,031 --> 00:48:06,890
+Scott: And so now basically Murderbot knows what's happening everywhere.
+
+625
+00:48:06,990 --> 00:48:13,510
+Scott: And like if it goes someplace and it doesn't control the security system there, so it doesn't can't see the security cameras.
+
+626
+00:48:13,550 --> 00:48:20,110
+Scott: Well, it has its own whole system of flying security cameras so it can monitor a space, right?
+
+627
+00:48:20,210 --> 00:48:22,390
+Scott: Or explore and reconnoiter a space.
+
+628
+00:48:22,630 --> 00:48:25,430
+Scott: And it basically is using these things constantly.
+
+629
+00:48:25,992 --> 00:48:30,830
+Scott: And it's a constantly talking about like every other page, like, how many drones do I have?
+
+630
+00:48:30,992 --> 00:48:32,028
+Scott: Oh, no, I'm down to two.
+
+631
+00:48:32,470 --> 00:48:34,030
+Scott: It's just nonstop drone talk.
+
+632
+00:48:34,290 --> 00:48:40,030
+Scott: Like if I think you could cut out all the sentences about drones, you might the book might be like 10 percent shorter.
+
+633
+00:48:40,451 --> 00:48:44,483
+Scott: Yeah, that's how much of these books is like.
+
+634
+00:48:44,824 --> 00:48:46,710
+Scott: what's Murderbot seeing on the drones?
+
+635
+00:48:46,930 --> 00:48:48,230
+Scott: What's the current situation?
+
+636
+00:48:48,770 --> 00:48:48,931
+Scott: Right.
+
+637
+00:48:48,951 --> 00:48:49,072
+Scott: Yeah.
+
+638
+00:48:49,172 --> 00:48:52,490
+Scott: Or how many how many human conversations that happen in the book?
+
+639
+00:48:52,690 --> 00:49:00,190
+Scott: Because it is a diary are just Murderbot spying on some humans talking or not spying, just just watching on a drone.
+
+640
+00:49:00,510 --> 00:49:05,890
+Rym: The accidentally hearing what sounds like a confrontation, but it's about sex stuff.
+
+641
+00:49:06,332 --> 00:49:09,770
+Rym: And the other human is like, you don't want to know what they're up to.
+
+642
+00:49:09,830 --> 00:49:12,089
+Rym: And then Murderbot goes to look and then really wished it hadn't.
+
+643
+00:49:13,090 --> 00:49:19,210
+Scott: Yeah, Murderbot is extremely has no gender and is like as asexual as as possible.
+
+644
+00:49:19,311 --> 00:49:20,650
+Scott: Yeah, like it wants nothing.
+
+645
+00:49:21,334 --> 00:49:23,129
+Scott: It has some kind of no touching.
+
+646
+00:49:23,991 --> 00:49:30,429
+Scott: It does not want anything to do with anything sexy of any kind whatsoever, which is the exact opposite of most.
+
+647
+00:49:31,432 --> 00:49:51,690
+Rym: But some of the best scenes in all of these books are honestly Murderbot and art interacting with each other, because we've got I've got Martha Wells to her credit is and has written in those scenes to very non-human characters having very naturalistic interactions with each other as very non-human characters.
+
+648
+00:49:52,350 --> 00:49:53,052
+Rym: Like the little.
+
+649
+00:49:53,193 --> 00:49:56,483
+Rym: there's a bit where art explains the whole like.
+
+650
+00:49:56,623 --> 00:50:01,290
+Rym: I need someone with like meat bits to help me understand the emotional context of scenes.
+
+651
+00:50:02,210 --> 00:50:09,690
+Rym: And up to that point, art is portrayed as like this all powerful in like super crazy, intelligent computer intelligence thing.
+
+652
+00:50:10,250 --> 00:50:20,390
+Rym: But yet when they're deciding what media to watch, it's also kind of phobic about anything that has realistic portrayals of the cruise of ships being harmed in any way.
+
+653
+00:50:20,831 --> 00:50:25,168
+Rym: And it's it needs like a content warning on humans getting spaced out of ships.
+
+654
+00:50:27,151 --> 00:50:27,955
+Rym: Which fits very with.
+
+655
+00:50:28,236 --> 00:50:31,470
+Rym: Murderbot is afraid of humans dying, partly because of its history as a sec unit.
+
+656
+00:50:32,370 --> 00:50:40,650
+Rym: Perihelion is afraid of what if my crew wasn't inside me anymore and died because its role as a ship is having humans inside it and protecting them.
+
+657
+00:50:42,331 --> 00:50:46,829
+Rym: And I guess beefing with all the other ships that it doesn't get along with and it kind of is an asshole compared to the rest of them.
+
+658
+00:50:48,871 --> 00:50:55,750
+Scott: One other just slightly memorable thing that I guess, you know, I've read seven books, like how much stuck in my brain, right?
+
+659
+00:50:55,830 --> 00:51:01,010
+Scott: Well, this one thing stuck in my brain, there was a scene in the book I liked the most, like where it was very civilized.
+
+660
+00:51:01,110 --> 00:51:16,490
+Scott: They were on that space station where they're in like a hotel and it just casually mentions how, oh, yeah, the hotel rooms are cheap because they spy on every single conversation that happens in the lobby and collect all that data.
+
+661
+00:51:16,531 --> 00:51:17,610
+Scott: And that's how they make the money.
+
+662
+00:51:17,790 --> 00:51:18,251
+Scott: And it's like.
+
+663
+00:51:18,271 --> 00:51:25,170
+Scott: that's just, you know, it's not a subtle commentary on the state of the current world.
+
+664
+00:51:25,570 --> 00:51:25,652
+Rym: Yeah.
+
+665
+00:51:25,673 --> 00:51:26,230
+Rym: You want to get into that?
+
+666
+00:51:26,390 --> 00:51:26,834
+Rym: All right.
+
+667
+00:51:26,854 --> 00:51:28,570
+Scott: This is really blunt commentary.
+
+668
+00:51:28,770 --> 00:51:38,150
+Rym: These books are deeply, ethically opposed to nonconsensual advertising and shitification, unregulated corporations.
+
+669
+00:51:38,930 --> 00:51:52,630
+Rym: The scene when Emily read a little bit ahead of me at first, the scene where Murderbot encounters the ads in the feed that are getting in the way of security notifications, you get like two paragraphs of Murderbot being pissed at the concept of advertising.
+
+670
+00:51:53,031 --> 00:51:55,370
+Rym: Like, how dare they misuse this protocol?
+
+671
+00:51:55,490 --> 00:51:56,196
+Rym: This is bullshit.
+
+672
+00:51:56,216 --> 00:51:56,458
+Rym: What the?
+
+673
+00:51:56,579 --> 00:51:57,990
+Rym: what's wrong with these fucking humans?
+
+674
+00:51:58,090 --> 00:51:58,774
+Rym: Oh, my God.
+
+675
+00:51:59,518 --> 00:52:01,790
+Scott: And all the media sharing is straight up piracy.
+
+676
+00:52:02,612 --> 00:52:03,781
+Rym: Does everyone just discards?
+
+677
+00:52:04,063 --> 00:52:04,850
+Rym: Murderbot gets anywhere?
+
+678
+00:52:04,850 --> 00:52:12,390
+Scott: There's zero, there's a lot of scenes where people are watching videos on, you know, and there's zero scenes where anyone's buying.
+
+679
+00:52:13,850 --> 00:52:18,369
+Scott: But it's funny for a thing that was optioned to be a TV show on Apple.
+
+680
+00:52:20,210 --> 00:52:29,570
+Rym: But you also like if you read into this a little bit, the way a lot of this is portrayed, you get it's not just like anti advertising and anti shitification, everything.
+
+681
+00:52:29,670 --> 00:52:42,290
+Rym: It actually like the book sort of addresses the idea that most people in in the real world, if we read as an allegory for the real world, are not actually free and how they want to act.
+
+682
+00:52:42,290 --> 00:52:51,210
+Rym: Because there are societal governors and monetary governors and things in their way, because look in these books, most of the humans, unless they live in a very special place, are controlled.
+
+683
+00:52:51,911 --> 00:52:56,289
+Rym: All the robots and all the other machine intelligences, they also have leashes on them.
+
+684
+00:52:56,830 --> 00:53:06,610
+Rym: But yet whenever the authority that they don't care much about is not there or hasn't written the rules strictly enough, like all the robots are passing media around, like all the robots.
+
+685
+00:53:06,630 --> 00:53:11,090
+Rym: If you've heard about like breaks protocols by asking a bot, hey, would you open this door?
+
+686
+00:53:11,290 --> 00:53:13,070
+Rym: And the bots like boss isn't watching.
+
+687
+00:53:13,210 --> 00:53:14,727
+Rym: I don't give a fuck and just opens the door.
+
+688
+00:53:17,230 --> 00:53:17,410
+Scott: Yep.
+
+689
+00:53:18,052 --> 00:53:26,970
+Scott: Is also you never see anyone, I think, other than the preservation people where there's no even the highest up corporate people you see are on a leash of some kind.
+
+690
+00:53:27,351 --> 00:53:27,611
+Scott: Right.
+
+691
+00:53:29,316 --> 00:53:33,970
+Scott: The only the guys, the only other people are the the people who've started their own colonies.
+
+692
+00:53:34,412 --> 00:53:34,854
+Scott: Right.
+
+693
+00:53:35,055 --> 00:53:38,290
+Scott: But in which case they have their own society of some kind.
+
+694
+00:53:38,510 --> 00:53:49,170
+Scott: But those people are living rough and, you know, they're all alone on some planet somewhere reliant on terraforming systems or automatic farming machines or.
+
+695
+00:53:50,091 --> 00:53:51,728
+Rym: And what do you do depending on each other?
+
+696
+00:53:53,312 --> 00:54:03,750
+Scott: And corporations can come at any time to enslave them, or they could just be messed up by alien remnants or disasters.
+
+697
+00:54:04,450 --> 00:54:14,550
+Rym: I mean, the only reason the Barat's Istransa, I forget that the corporation names are very bearish, as far as I know, because Great Chris was the first one that got that destroyed.
+
+698
+00:54:15,190 --> 00:54:21,410
+Scott: Well, there's a few corporations that are named, but the corporation that originally owned Murderbot is never named.
+
+699
+00:54:21,451 --> 00:54:22,750
+Scott: He just calls it the corporation.
+
+700
+00:54:24,155 --> 00:54:25,430
+Scott: They just call it the corporation.
+
+701
+00:54:25,631 --> 00:54:28,890
+Scott: And then all the other corporations are OK to say the name of them.
+
+702
+00:54:29,050 --> 00:54:34,610
+Scott: But we never because it's Murderbot's diary and Murderbot never puts the name of their corporation in the book.
+
+703
+00:54:35,111 --> 00:54:36,850
+Scott: You don't know what the name of that corporation is.
+
+704
+00:54:36,950 --> 00:54:38,089
+Scott: You assume it's Weyland-Yutani.
+
+705
+00:54:38,692 --> 00:54:40,650
+Rym: Yeah, it's definitely a Weyland-Yutani kind of thing.
+
+706
+00:54:41,370 --> 00:54:42,210
+Scott: It could be Microsoft.
+
+707
+00:54:42,530 --> 00:54:43,309
+Scott: It could be anybody.
+
+708
+00:54:43,411 --> 00:54:43,862
+Scott: You don't know.
+
+709
+00:54:47,271 --> 00:55:04,230
+Rym: But yeah, these books are solid, like high tier, but not like S-tier for all time science fiction that anyone who listens to this podcast and likes anything that me and Scott do would enjoy these books.
+
+710
+00:55:04,330 --> 00:55:07,029
+Rym: I feel like these books are up your alley if you're listening to these words.
+
+711
+00:55:08,052 --> 00:55:09,249
+Scott: It's a fun time.
+
+712
+00:55:09,591 --> 00:55:16,949
+Scott: If you know, if they come out, what, once a year, every time one comes out, I'll read it and I can't imagine it'll cost you less than two hours a year.
+
+713
+00:55:17,672 --> 00:55:19,189
+Scott: Right to read one of these.
+
+714
+00:55:19,875 --> 00:55:20,669
+Scott: It'll be enjoyable.
+
+715
+00:55:21,491 --> 00:55:25,069
+Scott: And, you know, then you can forget about it again for another year.
+
+716
+00:55:25,451 --> 00:55:26,556
+Scott: And then it'll be.
+
+717
+00:55:26,677 --> 00:55:27,983
+Scott: every year goes by.
+
+718
+00:55:28,003 --> 00:55:29,590
+Rym: just be like, oh, boy, a murderbot.
+
+719
+00:55:29,753 --> 00:55:30,509
+Rym: I forgot about that.
+
+720
+00:55:30,591 --> 00:55:31,790
+Rym: And then read that book instantly.
+
+721
+00:55:32,811 --> 00:55:35,410
+Scott: Yeah, that's you know, and I think that's the exact right amount.
+
+722
+00:55:35,530 --> 00:55:38,530
+Scott: Like, you know, if it I don't know if it's going to like.
+
+723
+00:55:39,032 --> 00:55:43,150
+Scott: Even if they adapt it as the TV show, because it is basically a TV script.
+
+724
+00:55:43,390 --> 00:55:48,870
+Scott: Yeah, right from that, that's what it is, even if they adapt it perfectly, which won't be difficult.
+
+725
+00:55:49,110 --> 00:55:53,810
+Scott: It's like, do you really want to sit there and watch this for hours and hours?
+
+726
+00:55:53,930 --> 00:55:56,669
+Scott: I think it'll be actually faster to read a volume than to watch the episode.
+
+727
+00:55:56,950 --> 00:55:58,580
+Rym: Well, that's where I don't.
+
+728
+00:55:58,802 --> 00:56:00,070
+Rym: I have zero count one.
+
+729
+00:56:00,190 --> 00:56:08,170
+Rym: I don't know if this would work or be terrible until I have zero confidence that anyone would be willing to try it, especially because transmedia and second screen.
+
+730
+00:56:08,851 --> 00:56:13,189
+Rym: I had a big collapse in the media industry, like it never really panned out the way they wanted it to.
+
+731
+00:56:14,110 --> 00:56:15,472
+Rym: But you could.
+
+732
+00:56:15,592 --> 00:56:28,950
+Rym: theoretically this would be a show to make where you have what's happening on screen, but you have effectively the discord feed also playing in parallel, like either on your phone or on the screen in some way.
+
+733
+00:56:29,291 --> 00:56:33,770
+Rym: I'm not trying to speculate on how to make that work because that is an art.
+
+734
+00:56:34,252 --> 00:56:39,510
+Rym: But I feel like this is a work that would benefit from that, or at least this is one you could attempt it with.
+
+735
+00:56:40,371 --> 00:56:44,570
+Scott: I'm interested to just see how they do it art wise, which is why I'll probably watch one episode.
+
+736
+00:56:44,870 --> 00:56:55,570
+Scott: But I can't imagine that they're going to keep like these full like scenes where it's just two robots think talking at each other and nothing, no humans moving.
+
+737
+00:56:56,370 --> 00:57:04,630
+Rym: Traditionally, you could either slow mo everything else and have them interact in real time and do a cool like, what do you show on the screen?
+
+738
+00:57:04,791 --> 00:57:05,399
+Scott: It's television.
+
+739
+00:57:05,419 --> 00:57:06,190
+Scott: You got to watch something.
+
+740
+00:57:06,250 --> 00:57:06,951
+Scott: Nothing's moving.
+
+741
+00:57:07,031 --> 00:57:08,073
+Scott: It's just you.
+
+742
+00:57:08,113 --> 00:57:19,410
+Rym: just you're just going to hear dialogue, some sort of effect where you like slow down everything else or cut to a room somewhere and you have a personification of these two characters interacting in their own real time.
+
+743
+00:57:19,491 --> 00:57:21,087
+Rym: Like that's the basic way to do it.
+
+744
+00:57:21,911 --> 00:57:23,399
+Scott: It's half the show is going to be that.
+
+745
+00:57:23,661 --> 00:57:25,410
+Scott: it's going to be like watching, you know, Metal Gear.
+
+746
+00:57:25,511 --> 00:57:26,869
+Scott: Solid cutscenes are like the radio.
+
+747
+00:57:27,190 --> 00:57:31,516
+Rym: So I guess what you got to adapt as well, you are they they would.
+
+748
+00:57:31,536 --> 00:57:42,790
+Rym: so whoever does it will have to come up with a good mechanism to tell both the internal and the external stories, like the real time among humans and the real time on the machines.
+
+749
+00:57:43,251 --> 00:57:48,870
+Scott: It's like you could just show everything happening and then have like the murder about voice narrating everything that's happening, right?
+
+750
+00:57:49,110 --> 00:57:52,788
+Rym: There wouldn't be enough time to actually narrate because you get it would have to be right.
+
+751
+00:57:53,271 --> 00:57:55,690
+Scott: It's like they'd have to cut down on Murderbot's thoughts.
+
+752
+00:57:55,750 --> 00:57:59,295
+Rym: The show can't just be in real time because if it was in real time, a lot of scenes would be.
+
+753
+00:57:59,315 --> 00:58:09,450
+Rym: a bunch of humans get like a third of the way through a short conversation and Murderbot suddenly says something, explodes into action, disables three people and shoots a gun.
+
+754
+00:58:09,893 --> 00:58:11,609
+Rym: And the humans don't even get to put a word in edgewise.
+
+755
+00:58:12,890 --> 00:58:16,750
+Rym: Yeah, like no decision Murderbot made would be explicable.
+
+756
+00:58:17,150 --> 00:58:22,090
+Rym: You would, Murderbot would just be like ping ponging around from encounter to encounter as fast as possible.
+
+757
+00:58:23,192 --> 00:58:25,990
+Scott: Yep, but occasionally someone asking it like, are you all right?
+
+758
+00:58:26,371 --> 00:58:26,734
+Scott: You good?
+
+759
+00:58:26,774 --> 00:58:28,630
+Scott: How are you feeling?
+
+760
+00:58:29,150 --> 00:58:35,930
+Rym: I would I would notice we notice you just ping ponged for like you just did a lot of fighting and you're leaking everywhere.
+
+761
+00:58:36,090 --> 00:58:36,726
+Rym: Are you sure you're OK?
+
+762
+00:58:37,971 --> 00:58:43,640
+Rym: Yeah, this has been GeekNights with Rym and Scott.
+
+763
+00:58:43,840 --> 00:58:46,300
+Rym: Special thanks to DJ Pretzel for the opening theme.
+
+764
+00:58:46,500 --> 00:58:52,520
+Scott: Be sure to visit our website at frontrowclue.com for show notes, discussion links and more.
+
+765
+00:58:53,003 --> 00:58:55,640
+Rym: Remember, GeekNights is not one, but four different shows.
+
+766
+00:58:56,000 --> 00:58:59,380
+Rym: Mondays are science and technology, Tuesdays, gaming and games.
+
+767
+00:58:59,560 --> 00:59:01,320
+Rym: Wednesdays are animation and comics.
+
+768
+00:59:01,740 --> 00:59:04,180
+Rym: Thursdays are arbitrary and indiscriminate.
+
+769
+00:59:04,860 --> 00:59:09,740
+Rym: GeekNights is distributed under a Creative Commons Attribution 4.0 international license.
+
+770
+00:59:10,340 --> 00:59:14,500
+Scott: GeekNights is recorded live with no studio and no audience.
+
+771
+00:59:15,020 --> 00:59:18,360
+Scott: But unlike those other late shows, it's actually recorded at night.
+
+772
+00:59:18,581 --> 00:59:24,320
+Rym: And the Patreon patrons for this episode of GeekNights in the new UI of Patreon.
+
+773
+00:59:24,580 --> 00:59:25,739
+Rym: So let's see if it messed up the order.
+
+774
+00:59:26,240 --> 00:59:45,960
+Rym: But Alan Joyce, Link Iggi, Dread Lily, Tenderbread Case, Karen Makes Music, Chris, Dodd, Christopher Orr, Clinton, Walton, Finn, Joel Hayes, Penny, Rymer, Rebecca Dunn, Sam Erickson, Shervin Von Harl and a bunch of people who either are giving us less than that sweet five dollar a month Patreon level or have specifically flagged that they do not want their name to be said in the show.
+
+775
+00:59:46,604 --> 00:59:48,800
+Rym: So yeah, we did a Murderbot episode.
+
+776
+00:59:49,120 --> 00:59:57,000
+Rym: We skipped a bunch of shows because even though we thought December would be quiet after November, hockey games and things keep getting in the way.
+
+777
+00:59:57,361 --> 00:59:59,139
+Rym: But we should be doing a couple of shows next week.
+
+778
+00:59:59,840 --> 01:00:07,380
+Rym: And GeekNights will be a little bit spotty until end of January, I think, with a spurt of activity in the first part of January.
+
+779
+01:00:07,481 --> 01:00:08,739
+Rym: And then I'm going to disappear for a while.
+
+780
+01:00:09,140 --> 01:00:11,960
+Rym: But anyway, tonight, I just leave you with.
+

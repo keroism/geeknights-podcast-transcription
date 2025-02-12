@@ -1,0 +1,3788 @@
+﻿1
+00:00:08,300 --> 00:00:09,969
+Speaker 0: It's Monday, May 6th, 2024.
+
+2
+00:00:09,969 --> 00:00:10,230
+Speaker 0: I'm Rym.
+
+3
+00:00:13,205 --> 00:00:13,720
+Speaker 1: I'm Scott.
+
+4
+00:00:13,920 --> 00:00:15,446
+Speaker 0: And this is Geek Nights Tonight.
+
+5
+00:00:15,466 --> 00:00:19,038
+Speaker 0: We are talking about when technology has failed us.
+
+6
+00:00:19,880 --> 00:00:20,878
+Speaker 1: Let's do this.
+
+7
+00:00:21,701 --> 00:00:24,000
+Speaker 0: So last year was really, it was a good year, a good summer.
+
+8
+00:00:24,681 --> 00:00:29,500
+Speaker 0: But one thing Emily and I didn't get to do as much as we had planned on was bike.
+
+9
+00:00:29,720 --> 00:00:33,379
+Speaker 0: We biked a lot, but we didn't bike as much as we wanted to.
+
+10
+00:00:34,140 --> 00:00:39,300
+Speaker 0: And we could have biked more if we worked hard toward doing it, but we didn't.
+
+11
+00:00:39,420 --> 00:00:40,360
+Speaker 0: We did other stuff instead.
+
+12
+00:00:40,900 --> 00:00:46,420
+Speaker 0: So I remember at the end of last biking season, we made a vow, this summer, this season, we're going to bike a lot.
+
+13
+00:00:47,180 --> 00:00:54,520
+Speaker 0: So we've now, over the weekend, we did our second real bike ride because we wanted to get started as early as possible, even though it's still pretty cold.
+
+14
+00:00:55,504 --> 00:00:56,760
+Speaker 1: You could have gone in like February.
+
+15
+00:00:56,920 --> 00:00:59,640
+Speaker 1: You know, when I did the, what's it called?
+
+16
+00:01:00,201 --> 00:01:01,977
+Speaker 1: The bike sig thing, right?
+
+17
+00:01:02,320 --> 00:01:05,917
+Speaker 1: It's like, yeah, they fucking start in like February or March, right?
+
+18
+00:01:06,158 --> 00:01:06,660
+Speaker 0: It was cold.
+
+19
+00:01:07,100 --> 00:01:08,300
+Speaker 0: I could run in the winter.
+
+20
+00:01:08,781 --> 00:01:14,120
+Speaker 0: I see people running in the winter outside and I wish them well.
+
+21
+00:01:14,621 --> 00:01:15,813
+Speaker 0: I'm glad they do that.
+
+22
+00:01:16,014 --> 00:01:16,559
+Speaker 0: Good for them.
+
+23
+00:01:17,945 --> 00:01:19,419
+Speaker 0: I like to bike when it's nice to bike.
+
+24
+00:01:20,500 --> 00:01:25,040
+Speaker 0: So we biked out around, we did like the 50-ish mile loop around Rockaway.
+
+25
+00:01:25,261 --> 00:01:26,399
+Speaker 0: We didn't go anywhere crazy yet.
+
+26
+00:01:27,081 --> 00:01:28,819
+Speaker 0: Like a warm-up ride, early season.
+
+27
+00:01:29,442 --> 00:01:33,900
+Speaker 0: But, you know, Rockaway Beach, if you don't live in New York, Rockaway Beach is a cool place.
+
+28
+00:01:34,180 --> 00:01:39,520
+Speaker 0: But if it's not beach season, there are not that many restaurants there.
+
+29
+00:01:40,522 --> 00:01:41,639
+Speaker 0: Because it's not that big a place.
+
+30
+00:01:42,220 --> 00:01:46,700
+Speaker 0: And a lot of places are only open basically during the season when people are at the beach.
+
+31
+00:01:48,482 --> 00:01:50,320
+Speaker 0: So, you know, we bike out there and we expected this.
+
+32
+00:01:50,380 --> 00:01:53,060
+Speaker 0: This wasn't like a, oh, we got there and there was nothing to eat.
+
+33
+00:01:53,160 --> 00:01:55,780
+Speaker 0: But we expected like, yeah, the kinds of places we normally aren't there.
+
+34
+00:01:56,461 --> 00:02:08,500
+Speaker 0: But also there are very few places there among the places that are open year round that are not either strip mall style Chinese food, pizza place, but not good pizza place, just pizza place.
+
+35
+00:02:09,360 --> 00:02:14,100
+Speaker 0: Or bar and grill that has American bar and grill food and mostly beer.
+
+36
+00:02:14,741 --> 00:02:20,119
+Speaker 0: But on the list of places while we were out there, we saw a place called Uma's and it stood out because it looked different.
+
+37
+00:02:20,625 --> 00:02:22,020
+Speaker 0: And it was Uzbek food.
+
+38
+00:02:23,562 --> 00:02:25,660
+Speaker 0: And it was fucking fantastic.
+
+39
+00:02:25,880 --> 00:02:28,020
+Speaker 0: Like, I want to go back there and eat at that restaurant.
+
+40
+00:02:28,261 --> 00:02:28,918
+Speaker 0: It was so good.
+
+41
+00:02:29,740 --> 00:02:29,841
+Speaker 1: Right.
+
+42
+00:02:29,861 --> 00:02:32,980
+Speaker 1: I mean, that's the kind of thing is when you get away from Manhattan, right?
+
+43
+00:02:33,100 --> 00:02:34,425
+Speaker 1: That's exactly what you see.
+
+44
+00:02:34,506 --> 00:02:40,660
+Speaker 1: the farther you go, especially Eastern Queens and Brooklyn is the, there aren't fancy restaurants out there, right?
+
+45
+00:02:40,720 --> 00:02:43,920
+Speaker 1: There aren't, you know, trendy ones or Michelin star ones.
+
+46
+00:02:44,180 --> 00:02:47,840
+Speaker 0: Yeah, you're not going to a La Casa Enrique out in like outer Queens.
+
+47
+00:02:48,342 --> 00:02:49,660
+Speaker 1: They took away the star from that one.
+
+48
+00:02:52,006 --> 00:02:52,899
+Speaker 0: There's no line anymore.
+
+49
+00:02:53,520 --> 00:02:54,455
+Speaker 1: I don't know if you want to though.
+
+50
+00:02:54,802 --> 00:02:55,419
+Speaker 0: Food's the same.
+
+51
+00:02:56,180 --> 00:02:57,480
+Speaker 1: I've heard, I've heard otherwise.
+
+52
+00:02:57,900 --> 00:03:01,240
+Speaker 0: Oh, last time we went there, which was about a few months ago, the food was the same.
+
+53
+00:03:01,360 --> 00:03:08,569
+Speaker 1: Anyway, the point is that when you go out there, the, all you've got is food that's more like suburb food, right?
+
+54
+00:03:08,730 --> 00:03:10,080
+Speaker 1: Which is not exciting whatsoever.
+
+55
+00:03:10,742 --> 00:03:16,880
+Speaker 1: And the food of the, you know, ethnicities of the people who are living there, right?
+
+56
+00:03:17,442 --> 00:03:27,360
+Speaker 1: So if you look at like, you know, even in like lists of best New York City restaurants, all the ones that are far out there are like, you know, Chinese restaurant and flushing, right?
+
+57
+00:03:27,840 --> 00:03:29,040
+Speaker 1: Roadie shop somewhere.
+
+58
+00:03:29,541 --> 00:03:31,639
+Speaker 1: It's like, it's all that kind of stuff you won't see.
+
+59
+00:03:32,241 --> 00:03:45,299
+Speaker 0: Well, part of that too is like New York, especially when you get close to central, like the parts of New York that are very expensive, the rent is so high that people who would otherwise be able to run a great restaurant just could not make money there no matter how good they are.
+
+60
+00:03:45,723 --> 00:03:48,080
+Speaker 1: The point is, is that if you're in that area, right?
+
+61
+00:03:48,140 --> 00:03:54,007
+Speaker 1: If you're in, you know, the, the outer reaches of New York City up in the Bronx, out in the, right?
+
+62
+00:03:54,087 --> 00:03:56,660
+Speaker 1: Even Staten Island, which, you know, whatever, right?
+
+63
+00:03:56,840 --> 00:04:04,979
+Speaker 1: It's like the ethnicity of the people who live there, Republican, Italian American types, go to the Italian restaurants in Staten Island, they're good.
+
+64
+00:04:06,082 --> 00:04:07,519
+Speaker 0: They're good at being that kind of food.
+
+65
+00:04:08,140 --> 00:04:11,260
+Speaker 1: They got that one where only grandmas do all the cooking for real, right?
+
+66
+00:04:11,380 --> 00:04:14,800
+Speaker 1: It's like, I want to go to that place even though it's Staten Island and I won't go there, right?
+
+67
+00:04:14,880 --> 00:04:20,260
+Speaker 1: So it's like you go to whenever, any place that's not close to Manhattan, right?
+
+68
+00:04:20,300 --> 00:04:22,339
+Speaker 1: Where you can't see, you know, that's out there.
+
+69
+00:04:23,162 --> 00:04:35,839
+Speaker 1: If you're looking for food, find any place that looks like it is, you know, an ethnic place run by the people who match the ethnicity of the food and you will almost guaranteed have a good food.
+
+70
+00:04:36,120 --> 00:04:36,341
+Speaker 0: Yup.
+
+71
+00:04:37,043 --> 00:04:48,180
+Speaker 0: But also, so on the bridge by Rockaway, remember it has that dodgy as hell, bunch of like 180 return cement ramp that's super narrow to get up to the bridge.
+
+72
+00:04:48,721 --> 00:04:56,599
+Speaker 0: They are building a wide, nice, bike-friendly ramp next to that dodgy bridge right now, like they were pouring the cement while we were out there.
+
+73
+00:04:58,060 --> 00:04:59,453
+Speaker 0: So yeah, I guess we'll get right into it.
+
+74
+00:04:59,473 --> 00:05:00,119
+Speaker 0: You got any news?
+
+75
+00:05:01,362 --> 00:05:04,355
+Speaker 1: Yeah, so there's this story about this vulnerability.
+
+76
+00:05:04,415 --> 00:05:05,400
+Speaker 1: that's really interesting.
+
+77
+00:05:07,002 --> 00:05:08,526
+Speaker 0: I learned about it just now.
+
+78
+00:05:08,626 --> 00:05:17,240
+Speaker 1: I mean, the story is from- First it's been heard about or whatever, but basically here's the idea.
+
+79
+00:05:17,601 --> 00:05:19,068
+Speaker 1: You got a VPN, right?
+
+80
+00:05:19,088 --> 00:05:26,180
+Speaker 1: You're using VPN software and what a VPN does, you can listen to our show on VPNs, is all the packets from your computer, right?
+
+81
+00:05:26,440 --> 00:05:31,320
+Speaker 1: You encrypt them and you send them directly to another computer somewhere else on the internet.
+
+82
+00:05:32,221 --> 00:05:41,380
+Speaker 1: And then that can, you're basically, instead of being on the network you're on, even though you are on the network you're on, you're virtually on the network.
+
+83
+00:05:41,601 --> 00:05:43,448
+Speaker 1: the other computer is on, right?
+
+84
+00:05:43,548 --> 00:05:52,365
+Speaker 1: Because it's the part that's exposed to the world and you're just directly sending and receiving all your packets to that one other computer and it's encrypted.
+
+85
+00:05:52,706 --> 00:05:57,299
+Speaker 1: So the network you're on doesn't just sees you sending encrypted, it becomes a dumb pipe.
+
+86
+00:05:57,861 --> 00:05:58,142
+Speaker 0: Yeah.
+
+87
+00:05:58,223 --> 00:06:09,920
+Speaker 0: Oh, well, like imagine if you did this with water, literally like if I have my sink and I just stuck a pipe to one of my water fixtures and ran it down the street all the way to Scott's apartment and into his apartment.
+
+88
+00:06:10,221 --> 00:06:11,265
+Speaker 1: And the drain too.
+
+89
+00:06:11,345 --> 00:06:15,660
+Speaker 1: So the drain comes back and goes into my drain and the water comes from my water.
+
+90
+00:06:15,960 --> 00:06:19,900
+Speaker 0: And anyone looking at my water would just, Scott's water is mixed in with my water.
+
+91
+00:06:19,900 --> 00:06:20,181
+Speaker 1: Right.
+
+92
+00:06:20,282 --> 00:06:23,214
+Speaker 1: RIM's water bill would be zero, right?
+
+93
+00:06:23,314 --> 00:06:27,116
+Speaker 1: And my water bill would be high and my drain would get backed up with RIM sewage.
+
+94
+00:06:27,659 --> 00:06:27,820
+Speaker 1: Anyway.
+
+95
+00:06:27,980 --> 00:06:29,460
+Speaker 0: That hasn't happened in a while, thankfully.
+
+96
+00:06:30,320 --> 00:06:30,681
+Speaker 1: Anyway.
+
+97
+00:06:30,701 --> 00:06:32,326
+Speaker 1: Oh, that's good.
+
+98
+00:06:33,249 --> 00:06:51,752
+Speaker 1: So here's the thing is you most often use VPNs for piracy because you virtually put yourself in another country to watch videos that you can't watch where you live, or you use it because you are on some dodgy ass network, like a coffee shop or a school or some building you're in and some business.
+
+99
+00:06:51,833 --> 00:06:52,033
+Speaker 1: Right.
+
+100
+00:06:52,094 --> 00:06:57,260
+Speaker 1: And you, or you, you, you're working from home and you don't, you don't even trust your home network.
+
+101
+00:06:57,421 --> 00:07:00,640
+Speaker 1: You want your business business to go to the company's network only.
+
+102
+00:07:00,740 --> 00:07:06,323
+Speaker 1: So you convert VPN to the company's network and it lets you access the internal company network stuff that's not public.
+
+103
+00:07:06,364 --> 00:07:06,524
+Speaker 1: Right.
+
+104
+00:07:06,585 --> 00:07:09,959
+Speaker 1: Because you're virtually on that network instead of on here.
+
+105
+00:07:09,999 --> 00:07:10,140
+Speaker 1: Right.
+
+106
+00:07:10,541 --> 00:07:12,066
+Speaker 1: So here's the thing.
+
+107
+00:07:12,086 --> 00:07:18,675
+Speaker 1: Uh, according to this article, uh, you go to a coffee shop, let's say, right?
+
+108
+00:07:18,715 --> 00:07:22,818
+Speaker 1: The one time, the, the use case where you most commonly want to use a VPN.
+
+109
+00:07:22,999 --> 00:07:23,160
+Speaker 1: Right.
+
+110
+00:07:23,882 --> 00:07:33,199
+Speaker 1: And even though you're going to use a VPN and you're not going to really use their network, you still are going to connect to their wifi probably and their DHCP server will give you an IP.
+
+111
+00:07:33,701 --> 00:07:35,348
+Speaker 1: That's all that stuff is still going to happen.
+
+112
+00:07:35,469 --> 00:07:38,160
+Speaker 1: And then you establish your VPN connection.
+
+113
+00:07:38,341 --> 00:07:45,752
+Speaker 1: So that does leave a small window where that network, if it was malicious, could do something to you.
+
+114
+00:07:46,013 --> 00:07:46,314
+Speaker 1: Right.
+
+115
+00:07:46,957 --> 00:07:54,209
+Speaker 1: Um, you know, if you send some traffic before the VPNs up, let's say they might see it or, you know, who knows what's going to happen.
+
+116
+00:07:54,430 --> 00:07:54,590
+Speaker 1: Right.
+
+117
+00:07:55,113 --> 00:07:55,916
+Speaker 1: So here's the thing.
+
+118
+00:07:55,976 --> 00:08:08,852
+Speaker 1: According to this, the DHCP server can send instructions that will tell your computer to change its routing table, uh, including telling it to route.
+
+119
+00:08:08,892 --> 00:08:10,120
+Speaker 0: I haven't read this article yet.
+
+120
+00:08:10,340 --> 00:08:18,936
+Speaker 0: That triggered a lot of extremely dire thoughts because I used to administer like IBM's DHCP servers.
+
+121
+00:08:19,016 --> 00:08:29,904
+Speaker 1: I know that depending on your computer, if the network you're on is malicious, they could basically have you route some traffic or all traffic to another server.
+
+122
+00:08:29,944 --> 00:08:34,179
+Speaker 1: For example, their DHCP server, the one that just told you what your IP address is.
+
+123
+00:08:34,441 --> 00:08:35,144
+Speaker 0: It's option 121.
+
+124
+00:08:35,144 --> 00:08:36,089
+Speaker 0: That's it.
+
+125
+00:08:36,431 --> 00:08:38,039
+Speaker 0: I'm trying to remember if I've ever used this.
+
+126
+00:08:39,080 --> 00:08:47,655
+Speaker 1: And so then what would happen is unbeknownst to you, as long as they keep, you know, sending that traffic to the public internet, right?
+
+127
+00:08:48,379 --> 00:09:01,060
+Speaker 1: You, unless you look carefully or unless you're like having trouble connecting to like some internal service you were expecting to connect to that would only be accessible by your company VPN, right?
+
+128
+00:09:01,561 --> 00:09:05,216
+Speaker 1: You might not realize anything's wrong because you didn't actually look to see that.
+
+129
+00:09:05,256 --> 00:09:08,891
+Speaker 1: you just see that your VPN is on and you trust that and that's good enough for you, right?
+
+130
+00:09:08,911 --> 00:09:13,259
+Speaker 1: You're not opening up your packet inspector every single time you connect to at a coffee shop.
+
+131
+00:09:13,320 --> 00:09:17,820
+Speaker 0: So I don't know when this was last updated, but I'm just going to point out that I am looking at literally today.
+
+132
+00:09:18,161 --> 00:09:18,563
+Speaker 0: No, no, no.
+
+133
+00:09:18,583 --> 00:09:23,200
+Speaker 0: I'm looking at the RFC for the actual documentation for that option.
+
+134
+00:09:23,421 --> 00:09:25,249
+Speaker 0: Option 121, like the thing at issue.
+
+135
+00:09:25,812 --> 00:09:27,460
+Speaker 0: And it has a section right there.
+
+136
+00:09:27,900 --> 00:09:33,940
+Speaker 0: Security considerations, potential exposures to attack at the DHCP protocol are discussed in this section.
+
+137
+00:09:34,801 --> 00:09:35,002
+Speaker 1: Yep.
+
+138
+00:09:36,527 --> 00:09:45,220
+Speaker 1: And so what would happen is basically the one time you want to use a VPN, you're most likely to use it when you want to get some internet juice from an untrustworthy network.
+
+139
+00:09:46,062 --> 00:09:50,400
+Speaker 1: If it's an untrustworthy, malicious, intelligent network, they could be using this attack.
+
+140
+00:09:50,500 --> 00:10:01,900
+Speaker 1: They say it's been available since 2002 to basically you think you're using your VPN, but you're not and some or all of your traffic is routed, then they can see it and you might not realize it.
+
+141
+00:10:02,600 --> 00:10:03,282
+Speaker 0: So I guess what's?
+
+142
+00:10:04,105 --> 00:10:14,120
+Speaker 0: a few things stand out to me because one, all modern traffic, anything you're doing, VPN or not, should already either not matter or be TLS encrypted.
+
+143
+00:10:14,541 --> 00:10:16,788
+Speaker 0: Like, yeah, your content should be safe.
+
+144
+00:10:17,130 --> 00:10:23,900
+Speaker 0: And two, using a VPN for privacy is kind of stupid because now you're just trusting whoever owns the other end of the VPN to not.
+
+145
+00:10:24,140 --> 00:10:26,053
+Speaker 1: Well, the other end of the VPN could be you as well.
+
+146
+00:10:26,114 --> 00:10:26,919
+Speaker 1: And then you could trust it.
+
+147
+00:10:27,101 --> 00:10:28,640
+Speaker 0: Sure, then you can in that rare case.
+
+148
+00:10:28,941 --> 00:10:31,512
+Speaker 1: That is a separate VPN discussion.
+
+149
+00:10:31,552 --> 00:10:33,300
+Speaker 1: We're talking about this issue specifically.
+
+150
+00:10:34,561 --> 00:10:40,540
+Speaker 1: I think we have a pretty easy solution, which is either A, don't allow your routing tables to be changed.
+
+151
+00:10:40,640 --> 00:10:46,060
+Speaker 1: But what if there is actually a real use case where you need it on like a company network or something?
+
+152
+00:10:46,681 --> 00:10:48,347
+Speaker 1: You won't need it on a public Internet.
+
+153
+00:10:48,508 --> 00:10:51,900
+Speaker 1: It's like a normal coffee shop isn't going to need that, right?
+
+154
+00:10:52,400 --> 00:11:06,360
+Speaker 1: Or two, I think there's an easy mitigation, which is even if you allow it, every VPN software out there could just do a simple check of sending some packets and then verifying it if they were VPNed or not.
+
+155
+00:11:06,440 --> 00:11:08,769
+Speaker 0: Yeah, a little more context in through how it looks like this works.
+
+156
+00:11:08,849 --> 00:11:11,580
+Speaker 0: So it can route some or all of the traffic.
+
+157
+00:11:11,660 --> 00:11:12,785
+Speaker 0: And I think that's the key point.
+
+158
+00:11:12,825 --> 00:11:13,688
+Speaker 0: It can be selective.
+
+159
+00:11:14,070 --> 00:11:16,319
+Speaker 0: So like it could route all the websites you look at.
+
+160
+00:11:16,941 --> 00:11:21,259
+Speaker 1: Or they could just be like, hey, if anyone does any Facebook logins, route them here.
+
+161
+00:11:22,160 --> 00:11:26,320
+Speaker 0: But it can't compromise the traffic itself.
+
+162
+00:11:26,620 --> 00:11:32,620
+Speaker 0: All it really does is de-anonymize it or prevent it from getting where it's supposed to go.
+
+163
+00:11:32,660 --> 00:11:42,220
+Speaker 0: Because if it goes over the public Internet to a place that isn't accessible to the public Internet, then it'll just fail because there's no route to wherever it's trying to get to except through the fully realized VPN.
+
+164
+00:11:42,941 --> 00:11:50,100
+Speaker 0: Doesn't seem like this is super dire except for people who are trying to use VPNs for privacy as opposed to security.
+
+165
+00:11:50,820 --> 00:11:57,280
+Speaker 1: It's just really a fascinating situation where you can have your routing table change and not realize it.
+
+166
+00:11:57,440 --> 00:12:06,771
+Speaker 0: The first comment on the article actually is like, I think it's important to clarify that this affects VPNs that are used for anonymizing traffic, not really any other use case for VPNs.
+
+167
+00:12:07,252 --> 00:12:09,420
+Speaker 0: I don't see this as a huge vulnerability.
+
+168
+00:12:10,301 --> 00:12:17,520
+Speaker 1: But I think what's huge about it is that the time it can happen is the time you're most likely to use a VPN.
+
+169
+00:12:17,960 --> 00:12:21,436
+Speaker 1: If you're doing it at home, your DHCP server isn't malicious.
+
+170
+00:12:21,456 --> 00:12:22,200
+Speaker 1: You're going to be fine.
+
+171
+00:12:22,521 --> 00:12:26,798
+Speaker 1: If you do it at your company, your DHCP server at your company isn't malicious.
+
+172
+00:12:26,858 --> 00:12:27,220
+Speaker 1: It's fine.
+
+173
+00:12:28,081 --> 00:12:31,880
+Speaker 1: But you're really probably not even using a VPN so much when you're at your company.
+
+174
+00:12:32,040 --> 00:12:33,225
+Speaker 0: You're already on the network.
+
+175
+00:12:33,266 --> 00:12:36,400
+Speaker 1: But when you go to a coffee shop, that's when you're at an airport.
+
+176
+00:12:36,520 --> 00:12:37,585
+Speaker 1: That's when you want to use it.
+
+177
+00:12:37,685 --> 00:12:41,460
+Speaker 1: And that's when the DHCP server isn't trustworthy.
+
+178
+00:12:41,921 --> 00:12:44,200
+Speaker 0: That is the exact time and place I would use a VPN.
+
+179
+00:12:44,800 --> 00:12:51,500
+Speaker 1: You can't avoid the DHCP server because no matter how untrustworthy the network is, you need an IP address to get any Internet.
+
+180
+00:12:52,183 --> 00:12:57,942
+Speaker 0: Apparently Android is not affected by it because Android never implemented option 121.
+
+181
+00:12:57,942 --> 00:13:02,280
+Speaker 1: Not every computer is going to be affected depending on the DHCP client.
+
+182
+00:13:03,080 --> 00:13:05,168
+Speaker 0: I think this is going to be earth-shattering.
+
+183
+00:13:05,328 --> 00:13:12,040
+Speaker 0: only for people who think that VPNs protect their privacy, which I still think is not true in almost any circumstance.
+
+184
+00:13:12,680 --> 00:13:13,745
+Speaker 1: Depends on the VPN.
+
+185
+00:13:14,348 --> 00:13:17,020
+Speaker 1: I'm sure some of them are trustworthy and aren't lying.
+
+186
+00:13:19,122 --> 00:13:22,151
+Speaker 1: And I'm sure some people are VPN-ing to themselves.
+
+187
+00:13:22,172 --> 00:13:24,920
+Speaker 1: They just cloud-host a machine and VPN to it.
+
+188
+00:13:25,841 --> 00:13:36,000
+Speaker 0: But if your goal is just to hide what websites you're going to as opposed to some other use case, it's not usually an important use of VPN, except in specific circumstances.
+
+189
+00:13:37,981 --> 00:13:38,884
+Speaker 0: Anyway, some other news.
+
+190
+00:13:38,944 --> 00:13:40,631
+Speaker 0: So Tesla sucks.
+
+191
+00:13:40,812 --> 00:13:42,016
+Speaker 0: It's a bad company.
+
+192
+00:13:42,036 --> 00:13:42,900
+Speaker 0: We don't need to get into that.
+
+193
+00:13:43,000 --> 00:13:44,284
+Speaker 0: Not even going to talk about the guy.
+
+194
+00:13:44,424 --> 00:13:50,540
+Speaker 0: But Tesla has been laying people off over the last few weeks like crazy.
+
+195
+00:13:51,420 --> 00:13:55,600
+Speaker 1: Well, I mean, you know, the first thing we knew about them that they sucked was they're run by the guy.
+
+196
+00:13:56,205 --> 00:13:57,378
+Speaker 1: And the guy's a Nazi.
+
+197
+00:13:58,280 --> 00:13:58,521
+Speaker 1: Right.
+
+198
+00:13:58,702 --> 00:14:10,780
+Speaker 1: So then we started hearing stories, you know, obviously I've never even been in a Tesla, but I started hearing stories that, you know, their cars are really shitty and seeing lots and lots of videos showing how poorly made the cars were.
+
+199
+00:14:10,920 --> 00:14:15,880
+Speaker 1: And I was like, there's too many videos saying how poorly made the cars were for this to be a conspiracy of some kind.
+
+200
+00:14:16,662 --> 00:14:24,660
+Speaker 0: There was a lot of news articles from like people who work in car manufacturing for literally any other company because they all kind of operate the same way.
+
+201
+00:14:25,140 --> 00:14:35,763
+Speaker 0: Almost like standards and practices developed over many decades by companies that do this professionally for a very long time ended up being very robust, safe and effective.
+
+202
+00:14:36,044 --> 00:14:40,036
+Speaker 0: And this upstart disruptor company that said, oh, why do they do it that way?
+
+203
+00:14:40,097 --> 00:14:41,220
+Speaker 0: I'll do it faster and cheaper.
+
+204
+00:14:41,341 --> 00:14:43,639
+Speaker 0: Didn't quite understand the consequences of doing so.
+
+205
+00:14:44,361 --> 00:14:49,600
+Speaker 1: Anyway, the point is that the that was the second bad thing about Tesla.
+
+206
+00:14:49,901 --> 00:14:50,161
+Speaker 1: Right.
+
+207
+00:14:50,643 --> 00:14:57,380
+Speaker 1: The third bad thing was that it's like, oh, you know, the cars are, you know, the self-driving part is crashing.
+
+208
+00:14:58,360 --> 00:14:59,217
+Speaker 1: Because it's kind of fake.
+
+209
+00:15:00,004 --> 00:15:00,406
+Speaker 1: Right.
+
+210
+00:15:00,426 --> 00:15:02,880
+Speaker 1: It's like they're basically just kept being bad stories.
+
+211
+00:15:03,000 --> 00:15:10,340
+Speaker 1: And the most recent bad story I heard about them, which I didn't realize until just now, like until like a few days ago, I realized this.
+
+212
+00:15:10,501 --> 00:15:13,259
+Speaker 0: I realized it when you said it in our discord a few minutes ago.
+
+213
+00:15:13,701 --> 00:15:15,892
+Speaker 1: Yeah, I never realized this before a few days ago.
+
+214
+00:15:15,972 --> 00:15:17,460
+Speaker 1: But other car companies.
+
+215
+00:15:17,761 --> 00:15:17,921
+Speaker 1: Right.
+
+216
+00:15:17,961 --> 00:15:18,864
+Speaker 1: Let's say Honda.
+
+217
+00:15:19,104 --> 00:15:19,345
+Speaker 1: Right.
+
+218
+00:15:19,405 --> 00:15:19,986
+Speaker 1: Honda Civic.
+
+219
+00:15:20,047 --> 00:15:25,862
+Speaker 1: You can get a Honda Civic 2002, 2003, 2004, 2005.
+
+220
+00:15:25,862 --> 00:15:31,780
+Speaker 1: Every year they slightly update the Honda Civic and it's a new model year and the car is updated.
+
+221
+00:15:31,980 --> 00:15:38,040
+Speaker 1: And they're basically like at some point at the factory, they're like, OK, here's the updates to the Honda Civic factory.
+
+222
+00:15:38,161 --> 00:15:39,610
+Speaker 1: We're doing these things differently.
+
+223
+00:15:40,013 --> 00:15:40,294
+Speaker 1: Right.
+
+224
+00:15:40,717 --> 00:15:41,140
+Speaker 1: Change it up.
+
+225
+00:15:41,320 --> 00:15:48,300
+Speaker 1: And they change the factory and they start making the next model year car, even though you could buy a 2025 car in 2024.
+
+226
+00:15:48,300 --> 00:15:52,180
+Speaker 1: They still it's the year is basically just saying, yeah, we're upgrading the car every year.
+
+227
+00:15:52,582 --> 00:15:54,069
+Speaker 1: It's a thing that car companies do.
+
+228
+00:15:54,391 --> 00:15:56,140
+Speaker 1: They do it for a lot of reasons.
+
+229
+00:15:56,640 --> 00:16:00,940
+Speaker 1: The one that's most significant is to just keep up with regulations, keep up with technologies.
+
+230
+00:16:01,800 --> 00:16:02,924
+Speaker 1: Right.
+
+231
+00:16:03,266 --> 00:16:05,414
+Speaker 1: I just learned not long ago.
+
+232
+00:16:05,434 --> 00:16:07,020
+Speaker 1: Tesla doesn't do that.
+
+233
+00:16:07,520 --> 00:16:09,308
+Speaker 1: They don't have a different car.
+
+234
+00:16:09,328 --> 00:16:11,739
+Speaker 1: They don't update like the model, whatever every year.
+
+235
+00:16:12,861 --> 00:16:14,026
+Speaker 1: It's just the model, whatever.
+
+236
+00:16:14,047 --> 00:16:14,609
+Speaker 1: There it is.
+
+237
+00:16:14,629 --> 00:16:16,356
+Speaker 1: Unupdated.
+
+238
+00:16:21,706 --> 00:16:23,679
+Speaker 1: When I heard that, I was like, wow.
+
+239
+00:16:24,000 --> 00:16:24,321
+Speaker 1: It's like.
+
+240
+00:16:24,381 --> 00:16:30,540
+Speaker 1: I've heard a lot of shitty things about them, but like that is making me believe that they are so fucked.
+
+241
+00:16:32,823 --> 00:16:35,819
+Speaker 1: Nothing else made me believe that they were fucked as much as learning that.
+
+242
+00:16:36,320 --> 00:16:46,128
+Speaker 0: Being so far outside of the basic practices of literally the entire rest of the world and every other company on earth that makes something.
+
+243
+00:16:46,609 --> 00:16:50,860
+Speaker 0: either means you are geniuses who have changed the world or more likely you're idiots.
+
+244
+00:16:51,800 --> 00:16:52,141
+Speaker 1: Right.
+
+245
+00:16:52,482 --> 00:17:02,800
+Speaker 1: If everyone does a thing, there's either a really good reason they do it or several good reasons, or it's just become some sort of accepted truth for no reason.
+
+246
+00:17:03,240 --> 00:17:03,742
+Speaker 1: Right.
+
+247
+00:17:03,783 --> 00:17:04,867
+Speaker 1: It's always one or the other.
+
+248
+00:17:04,968 --> 00:17:07,540
+Speaker 1: I don't want to say false dichotomy, but it kind of is.
+
+249
+00:17:07,981 --> 00:17:13,319
+Speaker 1: It's like you see all these people thinking the same and behaving the same.
+
+250
+00:17:13,500 --> 00:17:19,640
+Speaker 1: It's either sheep or it's yeah, they all learn the same lesson or they learn the lesson from each other and they're all wise.
+
+251
+00:17:20,319 --> 00:17:20,421
+Speaker 1: Right.
+
+252
+00:17:20,803 --> 00:17:24,161
+Speaker 1: And so in this case, it's absolutely 100%.
+
+253
+00:17:24,161 --> 00:17:28,079
+Speaker 1: The other car companies are wise and know about making cars and Tesla doesn't know.
+
+254
+00:17:28,600 --> 00:17:28,721
+Speaker 0: Yeah.
+
+255
+00:17:28,842 --> 00:17:31,560
+Speaker 0: We didn't even talk about their stupid truck that cuts fingers off and all that.
+
+256
+00:17:31,660 --> 00:17:32,644
+Speaker 0: But who knows.
+
+257
+00:17:32,765 --> 00:17:48,020
+Speaker 0: So they laid off their basically their entire charging team, which was noteworthy because they kind of won the fight and bowled over the entire industry to where all electric cars in like North American Europe adopted the standard that Tesla developed, which fine.
+
+258
+00:17:48,661 --> 00:17:49,808
+Speaker 1: It's just the plug part.
+
+259
+00:17:49,828 --> 00:17:50,009
+Speaker 1: Right.
+
+260
+00:17:50,069 --> 00:17:51,718
+Speaker 1: It's like it's like inventing USB.
+
+261
+00:17:52,681 --> 00:17:58,680
+Speaker 1: But then someone all the all the computers that are best selling and are good are not your computers and they all have USB ports.
+
+262
+00:17:58,740 --> 00:17:59,785
+Speaker 1: It's like, congrats.
+
+263
+00:17:59,945 --> 00:18:01,913
+Speaker 1: Are you collecting royalties on the USB ports?
+
+264
+00:18:02,134 --> 00:18:03,460
+Speaker 1: Because it's kind of a standard now.
+
+265
+00:18:04,121 --> 00:18:06,347
+Speaker 0: But at the same time, like they did this on purpose.
+
+266
+00:18:06,388 --> 00:18:10,960
+Speaker 0: They took like they really focused as a company on we're going to make our standard the one for the world.
+
+267
+00:18:11,041 --> 00:18:11,544
+Speaker 0: And they won.
+
+268
+00:18:11,745 --> 00:18:13,013
+Speaker 0: And like that was good.
+
+269
+00:18:13,114 --> 00:18:13,798
+Speaker 1: I mean, that's hey.
+
+270
+00:18:14,941 --> 00:18:15,524
+Speaker 0: And they got it.
+
+271
+00:18:15,544 --> 00:18:18,900
+Speaker 0: Were charges deployed everywhere and non Tesla cars can use those.
+
+272
+00:18:19,140 --> 00:18:20,490
+Speaker 1: It is good that there is a standard.
+
+273
+00:18:20,531 --> 00:18:21,820
+Speaker 1: There should be some standard.
+
+274
+00:18:21,960 --> 00:18:22,282
+Speaker 1: Yeah.
+
+275
+00:18:22,643 --> 00:18:27,260
+Speaker 0: But a normal car company would have basically taken that win, maybe branded with it.
+
+276
+00:18:27,280 --> 00:18:32,000
+Speaker 0: But otherwise, like, all right, now the whole industry can just step past that and compete on other merits.
+
+277
+00:18:32,120 --> 00:18:37,820
+Speaker 0: But now Tesla, now that they won, seems like they decided, well, we can't make any money off of this.
+
+278
+00:18:37,840 --> 00:18:38,444
+Speaker 0: So fuck it.
+
+279
+00:18:38,686 --> 00:18:40,599
+Speaker 0: And they shut down their entire charging division.
+
+280
+00:18:42,441 --> 00:18:49,878
+Speaker 1: Well, I think what's going to happen is clearly while that is the standard and it will probably be around for quite some time, you know, deploying them.
+
+281
+00:18:51,321 --> 00:18:55,520
+Speaker 1: I know something I may not know about car charging, but I know about plugs.
+
+282
+00:18:55,660 --> 00:18:56,545
+Speaker 1: And there's going to be.
+
+283
+00:18:57,228 --> 00:18:59,399
+Speaker 1: there's going to be type B, type C.
+
+284
+00:19:01,104 --> 00:19:04,439
+Speaker 0: I know more about USB than I wish I did.
+
+285
+00:19:05,400 --> 00:19:12,680
+Speaker 1: And people with old cars and new cars alike are going to have to have adapters that go in either direction until the whole world upgrades.
+
+286
+00:19:12,841 --> 00:19:13,744
+Speaker 1: But it's going to happen.
+
+287
+00:19:13,884 --> 00:19:18,199
+Speaker 0: There's a really good Black Mirror episode about needing an adapter to charge your electric car.
+
+288
+00:19:20,361 --> 00:19:21,365
+Speaker 0: It's a really good episode.
+
+289
+00:19:21,425 --> 00:19:25,800
+Speaker 0: It's actually one that you would probably like because it tells them it has a very Scott message at the end.
+
+290
+00:19:26,220 --> 00:19:34,260
+Speaker 0: But anyway, today, like a few hours ago, Tesla now is laying off like 20 percent of the whole company, like a bunch of engineers.
+
+291
+00:19:34,460 --> 00:19:35,845
+Speaker 0: It looks like most of
+
+292
+00:19:35,865 --> 00:19:35,905
+Speaker 0: H.R.,
+
+293
+00:19:36,287 --> 00:19:39,900
+Speaker 0: all their like support people, like they're just fucking laying everybody off.
+
+294
+00:19:40,680 --> 00:19:40,741
+Speaker 1: Yes.
+
+295
+00:19:40,761 --> 00:19:42,358
+Speaker 1: You know what the real problem here is?
+
+296
+00:19:42,560 --> 00:19:50,660
+Speaker 1: Like, you know, when other car companies in the past have shut down or gone away or brands have gone away, even if the company is around, which has happened a lot.
+
+297
+00:19:50,980 --> 00:19:51,101
+Speaker 1: Right.
+
+298
+00:19:51,121 --> 00:19:52,208
+Speaker 1: Saturn is gone.
+
+299
+00:19:52,832 --> 00:19:54,100
+Speaker 1: Pontiac is gone.
+
+300
+00:19:54,621 --> 00:19:56,600
+Speaker 1: You know, this is a lot of car companies that is gone.
+
+301
+00:19:59,201 --> 00:20:04,700
+Speaker 1: It's like those people with those cars, they can't get, you know, dealer service anymore, obviously.
+
+302
+00:20:04,981 --> 00:20:07,253
+Speaker 1: But it's like those cars were mechanical cars.
+
+303
+00:20:07,293 --> 00:20:08,580
+Speaker 1: They were mostly standard.
+
+304
+00:20:09,062 --> 00:20:13,200
+Speaker 1: You might not be able to get parts so easily, but you could still go to mechanic and get them fixed, right?
+
+305
+00:20:13,400 --> 00:20:13,501
+Speaker 0: Like.
+
+306
+00:20:13,561 --> 00:20:16,012
+Speaker 0: I got parts for that ancient cruise just fine.
+
+307
+00:20:16,032 --> 00:20:17,659
+Speaker 0: I got parts for that Sunfire just fine.
+
+308
+00:20:18,440 --> 00:20:25,220
+Speaker 1: The Tesla cars are much more, you know, computer-y, software-y, right?
+
+309
+00:20:25,481 --> 00:20:31,380
+Speaker 1: And there's only so much maintenance that could be done to them when if the Tesla company folds.
+
+310
+00:20:32,022 --> 00:20:39,220
+Speaker 1: And so that, like, basically defeats the entire purpose of electric car, right?
+
+311
+00:20:39,360 --> 00:20:40,927
+Speaker 1: And that you're saving the environment.
+
+312
+00:20:40,947 --> 00:20:44,140
+Speaker 1: Well, not if you make electric cars that don't last very long.
+
+313
+00:20:44,240 --> 00:20:48,320
+Speaker 1: Now they haven't, you know, sort of paid back, right?
+
+314
+00:20:49,522 --> 00:20:52,780
+Speaker 1: You know, whatever they would have lost if they were just gas cars.
+
+315
+00:20:52,900 --> 00:20:59,000
+Speaker 1: It's actually better, I think, to have a hybrid car or an efficient, not some SUV, right?
+
+316
+00:20:59,522 --> 00:21:04,719
+Speaker 1: But an efficient gas burning car that lasts a long ass time.
+
+317
+00:21:05,180 --> 00:21:06,934
+Speaker 0: That's actually, that was our, you know, we own a car.
+
+318
+00:21:07,176 --> 00:21:07,560
+Speaker 0: We don't use it.
+
+319
+00:21:07,720 --> 00:21:10,539
+Speaker 1: Because of the energy expenditure required to make the car.
+
+320
+00:21:11,360 --> 00:21:11,501
+Speaker 0: Yup.
+
+321
+00:21:11,822 --> 00:21:15,780
+Speaker 0: That's why we got a gas, like a hybrid that is charged via gas.
+
+322
+00:21:16,000 --> 00:21:18,208
+Speaker 0: It gets like 50 to 60 miles per gallon.
+
+323
+00:21:18,509 --> 00:21:21,340
+Speaker 0: And our goal is to have that car for decades.
+
+324
+00:21:22,202 --> 00:21:22,443
+Speaker 1: Right.
+
+325
+00:21:23,085 --> 00:21:28,540
+Speaker 1: So if the cars are just, that the Tesla's all get wiped out because the company's gone.
+
+326
+00:21:29,142 --> 00:21:32,480
+Speaker 1: That defeats any supposed environmental savings.
+
+327
+00:21:32,820 --> 00:21:37,600
+Speaker 0: But also, no other car company is going to buy their bullshit factories and their terrible cars.
+
+328
+00:21:38,900 --> 00:21:43,376
+Speaker 0: Like, every other company already has electric cars that are fine.
+
+329
+00:21:43,416 --> 00:21:44,600
+Speaker 0: They don't need Tesla.
+
+330
+00:21:46,900 --> 00:21:48,932
+Speaker 0: I bet, I bet this is not investment advice.
+
+331
+00:21:48,972 --> 00:21:50,360
+Speaker 0: I'm not a registered investment advisor.
+
+332
+00:21:50,742 --> 00:21:51,788
+Speaker 0: I bet Tesla goes bankrupt.
+
+333
+00:21:51,829 --> 00:21:53,660
+Speaker 0: I bet they just collapse at some point soon.
+
+334
+00:21:54,580 --> 00:21:59,400
+Speaker 0: Not like tomorrow, but like, we'll be talking about Tesla being out of business before long on deep nights, I think.
+
+335
+00:22:03,570 --> 00:22:07,290
+Speaker 0: But anyway, things of the day.
+
+336
+00:22:08,070 --> 00:22:17,870
+Speaker 0: So this is one of those videos that's like a deep dive into the, a very, very specific code path in a Super Nintendo game.
+
+337
+00:22:18,794 --> 00:22:20,308
+Speaker 0: It is titled, Why Stop?
+
+338
+00:22:20,610 --> 00:22:25,349
+Speaker 1: It's in a YouTube channel that has been used as a thing of the day at least once before, if not more than once.
+
+339
+00:22:25,590 --> 00:22:27,057
+Speaker 0: I don't think it's been used more than once.
+
+340
+00:22:27,459 --> 00:22:29,850
+Speaker 0: And I'm not, I think, I think I might've linked to a different channel last time.
+
+341
+00:22:30,190 --> 00:22:33,480
+Speaker 0: This one though was, was one of the best explained ones I saw.
+
+342
+00:22:33,560 --> 00:22:36,950
+Speaker 0: This is, it's called Why Stomping Wigglers Glitches Super Mario World.
+
+343
+00:22:37,431 --> 00:22:40,666
+Speaker 0: But it's actually 20 minutes long and it gets into...
+
+344
+00:22:41,630 --> 00:22:44,670
+Speaker 1: Oh, they're making shorter videos at Retro Game Mechanics Explained.
+
+345
+00:22:44,690 --> 00:22:45,764
+Speaker 0: This one was good.
+
+346
+00:22:46,530 --> 00:22:47,810
+Speaker 1: Usually their videos are super long.
+
+347
+00:22:48,051 --> 00:22:48,291
+Speaker 1: Yup.
+
+348
+00:22:48,653 --> 00:22:54,430
+Speaker 0: And usually when I watch a video like that from them and from similar channels, I'll like skip to the good part.
+
+349
+00:22:54,990 --> 00:22:57,419
+Speaker 0: This one was actually like fascinating all the way to the end.
+
+350
+00:22:57,439 --> 00:22:59,225
+Speaker 0: And I learned a lot about the SNES.
+
+351
+00:22:59,245 --> 00:23:00,650
+Speaker 0: that was interesting.
+
+352
+00:23:02,518 --> 00:23:02,970
+Speaker 0: So what do you got?
+
+353
+00:23:04,077 --> 00:23:04,649
+Speaker 1: What do I have?
+
+354
+00:23:05,795 --> 00:23:06,528
+Speaker 0: You got Cicada P.
+
+355
+00:23:07,450 --> 00:23:07,872
+Speaker 1: Oh, right.
+
+356
+00:23:08,454 --> 00:23:12,870
+Speaker 1: So Cicada has come back in the summer and I'm all, you know, I like the Cicada noise.
+
+357
+00:23:13,010 --> 00:23:14,904
+Speaker 1: It's actually, you know, a noise that's not annoying.
+
+358
+00:23:14,924 --> 00:23:15,650
+Speaker 1: I like that noise.
+
+359
+00:23:16,054 --> 00:23:17,330
+Speaker 1: It should be an annoying noise.
+
+360
+00:23:17,991 --> 00:23:22,364
+Speaker 0: It's a sad noise because for me it means summer's at best at its peak.
+
+361
+00:23:22,746 --> 00:23:24,170
+Speaker 0: We are approaching the end of summer.
+
+362
+00:23:24,450 --> 00:23:25,610
+Speaker 1: Depends on the Cicada variety.
+
+363
+00:23:26,331 --> 00:23:26,672
+Speaker 0: Usually.
+
+364
+00:23:26,912 --> 00:23:30,363
+Speaker 0: It also sometimes means God is coming to kill all of mankind.
+
+365
+00:23:30,383 --> 00:23:32,430
+Speaker 0: The Avas may not be able to save us.
+
+366
+00:23:32,630 --> 00:23:35,518
+Speaker 1: The point is I like the Cicada noise even though I'm annoyed by many noises.
+
+367
+00:23:35,538 --> 00:23:39,550
+Speaker 1: I might likely have the Mesophonia even though no doctor has told me so.
+
+368
+00:23:40,131 --> 00:23:43,340
+Speaker 1: But I like a Cicada noise and I like a Cicada.
+
+369
+00:23:44,262 --> 00:23:47,210
+Speaker 1: I like, you know, as a kid, I would find like Cicada shells on the tree and stuff.
+
+370
+00:23:47,431 --> 00:23:47,654
+Speaker 1: Right.
+
+371
+00:23:47,694 --> 00:23:48,544
+Speaker 1: You know, I like that.
+
+372
+00:23:50,410 --> 00:23:52,317
+Speaker 1: But I'm always confused by.
+
+373
+00:23:52,337 --> 00:23:55,670
+Speaker 1: they're like Cicada Brood X, Brood 11, Brood whatever.
+
+374
+00:23:55,831 --> 00:23:57,940
+Speaker 1: And it's like they only come every hundred years.
+
+375
+00:23:58,020 --> 00:24:00,170
+Speaker 1: And it's like every year a different one comes.
+
+376
+00:24:00,450 --> 00:24:02,278
+Speaker 1: It's like, yeah, that brood is sleeping.
+
+377
+00:24:02,319 --> 00:24:04,770
+Speaker 1: But every year there's like 10 different broods that come anyway.
+
+378
+00:24:04,910 --> 00:24:06,649
+Speaker 1: It's like there must be thousands of broods.
+
+379
+00:24:07,111 --> 00:24:10,561
+Speaker 1: And it's just like every year, yeah, this one hasn't come in so long.
+
+380
+00:24:10,601 --> 00:24:13,890
+Speaker 1: Yeah, but every year one comes that hasn't been in so long.
+
+381
+00:24:14,050 --> 00:24:14,889
+Speaker 1: There's one every year.
+
+382
+00:24:17,233 --> 00:24:21,410
+Speaker 1: But the thing about Cicadas I didn't know was that they pee.
+
+383
+00:24:22,090 --> 00:24:23,317
+Speaker 1: I didn't even know the insects peed.
+
+384
+00:24:23,357 --> 00:24:25,528
+Speaker 1: I thought they just kind of, I don't even know.
+
+385
+00:24:27,531 --> 00:24:30,290
+Speaker 0: You described it as they just kinda and then you trail off.
+
+386
+00:24:30,691 --> 00:24:31,569
+Speaker 1: I didn't even know what they did.
+
+387
+00:24:32,570 --> 00:24:33,514
+Speaker 1: It's not like you ever seen it.
+
+388
+00:24:33,755 --> 00:24:37,130
+Speaker 1: You know, it's like I ever saw like a fly like pee or poop or anything.
+
+389
+00:24:38,352 --> 00:24:39,420
+Speaker 1: You know, they're kind of small.
+
+390
+00:24:39,461 --> 00:24:40,630
+Speaker 1: I can't see that happening.
+
+391
+00:24:41,211 --> 00:24:43,000
+Speaker 1: And if they did, you wouldn't notice like with a bird.
+
+392
+00:24:43,040 --> 00:24:44,507
+Speaker 1: It's not like it makes a mess and you can see it.
+
+393
+00:24:45,371 --> 00:24:50,510
+Speaker 1: But apparently most, a lot of insects, what they'll do is their pee will be like little droplets.
+
+394
+00:24:50,831 --> 00:24:53,768
+Speaker 1: And then they'll flick the droplets away like pew, pew, pew, pew.
+
+395
+00:24:55,651 --> 00:25:05,578
+Speaker 1: But Cicadas very somewhat not uniquely, but you know, uncommonly among this kind of insect, they pee in a stream like a person.
+
+396
+00:25:05,618 --> 00:25:06,984
+Speaker 1: Like psst, right?
+
+397
+00:25:07,004 --> 00:25:08,410
+Speaker 1: With a little, with a little pea shooter.
+
+398
+00:25:08,670 --> 00:25:13,930
+Speaker 0: Well, maybe they're onto something because remember humans, Homo sapiens, we've been around at most like two-ish million years.
+
+399
+00:25:15,553 --> 00:25:18,290
+Speaker 0: And only about 40,000 of those years if we had technology.
+
+400
+00:25:19,012 --> 00:25:22,182
+Speaker 0: Cicadas have been around for 200 million years.
+
+401
+00:25:22,242 --> 00:25:24,870
+Speaker 0: So they definitely have figured something out and they might outlast us.
+
+402
+00:25:25,550 --> 00:25:25,751
+Speaker 1: Yeah.
+
+403
+00:25:25,771 --> 00:25:27,114
+Speaker 1: Stay in the ground most years.
+
+404
+00:25:27,876 --> 00:25:29,620
+Speaker 1: Avoid, avoid terrors.
+
+405
+00:25:29,981 --> 00:25:33,310
+Speaker 1: Only have to experience terrors once every so often.
+
+406
+00:25:33,610 --> 00:25:34,535
+Speaker 0: And have a rotation.
+
+407
+00:25:34,555 --> 00:25:36,847
+Speaker 0: so like different guys wake up every year.
+
+408
+00:25:36,867 --> 00:25:37,510
+Speaker 0: So that way.
+
+409
+00:25:37,830 --> 00:25:38,292
+Speaker 0: Mostly, yeah.
+
+410
+00:25:38,352 --> 00:25:40,057
+Speaker 1: And when you come out, die.
+
+411
+00:25:41,021 --> 00:25:43,850
+Speaker 1: Someone else is, you live in the ground once, you come out.
+
+412
+00:25:44,010 --> 00:25:45,342
+Speaker 1: But also, piss.
+
+413
+00:25:45,887 --> 00:25:46,270
+Speaker 0: Apparently.
+
+414
+00:25:47,052 --> 00:25:47,232
+Speaker 1: Yeah.
+
+415
+00:25:47,673 --> 00:25:56,290
+Speaker 1: So it's interesting because they're actually, you know, for the first time apparently like closely studying the Cicada peeing mechanism.
+
+416
+00:25:56,450 --> 00:25:59,697
+Speaker 1: Like videoing them peeing, examining them, seeing how it works.
+
+417
+00:26:00,158 --> 00:26:05,450
+Speaker 1: And there might be uses in the mechanics, the biomechanics of how they pee.
+
+418
+00:26:05,970 --> 00:26:08,158
+Speaker 1: For like, you know, robots or who knows what, right?
+
+419
+00:26:08,239 --> 00:26:11,290
+Speaker 1: Other, you know, human things.
+
+420
+00:26:11,490 --> 00:26:18,430
+Speaker 0: See, I just wish we could fund more research into things like this and less having wars and making Teslas.
+
+421
+00:26:18,970 --> 00:26:20,254
+Speaker 1: This could be, why not both?
+
+422
+00:26:20,295 --> 00:26:24,750
+Speaker 1: You could use this for fuel injection or bio-terror.
+
+423
+00:26:27,812 --> 00:26:28,274
+Speaker 0: I love that.
+
+424
+00:26:28,394 --> 00:26:31,666
+Speaker 0: the top YouTube comment on this is, "I had no idea Cicadas urinated at
+
+425
+00:26:31,706 --> 00:26:32,007
+Speaker 0: all.".
+
+426
+00:26:32,087 --> 00:26:32,830
+Speaker 0: And the second comment.
+
+427
+00:26:33,055 --> 00:26:33,550
+Speaker 1: That's right.
+
+428
+00:26:33,750 --> 00:26:35,604
+Speaker 0: The second highest comment is, "Oh, they
+
+429
+00:26:35,665 --> 00:26:36,028
+Speaker 0: pissing.".
+
+430
+00:26:36,951 --> 00:26:37,568
+Speaker 0: That's right.
+
+431
+00:26:37,690 --> 00:26:38,653
+Speaker 0: You know, it's total aside.
+
+432
+00:26:38,934 --> 00:26:44,570
+Speaker 0: Emily and I both noticed this just kind of recently, like over the last, I'd say, six to twelve months.
+
+433
+00:26:45,131 --> 00:26:54,530
+Speaker 0: For whatever reason, as Twitter died and like all these social networks, like there's so much like insane toxicity and nonsense all over the internet, anywhere people can type stuff.
+
+434
+00:26:55,311 --> 00:27:04,390
+Speaker 0: I have found that YouTube comments are getting better in relation to the rest of the internet, even on videos you wouldn't expect them to be.
+
+435
+00:27:04,791 --> 00:27:09,083
+Speaker 1: You're just not, you know, first of all, the upvotes really have a lot.
+
+436
+00:27:09,224 --> 00:27:11,390
+Speaker 1: You look for a popular video and you scroll down, right?
+
+437
+00:27:11,850 --> 00:27:17,773
+Speaker 1: You're also looking at videos that are not, you know, the kind of videos where shitty people- Oh, you'd think that!
+
+438
+00:27:17,833 --> 00:27:24,750
+Speaker 0: You'd think that, but I also watch a lot of videos like Unusual Memes, which are some of the shittiest people on Earth or in those communities.
+
+439
+00:27:25,971 --> 00:27:29,870
+Speaker 1: But, you know, you go watch like, you know, right-wing videos, right?
+
+440
+00:27:29,970 --> 00:27:32,710
+Speaker 0: Well, yeah, I mean, any right-wing thing is gonna have right-wing bullshit.
+
+441
+00:27:33,012 --> 00:27:36,030
+Speaker 1: You know, watch like a local news video, right?
+
+442
+00:27:37,591 --> 00:27:39,956
+Speaker 0: But even there- There's plenty of bad YouTube comments.
+
+443
+00:27:39,976 --> 00:27:43,170
+Speaker 1: The thing is, when you upload a YouTube video, you see the comments, all of them.
+
+444
+00:27:43,230 --> 00:27:50,470
+Speaker 1: But when you're a YouTube viewer, you're only seeing like these most upvoted comments that you didn't have to see that shit.
+
+445
+00:27:50,530 --> 00:27:57,230
+Speaker 0: But it strikes me that the YouTube comments on even a news video tend to be higher quality than the comments on the news website.
+
+446
+00:27:57,731 --> 00:28:05,470
+Speaker 0: But partly it's because news websites that have comment sections, somehow, it's like those are the places that attract the worst typing in the world.
+
+447
+00:28:06,858 --> 00:28:07,090
+Speaker 1: Anyway.
+
+448
+00:28:07,931 --> 00:28:11,067
+Speaker 0: Anyway, in the meta moment, the Geek Nights Book Club book was the short walk-on girl.
+
+449
+00:28:11,107 --> 00:28:11,610
+Speaker 0: We did the show.
+
+450
+00:28:12,572 --> 00:28:15,589
+Speaker 0: I got away with not announcing the next book club selection because-
+
+451
+00:28:15,850 --> 00:28:20,909
+Speaker 1: While we were doing the book club episode, I thought of it, but then, of course, when the end of the episode came-
+
+452
+00:28:22,130 --> 00:28:30,220
+Speaker 0: The whole time, I was thinking, I hope Scott doesn't call me out, I'm just gonna quietly end the show, because I have not made my decision yet, and I don't want to deal with it right now.
+
+453
+00:28:30,601 --> 00:28:33,770
+Speaker 0: Let's see if I can escape to the end of the episode, and I succeeded.
+
+454
+00:28:34,390 --> 00:28:40,970
+Speaker 0: So, I gotta pick the next book club book choice, and I got some ideas, but I'm gonna narrow it down soon, and we'll announce the next book.
+
+455
+00:28:41,950 --> 00:28:48,990
+Speaker 0: Otherwise, I guess, Magfest, PAX Unplug, PAX West, those are our plans for the foreseeable future.
+
+456
+00:28:52,153 --> 00:28:52,315
+Speaker 0: Alright.
+
+457
+00:28:52,336 --> 00:28:53,290
+Speaker 0: Technology failures.
+
+458
+00:28:54,090 --> 00:28:56,760
+Speaker 1: I think I messed up by- I'm using my phone as my camera.
+
+459
+00:28:56,800 --> 00:28:58,988
+Speaker 1: I think I messed up charging it.
+
+460
+00:28:59,048 --> 00:28:59,610
+Speaker 1: It's running out.
+
+461
+00:29:00,337 --> 00:29:00,502
+Speaker 0: Uh-oh.
+
+462
+00:29:00,522 --> 00:29:00,770
+Speaker 0: Interesting.
+
+463
+00:29:01,952 --> 00:29:02,798
+Speaker 1: I might disappear.
+
+464
+00:29:02,818 --> 00:29:04,410
+Speaker 1: At least the video of me might disappear.
+
+465
+00:29:04,410 --> 00:29:10,590
+Speaker 0: Well, I have a contingency template in RBS for if you or I are not visible.
+
+466
+00:29:11,074 --> 00:29:12,790
+Speaker 1: I might become Sele audio only.
+
+467
+00:29:12,870 --> 00:29:14,799
+Speaker 0: You will, in fact, become Sele audio only.
+
+468
+00:29:15,784 --> 00:29:17,110
+Speaker 0: That is literally what's in the template.
+
+469
+00:29:17,980 --> 00:29:18,607
+Speaker 1: I guess so.
+
+470
+00:29:20,410 --> 00:29:29,410
+Speaker 0: So yeah, Scott, you have had what I would characterize as insane monitor problems recently, multiple times.
+
+471
+00:29:29,850 --> 00:29:29,910
+Speaker 1: Yes.
+
+472
+00:29:30,091 --> 00:29:35,470
+Speaker 1: It's weird, because my feeling overall is that I have a lot less breakages than other people have.
+
+473
+00:29:35,710 --> 00:29:44,427
+Speaker 0: Well, you also have a tendency to, whenever anyone else's things break, kind of blame them for it and remind everyone, "My shit never breaks.
+
+474
+00:29:44,467 --> 00:29:45,309
+Speaker 0: That never happens to
+
+475
+00:29:45,329 --> 00:29:45,409
+Speaker 0: me.".
+
+476
+00:29:45,750 --> 00:29:50,179
+Speaker 0: And yet when things happen to you, it's great, because none of us even call you on it.
+
+477
+00:29:50,219 --> 00:29:55,550
+Speaker 0: We just watch you post and post and post about the insane problem you're having.
+
+478
+00:29:56,250 --> 00:29:56,350
+Speaker 1: Right.
+
+479
+00:29:56,370 --> 00:30:08,230
+Speaker 1: Well, the thing is, is the problems I have are always insane problems, because I firmly believe that any software-related problem, there isn't a software-related breakage that I can't fix.
+
+480
+00:30:09,012 --> 00:30:10,335
+Speaker 1: I don't think that exists, right?
+
+481
+00:30:10,937 --> 00:30:15,630
+Speaker 1: As long as I have another computer that works, and the internet, and some tools.
+
+482
+00:30:16,510 --> 00:30:21,180
+Speaker 0: I mean, we're going to ignore the... There was an era where I only had one computer and no other way to get on the internet.
+
+483
+00:30:21,200 --> 00:30:25,790
+Speaker 0: If that computer was broken, I had to go find someone else with a computer to help me.
+
+484
+00:30:26,330 --> 00:30:26,811
+Speaker 1: That's right.
+
+485
+00:30:27,051 --> 00:30:36,230
+Speaker 1: But I strongly believe there isn't a software-related breakage that I could not get around somehow and get back up to speed.
+
+486
+00:30:37,091 --> 00:30:47,330
+Speaker 1: So, most of the time I'm doing those criticisms of other people, it's like they have a software-related problem, and it's most often, like 90% of the time, I'm criticizing them, not because their shit broke.
+
+487
+00:30:47,550 --> 00:30:48,873
+Speaker 1: That happens, right?
+
+488
+00:30:49,233 --> 00:30:54,825
+Speaker 1: But because their shit broke because they were fucking around, right?
+
+489
+00:30:54,885 --> 00:30:56,748
+Speaker 1: It's like, "Oh, they're installing some weird
+
+490
+00:30:56,768 --> 00:30:57,530
+Speaker 1: softwares!".
+
+491
+00:30:57,791 --> 00:31:02,302
+Speaker 1: Or, "Doing some weird configurations and non-default settings and trying to be
+
+492
+00:31:02,362 --> 00:31:02,944
+Speaker 1: fancy!".
+
+493
+00:31:03,024 --> 00:31:05,510
+Speaker 1: It's like, yeah, that's why your shit broke, you're trying to be fancy.
+
+494
+00:31:05,670 --> 00:31:10,561
+Speaker 1: If you just keep it simple, don't fuck around, use your default stuff, right?
+
+495
+00:31:10,761 --> 00:31:14,630
+Speaker 1: Then your shit is much less likely to break, and that is why my stuff breaks not often.
+
+496
+00:31:14,690 --> 00:31:21,456
+Speaker 1: But, even if you are expert at software problem avoidance like I am, hardware just breaks.
+
+497
+00:31:21,536 --> 00:31:36,550
+Speaker 1: We did shows about repairing it, but sometimes you can't, or sometimes it's too difficult, or sometimes no one even knows what the fuck's wrong, as it has happened with my monitors recently.
+
+498
+00:31:38,271 --> 00:31:42,957
+Speaker 1: So, one monitor had this problem that I finally was able to diagnose.
+
+499
+00:31:42,977 --> 00:31:53,050
+Speaker 1: What was happening was that, mostly at night, and mostly after watching video, there would be these vertical bars on the monitor.
+
+500
+00:31:53,270 --> 00:31:57,690
+Speaker 1: Not like, it wasn't like bars, like jail cell, where you couldn't see half the picture.
+
+501
+00:31:58,111 --> 00:32:01,270
+Speaker 0: Yeah, and it wasn't like burn-in from anything on your screen?
+
+502
+00:32:02,071 --> 00:32:02,712
+Speaker 1: No, it wasn't.
+
+503
+00:32:02,772 --> 00:32:14,785
+Speaker 1: It was these vertical alternating bars where you could see, mostly at the edges of the monitor, you could see it like this repeating pattern.
+
+504
+00:32:14,805 --> 00:32:19,610
+Speaker 1: The middle of the monitor was mostly fine, and it was really only visible in grey areas.
+
+505
+00:32:19,670 --> 00:32:23,937
+Speaker 1: If you put on a different color, like red, you couldn't see it.
+
+506
+00:32:23,997 --> 00:32:26,241
+Speaker 1: It was only if you put it to grey, then you could really see it.
+
+507
+00:32:26,481 --> 00:32:31,009
+Speaker 1: Light grey, dark grey, light grey, dark grey, straight line vertical bands.
+
+508
+00:32:32,531 --> 00:32:33,912
+Speaker 1: And it was like, what the hell's going on?
+
+509
+00:32:34,513 --> 00:32:43,162
+Speaker 1: And eventually, I was able to figure out that it was only happening because the monitor has two different color modes, right?
+
+510
+00:32:43,222 --> 00:32:51,010
+Speaker 1: There's RGB and YPBR, you know, the other color encoding mode that can happen, right?
+
+511
+00:32:51,551 --> 00:32:59,186
+Speaker 1: And basically, one is the one that televisions use, and RGB is the one that monitors use, but nothing really stops you from using the other one.
+
+512
+00:32:59,207 --> 00:33:00,930
+Speaker 1: It's not like there's something wrong with it, right?
+
+513
+00:33:01,190 --> 00:33:07,800
+Speaker 1: It's like if you plug your computer into a television with the HDMI cable, it's going to use the Y whatever one, with the component one.
+
+514
+00:33:08,380 --> 00:33:10,583
+Speaker 1: If you plug it into a monitor, it's going to use the RGB one.
+
+515
+00:33:10,623 --> 00:33:15,230
+Speaker 1: There's a negotiation that happens between the two devices, and my monitor supported both.
+
+516
+00:33:15,771 --> 00:33:17,353
+Speaker 1: So why shouldn't both of them work?
+
+517
+00:33:17,593 --> 00:33:31,650
+Speaker 1: What was happening was because the Mac was basically detecting the monitor as like a television because of reasons, and so it was using a different color mode, like a television, which isn't really a problem because the monitor supports it, so it should work.
+
+518
+00:33:33,030 --> 00:33:52,150
+Speaker 1: But this was only happening when it was in that mode, and it was only happening when areas of the screen were like black for, or like dark for an extended period, and then when I would like, you'd leave like an area of the monitor black for a while, and then put the gray there instead, and then you would see it in that area.
+
+519
+00:33:52,871 --> 00:33:58,783
+Speaker 1: So it's like I did a test where I made the whole monitor black, and then I waited, and then I came back, and there it was.
+
+520
+00:33:59,224 --> 00:34:02,470
+Speaker 1: An RGB didn't happen, but in the Y color mode it happened.
+
+521
+00:34:04,411 --> 00:34:11,239
+Speaker 1: And so then it also happened if I used the monitor's built, like unplug everything from the monitor except the power cable, right?
+
+522
+00:34:11,918 --> 00:34:20,989
+Speaker 1: If I use the monitor's built-in test screens that just show colors solid, you could still see it, indicating the problem is in the monitor.
+
+523
+00:34:21,050 --> 00:34:45,210
+Speaker 1: This monitor has a bug with that color mode of some kind, and so the Dell was very nice, and they sent me a newer model, basically the best monitor that they have, for me at least, refurbished, but whatever, and they said put the old one in the box, and it cost me zero dollars, and this monitor is great, it's much better, and it doesn't have that problem.
+
+524
+00:34:46,433 --> 00:34:47,469
+Speaker 1: So, hooray.
+
+525
+00:34:48,610 --> 00:34:55,138
+Speaker 0: So my previous laptop, I've owned a few laptops in my whole life, because my philosophy with laptops is the same as with computers.
+
+526
+00:34:55,719 --> 00:35:04,850
+Speaker 0: I buy the best goddamn laptop, and I use it until I physically cannot anymore, because it has failed, or it is so obsolete it is impossible to use.
+
+527
+00:35:05,410 --> 00:35:34,890
+Speaker 0: And my previous laptop had an SSD in it, and I had it for a very, very long time, and it worked great, like I wanted to keep it forever, and one day I was in London on a work trip, and I had my laptop open, and I'm like playing a video game on it, and the video game crashes, I don't think much of it, but I figure it's time to go to bed anyway, so like I do a little video call with Emily, and then I go to open up Notepad, because I want to just type a few notes about a thing for the next, like an agenda for the next work meeting, and just like have that ready.
+
+528
+00:35:35,492 --> 00:35:36,514
+Speaker 0: And Notepad won't open.
+
+529
+00:35:37,597 --> 00:35:38,941
+Speaker 0: Like, Notepad just won't open.
+
+530
+00:35:39,683 --> 00:35:41,267
+Speaker 0: When I launch it, nothing happens.
+
+531
+00:35:41,768 --> 00:35:42,450
+Speaker 0: And I'm like, that's weird.
+
+532
+00:35:43,171 --> 00:35:43,830
+Speaker 0: You start the computer.
+
+533
+00:35:44,110 --> 00:35:45,814
+Speaker 0: I reboot.
+
+534
+00:35:45,934 --> 00:35:47,117
+Speaker 0: Notepad won't open.
+
+535
+00:35:47,739 --> 00:35:49,383
+Speaker 0: Nothing else is wrong with the computer.
+
+536
+00:35:49,864 --> 00:35:52,310
+Speaker 0: Literally nothing, but Notepad won't open.
+
+537
+00:35:52,370 --> 00:35:55,710
+Speaker 1: Download a new copy of Notepad.exe and replace the old copy.
+
+538
+00:35:56,551 --> 00:36:06,030
+Speaker 0: So what I did is I used Notepad++, which I also had installed, just to write my little note to myself, and I decided to deal with it after the trip.
+
+539
+00:36:07,111 --> 00:36:17,670
+Speaker 0: So then I do the trip, and I'm in work, and I'm doing a presentation with the laptop, and I hit next slide at one point, and the slide just won't open.
+
+540
+00:36:17,810 --> 00:36:20,014
+Speaker 0: Like it just won't go to the next slide in a presentation.
+
+541
+00:36:23,119 --> 00:36:30,250
+Speaker 0: I restart PowerPoint, and I can go to any slide in the presentation, except that one, and it just won't load.
+
+542
+00:36:31,030 --> 00:36:32,115
+Speaker 1: Does it have Notepad in it?
+
+543
+00:36:34,304 --> 00:36:35,830
+Speaker 1: Is it a Notepad embed slide?
+
+544
+00:36:36,090 --> 00:36:42,142
+Speaker 0: So I do a Windows reinstall, like the refresh, like just redo all the Windows shit, and everything's fine again.
+
+545
+00:36:42,763 --> 00:36:46,350
+Speaker 0: Fast forward a couple weeks, and Notepad won't open again.
+
+546
+00:36:47,672 --> 00:36:50,430
+Speaker 0: So long story short, at this point- Isn't there anything in the Windows logs?
+
+547
+00:36:51,590 --> 00:37:01,570
+Speaker 0: Yes, so in the Windows logs, there are occasional I/O errors, but they're not correlated to anything, and the problem is, Windows logs have a lot of errors like that if you look at them, if you're not used to them.
+
+548
+00:37:02,071 --> 00:37:08,870
+Speaker 0: But I successfully, and to my credit, I'm very proud of this, I immediately diagnosed the problem at that moment.
+
+549
+00:37:09,470 --> 00:37:17,090
+Speaker 0: And what the problem ended up being, the SSD, which was a early generation solid state drive, had hit its end of life.
+
+550
+00:37:17,551 --> 00:37:23,461
+Speaker 0: And the way SSDs fail is they will have write failures over time.
+
+551
+00:37:23,501 --> 00:37:34,801
+Speaker 0: Like you will not be able to write to them anymore, or you will not be able to read from certain parts of them, because you can only write to segments of SSDs a limited number of times before they fail.
+
+552
+00:37:35,101 --> 00:37:40,270
+Speaker 0: And I had just pushed that SSD so long that it ran out of writes.
+
+553
+00:37:40,570 --> 00:37:45,600
+Speaker 1: Yeah, that's not something breaking- I mean it is breaking, but it's basically wearing out, right?
+
+554
+00:37:45,620 --> 00:37:50,730
+Speaker 1: That's like I wore out the tires on my car, it's like that's not a flat tire, that's not an exploded tire, that's not right.
+
+555
+00:37:51,511 --> 00:37:55,410
+Speaker 1: That is, the tires are only expected to last so long, and so they did.
+
+556
+00:37:56,051 --> 00:38:08,490
+Speaker 0: Yeah, but I guess I'd say the technology failure there was primarily that this was an era where SSDs on a consumer device would not tell you they had failed in any reasonable way.
+
+557
+00:38:09,570 --> 00:38:10,771
+Speaker 0: Not like modern ones do.
+
+558
+00:38:11,051 --> 00:38:16,376
+Speaker 0: Like now, I'll know if my SSD fails, but back then, nothing to do except replace the SSD.
+
+559
+00:38:19,198 --> 00:38:19,819
+Speaker 0: Should we alternate?
+
+560
+00:38:19,839 --> 00:38:20,719
+Speaker 0: You have more failures?
+
+561
+00:38:20,739 --> 00:38:22,781
+Speaker 0: Because I have a list of 10.
+
+562
+00:38:22,781 --> 00:38:23,542
+Speaker 1: Oh yeah, we got plenty.
+
+563
+00:38:24,463 --> 00:38:32,812
+Speaker 1: So, the very first time I experienced broken technology was our family had an Atari 2600.
+
+564
+00:38:32,812 --> 00:38:40,640
+Speaker 1: And I think that my parents and my aunts and uncles bought it together somehow, but it was in our house.
+
+565
+00:38:41,501 --> 00:38:48,151
+Speaker 1: And I used it, and then it just sort of didn't work, like you put games in and turned it on and they didn't play.
+
+566
+00:38:49,233 --> 00:38:53,740
+Speaker 1: And I was like four, so what the fuck did I know?
+
+567
+00:38:53,740 --> 00:38:59,240
+Speaker 0: 90% of the time that was always caused by the wall wart was busted.
+
+568
+00:38:59,901 --> 00:39:00,522
+Speaker 1: Who knows?
+
+569
+00:39:01,625 --> 00:39:07,520
+Speaker 1: But regardless, we just sort of stopped using it, and I don't know where it went, probably a garbage somewhere.
+
+570
+00:39:07,900 --> 00:39:08,217
+Speaker 0: I just gave up?
+
+571
+00:39:09,061 --> 00:39:16,398
+Speaker 1: I mean, I don't know, I was four, what the hell, but it was just the disappointment I had of going from having an Atari 2600 to...
+
+572
+00:39:17,260 --> 00:39:18,563
+Speaker 0: Oh my god, I can imagine that.
+
+573
+00:39:19,124 --> 00:39:25,840
+Speaker 0: Had that happened to my family, that would have been an all hands on deck, like Uncle Mike would have gotten the soldering iron out, like they would have fixed it no matter what.
+
+574
+00:39:26,261 --> 00:39:32,660
+Speaker 1: Right, it's like I didn't have another game console or any kind of device until like the NES several years later.
+
+575
+00:39:33,960 --> 00:39:37,050
+Speaker 1: And other people, I was later to the NES than other people, right?
+
+576
+00:39:37,130 --> 00:39:39,920
+Speaker 1: My light gun was a red light gun, other people had the gray one.
+
+577
+00:39:44,101 --> 00:39:49,680
+Speaker 0: The inscrutable failure that you don't even have the opportunity or the tools to investigate is sometimes the most frustrating.
+
+578
+00:39:50,201 --> 00:39:57,900
+Speaker 1: Yeah, I mean when I was a kid we had NES, you know, it would sometimes not work, we'd blow in the cartridge, we'd try to clean the cartridge, we'd try to clean the inside of the NES.
+
+579
+00:39:58,380 --> 00:40:03,880
+Speaker 1: But a lot, I think, it was probably like the pins not making good contact clean or not, they probably got loose.
+
+580
+00:40:05,381 --> 00:40:07,480
+Speaker 1: And it's like we didn't know how to fix that or try.
+
+581
+00:40:09,484 --> 00:40:11,060
+Speaker 0: We fixed a lot of stuff like that over the years.
+
+582
+00:40:11,100 --> 00:40:13,560
+Speaker 1: I have my NES in the closet, it's not very reliable.
+
+583
+00:40:14,680 --> 00:40:25,100
+Speaker 0: So, the year was, it was 2000, 2001, Scott and I, our freshmen living at RIT, we're not living together yet, this is right before we moved in together.
+
+584
+00:40:25,941 --> 00:40:27,499
+Speaker 0: And then that era lasted a long time.
+
+585
+00:40:28,000 --> 00:40:37,040
+Speaker 0: But, you know, I built a computer that I spent about $4000 on, I cashed in most of my bonds to buy this, to build this computer before I went to college.
+
+586
+00:40:37,200 --> 00:40:46,700
+Speaker 0: And I built an Athlon K7 800, 800 megahertz computer, brought it to college with an 8-bit motherboard.
+
+587
+00:40:48,200 --> 00:40:57,160
+Speaker 0: Just as the year is ending, and where everyone's going home, you left, everyone we knew left, I was like one of the last people from the original FRC hanging out on campus.
+
+588
+00:40:57,861 --> 00:41:01,840
+Speaker 0: And, like, the next day my parents are going to pick me up and drive me back home for the summer.
+
+589
+00:41:02,703 --> 00:41:04,780
+Speaker 0: And I'm playing Counter Strike and my computer crashed.
+
+590
+00:41:05,722 --> 00:41:08,500
+Speaker 0: And when I tried to reboot it, I couldn't get it to reboot.
+
+591
+00:41:09,280 --> 00:41:15,300
+Speaker 0: And I was worried, oh no, I've been overclocking, maybe finally fate has caught up to me.
+
+592
+00:41:15,700 --> 00:41:21,440
+Speaker 0: So I reboot in, like, safe mode, I disable all my, like, fucking overclock bullshit, and I try to boot the computer again.
+
+593
+00:41:21,961 --> 00:41:25,340
+Speaker 0: And it booted for a little while, but then it crashed again.
+
+594
+00:41:26,201 --> 00:41:35,740
+Speaker 0: And I was able to diagnose this one pretty quick too, because when a computer won't boot, and you can't even get into the BIOS, there's a limited number of things that are likely wrong.
+
+595
+00:41:35,780 --> 00:41:45,480
+Speaker 0: And I open the case, and I look at the motherboard, and you know how sometimes when a car is broken and you open the hood, and even if you don't know anything about cars, you're like, well that shouldn't look like that.
+
+596
+00:41:47,182 --> 00:41:52,260
+Speaker 0: I open the case, and I see black goop has come out of, like, ten capacitors on the motherboard.
+
+597
+00:41:53,780 --> 00:42:10,340
+Speaker 0: Because I had fallen victim to the problem that afflicted a lot of capacitors in that era where a specific Chinese company bootlegged a capacitor fluid, and that capacitor fluid was not correct, and any capacitor that used that fluid fucking blew up at some point.
+
+598
+00:42:12,162 --> 00:42:13,184
+Speaker 0: And there's no way to fix that.
+
+599
+00:42:13,204 --> 00:42:21,980
+Speaker 0: I was going to desolder, like, ten capacitors on an AMD motherboard in the year 2001.
+
+600
+00:42:21,980 --> 00:42:24,844
+Speaker 0: And because they didn't sell, like,
+
+601
+00:42:25,464 --> 00:42:25,885
+Speaker 1: already,
+
+602
+00:42:26,245 --> 00:42:39,700
+Speaker 0: within a year, the slot A was obsolete, and AMD moved on to the socket, so I had to throw away the motherboard and the CPU and buy a new motherboard and CPU for a lot of money to get that computer working again.
+
+603
+00:42:40,002 --> 00:42:41,940
+Speaker 0: And then I had to reinstall Windows, and it sucked.
+
+604
+00:42:42,720 --> 00:42:46,992
+Speaker 1: At that same time, I had the most reliable computer I've ever had, right?
+
+605
+00:42:47,052 --> 00:42:49,940
+Speaker 1: The Petium 3 450 with an 8-bit motherboard.
+
+606
+00:42:50,540 --> 00:42:54,909
+Speaker 1: That was the first computer that I built, the second one that I had, by 1999, brought to college with me.
+
+607
+00:42:54,929 --> 00:42:56,492
+Speaker 1: It was only 450 megahertz.
+
+608
+00:42:56,512 --> 00:43:02,581
+Speaker 1: It only cost under $2,000.
+
+609
+00:43:02,581 --> 00:43:07,797
+Speaker 1: But at some point in the second year of college, when I was living with RIM, it stopped working.
+
+610
+00:43:07,837 --> 00:43:08,820
+Speaker 1: Like, it wouldn't even turn on.
+
+611
+00:43:09,941 --> 00:43:11,764
+Speaker 1: And I wasn't as smart as I am now.
+
+612
+00:43:11,824 --> 00:43:13,627
+Speaker 1: I didn't have as much experience as I had now.
+
+613
+00:43:13,687 --> 00:43:15,811
+Speaker 1: In fact, that was a learning experience.
+
+614
+00:43:15,831 --> 00:43:20,820
+Speaker 1: that gives me the experience I have now, in that I tried everything, and it just wasn't working.
+
+615
+00:43:21,341 --> 00:43:27,089
+Speaker 1: And then eventually, I shelled out some money for like, motherboards, CPU, all these other parts and stuff, right?
+
+616
+00:43:27,810 --> 00:43:31,616
+Speaker 1: And it turned out the whole time, it was the power supply.
+
+617
+00:43:32,157 --> 00:43:33,379
+Speaker 1: That was the thing that broke.
+
+618
+00:43:33,639 --> 00:43:34,340
+Speaker 1: It just was dead.
+
+619
+00:43:34,720 --> 00:43:37,530
+Speaker 0: Power supplies used to be way less reliable, too.
+
+620
+00:43:37,631 --> 00:43:39,879
+Speaker 0: Like, that was the era where power supplies were dodgy.
+
+621
+00:43:41,081 --> 00:43:49,520
+Speaker 1: And even though I had bought a super reliable, trustworthy, CTEC, whatever power supply, that was the part that died.
+
+622
+00:43:50,740 --> 00:43:53,504
+Speaker 0: Well, because they were hard to test unless you had specialized equipment.
+
+623
+00:43:54,165 --> 00:44:03,380
+Speaker 0: Even if you have a voltimeter, unless you knew how to make a power supply power up without anything plugged into it, you didn't have a good way to test that kind of thing.
+
+624
+00:44:03,520 --> 00:44:14,420
+Speaker 1: But it's like, all I'm saying is I learned the lesson that if you push the button and your computer to turn it on and everything's plugged in and literally nothing happens, like the fan doesn't even jump a little bit, that's the power supply.
+
+625
+00:44:16,182 --> 00:44:21,035
+Speaker 1: And for basically, while I was trying to figure this all out, I was using RIM's computer.
+
+626
+00:44:21,075 --> 00:44:22,900
+Speaker 1: I had to do some like, schoolwork on RIM's computer.
+
+627
+00:44:23,220 --> 00:44:34,260
+Speaker 0: Well, so, so funny you mentioned that because I remember this exact story scenario because I had been using my computer to try to finish an essay that was due that day in the morning.
+
+628
+00:44:34,701 --> 00:44:35,066
+Speaker 1: Oh, right.
+
+629
+00:44:35,188 --> 00:44:35,898
+Speaker 1: And I deleted it.
+
+630
+00:44:36,060 --> 00:44:42,655
+Speaker 0: Yeah, well, I just, I was late to class, to another class, so I just locked my computer and went to the class.
+
+631
+00:44:42,735 --> 00:44:44,840
+Speaker 0: I was only going to be there for like 45 minutes and then come home.
+
+632
+00:44:45,660 --> 00:44:48,716
+Speaker 1: Right, and I couldn't log in because you locked it instead of going to switch users.
+
+633
+00:44:49,520 --> 00:44:51,340
+Speaker 0: So you just rebooted it and I had control S.
+
+634
+00:44:51,380 --> 00:44:54,219
+Speaker 1: I rebooted it because I needed to use it to do some other work.
+
+635
+00:44:54,560 --> 00:45:00,200
+Speaker 0: So I lost like four paragraphs of an essay, which was moderately annoying at the time because that essay was due that day.
+
+636
+00:45:01,121 --> 00:45:01,809
+Speaker 1: Yes, that day.
+
+637
+00:45:01,890 --> 00:45:02,619
+Speaker 1: I'm sure that was.
+
+638
+00:45:02,720 --> 00:45:11,600
+Speaker 0: But also, to be clear, while Scott is at fault for rebooting someone's computer without permission, I am also at fault for not fucking saving my file.
+
+639
+00:45:11,921 --> 00:45:13,698
+Speaker 1: No, I was definitely at fault.
+
+640
+00:45:14,343 --> 00:45:15,239
+Speaker 0: But I was also at fault.
+
+641
+00:45:15,300 --> 00:45:23,840
+Speaker 1: And none of that would have even happened if I had realized the power supply was the problem because by that time, if I had figured that out immediately, I would have already had a new power supply by that time.
+
+642
+00:45:23,860 --> 00:45:28,619
+Speaker 0: But also, I could have 100% protected myself from this by hitting control S at any goddamn point.
+
+643
+00:45:29,240 --> 00:45:30,228
+Speaker 1: That is also true.
+
+644
+00:45:30,248 --> 00:45:31,539
+Speaker 1: That is also true.
+
+645
+00:45:32,960 --> 00:45:34,587
+Speaker 0: So fast forward a little bit.
+
+646
+00:45:34,727 --> 00:45:36,635
+Speaker 0: The year is 2007.
+
+647
+00:45:36,635 --> 00:45:37,900
+Speaker 0: I am building another computer.
+
+648
+00:45:38,900 --> 00:45:40,533
+Speaker 0: And like Emily's parents have come over.
+
+649
+00:45:40,554 --> 00:45:41,320
+Speaker 0: We're living in Beacon.
+
+650
+00:45:42,501 --> 00:45:51,380
+Speaker 0: This is the era, I'd say between around 2005 and 2009, is when that was like the nadir of building PC's technology.
+
+651
+00:45:51,640 --> 00:45:53,448
+Speaker 0: Like the motherboards were the shittiest.
+
+652
+00:45:53,669 --> 00:45:55,880
+Speaker 0: The components were the least compatible with each other.
+
+653
+00:45:56,400 --> 00:45:58,855
+Speaker 0: Everything was expensive or it was AMD and it sucked.
+
+654
+00:45:58,875 --> 00:45:59,580
+Speaker 0: Like everything sucked.
+
+655
+00:46:00,263 --> 00:46:04,560
+Speaker 0: But I needed a new computer for Geek Nights because my old one was not working so well anymore.
+
+656
+00:46:05,421 --> 00:46:09,460
+Speaker 0: And I bought all this stuff and I'm putting it together and I can't get it to boot.
+
+657
+00:46:10,143 --> 00:46:12,119
+Speaker 0: And the power supply was the problem there too.
+
+658
+00:46:12,700 --> 00:46:29,540
+Speaker 0: But the power supply was failing, not because the power supply was bad, but because I was able to determine later that specific power supply brand was incompatible with the kind of motherboard that I had bought for inscrutable fuckers.
+
+659
+00:46:29,600 --> 00:46:30,851
+Speaker 1: That was the right kind of plug.
+
+660
+00:46:30,871 --> 00:46:31,779
+Speaker 1: They were both ATX.
+
+661
+00:46:32,581 --> 00:46:42,640
+Speaker 0: Everything was fine, but that was the era where you had to go to websites just to make sure, hey, is my standard RAM compliant with this specific motherboard?
+
+662
+00:46:42,801 --> 00:46:46,279
+Speaker 0: Because a lot of times, especially if you're using AMD, the answer was no.
+
+663
+00:46:48,381 --> 00:46:50,545
+Speaker 0: And that was when I learned how to do things like.
+
+664
+00:46:50,625 --> 00:46:59,680
+Speaker 0: I bought what was basically a bank of resistors and you could plug it into a power supply that had an ATX connector.
+
+665
+00:47:00,301 --> 00:47:10,860
+Speaker 0: And then you could force the power supply to current turn on by shorting some cables and it would route power into those resistors because the power supplies wouldn't boot, wouldn't power on unless they had a load.
+
+666
+00:47:11,201 --> 00:47:12,164
+Speaker 0: So you gave it a fake load.
+
+667
+00:47:12,184 --> 00:47:16,940
+Speaker 0: You could only run this thing for like a minute or it was going to get hot and be a problem.
+
+668
+00:47:17,200 --> 00:47:19,646
+Speaker 0: But that was how you could test power supplies.
+
+669
+00:47:19,947 --> 00:47:22,754
+Speaker 0: And that's how I determined there's nothing wrong with the power supply.
+
+670
+00:47:22,774 --> 00:47:25,400
+Speaker 0: The problem is between the power supply and the motherboard.
+
+671
+00:47:26,181 --> 00:47:26,401
+Speaker 1: Yep.
+
+672
+00:47:27,444 --> 00:47:32,700
+Speaker 1: Anyway, so for some reason, I have lots of monitor related problems.
+
+673
+00:47:33,080 --> 00:47:33,241
+Speaker 0: You do.
+
+674
+00:47:33,341 --> 00:47:37,240
+Speaker 0: And I've never had a monitor problem except the time I thought one that was mailed to me was a bomb.
+
+675
+00:47:37,340 --> 00:47:41,849
+Speaker 1: So the so the other monitor, you know, for years and years, I only bought Dell UltraSharp monitors.
+
+676
+00:47:41,929 --> 00:47:48,000
+Speaker 1: And in fact, I say for years and years, but I mean like twice because they lasted so long that I fucked up.
+
+677
+00:47:48,180 --> 00:47:49,107
+Speaker 0: I am still to this day.
+
+678
+00:47:49,147 --> 00:47:50,779
+Speaker 0: I've got two Dell Ultrasharps in front of me.
+
+679
+00:47:51,020 --> 00:47:52,385
+Speaker 0: You know what I have not done?
+
+680
+00:47:52,405 --> 00:47:56,960
+Speaker 1: To be fair, the previous the previous monitor I just discussed with the vertical bars was an ultra sharp.
+
+681
+00:47:58,440 --> 00:48:00,226
+Speaker 1: But the new one is excellent.
+
+682
+00:48:00,266 --> 00:48:00,487
+Speaker 1: Right.
+
+683
+00:48:00,608 --> 00:48:01,872
+Speaker 1: And the support was excellent.
+
+684
+00:48:02,414 --> 00:48:04,040
+Speaker 1: And the previous ones were all excellent.
+
+685
+00:48:05,261 --> 00:48:06,784
+Speaker 1: And they lasted a super long time.
+
+686
+00:48:07,164 --> 00:48:08,687
+Speaker 1: But I wanted to get one.
+
+687
+00:48:08,747 --> 00:48:11,172
+Speaker 1: My idea was I'll have one ultra sharp.
+
+688
+00:48:11,693 --> 00:48:11,913
+Speaker 1: Right.
+
+689
+00:48:11,973 --> 00:48:15,440
+Speaker 1: That is super accurate colors or at least reasonably accurate colors.
+
+690
+00:48:15,620 --> 00:48:15,761
+Speaker 1: Right.
+
+691
+00:48:15,821 --> 00:48:16,702
+Speaker 1: More than normal.
+
+692
+00:48:17,424 --> 00:48:18,926
+Speaker 1: And, you know, whatnot.
+
+693
+00:48:19,027 --> 00:48:26,240
+Speaker 1: And then I would get a second monitor that would be high refresh rate and, you know, HDR and whatnot.
+
+694
+00:48:26,320 --> 00:48:28,887
+Speaker 1: So that it would be sort of like a gaming entertainment over here.
+
+695
+00:48:28,907 --> 00:48:29,628
+Speaker 1: Right.
+
+696
+00:48:29,929 --> 00:48:34,160
+Speaker 1: And, you know, photo shops or video editing or, you know, over there.
+
+697
+00:48:35,580 --> 00:48:38,088
+Speaker 1: And every day stuff I can use either monitor.
+
+698
+00:48:38,108 --> 00:48:38,750
+Speaker 1: It doesn't matter.
+
+699
+00:48:38,790 --> 00:48:39,332
+Speaker 1: Web browser.
+
+700
+00:48:39,372 --> 00:48:40,676
+Speaker 1: Who cares which monitor it's on.
+
+701
+00:48:40,737 --> 00:48:40,977
+Speaker 1: Right.
+
+702
+00:48:41,118 --> 00:48:41,680
+Speaker 1: It's all the same.
+
+703
+00:48:42,621 --> 00:48:44,707
+Speaker 1: And that way I would sort of the best of both worlds.
+
+704
+00:48:45,309 --> 00:48:47,976
+Speaker 1: And so I got this LG monitor that was like a fucking fortune.
+
+705
+00:48:48,037 --> 00:48:49,080
+Speaker 1: It was like eight hundred dollars.
+
+706
+00:48:50,281 --> 00:48:53,792
+Speaker 1: And it was super highly rated and it was reviewed the best.
+
+707
+00:48:53,892 --> 00:48:54,734
+Speaker 1: Like, you know, whatever.
+
+708
+00:48:54,754 --> 00:48:56,640
+Speaker 1: It's one hundred and forty four hertz monitor.
+
+709
+00:48:56,820 --> 00:49:02,675
+Speaker 1: And I'm like, even though I only have a ten seventy that can only do ninety something hertz, I can't get to one forty four.
+
+710
+00:49:02,695 --> 00:49:04,740
+Speaker 1: I'm future proof now.
+
+711
+00:49:05,081 --> 00:49:05,842
+Speaker 1: It's a monitor.
+
+712
+00:49:05,942 --> 00:49:06,884
+Speaker 1: It'll last forever.
+
+713
+00:49:07,445 --> 00:49:14,620
+Speaker 1: By the time I buy a new computer with the Nvidia seventy seventy, whatever, seventy eighty, I'll have the monitor already.
+
+714
+00:49:14,941 --> 00:49:17,205
+Speaker 1: I won't need to shell out for a new one.
+
+715
+00:49:17,225 --> 00:49:18,868
+Speaker 1: This is this is worth it.
+
+716
+00:49:18,968 --> 00:49:20,571
+Speaker 1: Plus I already have HDR still.
+
+717
+00:49:20,611 --> 00:49:21,072
+Speaker 1: So it's good.
+
+718
+00:49:21,973 --> 00:49:25,720
+Speaker 1: And the monitor was excellent for I've had it now since twenty twenty one.
+
+719
+00:49:25,840 --> 00:49:26,782
+Speaker 1: So it's three years old.
+
+720
+00:49:26,822 --> 00:49:28,125
+Speaker 1: I bought it early twenty twenty one.
+
+721
+00:49:29,007 --> 00:49:33,517
+Speaker 1: And the the warranty I recently discovered was only one year.
+
+722
+00:49:33,537 --> 00:49:34,238
+Speaker 1: So right.
+
+723
+00:49:35,681 --> 00:49:36,343
+Speaker 1: And what happened?
+
+724
+00:49:36,363 --> 00:49:37,587
+Speaker 1: I was just using the monitor.
+
+725
+00:49:37,767 --> 00:49:39,573
+Speaker 1: Normally I wasn't doing anything in particular.
+
+726
+00:49:39,593 --> 00:49:41,819
+Speaker 1: It just flipped the fuck out.
+
+727
+00:49:42,421 --> 00:49:43,443
+Speaker 0: That is that is the bet.
+
+728
+00:49:43,483 --> 00:49:45,969
+Speaker 0: I think that is the technical term for what you described.
+
+729
+00:49:46,550 --> 00:49:50,960
+Speaker 1: I found the videos online of other people at the same monitor at the same with the same problem.
+
+730
+00:49:51,140 --> 00:49:57,160
+Speaker 1: I wasn't able to capture it on video, but these other people were able to capture and video and you can see the flip the fuck out.
+
+731
+00:49:57,320 --> 00:50:04,080
+Speaker 1: And the biggest problem with the flip the fuck out is like some of the image like remains burned in, but only the blue component.
+
+732
+00:50:04,301 --> 00:50:08,719
+Speaker 1: So it's like a whole bunch of obviously all the blue pixels, like on half the monitor gets stuck on.
+
+733
+00:50:10,741 --> 00:50:11,623
+Speaker 1: And it's like, what the hell?
+
+734
+00:50:11,963 --> 00:50:13,747
+Speaker 1: So it's like, is it the monitor?
+
+735
+00:50:13,847 --> 00:50:14,588
+Speaker 1: Is it the computer?
+
+736
+00:50:14,668 --> 00:50:15,149
+Speaker 1: I don't know.
+
+737
+00:50:15,269 --> 00:50:15,510
+Speaker 1: Right.
+
+738
+00:50:15,830 --> 00:50:20,980
+Speaker 1: But it even if it is the computer, that means unplugging the computer, everything should be fine.
+
+739
+00:50:21,221 --> 00:50:21,361
+Speaker 1: Right.
+
+740
+00:50:21,381 --> 00:50:22,864
+Speaker 1: Because it's sending some weird signal.
+
+741
+00:50:22,905 --> 00:50:24,669
+Speaker 1: The monitors just displaying what it's told.
+
+742
+00:50:25,872 --> 00:50:27,455
+Speaker 1: But no, I unplugged everything.
+
+743
+00:50:27,516 --> 00:50:29,059
+Speaker 1: You turn the monitor on and there it is.
+
+744
+00:50:29,500 --> 00:50:30,041
+Speaker 1: Or you switch.
+
+745
+00:50:30,121 --> 00:50:38,958
+Speaker 1: I switched to a completely different computer using different HDMI cable, using display port instead of HDMI, switching between the two different devices, different ports.
+
+746
+00:50:39,339 --> 00:50:39,940
+Speaker 1: There it is.
+
+747
+00:50:40,440 --> 00:50:42,984
+Speaker 1: And it's like, well, that's clearly in the monitor.
+
+748
+00:50:43,004 --> 00:50:43,805
+Speaker 1: Right.
+
+749
+00:50:44,085 --> 00:50:55,280
+Speaker 1: And so if the computer did something wrong, it still means the monitor did something wrong because nothing the computer sends to the monitor should cause the monitor to permanently flip out in that way.
+
+750
+00:50:55,781 --> 00:50:56,002
+Speaker 0: Right.
+
+751
+00:50:56,182 --> 00:50:56,363
+Speaker 0: Yeah.
+
+752
+00:50:56,403 --> 00:51:00,716
+Speaker 0: There's a different thing a computer could do to a monitor that could permanently ruin it.
+
+753
+00:51:00,756 --> 00:51:02,120
+Speaker 0: But I'll talk about that as my next one.
+
+754
+00:51:02,800 --> 00:51:02,940
+Speaker 1: Yeah.
+
+755
+00:51:03,421 --> 00:51:10,731
+Speaker 1: So thankfully, the blue pixel thing sort of faded away over time and that resolved itself.
+
+756
+00:51:10,871 --> 00:51:17,520
+Speaker 1: But what happened at the same time, that breakage caused another breakage, which is that I noticed like this flickering.
+
+757
+00:51:17,880 --> 00:51:22,746
+Speaker 1: Like it looked like the backlight was flickering on like half the screen flipped out.
+
+758
+00:51:23,467 --> 00:51:23,908
+Speaker 1: So I'm like, what?
+
+759
+00:51:23,968 --> 00:51:25,530
+Speaker 1: I'm like, this is unusably broken.
+
+760
+00:51:26,110 --> 00:51:34,080
+Speaker 1: And so I start experimenting with all the different settings in the monitors menus and all the display settings on the computer side to try to figure it out.
+
+761
+00:51:34,160 --> 00:51:37,003
+Speaker 1: And I noticed it was really only happening when I'm at 60 Hertz.
+
+762
+00:51:37,063 --> 00:51:45,532
+Speaker 1: If I go to the higher refresh rate, which my new Mac Pro can do, MacBook Pro, it was actually either not happening or not noticeable.
+
+763
+00:51:45,812 --> 00:51:46,693
+Speaker 1: And I'm like, hmm.
+
+764
+00:51:47,614 --> 00:51:47,974
+Speaker 1: All right.
+
+765
+00:51:48,054 --> 00:51:51,217
+Speaker 1: I guess I can, quote, fix it if I leave it at 144 later.
+
+766
+00:51:54,120 --> 00:51:54,641
+Speaker 1: So I did.
+
+767
+00:51:54,661 --> 00:51:55,923
+Speaker 1: And it seems fine.
+
+768
+00:51:56,844 --> 00:52:02,972
+Speaker 1: But I did notice that with like I have it all yet again, all gray screen seems to make any weird artifacts more visible.
+
+769
+00:52:03,493 --> 00:52:07,898
+Speaker 1: And I have an all gray screen a lot of times because I'll put a Visual Studio code and there's not a lot of text.
+
+770
+00:52:07,959 --> 00:52:09,040
+Speaker 1: It's mostly a gray screen.
+
+771
+00:52:09,800 --> 00:52:13,866
+Speaker 1: And I looked closely and I noticed like certain rectangles on the screen.
+
+772
+00:52:14,207 --> 00:52:17,231
+Speaker 1: If you look close, you're actually a different shade of gray than the others.
+
+773
+00:52:18,072 --> 00:52:23,240
+Speaker 1: It's like the screen is broken up into like like some set of rectangles and something that the brightness zones.
+
+774
+00:52:24,381 --> 00:52:24,721
+Speaker 1: I don't know.
+
+775
+00:52:24,761 --> 00:52:25,202
+Speaker 1: It might be.
+
+776
+00:52:25,302 --> 00:52:26,623
+Speaker 0: I'm assuming that's brightness zone.
+
+777
+00:52:26,683 --> 00:52:28,886
+Speaker 0: So each one is good independently controlled LED.
+
+778
+00:52:29,527 --> 00:52:29,767
+Speaker 1: Yeah.
+
+779
+00:52:29,808 --> 00:52:39,520
+Speaker 1: But adjusting the any of those settings related to like, you know, dynamic, you know, dynamic dimming, whatever had no effect on this problem whatsoever.
+
+780
+00:52:41,580 --> 00:52:47,406
+Speaker 1: So, yeah, there's basically this very slight color problem on like parts of the monitor versus other parts.
+
+781
+00:52:47,446 --> 00:52:50,950
+Speaker 1: You can't really notice unless the screen has certain images and you're looking closely.
+
+782
+00:52:52,051 --> 00:52:56,956
+Speaker 1: But also later on, I waited and I was like, you know, let me check 60 hertz again.
+
+783
+00:52:57,016 --> 00:52:57,777
+Speaker 1: Let's see what's doing.
+
+784
+00:52:58,057 --> 00:53:00,920
+Speaker 1: The other half of the monitor was flickering and the original half was fine.
+
+785
+00:53:01,320 --> 00:53:01,480
+Speaker 1: Yeah.
+
+786
+00:53:01,521 --> 00:53:06,086
+Speaker 1: So this monitor has sort of fundamentally just like fucked itself.
+
+787
+00:53:06,247 --> 00:53:06,887
+Speaker 1: And it's not.
+
+788
+00:53:08,049 --> 00:53:16,860
+Speaker 1: it's a common problem with this monitor and may not might not be super common, but at least there I found other people on the Internet showing the exact same problem with the monitor.
+
+789
+00:53:17,380 --> 00:53:18,722
+Speaker 1: It's an unreliable monitor.
+
+790
+00:53:20,163 --> 00:53:23,546
+Speaker 1: And I went to LG for support and they were not nearly as good as Dell.
+
+791
+00:53:23,586 --> 00:53:25,808
+Speaker 1: They were like, haha, your warranty's over.
+
+792
+00:53:26,068 --> 00:53:30,552
+Speaker 1: We're not really going to help you be on the standard help text, not like having a human talk to you like Dell did.
+
+793
+00:53:31,052 --> 00:53:40,100
+Speaker 1: And also you can send it in repairs or take it to your local TV repair place or and it's going to cost you money either way.
+
+794
+00:53:40,580 --> 00:53:43,804
+Speaker 1: And I'm like, this monitor cost an arm and a leg for a fancy monitor.
+
+795
+00:53:44,245 --> 00:53:44,465
+Speaker 1: Right.
+
+796
+00:53:44,525 --> 00:53:45,346
+Speaker 1: Go fuck yourself.
+
+797
+00:53:45,386 --> 00:53:45,586
+Speaker 1: Yeah.
+
+798
+00:53:45,847 --> 00:53:46,648
+Speaker 1: Fuck you, LG.
+
+799
+00:53:46,668 --> 00:53:53,015
+Speaker 1: I guess I'm since it was so much money, I'm just going to keep using it until it's like it's manageable.
+
+800
+00:53:53,055 --> 00:53:57,140
+Speaker 1: Now I leave it at 144 hertz and it's manageable.
+
+801
+00:53:57,380 --> 00:54:03,627
+Speaker 1: But if it becomes unmanageable, like it's just broken, broken, I guess I'll just try to sell it for whatever.
+
+802
+00:54:03,667 --> 00:54:05,349
+Speaker 1: someone will pay for a broken monitor.
+
+803
+00:54:05,369 --> 00:54:08,333
+Speaker 1: And I don't know, I can't.
+
+804
+00:54:08,353 --> 00:54:09,995
+Speaker 1: I went to look and shop for monitors.
+
+805
+00:54:10,195 --> 00:54:13,038
+Speaker 1: I didn't see one that was meeting what I wanted.
+
+806
+00:54:13,158 --> 00:54:14,159
+Speaker 1: They're like, it doesn't exist.
+
+807
+00:54:14,219 --> 00:54:14,780
+Speaker 1: So I'm worried.
+
+808
+00:54:16,200 --> 00:54:20,503
+Speaker 0: Because I really only need 60 hertz, like I'm not really like I don't.
+
+809
+00:54:20,543 --> 00:54:22,024
+Speaker 1: Yeah, I only need 60 hertz.
+
+810
+00:54:22,044 --> 00:54:23,826
+Speaker 1: But like I was saying, I kind of want a future proof.
+
+811
+00:54:25,247 --> 00:54:34,433
+Speaker 1: I don't want it because if I buy a 60 hertz monitor now and then I buy a 7080 in a few years now, I can't make most use of the 7080 without with the 60 hertz.
+
+812
+00:54:34,513 --> 00:54:35,774
+Speaker 0: And I got these Dell ultra sharp.
+
+813
+00:54:35,794 --> 00:54:38,456
+Speaker 0: So I'm going to try to hold out at least like five more years before I upgrade.
+
+814
+00:54:38,536 --> 00:54:41,398
+Speaker 1: But the one on the right, the more refurbished one that I got for free.
+
+815
+00:54:41,418 --> 00:54:44,420
+Speaker 1: This thing better last me at least until 2030.
+
+816
+00:54:44,420 --> 00:54:56,729
+Speaker 0: So speaking of money longer and it was a problem with these two Dell ultra sharps, actually, this was one of the most infuriating hardware problems I have ever had to troubleshoot that I was not being paid to troubleshoot by my job.
+
+817
+00:54:56,749 --> 00:54:58,410
+Speaker 0: I'm not going to talk about that one.
+
+818
+00:54:58,430 --> 00:54:59,090
+Speaker 0: That's a whole other.
+
+819
+00:54:59,310 --> 00:55:00,291
+Speaker 0: That's not a tech failure.
+
+820
+00:55:00,351 --> 00:55:05,574
+Speaker 0: That's the difference between 802.2 and ethernet.
+
+821
+00:55:05,614 --> 00:55:10,418
+Speaker 0: Anyway, so one day, you know, I'm using these two Dell ultra sharps.
+
+822
+00:55:10,458 --> 00:55:13,780
+Speaker 0: I just gotten them and one of them won't turn on like one will turn on.
+
+823
+00:55:13,800 --> 00:55:14,481
+Speaker 0: And one won't.
+
+824
+00:55:15,221 --> 00:55:16,743
+Speaker 0: So I'm like, ah, shit.
+
+825
+00:55:17,303 --> 00:55:20,787
+Speaker 0: So I swapped the cables and I do the usual troubleshooting.
+
+826
+00:55:21,087 --> 00:55:22,969
+Speaker 0: And one of the monitors just seems like it's fucked.
+
+827
+00:55:23,570 --> 00:55:25,431
+Speaker 0: So I'm extremely unhappy about this.
+
+828
+00:55:25,712 --> 00:55:28,194
+Speaker 0: So I set it aside and I decide to deal with it later.
+
+829
+00:55:28,815 --> 00:55:33,740
+Speaker 0: And like a few hours later, I go to like resume my troubleshooting and it works fine.
+
+830
+00:55:34,761 --> 00:55:35,601
+Speaker 0: So I don't think much about it.
+
+831
+00:55:36,482 --> 00:55:39,164
+Speaker 0: The next day, the same one stops working again.
+
+832
+00:55:39,945 --> 00:55:41,607
+Speaker 0: So fuck, I start troubleshooting.
+
+833
+00:55:41,667 --> 00:55:47,211
+Speaker 0: I have plugged in, unplugged, swapping cables, swapping every possible thing, putting them through adapters.
+
+834
+00:55:47,632 --> 00:55:50,454
+Speaker 0: And then a few hours later, starts working again.
+
+835
+00:55:51,195 --> 00:55:51,455
+Speaker 1: Hmm.
+
+836
+00:55:52,216 --> 00:55:57,160
+Speaker 0: So I swap which cable is pointing at which one and nothing changes.
+
+837
+00:55:58,400 --> 00:56:03,424
+Speaker 0: This happens a few times, but then the left monitor fails and the right one's fine.
+
+838
+00:56:04,185 --> 00:56:04,385
+Speaker 1: Hmm.
+
+839
+00:56:04,785 --> 00:56:07,627
+Speaker 0: So but I haven't swapped anything during that iteration.
+
+840
+00:56:08,268 --> 00:56:09,669
+Speaker 0: And the long story.
+
+841
+00:56:09,849 --> 00:56:23,380
+Speaker 0: to make a long story short, I was only able to troubleshoot this because when I was describing the insanity of this problem, a few of our friends and you might have been one of the people who mentioned it said, oh, that sounds like the DisplayPort pin 20 problem.
+
+842
+00:56:25,161 --> 00:56:26,743
+Speaker 1: I don't think I was the one who knew that.
+
+843
+00:56:26,923 --> 00:56:31,590
+Speaker 1: Yeah, maybe we both learned about it, but basically, I think I learned about it when you hit.
+
+844
+00:56:31,630 --> 00:56:38,380
+Speaker 1: it might have been you might have found the answer while I was describing or if I or if I did know it, I forgot that I knew it.
+
+845
+00:56:39,181 --> 00:56:48,129
+Speaker 0: Basically, the problem was a lot of DisplayPort cables were bootleg and wired up wrong and they wire this one pin all the way through.
+
+846
+00:56:48,529 --> 00:56:49,610
+Speaker 0: But that pin is for power.
+
+847
+00:56:50,230 --> 00:57:01,120
+Speaker 0: So if you have a DisplayPort cable like that, then the monitor is sending 500 milliamps at three point three volts over that cable at your GPU.
+
+848
+00:57:01,901 --> 00:57:07,408
+Speaker 0: But your GPU is sending 500 milliamps or three point three volts at the monitor.
+
+849
+00:57:07,889 --> 00:57:16,720
+Speaker 0: And what are the ramifications of this kind of random, depending on a lot of factors like there's no way to troubleshoot that shit.
+
+850
+00:57:17,100 --> 00:57:18,082
+Speaker 0: That's just insane.
+
+851
+00:57:18,142 --> 00:57:19,104
+Speaker 0: There's no way to fix that.
+
+852
+00:57:19,425 --> 00:57:20,707
+Speaker 0: It can cause permanent damage.
+
+853
+00:57:21,048 --> 00:57:23,733
+Speaker 0: It was basically it was causing the monitor to get into a bad state.
+
+854
+00:57:24,074 --> 00:57:27,320
+Speaker 0: But then eventually, I guess some capacitor were drained and that would be fine again.
+
+855
+00:57:28,100 --> 00:57:35,420
+Speaker 1: So the way I know that that is not the problem I'm experiencing, because this is like the top quality DisplayPort cable that came with.
+
+856
+00:57:35,921 --> 00:57:42,996
+Speaker 0: I mean, the way to avoid that problem, don't buy DisplayPort cables off Amazon or Wish or whatever, Temu or make sure your monitors will come with them.
+
+857
+00:57:43,296 --> 00:57:43,917
+Speaker 1: Use that one.
+
+858
+00:57:43,938 --> 00:57:44,439
+Speaker 1: Right.
+
+859
+00:57:44,519 --> 00:57:45,080
+Speaker 1: And you'll be good.
+
+860
+00:57:45,240 --> 00:57:53,660
+Speaker 0: So I went through every DSP cable I owned, determined which ones had the 20, the pin 20 problem, cut them in two and threw them away one by one.
+
+861
+00:57:54,221 --> 00:57:54,621
+Speaker 1: That's right.
+
+862
+00:57:55,542 --> 00:57:56,944
+Speaker 1: I had a similar problem, actually.
+
+863
+00:57:57,004 --> 00:58:01,551
+Speaker 1: The TV that I had before I moved to this apartment, I gave it away for free when I moved.
+
+864
+00:58:01,952 --> 00:58:07,880
+Speaker 1: It had a problem where I'm pretty sure it was capacitor related, where you turn the TV off and it worked.
+
+865
+00:58:08,360 --> 00:58:09,041
+Speaker 1: It turns off.
+
+866
+00:58:09,382 --> 00:58:09,602
+Speaker 1: Right.
+
+867
+00:58:10,183 --> 00:58:15,871
+Speaker 1: But when you turned it off, you had to wait some unknown amount of time before attempting to turn it on again.
+
+868
+00:58:15,911 --> 00:58:21,520
+Speaker 1: If you turned it off and then turned it on again too quickly, the red light would blink as if it was attempting to turn on.
+
+869
+00:58:21,981 --> 00:58:23,803
+Speaker 1: And then it would hold steady as if it was on.
+
+870
+00:58:23,823 --> 00:58:25,265
+Speaker 0: All right.
+
+871
+00:58:25,305 --> 00:58:26,187
+Speaker 0: I remember this.
+
+872
+00:58:26,727 --> 00:58:28,430
+Speaker 1: But then it wouldn't be on.
+
+873
+00:58:28,811 --> 00:58:31,895
+Speaker 1: It would just be a black screen that the display wouldn't actually turn.
+
+874
+00:58:31,915 --> 00:58:35,260
+Speaker 1: It would still be off as far as you could tell, even though it thought it was on.
+
+875
+00:58:35,380 --> 00:58:41,168
+Speaker 1: So I think the board probably thought it was on, but the display was not on and the backlight wasn't on either.
+
+876
+00:58:41,588 --> 00:58:50,100
+Speaker 1: And so if this happened, the only thing you could do was unplug the television and wait an indeterminate amount of time.
+
+877
+00:58:50,280 --> 00:58:50,480
+Speaker 1: Yeah.
+
+878
+00:58:51,201 --> 00:58:54,406
+Speaker 1: For I presume capacitors to drain or the whatever.
+
+879
+00:58:54,506 --> 00:58:54,947
+Speaker 1: Who knows?
+
+880
+00:58:55,487 --> 00:58:58,211
+Speaker 1: And then you could plug the TV back in and turn it on.
+
+881
+00:58:58,872 --> 00:59:01,896
+Speaker 1: If you tried to do it quickly, like unplug, replug, that wasn't going to work.
+
+882
+00:59:01,916 --> 00:59:04,540
+Speaker 1: You had to wait some amount of unknown amount of time.
+
+883
+00:59:05,440 --> 00:59:08,005
+Speaker 1: And then you turn the TV on again and then you'd be good to go.
+
+884
+00:59:08,165 --> 00:59:09,026
+Speaker 1: And just you just couldn't.
+
+885
+00:59:09,066 --> 00:59:12,412
+Speaker 1: The only thing is you couldn't turn it on quickly after turning it off.
+
+886
+00:59:12,432 --> 00:59:13,093
+Speaker 1: You turn it off.
+
+887
+00:59:13,374 --> 00:59:17,280
+Speaker 1: You had to wait before turning it on and you would never experience the problem.
+
+888
+00:59:17,380 --> 00:59:23,233
+Speaker 1: So when I gave it away for free, I let the people know that I never tried to repair it or diagnose it.
+
+889
+00:59:23,354 --> 00:59:25,980
+Speaker 1: I just didn't turn it on quickly after turning it off.
+
+890
+00:59:27,041 --> 00:59:31,486
+Speaker 0: The most infuriating thing I have ever troubleshot was my own fault.
+
+891
+00:59:31,987 --> 00:59:43,300
+Speaker 0: And I'm not going to describe how I troubleshot it because it was very hard to troubleshoot and involves a lot of talk of DHCP and low level networking and doing taps.
+
+892
+00:59:43,660 --> 00:59:44,802
+Speaker 0: But I can.
+
+893
+00:59:44,942 --> 00:59:47,346
+Speaker 0: I can explain the manifestation.
+
+894
+00:59:47,386 --> 00:59:57,420
+Speaker 0: The manifestation was that you have a computer and you plug it into a switch with an ethernet cable and you get a link light, but you cannot establish a connection over that cable.
+
+895
+00:59:57,440 --> 00:59:58,421
+Speaker 0: Like just nothing works.
+
+896
+00:59:59,222 --> 01:00:00,264
+Speaker 0: But there is a link light.
+
+897
+01:00:00,704 --> 01:00:01,565
+Speaker 0: The switch lights up.
+
+898
+01:00:02,126 --> 01:00:03,948
+Speaker 0: The mother of network card lights up.
+
+899
+01:00:04,429 --> 01:00:05,390
+Speaker 0: There is a connection.
+
+900
+01:00:05,570 --> 01:00:07,853
+Speaker 0: The computer detects ethernet cable is there.
+
+901
+01:00:07,873 --> 01:00:11,157
+Speaker 0: And if you try to use it, it just kind of doesn't work.
+
+902
+01:00:11,217 --> 01:00:13,460
+Speaker 0: And like the packets don't all get there.
+
+903
+01:00:15,621 --> 01:00:27,400
+Speaker 0: I caused this because I made ethernet cables for my brother and all the people in his dorm when he moved into college with that same crimper that I bought to make all our cables when we were at RIT.
+
+904
+01:00:28,461 --> 01:00:43,297
+Speaker 0: And one of the cables that I made, I made I must have just been moving too fast and I shorted two pins on that cable inside the head, like inside the connector in the exact way.
+
+905
+01:00:43,317 --> 01:00:46,620
+Speaker 0: That is how a link light is detected.
+
+906
+01:00:47,301 --> 01:00:49,066
+Speaker 0: So I made a trap.
+
+907
+01:00:49,488 --> 01:00:53,800
+Speaker 0: I made a cable that will always show a link light, but could never be used to send data.
+
+908
+01:00:57,382 --> 01:00:57,422
+Speaker 1: OK.
+
+909
+01:00:57,442 --> 01:00:58,204
+Speaker 1: That's not a fail.
+
+910
+01:00:58,264 --> 01:00:59,447
+Speaker 1: That's just you fucking up.
+
+911
+01:00:59,548 --> 01:00:59,768
+Speaker 0: Yeah.
+
+912
+01:00:59,929 --> 01:01:01,293
+Speaker 0: Well, the hardware was.
+
+913
+01:01:01,313 --> 01:01:03,920
+Speaker 0: I guess the hardware was failed from day one.
+
+914
+01:01:06,261 --> 01:01:07,883
+Speaker 0: I feel like your monitor problems are.
+
+915
+01:01:07,963 --> 01:01:10,567
+Speaker 0: I bet that's just a problem with the hardware in that monitor.
+
+916
+01:01:11,408 --> 01:01:13,091
+Speaker 0: Maybe the firmware, something like that.
+
+917
+01:01:15,654 --> 01:01:16,916
+Speaker 0: Anyway, we've gone on for over an hour.
+
+918
+01:01:16,936 --> 01:01:19,460
+Speaker 0: I feel like that's enough failures to talk about.
+
+919
+01:01:19,941 --> 01:01:20,383
+Speaker 1: That's enough.
+
+920
+01:01:20,724 --> 01:01:21,729
+Speaker 0: Yeah.
+
+921
+01:01:21,769 --> 01:01:22,713
+Speaker 0: Is there a moral to this?
+
+922
+01:01:22,774 --> 01:01:24,079
+Speaker 0: I feel like the moral is.
+
+923
+01:01:24,400 --> 01:01:27,147
+Speaker 1: The moral is you need to pick books for the book club.
+
+924
+01:01:27,228 --> 01:01:27,488
+Speaker 1: Yes.
+
+925
+01:01:27,949 --> 01:01:30,736
+Speaker 0: Also, the moral is basic.
+
+926
+01:01:30,796 --> 01:01:32,240
+Speaker 0: troubleshooting skills are universal.
+
+927
+01:01:33,840 --> 01:01:35,886
+Speaker 1: And sometimes shit really does just break in.
+
+928
+01:01:35,926 --> 01:01:38,674
+Speaker 1: It's not rim breaking it on purpose to make an excuse to buy something new.
+
+929
+01:01:38,794 --> 01:01:40,680
+Speaker 0: Just like sometimes your thing crash.
+
+930
+01:01:40,940 --> 01:01:45,171
+Speaker 1: Although sometimes it is rim breaking something on purpose so he doesn't feel bad about buying something new like you.
+
+931
+01:01:45,212 --> 01:01:46,716
+Speaker 0: You definitely want a new monitor here.
+
+932
+01:01:46,796 --> 01:01:48,360
+Speaker 0: I feel like I do not have a monitor.
+
+933
+01:01:48,460 --> 01:01:50,710
+Speaker 1: This monitor is so great if it only works.
+
+934
+01:01:51,453 --> 01:01:53,040
+Speaker 1: It was like the best monitor when it was working.
+
+935
+01:01:58,540 --> 01:02:00,889
+Speaker 0: This has been Geek Nights with Rim and Scott.
+
+936
+01:02:00,950 --> 01:02:03,460
+Speaker 0: Special thanks to DJ Pretzel for the opening theme.
+
+937
+01:02:03,660 --> 01:02:09,680
+Speaker 1: Be sure to visit our website at frontrowclue.com for show notes, discussion, links and more.
+
+938
+01:02:10,160 --> 01:02:12,825
+Speaker 0: Remember, Geek Nights is not one but four different shows.
+
+939
+01:02:13,125 --> 01:02:14,788
+Speaker 0: Mondays are science and technology.
+
+940
+01:02:14,848 --> 01:02:16,592
+Speaker 0: Tuesdays gaming and games.
+
+941
+01:02:16,712 --> 01:02:18,535
+Speaker 0: Wednesdays are animation and comics.
+
+942
+01:02:18,856 --> 01:02:21,300
+Speaker 0: Thursdays are arbitrary and indiscriminate.
+
+943
+01:02:21,320 --> 01:02:26,900
+Speaker 0: Geek Nights is distributed under a Creative Commons Attribution 4.0 International License.
+
+944
+01:02:27,400 --> 01:02:31,710
+Speaker 1: Geek Nights is recorded live with no studio and no audience.
+
+945
+01:02:32,192 --> 01:02:35,640
+Speaker 1: But unlike those other late shows, it's actually recorded at night.
+
+946
+01:02:36,060 --> 01:02:50,200
+Speaker 0: And the Patreon patrons for this episode of Geek Nights are Ellen Joyce, Linki G, Jared, Liz, Annabelle Case, Cara Makes, Musa Chris, The Doc Chris, Clinton, Walton, Finn, Joel Hayes, Penny, Rymer, Rebecca Dunn, Sam Erickson, Shervin, Von Harl, and a bunch of people whose names I will not say.
+
+947
+01:02:50,802 --> 01:03:50,500
+Speaker 0: The moral of this episode is to not buy AMD and now tonight I simply leave you with... [MUSIC] [MUSIC].
+

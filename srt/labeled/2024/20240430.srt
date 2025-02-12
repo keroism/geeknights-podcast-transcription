@@ -1,0 +1,3512 @@
+1
+00:00:08,620 --> 00:00:08,760
+Scott:
+
+2
+00:00:08,845 --> 00:00:11,926
+Rym: It's Tuesday April 30th 2024.
+
+3
+00:00:11,926 --> 00:00:12,408
+Rym: I'm Rym.
+
+4
+00:00:13,091 --> 00:00:15,019
+Rym: I'm Scott and this is GeekNights.
+
+5
+00:00:15,059 --> 00:00:18,313
+Rym: tonight We're gonna talk about how to ruin your competitive card game.
+
+6
+00:00:18,895 --> 00:00:19,939
+Scott: Let's do this.
+
+7
+00:00:20,884 --> 00:00:23,880
+Rym: So, uh, it's why they're a little little statistic for you.
+
+8
+00:00:24,020 --> 00:00:42,404
+Rym: I'm not implying anything beyond stating a fact but in the NHL Stanley Cup playoffs in the year 2024 in the first round there is in fact only one team that has swept another team Which if you know if you're a nerd and you don't know and you're not a hockey nerd or not a sports nerd you live under a rock.
+
+9
+00:00:42,726 --> 00:00:50,440
+Rym: that means that a team won their Tournament round without the other team at any point winning any games.
+
+10
+00:00:51,103 --> 00:00:54,620
+Scott: The other team was only in over the course of four hockey games.
+
+11
+00:00:55,121 --> 00:00:58,472
+Scott: The Capitals only had a lead for like three minutes.
+
+12
+00:00:58,873 --> 00:01:00,117
+Rym: It was kind of amazing.
+
+13
+00:01:00,378 --> 00:01:02,204
+Rym: the Rangers Spanked them.
+
+14
+00:01:02,224 --> 00:01:04,089
+Rym: Did you know right?
+
+15
+00:01:04,269 --> 00:01:04,470
+Scott: We don't.
+
+16
+00:01:04,489 --> 00:01:14,499
+Scott: we don't care about the Yankees, but the Knicks Rangers Mets and Yankees all won a game on the same day for the first time.
+
+17
+00:01:14,519 --> 00:01:30,596
+Scott: Wow since like 1997 or some shit like a Very long time ago, you know There was an old joke which is which is extraordinary because in order for that to happen Basically the Rangers and Knicks have to be in the playoffs with and they weren't?
+
+18
+00:01:30,616 --> 00:01:38,640
+Scott: they play in the same building So they have to have one of them has to have an away game And one of them has to have a home game on the same day unless it's like one of those really quick MSG switchovers.
+
+19
+00:01:38,981 --> 00:01:46,120
+Scott: Yeah, and the Mets and Yankees had to be playing on that day and then that's already hard enough just for that to happen.
+
+20
+00:01:47,044 --> 00:01:47,915
+Scott: And then they all have to win.
+
+21
+00:01:51,181 --> 00:01:53,660
+Rym: But so yeah, we'll see how this all goes.
+
+22
+00:01:53,821 --> 00:02:03,984
+Rym: But the funniest thing is so the Rangers beat the cat the washing capitals but the caps had a weird story and that They kind of sucked it up for a lot of the regular season and they were kind of written off like yeah They're not gonna make the playoffs.
+
+23
+00:02:04,405 --> 00:02:08,277
+Rym: and then they like got good in the last like not
+
+24
+00:02:08,437 --> 00:02:08,900
+Scott: really
+
+25
+00:02:09,140 --> 00:02:14,218
+Rym: Well, they got good enough to get enough points to go from everyone assumed They would not make the playoffs to
+
+26
+00:02:14,842 --> 00:02:15,123
+Scott: Fighting
+
+27
+00:02:15,143 --> 00:02:17,976
+Rym: their way to the wild card slot at the last second only to be immediately
+
+28
+00:02:18,136 --> 00:02:18,458
+Scott: worried
+
+29
+00:02:18,478 --> 00:02:18,960
+Rym: by the Rangers.
+
+30
+00:02:19,021 --> 00:02:20,920
+Scott: They weren't fighting their way, right?
+
+31
+00:02:21,040 --> 00:02:33,320
+Scott: It was a snail race of right if people are in a race like trying not to touch the finish line But you can't go backwards and you're hoping someone else touches it first and then everyone touches it at the same time.
+
+32
+00:02:34,502 --> 00:02:37,999
+Scott: And then they're like they go to the photo finish and at the capitals and like shit.
+
+33
+00:02:38,201 --> 00:02:40,739
+Scott: Yeah, and you could tell Ovechkin did not want to be.
+
+34
+00:02:42,741 --> 00:02:47,375
+Rym: The saddest part is the only reason they were in that wild card slot instead of the Red Wings.
+
+35
+00:02:47,576 --> 00:02:50,957
+Rym: is was on one of the Highbreakers in the NHL.
+
+36
+00:02:54,903 --> 00:02:58,438
+Scott: But yeah, they took our money already for the next round but we don't know who the opponent is.
+
+37
+00:02:58,880 --> 00:03:01,314
+Scott: Then oh, yeah, we don't know what even start for like a week.
+
+38
+00:03:01,394 --> 00:03:05,312
+Scott: Who knows how long And we don't know when those games are gonna be.
+
+39
+00:03:05,333 --> 00:03:19,450
+Rym: Yep, but Members of our inner circle will go to Some number of those games against what is likely to be the Carolina hurricane between one and two of them And that someone wants to pay more money.
+
+40
+00:03:19,490 --> 00:03:22,589
+Scott: you can go to more than you can go to Potentially up to four.
+
+41
+00:03:22,689 --> 00:03:26,247
+Scott: if they happen, I'm gonna keep Even more money.
+
+42
+00:03:26,268 --> 00:03:33,820
+Scott: you can go potentially up to seven games Depending on how many there are if you go to Carolina or if it's Long Island even easier.
+
+43
+00:03:34,130 --> 00:03:41,332
+Rym: Yeah I mean had it been Red Wings Rangers my plan was to fly out to Michigan and go to a game with like my mom or my brother but that didn't have.
+
+44
+00:03:41,372 --> 00:03:47,756
+Rym: like Thing is when the Red Wings are in the playoffs games sell out like Rangers like they like that's.
+
+45
+00:03:47,776 --> 00:03:49,020
+Rym: that's one of those original six.
+
+46
+00:03:49,201 --> 00:03:50,748
+Scott: Like they don't really sell out.
+
+47
+00:03:50,788 --> 00:03:53,240
+Scott: you take it you if you have enough money you can go.
+
+48
+00:03:53,300 --> 00:03:54,183
+Scott: Oh, yeah, you can always go.
+
+49
+00:03:54,243 --> 00:03:55,488
+Rym: they sell out.
+
+50
+00:03:55,548 --> 00:03:55,769
+Rym: You can.
+
+51
+00:03:55,849 --> 00:03:56,652
+Rym: all there are.
+
+52
+00:03:56,692 --> 00:03:57,595
+Rym: there aren't hockey games.
+
+53
+00:03:57,615 --> 00:04:04,401
+Rym: You can't go to anyway, anyway in some breaking news as of 2 30 a.m.
+
+54
+00:04:04,482 --> 00:04:08,990
+Rym: Today Little thing a little update.
+
+55
+00:04:09,513 --> 00:04:10,800
+Rym: So you might have heard a company called Square Enix.
+
+56
+00:04:11,541 --> 00:04:24,488
+Rym: They have announced what they are calling an extraordinary loss of 22 billion yen in content Abandonment losses which basically boils down to.
+
+57
+00:04:24,889 --> 00:04:29,040
+Rym: they invested in a bunch of triple-a games and then just didn't fucking release them, right?
+
+58
+00:04:29,120 --> 00:04:33,332
+Scott: They call them high-definition games, I guess on their official report or whatever.
+
+59
+00:04:33,453 --> 00:04:36,020
+Scott: But yeah, so this isn't something new, right?
+
+60
+00:04:36,160 --> 00:04:57,600
+Scott: It's like if you talk to people in the game industry who work in the video game triple-a industry it's usually unlikely that they have worked on more games that shipped than didn't right and their portfolios are full of things that are from games that never shipped because Game publishers game developers the big ones are constantly starting things that never went anywhere.
+
+61
+00:04:57,769 --> 00:04:58,804
+Scott: Yeah And it's rarely.
+
+62
+00:04:58,864 --> 00:05:08,078
+Scott: it's just rarely visible to the public because they don't announce What they're working on until they're like sure it's gonna ship and even that sometimes they fuck up even though it's rare.
+
+63
+00:05:08,138 --> 00:05:12,887
+Scott: for example Metroid Prime 4 Nintendo's like here it's coming and then it's not.
+
+64
+00:05:13,409 --> 00:05:14,391
+Scott: it's actually surprising.
+
+65
+00:05:14,411 --> 00:05:17,600
+Scott: Nintendo, which is so tight-lipped seems to have these fuck-ups.
+
+66
+00:05:18,247 --> 00:05:22,913
+Scott: It's still super rare But it seems like they do it more often than others like there's.
+
+67
+00:05:23,255 --> 00:05:23,616
+Scott: there's like.
+
+68
+00:05:23,636 --> 00:05:30,500
+Scott: a handful of times They've showed off Nintendo games at e3s or other events and those games never actually happen.
+
+69
+00:05:30,500 --> 00:05:33,811
+Rym: Yeah, it's funny cuz like even in my professional life outside of video games.
+
+70
+00:05:33,851 --> 00:05:58,420
+Rym: There's this constant back-and-forth tension everywhere between Announce what you're working on early so everyone knows versus don't announce until you're sure it's gonna hit a date because people tend to freak out when you're wrong and I've been my Many many years working as a product manager and in these sort of professional spaces The wind just shifts back and forth between those two extremes and nobody's ever happy no matter what you
+
+71
+00:05:58,460 --> 00:05:58,540
+Scott: do.
+
+72
+00:05:58,560 --> 00:06:07,513
+Scott: Yeah, I think you know, there's there's reasons for keeping secrets like, you know, which I guess it's a whole topic I'm very interested in and I can't seem to get firm answers on cuz.
+
+73
+00:06:07,533 --> 00:06:09,520
+Scott: I like haven't seen in and like proof, right?
+
+74
+00:06:09,580 --> 00:06:13,340
+Rym: I've seen ideas and speculation and I could give answers for like my own personally.
+
+75
+00:06:13,581 --> 00:06:14,951
+Scott: I would love I see in.
+
+76
+00:06:14,971 --> 00:06:18,832
+Scott: you know The thing that I point to always is the movie industry.
+
+77
+00:06:18,892 --> 00:06:24,195
+Scott: if you look at the Hollywood industry They tell you who's got a script optioned.
+
+78
+00:06:24,295 --> 00:06:26,982
+Scott: They tell you who's Casted.
+
+79
+00:06:27,204 --> 00:06:29,419
+Scott: they tell you like how much people are getting paid?
+
+80
+00:06:30,042 --> 00:06:33,740
+Scott: Like when they started filming what stage production is in right?
+
+81
+00:06:33,940 --> 00:06:39,460
+Scott: It's like, you know, if you care you can find everything out about every movie in every stage.
+
+82
+00:06:39,782 --> 00:06:42,980
+Scott: We know that they tried to make a mouse guard movie and then they didn't right.
+
+83
+00:06:43,020 --> 00:06:47,780
+Scott: It's like it's super public and like you can go read spec scripts out there.
+
+84
+00:06:47,880 --> 00:06:50,400
+Rym: Sometimes that are just like on a web page somewhere, right?
+
+85
+00:06:50,540 --> 00:06:57,340
+Scott: And it's like does it hurt the movie industry for the public to know like all these gritty details of everything that's going on?
+
+86
+00:06:57,561 --> 00:06:58,464
+Scott: It doesn't seem like it.
+
+87
+00:06:59,066 --> 00:07:00,170
+Scott: it doesn't seem like it.
+
+88
+00:07:00,270 --> 00:07:03,080
+Rym: so does seem to the one thing I've seen happen a few times.
+
+89
+00:07:03,180 --> 00:07:06,740
+Scott: But again, this is anecdotal actually gives fans more to chew on.
+
+90
+00:07:06,780 --> 00:07:10,500
+Scott: They're constantly talking about how much movies grossed and you know who did better.
+
+91
+00:07:11,921 --> 00:07:13,932
+Rym: Chewing on stuff means more buzz.
+
+92
+00:07:14,012 --> 00:07:15,400
+Rym: like you guys I could do that.
+
+93
+00:07:15,581 --> 00:07:27,108
+Rym: I could turn into the kind of marketing person who talks about why that's a good thing, but also Angry fans and internet mobs will form around things like oh that movie must have failed because they cast that Person in that role.
+
+94
+00:07:27,168 --> 00:07:34,240
+Rym: and now we're going to internet harasser Even though what they mean is that person was mentioned as a possible actor for a script.
+
+95
+00:07:34,380 --> 00:07:37,892
+Scott: But that's I'm talking about for the financial success of the.
+
+96
+00:07:38,052 --> 00:07:39,336
+Scott: yeah, the companies are evil.
+
+97
+00:07:39,376 --> 00:07:40,500
+Scott: They don't care about that, right?
+
+98
+00:07:40,600 --> 00:07:43,440
+Scott: They only care about does the thing financially succeed or not?
+
+99
+00:07:43,500 --> 00:07:58,019
+Scott: And so if say Nintendo were to be open up like Hollywood and just tell you we started thinking about making a Mario Kart 9 here and like we've got daily Production updates on it and you they told you what the budget for it was.
+
+100
+00:07:58,544 --> 00:08:00,219
+Scott: You know what the budget for Hollywood movies, right?
+
+101
+00:08:00,480 --> 00:08:03,151
+Scott: They told us how much money they're spending on it and what they're.
+
+102
+00:08:03,171 --> 00:08:06,750
+Scott: you know, like everything who's working on it Who's the director what I did?
+
+103
+00:08:07,032 --> 00:08:08,821
+Scott: they just told us everything It's like.
+
+104
+00:08:09,142 --> 00:08:19,820
+Scott: would that harm or help the financial success of or or have no effect on the financial success of that Mario Kart game Right, and I I don't know.
+
+105
+00:08:19,960 --> 00:08:43,240
+Rym: I feel like it probably couldn't hurt and I feel like a lot of the harms that I think part of the reason why There do seem to be weird harms that come out of Leaks in the game industry today like that mostly are down to the fact that because everything's so secretive and tight-lipped When any insight from the inside baseball leaks into the outside world People are rabid to learn about it and they kind of like overemphasize it.
+
+106
+00:08:43,625 --> 00:08:51,745
+Rym: but if they saw That every fucking game studio 90% of what they do to get thrown away and like that was just like Hollywood But any like the fans would come.
+
+107
+00:08:51,786 --> 00:09:09,424
+Scott: so Square Enix basically this year this past fiscal year between March 2023 and 2024 had an unusually large number of high-budget triple-a HD games That were in production stop production and get abandoned and they lost 140 million dollars.
+
+108
+00:09:09,525 --> 00:09:20,277
+Scott: basically they spent 140 million dollars on people to work on those games that will never see the light of day and That's I guess they called it extraordinary losses because that's more than usual.
+
+109
+00:09:20,317 --> 00:09:24,870
+Scott: It's not unusual It's just what's unusual is the amount and within a year.
+
+110
+00:09:25,412 --> 00:09:37,926
+Scott: and what's really strange to me is not that yeah Of course They cancelled triple-a games because they make all their money from phone games and loot box garbage and games that are actually stores And things like that, right?
+
+111
+00:09:38,267 --> 00:09:48,900
+Scott: It's that they made this mistake of investing that much in 2023. it's like I feel like the industry had already shifted away pre 2023 well before several years ago.
+
+112
+00:09:49,042 --> 00:09:49,237
+Scott: Yeah
+
+113
+00:09:49,581 --> 00:10:02,118
+Rym: and while there are companies that will try hard to make a bit like spend five years making a really big game because they for Whatever reason they care and it doesn't make like it might make a lot of money But it effectively breaks even compared to how much it costs to make it.
+
+114
+00:10:02,641 --> 00:10:06,680
+Rym: But those are rare compared to the company that needs to turn a big profit for shareholders.
+
+115
+00:10:07,363 --> 00:10:11,900
+Scott: Yeah, so it's really interesting that they've made that mistake in this year, right?
+
+116
+00:10:12,220 --> 00:10:16,440
+Scott: It's like I feel like if I heard that news about them a while ago, it'd be like, yeah, that makes perfect sense.
+
+117
+00:10:16,440 --> 00:10:23,709
+Rym: But I will say just more broadly video games are just a bellwether because it's a more volatile industry.
+
+118
+00:10:23,730 --> 00:10:39,154
+Rym: I I'm seeing this type of thing happening pretty much in every sector and Every area of the economy that involves software or Entertainment.
+
+119
+00:10:39,214 --> 00:10:46,549
+Rym: that was a very circumspect way to say that but things aren't looking great Just in general for a lot of reasons that are probably on the scope of the show.
+
+120
+00:10:47,032 --> 00:10:50,327
+Rym: But I think this is just an example of that you can point to.
+
+121
+00:10:50,367 --> 00:10:51,090
+Rym: that is very specific.
+
+122
+00:10:53,651 --> 00:10:55,078
+Scott: Yeah, so not so.
+
+123
+00:10:55,139 --> 00:10:57,229
+Scott: it's also not surprising that Square Enix was the one.
+
+124
+00:10:57,974 --> 00:11:00,550
+Rym: No, it is definitely not in some other news.
+
+125
+00:11:00,610 --> 00:11:06,087
+Rym: That's also a sign of the death of capitalism or the endgame of capitalism.
+
+126
+00:11:06,107 --> 00:11:10,850
+Rym: So Dave and busters Is hopping on the sports betting train in a different way?
+
+127
+00:11:11,350 --> 00:11:14,721
+Rym: They're gonna have an app where if you're in a Dave and busters you can.
+
+128
+00:11:15,403 --> 00:11:25,390
+Rym: it looks like based on what this article says Bet real money against your friends over any games you're playing in Dave and busters and it will like deal with the transaction.
+
+129
+00:11:25,731 --> 00:11:27,238
+Rym: You'll get this score in skee-ball.
+
+130
+00:11:27,519 --> 00:11:29,970
+Rym: if you don't your friend gets the $20 in their account.
+
+131
+00:11:30,632 --> 00:11:37,910
+Scott: Well for skee-ball, that's actually a for my by my non-lawyer knowledge That is perfectly legal because skee-ball is a game of skill.
+
+132
+00:11:37,991 --> 00:11:39,229
+Rym: Aha, so but to quote the art.
+
+133
+00:11:39,330 --> 00:11:46,109
+Scott: But if you were to do this against in a game say like who can get the high score on luck involved?
+
+134
+00:11:46,169 --> 00:11:49,992
+Scott: game Like I don't know What's that?
+
+135
+00:11:50,012 --> 00:11:50,855
+Scott: What's a luck game?
+
+136
+00:11:51,136 --> 00:11:51,699
+Scott: crane game.
+
+137
+00:11:51,759 --> 00:11:52,341
+Scott: who can get more?
+
+138
+00:11:52,361 --> 00:11:54,590
+Scott: who can get more things out of the crane, right?
+
+139
+00:11:55,912 --> 00:11:58,609
+Scott: Yeah, that would be camp actual casino gambling for real.
+
+140
+00:11:58,871 --> 00:12:16,306
+Rym: yeah, now in one hand if it is legal for adults in America to go to a casino and Play poker against strangers where the casino takes a cut and facilitates everything but they win real money from each other Why can't the street fighter people go to the arcade together pull money and have the arcade.
+
+141
+00:12:16,326 --> 00:12:17,589
+Rym: just handle that for them like it.
+
+142
+00:12:17,871 --> 00:12:19,265
+Scott: What well, that's a skill based game.
+
+143
+00:12:19,305 --> 00:12:27,871
+Rym: So that's fine Yep, so to quote the article lucre says skill based games are not subject to the same rules and regulations as slot machines or other Type of gambling.
+
+144
+00:12:28,151 --> 00:12:29,614
+Scott: the company states, correct.
+
+145
+00:12:29,694 --> 00:12:37,100
+Rym: The company is careful to not use specific terms like bet or Wager when talking about how this software will work.
+
+146
+00:12:37,401 --> 00:12:37,984
+Scott: What are they saying?
+
+147
+00:12:38,044 --> 00:12:38,425
+Scott: steaks?
+
+148
+00:12:38,526 --> 00:12:38,787
+Scott: What are they?
+
+149
+00:12:38,807 --> 00:12:39,490
+Scott: What word are they using?
+
+150
+00:12:40,090 --> 00:12:41,758
+Rym: Uh, it looks like they're partnering with some company.
+
+151
+00:12:41,778 --> 00:12:44,430
+Rym: I've never heard of called lucre that makes gambling software.
+
+152
+00:12:44,873 --> 00:12:56,910
+Rym: This is yeah, this is this article dropped like four hours ago so I haven't dug too deep into all the details of how this works yet, but Quote we use real money contests or challenges unquote as our terminology.
+
+153
+00:12:57,493 --> 00:13:00,670
+Scott: So how did they make if I if I go play you straight in Street Fighter, right?
+
+154
+00:13:00,870 --> 00:13:01,879
+Scott: So obviously it's an old.
+
+155
+00:13:01,899 --> 00:13:02,121
+Scott: we're in.
+
+156
+00:13:02,202 --> 00:13:03,069
+Scott: we go back in time.
+
+157
+00:13:03,173 --> 00:13:08,710
+Scott: Yeah And we go to an arcade and I put 25 cents in the Street Fighter and you put 25 cents in the Street Fighter.
+
+158
+00:13:08,770 --> 00:13:09,694
+Scott: She found her too, right?
+
+159
+00:13:09,795 --> 00:13:10,558
+Rym: Yes ready to.
+
+160
+00:13:10,900 --> 00:13:13,110
+Scott: then we bet each other a dollar, right?
+
+161
+00:13:13,210 --> 00:13:17,125
+Scott: So to be put down two dollars and the house the arcade takes the two dollars.
+
+162
+00:13:17,246 --> 00:13:18,249
+Scott: Yeah, and I win.
+
+163
+00:13:19,392 --> 00:13:21,160
+Scott: The arcade is gonna give me two dollars.
+
+164
+00:13:21,180 --> 00:13:22,908
+Scott: Are they gonna give me a buck 75?
+
+165
+00:13:22,908 --> 00:13:23,310
+Scott: What are they gonna?
+
+166
+00:13:23,490 --> 00:13:24,032
+Scott: What's gonna happen?
+
+167
+00:13:24,052 --> 00:13:28,690
+Scott: They haven't said they see I doesn't cuz if they give me two dollars when I beat you at Street Fighter.
+
+168
+00:13:28,830 --> 00:13:42,510
+Scott: They've made no money on this other than I guess making it more exciting to play Street Fighter for people There's and they're hoping we put in more quarters because Dave and Busters has mostly shit for arcade games in the modern era.
+
+169
+00:13:42,711 --> 00:13:59,966
+Rym: So like there's there's a reason I'm not gonna go hang out at Dave and Busters anytime soon But it seems like they're aiming this more at being a perk for people who to use their app And join their membership rewards whatever program because you got to have an account and the act is
+
+170
+00:14:00,027 --> 00:14:03,981
+Scott: if they're not taking a if they're Not taking a cut off the wager part, right?
+
+171
+00:14:04,061 --> 00:14:06,130
+Scott: It's like first of all, why do I even need them?
+
+172
+00:14:06,250 --> 00:14:15,425
+Rym: We could just you and me could just be like, hey Yeah The only difference is like if you and I bet money on an air hockey game like I am confident Both of us would pay up when we lose like.
+
+173
+00:14:15,485 --> 00:14:16,330
+Rym: I feel like that would happen.
+
+174
+00:14:16,370 --> 00:14:17,356
+Rym: We don't need to get fists involved.
+
+175
+00:14:17,376 --> 00:14:19,710
+Scott: I guess it would let you bet against strangers.
+
+176
+00:14:20,171 --> 00:14:27,850
+Scott: Yep in the Dave and Busters which could be I would you know, Dave and Busters already dangerous places where many incidents happen.
+
+177
+00:14:28,112 --> 00:14:30,089
+Rym: Not on the level of a Chuck E. Cheese's though.
+
+178
+00:14:30,871 --> 00:14:32,115
+Scott: No, it's the second tip.
+
+179
+00:14:32,196 --> 00:14:43,173
+Scott: But if there is suddenly gambling and like someone's like, you know Pretending to suck at Street Fighter and then says I'll bet you ten bucks and then they win against a person who gets mad About ten bucks.
+
+180
+00:14:43,354 --> 00:14:44,057
+Scott: Yeah, and there could be.
+
+181
+00:14:44,077 --> 00:14:45,785
+Scott: they could suddenly be playing.
+
+182
+00:14:45,825 --> 00:14:46,749
+Scott: Dave and Busters fighter.
+
+183
+00:14:48,571 --> 00:14:52,992
+Rym: David Busters fighter is not as good a game as I hop fighter, but it's still a no It's a good game.
+
+184
+00:14:53,012 --> 00:14:54,077
+Rym: You don't want to play.
+
+185
+00:14:54,861 --> 00:14:59,758
+Rym: Yeah, there might not be any fireballs But so I think there's a few things going on.
+
+186
+00:14:59,939 --> 00:15:16,130
+Rym: one gambling in America is becoming big because it's one of the few remaining Industries where you can basically milk money out of nothing Mm-hmm, and two I think the product is just trying to get people to go to Dave and Busters Join their program and use their fucking app.
+
+187
+00:15:16,190 --> 00:15:16,992
+Rym: And I think it's really.
+
+188
+00:15:17,394 --> 00:15:22,730
+Rym: I think this is really just a long-form ad and inducement to get people to use this app.
+
+189
+00:15:22,890 --> 00:15:28,790
+Scott: I mean if you think about it, they've already reduced all the Dave and Busters arcades all the skill based fun games.
+
+190
+00:15:29,032 --> 00:15:34,710
+Scott: You know the good ones have been reduced Dramatically and replaced with games that the ticket games which are already gambling.
+
+191
+00:15:36,512 --> 00:15:44,060
+Scott: So it's like yeah, let's just we can't if we instead of getting rid of the other games entirely We'll just make them get also gambling by putting a layer on top.
+
+192
+00:15:44,080 --> 00:15:44,963
+Scott: So now it's all gambling.
+
+193
+00:15:45,083 --> 00:15:47,230
+Scott: It's just a casino that's legal for children.
+
+194
+00:15:50,372 --> 00:15:55,629
+Scott: And the thing is right, you know, if you ask me the best kind of gambling is no gambling at all.
+
+195
+00:15:56,532 --> 00:16:04,741
+Scott: The second best kind that's in terms of acceptability is in fact the bet on a thing of skill that you're participating in.
+
+196
+00:16:04,762 --> 00:16:07,042
+Scott: right Because that's not.
+
+197
+00:16:07,143 --> 00:16:11,680
+Rym: that is not Fundamentally different in many ways from entering a buy-in tournament.
+
+198
+00:16:12,322 --> 00:16:13,405
+Scott: Yeah effectively, right.
+
+199
+00:16:13,846 --> 00:16:17,438
+Scott: and then the third Most acceptable kind would be.
+
+200
+00:16:17,800 --> 00:16:23,822
+Scott: actually, you know as much as we hate it like sports gambling It's like you have information about it or things of that nature, right?
+
+201
+00:16:23,842 --> 00:16:25,609
+Scott: You have a lot of information to go on.
+
+202
+00:16:26,071 --> 00:16:37,230
+Scott: One caveat though machine learning models are increasingly making that Meaningless to the players, of course, but I'm just saying it's like we're talking about in terms of acceptability.
+
+203
+00:16:37,230 --> 00:16:42,290
+Scott: Yeah, all of these other than no gambling are on our below the line on it, right?
+
+204
+00:16:42,670 --> 00:16:43,072
+Scott: We're talking.
+
+205
+00:16:43,112 --> 00:16:45,643
+Scott: we're just comparing the bad ones to see which one's worse.
+
+206
+00:16:45,663 --> 00:16:58,649
+Rym: Of course if we're talking about which like worse whatever I would say that pretty much all gambling that is interactive in any meaningful way is Still orders of magnitude better than slot machines which seem to well.
+
+207
+00:16:58,790 --> 00:17:00,919
+Scott: No, so slot machine would be the next level.
+
+208
+00:17:00,979 --> 00:17:07,103
+Scott: because yeah, a slot machine is evil in all ways But at least there is a regulated slot machine true.
+
+209
+00:17:07,163 --> 00:17:07,785
+Rym: It is regulated.
+
+210
+00:17:07,805 --> 00:17:09,050
+Rym: The slot machine can't cheat you.
+
+211
+00:17:09,491 --> 00:17:16,690
+Scott: It tells you how it's going to try you and the slot machine will if you win pay you out real fucking money.
+
+212
+00:17:16,869 --> 00:17:21,470
+Scott: Yeah, right real money will come out of the slot machine if you hit the jackpot cash, right?
+
+213
+00:17:21,991 --> 00:17:29,010
+Rym: So the below that the worst kind all the internet the app slot machine that plays play that doesn't even pay out money.
+
+214
+00:17:29,236 --> 00:17:29,649
+Scott: Right, right.
+
+215
+00:17:29,770 --> 00:17:42,730
+Scott: the second worst kind are blind boxes magic cards Pokemon cards where you're gambling and you are getting like a Product against cardboard or a crane game a plushie maybe right or figurine whatever.
+
+216
+00:17:43,375 --> 00:17:48,430
+Scott: But it's random and it might be worthless Or it might be doubles or it might be right.
+
+217
+00:17:48,832 --> 00:17:50,017
+Scott: So it's like you're.
+
+218
+00:17:50,097 --> 00:17:52,870
+Scott: you're putting money in and money can never come out.
+
+219
+00:17:53,152 --> 00:17:54,588
+Scott: You're only losing money.
+
+220
+00:17:55,173 --> 00:18:00,390
+Scott: Right because no matter what even if you quote win You cannot profit from that kind of gambling ever.
+
+221
+00:18:00,731 --> 00:18:04,000
+Scott: You will always get out less than you put in no matter what.
+
+222
+00:18:04,241 --> 00:18:07,290
+Scott: and then the worst kind is the same thing only digital stuff.
+
+223
+00:18:07,370 --> 00:18:10,780
+Scott: Where you're getting you're putting in money and nothing ever comes out.
+
+224
+00:18:10,900 --> 00:18:12,806
+Scott: period it's always zero.
+
+225
+00:18:12,846 --> 00:18:26,117
+Scott: You're just giving money away All right, so it's like yeah they're all bad but gambling in like a lee a legit casino with like a legit slot machine or a legit roulette table or a legit blackjack You could win money.
+
+226
+00:18:26,218 --> 00:18:27,042
+Scott: It's possible.
+
+227
+00:18:27,243 --> 00:18:34,130
+Rym: We did it one time Cast iron pan that I bought with those winnings, right?
+
+228
+00:18:34,450 --> 00:18:35,755
+Scott: Why don't we want a pan?
+
+229
+00:18:35,775 --> 00:18:48,290
+Scott: It's like if you go and buy magic cards, you can only win Less magic cards than you paid for and if you go and bet on loot boxes in fortnight You can only come away with nothing.
+
+230
+00:18:48,431 --> 00:18:50,691
+Rym: Just say you don't even an anecdote from childhood Like we.
+
+231
+00:18:51,433 --> 00:19:00,380
+Rym: I played magic in the era when ante was in the rule book and there were cards that Affected the ante like magic had gambling built in.
+
+232
+00:19:00,400 --> 00:19:04,797
+Rym: I don't think a lot of people who are younger than us know that except for super nerds.
+
+233
+00:19:05,460 --> 00:19:17,193
+Rym: and in my childhood experience One hundred percent of the time when the anti rules were used whatever kid lost would freak the fuck out Not want to give up their card.
+
+234
+00:19:17,413 --> 00:19:18,495
+Rym: parents will get involved.
+
+235
+00:19:18,856 --> 00:19:22,292
+Rym: Nobody ever actually paid up when they lost Mm-hmm.
+
+236
+00:19:22,894 --> 00:19:30,488
+Scott: That's why you if you're doing it with so I'm saying if you do any kind of that kind of thing with strangers You do need that third-party intermediary.
+
+237
+00:19:30,568 --> 00:19:33,086
+Rym: Yeah Are you got any news?
+
+238
+00:19:35,032 --> 00:19:40,510
+Scott: Oh Right, so fallout is really big right now because of the TV show.
+
+239
+00:19:43,311 --> 00:19:46,781
+Scott: Good the trailer was I gotta say the trailer was acceptable.
+
+240
+00:19:46,841 --> 00:19:50,890
+Scott: It was very fallout II but it you know, it could be fanservice II You know.
+
+241
+00:19:50,930 --> 00:19:57,690
+Scott: The only thing for me is like it could still be one of those ones where it's not really has anything to say.
+
+242
+00:19:57,951 --> 00:20:04,520
+Scott: You know, it could just be what happens next but regardless the trailer was like, oh I feel like I might want to watch that in the queue you go.
+
+243
+00:20:04,540 --> 00:20:07,974
+Scott: Yeah, but it's on Amazon Prime and Amazon Prime.
+
+244
+00:20:07,994 --> 00:20:08,998
+Scott: right now you have to pay.
+
+245
+00:20:09,018 --> 00:20:12,793
+Scott: even if you have Prime you got to pay a few extra dollars to get rid of The ads.
+
+246
+00:20:13,196 --> 00:20:15,190
+Rym: so I'm not paying those few extra dollars.
+
+247
+00:20:15,270 --> 00:20:16,558
+Rym: Actually, my Amazon Prime is gonna.
+
+248
+00:20:16,658 --> 00:20:18,750
+Rym: I set it to not renew what it runs out.
+
+249
+00:20:18,870 --> 00:20:24,550
+Rym: But we're watching the Wheel of Time on it and despite not paying the extra no ads have appeared so far.
+
+250
+00:20:24,730 --> 00:20:29,909
+Scott: Oh, maybe I will attempt to watch an episode of fallout and see if I can't say if that like I don't know why.
+
+251
+00:20:29,929 --> 00:20:34,230
+Scott: I do Just assume the ads would appear but maybe my in-house ad block will block them.
+
+252
+00:20:34,350 --> 00:20:36,777
+Rym: I do not know why no ads have appeared.
+
+253
+00:20:36,797 --> 00:20:40,909
+Rym: All right, so and I have only watched Wheel of Time.
+
+254
+00:20:41,571 --> 00:20:56,744
+Scott: Alright, so I'll watch one episode and I'll see if an ad appears and if it does maybe I'll watch it sooner and if not I'll wait until a distant future when there are enough shows on Prime so I can pay three dollars to turn off the ads And watch them all.
+
+255
+00:20:58,371 --> 00:21:04,830
+Scott: But yeah, so but meanwhile this has obviously caused great interest in Fallout games which are widely available.
+
+256
+00:21:04,991 --> 00:21:10,088
+Scott: You could just get fallout 1 2 tactics 3 4 lot of New Vegas.
+
+257
+00:21:10,108 --> 00:21:10,670
+Scott: That's all of them.
+
+258
+00:21:10,851 --> 00:21:13,689
+Scott: Oh 76 the MMO even is getting renewed interest.
+
+259
+00:21:14,193 --> 00:21:22,846
+Rym: There's a VR version of 4. that's not worth it Unless you're a VR like experimentalist because it's just the game in VR and it's really disorienting right?
+
+260
+00:21:23,387 --> 00:21:28,648
+Scott: I have played Fallout 1 & 2 but I never beat them because the user interface was so painful.
+
+261
+00:21:28,849 --> 00:21:40,170
+Rym: and I Gotta be clear here the user interface of fallout 1 & 2 were atrocious Even by the standards of the time in my opinion, right and I didn't play them until years after the time.
+
+262
+00:21:40,471 --> 00:21:42,924
+Scott: So it was even more painful like in the time.
+
+263
+00:21:42,964 --> 00:21:49,518
+Scott: they were not great Yeah, and so then it like, you know, because they came out after XCOM.
+
+264
+00:21:49,639 --> 00:21:56,389
+Scott: and we're worse I did play and beat all Fallout 3 the original game.
+
+265
+00:21:57,253 --> 00:22:04,938
+Scott: I don't think I had any I don't think I had any DLCs or anything, but I beat the whole damn game and then I did not.
+
+266
+00:22:05,078 --> 00:22:19,510
+Scott: I tried to play New Vegas on several occasions and On the most recent occasion the game I basically was going along going along I'm like, oh I might finish this game going along crashes and I'm like, oh well that happens.
+
+267
+00:22:19,671 --> 00:22:23,906
+Scott: I load it up crashes in the same spot I cannot progress because there are crashes.
+
+268
+00:22:24,027 --> 00:22:28,070
+Scott: and so Here is an article talking about the current state of Fallout games.
+
+269
+00:22:28,492 --> 00:22:47,470
+Scott: And basically if you want to play Fallout games right now Even if you buy them on GOG or Steam and use all sorts of DOS boxes or all kinds of tools and whatnot A lot of them just like are atrocious and don't fucking work except for Fallout 4 and except for some console releases Which are you know more well tested and stable.
+
+270
+00:22:48,370 --> 00:22:52,522
+Scott: Yeah, they're crushing they're crashy they're buggy they're they're fucked the fuck up.
+
+271
+00:22:52,863 --> 00:22:54,667
+Scott: it's a it's really hard to play like.
+
+272
+00:22:54,768 --> 00:22:55,630
+Scott: no exaggeration.
+
+273
+00:22:55,751 --> 00:23:03,969
+Scott: They're like, yeah to get Fallout 3 to work and be nice You have to have like a hundred shady mods that you had to get working with complicated setups and it's like man.
+
+274
+00:23:04,891 --> 00:23:10,145
+Scott: Did we not just talk about how great it is that quake is being updated legitimately in the year 2024 and 2, right?
+
+275
+00:23:12,291 --> 00:23:14,449
+Scott: It's like fallout really needs some of that.
+
+276
+00:23:14,570 --> 00:23:19,430
+Scott: We they need the original devs to come in and you know patch those old games.
+
+277
+00:23:19,712 --> 00:23:21,945
+Scott: Don't tell me it's not doable because quake just did it.
+
+278
+00:23:22,568 --> 00:23:24,994
+Scott: So You can do it also.
+
+279
+00:23:25,094 --> 00:23:37,061
+Scott: patch fallout 1 2 & 3 so that they run nicely on modern computers and support You know resolutions and don't crash Because I'm not installing a hundred mods to play Fallout New Vegas.
+
+280
+00:23:37,101 --> 00:23:44,525
+Rym: I mean, I wasn't even willing to install that Zelda to remake because of the just the fact of how it installs little.
+
+281
+00:23:44,646 --> 00:23:45,870
+Rym: oh, yeah this nonsense.
+
+282
+00:23:46,312 --> 00:23:47,659
+Scott: but it also makes me think like I was.
+
+283
+00:23:47,739 --> 00:23:57,456
+Scott: fallout 4 was one of those games where I was like I'll play that when it's cheap and there's you can get all the DLCs in one game of the year edition and That one still works right now.
+
+284
+00:23:57,576 --> 00:23:58,158
+Scott: that actually might.
+
+285
+00:23:58,319 --> 00:24:00,627
+Scott: this actually might make me hurry up and go.
+
+286
+00:24:00,687 --> 00:24:01,650
+Scott: try fallout 4.
+
+287
+00:24:01,650 --> 00:24:05,207
+Scott: Oh, cuz it might not work on your next computer because it might not work in the future.
+
+288
+00:24:05,408 --> 00:24:10,829
+Scott: Yeah It's like play it now or it's gonna become an unplayable mess, right.
+
+289
+00:24:10,869 --> 00:24:14,361
+Scott: so I think I might actually do that too bad.
+
+290
+00:24:14,401 --> 00:24:14,944
+Scott: It's warm.
+
+291
+00:24:14,984 --> 00:24:15,747
+Scott: Maybe in the fall.
+
+292
+00:24:15,767 --> 00:24:16,329
+Scott: I don't know.
+
+293
+00:24:23,475 --> 00:24:26,720
+Rym: but anyway things Of the day.
+
+294
+00:24:26,821 --> 00:24:30,945
+Rym: This is a super cute Animated film called man's best friend.
+
+295
+00:24:31,025 --> 00:24:33,837
+Rym: It was a CalArts third year student film.
+
+296
+00:24:34,580 --> 00:24:35,664
+Rym: It's utterly adorable.
+
+297
+00:24:35,764 --> 00:24:37,410
+Rym: It's it's why it's a premise.
+
+298
+00:24:37,430 --> 00:24:45,830
+Rym: You've seen before in various forms, but in this case, it's animations to Interviews with people about their pets but in a clever change-up.
+
+299
+00:24:46,332 --> 00:24:51,129
+Rym: It's animated as though the pet is talking about the human and it's just super well done and super charming.
+
+300
+00:24:52,030 --> 00:24:52,975
+Scott: Mmm, looks good.
+
+301
+00:24:53,015 --> 00:24:54,060
+Scott: I gotta watch the horses.
+
+302
+00:24:54,121 --> 00:24:55,206
+Rym: The horse is the funniest one.
+
+303
+00:24:55,226 --> 00:24:55,970
+Rym: The horse is really cute.
+
+304
+00:24:56,050 --> 00:24:58,482
+Scott: Oh, so I'm terrible at fighting games.
+
+305
+00:24:58,603 --> 00:25:00,110
+Scott: I can't even do a hadouken reliably.
+
+306
+00:25:00,391 --> 00:25:06,330
+Rym: I'm somehow worse like Scott can like no hit me in Street Fighter for it depends.
+
+307
+00:25:07,213 --> 00:25:08,869
+Scott: So they're already on Street Fighter 6, by the way.
+
+308
+00:25:10,265 --> 00:25:15,667
+Scott: And But I enjoy like fighting games and I just wish you know, whatever.
+
+309
+00:25:15,687 --> 00:25:16,570
+Scott: There's a lot to say there.
+
+310
+00:25:16,691 --> 00:25:24,155
+Scott: Yeah, we have said it in the past But actually I've come to really enjoy recently Fighting game YouTube.
+
+311
+00:25:24,576 --> 00:25:29,812
+Scott: Oh fighting game YouTube is interesting and that even if you suck at fighting games It's still.
+
+312
+00:25:29,832 --> 00:25:36,170
+Scott: there's still things interesting things to learn about games and how the history of these games and the systems behind them and what?
+
+313
+00:25:36,330 --> 00:25:40,898
+Scott: Changes have been made over time And you know some of the players and whatnot.
+
+314
+00:25:41,039 --> 00:25:43,830
+Rym: I go further like, you know, you know, we talk about board games.
+
+315
+00:25:44,650 --> 00:25:54,185
+Rym: Fighting games is one of the few areas of video game where there are people talking about fighting games at the level where I want to Listen to them talk about exact right, even though I'm never gonna play any of these games.
+
+316
+00:25:54,205 --> 00:25:57,310
+Scott: Okay, see you fighter six I'll probably never touch in my life probably.
+
+317
+00:25:58,862 --> 00:26:05,150
+Scott: and At the same time the fighting game YouTube people at least the ones that I've seen are not YouTube shouty people.
+
+318
+00:26:05,291 --> 00:26:05,673
+Scott: Yeah, like.
+
+319
+00:26:06,296 --> 00:26:09,030
+Scott: it's like yeah, there's horrible people in the fighting game community.
+
+320
+00:26:09,130 --> 00:26:13,550
+Scott: No question right as horrible elements there, but those elements are not to be seen here.
+
+321
+00:26:13,610 --> 00:26:16,220
+Scott: It's like they're showing off the good elements of their community.
+
+322
+00:26:16,260 --> 00:26:19,050
+Scott: It's like, you know, they're filtering out the bad parts.
+
+323
+00:26:19,070 --> 00:26:20,582
+Scott: You don't see those people here, right?
+
+324
+00:26:21,045 --> 00:26:33,404
+Scott: And so Here's a person jam crops Who is I assume a famous person among fighting game people who all know who this is and other people probably don't never heard of This person right, but it seems like a famous fighting game community person.
+
+325
+00:26:33,986 --> 00:26:38,650
+Scott: and there's a video they put up That really hit home with me because it was something I actually fucking knew about.
+
+326
+00:26:39,632 --> 00:26:42,867
+Rym: Did not know about this, but I'm not games green hand, right?
+
+327
+00:26:44,673 --> 00:26:50,610
+Scott: So Zangief was always if I knew this even in the 90s basically the worst character in Street Fighter, right?
+
+328
+00:26:50,690 --> 00:26:54,570
+Scott: It was low tier always been low tier except I think maybe one or two games.
+
+329
+00:26:54,670 --> 00:26:57,842
+Scott: I think he was high tier but like he's not he's never high tier.
+
+330
+00:26:57,942 --> 00:27:01,037
+Scott: Zangief is not good and it's like, you know You win with Zangief.
+
+331
+00:27:01,057 --> 00:27:02,165
+Scott: That's like damn right?
+
+332
+00:27:02,185 --> 00:27:02,770
+Scott: That's awesome.
+
+333
+00:27:04,375 --> 00:27:10,181
+Scott: And one of Zangief's weaknesses In the early days of Street Fighter, right Street Fighter 2 we're talking here.
+
+334
+00:27:10,262 --> 00:27:12,689
+Scott: Is that you couldn't really do much about fireballs.
+
+335
+00:27:13,171 --> 00:27:15,481
+Rym: Yeah, right the flow to fire past.
+
+336
+00:27:15,661 --> 00:27:17,670
+Rym: how do kin until you win, right?
+
+337
+00:27:17,730 --> 00:27:20,017
+Scott: It's like he could jump over them barely.
+
+338
+00:27:20,278 --> 00:27:25,153
+Scott: not very well because he was jump was low big and slow and he could do his Spinning lariat.
+
+339
+00:27:25,273 --> 00:27:30,610
+Scott: and it is spinning lariat timed correctly would cause the fireball to go through him and not get hit by it.
+
+340
+00:27:30,911 --> 00:27:34,969
+Scott: But it's like you couldn't really approach someone who was doing fireballs Like how do you get close to them?
+
+341
+00:27:35,150 --> 00:27:39,043
+Scott: You you walk like a step do a spinning lariat to stop the fireball kidding.
+
+342
+00:27:39,083 --> 00:27:40,990
+Scott: you take a step do another spin.
+
+343
+00:27:41,372 --> 00:27:43,870
+Scott: It's like once you get close you're in trouble, right?
+
+344
+00:27:44,230 --> 00:27:49,570
+Scott: It was really not a tenable situation for Zangief against any kind of fireball character.
+
+345
+00:27:50,193 --> 00:28:01,529
+Scott: So in Super Street Fighter 2, I remember reading this in Game Pro magazine They gave Zangief this move the green hand Where he could catch a fireball and like disintegrate it.
+
+346
+00:28:02,612 --> 00:28:06,049
+Scott: And the green hand would also move him forward a little bit when he did it.
+
+347
+00:28:06,431 --> 00:28:17,456
+Scott: So theoretically if you did the green hand right correctly you could like get closer to the opponent stop and stop their fireball with this one move and then Getting close to.
+
+348
+00:28:17,516 --> 00:28:20,470
+Scott: then maybe do your spinning pile drivers and your Zangief moves.
+
+349
+00:28:21,314 --> 00:28:41,110
+Scott: That was the theory but the reality was that it didn't work out And it's Zangief still sucked except You know in I think one or two games and you can read watch this video and you can learn all the gory details of the complete history of The green hand that was added and removed from Street Fighter.
+
+350
+00:28:41,250 --> 00:28:46,730
+Rym: I watched about 11 minutes of this before we did the show and I'm invested and I'm going to watch the rest like right after.
+
+351
+00:28:47,812 --> 00:28:48,295
+Scott: It's like.
+
+352
+00:28:48,335 --> 00:28:50,789
+Scott: you're looking at these, you know people who make fighting games.
+
+353
+00:28:51,012 --> 00:29:06,286
+Scott: It's like, you know the complaints that I have with fighting games are sort of in the fundamentals even some of which are even starting to change now that they have like the modern control system in the Street Fighter 6. but But it's like, you know within that context there's a lot of fascinating shit going on.
+
+354
+00:29:06,487 --> 00:29:07,029
+Scott: That's awesome.
+
+355
+00:29:08,031 --> 00:29:12,890
+Rym: In the meta moment the GeekNights book club book that Scott is almost done reading and thus I will finish the last little bit.
+
+356
+00:29:12,990 --> 00:29:13,513
+Rym: The night is short.
+
+357
+00:29:13,533 --> 00:29:15,441
+Scott: I would presume we could do an episode Thursday.
+
+358
+00:29:15,461 --> 00:29:17,510
+Rym: Yeah, so we should be able to do an episode Thursday.
+
+359
+00:29:17,672 --> 00:29:18,966
+Rym: So if you haven't read the book read it.
+
+360
+00:29:19,992 --> 00:29:23,201
+Rym: The book is short read on listener.
+
+361
+00:29:23,301 --> 00:29:24,283
+Rym: It's not a long book.
+
+362
+00:29:24,344 --> 00:29:25,066
+Rym: It's a quick read.
+
+363
+00:29:25,567 --> 00:29:26,630
+Scott: It's called a light novel.
+
+364
+00:29:26,951 --> 00:29:28,196
+Rym: Yeah, but I got.
+
+365
+00:29:28,276 --> 00:29:29,059
+Rym: I got a lot to say.
+
+366
+00:29:29,119 --> 00:29:35,441
+Rym: cuz I you know in typical fashion when you watch a movie and you read a book you'll take away different things from them.
+
+367
+00:29:35,783 --> 00:29:43,334
+Rym: and I Took more away from the book and I took things away from the book that I did not take away from the movie Even though they were both excellent.
+
+368
+00:29:43,855 --> 00:29:44,959
+Scott: Yeah for a light novel.
+
+369
+00:29:45,099 --> 00:29:47,948
+Scott: It's you know, and not not in not too many words.
+
+370
+00:29:48,008 --> 00:29:50,210
+Scott: There's still a lot of material.
+
+371
+00:29:51,162 --> 00:30:03,770
+Rym: Yep Also, I like the guy more having read the book because in the movie the whole time all in the back of my mind All I could think was that guy kind of sucks like she could date literally anyone else and be better off the book.
+
+372
+00:30:04,513 --> 00:30:07,082
+Rym: The book gives a little more clarity on that.
+
+373
+00:30:07,143 --> 00:30:11,339
+Rym: I think than the show did or the movie Especially in the later parts of the book.
+
+374
+00:30:11,439 --> 00:30:12,645
+Scott: Yeah, he gets less shitty.
+
+375
+00:30:13,107 --> 00:30:14,795
+Scott: Yeah It's sort of like.
+
+376
+00:30:14,936 --> 00:30:16,924
+Scott: it's sort of like in the in the in the movie.
+
+377
+00:30:17,004 --> 00:30:23,636
+Scott: It's like yeah, he's a shitty dude whereas in the book, it's more like He's he's a fine dude.
+
+378
+00:30:23,696 --> 00:30:25,905
+Scott: But of course every dude is shitty in these ways.
+
+379
+00:30:26,166 --> 00:30:29,577
+Scott: Yep, but also tell a dude you sort of.
+
+380
+00:30:29,638 --> 00:30:34,152
+Rym: it's sort of like them telling the story of how they got together from each other's perspectives before they Knew each other.
+
+381
+00:30:34,172 --> 00:30:43,730
+Rym: and also I think you can read some of the side characters as being Their vision of an idealized form of themselves and that did not come through in the movie the same way.
+
+382
+00:30:43,810 --> 00:30:46,605
+Rym: But anyway, we'll save all that for the book club episode.
+
+383
+00:30:46,626 --> 00:30:49,013
+Rym: So Full disclosure.
+
+384
+00:30:49,034 --> 00:30:57,346
+Rym: I agree with I'd say about 60% of what I expect 60 to 70 percent What I expect Scott's about to say but a lot of people will agree with a hundred percent.
+
+385
+00:30:57,527 --> 00:31:01,722
+Rym: Yeah, but There is the what we were gonna talk about.
+
+386
+00:31:01,742 --> 00:31:08,654
+Rym: just Marvel snap because we reviewed it Very early in its life and it is a very different beast now - I think it's like.
+
+387
+00:31:08,916 --> 00:31:10,830
+Scott: that's the thing when you have a living game like that.
+
+388
+00:31:10,910 --> 00:31:14,583
+Scott: If you're involved you could make a whole podcast out of it because things are constantly changing.
+
+389
+00:31:14,603 --> 00:31:16,570
+Scott: Yeah, I mean think about it GeekNights.
+
+390
+00:31:16,650 --> 00:31:18,702
+Scott: We can't be doing the same game over and over.
+
+391
+00:31:18,722 --> 00:31:20,070
+Scott: I get to make a new podcast.
+
+392
+00:31:20,311 --> 00:31:28,070
+Rym: Yeah, even though like our discord we could probably you me and Scott could probably just do a never-ending podcast about this fucking game.
+
+393
+00:31:28,472 --> 00:31:31,310
+Scott: But it changes every week so you could do a weekly episode.
+
+394
+00:31:31,431 --> 00:31:36,070
+Scott: You would talk about the new card and you would talk about the the the if there were any chain.
+
+395
+00:31:36,130 --> 00:31:45,929
+Scott: you know patches to the balance changes and then you would talk about like the economic, you know the the the Moditization system changes or what's new in the shop?
+
+396
+00:31:46,450 --> 00:31:50,110
+Scott: Yeah, that would be a three segments and you could do that once a week and make a Marvel snap podcast.
+
+397
+00:31:50,210 --> 00:31:51,738
+Rym: No problem, and we are not gonna do that.
+
+398
+00:31:51,898 --> 00:31:54,289
+Rym: But uh, so it was a common theme.
+
+399
+00:31:55,272 --> 00:32:06,905
+Rym: That comes up a lot and it's something that comes up For a lot of games that Scott and I talked about in our real lives outside of GeekNights, but it comes up Pretty much every week when we're talking about Marvel snap.
+
+400
+00:32:06,985 --> 00:32:08,049
+Rym: this brought up.
+
+401
+00:32:08,874 --> 00:32:23,407
+Rym: I could go prove how often it's come up if I went through this discord chat, but Scott will have very specific complaints that are valid and what this boils down to is Broadly in a game like Marvel snap, but extrapolate a little bit any sort of CCG.
+
+402
+00:32:23,487 --> 00:32:24,350
+Rym: that's competitive.
+
+403
+00:32:24,450 --> 00:32:34,079
+Scott: Yeah card games where you're basically paying a cost to play a card right magic the gathering being the first Significant one and at least kids be thankful.
+
+404
+00:32:34,199 --> 00:32:36,405
+Rym: We don't call them magic likes that.
+
+405
+00:32:36,446 --> 00:32:37,930
+Rym: we actually call them something different.
+
+406
+00:32:38,071 --> 00:32:41,450
+Rym: We could have gone down a bark dark path and called all these magic likes forever.
+
+407
+00:32:41,450 --> 00:32:48,404
+Scott: It applies to your yugioh's it applies to you know All of the all of these kinds of games even that runner even though that's significantly different.
+
+408
+00:32:48,484 --> 00:32:52,934
+Scott: It's still in the same category Yeah, but basically there's a.
+
+409
+00:32:52,974 --> 00:32:53,235
+Rym: there's.
+
+410
+00:32:53,836 --> 00:32:59,232
+Rym: there are key elements if we abstract a little bit that apply to all these games very relevant to The panel.
+
+411
+00:32:59,252 --> 00:33:01,141
+Rym: I didn't get to do that Scott had to do around.
+
+412
+00:33:01,202 --> 00:33:02,146
+Rym: every game is the same game.
+
+413
+00:33:02,508 --> 00:33:05,234
+Rym: these games Fundamentally you will.
+
+414
+00:33:05,335 --> 00:33:08,627
+Rym: you will have a deck that you have likely constructed in some way.
+
+415
+00:33:08,687 --> 00:33:09,410
+Rym: what's in my deck?
+
+416
+00:33:09,793 --> 00:33:11,689
+Rym: There's some rules on what you can put in your deck.
+
+417
+00:33:12,652 --> 00:33:23,829
+Rym: you can play cards, but the playing of the cards is gated by a resource of some kind and Generally, you will have more of that resource the longer the game goes on.
+
+418
+00:33:24,252 --> 00:33:25,921
+Rym: So in the early game like think magic.
+
+419
+00:33:26,222 --> 00:33:35,610
+Rym: in the early game you play a land Unless you're really lucky or have a special card You can play at most one card that costs one mana by tapping that land.
+
+420
+00:33:36,192 --> 00:33:37,998
+Scott: That last rule isn't firm.
+
+421
+00:33:38,138 --> 00:33:41,630
+Scott: like in netrunner you could end up like rich in the early game and bankrupt later.
+
+422
+00:33:41,730 --> 00:33:46,630
+Scott: But in general, yes, you will have more economic capabilities as the game goes on, right?
+
+423
+00:33:47,130 --> 00:33:55,607
+Scott: And so yeah all of these games since magic They have a host of problems that have caused these games to sort of collapse or devolve.
+
+424
+00:33:55,627 --> 00:33:57,415
+Scott: or you know In terms that we're not.
+
+425
+00:33:57,435 --> 00:34:01,716
+Scott: in terms of the outside part like the you know The community or the tournament structure anything.
+
+426
+00:34:01,736 --> 00:34:06,390
+Scott: we're talking about things internal to the rules of the game and the text printed on the cards.
+
+427
+00:34:06,731 --> 00:34:25,482
+Scott: the designers of the game fucked up and the game was in a bad state at one point or another to which it was in a range from unfun to play unfair to play unplayable, yeah, right Because they fucked up and that's excusable especially in the early days.
+
+428
+00:34:25,601 --> 00:34:28,550
+Scott: magic fucked up a lot, but they had nothing to learn from.
+
+429
+00:34:28,793 --> 00:34:32,301
+Scott: Yeah, it's like It was a bad idea.
+
+430
+00:34:33,411 --> 00:34:34,717
+Rym: Mox is a cool car then like.
+
+431
+00:34:34,817 --> 00:34:42,732
+Rym: oh and actually mox is the exact problem like magic stepped on this landmine with their first set and They like.
+
+432
+00:34:42,772 --> 00:34:52,149
+Rym: there's a reason mox's were removed from the game and the black Lotus for removed from the game Basically immediately like that was broken day zero and they knew it.
+
+433
+00:34:52,952 --> 00:35:07,759
+Scott: So then the problem is is that since then even games that are super new magic is how old 30 something years old 31 years old 31 years later people are making games with the sort of similar mechanics and Fucking up in the same way.
+
+434
+00:35:07,819 --> 00:35:09,630
+Scott: It's like why did you print black Lotus?
+
+435
+00:35:09,771 --> 00:35:12,425
+Scott: You know that that was broken since day one.
+
+436
+00:35:12,546 --> 00:35:13,310
+Scott: What is wrong with you?
+
+437
+00:35:13,733 --> 00:35:24,284
+Rym: I think it's more fundamental the even if they even if they learn that lesson They'll look at their own game and they'll think this is a cool card They don't realize what I'm looking at is actually a black Lotus, right?
+
+438
+00:35:24,765 --> 00:35:26,129
+Scott: And so I have a list here of like.
+
+439
+00:35:27,713 --> 00:35:28,935
+Scott: I got a list.
+
+440
+00:35:28,955 --> 00:35:44,203
+Scott: I've you know, I've been keeping notes over time, you know since even the netrunner days right of like problems That More Problems that all these games kind of have the lessons that we've learned.
+
+441
+00:35:44,484 --> 00:35:54,848
+Scott: and so if I am ever to make a game in this category in my shit talk Aspirational life that I won't live I can make a game that doesn't do any of these things now.
+
+442
+00:35:54,888 --> 00:36:08,098
+Rym: There is one fundamental possible and say I want to say now because I want to bring it up again at the very end around if you Do design games Strictly to avoid all the problems.
+
+443
+00:36:08,158 --> 00:36:09,324
+Rym: God has decided is going.
+
+444
+00:36:09,364 --> 00:36:10,650
+Scott: it might be a really unfun game.
+
+445
+00:36:10,830 --> 00:36:12,357
+Rym: Well, well what it's a there's.
+
+446
+00:36:12,377 --> 00:36:14,626
+Rym: I forget who said this, but I was reminded of it.
+
+447
+00:36:14,666 --> 00:36:15,550
+Rym: I've been using this again.
+
+448
+00:36:16,654 --> 00:36:25,063
+Rym: if a sport is perfected It increasingly becomes less of a sport and more Choreography in that there is a correct way to play.
+
+449
+00:36:25,164 --> 00:36:26,650
+Rym: like all sports become core.
+
+450
+00:36:26,650 --> 00:36:30,562
+Rym: You like a lot of gymnastics has become extremely advanced choreography.
+
+451
+00:36:30,662 --> 00:36:34,975
+Rym: fencing is just extremely advanced choreography the way the games have evolved.
+
+452
+00:36:35,596 --> 00:36:42,519
+Rym: but you know when the Pareto frontier is perfect the game becomes this sort of fundamental solved game.
+
+453
+00:36:43,041 --> 00:36:46,678
+Rym: every card game becomes something like Battle line.
+
+454
+00:36:47,081 --> 00:36:48,249
+Scott: that's what you can have some luck in there.
+
+455
+00:36:48,792 --> 00:36:56,307
+Scott: But anyway the but after art the panel that I did alone Someone came up to me and they were like, hey just thinking about games this way make them like less fun.
+
+456
+00:36:56,327 --> 00:37:05,870
+Rym: And I'm like, yes Yes How many games I would like or have liked that with my modern that years of GeekNights if it caused me to look at?
+
+457
+00:37:05,950 --> 00:37:07,817
+Rym: A brand new game immediately clock.
+
+458
+00:37:08,218 --> 00:37:09,724
+Rym: It's got X Y & Z problems.
+
+459
+00:37:10,025 --> 00:37:11,008
+Rym: All right, I read the rules.
+
+460
+00:37:11,048 --> 00:37:11,470
+Rym: I know the deal.
+
+461
+00:37:11,510 --> 00:37:12,328
+Rym: I never need to play this
+
+462
+00:37:12,751 --> 00:37:43,273
+Scott: Alright, so anyway the first thing on the list which is we don't need to go too long about it because it applies to all Games, but these games have it this problem often, which is they don't write the rules and ambiguously Which is it's much more difficult for these games than other games because in addition to a rule book Which you can heavily edit right over time You're putting out cards constantly and like sets with like lots of cards and you have to make sure every single card is written on Ambiguously and like one set is like several rule books worth of text And it's.
+
+463
+00:37:43,494 --> 00:37:46,429
+Scott: it's a difficult challenge, but it's like you just have to do it.
+
+464
+00:37:46,831 --> 00:38:01,975
+Scott: There's too many games where they put out cards and the text as an Unambig, no you couldn't look at the two players who are experts at the game could look at the card read the text in their native language and disagree about what that card does and Don't do that.
+
+465
+00:38:02,659 --> 00:38:04,250
+Scott: edit edit better, right?
+
+466
+00:38:04,610 --> 00:38:10,290
+Scott: Just you have no business putting out this kind of game if you can't write the text and unambiguous magic learn that right away.
+
+467
+00:38:10,430 --> 00:38:22,252
+Rym: one banding they eventually got rid of because they couldn't figure out a way to write it and the IC manipulator caused endless strife in The earliest days of magic because the way it was written there were a lot of ways to interpret what that effect was in practice In the game.
+
+468
+00:38:22,874 --> 00:38:23,014
+Scott: Yep.
+
+469
+00:38:23,536 --> 00:38:28,090
+Scott: All right, the second item a very common topic in card game communities is power creep, right?
+
+470
+00:38:28,210 --> 00:38:33,570
+Scott: So what happens is your you have a game and you put out some cards and then you want to sell more cards.
+
+471
+00:38:34,870 --> 00:38:36,978
+Scott: So why would I buy those new cards?
+
+472
+00:38:37,500 --> 00:38:40,996
+Scott: Right if they're not stronger and better than the cards I have?
+
+473
+00:38:41,057 --> 00:38:44,959
+Scott: if I have a monster here That's a one one for one and you sell me.
+
+474
+00:38:44,999 --> 00:38:48,049
+Scott: you're gonna sell me a set that has a one one for two.
+
+475
+00:38:48,611 --> 00:38:49,896
+Scott: No, that's just a worst card.
+
+476
+00:38:49,916 --> 00:38:50,980
+Scott: Why would I buy that right?
+
+477
+00:38:51,000 --> 00:38:52,365
+Scott: You're gonna sell me a card.
+
+478
+00:38:52,385 --> 00:38:53,570
+Scott: That's a one one for one.
+
+479
+00:38:53,710 --> 00:38:54,634
+Scott: I already have that card.
+
+480
+00:38:54,674 --> 00:38:55,738
+Scott: Why would I buy new cards?
+
+481
+00:38:56,139 --> 00:38:57,504
+Scott: You're gonna sell me a. what a car?
+
+482
+00:38:57,525 --> 00:38:58,769
+Scott: That's a one two for one.
+
+483
+00:38:59,452 --> 00:39:13,210
+Scott: Yes, now I have to buy the new set because those cards are just better and the old cards now are worthless because they're just worse and The perennial frontier of the best cars is constantly moving forward and this power creep in the game.
+
+484
+00:39:13,552 --> 00:39:16,369
+Scott: Because you do that to keep selling more cards, right?
+
+485
+00:39:17,010 --> 00:39:23,150
+Scott: But what you're really doing is just selling the same game another copy of the same game with bigger numbers on it.
+
+486
+00:39:23,572 --> 00:39:26,850
+Scott: It's like why do I need to play the same game again with different numbers?
+
+487
+00:39:27,031 --> 00:39:30,590
+Scott: I could just not buy those new cards and just play with these cards.
+
+488
+00:39:30,710 --> 00:39:39,252
+Rym: Yeah, right now some games will do will solve this sort of problem by rotations of sets or what's legal at tournaments or whatever Exactly.
+
+489
+00:39:39,372 --> 00:39:46,350
+Scott: So, you know the thing I think you got to do is just be more creative or end your fucking game.
+
+490
+00:39:46,731 --> 00:39:47,434
+Scott: Right, it's people.
+
+491
+00:39:47,575 --> 00:39:49,744
+Scott: They're like all rotation and stuff like that.
+
+492
+00:39:49,824 --> 00:39:51,270
+Scott: It's like you don't have to do that.
+
+493
+00:39:51,370 --> 00:39:53,035
+Scott: You could end the game.
+
+494
+00:39:53,336 --> 00:39:57,690
+Scott: You could be like that's the end right but then you don't make any more money.
+
+495
+00:39:58,513 --> 00:40:01,827
+Scott: The other thing you can do right is you can end the game, right?
+
+496
+00:40:02,570 --> 00:40:16,081
+Scott: You could basically do what would be it's sort of rotation, but basically complete rotation Right sort of like what they do with the old Jewish lady mahjong where every year there's a mahjong card And these are the hands for the year and next year new hands.
+
+497
+00:40:16,623 --> 00:40:20,278
+Scott: So you could be like this is Magic the Gathering 2024?
+
+498
+00:40:20,278 --> 00:40:23,514
+Scott: this is Marvel snap 2024 right?
+
+499
+00:40:23,775 --> 00:40:26,283
+Scott: These are the cards right by the fault.
+
+500
+00:40:26,303 --> 00:40:27,186
+Scott: Here's all the cards.
+
+501
+00:40:27,226 --> 00:40:32,806
+Scott: you have them play And then as soon as that the year is over all those cards are expired.
+
+502
+00:40:32,966 --> 00:40:33,769
+Scott: They're worthless.
+
+503
+00:40:33,809 --> 00:40:34,813
+Scott: now Here's Brett.
+
+504
+00:40:34,833 --> 00:40:35,376
+Scott: you can play.
+
+505
+00:40:35,456 --> 00:40:37,043
+Scott: anyone who wants to play magic 2024 can do so.
+
+506
+00:40:38,590 --> 00:40:39,033
+Scott: It's still like.
+
+507
+00:40:39,153 --> 00:40:47,290
+Scott: it's like a whole game that you can buy and play to relive the year 2024. and it's like every year you get a brand new set of cards with the same rules.
+
+508
+00:40:47,953 --> 00:40:53,707
+Scott: Right they go together But you don't have to like creep because you're not competing with the past ever and people are good.
+
+509
+00:40:53,747 --> 00:41:04,565
+Rym: people who care about your game Are gonna buy every edition probably and then you'll have a few people who play GameCube smash like they played the edition 1994 because that's the one they like.
+
+510
+00:41:04,605 --> 00:41:14,376
+Scott: but fine, right the slow Rotation or the living game where the new cards have to compete with old cards to any extent lends to power creep Which is not great.
+
+511
+00:41:14,476 --> 00:41:19,210
+Scott: right because you you know, the magic people have like this philosophy that like you need bad cards.
+
+512
+00:41:19,210 --> 00:41:21,277
+Scott: It's like no you don't need bad cards.
+
+513
+00:41:21,437 --> 00:41:25,250
+Scott: Every single card should be a playable worthy card of being played.
+
+514
+00:41:25,692 --> 00:41:29,690
+Rym: Well bad cards are good for teaching and learning the game.
+
+515
+00:41:30,554 --> 00:41:31,097
+Scott: No, why?
+
+516
+00:41:31,217 --> 00:41:31,458
+Scott: why?
+
+517
+00:41:31,599 --> 00:41:32,584
+Scott: what those car the cards?
+
+518
+00:41:32,664 --> 00:41:33,750
+Rym: Richard Garfield at a whole thing?
+
+519
+00:41:33,830 --> 00:41:39,633
+Rym: He wrote I should link to you about how bad cards were good for the game, but in a yeah I disagree.
+
+520
+00:41:39,673 --> 00:41:40,899
+Scott: read that and I disagree with it.
+
+521
+00:41:41,160 --> 00:41:42,486
+Rym: I actually agree with it very strongly.
+
+522
+00:41:42,506 --> 00:41:45,389
+Scott: I don't but anyway.
+
+523
+00:41:46,192 --> 00:41:47,255
+Rym: But we like Marvel snap.
+
+524
+00:41:47,275 --> 00:41:49,360
+Rym: to you where this becomes a very specific problem.
+
+525
+00:41:49,381 --> 00:41:55,497
+Rym: Marvel snap is a game where you'll get every card Eventually just by playing grinding whatever.
+
+526
+00:41:55,999 --> 00:42:01,947
+Rym: but a big part of their monetization is you can pay money to get cards faster.
+
+527
+00:42:01,968 --> 00:42:14,189
+Rym: and I feel like a big drive of power creep in Marvel snap Specifically because the pattern we have seen and I think it's happened enough to where we can say it's a real pattern new cards come out.
+
+528
+00:42:15,212 --> 00:42:16,256
+Rym: They're obviously.
+
+529
+00:42:16,337 --> 00:42:18,846
+Rym: some of them are like obviously overpowered obviously break them.
+
+530
+00:42:18,866 --> 00:42:24,390
+Rym: some of them are garbage though Some are garbage but like Gwenpool I can see that being abused and nerfed immediately.
+
+531
+00:42:24,611 --> 00:42:25,335
+Scott: Oh, yeah, that's good.
+
+532
+00:42:25,355 --> 00:42:26,984
+Rym: Well, we look at these cards.
+
+533
+00:42:27,004 --> 00:42:27,990
+Rym: you see they're overpowered.
+
+534
+00:42:28,493 --> 00:42:34,502
+Rym: but if you're smart and you play Marvel snap you think to yourself if It's gonna be overpowered for a few months and then they're gonna nerf it.
+
+535
+00:42:34,924 --> 00:42:40,464
+Rym: if I get the card today I will win more cubes for the next month before they nerf it.
+
+536
+00:42:40,906 --> 00:42:43,879
+Rym: if I don't get the card I'll never get to take advantage of this.
+
+537
+00:42:44,342 --> 00:42:50,904
+Rym: But the only way to get the card is To pay money through a complicated monetization scheme to buy gold and nonsense.
+
+538
+00:42:51,426 --> 00:42:56,000
+Scott: Yeah, it depends right You know on the specific scheme of the specific.
+
+539
+00:42:56,040 --> 00:43:03,890
+Scott: Yeah, but I think you might be able to use Strategically the gold you've gotten for free, you know wisely to only get the strong car.
+
+540
+00:43:03,910 --> 00:43:04,535
+Rym: But I think it is.
+
+541
+00:43:04,556 --> 00:43:06,149
+Scott: but also you need some luck for that.
+
+542
+00:43:06,471 --> 00:43:14,064
+Rym: But I think there is a generalizable case that the the structure of Marvel snaps monetization encourages.
+
+543
+00:43:15,331 --> 00:43:18,982
+Scott: Yeah power creep of new cars same for all these games.
+
+544
+00:43:19,102 --> 00:43:29,644
+Scott: when they have a capitalist interest in selling new cards They have an interest in making those cards Stronger in the game than the older car capitalism the final boss of every game.
+
+545
+00:43:30,426 --> 00:43:31,870
+Scott: So don't do that, right?
+
+546
+00:43:33,592 --> 00:43:41,426
+Scott: the next thing right and this is sort of a thing that sort of underlies all these rules is that People who play these games.
+
+547
+00:43:41,568 --> 00:43:46,145
+Scott: Yes There are you know people have that old story about Timmy and spike and whatever.
+
+548
+00:43:46,185 --> 00:43:50,265
+Scott: that don't completely buy into Because everyone has a little bit of all those mixed together.
+
+549
+00:43:50,466 --> 00:43:54,139
+Scott: Oh, yeah, but Fundamentally people who play card games aren't.
+
+550
+00:43:54,299 --> 00:43:57,910
+Scott: so the fun, you know, people might want to win of course, right?
+
+551
+00:43:58,610 --> 00:44:03,573
+Scott: But the fun of the game isn't necessarily even for a competitive person like me Isn't?
+
+552
+00:44:03,713 --> 00:44:04,898
+Scott: in the winning and the losing.
+
+553
+00:44:04,978 --> 00:44:06,242
+Scott: I don't get upset when I lose.
+
+554
+00:44:06,323 --> 00:44:08,109
+Scott: losing doesn't upset me, right?
+
+555
+00:44:08,751 --> 00:44:12,686
+Scott: Especially if the other person out plays me then it's like ah good game you got me right.
+
+556
+00:44:12,746 --> 00:44:16,210
+Scott: or if it's a 50/50 It's like well, it was 50/50 and I chose wrong.
+
+557
+00:44:16,250 --> 00:44:20,797
+Rym: Yeah, if I snap and they immediately snack back and give me the thumbs up emoji I know I'm in for a good time.
+
+558
+00:44:20,857 --> 00:44:23,130
+Rym: Even if I'm about to lose eight cubes, that's right.
+
+559
+00:44:23,270 --> 00:44:43,079
+Scott: And so what what upsets me in these kinds of games and I think what upsets every most players of games Period right is when there is a situation where you can't play Right where because all someone wants to do when they have a customized card game is their deck is Usually an expression of themselves, right?
+
+560
+00:44:43,139 --> 00:44:43,420
+Scott: It's like.
+
+561
+00:44:43,661 --> 00:44:45,105
+Scott: these are the things I enjoy.
+
+562
+00:44:45,125 --> 00:44:52,523
+Scott: I like really big Creatures or I like lots of weird tricky card shuffling or right.
+
+563
+00:44:52,543 --> 00:44:56,406
+Rym: and it's like I like a bunch of professor exes.
+
+564
+00:44:57,173 --> 00:44:58,038
+Scott: Sure, great.
+
+565
+00:44:58,058 --> 00:44:59,465
+Scott: You like a bunch of professor exes.
+
+566
+00:44:59,505 --> 00:45:00,350
+Scott: It's awesome, right?
+
+567
+00:45:01,527 --> 00:45:08,226
+Scott: and Even if you lose People just want to be able to do the thing that they like.
+
+568
+00:45:08,306 --> 00:45:08,567
+Scott: do it.
+
+569
+00:45:08,607 --> 00:45:09,370
+Scott: They want to play.
+
+570
+00:45:09,450 --> 00:45:10,214
+Scott: It's a card game.
+
+571
+00:45:10,275 --> 00:45:12,064
+Scott: people like to play cards.
+
+572
+00:45:12,084 --> 00:45:13,129
+Scott: They just want to play.
+
+573
+00:45:13,371 --> 00:45:15,463
+Rym: Well think about our four night thing from all our panels.
+
+574
+00:45:15,503 --> 00:45:16,630
+Rym: people want to play for tonight.
+
+575
+00:45:16,630 --> 00:45:21,049
+Rym: They're not gonna win in the end like the sweaty guys gonna win, but I don't want to walk around before they.
+
+576
+00:45:22,594 --> 00:45:24,782
+Scott: I don't want care if I lose I. it's a car.
+
+577
+00:45:24,842 --> 00:45:25,465
+Scott: It's a game.
+
+578
+00:45:25,585 --> 00:45:26,890
+Scott: I just want to play it.
+
+579
+00:45:26,951 --> 00:45:29,290
+Scott: I want to play my cards, right?
+
+580
+00:45:29,672 --> 00:45:40,159
+Scott: And so many of these games have had at times mechanics which prevent players from playing Right blue decks mostly in magic.
+
+581
+00:45:40,179 --> 00:45:44,078
+Rym: back in the day the most counter spell counter spell counter spell You don't get that's.
+
+582
+00:45:44,178 --> 00:45:45,450
+Scott: that's kind of bad.
+
+583
+00:45:45,550 --> 00:45:47,879
+Scott: But you know stasis is the better example.
+
+584
+00:45:47,899 --> 00:45:54,061
+Scott: like all your lands are tapped and you cannot untap them You cannot play cards or your deck is milled.
+
+585
+00:45:54,241 --> 00:45:54,984
+Scott: It is just gone.
+
+586
+00:45:55,064 --> 00:45:58,878
+Scott: millstone millstone howling mine And you don't.
+
+587
+00:45:58,898 --> 00:46:02,050
+Scott: you can't play cards cuz they're all in the garbage, you know, it's true.
+
+588
+00:46:02,070 --> 00:46:03,817
+Scott: Whatever was in your deck was meaningless.
+
+589
+00:46:03,877 --> 00:46:05,623
+Scott: It could have been any cards in your deck.
+
+590
+00:46:06,185 --> 00:46:07,470
+Rym: I might be the outlier.
+
+591
+00:46:07,571 --> 00:46:16,907
+Rym: I know that I am NOT a typical person in this regard But like when I play magic and someone would mill me I was usually just impressed and like it was kind of not
+
+592
+00:46:16,927 --> 00:46:20,441
+Scott: that it's not Impressive with the cards that people did it with back in the day.
+
+593
+00:46:20,501 --> 00:46:22,970
+Scott: It would be impressive now given the cards that they have now.
+
+594
+00:46:24,172 --> 00:46:28,070
+Scott: But at the time with those fucked-up cards that I'm complaining about it was not impressive.
+
+595
+00:46:28,291 --> 00:46:31,110
+Scott: It was just oh you chose that deck and you bought those cards.
+
+596
+00:46:32,731 --> 00:46:36,290
+Scott: In netrunner there was a period of time where the there was a card data leak reversal.
+
+597
+00:46:36,411 --> 00:46:39,531
+Scott: That was a mill card that was in the earliest netrunner set Like.
+
+598
+00:46:39,571 --> 00:46:41,202
+Scott: I think it might even have been the base set.
+
+599
+00:46:41,243 --> 00:46:44,610
+Rym: if I'm remembering correctly You think they would have seen that one coming, right?
+
+600
+00:46:44,930 --> 00:46:45,954
+Scott: But it was a useless.
+
+601
+00:46:45,994 --> 00:46:52,974
+Scott: it was so hard to make it work like it was worthless because if you even if you tag someone It's like you had to put a tag on them Then you had to.
+
+602
+00:46:53,115 --> 00:46:58,500
+Scott: you could mill them twice and then on their turn they would remove the tag or they would destroy.
+
+603
+00:46:58,520 --> 00:47:02,860
+Scott: they would destroy the data leak reversal card and Right, it's like and then they would.
+
+604
+00:47:03,403 --> 00:47:04,490
+Scott: it's like there wasn't really.
+
+605
+00:47:06,172 --> 00:47:07,252
+Scott: You know It was.
+
+606
+00:47:07,372 --> 00:47:08,917
+Scott: it was not effective basically.
+
+607
+00:47:09,338 --> 00:47:18,350
+Scott: then they released some cards later that basically made it impossible to get rid of the thing Mmm, and so you could just mill someone's whole deck like mill mill mill mill mill mill mill mill on your turn.
+
+608
+00:47:18,992 --> 00:47:21,101
+Scott: It's like at that period in the game's life.
+
+609
+00:47:21,242 --> 00:47:22,326
+Scott: It was just terrible to play.
+
+610
+00:47:22,748 --> 00:47:23,210
+Scott: It was awful.
+
+611
+00:47:23,511 --> 00:47:34,666
+Rym: I just I pulled up the card to look up the text again and the first comment in this thread is This card exists for one reason and one reason alone to ensure that whoever plays it will never find a casual match within the regular play group again
+
+612
+00:47:35,790 --> 00:47:43,581
+Scott: exactly, so When you make your card game You should never put anything in it where it should be no combination of cards.
+
+613
+00:47:43,702 --> 00:47:52,914
+Scott: period where you could prevent the other player From playing you could prevent them from winning But you should not prevent them from Playing like.
+
+614
+00:47:52,974 --> 00:48:04,490
+Scott: if they've got some like if their idea is they want to summon some giant creature Then the ideal game would be they summon their giant creature Which is really stupid and weak because it takes all game to do it doesn't really work and then they lose.
+
+615
+00:48:04,772 --> 00:48:06,345
+Scott: But they got to play their giant creature.
+
+616
+00:48:06,365 --> 00:48:14,706
+Scott: They're happy Right if you make it's like yeah they can never get any car draw their cards and they can't do their energy and then they lose before they do anything.
+
+617
+00:48:14,886 --> 00:48:23,450
+Scott: Channel fireball or Ailioth destroys your cards before they flip over right in Marvel snap or yet you Galactus just wins right?
+
+618
+00:48:23,771 --> 00:48:24,072
+Scott: It's like.
+
+619
+00:48:24,534 --> 00:48:25,376
+Scott: don't do that ever.
+
+620
+00:48:25,557 --> 00:48:27,543
+Scott: there should be no possibility of that to happen.
+
+621
+00:48:27,664 --> 00:48:30,927
+Scott: people should always be able to play even if they lose.
+
+622
+00:48:33,675 --> 00:48:37,773
+Scott: The next thing is Mathematically right.
+
+623
+00:48:37,974 --> 00:48:39,718
+Scott: all of these games have you know?
+
+624
+00:48:39,738 --> 00:48:47,584
+Scott: we talked about how they have currencies for playing cards right and the currencies Usually translate into power or victory points of whatever.
+
+625
+00:48:47,604 --> 00:48:48,990
+Scott: however the game works, right?
+
+626
+00:48:49,950 --> 00:48:51,698
+Scott: You know you spend currency into cards.
+
+627
+00:48:51,738 --> 00:48:56,408
+Scott: you use the cards abilities to gain winning the winning part.
+
+628
+00:48:57,411 --> 00:49:03,310
+Scott: Because the currency parts are usually always linear in nature or close to linear.
+
+629
+00:49:04,092 --> 00:49:07,944
+Scott: The winning parts should also be mathematically linear.
+
+630
+00:49:08,505 --> 00:49:11,176
+Scott: They should never be multiplicative Ever.
+
+631
+00:49:11,297 --> 00:49:13,450
+Scott: you should never have a multiplication sign in your game.
+
+632
+00:49:14,032 --> 00:49:17,525
+Scott: You should also not have a scaler an unlimited scaler where it's like.
+
+633
+00:49:17,605 --> 00:49:26,510
+Scott: Oh yes for every Energy you spend you get something that's effectively multiplicative because it's multiplied times the number of energy you spent.
+
+634
+00:49:28,352 --> 00:49:34,609
+Scott: Never do that if there's a if you want to do like per X say maximum 2 or maximum 3 or whatever.
+
+635
+00:49:34,669 --> 00:49:35,252
+Scott: it is Right.
+
+636
+00:49:35,754 --> 00:49:38,510
+Scott: and if you want to say double don't never say double.
+
+637
+00:49:38,691 --> 00:49:45,676
+Rym: I will say though Iron Man ever say a fantastic and perfectly counterable card in man He's not I mean you.
+
+638
+00:49:45,817 --> 00:49:48,485
+Scott: it's like it's one of those things where it's like you.
+
+639
+00:49:48,625 --> 00:49:54,703
+Scott: you could make it work within Right really narrow scopes, but you're basically playing with fire on the edge.
+
+640
+00:49:54,763 --> 00:49:56,067
+Rym: I think that's the key point.
+
+641
+00:49:56,087 --> 00:49:56,950
+Rym: you're playing with fire.
+
+642
+00:49:57,271 --> 00:50:09,073
+Rym: That is dangerous, but it's not undoable, and I think doing it well Makes for sublime experiences within games, but doing it poorly leads to Marvel snap.
+
+643
+00:50:09,634 --> 00:50:11,179
+Rym: Iron Man is the only card that matters.
+
+644
+00:50:11,360 --> 00:50:12,664
+Rym: if they did it wrong right.
+
+645
+00:50:12,764 --> 00:50:25,563
+Scott: the problem is that when you have Multiplication even if you sort of have the reins like a tight leash on the multiplication and sort of keep it within bounds You're basically limiting your entire design space for your whole game.
+
+646
+00:50:25,623 --> 00:50:31,961
+Scott: because now anytime you design a card you have to say Well what if someone uses this with the multiplication right?
+
+647
+00:50:32,403 --> 00:50:38,909
+Scott: and so as you're designing new cards for your game You have to constantly think about that one fucking card that you decided to not get rid of.
+
+648
+00:50:38,949 --> 00:50:43,122
+Scott: that is Multiplication and it's like well this work with the multiplication and get out of hand.
+
+649
+00:50:43,483 --> 00:50:45,649
+Scott: well this work with the multiplication get out of hand.
+
+650
+00:50:45,970 --> 00:50:50,857
+Scott: if Everything remains linear right in some aspect Then you don't have to do that.
+
+651
+00:50:50,897 --> 00:50:58,130
+Scott: you can design cards freely without having to think about Will there be some horrible combo there can't be because there's no multiplication in this game.
+
+652
+00:50:58,291 --> 00:51:05,286
+Rym: So well actually an extreme Counter-example, but it doesn't really apply here in the sense that this was a closed game where no new cards get added.
+
+653
+00:51:05,748 --> 00:51:06,510
+Rym: glory to Rome.
+
+654
+00:51:07,532 --> 00:51:10,202
+Rym: One thing that it did that was super fascinating.
+
+655
+00:51:10,243 --> 00:51:16,314
+Rym: I still think about a lot is all the cards that do Effectively multiplicative.
+
+656
+00:51:16,354 --> 00:51:27,195
+Rym: things were all unbounded and all did exactly what they said and that meant that things were fucking broken, but yep Everything was broken.
+
+657
+00:51:27,295 --> 00:51:29,824
+Rym: the whole thing was like that right.
+
+658
+00:51:29,844 --> 00:51:31,630
+Scott: so that is perfectly acceptable.
+
+659
+00:51:31,730 --> 00:51:34,360
+Scott: That's more than acceptable because in glory to Rome.
+
+660
+00:51:35,063 --> 00:51:36,127
+Scott: It is not a collectible game.
+
+661
+00:51:36,267 --> 00:51:40,852
+Rym: Yeah, right Chance of being able to play those multiplicative Nonsenses.
+
+662
+00:51:41,293 --> 00:51:42,897
+Scott: it is not a customizable game.
+
+663
+00:51:42,998 --> 00:51:47,510
+Scott: your deck is not like an expression of yourself that like you really want to play your cards.
+
+664
+00:51:47,611 --> 00:51:48,859
+Scott: It's like you're just playing the hand.
+
+665
+00:51:48,879 --> 00:51:49,906
+Scott: you're dealt right.
+
+666
+00:51:50,288 --> 00:51:58,090
+Scott: so It's not like you're being denied your fun because you didn't get to do your thing because someone else decided to play multiplier, right?
+
+667
+00:51:58,190 --> 00:52:02,690
+Scott: It's like it doesn't invalidate other styles of play by being too strong, right?
+
+668
+00:52:02,770 --> 00:52:03,594
+Scott: It's like right.
+
+669
+00:52:03,675 --> 00:52:06,610
+Scott: and then lastly you're not adding new cards to glory to Rome.
+
+670
+00:52:06,915 --> 00:52:15,230
+Scott: So it's not like you have this Restricted design space when you're trying to add new cards because you're never adding new car in case and you don't have to constantly think I want to add this new card to glory to Rome.
+
+671
+00:52:15,471 --> 00:52:16,737
+Scott: But what about the sewer?
+
+672
+00:52:16,757 --> 00:52:18,665
+Rym: that or so case in point and never happens.
+
+673
+00:52:18,685 --> 00:52:32,003
+Rym: games done It comes with a little book that at the back because it's a closed ecosystem It just lists here is how every crazy multiplicative card interacts with every other crazy Multiplicative card in extreme detail because there's only so many cards.
+
+674
+00:52:32,063 --> 00:52:33,770
+Rym: a human wrote all of those words.
+
+675
+00:52:33,810 --> 00:52:35,490
+Rym: You can't do that with Marvel snap, right?
+
+676
+00:52:35,650 --> 00:52:40,243
+Scott: It's because these games are living games customizable games competitive right.
+
+677
+00:52:40,263 --> 00:52:42,610
+Scott: because of those things these rules come into place.
+
+678
+00:52:42,671 --> 00:52:44,930
+Scott: These are not rules for all games ever, right?
+
+679
+00:52:45,290 --> 00:52:48,244
+Scott: These are rules only for these specific types of games.
+
+680
+00:52:48,284 --> 00:52:49,229
+Scott: to not fuck them up.
+
+681
+00:52:49,731 --> 00:53:05,210
+Scott: Right because you know from my view as soon as you add multiplication and it's you kept keep it in there From that point forward the game is sort of like locked into frame to like make sure right Whereas if you keep that out the game is still like free and breathing easy
+
+682
+00:53:05,471 --> 00:53:06,193
+Rym: Yeah,
+
+683
+00:53:06,694 --> 00:53:09,302
+Scott: and the last and final one and the biggest one, right?
+
+684
+00:53:09,362 --> 00:53:12,070
+Scott: Don't make black loses don't print black Lotus, right?
+
+685
+00:53:12,251 --> 00:53:21,390
+Scott: so in all of these games Right, you have this idea of getting currency of some kind and spending that currency to play cards.
+
+686
+00:53:21,692 --> 00:53:22,882
+Scott: right this right.
+
+687
+00:53:23,245 --> 00:53:34,850
+Scott: and so If you were to give one player more currency than another player That that's all that matters then the rest of the game is now meaningless.
+
+688
+00:53:35,391 --> 00:53:38,179
+Scott: Right assuming that all the cards are perfectly balanced.
+
+689
+00:53:38,761 --> 00:53:45,861
+Scott: if someone has a way to get more energy than their opponent more Mana more dot credits more whatever it is.
+
+690
+00:53:45,881 --> 00:53:49,572
+Scott: That is always going to be the strongest strategy Period.
+
+691
+00:53:49,672 --> 00:53:55,750
+Scott: nothing can compete with that because I literally just play more cards than you and the cards are all equally kind of balanced.
+
+692
+00:53:55,870 --> 00:53:56,773
+Rym: Ish so I win.
+
+693
+00:53:57,014 --> 00:54:07,660
+Rym: Yep, and this and so any card was learned day one like magic magic restricted the very limited set of cards that broke the mana curve immediately.
+
+694
+00:54:07,741 --> 00:54:13,367
+Rym: like Unlimited said you can only have one saw ring in there in your deck and one of each mocks into your deck.
+
+695
+00:54:13,628 --> 00:54:15,649
+Rym: and even that Wasn't enough and then they just banned them all.
+
+696
+00:54:16,432 --> 00:54:23,108
+Scott: Yep, it's like never ever give anyone a way to sort of get unfairly ahead.
+
+697
+00:54:23,128 --> 00:54:23,850
+Scott: right and magic.
+
+698
+00:54:23,850 --> 00:54:34,109
+Scott: it's sort of like you have this randomness of drawing land, but in most games since then hearth stones and You get one more per turn these boxes all the mocks did.
+
+699
+00:54:35,031 --> 00:54:36,114
+Rym: Literally all these did.
+
+700
+00:54:36,615 --> 00:54:39,966
+Rym: they cost zero so you could just play them and they gave they.
+
+701
+00:54:40,066 --> 00:54:41,270
+Rym: you could tap them to get one mana.
+
+702
+00:54:41,270 --> 00:54:44,421
+Rym: It's like being able to play a forest for free if you had a mox emerald, that's it.
+
+703
+00:54:44,822 --> 00:54:46,528
+Rym: And that alone was game.
+
+704
+00:54:47,890 --> 00:54:50,157
+Rym: Breakingly earth shatteringly powerful.
+
+705
+00:54:50,839 --> 00:54:51,461
+Scott: Yeah, it's just.
+
+706
+00:54:51,581 --> 00:54:53,768
+Scott: it's just insane that you would let anyone do.
+
+707
+00:54:53,808 --> 00:54:55,475
+Scott: and it's like you think Oh, well, both people have it.
+
+708
+00:54:55,555 --> 00:54:55,856
+Scott: It's like.
+
+709
+00:54:56,399 --> 00:54:57,885
+Scott: but then the whole game just becomes.
+
+710
+00:54:57,925 --> 00:54:58,909
+Scott: who draws it first?
+
+711
+00:54:59,030 --> 00:55:00,755
+Rym: Talk about Korea.
+
+712
+00:55:00,795 --> 00:55:01,176
+Scott: who can?
+
+713
+00:55:01,396 --> 00:55:02,960
+Rym: the choreography is everyone is a deck.
+
+714
+00:55:02,980 --> 00:55:04,123
+Rym: that is just a channel.
+
+715
+00:55:04,163 --> 00:55:06,690
+Rym: fireball mocks black Lotus machine, right?
+
+716
+00:55:06,750 --> 00:55:20,750
+Scott: it's like the whole game now is no longer about creatures and spells or superheroes or Locations or you know choosing where to attack with your little hearthstone guys or running on servers and netrunner.
+
+717
+00:55:21,272 --> 00:55:26,030
+Scott: It's only about just get a stronger economy than the opponent and then play a win condition.
+
+718
+00:55:26,692 --> 00:55:29,199
+Scott: The condition is it's a win condition.
+
+719
+00:55:29,219 --> 00:55:32,870
+Scott: you just get to it faster because your economy was better and magic learned all these lessons.
+
+720
+00:55:32,890 --> 00:55:33,452
+Rym: They're first set.
+
+721
+00:55:33,492 --> 00:55:36,082
+Rym: I forgot about time walk until just now to cost you mana.
+
+722
+00:55:36,123 --> 00:55:36,825
+Rym: take an extra turn.
+
+723
+00:55:37,307 --> 00:55:39,034
+Scott: Yeah, fuck that Garbage, right.
+
+724
+00:55:39,336 --> 00:55:42,670
+Scott: and so similarly along the same vein as that right?
+
+725
+00:55:43,230 --> 00:55:50,130
+Scott: There are other hidden ways where you might accidentally give players free energy without realizing it, right?
+
+726
+00:55:50,490 --> 00:55:56,918
+Scott: So for example, you might allow players to cut costs on cards, right say Oh, it doesn't give you plus one mana.
+
+727
+00:55:56,998 --> 00:55:59,026
+Scott: It just makes that card cost one mana less.
+
+728
+00:55:59,267 --> 00:55:59,910
+Scott: same fucking thing.
+
+729
+00:56:00,202 --> 00:56:13,270
+Rym: Yeah right They had to know you designed so hard because Zabu turn every four card into effectively a three card to the point right that it Like broke the concept of three cost cards Exactly, and that's just an extreme example, right?
+
+730
+00:56:13,410 --> 00:56:15,094
+Scott: But it's just in general.
+
+731
+00:56:15,114 --> 00:56:17,560
+Scott: when you're designing cards for a game you're thinking.
+
+732
+00:56:17,641 --> 00:56:18,002
+Scott: Okay.
+
+733
+00:56:18,383 --> 00:56:25,690
+Scott: This card is gonna be a 2/2 creature and it's gonna cost three three mana.
+
+734
+00:56:26,051 --> 00:56:28,058
+Scott: That's a fair number right.
+
+735
+00:56:28,639 --> 00:56:35,421
+Scott: as soon as you provide a way to discount that to a two two that cost one You've already made every one one that cost one worthless.
+
+736
+00:56:35,441 --> 00:56:36,845
+Scott: They're all garbage cards.
+
+737
+00:56:36,885 --> 00:56:38,189
+Scott: never play them, right?
+
+738
+00:56:40,051 --> 00:56:44,664
+Scott: And now you it's like it's like everything else is now broken because it because you've done that.
+
+739
+00:56:45,285 --> 00:56:51,930
+Scott: if you as force cards to Cost what they cost then you say oh, well, I'm designing this card.
+
+740
+00:56:52,312 --> 00:56:56,369
+Scott: I can trust it's gonna be what it is and it's gonna remain fair.
+
+741
+00:56:56,892 --> 00:57:00,470
+Scott: Right and instead it's you basically as soon as you have any cost cutter.
+
+742
+00:57:01,132 --> 00:57:09,962
+Scott: every card is now reduced by one and is away from what the designer of that other card intended it to be and is now Unbalanced to fix it.
+
+743
+00:57:10,003 --> 00:57:14,868
+Scott: You'd have to be like, oh Let's make every guard in the game cost one more and now you have to play.
+
+744
+00:57:14,908 --> 00:57:17,230
+Scott: this card Makes everything cost one less.
+
+745
+00:57:17,371 --> 00:57:20,827
+Rym: It's like what now I get like an example of Marvel snap that I think does this better.
+
+746
+00:57:20,867 --> 00:57:35,862
+Rym: like electro Does get you ahead on the mana curve, but it's consequence which is mitigatable But requires you to spend other cards which lessens the value of it is you can only play one card per turn Which heavily limits what you can do with that extra mana.
+
+747
+00:57:36,163 --> 00:57:38,089
+Rym: and electro hasn't been nerfed because he's pretty fair.
+
+748
+00:57:38,872 --> 00:57:41,920
+Scott: Yeah, he's pretty fair and that's the final thing right.
+
+749
+00:57:41,960 --> 00:57:45,069
+Scott: and actually netrunner the language of netrunner gets this right.
+
+750
+00:57:45,149 --> 00:57:45,350
+Scott: where?
+
+751
+00:57:45,990 --> 00:57:50,570
+Scott: Language in netrunner, you know cards have a credit cost to play like their base cost.
+
+752
+00:57:51,132 --> 00:57:58,599
+Scott: But they'll be words printed on cards that are like hey when you play this you sort of also have to do Some other non normal currency.
+
+753
+00:57:58,639 --> 00:58:00,185
+Scott: like when you play this you have to take a tag.
+
+754
+00:58:00,225 --> 00:58:02,133
+Scott: when you play this you have to take two Damage, right?
+
+755
+00:58:02,353 --> 00:58:13,190
+Scott: Yeah lecture when you play this you have this ongoing that fucks you up now, right and in netrunner They called those additional costs and they were actually language on cards talking about additional costs.
+
+756
+00:58:13,351 --> 00:58:22,657
+Scott: So you could if you think of a lecture and Marvel snap He's like, you know pay three to get increase your max energy by one Additional cost.
+
+757
+00:58:22,979 --> 00:58:24,889
+Scott: you can now only play one card a turn.
+
+758
+00:58:26,532 --> 00:58:28,137
+Scott: And so part of the problem.
+
+759
+00:58:28,498 --> 00:58:33,110
+Scott: the final problem that I think you shouldn't do is you should make it.
+
+760
+00:58:33,571 --> 00:58:41,921
+Scott: I don't want to say impossible, but too many games make it way too easy To negate additional costs.
+
+761
+00:58:42,041 --> 00:58:54,175
+Scott: right and when you negate the additional costs it's just as bad if not perhaps worse than negating D or giving free energy or free currency or Discounting the base cost.
+
+762
+00:58:54,275 --> 00:58:58,390
+Scott: for example, you might have a card that's like yeah, this thing is way OP.
+
+763
+00:58:58,711 --> 00:59:01,538
+Scott: It's like a 10/10 creature and only cause one.
+
+764
+00:59:01,719 --> 00:59:09,690
+Scott: it's like whoa, but there's a mega downside which is you know You can't have any other creatures it has to be your only creature It's alright.
+
+765
+00:59:09,730 --> 00:59:21,673
+Rym: Then I play that with a card that doubles its power and then another card that causes effects to happen twice and suddenly I you know, I'm right into a alright or I play another card that simply says Oh, yeah You know no matter.
+
+766
+00:59:21,754 --> 00:59:25,185
+Scott: the second card says no matter what any other card says you can have more creatures.
+
+767
+00:59:25,547 --> 00:59:28,519
+Scott: or you know Technically your artifacts are creatures.
+
+768
+00:59:28,720 --> 00:59:30,447
+Scott: So yeah, you can have more.
+
+769
+00:59:30,527 --> 00:59:39,838
+Scott: they right Right, or it's like, you know, you look at Marvel snap, you've got you know, typhoid Mary for 410 But everything else is on your board is minus one.
+
+770
+00:59:40,279 --> 00:59:43,610
+Scott: Then you play Luke age of minus ones cancelled completely, right?
+
+771
+00:59:43,890 --> 00:59:50,090
+Scott: It's like don't do that because now you've got a 410 which is way off curve, right that exists in the game.
+
+772
+00:59:50,090 --> 00:59:57,471
+Scott: And you think well, it's only a 410 if you're lucky enough You get to put Luke age in your deck be lucky enough to draw him and play But
+
+773
+00:59:57,491 --> 01:00:00,710
+Rym: your bill if you're playing that card, you're building your whole deck around Luke age
+
+774
+01:00:01,312 --> 01:00:07,710
+Scott: Right, but it's like yeah, of course that you know, I'm not saying you shouldn't be allowed to mitigate the downside.
+
+775
+01:00:07,770 --> 01:00:08,938
+Scott: That's part of the strategy.
+
+776
+01:00:08,978 --> 01:00:09,884
+Scott: That's part of combos.
+
+777
+01:00:09,904 --> 01:00:10,850
+Scott: That's part of deck building.
+
+778
+01:00:10,911 --> 01:00:12,668
+Scott: That's what makes these games good and fun.
+
+779
+01:00:13,291 --> 01:00:19,090
+Scott: But don't make it a complete mitigation because otherwise they're getting a free for 10.
+
+780
+01:00:19,090 --> 01:00:22,565
+Scott: You need to make it the mitigations either minimal or non-existent.
+
+781
+01:00:22,585 --> 01:00:31,934
+Scott: like you want a for 10 guess what no matter what you're getting minus ones and everything right or Okay for 10 and Yeah, this will get rid of.
+
+782
+01:00:31,994 --> 01:00:39,116
+Scott: like some of the minus ones but not all of them right - it's like you have to pay For what you're getting right.
+
+783
+01:00:39,537 --> 01:00:47,172
+Scott: and the fact that you were lucky enough to draw combo and build your deck in a certain way shouldn't provide a Super strong.
+
+784
+01:00:47,273 --> 01:00:54,892
+Scott: the synergy shouldn't be sort of multiplicative or completely cancelling right to the point at which you're effectively getting free Energy.
+
+785
+01:00:55,354 --> 01:00:56,178
+Scott: right if you think about it.
+
+786
+01:00:56,218 --> 01:00:58,529
+Scott: if you make a for 10 free, right?
+
+787
+01:00:59,290 --> 01:00:59,852
+Scott: What nor you?
+
+788
+01:00:59,953 --> 01:01:04,550
+Scott: usually you had to pay five to get a 10 so paying getting a for 10?
+
+789
+01:01:04,550 --> 01:01:08,224
+Scott: With minus one to everything else if you cancel the minus one to everything else.
+
+790
+01:01:08,245 --> 01:01:10,433
+Scott: You just got a free energy Right.
+
+791
+01:01:10,834 --> 01:01:20,730
+Scott: So whatever you had to use yet to pay a whole extra energy at least to be able to cancel out all those minus ones right and Luke cage is playing him blank is?
+
+792
+01:01:21,892 --> 01:01:25,486
+Scott: You don't really feel like you lost an energy when you played Luke cage, do you know he's?
+
+793
+01:01:25,546 --> 01:01:27,093
+Rym: he's virtually fine to play Like he's.
+
+794
+01:01:27,113 --> 01:01:29,549
+Rym: he's not that different from shocker, right?
+
+795
+01:01:30,712 --> 01:01:33,361
+Scott: The state of the game because of the other cards available.
+
+796
+01:01:33,401 --> 01:01:44,709
+Scott: That's not super OP right now But it's still at its fundamental, you know nature if you play those two cards together You're getting a free energy, which is a cost cut.
+
+797
+01:01:45,024 --> 01:02:05,350
+Rym: No At least one thing that Marvel snap is doing irrespective of the monetization and the power creep issue But I think they're doing very well is regard as long as you have the data what if they Every time they see that certain cards are in to higher percentage of the decks that win games Then they do something about it to shake it up?
+
+798
+01:02:05,430 --> 01:02:12,381
+Rym: So they're not doing it from the design perspective so much as did this Actually pull the meta too hard in one direction.
+
+799
+01:02:12,461 --> 01:02:14,207
+Rym: if it did we're gonna make a change.
+
+800
+01:02:14,528 --> 01:02:18,690
+Rym: so they are Avoiding these situations But they don't avoid him right away.
+
+801
+01:02:18,894 --> 01:02:23,150
+Rym: If you get the card early You can milk a bunch of cubes before they get away for they get out of the meta.
+
+802
+01:02:23,210 --> 01:02:24,437
+Rym: They break you out of that black hole.
+
+803
+01:02:24,598 --> 01:02:32,118
+Scott: I think companies are also a They're too Reactive instead of proactive.
+
+804
+01:02:32,299 --> 01:02:37,365
+Scott: if you have pro players on staff You could have discovered these things before releasing the card.
+
+805
+01:02:37,425 --> 01:02:38,450
+Scott: these things come out.
+
+806
+01:02:38,731 --> 01:02:41,910
+Scott: It's like you can tell within like an hour of the card being released that it's busted.
+
+807
+01:02:43,112 --> 01:02:46,166
+Rym: Announced this morning, and we chatted at length about.
+
+808
+01:02:46,226 --> 01:02:50,391
+Rym: here's all the ways This is gonna fuck up the meta and definitely get nerfed Right.
+
+809
+01:02:50,452 --> 01:02:50,873
+Scott: and it's like
+
+810
+01:02:51,735 --> 01:02:52,056
+Rym: if you
+
+811
+01:02:52,437 --> 01:03:00,936
+Scott: could you just have one pro one pro player one awesome player at card games on your staff to Look at the card and say that's Opie Tone it down before you release it
+
+812
+01:03:01,117 --> 01:03:08,190
+Rym: unless your goal is to let those Opie things happen So people experience them and maybe buy more cards and then write it off.
+
+813
+01:03:08,291 --> 01:03:09,157
+Scott: I'm not talking about.
+
+814
+01:03:09,178 --> 01:03:10,689
+Scott: I'm talking about making the game not busted.
+
+815
+01:03:10,850 --> 01:03:12,918
+Scott: You're talking about making the game busted to make money.
+
+816
+01:03:13,038 --> 01:03:16,797
+Scott: Yeah, it's like if you want a game to not be busted There's.
+
+817
+01:03:16,858 --> 01:03:17,749
+Scott: this is how you do it.
+
+818
+01:03:18,131 --> 01:03:18,893
+Scott: I'm not saying you might.
+
+819
+01:03:19,315 --> 01:03:26,669
+Scott: I'm not saying there's a reason you might not want to make a game, you know It might be a less fun game, right?
+
+820
+01:03:29,131 --> 01:03:38,470
+Scott: Yeah, those are avoidable And not only are they avoidable, but it's like if you're going to be reactive you could be reactive much faster, right?
+
+821
+01:03:38,831 --> 01:03:40,959
+Scott: It's like why don't you patch your game every goddamn day?
+
+822
+01:03:41,320 --> 01:03:43,689
+Scott: Yeah, well, it's a keep things fresh.
+
+823
+01:03:44,211 --> 01:03:45,335
+Scott: It's what who's getting hurt.
+
+824
+01:03:45,375 --> 01:03:49,550
+Scott: people might actually be excited by that because the game is you won't get in bored with the stale meta.
+
+825
+01:03:49,811 --> 01:03:51,196
+Rym: And I will say Marvel snap does it get?
+
+826
+01:03:51,216 --> 01:03:54,046
+Rym: they patch way more frequently than I thought they were gonna.
+
+827
+01:03:54,127 --> 01:03:56,510
+Scott: they patch frequently But it's like you could go more frequently.
+
+828
+01:03:56,510 --> 01:03:57,495
+Scott: I don't think there's something to be.
+
+829
+01:03:57,515 --> 01:04:02,570
+Scott: if they're they're afraid that like if someone puts the game down for three days There'll be too many changes and they'll be freaked out.
+
+830
+01:04:02,731 --> 01:04:03,579
+Rym: I mean I get surprised.
+
+831
+01:04:03,599 --> 01:04:04,710
+Rym: I don't read every patch notes.
+
+832
+01:04:04,810 --> 01:04:10,142
+Rym: Like I didn't notice the Sandman change and then I played a deck that had him in it and when I played him I was like, wait a minute.
+
+833
+01:04:10,285 --> 01:04:12,915
+Scott: Fuck Yep, you could have won.
+
+834
+01:04:12,955 --> 01:04:13,798
+Scott: You thought you were gonna lose.
+
+835
+01:04:13,838 --> 01:04:15,525
+Scott: Yeah, he goes away after a turn.
+
+836
+01:04:15,545 --> 01:04:16,167
+Scott: Yeah.
+
+837
+01:04:16,247 --> 01:04:25,770
+Rym: Yeah It was bad news, but that happens if you don't stay up with the meta, but that's a whole other Games that require you to keep up with the meta or you fall behind and fall out.
+
+838
+01:04:25,830 --> 01:04:28,350
+Rym: That's a whole other topic has nothing to do with this kind of game design.
+
+839
+01:04:28,450 --> 01:04:45,090
+Scott: Yeah, see I think what I would like to see is follow these rules, obviously But make a game where instead of balancing it like Nerfing and buffing cards right just put out a new card every single day every single day one card, right?
+
+840
+01:04:46,350 --> 01:04:47,275
+Rym: Penny arcade style.
+
+841
+01:04:47,295 --> 01:04:48,702
+Rym: that cards coming out doesn't matter.
+
+842
+01:04:48,742 --> 01:04:51,253
+Rym: It might not be good, but it's coming Right.
+
+843
+01:04:51,333 --> 01:04:55,890
+Scott: and obviously my game everyone would have every card because it's not gonna be some collectible bullshit, right?
+
+844
+01:04:56,230 --> 01:04:58,210
+Scott: So it's like every day you've got this new card.
+
+845
+01:04:58,310 --> 01:05:03,230
+Scott: So it's like the cards, you know aren't working differently, but the game is constantly shifting and change.
+
+846
+01:05:03,290 --> 01:05:03,412
+Scott: So
+
+847
+01:05:03,432 --> 01:05:08,223
+Rym: that means there's a new meta Literally every day unless the card that comes out is just really uninspired
+
+848
+01:05:08,424 --> 01:05:19,140
+Scott: and because you don't have cost-cutting You don't have free energy and you know multiplication you're reasonably sure that even with this new card every day Just rapid development without thinking too hard about it.
+
+849
+01:05:19,461 --> 01:05:30,390
+Scott: You probably aren't gonna make anything super busted and All the cards going back until the beginning of the game will be probably Playable as long as you keep your curve set and don't do the power creep beat, right?
+
+850
+01:05:33,048 --> 01:05:34,776
+Scott: so and It's like I could be wrong.
+
+851
+01:05:35,017 --> 01:05:38,190
+Scott: Maybe I'm wrong about all this, but I haven't seen anyone try it either.
+
+852
+01:05:38,250 --> 01:05:40,798
+Scott: Yeah, I've just seen these mistakes repeated.
+
+853
+01:05:41,299 --> 01:05:41,620
+Scott: And so
+
+854
+01:05:44,291 --> 01:05:45,473
+Rym: One cuz like
+
+855
+01:05:45,493 --> 01:05:45,733
+Scott: mark,
+
+856
+01:05:45,894 --> 01:05:57,240
+Rym: it's just so telling that the first game like this ever The some of the first cards they designed were some of the most problematic concepts in the entire history of collectible card gaming and
+
+857
+01:05:58,522 --> 01:06:01,199
+Scott: Every card game seems to keep making that exact same mistake.
+
+858
+01:06:07,985 --> 01:06:10,728
+Rym: This has been GeekNights with Rym and Scott special.
+
+859
+01:06:10,768 --> 01:06:12,910
+Rym: Thanks to DJ pretzel for the opening theme.
+
+860
+01:06:13,110 --> 01:06:15,438
+Scott: Be sure to visit our website at front row.
+
+861
+01:06:15,478 --> 01:06:19,130
+Scott: clue calm for show notes discussion links and more.
+
+862
+01:06:19,612 --> 01:06:22,302
+Rym: Remember GeekNights is not one but four different shows.
+
+863
+01:06:22,604 --> 01:06:24,190
+Rym: Mondays are science and technology.
+
+864
+01:06:24,290 --> 01:06:26,057
+Rym: Tuesdays gaming and games.
+
+865
+01:06:26,177 --> 01:06:28,003
+Rym: Wednesdays are animation and comics.
+
+866
+01:06:28,304 --> 01:06:30,833
+Rym: Thursdays are arbitrary and Indiscriminate.
+
+867
+01:06:31,436 --> 01:06:36,414
+Rym: GeekNights is distributed under a Creative Commons attribution 4.0 International license.
+
+868
+01:06:36,816 --> 01:06:45,110
+Scott: GeekNights is recorded live with no studio and no audience But unlike those other late shows it's actually recorded at night.
+
+869
+01:06:45,812 --> 01:07:05,677
+Rym: And the patreon patrons for this episode of GeekNights are Alan Joyce, Linky G, Dread Lily, Tenderbark Ace, Cara Makes Music, Chris the Dog, Christopher Orr, Clinton Welton, Finn, Joel Haze, Penny Reimer, Rebecca Dunne, Sam Erickson, Shervin Von Harl And a bunch of people whose names I will not say if you have any thoughts on Scott's advice for making Marvel snap better.
+
+870
+01:07:05,737 --> 01:07:48,964
+Rym: be sure to let us know in the forum or the discord and tonight I'll leave you with Chant.
+
+871
+01:07:49,208 --> 01:08:01,218
+Scott: of all boys She took the app that got the more a decade of whatever it was later Madam at the time.
+
+872
+01:08:02,123 --> 01:08:09,900
+Scott: Okay Yeah, good go to it, you know, you're lucky.
+
+873
+01:08:11,163 --> 01:08:11,566
+Rym: Yeah, good.
+
+874
+01:08:11,606 --> 01:08:12,332
+Rym: Go to it.
+
+875
+01:08:12,372 --> 01:08:13,239
+Scott: You know you met.
+
+876
+01:08:14,923 --> 01:08:15,306
+Scott: Yeah, good.
+
+877
+01:08:15,326 --> 01:08:16,032
+Rym: Go to it.
+
+878
+01:08:16,051 --> 01:08:21,080
+Scott: You know, I'm a. That's a gun battle.
+

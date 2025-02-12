@@ -1,0 +1,1988 @@
+﻿1
+00:00:08,780 --> 00:00:12,593
+Speaker 1: It's Monday December 30th 2024.
+
+2
+00:00:12,593 --> 00:00:13,075
+Speaker 1: I'm rim.
+
+3
+00:00:13,758 --> 00:00:15,907
+Speaker 1: I'm Scott and this is geek nights tonight.
+
+4
+00:00:15,927 --> 00:00:17,931
+Speaker 1: We are talking about terminals,
+
+5
+00:00:18,355 --> 00:00:19,463
+Speaker 0: let's do this, so
+
+6
+00:00:21,153 --> 00:00:28,670
+Speaker 1: You know we we do talk about hockey on the show off and on and usually I try to save that kind of opening bit for Tuesdays because it's gaming related, but
+
+7
+00:00:29,830 --> 00:00:33,924
+Speaker 0: They've always talked about hockey, but we talked about it more when it's hockey season.
+
+8
+00:00:33,964 --> 00:00:44,915
+Speaker 0: then we talk about it more when We go in a lot of hockey and we're talking about it less lately, but partly because the Rangers like We talked about them.
+
+9
+00:00:44,935 --> 00:00:46,078
+Speaker 0: What being terrible already.
+
+10
+00:00:46,198 --> 00:00:49,067
+Speaker 0: They've already done this and the only other.
+
+11
+00:00:49,107 --> 00:00:50,010
+Speaker 1: let's see what's exciting.
+
+12
+00:00:50,070 --> 00:00:52,583
+Speaker 1: What does that happen in my life since the last geek nerds episode?
+
+13
+00:00:53,206 --> 00:00:55,109
+Speaker 1: I saw some movies We'll talk about on a different day.
+
+14
+00:00:55,532 --> 00:01:01,484
+Speaker 1: I biked home from work today and nothing out of the ordinary happened except I saw a weird protest and I didn't know what it was for.
+
+15
+00:01:01,504 --> 00:01:02,590
+Speaker 1: so I took a photo.
+
+16
+00:01:02,590 --> 00:01:03,638
+Speaker 1: I'm trying to figure it out later.
+
+17
+00:01:03,658 --> 00:01:16,426
+Speaker 0: I mean I There was some Hanukkah events holiday eating mostly But nothing out of the ordinary were interesting really happened.
+
+18
+00:01:16,446 --> 00:01:21,132
+Speaker 0: Yeah and I don't have to.
+
+19
+00:01:21,212 --> 00:01:25,019
+Speaker 0: I guess I had to work tomorrow, but not Wednesday, but then I'll go back to Thursday.
+
+20
+00:01:25,079 --> 00:01:28,204
+Speaker 0: begins a new year and normal ish.
+
+21
+00:01:30,090 --> 00:01:35,549
+Speaker 0: Yeah, going to at least daily routine goings For however long.
+
+22
+00:01:36,192 --> 00:01:54,490
+Speaker 1: yep, it's it's that it's that quiet time of year, but I realize it was extra weird this year partly because Both New Year's Day and Christmas Day like the two days that almost everyone gets off in America, even if you have shitty jobs Are in Wednesdays like the worst possible day for a holiday to happen.
+
+23
+00:01:58,396 --> 00:02:03,109
+Speaker 1: Mmm The show I got some news so it's it's sad news.
+
+24
+00:02:03,511 --> 00:02:08,466
+Speaker 1: But I'd say it's been a long time coming in the sense that the dude was a hundred.
+
+25
+00:02:08,907 --> 00:02:10,752
+Speaker 1: and I feel like yeah I'll take a hundred.
+
+26
+00:02:10,872 --> 00:02:18,326
+Speaker 0: I'll take a hundred if you could tell me guaranteed to live to a hundred or Live however long you're otherwise gonna live.
+
+27
+00:02:18,346 --> 00:02:19,673
+Speaker 0: It's like yeah I'll take a hundred.
+
+28
+00:02:19,714 --> 00:02:22,890
+Speaker 0: cuz I'm probably not making it that far that's the odds of it.
+
+29
+00:02:23,832 --> 00:02:35,969
+Speaker 1: But never mind making it to a hundred and being active doing very visible difficult good works pretty much up until near the end like Jimmy Carter is a goddamn treasure.
+
+30
+00:02:35,989 --> 00:02:39,221
+Speaker 1: and I mean, what can we say?
+
+31
+00:02:39,362 --> 00:02:40,329
+Speaker 1: he had a pretty good run?
+
+32
+00:02:41,050 --> 00:02:48,562
+Speaker 1: But if those if there's anyone out there because at this point talking about Jimmy Carter in the year 2024 is like talking about ancient presidents.
+
+33
+00:02:48,603 --> 00:02:50,329
+Speaker 1: people barely remember the kids today.
+
+34
+00:02:51,577 --> 00:02:52,429
+Speaker 1: So I gotta paint a picture.
+
+35
+00:02:53,052 --> 00:02:56,040
+Speaker 1: Jimmy Carter was a perfectly good president.
+
+36
+00:02:56,622 --> 00:02:57,805
+Speaker 1: who was mostly?
+
+37
+00:02:57,825 --> 00:03:02,082
+Speaker 0: it wasn't it wasn't perfect But you know what is what president was better?
+
+38
+00:03:02,625 --> 00:03:06,700
+Speaker 1: Yep in turn I mean Jimmy Carter did mostly good things.
+
+39
+00:03:07,262 --> 00:03:09,350
+Speaker 0: or Abraham Lincoln FDR?
+
+40
+00:03:09,731 --> 00:03:15,326
+Speaker 1: Yep, FDR did a lot of good, but also did a lot of really squirrely shit.
+
+41
+00:03:15,968 --> 00:03:16,409
+Speaker 0: That's right.
+
+42
+00:03:18,052 --> 00:03:21,709
+Speaker 1: Some of our presidents have been particularly bad as we're about to see again.
+
+43
+00:03:23,010 --> 00:03:24,556
+Speaker 0: We had some real shift.
+
+44
+00:03:24,576 --> 00:03:28,650
+Speaker 0: you had to rank presidents on just not just how good they were at being president.
+
+45
+00:03:28,770 --> 00:03:35,649
+Speaker 0: However, whatever rubric you want to use but also if you want to rank based on just being a good human being, right?
+
+46
+00:03:37,692 --> 00:03:41,169
+Speaker 0: As far as being a good human being Jimmy Carter might be number one
+
+47
+00:03:42,071 --> 00:03:46,909
+Speaker 1: If there were if there was the concept of a secular saint like a saint appointed by
+
+48
+00:03:48,190 --> 00:03:50,115
+Speaker 0: Yeah,
+
+49
+00:03:50,836 --> 00:03:59,670
+Speaker 1: but I'm saying like he is a saint in the sense that he was basically just a stand-up person Dedicating his life to doing good works when he didn't have to
+
+50
+00:04:00,552 --> 00:04:02,364
+Speaker 0: Yeah, and he probably got not real.
+
+51
+00:04:02,444 --> 00:04:11,962
+Speaker 0: it was complicated but he was not like to do a second term largely because he was doing what he thought was right and That did not work.
+
+52
+00:04:12,022 --> 00:04:21,029
+Speaker 1: Well and you know campaigning also His opponent Ronald Reagan engaged in a treasonous conspiracy to steal the election from him related to the Iran-Contra affair.
+
+53
+00:04:21,552 --> 00:04:25,510
+Speaker 1: But that is a whole can of worms you can read about on Wikipedia.
+
+54
+00:04:26,630 --> 00:04:43,167
+Speaker 1: but really I always used to characterize Jimmy Carter as a president where he wasn't reelected due solely to the fact that The world was not in a great shape and he had the audacity To say that out loud and to talk about how we need to try to face that and do something about it.
+
+55
+00:04:43,949 --> 00:04:50,790
+Speaker 0: Yep I mean, you know you look at today and it's like we have these Republicans who are just evil, right?
+
+56
+00:04:51,252 --> 00:04:54,930
+Speaker 0: But then they say we're gonna do evil.
+
+57
+00:04:55,132 --> 00:04:56,529
+Speaker 0: They just say it out loud nowadays.
+
+58
+00:04:57,072 --> 00:05:02,210
+Speaker 0: And then when they get in office, they try to do the evil that they said they were gonna do, right?
+
+59
+00:05:02,270 --> 00:05:04,924
+Speaker 0: They don't always succeed but they sometimes succeed.
+
+60
+00:05:04,965 --> 00:05:10,330
+Speaker 0: so that's good and bad But they try to do it right like the last time with Trump was president.
+
+61
+00:05:10,430 --> 00:05:14,345
+Speaker 0: He tried to like ban the Muslims from coming to the US right and he failed.
+
+62
+00:05:14,666 --> 00:05:15,730
+Speaker 0: but he did it for a while.
+
+63
+00:05:16,232 --> 00:05:18,680
+Speaker 0: But the fact it doesn't matter he tried to do it.
+
+64
+00:05:18,741 --> 00:05:27,770
+Speaker 0: He said he was gonna do it right and I think Democrats possibly because not you know, I don't think they're thinking specifically of Jimmy Carter, right?
+
+65
+00:05:28,191 --> 00:05:32,423
+Speaker 0: But it's just you know, they're the way they operate, you know has roots in that.
+
+66
+00:05:32,484 --> 00:05:45,038
+Speaker 0: where they go and they campaign and they say we got to do climate change and health care and these these things right and then they get in office and Do they try to do those things to some extent?
+
+67
+00:05:45,159 --> 00:05:48,850
+Speaker 0: Yes, they you know, but to some extent also no, right?
+
+68
+00:05:48,950 --> 00:05:52,129
+Speaker 0: They don't do the things they say they were gonna do the way the Republicans do.
+
+69
+00:05:52,591 --> 00:05:57,205
+Speaker 0: The Republicans get in office and they try to do it it like to the fullest right.
+
+70
+00:05:57,325 --> 00:06:01,826
+Speaker 0: if Republicans believed in Universal free health care we would have it already, right?
+
+71
+00:06:01,846 --> 00:06:10,862
+Speaker 0: So You know the Democrats are like, okay, we want to do climate change and then they come in and they're like, alright Well, you know, we can't just ban fossil fuel.
+
+72
+00:06:10,882 --> 00:06:12,970
+Speaker 0: We got a you know, kind of half
+
+73
+00:06:15,331 --> 00:06:16,736
+Speaker 1: Complex to that in one sense
+
+74
+00:06:17,017 --> 00:06:18,000
+Speaker 0: obviously, but most
+
+75
+00:06:18,080 --> 00:06:27,830
+Speaker 1: of the evil things you want to do are either doable via Executive orders, which the powers of the presidency were broadly expanded by evil presidents over time
+
+76
+00:06:28,571 --> 00:06:32,627
+Speaker 0: Right and the point is that Jimmy Carter was a person who?
+
+77
+00:06:34,190 --> 00:06:36,806
+Speaker 0: To a greater extent than Democrats today, right?
+
+78
+00:06:38,210 --> 00:06:47,899
+Speaker 0: Actually tried to do right things that he believed in one Republicans do today Didn't do many executive orders.
+
+79
+00:06:47,980 --> 00:06:58,630
+Speaker 1: He really made like tried to work with Congress compared to Biden who did more Aggressive executive orders than basically any Democratic president in history all of which succeeded except for a couple.
+
+80
+00:06:58,951 --> 00:07:01,862
+Speaker 0: It's not about the method by which the policy was implemented.
+
+81
+00:07:01,882 --> 00:07:03,950
+Speaker 0: It's about the policy that was implemented.
+
+82
+00:07:04,271 --> 00:07:07,362
+Speaker 1: Well, because the policy that was implemented is usually the prerogative of Congress.
+
+83
+00:07:07,403 --> 00:07:08,185
+Speaker 1: Not the presidency.
+
+84
+00:07:08,627 --> 00:07:11,781
+Speaker 0: I'm just saying It's not just the president either.
+
+85
+00:07:11,822 --> 00:07:12,989
+Speaker 0: you're getting too in the weeds.
+
+86
+00:07:13,853 --> 00:07:24,330
+Speaker 1: I think it matters a lot though because part of what Jimmy Jimmy Carter was not able to do most of the things he said He wanted to do and was obstructed at almost every step of the way He would tell the message anyway.
+
+87
+00:07:24,330 --> 00:07:41,507
+Speaker 1: and I think the real divide the real legacy there is that a lot of progressives and a lot of people who are in the Democratic Party to this day took that to mean if you talk about uncomfortable or difficult subjects You'll always lose elections because you kind of have to lie and make things simple.
+
+88
+00:07:41,908 --> 00:07:48,969
+Speaker 1: and Carter Partly took a lot of flack for the fact that he would talk about the economy being bad While he was president.
+
+89
+00:07:50,910 --> 00:07:53,696
+Speaker 1: mmm It was the truth speaking.
+
+90
+00:07:53,757 --> 00:07:58,616
+Speaker 1: I think that was a big part of what ruined him in the eyes of the public But also a couple.
+
+91
+00:07:58,917 --> 00:08:05,349
+Speaker 0: the component of you know, try at least, you know If you're trying I guess if you're trying to accomplish evil, you won't be speaking truth.
+
+92
+00:08:05,650 --> 00:08:12,910
+Speaker 0: Yeah, right, but if you're trying to accomplish good, right speaking truth is is just goes right hand in hand with that.
+
+93
+00:08:13,311 --> 00:08:14,053
+Speaker 1: At least it should.
+
+94
+00:08:14,495 --> 00:08:22,005
+Speaker 1: but as we know a lot of Americans vote stupidly and thus you kind of have to Trick them into voting for the correct side.
+
+95
+00:08:22,527 --> 00:08:22,829
+Speaker 0: Do you?
+
+96
+00:08:24,070 --> 00:08:25,389
+Speaker 1: Or constrict anyway voting?
+
+97
+00:08:26,491 --> 00:08:32,047
+Speaker 1: So in some other news that is of course this kind of thing has been reported widely.
+
+98
+00:08:32,448 --> 00:08:33,832
+Speaker 1: It's kind of assumed It's happening.
+
+99
+00:08:33,852 --> 00:08:57,930
+Speaker 1: There have been some other cases, but there's a little bit of a notable change now, so Today the US Treasury Department has confirmed that there was a significant breach of their security like documents were stolen operator PCs were accessed internal networks were accessed and that the intruders were in fact state sponsored actors of the Chinese government's.
+
+100
+00:08:59,211 --> 00:09:04,490
+Speaker 1: So we're beyond the well, it was someone in China and we can make a bunch of inferences.
+
+101
+00:09:04,914 --> 00:09:05,701
+Speaker 1: But we can't say it.
+
+102
+00:09:06,024 --> 00:09:08,134
+Speaker 1: we can't say Authoritatively publicly.
+
+103
+00:09:08,454 --> 00:09:12,845
+Speaker 1: Yes, the Chinese government did this directly just like how Russia most quote.
+
+104
+00:09:13,125 --> 00:09:17,282
+Speaker 1: Russian hackers are not Officially arms of the state government.
+
+105
+00:09:17,322 --> 00:09:22,522
+Speaker 1: There's like money laundering schemes And there's criminal mafia and all these other layers to give up.
+
+106
+00:09:22,642 --> 00:09:24,950
+Speaker 1: plausible or at least pseudo plausible.
+
+107
+00:09:26,433 --> 00:09:39,907
+Speaker 0: Yeah, you know like when Kings used to hire To go on the high seas and harass the other country's boat, but it was just some pirate It wasn't a guy with you know money from yeah became.
+
+108
+00:09:39,928 --> 00:09:40,590
+Speaker 1: or think about back.
+
+109
+00:09:40,630 --> 00:09:51,690
+Speaker 1: You know the murder of Thomas Moore where a king just kind of said, you know This one particular guy really grinds my gears and be ashamed if anything happened to him and then a bunch of nights when murdered.
+
+110
+00:09:52,572 --> 00:09:54,162
+Speaker 0: That's how mafia's operate.
+
+111
+00:09:54,343 --> 00:09:59,597
+Speaker 0: Yeah You go like Al Capone, you can't get that guy.
+
+112
+00:09:59,617 --> 00:10:00,662
+Speaker 0: He didn't murder anyone.
+
+113
+00:10:00,682 --> 00:10:02,650
+Speaker 0: He didn't order the murder of anyone, right?
+
+114
+00:10:02,890 --> 00:10:06,442
+Speaker 0: Yeah, he just said I hate that guy's ruined in my business.
+
+115
+00:10:06,803 --> 00:10:08,770
+Speaker 0: It would be nice if he was gone.
+
+116
+00:10:08,911 --> 00:10:10,038
+Speaker 0: He stopped doing that.
+
+117
+00:10:10,259 --> 00:10:10,521
+Speaker 1: Yep.
+
+118
+00:10:11,226 --> 00:10:11,890
+Speaker 1: I know God.
+
+119
+00:10:11,910 --> 00:10:16,170
+Speaker 1: I watched a YouTube video like a few months ago.
+
+120
+00:10:16,351 --> 00:10:23,730
+Speaker 1: That was this like little mini documentary into how the mob operates today But it had a little bit about a big problem.
+
+121
+00:10:23,890 --> 00:10:29,505
+Speaker 1: Is that all the younger mobsters use smartphones and basically document all their criminal conspiracies?
+
+122
+00:10:29,966 --> 00:10:30,728
+Speaker 0: Yeah, dumbasses.
+
+123
+00:10:30,888 --> 00:10:31,109
+Speaker 1: Yeah.
+
+124
+00:10:33,191 --> 00:10:51,069
+Speaker 1: So, uh, anyway the I guess you can read the article to see all the details and I think one this is really just the fact that this is being stated directly and publicly is a sign of the increasing tension and Escalation of geopolitical conflict between the US bloc and the Russia China bloc like.
+
+125
+00:10:52,180 --> 00:10:53,903
+Speaker 0: Obviously now the thing is.
+
+126
+00:10:54,023 --> 00:10:56,046
+Speaker 0: obviously this story is true story.
+
+127
+00:10:56,246 --> 00:10:58,670
+Speaker 0: Yeah, the State Department came out and just said it.
+
+128
+00:10:58,750 --> 00:11:00,416
+Speaker 1: Well, it's Treasury Department and the State Department.
+
+129
+00:11:00,718 --> 00:11:07,045
+Speaker 0: Yeah, it's not some conspiracy nonsense, right but Conspiracy people right would say two things.
+
+130
+00:11:07,125 --> 00:11:08,130
+Speaker 0: number one, right?
+
+131
+00:11:08,790 --> 00:11:13,070
+Speaker 0: Is the US just making this up to make China look evil blah blah blah, right?
+
+132
+00:11:13,250 --> 00:11:15,236
+Speaker 0: You know pro-china people might say that.
+
+133
+00:11:15,818 --> 00:11:19,288
+Speaker 0: and the other question which I've really this is the is right.
+
+134
+00:11:19,308 --> 00:11:21,474
+Speaker 0: see that doesn't bother me That's just normal conspiracy people.
+
+135
+00:11:21,494 --> 00:11:25,766
+Speaker 0: Yeah, right the thing that I'm trying to wrap my head around, right?
+
+136
+00:11:26,468 --> 00:11:31,216
+Speaker 0: Why doesn't China Russia Just make up stories.
+
+137
+00:11:31,397 --> 00:11:32,460
+Speaker 0: Obviously it's happening for real.
+
+138
+00:11:32,480 --> 00:11:46,266
+Speaker 0: They probably don't need to make it up, but they could be like, oh US US hacked us right they could just make that up without any evidence And it would be justice believe right if they could be doing that I feel I don't know.
+
+139
+00:11:46,306 --> 00:11:47,370
+Speaker 0: why don't they do that?
+
+140
+00:11:47,570 --> 00:11:56,712
+Speaker 1: Alright, so I don't know if they do and it just doesn't get reported on because I'm thinking that yeah in other instance It's definitely happening like no way.
+
+141
+00:11:56,753 --> 00:11:57,314
+Speaker 0: the US isn't.
+
+142
+00:11:57,515 --> 00:12:06,469
+Speaker 1: at least try everything that's happened in Ukraine and Crimea that Russia caused since 2012 onward What like the entire time?
+
+143
+00:12:06,952 --> 00:12:21,330
+Speaker 1: Russian diplomats would be formally stating in Official channels made up nonsense like nonsense to the point Like there's a UN Security Council meeting where the Russian guy literally was saying Russia does not have any troops in Ukraine.
+
+144
+00:12:21,671 --> 00:12:27,689
+Speaker 1: Meanwhile, there is literally footage of Russian troops in Ukraine on a monitor in the US.
+
+145
+00:12:28,051 --> 00:12:33,669
+Speaker 1: yeah, like Robocop was too generous in terms of what the future would be like.
+
+146
+00:12:35,306 --> 00:12:46,377
+Speaker 1: But I'd say a takeaway is just that when these things get stated more open more openly these kinds of things by I Don't even want to say trustworthy powers because the u.s.
+
+147
+00:12:46,417 --> 00:13:00,889
+Speaker 1: Has a pretty mixed history there, but I don't know more cautious powers or more European like powers or more stable powers that tend to only Make formal diplomatic statements when something real has happened.
+
+148
+00:13:01,833 --> 00:13:07,998
+Speaker 1: When that starts happening more frequently that is often the precursor to a very troubled time and we're just seeing that everywhere.
+
+149
+00:13:08,059 --> 00:13:23,909
+Speaker 1: but to another takeaway, I still encounter people in Serious roles in technology companies or just serious technology roles in non technology companies who don't take the risk of state-sponsored actors seriously.
+
+150
+00:13:23,929 --> 00:13:26,236
+Speaker 1: and It you know, I've been in.
+
+151
+00:13:26,256 --> 00:13:32,490
+Speaker 0: you have to be business where you have data that anyone cares about Yep, or you have to be in a business where?
+
+152
+00:13:33,530 --> 00:13:42,038
+Speaker 1: Your your data might not be that important But you might have customers that can be accessed through supply chain of you That you're not aware of.
+
+153
+00:13:42,219 --> 00:13:43,788
+Speaker 1: which is the most common threat vector?
+
+154
+00:13:44,592 --> 00:13:49,728
+Speaker 1: Mm-hmm, but I think there's an old wisdom that it's thrown around that I think it's just dead and slash-shot.
+
+155
+00:13:49,748 --> 00:13:57,152
+Speaker 1: people used to be really Guilty of this and I think it was true for a long time but it's not true right now and the wisdom was Unless.
+
+156
+00:13:57,212 --> 00:14:01,850
+Speaker 1: you are a super big super important company or a military or something.
+
+157
+00:14:02,311 --> 00:14:17,729
+Speaker 1: Then your threat assessment and your risk assessment for cybersecurity really needs to get up to the level of what would impact your business and You really only need to worry about threats that someone relatively small fry would attempt against you.
+
+158
+00:14:18,432 --> 00:14:32,330
+Speaker 1: but the security environment of the internet today is getting to the point to where Extremely well-funded Previously unlikely attack vectors are increasingly common due to state-sponsored action against lower tier targets.
+
+159
+00:14:32,370 --> 00:14:33,754
+Speaker 1: You wouldn't necessarily expect.
+
+160
+00:14:34,477 --> 00:14:38,890
+Speaker 1: so I would advise myself in my professional opinion.
+
+161
+00:14:39,414 --> 00:14:54,840
+Speaker 1: if you in any way have overlap with cybersecurity in a professional capacity you should elevate the Attention you give to unlikely and difficult to exploit attack vectors compared to say a decade ago.
+
+162
+00:14:56,950 --> 00:14:58,706
+Speaker 1: Hmm got any news?
+
+163
+00:15:00,716 --> 00:15:17,728
+Speaker 0: Yeah, so There is this guy and he had some videos on YouTube and they had some Nintendo stuff in them as you do Yeah, and everyone's always worried about Nintendo with their IP rules coming to take you down and they're broadly Generally right to be worried about that.
+
+164
+00:15:18,753 --> 00:15:22,665
+Speaker 0: And you know YouTube the way their copyright system works.
+
+165
+00:15:22,766 --> 00:15:24,050
+Speaker 0: is that basically any fool?
+
+166
+00:15:24,690 --> 00:15:30,590
+Speaker 0: Could just go make an account and start claiming that videos are copyrighted and it's the burden of proof is all backwards.
+
+167
+00:15:30,590 --> 00:15:42,922
+Speaker 0: it's basically upon the person who uploaded the video to defend themselves right and YouTube really doesn't check very hard to make sure that the person who's making this copyright claim is actually Someone.
+
+168
+00:15:43,003 --> 00:15:55,030
+Speaker 1: oh in fact I have several videos that are gone permanently because Some random company that I am confident does not actually have the rights to anything in that video Did takedowns and it wasn't worth it to lawyer up?
+
+169
+00:15:55,930 --> 00:16:08,193
+Speaker 0: Yeah, it's like I could just go and I could probably just go on YouTube and be like, oh, yeah I'm Taylor Swift's lawyer and start posting on like every Taylor Swift fans YouTube videos and trying to take them down and maybe even collect Money or whatever.
+
+170
+00:16:08,213 --> 00:16:10,763
+Speaker 0: right just for whatever reason.
+
+171
+00:16:10,783 --> 00:16:12,730
+Speaker 0: that just cuz I got nothing better to do.
+
+172
+00:16:13,031 --> 00:16:19,984
+Speaker 0: maybe I think I can get some money or Just to abuse people or harass people or whatever.
+
+173
+00:16:20,585 --> 00:16:26,110
+Speaker 0: And so this guy He got some DMCA takedowns with you from Nintendo, right?
+
+174
+00:16:26,311 --> 00:16:28,701
+Speaker 0: And he but he actually looked into it and he's like, wait a minute.
+
+175
+00:16:29,665 --> 00:16:33,218
+Speaker 0: I don't think this guy Works for first for Nintendo,
+
+176
+00:16:33,519 --> 00:16:54,815
+Speaker 1: which is already something you shouldn't have to think because if Google well YouTube has a system where someone registers that they own intellectual property You would think even if they don't have to prove infringement They should at least have to prove that they own that intellectual property Yeah, or that they are in fact working for the company They say they work for.
+
+177
+00:16:54,996 --> 00:16:57,430
+Speaker 0: the guy was set using like a not Nintendo email.
+
+178
+00:16:57,531 --> 00:16:58,075
+Speaker 0: So then the guy.
+
+179
+00:16:58,135 --> 00:17:00,009
+Speaker 0: eventually the guy comes back.
+
+180
+00:17:00,872 --> 00:17:02,919
+Speaker 0: He's pretty sure it was someone like his discord server.
+
+181
+00:17:02,939 --> 00:17:03,962
+Speaker 0: You can read the whole story.
+
+182
+00:17:04,022 --> 00:17:06,230
+Speaker 0: Yeah, it was like a harasser who was doing it.
+
+183
+00:17:06,374 --> 00:17:11,776
+Speaker 0: Yeah And then the guy comes back with a Nintendo email Nintendo dot co2 JP.
+
+184
+00:17:11,816 --> 00:17:17,644
+Speaker 0: but like yeah, it was obviously you look at the headers and it was just a you know Forged not good email.
+
+185
+00:17:17,704 --> 00:17:25,510
+Speaker 0: Yeah Smoothed email not a real Nintendo email and so got his videos back up, right?
+
+186
+00:17:25,630 --> 00:17:32,190
+Speaker 0: But the point is it's like, you know, we could fix, you know, this whole says DMCA system.
+
+187
+00:17:34,012 --> 00:17:47,428
+Speaker 0: You know what the fixes are right, but I think there is a short-term fix that I think isn't unreasonable Which is like hey How come YouTube doesn't have just like a know your customer on the people who can make the DIY.
+
+188
+00:17:47,528 --> 00:17:54,310
+Speaker 1: indeed In fact, like dumpy little LLCs and nonprofits have significant KYC requirements.
+
+189
+00:17:54,412 --> 00:17:55,570
+Speaker 1: I can get in deep shit
+
+190
+00:17:56,656 --> 00:18:13,810
+Speaker 0: if somebody I think if somebody is going to You know, if like you look at like Spotify has so much like, you know forged music going up on there and yeah It's like that's like you could just add KYC if someone wants to be if they're gonna keep you know The horrible copyright system is should be changed dramatically.
+
+191
+00:18:13,971 --> 00:18:25,222
+Speaker 0: But if even if you keep it the way it is if you just put KYC on The ability to have an account that lets you make claims That would reduce this kind of bullshit a lot.
+
+192
+00:18:25,503 --> 00:18:33,167
+Speaker 0: well case in point like a nice analogy I think if people had some money there could be a class action against YouTube.
+
+193
+00:18:33,629 --> 00:18:42,166
+Speaker 1: for Allowing so much fraudulent YouTube take down should owe Everyone who has ever had to respond to a fraudulent request damages.
+
+194
+00:18:42,949 --> 00:18:52,946
+Speaker 0: Yeah Exactly, or it's like, you know, hey my video was down for you know, and whatever It's like, you know for a time and that's a video is making money off of.
+
+195
+00:18:53,889 --> 00:18:58,390
+Speaker 1: I should In the very least like the minimum YouTube.
+
+196
+00:18:58,510 --> 00:19:10,650
+Speaker 1: What should be forced to do would be if you get a claim against you one of the options would be I'm not necessarily Formally responding to the DMC request, you know triggering the lawyer process.
+
+197
+00:19:11,313 --> 00:19:13,582
+Speaker 1: I am simply asking YouTube to prove to me.
+
+198
+00:19:13,622 --> 00:19:21,649
+Speaker 1: This person has the rights before we proceed and There can be no risk of your channel being being harmed by clicking that option.
+
+199
+00:19:23,132 --> 00:19:23,273
+Speaker 1: Like.
+
+200
+00:19:23,293 --> 00:19:28,689
+Speaker 1: that would be kind of like how we got to get rid of cars Like we got to get rid of roads as they are.
+
+201
+00:19:28,830 --> 00:19:39,274
+Speaker 1: But if we made a law saying no car that can go more than 100 miles an hour is allowed to drive on public streets It would make things better even if it doesn't fix the other bigger problem.
+
+202
+00:19:45,379 --> 00:19:54,497
+Speaker 1: But anyway things of the day, so This is just a little YouTube video, but it's a really cool pixel animation.
+
+203
+00:19:54,598 --> 00:19:55,260
+Speaker 1: It's pretty short.
+
+204
+00:19:55,480 --> 00:20:07,660
+Speaker 1: I picked a Monday partly because it's it's in the vibe of like science fiction or Just like people flying rockets around and rocket cars and speed records.
+
+205
+00:20:07,760 --> 00:20:17,820
+Speaker 1: It's got a pretty strong aesthetic and it's just a short animated film about Someone trying to set a land speed record in a vehicle.
+
+206
+00:20:18,945 --> 00:20:21,820
+Speaker 1: And there's a lot going on here and it's definitely worth your while.
+
+207
+00:20:21,981 --> 00:20:24,860
+Speaker 1: It's worth four minutes of your time to watch in its entirety.
+
+208
+00:20:27,208 --> 00:20:27,696
+Speaker 1: So what do you got?
+
+209
+00:20:28,700 --> 00:20:37,929
+Speaker 0: Alright, so these people they created some this programming language slash proof assistant called lean Lea n and it's basically.
+
+210
+00:20:37,989 --> 00:20:47,399
+Speaker 0: it's a programming language and you can use it for mathematical Proofs and obviously unless you're some kind of mathematician what you know, what good is that to you?
+
+211
+00:20:48,042 --> 00:20:49,312
+Speaker 0: But they made these little games.
+
+212
+00:20:49,373 --> 00:21:01,560
+Speaker 0: There's four games But the game I want to focus on which is the thing of the day is the natural numbers game Because a if you've never used the lean language this game is also a tutorial for the lean language.
+
+213
+00:21:01,640 --> 00:21:03,548
+Speaker 0: So you don't need to know the language before you start.
+
+214
+00:21:03,569 --> 00:21:22,626
+Speaker 0: you could just start playing immediately as long as you know how to read and I guess do basic math because it's just natural numbers, but It's kind of shocking and that like you are used this thing and within the first few lessons you like Prove addition, right?
+
+215
+00:21:23,308 --> 00:21:24,791
+Speaker 0: It's like you learned addition.
+
+216
+00:21:24,852 --> 00:21:28,240
+Speaker 0: I hope yeah, but have you proved?
+
+217
+00:21:29,020 --> 00:21:35,220
+Speaker 0: Addition and it's really wild actually just like the even the most basic first few levels, right?
+
+218
+00:21:35,660 --> 00:21:47,969
+Speaker 0: It's like, you know to take some you know Looking thing that has a plus sign in it and then you reduce it to where just it's just something equals Exactly the same thing on both sides.
+
+219
+00:21:48,070 --> 00:22:00,555
+Speaker 0: Yeah, and it's like, oh, I guess I proved Addition is is true Really I guess if you you could take it further and become really mathy.
+
+220
+00:22:00,575 --> 00:22:01,640
+Speaker 0: they got a set theory one.
+
+221
+00:22:01,760 --> 00:22:10,808
+Speaker 1: But you know, I mean I used to really like doing proofs in high school, but the proofs you do in high school are like Below trivial compared to this kind of stuff.
+
+222
+00:22:11,149 --> 00:22:16,168
+Speaker 0: Yeah, this like it starts a tutorial world then addition world addition world.
+
+223
+00:22:16,188 --> 00:22:23,795
+Speaker 0: you can go to multiplication world or Implication world and like it branches out and takes you and the final is the final levels on.
+
+224
+00:22:23,915 --> 00:22:28,800
+Speaker 0: one branch is algorithm world But the other branch the final level is advanced multiplication.
+
+225
+00:22:30,224 --> 00:22:30,685
+Speaker 0: But it's just.
+
+226
+00:22:30,745 --> 00:22:32,529
+Speaker 0: it's all just proving.
+
+227
+00:22:32,549 --> 00:22:36,258
+Speaker 0: I guess the natural numbers exist.
+
+228
+00:22:36,679 --> 00:22:38,206
+Speaker 1: Yeah Not even getting into.
+
+229
+00:22:38,648 --> 00:22:39,613
+Speaker 1: and the properties?
+
+230
+00:22:39,854 --> 00:22:41,000
+Speaker 0: the properties thereof.
+
+231
+00:22:42,661 --> 00:22:54,080
+Speaker 1: So what I particularly like about this is that on the left is some text and the text has some other text that's in a Very large font that says read this and there are a couple of sentences and these sentences are fantastic.
+
+232
+00:22:54,940 --> 00:22:58,439
+Speaker 1: Quote learning how to use an interactive third improver takes time.
+
+233
+00:22:58,820 --> 00:23:05,520
+Speaker 1: Tests show that the people who get the most out of this game are those who read the help texts like this one.
+
+234
+00:23:09,220 --> 00:23:14,253
+Speaker 0: Yes, you're not gonna get very far if you don't read the hell That's for sure.
+
+235
+00:23:15,761 --> 00:23:19,835
+Speaker 1: In that moment, I got to announce our updated book club selections.
+
+236
+00:23:20,176 --> 00:23:20,657
+Speaker 1: I got two.
+
+237
+00:23:20,677 --> 00:23:21,019
+Speaker 1: I got one.
+
+238
+00:23:22,203 --> 00:23:23,308
+Speaker 1: No, I got one.
+
+239
+00:23:23,328 --> 00:23:23,911
+Speaker 1: I'm definite on.
+
+240
+00:23:23,931 --> 00:23:24,473
+Speaker 1: I got a second one.
+
+241
+00:23:24,493 --> 00:23:26,000
+Speaker 1: I got a. got to think out a little bit.
+
+242
+00:23:26,881 --> 00:23:27,907
+Speaker 1: We'll do a show on Wednesday.
+
+243
+00:23:27,927 --> 00:23:35,760
+Speaker 1: Talk about some Fantastic Four, but Also, we will be at mag fest doing a bunch of panels really looking forward to that.
+
+244
+00:23:36,342 --> 00:23:43,596
+Speaker 1: If you haven't already gotten your hotel and badge arrangements for mag fest It's probably way too late.
+
+245
+00:23:43,717 --> 00:23:46,131
+Speaker 0: the hotels I mean, yes, you could still buy a badge.
+
+246
+00:23:46,332 --> 00:23:47,800
+Speaker 0: their prices keep going up though.
+
+247
+00:23:47,840 --> 00:23:52,520
+Speaker 0: So you're losing money because you waited and you can stay easily get a hotel room.
+
+248
+00:23:52,600 --> 00:24:00,460
+Speaker 0: It's just gonna be probably not in National Harbor Unless you're super lucky somehow and you'll find something or get an in or whatever.
+
+249
+00:24:01,203 --> 00:24:11,457
+Speaker 0: You'd have to stay somewhere outside National Harbor and use a shuttle or some other transportation Car pay a bunch of money for a taxi to just get in and out of the National Harbor.
+
+250
+00:24:11,477 --> 00:24:16,840
+Speaker 0: Yeah, which will Decrease your mag fest experience not only but appreciably.
+
+251
+00:24:17,680 --> 00:24:19,667
+Speaker 0: Yes, cuz mag fest is four days 24/7.
+
+252
+00:24:19,667 --> 00:24:27,372
+Speaker 0: So like if you just leave at like five o'clock seven o'clock No, I guess get in a shuttle or you stay late.
+
+253
+00:24:27,392 --> 00:24:28,856
+Speaker 0: you get in a shuttle at like 1 a.m.
+
+254
+00:24:29,097 --> 00:24:30,172
+Speaker 0: You miss the 3 a.m DDR.
+
+255
+00:24:31,241 --> 00:24:37,332
+Speaker 1: it's like you know, but Magfest is I think gonna be all like.
+
+256
+00:24:37,673 --> 00:24:43,619
+Speaker 1: last year's magfest was like Possibly the best magfest I'd ever been to like it's fully back.
+
+257
+00:24:44,525 --> 00:24:46,440
+Speaker 1: It had improved in many many ways.
+
+258
+00:24:46,901 --> 00:24:51,260
+Speaker 1: Magfest is on an upward trajectory and I think this year is going to continue that trend.
+
+259
+00:24:51,742 --> 00:25:00,693
+Speaker 1: But I did encounter in my mentions a big conversation of People who are complaining that mag fest badge is too expensive.
+
+260
+00:25:00,814 --> 00:25:02,020
+Speaker 1: and I want to point something out.
+
+261
+00:25:02,060 --> 00:25:09,450
+Speaker 1: It's cheaper than packs and it's way longer Right now 145 something dollars and you can't get him cheaper.
+
+262
+00:25:09,932 --> 00:25:13,363
+Speaker 0: if you had waited if you had gotten it earlier You would have been all set.
+
+263
+00:25:13,604 --> 00:25:13,985
+Speaker 0: you would have.
+
+264
+00:25:14,005 --> 00:25:16,953
+Speaker 0: you could have paid 125 if you got it early.
+
+265
+00:25:17,475 --> 00:25:21,685
+Speaker 1: So one complaint number one Inflation happened.
+
+266
+00:25:21,805 --> 00:25:28,224
+Speaker 1: all of you people who were talking about like Otacon badges and what they cost in the 90s but to Pat.
+
+267
+00:25:28,264 --> 00:25:38,039
+Speaker 1: mag fest is four days and goes 24/7 With basically every part of the counter running for those toward those full time ranges.
+
+268
+00:25:38,561 --> 00:25:39,183
+Speaker 1: Magfest.
+
+269
+00:25:39,505 --> 00:25:51,719
+Speaker 1: if you count hours of entertainment multiplied by options of entertainment Per dollar spent on that badge mag fest is possibly the best deal of any convention I've ever heard of in America.
+
+270
+00:25:52,262 --> 00:25:54,088
+Speaker 0: You should also mention mag fest.
+
+271
+00:25:54,128 --> 00:25:56,497
+Speaker 0: badges decrease as the con goes on.
+
+272
+00:25:56,537 --> 00:25:59,628
+Speaker 0: if you come in late Let's say you come in like on Saturday.
+
+273
+00:25:59,909 --> 00:26:01,234
+Speaker 0: It's only 120 at door at door, right?
+
+274
+00:26:02,960 --> 00:26:07,261
+Speaker 0: and so if you come in on Sunday because they know Sunday is garbage the at door is $35.
+
+275
+00:26:07,261 --> 00:26:07,783
+Speaker 0: Yes.
+
+276
+00:26:08,907 --> 00:26:11,256
+Speaker 0: It's just like alright and you can still get up.
+
+277
+00:26:11,316 --> 00:26:14,548
+Speaker 0: if you come in on Sunday you can still do a lot.
+
+278
+00:26:14,588 --> 00:26:17,881
+Speaker 0: That's that's a crazy deal actually to go to a mag fester right.
+
+279
+00:26:17,901 --> 00:26:25,452
+Speaker 0: and the other thing is that mag fest is a nonprofit and Unlike say other conventions that might have like a mega expo hall.
+
+280
+00:26:25,472 --> 00:26:32,519
+Speaker 0: that's bringing in tons of money from big industry Players buying big booths and all kinds and putting ads up everywhere, right?
+
+281
+00:26:33,500 --> 00:26:34,343
+Speaker 0: Magfest doesn't do that.
+
+282
+00:26:34,724 --> 00:26:39,920
+Speaker 0: They have a marketplace that they do sell booths in but it's most it's more like an artist alley.
+
+283
+00:26:40,261 --> 00:26:42,507
+Speaker 0: Those aren't big spending big companies.
+
+284
+00:26:42,547 --> 00:26:49,626
+Speaker 0: Those are just normal, you know small businesses, you know shops and vendors of Right, no one very large really.
+
+285
+00:26:49,646 --> 00:26:55,160
+Speaker 0: and they don't charge a crazy amount for that space per square foot compared to say a pax.
+
+286
+00:26:55,400 --> 00:26:57,672
+Speaker 1: Yeah, because they're not trying to maximize profit.
+
+287
+00:26:57,873 --> 00:27:05,679
+Speaker 1: They're trying to maximize achieving their mission a big part of which is Holding mag fest for the benefit of all the people who attend mag fest.
+
+288
+00:27:06,101 --> 00:27:19,700
+Speaker 0: Almost all the space the square footage at mag fest is just Entertainment for the attendee with no other revenue or price associated with it whatsoever Which cannot be said about most other cons.
+
+289
+00:27:19,740 --> 00:27:29,532
+Speaker 0: So the fact that it's only a hundred even if you paid the maximum price of 155 which would be the at door on Thursday That's still a great deal.
+
+290
+00:27:29,552 --> 00:27:33,248
+Speaker 1: Yeah So we will be at mag fest.
+
+291
+00:27:33,448 --> 00:27:35,075
+Speaker 1: it will be a great time.
+
+292
+00:27:35,115 --> 00:27:36,259
+Speaker 1: we look forward to seeing you there.
+
+293
+00:27:36,663 --> 00:27:38,279
+Speaker 1: Also, we're probably doing panels at PAX East.
+
+294
+00:27:39,101 --> 00:27:43,948
+Speaker 1: I'll be at Zen Chi con doing a bunch of panels and it looks like more people I know will be there than I expected.
+
+295
+00:27:43,988 --> 00:27:45,033
+Speaker 1: So it should be a pretty good time.
+
+296
+00:27:45,475 --> 00:27:48,447
+Speaker 1: I'd say there's a 1.5% chance.
+
+297
+00:27:48,628 --> 00:27:51,820
+Speaker 1: I can trick Scott into coming but I think those odds are going to decrease.
+
+298
+00:27:53,483 --> 00:27:54,436
+Speaker 1: I'd say it's non-zero.
+
+299
+00:27:55,191 --> 00:27:58,073
+Speaker 1: Okay All right, let's get into it.
+
+300
+00:27:58,195 --> 00:27:58,679
+Speaker 1: terminals.
+
+301
+00:27:59,461 --> 00:28:03,974
+Speaker 1: So, you don't know cuz we're old enough to where like I've used.
+
+302
+00:28:04,476 --> 00:28:11,820
+Speaker 1: like actual old terminals Like I've used a VT a hundred VT something I don't know which guy might not have been a hundred.
+
+303
+00:28:11,900 --> 00:28:19,147
+Speaker 1: It might have been one of the because there's actually a lot of iterations of terminals because they evolved Rapidly like this was an era.
+
+304
+00:28:19,610 --> 00:28:28,079
+Speaker 1: if you if you zoom out on the history of computing The terminal era basically came and went and like no one today will ever encounter it know about it care about it.
+
+305
+00:28:29,824 --> 00:28:32,940
+Speaker 1: The terminal is a very different kind of thing, but original.
+
+306
+00:28:33,881 --> 00:28:38,560
+Speaker 0: Originally, you know computers you had to input data output data, right?
+
+307
+00:28:39,262 --> 00:28:45,308
+Speaker 0: Yep, and you could get switches that you like flick with their finger Which is really slow and painful.
+
+308
+00:28:45,970 --> 00:28:49,080
+Speaker 0: or you could get you know magnetic tapes or punch cards.
+
+309
+00:28:49,120 --> 00:28:58,807
+Speaker 0: Yeah, right punch cards were really common for a really short span of time Yeah, and the thing with punch cards is that you know You might have to.
+
+310
+00:28:58,847 --> 00:29:01,440
+Speaker 0: you could sit there and punch them right and it might take a little while.
+
+311
+00:29:01,881 --> 00:29:09,954
+Speaker 0: But if you were good at punching punching them wasn't really say, you know slower than flicking switches or typing necessarily, right.
+
+312
+00:29:10,499 --> 00:29:20,440
+Speaker 0: and The punch cards the computer could read in a stack of punch cards like chicken chicken chicken chicken Just like how scan Tron's made it easy for elementary school teachers to grade those tests.
+
+313
+00:29:21,083 --> 00:29:26,767
+Speaker 0: Yeah, and if you had a magnetic tape, you know a computer could read that in just like Really fast, right?
+
+314
+00:29:26,907 --> 00:29:35,060
+Speaker 0: Yeah, if you tried to input with a terminal Right way back just by typing that was it wasn't good, right?
+
+315
+00:29:35,180 --> 00:29:40,339
+Speaker 0: Especially since the earliest terminals didn't have you know video they would have to.
+
+316
+00:29:40,499 --> 00:29:43,590
+Speaker 0: any Output would had to just be printed with like ink on the paper.
+
+317
+00:29:43,750 --> 00:29:43,971
+Speaker 1: Yep.
+
+318
+00:29:44,031 --> 00:29:56,071
+Speaker 0: I've never used a hard terminal with like the printer Yeah, but it's like yeah you would you would type something and then you know the computer if it had to send any output to you the little it would print.
+
+319
+00:29:56,533 --> 00:29:58,398
+Speaker 0: and so you were basically talking to the computer.
+
+320
+00:29:58,418 --> 00:30:02,600
+Speaker 0: with This terminal community, you know this terminal protocol, right?
+
+321
+00:30:03,020 --> 00:30:06,171
+Speaker 0: You would send it some bytes and it would send back some bytes.
+
+322
+00:30:06,813 --> 00:30:17,480
+Speaker 0: and that's how you know, it worked Yeah, and so when we actually got better terminals with video screens on them They just kept using that same protocol.
+
+323
+00:30:18,946 --> 00:30:19,750
+Speaker 0: And it's like yet.
+
+324
+00:30:19,790 --> 00:30:22,100
+Speaker 0: This is still just talking to the computer.
+
+325
+00:30:22,240 --> 00:30:22,602
+Speaker 0: It is no.
+
+326
+00:30:22,702 --> 00:30:25,852
+Speaker 0: actually it looks like you're sitting at a computer, but you're not right.
+
+327
+00:30:26,153 --> 00:30:28,160
+Speaker 0: You're just sitting at basically a telephone.
+
+328
+00:30:28,682 --> 00:30:36,973
+Speaker 0: That's calling the computer and talking to it and it when the computer talks back to you It's drawing text on the terminal is drawing text on the screen.
+
+329
+00:30:36,994 --> 00:30:38,580
+Speaker 0: The computer doesn't know how to draw text.
+
+330
+00:30:39,043 --> 00:30:41,260
+Speaker 0: It doesn't know what letters are really or anything.
+
+331
+00:30:41,722 --> 00:30:51,007
+Speaker 0: It's just bytes come in and bytes come out and the terminal takes care of showing you and whatever you're gonna show and Interpreting the keyboard that you're typing on.
+
+332
+00:30:51,087 --> 00:31:08,500
+Speaker 1: and really where terminals came in and began to shine were two advances one when we moved beyond computers basically just doing bulk batch processing of information in a non interactive way to Interactive programs or interactive work.
+
+333
+00:31:08,580 --> 00:31:30,915
+Speaker 1: we're like you would do something small on a computer get the result and then use that to do something else like you needed to Interact with and modify what was happening in real time like while you're using it and two once we got to the point to where we had Computers that could timeshare, you know multitasking is a relatively new thing in the world.
+
+334
+00:31:31,316 --> 00:31:35,400
+Speaker 1: old computers old mainframes We're just one big computer doing one thing.
+
+335
+00:31:35,680 --> 00:31:36,622
+Speaker 1: they had one terminal.
+
+336
+00:31:37,042 --> 00:31:47,340
+Speaker 1: time sharing computers eventually grew to the point to where you'd have a bunch of terminals all plugged into one computer and Everyone using a terminal got a percentage of that computers processing time effectively.
+
+337
+00:31:48,201 --> 00:31:49,245
+Speaker 0: Yeah, you didn't it wasn't.
+
+338
+00:31:49,545 --> 00:31:50,107
+Speaker 0: it's not like today.
+
+339
+00:31:50,127 --> 00:31:52,435
+Speaker 0: We have a computer lab and everyone has a computer.
+
+340
+00:31:52,495 --> 00:31:55,807
+Speaker 0: It's like no it's 1960 70 something.
+
+341
+00:31:55,827 --> 00:31:57,414
+Speaker 0: we got one computer everybody.
+
+342
+00:31:57,454 --> 00:31:59,000
+Speaker 0: That's all we got at this University.
+
+343
+00:31:59,422 --> 00:32:09,640
+Speaker 0: We got this one pdp-11 or whatever the hell we got and Everyone is just talking to that computer over the telephone with their own little screen and their own little keyboard.
+
+344
+00:32:10,586 --> 00:32:17,599
+Speaker 1: I worked at IBM a long time ago and Some of the things that were in though in that facility though These were not used anymore.
+
+345
+00:32:18,061 --> 00:32:32,060
+Speaker 1: there were ports to plug terminals into in a lot of the offices because those were routed to the central processing room where in Ancient times while a couple of mainframes might be sitting so that people can access the mainframes from their offices.
+
+346
+00:32:33,281 --> 00:32:34,224
+Speaker 1: That's not a network.
+
+347
+00:32:34,344 --> 00:32:39,660
+Speaker 1: That's basically just a bunch of modems connecting you to a computer like serial ports effectively.
+
+348
+00:32:40,561 --> 00:32:44,115
+Speaker 0: Yeah, I mean, you know back in the day you could still know what that's all really.
+
+349
+00:32:44,195 --> 00:32:45,460
+Speaker 0: a modem is right.
+
+350
+00:32:45,580 --> 00:32:49,693
+Speaker 0: It's like you basically your computer even if you have a computer on your desk.
+
+351
+00:32:49,874 --> 00:32:53,447
+Speaker 0: if you have a modem and it goes dee dee dee It does some dial-up, right?
+
+352
+00:32:53,889 --> 00:32:54,311
+Speaker 0: What is it?
+
+353
+00:32:54,432 --> 00:32:56,040
+Speaker 0: It calls the other computer on the phone.
+
+354
+00:32:56,421 --> 00:33:00,173
+Speaker 0: both of the computers pick up the phone right and now they can talk to each other with.
+
+355
+00:33:00,294 --> 00:33:08,959
+Speaker 0: you know bits right and electricity and they talk the same way that a terminal talks to a computer like the same kind of protocol.
+
+356
+00:33:08,980 --> 00:33:27,119
+Speaker 0: and Your computer even though it's a full computer is still just talking to the computer on the other end that you dialed into the way A terminal would talk to a mainframe and it gets information back From the computer on the other end and then your computer does whatever it's gonna do with it.
+
+357
+00:33:28,082 --> 00:33:30,640
+Speaker 1: Now what's kind of fascinating is that for a while?
+
+358
+00:33:31,620 --> 00:33:37,360
+Speaker 1: Every different kind of computer had its own proprietary protocols proprietary terminal standard like there weren't really standards.
+
+359
+00:33:37,762 --> 00:33:38,746
+Speaker 1: Everything was kind of bespoke.
+
+360
+00:33:38,766 --> 00:33:45,731
+Speaker 1: Some of them were even like hardwired but as time went on And not due to actually any one company a lot of companies resisted.
+
+361
+00:33:45,751 --> 00:33:48,780
+Speaker 1: this terminal started to standardize on some things.
+
+362
+00:33:48,840 --> 00:33:50,355
+Speaker 1: So a lot of things that you know.
+
+363
+00:33:50,537 --> 00:34:04,789
+Speaker 1: Unix Yeah, Unix But also like using ASCII as the default character set using RS 232 like serial ports to connect the terminals instead of all these proprietary Connectors and proprietary protocols stuff like that.
+
+364
+00:34:05,151 --> 00:34:11,829
+Speaker 1: keyboard layouts started to get standardized on the terminals Like arrow keys started to appear everywhere because they were really useful.
+
+365
+00:34:12,110 --> 00:34:12,690
+Speaker 1: things like that.
+
+366
+00:34:13,333 --> 00:34:31,839
+Speaker 1: So that standardization got to a point to where Pieces of what used to be a convention solely due to a physical terminal Remain today in a lot of the shells or what a modern person would call a terminal when we interact with a computer via the command Line directly or remotely over the internet.
+
+367
+00:34:31,859 --> 00:34:39,540
+Speaker 0: Yeah I mean when you open up a terminal little terminal window on your computer what you're really running is called a terminal emulator, right?
+
+368
+00:34:39,600 --> 00:34:42,260
+Speaker 0: It's a computer program that is emulating.
+
+369
+00:34:42,340 --> 00:34:45,088
+Speaker 0: It's pretending to be terminal hardware, right.
+
+370
+00:34:45,710 --> 00:34:47,556
+Speaker 0: and then what is it connecting to?
+
+371
+00:34:47,795 --> 00:34:49,080
+Speaker 0: well your computer?
+
+372
+00:34:49,219 --> 00:34:51,228
+Speaker 0: It's connecting to the computer itself, right?
+
+373
+00:34:51,248 --> 00:34:54,280
+Speaker 0: It says the computer is a multi-processing computer, right?
+
+374
+00:34:54,760 --> 00:34:57,960
+Speaker 0: There's like a socket in on the computer, right?
+
+375
+00:34:58,080 --> 00:35:02,980
+Speaker 0: You know if you in Linux you could like LS slash dev star and you'll see like these TT wise.
+
+376
+00:35:03,000 --> 00:35:13,526
+Speaker 0: So you open a terminal and it connects to one of those right with like a network, you know socket networking Inside the computer itself it's probably just memory mapped or whatever.
+
+377
+00:35:13,586 --> 00:35:27,000
+Speaker 0: but you know and this little program is pretending to be a terminal the computer is running that program and the Computer is also running itself and then the terminal that's being emulated talks to the computer itself.
+
+378
+00:35:27,140 --> 00:35:28,424
+Speaker 0: So it's not any different.
+
+379
+00:35:28,966 --> 00:35:29,869
+Speaker 0: It's the same thing.
+
+380
+00:35:29,949 --> 00:35:38,731
+Speaker 1: I don't know if current like popular Linux distros do this anymore, but But Every Linux I ran throughout the RIT era and even into beacon.
+
+381
+00:35:38,751 --> 00:35:42,462
+Speaker 1: a thing and if you have the equipment to do this It should just work.
+
+382
+00:35:43,264 --> 00:35:56,640
+Speaker 1: if you plug something in like if you had a terminal like one that would speak over RS-232 a serial cable and you plugged it into com1 on a computer you would just get a shell like it.
+
+383
+00:35:58,104 --> 00:36:03,440
+Speaker 0: Most Linux isn't gonna be you know, I mean if you get a like at least I don't know.
+
+384
+00:36:03,520 --> 00:36:14,960
+Speaker 0: it depends on the distributions default settings, but they should if you press like if you go get a Linux computer and Usually like it's gonna start at like this GUI login thing if you have like a Linux desktop, right?
+
+385
+00:36:15,380 --> 00:36:19,354
+Speaker 0: But if you press ctrl alt f2 f3 f4, it's gonna cycle through.
+
+386
+00:36:19,434 --> 00:36:30,710
+Speaker 0: there should be like more TTYs running right which are basically the other the terminal endpoints on the other end and you can cycle through them and Then there should be usually by default.
+
+387
+00:36:30,750 --> 00:36:52,295
+Speaker 0: There is one that's like gonna be running on your serial port or maybe even you can get one to run on a USB serial port if you want to and So you can actually take a second computer right, or if you have a terminal for some reason and plug it in and Talk to your computer at your normal desktop computer as if it was 1970 and you had a terminal.
+
+388
+00:36:54,624 --> 00:36:58,280
+Speaker 1: Did that for a while at our IT and refreshment because I had my computer.
+
+389
+00:36:58,784 --> 00:37:08,995
+Speaker 1: But I also brought with me my old 486 and I got Linux running on it and had a serial port connected between my computer and that one so I could access it Because I didn't have a network in my dorm room.
+
+390
+00:37:10,001 --> 00:37:11,625
+Speaker 0: Yeah, it should you know.
+
+391
+00:37:11,685 --> 00:37:18,684
+Speaker 0: if it doesn't work you could definitely start if for some reason your Linux sister isn't running the terminal Like on.
+
+392
+00:37:19,046 --> 00:37:19,870
+Speaker 0: you know that interface.
+
+393
+00:37:19,890 --> 00:37:20,694
+Speaker 0: Well, I mean nothing.
+
+394
+00:37:20,834 --> 00:37:21,940
+Speaker 0: Google how to start one up.
+
+395
+00:37:22,202 --> 00:37:24,840
+Speaker 1: I don't think any computers have com ports on them anymore.
+
+396
+00:37:25,622 --> 00:37:27,272
+Speaker 0: You can use USB or whatever you have.
+
+397
+00:37:27,313 --> 00:37:28,399
+Speaker 1: sure there's a way to make that happen.
+
+398
+00:37:29,043 --> 00:37:33,765
+Speaker 0: Yeah, but I mean, you know, it's like back in the day I would like the.
+
+399
+00:37:33,885 --> 00:37:39,572
+Speaker 0: the town had a library and in the town library They had a computer system where you could look up the books and it was.
+
+400
+00:37:39,652 --> 00:37:46,700
+Speaker 0: they had one computer in the library that you didn't Know where it was and they had terminals all around the library that were always connected to the little menu system.
+
+401
+00:37:46,981 --> 00:38:07,293
+Speaker 0: Yeah, but if you were at home you could dial into the library And use telnet or whatever and Sure enough you could connect to that same terminals that you know that library computer with a terminal emulator on your home PC and Browse just like you were at the library and it totally worked.
+
+402
+00:38:07,373 --> 00:38:09,360
+Speaker 0: I'm sure nowadays the library just has a website.
+
+403
+00:38:09,460 --> 00:38:10,586
+Speaker 0: They don't need to do that anymore.
+
+404
+00:38:10,787 --> 00:38:14,003
+Speaker 0: Yeah, but that worked in the 90s and I think it's something.
+
+405
+00:38:14,023 --> 00:38:17,418
+Speaker 1: part of the reason I wanted to talk about this is something you really need to internalize.
+
+406
+00:38:17,558 --> 00:38:32,047
+Speaker 1: is that the History of computing is very new and like these things aren't that ancient Like I was telnetting into systems to check my email in the 2000s in college Like no modems were still heavily to use.
+
+407
+00:38:32,308 --> 00:38:35,700
+Speaker 1: Germany just phased out the 8-inch floppy disk like this year.
+
+408
+00:38:38,965 --> 00:38:45,060
+Speaker 0: Yeah, so as for like, you know Terminals themselves, right at least the you know, the user side the protocols.
+
+409
+00:38:45,220 --> 00:38:57,680
+Speaker 0: It's like there's so many things involved in terminals in terms of the user interface, but also like the protocols It's like oh you want to have text, you know positioned on the screen.
+
+410
+00:38:57,760 --> 00:38:59,186
+Speaker 0: Well, how big is your screen?
+
+411
+00:38:59,247 --> 00:39:00,592
+Speaker 0: should the text be colored?
+
+412
+00:39:00,632 --> 00:39:01,617
+Speaker 0: What color should it be?
+
+413
+00:39:01,677 --> 00:39:02,259
+Speaker 0: What you know?
+
+414
+00:39:03,544 --> 00:39:05,199
+Speaker 0: You know, is it gonna be bold text?
+
+415
+00:39:05,481 --> 00:39:05,722
+Speaker 0: Is it?
+
+416
+00:39:05,742 --> 00:39:10,320
+Speaker 0: you know, we're gonna support all the Unicode characters or just the ASCII characters?
+
+417
+00:39:11,323 --> 00:39:12,226
+Speaker 0: Is there a cursor?
+
+418
+00:39:12,326 --> 00:39:30,740
+Speaker 0: Is it gonna blink, you know, there's so many like factors to consider and For some reason people keep developing new terminals Emulators all the time because they're not satisfied with the ones that exist for various reasons Even though basically all of them work, right?
+
+419
+00:39:30,800 --> 00:39:37,420
+Speaker 0: It's like if you forced me to use x-term or your xvt or kitty or pretty much any of them.
+
+420
+00:39:37,804 --> 00:39:38,859
+Speaker 0: I would be just fine.
+
+421
+00:39:39,801 --> 00:39:52,616
+Speaker 0: it's like so many of them though because like people just really want different user interfaces or they want it to be faster because it's Like if you're doing computery work, this is like the thing you're using the most often.
+
+422
+00:39:52,636 --> 00:40:01,279
+Speaker 0: It's like any UI or usability improvements or functionality or performance improvements kind of matter a lot, right?
+
+423
+00:40:03,362 --> 00:40:16,655
+Speaker 0: But it's just if you actually look into like what's going on there and think about like wait a minute You know, someone made a whole web browser that works in the terminal How you know and when this protocol that's basically just sending, you know letters back and forth.
+
+424
+00:40:17,197 --> 00:40:18,180
+Speaker 0: How does that even work?
+
+425
+00:40:18,600 --> 00:40:22,560
+Speaker 0: Yeah, right and it's like it's kind of amazing what they came up with for how it works.
+
+426
+00:40:22,640 --> 00:40:32,004
+Speaker 0: And it's also super annoying if you ever had to program it because there's just so many, you know Any modern computer.
+
+427
+00:40:32,104 --> 00:40:33,067
+Speaker 0: those things are all just.
+
+428
+00:40:33,148 --> 00:40:36,680
+Speaker 0: you know, people have coded the solutions already and you're just running their code.
+
+429
+00:40:36,941 --> 00:40:39,549
+Speaker 1: Yep, what's extra fun is how all of that is born.
+
+430
+00:40:39,569 --> 00:40:43,020
+Speaker 1: you can get to whatever shell you're using inside of that terminal.
+
+431
+00:40:43,762 --> 00:40:48,235
+Speaker 0: No, the shell doesn't you know, it doesn't know about the terminal exactly, but that's the thing.
+
+432
+00:40:48,275 --> 00:40:49,880
+Speaker 0: shell is a program that's running.
+
+433
+00:40:50,101 --> 00:40:50,482
+Speaker 1: Yeah, there's.
+
+434
+00:40:50,562 --> 00:40:57,599
+Speaker 1: the shell is basically interpreting commands and giving you an environment that is accessible via the terminal.
+
+435
+00:40:59,261 --> 00:41:01,612
+Speaker 0: Yeah, I mean that you know the terminal program.
+
+436
+00:41:01,632 --> 00:41:02,737
+Speaker 0: the shell basically is just.
+
+437
+00:41:02,797 --> 00:41:10,580
+Speaker 0: you know The program that is running and then the output of that program right goes to the terminal and then is displayed, right?
+
+438
+00:41:11,100 --> 00:41:19,406
+Speaker 0: But it's like if you think about it a terminal protocol is like really kind of efficient in terms of you know Data savings, right?
+
+439
+00:41:19,486 --> 00:41:23,880
+Speaker 0: It's like if you use like a remote desktop to connect to another computer.
+
+440
+00:41:23,981 --> 00:41:33,160
+Speaker 0: It's like it works because we have fast networks and things these days, but it's like yeah We have to send across the network right we can compress it and use other various tricks.
+
+441
+00:41:33,240 --> 00:41:39,102
+Speaker 0: But basically if you have a 640 by 480 screen, which isn't even high resolution at all It's low res.
+
+442
+00:41:39,604 --> 00:41:42,495
+Speaker 0: we have to send the color of each and every one of those pixels.
+
+443
+00:41:43,097 --> 00:41:44,000
+Speaker 0: and what's your frame rate?
+
+444
+00:41:44,221 --> 00:41:45,046
+Speaker 0: What 30 FPS?
+
+445
+00:41:45,107 --> 00:41:51,399
+Speaker 0: Okay, so every 30 times a second I have to tell you the color of every single pixel on the whole screen adds a lot of data.
+
+446
+00:41:51,821 --> 00:41:53,810
+Speaker 0: Versus I send you nothing.
+
+447
+00:41:54,252 --> 00:41:56,884
+Speaker 0: and if there happened to be some text I have to send you.
+
+448
+00:41:56,944 --> 00:42:00,120
+Speaker 0: I send you that text and maybe some terminal instructions.
+
+449
+00:42:00,763 --> 00:42:03,639
+Speaker 0: You know a little bit extra metadata in there and that's it.
+
+450
+00:42:04,903 --> 00:42:13,540
+Speaker 1: Yeah, well it kind of shows that some things Were developed very early in computing and even though people had this natural idea of we should move beyond them.
+
+451
+00:42:13,981 --> 00:42:21,632
+Speaker 1: They the UX of these things ended up or just the design consideration of these things more broadly Ended up being kind of the best options.
+
+452
+00:42:21,692 --> 00:42:25,869
+Speaker 1: or do these very good options like the mouse The the way we use command lines?
+
+453
+00:42:26,171 --> 00:42:27,616
+Speaker 1: these have stuck around for a reason.
+
+454
+00:42:27,657 --> 00:42:28,500
+Speaker 1: They're really powerful.
+
+455
+00:42:29,943 --> 00:42:38,060
+Speaker 0: Yeah, I mean if we didn't have you know It's funny because like if you just made some OS from scratch today, you wouldn't use like some terminal protocol.
+
+456
+00:42:38,401 --> 00:42:44,860
+Speaker 0: Yeah, we have a terminal emulator to create the you know, the command line interface for the computer, right?
+
+457
+00:42:44,961 --> 00:42:57,138
+Speaker 0: You would just have a command line You would just have a program right that was probably just like, you know The shell and the terminal in the same program and it's just making OS system calls directly, right?
+
+458
+00:42:57,800 --> 00:43:06,559
+Speaker 0: It's not talking over some like network or whatever But it's like because they did it that way back in the day and we still do it that way.
+
+459
+00:43:07,260 --> 00:43:18,860
+Speaker 0: It's you know, kind of interesting that like this old Tech still, you know exists in all these places where you might not realize it's there and it's also still kind of compatible.
+
+460
+00:43:20,801 --> 00:43:35,660
+Speaker 0: Everything that's ever existed like, you know Other, you know a place that terminals have been used a really long time is like, you know Teletype devices for people who you know have are not great at hearing and the so telephones are not great for them.
+
+461
+00:43:35,700 --> 00:43:36,685
+Speaker 0: So they type instead.
+
+462
+00:43:37,288 --> 00:43:51,860
+Speaker 0: and all that really is is yeah you have a terminal connected to the telephone company and you type and someone else has a terminal connected to the telephone company and They type or there's a transcriptionist or who's reading or whatever in between or something.
+
+463
+00:43:51,940 --> 00:43:59,175
+Speaker 0: but you're just typing to you know from end to end and Today that's you know, people just use text messages.
+
+464
+00:43:59,196 --> 00:44:04,299
+Speaker 0: They don't use that anymore I imagine but I think that system still might exist if you try to use it.
+
+465
+00:44:04,541 --> 00:44:06,913
+Speaker 1: So back in a long long time ago.
+
+466
+00:44:06,974 --> 00:44:12,275
+Speaker 1: We first got our 486 We had a 2400 baud modem and I found like the other nerd in my school.
+
+467
+00:44:12,295 --> 00:44:21,076
+Speaker 1: His name was Brock Tice Thought about him in a long time, but this kid was also a computer nerd kid.
+
+468
+00:44:21,377 --> 00:44:23,240
+Speaker 1: We both had computers We both had modems.
+
+469
+00:44:23,722 --> 00:44:56,520
+Speaker 1: So we spent a weekend trying to get one of our computers to connect to the other computer with our two modems and we eventually got it to work and we're able to see each other's commands being typed in like telnet windows at each other and I remember that being like an extremely exciting moment to have connected to computers that weren't next to each other myself using paper books and Documentation to figure it out because this was before the internet meaningfully existed.
+
+470
+00:44:57,605 --> 00:44:58,428
+Speaker 1: And what do we do with it?
+
+471
+00:44:58,689 --> 00:45:01,140
+Speaker 1: We never did it again because it was literally worthless
+
+472
+00:45:02,142 --> 00:45:17,398
+Speaker 0: Yeah, but yeah, I think if you're a person who's computering and you you know You might open a terminal and use it all the time without ever thinking about how it works or where it came from Or why it is the way it is.
+
+473
+00:45:18,510 --> 00:45:28,259
+Speaker 0: It may be worth Not spending too much time But spending some amount of time looking at the history of terminals what terminal protocols actually look like.
+
+474
+00:45:28,664 --> 00:45:37,018
+Speaker 0: You know And such and you know the history thereof and it will give you a better understanding of what's going on there.
+
+475
+00:45:37,038 --> 00:45:45,905
+Speaker 1: Yeah Same thing with networking with everything all this old tech is partly because it's actually pretty simple due to the technological Limitations at the time.
+
+476
+00:45:46,367 --> 00:45:49,360
+Speaker 1: you can learn more of the core concepts from it more easily.
+
+477
+00:45:49,481 --> 00:46:03,380
+Speaker 1: I think they're trying to study something modern like Imagine trying to learn how network signaling works by looking at modern gigabit ethernet and whatever the fuck is happening in there versus like Differential Manchester that I can calculate by hand and see in an oscilloscope.
+
+478
+00:46:03,882 --> 00:46:06,897
+Speaker 0: Yeah, it's one of those cases where it's like it's old.
+
+479
+00:46:07,098 --> 00:46:15,240
+Speaker 0: therefore It's simple and easy, you know, I guess easy ish right or somewhat comprehensible but still in use and relevant.
+
+480
+00:46:15,380 --> 00:46:21,180
+Speaker 0: Yeah, whereas it's like you go and you try to learn some other old thing and it's like completely irrelevant now, right?
+
+481
+00:46:21,280 --> 00:46:21,562
+Speaker 0: But it's like.
+
+482
+00:46:21,582 --> 00:46:24,480
+Speaker 0: no this is something that's super old that everyone's using every single day.
+
+483
+00:46:30,573 --> 00:46:32,961
+Speaker 1: This has been geek nights with rim and Scott.
+
+484
+00:46:33,001 --> 00:46:35,530
+Speaker 1: special thanks to DJ pretzel for the opening theme.
+
+485
+00:46:35,710 --> 00:46:38,038
+Speaker 0: Be sure to visit our website at front row.
+
+486
+00:46:38,078 --> 00:46:41,730
+Speaker 0: crew calm for show notes discussion links and more.
+
+487
+00:46:42,211 --> 00:46:44,902
+Speaker 1: Remember geek nights is not one but four different shows.
+
+488
+00:46:45,203 --> 00:46:48,656
+Speaker 1: Mondays are science and technology Tuesdays gaming and games.
+
+489
+00:46:48,777 --> 00:46:50,603
+Speaker 1: Wednesdays are animation and comics.
+
+490
+00:46:50,924 --> 00:46:53,433
+Speaker 1: Thursdays are arbitrary and Indiscriminate.
+
+491
+00:46:54,036 --> 00:46:59,014
+Speaker 1: geek nights is distributed under a Creative Commons attribution 4.0 International license.
+
+492
+00:46:59,436 --> 00:47:03,730
+Speaker 0: geek nights is recorded live with no studio and no audience.
+
+493
+00:47:04,252 --> 00:47:11,206
+Speaker 1: But unlike those other late shows it's actually recorded at night and the patreon patrons for this episode of geek nights are Alan Joyce on kijiji.
+
+494
+00:47:11,227 --> 00:47:11,992
+Speaker 1: join lily tennenberry.
+
+495
+00:47:12,012 --> 00:47:12,635
+Speaker 1: case care makes music.
+
+496
+00:47:12,655 --> 00:47:19,840
+Speaker 1: Krista doctors for Clemson Walton Finjal has been a writer Rebecca that sandberg is a German butthole And a bunch of people whose names I will not say tonight.
+
+497
+00:47:19,960 --> 00:47:44,291
+Speaker 1: I'm gonna leave you with an old classic Oh.
+

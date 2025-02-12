@@ -1,0 +1,3068 @@
+﻿1
+00:00:08,220 --> 00:00:10,229
+Speaker 0: It's Tuesday, December 10th, 2024.
+
+2
+00:00:10,229 --> 00:00:10,551
+Speaker 0: I'm Rym.
+
+3
+00:00:13,164 --> 00:00:13,557
+Speaker 1: I'm Scott.
+
+4
+00:00:13,900 --> 00:00:15,105
+Speaker 0: And this is Geek Nights.
+
+5
+00:00:15,145 --> 00:00:20,020
+Speaker 0: Tonight we are reviewing PAX Unplugged, 2024.
+
+6
+00:00:20,020 --> 00:00:20,958
+Speaker 1: Let's do this!
+
+7
+00:00:21,620 --> 00:00:25,356
+Speaker 0: So, uh, if you haven't noticed, we're hockey fans.
+
+8
+00:00:25,496 --> 00:00:26,320
+Speaker 0: We like the ice hockey.
+
+9
+00:00:27,403 --> 00:00:28,431
+Speaker 0: We live in Queens.
+
+10
+00:00:28,572 --> 00:00:29,680
+Speaker 0: We're fans of the Rangers.
+
+11
+00:00:31,782 --> 00:00:36,920
+Speaker 0: And I would characterize what happened in the last few minutes of the Rangers game that Scott and I went to yesterday.
+
+12
+00:00:36,980 --> 00:00:38,299
+Speaker 1: Last few minutes?
+
+13
+00:00:38,861 --> 00:00:40,408
+Speaker 0: Well, you don't know what I'm referring to.
+
+14
+00:00:40,669 --> 00:00:42,257
+Speaker 0: I'm not referring to the hockey game itself.
+
+15
+00:00:42,578 --> 00:00:42,920
+Speaker 0: Not yet.
+
+16
+00:00:43,701 --> 00:00:50,420
+Speaker 0: I would say that in the last few minutes of that game, the New York Rangers correctly received a standing boo-vation.
+
+17
+00:00:51,763 --> 00:00:52,870
+Speaker 1: They were boos the whole time.
+
+18
+00:00:52,951 --> 00:00:54,380
+Speaker 1: I was booing from the second period.
+
+19
+00:00:54,981 --> 00:00:58,769
+Speaker 0: The boos came to a climax.
+
+20
+00:00:58,789 --> 00:01:11,800
+Speaker 0: If you're not in the East Coast of America versus other places where sports happen, there aren't that many places where, like, the hometown fans will aggressively boo their own team.
+
+21
+00:01:12,260 --> 00:01:14,288
+Speaker 0: But New York is one of those places.
+
+22
+00:01:14,328 --> 00:01:17,480
+Speaker 0: It might be the booing-est place to boo your own team.
+
+23
+00:01:18,040 --> 00:01:28,620
+Speaker 0: Even when Hank Lundquist, one of the best goalies to ever play the game, who never won a cup because he played for the Rangers, despite being great, when he was interviewed about his time, got his jersey put up in the rafters.
+
+24
+00:01:29,181 --> 00:01:31,760
+Speaker 0: One of the questions was something about, like, what it's like to play at MSG.
+
+25
+00:01:31,920 --> 00:01:39,610
+Speaker 0: And I want to say he said something to the effect of, "It is a challenging environment to play in with the Rangers fans at
+
+26
+00:01:39,631 --> 00:01:39,831
+Speaker 0: MSG.".
+
+27
+00:01:39,871 --> 00:01:44,589
+Speaker 1: Yeah, I mean, you know, you're always going to boo an opponent, right?
+
+28
+00:01:44,811 --> 00:01:46,359
+Speaker 1: But that's like a perfunctory boo.
+
+29
+00:01:47,161 --> 00:01:47,924
+Speaker 1: Right, right.
+
+30
+00:01:48,024 --> 00:01:52,601
+Speaker 1: But the point is, is that, like, yeah, you can't blame the opponent for doing their best, right?
+
+31
+00:01:52,822 --> 00:01:55,069
+Speaker 1: It's like, of course that's how they're going to be, right?
+
+32
+00:01:55,149 --> 00:01:59,143
+Speaker 1: It's like, if our team wins, good job.
+
+33
+00:01:59,364 --> 00:02:00,188
+Speaker 1: You played well.
+
+34
+00:02:00,288 --> 00:02:03,300
+Speaker 1: If our team is bad, we're not going to, like, boo the other team.
+
+35
+00:02:03,420 --> 00:02:03,802
+Speaker 1: It's like, what?
+
+36
+00:02:03,822 --> 00:02:05,451
+Speaker 1: Were they supposed to let us win?
+
+37
+00:02:05,652 --> 00:02:07,059
+Speaker 1: It's like, no, you boo your own team.
+
+38
+00:02:07,079 --> 00:02:07,945
+Speaker 1: Like, you guys suck.
+
+39
+00:02:08,005 --> 00:02:09,031
+Speaker 1: You didn't play good enough.
+
+40
+00:02:09,112 --> 00:02:09,293
+Speaker 1: Boo.
+
+41
+00:02:09,312 --> 00:02:10,360
+Speaker 0: Boo ourselves.
+
+42
+00:02:10,780 --> 00:02:17,554
+Speaker 0: There's a scene in Boardwalk Empire that's actually really relevant to this where some guys, like, tried to rob an illegal liquor warehouse.
+
+43
+00:02:17,574 --> 00:02:20,226
+Speaker 0: They got caught by the mobsters because they were hired by some other mobsters.
+
+44
+00:02:20,647 --> 00:02:26,129
+Speaker 0: And one of them's tied up and the head mobster's talking to him and he's like, look, I'm not mad at you.
+
+45
+00:02:26,209 --> 00:02:26,851
+Speaker 0: You're a thief.
+
+46
+00:02:27,292 --> 00:02:28,316
+Speaker 0: You're doing your job.
+
+47
+00:02:28,898 --> 00:02:37,306
+Speaker 0: I'm mad at, and he turns to his own, like, Lieutenant Mobbot guy, this motherfucker, for not locking the door and for letting you get into the first place.
+
+48
+00:02:39,093 --> 00:02:42,506
+Speaker 0: But then at the end, he also shoots the thief because you still got to try to win.
+
+49
+00:02:43,652 --> 00:02:51,325
+Speaker 1: Yeah, but, you know, the point being, there's a lot of places on Earth where people just cheer for their own team no matter how well or poorly they do.
+
+50
+00:02:51,385 --> 00:02:54,154
+Speaker 1: If anything, ideas of good sportsmanship.
+
+51
+00:02:54,274 --> 00:03:01,061
+Speaker 1: And if that's, if it's Little League, if it's, you know, something that's not, you know, it's like, of course you would cheer, right?
+
+52
+00:03:01,402 --> 00:03:04,835
+Speaker 1: You know, and there's other occasions where you might cheer a loser, right?
+
+53
+00:03:05,036 --> 00:03:06,100
+Speaker 1: For good reasons.
+
+54
+00:03:07,481 --> 00:03:20,840
+Speaker 1: But if the, in a professional sport that you're, especially if you're paying to see and your team that you support isn't doing well because, and it's their fault that they're not doing well.
+
+55
+00:03:20,981 --> 00:03:23,959
+Speaker 0: And it is definitely the Rangers' fault that they're not doing well right now.
+
+56
+00:03:24,500 --> 00:03:24,601
+Speaker 1: Right.
+
+57
+00:03:24,661 --> 00:03:27,395
+Speaker 1: You can't, these places that just always cheer their own team.
+
+58
+00:03:27,456 --> 00:03:28,601
+Speaker 1: It's like, seriously, people.
+
+59
+00:03:28,681 --> 00:03:35,083
+Speaker 0: To quote a coworker today who walked up to my desk, he just said, he comes, he walks by and he literally just says,
+
+60
+00:03:35,806 --> 00:03:36,508
+Speaker 0: "Shameful.".
+
+61
+00:03:36,809 --> 00:03:39,057
+Speaker 0: And he shakes his head and he says, "Just
+
+62
+00:03:39,117 --> 00:03:39,639
+Speaker 0: shameful.".
+
+63
+00:03:40,100 --> 00:03:40,845
+Speaker 0: And I said, "I was
+
+64
+00:03:40,905 --> 00:03:41,187
+Speaker 0: there.".
+
+65
+00:03:41,287 --> 00:03:42,494
+Speaker 0: And he said, "I'm so
+
+66
+00:03:42,655 --> 00:03:43,078
+Speaker 0: sorry.".
+
+67
+00:03:43,890 --> 00:03:44,320
+Speaker 1: That's right.
+
+68
+00:03:46,902 --> 00:03:49,760
+Speaker 1: No matter how bad I do it, my, see if, you know, if I do it my job.
+
+69
+00:03:49,860 --> 00:03:50,041
+Speaker 0: Yeah.
+
+70
+00:03:50,101 --> 00:03:53,012
+Speaker 0: Nobody has ever booed me for fucking up at work.
+
+71
+00:03:53,995 --> 00:03:55,019
+Speaker 0: Actually, no, I take that back.
+
+72
+00:03:55,059 --> 00:03:55,561
+Speaker 0: I got booed.
+
+73
+00:03:55,942 --> 00:04:02,422
+Speaker 0: We used to, when I worked at IBM, we had a star, like an inverse trophy that we'd pass around.
+
+74
+00:04:02,682 --> 00:04:08,963
+Speaker 0: Whoever had fucked up the most egregiously most recently, and you would get gently booed as it was handed to you.
+
+75
+00:04:10,989 --> 00:04:11,952
+Speaker 0: I do miss that kind of thing.
+
+76
+00:04:11,993 --> 00:04:16,827
+Speaker 0: That was, I held, I held the trophy a couple of times, but I tried not to hold it for very long.
+
+77
+00:04:17,310 --> 00:04:27,988
+Speaker 0: So, in some news, as you might know, there's, there's a lot of games, not a lot, but there's several games that have tried to effectively clone Overwatch in one way or another.
+
+78
+00:04:28,048 --> 00:04:32,485
+Speaker 0: Like, Overwatch kind of is a template for a kind of competitive FPS.
+
+79
+00:04:33,047 --> 00:04:36,902
+Speaker 1: I mean, that kind of, Overwatch isn't the first of those games either, right?
+
+80
+00:04:37,082 --> 00:04:50,922
+Speaker 0: Oh, absolutely not, but Overwatch sort of refined it to, like, a certain sub-template of a certain, like, set of characteristics, and I don't want, I don't want to get into, like, a whole thing about what I think those characteristics are, because it'll, this will turn into the Overwatch show.
+
+81
+00:04:50,942 --> 00:04:53,292
+Speaker 1: It became the most prominent of those games.
+
+82
+00:04:53,393 --> 00:05:01,381
+Speaker 0: Yeah, but it has the characteristics of, it's a team-based competitive FPS with different maps that have different kinds of objectives.
+
+83
+00:05:01,782 --> 00:05:04,329
+Speaker 0: It's extremely focused on skill.
+
+84
+00:05:05,371 --> 00:05:07,657
+Speaker 0: It is not in any way pay-to-win.
+
+85
+00:05:08,018 --> 00:05:10,426
+Speaker 0: There's pay-to-do stuff, but there's no pay-to-win.
+
+86
+00:05:10,506 --> 00:05:11,450
+Speaker 0: Like, you get everything.
+
+87
+00:05:11,852 --> 00:05:16,148
+Speaker 0: Nothing stops you from using the thing, the tools at your disposal to try to win.
+
+88
+00:05:16,168 --> 00:05:17,653
+Speaker 0: It has good matchmaking.
+
+89
+00:05:17,994 --> 00:05:20,622
+Speaker 0: It has positions like a sports team.
+
+90
+00:05:21,003 --> 00:05:34,040
+Speaker 0: It has the trifecta in an FPS of tank, DPS, and support, but Marvel Arrivals is noteworthy for, uh, everyone said, "Oh, it's kind of an Overwatch clone, just with the Marvel IP,".
+
+91
+00:05:34,281 --> 00:05:52,538
+Speaker 0: and I assumed it had at least a few other things going on, and it wasn't just a carbon copy, but having actually played it now, the degree to which it is just a copy-paste of Overwatch with Marvel IP and more randomness surprised me, despite expecting exactly that.
+
+92
+00:05:53,060 --> 00:05:54,165
+Speaker 0: Like, some of the characters...
+
+93
+00:05:54,426 --> 00:05:57,903
+Speaker 1: Every card game out there, how many card games out there just copy magic, right?
+
+94
+00:05:57,943 --> 00:06:18,055
+Speaker 1: It's like, you know, it's like, hey, you know, it takes a long time and investment of, you know, money, resources to build a game up, and you learn lessons, and so if you want to compete with a thing that exists for the same users, the same players, the same customers, it's like, you have to take from the lessons that they've already learned.
+
+95
+00:06:18,175 --> 00:06:20,827
+Speaker 1: If you start from scratch, you will never catch up to them.
+
+96
+00:06:20,887 --> 00:06:24,662
+Speaker 0: And I want to be clear, I don't think this is bad, nor am I blaming them.
+
+97
+00:06:24,722 --> 00:06:25,907
+Speaker 0: It's the smart thing to do.
+
+98
+00:06:26,148 --> 00:06:33,713
+Speaker 0: There weren't a million clones of Jihad, the card game, or SimCity, the card game, that everyone cloned Magic, the card game.
+
+99
+00:06:33,773 --> 00:06:34,054
+Speaker 0: Right.
+
+100
+00:06:34,415 --> 00:06:44,044
+Speaker 1: It's like, in any business, if you're coming in late, you have to look at the champ, copy the champ, just to even be in the game.
+
+101
+00:06:44,065 --> 00:06:50,488
+Speaker 1: You'll still be behind them, right, because you won't have the staff knowledge, and then you have no choice but to do that.
+
+102
+00:06:50,568 --> 00:07:03,775
+Speaker 1: So, they decided they wanted to compete instead of making a brand new game that's a new kind of game or something that doesn't compete with anything, and I guess that's, you know, seen as less risky, right?
+
+103
+00:07:04,197 --> 00:07:11,378
+Speaker 1: Go with something people are familiar with, and, you know, sell it with the IP, and you can see Sony.
+
+104
+00:07:11,558 --> 00:07:44,740
+Speaker 1: They probably, you know, I haven't played the Sony Concord, which is dead now, right, which cost a zillion dollars, and I haven't played Overwatch or Marvel Rivals either, but I would suspect that the Sony Concord thing that bombed was maybe a better game, maybe even better than Overwatch, probably better than the Marvel Rivals, but it didn't get anyone to play it because no one gave a shit, and the Marvel Rivals, it's probably the worst of the three games, just based on the little information I know, because it has the Marvel IP, is probably gonna come out ahead here.
+
+105
+00:07:44,980 --> 00:07:45,120
+Speaker 0: Yep.
+
+106
+00:07:45,281 --> 00:08:08,670
+Speaker 0: So, as someone who was in on Overwatch from day zero, because it was based on everything I like about team-based FPSs, and there's a lot going on there, but I still play Overwatch daily, but it's kind of my current lifestyle game, even though I've had a weird urge to play Counter-Strike again, because I saw that they remade Train, and part of my brain rumbled and wanted me to play, but anyway, no worthy things.
+
+107
+00:08:08,710 --> 00:08:18,368
+Speaker 0: having played it now, and this is not a review, I haven't played this game enough, and there's a big caveat to anything I'm about to say, as Scott and I were discussing before the show, one, this game just came out.
+
+108
+00:08:18,830 --> 00:08:23,663
+Speaker 0: Like, imagine comparing the rules of baseball in the year 2024 to the rules of baseball in the year 1904.
+
+109
+00:08:23,663 --> 00:08:52,404
+Speaker 0: So there's a lot, like this game is lacking a lot of polish, the matchmaking doesn't know anything about the player base yet, like there's a lot of factors here, but I will say number one, my first impression, I didn't read tutorial, I didn't play a tutorial, I read nothing, I went into the game, I changed my mouse to inverted, I mapped my keys just based on what I thought things did, and I played, picked a random character,
+
+110
+00:08:52,424 --> 00:08:56,140
+Speaker 1: and no tutorial, they forced you to go through anything?
+
+111
+00:08:56,160 --> 00:08:59,579
+Speaker 0: No, you can do the tutorial, I skipped it all, jumped right into a match with real people.
+
+112
+00:09:00,401 --> 00:09:01,304
+Speaker 1: Okay.
+
+113
+00:09:01,324 --> 00:09:21,215
+Speaker 0: And despite knowing nothing, if you've ever played Overwatch even once, you're fine, it's just Overwatch, like everything about it, just Overwatch, with minor surprising differences, like the characters all have more powers than Overwatch, which the effect is, the game is just way more chaotic because there's more crazy shit happening everywhere.
+
+114
+00:09:21,235 --> 00:09:21,920
+Speaker 0: that's kind of random.
+
+115
+00:09:22,980 --> 00:09:49,346
+Speaker 0: Two, your ultimates, like when you charge an ultimate, like your big power and use it, Overwatch, the matches or the rounds in a game are all discrete, but in this game, if you lose round one of a match, but you've got your ultimate charged up, you keep that charge in round two, which makes the game, again, a little more random, a little more close, a little more rubber banding.
+
+116
+00:09:49,366 --> 00:09:51,272
+Speaker 1: That's what fighting games do, right?
+
+117
+00:09:51,352 --> 00:09:54,361
+Speaker 1: If your meter carries over, right?
+
+118
+00:09:54,622 --> 00:10:01,653
+Speaker 1: So if you lose, you might lose round one, but you got your meter and they use their meter to beat you in round one, and now you're coming into round two with a full meter.
+
+119
+00:10:02,195 --> 00:10:03,801
+Speaker 1: That kind of makes sense.
+
+120
+00:10:03,902 --> 00:10:12,797
+Speaker 0: And again, I'm not saying it's bad, but it is different because the way it works in Overwatch, which makes a very different feel, is like you're playing a best of three.
+
+121
+00:10:13,238 --> 00:10:20,306
+Speaker 0: It's more like a hockey championship best of three, where whoever wins the first one, everything resets, clean slate, go to a new map.
+
+122
+00:10:20,386 --> 00:10:24,803
+Speaker 0: Now you're playing match two, like that's how a match of Overwatch works in effect.
+
+123
+00:10:25,064 --> 00:10:26,930
+Speaker 1: I mean, Counter Strike, you keep your money, your guns.
+
+124
+00:10:27,632 --> 00:10:27,833
+Speaker 0: Yep.
+
+125
+00:10:28,555 --> 00:10:34,140
+Speaker 0: So, but the thing that stood out was jumping in, not knowing the characters, picking a random one and just playing.
+
+126
+00:10:35,682 --> 00:10:39,959
+Speaker 0: I don't think I died for my first three matches before some kid finally killed me.
+
+127
+00:10:40,721 --> 00:10:46,162
+Speaker 0: It's real easy to click on heads because there's like no scatter, like everything's kind of just hit scan-y.
+
+128
+00:10:46,664 --> 00:10:57,407
+Speaker 0: The game feels, at least at this time, to me playing with the standard matchmaking extremely easy.
+
+129
+00:10:57,427 --> 00:10:58,489
+Speaker 0: And we'll see where that goes.
+
+130
+00:10:58,650 --> 00:11:12,712
+Speaker 0: I suspect due to just the random kind of broad nature of all the powers the characters have, I expect this game is in fact more random and does have a lower skill cap than games like Overwatch.
+
+131
+00:11:13,093 --> 00:11:14,538
+Speaker 0: And again, I'm not saying that's bad.
+
+132
+00:11:14,679 --> 00:11:16,445
+Speaker 0: It's just different from a game like that.
+
+133
+00:11:17,327 --> 00:11:29,044
+Speaker 0: I suspect the competitive scene is going to end up being more Fortnite and less like the more seriously competitive games that are more skill-based and less random.
+
+134
+00:11:29,887 --> 00:11:31,012
+Speaker 0: And otherwise, I don't know.
+
+135
+00:11:31,113 --> 00:11:41,393
+Speaker 0: I'm going to play it more, get a feel of it, but I'm going to give it the old college try to try to give it a deep review about a month from now and try to do a serious comparison of it to other FPSs.
+
+136
+00:11:41,413 --> 00:11:44,982
+Speaker 1: Do they, I know it's on PC, Steam.
+
+137
+00:11:45,042 --> 00:11:45,745
+Speaker 1: It's just on Steam.
+
+138
+00:11:45,786 --> 00:11:46,629
+Speaker 0: I just right-clicked.
+
+139
+00:11:46,770 --> 00:11:48,538
+Speaker 1: It's also on the PS5 and Xbox.
+
+140
+00:11:48,558 --> 00:11:50,164
+Speaker 1: Do they let there be cross-play or no?
+
+141
+00:11:50,586 --> 00:11:51,871
+Speaker 0: I don't know, actually.
+
+142
+00:11:52,553 --> 00:11:53,517
+Speaker 0: Didn't ask me anything.
+
+143
+00:11:53,597 --> 00:11:55,323
+Speaker 0: I could have set up a controller, but I didn't.
+
+144
+00:11:55,845 --> 00:12:02,492
+Speaker 0: I just, I literally opened the game, remapped my keys to my weirdo setup that you know and know about and we've talked about.
+
+145
+00:12:02,814 --> 00:12:04,622
+Speaker 0: I inverted my mouse and I just clicked play.
+
+146
+00:12:06,528 --> 00:12:09,578
+Speaker 0: I don't know what the menus do, which I'll have to click on at some point.
+
+147
+00:12:09,939 --> 00:12:21,233
+Speaker 1: Though, full disclosure, to this day, despite playing Fortnite a lot, there's, it seems like based on the first search result I got that the Xbox and PlayStation could play against each other, but not the...
+
+148
+00:12:21,473 --> 00:12:32,621
+Speaker 0: Okay, that is smart because as Overwatch found, authoritatively, you cannot ever let people with mice play against people with controllers.
+
+149
+00:12:32,902 --> 00:12:37,615
+Speaker 0: It is objectively unfair in any FPS that has any amount of skill input.
+
+150
+00:12:38,077 --> 00:12:46,043
+Speaker 1: Oh wait, it says here, a second search result says in casual modes, console and PC can play together, but in competitive modes, no.
+
+151
+00:12:46,725 --> 00:12:48,892
+Speaker 0: Okay, gotta keep them separated.
+
+152
+00:12:48,932 --> 00:12:52,263
+Speaker 1: Take your PC into casual and just hose everybody out.
+
+153
+00:12:53,226 --> 00:12:56,157
+Speaker 1: Or they're gonna have auto-aim and you won't, which is not fair, really.
+
+154
+00:12:56,218 --> 00:12:57,021
+Speaker 0: No, that wouldn't matter.
+
+155
+00:12:57,644 --> 00:13:03,303
+Speaker 0: I've played cross-play Overwatch, which you can do in certain situations and the controller people get auto-aim.
+
+156
+00:13:03,323 --> 00:13:10,450
+Speaker 0: The auto-aim on a controller ain't got shit on a mouse unless you make that auto-aim just like a complete bot.
+
+157
+00:13:13,671 --> 00:13:14,252
+Speaker 0: So yeah, we'll see.
+
+158
+00:13:14,493 --> 00:13:20,690
+Speaker 0: It's uh, it was moderately fun, but it doesn't feel even remotely balanced.
+
+159
+00:13:21,490 --> 00:13:27,718
+Speaker 1: The only thing I'm going to say is I'm still waiting for the superhero game where the characters have their canon power level.
+
+160
+00:13:27,798 --> 00:13:28,741
+Speaker 0: I call Galactus.
+
+161
+00:13:29,784 --> 00:13:30,627
+Speaker 1: Exactly, that's like.
+
+162
+00:13:30,687 --> 00:13:33,981
+Speaker 1: why, that, people think that game wouldn't be fun and they're wrong.
+
+163
+00:13:34,001 --> 00:13:37,276
+Speaker 0: Oh, we came up with that the other night, we came up with the way that works.
+
+164
+00:13:37,537 --> 00:13:46,574
+Speaker 0: If you pick Galactus, your team just plays down a player the whole round and if the other team doesn't beat you by a certain point, then the game is like, all right Galactus,
+
+165
+00:13:46,915 --> 00:13:55,193
+Speaker 1: but that's exactly, there's a one punch man fighting game that works exactly the way you just described where one punch man, you know, you have to play with like the bicycle dude or whatever I think.
+
+166
+00:13:55,534 --> 00:14:02,252
+Speaker 0: Professor X is just click mouse one to win unless someone has Juggernaut on their team.
+
+167
+00:14:03,194 --> 00:14:12,078
+Speaker 1: I'm just saying it's like it should, you know, it'd be fun if there was a mech warrior where you pick a tonnage.
+
+168
+00:14:12,942 --> 00:14:14,990
+Speaker 0: If you pick Galactus, it's only Galactus, I guess.
+
+169
+00:14:15,490 --> 00:14:37,333
+Speaker 0: He'd still win, but yeah, so the other funny thing is while we were playing Overwatch with our friend, other Scott Overwatch, I was playing Marvel Overwatch, Marvel Arrivals with our other Scott friend the other night and he was trying to convince me that my idea of why don't we just run a bunch of tanks, because the game has no limits, you could play all tanks if you want, like why do the goat?
+
+170
+00:14:37,715 --> 00:14:38,840
+Speaker 0: Three tanks, three supports.
+
+171
+00:14:39,241 --> 00:14:43,900
+Speaker 0: and he tried to convince me that that clearly doesn't work and like you'll just get jumped by a dps.
+
+172
+00:14:44,442 --> 00:14:51,470
+Speaker 1: and I've always wondered the same thing like, hey, you know tanks that are being constantly healed, it's like number in any game has numbers, right?
+
+173
+00:14:52,210 --> 00:14:54,257
+Speaker 1: No, you know, numbers beat skills.
+
+174
+00:14:54,739 --> 00:14:58,410
+Speaker 1: It's like, yeah, you might be really skilled at doing headshots, right?
+
+175
+00:14:58,893 --> 00:15:06,064
+Speaker 1: But if my number is big enough that a headshot doesn't kill me, you, it doesn't, your skills are canceled out, right?
+
+176
+00:15:06,145 --> 00:15:12,607
+Speaker 1: It's like that, you know, that's why skill based games usually have less numbers in them, right?
+
+177
+00:15:12,627 --> 00:15:16,785
+Speaker 1: Then, you know, like an RPG, which has all numbers and isn't skill based at all.
+
+178
+00:15:16,805 --> 00:15:17,970
+Speaker 1: It's completely grinding based.
+
+179
+00:15:18,491 --> 00:15:21,462
+Speaker 1: So these games have numbers in them.
+
+180
+00:15:21,502 --> 00:15:25,075
+Speaker 1: Some characters have more HP, some have less, some do more damage, some do less.
+
+181
+00:15:25,175 --> 00:15:29,411
+Speaker 1: And it's like, yeah, tanks have this huge HP and you can heal them.
+
+182
+00:15:29,993 --> 00:15:32,461
+Speaker 1: That's beats any skills that anyone has.
+
+183
+00:15:32,561 --> 00:15:33,685
+Speaker 1: Why wouldn't you choose that?
+
+184
+00:15:33,886 --> 00:15:49,780
+Speaker 0: So already there's an article on games radar, even though this game just came out where, so in overwatch, you know, the same game, that meta emerged in the second professional season of overwatch ever way back in like 2019, they called it the goats meta.
+
+185
+00:15:50,301 --> 00:15:55,239
+Speaker 0: And the meta was three tanks, three supports, and just fucking stand there on point.
+
+186
+00:15:55,701 --> 00:16:12,650
+Speaker 0: And in that competitive season, I want to say every single professional team played the same meta and the game just became two teams of three tanks each standing on point until like damage per second overcame one of them eventually.
+
+187
+00:16:13,150 --> 00:16:24,678
+Speaker 0: And it was boring to watch, like the skills that were being tested were not the ones anyone wanted to see to the point that overwatch changed the rules specifically to prevent that from ever happening again, just to make the game more fun.
+
+188
+00:16:26,443 --> 00:16:28,609
+Speaker 0: So yeah, right now that is the meta.
+
+189
+00:16:28,650 --> 00:16:35,292
+Speaker 0: So if you're playing overwatch marvel, just convince your team three tanks, three supports, and don't worry about skill.
+
+190
+00:16:35,312 --> 00:16:36,055
+Speaker 0: Just stand on the point.
+
+191
+00:16:36,075 --> 00:16:37,098
+Speaker 0: You're guaranteed to win.
+
+192
+00:16:38,583 --> 00:16:38,824
+Speaker 1: Maybe.
+
+193
+00:16:39,947 --> 00:16:40,730
+Speaker 0: So you got some news.
+
+194
+00:16:42,350 --> 00:16:42,611
+Speaker 1: Yeah.
+
+195
+00:16:42,671 --> 00:16:44,157
+Speaker 1: So Fortnite's right.
+
+196
+00:16:44,197 --> 00:16:51,748
+Speaker 1: The, not that, you know, Roblox I guess is bigger than Fortnite's, the still incredibly hot, popular mega game Fortnite, which I still play.
+
+197
+00:16:51,769 --> 00:16:52,090
+Speaker 0: It's a good game.
+
+198
+00:16:52,510 --> 00:16:52,891
+Speaker 1: Yeah.
+
+199
+00:16:52,911 --> 00:17:04,222
+Speaker 1: The FTC went after them and the FTC was like, Hey, you use the dark patterns epic to trick the children into giving you money by accident.
+
+200
+00:17:04,623 --> 00:17:06,328
+Speaker 1: You got to pay them all back.
+
+201
+00:17:06,648 --> 00:17:06,950
+Speaker 1: Right.
+
+202
+00:17:08,692 --> 00:17:14,109
+Speaker 1: And so, you know, these dark patterns are like all over the web, all over plenty of applications.
+
+203
+00:17:14,491 --> 00:17:14,752
+Speaker 1: Right.
+
+204
+00:17:14,792 --> 00:17:26,997
+Speaker 1: It's basically, you know, you're trying to, it's like, you know, the simplest dark pattern is like the, the check box to like, you know, unsubscribe is like pre checked and you can't tell if checking it or unchecking.
+
+205
+00:17:27,037 --> 00:17:30,029
+Speaker 1: it means unsubscribe or resubscribe or what, right.
+
+206
+00:17:30,671 --> 00:17:32,918
+Speaker 1: Or like you auto subscribe, but you didn't want to.
+
+207
+00:17:32,939 --> 00:17:38,840
+Speaker 1: Whereas, you know, a non dark user interface is one where it's like, this is what I want to do.
+
+208
+00:17:38,980 --> 00:17:41,691
+Speaker 1: And it's easy and absolutely clear as to what you're doing.
+
+209
+00:17:41,731 --> 00:17:52,759
+Speaker 1: So Fortnite, you know, went too far in the past and, uh, forced, you know, tricked children's into accidentally paying more monies.
+
+210
+00:17:53,801 --> 00:17:57,391
+Speaker 1: And so, uh, they got busted and which is good.
+
+211
+00:17:57,792 --> 00:17:59,417
+Speaker 1: And now they, they lost.
+
+212
+00:17:59,457 --> 00:18:03,912
+Speaker 1: this case was old, but the point is, is that the case they're now paying out.
+
+213
+00:18:04,052 --> 00:18:06,299
+Speaker 0: So they're paying out $72 million.
+
+214
+00:18:07,584 --> 00:18:07,784
+Speaker 1: Yeah.
+
+215
+00:18:07,824 --> 00:18:10,092
+Speaker 1: That tells you why do people do the dark patterns?
+
+216
+00:18:10,233 --> 00:18:13,770
+Speaker 1: Because you make a fuck ton of money when you trick people into giving you more money.
+
+217
+00:18:14,912 --> 00:18:15,273
+Speaker 0: Yeah.
+
+218
+00:18:15,313 --> 00:18:20,613
+Speaker 0: It adds up a lot because a lot of times when there's a something like this, like, yeah, we won.
+
+219
+00:18:20,714 --> 00:18:23,607
+Speaker 0: And then the people who are actually burned by it get like a dollar back.
+
+220
+00:18:23,909 --> 00:18:26,796
+Speaker 0: No, the average payout per player impacted is $114.
+
+221
+00:18:26,796 --> 00:18:27,137
+Speaker 0: Yeah.
+
+222
+00:18:27,157 --> 00:18:43,029
+Speaker 1: So if you were impacted and you got tricked into paying more Fortnite monies than you wanted at some point in the past, you can go still and file a claim and get your monies back and maybe more monies or whatever damages.
+
+223
+00:18:43,049 --> 00:18:43,933
+Speaker 1: I don't know how it works.
+
+224
+00:18:43,953 --> 00:18:49,237
+Speaker 0: It didn't work on me because I, despite playing Fortnite a ton and Overwatch a ton, they haven't gotten any of my money.
+
+225
+00:18:49,257 --> 00:18:52,472
+Speaker 1: I can't do it because I've never even installed or played Fortnite.
+
+226
+00:18:52,512 --> 00:19:02,665
+Speaker 1: But if you have and you paid money, uh, you may be depending, you read the text of the, of the thing, you might be eligible to receive monies back from Epic.
+
+227
+00:19:03,187 --> 00:19:06,740
+Speaker 1: Don't use that money to buy more shit in Fortnite, even though the dark patterns.
+
+228
+00:19:06,900 --> 00:19:10,714
+Speaker 0: I feel like that is what almost all of that money is going to be used for.
+
+229
+00:19:11,758 --> 00:19:14,186
+Speaker 0: Company script at the company store.
+
+230
+00:19:14,246 --> 00:19:19,706
+Speaker 0: That's turning right into, if it doesn't turn into Fortnite whatevers, it's definitely turning into Robux.
+
+231
+00:19:20,489 --> 00:19:20,810
+Speaker 1: One of the two.
+
+232
+00:19:21,110 --> 00:19:22,817
+Speaker 1: Don't give them their money back.
+
+233
+00:19:22,857 --> 00:19:23,218
+Speaker 1: Trust me.
+
+234
+00:19:24,001 --> 00:19:24,885
+Speaker 1: Go buy some food.
+
+235
+00:19:25,106 --> 00:19:34,038
+Speaker 0: If you want to see this dark pattern, cause Fortnite's free and it is a really fun game, but imagine, cause you're a Geek Nights listener, the menu to an FPS.
+
+236
+00:19:34,540 --> 00:19:41,703
+Speaker 0: There shouldn't be that much in the menu other than, like, trying to play the game, configure the game, maybe pick your skins.
+
+237
+00:19:42,345 --> 00:19:53,917
+Speaker 0: But the menu in Fortnite is so expansive that I have no fucking idea what most of those things do and I studiously avoid clicking on almost everything in the user interface of Fortnite.
+
+238
+00:19:54,418 --> 00:20:07,932
+Speaker 0: And, uh, insane menus that would not exist if it weren't for the fact that it tricks people into spending money.
+
+239
+00:20:11,579 --> 00:20:15,045
+Speaker 0: But anyway, things of the day.
+
+240
+00:20:15,065 --> 00:20:16,828
+Speaker 0: So, it's a really short video.
+
+241
+00:20:17,108 --> 00:20:18,130
+Speaker 0: It's a minute, five seconds.
+
+242
+00:20:18,310 --> 00:20:19,796
+Speaker 0: I put this on Tuesday for a reason.
+
+243
+00:20:20,318 --> 00:20:35,696
+Speaker 0: You know when you watch a speedrun of a video game and, like, especially in AGDQ where there's like a crowd and then, like, a trick happens, or like something happens in the game and a small number of people in the crowd react to it very strongly and no one else reacts to it.
+
+244
+00:20:36,078 --> 00:20:45,151
+Speaker 0: Because the people who are experts at that game and at speedrunning recognize, like, "Oh, he just did three frame perfect whatevers in a row, like, holy
+
+245
+00:20:45,171 --> 00:20:45,432
+Speaker 0: shit!".
+
+246
+00:20:45,814 --> 00:20:49,690
+Speaker 0: And a normal person just sees, "Wow, Mario went higher than I thought he should have
+
+247
+00:20:49,690 --> 00:20:49,991
+Speaker 0: gone.".
+
+248
+00:20:50,011 --> 00:20:50,753
+Speaker 0: Like, that kind of thing.
+
+249
+00:20:51,775 --> 00:20:57,910
+Speaker 0: This video is that for a trumpet solo in a jazz band.
+
+250
+00:20:58,532 --> 00:21:00,157
+Speaker 0: This is just a trumpet solo.
+
+251
+00:21:00,559 --> 00:21:07,285
+Speaker 0: It's not, like, by the standards of music, like, normal person listening to music, I'd argue it's not even that good of a trumpet solo.
+
+252
+00:21:07,827 --> 00:21:12,359
+Speaker 0: No, it's just, like, a lot of squealing, a lot of fart noises.
+
+253
+00:21:12,399 --> 00:21:13,061
+Speaker 0: But I'll say this.
+
+254
+00:21:13,241 --> 00:21:22,508
+Speaker 0: If you are a trumpet player who knows how trumpets work and know about embouchure, then this video is fucking amazing.
+
+255
+00:21:22,929 --> 00:21:32,782
+Speaker 0: So, if you're a trumpet player who doesn't understand speedruns, watch this and you will understand what it's like to watch a speedrunner if you're also a speedrunner.
+
+256
+00:21:32,802 --> 00:21:40,750
+Speaker 0: And if you are a speedrunner, this is what it feels like when most people watch your speedruns.
+
+257
+00:21:43,211 --> 00:21:45,598
+Speaker 0: So, what do you got?
+
+258
+00:21:45,719 --> 00:21:53,587
+Speaker 1: So, I feel like something similar to this may have been a thing of the day in the past, but I can't remember or recall or find it.
+
+259
+00:21:53,648 --> 00:22:04,058
+Speaker 1: But basically, between the years of 2009 and 2012, if you had an iPhone, so this would be like an iPhone 4, 5, 6, maybe, I think, maybe not even 6, I'm not sure.
+
+260
+00:22:04,078 --> 00:22:05,622
+Speaker 1: It feels like, I don't know.
+
+261
+00:22:06,143 --> 00:22:18,238
+Speaker 1: Regardless, if you had one of those early iPhones, then in the Photos app, there was a button that was "Send to YouTube" before you had the current share sheet functionality.
+
+262
+00:22:19,541 --> 00:22:28,905
+Speaker 1: And so, the people pushed that button and sent their videos with their crappy iPhones to YouTube.
+
+263
+00:22:29,667 --> 00:22:37,131
+Speaker 1: And unless you went through the extra effort to rename the videos, they ended up on YouTube with a title of "IMG_4 Digits".
+
+264
+00:22:37,954 --> 00:22:57,390
+Speaker 1: And so, if you go on YouTube and you look for videos with the title of "IMG_4 Digits", it's very, very likely, almost 100% certain, not quite, that somebody took that video with an iPhone between the years of 2009 and 2012 and pushed the "Send to YouTube" button and that was the end of it.
+
+265
+00:22:57,812 --> 00:23:00,380
+Speaker 0: I would wager a percentage of them don't know?
+
+266
+00:23:00,400 --> 00:23:01,263
+Speaker 0: they pushed that button.
+
+267
+00:23:02,226 --> 00:23:03,109
+Speaker 1: Quite a few, yes.
+
+268
+00:23:03,189 --> 00:23:09,362
+Speaker 1: So, this website, this person collected, you know, 5 million of those.
+
+269
+00:23:10,104 --> 00:23:27,721
+Speaker 1: Yes, they crawled YouTube and they collected these videos and they made a website that will randomly show you these videos and you just keep clicking "Next, next, next" and you go through them and you see the world through the eyes of a 2009 through 2012 iPhone.
+
+270
+00:23:27,862 --> 00:23:37,552
+Speaker 0: You know, having clicked through a bunch of these before we did the show, the world felt pretty different in 2009 through 2012 than it does right now.
+
+271
+00:23:38,395 --> 00:23:40,682
+Speaker 1: I'm just saying, you see a lot of, you know, stuff.
+
+272
+00:23:41,424 --> 00:23:44,254
+Speaker 0: Definitely a lot of stuff is how I'd characterize what I saw.
+
+273
+00:23:44,274 --> 00:23:46,322
+Speaker 1: There's a lot of stuff to see there.
+
+274
+00:23:46,342 --> 00:23:52,845
+Speaker 0: In the meta moment, we were live at PAX Unplugged and we'll have a video of our panel up, hopefully really soon.
+
+275
+00:23:54,169 --> 00:23:58,384
+Speaker 0: We're going to be at PAX East, we're going to be at MAGFest doing a bunch of panels.
+
+276
+00:23:59,287 --> 00:24:01,374
+Speaker 0: Stay tuned for all our big night's biz that's coming up.
+
+277
+00:24:02,216 --> 00:24:08,640
+Speaker 0: Join our forum, join our Discord, trying to use social media more again and talk to people more again on the internet.
+
+278
+00:24:09,423 --> 00:24:25,176
+Speaker 0: I do interact with the stream on occasion and otherwise I think we should dive right in because today, now that PAX Unplugged 2024 has happened, I think it is worthwhile to talk about it from the perspective of, as a convention, how did it go?
+
+279
+00:24:25,537 --> 00:24:31,330
+Speaker 0: Partly because PAX Unplugged is a newer PAX and there aren't a lot of...
+
+280
+00:24:31,350 --> 00:24:32,753
+Speaker 1: The newest, newest PAX.
+
+281
+00:24:32,774 --> 00:24:33,856
+Speaker 0: It is the newest PAX.
+
+282
+00:24:34,658 --> 00:24:42,240
+Speaker 0: But also, generally, PAX's tabletop is a huge component of Penny Arcade Expos, but...
+
+283
+00:24:42,541 --> 00:24:42,923
+Speaker 1: All of them.
+
+284
+00:24:43,023 --> 00:24:57,833
+Speaker 0: Yeah, a huge component, but the other aspects tend to overshadow for obvious reasons, but tabletop is there because there is what I characterize as extreme demand for tabletop gaming that is not talked about a lot outside of certain circles.
+
+285
+00:24:58,777 --> 00:25:05,219
+Speaker 1: Well, not only is there demand for it, but I think that the state of the industry, the tabletop industry is still bumping, right?
+
+286
+00:25:05,259 --> 00:25:07,407
+Speaker 1: There's a lot of people in on that still.
+
+287
+00:25:07,427 --> 00:25:13,705
+Speaker 1: And the video game industry is not doing so hot right now, relatively speaking.
+
+288
+00:25:13,906 --> 00:25:35,118
+Speaker 1: Likewise, when you just think about conventions, a convention for tabletop gaming has a purpose of bringing... You need people to play tabletop games, so there is a desire... People who want to play tabletop games and don't have enough to play or don't have enough people to play or don't play often enough, a convention is a very useful event.
+
+289
+00:25:35,480 --> 00:25:37,930
+Speaker 1: Video game people do not need to go to a convention.
+
+290
+00:25:38,270 --> 00:25:41,884
+Speaker 1: They have video game at home and they can play it at any time they want.
+
+291
+00:25:42,225 --> 00:25:56,935
+Speaker 1: and a convention is less useful to them unless that convention has something extra to offer that video game at home doesn't have, whereas even if you own tabletop game at home, you don't have people to play with at home necessarily.
+
+292
+00:25:57,316 --> 00:26:10,992
+Speaker 1: And lastly, the location of PAX Unplugged, even though we do not like the city of Philadelphia and especially its sports fans, is even more reachable than Boston is.
+
+293
+00:26:11,734 --> 00:26:21,729
+Speaker 1: And also the convention center is right downtown as opposed to the Boston where the convention center is sort of... It's in the city, but it's sort of... It's like...
+
+294
+00:26:22,552 --> 00:26:28,755
+Speaker 0: I got on a subway that took me to a train that took me to another subway that took me directly to PAX Unplugged from my house.
+
+295
+00:26:29,457 --> 00:26:30,639
+Speaker 1: Yeah.
+
+296
+00:26:31,501 --> 00:26:44,164
+Speaker 1: And so, I mean, you can take the train, the T to east, but like that silver line or whatever, but it's still... It's a slightly out of the way as opposed to like the Heinz, which is like right there in the middle of the biz.
+
+297
+00:26:44,224 --> 00:26:51,890
+Speaker 0: But also like to really highlight how much demand there is, note how most anime cons have a tabletop gaming room somewhere.
+
+298
+00:26:52,350 --> 00:26:57,250
+Speaker 0: Like all the everything cons like Kineticon and Zenkai Con, like they all have a tabletop room.
+
+299
+00:26:57,670 --> 00:27:03,490
+Speaker 0: Almost every kind of nerd con tabletop gaming appears there, whether the con supports it or not.
+
+300
+00:27:04,011 --> 00:27:13,376
+Speaker 0: But also most tabletop gaming cons I will broadly and possibly uncharitably characterize are of the Gen Con style.
+
+301
+00:27:14,158 --> 00:27:17,769
+Speaker 0: PAX Unplugged is unique in the... And Magfest is special.
+
+302
+00:27:17,829 --> 00:27:19,033
+Speaker 0: Magfest is like this whole other thing.
+
+303
+00:27:19,294 --> 00:27:23,912
+Speaker 0: But of course, Magfest has a huge... Now, Magfest has a building dedicated to tabletop.
+
+304
+00:27:24,614 --> 00:27:26,600
+Speaker 1: It's not a large building, but it is a building.
+
+305
+00:27:26,640 --> 00:27:27,162
+Speaker 0: It is a building.
+
+306
+00:27:27,844 --> 00:27:39,874
+Speaker 0: But PAX Unplugged is basically the inverse of the Gen Con style of a tabletop con in that it runs via the philosophy of a Penny Arcade Expo.
+
+307
+00:27:40,315 --> 00:27:43,183
+Speaker 0: It just happens to focus exclusively on tabletop.
+
+308
+00:27:43,664 --> 00:27:48,119
+Speaker 0: So things like you don't need to buy individual tickets for all the events.
+
+309
+00:27:48,199 --> 00:27:49,685
+Speaker 0: Your badge covers everything.
+
+310
+00:27:50,127 --> 00:27:56,253
+Speaker 0: Not everything is pre-scheduled months in advance where you know exactly what game you're playing at what time with what game master.
+
+311
+00:27:57,215 --> 00:28:00,705
+Speaker 0: PAX Unplugged is more like an open, collaborative experience.
+
+312
+00:28:01,147 --> 00:28:06,388
+Speaker 0: And I personally think that is a better kind of experience, though there are merits of the other kind.
+
+313
+00:28:06,468 --> 00:28:07,794
+Speaker 0: I don't want to go too deep into that thing.
+
+314
+00:28:08,256 --> 00:28:26,837
+Speaker 0: But it is noteworthy that this one is so unlike the other ones, to the point that, while I was enforcing, the number of people who asked me what ticket they needed to get into the main theater to see Acquisitions Incorporated or Jonathan Colton at this con were as in the dozens.
+
+315
+00:28:27,820 --> 00:28:34,282
+Speaker 0: Dozens of people did not understand until I explained it to them that they could just get in line and see these things.
+
+316
+00:28:34,543 --> 00:28:36,572
+Speaker 0: They did not need to do anything special to get in.
+
+317
+00:28:36,933 --> 00:28:40,124
+Speaker 0: So Pernicious is the poison of the Gen Con philosophy.
+
+318
+00:28:40,786 --> 00:28:44,078
+Speaker 1: Well, I don't think that philosophy is necessarily Pernicious.
+
+319
+00:28:44,118 --> 00:28:50,884
+Speaker 1: I just think that there's obviously a lot of crossover people who used to that kind of con who may not have been to Unplugged specifically before.
+
+320
+00:28:50,904 --> 00:28:56,865
+Speaker 1: But they're tabletop con goers, and so they may be, you know, used to that.
+
+321
+00:28:57,086 --> 00:29:19,332
+Speaker 0: Now, the last reason I think we should talk about this PAX Unplugged is that the previous PAX Unplugged, which was, I would say, the first full-on PAX since the pandemic wound down, like the first one that was past that threshold and was full, that PAX Unplugged, the previous one, was overcrowded, was difficult to navigate.
+
+322
+00:29:19,512 --> 00:29:26,700
+Speaker 0: Like, it was bursting at the seams, and it made the experience actually not that great compared to previous Unplugs and other PAXs.
+
+323
+00:29:27,182 --> 00:29:36,229
+Speaker 1: Right, well, the people were there, but I think, you know, the industry and the con itself were not prepared to accommodate that, right?
+
+324
+00:29:36,309 --> 00:29:36,791
+Speaker 1: It was like, "Oh,
+
+325
+00:29:36,811 --> 00:29:37,052
+Speaker 1: shit!"
+
+326
+00:29:37,192 --> 00:29:37,373
+Speaker 1: Right?
+
+327
+00:29:37,433 --> 00:29:58,844
+Speaker 1: It's like the people had been up to speed on doing the PAX Unplugged again, more so than the PAX Unplugged was ready to go all out again, whereas now the PAX Unplugged ramped up itself to be the biggest, do the most stuff of any PAX Unplugged, using all kinds of rooms, you know, having more different stuff that it never had before, right?
+
+328
+00:29:59,406 --> 00:30:02,235
+Speaker 1: Actually being like, "Okay, this is gonna sell out.
+
+329
+00:30:02,616 --> 00:30:06,027
+Speaker 1: Let's make sure we can do sell-out-worthy
+
+330
+00:30:06,127 --> 00:30:06,529
+Speaker 1: things.".
+
+331
+00:30:07,291 --> 00:30:22,944
+Speaker 0: And I was a little worried coming into it in that selling out to this degree and the demand and the crowd that I expected, I was worried it was gonna be trouble, and I think part of why I want to talk about it is actually this went fantastically.
+
+332
+00:30:23,065 --> 00:30:31,493
+Speaker 0: Like, the con grew into this crowd very well, and it was a fantastic PAX, and I think PAX Unplugged is just gonna be on an upward trajectory.
+
+333
+00:30:32,256 --> 00:30:41,268
+Speaker 1: Yeah, I mean, I think part of the problem is, you know, if they can outgrow, they're at the limits of this building, they gotta go into the hotels nearby, I guess.
+
+334
+00:30:41,288 --> 00:30:41,770
+Speaker 1: I don't know.
+
+335
+00:30:42,031 --> 00:30:44,950
+Speaker 0: Well, the trouble is, they're hitting the problem that every convention runs into.
+
+336
+00:30:45,430 --> 00:30:53,813
+Speaker 0: There are very few convention center facilities in the United States that accommodate this kind of nerd con.
+
+337
+00:30:54,033 --> 00:31:05,481
+Speaker 1: Yeah, you can move somewhere else, but then you lose the experience you've built in this building, the relationships you've made in this building, and you lose the population density, you know, radius that you have in Philly.
+
+338
+00:31:05,581 --> 00:31:05,883
+Speaker 1: Because
+
+339
+00:31:05,963 --> 00:31:20,538
+Speaker 0: PAX South was very tabletop focused, but PAX South, one, was in a fascist state, which, you know, not safe to go to, and two, PAX South, the only people who could afford to go to it were rich people like us, who go to all the PAXes, or people who live near it.
+
+340
+00:31:20,919 --> 00:31:32,492
+Speaker 0: But PAX Unplugged is the most diverse PAX by a wide margin, because it is economically financially accessible to a ridiculous number of people.
+
+341
+00:31:32,512 --> 00:31:39,177
+Speaker 1: Yeah, so moving it kind of will, you know, make it less crowded, so you go to a bigger building that less people can get to.
+
+342
+00:31:39,258 --> 00:31:46,708
+Speaker 1: It's like, you know, I think their only option is just add hotels to increase the space once the convention center is full, which it kind of is.
+
+343
+00:31:46,728 --> 00:31:55,450
+Speaker 0: Yeah, because the only other place, like even Baltimore, would be the only place I could think of that would have similar reach, but even that is not even close to the reach of being in Philly.
+
+344
+00:31:56,552 --> 00:32:07,850
+Speaker 1: No, but there are hotels, you know, I guess the Marriott would be the first one, because it's physically attached, that have ballrooms that they can use to add more space to the con.
+
+345
+00:32:08,170 --> 00:32:14,047
+Speaker 0: But the hard problem is, Philadelphia does not really have enough hotels.
+
+346
+00:32:14,107 --> 00:32:28,497
+Speaker 0: People were staying really far away from the convention center and outside of the hotel blocks, because there just isn't enough density of hotels right by the convention center, and there also is not enough density of food and places to eat.
+
+347
+00:32:29,039 --> 00:32:48,626
+Speaker 0: Again, I was enforcing main theater, and this is not Pax's opinion, this is my opinion as an attendee, like just, we don't know anything special, but one of the most common question I got standing outside the main theater Friday night and Saturday night was, "Oh my god, we're desperate to eat dinner before we go into the main theater.
+
+348
+00:32:49,108 --> 00:32:50,011
+Speaker 0: Where can we eat?
+
+349
+00:32:50,151 --> 00:32:50,954
+Speaker 0: Everything's full or
+
+350
+00:32:50,994 --> 00:32:51,396
+Speaker 0: closed.".
+
+351
+00:32:52,258 --> 00:32:55,870
+Speaker 1: That's right, because basically there are a lot of places to go.
+
+352
+00:32:55,890 --> 00:33:01,593
+Speaker 1: There's a whole Chinatown street that's on the back of the convention center that has plenty of places to go.
+
+353
+00:33:01,613 --> 00:33:08,901
+Speaker 1: If you walk just a few blocks past the town hall where we went, there's a whole street full of restaurants of many different qualities.
+
+354
+00:33:08,921 --> 00:33:15,740
+Speaker 1: And you've got your whole Reading Terminal Market there, which is full of amazing places to eat.
+
+355
+00:33:16,182 --> 00:33:31,415
+Speaker 1: The problem is that the capacity of these places is not only limited to the Pax attendees, but it's, I don't know why, that on five o'clock- Reading Terminal Market was more crowded than the convention around lunchtime on Saturday.
+
+356
+00:33:32,178 --> 00:33:37,015
+Speaker 1: Right, it's like at five o'clock these restaurants are filling up with locals and shit.
+
+357
+00:33:37,055 --> 00:33:38,945
+Speaker 1: It's like, "Whoa, why are you people eating so early?
+
+358
+00:33:38,965 --> 00:33:39,749
+Speaker 1: What the hell is going
+
+359
+00:33:39,810 --> 00:33:39,850
+Speaker 1: on?".
+
+360
+00:33:39,890 --> 00:33:42,280
+Speaker 1: I'm used to New York where people are eating at seven, eight, nine.
+
+361
+00:33:43,184 --> 00:33:51,678
+Speaker 1: So it's like you're trying to eat, your enforcer shift is going to start at six thirty or your concert is going to start six seven for the night events.
+
+362
+00:33:52,059 --> 00:33:54,870
+Speaker 1: You want to eat at four or five, which is normally early.
+
+363
+00:33:55,372 --> 00:33:58,884
+Speaker 1: And anywhere you go that's close is jam-packed of attendees.
+
+364
+00:33:58,945 --> 00:34:04,843
+Speaker 1: And anywhere that you go that's far is a little farther is full of residents.
+
+365
+00:34:05,164 --> 00:34:08,255
+Speaker 1: And anything further away is too far away, but you won't make it back.
+
+366
+00:34:08,597 --> 00:34:18,630
+Speaker 0: And for various reasons in Philly, uh, there are like, so again- You gotta eat the chicken fingers and pretzel in the convention center?
+
+367
+00:34:18,650 --> 00:34:21,870
+Speaker 0: I did eat the convention center pretzel on two non-consecutive occasions this year.
+
+368
+00:34:22,290 --> 00:34:22,411
+Speaker 1: Two?
+
+369
+00:34:22,571 --> 00:34:23,373
+Speaker 1: I only ate one pretzel.
+
+370
+00:34:24,177 --> 00:34:27,630
+Speaker 0: I paid the extra two dollars to get the pile of mustard to go on it.
+
+371
+00:34:27,870 --> 00:34:28,391
+Speaker 1: I did not.
+
+372
+00:34:28,452 --> 00:34:29,134
+Speaker 1: I just ate a pretzel.
+
+373
+00:34:29,775 --> 00:34:42,136
+Speaker 0: But I will, shamefully, because we live in a capitalist society, the way Scott and I solve that at other conventions we go to is we eat at the really expensive places because they won't be full.
+
+374
+00:34:43,981 --> 00:34:47,511
+Speaker 0: By fax unplugged, the expensive places are also all full.
+
+375
+00:34:47,772 --> 00:34:48,956
+Speaker 0: Like, money doesn't save you.
+
+376
+00:34:50,201 --> 00:34:59,678
+Speaker 0: And even worse, trying to get reservations, a lot of places in that area, one, will not take a reservation larger than six, which, sure, like, I can understand why they wouldn't.
+
+377
+00:35:00,020 --> 00:35:02,113
+Speaker 1: Well, they're also- all these restaurants are like small.
+
+378
+00:35:02,153 --> 00:35:04,545
+Speaker 1: There's not- there aren't places that are like big ballrooms.
+
+379
+00:35:04,586 --> 00:35:06,696
+Speaker 1: They're all like, you know, small little places.
+
+380
+00:35:06,716 --> 00:35:13,066
+Speaker 0: I got walking home, you know, at the end of the day on Sunday when I stopped to get dinner, and I walked pretty far away from the convention center.
+
+381
+00:35:13,427 --> 00:35:14,833
+Speaker 0: I was halfway to the train station.
+
+382
+00:35:14,853 --> 00:35:15,736
+Speaker 0: I went to a restaurant.
+
+383
+00:35:16,177 --> 00:35:21,375
+Speaker 0: By myself, I walk in and they weren't sure if they could seat one person.
+
+384
+00:35:22,077 --> 00:35:22,539
+Speaker 1: At the bar?
+
+385
+00:35:22,940 --> 00:35:27,596
+Speaker 0: I sat at the bar and ate my full dinner sitting at the bar with no empty seats around me.
+
+386
+00:35:27,616 --> 00:35:28,699
+Speaker 0: I've done that.
+
+387
+00:35:28,940 --> 00:35:32,672
+Speaker 0: I would say 100% of the people in this restaurant were from PAX.
+
+388
+00:35:34,779 --> 00:35:35,441
+Speaker 1: I used the trolley.
+
+389
+00:35:35,461 --> 00:35:36,344
+Speaker 1: He just went to the train station.
+
+390
+00:35:36,524 --> 00:35:36,725
+Speaker 0: Yep.
+
+391
+00:35:37,548 --> 00:35:42,368
+Speaker 0: But I did find some restaurants that I think we could get a reservation at next year that are around there.
+
+392
+00:35:42,388 --> 00:35:54,570
+Speaker 0: Anyway, one last observation on the restaurant situation that I- is something I noticed about Philly, which has broader societal implications, but I think it's worth talking about.
+
+393
+00:35:54,992 --> 00:35:56,642
+Speaker 0: Philly is a very poor city in America.
+
+394
+00:35:56,662 --> 00:36:00,259
+Speaker 0: Like, if you're not familiar with the East Coast, Philadelphia is a huge city.
+
+395
+00:36:00,280 --> 00:36:07,510
+Speaker 0: It's one of the biggest cities in North America, but it's also per capita one of the poorest cities in North America for a lot of reasons.
+
+396
+00:36:08,670 --> 00:36:16,300
+Speaker 0: It's very much a working person city, and something I notice at this Unplugged, and I feel like it's happened before, but like I noticed it this time.
+
+397
+00:36:17,044 --> 00:36:25,163
+Speaker 0: When you go to New York or Boston or any other city and you talk to wait staff at restaurants, fancy ones, not so fancy ones, they kind of just talk to you like a normal person would.
+
+398
+00:36:25,686 --> 00:36:32,887
+Speaker 0: But in Philly, almost every restaurant we went to used the restaurant lingo talking to customers.
+
+399
+00:36:33,529 --> 00:36:37,688
+Speaker 0: Like, three different restaurants I went to, which they're like, "Oh hey, what do you need?
+
+400
+00:36:37,728 --> 00:36:38,010
+Speaker 0: A four
+
+401
+00:36:38,090 --> 00:36:38,412
+Speaker 0: top?".
+
+402
+00:36:38,894 --> 00:36:42,550
+Speaker 1: Like, that's not something- I didn't hear- Nobody said anything like that to me.
+
+403
+00:36:42,630 --> 00:36:49,450
+Speaker 0: Oh, Scott, the place we ate at with everybody asked if we needed a four top or a six top.
+
+404
+00:36:49,711 --> 00:36:56,958
+Speaker 0: The same waitress said she couldn't get into Reading Terminal to get breakfast because it was full and asked us what the fuck this convention was.
+
+405
+00:36:57,982 --> 00:37:04,164
+Speaker 0: The diner downstairs also literally said, "We don't serve high tops or one
+
+406
+00:37:04,204 --> 00:37:04,505
+Speaker 0: tops.".
+
+407
+00:37:04,686 --> 00:37:07,074
+Speaker 0: She said that when I walked in, and I said, "No, I just want
+
+408
+00:37:07,094 --> 00:37:07,575
+Speaker 0: takeaway.".
+
+409
+00:37:08,579 --> 00:37:17,790
+Speaker 0: I've just noticed the wait staff use lingo that usually only wait staff use with each other in restaurants, and it's just something I noted.
+
+410
+00:37:17,850 --> 00:37:22,176
+Speaker 0: I'm going to try to pay more attention, see if I hear that lingo more in New York, and I'm just not noticing it.
+
+411
+00:37:22,518 --> 00:37:23,523
+Speaker 0: Maybe it's a Philly thing.
+
+412
+00:37:23,543 --> 00:37:24,247
+Speaker 0: I don't know.
+
+413
+00:37:26,151 --> 00:37:32,290
+Speaker 1: I think it's more like a confirmation bias, like you heard one thing two times, like when you saw a bear and then you saw another bear.
+
+414
+00:37:32,930 --> 00:37:37,393
+Speaker 0: But I've only seen one bear in the wild, so I haven't seen the second bear, despite looking hard.
+
+415
+00:37:38,324 --> 00:37:38,627
+Speaker 1: Sure.
+
+416
+00:37:39,790 --> 00:37:41,054
+Speaker 0: But Paxson plugged itself.
+
+417
+00:37:41,736 --> 00:37:43,842
+Speaker 0: Honestly, so big changes.
+
+418
+00:37:44,103 --> 00:37:47,513
+Speaker 0: One, that there is a bunch of tabletop in the main area.
+
+419
+00:37:48,036 --> 00:37:49,923
+Speaker 0: They finally did the thing that they needed to do.
+
+420
+00:37:50,385 --> 00:37:53,778
+Speaker 0: Tabletop free play was like the majority of the space in the convention center.
+
+421
+00:37:54,581 --> 00:37:58,074
+Speaker 1: Well, I don't know if it was actually more square footage or not.
+
+422
+00:37:58,114 --> 00:38:00,463
+Speaker 1: Maybe it was a little more, but they moved.
+
+423
+00:38:00,884 --> 00:38:08,134
+Speaker 1: They took an upstairs giant ballroom and they put the first look up there and they put some more free play space up there, which is good for two reasons.
+
+424
+00:38:08,495 --> 00:38:12,830
+Speaker 1: Number one, because that was a place that you had to know to go.
+
+425
+00:38:13,513 --> 00:38:17,835
+Speaker 1: They tried to make it obvious with signage, but, you know, I don't believe in signs and signs don't work that well.
+
+426
+00:38:18,277 --> 00:38:25,550
+Speaker 0: Oh, I saw hordes of people looking for tables in the loud, uncomfortable main area, despite the fact that there were plenty of open tables upstairs.
+
+427
+00:38:26,410 --> 00:38:27,112
+Speaker 1: Yeah, exactly.
+
+428
+00:38:27,172 --> 00:38:35,456
+Speaker 1: But that upstairs area was not only had some tables available, depending on the time, but was a carpeted area.
+
+429
+00:38:35,837 --> 00:38:43,162
+Speaker 1: So you could actually not ruin your hearing by being in that area, whereas the main hall is full of concrete and will destroy you.
+
+430
+00:38:43,584 --> 00:38:47,696
+Speaker 0: I honestly cannot game in the main area.
+
+431
+00:38:47,736 --> 00:38:51,289
+Speaker 0: That roar is too much for me and I lose my voice too fast yelling over it.
+
+432
+00:38:52,130 --> 00:38:54,177
+Speaker 1: But they did also.
+
+433
+00:38:54,437 --> 00:38:57,487
+Speaker 1: this made the first look area was spread out more.
+
+434
+00:38:57,547 --> 00:39:01,360
+Speaker 1: Last year it was just a section in the in the main hall.
+
+435
+00:39:01,461 --> 00:39:04,150
+Speaker 1: And so it was cramped and you couldn't get a seat in there.
+
+436
+00:39:04,230 --> 00:39:05,034
+Speaker 1: Now it was spread out.
+
+437
+00:39:05,075 --> 00:39:06,864
+Speaker 1: They had more copies of more games.
+
+438
+00:39:06,904 --> 00:39:11,410
+Speaker 1: You could actually, you know, check some of them out and hear the person teaching you the game, whatever.
+
+439
+00:39:12,691 --> 00:39:22,004
+Speaker 1: But also because they had the upstairs area, they did actually reduce the free, you know, the free play was squished and the expo hall part was expanded.
+
+440
+00:39:22,064 --> 00:39:22,185
+Speaker 1: Right.
+
+441
+00:39:22,265 --> 00:39:32,174
+Speaker 1: It was more exposed space in the big main room that pushed farther, which meant more exhibitors, more smaller exhibitors, more smaller exhibitors.
+
+442
+00:39:32,194 --> 00:39:43,129
+Speaker 0: I was about to call out because there was a good healthy diversity of booths like with a wide range of really, really indie stuff, a lot of which I'd never heard of.
+
+443
+00:39:44,131 --> 00:39:44,292
+Speaker 1: Right.
+
+444
+00:39:44,332 --> 00:39:47,180
+Speaker 1: You had all kinds of like.
+
+445
+00:39:47,341 --> 00:39:49,788
+Speaker 1: every aspect of tabletop stuff was covered.
+
+446
+00:39:49,828 --> 00:39:53,562
+Speaker 1: You had your, you know, your people selling D&D maps and stuff.
+
+447
+00:39:53,823 --> 00:39:55,048
+Speaker 1: You had people selling minis.
+
+448
+00:39:55,088 --> 00:39:57,902
+Speaker 1: You got people selling mini paintings, a lot of painting booths.
+
+449
+00:39:58,083 --> 00:39:59,370
+Speaker 1: There were some good ones, actually.
+
+450
+00:39:59,811 --> 00:40:01,960
+Speaker 1: There was a lot of indie art, not just the usual.
+
+451
+00:40:02,000 --> 00:40:07,159
+Speaker 1: You have one indie RPG booth, no several indie RPG booths going on with different stuff.
+
+452
+00:40:07,199 --> 00:40:07,379
+Speaker 0: Yep.
+
+453
+00:40:07,460 --> 00:40:14,563
+Speaker 0: I didn't buy every crow themed solo RPG in the library, in the expo hall, but I bought, I think the majority of them.
+
+454
+00:40:15,747 --> 00:40:15,948
+Speaker 1: Right.
+
+455
+00:40:15,968 --> 00:40:20,641
+Speaker 1: You had, you know, the big tabletop publishers, your ASMO days were there.
+
+456
+00:40:20,661 --> 00:40:21,183
+Speaker 1: Right.
+
+457
+00:40:21,584 --> 00:40:24,133
+Speaker 1: But also the smaller publishers.
+
+458
+00:40:24,433 --> 00:40:24,714
+Speaker 1: Right.
+
+459
+00:40:25,015 --> 00:40:32,297
+Speaker 1: Little, you know, your Oink games and even smaller publishers than that with one game or two games that they had.
+
+460
+00:40:32,317 --> 00:40:44,241
+Speaker 1: Just basically every aspect of the tabletop industry, almost, you know, except for the lack of the Chessex booth, there were still plenty of people selling dice, just not Chessex.
+
+461
+00:40:44,562 --> 00:40:49,680
+Speaker 1: It's like, if there's a something tabletop that you were interested in, it was there somewhere.
+
+462
+00:40:49,961 --> 00:40:59,677
+Speaker 1: What I found was interesting was the proportions in the expo area were different from the proportions of the content of the con, which some of it is just by necessity.
+
+463
+00:40:59,737 --> 00:40:59,918
+Speaker 1: Right.
+
+464
+00:40:59,958 --> 00:41:10,149
+Speaker 1: It's like, if you, it's like there was so much in indie RPG and RPG stuff in the expo hall, but the con, they got an RPG area, right?
+
+465
+00:41:10,190 --> 00:41:15,812
+Speaker 1: There's plenty of RPG going on, but it's like, it's limited based on the space available, the tables available.
+
+466
+00:41:15,832 --> 00:41:20,788
+Speaker 1: A lot of those games need GMs organizations, several hours of time.
+
+467
+00:41:20,808 --> 00:41:21,350
+Speaker 1: Right.
+
+468
+00:41:21,470 --> 00:41:25,130
+Speaker 1: Which means only so many, even if you have a table and a GM, it's like, well, there you go.
+
+469
+00:41:25,210 --> 00:41:26,475
+Speaker 1: That's four hours.
+
+470
+00:41:26,616 --> 00:41:28,543
+Speaker 1: So how many total games can you get?
+
+471
+00:41:28,644 --> 00:41:33,040
+Speaker 1: If you, if a game is only 20 minutes, you can get a lot more games and a lot more people going through.
+
+472
+00:41:33,060 --> 00:41:47,886
+Speaker 1: the number of people that were able to play an RPG at an official session at Pax Unplugged was much smaller than the number of people who could play, you know, any kind of board game just by the nature of the beast.
+
+473
+00:41:48,849 --> 00:41:55,569
+Speaker 1: But yet clearly, if you look at the expo hall, RPGs are what people were trying to sell the most.
+
+474
+00:41:55,589 --> 00:42:02,596
+Speaker 1: I don't know if those people were buying the most, but it's like, Hey, the, uh, you know, there's, it's hard to match up, right?
+
+475
+00:42:02,657 --> 00:42:04,564
+Speaker 1: I feel like that you're providing on that.
+
+476
+00:42:04,685 --> 00:42:13,527
+Speaker 0: If the con has to expand, I would try to get a lot of space in the hotels for long running RPGs.
+
+477
+00:42:13,908 --> 00:42:16,274
+Speaker 1: I think that's the thing that should move to the hotels.
+
+478
+00:42:16,295 --> 00:42:21,490
+Speaker 1: They should get some mega ballrooms and make like a mega RPG land.
+
+479
+00:42:25,820 --> 00:42:29,389
+Speaker 0: Some hotels will have like a lot of small rooms that are hard to use for things and cons.
+
+480
+00:42:29,589 --> 00:42:32,599
+Speaker 0: Usually those are ideal for RPGs.
+
+481
+00:42:32,619 --> 00:42:34,886
+Speaker 0: You need relatively quiet, intimate spaces.
+
+482
+00:42:34,926 --> 00:42:41,165
+Speaker 1: You can have some premier RPGs run in like the little office-y spaces that they have in the hotels.
+
+483
+00:42:41,285 --> 00:42:42,910
+Speaker 0: I'd be way into that.
+
+484
+00:42:43,851 --> 00:42:48,592
+Speaker 1: But are you going to spend half a day of one convention on a, on a special RPG in a special room?
+
+485
+00:42:48,752 --> 00:42:52,427
+Speaker 0: I mean, uh, honestly, I probably would, depending on the RPG.
+
+486
+00:42:52,468 --> 00:43:01,180
+Speaker 0: Like I don't want to play a D and D at the con, but if there was someone running like inheritance for real or, uh, I don't know, a cool blades in the dark scenario, I'd be into that.
+
+487
+00:43:02,044 --> 00:43:03,671
+Speaker 1: It depends on how many hours it is, right?
+
+488
+00:43:03,691 --> 00:43:10,863
+Speaker 1: Cause like, you know, at this con, I actually felt like every time we go to a pecs, it's like, I'm so pecs that I know where to go.
+
+489
+00:43:10,883 --> 00:43:12,248
+Speaker 1: I know what everything's doing.
+
+490
+00:43:12,308 --> 00:43:13,232
+Speaker 1: I can see everything.
+
+491
+00:43:13,292 --> 00:43:21,502
+Speaker 1: I can check everything out because I had to do panels and Friday and because we had to, you know, eat and sleep like adults and we enforce both nights.
+
+492
+00:43:21,824 --> 00:43:24,795
+Speaker 1: So, and I enforced two out of three nights and is not four days.
+
+493
+00:43:24,856 --> 00:43:25,759
+Speaker 1: It's only three days.
+
+494
+00:43:25,779 --> 00:43:28,529
+Speaker 1: I actually didn't get to see all the pecs.
+
+495
+00:43:28,570 --> 00:43:30,398
+Speaker 1: There were rooms I didn't get to go to.
+
+496
+00:43:30,418 --> 00:43:32,547
+Speaker 1: I didn't go to the, my classic cardboard room.
+
+497
+00:43:32,567 --> 00:43:33,411
+Speaker 1: Just never went to it.
+
+498
+00:43:33,532 --> 00:43:36,311
+Speaker 1: Didn't get to see what was going on in there, even though I'm pretty sure I know what was going on.
+
+499
+00:43:36,351 --> 00:43:37,517
+Speaker 1: There was the same as the other years.
+
+500
+00:43:37,537 --> 00:43:39,688
+Speaker 1: I always like, I like to check it out.
+
+501
+00:43:39,929 --> 00:43:40,833
+Speaker 1: I didn't get to check it out.
+
+502
+00:43:41,135 --> 00:43:44,632
+Speaker 1: There was so much going on at the pecs unplugged that I actually couldn't see it all.
+
+503
+00:43:45,114 --> 00:43:47,462
+Speaker 1: It makes me want to not enforce.
+
+504
+00:43:47,864 --> 00:43:56,392
+Speaker 0: I'm going to wait cause I chose to enforce partly because I want to make sure pecs unplugged succeeds because it serves a purpose I deeply care about.
+
+505
+00:43:56,874 --> 00:43:58,601
+Speaker 1: That's also why I enforced, right?
+
+506
+00:43:58,681 --> 00:44:00,027
+Speaker 1: Is like, it was, it was a sacrifice of my own.
+
+507
+00:44:01,330 --> 00:44:04,203
+Speaker 0: Cause I'll say this, we were pretty short staffed in some key areas.
+
+508
+00:44:04,484 --> 00:44:05,046
+Speaker 1: Oh yeah.
+
+509
+00:44:05,127 --> 00:44:07,499
+Speaker 0: So I'll give you, this is a little bit of inside baseball.
+
+510
+00:44:07,519 --> 00:44:09,108
+Speaker 0: I don't think I'm stepping over any lines here.
+
+511
+00:44:09,169 --> 00:44:13,890
+Speaker 0: So when I used, I've mostly enforced the main theater and Scott mostly enforces tabletop.
+
+512
+00:44:13,990 --> 00:44:15,235
+Speaker 0: I think you've always enforced tabletop.
+
+513
+00:44:16,058 --> 00:44:22,771
+Speaker 0: Like a long time ago, I was like the deputy manager of live streaming for a while back when that department did something different for what it does now.
+
+514
+00:44:22,811 --> 00:44:26,766
+Speaker 0: But I do main theater typically like a paxies over the years.
+
+515
+00:44:26,926 --> 00:44:35,795
+Speaker 0: I've enforced night shift, which is concerts that fill up or are dense and loud or like acquisitions incorporated kind of events that like will fill up.
+
+516
+00:44:36,638 --> 00:44:41,073
+Speaker 0: Uh, we'd usually have like four people on each side of main, of main events.
+
+517
+00:44:41,635 --> 00:44:48,137
+Speaker 0: Once the show starts, keep an eye on the crowd, keeping people from going backstage, just being helpful, like keeping an eye on things.
+
+518
+00:44:49,020 --> 00:44:54,316
+Speaker 0: Uh, at unplugged, I was solely responsible for the entirety of house, right?
+
+519
+00:44:55,018 --> 00:44:57,966
+Speaker 0: Like the, the right half of main events.
+
+520
+00:44:58,447 --> 00:45:05,448
+Speaker 0: I just had to manage that whole thing all night by myself, which was fun, but it was a lot of work.
+
+521
+00:45:05,489 --> 00:45:06,271
+Speaker 0: I didn't take any breaks.
+
+522
+00:45:06,772 --> 00:45:24,809
+Speaker 0: And I think the con relied heavily on the fact that a lot of the enforcers at this packs unplugged are veterans of a lot of packs is who know what's up and know how to run a packs, which is a wide collection of both soft and hard skills that are not necessarily easy to teach.
+
+523
+00:45:25,811 --> 00:45:25,992
+Speaker 1: Yup.
+
+524
+00:45:26,092 --> 00:45:34,344
+Speaker 1: I can say that like usually at Easts and where I haven't enforced at West, but at Easts tabletop, we always got some new enforcers in there, right?
+
+525
+00:45:34,364 --> 00:45:35,550
+Speaker 1: You know, a few, whatever.
+
+526
+00:45:36,111 --> 00:45:36,693
+Speaker 1: at unplugged.
+
+527
+00:45:36,733 --> 00:45:40,142
+Speaker 1: No, every single person on, on my shift was old hat.
+
+528
+00:45:40,303 --> 00:45:40,804
+Speaker 0: Yup.
+
+529
+00:45:41,165 --> 00:45:45,360
+Speaker 0: Oh, my shift was an experienced enforcer who needed no help.
+
+530
+00:45:45,601 --> 00:45:51,364
+Speaker 0: I'd say it was 80% the same people I work with at East to the point that we didn't even have a meeting of like, who does what?
+
+531
+00:45:51,705 --> 00:45:56,229
+Speaker 0: we all just walked in and kind of went to their, went to the place we thought was right and just ran it.
+
+532
+00:45:56,269 --> 00:46:00,691
+Speaker 0: Like, we didn't really need, like we didn't have to plan anything because it was all like 10 year veterans.
+
+533
+00:46:02,254 --> 00:46:03,777
+Speaker 0: But that's, that's unsustainable.
+
+534
+00:46:03,817 --> 00:46:07,825
+Speaker 0: We need more enforcers.
+
+535
+00:46:08,707 --> 00:46:13,043
+Speaker 0: The main events was actually interesting because for the first time packs unplugged had concerts.
+
+536
+00:46:13,666 --> 00:46:15,777
+Speaker 0: And I remember thinking, what concerts would they put there?
+
+537
+00:46:15,797 --> 00:46:16,802
+Speaker 0: I could think of a few things.
+
+538
+00:46:17,305 --> 00:46:21,182
+Speaker 0: It was the old packs, West standby, Jonathan Colton, Paul and storm.
+
+539
+00:46:21,222 --> 00:46:21,704
+Speaker 0: And you know what?
+
+540
+00:46:22,427 --> 00:46:26,497
+Speaker 0: To their credit, they kept like they filled that room.
+
+541
+00:46:27,360 --> 00:46:32,134
+Speaker 0: And I would say only about a fifth of the people in that room had any idea who the hell they were.
+
+542
+00:46:33,136 --> 00:46:40,744
+Speaker 0: Those people who knew who they were responded correctly to the call-outs because they did the same set they've done forever.
+
+543
+00:46:40,985 --> 00:46:41,768
+Speaker 0: Like no changes.
+
+544
+00:46:41,809 --> 00:46:43,454
+Speaker 1: They don't, it's been 20 years.
+
+545
+00:46:43,494 --> 00:46:44,237
+Speaker 1: They don't have new music.
+
+546
+00:46:44,257 --> 00:46:46,123
+Speaker 0: We are the opening band.
+
+547
+00:46:46,144 --> 00:46:49,935
+Speaker 0: It's literally like same everything, the pants song.
+
+548
+00:46:50,457 --> 00:46:55,191
+Speaker 0: But I would say four fifths of that room had no idea what this was going to be.
+
+549
+00:46:55,773 --> 00:46:57,378
+Speaker 0: And they were into it.
+
+550
+00:46:59,424 --> 00:46:59,986
+Speaker 1: I mean, yeah.
+
+551
+00:47:00,086 --> 00:47:01,913
+Speaker 1: You know, if you haven't seen it before, it works, right?
+
+552
+00:47:02,034 --> 00:47:04,769
+Speaker 1: It's like, that's how Broadway show goes on for years and years and years.
+
+553
+00:47:04,789 --> 00:47:05,834
+Speaker 1: It's like, yeah, this works.
+
+554
+00:47:06,316 --> 00:47:08,426
+Speaker 1: And people haven't seen it until they've seen it.
+
+555
+00:47:08,547 --> 00:47:09,872
+Speaker 1: It's you can't see it anywhere else.
+
+556
+00:47:09,892 --> 00:47:16,449
+Speaker 1: You know, so I would say likely to have seen Paul storm or Jonathan Colton, unless you already knew who they were and sought them out.
+
+557
+00:47:17,833 --> 00:47:23,269
+Speaker 0: So I would say having a concert at night at PAX Unplugged as an experiment was a huge success.
+
+558
+00:47:25,650 --> 00:47:28,684
+Speaker 0: Panels got a ton of attendance across the board as far as I can tell.
+
+559
+00:47:28,744 --> 00:47:30,833
+Speaker 0: Like our panel was at noon on Friday.
+
+560
+00:47:30,873 --> 00:47:35,411
+Speaker 0: It was like the first thing, like the story time was like still going or just wrapping up.
+
+561
+00:47:35,471 --> 00:47:41,933
+Speaker 0: Like it was, we were the first thing in that room and we were like a little of almost four fists of the way full.
+
+562
+00:47:42,194 --> 00:47:43,520
+Speaker 0: I'd say in that room, I got a photo.
+
+563
+00:47:43,921 --> 00:47:44,685
+Speaker 1: It's like a count.
+
+564
+00:47:45,488 --> 00:47:48,161
+Speaker 1: Hard to say, but it wasn't full, but it wasn't fun.
+
+565
+00:47:48,644 --> 00:47:54,890
+Speaker 1: But it was, there was, there was, you know, a healthy scattering of people all about the room, uh, in a room I didn't even know existed.
+
+566
+00:47:56,272 --> 00:47:57,640
+Speaker 0: I didn't know that this room existed either.
+
+567
+00:47:57,680 --> 00:48:01,216
+Speaker 0: I walk in, it's like an actual theater with theater seating in a real stage.
+
+568
+00:48:02,039 --> 00:48:02,200
+Speaker 1: Yeah.
+
+569
+00:48:02,220 --> 00:48:03,746
+Speaker 1: It's like, Whoa, what's that room doing here?
+
+570
+00:48:03,766 --> 00:48:04,247
+Speaker 1: Yeah.
+
+571
+00:48:04,609 --> 00:48:08,989
+Speaker 1: Um, I mean, you'll see it in the video, I guess eventually at least the stage part of it.
+
+572
+00:48:09,009 --> 00:48:09,129
+Speaker 0: Yep.
+
+573
+00:48:09,471 --> 00:48:16,380
+Speaker 0: But the panel content overall, like, you know, the thing that we seek out, there were panels I put on my schedule that I wanted to go to.
+
+574
+00:48:16,421 --> 00:48:20,056
+Speaker 1: that I just didn't go to cause I was busy, you know, eating.
+
+575
+00:48:20,718 --> 00:48:20,939
+Speaker 0: Yup.
+
+576
+00:48:21,340 --> 00:48:29,133
+Speaker 0: I want to do an Elizabeth Hargrave's a story time and I wish I couldn't cause we had to do our panel and I really wanted to go to that panel on the Kurt Vonnegut game, but we couldn't go to that.
+
+577
+00:48:29,154 --> 00:48:29,234
+Speaker 0: Nope.
+
+578
+00:48:30,881 --> 00:48:43,688
+Speaker 0: Everyone who went to it said it was amazing and exactly the kind of content we would have liked, but I'd say I'd characterize the content of the panels at unplugged was broadly closer to the kind of content I like at cons like this.
+
+579
+00:48:43,748 --> 00:48:50,373
+Speaker 0: It wasn't so much industry telling you something about like, Oh, we launched final fantasy 13 and here's some swag or whatever.
+
+580
+00:48:50,854 --> 00:48:57,954
+Speaker 0: It was more like here's nerds talking in depth about a tabletop topic, which is the kind of content I like.
+
+581
+00:48:57,974 --> 00:48:59,881
+Speaker 1: Yeah.
+
+582
+00:48:59,941 --> 00:49:04,497
+Speaker 1: I mean, anytime I went past the panel room, there were people, you know, lining up.
+
+583
+00:49:04,898 --> 00:49:07,587
+Speaker 1: So it was, I'm sure I know, I don't know all of them.
+
+584
+00:49:07,647 --> 00:49:10,260
+Speaker 1: Cause I, it's not like I could go around that much and investigate.
+
+585
+00:49:10,300 --> 00:49:13,814
+Speaker 1: It was just, you know, what I, from what I saw, that's how it was going.
+
+586
+00:49:13,895 --> 00:49:14,075
+Speaker 1: Yup.
+
+587
+00:49:14,477 --> 00:49:18,693
+Speaker 0: The learn and play room was apparently full, like the entire con that learn and play room.
+
+588
+00:49:19,075 --> 00:49:23,830
+Speaker 0: Like I think unplugged could have as many as four rooms like that.
+
+589
+00:49:24,172 --> 00:49:27,130
+Speaker 0: If they could somehow do it and they would all be full for the entire car.
+
+590
+00:49:28,352 --> 00:49:30,868
+Speaker 1: Yeah, they could have, I think a second learn and play room at least.
+
+591
+00:49:30,888 --> 00:49:33,782
+Speaker 1: It's just, you need people and you need games and you need enough.
+
+592
+00:49:33,883 --> 00:49:36,775
+Speaker 1: Like the limitation is actually not even the tables.
+
+593
+00:49:36,876 --> 00:49:38,863
+Speaker 1: It was the number of copies of the game.
+
+594
+00:49:38,883 --> 00:49:39,265
+Speaker 1: Yup.
+
+595
+00:49:39,425 --> 00:49:45,490
+Speaker 0: I'm going to paraphrase and enforcer in the room when we were setting up and we said, we don't need a copy on stage to teach.
+
+596
+00:49:45,630 --> 00:49:46,292
+Speaker 0: We have slides.
+
+597
+00:49:46,613 --> 00:49:50,245
+Speaker 0: He basically said, Oh, thank God I can see another table.
+
+598
+00:49:51,067 --> 00:49:52,995
+Speaker 0: Cause there was already a line outside.
+
+599
+00:49:53,517 --> 00:49:59,459
+Speaker 1: If you're not going to use that copy of the game to teach the game, then that means six more people can come in and play.
+
+600
+00:49:59,480 --> 00:49:59,540
+Speaker 1: Yup.
+
+601
+00:50:00,624 --> 00:50:05,742
+Speaker 1: So it's like, if there were just, you know, in the room only as, you know, it's like, what, how many copies did we have?
+
+602
+00:50:05,762 --> 00:50:10,738
+Speaker 0: Uh, we seated 72 people in the room for the workshop divided by six.
+
+603
+00:50:10,778 --> 00:50:12,824
+Speaker 1: is what, you know, 12, 12 counts.
+
+604
+00:50:12,864 --> 00:50:15,692
+Speaker 1: Yeah, I think.
+
+605
+00:50:16,014 --> 00:50:17,058
+Speaker 0: And they turn people away.
+
+606
+00:50:17,179 --> 00:50:21,576
+Speaker 0: Like, uh, I get the, it sounds like for almost all these learning plays, a lot of people got turned away,
+
+607
+00:50:22,399 --> 00:50:29,151
+Speaker 1: but it's like, we could have had 15 or 20 copies and that would have more people would have been able to play and come in and it would have filled right.
+
+608
+00:50:29,171 --> 00:50:30,074
+Speaker 1: there were enough people.
+
+609
+00:50:31,157 --> 00:50:33,363
+Speaker 0: So it's like, but I have two lessons there.
+
+610
+00:50:33,523 --> 00:50:39,903
+Speaker 0: One, I am super confident a learn and play room could exist at all.
+
+611
+00:50:39,923 --> 00:50:43,940
+Speaker 0: the other packs is and similarly fill like, even though those packs is not tabletop focus.
+
+612
+00:50:44,021 --> 00:50:53,117
+Speaker 1: I would also like to see the learn and play room, do some video games, but again, the limitation, the limitation will be controllers, consoles, screens, devices, copies of the game.
+
+613
+00:50:53,197 --> 00:50:59,337
+Speaker 0: Imagine learn and play quake to deathmatch with someone who's good at quake to deathmatch.
+
+614
+00:50:59,598 --> 00:51:01,849
+Speaker 0: And then you play quake to deathmatch in the room for an hour.
+
+615
+00:51:02,591 --> 00:51:11,521
+Speaker 1: Well, I think that this could, that could work really, really well specifically because they already have a densely packed PC area, right?
+
+616
+00:51:11,821 --> 00:51:15,733
+Speaker 1: So you could set up a PC land room with rows and rows of tables.
+
+617
+00:51:15,753 --> 00:51:16,777
+Speaker 1: They already do that.
+
+618
+00:51:17,058 --> 00:51:19,307
+Speaker 1: And that can get a high capacity of people.
+
+619
+00:51:19,347 --> 00:51:20,130
+Speaker 1: The game is on.
+
+620
+00:51:20,772 --> 00:51:23,702
+Speaker 1: all the equipment, all the software is already there and ready to go.
+
+621
+00:51:23,722 --> 00:51:30,567
+Speaker 1: And that would work best as opposed to say like learn and play smash brothers, which is a little less dense.
+
+622
+00:51:30,647 --> 00:51:38,049
+Speaker 0: But imagine like if there was a, Hey, learn and play how to be good at game cube smash brothers.
+
+623
+00:51:38,129 --> 00:51:40,296
+Speaker 0: Like I might just go to that.
+
+624
+00:51:40,317 --> 00:51:42,042
+Speaker 0: I think that would be fun.
+
+625
+00:51:42,143 --> 00:51:49,910
+Speaker 1: Even if I suck ass at something and I'm probably not even interested in playing it competitively or seriously or ever again at all.
+
+626
+00:51:50,572 --> 00:52:04,983
+Speaker 1: I would still, you know, it's different to what, but between watching a YouTube video and trying to copy it, if you actually have someone there, you know, cause there are some times I try to learn something like that from YouTube and I can, it doesn't help.
+
+627
+00:52:05,204 --> 00:52:14,072
+Speaker 0: I do learn some overwatch things from watching YouTube videos, but these are like intense, densely, some things you can and some things you can't.
+
+628
+00:52:14,132 --> 00:52:14,413
+Speaker 1: Right.
+
+629
+00:52:15,998 --> 00:52:18,746
+Speaker 0: But learn and play also like any convention.
+
+630
+00:52:18,786 --> 00:52:24,122
+Speaker 0: I think, I think there is a deep hunger for learn and play style content.
+
+631
+00:52:24,463 --> 00:52:25,466
+Speaker 0: Learning games is hard.
+
+632
+00:52:26,008 --> 00:52:30,143
+Speaker 0: Games are more fun to play when the people you play them with also know how to play them.
+
+633
+00:52:30,886 --> 00:52:34,938
+Speaker 0: And I think a lot of gaming groups rely heavily on their one friend who will teach everyone games.
+
+634
+00:52:36,182 --> 00:52:36,402
+Speaker 1: Yep.
+
+635
+00:52:36,623 --> 00:52:36,723
+Speaker 1: Yep.
+
+636
+00:52:36,743 --> 00:52:42,200
+Speaker 0: Despite the crowds, like nothing was too agro.
+
+637
+00:52:42,220 --> 00:52:43,765
+Speaker 0: The crowds were super well behaved.
+
+638
+00:52:44,387 --> 00:52:47,058
+Speaker 0: It was very dense, but it wasn't really a problem.
+
+639
+00:52:47,078 --> 00:52:47,801
+Speaker 0: Yeah.
+
+640
+00:52:47,861 --> 00:52:56,553
+Speaker 1: It was dense, but like you could make your way through other than of course, people walking slowly in front of me, but that's every con ever even ones that aren't so crowded.
+
+641
+00:52:57,397 --> 00:53:04,786
+Speaker 0: It did take me almost 20 minutes just to walk over to the info booth and back from where we were table-topping just because the crowd was going so slowly.
+
+642
+00:53:04,966 --> 00:53:05,207
+Speaker 1: Right.
+
+643
+00:53:05,227 --> 00:53:11,856
+Speaker 1: I mean, it's still annoying that the entering and exiting the building, there's like only two security entrances or whatever.
+
+644
+00:53:11,937 --> 00:53:14,670
+Speaker 1: And it's like you have to, you can only enter at like the ends of the con.
+
+645
+00:53:14,770 --> 00:53:17,848
+Speaker 1: You can't enter in the middle, which is be the most convenient place to enter.
+
+646
+00:53:19,871 --> 00:53:22,784
+Speaker 1: And they strictly limit like these are exits only.
+
+647
+00:53:22,844 --> 00:53:24,010
+Speaker 1: These are entrances only.
+
+648
+00:53:25,611 --> 00:53:26,594
+Speaker 1: That's all that's annoying.
+
+649
+00:53:27,757 --> 00:53:31,188
+Speaker 0: But I mean, overall packs unplugged, like.
+
+650
+00:53:31,228 --> 00:53:36,466
+Speaker 0: I feel like we won't need to do future reviews of packs unplugged unless something material changes.
+
+651
+00:53:36,546 --> 00:53:41,000
+Speaker 0: But I'd say as of now packs unplugged is a great packs among taxes.
+
+652
+00:53:41,020 --> 00:53:42,284
+Speaker 0: I think it is now.
+
+653
+00:53:42,304 --> 00:53:45,737
+Speaker 0: I'm not going to count packs Australia cause I haven't been doing so long.
+
+654
+00:53:45,798 --> 00:53:47,606
+Speaker 0: I can't like put it in consideration.
+
+655
+00:53:48,069 --> 00:53:49,294
+Speaker 0: It's my second favorite packs.
+
+656
+00:53:49,334 --> 00:53:58,310
+Speaker 0: The only packs I like more is West partly just because packs West convention center remains the best convention center for a nerd convention I have ever physically entered.
+
+657
+00:54:02,012 --> 00:54:03,256
+Speaker 0: Name a better one you've entered.
+
+658
+00:54:04,219 --> 00:54:04,681
+Speaker 1: I've entered.
+
+659
+00:54:04,721 --> 00:54:06,487
+Speaker 1: I mean, you know, it's good.
+
+660
+00:54:06,667 --> 00:54:10,479
+Speaker 0: It's like wrong with I'm saying name a better one that you've been inside of.
+
+661
+00:54:11,302 --> 00:54:21,038
+Speaker 1: I guess I was very specific, but it's not, it's not so good that it's like, you know, greatly improving the con and making it magical or anything.
+
+662
+00:54:21,118 --> 00:54:23,210
+Speaker 0: I think it is greatly improving the con in one regard.
+
+663
+00:54:23,310 --> 00:54:26,661
+Speaker 0: The fact that everything except the expo hall is carpeted is a big deal.
+
+664
+00:54:26,681 --> 00:54:34,268
+Speaker 0: Imagine packs unplugged with no changes, except tabletop free play and the main floor was also carpeted.
+
+665
+00:54:37,811 --> 00:54:39,738
+Speaker 0: So, uh, yeah, so we'll be back.
+
+666
+00:54:39,939 --> 00:54:42,067
+Speaker 0: I, if you've skipped out in fact, good luck.
+
+667
+00:54:42,247 --> 00:54:44,016
+Speaker 1: Good luck trying to go to packs unplugged.
+
+668
+00:54:44,056 --> 00:54:52,033
+Speaker 1: They've already announced all the dates for all the packs is next year and the theme for next year, which is some sort of like subway street art looking style, which seems okay to me.
+
+669
+00:54:52,153 --> 00:55:06,710
+Speaker 0: I think we're entering an era again, like the heady days of 2010, 2011 where every pack sells out and, and magfest and just, I don't think the East and the West are going to sell out until the video game industry changes.
+
+670
+00:55:07,050 --> 00:55:08,057
+Speaker 0: Actually, no, I take that back.
+
+671
+00:55:08,158 --> 00:55:09,850
+Speaker 0: I think West might start selling out again.
+
+672
+00:55:10,410 --> 00:55:14,283
+Speaker 0: I don't think East will, and I'm not sure West will.
+
+673
+00:55:14,805 --> 00:55:17,857
+Speaker 0: Unplugged will definitely sell out every year forever from now.
+
+674
+00:55:18,318 --> 00:55:21,130
+Speaker 1: Unplugged is good is until, until something changes.
+
+675
+00:55:24,692 --> 00:55:29,889
+Speaker 0: Like magfest is limited basically primarily by the fact that there's no hotels anywhere near it.
+
+676
+00:55:31,111 --> 00:55:36,334
+Speaker 1: But yeah, uh, I'm not so confident the video game industry is going to recover that quickly.
+
+677
+00:55:36,354 --> 00:55:44,189
+Speaker 1: Uh, and I'm not going to say the tabletop will, will fall, but I'm not going to say that it's going to hold and keep growing forever.
+
+678
+00:55:44,710 --> 00:55:45,392
+Speaker 1: It's good.
+
+679
+00:55:45,493 --> 00:55:46,556
+Speaker 1: Eventually there's
+
+680
+00:55:46,596 --> 00:56:06,322
+Speaker 0: a difference here is that if the video game industry falls, video game conventions all follow along with them for a lot of reasons, but tabletop, the demand from people who want tabletop conventions and want to play games is so much greater than even the money the industry makes.
+
+681
+00:56:06,964 --> 00:56:12,330
+Speaker 0: that the community demand can almost make conventions happen even if the industry itself is not helping.
+
+682
+00:56:12,350 --> 00:56:17,192
+Speaker 1: But then the badge price would have to make up for all the money they make from the expo hall instead.
+
+683
+00:56:17,212 --> 00:56:22,030
+Speaker 1: And that would, that badge price might become prohibitive for the large tabletop.
+
+684
+00:56:22,151 --> 00:56:29,509
+Speaker 0: While it might, my gut feeling, and this is pure gut feeling, if you doubled the price of a Pax Unplugged badge, I think it would still sell out.
+
+685
+00:56:30,650 --> 00:56:39,630
+Speaker 1: Maybe if, but if there's no expo hall there because the industry flopped and people just want to play games that already exist, would people would be willing to pay twice as much for the con?
+
+686
+00:56:40,973 --> 00:56:41,776
+Speaker 0: They actually might.
+
+687
+00:56:41,796 --> 00:56:47,475
+Speaker 0: I think just for the space, partly because the culture of Pax Unplugged, just polling attendees.
+
+688
+00:56:47,496 --> 00:56:50,247
+Speaker 0: So again, sample size of rim talk to like eight or nine people.
+
+689
+00:56:50,287 --> 00:56:51,894
+Speaker 0: So don't, read too much into this.
+
+690
+00:56:52,698 --> 00:56:57,842
+Speaker 0: I really get the impression a lot of the people who were at Pax Unplugged were there for the whole weekend.
+
+691
+00:56:58,606 --> 00:56:59,490
+Speaker 0: Like I'm here.
+
+692
+00:56:59,571 --> 00:57:02,270
+Speaker 1: I do think there were more people who were there multiple days.
+
+693
+00:57:02,670 --> 00:57:08,368
+Speaker 0: When Pax started, the original Paxes, they only sold badges for the whole weekend.
+
+694
+00:57:08,448 --> 00:57:13,021
+Speaker 0: And old Pax West, only all weekend people were coming for the most part.
+
+695
+00:57:13,362 --> 00:57:15,308
+Speaker 0: Pax East changed that.
+
+696
+00:57:15,749 --> 00:57:19,301
+Speaker 0: That was when they shifted to selling individual day badges.
+
+697
+00:57:19,321 --> 00:57:24,901
+Speaker 0: And I think that was the moment where Pax East suddenly like at night it cleared out.
+
+698
+00:57:24,962 --> 00:57:31,525
+Speaker 0: because suddenly a huge percentage of the people who go to Pax East only come for one day and are primarily expo hall people.
+
+699
+00:57:31,986 --> 00:57:38,050
+Speaker 0: Unplugged has resurfaced the old Pax culture of you come for the whole weekend.
+
+700
+00:57:40,990 --> 00:57:41,131
+Speaker 1: Indeed.
+
+701
+00:57:41,212 --> 00:57:45,294
+Speaker 1: Well, I mean, if you're, you know, you're looking to play games one day of games is not enough, right?
+
+702
+00:57:45,595 --> 00:57:49,269
+Speaker 1: Also, you know, if you're coming to Unplugged, they're coming to play games.
+
+703
+00:57:49,330 --> 00:57:52,343
+Speaker 1: If you go to East or West, people might not be coming to play games.
+
+704
+00:57:52,484 --> 00:57:56,480
+Speaker 0: My train home from Pax, hold on, the station in Philadelphia.
+
+705
+00:57:56,500 --> 00:58:02,525
+Speaker 1: Again, why would you, why would you pay money and travel and hotel nights to play video games you could play at home?
+
+706
+00:58:02,826 --> 00:58:05,877
+Speaker 1: Why would you pay money, travel and hotel nights to play board games?
+
+707
+00:58:06,840 --> 00:58:07,764
+Speaker 1: Oh, that makes sense.
+
+708
+00:58:08,065 --> 00:58:08,225
+Speaker 0: Yep.
+
+709
+00:58:08,506 --> 00:58:09,188
+Speaker 1: That's right.
+
+710
+00:58:09,229 --> 00:58:09,831
+Speaker 1: To play an RP.
+
+711
+00:58:09,951 --> 00:58:12,360
+Speaker 1: Oh, that makes sense to do that.
+
+712
+00:58:12,480 --> 00:58:17,738
+Speaker 0: But my train home, which was a different train from Scott's train home completely sold out.
+
+713
+00:58:18,119 --> 00:58:26,825
+Speaker 0: I'd say 80% of the people on that train were Pax attendees and a card game and a bunch of like switch gaming was happening.
+
+714
+00:58:27,066 --> 00:58:29,192
+Speaker 0: That train car was really rowdy the whole way home.
+
+715
+00:58:29,232 --> 00:58:33,024
+Speaker 1: My train car home was also full of Pax people.
+
+716
+00:58:33,044 --> 00:58:36,919
+Speaker 1: And well, I love all those Pax people and they were lovely Pax people.
+
+717
+00:58:37,883 --> 00:58:39,389
+Speaker 1: It's fucking like 10 o'clock at night.
+
+718
+00:58:39,429 --> 00:58:40,613
+Speaker 1: I'm gonna take it a train home to New York.
+
+719
+00:58:40,633 --> 00:58:41,075
+Speaker 1: Shut up.
+
+720
+00:58:42,138 --> 00:58:42,860
+Speaker 1: Jesus Christ.
+
+721
+00:58:42,880 --> 00:58:43,362
+Speaker 1: I'm old.
+
+722
+00:58:43,763 --> 00:58:44,385
+Speaker 1: Be quiet.
+
+723
+00:58:44,927 --> 00:58:47,818
+Speaker 1: Stop talking games and all the stuff you did at Pax so badly.
+
+724
+00:58:47,838 --> 00:58:49,506
+Speaker 1: There's only one quiet car.
+
+725
+00:58:49,526 --> 00:58:50,290
+Speaker 1: I couldn't get in there.
+
+726
+00:58:51,750 --> 00:58:53,455
+Speaker 1: They can't make all the cars quiet cars.
+
+727
+00:58:53,595 --> 00:58:55,621
+Speaker 1: You can talk just quieter.
+
+728
+00:58:55,641 --> 00:58:57,205
+Speaker 1: I'm old.
+
+729
+00:58:58,068 --> 00:58:58,329
+Speaker 0: Yeah.
+
+730
+00:58:58,569 --> 00:59:00,740
+Speaker 0: Younger, younger rim would have been more into that.
+
+731
+00:59:00,760 --> 00:59:02,248
+Speaker 0: And that's why I am tolerant of it.
+
+732
+00:59:02,348 --> 00:59:05,904
+Speaker 0: because uh, the old man should step aside.
+
+733
+00:59:06,045 --> 00:59:07,089
+Speaker 0: Let the young man have fun.
+
+734
+00:59:08,151 --> 00:59:09,096
+Speaker 1: They weren't that much younger.
+
+735
+00:59:09,116 --> 00:59:10,504
+Speaker 1: These are, you know, twenties thirties.
+
+736
+00:59:10,604 --> 00:59:20,299
+Speaker 0: That's a lot younger in terms of when I was in my twenties, they announced that Pax will no longer go until 2am and will in fact end at a cowardly midnight.
+
+737
+00:59:20,700 --> 00:59:22,365
+Speaker 0: And I remember being mad about that.
+
+738
+00:59:22,365 --> 00:59:29,684
+Speaker 0: 42 year old rim could not possibly make it to 2am out of Pax.
+
+739
+00:59:31,128 --> 00:59:31,630
+Speaker 1: No, no chance.
+
+740
+00:59:35,592 --> 00:59:37,961
+Speaker 0: This has been Geek Nights with Rim and Scott.
+
+741
+00:59:38,021 --> 00:59:40,591
+Speaker 0: Special thanks to DJ Pretzel for the opening theme.
+
+742
+00:59:40,732 --> 00:59:46,795
+Speaker 1: Be sure to visit our website at frontrowclue.com for show notes, discussion, links, and more.
+
+743
+00:59:47,237 --> 00:59:49,890
+Speaker 0: Remember, Geek Nights is not one, but four different shows.
+
+744
+00:59:50,250 --> 00:59:51,877
+Speaker 0: Mondays are science and technology.
+
+745
+00:59:51,917 --> 00:59:53,685
+Speaker 0: Tuesdays gaming and games.
+
+746
+00:59:53,805 --> 00:59:55,613
+Speaker 0: Wednesdays are animation and comics.
+
+747
+00:59:55,934 --> 00:59:58,464
+Speaker 0: Thursdays are arbitrary and indiscriminate.
+
+748
+00:59:59,067 --> 01:00:04,044
+Speaker 0: Geek Nights is distributed under a creative comments attribution 4.0 international license.
+
+749
+01:00:04,446 --> 01:00:12,732
+Speaker 1: Geek Nights is recorded live with no studio and no audience, but unlike those other late shows, it's actually recorded at night.
+
+750
+01:00:13,355 --> 01:00:24,417
+Speaker 0: And the Patreon patrons for this episode of Geek Nights are Alan Jones and PG Dredd, Lily Tenebrae, K-Spare, Mix of Music, Krista Voorhe, Clinton, Walt, and Finn, Joel Hayes, Penny Rhymer, Rebecca Adams, Sam Markey, Sandra Van Holl, and a bunch of people who do not want me to say their names.
+
+751
+01:00:24,659 --> 01:00:25,844
+Speaker 0: Yeah, PAX Unplugged was great.
+
+752
+01:00:25,965 --> 01:00:28,995
+Speaker 0: And for any of you who are wondering, zero trouble with the union.
+
+753
+01:00:29,457 --> 01:00:32,690
+Speaker 0: One, the union guys were super cool and kind of into the content.
+
+754
+01:00:33,730 --> 01:00:50,892
+Speaker 0: And two, the rules of the convention center, I actually learned them specifically, are you do not need to hire a camera operator, even if you have a tripod, as long as you do not plug into a power outlet and do not touch the camera or the tripod at any point during the event you're recording.
+
+755
+01:00:51,374 --> 01:00:53,803
+Speaker 0: So we set up multiple cameras, no problem.
+
+756
+01:00:54,165 --> 01:00:57,037
+Speaker 0: I'll try to have the panel up like this weekend at the latest.
+
+757
+01:00:57,579 --> 01:00:58,785
+Speaker 0: So yeah, it was all a good time.
+
+758
+01:00:58,905 --> 01:01:00,651
+Speaker 0: I hope to see you all at future PAX Unplugged.
+
+759
+01:01:01,031 --> 01:01:10,240
+Speaker 0: And tonight I will leave you with... Hey Mario, look what I made.
+
+760
+01:01:10,840 --> 01:01:12,285
+Speaker 0: It's a stone, Luigi.
+
+761
+01:01:12,586 --> 01:01:13,990
+Speaker 0: You didn't make it.
+
+762
+01:01:15,535 --> 01:01:16,397
+Speaker 0: It's a football.
+
+763
+01:01:16,678 --> 01:01:17,260
+Speaker 0: I chiseled it.
+
+764
+01:01:17,780 --> 01:01:19,287
+Speaker 0: Well, what are you waiting for?
+
+765
+01:01:19,668 --> 01:01:20,693
+Speaker 1: Throw me a pass.
+
+766
+01:01:21,095 --> 01:01:22,240
+Speaker 0: It's even official size.
+
+767
+01:01:24,169 --> 01:01:25,520
+Speaker 1: But not official weight.
+

@@ -1,0 +1,2492 @@
+﻿1
+00:00:08,300 --> 00:00:10,309
+Speaker 1: It's Wednesday, March 27th, 2024.
+
+2
+00:00:10,309 --> 00:00:10,470
+Speaker 1: I'm Rym.
+
+3
+00:00:13,980 --> 00:00:14,506
+Speaker 0: - And I'm Scott.
+
+4
+00:00:14,526 --> 00:00:15,840
+Speaker 1: - And this is Geek Knights.
+
+5
+00:00:16,059 --> 00:00:21,700
+Speaker 1: Tonight, we are reviewing the anime Dungeon Meshy, delicious in dungeon.
+
+6
+00:00:22,280 --> 00:00:23,197
+Speaker 0: Let's do this.
+
+7
+00:00:23,860 --> 00:00:29,160
+Speaker 1: So yeah, another unplanned hiatus and an odd occurrence.
+
+8
+00:00:29,800 --> 00:00:32,220
+Speaker 1: There have been... I think there have been way more...
+
+9
+00:00:32,299 --> 00:00:32,864
+Speaker 0: It's not that odd.
+
+10
+00:00:32,924 --> 00:00:35,299
+Speaker 0: You get ill much more frequently than I do.
+
+11
+00:00:36,321 --> 00:00:43,559
+Speaker 1: It's funny, though, because you always say you never get ill, but then when you are ill, you'll forget that you were ill a few months later.
+
+12
+00:00:43,620 --> 00:00:44,664
+Speaker 0: I don't never get ill.
+
+13
+00:00:44,724 --> 00:00:47,996
+Speaker 0: I just get ill much more rarely than people around me.
+
+14
+00:00:49,300 --> 00:00:56,480
+Speaker 1: Since the year 2008, I have never gotten ill before a pax and thus had to miss a pax until now.
+
+15
+00:00:56,960 --> 00:00:57,405
+Speaker 1: - In all these years.
+
+16
+00:00:57,425 --> 00:00:58,680
+Speaker 0: - That's obviously true, yes.
+
+17
+00:01:00,521 --> 00:01:08,280
+Speaker 0: We've gotten ill at a pax, we've gotten ill after a pax, but never before a pax, preventing going in the first place.
+
+18
+00:01:08,380 --> 00:01:08,440
+Speaker 0: But
+
+19
+00:01:08,460 --> 00:01:24,899
+Speaker 1: I also think it was an interesting opportunity because for various reasons, partly because I like to talk a lot and I talk loud, so at a lot of conventions, especially like magfests or older paxes, there'd be more panels than just the Rym and Scott panels, where I would just do extra panels by myself.
+
+20
+00:01:25,881 --> 00:01:30,540
+Speaker 1: Scott rarely will do more panels than the small number necessary to get that free patch.
+
+21
+00:01:31,522 --> 00:01:33,638
+Speaker 1: But this time we had to engage in...
+
+22
+00:01:33,900 --> 00:01:36,139
+Speaker 0: I got two free patches this time, I could have done less.
+
+23
+00:01:37,400 --> 00:01:46,659
+Speaker 1: But this time we had to engage in, not only did we have two brand new panels, one of which was actually a brand new, like really good panel, but we hadn't really done a practice round of it.
+
+24
+00:01:47,181 --> 00:01:51,760
+Speaker 1: And for those of you who are at pax, you got to see the rare occurrence of a Scott solo panel.
+
+25
+00:01:52,261 --> 00:01:52,806
+Speaker 1: So how'd that go?
+
+26
+00:01:52,826 --> 00:02:00,920
+Speaker 1: Because when I have to do those, it is more than twice as tiring as doing a panel with you to do a panel by myself.
+
+27
+00:02:01,481 --> 00:02:13,859
+Speaker 1: I would say it is 210% more exhausting to be on stage for an hour with nobody to bounce off of, no one to like talk while you take a break and collect your thoughts, like you just got to steamroll through for an hour.
+
+28
+00:02:14,800 --> 00:02:18,439
+Speaker 0: Well, you know, part of it, I prepared as much as I could.
+
+29
+00:02:19,603 --> 00:02:27,580
+Speaker 0: Uh, and for the preparation definitely helped, but there was still parts that were weak, you know, because it wasn't perfect.
+
+30
+00:02:28,242 --> 00:02:32,940
+Speaker 0: But it was, I'd say 80%, you know, and then I was simultaneously worried.
+
+31
+00:02:33,020 --> 00:02:34,919
+Speaker 0: I even just told the audience, cause that's how I do.
+
+32
+00:02:35,360 --> 00:02:47,180
+Speaker 0: I'm like, look, either I'm going to go way short and I'm going to have to pull out my rules of question asking or B I'm going to overcompensate out of fear of going short.
+
+33
+00:02:47,882 --> 00:02:52,700
+Speaker 0: And I'm going to go long, in which case no question asking either way.
+
+34
+00:02:53,262 --> 00:02:57,538
+Speaker 0: If you talked, if you try to say anything while I'm giving the panel, I will ignore your existence.
+
+35
+00:02:58,204 --> 00:02:59,138
+Speaker 0: Don't even try it.
+
+36
+00:03:00,641 --> 00:03:10,735
+Speaker 0: Um, but yeah, and the first panel, which was the new completely new one went short, had to resort to rules of question asking, which people 90% obeyed.
+
+37
+00:03:12,200 --> 00:03:13,950
+Speaker 1: I think part of what happened there is.
+
+38
+00:03:14,010 --> 00:03:17,980
+Speaker 1: I've noticed, cause I was going to mention this when I do panels by myself, I also have trouble regulating.
+
+39
+00:03:18,380 --> 00:03:28,739
+Speaker 1: There's something about when we're both on stage together where we like, whoever's not talking seems to just be keeping track of time and kind of her is the other one along or like slows down.
+
+40
+00:03:29,681 --> 00:03:32,013
+Speaker 0: So in the second panel, which was just 39 games, right?
+
+41
+00:03:34,201 --> 00:03:38,840
+Speaker 0: A panel, which was purely clickbait and had no purpose and was literally end of the con.
+
+42
+00:03:38,961 --> 00:03:41,560
+Speaker 0: They started tearing down the room as soon as I finished.
+
+43
+00:03:43,462 --> 00:03:49,880
+Speaker 0: Uh, I basically told the audience, look, uh, I'm just doing this because it's obviously clickbait.
+
+44
+00:03:49,980 --> 00:03:52,660
+Speaker 0: You don't have to be here, et cetera, usual.
+
+45
+00:03:53,281 --> 00:03:58,079
+Speaker 0: But I was like, I'm, I was like, look, what I'm doing up here is basically nothing.
+
+46
+00:03:58,741 --> 00:04:03,180
+Speaker 0: You and my maid, I gave the panel a point, which was, you should do a panel instead of me.
+
+47
+00:04:03,321 --> 00:04:04,478
+Speaker 0: Why, why am I doing this?
+
+48
+00:04:05,163 --> 00:04:06,600
+Speaker 0: You should do a panel, right?
+
+49
+00:04:06,700 --> 00:04:15,420
+Speaker 0: We have something meaningful to say, but in that panel, uh, went long because out of fear, like, you know, the, the ladder happened, right?
+
+50
+00:04:15,561 --> 00:04:19,358
+Speaker 0: I was like, well, I went short the last time and I further overcompensated.
+
+51
+00:04:20,959 --> 00:04:23,020
+Speaker 0: Uh, and I was looking at the timer.
+
+52
+00:04:23,060 --> 00:04:24,359
+Speaker 0: I had like several timers.
+
+53
+00:04:24,700 --> 00:04:29,060
+Speaker 0: There's the timer from the packs people, the timer in my keynote app, all kinds of timers.
+
+54
+00:04:29,682 --> 00:04:32,019
+Speaker 0: And I looked at the timers, I saw how many slides were left.
+
+55
+00:04:32,402 --> 00:04:35,500
+Speaker 0: And I knew that every single slide was a game to talk about.
+
+56
+00:04:36,124 --> 00:04:37,519
+Speaker 0: And I saw how much time was left.
+
+57
+00:04:38,242 --> 00:04:43,160
+Speaker 0: And I was like, Hmm, I'm not going to finish all these like halfway through.
+
+58
+00:04:43,300 --> 00:04:50,599
+Speaker 0: I knew I wasn't going to finish all those, but I was too busy talking about all these games without stopping that.
+
+59
+00:04:50,760 --> 00:04:51,740
+Speaker 0: I didn't plan for that.
+
+60
+00:04:51,780 --> 00:04:54,498
+Speaker 0: And I just, and I just got to the end and I'm like, well, that's the end.
+
+61
+00:04:55,441 --> 00:04:58,575
+Speaker 1: Well, one thing, one thing, what I should have done, what I should have done pretty good.
+
+62
+00:05:01,031 --> 00:05:01,179
+Speaker 0: Yeah.
+
+63
+00:05:01,561 --> 00:05:09,200
+Speaker 0: What I should have done is as soon as they held up the five minute sign, I should have been like, well, I got five minutes left and there's like 10 games left.
+
+64
+00:05:09,740 --> 00:05:14,520
+Speaker 0: So instead of going over them, here are my end of panel sayings, right?
+
+65
+00:05:14,660 --> 00:05:17,780
+Speaker 0: Rather than rushing through them and forgetting them and such.
+
+66
+00:05:18,020 --> 00:05:22,440
+Speaker 0: That's what I, uh, but a lesson has been learned, uh, and it's and such.
+
+67
+00:05:22,707 --> 00:05:22,855
+Speaker 1: Yeah.
+
+68
+00:05:23,322 --> 00:05:32,980
+Speaker 1: I think the problem was I looked at when the first time we did a panel like that and we definitely front loaded the games that we had like a lot to say, like we'd have to hold back.
+
+69
+00:05:33,361 --> 00:05:38,320
+Speaker 1: And then toward the end, the games did like only need a sentence explanation.
+
+70
+00:05:38,762 --> 00:05:44,459
+Speaker 1: But in this panel, like it ends on what fast food franchise, the game that requires like a little bit, didn't even get there.
+
+71
+00:05:44,922 --> 00:05:47,680
+Speaker 0: But I did an enforcer that I was working with.
+
+72
+00:05:48,221 --> 00:05:57,400
+Speaker 0: I was just chatting with, and he was like, it, uh, this person's father was, uh, like a big time tabletop person, the kind that doesn't go to packs.
+
+73
+00:05:57,521 --> 00:06:00,979
+Speaker 0: It goes to gathering of friends, which is, you know, like the week long deal, right?
+
+74
+00:06:01,181 --> 00:06:02,459
+Speaker 0: For the old grog Nard types.
+
+75
+00:06:02,963 --> 00:06:03,033
+Speaker 0: Yup.
+
+76
+00:06:03,260 --> 00:06:08,120
+Speaker 0: Um, and this person, the son of the legendary old grog Nard, right.
+
+77
+00:06:08,481 --> 00:06:11,500
+Speaker 0: Was like, yeah, my favorite games actually this monopoly type game.
+
+78
+00:06:11,541 --> 00:06:12,640
+Speaker 0: And I'm like fast food franchise.
+
+79
+00:06:12,880 --> 00:06:15,520
+Speaker 0: And they're like, yes, yes, indeed.
+
+80
+00:06:15,740 --> 00:06:20,440
+Speaker 0: And I was like, chicken surprise, ice cream screen.
+
+81
+00:06:21,666 --> 00:06:22,098
+Speaker 0: Let's go.
+
+82
+00:06:23,122 --> 00:06:27,320
+Speaker 1: I still want to make the chicken surprise shirt, even if it's just so I can wear it with no context.
+
+83
+00:06:28,412 --> 00:06:28,619
+Speaker 0: I know.
+
+84
+00:06:28,724 --> 00:06:28,895
+Speaker 0: Right.
+
+85
+00:06:29,385 --> 00:06:30,560
+Speaker 0: Um, yeah.
+
+86
+00:06:30,740 --> 00:06:34,880
+Speaker 0: You know, many things happened at packs, but now is not the time to discuss the rest of those.
+
+87
+00:06:35,400 --> 00:06:41,120
+Speaker 0: It was, I've actually got, you know, way many, many things to discuss on geek nights right now.
+
+88
+00:06:42,082 --> 00:06:43,919
+Speaker 0: But, uh, we've got to save them up.
+
+89
+00:06:44,040 --> 00:06:45,760
+Speaker 0: We can't be squirting them out in one episode.
+
+90
+00:06:45,867 --> 00:06:46,080
+Speaker 1: Yeah.
+
+91
+00:06:46,361 --> 00:06:50,200
+Speaker 1: I've, uh, not doing gig nights for being sick and also missing a packs.
+
+92
+00:06:50,321 --> 00:06:54,380
+Speaker 1: Like I have queued up just things that I got to get out or things.
+
+93
+00:06:54,560 --> 00:06:56,600
+Speaker 0: I don't get us through a couple of weeks at least.
+
+94
+00:06:56,902 --> 00:06:58,070
+Speaker 1: Easily, easily about two weeks.
+
+95
+00:06:59,600 --> 00:07:10,513
+Speaker 1: We got a hopper and we've, we've demonstrated in the last couple of years, we're capable of holding onto things in the hopper for about a week or two, as opposed to the old hopper that lasted exactly 24 hours.
+
+96
+00:07:13,262 --> 00:07:16,260
+Speaker 1: So, uh, and otherwise, of course, uh, I'm basically back at full health.
+
+97
+00:07:16,601 --> 00:07:23,219
+Speaker 1: Uh, I've got a, I stayed home from work a couple more days just and worked from home just because I could, but it's not permanently damaged.
+
+98
+00:07:23,600 --> 00:07:23,696
+Speaker 1: Nope.
+
+99
+00:07:23,780 --> 00:07:37,320
+Speaker 1: The vision is not permanently damaged, but, uh, if you didn't know, if you get an enterovirus, which is one of the two main types of viruses that can cause what humans like to just call a cold, which is just code for, we don't fucking know.
+
+100
+00:07:37,662 --> 00:07:39,880
+Speaker 1: And nobody invested in making a good test for this.
+
+101
+00:07:40,100 --> 00:07:41,058
+Speaker 1: So good luck, have fun.
+
+102
+00:07:41,920 --> 00:07:50,460
+Speaker 1: So colds can be a lot of different things, but this particular kind of cold can basically infect like every different part of your body, sometimes simultaneously with different symptoms.
+
+103
+00:07:51,341 --> 00:07:55,480
+Speaker 1: And they can take between one and like five weeks to go away.
+
+104
+00:07:55,621 --> 00:07:56,650
+Speaker 1: And they can also go away.
+
+105
+00:07:58,204 --> 00:07:59,700
+Speaker 1: You can be completely symptom free.
+
+106
+00:08:00,321 --> 00:08:03,740
+Speaker 1: And then like a day later it comes back full on.
+
+107
+00:08:03,961 --> 00:08:05,239
+Speaker 1: And apparently that's just a thing.
+
+108
+00:08:05,860 --> 00:08:08,280
+Speaker 1: Like that's common enough to where there's words for it.
+
+109
+00:08:08,300 --> 00:08:11,300
+Speaker 1: And I read papers about it, but, uh, that sucks.
+
+110
+00:08:12,061 --> 00:08:25,600
+Speaker 1: And I do not want to bring the evil eye upon myself, but I will say that the cold I had for the last three-ish weeks was objectively, for me, way worse than either COVID I had in terms of symptoms.
+
+111
+00:08:25,840 --> 00:08:28,099
+Speaker 1: Like this just fucking sucked, but I'm back.
+
+112
+00:08:28,540 --> 00:08:29,480
+Speaker 1: We're at geek nights is back.
+
+113
+00:08:29,580 --> 00:08:30,180
+Speaker 1: We're ready to rock.
+
+114
+00:08:30,300 --> 00:08:34,480
+Speaker 1: There's so much news that there's almost no way we could even like catch up.
+
+115
+00:08:34,900 --> 00:08:44,620
+Speaker 1: So I just want to direct your attention to something that appeared on YouTube eight hours ago, uh, the spider within is a spider verse story.
+
+116
+00:08:44,984 --> 00:08:46,160
+Speaker 1: That's just straight up from Sony.
+
+117
+00:08:46,262 --> 00:08:46,999
+Speaker 1: Like this is legit.
+
+118
+00:08:47,324 --> 00:08:48,540
+Speaker 1: It's on Sony pictures, animation.
+
+119
+00:08:49,240 --> 00:08:52,760
+Speaker 1: It's like a side story about miles Morales in the spider verse.
+
+120
+00:08:52,841 --> 00:08:53,818
+Speaker 1: It's seven minutes long.
+
+121
+00:08:54,564 --> 00:08:55,660
+Speaker 1: Uh, it just dropped.
+
+122
+00:08:56,060 --> 00:09:05,760
+Speaker 0: Like, I don't think anyone knew this was coming, uh, at the end of the second movie in the theaters, it said spider verse three, whatever.
+
+123
+00:09:05,880 --> 00:09:06,644
+Speaker 0: I forget the name of it.
+
+124
+00:09:06,745 --> 00:09:09,299
+Speaker 0: is the spider first across beyond.
+
+125
+00:09:09,520 --> 00:09:13,337
+Speaker 1: I mean, if spider verse two was what it was, I feel like spiders three.
+
+126
+00:09:13,397 --> 00:09:15,098
+Speaker 1: is this the best movie you've ever seen.
+
+127
+00:09:15,663 --> 00:09:17,819
+Speaker 0: I forget what the third one's the title of the third one is.
+
+128
+00:09:20,841 --> 00:09:31,036
+Speaker 0: Uh, that third movie, they said right on screen, it said the third movie coming March 29th, That is two days from now.
+
+129
+00:09:32,202 --> 00:09:38,720
+Speaker 0: And that is obviously not going to happen because the, the pandidly delayed them and also the overworking delayed them.
+
+130
+00:09:38,840 --> 00:09:44,480
+Speaker 0: So that movie is going to come quote when it's ready, uh, probably next year.
+
+131
+00:09:45,114 --> 00:09:45,298
+Speaker 1: Yeah.
+
+132
+00:09:46,221 --> 00:09:51,260
+Speaker 0: So I wonder the timing of this short being released, right?
+
+133
+00:09:51,480 --> 00:10:08,239
+Speaker 0: Is it a was always going to be released as promotion for the movie that should have been out this Friday or be sort of a replacement to make you not forget about the movie that would have released this Friday, but instead will be released next year or perhaps who knows what.
+
+134
+00:10:08,360 --> 00:10:18,418
+Speaker 1: So I want to point out because this just dropped on YouTube and the top comments on the YouTube video is, and I'm quoting, man, it's crazy to think that beyond the spider verse was supposed to come out this week.
+
+135
+00:10:19,506 --> 00:10:20,018
+Speaker 0: That's correct.
+
+136
+00:10:21,263 --> 00:10:23,180
+Speaker 1: But there's something else going on about this beyond.
+
+137
+00:10:23,642 --> 00:10:24,220
+Speaker 0: Yes, I was correct.
+
+138
+00:10:24,300 --> 00:10:26,800
+Speaker 0: Beyond is the one, at least if they're correct.
+
+139
+00:10:27,580 --> 00:10:28,800
+Speaker 1: I feel like it could be wrong.
+
+140
+00:10:28,960 --> 00:10:44,260
+Speaker 1: I have a prediction that beyond the spider verse will be leaving the cannons of spider man and the cannon of the spider verse very similarly to how, uh, the new evangelical movies were the end of not just evangelical, but all evangelicals.
+
+141
+00:10:44,660 --> 00:10:49,160
+Speaker 1: I feel like there be, there is going to be a very similar allegory happening.
+
+142
+00:10:50,661 --> 00:11:00,179
+Speaker 1: Maybe, but, uh, also, uh, this short is actually being released as part of a charity drive in collaboration with the Kevin Love Fund, which I was not familiar with.
+
+143
+00:11:00,821 --> 00:11:06,260
+Speaker 1: And the Kevin Love Fund is a, it looks like it's a fun specifically about mental health.
+
+144
+00:11:06,780 --> 00:11:08,080
+Speaker 1: I haven't dug into all the details yet.
+
+145
+00:11:08,140 --> 00:11:19,620
+Speaker 1: Like I literally just learned about it because of this video, but it seems pretty legit and they appear to be gathering donations from this video and they're using this video to promote the Kevin Love Fund.
+
+146
+00:11:20,803 --> 00:11:20,894
+Speaker 0: Okay.
+
+147
+00:11:21,802 --> 00:11:22,779
+Speaker 1: So good stuff all around.
+
+148
+00:11:23,900 --> 00:11:27,479
+Speaker 1: Uh, in some other news, uh, do you got this Astro Boy thing right here?
+
+149
+00:11:28,310 --> 00:11:28,540
+Speaker 0: Yeah.
+
+150
+00:11:28,600 --> 00:11:36,740
+Speaker 0: So the original Astro Boy TV show, the black and white one from the sixties has had a few episodes that are sort of lost episodes, right?
+
+151
+00:11:36,840 --> 00:11:40,400
+Speaker 0: Where the, the film was, you know, messed up and whatever.
+
+152
+00:11:41,002 --> 00:11:43,739
+Speaker 0: And one of those episodes is still lost as far as I know.
+
+153
+00:11:44,321 --> 00:11:50,955
+Speaker 0: But two of the episodes, basically what they did on like the DVDs or whatever is they sort of had audio from them still.
+
+154
+00:11:52,062 --> 00:11:55,700
+Speaker 0: And they piece together based on the manga cause they slept the manga.
+
+155
+00:11:55,860 --> 00:11:58,800
+Speaker 0: It was based on, um, and clips from other episodes.
+
+156
+00:11:58,920 --> 00:12:04,459
+Speaker 0: They sort of piece them what they could together to make, cause it's not like it's hard to piece together an Astro Boy episode.
+
+157
+00:12:04,804 --> 00:12:05,036
+Speaker 0: Yeah.
+
+158
+00:12:05,422 --> 00:12:08,940
+Speaker 1: There's not much to them, especially, uh, old Astro Boy.
+
+159
+00:12:09,080 --> 00:12:11,059
+Speaker 1: Like it's just following the manga as far as I could tell.
+
+160
+00:12:11,560 --> 00:12:11,651
+Speaker 0: Yeah.
+
+161
+00:12:12,140 --> 00:12:21,020
+Speaker 0: So, but apparently, uh, two of the episodes have been restored, recovered, and they aired on some service in Japan.
+
+162
+00:12:21,984 --> 00:12:23,459
+Speaker 0: Um, how about that?
+
+163
+00:12:23,862 --> 00:12:25,540
+Speaker 0: So that's pretty awesome.
+
+164
+00:12:25,923 --> 00:12:28,200
+Speaker 0: I don't know what the prospects are for the third episode.
+
+165
+00:12:28,320 --> 00:12:29,759
+Speaker 0: I'm guessing not good.
+
+166
+00:12:30,220 --> 00:12:32,040
+Speaker 0: If they didn't bring that one back also, right.
+
+167
+00:12:32,080 --> 00:12:36,758
+Speaker 0: You got to imagine if they brought back two out of three, something prevented them from doing the three.
+
+168
+00:12:37,440 --> 00:12:39,140
+Speaker 0: But that's still pretty awesome.
+
+169
+00:12:39,641 --> 00:12:43,939
+Speaker 0: Uh, I love to see things recovered that were once thought to be gone.
+
+170
+00:12:44,870 --> 00:12:45,038
+Speaker 1: Yeah.
+
+171
+00:12:45,100 --> 00:12:50,780
+Speaker 1: But it's also been Astro Boy season for me because Emily and I finally just watched the Pluto anime, which just fantastic.
+
+172
+00:12:51,402 --> 00:12:54,260
+Speaker 1: But of course it was because the manga was also fantastic.
+
+173
+00:12:54,583 --> 00:12:56,280
+Speaker 0: And it's, and it is the manga basically.
+
+174
+00:12:56,407 --> 00:12:56,554
+Speaker 0: Yup.
+
+175
+00:12:56,840 --> 00:12:58,019
+Speaker 0: There's not much difference at all.
+
+176
+00:12:58,842 --> 00:12:59,780
+Speaker 0: I do think though.
+
+177
+00:12:59,780 --> 00:13:00,004
+Speaker 0: Way back.
+
+178
+00:13:01,182 --> 00:13:02,900
+Speaker 1: Cause you read the manga faster than I did.
+
+179
+00:13:03,041 --> 00:13:04,300
+Speaker 1: And we talked about a geek nights.
+
+180
+00:13:04,400 --> 00:13:09,599
+Speaker 1: If I remember we sat down one night to record geek nights and I mentioned like, Oh yeah, Pluto is pretty good so far.
+
+181
+00:13:10,022 --> 00:13:13,220
+Speaker 1: And you said, wait till you get to Saddam Hussein.
+
+182
+00:13:13,503 --> 00:13:15,320
+Speaker 1: And I said, ha what?
+
+183
+00:13:15,783 --> 00:13:17,100
+Speaker 1: And then you didn't say anything else.
+
+184
+00:13:17,301 --> 00:13:23,080
+Speaker 1: And then I, I was reminded of that moment when we were watching the manga cause we're watching the anime cause we're watching it.
+
+185
+00:13:23,161 --> 00:13:24,920
+Speaker 1: I'm just like, so when's today I'm going to come.
+
+186
+00:13:25,041 --> 00:13:26,139
+Speaker 1: And then Saddam's there.
+
+187
+00:13:26,484 --> 00:13:27,400
+Speaker 1: It just follows the manga.
+
+188
+00:13:27,522 --> 00:13:28,199
+Speaker 1: Like exactly.
+
+189
+00:13:30,866 --> 00:13:31,378
+Speaker 0: Uh, yeah.
+
+190
+00:13:32,600 --> 00:13:47,900
+Speaker 1: And also, uh, you know, in the last episode of geek nights between our sickness, I just want to point out again, don't watch Pluto all the way through and then immediately watch robot dreams because it's going to really, really color your perception of robot dreams.
+
+191
+00:13:47,900 --> 00:13:55,280
+Speaker 1: And you're going to have to work hard to separate the things that Pluto was saying from the very different set of allegories that robot dreams was going after.
+
+192
+00:13:55,480 --> 00:13:59,140
+Speaker 0: I didn't really make too many connections, but I mean, it's, uh, it's easy too.
+
+193
+00:13:59,361 --> 00:14:06,780
+Speaker 0: They're about robots and humanity, but I've seen or read so many sci-fi stories that are about like our robots.
+
+194
+00:14:07,020 --> 00:14:07,343
+Speaker 0: People.
+
+195
+00:14:07,465 --> 00:14:08,860
+Speaker 0: do we treat the robots like people?
+
+196
+00:14:09,380 --> 00:14:09,790
+Speaker 0: I don't know.
+
+197
+00:14:10,141 --> 00:14:10,390
+Speaker 0: Right.
+
+198
+00:14:10,820 --> 00:14:12,220
+Speaker 0: And uh, what is humanity?
+
+199
+00:14:12,480 --> 00:14:13,991
+Speaker 0: Can a robot be 10,000 of those.
+
+200
+00:14:15,521 --> 00:14:17,969
+Speaker 0: So I don't like, you know, direct.
+
+201
+00:14:18,150 --> 00:14:21,539
+Speaker 0: all of them are obviously coming from the same root of, you know, what?
+
+202
+00:14:21,840 --> 00:14:23,979
+Speaker 0: Metropolis or who knows even further back than that.
+
+203
+00:14:24,160 --> 00:14:30,120
+Speaker 0: So, um, directly saying like one and the other is kind of, you know, silly.
+
+204
+00:14:30,540 --> 00:14:33,940
+Speaker 1: It was partly just that they were juxtaposed temporarily in my brain.
+
+205
+00:14:34,321 --> 00:14:38,955
+Speaker 1: So I had to like step back from thinking about Pluto because I was still thinking about Pluto again.
+
+206
+00:14:39,841 --> 00:14:46,030
+Speaker 1: Uh, but yeah, that's part of why, you know, we did the murder bot books, uh, as the book club, but that was one of the things.
+
+207
+00:14:46,231 --> 00:14:48,221
+Speaker 1: that's what I liked the most about the murder bot books.
+
+208
+00:14:48,542 --> 00:14:52,095
+Speaker 1: is they just skip the entire, is it people?
+
+209
+00:14:52,215 --> 00:14:53,219
+Speaker 1: and get straight into?
+
+210
+00:14:53,259 --> 00:14:55,059
+Speaker 1: what do we do with the fact that they're obviously people.
+
+211
+00:14:55,400 --> 00:14:56,940
+Speaker 1: We don't need to have that sci-fi conversation.
+
+212
+00:14:57,180 --> 00:15:00,439
+Speaker 0: They murder bot books did also have the ones that were just bots.
+
+213
+00:15:01,000 --> 00:15:01,299
+Speaker 0: It did.
+
+214
+00:15:01,500 --> 00:15:02,900
+Speaker 0: And we're questionably people.
+
+215
+00:15:03,460 --> 00:15:09,567
+Speaker 0: Yeah, but it, but not the ones that are obviously the murder bot is obviously, uh, but at no point does anyone question that.
+
+216
+00:15:09,949 --> 00:15:14,970
+Speaker 1: the thing at the level of murder bot is people like book one, like chapter one, but also
+
+217
+00:15:15,131 --> 00:15:25,020
+Speaker 0: all, but also while there are bots that, you know, like pilots that are just flying ships that don't seem like they're quite at the people level, then they throw an art who has no biological components.
+
+218
+00:15:25,200 --> 00:15:25,602
+Speaker 0: We know of.
+
+219
+00:15:25,663 --> 00:15:35,560
+Speaker 1: that is clearly people, but even more people than murder bot in some ways, but like more people than people, like one of the first scenes and murder bot is all the people seeing the murder and be like, Oh shit, it's people.
+
+220
+00:15:35,860 --> 00:15:38,116
+Speaker 1: Obviously it's people like they just skip right past that.
+
+221
+00:15:41,521 --> 00:15:46,640
+Speaker 1: But anyway, things of the day, another new thing.
+
+222
+00:15:46,841 --> 00:15:48,920
+Speaker 1: This dropped like 12 days ago.
+
+223
+00:15:49,060 --> 00:15:50,520
+Speaker 1: It's already got almost 2 million views.
+
+224
+00:15:50,861 --> 00:16:02,000
+Speaker 1: It's just a really cute, short, animated music video, uh, to a really cute joke song, uh, about a girl and her first two days in college.
+
+225
+00:16:02,280 --> 00:16:04,740
+Speaker 1: And it's just, it's really poignant, really cute, really short.
+
+226
+00:16:04,840 --> 00:16:07,079
+Speaker 1: I love everything about this and I think everyone should watch it.
+
+227
+00:16:10,162 --> 00:16:27,560
+Speaker 0: So one thing I've been doing some thinking about lately are, you know, skills, people who have specialized skills, um, and how there are certain skills that we need and we don't have it when we need more people with those skills because the thing that they do, we need more of it done.
+
+228
+00:16:27,761 --> 00:16:33,555
+Speaker 0: And there aren't enough people who have learned that thing or good enough at it to where we can trust them to do it.
+
+229
+00:16:34,080 --> 00:16:36,840
+Speaker 1: Like that special thing about heart attacks usually.
+
+230
+00:16:36,949 --> 00:16:37,036
+Speaker 0: Yeah.
+
+231
+00:16:37,201 --> 00:16:39,200
+Speaker 0: Usually medical things as a, as a big one.
+
+232
+00:16:39,781 --> 00:16:46,940
+Speaker 0: Um, right where it's like, yes, it's like even if we manufactured a shit ton of MRI machines and that way no one had to wait for an MRI.
+
+233
+00:16:47,160 --> 00:16:49,039
+Speaker 0: We could just scan everyone in the whole world.
+
+234
+00:16:49,503 --> 00:16:51,240
+Speaker 0: You need enough radiologists to do that.
+
+235
+00:16:51,340 --> 00:16:53,459
+Speaker 0: How many people can a radiologist scan in a day?
+
+236
+00:16:54,123 --> 00:16:56,360
+Speaker 0: How many people are on earth, et cetera, right?
+
+237
+00:16:56,440 --> 00:16:57,299
+Speaker 0: Those sorts of questions.
+
+238
+00:16:57,961 --> 00:17:03,100
+Speaker 0: Um, but if you're thinking about less serious skills, you know, artistic skills, you've got things going on.
+
+239
+00:17:03,200 --> 00:17:10,919
+Speaker 0: I keep seeing stories about how in Japan, all these great old artisans who people are making YouTube videos of to show off how amazing they are.
+
+240
+00:17:11,840 --> 00:17:19,380
+Speaker 0: They got like no apprentices and they can't even sell their business because nobody's got any money and there's no more slack in society.
+
+241
+00:17:20,520 --> 00:17:26,096
+Speaker 0: It's like, and no one wants to learn some, you know, this ancient skill and become the master of whatever it is.
+
+242
+00:17:26,660 --> 00:17:33,220
+Speaker 1: I would argue there are probably tons of people who would want to learn almost any one of these skills, including the one that's your thing of the day.
+
+243
+00:17:33,821 --> 00:17:42,880
+Speaker 1: I just think society, capitalism, et cetera, may people who are even a little canny, look at that and realize I could become the master, but I would also die in the gutter.
+
+244
+00:17:43,794 --> 00:17:43,940
+Speaker 0: Yeah.
+
+245
+00:17:44,460 --> 00:17:52,115
+Speaker 0: So this person, Joby Carter, uh, they are one of the few people who remains that I'm aware of.
+
+246
+00:17:52,842 --> 00:17:57,980
+Speaker 0: Uh, there's not many who are basically masters of the art of sign writing.
+
+247
+00:17:58,281 --> 00:18:08,720
+Speaker 0: So nowadays when you want to make signs, like you can go to a sign making shop and most, you know, medium to large, you know, large places on cities and towns.
+
+248
+00:18:09,326 --> 00:18:10,800
+Speaker 0: And get a sign for your business.
+
+249
+00:18:10,860 --> 00:18:15,180
+Speaker 0: You know, usually those light up ones, LEDs or whatever, uh, they come at all.
+
+250
+00:18:15,280 --> 00:18:21,920
+Speaker 0: You can get tons of customization, but way back in the day, say, typically at like a circus, right?
+
+251
+00:18:22,220 --> 00:18:26,220
+Speaker 0: There's that particular font that, you know, is like, you get to see the font.
+
+252
+00:18:26,361 --> 00:18:30,300
+Speaker 0: And even if the words on the font said like, not a circus, no circus is here.
+
+253
+00:18:31,180 --> 00:18:31,305
+Speaker 1: Yeah.
+
+254
+00:18:32,520 --> 00:18:34,760
+Speaker 0: That font means elephant peanuts.
+
+255
+00:18:35,020 --> 00:18:35,208
+Speaker 0: Let's go.
+
+256
+00:18:36,042 --> 00:18:38,119
+Speaker 0: There's clearly a cloud behind that gate.
+
+257
+00:18:39,242 --> 00:18:41,719
+Speaker 0: I could, you could just write, it could just write, go away.
+
+258
+00:18:42,164 --> 00:18:43,039
+Speaker 0: No, no admittance.
+
+259
+00:18:44,123 --> 00:18:46,219
+Speaker 0: And you know, there's a cloud because of the font, right?
+
+260
+00:18:46,622 --> 00:18:49,520
+Speaker 0: But back in the day, that font wasn't made with a computer.
+
+261
+00:18:50,001 --> 00:18:54,100
+Speaker 0: That font wasn't made by any sort of photo shops, right?
+
+262
+00:18:54,361 --> 00:18:56,520
+Speaker 0: That font wasn't made by a robot with a paint brush.
+
+263
+00:18:56,841 --> 00:19:00,719
+Speaker 0: It was painted on a wooden sign with paint by a human who was very skilled.
+
+264
+00:19:01,321 --> 00:19:04,900
+Speaker 0: Um, and probably did not get enough appreciation for those skills.
+
+265
+00:19:05,522 --> 00:19:12,536
+Speaker 0: And Joby Carter is a person in the year 2024 who has those skills and will show off those skills.
+
+266
+00:19:13,160 --> 00:19:16,999
+Speaker 0: We'll use those skills, uh, to make you a sign in exchange for money.
+
+267
+00:19:18,181 --> 00:19:22,800
+Speaker 0: And more importantly, we'll teach you those skills in exchange for money.
+
+268
+00:19:23,323 --> 00:19:25,620
+Speaker 0: Um, and perhaps even partially for not money.
+
+269
+00:19:26,362 --> 00:19:36,099
+Speaker 0: And, uh, I wonder though, if you learn your, if you learn the skills from Joby Carter and master the art of sign writing as well as they have, could you make money doing it?
+
+270
+00:19:36,400 --> 00:19:39,519
+Speaker 0: Because there's sort of the market's kind of small and it seems like he's cornered it.
+
+271
+00:19:40,960 --> 00:19:47,518
+Speaker 0: Um, but I am glad that the art will not fade and that Joby Carter is passing it on to some peoples.
+
+272
+00:19:47,840 --> 00:19:48,240
+Speaker 0: Well, it's great.
+
+273
+00:19:48,380 --> 00:19:51,740
+Speaker 0: He's got an art I greatly appreciate because boy, do I love those signs.
+
+274
+00:19:52,202 --> 00:19:55,000
+Speaker 1: If you scroll down even a little bit on his page, he's got a quote.
+
+275
+00:19:55,521 --> 00:20:00,279
+Speaker 1: When you know how to truly see lettering, you'll never look at the world the same way again.
+
+276
+00:20:00,481 --> 00:20:09,160
+Speaker 1: And as someone who gets mad about kerning, even though I am not a kerning expert, like I couldn't make it good, but I can tell you when it's bad in the meta moment.
+
+277
+00:20:09,600 --> 00:20:11,480
+Speaker 1: The geek nights book club book is walk on girl.
+
+278
+00:20:11,880 --> 00:20:12,597
+Speaker 1: The night is short.
+
+279
+00:20:13,260 --> 00:20:14,758
+Speaker 1: Uh, we'll probably finish it on the train.
+
+280
+00:20:15,322 --> 00:20:16,360
+Speaker 0: On the train to packs.
+
+281
+00:20:16,560 --> 00:20:17,453
+Speaker 0: I read part two.
+
+282
+00:20:18,160 --> 00:20:18,223
+Speaker 1: Ooh.
+
+283
+00:20:18,828 --> 00:20:19,179
+Speaker 1: All right.
+
+284
+00:20:19,882 --> 00:20:21,579
+Speaker 0: The book, the, uh, the book fair part.
+
+285
+00:20:22,060 --> 00:20:24,199
+Speaker 1: I'm going to move into the next part.
+
+286
+00:20:24,500 --> 00:20:28,660
+Speaker 0: Then, uh, this weekend, the third part is I will read next.
+
+287
+00:20:28,984 --> 00:20:29,779
+Speaker 1: Yeah, I'm liking it.
+
+288
+00:20:30,202 --> 00:20:34,640
+Speaker 1: Partly though, it's reminding me about everything I liked about the movie, but also it's really well written.
+
+289
+00:20:34,800 --> 00:20:35,499
+Speaker 1: Like I'm enjoying it.
+
+290
+00:20:35,720 --> 00:20:36,415
+Speaker 1: It moves pretty quick.
+
+291
+00:20:37,980 --> 00:20:40,760
+Speaker 1: Uh, we were, well, Scott was just at PAX East.
+
+292
+00:20:41,301 --> 00:20:56,260
+Speaker 1: Uh, I think our next convention is going to be PAX West followed by PAX unplugged and then PAX East again, which, uh, yeah, that, that's how our schedule is going to be at this point, a magfest in between those two probably.
+
+293
+00:20:56,683 --> 00:20:58,858
+Speaker 1: And otherwise, I don't know what we're going to be up to.
+
+294
+00:20:59,323 --> 00:21:00,658
+Speaker 1: Probably doing a lot of biking and stuff.
+
+295
+00:21:02,140 --> 00:21:08,956
+Speaker 0: It is the summertime for the beacon and the bike and the bike and the bike and in the beach.
+
+296
+00:21:09,400 --> 00:21:16,600
+Speaker 1: I also, I, uh, I went out and I bought new skis because the pro move with most things is to buy them just as the season is ending.
+
+297
+00:21:16,721 --> 00:21:19,479
+Speaker 1: Like going to buy a new bike by last year's model.
+
+298
+00:21:20,222 --> 00:21:22,260
+Speaker 0: Well, yes and no, right?
+
+299
+00:21:22,380 --> 00:21:24,140
+Speaker 0: That's, there's two strategies, right?
+
+300
+00:21:24,661 --> 00:21:26,520
+Speaker 0: Well, there's a few different strategies, right?
+
+301
+00:21:27,182 --> 00:21:35,280
+Speaker 0: A buy the brand new thing as soon as it comes out, because even though you'll pay a lot, you get more value because you've had more time with it, right?
+
+302
+00:21:35,700 --> 00:21:40,780
+Speaker 1: I think that applies mostly to when there is a significant advancement in the field.
+
+303
+00:21:40,860 --> 00:21:46,657
+Speaker 1: So for example, if you buy a 4080, the day it comes out as a video card, that is absolutely worth it.
+
+304
+00:21:46,881 --> 00:21:53,340
+Speaker 0: If you're going to use that power, it'll cost you the same amount of money two months from now and you'll get two months less usage out of it, right?
+
+305
+00:21:53,560 --> 00:21:56,320
+Speaker 0: Because you're going to die presumably on the same day in the future.
+
+306
+00:21:56,460 --> 00:22:03,669
+Speaker 1: But for an average car, like is the 2025 version of a specific car materially different from the 2024 version?
+
+307
+00:22:05,242 --> 00:22:06,014
+Speaker 1: In most cases, no.
+
+308
+00:22:07,220 --> 00:22:07,292
+Speaker 0: Yep.
+
+309
+00:22:07,701 --> 00:22:09,459
+Speaker 0: Anyway, we've done shows about buying things.
+
+310
+00:22:10,465 --> 00:22:11,137
+Speaker 0: Let's move on.
+
+311
+00:22:11,960 --> 00:22:20,619
+Speaker 1: So, uh, some time ago, uh, this manga came out starting in 2014 and I think I read a little bit of it.
+
+312
+00:22:20,700 --> 00:22:25,798
+Speaker 1: Like when it came out in English, I read like one volume and we have most of the volumes on the shelf.
+
+313
+00:22:26,081 --> 00:22:30,680
+Speaker 0: I did read at least one of them, perhaps two, but I forgot the details.
+
+314
+00:22:30,820 --> 00:22:32,800
+Speaker 1: I didn't even read deep enough to get to the dragon.
+
+315
+00:22:33,280 --> 00:22:36,439
+Speaker 0: So I remember the broad, the dragon's literally the first page.
+
+316
+00:22:36,963 --> 00:22:38,399
+Speaker 1: No bug, no bug beating the dragon.
+
+317
+00:22:39,045 --> 00:22:40,040
+Speaker 0: Oh yeah, I didn't get to that.
+
+318
+00:22:40,242 --> 00:22:40,959
+Speaker 0: No, not even close.
+
+319
+00:22:41,381 --> 00:22:51,880
+Speaker 1: But what I remember is I read like the first volume and it was super cute and I really liked the art and I very specifically really liked the faces the characters make like that.
+
+320
+00:22:52,344 --> 00:22:53,519
+Speaker 1: That sold me on this manga.
+
+321
+00:22:54,482 --> 00:22:56,740
+Speaker 0: There's a lot of mangas that do that, but this is one of them.
+
+322
+00:22:57,600 --> 00:23:01,840
+Speaker 1: And then, uh, and it had a pretty good premise, but uh, I don't think we ever read it on geek nights.
+
+323
+00:23:01,963 --> 00:23:02,579
+Speaker 1: Like it was cute.
+
+324
+00:23:02,680 --> 00:23:05,699
+Speaker 1: It was light, but it wasn't really a manga season, at least for me.
+
+325
+00:23:06,781 --> 00:23:09,032
+Speaker 1: There are apparently now 14 volumes of this manga.
+
+326
+00:23:11,321 --> 00:23:18,341
+Speaker 0: It's been running continuously between 2014 and, uh, uh, it appears to have ended in September of 2023.
+
+327
+00:23:18,341 --> 00:23:23,060
+Speaker 1: So not that long ago, but more importantly, there isn't, we're talking about it today.
+
+328
+00:23:23,741 --> 00:23:27,280
+Speaker 0: Is that, uh, this year, it was a very, it is a very popular manga.
+
+329
+00:23:27,600 --> 00:23:27,714
+Speaker 1: Yeah.
+
+330
+00:23:28,362 --> 00:23:38,298
+Speaker 1: And I can see why, like the cons, there's a lot, a lot of reasons why you could predict this would be a popular manga, but, uh, of course a popular manga tends to get a popular anime.
+
+331
+00:23:39,041 --> 00:23:50,739
+Speaker 1: And in a confluence Netflix licensed Dungeon Meshi, they contracted studio trigger to make the anime and the anime started coming out this year.
+
+332
+00:23:51,001 --> 00:23:52,815
+Speaker 1: A couple months ago, there are 12 episodes.
+
+333
+00:23:53,740 --> 00:23:54,940
+Speaker 1: It comes out every Thursday.
+
+334
+00:23:55,504 --> 00:23:56,899
+Speaker 1: I'm watching it as it comes out.
+
+335
+00:23:57,244 --> 00:23:58,440
+Speaker 1: And that's what we're reviewing today.
+
+336
+00:23:58,760 --> 00:24:04,440
+Speaker 0: They're not doing, I think the reason it's not like a big dump, even though it's a Netflix is because they're putting one episode out.
+
+337
+00:24:04,480 --> 00:24:07,600
+Speaker 0: Like I think actually broadcasting on Japan and some channel.
+
+338
+00:24:07,761 --> 00:24:10,900
+Speaker 0: I'm not a hundred percent sure, but I'm pretty sure that that's what's happening.
+
+339
+00:24:11,161 --> 00:24:11,539
+Speaker 1: And you know what?
+
+340
+00:24:11,846 --> 00:24:12,519
+Speaker 1: I'm fine with that.
+
+341
+00:24:13,181 --> 00:24:19,838
+Speaker 1: I do not have time in my life to sit down and like dump watch a show except in very limited circumstances.
+
+342
+00:24:20,264 --> 00:24:21,820
+Speaker 0: Just cause they dump the release.
+
+343
+00:24:22,060 --> 00:24:23,399
+Speaker 0: It doesn't mean you got to dump watch it.
+
+344
+00:24:23,720 --> 00:24:23,811
+Speaker 0: Yeah.
+
+345
+00:24:24,080 --> 00:24:37,140
+Speaker 1: But also because it's coming out slowly, uh, one thing I've noticed, so one, my non ultra nerdy, like contacts, like people I work with, some of my coworkers are just watching the show as it comes out.
+
+346
+00:24:37,180 --> 00:24:39,679
+Speaker 1: Cause their kids are watching it just like regular old TV.
+
+347
+00:24:39,941 --> 00:24:49,159
+Speaker 1: So once again, anime is mainstream, but because it's coming out week by week, like people at work, like on Fridays are like, Oh, Hey, did you watch the dungeon show?
+
+348
+00:24:50,043 --> 00:24:50,820
+Speaker 1: How about that dragon?
+
+349
+00:24:51,544 --> 00:24:53,200
+Speaker 1: Cause 0% of them are reading the manga.
+
+350
+00:24:53,340 --> 00:24:54,639
+Speaker 1: They've all, they're only watching this anime.
+
+351
+00:24:56,181 --> 00:25:12,319
+Speaker 0: Uh, so the thing with this show is you look around the mangas right now, the popular mangas and animes, and there's been for quite a few years now, this trend of, uh, it's, you know, the people talk about isekai, which, you know, it just shows where you're transported into another world, right?
+
+352
+00:25:12,560 --> 00:25:17,019
+Speaker 0: Usually a video game RPG world, and that does account for a lot of these.
+
+353
+00:25:18,022 --> 00:25:19,552
+Speaker 0: But that's not, this isn't that?
+
+354
+00:25:19,753 --> 00:25:20,780
+Speaker 0: first of all, right.
+
+355
+00:25:20,820 --> 00:25:22,780
+Speaker 0: There's no, this is just the world they live in.
+
+356
+00:25:22,900 --> 00:25:24,220
+Speaker 0: It's not a transported to the world.
+
+357
+00:25:24,560 --> 00:25:36,653
+Speaker 1: The thing is though, I think a lot of those older ones, like eska flown a technically, like she was transferred into the world, but there's this like slayers had a certain level of the slayers universe felt very video gamey, but it wasn't.
+
+358
+00:25:36,753 --> 00:25:42,980
+Speaker 1: the more modern trend of literally transported into a literal video game and here are online is right.
+
+359
+00:25:43,180 --> 00:25:43,297
+Speaker 0: Yeah.
+
+360
+00:25:43,802 --> 00:25:53,619
+Speaker 0: But what it's happening more nowadays are these, you know, the past several years, I say nowadays, right for a while now, but still going strong are these sort of scenario based shows.
+
+361
+00:25:53,921 --> 00:26:00,239
+Speaker 0: And, you know, you think about it, every show sort of is a, you know, situational sitcom scenario based, right?
+
+362
+00:26:00,580 --> 00:26:05,320
+Speaker 0: You know, even think about like death note is, is, you know, here's the scenario rules.
+
+363
+00:26:05,461 --> 00:26:11,979
+Speaker 1: We're going to explore this scenario to its absolute extreme conclusion and then make another season with different characters for some reason.
+
+364
+00:26:12,576 --> 00:26:12,720
+Speaker 0: Right.
+
+365
+00:26:12,860 --> 00:26:17,600
+Speaker 0: Or even like a lot of Shonen shows, you know, one piece you might even say it's like a scenario based show.
+
+366
+00:26:17,620 --> 00:26:25,780
+Speaker 0: It's like a pirate in a world where there's this one piece that, and if you get it, you'll be the pirate king or whatever, you know, one knows what it is.
+
+367
+00:26:25,820 --> 00:26:26,179
+Speaker 0: It's off.
+
+368
+00:26:26,320 --> 00:26:28,459
+Speaker 0: It's often this grand line somewhere, right?
+
+369
+00:26:29,001 --> 00:26:43,779
+Speaker 0: It's like it, that's a loose, you know, sort of overarching scenario, but, um, what's happening is that a lot of these, they're just going all in on these weird scenarios and they're literally naming a lot of shows the name of the scenario.
+
+370
+00:26:44,340 --> 00:26:48,620
+Speaker 0: Like, you know, uh, there's like, is it okay to date girls in a dungeon?
+
+371
+00:26:49,800 --> 00:26:51,720
+Speaker 0: There's, uh, what, what's the one?
+
+372
+00:26:51,840 --> 00:26:55,480
+Speaker 0: Oh, like I was, I, I leveled up too long or whatever.
+
+373
+00:26:55,761 --> 00:27:01,600
+Speaker 0: I killed a thousand, I killed a million slimes and got max level, um, or a lot of RPG.
+
+374
+00:27:01,940 --> 00:27:09,700
+Speaker 0: They're at the point to where it's like the, the, the weakest person from the strongest village, like left and went to the tutorial village.
+
+375
+00:27:10,422 --> 00:27:16,640
+Speaker 1: Like if we listed 10 real ones and five fake ones, you wouldn't be able to tell which ones were real, which ones were fake.
+
+376
+00:27:16,980 --> 00:27:21,420
+Speaker 0: And some of them, you know, the premises at least sound fun if trite, right?
+
+377
+00:27:21,721 --> 00:27:30,759
+Speaker 0: But the premise of delicious and dungeon is the adventures, you know, actual adventures, not, you know, people from another world, right?
+
+378
+00:27:32,440 --> 00:27:38,319
+Speaker 0: Go into a dungeon and the dungeon is real deep and they don't want to carry food with them and they can't afford to buy food.
+
+379
+00:27:38,902 --> 00:27:43,240
+Speaker 0: So they eat what's in the dungeon and the show is about the food.
+
+380
+00:27:44,160 --> 00:27:48,571
+Speaker 0: And even though it's sort of one of those kind of scenarios,
+
+381
+00:27:48,591 --> 00:27:48,631
+Speaker 1: um,
+
+382
+00:27:50,075 --> 00:27:57,840
+Speaker 0: it actually works because, you know, it's not just something that's, uh, I don't know what the right word for,
+
+383
+00:27:57,960 --> 00:27:59,086
+Speaker 1: I guess what it is is that it's
+
+384
+00:27:59,126 --> 00:28:08,880
+Speaker 0: not like a fan service where it's like you, you sort of have this wish fulfillment of like, you know, uh, you know, dating girls or being level a thousand or something, right?
+
+385
+00:28:09,020 --> 00:28:17,500
+Speaker 0: It's just, it's sort of taking it on as more of a real challenge, you know, conflict resolution, problem solving thing.
+
+386
+00:28:17,944 --> 00:28:19,358
+Speaker 0: And it's closer to the Dr.
+
+387
+00:28:20,203 --> 00:28:22,020
+Speaker 0: Stone, but less stupid.
+
+388
+00:28:22,460 --> 00:28:22,532
+Speaker 1: Yup.
+
+389
+00:28:22,980 --> 00:28:31,000
+Speaker 1: But also while it centers the cooking in everything that's happening, the plot is not about the cooking.
+
+390
+00:28:31,120 --> 00:28:50,714
+Speaker 1: Like if you separate the plot from the scenario, the plot is these are adventures and like irrespective of why they start and why they're poor, everybody's trying to go into this dungeon because this dungeon has some secret and it's a high fantasy world that is very similar to the kind of fantasy world that slayers is like.
+
+391
+00:28:51,075 --> 00:28:52,220
+Speaker 1: magic has rules.
+
+392
+00:28:52,500 --> 00:28:54,059
+Speaker 0: There's wizards, there's swords.
+
+393
+00:28:54,560 --> 00:28:54,632
+Speaker 1: Yup.
+
+394
+00:28:55,342 --> 00:28:57,840
+Speaker 1: There's knights, there's D&D based, you know.
+
+395
+00:28:58,100 --> 00:28:59,996
+Speaker 1: Like the standard types of fantasy races.
+
+396
+00:29:00,988 --> 00:29:01,600
+Speaker 0: There's orcs, dragons.
+
+397
+00:29:02,562 --> 00:29:05,600
+Speaker 1: And the plot itself is moderately compelling.
+
+398
+00:29:05,800 --> 00:29:06,959
+Speaker 1: The characters are pretty good.
+
+399
+00:29:07,541 --> 00:29:12,264
+Speaker 1: So yeah, the episodes are almost like 30%.
+
+400
+00:29:12,264 --> 00:29:13,577
+Speaker 1: There is a story here.
+
+401
+00:29:13,577 --> 00:29:16,199
+Speaker 1: 30% less than that.
+
+402
+00:29:16,880 --> 00:29:18,673
+Speaker 1: Well, there is a story here.
+
+403
+00:29:19,801 --> 00:29:21,919
+Speaker 1: I didn't say it was a particularly intense story.
+
+404
+00:29:22,460 --> 00:29:25,700
+Speaker 0: No, no, it's, but it's like, you know, there is a story, right?
+
+405
+00:29:25,761 --> 00:29:27,560
+Speaker 0: It's like we have a goal in this dungeon.
+
+406
+00:29:27,701 --> 00:29:29,680
+Speaker 0: There is a real thing going on, right?
+
+407
+00:29:30,081 --> 00:29:35,720
+Speaker 0: But it's like you're only mostly seeing them deal with the problem of getting food.
+
+408
+00:29:35,840 --> 00:29:50,320
+Speaker 0: It would be like if you had, uh, a TV show, like a real life TV show about, um, I don't know, a, uh, a car sales person.
+
+409
+00:29:50,340 --> 00:29:50,443
+Speaker 0: Right.
+
+410
+00:29:51,381 --> 00:29:59,579
+Speaker 0: And it's like, yeah, we let you know if car sales are going well, poorly, how their life is going a little bit, just so you understand who the person is.
+
+411
+00:30:00,130 --> 00:30:00,360
+Speaker 0: Right.
+
+412
+00:30:00,680 --> 00:30:07,880
+Speaker 0: But mostly we're going to be like, all the screen time is going to be going to the three meals a day that this person eats, right?
+
+413
+00:30:08,200 --> 00:30:11,015
+Speaker 0: Because it's like, no matter what your job is, you got some food.
+
+414
+00:30:11,035 --> 00:30:11,820
+Speaker 0: you're eating, right?
+
+415
+00:30:11,920 --> 00:30:12,339
+Speaker 0: You're a human.
+
+416
+00:30:12,441 --> 00:30:13,480
+Speaker 0: You're not starving yourself.
+
+417
+00:30:13,604 --> 00:30:14,058
+Speaker 0: I hope not.
+
+418
+00:30:15,161 --> 00:30:26,159
+Speaker 0: So we're just going to show you, we're going to spend 20 out of the 30, 20, 25 out of the 30 minutes of screen time showing you this person cooking, eating, grocery shopping, et cetera.
+
+419
+00:30:26,740 --> 00:30:30,316
+Speaker 0: And the rest of the time, we're just sort of letting you know who they are and what's up in their life.
+
+420
+00:30:30,881 --> 00:30:34,280
+Speaker 1: Yeah, but it is like the plot is starting to evolve around them.
+
+421
+00:30:34,440 --> 00:30:40,900
+Speaker 1: Like a lot of the, on the way storytelling is building up to clearly this manga is going to deal with the dungeon itself.
+
+422
+00:30:41,081 --> 00:30:51,460
+Speaker 1: And clearly these adventures, again, I haven't read the manga, so I'm actually speculating from the 12 episodes of the show that have come out because that's literally the most, all I know about this show or this plot.
+
+423
+00:30:52,122 --> 00:31:02,172
+Speaker 1: But I feel like the fact that they're just eating in the dungeon and like entering the ecosystem of the dungeon means that the bigger plot is.
+
+424
+00:31:02,634 --> 00:31:04,878
+Speaker 1: that is actually the secret to the dungeon.
+
+425
+00:31:05,140 --> 00:31:10,560
+Speaker 1: They're going to get deeper than anyone's ever gotten because even though they're not the most powerful, they're, they're doing it.
+
+426
+00:31:10,760 --> 00:31:11,920
+Speaker 0: They're pretty powerful though, right?
+
+427
+00:31:12,000 --> 00:31:20,800
+Speaker 0: It's like that usually a lot of these shows, the, the adventures are either going to be like really weak beginners and you see them level up over time right here.
+
+428
+00:31:20,981 --> 00:31:23,619
+Speaker 0: It's like they actually are pretty strong.
+
+429
+00:31:23,760 --> 00:31:28,780
+Speaker 1: They're like mid-level carry, like in D&D terms, they're like seventh or eighth level, like serious biz characters.
+
+430
+00:31:28,840 --> 00:31:30,780
+Speaker 0: I think they might be stronger than that even, right?
+
+431
+00:31:30,820 --> 00:31:37,920
+Speaker 0: They're obviously not like God tier or anything, but they're, you know, like mega wizards, but it's like, they're really powerful.
+
+432
+00:31:38,680 --> 00:31:46,600
+Speaker 0: They feel like what a level eight to 10 like characters, especially, you know, the highest level is actually the little thief guy who doesn't get enough screen time.
+
+433
+00:31:46,900 --> 00:31:47,200
+Speaker 1: Oh, chill Chuck.
+
+434
+00:31:47,700 --> 00:31:47,785
+Speaker 0: Yeah.
+
+435
+00:31:48,160 --> 00:31:50,020
+Speaker 0: He basically detects every trap.
+
+436
+00:31:50,200 --> 00:31:50,659
+Speaker 0: No problem.
+
+437
+00:31:50,921 --> 00:31:52,040
+Speaker 0: Never gets fooled by them.
+
+438
+00:31:52,140 --> 00:31:52,879
+Speaker 1: He's never wrong.
+
+439
+00:31:53,000 --> 00:31:55,639
+Speaker 1: Whenever he says not to do something like they should have listened to him.
+
+440
+00:31:56,200 --> 00:31:56,300
+Speaker 0: Yeah.
+
+441
+00:31:56,360 --> 00:32:00,898
+Speaker 0: It's like he just seems less powerful because his skills are just thief skills and not kill monster skills.
+
+442
+00:32:01,260 --> 00:32:06,139
+Speaker 1: There's a great, there's a great moment where they're like, all right, we're going to do this and this and this and this to fight the thing.
+
+443
+00:32:06,463 --> 00:32:07,840
+Speaker 1: And then he, and they're like, what are you going to do?
+
+444
+00:32:07,900 --> 00:32:08,740
+Speaker 1: He's like, the fuck?
+
+445
+00:32:08,781 --> 00:32:09,480
+Speaker 1: I'm not doing anything.
+
+446
+00:32:09,500 --> 00:32:10,560
+Speaker 1: I'm a thief, but I'm not here.
+
+447
+00:32:10,761 --> 00:32:11,937
+Speaker 1: That's not the part I'm good at.
+
+448
+00:32:12,360 --> 00:32:14,140
+Speaker 0: My goal was an episode that highlighted him.
+
+449
+00:32:14,281 --> 00:32:15,259
+Speaker 0: Episode three maybe.
+
+450
+00:32:15,421 --> 00:32:17,180
+Speaker 1: But it was like, my job is to get you there.
+
+451
+00:32:17,260 --> 00:32:19,359
+Speaker 1: My job is not to directly fight the dragon dudes.
+
+452
+00:32:19,800 --> 00:32:20,818
+Speaker 1: Like you keep forgetting this.
+
+453
+00:32:22,982 --> 00:32:25,240
+Speaker 1: But the characters are really endearing along the way.
+
+454
+00:32:25,320 --> 00:32:33,960
+Speaker 1: But what I really want to focus on is that the structure of the episodes is just, it's leaning into the cooking show aspect in a very apt way.
+
+455
+00:32:34,020 --> 00:32:36,980
+Speaker 1: Cause one studio trigger, they understood the mission.
+
+456
+00:32:37,560 --> 00:32:46,300
+Speaker 1: You have to make the cooking part of the show be ghibli levels of, I want to eat that as the viewer, even though it's monsters.
+
+457
+00:32:47,061 --> 00:32:53,879
+Speaker 1: And right away, I said every episode I'd like, if we haven't eaten dinner, I really want to eat what they're cooking.
+
+458
+00:32:54,062 --> 00:32:55,479
+Speaker 1: Like up to the point that I'll draw it.
+
+459
+00:32:55,680 --> 00:32:59,220
+Speaker 1: It's, it's just ghibli level animation of the cooking process.
+
+460
+00:32:59,481 --> 00:33:07,579
+Speaker 0: Well, and then when the meal is, when the meal is done, they always have this like still frame that they sort of slowly zoom out of like straight out of a Japanese travel show.
+
+461
+00:33:08,290 --> 00:33:08,520
+Speaker 0: Yeah.
+
+462
+00:33:08,620 --> 00:33:15,659
+Speaker 0: And it's like the best drawing they can make of the food and like a big text that says what the food is.
+
+463
+00:33:15,820 --> 00:33:22,419
+Speaker 0: And then like the sound effect, like doo doo, like ta da, the food, here it is, the meal.
+
+464
+00:33:23,000 --> 00:33:23,146
+Speaker 1: Yup.
+
+465
+00:33:23,760 --> 00:33:45,660
+Speaker 1: But what's really clever is that the cooking, this is going to sound weird to say the process of the cooking is extremely realistic, despite the fact that none of the ingredients are real, because they, they basically describe a process of preparing food that is along the lines of what a similar real world dish would be.
+
+466
+00:33:45,860 --> 00:33:53,200
+Speaker 1: Like this kind of meat with these kinds of risks has to be done this way or the bit where like he takes a bite of the thing before they cook it.
+
+467
+00:33:53,260 --> 00:33:55,519
+Speaker 1: And then later it gets food poisoning when he bit it.
+
+468
+00:33:55,842 --> 00:33:58,540
+Speaker 1: We're sitting there and Emily's like, why doesn't he get food poisoning?
+
+469
+00:33:58,701 --> 00:34:01,259
+Speaker 1: And then five minutes later in the show, we're like, well.
+
+470
+00:34:05,361 --> 00:34:16,420
+Speaker 0: Yeah, you know, there's a lot of sci-fis and fantasies that do that, where they take the rules of the real world, apply them to something fantastical while keeping a lot of the truths intact.
+
+471
+00:34:16,900 --> 00:34:19,880
+Speaker 0: It's like, this is true about eating lamb meat.
+
+472
+00:34:20,300 --> 00:34:23,659
+Speaker 0: We'll just teach, we'll just, which is a real thing in the real world.
+
+473
+00:34:24,061 --> 00:34:28,199
+Speaker 0: So we'll take that and we'll just say that it's also true for cooking monster meat.
+
+474
+00:34:29,324 --> 00:34:34,679
+Speaker 1: They pulled me in too, because they're early on, there's the episode where it's like, where it says she's like, I want to eat the living armor.
+
+475
+00:34:34,821 --> 00:34:36,679
+Speaker 1: And everyone's like, that's literally impossible.
+
+476
+00:34:36,802 --> 00:34:37,558
+Speaker 1: What's wrong with you?
+
+477
+00:34:38,002 --> 00:34:41,100
+Speaker 1: And even I, the viewer was like, okay, they're not going to eat the living armor.
+
+478
+00:34:41,239 --> 00:34:42,940
+Speaker 1: Clearly they'll eat something else in this episode.
+
+479
+00:34:43,440 --> 00:34:47,280
+Speaker 1: And then by the end of the episode, when they eat the living armor, it was just fantastic.
+
+480
+00:34:49,443 --> 00:34:51,120
+Speaker 1: Like that was an A plus moment.
+
+481
+00:34:51,840 --> 00:34:58,760
+Speaker 0: But then, you know, there's always, you could sort of actually see through that one because it's like, you know, they're going to eat it somehow, even though it's made of metal.
+
+482
+00:34:59,000 --> 00:34:59,996
+Speaker 0: I wonder what it could be.
+
+483
+00:35:00,561 --> 00:35:07,079
+Speaker 1: I thought Senshi was going to eat it because he's a dwarf and he just could, but they went way better than what I thought was going to happen.
+
+484
+00:35:08,561 --> 00:35:19,695
+Speaker 1: But then you get a kind of a good turnabout and the tone shift, the same way that slayers would have the tone shift at a certain point where toward the end of what we've seen so far.
+
+485
+00:35:20,042 --> 00:35:20,833
+Speaker 0: I've only seen four.
+
+486
+00:35:21,861 --> 00:35:22,580
+Speaker 1: Oh, oh, okay.
+
+487
+00:35:22,840 --> 00:35:24,059
+Speaker 0: So I watched the orc episode.
+
+488
+00:35:24,381 --> 00:35:36,700
+Speaker 1: Let's say they get to a point where they discover a dead body that is, uh, extremely realistic, gruesome, like problem body and food on it.
+
+489
+00:35:36,980 --> 00:35:46,280
+Speaker 1: And they're gonna, they're gonna do a resurrection thing and they animate and step through the process of like, we got to sort the bones.
+
+490
+00:35:46,562 --> 00:35:47,479
+Speaker 1: We got to do this.
+
+491
+00:35:47,782 --> 00:35:49,540
+Speaker 1: Is that a human bone or a war bone?
+
+492
+00:35:49,941 --> 00:35:53,000
+Speaker 1: Like get the blood off the, get the skin off the skull.
+
+493
+00:35:53,140 --> 00:36:07,200
+Speaker 1: Like they do all the steps, just like the cooking show, except it's 100% dead serious and more like a medical drama to do the resurrection spell and applying the process of cooking to everything you do, even if it's not cooking.
+
+494
+00:36:07,380 --> 00:36:07,540
+Speaker 0: Yup.
+
+495
+00:36:07,940 --> 00:36:09,920
+Speaker 1: They pull it off perfectly.
+
+496
+00:36:10,182 --> 00:36:12,158
+Speaker 1: It is such a fantastic scene.
+
+497
+00:36:12,900 --> 00:36:17,900
+Speaker 0: It's like if you play shock social science fiction and your only conflict resolution mechanisms are stabbing and cooking.
+
+498
+00:36:18,181 --> 00:36:20,380
+Speaker 0: So sometimes I want to resurrect someone.
+
+499
+00:36:20,480 --> 00:36:21,960
+Speaker 0: Well, I'm not going to resurrect them by stabbing.
+
+500
+00:36:22,080 --> 00:36:30,857
+Speaker 1: I guess I'll resurrect them by cooking for, for the listeners unaware because you wouldn't know about the, the, the role playing system by Mr.
+
+501
+00:36:31,980 --> 00:36:36,340
+Speaker 1: Newman shock social science fiction, which I think got a second edition that we never played or even read.
+
+502
+00:36:36,781 --> 00:36:44,900
+Speaker 1: But, uh, this is literally a role playing system where you play in a world like a dnd world or a space world or whatever.
+
+503
+00:36:45,240 --> 00:36:48,320
+Speaker 1: But literally science, it doesn't make sense.
+
+504
+00:36:48,561 --> 00:36:55,502
+Speaker 1: Like, unless it's deep science fiction, that's addressing social issues, but literally the rules are.
+
+505
+00:36:56,184 --> 00:37:02,000
+Speaker 1: there are two ways to resolve all conflicts at the table, no exceptions.
+
+506
+00:37:02,500 --> 00:37:06,520
+Speaker 1: So as a group, you decide what those two options are and that's it.
+
+507
+00:37:07,101 --> 00:37:09,780
+Speaker 1: Everything is literally framed that way in the game.
+
+508
+00:37:09,841 --> 00:37:10,620
+Speaker 1: And it's fantastic.
+
+509
+00:37:10,962 --> 00:37:13,560
+Speaker 1: And it is so applicable to how delicious and dungeon proceeds.
+
+510
+00:37:13,760 --> 00:37:14,196
+Speaker 1: It's perfect.
+
+511
+00:37:16,602 --> 00:37:22,260
+Speaker 0: So, uh, so yeah, the one thing I got to say is that, you know, it's studio trigger comes in and so you're expecting, right?
+
+512
+00:37:22,360 --> 00:37:31,398
+Speaker 0: These are the people who brought you inferno cop, kill la kill, kill la kill, uh, uh, little witch academia from air.
+
+513
+00:37:32,509 --> 00:37:32,717
+Speaker 0: Yup.
+
+514
+00:37:33,120 --> 00:37:41,860
+Speaker 0: So you're expecting it to be bombastic off the wall, extreme, like so anime, right?
+
+515
+00:37:44,383 --> 00:37:48,340
+Speaker 0: Um, and it really isn't because they're got this manga that they're adapting, right?
+
+516
+00:37:48,400 --> 00:37:55,318
+Speaker 0: A lot of those other ones were, you know, originals, um, and whatnot that was like mostly them or all them.
+
+517
+00:37:55,862 --> 00:37:58,540
+Speaker 0: And so they could put their, their sort of own style on it.
+
+518
+00:37:58,620 --> 00:38:02,320
+Speaker 0: But when you're sort of adapting a manga, you have to stick to the manga.
+
+519
+00:38:03,341 --> 00:38:12,320
+Speaker 0: Uh, but you can see there are certain scenes where they are able to find like a time and place where they can make some studio triggerness.
+
+520
+00:38:12,540 --> 00:38:19,480
+Speaker 0: And the one that stood out to me the most was I think episode maybe two where there was like a flashback to the past for the elf or something.
+
+521
+00:38:19,740 --> 00:38:21,640
+Speaker 1: Oh yeah, I know what you're talking about.
+
+522
+00:38:22,060 --> 00:38:22,160
+Speaker 1: Yeah.
+
+523
+00:38:22,360 --> 00:38:34,819
+Speaker 0: And you could, I was like, Oh, here they, here they finally found a spot where they could be studio trigger and still be themselves and not just be an anime studio for hire, you know, adapting a manga, you know, rotely.
+
+524
+00:38:35,101 --> 00:38:41,520
+Speaker 1: I just imagine in the studio, like, look, I know you want to animate planets exploding on a galactic scale.
+
+525
+00:38:41,860 --> 00:38:47,920
+Speaker 1: I want you to take all that energy and animate this piece of steak, but with that level of intensity, that's your mission.
+
+526
+00:38:48,180 --> 00:38:50,777
+Speaker 0: I think we might see some of that when, you know, there's more dragons.
+
+527
+00:38:51,720 --> 00:38:57,900
+Speaker 1: Well, spoilers for episodes 11 and 12, they fight a dragon and you get some dragon fighting animation.
+
+528
+00:38:58,620 --> 00:38:59,014
+Speaker 0: There you go.
+
+529
+00:39:00,401 --> 00:39:01,879
+Speaker 1: But it's not the best show.
+
+530
+00:39:02,140 --> 00:39:03,120
+Speaker 1: Like this show is good.
+
+531
+00:39:03,361 --> 00:39:10,020
+Speaker 1: This is the kind of show, like when we were at RIT anime, obviously we would show all four episodes of this, like as soon as possible.
+
+532
+00:39:10,400 --> 00:39:14,659
+Speaker 1: And people would be yelling and screaming in the audience, but this is not like an S tier anime.
+
+533
+00:39:14,780 --> 00:39:19,060
+Speaker 1: It's just a good anime that I would recommend watching if you're hankering for some anime.
+
+534
+00:39:19,807 --> 00:39:19,895
+Speaker 0: Yeah.
+
+535
+00:39:20,080 --> 00:39:30,240
+Speaker 0: It's like a lot of those scenario based shows, the premises, premises, they sound fun, but you actually watch those shows and they're sort of quite low brow.
+
+536
+00:39:31,003 --> 00:39:32,019
+Speaker 1: They're rarely good.
+
+537
+00:39:32,181 --> 00:39:34,780
+Speaker 1: Like skip them unless someone you trust says they're good.
+
+538
+00:39:35,442 --> 00:39:38,359
+Speaker 0: They're usually just sort of trashy, right?
+
+539
+00:39:39,180 --> 00:39:48,240
+Speaker 0: Whereas here it's like, Hey, you know, this is actually something that is solid, entertaining, has a story to follow.
+
+540
+00:39:48,380 --> 00:39:50,039
+Speaker 0: Is it have anything big to say?
+
+541
+00:39:50,740 --> 00:39:59,139
+Speaker 0: No, well, but it has a little bit more to say about, you know, food, where food comes from, et cetera, has a little bit to say.
+
+542
+00:39:59,760 --> 00:40:04,400
+Speaker 1: It gets a little more as it progresses into the concept of ecosystems and sustainability.
+
+543
+00:40:04,721 --> 00:40:08,659
+Speaker 1: Like it starts addressing that pretty directly and it keeps bringing it up.
+
+544
+00:40:09,481 --> 00:40:11,712
+Speaker 1: And clearly that's, that's the ultimate meta plot.
+
+545
+00:40:11,792 --> 00:40:13,500
+Speaker 1: is that the whole thing, right?
+
+546
+00:40:13,580 --> 00:40:16,820
+Speaker 0: So it has a little bit to say, but nothing enormous to say.
+
+547
+00:40:18,201 --> 00:40:23,660
+Speaker 0: But you know, and it's just enjoyable and not a waste of your time, right?
+
+548
+00:40:23,700 --> 00:40:37,720
+Speaker 0: Whereas I think if I actually wanted to watch someone leveled up on a thousand slimes to become the most powerful that I probably only needed to watch the first episode and the last episode on two X speed to get everything I need out of it.
+
+549
+00:40:38,821 --> 00:40:47,960
+Speaker 1: But one thing I think is not worth, we should at least mention is that the show has drama and like has action and all that and the cooking, but it is legitimately funny.
+
+550
+00:40:48,500 --> 00:40:50,080
+Speaker 1: The characters are pretty good characters.
+
+551
+00:40:50,140 --> 00:40:57,999
+Speaker 1: The only weird thing about it to me is that the elf character acts a lot more the way I would think a human would act.
+
+552
+00:40:58,600 --> 00:41:07,420
+Speaker 1: And meanwhile, the human characters act a lot more like how I would expect a non-human character to act like the elf is not how you imagine elves.
+
+553
+00:41:07,800 --> 00:41:10,720
+Speaker 1: Elves might just be weirder in this universe.
+
+554
+00:41:10,821 --> 00:41:11,759
+Speaker 1: They're not talking elves.
+
+555
+00:41:11,841 --> 00:41:12,758
+Speaker 1: They're a different kind of elf.
+
+556
+00:41:13,840 --> 00:41:25,317
+Speaker 0: The elf is, I mean, the defining characteristic of the elf is that she's the one who's weirded out by all the foods and doesn't want to eat them, but then eventually eats them and they're delicious and yet doesn't learn her lesson ever.
+
+557
+00:41:27,061 --> 00:41:35,140
+Speaker 0: And even when the food is normal, like, like she's drooling and happy because they're going to eat normal foods like carrots or lettuces and cabbages.
+
+558
+00:41:35,391 --> 00:41:35,559
+Speaker 0: Right.
+
+559
+00:41:36,084 --> 00:41:37,036
+Speaker 0: And she's like, and breads.
+
+560
+00:41:37,502 --> 00:41:39,020
+Speaker 0: And she's like, Hooray, normal food.
+
+561
+00:41:39,142 --> 00:41:39,739
+Speaker 0: I want to eat it.
+
+562
+00:41:39,820 --> 00:41:40,360
+Speaker 0: I want to eat it.
+
+563
+00:41:40,360 --> 00:41:42,579
+Speaker 0: And you're like, finally, you're not complaining about the food.
+
+564
+00:41:43,121 --> 00:41:46,620
+Speaker 0: And then she's like, Oh, but this food was grown in poop.
+
+565
+00:41:46,881 --> 00:41:50,700
+Speaker 0: And it's like food on the surface is growing in poop, too.
+
+566
+00:41:51,420 --> 00:41:56,919
+Speaker 0: This is why are you just grossed out by literally any food you would ever eat?
+
+567
+00:41:57,620 --> 00:41:59,160
+Speaker 0: It's like only lamb bread.
+
+568
+00:41:59,484 --> 00:42:00,638
+Speaker 0: Good enough for you and nothing else.
+
+569
+00:42:02,622 --> 00:42:03,707
+Speaker 0: I don't know what's up with this.
+
+570
+00:42:03,828 --> 00:42:06,320
+Speaker 0: elf is like, literally, it's like, stop it already.
+
+571
+00:42:06,380 --> 00:42:08,859
+Speaker 0: You've been grossed out by the food before eating it.
+
+572
+00:42:09,383 --> 00:42:10,840
+Speaker 0: Four or five episodes in a row.
+
+573
+00:42:10,961 --> 00:42:12,519
+Speaker 0: However many I imagine all of them.
+
+574
+00:42:13,023 --> 00:42:14,879
+Speaker 0: And then you eat it and it's delicious every time.
+
+575
+00:42:15,464 --> 00:42:17,219
+Speaker 0: Oh, I don't know next time.
+
+576
+00:42:17,841 --> 00:42:23,439
+Speaker 1: I don't know if it was mentioned in the show or not because I didn't know this, but apparently she's a half elf, which might explain a lot.
+
+577
+00:42:24,065 --> 00:42:24,340
+Speaker 0: Okay.
+
+578
+00:42:24,789 --> 00:42:24,998
+Speaker 0: All right.
+
+579
+00:42:25,280 --> 00:42:25,676
+Speaker 0: Didn't know that.
+
+580
+00:42:25,960 --> 00:42:26,056
+Speaker 1: Yeah.
+
+581
+00:42:26,200 --> 00:42:26,697
+Speaker 1: Didn't know that.
+
+582
+00:42:27,024 --> 00:42:27,680
+Speaker 1: If that's a spoiler.
+
+583
+00:42:27,904 --> 00:42:28,200
+Speaker 1: Sorry.
+
+584
+00:42:28,300 --> 00:42:29,420
+Speaker 1: That's like the top of Wikipedia.
+
+585
+00:42:29,540 --> 00:42:30,052
+Speaker 1: So what do you want?
+
+586
+00:42:30,781 --> 00:42:31,014
+Speaker 0: Okay.
+
+587
+00:42:32,184 --> 00:42:33,217
+Speaker 1: So, yeah, I'm going to keep watching it.
+
+588
+00:42:33,842 --> 00:42:35,639
+Speaker 0: Uh, probably to the end.
+
+589
+00:42:35,880 --> 00:42:36,577
+Speaker 1: I'll watch till the end.
+
+590
+00:42:36,800 --> 00:42:38,060
+Speaker 0: I can also have all this manga here.
+
+591
+00:42:38,120 --> 00:42:38,795
+Speaker 0: Maybe I'll read that.
+
+592
+00:42:39,925 --> 00:42:40,696
+Speaker 0: I read some of it.
+
+593
+00:42:46,544 --> 00:42:48,820
+Speaker 1: This has been Geek Nights with Rim and Scott.
+
+594
+00:42:49,000 --> 00:42:51,480
+Speaker 1: Special thanks to DJ Pretzel for the opening theme.
+
+595
+00:42:51,680 --> 00:42:57,700
+Speaker 0: Be sure to visit our website at frontrowclue.com for show notes, discussion, links, and more.
+
+596
+00:42:58,200 --> 00:43:00,820
+Speaker 1: Remember, Geek Nights is not one, but four different shows.
+
+597
+00:43:01,160 --> 00:43:02,699
+Speaker 1: Mondays are science and technology.
+
+598
+00:43:02,860 --> 00:43:04,539
+Speaker 1: Tuesdays, gaming and games.
+
+599
+00:43:04,740 --> 00:43:06,480
+Speaker 1: Wednesdays are animation and comics.
+
+600
+00:43:06,920 --> 00:43:09,340
+Speaker 1: Thursdays are arbitrary and indiscriminate.
+
+601
+00:43:10,020 --> 00:43:14,900
+Speaker 1: Geek Nights is distributed under a creative comments attribution 4.0 international license.
+
+602
+00:43:15,362 --> 00:43:19,660
+Speaker 0: Geek Nights is recorded live with no studio and no audience.
+
+603
+00:43:20,200 --> 00:43:23,660
+Speaker 0: But unlike those other late shows, it's actually recorded at night.
+
+604
+00:43:24,281 --> 00:43:39,040
+Speaker 1: And the Patreon patrons who have stuck with us during our, uh, somewhat unexpected hiatus are waiting for this page to load because I continue the tradition of literally never re-recording, uh, this or pausing it in any way.
+
+605
+00:43:39,100 --> 00:43:39,514
+Speaker 1: Here we go.
+
+606
+00:43:40,420 --> 00:43:51,760
+Speaker 1: Alan Joyce, Linkage, Adrenaline, Tenderbread, Case, Care, Christopher Orr, Clinton, Walton, Finn, Joel Hayes, Benny Reimer, Rebecca Dunn, Sam Erickson, Shervinon, Harlan, a bunch of people who do not want me to say their names.
+
+607
+00:43:52,520 --> 00:43:57,000
+Speaker 1: Uh, if any of you were at PAX East and you saw the Solo Scott panel, let me know how it went.
+
+608
+00:43:57,403 --> 00:43:58,040
+Speaker 1: Uh, I'm just curious.
+
+609
+00:43:58,220 --> 00:44:00,020
+Speaker 1: He recorded them, but I don't have that video.
+
+610
+00:44:00,720 --> 00:44:06,380
+Speaker 1: Otherwise, uh, because we've been busy, uh, we did record our panels from MagFest, including what Emily and I did.
+
+611
+00:44:06,440 --> 00:44:08,540
+Speaker 1: We just haven't had a chance to, like, edit them all together.
+
+612
+00:44:08,781 --> 00:44:17,200
+Speaker 1: So expect the trickle of some additional panel videos to come out, uh, between me and Scott, uh, over the next, uh, several weeks.
+
+613
+00:44:17,721 --> 00:44:19,580
+Speaker 1: But anyway, we're back next week.
+
+614
+00:44:19,661 --> 00:44:20,880
+Speaker 1: We should be on our regular schedule.
+
+615
+00:44:21,240 --> 00:44:22,099
+Speaker 1: Everything's back to normal.
+
+616
+00:44:22,663 --> 00:44:24,172
+Speaker 1: And I leave you tonight with...
+
+617
+00:44:26,841 --> 00:44:29,840
+Speaker 0: Hey you, did you steal my buddy Glimbo's gold?
+
+618
+00:44:31,361 --> 00:44:32,456
+Speaker 0: So did you do it?
+
+619
+00:44:34,500 --> 00:44:37,559
+Speaker 0: Come on, well, my buddy says that you stole his gold.
+
+620
+00:44:38,403 --> 00:44:39,457
+Speaker 1: Are you sure about that?
+
+621
+00:44:44,283 --> 00:44:47,439
+Speaker 0: All right, so you won't mind if I check your pockets then, huh?
+
+622
+00:44:55,430 --> 00:44:56,449
+Speaker 0: Oh, will you look at that?
+
+623
+00:44:57,030 --> 00:44:58,249
+Speaker 0: My buddy Glimbo's gold.
+

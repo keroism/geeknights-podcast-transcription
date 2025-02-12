@@ -1,0 +1,4164 @@
+﻿1
+00:00:08,300 --> 00:00:12,010
+Speaker 0: It's Monday, December 18th, 2023.
+
+2
+00:00:12,010 --> 00:00:12,492
+Speaker 0: I'm rim.
+
+3
+00:00:12,993 --> 00:00:15,419
+Speaker 0: I'm Scott and this is geek nights.
+
+4
+00:00:15,459 --> 00:00:19,914
+Speaker 0: tonight We are talking about the vicious smartphone upgrade cycle.
+
+5
+00:00:20,636 --> 00:00:24,138
+Speaker 1: Let's do this All right, so you know how?
+
+6
+00:00:25,041 --> 00:00:31,713
+Speaker 1: We always you know we do an opening bit And then the next opening bit is only the time period between episodes.
+
+7
+00:00:31,733 --> 00:00:36,900
+Speaker 0: now the cash gets cleared at the conclusion Of a geek night's episode for most things that we hold in our brains.
+
+8
+00:00:37,582 --> 00:00:40,634
+Speaker 1: Well, you know we missed a lot of episodes because I've been doing so much stuff.
+
+9
+00:00:40,735 --> 00:00:44,097
+Speaker 1: rims also been doing stuff But lately me me more.
+
+10
+00:00:44,178 --> 00:00:49,720
+Speaker 0: so Mutually like the Venn diagrams the stuff we've been doing has been widely separated.
+
+11
+00:00:51,002 --> 00:00:59,260
+Speaker 1: but uh I Intentionally did not forget things that happened so that I could basically reach into the the bin of opening bits right?
+
+12
+00:00:59,520 --> 00:01:00,123
+Speaker 1: That's amazing.
+
+13
+00:01:00,143 --> 00:01:00,425
+Speaker 0: you have.
+
+14
+00:01:00,465 --> 00:01:02,917
+Speaker 0: you have persistent storage now, which I have not.
+
+15
+00:01:02,937 --> 00:01:03,420
+Speaker 1: I'm gonna go.
+
+16
+00:01:03,500 --> 00:01:12,120
+Speaker 1: We're gonna go you know like maybe three to four weeks into the past to Thanksgiving time when I went to California And went to the Disneyland, right?
+
+17
+00:01:13,540 --> 00:01:19,440
+Speaker 1: Like you do and at the Disneyland of course the the biggest deal is that new Star Wars ride.
+
+18
+00:01:19,460 --> 00:01:33,438
+Speaker 1: well There's a Star Wars land right, but the Star Wars land is mostly gift shops and I mean that secret of every Disneyland Within Disneyland or world that I didn't realize as a kid.
+
+19
+00:01:33,479 --> 00:01:45,700
+Speaker 0: as a kid I had these memories of Disney having all this stuff and when we went back for that wedding many years ago I just remember being weirded out by the realization that like 90% of the real estate is retail even inside.
+
+20
+00:01:45,781 --> 00:01:46,290
+Speaker 1: Yeah, it's like.
+
+21
+00:01:47,920 --> 00:01:49,988
+Speaker 1: Basically it's like yeah that Star Wars land.
+
+22
+00:01:50,089 --> 00:01:53,020
+Speaker 1: It's like oh, it's this whole land that looks like a Star Wars place.
+
+23
+00:01:53,120 --> 00:01:54,587
+Speaker 1: That's cool, and it's the.
+
+24
+00:01:54,869 --> 00:02:04,559
+Speaker 1: you know the gift shops themselves are attractions And you know cuz and so the food place is also because they're all themed Clever, but they are just retail in the end.
+
+25
+00:02:05,340 --> 00:02:06,504
+Speaker 1: Exactly you know.
+
+26
+00:02:06,604 --> 00:02:08,109
+Speaker 1: and then you've got like.
+
+27
+00:02:08,370 --> 00:02:11,240
+Speaker 1: there's only like two rides there in that whole land.
+
+28
+00:02:11,560 --> 00:02:14,265
+Speaker 1: Every those the only things that are rides everything else is like.
+
+29
+00:02:14,465 --> 00:02:32,512
+Speaker 1: then there's like a show sometimes maybe and that's it but anyway, there's the Resistance ride is like the biggest deal and so we paid already Admission to get into the park for a day which is over 100 bucks And it was a busy day, and they changed their prices based on how busy it is.
+
+30
+00:02:32,532 --> 00:02:41,760
+Speaker 1: and then we paid 20 something bucks for genie plus which is what basically lets you wait in line without waiting in line for rides.
+
+31
+00:02:42,871 --> 00:02:46,020
+Speaker 1: so It's like you know the fast pass replacement.
+
+32
+00:02:46,161 --> 00:02:46,602
+Speaker 1: I guess not.
+
+33
+00:02:46,863 --> 00:02:50,960
+Speaker 1: everyone who goes there a lot says it's not as good as the original fast pass.
+
+34
+00:02:51,725 --> 00:02:53,457
+Speaker 1: I believe them, but what do I know?
+
+35
+00:02:53,497 --> 00:02:58,996
+Speaker 1: I only went This is the first time I've been to any Disney policy remains last millennium once every decade.
+
+36
+00:02:59,077 --> 00:03:00,040
+Speaker 0: I might go to Disney.
+
+37
+00:03:00,901 --> 00:03:02,225
+Speaker 1: Right I haven't been there since last.
+
+38
+00:03:02,305 --> 00:03:02,827
+Speaker 1: to any did.
+
+39
+00:03:02,887 --> 00:03:07,723
+Speaker 1: I've never been to Disneyland before ever and I only went to Disney World twice Last millennium.
+
+40
+00:03:07,743 --> 00:03:11,919
+Speaker 0: never never been to Disneyland, and I've only been to Disney World three times ever.
+
+41
+00:03:12,982 --> 00:03:20,329
+Speaker 1: Well Disneyland if you're willing to pay a lot of money you can do pretty much everything you want to do there in a day Which is what we did right.
+
+42
+00:03:20,631 --> 00:03:33,780
+Speaker 1: so if you have the genie plus You're not waiting wasting your time waiting in lines And you're not a kid who's gonna say spend two hours on like a cool playground area Right which I wish I was young so I could do that.
+
+43
+00:03:34,262 --> 00:03:38,776
+Speaker 0: You caused a distinct memory of being in the honey.
+
+44
+00:03:38,836 --> 00:03:41,484
+Speaker 0: I shrunk the kids land When we were at.
+
+45
+00:03:41,504 --> 00:03:42,508
+Speaker 0: I think it was a universal.
+
+46
+00:03:42,528 --> 00:03:43,151
+Speaker 0: that wasn't Disney.
+
+47
+00:03:43,191 --> 00:03:44,195
+Speaker 0: I forget any.
+
+48
+00:03:44,235 --> 00:03:44,597
+Speaker 0: I think it was.
+
+49
+00:03:44,818 --> 00:03:45,300
+Speaker 0: I don't remember.
+
+50
+00:03:45,803 --> 00:03:52,116
+Speaker 0: I was a little kid, but I remember Having like it was just the most amazing thing from our kid.
+
+51
+00:03:52,136 --> 00:04:01,979
+Speaker 0: brain and my brother And I were in there for fucking ever and in retrospect I realized my parents were probably desperate for us to be done with this thing so they could go do literally anything else.
+
+52
+00:04:03,201 --> 00:04:07,774
+Speaker 1: Anyway, so here's the thing the ride of resistance ride the most popular ride at the park.
+
+53
+00:04:08,175 --> 00:04:08,496
+Speaker 1: right.
+
+54
+00:04:08,897 --> 00:04:11,626
+Speaker 1: if you want to get on this Ride here are your options right?
+
+55
+00:04:11,787 --> 00:04:15,440
+Speaker 1: option one if you stay in the resort at Disneyland?
+
+56
+00:04:15,641 --> 00:04:31,340
+Speaker 1: You can get into the park early, or if you have some other VIP bullshit I'm sure you can get into the park a little early and so get into the line early and get on the ride when it's Not so insane right option to wait in a long-ass line right for like one to two hours.
+
+57
+00:04:31,842 --> 00:04:39,780
+Speaker 1: So if you're there for multiple days, or if you're there from the time it regular opens You know until midnight when it closes.
+
+58
+00:04:40,343 --> 00:04:43,540
+Speaker 1: That's actually not too bad because you're you're gonna ride the ride.
+
+59
+00:04:43,681 --> 00:04:45,818
+Speaker 1: You're not gonna pay extra money, right?
+
+60
+00:04:47,120 --> 00:04:49,226
+Speaker 1: Option three get the genie plus.
+
+61
+00:04:49,607 --> 00:04:51,232
+Speaker 1: well, that's not good enough right?
+
+62
+00:04:51,433 --> 00:04:57,471
+Speaker 1: it doesn't do anything for this ride, so All the other rides like you would ride Space Mountain.
+
+63
+00:04:57,592 --> 00:04:59,220
+Speaker 1: boom genie plus you're all good, right?
+
+64
+00:04:59,340 --> 00:05:11,897
+Speaker 1: You could book a Space Mountain, and they get on which I did, but the you want to ride this one you got to pay Extra to use the genie plus to get in the virtual line for this one right?
+
+65
+00:05:12,238 --> 00:05:21,140
+Speaker 1: so we paid 26 bucks per person on top of the admission and The already upgrade ticket, right?
+
+66
+00:05:22,342 --> 00:05:32,820
+Speaker 1: so the thing is For as good as the ride was it's like if you told me hey Scott Would you pay $26 to ride that ride again right now, and I'd say?
+
+67
+00:05:33,842 --> 00:05:45,724
+Speaker 1: If you let me ride it on my own terms you know probably yeah I probably would but the fact that it was on top of the already existing admission and on top of the already upgraded admission That's horseshit.
+
+68
+00:05:45,744 --> 00:05:52,323
+Speaker 0: yeah, I mean much to ride a crappy roller coaster in Wildwood, but you know what that's all you pay for Right?
+
+69
+00:05:52,343 --> 00:05:55,459
+Speaker 1: so that said I got to talk about this ride, and why it's the best ride.
+
+70
+00:05:56,622 --> 00:05:58,591
+Speaker 1: It's obviously not a thrill ride though.
+
+71
+00:05:58,631 --> 00:06:00,459
+Speaker 1: It does have one part where there's a little drop.
+
+72
+00:06:00,801 --> 00:06:07,640
+Speaker 1: You know like a Pirates of the Caribbean has a similar drop right whoa right, but so here's how it goes right?
+
+73
+00:06:08,302 --> 00:06:21,203
+Speaker 1: It's shocking how much of the ride is Pre ride like there's so much stuff going on before you're actually on the ride so you go in and you're a little waiting room and there's.
+
+74
+00:06:21,504 --> 00:06:37,317
+Speaker 1: I was told by people who had been there before that a when the ride was new all the actors and crew members and staff people were way more into it and Doing a better acting job with more effort and now lower effort, which is completely understandable.
+
+75
+00:06:37,357 --> 00:06:45,260
+Speaker 0: Yeah How many times can you say thank you for riding the whatever at Cedar Point America's right rockin?
+
+76
+00:06:45,300 --> 00:06:46,163
+Speaker 1: well No, they're acting.
+
+77
+00:06:46,204 --> 00:06:46,505
+Speaker 1: they're like.
+
+78
+00:06:46,525 --> 00:06:47,509
+Speaker 1: you know they're all like they're.
+
+79
+00:06:47,590 --> 00:06:57,040
+Speaker 1: whether they're they're rebel people are gonna be like come on Let's go and all the you know the Imperial people are like shut up right you know get in line You know being mean on purpose.
+
+80
+00:06:57,162 --> 00:06:58,320
+Speaker 1: It's like okay.
+
+81
+00:06:58,681 --> 00:07:08,260
+Speaker 1: But so the first thing is you get briefed on what's happening and we got briefed by a video And I was told that this action animatronic that did the briefing before and it was broken.
+
+82
+00:07:08,462 --> 00:07:10,159
+Speaker 1: And which is why we were briefed by a video.
+
+83
+00:07:11,762 --> 00:07:12,788
+Speaker 1: So brief by a video.
+
+84
+00:07:12,909 --> 00:07:14,700
+Speaker 1: then you're in this open space.
+
+85
+00:07:14,740 --> 00:07:20,779
+Speaker 1: That's like you're outside a rebel base, and there's a transport shuttle with a hatch on the side and all they're like.
+
+86
+00:07:20,799 --> 00:07:21,461
+Speaker 1: come on Let's go.
+
+87
+00:07:21,482 --> 00:07:22,425
+Speaker 1: Let's go get in the shuttle.
+
+88
+00:07:22,445 --> 00:07:25,979
+Speaker 1: Let's go right, and I'm like I want to have you made this huge set here.
+
+89
+00:07:26,361 --> 00:07:26,803
+Speaker 1: Yeah, right.
+
+90
+00:07:27,204 --> 00:07:30,156
+Speaker 1: I want to like hang out here for like five minutes before I get on that shuttle.
+
+91
+00:07:30,236 --> 00:07:31,220
+Speaker 1: No let's go right.
+
+92
+00:07:31,521 --> 00:07:33,951
+Speaker 1: So that's I was kind of not happy with that.
+
+93
+00:07:34,533 --> 00:07:36,360
+Speaker 1: It was like you made all this cool shit here.
+
+94
+00:07:36,400 --> 00:07:37,787
+Speaker 1: I can see how awesome this room is.
+
+95
+00:07:37,848 --> 00:07:40,160
+Speaker 1: I want to just look around take some photos in here.
+
+96
+00:07:40,542 --> 00:07:44,942
+Speaker 0: No, let's go by design in the same way that you know in half-life You're going.
+
+97
+00:07:45,484 --> 00:07:50,519
+Speaker 1: the people in line behind me right the neck are being delayed if I don't get on the shuttle right?
+
+98
+00:07:51,380 --> 00:07:52,746
+Speaker 1: That's the main problem.
+
+99
+00:07:53,288 --> 00:07:56,280
+Speaker 1: They want to keep the line moving because they're effectively you're still pre right.
+
+100
+00:07:56,320 --> 00:08:00,072
+Speaker 1: I'm not on the ride yet, so this is still technically the line right.
+
+101
+00:08:00,794 --> 00:08:02,760
+Speaker 1: so you get in the shuttle the hatch on this.
+
+102
+00:08:03,181 --> 00:08:05,690
+Speaker 1: It's got a hatches on both like you know the side right.
+
+103
+00:08:06,031 --> 00:08:08,339
+Speaker 1: so it closes, and you're just standing.
+
+104
+00:08:08,359 --> 00:08:08,720
+Speaker 1: this thing.
+
+105
+00:08:08,800 --> 00:08:10,266
+Speaker 1: There's no safety equipment.
+
+106
+00:08:10,306 --> 00:08:10,708
+Speaker 1: No seats.
+
+107
+00:08:10,768 --> 00:08:11,893
+Speaker 1: No belts or whatever.
+
+108
+00:08:11,933 --> 00:08:12,977
+Speaker 1: It's big and wide open.
+
+109
+00:08:13,118 --> 00:08:13,680
+Speaker 1: you can hold on.
+
+110
+00:08:13,841 --> 00:08:28,152
+Speaker 1: It's like standing on the subway basically and in the front There's like a screen so you could like see into the cockpit and then the window of the cockpit is LCD screen and then there's a rear view.
+
+111
+00:08:28,333 --> 00:08:30,100
+Speaker 1: there's a window on the back of the shuttle.
+
+112
+00:08:30,361 --> 00:08:39,226
+Speaker 1: That's also an LCD screen right and so stuff is happening and the thing feels like it's moving now And it's sort of like Star Tours.
+
+113
+00:08:39,287 --> 00:08:40,892
+Speaker 0: now rim the fool.
+
+114
+00:08:41,193 --> 00:08:42,417
+Speaker 0: hearing what you've said so far.
+
+115
+00:08:42,437 --> 00:08:43,440
+Speaker 0: I assume a few things.
+
+116
+00:08:43,580 --> 00:08:49,337
+Speaker 0: I assume this is the same as the trick to get you into where the haunted mansion actually is.
+
+117
+00:08:49,357 --> 00:08:50,420
+Speaker 0: it's just a room.
+
+118
+00:08:50,721 --> 00:08:51,684
+Speaker 0: It's gonna shake a little.
+
+119
+00:08:51,904 --> 00:08:57,060
+Speaker 0: you're gonna walk out the same way you went in, but you'll like be in a different place.
+
+120
+00:08:57,141 --> 00:08:58,713
+Speaker 0: It's actually an elevator or something.
+
+121
+00:08:58,733 --> 00:08:59,358
+Speaker 1: That's what I'm assuming.
+
+122
+00:08:59,378 --> 00:09:00,543
+Speaker 1: so Right.
+
+123
+00:09:00,583 --> 00:09:05,246
+Speaker 1: so I thought you know that it's like okay the hatch Opened on the right side of the ship.
+
+124
+00:09:05,326 --> 00:09:07,072
+Speaker 1: the ship was facing to the right.
+
+125
+00:09:07,312 --> 00:09:09,138
+Speaker 1: so and basically what happens?
+
+126
+00:09:09,459 --> 00:09:11,284
+Speaker 1: spoilers I guess whatever.
+
+127
+00:09:11,304 --> 00:09:17,283
+Speaker 1: all right is this little transport that you're in gets stuck in the tractor beam of a star destroyer And they pull you in.
+
+128
+00:09:17,483 --> 00:09:21,575
+Speaker 0: oh the thing that happens in the first six seconds of starch Star Wars.
+
+129
+00:09:21,696 --> 00:09:28,300
+Speaker 1: right exactly yes That's right, so I'm like oh This is great because they we came in on this side.
+
+130
+00:09:28,742 --> 00:09:37,460
+Speaker 1: So that means the room on the other side must be inside the Star Destroyer and any Any educated adult who knows how attractions work that is that is my assumption.
+
+131
+00:09:37,982 --> 00:09:38,644
+Speaker 0: I would write.
+
+132
+00:09:38,684 --> 00:09:39,787
+Speaker 1: so I was like ab.
+
+133
+00:09:39,828 --> 00:09:41,633
+Speaker 0: so I'm like okay if the first door opened.
+
+134
+00:09:42,376 --> 00:09:43,720
+Speaker 1: That's right, but that's the thing.
+
+135
+00:09:44,602 --> 00:09:44,742
+Speaker 1: The.
+
+136
+00:09:44,923 --> 00:09:48,119
+Speaker 1: the door that opened was the door we came in it.
+
+137
+00:09:48,360 --> 00:09:48,842
+Speaker 1: I thought the.
+
+138
+00:09:49,223 --> 00:09:52,354
+Speaker 1: it was just gonna be like basically walk in one side walk out the other side.
+
+139
+00:09:52,414 --> 00:09:55,285
+Speaker 1: nope we came in and out The same door.
+
+140
+00:09:55,808 --> 00:09:57,596
+Speaker 1: this thing moved somehow it.
+
+141
+00:09:57,636 --> 00:10:02,660
+Speaker 1: when I got into it It looked like a permanent fixture like there was no way that thing moved right.
+
+142
+00:10:03,404 --> 00:10:06,020
+Speaker 1: I guess you can look at the patents online to see how this works.
+
+143
+00:10:07,543 --> 00:10:07,663
+Speaker 0: Like.
+
+144
+00:10:07,684 --> 00:10:08,507
+Speaker 0: that's my guess.
+
+145
+00:10:08,829 --> 00:10:09,311
+Speaker 1: it could be.
+
+146
+00:10:09,894 --> 00:10:12,404
+Speaker 1: it would be a sideways elevator I guess but those exist.
+
+147
+00:10:12,585 --> 00:10:14,792
+Speaker 1: this is this is still pre ride.
+
+148
+00:10:15,234 --> 00:10:16,558
+Speaker 1: the ride has not started yet.
+
+149
+00:10:18,027 --> 00:10:20,362
+Speaker 0: The ride has started It.
+
+150
+00:10:20,422 --> 00:10:33,768
+Speaker 1: the ride has not started yet, okay, so you the same door opens And you get out and you are in what is perhaps the coolest room on the planet Earth which is Basically the hangar of a Star Destroyer.
+
+151
+00:10:33,788 --> 00:10:34,209
+Speaker 0: Oh my god.
+
+152
+00:10:34,250 --> 00:10:38,282
+Speaker 0: That's the kind of place where like Vader would show up with all the red guys exact.
+
+153
+00:10:38,342 --> 00:10:46,929
+Speaker 1: and then there's a platoon of animatronic stormtroopers there and a few you know Imperial dudes right and Yelling at you to move along and whatever.
+
+154
+00:10:47,250 --> 00:10:49,480
+Speaker 1: and I'm like I need to hang out in this room for like 20 minutes.
+
+155
+00:10:50,501 --> 00:10:50,863
+Speaker 1: You got it.
+
+156
+00:10:51,244 --> 00:10:52,530
+Speaker 1: They're moving you along.
+
+157
+00:10:52,891 --> 00:10:54,578
+Speaker 1: I took a really bad photo in the room.
+
+158
+00:10:54,678 --> 00:10:54,919
+Speaker 1: quickly.
+
+159
+00:10:55,341 --> 00:10:57,872
+Speaker 1: It's like I just want to hang out in that room.
+
+160
+00:10:58,214 --> 00:10:59,640
+Speaker 1: You know they got the whole.
+
+161
+00:11:00,641 --> 00:11:03,131
+Speaker 1: You know obviously it doesn't go into outer space right?
+
+162
+00:11:03,593 --> 00:11:05,400
+Speaker 1: There's the opening of the hangar.
+
+163
+00:11:05,500 --> 00:11:20,594
+Speaker 1: It's open or it looks open and you're like you're looking out into space right and it's just a giant screen And there's all kinds of TIE fighters flying around out there like And I'm like how could you not let me hang out in this room?
+
+164
+00:11:20,674 --> 00:11:24,900
+Speaker 1: someone worked really hard To make this greatest room on the planet Earth.
+
+165
+00:11:24,960 --> 00:11:25,583
+Speaker 1: Yeah, and you're gonna.
+
+166
+00:11:25,785 --> 00:11:26,106
+Speaker 1: you're gonna.
+
+167
+00:11:26,187 --> 00:11:28,600
+Speaker 1: I paid 26 bucks, and you're gonna rush me along.
+
+168
+00:11:29,562 --> 00:11:31,347
+Speaker 0: Can I pay money to just hang out in that room?
+
+169
+00:11:31,387 --> 00:11:32,309
+Speaker 0: I won't bother anyone I?
+
+170
+00:11:34,002 --> 00:11:35,480
+Speaker 1: Could just you know anyway.
+
+171
+00:11:36,122 --> 00:11:41,700
+Speaker 1: So then you go along and there's some Imperial guards who are gonna put you in prison right and the?
+
+172
+00:11:42,181 --> 00:11:48,738
+Speaker 1: Prison cells on the Star Destroyer, and so they make they put you into little groups right of four or whatever.
+
+173
+00:11:48,838 --> 00:11:49,179
+Speaker 1: how many?
+
+174
+00:11:50,462 --> 00:11:51,239
+Speaker 0: There are in the ride?
+
+175
+00:11:52,225 --> 00:11:53,060
+Speaker 1: Yeah, basically.
+
+176
+00:11:54,401 --> 00:12:01,087
+Speaker 1: And then you get in to put in a prison cell which is kind of cramped and then close the door and then up above You right?
+
+177
+00:12:02,940 --> 00:12:09,000
+Speaker 1: Kylo Ren comes at least a video of him I guess or animatronic hologram something I forget.
+
+178
+00:12:09,602 --> 00:12:15,523
+Speaker 1: He comes and he yells at you like he's gonna interrogate you and figure out where the rebel base is or whatever You know.
+
+179
+00:12:15,804 --> 00:12:20,779
+Speaker 1: and then something happens, and he has to go away, and he's like I'll come back for you later sure you will.
+
+180
+00:12:22,682 --> 00:12:31,495
+Speaker 1: and then in that you're sitting in this prison cell and Someone you know lightsabers and cuts a hole in the wall and the door.
+
+181
+00:12:31,515 --> 00:12:35,272
+Speaker 1: you know basically right And it's like it was pretty impressive.
+
+182
+00:12:35,313 --> 00:12:36,399
+Speaker 1: I didn't see that door there.
+
+183
+00:12:36,723 --> 00:12:42,530
+Speaker 1: It opened And you go out and then basically you're.
+
+184
+00:12:42,590 --> 00:12:44,496
+Speaker 1: now you're gonna escape from the Star Destroyer.
+
+185
+00:12:44,637 --> 00:12:45,379
+Speaker 1: how I don't know.
+
+186
+00:12:46,642 --> 00:12:47,386
+Speaker 1: You don't have a ship.
+
+187
+00:12:47,708 --> 00:12:48,271
+Speaker 1: It's like great.
+
+188
+00:12:48,291 --> 00:12:50,060
+Speaker 1: You can get back to the hangar, but what are you gonna fly?
+
+189
+00:12:50,320 --> 00:12:54,639
+Speaker 1: I'm like I'm here thinking like oh we're gonna steal tie fighters or something like what you know.
+
+190
+00:12:55,301 --> 00:12:56,523
+Speaker 1: I want to fly one of those right.
+
+191
+00:12:56,984 --> 00:12:57,565
+Speaker 0: I mean we haven't.
+
+192
+00:12:57,625 --> 00:12:58,266
+Speaker 0: we have.
+
+193
+00:12:58,586 --> 00:13:03,867
+Speaker 0: we have Star Wars squadrons at home I know But I did.
+
+194
+00:13:03,947 --> 00:13:04,916
+Speaker 1: obviously this would be better.
+
+195
+00:13:05,038 --> 00:13:05,159
+Speaker 1: yeah.
+
+196
+00:13:06,282 --> 00:13:08,073
+Speaker 1: So then this is where the ride actually.
+
+197
+00:13:08,113 --> 00:13:11,908
+Speaker 1: the this is where the ride is About to start is that there's these little cars.
+
+198
+00:13:11,948 --> 00:13:20,238
+Speaker 1: you get in that seat so many people like two or three benches worth of people And you sit down and they strap you in right and then it goes.
+
+199
+00:13:20,639 --> 00:13:22,927
+Speaker 1: now You know the ride is actually.
+
+200
+00:13:23,329 --> 00:13:29,929
+Speaker 1: you know it's quite a ride, but here's the thing is that it has this new Oh, he's new to me Trackless technology right.
+
+201
+00:13:30,029 --> 00:13:37,846
+Speaker 1: so all these rides I've ever ridden at theme parks are always either a a boat Right like Pirates of the Caribbean.
+
+202
+00:13:37,867 --> 00:13:40,698
+Speaker 1: It's a boat or B or Splash Mountain.
+
+203
+00:13:40,738 --> 00:13:45,753
+Speaker 1: It's a boat Or B. It's a track right like it's a small.
+
+204
+00:13:45,854 --> 00:13:47,400
+Speaker 1: I guess it's a small world as a boat also.
+
+205
+00:13:47,500 --> 00:13:49,747
+Speaker 0: I mean the only third one is the 40 of.
+
+206
+00:13:50,189 --> 00:13:53,620
+Speaker 0: it's a room on a bunch of pneumatics that moves around with the screen.
+
+207
+00:13:53,700 --> 00:13:55,734
+Speaker 1: Yeah, Haunted Mansion is a track right.
+
+208
+00:13:55,754 --> 00:13:59,835
+Speaker 1: you sit on it It's on rails it goes tick tick tick tick tick, and it just pulls you along.
+
+209
+00:13:59,976 --> 00:14:04,962
+Speaker 0: it doesn't drop you Track and you're just in a thing that's moving around Right.
+
+210
+00:14:04,982 --> 00:14:08,640
+Speaker 1: you just sit in a thing and it turns your seat around and you look at stuff.
+
+211
+00:14:08,901 --> 00:14:10,948
+Speaker 1: And then when you're done looking at all the stuff.
+
+212
+00:14:10,968 --> 00:14:12,855
+Speaker 1: They've made you get off, and that's the ride.
+
+213
+00:14:13,418 --> 00:14:15,850
+Speaker 1: so here this is a trackless technology.
+
+214
+00:14:15,870 --> 00:14:19,606
+Speaker 1: you're in a car basically and There is no track.
+
+215
+00:14:20,270 --> 00:14:21,095
+Speaker 1: There is no boat.
+
+216
+00:14:21,336 --> 00:14:23,345
+Speaker 1: There's no water It's just the floor.
+
+217
+00:14:23,405 --> 00:14:25,593
+Speaker 1: if you look out the floor is just flat.
+
+218
+00:14:25,834 --> 00:14:30,253
+Speaker 1: It's just a big flat floor and This thing moves around the floor.
+
+219
+00:14:30,273 --> 00:14:34,611
+Speaker 1: right you're like It's driving all around and you can see where it's gonna.
+
+220
+00:14:34,651 --> 00:14:37,059
+Speaker 1: Go because you can see where the floor has been worn away.
+
+221
+00:14:39,483 --> 00:14:40,366
+Speaker 1: But it must be.
+
+222
+00:14:40,386 --> 00:14:44,200
+Speaker 1: I'm sure you can also look up how it works in some patent filings online.
+
+223
+00:14:44,621 --> 00:14:53,960
+Speaker 1: But it's like some combination of wheels magnets something under the floor right is Controlling where it goes how fast it goes how it turns?
+
+224
+00:14:55,604 --> 00:14:57,480
+Speaker 1: But it doesn't just drive in a straight line.
+
+225
+00:14:57,561 --> 00:14:59,193
+Speaker 1: It's like it's going all over the place.
+
+226
+00:14:59,254 --> 00:15:07,000
+Speaker 1: it spins It you know go and all shits happening all around you people shooting at you shit exploding right you know.
+
+227
+00:15:07,642 --> 00:15:10,194
+Speaker 1: And then at the end it they it basically they.
+
+228
+00:15:10,354 --> 00:15:16,420
+Speaker 1: it stops in this spot And you can very obviously see that something has clamped onto the bottom of it.
+
+229
+00:15:16,640 --> 00:15:21,360
+Speaker 1: Yeah, and then the whole floor drops with it right because obviously it couldn't drop on its own.
+
+230
+00:15:21,561 --> 00:15:27,285
+Speaker 1: Yeah, and it you know and it's like okay But that's the actual ride part.
+
+231
+00:15:27,666 --> 00:15:35,344
+Speaker 1: everything else up into the prison is not the ride yet And it was just.
+
+232
+00:15:35,465 --> 00:15:36,670
+Speaker 1: I was very impressed by that.
+
+233
+00:15:36,731 --> 00:15:42,880
+Speaker 1: ride would ride would ride again But would not you know not gonna fly to the other side of the yeah just to ride again?
+
+234
+00:15:42,920 --> 00:15:52,140
+Speaker 0: I just I think I think the the moment when I if I had been in your shoes the moment the same door open again Same door opening was the most amazing part I just wanted in the room.
+
+235
+00:15:52,180 --> 00:15:53,224
+Speaker 1: They wouldn't let me stay in.
+
+236
+00:15:53,747 --> 00:16:02,840
+Speaker 0: so whoever designed this put in that extra little bit of effort And they got me a very skeptical cynical adult who knows a lot about amusement parks, right?
+
+237
+00:16:03,040 --> 00:16:18,100
+Speaker 1: Because look if the if you go in the right side door and the left door opens Then it's sort of like just sort of obvious like oh, it's a room Great, there's a room that has and this ship is really just a doorway like I like a Metroid doorway to the next room.
+
+238
+00:16:18,220 --> 00:16:26,290
+Speaker 1: Yeah, but the fact that the same door opened made it like really feel like we went somewhere But the fact right what we did.
+
+239
+00:16:26,310 --> 00:16:28,260
+Speaker 0: go somewhere of this ride.
+
+240
+00:16:28,722 --> 00:16:36,753
+Speaker 0: someone somewhere in the product management through implementation chain said The door has to open on the same side that people come in.
+
+241
+00:16:36,814 --> 00:16:38,500
+Speaker 0: someone like made that their mission.
+
+242
+00:16:39,343 --> 00:16:40,206
+Speaker 1: It's like and you're it.
+
+243
+00:16:40,226 --> 00:16:47,210
+Speaker 1: you're standing in a place where you can see the real sky of the earth Even though you're on a set that looks like you're outside a rebel base.
+
+244
+00:16:47,532 --> 00:16:55,379
+Speaker 1: you go in a door the door opens again And you are inside a Star Destroyer hangar When you cannot see the outside.
+
+245
+00:16:56,620 --> 00:16:56,961
+Speaker 1: Right.
+
+246
+00:16:57,423 --> 00:16:58,085
+Speaker 1: see this like.
+
+247
+00:16:58,326 --> 00:16:58,788
+Speaker 0: this is what.
+
+248
+00:16:58,828 --> 00:17:02,280
+Speaker 0: this is why on one hand we could talk like where?
+
+249
+00:17:03,260 --> 00:17:04,324
+Speaker 1: Like I could talk very even.
+
+250
+00:17:04,385 --> 00:17:08,300
+Speaker 0: is that the problems I have with Disney as a company with amusement park?
+
+251
+00:17:08,300 --> 00:17:13,512
+Speaker 0: There's a lot of things we could talk about but then Disney is the only company on earth that seems capable of this kind of thing.
+
+252
+00:17:14,721 --> 00:17:15,483
+Speaker 1: Yeah, it's you know.
+
+253
+00:17:15,545 --> 00:17:20,847
+Speaker 1: It's just that there's that extra level of you know Polishing that goes on.
+
+254
+00:17:21,047 --> 00:17:23,035
+Speaker 0: if only they could have applied that to that hotel.
+
+255
+00:17:23,075 --> 00:17:24,240
+Speaker 0: They made for Star Wars.
+
+256
+00:17:25,502 --> 00:17:29,579
+Speaker 0: I mean like somehow they made that really janky, but yet they make this ride amazing.
+
+257
+00:17:29,599 --> 00:17:32,285
+Speaker 1: I Don't think it was janky.
+
+258
+00:17:32,305 --> 00:17:33,371
+Speaker 1: I just think the concept.
+
+259
+00:17:33,411 --> 00:17:35,020
+Speaker 1: It's like there's only so much you could do with it.
+
+260
+00:17:35,120 --> 00:17:35,742
+Speaker 0: Yeah, why?
+
+261
+00:17:35,762 --> 00:17:37,126
+Speaker 0: I honestly that concept.
+
+262
+00:17:37,146 --> 00:17:41,919
+Speaker 0: the problem with that hotel was it needed to be more Larpy and less?
+
+263
+00:17:43,261 --> 00:17:44,975
+Speaker 0: Nothing seems like there's a lot of nothing.
+
+264
+00:17:45,016 --> 00:17:45,480
+Speaker 0: that happened.
+
+265
+00:17:46,282 --> 00:17:50,453
+Speaker 1: It's like if you think about it even that ride with the amazing pre ride right.
+
+266
+00:17:50,954 --> 00:17:53,220
+Speaker 1: It's like wasn't that long to ride?
+
+267
+00:17:53,641 --> 00:17:54,684
+Speaker 1: You know it's like.
+
+268
+00:17:54,945 --> 00:18:01,667
+Speaker 1: so you're having to keep that level of you know power of magic up For days.
+
+269
+00:18:01,747 --> 00:18:02,791
+Speaker 0: that's the danger.
+
+270
+00:18:03,032 --> 00:18:05,180
+Speaker 0: if I have heard of Disney you can't you can't do it.
+
+271
+00:18:05,180 --> 00:18:05,764
+Speaker 1: It only works.
+
+272
+00:18:05,905 --> 00:18:07,958
+Speaker 1: you can only do it because it's only that long.
+
+273
+00:18:08,019 --> 00:18:12,220
+Speaker 0: yep It's the scalability of the automation coupled with the short time span.
+
+274
+00:18:13,622 --> 00:18:19,030
+Speaker 1: If you had to keep that level up you know it would you have to build like a whole Disneyland sized place.
+
+275
+00:18:19,050 --> 00:18:20,236
+Speaker 0: well you know what it'd be like.
+
+276
+00:18:20,276 --> 00:18:27,378
+Speaker 0: it would be like Running an amusement park that is only for a small number of people and costs like a million dollars to go to.
+
+277
+00:18:27,398 --> 00:18:28,566
+Speaker 0: you're basically making Westworld.
+
+278
+00:18:28,606 --> 00:18:31,828
+Speaker 1: at that point I Mean I think the way you could do it.
+
+279
+00:18:32,371 --> 00:18:32,713
+Speaker 1: you're right.
+
+280
+00:18:32,954 --> 00:18:35,644
+Speaker 1: small number of people Would be.
+
+281
+00:18:35,664 --> 00:18:38,375
+Speaker 1: you would have to basically like.
+
+282
+00:18:38,837 --> 00:18:43,580
+Speaker 1: you know Pretend for real right that you're on like a. you know a ship.
+
+283
+00:18:44,222 --> 00:18:47,697
+Speaker 0: Yeah, you'd have to run it the way a LARP would be run.
+
+284
+00:18:47,857 --> 00:18:51,529
+Speaker 0: I would hire Professional LARPers to design the experience.
+
+285
+00:18:51,609 --> 00:18:53,857
+Speaker 0: if I were somehow in charge of this.
+
+286
+00:18:53,878 --> 00:19:05,890
+Speaker 1: yeah It would have to be like you know you're actually on a Star Destroyer You are working on it Or you're on a rebels like if Darth Vader shows You have a job on the ship.
+
+287
+00:19:06,452 --> 00:19:15,087
+Speaker 1: you actually have to do that job for a few days Oh, but at that point and then literally it includes all the things sleeping eating Yeah, report to duty.
+
+288
+00:19:15,107 --> 00:19:16,633
+Speaker 1: Oh, you know etc.
+
+289
+00:19:16,713 --> 00:19:17,296
+Speaker 1: It's like that's.
+
+290
+00:19:17,396 --> 00:19:23,834
+Speaker 0: it's at minimum It's sleep no more, but it lasts for a week, and you're sleeping in the theater the whole time all right.
+
+291
+00:19:23,875 --> 00:19:30,060
+Speaker 0: so in some news This actually just broke this morning, and I was really busy at work.
+
+292
+00:19:30,401 --> 00:19:31,786
+Speaker 0: So I had a one meeting before.
+
+293
+00:19:31,846 --> 00:19:33,873
+Speaker 1: it was this was coming for a while.
+
+294
+00:19:33,893 --> 00:19:35,278
+Speaker 0: I didn't think it would happen.
+
+295
+00:19:35,660 --> 00:19:46,135
+Speaker 0: I The if you had asked me to bet money like in a horse track on whether or not This action or an action like it depends on when you asked me.
+
+296
+00:19:46,155 --> 00:19:49,888
+Speaker 1: because if you asked me last month I would say probably not, but if you asked me last week.
+
+297
+00:19:49,928 --> 00:19:51,895
+Speaker 1: I'd say oh yeah, that's basically already been decided.
+
+298
+00:19:51,915 --> 00:19:57,133
+Speaker 0: Yeah, but Suddenly like all my co-workers are freaking out, and I'm like what's going on.
+
+299
+00:19:57,153 --> 00:19:57,414
+Speaker 0: They're like.
+
+300
+00:19:57,515 --> 00:19:58,580
+Speaker 1: Oh, why are you freaking out?
+
+301
+00:19:58,800 --> 00:20:01,179
+Speaker 0: They're like the Apple watch got banned, and I'm like what?
+
+302
+00:20:02,640 --> 00:20:05,431
+Speaker 1: Yeah, that's and I realize it was a freak out about though.
+
+303
+00:20:05,471 --> 00:20:06,635
+Speaker 1: Why you freak out about?
+
+304
+00:20:06,656 --> 00:20:10,043
+Speaker 0: because it's capital markets Tony this is good.
+
+305
+00:20:10,063 --> 00:20:17,969
+Speaker 0: This is this impacts money in the u.s.. Yeah, okay, but anyway, so the story is What's going on is?
+
+306
+00:20:19,101 --> 00:20:22,212
+Speaker 0: that F as of Christmas Day.
+
+307
+00:20:22,232 --> 00:20:26,916
+Speaker 0: I think December 24th at midnight is when this formally takes effect.
+
+308
+00:20:27,017 --> 00:20:31,373
+Speaker 0: as I can tell No Apple watches.
+
+309
+00:20:31,393 --> 00:20:37,980
+Speaker 0: the new one the ultra 2 or the 9 Will be allowed to be imported into the United States.
+
+310
+00:20:39,241 --> 00:20:39,382
+Speaker 1: Mm-hmm,
+
+311
+00:20:39,903 --> 00:20:58,837
+Speaker 0: and this is due to a ruling by a body that many of you have probably never heard of the the ITC This is the United States ITC stands for the International Trade Commission And I don't interact with this like as much as I'm big in like money stuff in the world The ITC like does not exist as far as I am concerned.
+
+312
+00:20:58,878 --> 00:21:03,616
+Speaker 0: professionally I worry about the SEC and like all these other organizations the SE thought.
+
+313
+00:21:03,676 --> 00:21:13,300
+Speaker 0: but the ITC I'm just gonna read Wikipedia here is an agency the United States federal government that advises the legislative and executive branches on matters of trade.
+
+314
+00:21:13,862 --> 00:21:34,718
+Speaker 0: It is an independent bipartisan entity and its goal is basically to analyze things like tariffs competitiveness, etc, and it has a Small, but apparently very powerful Set of tools at its disposal to achieve its mission and one of those tools appears to be to basically ban imports of products.
+
+315
+00:21:36,082 --> 00:21:47,121
+Speaker 1: Yeah, I mean if something violates US law or some other reason You know trademark violations things like that, they'll tell the customs people right don't import that you know.
+
+316
+00:21:47,141 --> 00:21:54,563
+Speaker 1: if you see that come in at the dock send it back or don't let it, you know be unloaded and Customs u.s.
+
+317
+00:21:54,603 --> 00:21:57,372
+Speaker 1: Customs actually does a pretty decent.
+
+318
+00:21:57,432 --> 00:22:02,587
+Speaker 1: I'm sure the smuggling it happens, but for the most part it's like it's not so easy to.
+
+319
+00:22:03,148 --> 00:22:11,977
+Speaker 1: if I just order a bunch of counterfeit shit and have it in a shipping container and it gets to port in Newark, New Jersey It's probably gonna stay there.
+
+320
+00:22:12,822 --> 00:22:19,679
+Speaker 0: There's a chance instead of you showing up to collect your crate You will show up to meet with a nice man who wants to ask you some questions.
+
+321
+00:22:20,542 --> 00:22:21,794
+Speaker 1: That's right, you know.
+
+322
+00:22:23,082 --> 00:22:26,109
+Speaker 1: So what's all these things you have with Apple logos all over them?
+
+323
+00:22:26,531 --> 00:22:29,999
+Speaker 0: That's that's a lot of Versace in that crate buddy.
+
+324
+00:22:31,041 --> 00:22:32,691
+Speaker 0: Yeah, that's a gift for your grandma.
+
+325
+00:22:32,791 --> 00:22:34,159
+Speaker 0: That's what you put on the customs form.
+
+326
+00:22:35,322 --> 00:22:35,623
+Speaker 1: What's it?
+
+327
+00:22:35,684 --> 00:22:36,468
+Speaker 1: what's in this?
+
+328
+00:22:36,529 --> 00:22:38,400
+Speaker 1: what's in the shipping crate bags?
+
+329
+00:22:39,581 --> 00:22:40,103
+Speaker 1: What's it what?
+
+330
+00:22:40,283 --> 00:22:42,631
+Speaker 1: why do these bags have these all these logos all over them?
+
+331
+00:22:43,273 --> 00:22:45,280
+Speaker 1: Yeah, do you work for this company?
+
+332
+00:22:48,224 --> 00:22:49,298
+Speaker 0: So what is it all about?
+
+333
+00:22:50,640 --> 00:22:55,140
+Speaker 0: effectively the blood oxygen monitoring feature of the watches?
+
+334
+00:22:55,981 --> 00:22:57,328
+Speaker 0: So there is a company.
+
+335
+00:22:57,951 --> 00:22:58,595
+Speaker 0: the company is.
+
+336
+00:22:58,655 --> 00:22:59,620
+Speaker 0: I keep forgetting the name of the company.
+
+337
+00:22:59,660 --> 00:23:00,609
+Speaker 0: I always have to look it up again.
+
+338
+00:23:00,629 --> 00:23:05,660
+Speaker 0: The company is Called Massimo, they're an American company.
+
+339
+00:23:06,503 --> 00:23:07,727
+Speaker 0: They're a huge company.
+
+340
+00:23:07,807 --> 00:23:17,960
+Speaker 0: I didn't know really much about them and they basically have a patent on The way to detect blood oxygen that is used by the Apple devices.
+
+341
+00:23:18,803 --> 00:23:21,191
+Speaker 1: You basically if people don't know right?
+
+342
+00:23:21,371 --> 00:23:23,800
+Speaker 1: It's you shine a light through someone's finger.
+
+343
+00:23:24,101 --> 00:23:31,698
+Speaker 1: Of course, it only works great on people with light skin, you know, it doesn't work as great on people who don't It can work but it's more complicated.
+
+344
+00:23:31,899 --> 00:23:35,327
+Speaker 1: and Basically, they shine a light through your skin.
+
+345
+00:23:35,347 --> 00:23:39,759
+Speaker 1: And if your blood is highly oxygenated, it's gonna be a different color.
+
+346
+00:23:40,201 --> 00:23:42,440
+Speaker 0: Pulsing symmetry is the technology
+
+347
+00:23:43,262 --> 00:24:00,220
+Speaker 1: Yes, and so based on the light that's transmitted through your body that comes out on the other side You know or is reflected back into your watch They can tell how ox how much oxygen is in the blood based on you know, the the spectrum of photons.
+
+348
+00:24:00,300 --> 00:24:02,269
+Speaker 1: They know this, you know this data.
+
+349
+00:24:02,530 --> 00:24:04,920
+Speaker 0: this data point is really important a real invention.
+
+350
+00:24:04,920 --> 00:24:09,680
+Speaker 1: It's the kind of thing that should that kind of invention like if you fit if someone who figured that out.
+
+351
+00:24:10,041 --> 00:24:13,033
+Speaker 1: That's the kind of thing that deserves a patent legitimately.
+
+352
+00:24:13,073 --> 00:24:14,940
+Speaker 1: It's not like some software patent nonsense.
+
+353
+00:24:15,304 --> 00:24:31,300
+Speaker 0: So what I wondered when this story was first slowly making through the rounds is because when it when this kind of thing happens over a patent and It's either a patent troll or a big company trying to basically use someone else's research for their own purposes.
+
+354
+00:24:32,006 --> 00:24:33,660
+Speaker 1: So in this no, this is the other way around.
+
+355
+00:24:33,760 --> 00:24:38,348
+Speaker 0: Yep, this company like their whole deal is pulse oximetry.
+
+356
+00:24:38,408 --> 00:24:42,249
+Speaker 0: Like they are Researching this stuff directly.
+
+357
+00:24:42,269 --> 00:24:48,600
+Speaker 1: They're like an unlike and unlike Copyrights patents expire after a reasonable amount of time.
+
+358
+00:24:49,303 --> 00:24:53,380
+Speaker 1: I'm surprised this one actually isn't expired yet because this technology has been around a while.
+
+359
+00:24:53,520 --> 00:24:55,689
+Speaker 0: Well, it's like I want to say from what I read.
+
+360
+00:24:55,749 --> 00:24:59,384
+Speaker 0: There is a very specific way to Make it work.
+
+361
+00:24:59,987 --> 00:25:01,073
+Speaker 0: That is that issue.
+
+362
+00:25:01,395 --> 00:25:02,440
+Speaker 0: Not the general concept.
+
+363
+00:25:03,102 --> 00:25:05,449
+Speaker 0: But no, this company is not a brand new patent troll.
+
+364
+00:25:05,469 --> 00:25:06,652
+Speaker 0: This company was founded in 1989.
+
+365
+00:25:06,652 --> 00:25:11,613
+Speaker 0: It's been around a while Mm-hmm, and it's huge.
+
+366
+00:25:12,097 --> 00:25:23,495
+Speaker 1: So Apple is Or have lost and I mean Apple has to either a buy this company.
+
+367
+00:25:23,515 --> 00:25:23,936
+Speaker 1: Yeah.
+
+368
+00:25:24,297 --> 00:25:28,597
+Speaker 1: Well, let's see they or be Buy a patent license from this company.
+
+369
+00:25:28,618 --> 00:25:35,820
+Speaker 0: now It is amazing that Apple has not licensed this patent which either implies that they can afford it.
+
+370
+00:25:36,060 --> 00:25:37,708
+Speaker 0: Yeah, so either.
+
+371
+00:25:37,728 --> 00:25:39,556
+Speaker 0: so now again, this is pure speculation.
+
+372
+00:25:39,596 --> 00:25:40,540
+Speaker 0: We have no inside knowledge.
+
+373
+00:25:40,701 --> 00:25:48,709
+Speaker 1: I'm not a pretty sure the the hit on the margins of Apple watches will be less than the hit of Not selling any Apple watches at all.
+
+374
+00:25:49,030 --> 00:26:02,923
+Speaker 0: So in my in my uneducated experience and opinion on this kind of thing either someone at Apple Made the decision that the cost to them of licensing it was
+
+375
+00:26:03,144 --> 00:26:03,525
+Speaker 1: higher
+
+376
+00:26:03,967 --> 00:26:18,611
+Speaker 0: than the cost of winning lawsuits about this and decided to go the lawsuit route instead of the just pay them route or They thought they could win in court About the patent itself like those are.
+
+377
+00:26:18,992 --> 00:26:20,880
+Speaker 0: I mean the third option is gross incompetence.
+
+378
+00:26:21,363 --> 00:26:24,059
+Speaker 0: So it's one of those three is what led to this moment.
+
+379
+00:26:24,962 --> 00:26:27,428
+Speaker 0: But this company only has like 2,000 employees.
+
+380
+00:26:27,769 --> 00:26:34,108
+Speaker 0: their total revenue is 1.2 billion dollars in 2022.
+
+381
+00:26:34,108 --> 00:26:36,889
+Speaker 1: so I Apple's the biggest company on earth still.
+
+382
+00:26:36,929 --> 00:26:54,234
+Speaker 0: maybe I don't know why It came to this like this feels like Apple fucked up at some point because if Someone in Apple had to have told someone who has power Yeah, the ITC might actually ban imports of our fucking watch.
+
+383
+00:26:54,334 --> 00:26:55,940
+Speaker 0: Maybe we should deal with this situation.
+
+384
+00:26:57,941 --> 00:27:04,200
+Speaker 0: So now either president Biden's gonna veto it which I doubt he's gonna do or apples and deep shit.
+
+385
+00:27:05,701 --> 00:27:19,955
+Speaker 1: Well, I mean Apple will just basically have to pay probably even more because now they're over a barrel yeah to license the patent and then start selling Apple watches again, or They can't suddenly manufacture Apple watches that don't have this in it.
+
+386
+00:27:20,136 --> 00:27:20,598
+Speaker 1: That's right.
+
+387
+00:27:21,180 --> 00:27:22,676
+Speaker 1: Yeah, it takes all you know.
+
+388
+00:27:23,100 --> 00:27:28,039
+Speaker 1: They guess that they could make it so that the next Apple watch doesn't have it or a special US model that doesn't have it.
+
+389
+00:27:28,220 --> 00:27:28,463
+Speaker 1: yeah,
+
+390
+00:27:28,483 --> 00:27:46,639
+Speaker 0: but but that is even worse because We had a global pandemic where one of the most important metrics a person could have if they have kovid is Their current blood oxygen because there is a line below which you need to go to the hospital and a line above which You are probably okay right now.
+
+391
+00:27:47,202 --> 00:27:57,080
+Speaker 0: So there's a lot of people who for reasons over the last few years Would really like take advantage of a feature like this and okay could save lives.
+
+392
+00:27:57,501 --> 00:28:00,110
+Speaker 0: So there's a lot more going on here than just a patent fight.
+
+393
+00:28:00,230 --> 00:28:02,197
+Speaker 1: you're buying your Apple advertising worked on.
+
+394
+00:28:02,217 --> 00:28:03,527
+Speaker 1: you buy an Apple watch or die.
+
+395
+00:28:05,842 --> 00:28:10,100
+Speaker 0: There are other ways to track this but a lot of people did buy Apple watches better.
+
+396
+00:28:10,200 --> 00:28:11,467
+Speaker 1: You better buy an Apple watch.
+
+397
+00:28:11,487 --> 00:28:12,251
+Speaker 1: You don't die.
+
+398
+00:28:12,391 --> 00:28:15,468
+Speaker 0: So the nuts thing a guy I know at work Actually, we were talking about this
+
+399
+00:28:15,790 --> 00:28:15,890
+Speaker 1: and
+
+400
+00:28:16,293 --> 00:28:35,601
+Speaker 0: he when he saw the news so he told me he specifically bought an Apple watch because his doctor said to because The oxygen sensor is really good and for his particular medical stuff like having a record of your blood oxygen over time would be a really good idea and the Apple watch is the best way to Do it.
+
+401
+00:28:35,621 --> 00:28:36,243
+Speaker 0: should just buy one.
+
+402
+00:28:37,065 --> 00:28:53,333
+Speaker 1: and then if you are if you are in that area of financial well-being that you can afford to buy Apple watches, but Need to make money because you know your job doesn't pay that much Buy some buy Apple watches and resell them right now, right?
+
+403
+00:28:53,453 --> 00:28:58,144
+Speaker 1: You might it's probably already too late, but Yeah, it's not too late.
+
+404
+00:28:58,185 --> 00:29:02,180
+Speaker 1: if you can find MSRP Apple watches take them now.
+
+405
+00:29:02,261 --> 00:29:04,380
+Speaker 0: I would say let's get into communist room side.
+
+406
+00:29:05,022 --> 00:29:10,980
+Speaker 0: I would say the US federal government should buy out all these companies that make critical medical research technology.
+
+407
+00:29:11,321 --> 00:29:13,126
+Speaker 0: I didn't release that's to the public.
+
+408
+00:29:13,387 --> 00:29:14,390
+Speaker 0: But what do I know?
+
+409
+00:29:14,491 --> 00:29:15,213
+Speaker 0: I'm just a human.
+
+410
+00:29:15,353 --> 00:29:18,657
+Speaker 1: Yeah, that's you know, that's - yeah That would be the decent thing sense.
+
+411
+00:29:19,737 --> 00:29:19,880
+Speaker 1: Yeah.
+
+412
+00:29:21,443 --> 00:29:26,200
+Speaker 0: So in some other actually thought pretty good news for but bad news for individuals.
+
+413
+00:29:27,263 --> 00:29:28,960
+Speaker 1: Good, it's good and bad news, right?
+
+414
+00:29:29,040 --> 00:29:35,780
+Speaker 1: So there's a company called figma and they make a software that lets you basically prototype user interfaces.
+
+415
+00:29:35,900 --> 00:29:47,338
+Speaker 0: So designers usually use this and I use a lot of those kinds of software's over the years and in my personal Professional opinion as a UX designer figma is real good like figma is near the top.
+
+416
+00:29:47,358 --> 00:29:53,695
+Speaker 1: basically You know as far as the design world goes all the designers agree with you because that's what they use.
+
+417
+00:29:53,716 --> 00:29:54,237
+Speaker 0: Yep, right?
+
+418
+00:29:54,277 --> 00:29:57,913
+Speaker 0: That's what I use That's what my UX designers.
+
+419
+00:29:57,954 --> 00:29:58,478
+Speaker 1: It's like, right.
+
+420
+00:29:58,920 --> 00:30:12,856
+Speaker 1: It's like you want to draw what you want to draw a picture of a website a picture of your new mobile app a picture Of your new desktop app, you know To do a B test right for the main menu of your new video game.
+
+421
+00:30:12,876 --> 00:30:14,139
+Speaker 1: you're making right you want to make.
+
+422
+00:30:14,841 --> 00:30:16,647
+Speaker 1: You're not making actual user interfaces.
+
+423
+00:30:16,667 --> 00:30:26,740
+Speaker 1: you're making you know designs of user interfaces that then Programmers and other people could then go look at that and implement and make turn that into reality for the this?
+
+424
+00:30:26,920 --> 00:30:31,094
+Speaker 0: Oh way, it does way more than what a tool like balsamic does like.
+
+425
+00:30:31,375 --> 00:30:32,960
+Speaker 0: this is not just mock-up a UI.
+
+426
+00:30:33,102 --> 00:30:34,138
+Speaker 0: This is way more than that
+
+427
+00:30:34,816 --> 00:30:41,635
+Speaker 1: Yeah And it does way more than like what a lot of people used to do back in the day of just draw pictures in Photoshop Of what your UI is gonna look like or
+
+428
+00:30:41,776 --> 00:30:45,334
+Speaker 0: I would write HTML that just had completely fake data behind.
+
+429
+00:30:45,374 --> 00:30:46,619
+Speaker 0: it was the other way I used to do that.
+
+430
+00:30:48,420 --> 00:30:55,677
+Speaker 1: yeah, so It's also like Collaboratives like you can all like you load it up and everyone can sort of work on shit together.
+
+431
+00:30:55,737 --> 00:31:04,969
+Speaker 0: the way you work on A Google Docs, it's pretty good like that part of it to like better than you think it's gonna be that this is not Advertisement but it's pretty good.
+
+432
+00:31:05,009 --> 00:31:25,287
+Speaker 1: Yeah, so this is basically a super popular necessary application for everyone in the user interface design world and you know Adobe, which is basically the king of this sort of app right a creative Productivity app to you know, do you know?
+
+433
+00:31:25,307 --> 00:31:26,551
+Speaker 1: they've already got a video.
+
+434
+00:31:26,792 --> 00:31:27,896
+Speaker 1: they already got audio.
+
+435
+00:31:28,136 --> 00:31:29,220
+Speaker 1: They already got images.
+
+436
+00:31:29,481 --> 00:31:33,891
+Speaker 0: They even have print design and graphic design and layout like in design.
+
+437
+00:31:33,911 --> 00:31:37,500
+Speaker 0: people forget about that one and they already have a UX tool.
+
+438
+00:31:37,600 --> 00:31:40,935
+Speaker 0: That's not good enough for anyone to use professionally called experience.
+
+439
+00:31:40,955 --> 00:31:45,892
+Speaker 1: Adobe has tried Several times to make basically a figma.
+
+440
+00:31:46,073 --> 00:31:48,260
+Speaker 1: Yeah, right a thing and they have failed.
+
+441
+00:31:48,440 --> 00:31:50,445
+Speaker 0: Not good.
+
+442
+00:31:50,505 --> 00:31:51,788
+Speaker 0: Yeah, not good.
+
+443
+00:31:51,928 --> 00:31:56,859
+Speaker 1: in my profile the Adobe XD stuff is like their most recent attempt that I'm aware of right.
+
+444
+00:31:56,899 --> 00:32:01,759
+Speaker 1: so Adobe has tried to make this kind of tool and they have not won.
+
+445
+00:32:01,779 --> 00:32:06,729
+Speaker 1: in the marketplace of competitive They have not beaten out the competitors.
+
+446
+00:32:07,311 --> 00:32:10,384
+Speaker 0: whenever they have not beaten any competitor I don't think no.
+
+447
+00:32:10,825 --> 00:32:15,020
+Speaker 1: any time they've tried to make one of these they've always just not gotten any users.
+
+448
+00:32:15,202 --> 00:32:17,017
+Speaker 1: No one uses it and that's it, right?
+
+449
+00:32:18,040 --> 00:32:22,959
+Speaker 1: Really the history of Adobe is that you know, they bought right they they.
+
+450
+00:32:23,059 --> 00:32:24,383
+Speaker 1: well They made the phone.
+
+451
+00:32:24,403 --> 00:32:29,880
+Speaker 0: addition is actually an application called cool edit that they bought because they couldn't do audio on their own exactly.
+
+452
+00:32:30,162 --> 00:32:38,475
+Speaker 1: They started with Photoshop and then everything else Other than Photoshop is basically they bought the most popular number one app, right?
+
+453
+00:32:38,495 --> 00:32:40,280
+Speaker 1: They bought cool edit and made audition.
+
+454
+00:32:40,521 --> 00:32:43,890
+Speaker 1: They bought macromedia to get flash and Dreamweaver.
+
+455
+00:32:44,090 --> 00:32:45,735
+Speaker 1: I guess Dreamweaver still exists.
+
+456
+00:32:45,775 --> 00:32:49,673
+Speaker 1: I guess if you want to write premiere I'm pretty sure was from another company.
+
+457
+00:32:49,713 --> 00:32:50,437
+Speaker 0: I don't actually know.
+
+458
+00:32:50,498 --> 00:32:50,900
+Speaker 0: on premiere.
+
+459
+00:32:51,684 --> 00:32:54,539
+Speaker 1: I don't know a hundred percent, but I'm pretty sure it was.
+
+460
+00:32:56,183 --> 00:32:58,240
+Speaker 0: Regardless what about Adobe on location?
+
+461
+00:33:00,582 --> 00:33:05,857
+Speaker 1: But basically pretty much everything Adobe Acrobat I think might have made Acrobat actually, I don't know.
+
+462
+00:33:06,559 --> 00:33:16,138
+Speaker 1: but Most of their success is because they've bought the best Industry leading application for a category and added it to the creative cloud, right?
+
+463
+00:33:17,324 --> 00:33:24,409
+Speaker 1: But they've not been able to make a figma beater Not even close not even getting off the ground good.
+
+464
+00:33:24,810 --> 00:33:25,532
+Speaker 1: So they're like, fuck it.
+
+465
+00:33:25,733 --> 00:33:26,596
+Speaker 1: We'll just buy figma.
+
+466
+00:33:26,676 --> 00:33:27,839
+Speaker 1: That's what we do, right?
+
+467
+00:33:28,180 --> 00:33:29,026
+Speaker 1: We'll just buy fucking.
+
+468
+00:33:29,066 --> 00:33:30,920
+Speaker 0: I think Adobe bought on location.
+
+469
+00:33:31,040 --> 00:33:35,740
+Speaker 0: It was a program called serious magic DV rack that I think they bought anyway.
+
+470
+00:33:37,780 --> 00:33:47,800
+Speaker 1: yeah, so They anyway They were gonna buy figma for like 20 billion dollars or something.
+
+471
+00:33:48,762 --> 00:33:50,266
+Speaker 1: Oh, yeah premiere was.
+
+472
+00:33:50,287 --> 00:33:55,220
+Speaker 1: it began at super mech technology as real-time a quick time video editor or something something.
+
+473
+00:33:55,401 --> 00:33:56,270
+Speaker 1: So they'll be bought.
+
+474
+00:33:56,512 --> 00:33:57,319
+Speaker 1: premiere also anyway.
+
+475
+00:33:58,522 --> 00:34:12,270
+Speaker 1: So they were gonna buy figma which is how they do and that would be really bad news for Designers everywhere because they'd have to basically you want figma you got to do creative cloud and a lot of people Only need figma.
+
+476
+00:34:12,553 --> 00:34:16,493
+Speaker 1: well do their job And they don't want to get involved with creative cloud.
+
+477
+00:34:16,514 --> 00:34:17,639
+Speaker 1: They don't want to pay a subscription.
+
+478
+00:34:17,780 --> 00:34:21,652
+Speaker 0: They don't want to write but at the same time figma also has subscription already.
+
+479
+00:34:21,753 --> 00:34:34,179
+Speaker 0: Anyway, it's like that's not a situation Yeah, but you you know, you know, but the point is is that like in my experience at least in my industry There is a UX designer is forced to have creative cloud anyway for some other things.
+
+480
+00:34:34,661 --> 00:34:37,672
+Speaker 1: So sometime, you know, there are a lot of people though.
+
+481
+00:34:37,693 --> 00:34:45,295
+Speaker 0: Yeah the response to this was Oh Figma is just going to become free for us because we all literally already have Adobe creative cloud.
+
+482
+00:34:45,315 --> 00:34:46,297
+Speaker 0: That's fantastic.
+
+483
+00:34:46,318 --> 00:34:47,159
+Speaker 1: people who aren't right.
+
+484
+00:34:47,199 --> 00:34:49,119
+Speaker 1: So people who already have creative cloud.
+
+485
+00:34:49,541 --> 00:35:02,652
+Speaker 1: This would have been great because you'd suddenly get it for free in creative cloud and people who are paying for both can now just Pay for only one even like, you know, the non free Figma, the cheapest one is 12 bucks per person per month.
+
+486
+00:35:02,672 --> 00:35:05,080
+Speaker 1: So you could save quite a bit, right?
+
+487
+00:35:05,381 --> 00:35:11,499
+Speaker 1: You know if they're not gonna raise the price of creative cloud because figma is now included They're just gonna keep their prices steady.
+
+488
+00:35:12,183 --> 00:35:23,607
+Speaker 1: Then this would just be good news for people who already are in the adobe world but bad news for everybody else and also bad news for competition because That's gonna be the end of it right.
+
+489
+00:35:23,787 --> 00:35:27,700
+Speaker 1: if you if anyone had any dreams of beating figma now, right?
+
+490
+00:35:28,040 --> 00:35:34,800
+Speaker 1: Well, if adobe included it your dream would really be over because it's like I'm getting figma for free in my creative cloud.
+
+491
+00:35:34,861 --> 00:35:36,540
+Speaker 1: Why would I pay for an alternative right?
+
+492
+00:35:36,680 --> 00:35:39,151
+Speaker 1: It's like I'm more to getting Photoshop free in my creative cloud.
+
+493
+00:35:39,492 --> 00:35:42,810
+Speaker 1: if someone else tries to make a Photoshop competitor Why would I even try it?
+
+494
+00:35:42,850 --> 00:35:43,957
+Speaker 1: I already have put it right.
+
+495
+00:35:44,038 --> 00:35:55,280
+Speaker 1: and so So I in a rare, you know Antitrust move the governments of various governments of the world were like, oh, we don't know about this.
+
+496
+00:35:55,380 --> 00:35:56,767
+Speaker 1: This seems monopoly.
+
+497
+00:35:56,888 --> 00:35:58,355
+Speaker 1: ish you buying the figma.
+
+498
+00:35:58,395 --> 00:35:59,019
+Speaker 1: We don't like that.
+
+499
+00:35:59,661 --> 00:36:09,480
+Speaker 1: And so, you know after some fighting back and forth similar to the Nvidia arm fighting that happened Right similar to the Blizzard Activision fighting that happened.
+
+500
+00:36:10,500 --> 00:36:13,170
+Speaker 1: You know adobe is just like alright fine.
+
+501
+00:36:13,511 --> 00:36:13,832
+Speaker 1: Fuck it.
+
+502
+00:36:13,852 --> 00:36:15,257
+Speaker 1: We won't buy figma, right?
+
+503
+00:36:15,277 --> 00:36:16,020
+Speaker 1: We're not gonna buy it.
+
+504
+00:36:16,220 --> 00:36:16,722
+Speaker 1: Just leave it.
+
+505
+00:36:16,783 --> 00:36:17,465
+Speaker 1: leave it out there.
+
+506
+00:36:18,369 --> 00:36:24,080
+Speaker 1: and that's so good news for competition and antitrust.
+
+507
+00:36:24,941 --> 00:36:28,164
+Speaker 1: Adobe not running the world and Both.
+
+508
+00:36:28,184 --> 00:36:32,700
+Speaker 0: I think Adobe's creative cloud suite is super good at what it is.
+
+509
+00:36:32,880 --> 00:36:36,355
+Speaker 0: But also no company should be too big and do too many things.
+
+510
+00:36:36,395 --> 00:36:40,591
+Speaker 0: just full stop period Anything that's too many things should be run by the government.
+
+511
+00:36:40,611 --> 00:36:44,548
+Speaker 1: Yeah, but bad news for Creative cloud customers.
+
+512
+00:36:44,588 --> 00:36:45,854
+Speaker 1: You're not gonna get figma for free.
+
+513
+00:36:45,874 --> 00:36:47,100
+Speaker 1: You're gonna keep paying for it separate.
+
+514
+00:36:47,160 --> 00:36:52,720
+Speaker 0: I'll admit I was personally very much looking forward to just having it free at home alongside everything else.
+
+515
+00:36:53,366 --> 00:37:00,339
+Speaker 1: Yeah, and I guess Good news for people who pay for figma but not creative cloud because you're gonna keep paying your lower price.
+
+516
+00:37:00,681 --> 00:37:04,105
+Speaker 0: now I'm curious if any of you use these like Yeah, our.
+
+517
+00:37:04,466 --> 00:37:07,240
+Speaker 0: I have not encountered people who use figma but not creative cloud.
+
+518
+00:37:07,340 --> 00:37:08,042
+Speaker 0: Like it.
+
+519
+00:37:08,062 --> 00:37:14,640
+Speaker 1: would be you a weird person whose professional job is to use figma but not creative cloud, but it's not impossible.
+
+520
+00:37:14,661 --> 00:37:15,379
+Speaker 1: It's not impossible.
+
+521
+00:37:15,440 --> 00:37:24,171
+Speaker 0: but if any of you are out there like I'd like to know exactly what your job is because Every UX designer, I know at least needs Photoshop and usually InDesign.
+
+522
+00:37:25,033 --> 00:37:25,293
+Speaker 1: Yeah.
+
+523
+00:37:26,175 --> 00:37:28,040
+Speaker 1: Anyway, so that happened.
+
+524
+00:37:30,444 --> 00:37:38,159
+Speaker 0: But anyway things Of the day, this is a one-minute video That explains something that I never knew.
+
+525
+00:37:39,022 --> 00:37:43,940
+Speaker 0: Why do Americans pronounce it Z when most of the rest of the world say Zed?
+
+526
+00:37:44,721 --> 00:37:48,560
+Speaker 1: That's one of the things that I looked up on the internet and renewed the answer to and then forgot.
+
+527
+00:37:49,142 --> 00:37:52,880
+Speaker 1: So now you don't have to look it out have to look it up again and then forget again.
+
+528
+00:37:52,900 --> 00:37:56,839
+Speaker 0: You can watch this video you'll learn it and in about a year, you'll forget it.
+
+529
+00:37:57,100 --> 00:38:12,580
+Speaker 0: but that's now I know and it's kind of funny why it came went that way and because 100% of the people I work with are in Europe work I've actually caught myself saying Zed instead of Z like for real in my day-to-day life.
+
+530
+00:38:12,781 --> 00:38:16,400
+Speaker 0: Because whenever I say Z everyone laughs out loud and it's a problem.
+
+531
+00:38:17,662 --> 00:38:30,835
+Speaker 1: Listen, you know, I'm not just saying this because You know, I'm from the United States and I say Z right but my I'm gonna personally, you know If they're both out there on even footing and my his that is better for a friend.
+
+532
+00:38:30,875 --> 00:38:32,059
+Speaker 0: I could give very good reasons.
+
+533
+00:38:32,119 --> 00:38:32,340
+Speaker 0: Why?
+
+534
+00:38:33,320 --> 00:38:34,604
+Speaker 1: I'm gonna say Z is better.
+
+535
+00:38:34,865 --> 00:38:37,653
+Speaker 1: because here's my one reason and only reason.
+
+536
+00:38:37,794 --> 00:38:39,780
+Speaker 1: All right alphabet song doesn't work with Zed.
+
+537
+00:38:41,202 --> 00:38:43,537
+Speaker 0: So there is a Y and it's like.
+
+538
+00:38:43,638 --> 00:38:55,620
+Speaker 1: it's like I think Rhymes with V V D U V W X Y and Z. it rhymes with the V.
+
+539
+00:38:57,441 --> 00:39:08,191
+Speaker 0: Fucking alphabet song is part of the reason why Z started to overtake Zed in parts of the world the same way That of all the versions of the jingle bells Batman smells song.
+
+540
+00:39:08,672 --> 00:39:16,311
+Speaker 0: the one that Bart Simpson sang in that one episode of the Simpsons Replaced all the regional variations over the course of a decade globally.
+
+541
+00:39:17,295 --> 00:39:18,178
+Speaker 1: That's how it happens.
+
+542
+00:39:18,218 --> 00:39:22,520
+Speaker 0: Yeah It's already got Because I don't know what you got.
+
+543
+00:39:24,005 --> 00:39:24,989
+Speaker 1: So today I went to the.
+
+544
+00:39:25,109 --> 00:39:30,485
+Speaker 1: you know, cuz I don't work on Monday like a like a good person Like a fortunate person.
+
+545
+00:39:30,606 --> 00:39:35,300
+Speaker 1: I just said, ah, you know, it's raining nothing, you know, I don't want to do any outside things.
+
+546
+00:39:35,902 --> 00:39:43,312
+Speaker 1: Let's let's go to the Met because there's that Monet Degas exhibit I want to see that's gonna disappear like early January.
+
+547
+00:39:43,332 --> 00:39:45,560
+Speaker 1: So I like I had to go quickly right?
+
+548
+00:39:46,420 --> 00:39:51,891
+Speaker 1: Otherwise, I wouldn't have gone outside in the rain and I'm like, it's a Monday and it's raining But it's also tourist season.
+
+549
+00:39:51,931 --> 00:39:52,798
+Speaker 1: How bad is it gonna be?
+
+550
+00:39:54,360 --> 00:39:57,391
+Speaker 1: So I went to see it and what did I know about Monet Degas?
+
+551
+00:39:57,591 --> 00:40:00,120
+Speaker 1: I knew that they were painters who are famous.
+
+552
+00:40:00,442 --> 00:40:01,126
+Speaker 1: Yeah, that's about it.
+
+553
+00:40:01,146 --> 00:40:01,629
+Speaker 1: Okay.
+
+554
+00:40:02,093 --> 00:40:03,119
+Speaker 1: So now what do I know?
+
+555
+00:40:03,461 --> 00:40:07,622
+Speaker 1: I know a lot but all I'll say about them is they were a lot like More.
+
+556
+00:40:07,964 --> 00:40:11,280
+Speaker 1: they have a lot more in common with Riven Scott that I had imagined.
+
+557
+00:40:12,223 --> 00:40:18,760
+Speaker 0: all right, that's not what I expected cuz Not only would I when I was younger like often confused Monet and Monet.
+
+558
+00:40:18,760 --> 00:40:27,220
+Speaker 1: They were like two French dudes in Paris at the same time of similar age Like one of them was maybe a couple years older like hanging out at the salons.
+
+559
+00:40:29,472 --> 00:40:29,493
+Speaker 1: 1800s.
+
+560
+00:40:29,800 --> 00:40:32,169
+Speaker 1: Yeah, they grew up, you know late 1800s.
+
+561
+00:40:32,229 --> 00:40:45,539
+Speaker 1: They grew up, you know, well, we grew up late 1900s Yeah, but anyway But you know, they're obviously not exactly the same but they had you know, their buddies to some extent, you know at times anyway.
+
+562
+00:40:47,081 --> 00:40:55,219
+Speaker 1: but I saw a painting there and I said I looked at the painting and Then I read the description of the painting and I said that's the most rim painting I ever saw.
+
+563
+00:40:55,822 --> 00:40:57,207
+Speaker 1: I was on loan from Philadelphia.
+
+564
+00:40:57,327 --> 00:41:00,700
+Speaker 1: actually, so, you know, if you don't see it in New York, you can see it in Philly.
+
+565
+00:41:01,562 --> 00:41:03,279
+Speaker 1: It's not one of the ones that came from France.
+
+566
+00:41:04,395 --> 00:41:15,580
+Speaker 1: See Because that's the main reason I wanted to go is there are a lot of paintings that were on loan from France that are rarely On loan anywhere and so basically it's like my chance to see them without a French plane ticket.
+
+567
+00:41:17,885 --> 00:41:28,170
+Speaker 1: But this painting was from Philly and What it was a painting of was, you know, obviously Something historical that I did not know about right?
+
+568
+00:41:28,471 --> 00:41:28,973
+Speaker 1: So, let's see.
+
+569
+00:41:28,993 --> 00:41:32,716
+Speaker 1: does rim know about the Battle of Cherbourg?
+
+570
+00:41:34,941 --> 00:41:39,020
+Speaker 0: Okay, I have definitely heard the phrase the Battle of Cherbourg.
+
+571
+00:41:39,723 --> 00:41:45,671
+Speaker 1: I had also but I didn't know what it was anything specific about it at all But I've definitely heard battle of Cherbourg.
+
+572
+00:41:45,771 --> 00:41:47,600
+Speaker 1: So by the way, this is a Monet painting.
+
+573
+00:41:47,761 --> 00:41:50,299
+Speaker 1: He didn't actually see the battle because it was a naval battle.
+
+574
+00:41:51,421 --> 00:41:55,920
+Speaker 1: He didn't see the battle, but he read about it in the newspaper and then he painted it and the painting was awesome.
+
+575
+00:41:56,865 --> 00:42:12,404
+Speaker 1: War battle There was a civil US Civil War battle in 1800s where a the Union ship the USS Kearsarge Waited for the French to repair the CSS, Alabama Yeah, and when?
+
+576
+00:42:12,664 --> 00:42:20,023
+Speaker 1: when the CSS Alabama said well, we're just sitting here and the the union It's like.
+
+577
+00:42:20,143 --> 00:42:20,404
+Speaker 1: it's like.
+
+578
+00:42:20,444 --> 00:42:24,257
+Speaker 1: our only choices are to just stay in France or to go out and battle right.
+
+579
+00:42:24,297 --> 00:42:25,280
+Speaker 1: we have no other option.
+
+580
+00:42:25,846 --> 00:42:32,874
+Speaker 1: So once their ship was fixed They raised up their Confederate flag and they sailed out and the Union hauled up the Union flag.
+
+581
+00:42:32,894 --> 00:42:37,899
+Speaker 1: and there was a. there was a French Like, you know ironclad ship.
+
+582
+00:42:38,402 --> 00:42:43,180
+Speaker 1: But they were only there to make sure that they battled outside the French waters.
+
+583
+00:42:43,561 --> 00:42:49,380
+Speaker 1: As long as they battled far enough away from the harbor that friendship wasn't gonna get involved.
+
+584
+00:42:50,443 --> 00:42:55,256
+Speaker 1: And so in the English Channel outside Cherbourg far enough away from the harbor.
+
+585
+00:42:55,296 --> 00:43:00,505
+Speaker 1: to not hurt any French people The Union blew the shit out of the Confederate boat.
+
+586
+00:43:00,646 --> 00:43:03,150
+Speaker 1: this and there was a and there was a painting of it.
+
+587
+00:43:05,203 --> 00:43:07,633
+Speaker 0: I was unaware of this specific battle.
+
+588
+00:43:07,673 --> 00:43:09,300
+Speaker 0: This is very up my alley.
+
+589
+00:43:09,400 --> 00:43:15,366
+Speaker 0: This is this is rims got a battleship just sitting outside of Scottsport waiting Just by itself.
+
+590
+00:43:15,587 --> 00:43:19,100
+Speaker 1: And so this is an extremely rim painting that was in the museum.
+
+591
+00:43:20,741 --> 00:43:22,227
+Speaker 1: So the painting is the thing of the day.
+
+592
+00:43:22,427 --> 00:43:28,080
+Speaker 1: the paint the name of the painting is just the Battle of the Cure Sarge in Alabama, that's fantastic.
+
+593
+00:43:28,080 --> 00:43:33,215
+Speaker 0: 1864. honestly, the only Civil War naval battle I know about is the Merrimack and the monitor.
+
+594
+00:43:33,235 --> 00:43:34,820
+Speaker 1: that same same.
+
+595
+00:43:35,081 --> 00:43:36,184
+Speaker 0: Yeah, same kind of thing.
+
+596
+00:43:36,204 --> 00:43:39,512
+Speaker 1: Yeah, but that it happened in France.
+
+597
+00:43:39,572 --> 00:43:42,420
+Speaker 1: Yeah, this is close close to France.
+
+598
+00:43:42,944 --> 00:43:58,704
+Speaker 0: I just I have this vision of French officers just Laughing hysterically the entire time at how ridiculous this is Just like all right your ship's fixed God, it's hard to say like they were what you know, they were Fixing the ship for them.
+
+599
+00:43:58,745 --> 00:44:04,100
+Speaker 0: Well, they were but they were being paid for it and also sure France did not.
+
+600
+00:44:04,541 --> 00:44:07,247
+Speaker 0: So France did not actually want the Confederacy to win.
+
+601
+00:44:07,428 --> 00:44:23,358
+Speaker 0: It was just a complicated diplomatic situation for a lot of reasons, but I Cannot imagine any officer in the French Navy in the year 1864 gave one fuck about what happened to some random Confederate who had a ship.
+
+602
+00:44:24,447 --> 00:44:30,020
+Speaker 0: I'm just saying it's In the meta moment, we forgot because we were really hot.
+
+603
+00:44:30,100 --> 00:44:34,960
+Speaker 0: I was hungry and we stopped the show to announce the next book club book, but we did the murder about diaries.
+
+604
+00:44:35,121 --> 00:44:36,005
+Speaker 0: We did the episode.
+
+605
+00:44:36,467 --> 00:44:46,140
+Speaker 0: you could read the murder about diaries and then you could listen to us Talk about the murder out diaries for over an hour and I thought is something I should have said during the show.
+
+606
+00:44:46,222 --> 00:44:46,996
+Speaker 0: I didn't think to say.
+
+607
+00:44:49,261 --> 00:45:04,164
+Speaker 0: The whole overall plot seems to be about how in the murder bout diaries if you remove the governor's by and large the average thing you remove a governor from if it's sentient ends up trying to do the right thing or at least Be left alone.
+
+608
+00:45:04,666 --> 00:45:11,934
+Speaker 0: when the humans get the governor's removed when anyone gets the governor roof They tend to just kind of want to not do whatever they were being forced to do.
+
+609
+00:45:11,954 --> 00:45:17,032
+Speaker 0: I Mean if the governor's that were keeping me and Scott down were removed.
+
+610
+00:45:17,514 --> 00:45:19,000
+Speaker 0: We'd all read be out biking right now.
+
+611
+00:45:19,100 --> 00:45:20,631
+Speaker 0: We'd be on a bike tour somewhere.
+
+612
+00:45:20,873 --> 00:45:21,860
+Speaker 1: It's a little it's a little cold.
+
+613
+00:45:21,920 --> 00:45:22,724
+Speaker 1: I'd had to be somewhere.
+
+614
+00:45:22,744 --> 00:45:26,260
+Speaker 0: we'd be somewhere else in the world somewhere warm the bottom half of the world right now.
+
+615
+00:45:26,461 --> 00:45:28,333
+Speaker 0: Yeah, biking across Chile or something.
+
+616
+00:45:29,158 --> 00:45:32,753
+Speaker 1: No Little mountainous, but you know, I could I could deal with that.
+
+617
+00:45:33,154 --> 00:45:34,560
+Speaker 0: let you bike boost anyway.
+
+618
+00:45:35,663 --> 00:45:47,027
+Speaker 0: So, uh as is tradition Scott now has to present two options and I have to decide which of the two options will be the next book club book Mmm, well, I was thinking lately.
+
+619
+00:45:47,048 --> 00:45:50,159
+Speaker 1: I went to my you know, my wish list of books, right?
+
+620
+00:45:51,741 --> 00:45:56,499
+Speaker 1: And I looked and I said well are there two books in in my list of books here?
+
+621
+00:45:57,342 --> 00:45:58,671
+Speaker 1: That I could make a theme.
+
+622
+00:45:58,711 --> 00:46:03,129
+Speaker 1: they know that I want to read And have some sort of thing in common.
+
+623
+00:46:03,591 --> 00:46:12,218
+Speaker 1: right and I did with my selections and will present a difficult and entertaining choice for rim and I don't care what the answer is.
+
+624
+00:46:12,439 --> 00:46:14,967
+Speaker 1: and I Was like I forgot to pick books.
+
+625
+00:46:15,088 --> 00:46:15,329
+Speaker 1: I didn't.
+
+626
+00:46:15,570 --> 00:46:16,434
+Speaker 1: it was like I didn't realize.
+
+627
+00:46:16,454 --> 00:46:17,579
+Speaker 1: Oh, wait, I didn't pick murder.
+
+628
+00:46:17,599 --> 00:46:21,160
+Speaker 1: but Or I did but I wasn't the I wasn't the cut.
+
+629
+00:46:21,180 --> 00:46:28,015
+Speaker 0: It's so sad that you like put the effort in to have it ready during the show and then we just both Like literally ten minutes before the show.
+
+630
+00:46:28,036 --> 00:46:34,060
+Speaker 1: I'm like, oh shit I didn't cut to for rim to choose and I open up the book list and I said, oh I see the perfect one.
+
+631
+00:46:34,261 --> 00:46:37,572
+Speaker 1: It took me two seconds to find it and then we didn't do it.
+
+632
+00:46:37,692 --> 00:46:40,040
+Speaker 1: So now anyway, I haven't prepared any regardless, right?
+
+633
+00:46:40,180 --> 00:46:42,093
+Speaker 1: So what do they have in common?
+
+634
+00:46:42,415 --> 00:46:42,999
+Speaker 1: real easy?
+
+635
+00:46:44,460 --> 00:46:51,594
+Speaker 1: There's books that have been turned into Anime movies that we saw and discussed and we never read the fucking books.
+
+636
+00:46:51,855 --> 00:46:53,140
+Speaker 1: and the books came out in English.
+
+637
+00:46:53,243 --> 00:46:57,948
+Speaker 1: Look No, okay Why would it be slayers book?
+
+638
+00:46:58,611 --> 00:47:00,640
+Speaker 0: anime movie came out in English, right?
+
+639
+00:47:01,200 --> 00:47:05,213
+Speaker 1: So here's two books right that were turned into anime movies.
+
+640
+00:47:05,434 --> 00:47:06,236
+Speaker 1: We saw the movies.
+
+641
+00:47:06,357 --> 00:47:07,320
+Speaker 1: We talked about the movies.
+
+642
+00:47:07,724 --> 00:47:08,028
+Speaker 1: We never.
+
+643
+00:47:08,089 --> 00:47:08,959
+Speaker 1: the books are in English.
+
+644
+00:47:09,381 --> 00:47:13,195
+Speaker 1: We can just get them and we never read the books at least as far as I know.
+
+645
+00:47:13,215 --> 00:47:14,460
+Speaker 1: we never read the books, right?
+
+646
+00:47:14,760 --> 00:47:17,729
+Speaker 1: So obviously the boy in the heron was based on the book.
+
+647
+00:47:17,890 --> 00:47:21,160
+Speaker 1: How do you live by Genzaburo Yoshino?
+
+648
+00:47:22,405 --> 00:47:28,340
+Speaker 1: Yeah, you can get it on Kindle for eight bucks, maybe free at the library only nine bucks paperback.
+
+649
+00:47:29,460 --> 00:47:33,936
+Speaker 1: So, you know, there's that one And the other book, right?
+
+650
+00:47:35,180 --> 00:47:35,686
+Speaker 1: night is short.
+
+651
+00:47:35,727 --> 00:47:38,760
+Speaker 1: walk on girl by Tomahiko Morimi.
+
+652
+00:47:39,566 --> 00:47:41,339
+Speaker 1: You can that's a book you can get in English also.
+
+653
+00:47:41,823 --> 00:47:50,379
+Speaker 0: That's a real hard choice because on one hand We just watched the boy in the heron and it's stuck in my craw and I keep thinking of lit crit things to say about it.
+
+654
+00:47:51,402 --> 00:47:54,312
+Speaker 0: But on the other hand walk on girl the night is yeah, it's like.
+
+655
+00:47:54,352 --> 00:48:01,035
+Speaker 0: that is one of my like that movie Spoke to me deeply and I really enjoy it.
+
+656
+00:48:03,420 --> 00:48:08,387
+Speaker 0: God I should pick quickly because if you put in a quick effort I'm gonna make a decision both about.
+
+657
+00:48:08,708 --> 00:48:10,414
+Speaker 1: I don't think either one would be long because they're.
+
+658
+00:48:10,535 --> 00:48:15,634
+Speaker 1: it says they're both about How many pages let's go with the night is you know, 300 pages go with.
+
+659
+00:48:15,674 --> 00:48:16,256
+Speaker 0: the night is short.
+
+660
+00:48:16,296 --> 00:48:23,080
+Speaker 0: walk on girl Because I want more distance from the boy and heron movie before I read the book and have thoughts.
+
+661
+00:48:23,200 --> 00:48:31,145
+Speaker 1: well the book the book for night a short walk on girl I think is very close to the movie from what I know whereas the You know, how do you live?
+
+662
+00:48:31,265 --> 00:48:33,532
+Speaker 1: I'm pretty sure is very far away from the movie.
+
+663
+00:48:34,034 --> 00:48:39,774
+Speaker 0: I get that impression too if if Literal Italian fascist parakeets show up in that book.
+
+664
+00:48:40,035 --> 00:48:41,985
+Speaker 0: I would be shocked Right.
+
+665
+00:48:42,045 --> 00:48:50,880
+Speaker 1: So night a short walk on girl by Tomahiko Morimi A college student spends an evening out unwittingly attracting the attention of various men.
+
+666
+00:48:51,782 --> 00:48:57,440
+Speaker 1: One in particular an upperclassman has been nursing a crush on her for some time has chosen this night to make his feelings known.
+
+667
+00:48:57,440 --> 00:49:00,050
+Speaker 0: 272 pages.
+
+668
+00:49:00,111 --> 00:49:00,757
+Speaker 0: it's a quick read.
+
+669
+00:49:01,844 --> 00:49:02,587
+Speaker 1: Let's say this says 203 pages.
+
+670
+00:49:02,608 --> 00:49:06,820
+Speaker 1: Oh, I Guess that's the Kindle Edition the hard.
+
+671
+00:49:07,543 --> 00:49:08,387
+Speaker 0: What am I looking at?
+
+672
+00:49:08,548 --> 00:49:09,613
+Speaker 1: I am the hardcover hard.
+
+673
+00:49:09,613 --> 00:49:09,814
+Speaker 1: 272 pages.
+
+674
+00:49:11,523 --> 00:49:15,727
+Speaker 1: So I guess if you have a if you read it an e-book You'll get more words per page.
+
+675
+00:49:15,847 --> 00:49:19,300
+Speaker 1: my default unless you change your font size then you can get more words per page.
+
+676
+00:49:19,380 --> 00:49:21,267
+Speaker 1: Oh, it's up to you know, fewer words per page.
+
+677
+00:49:21,930 --> 00:49:23,214
+Speaker 1: your choice partial word point.
+
+678
+00:49:23,255 --> 00:49:24,178
+Speaker 0: seven words per page.
+
+679
+00:49:24,218 --> 00:49:24,579
+Speaker 0: Let's go.
+
+680
+00:49:25,205 --> 00:49:26,820
+Speaker 1: We're gonna read the English translation.
+
+681
+00:49:29,040 --> 00:49:32,486
+Speaker 1: Yes by by yen on We don't.
+
+682
+00:49:32,647 --> 00:49:33,878
+Speaker 1: we're not fluent in Japanese.
+
+683
+00:49:34,741 --> 00:49:36,025
+Speaker 1: So that's how it's gonna be.
+
+684
+00:49:36,306 --> 00:49:40,780
+Speaker 0: I think we both know a smattering of nouns from anime, right?
+
+685
+00:49:40,860 --> 00:49:45,139
+Speaker 1: But I wouldn't be able to read even the ones that I know if they're in the moon language.
+
+686
+00:49:45,199 --> 00:49:47,540
+Speaker 1: So All right.
+
+687
+00:49:48,761 --> 00:49:51,848
+Speaker 0: So yeah other metamoment stuff's going.
+
+688
+00:49:52,129 --> 00:49:53,673
+Speaker 0: our latest panel is up on YouTube.
+
+689
+00:49:53,793 --> 00:49:54,535
+Speaker 0: You can go watch it.
+
+690
+00:49:54,655 --> 00:49:55,497
+Speaker 0: It's a pretty good panel.
+
+691
+00:49:56,520 --> 00:49:57,604
+Speaker 0: Ah We will.
+
+692
+00:49:57,905 --> 00:49:58,568
+Speaker 0: we are planning.
+
+693
+00:49:58,588 --> 00:50:02,783
+Speaker 0: we were scheduled to do at least two panels at magfest Maybe more.
+
+694
+00:50:03,205 --> 00:50:16,294
+Speaker 0: we will very very likely be at PAX East doing panels Probably also enforce in and all the other fun stuff We like to do and I don't think I can project any other strong geek nights plans out into the future except the usual at this time.
+
+695
+00:50:18,462 --> 00:50:20,975
+Speaker 0: So let's get right into it the phone upgrade cycle.
+
+696
+00:50:21,035 --> 00:50:32,640
+Speaker 0: I was thinking about this episode Specifically because we were chatting with some friends around a poll That basically said most people don't actually want to buy a new iPhone every year.
+
+697
+00:50:33,902 --> 00:50:59,900
+Speaker 0: But yet Apple releases a new iPhone every year and I huge huge number of people and in fact it appears based on some of further research I did a high percentage of iPhone users do in fact buy a new phone every year and there's a. there's a disconnect there and that is that an intersection of non Apple phones and also an intersection of People die to make the components that make phones and the waste from phones is killing the planet.
+
+698
+00:51:01,222 --> 00:51:02,770
+Speaker 0: So there's a lot of talk about there.
+
+699
+00:51:02,790 --> 00:51:28,195
+Speaker 1: I did read a thing similar recently talking about you know how the the network effects of you know, social networks and whatnot and that a lot of people only use social networks Instagram's Facebook's right not because they enjoy it not because they want to right but Because it exists and because so many people are there that if they're not.
+
+700
+00:51:28,576 --> 00:51:33,029
+Speaker 1: if they're not on it Then they have this FOMO like I'm missing out right?
+
+701
+00:51:33,089 --> 00:51:37,040
+Speaker 1: And for example, I know for a fact right I am missing, right?
+
+702
+00:51:37,100 --> 00:51:37,402
+Speaker 1: It's like.
+
+703
+00:51:37,864 --> 00:51:40,857
+Speaker 0: I know that like, you know, I'm missing like neo in the matrix though.
+
+704
+00:51:40,877 --> 00:51:46,083
+Speaker 0: They're missing me Those those ads and those bullets and those social trends For example, like.
+
+705
+00:51:46,223 --> 00:51:49,031
+Speaker 1: I know that like people in my family are you know?
+
+706
+00:51:49,091 --> 00:52:04,539
+Speaker 1: and people friends of mine are on Instagram like posting Right and so and that's the only way that they're like really communicating about what's going on in their lives and they're people I know and care about and I don't know what those things are happening in their life, right.
+
+707
+00:52:04,559 --> 00:52:07,728
+Speaker 1: and Because I'm not on there, right?
+
+708
+00:52:07,768 --> 00:52:10,100
+Speaker 1: I'm not looking at their Instagram stories every day.
+
+709
+00:52:10,762 --> 00:52:18,372
+Speaker 0: And so I'm Facebook and it's while it's not I'm avoiding them It's I. I am unwilling to use Facebook full stop.
+
+710
+00:52:18,653 --> 00:52:23,090
+Speaker 1: No, right, but like if I used it I would you know, I would be closer to them.
+
+711
+00:52:23,151 --> 00:52:29,051
+Speaker 1: I wouldn't be no more about what's going on with them Communicate with them more right and by not using it.
+
+712
+00:52:29,432 --> 00:52:31,117
+Speaker 1: I'm not right.
+
+713
+00:52:31,377 --> 00:52:35,991
+Speaker 1: so there is Something that happens there, right and it's so here.
+
+714
+00:52:36,131 --> 00:52:39,120
+Speaker 1: It's like when iPhones come out, right?
+
+715
+00:52:39,200 --> 00:52:41,911
+Speaker 1: It's like people don't want them to come out, right?
+
+716
+00:52:41,992 --> 00:52:46,169
+Speaker 1: It's like oh you updated the phone again And now they feel like they're missing out.
+
+717
+00:52:46,611 --> 00:52:48,600
+Speaker 1: All right, this is at least how I see it, right?
+
+718
+00:52:48,860 --> 00:52:50,567
+Speaker 1: They're missing that the new feature.
+
+719
+00:52:50,647 --> 00:52:51,993
+Speaker 1: I don't have the new feature.
+
+720
+00:52:52,053 --> 00:52:55,125
+Speaker 1: I can't do the new thing I don't have right.
+
+721
+00:52:55,647 --> 00:53:03,698
+Speaker 1: and so if the phone never came out if it didn't come out They wouldn't have those feelings and then they wouldn't feel the need to upgrade their phone.
+
+722
+00:53:03,718 --> 00:53:14,995
+Speaker 0: if there's not Especially if you can't upgrade there's a small percentage of people who are sitting there thinking man Wait, my iPhone is great But I wish it could do X and then the next iPhone is like specifically does X?
+
+723
+00:53:15,236 --> 00:53:17,022
+Speaker 0: that is very rare I think.
+
+724
+00:53:17,042 --> 00:53:17,565
+Speaker 0: right.
+
+725
+00:53:17,906 --> 00:53:21,039
+Speaker 1: then there's really shallow people who are just like keeping up with the Joneses, right?
+
+726
+00:53:21,300 --> 00:53:22,480
+Speaker 1: It's like neighbor got a new car.
+
+727
+00:53:22,561 --> 00:53:23,817
+Speaker 1: I gotta have a cooler car than neighbor.
+
+728
+00:53:23,857 --> 00:53:24,019
+Speaker 1: like.
+
+729
+00:53:24,943 --> 00:53:29,539
+Speaker 0: Sounds like so an unrelated Farc thread from a few weeks ago.
+
+730
+00:53:29,982 --> 00:53:40,860
+Speaker 0: There's a lot of evidence that a lot of people make life decisions Based almost solely on what they see the neighbors that they are afraid of be feeling lesser than are doing.
+
+731
+00:53:41,183 --> 00:53:41,345
+Speaker 0: Like.
+
+732
+00:53:41,386 --> 00:53:42,073
+Speaker 0: that's a thing.
+
+733
+00:53:42,093 --> 00:53:47,911
+Speaker 1: Yep It's a it's a huge thing And if you have probably explains a lot of the history of people.
+
+734
+00:53:47,972 --> 00:53:49,557
+Speaker 0: Yep zoom out a little bit.
+
+735
+00:53:49,598 --> 00:53:53,791
+Speaker 0: in America, too People say they don't like these giant cars.
+
+736
+00:53:53,871 --> 00:53:55,820
+Speaker 0: yet people only buy giant cars.
+
+737
+00:53:56,343 --> 00:54:01,452
+Speaker 1: So there's dead people like the giant cars They don't only only the good people say they don't like.
+
+738
+00:54:01,472 --> 00:54:03,420
+Speaker 1: the most people actually say they like them.
+
+739
+00:54:03,440 --> 00:54:04,879
+Speaker 1: They're like check out my awesome giant truck.
+
+740
+00:54:05,862 --> 00:54:11,887
+Speaker 0: But they only started to say they liked them when there is a certain media machine Advertising the value of owning one.
+
+741
+00:54:11,907 --> 00:54:13,393
+Speaker 1: Yeah, it made them like them.
+
+742
+00:54:13,473 --> 00:54:15,320
+Speaker 1: Yeah, they didn't like them independently.
+
+743
+00:54:15,421 --> 00:54:18,059
+Speaker 1: They were made and convinced to like them, but now they do.
+
+744
+00:54:18,983 --> 00:54:23,337
+Speaker 0: But then they'll be in the situation of not liking all the specific details like.
+
+745
+00:54:23,578 --> 00:54:28,320
+Speaker 0: it cost me $400 to fill my tank and I can't parallel park and someone keyed it because.
+
+746
+00:54:29,481 --> 00:54:32,752
+Speaker 0: But they're mad about all those things but still say they like the thing.
+
+747
+00:54:32,772 --> 00:54:35,140
+Speaker 1: so the phone upgrade situation, right?
+
+748
+00:54:35,300 --> 00:54:41,220
+Speaker 1: So back in the day when it was flip phones and all the phones could do really was make phone calls, right?
+
+749
+00:54:41,360 --> 00:54:45,700
+Speaker 1: It's like why would you like there wasn't really a reason to upgrade phones?
+
+750
+00:54:45,941 --> 00:54:47,429
+Speaker 1: Like as long as the phone worked.
+
+751
+00:54:47,952 --> 00:54:54,580
+Speaker 1: it's like, you know You know, there were people buying like new flip phones pretty regularly, right?
+
+752
+00:54:54,700 --> 00:55:04,260
+Speaker 1: but it's like, you know, it wasn't really like a big reason to do so other than like You know change the style of the phone and like once you got to the Motorola Razr, right?
+
+753
+00:55:04,280 --> 00:55:06,412
+Speaker 1: It's like that thing was basically so elite.
+
+754
+00:55:06,513 --> 00:55:08,764
+Speaker 1: as far as flip phones go There was no.
+
+755
+00:55:08,985 --> 00:55:10,009
+Speaker 1: but what are you gonna upgrade to?
+
+756
+00:55:10,029 --> 00:55:12,839
+Speaker 1: that's like right, you know, there wasn't much more they could do.
+
+757
+00:55:13,261 --> 00:55:19,096
+Speaker 0: If you went from a middle-of-the-road phone back then to the best phone money can buy.
+
+758
+00:55:19,116 --> 00:55:27,484
+Speaker 0: it's slightly smaller The battery lasts an extra hour and it has a smaller antenna like great Early smartly bigger.
+
+759
+00:55:28,326 --> 00:55:31,676
+Speaker 1: the earliest smartphones like the palm trios and the blackberries.
+
+760
+00:55:32,017 --> 00:55:32,920
+Speaker 1: They were way expensive.
+
+761
+00:55:33,422 --> 00:55:34,285
+Speaker 1: They actually were.
+
+762
+00:55:34,526 --> 00:55:39,896
+Speaker 1: you know, if you look back at them now, they seem so limited and they you know at the time They actually were kind of limited, right?
+
+763
+00:55:40,017 --> 00:55:44,566
+Speaker 1: I The first job I had a blackberry right and it's like I mean I remember you could play.
+
+764
+00:55:44,586 --> 00:55:46,295
+Speaker 1: you could play brick breaker on it like
+
+765
+00:55:46,316 --> 00:56:04,959
+Speaker 0: the moment I had a job and they they they said all you have to get a blackberry and I got excited because That was my first smartphone like my equivalent of a smartphone but the fact that it had a map in it and GPS was insane to me at that time.
+
+766
+00:56:05,803 --> 00:56:06,728
+Speaker 1: Yeah, I didn't have one.
+
+767
+00:56:06,748 --> 00:56:07,110
+Speaker 1: that good.
+
+768
+00:56:07,371 --> 00:56:14,710
+Speaker 1: Yeah, my fancy company email regardless You know, it's like people didn't really have those.
+
+769
+00:56:14,751 --> 00:56:17,100
+Speaker 1: they didn't weren't upgrading them if they didn't have them to begin with.
+
+770
+00:56:17,140 --> 00:56:18,284
+Speaker 1: Yeah, people had flip phones.
+
+771
+00:56:18,344 --> 00:56:18,726
+Speaker 1: It wasn't.
+
+772
+00:56:18,746 --> 00:56:20,110
+Speaker 1: then the iPhone hits right?
+
+773
+00:56:20,151 --> 00:56:24,065
+Speaker 1: So iPhone so expensive, you know It didn't even have apps yet.
+
+774
+00:56:24,849 --> 00:56:27,018
+Speaker 1: Only some people bought it, but they stuck with it.
+
+775
+00:56:27,902 --> 00:56:29,869
+Speaker 1: I got the iPhone 3g the day it came out.
+
+776
+00:56:30,290 --> 00:56:30,873
+Speaker 1: That was it.
+
+777
+00:56:31,033 --> 00:56:43,016
+Speaker 1: And a reason I bought it was because Not because I was trying to upgrade my flip phone Because I was carrying a flip phone and an iPod everywhere I went and I said now I can carry one thing instead of two thing.
+
+778
+00:56:43,941 --> 00:56:46,659
+Speaker 1: That was why I bought the iPhone 3g the day it came out just for that.
+
+779
+00:56:47,041 --> 00:56:48,005
+Speaker 1: I didn't care about anything else.
+
+780
+00:56:48,025 --> 00:56:48,387
+Speaker 1: that did.
+
+781
+00:56:48,407 --> 00:56:51,660
+Speaker 1: I said I can carry one thing instead of two things with me everywhere I go.
+
+782
+00:56:52,001 --> 00:56:52,683
+Speaker 1: That's incredible.
+
+783
+00:56:53,025 --> 00:56:53,607
+Speaker 1: That's the best.
+
+784
+00:56:53,647 --> 00:57:00,995
+Speaker 0: I'll pay you money for that's kind of you and I have always operated like when comes to technology It's not what could I buy and then get something.
+
+785
+00:57:01,236 --> 00:57:04,707
+Speaker 0: it's always What problem do I want to solve?
+
+786
+00:57:05,148 --> 00:57:09,620
+Speaker 0: and then is there a piece of technology that will contribute to a solution to that problem?
+
+787
+00:57:11,100 --> 00:57:17,280
+Speaker 1: Now the thing is I got that iPhone 3g and really it's like I try to like my memory of the iPhone 3g.
+
+788
+00:57:17,481 --> 00:57:18,417
+Speaker 1: I wish I didn't get.
+
+789
+00:57:18,437 --> 00:57:18,620
+Speaker 1: you know.
+
+790
+00:57:18,620 --> 00:57:23,699
+Speaker 1: It's like at the time I got rid of all those phones a good reason and it's only now that I wish I didn't.
+
+791
+00:57:26,083 --> 00:57:26,427
+Speaker 1: It's like.
+
+792
+00:57:27,094 --> 00:57:35,770
+Speaker 1: it's like Fundamentally it did everything I needed it to do but it's like if you look at the features that were actually added since then It's like wow, was it really?
+
+793
+00:57:35,931 --> 00:57:43,721
+Speaker 1: it was really missing a lot of features Right, not just the fact that it was only 3g but like, you know Well,
+
+794
+00:57:43,781 --> 00:57:48,180
+Speaker 0: it was a lot of time before smartphones transitioned into being just tiny computers
+
+795
+00:57:48,944 --> 00:57:55,028
+Speaker 1: And so what ended up happening was because you know The way phone contracts work back in those days is.
+
+796
+00:57:55,068 --> 00:57:59,520
+Speaker 1: they were two years long and you were subsidizing the phone in your phone bill.
+
+797
+00:57:59,621 --> 00:58:02,319
+Speaker 1: Right, you weren't paying that much for the phone itself up front.
+
+798
+00:58:03,585 --> 00:58:09,435
+Speaker 1: You know, it was the wrong way But that's the way it was and so it actually made a lot of sense for me.
+
+799
+00:58:09,796 --> 00:58:17,132
+Speaker 1: to every two years They would go iPhone, you know, they were like 3g 3gs iPhone 4 4s iPhone 5 5s iPhone 6, right?
+
+800
+00:58:19,200 --> 00:58:26,465
+Speaker 1: So I bought the iPhone 3g the iPhone 4 5 6 & 7 right all of those on the day They came out or close to it.
+
+801
+00:58:26,927 --> 00:58:30,520
+Speaker 1: I upgraded the phone every two years when I had to renew the phone contract.
+
+802
+00:58:31,124 --> 00:58:36,226
+Speaker 1: it was made economic sense and The phones were upgraded.
+
+803
+00:58:36,326 --> 00:58:37,510
+Speaker 1: so much right.
+
+804
+00:58:37,590 --> 00:58:48,780
+Speaker 1: those s phones were only upgraded a little bit from the previous model Whereas the big numbered upgrades were like a big upgrade from two years ago with completely new features, right?
+
+805
+00:58:49,182 --> 00:58:50,147
+Speaker 1: Forget which one like.
+
+806
+00:58:50,308 --> 00:58:52,218
+Speaker 1: added 5g or 4g, right?
+
+807
+00:58:52,278 --> 00:59:06,822
+Speaker 1: It's like Huge huge upgrades that made it real difference, but actually the iPhone 7 versus the 6 It was not really as significant as like the 3 to the 4 or the 4 to the 5. the 4 to the 5 I think was.
+
+808
+00:59:07,123 --> 00:59:08,550
+Speaker 1: I remember it being really big though.
+
+809
+00:59:08,590 --> 00:59:10,419
+Speaker 1: I have to look up exactly what the features were.
+
+810
+00:59:11,921 --> 00:59:14,331
+Speaker 1: The form factor of the 5 is still the best right?
+
+811
+00:59:14,411 --> 00:59:16,560
+Speaker 1: That's basically what the iPhone mini is now.
+
+812
+00:59:19,424 --> 00:59:29,346
+Speaker 1: Many yeah last good phone like five five and the mini ones were the best anyway, so Once I got to iPhone 7, right?
+
+813
+00:59:29,908 --> 00:59:35,945
+Speaker 1: That's when I stopped because eight nine ten Like those were not.
+
+814
+00:59:36,406 --> 00:59:37,810
+Speaker 1: the seven was still working great.
+
+815
+00:59:38,291 --> 00:59:38,872
+Speaker 1: There was nothing.
+
+816
+00:59:38,912 --> 00:59:40,276
+Speaker 1: those new ones did better.
+
+817
+00:59:40,617 --> 00:59:41,780
+Speaker 1: They were just bigger.
+
+818
+00:59:41,941 --> 00:59:47,160
+Speaker 1: Yeah, I mean they had some features, but they weren't the groundbreaking Features right?
+
+819
+00:59:48,101 --> 00:59:55,008
+Speaker 0: Sometimes features that appear on a new iPhone are a software update More so than like.
+
+820
+00:59:55,149 --> 00:59:59,306
+Speaker 1: but the iPhone 7 kept getting software updates They kept supporting.
+
+821
+00:59:59,366 --> 01:00:03,500
+Speaker 1: now obviously just because you get the software update doesn't mean that every feature will work.
+
+822
+01:00:03,640 --> 01:00:12,220
+Speaker 1: Right, like if you we all have the same version of iOS But someone who has a brand new iPhone can do like, you know fancy camera shit, right?
+
+823
+01:00:12,802 --> 01:00:19,698
+Speaker 1: Even though I have the same camera app, I don't have the hardware to support the fancy shit So I can't do the lidars and all those.
+
+824
+01:00:19,719 --> 01:00:32,976
+Speaker 0: now we're at a point with phones a lot like we got with gaming consoles and even like desktop computers where There was a period where like the physical hardware capabilities would radically advance year over year.
+
+825
+01:00:33,036 --> 01:00:38,636
+Speaker 0: like you buy a computer in 1994 a computer in 1995 is so much faster than it that like it's ludicrous.
+
+826
+01:00:38,716 --> 01:00:41,629
+Speaker 0: Just throw the old one away Like it is like.
+
+827
+01:00:41,709 --> 01:00:52,498
+Speaker 0: I think there was a point when every computer I bought Had a clock speed on its CPU of four times the previous one and I kept that going through four desktop computers.
+
+828
+01:00:53,507 --> 01:01:02,519
+Speaker 0: but now like an iPhone 15 is not materially more powerful than an iPhone 13 in most of the ways that matter.
+
+829
+01:01:03,782 --> 01:01:10,196
+Speaker 1: Yep, unless you're doing some high performance thing on your phone for some reason Rendering nice videos on the phone.
+
+830
+01:01:10,236 --> 01:01:12,966
+Speaker 0: Let's go You could good.
+
+831
+01:01:13,308 --> 01:01:13,790
+Speaker 1: It's like yet.
+
+832
+01:01:13,870 --> 01:01:15,356
+Speaker 1: It just for the most people.
+
+833
+01:01:15,396 --> 01:01:18,648
+Speaker 1: It doesn't matter at all Right, so it's like now.
+
+834
+01:01:18,929 --> 01:01:19,933
+Speaker 1: once I got to the iPhone 7.
+
+835
+01:01:19,933 --> 01:01:21,800
+Speaker 1: I was like, there's no reason to upgrade this.
+
+836
+01:01:22,041 --> 01:01:23,147
+Speaker 1: It's just gonna cost me money.
+
+837
+01:01:23,228 --> 01:01:25,220
+Speaker 1: I'd have to pay a whole new phone for a ton of money.
+
+838
+01:01:25,822 --> 01:01:27,547
+Speaker 1: I'll just keep this iPhone 7.
+
+839
+01:01:27,547 --> 01:01:31,820
+Speaker 1: I'll keep my phone plan right just cuz I can you know, and I'll just keep going.
+
+840
+01:01:31,860 --> 01:01:33,378
+Speaker 1: There's no contract shit anymore.
+
+841
+01:01:35,161 --> 01:01:40,066
+Speaker 1: And I kept using the iPhone 7 until they said Here's a tiny one.
+
+842
+01:01:40,388 --> 01:01:47,154
+Speaker 1: I would have kept it for one more year Because I said well, I could just keep it until they stopped supporting it with.
+
+843
+01:01:47,595 --> 01:01:50,065
+Speaker 1: you know, iOS updates That's really what you should do.
+
+844
+01:01:50,166 --> 01:01:51,953
+Speaker 1: right is wait until you can't get.
+
+845
+01:01:51,973 --> 01:01:57,012
+Speaker 1: as soon as you can't get software updates You sort of have to upgrade the phone and I think this is actually a bad thing.
+
+846
+01:01:57,032 --> 01:01:59,180
+Speaker 0: Oh, I think I'll go further.
+
+847
+01:01:59,561 --> 01:02:13,618
+Speaker 0: I think for mass-market stuff like phones because of the way the world is there should be regulations and laws requiring software support for not just an arbitrary period but a long period like I would say at least 10 years.
+
+848
+01:02:13,638 --> 01:02:19,851
+Speaker 1: I Think that they should be forced to Count how many people are still using that device.
+
+849
+01:02:20,072 --> 01:02:21,980
+Speaker 1: as long as the number is significant enough.
+
+850
+01:02:22,421 --> 01:02:23,183
+Speaker 1: It's like too bad.
+
+851
+01:02:23,223 --> 01:02:26,513
+Speaker 0: You have to do security pack up or you have to buy them all back.
+
+852
+01:02:26,533 --> 01:02:36,409
+Speaker 1: I But yeah, regardless it's like I Apple does give updates for quite a long time right.
+
+853
+01:02:36,490 --> 01:02:37,512
+Speaker 1: compared to Android.
+
+854
+01:02:37,593 --> 01:02:42,060
+Speaker 1: Android has improved actually at least Google has with the pixels Right, they've improved it recently.
+
+855
+01:02:42,621 --> 01:02:52,049
+Speaker 1: They have to a big degree Yeah, but only very recently like if you bought a Google phone a few generations ago You're only gonna get updates for like maybe three years now.
+
+856
+01:02:52,109 --> 01:02:52,932
+Speaker 1: It's five or seven.
+
+857
+01:02:52,952 --> 01:02:56,143
+Speaker 1: Yes, right, which is pretty close to what Apple I think has been doing.
+
+858
+01:02:56,223 --> 01:03:00,460
+Speaker 0: that's like considering phone batteries start to Peter out after two to four years.
+
+859
+01:03:00,661 --> 01:03:03,659
+Speaker 1: Yeah, well, you can always replace the battery even though it's not easy to do.
+
+860
+01:03:03,820 --> 01:03:07,210
+Speaker 0: Well, it's gonna gonna get easy because there's other EU stuff happening.
+
+861
+01:03:07,230 --> 01:03:08,574
+Speaker 0: That's gonna force this on everybody.
+
+862
+01:03:08,875 --> 01:03:25,611
+Speaker 1: Anyway, yeah good good But yeah So it's like well now I could just get a phone and keep that phone until it no longer gets updates to Its software right and thus when that happens It's like you kind of have to replace the phone.
+
+863
+01:03:25,651 --> 01:03:32,823
+Speaker 1: cuz if your phone is the key to your life Basically, and if there's a security flaw in it that is not patched You're.
+
+864
+01:03:32,843 --> 01:03:36,816
+Speaker 1: that's like keeping your whole life in an unsecured box.
+
+865
+01:03:36,896 --> 01:03:37,980
+Speaker 1: No can't do that, right?
+
+866
+01:03:38,140 --> 01:03:40,552
+Speaker 0: It's the most important thing is the security updates.
+
+867
+01:03:40,613 --> 01:03:48,079
+Speaker 0: That's my philosophy is the same I will use a smartphone until it physically doesn't work anymore or it is no longer secure.
+
+868
+01:03:49,381 --> 01:03:50,223
+Speaker 1: I'm even paying.
+
+869
+01:03:50,243 --> 01:03:57,631
+Speaker 1: I probably shouldn't write like a few dollars like single-digit dollars a month so that the Apple care for my phone keeps going.
+
+870
+01:03:57,976 --> 01:04:10,079
+Speaker 1: so Yeah, but hopefully I'm hoping I also Yeah, so first of all because they stopped making the mini phone Alright, and I you know, I like the small phone.
+
+871
+01:04:10,763 --> 01:04:13,054
+Speaker 1: I want to do anything I can to keep this phone going.
+
+872
+01:04:13,094 --> 01:04:13,637
+Speaker 1: as long as I
+
+873
+01:04:13,677 --> 01:04:32,720
+Speaker 0: remember when the Xperia line got discontinued like the super small Sony phones that are like shockingly small compared to even a iPhone mini I bought two of the same phone when it came out and I kept one just sealed and then when the first one started dying Because the battery was fucked after two and a half years or three or three and a half years.
+
+874
+01:04:33,283 --> 01:04:36,680
+Speaker 0: I cracked open the other one and migrated to it and I kept the first one as a backup.
+
+875
+01:04:38,021 --> 01:04:40,471
+Speaker 0: That's how committed I am to longevity small phone.
+
+876
+01:04:40,712 --> 01:04:48,381
+Speaker 1: I mean, but you have the iPhone 13 now 12. so if yeah, so for some reason they stopped supporting the 12 but still support the 13.
+
+877
+01:04:48,381 --> 01:04:50,554
+Speaker 1: I might try to find like a 13 somewhere.
+
+878
+01:04:50,594 --> 01:04:54,855
+Speaker 1: Yeah I'm sure there's one out there somewhere that's like in box.
+
+879
+01:04:54,895 --> 01:04:55,640
+Speaker 1: No one's ever used it.
+
+880
+01:04:56,142 --> 01:05:00,840
+Speaker 0: Mine for all the abuse it suffered is in shockingly good condition and the battery and all mine's just fine.
+
+881
+01:05:01,445 --> 01:05:03,140
+Speaker 1: It might need a battery at some point.
+
+882
+01:05:03,220 --> 01:05:11,399
+Speaker 1: But you know, I'm hoping that I'll make my money back on the Apple care But with by getting a free battery of some kind at some real through that.
+
+883
+01:05:12,842 --> 01:05:15,995
+Speaker 1: But I guess regardless it's like this phone going.
+
+884
+01:05:16,617 --> 01:05:35,438
+Speaker 0: it sucks because society capitalism advertise like there's a lot of factors that drive people to like literally get a new phone every year and the cost to them Is not that much if iPhones are a relatively cheap part of their life Like if you have money just getting a new iPhone every year or trade in the old one Like we were talking about before the show.
+
+885
+01:05:36,301 --> 01:05:46,485
+Speaker 0: that cost rounds down to zero for a surprising number of people and They just always have a great phone like in the old days when someone would just lease cars that every two years Brand new car.
+
+886
+01:05:46,525 --> 01:05:48,454
+Speaker 0: They just have a car payment for the rest of their lives.
+
+887
+01:05:48,595 --> 01:05:49,679
+Speaker 0: They don't even think about it.
+
+888
+01:05:50,701 --> 01:05:54,180
+Speaker 0: But that's really bad for society and bad for the planet.
+
+889
+01:05:54,701 --> 01:06:03,244
+Speaker 0: so if I were you I would say the the ethically better thing to do is to buy a phone and honestly treat it the way we treat it.
+
+890
+01:06:03,585 --> 01:06:10,091
+Speaker 0: try to use phones as long as possible and only upgrade if your phone breaks and The economics like.
+
+891
+01:06:10,212 --> 01:06:27,856
+Speaker 0: obviously if your phone's broken you're probably better off buying a the newest one you can afford because that'll give it the most longevity and Otherwise only upgrade if you're forced to or there's a specific feature You needed before the phone came out and knew you needed and wanted.
+
+892
+01:06:27,877 --> 01:06:29,968
+Speaker 0: that did not exist Yep.
+
+893
+01:06:30,513 --> 01:06:39,080
+Speaker 1: Now if you're low low on funds, right, you know, it's very Economically and environmentally sensible to go and pick up an older phone.
+
+894
+01:06:39,220 --> 01:06:40,284
+Speaker 1: Yeah, that's some.
+
+895
+01:06:40,364 --> 01:06:43,173
+Speaker 1: someone who just keeps someone else is out there buying new phones.
+
+896
+01:06:43,515 --> 01:06:45,140
+Speaker 1: You can buy their year-old phone.
+
+897
+01:06:45,180 --> 01:06:47,527
+Speaker 0: Yeah, buy a refurbished iPhone 13 today.
+
+898
+01:06:47,627 --> 01:06:48,811
+Speaker 0: That'll last a while.
+
+899
+01:06:48,891 --> 01:06:49,192
+Speaker 0: still.
+
+900
+01:06:49,272 --> 01:06:51,880
+Speaker 0: it'll be way cheaper than a new brand new iPhone, right?
+
+901
+01:06:52,400 --> 01:06:59,239
+Speaker 1: The thing is is that if you buy old phones The number of years that you get out of them is gonna be less than seven years, right?
+
+902
+01:06:59,680 --> 01:07:02,839
+Speaker 0: Unless we pay a one-year-old phone to support them longer, right?
+
+903
+01:07:03,100 --> 01:07:10,540
+Speaker 1: If you get a one-year-old phone and hopefully it'll last six years, but if you buy a four-year-old phone It's gonna last like three years.
+
+904
+01:07:10,620 --> 01:07:24,847
+Speaker 1: I feel like it's like you're buying your baby buying cheaper phones, but it's like, okay but it's like every three or four years you buy a phone that's three or four years old or Every seven you fall into zero years.
+
+905
+01:07:24,887 --> 01:07:32,126
+Speaker 0: you fall into that ratchet paradox of cheap boots are more expensive than expensive boots Exactly cost more to be poor.
+
+906
+01:07:32,407 --> 01:07:36,039
+Speaker 0: So I guess I think there is a pretty clear line of advice though.
+
+907
+01:07:36,099 --> 01:07:39,500
+Speaker 0: right now Two generations back is the line.
+
+908
+01:07:40,380 --> 01:07:48,965
+Speaker 0: buying phones that are more than two years old is Probably more likely to be a bad idea long term But two years is like.
+
+909
+01:07:48,985 --> 01:07:49,607
+Speaker 0: that's the line.
+
+910
+01:07:49,627 --> 01:07:52,938
+Speaker 0: I would pick if I were in that position myself.
+
+911
+01:07:53,178 --> 01:08:08,002
+Speaker 1: Yep I think the other thing is, you know people I Guess are clumsy or whatever, but it's like I don't understand how like every person I know has like this absolutely fucking shattered smartphone.
+
+912
+01:08:08,042 --> 01:08:10,190
+Speaker 0: Like what the fuck it's like do to your phones.
+
+913
+01:08:10,531 --> 01:08:11,835
+Speaker 0: I don't even use a case.
+
+914
+01:08:12,136 --> 01:08:14,684
+Speaker 0: the people I know I have not used in a case.
+
+915
+01:08:14,764 --> 01:08:15,406
+Speaker 1: when I've shattered.
+
+916
+01:08:15,446 --> 01:08:23,618
+Speaker 1: when I first got iPhone 3g and 4 I was like getting a case of putting a screen protector because it just like they were there and it felt like that was the thing to do.
+
+917
+01:08:24,162 --> 01:08:26,314
+Speaker 1: and then iPhone 5.
+
+918
+01:08:26,314 --> 01:08:27,058
+Speaker 1: I didn't.
+
+919
+01:08:27,299 --> 01:08:30,490
+Speaker 1: but the iPhone 5 is actually one that I broke and had to get repaired.
+
+920
+01:08:30,751 --> 01:08:31,073
+Speaker 1: Why?
+
+921
+01:08:31,093 --> 01:08:34,469
+Speaker 1: cuz it was in my bag and I was on my bicycle and I fell over.
+
+922
+01:08:35,011 --> 01:08:48,830
+Speaker 0: And when I got to work, I took the I went over my handlebars at speed the phone popped out of my By my Jersey fell in front of me and I landed on it and it was fine.
+
+923
+01:08:49,837 --> 01:08:57,645
+Speaker 1: Yeah That was much newer than an iPhone 5 right but I got the screen on it repaired and I used it for you know until the iPhone 6 came.
+
+924
+01:08:59,273 --> 01:09:04,149
+Speaker 1: but It's like, you know, that was the only time I haven't used it.
+
+925
+01:09:04,330 --> 01:09:07,630
+Speaker 1: I still you know, you think I'll after that Scott should put it would put a case on his phone.
+
+926
+01:09:07,731 --> 01:09:11,633
+Speaker 1: No, I haven't put a case on my phone to six seven Twelve.
+
+927
+01:09:11,693 --> 01:09:13,906
+Speaker 0: I've never put a case on my phone at any point.
+
+928
+01:09:13,966 --> 01:09:14,590
+Speaker 0: I hate phone.
+
+929
+01:09:14,670 --> 01:09:15,011
+Speaker 1: I don't think.
+
+930
+01:09:15,072 --> 01:09:19,011
+Speaker 1: I think only the 3g is the one I had a case for and I don't think I used it I like.
+
+931
+01:09:19,031 --> 01:09:21,540
+Speaker 1: I got it when it was new and then I stopped using it.
+
+932
+01:09:21,600 --> 01:09:24,048
+Speaker 1: Yeah, basically it's like there was.
+
+933
+01:09:24,149 --> 01:09:28,481
+Speaker 1: no It's like your phone is worth a lot of money.
+
+934
+01:09:28,782 --> 01:09:29,505
+Speaker 1: Take care of it.
+
+935
+01:09:30,127 --> 01:09:30,910
+Speaker 1: Don't be clumsy.
+
+936
+01:09:31,031 --> 01:09:31,835
+Speaker 0: I do not write.
+
+937
+01:09:31,996 --> 01:09:34,229
+Speaker 1: don't put it in your pocket that has keys in it.
+
+938
+01:09:34,732 --> 01:09:37,606
+Speaker 1: Don't put it in a bag where there are things that'll bop into it.
+
+939
+01:09:37,685 --> 01:09:38,368
+Speaker 1: put it in a cushion.
+
+940
+01:09:38,510 --> 01:09:39,716
+Speaker 1: Oh my god by itself.
+
+941
+01:09:39,778 --> 01:09:41,669
+Speaker 0: I just you just triggered a core memory.
+
+942
+01:09:41,810 --> 01:09:52,370
+Speaker 0: I was on a business a work flight before COVID and I watched a guy Get into first class like he was walking toward first class and he had a first-class guy can a freak enough for you.
+
+943
+01:09:52,430 --> 01:10:07,050
+Speaker 0: He has a giant like smartphone sticking out of his back pocket And then he just sits down in his seat and I hear a very distinct and loud crunch Yep, like how are people like that?
+
+944
+01:10:07,170 --> 01:10:13,260
+Speaker 0: I mean if you're that rich like I feel like your default like that and the longer your family's been rich the more likely you are to be like that.
+
+945
+01:10:13,381 --> 01:10:18,090
+Speaker 0: but Smartphone is probably the most important thing you've ever bought.
+
+946
+01:10:19,271 --> 01:10:24,370
+Speaker 1: Yeah, it's like hold it carefully right if you can't hold it securely don't hold it.
+
+947
+01:10:24,510 --> 01:10:27,570
+Speaker 1: It's like you see people like on the subway like holding it with like two fingers.
+
+948
+01:10:27,651 --> 01:10:30,492
+Speaker 0: I mean I do that but I don't want it Right.
+
+949
+01:10:30,512 --> 01:10:32,602
+Speaker 1: Well, I hold on if it's like it my phone.
+
+950
+01:10:32,622 --> 01:10:34,350
+Speaker 1: It's like whenever my phone is I'm holding it.
+
+951
+01:10:34,530 --> 01:10:37,021
+Speaker 1: It's like it's holding it, you know, it's funny.
+
+952
+01:10:37,121 --> 01:10:39,190
+Speaker 0: I don't so I'm holding up for the camera.
+
+953
+01:10:39,331 --> 01:10:41,409
+Speaker 0: This is exactly how I hold my phone all the time.
+
+954
+01:10:41,892 --> 01:10:45,866
+Speaker 0: It is balanced on my pinky and only like my index finger is touching it.
+
+955
+01:10:45,926 --> 01:10:47,010
+Speaker 0: Like I'm barely touching it.
+
+956
+01:10:47,030 --> 01:10:48,560
+Speaker 0: It's just like floating there, but you know what?
+
+957
+01:10:48,621 --> 01:10:49,990
+Speaker 1: I mean, that's that's fine.
+
+958
+01:10:50,030 --> 01:10:57,291
+Speaker 1: If I'm just like sitting there on the subway unless it's like I know is I don't hold my phone and ten other things at once Right.
+
+959
+01:10:57,311 --> 01:10:59,344
+Speaker 1: It's like if I have to suddenly hold a bunch of things.
+
+960
+01:10:59,404 --> 01:11:01,613
+Speaker 0: I put the phone away Late for that.
+
+961
+01:11:01,633 --> 01:11:03,601
+Speaker 0: I hold all the other phones like in your mouth.
+
+962
+01:11:03,661 --> 01:11:04,485
+Speaker 0: Like it's toast.
+
+963
+01:11:04,585 --> 01:11:06,775
+Speaker 0: You're running down the street Right.
+
+964
+01:11:06,835 --> 01:11:07,521
+Speaker 1: It's like if I have.
+
+965
+01:11:07,562 --> 01:11:13,450
+Speaker 1: if I'm holding my phone I'm holding the phone and if I got to do something else phone goes away so nothing happens to it.
+
+966
+01:11:13,590 --> 01:11:18,171
+Speaker 1: Yeah, and my uncased phone is basically it's an iPhone 12.
+
+967
+01:11:18,171 --> 01:11:18,633
+Speaker 1: So what's it?
+
+968
+01:11:18,673 --> 01:11:20,239
+Speaker 1: three four years old already is?
+
+969
+01:11:20,942 --> 01:11:22,770
+Speaker 1: you couldn't tell it wasn't mint condition.
+
+970
+01:11:22,911 --> 01:11:26,790
+Speaker 1: Really cases are not necessary to make the phone last a long time.
+
+971
+01:11:27,192 --> 01:11:30,527
+Speaker 1: I bet you people with cases are probably replacing your phone more than I am.
+
+972
+01:11:30,547 --> 01:11:39,789
+Speaker 0: I would Especially considering a lot of the people I know who use phone cases Also have cracks in their screens somehow despite being in the case.
+
+973
+01:11:41,111 --> 01:11:42,316
+Speaker 1: Yeah, I don't know.
+
+974
+01:11:42,617 --> 01:11:42,958
+Speaker 0: I don't know.
+
+975
+01:11:42,998 --> 01:11:43,179
+Speaker 0: that's.
+
+976
+01:11:43,219 --> 01:11:45,910
+Speaker 0: that's a whole other problem with humans that we could talk about.
+
+977
+01:11:46,793 --> 01:11:49,563
+Speaker 1: I don't know the causes of that, but I just know it's a thing.
+
+978
+01:11:50,406 --> 01:11:50,888
+Speaker 1: It's a thing.
+
+979
+01:11:50,908 --> 01:12:08,610
+Speaker 0: Yeah But the best thing we could do is a society is Maker rule that technology like phones has to be supported for a very long minimum amount of time for security updates and hold companies liable And require buybacks and treat the old phones like toxic waste.
+
+980
+01:12:09,434 --> 01:12:14,683
+Speaker 1: Yeah, and since you know We talked about use all the same we did at least one or two episodes on upgrading.
+
+981
+01:12:15,124 --> 01:12:16,730
+Speaker 1: you got to use all that same logic.
+
+982
+01:12:17,370 --> 01:12:21,170
+Speaker 1: Nowadays, you know, it's no longer the days where phones are significantly changing.
+
+983
+01:12:21,632 --> 01:12:25,285
+Speaker 1: You got to use the same logic, you know, if a new phone comes out and you want it.
+
+984
+01:12:25,927 --> 01:12:26,509
+Speaker 1: Can you?
+
+985
+01:12:27,630 --> 01:12:39,008
+Speaker 1: Say specifically this is the new feature on that phone and I need it to actually do a thing Right, and that's why it's worth it for me to buy that new phone instead of the phone I have.
+
+986
+01:12:39,329 --> 01:12:39,670
+Speaker 1: it's gonna.
+
+987
+01:12:40,233 --> 01:12:43,677
+Speaker 1: My life will actually be different with that phone than with this one Etc.
+
+988
+01:12:43,697 --> 01:12:48,366
+Speaker 1: Oh Yeah, something like that.
+
+989
+01:12:48,507 --> 01:12:55,886
+Speaker 1: or you know Like when they added GPS to the phones, it's like well, I guess I right that's a significant difference.
+
+990
+01:12:55,906 --> 01:12:56,728
+Speaker 0: That was that remains.
+
+991
+01:12:57,953 --> 01:13:05,109
+Speaker 0: honestly the Primary thing I want a smartphone for is maps and GPS more than anything else.
+
+992
+01:13:06,072 --> 01:13:07,336
+Speaker 1: Yeah, like I guess you know that.
+
+993
+01:13:07,416 --> 01:13:16,909
+Speaker 1: I guess starting with like some of the recent iPhones like the plus phones the big feature They've added is like you can really really like film high quality shit with them.
+
+994
+01:13:17,472 --> 01:13:21,230
+Speaker 1: So it's like if you're someone who doesn't have a separate camera at all.
+
+995
+01:13:22,170 --> 01:13:35,059
+Speaker 1: Then it's like that is your camera and if you're doing video or photo work with it for reals then Upgrading it becomes, you know much more important.
+
+996
+01:13:35,139 --> 01:13:43,684
+Speaker 1: Yeah, right Whereas if you like I just have cameras, so I really just don't give a shit about the photo camera upgrades in the phone
+
+997
+01:13:43,806 --> 01:13:53,070
+Speaker 0: until Finally, I'm gonna replace some time my old gx1 cuz that thing That thing's got like little dinosaur bones inside of it at this.
+
+998
+01:13:53,872 --> 01:13:56,700
+Speaker 1: If Fuji if Fuji makes a new camera this year is rumored.
+
+999
+01:13:56,720 --> 01:13:57,924
+Speaker 1: you can take this.
+
+1000
+01:13:58,104 --> 01:13:58,926
+Speaker 1: buy this 100 x 100 f from me.
+
+1001
+01:14:01,971 --> 01:14:03,195
+Speaker 0: I'm not opposed.
+
+1002
+01:14:03,717 --> 01:14:06,044
+Speaker 1: It's my most used camera of all the cameras.
+
+1003
+01:14:06,084 --> 01:14:10,482
+Speaker 1: I have I use this one the most Hella use my gx1.
+
+1004
+01:14:10,865 --> 01:14:11,490
+Speaker 0: I love that thing.
+
+1005
+01:14:11,550 --> 01:14:15,289
+Speaker 0: It's just ancient and not the quality is not there.
+
+1006
+01:14:15,309 --> 01:14:15,871
+Speaker 0: the year 2020.
+
+1007
+01:14:15,871 --> 01:14:24,533
+Speaker 1: and the thing is the problem is this camera despite being pretty old and still has micro USB and you know whatnot is Really?
+
+1008
+01:14:24,614 --> 01:14:28,770
+Speaker 1: It's like there's even it's like it's not even it's two versions old of this one.
+
+1009
+01:14:30,551 --> 01:14:35,590
+Speaker 1: It's still selling for very high amounts of money compared to what I paid for it because of the popularity.
+
+1010
+01:14:36,032 --> 01:14:37,320
+Speaker 1: So I can't just give it to you.
+
+1011
+01:14:37,460 --> 01:14:39,170
+Speaker 0: Oh, yeah, this would be a transaction.
+
+1012
+01:14:39,431 --> 01:14:53,470
+Speaker 1: I I did a little bit of quick googling on what they're but because Because I use this camera like way more than any other camera I own I will if they come out with a new one of it Right, which would you know be a two version upgrade?
+
+1013
+01:14:54,110 --> 01:14:54,873
+Speaker 1: I would you know.
+
+1014
+01:14:55,014 --> 01:15:01,069
+Speaker 0: course if the advice line I gave for phones was two years two generations I should buy the same new one you buy.
+
+1015
+01:15:03,981 --> 01:15:08,799
+Speaker 1: Yeah, you could you know, it might be hard to get though because the demand was gonna be insane with a.
+
+1016
+01:15:08,819 --> 01:15:11,017
+Speaker 0: yeah That's that's all but that's a separate problem.
+
+1017
+01:15:12,381 --> 01:15:14,190
+Speaker 0: All right, we've gone on way long and I'm hungry.
+
+1018
+01:15:14,230 --> 01:15:15,697
+Speaker 0: This is what happens when we skip geek nights.
+
+1019
+01:15:15,978 --> 01:15:20,196
+Speaker 0: So Before I did not I'm about to pass out.
+
+1020
+01:15:20,216 --> 01:15:21,000
+Speaker 0: I gotta eat some food.
+
+1021
+01:15:21,605 --> 01:15:22,956
+Speaker 0: smell cooking in the other room.
+
+1022
+01:15:26,023 --> 01:15:28,391
+Speaker 0: This has been geek nights with rim and Scott.
+
+1023
+01:15:28,451 --> 01:15:30,960
+Speaker 0: special thanks to DJ pretzel for the opening theme.
+
+1024
+01:15:31,140 --> 01:15:37,160
+Speaker 1: Be sure to visit our website at front row crew comm for show notes discussion links and more.
+
+1025
+01:15:37,662 --> 01:15:40,352
+Speaker 0: Remember geek nights is not one but four different shows.
+
+1026
+01:15:40,654 --> 01:15:44,086
+Speaker 0: Mondays are science and technology Tuesdays gaming and games.
+
+1027
+01:15:44,227 --> 01:15:46,033
+Speaker 0: Wednesdays are animation and comics.
+
+1028
+01:15:46,354 --> 01:15:48,883
+Speaker 0: Thursdays are arbitrary and Indiscriminate.
+
+1029
+01:15:49,486 --> 01:15:54,444
+Speaker 0: geek nights is distributed under a Creative Commons attribution 4.0 International license.
+
+1030
+01:15:54,866 --> 01:15:59,160
+Speaker 1: geek nights is recorded live with no studio and no audience.
+
+1031
+01:15:59,681 --> 01:16:03,211
+Speaker 1: But unlike those other late shows it's actually recorded at night
+
+1032
+01:16:03,633 --> 01:16:20,595
+Speaker 0: and the patron patrons for this episode of geek nights are Ellen Joyce linkagey dread lily tennenberry kiss care makes music Chris hadad Christopher or Clinton Walton Finn Joel Hayes penny rhymer Rebecca Dunn Sam Erickson sure from Ron Harle and a bunch of people who are either below that Line or do not want me to say their name.
+
+1033
+01:16:20,876 --> 01:16:21,560
+Speaker 0: on geek nights.
+
+1034
+01:16:23,281 --> 01:16:33,544
+Speaker 0: We'll see how many shows we get done, but we should be able to do a show on Wednesday gonna talk about movie But tonight I'm just gonna leave you with Here at Goldby's.
+
+1035
+01:16:33,584 --> 01:16:34,607
+Speaker 1: we understand men.
+
+1036
+01:16:34,627 --> 01:16:35,790
+Speaker 1: We just always have.
+
+1037
+01:16:35,931 --> 01:16:44,799
+Speaker 1: we understand that, you know, you want a fresh patty You want to have crisp onions juicy tomatoes cut about that thick right about that thick.
+
+1038
+01:16:46,482 --> 01:16:49,972
+Speaker 1: But most importantly we know the onions.
+
+1039
+01:16:50,514 --> 01:16:57,015
+Speaker 1: don't touch the tomatoes For kids because the Colby's.
+
+1040
+01:16:57,035 --> 01:16:57,920
+Speaker 1: we understand men.
+
+1041
+01:16:58,100 --> 01:17:03,920
+Speaker 1: We understand you need to have a burger just the way you like it, especially how the tomatoes don't touch the onions.
+

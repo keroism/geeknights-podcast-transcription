@@ -1,0 +1,2664 @@
+1
+00:00:08,300 --> 00:00:09,808
+Rym: It's Tuesday, February 20th, 2024.
+
+2
+00:00:09,808 --> 00:00:10,029
+Rym: I'm Rym.
+
+3
+00:00:13,305 --> 00:00:13,820
+Scott: I'm Scott.
+
+4
+00:00:14,081 --> 00:00:15,287
+Rym: And this is GeekNights.
+
+5
+00:00:15,327 --> 00:00:17,800
+Rym: Tonight we are talking about anti-cheating.
+
+6
+00:00:18,400 --> 00:00:19,318
+Scott: Let's do this.
+
+7
+00:00:20,340 --> 00:00:33,820
+Rym: So, uh, recent GeekNights, possibly the most recent GeekNights, we actually spent a long time talking about the recent trend of people using their phones with their speakers all the way up watching videos in public places.
+
+8
+00:00:34,302 --> 00:00:38,000
+Rym: Which does seem to be just on the rise everywhere, at least in the United States.
+
+9
+00:00:38,800 --> 00:00:45,080
+Rym: So today, on my way to work, there's someone playing TikTok videos super loudly on their phone on the Saipan train.
+
+10
+00:00:46,601 --> 00:00:50,580
+Rym: And it stops, and it stutters to a stop every time we were between stations.
+
+11
+00:00:51,061 --> 00:01:00,280
+Rym: And the dude just sat there, constantly trying to refresh it, staring at it, until we got to the next station and then it would sputter to life and be loud again.
+
+12
+00:01:00,522 --> 00:01:02,479
+Rym: And then he just did this the entire ride.
+
+13
+00:01:02,825 --> 00:01:03,478
+Rym: And then I get to work.
+
+14
+00:01:04,683 --> 00:01:06,620
+Rym: And I go into work, and I go out to get some coffee.
+
+15
+00:01:07,201 --> 00:01:14,500
+Rym: And there's someone sitting in the Starbucks just watching a whole movie on their iPad, just sitting there super loud, and nobody is sitting near them.
+
+16
+00:01:15,423 --> 00:01:15,998
+Rym: Then I go to lunch.
+
+17
+00:01:16,820 --> 00:01:19,646
+Rym: And there's a dude watching TikToks.
+
+18
+00:01:19,726 --> 00:01:26,960
+Rym: that were all people screaming, just as loud as possible, in the Le Penco to the end, so I just left.
+
+19
+00:01:27,563 --> 00:01:30,880
+Rym: And now, on my way home, there were two different people watching.
+
+20
+00:01:31,060 --> 00:01:35,600
+Rym: One was watching videos, and one was playing extremely loud reggaeton on their phones on the Saipan train.
+
+21
+00:01:35,920 --> 00:01:44,480
+Rym: But the second guy must have been playing it from a local file, or had it cached, because it kept playing between the stations, while TikTok guy, his videos all stopped.
+
+22
+00:01:45,441 --> 00:01:50,656
+Scott: Yeah, well, TikTok is constantly loading, but Spotify has huge cache, right?
+
+23
+00:01:50,736 --> 00:01:51,900
+Scott: Or Apple Music, right?
+
+24
+00:01:51,980 --> 00:01:59,000
+Scott: You don't actually need -- you've got to be away from the internet for a while, or try to listen to a brand new song, or try to search for something you've never listened to, right?
+
+25
+00:01:59,040 --> 00:02:02,975
+Scott: If you just go to your "liked songs" playlist, it's like, that's all in your phone.
+
+26
+00:02:02,995 --> 00:02:04,200
+Scott: It's going to play.
+
+27
+00:02:06,121 --> 00:02:13,959
+Rym: So yeah, it's annoying that it seems to -- I seem to encounter this now almost 100% of the time I go into any enclosed public space.
+
+28
+00:02:16,330 --> 00:02:17,179
+Scott: What are you going to do about it?
+
+29
+00:02:17,740 --> 00:02:23,453
+Rym: Nothing, because I'm not really going to risk having a stranger freak out at me, as has happened a couple times in the past.
+
+30
+00:02:23,534 --> 00:02:24,436
+Rym: I'm just going to ignore it.
+
+31
+00:02:24,957 --> 00:02:26,280
+Rym: Maybe start wearing earplugs.
+
+32
+00:02:26,641 --> 00:02:29,104
+Scott: Here's one of Scott's ideas.
+
+33
+00:02:29,204 --> 00:02:39,780
+Scott: that's not an idea that I would actually do or condone, but I would discuss for the sake of discussing and mildly fantasizing about, but obviously knowing that this is very bad.
+
+34
+00:02:39,800 --> 00:02:41,039
+Rym: I'm picking up what you're laying down.
+
+35
+00:02:41,820 --> 00:02:42,941
+Rym: Right.
+
+36
+00:02:43,802 --> 00:02:59,660
+Scott: Obviously you don't want to encounter one of those people or confront them, because even if you have the courage to confront someone and you're not anti-confrontational, you might not be able to do a push-up and you just get your ass kicked or killed or who knows what.
+
+37
+00:03:00,561 --> 00:03:05,770
+Scott: Clearly a person who is probably more inclined to violence than you are.
+
+38
+00:03:06,211 --> 00:03:11,340
+Scott: Even if you politely ask them, you might end up in a bad shape.
+
+39
+00:03:11,600 --> 00:03:15,168
+Rym: One time when I politely asked, but I didn't actually even ask the guy to turn it down.
+
+40
+00:03:15,229 --> 00:03:18,156
+Rym: I just asked him like, "Hey, do you need any help with your phone?
+
+41
+00:03:18,476 --> 00:03:19,800
+Rym: Why do you have your speaker
+
+42
+00:03:19,920 --> 00:03:19,980
+Rym: on?".
+
+43
+00:03:20,000 --> 00:03:21,945
+Rym: And that was the old guy who didn't understand.
+
+44
+00:03:23,348 --> 00:03:26,475
+Rym: The hole for his headphones went away and now he doesn't know how to use headphones.
+
+45
+00:03:26,676 --> 00:03:28,480
+Rym: He thinks headphones don't work on phones anymore.
+
+46
+00:03:29,141 --> 00:03:38,540
+Rym: And that was the end of that, but I'd say the near majority of the other people I have ever asked in recent memory to politely turn a phone down have flipped the fuck out.
+
+47
+00:03:39,500 --> 00:03:39,620
+Scott: Right.
+
+48
+00:03:40,081 --> 00:03:46,570
+Scott: The question is, what would happen if you confronted such a person, right, with a group?
+
+49
+00:03:47,211 --> 00:03:53,180
+Scott: Like, let's say you had five friends, ten friends, and you went over to the person with your ten friends.
+
+50
+00:03:54,661 --> 00:03:56,845
+Scott: And you said, "Could you please turn that
+
+51
+00:03:56,885 --> 00:03:57,225
+Scott: down?".
+
+52
+00:03:58,287 --> 00:04:05,439
+Scott: And then if they say no, if they're actually brave enough to not comply when they're asked by a group of ten people, right?
+
+53
+00:04:06,540 --> 00:04:10,948
+Scott: Then you could say, "We will politely ask you one more time to turn that down.
+
+54
+00:04:11,690 --> 00:04:14,194
+Scott: Me and my ten friends are bothered by your loud music.
+
+55
+00:04:14,655 --> 00:04:16,678
+Scott: We are asking nicely for the last
+
+56
+00:04:16,738 --> 00:04:16,959
+Scott: time.".
+
+57
+00:04:17,360 --> 00:04:24,038
+Scott: And you still ask nicely, and if they still don't after the third time, then you just smash their phone and you walk away.
+
+58
+00:04:24,058 --> 00:04:24,680
+Scott: You don't hurt them.
+
+59
+00:04:25,462 --> 00:04:28,757
+Scott: You just smash their phone, smash their tablet, and walk away, right?
+
+60
+00:04:28,798 --> 00:04:29,179
+Scott: And that's it.
+
+61
+00:04:29,600 --> 00:04:40,000
+Rym: That is arguably a contextual implied threat, but it's probably well within the bounds of what is legally permissible.
+
+62
+00:04:40,020 --> 00:04:41,784
+Scott: Smashing their phone is clearly a crime.
+
+63
+00:04:42,947 --> 00:04:48,240
+Scott: And you shouldn't smash other people's property, but you did give them two chances.
+
+64
+00:04:51,421 --> 00:04:57,651
+Scott: And I think that this approach, right, it's like, "Do I actually think this is a good idea for
+
+65
+00:04:57,691 --> 00:04:57,992
+Scott: real?".
+
+66
+00:04:58,533 --> 00:04:59,234
+Scott: Obviously not.
+
+67
+00:04:59,274 --> 00:05:00,857
+Scott: We don't want vigilante justice.
+
+68
+00:05:00,917 --> 00:05:02,760
+Scott: We don't want violence, right?
+
+69
+00:05:03,861 --> 00:05:04,282
+Scott: It's bad.
+
+70
+00:05:04,362 --> 00:05:10,580
+Scott: But, you know, and I don't believe that punishment by police changes behavior, right?
+
+71
+00:05:10,800 --> 00:05:15,793
+Scott: It's like, even if the cops went around doing this, I don't think that that would make people behave better, right?
+
+72
+00:05:16,114 --> 00:05:18,300
+Scott: Speeding tickets haven't made speeding go away.
+
+73
+00:05:18,660 --> 00:05:30,560
+Rym: Though, I did, actually I was reading a thing, I should find it, this would be a good Geek Notes episode maybe, showing that in places that have reduced traffic enforcement, average speeds just go way up across the board.
+
+74
+00:05:31,321 --> 00:05:34,385
+Scott: Yeah, I'm not saying it, but it doesn't eliminate the behavior.
+
+75
+00:05:34,405 --> 00:05:36,969
+Scott: You might be able to push it down, right?
+
+76
+00:05:37,309 --> 00:05:40,473
+Scott: But I wonder, let's say, right, like.
+
+77
+00:05:40,493 --> 00:05:45,500
+Scott: we're not talking about putting people in jail, or the justice system, or tickets, or fines, right?
+
+78
+00:05:45,701 --> 00:05:52,480
+Scott: It's like, what if there were, like, gangs that were, quote, "good gangs," not, like, the problem is all the vigilantes.
+
+79
+00:05:52,480 --> 00:06:02,931
+Scott: Yeah, yeah, well, because I was about to say, there are examples of countries where these sorts of things- The vigilantes that are in, right, the vigilantes that are in the actual world are mostly right-wing nutjobs beating up immigrants, right?
+
+80
+00:06:03,032 --> 00:06:07,480
+Scott: And it's like, you don't want to be put in the same principle category as those people.
+
+81
+00:06:07,581 --> 00:06:10,920
+Rym: Or they are the morality police in a place like Afghanistan.
+
+82
+00:06:11,840 --> 00:06:12,381
+Scott: Exactly.
+
+83
+00:06:12,621 --> 00:06:27,880
+Scott: It's like, but what if there was a gang that found people who really were causing a disturbance, and really were making society worse, and people really didn't like what they're doing, and you don't hurt them, you don't ruin their lives, you don't, right?
+
+84
+00:06:28,600 --> 00:06:30,464
+Scott: All you do is make them stop.
+
+85
+00:06:30,564 --> 00:06:39,720
+Scott: If a dude is smoking in the park, the good gang goes, takes a cigarette, throws it on the ground, and steps on it, and then is a large enough gang that that dude doesn't do anything.
+
+86
+00:06:40,262 --> 00:06:48,380
+Scott: So there is a movie from 1993 that is- This would be, I think it would be a much better movie than a real world thing.
+
+87
+00:06:48,600 --> 00:06:53,818
+Rym: Oh yeah, but I'm saying this kind of was a movie in 1993 that- What movie was it?
+
+88
+00:06:54,100 --> 00:06:54,638
+Rym: Falling Down.
+
+89
+00:06:55,962 --> 00:06:57,399
+Scott: That was just one guy going crazy.
+
+90
+00:06:57,580 --> 00:06:59,283
+Rym: Yeah, but what was it really?
+
+91
+00:07:00,746 --> 00:07:08,960
+Rym: Everyone he attacks was also being antisocial, and nobody wanted that person to continue doing what they were doing.
+
+92
+00:07:09,420 --> 00:07:15,727
+Rym: And by and large, while he is clearly not a hero, and obviously that movie has the real themes that it had,
+
+93
+00:07:16,608 --> 00:07:17,368
+Scott: the reality is,
+
+94
+00:07:18,129 --> 00:07:29,160
+Rym: even though he is wrong, and he is a psychopath, and he is broken, the people he is antagonizing are the people who are annoying or antagonizing everyone else in society around them, and making society worse.
+
+95
+00:07:31,286 --> 00:07:49,480
+Scott: But at the same time, the movie's thesis clearly is- If this was a regular thing, if no matter where you were in the city, there was a good gang in sight at all times, and you started to hear these stories and whatnot, it's like, would you?
+
+96
+00:07:50,061 --> 00:07:59,560
+Scott: And you're one of those bad people, it's like, you would only do those behaviors when you'd be like the bullies in high school waiting for teachers to not see you.
+
+97
+00:08:00,821 --> 00:08:06,156
+Scott: It's like, the Showtime people on the subway would be looking left and right for like, is there a good gang in sight?
+
+98
+00:08:06,316 --> 00:08:07,660
+Scott: Alright, we don't see one, it's Showtime!
+
+99
+00:08:08,020 --> 00:08:10,499
+Scott: And then one shows up and you're like, aw shit, and they run.
+
+100
+00:08:10,720 --> 00:08:11,361
+Scott: Yeah, I
+
+101
+00:08:12,802 --> 00:08:38,039
+Rym: don't know, it's stuck in my craw that the rise in public antisocial behavior that I encounter personally, backed up by the anecdata of people in my close social circles, implies a worrying trend about the general state of hand wave around, but I think the general state of hand wave around was not great anyway, and this is a symptom, it's nothing
+
+102
+00:08:38,080 --> 00:08:38,200
+Scott: more
+
+103
+00:08:38,220 --> 00:08:38,480
+Rym: than a
+
+104
+00:08:38,520 --> 00:08:38,760
+Scott: symptom.
+
+105
+00:08:38,820 --> 00:08:42,539
+Scott: My opinion is that it is more symptom, that is my opinion.
+
+106
+00:08:43,506 --> 00:08:43,799
+Scott: Anyway.
+
+107
+00:08:44,440 --> 00:08:46,984
+Scott: It is not the disease itself, it is the symptom, right?
+
+108
+00:08:47,024 --> 00:08:51,070
+Scott: It's like, when your society is crumbling, these sorts of things happen more, right?
+
+109
+00:08:51,090 --> 00:08:53,694
+Scott: When your society is healthy, those things happen less.
+
+110
+00:08:53,734 --> 00:08:58,060
+Scott: I don't think those things cause your society to crumble.
+
+111
+00:08:59,560 --> 00:09:03,820
+Scott: It's like, if I go on the subway and start blasting tunes, society won't collapse.
+
+112
+00:09:05,483 --> 00:09:14,380
+Rym: You know, if they were just blasting tunes, I actually would care way less, and if they were blasting tunes on speakers that actually sounded like something other than screeching garbage.
+
+113
+00:09:15,660 --> 00:09:20,040
+Scott: What's gonna happen when phones are sounding like boomboxes, like the good ones?
+
+114
+00:09:21,360 --> 00:09:28,839
+Rym: But it's never that, 99% of the time it's someone just watching TikToks, scrolling through them, not even finishing one before they watch the next one.
+
+115
+00:09:30,981 --> 00:09:41,040
+Rym: Anyway, some actual gaming news, cause there is stuff going on, and we do have a pretty juicy main bit that might even possibly allow us to do another more nuanced or deeper show in the future.
+
+116
+00:09:41,700 --> 00:09:47,013
+Rym: But the Nintendo Direct is coming in zero days, it's tomorrow, it's tomorrow.
+
+117
+00:09:47,835 --> 00:09:49,780
+Rym: By the time you listen to this, it probably already happened.
+
+118
+00:09:50,620 --> 00:09:57,020
+Scott: Yes, so the thing is, this Nintendo Direct is almost certainly going to focus mostly on third party titles, right?
+
+119
+00:09:57,522 --> 00:10:03,440
+Scott: There are some first party titles coming, like there's the Princess Peach game, is that out yet or not?
+
+120
+00:10:04,060 --> 00:10:06,025
+Rym: I don't think it's out, I saw that.
+
+121
+00:10:06,386 --> 00:10:11,640
+Rym: all I know about it is it was described as a gentle adventure for younger audiences.
+
+122
+00:10:12,181 --> 00:10:26,840
+Scott: Yes, all of the recent and upcoming first party titles that I'm aware of are sort of on either the remake kinds, like Mario RPG remake, Paper Mario Thousand Year Door remake, Princess Peach game.
+
+123
+00:10:28,901 --> 00:10:35,480
+Scott: They're not the premier top tier Nintendo titles, they're not the A-list first party, they're the B-list.
+
+124
+00:10:37,542 --> 00:10:43,475
+Scott: And so, it's like, okay, well what's coming next for the Switch?
+
+125
+00:10:43,495 --> 00:10:45,179
+Scott: Everyone's like, "Oh, well there's a new console
+
+126
+00:10:45,219 --> 00:10:45,520
+Scott: coming.".
+
+127
+00:10:45,620 --> 00:10:58,438
+Scott: But the rumors, which are pretty reliable rumors, although they are just rumors, suggest that the console is either delayed or simply just won't be coming out until early 2025, at like the earliest.
+
+128
+00:11:01,383 --> 00:11:08,280
+Rym: If we assume it's true, I think it's a good move, the Switch, as is, probably still has a lot of staying power.
+
+129
+00:11:08,880 --> 00:11:14,040
+Scott: Well, but here's the problem, sure it has staying power, but not if they don't make any fucking games for it.
+
+130
+00:11:14,160 --> 00:11:19,714
+Scott: All the Nintendo devs are supposedly, reportedly making games for that new console.
+
+131
+00:11:19,734 --> 00:11:21,920
+Scott: They're not making Switch games anymore, right?
+
+132
+00:11:23,161 --> 00:11:27,068
+Scott: And if you look at Nintendo's console release schedule, ignoring Game Boys, right?
+
+133
+00:11:27,088 --> 00:11:30,615
+Scott: The NES, the Famicom, I guess, came out in Japan in '83, NES '85, right?
+
+134
+00:11:33,520 --> 00:11:38,148
+Scott: The SNES came out in Japan in 1990, so seven year gap for Japan.
+
+135
+00:11:39,310 --> 00:11:41,234
+Scott: '91, North America, so six year gap.
+
+136
+00:11:41,755 --> 00:11:44,800
+Scott: And '92, Europe, so seven year gap.
+
+137
+00:11:44,840 --> 00:11:46,803
+Scott: But basically we'll call it six or seven, right?
+
+138
+00:11:47,204 --> 00:11:56,180
+Scott: Between SNES and N64, the N64 came out in '97, so that depending on where you lived, that's a gap of five to seven years.
+
+139
+00:11:56,601 --> 00:11:59,428
+Scott: So six years again, we'll split it in the middle, right?
+
+140
+00:11:59,729 --> 00:12:02,817
+Scott: The GameCube came out four years, 2001, four years after the GameCube.
+
+141
+00:12:04,441 --> 00:12:05,061
+Scott: Four after the N64.
+
+142
+00:12:05,261 --> 00:12:07,343
+Scott: The N64 was short lived.
+
+143
+00:12:09,025 --> 00:12:26,925
+Scott: The Wii came out five years after the GameCube, so we got 6-6-4-5-6, because the Wii U came out six years after the Wii, and then the Switch came out five years after the Wii U. So 6-6-4-5-6-5, right?
+
+144
+00:12:27,666 --> 00:12:35,420
+Scott: It is already, the Switch came out in March of 2017, so it is already seven years for the Switch.
+
+145
+00:12:35,540 --> 00:12:41,714
+Scott: The longest gap ever between any major Nintendo console release ever.
+
+146
+00:12:41,994 --> 00:12:42,836
+Rym: Period.
+
+147
+00:12:42,896 --> 00:12:44,500
+Scott: The biggest gap they've ever had.
+
+148
+00:12:44,680 --> 00:13:01,620
+Rym: I have a hypothesis, or at least a potentially different reading on this, and my argument now is that there was a time where the cadence of past consoles was illustrative of what a cadence of future consoles could or should be, or the health of the industry, or etc.
+
+149
+00:13:02,381 --> 00:13:20,060
+Rym: But, considering that the entire history of modern consoles has happened within not just living memory, but within you and me being alive, like NES onward, I'd argue, maybe Sega Master System was the practical beginning of the modern console era.
+
+150
+00:13:22,701 --> 00:13:40,940
+Rym: I think those cycles have been driven more by advances in technology, especially considering it was the early eras, and the era where we had more rapid consoles was also an era where like, look at PCs at the same time, a PC bought even a year later in that era was like four times faster.
+
+151
+00:13:41,381 --> 00:13:52,640
+Scott: Yeah, well I think that explains why the GameCube was four years, the N64 only lasted four years, because that was like the most rapid time of Moore's Law beating chips, right?
+
+152
+00:13:53,361 --> 00:13:59,720
+Scott: And look at the gap between what an N64 does and what a GameCube does, it's the most dramatic gap in terms of capabilities.
+
+153
+00:13:59,720 --> 00:13:59,800
+Scott: But
+
+154
+00:13:59,820 --> 00:14:15,896
+Rym: meanwhile, the N64 came out in America in 1996, that's around when I started playing Quake 1 online on broadband, and gaming PCs expanded their capabilities at such a ridiculous exponential rate between 1996 and 2006 that it-
+
+155
+00:14:20,560 --> 00:14:23,183
+Scott: There's a big gap going, and there are reasons for that, right?
+
+156
+00:14:23,363 --> 00:14:37,359
+Scott: You know, lack of technological advancement, Switch still going strong, et cetera, et cetera, but they are all the first-party titles that are being worked on, as far as we can tell, seem to be for the next console.
+
+157
+00:14:37,399 --> 00:14:38,040
+Scott: that is unknown.
+
+158
+00:14:38,600 --> 00:14:41,964
+Scott: We don't know of any titles being worked on for the Switch.
+
+159
+00:14:42,004 --> 00:15:00,260
+Scott: that are major ones that have been announced, and it's like, will the Switch sort of stagnate in terms of like, yeah, it's still our only console, but we don't even have like a big holiday game for this year, and they might dip before the next one comes out, and who knows how that next one's gonna be?
+
+160
+00:15:00,460 --> 00:15:10,698
+Rym: I mean, one thing they could do is do a blitz to try to get the people who have a Switch but haven't played the existing first parties, like the people who aren't as gamer-y, and do some sort of go-to-market around that.
+
+161
+00:15:10,718 --> 00:15:11,720
+Rym: That could boost some revenue.
+
+162
+00:15:11,740 --> 00:15:16,387
+Scott: I think they need to do what they did with some games in the past, such as Breath of the Wild.
+
+163
+00:15:16,467 --> 00:15:19,452
+Scott: People don't remember, Breath of the Wild was a Wii U game, right?
+
+164
+00:15:19,952 --> 00:15:20,694
+Scott: And a Switch game.
+
+165
+00:15:21,194 --> 00:15:24,860
+Scott: So, you can get Breath of the Wild for the Wii U if you want, I guess.
+
+166
+00:15:26,840 --> 00:15:37,020
+Scott: So, they should make one of those first-party titles, right, a Switch game, and also a whatever-the-next-console-is game, right?
+
+167
+00:15:38,300 --> 00:15:50,900
+Scott: The risk, though, is that, you know, you release it for the Switch, well, if you don't do it at like the exact same time, like, will people run out and buy the Switch version and then not buy the version of the next console?
+
+168
+00:15:50,900 --> 00:15:57,019
+Rym: But it also limits your game to the relative capabilities of the Switch, and at best...
+
+169
+00:15:57,260 --> 00:15:59,347
+Scott: I mean, Breath of the Wild ran on the Wii U, so... Yeah.
+
+170
+00:16:02,350 --> 00:16:02,767
+Scott: I'm just saying.
+
+171
+00:16:03,130 --> 00:16:07,930
+Rym: But I feel, well, it'll depend a lot on what the Switch 2 hardware is actually gonna be like.
+
+172
+00:16:08,570 --> 00:16:10,614
+Scott: Yeah, I can't imagine what it's gonna be.
+
+173
+00:16:11,356 --> 00:16:17,690
+Scott: Hopefully, you know, the only major thing it can do that I can think of is, you know, 4K video output, right, and whatnot.
+
+174
+00:16:18,271 --> 00:16:19,814
+Rym: I actually wouldn't if I were them.
+
+175
+00:16:19,935 --> 00:16:27,410
+Rym: I'd keep it 2K or under and just focus on a better screen for the actual handheld and more power.
+
+176
+00:16:27,550 --> 00:16:29,829
+Scott: I think they've already got the best screen they can get in there, I don't know.
+
+177
+00:16:30,450 --> 00:16:31,892
+Rym: Yeah, they could probably do better by now.
+
+178
+00:16:31,912 --> 00:16:33,754
+Rym: It's hard to say.
+
+179
+00:16:33,854 --> 00:16:46,350
+Rym: It's hard to say what Nintendo's gonna do, because the climate of gaming has changed so much just in the past five years that it's hard to predict where Nintendo will fit into the modern ecosystem.
+
+180
+00:16:46,350 --> 00:16:52,190
+Scott: You know, they always come out with some concept, right, that's, you know, different and whatnot.
+
+181
+00:16:52,490 --> 00:17:01,747
+Scott: But the thing is, right, the Switch concept that it was sold as when it first came out was like, "Hey, everyone grab a little joy-con and sit around the little screen on the go," and...
+
+182
+00:17:03,570 --> 00:17:04,788
+Rym: Guess what never happens?
+
+183
+00:17:05,372 --> 00:17:06,608
+Scott: I don't think that really happened.
+
+184
+00:17:07,310 --> 00:17:14,069
+Rym: I remember we tried to make it happen, but a lot of games didn't... Basically, we always tried to do this at conventions, and we'd always have problems with it.
+
+185
+00:17:14,931 --> 00:17:21,530
+Scott: Yeah, but I guess the Switch succeeded because it was portable and also not portable at the same time.
+
+186
+00:17:21,951 --> 00:17:22,011
+Rym: Yep.
+
+187
+00:17:22,151 --> 00:17:23,315
+Rym: Also, digital.
+
+188
+00:17:24,238 --> 00:17:27,589
+Rym: All the indications are that nobody wants to buy these physical cartridges anymore.
+
+189
+00:17:27,790 --> 00:17:33,290
+Scott: Yeah, I wonder if the next one will have a physical game cartridge or anything at all.
+
+190
+00:17:33,410 --> 00:17:38,299
+Rym: I wouldn't be surprised if it didn't, but that would imply that this is the point.
+
+191
+00:17:38,419 --> 00:17:44,250
+Rym: where Switch onward is when Nintendo has to maintain seem-like levels of backward compatibility.
+
+192
+00:17:45,811 --> 00:18:06,890
+Scott: There has been very, very strong indications and implications, even from Nintendo, talking about their accounts, how basically we're almost guaranteed, almost, nothing's truly guaranteed, that at least the next console, you'll log in with your Nintendo account, and the games that you bought on Switch will be there and will work, mostly.
+
+193
+00:18:07,611 --> 00:18:12,688
+Scott: As far as we can tell, something like that along those lines is going to happen, so...
+
+194
+00:18:14,190 --> 00:18:27,710
+Rym: So, in some other news, Helldivers 2, which I was excited about until I wasn't, is having a few things going on in that, one, it is so stupidly popular that no one can get into servers, and it's like crashing and having all sorts of...
+
+195
+00:18:27,730 --> 00:18:29,190
+Scott: Maybe you should let people run their own servers.
+
+196
+00:18:31,050 --> 00:18:47,070
+Rym: But also, it's having lots of bugs and issues that seem to be related to onerous anti-cheat technology that is built into it, and this is notable for one specific reason that is relevant to our main bit, and it's actually the reason why...
+
+197
+00:18:47,330 --> 00:18:48,849
+Scott: If you play on PS5, you don't have to deal with that, I guess.
+
+198
+00:18:49,231 --> 00:18:52,429
+Rym: True, though people are saying the PS5 is having the most problems.
+
+199
+00:18:53,450 --> 00:19:05,770
+Scott: Interesting, because it was like, I thought the whole point of this game was like, it's not a PS5 exclusive, because it's on PC, obviously, but it was like, I think they sold it more as a PS5 game, and were like, oh yeah, it's also on PC.
+
+200
+00:19:06,290 --> 00:19:12,650
+Rym: I mean, Fortnite has cross-play, but the PC people just play with PC people, and that's not even a thing to them.
+
+201
+00:19:14,411 --> 00:19:18,918
+Rym: So, Helldivers 2 has fairly extremely onerous anti-cheat.
+
+202
+00:19:18,938 --> 00:19:26,990
+Rym: that a lot of people are complaining very vocally online is being tripped up by Windows Defender, even, as malware.
+
+203
+00:19:28,670 --> 00:19:38,270
+Rym: And this is weird, because Helldivers is a cooperative PvE game you're intended to play with your friends.
+
+204
+00:19:38,970 --> 00:19:45,730
+Rym: So why is there Gameguard on a game that is not in any way competitive whatsoever?
+
+205
+00:19:46,831 --> 00:19:54,530
+Rym: So, not that long ago, actually, February 8th, they actually gave a statement on anti-cheat.
+
+206
+00:19:54,850 --> 00:20:07,310
+Rym: So, Peter Lindgren, the technical director of Helldivers 2, basically answered a bunch of questions about the anti-cheat, and I'm going to link to it, because there's no point in just reading this whole thing to you, just read it.
+
+207
+00:20:07,991 --> 00:20:16,645
+Rym: Me summarizing it is not going to help you that much, but one of the questions is, and I'm quoting, "Helldivers 2 is a co-op PvE game.
+
+208
+00:20:17,106 --> 00:20:18,368
+Rym: Why do we even need
+
+209
+00:20:18,488 --> 00:20:19,089
+Rym: anti-cheat?"
+
+210
+00:20:19,650 --> 00:20:22,016
+Rym: And the fact that he starts with, "That's a great question,".
+
+211
+00:20:22,036 --> 00:20:28,170
+Rym: I have found in my professional experience that usually when someone says, "That's a great question," they're not going to give an answer.
+
+212
+00:20:29,191 --> 00:20:30,076
+Scott: We know the answer.
+
+213
+00:20:30,659 --> 00:20:32,570
+Scott: The guy doesn't have the guts to say the real answer.
+
+214
+00:20:33,131 --> 00:20:36,460
+Scott: If he had the guts, I would just clap, even though he's saying something evil.
+
+215
+00:20:36,540 --> 00:20:38,746
+Scott: I'd be like, "Bravo for honesty,
+
+216
+00:20:38,786 --> 00:20:39,167
+Scott: bravo.".
+
+217
+00:20:39,407 --> 00:20:40,410
+Scott: But he doesn't do that, does he?
+
+218
+00:20:40,450 --> 00:20:50,130
+Rym: So I'm just going to read all about the first bit of his response, and you can read the rest of this, but first, we want everyone to have a great time playing Helldivers 2 with friends, ex-friends, or randoms.
+
+219
+00:20:50,510 --> 00:21:01,210
+Rym: What we've seen in some of our and others' games is that rampant cheating tends to have a very negative effect on players' openness to playing, especially with randoms.
+
+220
+00:21:03,463 --> 00:21:04,510
+Scott: We don't need to play with randoms.
+
+221
+00:21:04,790 --> 00:21:08,116
+Rym: Yeah, I would never play a PvE game with randoms.
+
+222
+00:21:08,156 --> 00:21:15,830
+Rym: The entire point of PvE is either I'm going to play it single player, I'm going to play it with the Scots or my other friends.
+
+223
+00:21:17,531 --> 00:21:30,610
+Rym: I don't really want to play co-operative games with randoms 99% of the time, but we all know the real reason is because of the microtransactions and the advancement nonsense in this game.
+
+224
+00:21:31,191 --> 00:21:43,650
+Rym: So as much as I want to play Helldivers 2, because all indications are that the game itself is really fun, but the anti-cheat seems so onerous that I think I'm just going to give this one a pass unless something materially changes.
+
+225
+00:21:46,932 --> 00:21:49,102
+Scott: I think the main thing is the price of it, right?
+
+226
+00:21:49,163 --> 00:21:50,590
+Scott: It's still an expensive game.
+
+227
+00:21:51,710 --> 00:21:53,886
+Rym: I mean, I haven't even killed Ganon yet, so...
+
+228
+00:21:54,591 --> 00:21:55,257
+Scott: Me either.
+
+229
+00:21:55,338 --> 00:21:56,629
+Scott: I could any time I wanted to.
+
+230
+00:21:56,910 --> 00:21:57,433
+Rym: I could too.
+
+231
+00:21:57,514 --> 00:21:59,990
+Rym: There's a few quests I could do, or I could kill Ganon.
+
+232
+00:22:00,152 --> 00:22:01,327
+Scott: There's a lot of quests I could do.
+
+233
+00:22:03,070 --> 00:22:03,930
+Rym: There's a few I'm not going to do.
+
+234
+00:22:04,870 --> 00:22:10,090
+Scott: I mean, it's like I do the game otherwise, other than the anti-cheat thing and the fact that servers aren't working.
+
+235
+00:22:10,811 --> 00:22:14,140
+Scott: It's actually like, you know, I do kind of want to play that game still, right?
+
+236
+00:22:14,280 --> 00:22:17,590
+Scott: But I think what's going to happen, if you look, Helldivers 1 is still operating, right?
+
+237
+00:22:17,833 --> 00:22:19,470
+Scott: And Helldivers 2 is very popular.
+
+238
+00:22:20,310 --> 00:22:30,870
+Scott: So, and it's because it's a PvE and not a PvP, I don't feel like, even though it's multiplayer, I don't feel like I'm missing out on anything by not playing it immediately.
+
+239
+00:22:31,030 --> 00:22:36,666
+Rym: Oh yeah, because none of our friends have time to play it anyway, so like three years from now we'll get the game of the year edition and we'll play it.
+
+240
+00:22:37,769 --> 00:22:37,970
+Scott: Or not.
+
+241
+00:22:38,010 --> 00:22:44,970
+Scott: What I'm saying is like, yeah, I could just get this later, cheaper, and have all the same exact amount of fun, and there'll be a lot of things patched.
+
+242
+00:22:45,130 --> 00:22:48,410
+Scott: It'll might even be more fun, and I won't have to suffer through the dark times.
+
+243
+00:22:48,610 --> 00:22:48,891
+Scott: Yup.
+
+244
+00:22:51,175 --> 00:22:54,921
+Rym: Isn't using anti-cheat just to protect the game's monetization structure?
+
+245
+00:22:55,442 --> 00:22:59,329
+Rym: Slightly non-cowardly answer, yes, comma, and no.
+
+246
+00:23:01,336 --> 00:23:02,249
+Scott: I think it's mostly yes.
+
+247
+00:23:02,390 --> 00:23:04,004
+Scott: While it will protect monetized content.
+
+248
+00:23:05,270 --> 00:23:09,310
+Scott: You can't sell someone a health pack if they cheat for infinite health, right?
+
+249
+00:23:09,911 --> 00:23:18,707
+Rym: I just think back to that Penny Arcade when randos online were mad about people cheating in Diablo, and it was like, who is harmed?
+
+250
+00:23:19,047 --> 00:23:19,648
+Rym: The devil?
+
+251
+00:23:19,668 --> 00:23:20,450
+Scott: Fuck him.
+
+252
+00:23:21,350 --> 00:23:22,893
+Scott: That's right, I'll never forget that one.
+
+253
+00:23:22,914 --> 00:23:25,900
+Scott: What's wrong with people cheating in Diablo?
+
+254
+00:23:25,920 --> 00:23:26,963
+Scott: Who's the cheated party?
+
+255
+00:23:27,023 --> 00:23:27,504
+Scott: The devil?
+
+256
+00:23:28,025 --> 00:23:28,807
+Scott: Cheating in the devil?
+
+257
+00:23:28,867 --> 00:23:29,268
+Rym: Fuck him.
+
+258
+00:23:30,750 --> 00:23:33,909
+Rym: Unless a game is a competitive orthogame, who gives a shit if someone cheats?
+
+259
+00:23:34,810 --> 00:23:35,209
+Scott: That's right.
+
+260
+00:23:38,341 --> 00:23:41,340
+Rym: But anyway, things of the day.
+
+261
+00:23:42,741 --> 00:23:49,240
+Rym: I don't even know, I just stumbled upon this, and it was funnier than I thought it would be, mostly because the writing's actually really good.
+
+262
+00:23:50,121 --> 00:24:10,320
+Rym: This is a short Wario Land broadcast system public announcement, and it is basically a very short story presented as Wario giving a radio address to the citizens of Wario Land in response to the fact that Mario has invaded and fucked up his shit.
+
+263
+00:24:11,140 --> 00:24:15,760
+Rym: And it's actually written to a degree that I found very funny.
+
+264
+00:24:16,100 --> 00:24:28,060
+Scott: Well, I think the voice acting is good, and the plot is good, and the imagery is good, but the thing that bothers me is it's like, you know, Wario basically just flatly admits doing evil, like I said.
+
+265
+00:24:28,740 --> 00:24:38,820
+Rym: That's what I thought was funny, the fact that he's like, "I admit that my regime was fully corrupt, and if any of the citizens of Wario Land wish to continue to support me anyway...".
+
+266
+00:24:39,040 --> 00:24:39,541
+Rym: I always want
+
+267
+00:24:39,581 --> 00:24:51,720
+Scott: villains to do that I would respect, so on the one hand, I like that, but on the other hand, I think it would have been funnier if he just said the lies that a real dictator would have said in that position to make it more real.
+
+268
+00:24:52,500 --> 00:25:07,399
+Rym: I feel like both would be equally funny to me in different ways, like the inverse of like, Gaddafi just being like, "Here are all the war crimes I did, and lad, here's why I am now hiding in a bunker
+
+269
+00:25:07,439 --> 00:25:07,800
+Rym: somewhere.".
+
+270
+00:25:08,502 --> 00:25:10,620
+Scott: People don't even do that on their deathbeds for some reason.
+
+271
+00:25:11,060 --> 00:25:12,255
+Rym: Nah, I feel like, I mean...
+
+272
+00:25:12,620 --> 00:25:13,258
+Scott: What's up with that?
+
+273
+00:25:13,643 --> 00:25:15,020
+Rym: On your deathbed, like... Let
+
+274
+00:25:15,061 --> 00:25:15,541
+Scott: me tell
+
+275
+00:25:15,601 --> 00:25:15,761
+Rym: you,
+
+276
+00:25:15,801 --> 00:25:29,339
+Scott: if I did like a fucking, you know, obviously I wouldn't do a war crime, but if I did like a big art heist or a jewel thief or something, and then I was literally like going to die for sure, I'd be like, "I did the art
+
+277
+00:25:29,379 --> 00:25:29,680
+Scott: heist.".
+
+278
+00:25:31,361 --> 00:25:34,539
+Rym: So, funnily enough, in our Blades in the Dark game, and I guess I'm breaking...
+
+279
+00:25:34,661 --> 00:25:35,156
+Scott: You didn't catch me!
+
+280
+00:25:35,742 --> 00:25:47,200
+Rym: I'm breaking, we've been playing Blades in the Dark for like four years now in a long running campaign, but uh... So... I'm gonna... No character would ever reveal this, but we're the ones who killed Baz-O-Baz.
+
+281
+00:25:47,400 --> 00:25:51,200
+Rym: We killed him in the first episode of this campaign, like four years ago.
+
+282
+00:25:51,741 --> 00:26:00,440
+Rym: And the whole running theme of our campaign for four years has been that fucking nobody knows who killed Baz-O-Baz because we actually pulled it off and got away with it.
+
+283
+00:26:00,901 --> 00:26:08,340
+Rym: And so far we've had like four different characters, even on their deathbeds, canonically refuse to reveal who killed Baz-O-Baz.
+
+284
+00:26:10,922 --> 00:26:17,420
+Rym: The only things people reveal on their deathbeds is veterans who are senile tend to reveal that they saw UFOs.
+
+285
+00:26:17,700 --> 00:26:20,399
+Rym: That seems to be the only thing that actually gets revealed on deathbeds.
+
+286
+00:26:20,740 --> 00:26:23,400
+Rym: That or people who say they know who killed JFK.
+
+287
+00:26:25,908 --> 00:26:26,518
+Scott: I know who did it.
+
+288
+00:26:28,947 --> 00:26:29,700
+Scott: It's public knowledge.
+
+289
+00:26:29,700 --> 00:26:29,804
+Scott: It is!
+
+290
+00:26:32,402 --> 00:26:34,220
+Rym: There's a very simple answer to that question.
+
+291
+00:26:34,700 --> 00:26:36,800
+Rym: It's almost as simple as who's in Grand Stome.
+
+292
+00:26:37,621 --> 00:26:38,576
+Scott: I know, it's pretty much.
+
+293
+00:26:40,503 --> 00:26:41,920
+Scott: Only the name's not in the question.
+
+294
+00:26:42,800 --> 00:26:43,620
+Scott: So it's a little harder.
+
+295
+00:26:44,080 --> 00:26:45,000
+Scott: You have to know some history.
+
+296
+00:26:45,782 --> 00:26:45,872
+Rym: Yup.
+
+297
+00:26:46,281 --> 00:26:48,440
+Rym: You gotta know one of those people who has three names in public.
+
+298
+00:26:49,364 --> 00:26:49,798
+Scott: That's right.
+
+299
+00:26:50,401 --> 00:26:50,978
+Rym: So what do you got?
+
+300
+00:26:52,403 --> 00:26:53,060
+Scott: Oh, thing of the day.
+
+301
+00:26:53,200 --> 00:26:56,500
+Scott: Okay, you know I love, you know, old games and fonts.
+
+302
+00:26:56,801 --> 00:27:04,480
+Scott: So this person, what they did is this is a person who was also a nerd about old games and fonts.
+
+303
+00:27:05,860 --> 00:27:08,479
+Scott: And there were some things that bothered them.
+
+304
+00:27:09,102 --> 00:27:11,300
+Scott: And they went and investigated those things.
+
+305
+00:27:11,460 --> 00:27:18,460
+Scott: And they're like, "Hey, I'm looking at this game Beyond Apple Manor from the PC and also this game Hard Hat Mac from the PC.
+
+306
+00:27:18,620 --> 00:27:22,279
+Scott: And I'm looking at the fonts and those fonts are looking pretty similar.
+
+307
+00:27:22,960 --> 00:27:23,312
+Scott: Similar
+
+308
+00:27:23,354 --> 00:27:23,519
+Scott: fonts.".
+
+309
+00:27:23,580 --> 00:27:26,439
+Scott: Because all those games, they weren't true type fonts then.
+
+310
+00:27:27,002 --> 00:27:28,620
+Scott: It was all pixelated fonts, right?
+
+311
+00:27:28,880 --> 00:27:34,140
+Scott: Someone drew each letter of the alphabet, like pixel by pixel, just like on the NES or whatever.
+
+312
+00:27:34,740 --> 00:27:36,079
+Rym: Fonts were basically sprite sheets.
+
+313
+00:27:37,100 --> 00:27:37,720
+Scott: Yeah, basically.
+
+314
+00:27:38,381 --> 00:27:41,860
+Scott: And it's like, okay, these games are using similar fonts.
+
+315
+00:27:42,061 --> 00:27:46,340
+Scott: So it wasn't like, you know, some game where someone made a font for that game.
+
+316
+00:27:46,441 --> 00:27:49,160
+Scott: There was some font that came from somewhere else, right?
+
+317
+00:27:49,220 --> 00:27:54,140
+Scott: That these game developers got their font from somewhere and used it in their game.
+
+318
+00:27:55,621 --> 00:27:57,579
+Scott: Where did they get those fonts from?
+
+319
+00:27:58,585 --> 00:28:00,140
+Scott: Were the fonts slightly modified?
+
+320
+00:28:00,661 --> 00:28:04,140
+Scott: What was the origins of these old game pixel fonts?
+
+321
+00:28:04,500 --> 00:28:07,198
+Scott: Who really made them, et cetera, et cetera.
+
+322
+00:28:07,761 --> 00:28:11,700
+Scott: And they go in deep through several games and examples.
+
+323
+00:28:11,960 --> 00:28:13,360
+Rym: Oh, this is way more extensive than I thought.
+
+324
+00:28:13,480 --> 00:28:14,138
+Rym: I just scrolled down.
+
+325
+00:28:14,380 --> 00:28:14,778
+Rym: God damn.
+
+326
+00:28:15,783 --> 00:28:18,040
+Scott: And the fonts are awesome.
+
+327
+00:28:18,161 --> 00:28:24,678
+Scott: And also you'll learn about some games that you probably didn't even know existed, which I don't know if they're worth playing, but hey.
+
+328
+00:28:25,720 --> 00:28:27,058
+Rym: Well, I don't know about any of these games.
+
+329
+00:28:28,440 --> 00:28:30,800
+Scott: Yeah, you want to play some Raid Over Moscow?
+
+330
+00:28:31,080 --> 00:28:33,160
+Rym: I feel like I want to watch a YouTube video of someone else playing it.
+
+331
+00:28:33,181 --> 00:28:34,000
+Scott: I have an Apple 2.
+
+332
+00:28:34,000 --> 00:28:35,700
+Scott: We can play it on the Apple 2, for real.
+
+333
+00:28:36,220 --> 00:28:36,284
+Scott: Ooh.
+
+334
+00:28:39,261 --> 00:28:43,580
+Rym: In the meta moment, the GeekNights Book Club book is The Night is Short.
+
+335
+00:28:44,141 --> 00:28:45,019
+Rym: Walk on, girl.
+
+336
+00:28:45,463 --> 00:28:48,200
+Rym: I have paused reading it until Scott resumes reading it.
+
+337
+00:28:49,128 --> 00:28:49,360
+Scott: Okay.
+
+338
+00:28:50,024 --> 00:28:50,919
+Scott: Maybe I'll do that soon.
+
+339
+00:28:51,928 --> 00:28:52,379
+Rym: It's a good book.
+
+340
+00:28:52,500 --> 00:28:53,460
+Rym: We'll probably do the episode.
+
+341
+00:28:53,721 --> 00:28:55,360
+Rym: I would guess in March we'll do the episode.
+
+342
+00:28:55,360 --> 00:28:56,407
+Rym: It's not a long book.
+
+343
+00:28:56,507 --> 00:28:58,379
+Rym: once we actually read it, but we'll give you time to read it.
+
+344
+00:28:59,261 --> 00:29:10,120
+Rym: If you didn't listen to our episode on the movie The Night is Short, Walk on, girl, and you've never seen the movie The Night is Short, Walk on, girl, I'd suggest either reading this book or watching the movie because I like them both a lot.
+
+345
+00:29:12,841 --> 00:29:20,800
+Rym: We will be live at PAX East 2024 with not one, but two panels, but they're both on Sunday.
+
+346
+00:29:22,581 --> 00:29:24,840
+Rym: So every game is the same game.
+
+347
+00:29:25,260 --> 00:29:28,320
+Rym: Our all new panel will be Sunday at 2.30 in the Dragonfly Theater.
+
+348
+00:29:29,021 --> 00:29:35,460
+Rym: And then a panel that is a rehash of an old format, but with entirely new content.
+
+349
+00:29:36,001 --> 00:29:40,100
+Rym: We've done many versions of the end tabletop games you must play.
+
+350
+00:29:40,682 --> 00:29:46,940
+Rym: But only once did we did a panel that was just the end games you must play, tabletop or not.
+
+351
+00:29:47,941 --> 00:29:52,540
+Scott: Now I got to say, shoving us on Sunday because we're just some guys.
+
+352
+00:29:52,840 --> 00:29:53,600
+Scott: We're not industry.
+
+353
+00:29:53,600 --> 00:29:54,540
+Scott: We're not famous.
+
+354
+00:29:54,781 --> 00:29:55,180
+Scott: We're not anything.
+
+355
+00:29:55,300 --> 00:29:56,199
+Scott: It's like that makes sense.
+
+356
+00:29:57,103 --> 00:30:00,220
+Scott: That's fine even though we'll get less crowd on Sunday.
+
+357
+00:30:01,380 --> 00:30:01,894
+Scott: But you know what?
+
+358
+00:30:03,282 --> 00:30:07,733
+Scott: That's actually kind of really convenient because that means I only got to carry my shit over to the con once.
+
+359
+00:30:08,584 --> 00:30:10,160
+Rym: We do a panel at 2.30.
+
+360
+00:30:10,160 --> 00:30:11,160
+Rym: At 3.30 we're done.
+
+361
+00:30:11,640 --> 00:30:12,719
+Rym: We chill for a little bit.
+
+362
+00:30:12,981 --> 00:30:14,760
+Rym: We do another panel at 4.30.
+
+363
+00:30:14,760 --> 00:30:17,820
+Rym: We'll probably miss or walk into the end of the Omega-Thon, but I can live with that.
+
+364
+00:30:17,920 --> 00:30:18,400
+Rym: And then we're free.
+
+365
+00:30:18,801 --> 00:30:20,340
+Scott: Oh, has anyone even come to that panel?
+
+366
+00:30:20,380 --> 00:30:20,718
+Scott: Oh no.
+
+367
+00:30:21,201 --> 00:30:23,700
+Rym: I mean the Omega-Thon doesn't get a ton of attendance lately.
+
+368
+00:30:24,160 --> 00:30:24,618
+Scott: That's true.
+
+369
+00:30:25,180 --> 00:30:31,740
+Rym: But also panel attendance at PAX has been way up since the dark times have wound down.
+
+370
+00:30:32,480 --> 00:30:37,160
+Rym: And a lot of people, I still think this PAX East is going to be as off the hook as Unplugged was.
+
+371
+00:30:37,280 --> 00:30:38,380
+Scott: Maybe I'll be wrong.
+
+372
+00:30:38,400 --> 00:30:39,260
+Scott: Oh yeah, it's going to be crowded.
+
+373
+00:30:39,400 --> 00:30:47,820
+Rym: But if it is, like Unplugged and even MagFest, even panels we had at Squirrely Times, like a lot of people came relative to how many people I expected to come.
+
+374
+00:30:48,200 --> 00:30:59,220
+Rym: It felt like PAX is from like the 2012s in terms of the number of people who would come despite weird time, weird title, like our kind of panel content.
+
+375
+00:30:59,881 --> 00:31:00,719
+Rym: So we'll see.
+
+376
+00:31:01,020 --> 00:31:01,717
+Rym: Should be a good time.
+
+377
+00:31:02,362 --> 00:31:03,960
+Scott: Otherwise PAX East is going to be great.
+
+378
+00:31:04,160 --> 00:31:04,759
+Rym: We're going to be there.
+
+379
+00:31:04,800 --> 00:31:07,799
+Rym: And if you didn't get a badge, I don't know if it's going to sell out.
+
+380
+00:31:08,280 --> 00:31:09,297
+Scott: I actually haven't sold out yet.
+
+381
+00:31:10,922 --> 00:31:13,119
+Rym: PAX East is the biggest capacity PAX.
+
+382
+00:31:13,600 --> 00:31:15,159
+Rym: The only limit really is the hotels.
+
+383
+00:31:18,045 --> 00:31:19,640
+Scott: I did acquire the Geek Night stickers.
+
+384
+00:31:19,920 --> 00:31:22,420
+Scott: If you're watching us on YouTube, you might be, you can see one.
+
+385
+00:31:23,042 --> 00:31:25,020
+Scott: It's our logo only shiny on a sticker.
+
+386
+00:31:25,524 --> 00:31:26,520
+Scott: It's kind of actually big.
+
+387
+00:31:26,680 --> 00:31:27,178
+Scott: It's like, you know.
+
+388
+00:31:27,703 --> 00:31:28,019
+Scott: I like it.
+
+389
+00:31:28,421 --> 00:31:29,660
+Rym: So now one last time.
+
+390
+00:31:29,982 --> 00:31:30,659
+Scott: I made a pile of them.
+
+391
+00:31:30,740 --> 00:31:33,439
+Scott: They cost like almost a dollar each maybe.
+
+392
+00:31:34,802 --> 00:31:37,740
+Rym: I mean our business cards cost a dollar each and I feel like it's worth it.
+
+393
+00:31:38,741 --> 00:31:40,354
+Rym: And they're pretty high quality stickers.
+
+394
+00:31:41,486 --> 00:31:42,119
+Scott: They're not chintzy.
+
+395
+00:31:42,400 --> 00:31:47,336
+Rym: Remember that one time when Jason Rohr was giving out just dollar bills with info stamped on them?
+
+396
+00:31:48,302 --> 00:31:48,390
+Scott: Yeah.
+
+397
+00:31:50,361 --> 00:31:52,760
+Rym: But one last time, a warning for all of you out there.
+
+398
+00:31:53,441 --> 00:32:00,100
+Rym: I don't care what you do with the Geek Night sticker if you get a hold of one outside of a convention that we attend.
+
+399
+00:32:00,240 --> 00:32:12,459
+Rym: Do not fucking stick them to anything within the bounds of a convention that we attend because I don't want to have to explain to like PAX why there's a Geek Night sticker on something expensive.
+
+400
+00:32:14,122 --> 00:32:17,460
+Scott: On something that doesn't belong to the person who placed the sticker on it.
+
+401
+00:32:17,680 --> 00:32:23,240
+Rym: And if a sticker causes such a situation, I will try to track you down myself.
+
+402
+00:32:23,481 --> 00:32:26,599
+Rym: Like I'll try, I'll tell them everyone I gave a fucking sticker to.
+
+403
+00:32:27,581 --> 00:32:32,960
+Scott: And then I will punish you with adhesive because that's appropriate to the crime.
+
+404
+00:32:34,822 --> 00:32:38,380
+Rym: We recently in our Blades in the Dark punished someone with an adhesive and it was fantastic.
+
+405
+00:32:40,042 --> 00:32:43,280
+Scott: If you have a lot of hair, you might not enjoy such a punishment.
+
+406
+00:32:46,480 --> 00:32:47,967
+Rym: Alright, so anti-cheat.
+
+407
+00:32:48,028 --> 00:32:49,254
+Rym: because we just talked about how.
+
+408
+00:32:49,354 --> 00:32:54,779
+Rym: one of the reasons why I'm not willing to play Helldivers 2 right now is that there's onerous anti-cheat in a game that doesn't need it.
+
+409
+00:32:54,920 --> 00:32:57,449
+Scott: Yep, we've talked about cheating a lot.
+
+410
+00:32:57,650 --> 00:33:02,039
+Scott: We haven't actually talked about how to cheat or how to get away with cheating, have we?
+
+411
+00:33:03,280 --> 00:33:07,220
+Scott: We've talked about what is cheating and things of that nature.
+
+412
+00:33:08,463 --> 00:33:10,560
+Scott: But yeah, how do you actually prevent cheating?
+
+413
+00:33:10,800 --> 00:33:26,100
+Scott: If you are in charge of making, designing a game, or administering a game, or refereeing a game of some kind, what techniques and methods are effective in preventing cheating?
+
+414
+00:33:26,400 --> 00:33:37,516
+Scott: Because while all of us here won't actually cheat, there are other people in the world who are of ill moral repute and they will cheat.
+
+415
+00:33:37,937 --> 00:33:38,599
+Scott: They will do this.
+
+416
+00:33:39,582 --> 00:33:43,480
+Scott: And if they are playing your game, they are going to cheat at your game.
+
+417
+00:33:43,580 --> 00:33:46,520
+Scott: How can you detect them and stop them?
+
+418
+00:33:46,720 --> 00:33:54,045
+Rym: And I want to point out, it takes the exact same ingenuity to figure out how to catch a cheater as it does to cheat.
+
+419
+00:33:54,406 --> 00:33:59,619
+Rym: So people who are good at one are good at the other whether or not they use that power for good or evil.
+
+420
+00:34:00,400 --> 00:34:17,679
+Scott: Yep, now the very first thing is that regardless of the type of cheating and the type of game and the type of anything, in order to prevent or take any measure to stop cheating, the first thing you must always have is some kind of authority and power.
+
+421
+00:34:18,340 --> 00:34:23,795
+Scott: If you do not have authority and power of some kind within the game's realm, then you are hopeless.
+
+422
+00:34:25,321 --> 00:34:29,274
+Scott: There's nothing that you can do to prevent or stop cheating.
+
+423
+00:34:31,719 --> 00:34:40,620
+Scott: Now that power doesn't necessarily mean that you have to be like the judge at the Magic Tournament who actually has some power to disqualify someone.
+
+424
+00:34:40,659 --> 00:34:43,620
+Rym: But that power exists and is vested somewhere.
+
+425
+00:34:44,560 --> 00:34:44,741
+Scott: Right.
+
+426
+00:34:45,924 --> 00:35:00,859
+Scott: But that power simply might be, you called someone out, you have evidence, and the other people, you know, there are enough other people there who agree that that is not cool and are willing to rationally examine your evidence, etc.
+
+427
+00:35:01,442 --> 00:35:10,480
+Scott: It's like, you know, if you're just at a table with four friends, you're all equals playing the same game, and, you know, you might see that someone's just fucking cheating.
+
+428
+00:35:10,881 --> 00:35:13,720
+Scott: Your fucking uncle, he's just cheating over there, right?
+
+429
+00:35:14,021 --> 00:35:24,506
+Rym: We had this happen, remember that party years ago with a certain group of people, and they were playing one of those poker games where like one of your cards is visible on your forehead, and then we played another game with them.
+
+430
+00:35:24,526 --> 00:35:27,720
+Rym: that was some trivia game, it wasn't Pictionary, it was one of those games.
+
+431
+00:35:28,120 --> 00:35:38,480
+Rym: And in both cases, people in this social group openly cheated, and when Scott and I called them out, they got mad and ended the game in both times at the same party.
+
+432
+00:35:39,642 --> 00:36:01,920
+Scott: Yeah, I don't remember this, but regardless, the point is, if you're at a group, and, you know, let's say you're playing a game with your family and your uncle's cheating, and if you call him out, right, you detected it, you saw it, you maybe even collected evidence, like recorded it on your phone, and such and such, right, you're all on equal footing, the only way that you could actually take action is if the other people at the table give a shit.
+
+433
+00:36:02,481 --> 00:36:15,840
+Scott: If the other people, if your cousins and your mom and your grandpa, if they don't care, then uncle's just gonna get away with cheating, 'cause there's no power involved or authority to do anything about it.
+
+434
+00:36:15,840 --> 00:36:22,178
+Rym: I mean, if I cross-check a dude in ice hockey as hard as I can, and the ref doesn't blow the whistle, I totally got away with it.
+
+435
+00:36:23,040 --> 00:36:26,380
+Scott: Right, and then it would be up to, that's why there's hockey fights, right?
+
+436
+00:36:26,961 --> 00:36:29,300
+Scott: Hockey fights would be the enforcement method.
+
+437
+00:36:29,400 --> 00:36:34,700
+Rym: I mean, family games where someone cheats have definitely historically turned into fights.
+
+438
+00:36:35,820 --> 00:36:47,200
+Scott: Sure enough, right, but the point is, there needs to be some sort of power and authority vested somewhere that you can access to stop the cheating, otherwise nothing else matters.
+
+439
+00:36:47,420 --> 00:36:52,880
+Rym: Or in the very least, to mete out consequences, however small those consequences might be.
+
+440
+00:36:53,140 --> 00:36:57,780
+Scott: It could simply be ending the game, not playing with that person anymore.
+
+441
+00:36:58,041 --> 00:37:03,159
+Scott: You know, correcting the game and fixing the cheat that they did.
+
+442
+00:37:03,980 --> 00:37:07,640
+Scott: Or, who knows, admonishing them and continuing, right?
+
+443
+00:37:08,321 --> 00:37:09,220
+Scott: Something, right?
+
+444
+00:37:10,083 --> 00:37:14,040
+Scott: You can't do any of those things without some amount of power and authority.
+
+445
+00:37:14,320 --> 00:37:23,420
+Rym: I want to start with a historical example that's also a personal anecdote of cheating in this context, because I feel like examples are a good way to explore anti-cheat.
+
+446
+00:37:23,862 --> 00:37:25,128
+Rym: So, the game of Euchre.
+
+447
+00:37:25,832 --> 00:37:27,540
+Rym: We did this in Hearts 2, but we'll just use Euchre.
+
+448
+00:37:27,720 --> 00:37:43,420
+Rym: It's a simple trick-taking game that people in Michigan play and nobody else has either heard of or cares about, and it's not a great game, I'm not getting into that, but in this game, like in many card games, it is very easy for someone who is skilled at sleight of hand to just cheat.
+
+449
+00:37:44,501 --> 00:37:48,880
+Rym: Just like, think about an old-timey Western poker game for high-stakes money.
+
+450
+00:37:49,583 --> 00:37:53,940
+Rym: It is very easy for someone with sleight of hand in poker to cheat in some capacity.
+
+451
+00:37:54,660 --> 00:38:02,134
+Scott: Yeah, all of these, you know, people who are like, you know, magicians who practice sleight of hand and do all kinds of, like, those people could cheat at cards instead.
+
+452
+00:38:02,154 --> 00:38:02,898
+Scott: They don't.
+
+453
+00:38:03,621 --> 00:38:05,639
+Scott: 'Cause magic is a much safer career.
+
+454
+00:38:06,921 --> 00:38:11,080
+Scott: And if they're good at it, they can make plenty of money doing that, and it's more fun, probably.
+
+455
+00:38:11,540 --> 00:38:15,220
+Rym: So, how did old-timey Western poker games prevent cheating?
+
+456
+00:38:16,660 --> 00:38:28,320
+Rym: Yeah, the fact that there really weren't cops or laws for a brief period of time in the Old West, and dipshits with guns would just settle their own problems in horrific ways.
+
+457
+00:38:29,342 --> 00:38:34,600
+Scott: We didn't pull guns out in Michigan, but-- I'm sure people have been shot for cheating who didn't cheat.
+
+458
+00:38:35,000 --> 00:38:35,910
+Rym: Oh, yeah, absolutely.
+
+459
+00:38:36,152 --> 00:38:40,359
+Scott: In fact, I am-- Someone you don't like, just play poker with someone you don't like, accuse them of cheating and shoot 'em.
+
+460
+00:38:41,160 --> 00:38:44,060
+Rym: Yeah, a perfectly valid strategy if you have no morals.
+
+461
+00:38:44,502 --> 00:38:53,340
+Rym: So, talking about Euchre, you know, in a modern setting, as a kid, it's very easy to cheat at a game like Euchre, especially because you'd use half a deck of cards.
+
+462
+00:38:53,380 --> 00:39:01,700
+Rym: Like, it's a small number of cards, you deal five cards to each player, the substance of those cards matter, and you're not allowed to talk to your partner.
+
+463
+00:39:01,780 --> 00:39:04,640
+Rym: So there's lots of mechanisms one could cheat.
+
+464
+00:39:05,280 --> 00:39:12,160
+Rym: So the anti-cheat that has been implemented pretty universally in games like Euchre involved things like cutting the deck.
+
+465
+00:39:13,082 --> 00:39:14,680
+Rym: People don't even do this that much anymore.
+
+466
+00:39:14,880 --> 00:39:20,980
+Rym: I've found very few people at tables actually want to cut a deck the way most card games used to prescribe.
+
+467
+00:39:21,380 --> 00:39:23,180
+Rym: It seems like it's a cultural tradition that's disappearing.
+
+468
+00:39:23,760 --> 00:39:27,439
+Scott: The concept that whoever shuffles-- I always cut the deck when I'm playing real card games.
+
+469
+00:39:27,560 --> 00:39:37,280
+Scott: Oh, yeah, if I'm playing a dame for real, I always want to offer that, but I've found-- When you played Netrunner, you'd shuffle your deck, hand it to the other person, and then they would shuffle it and hand it back, and then you couldn't shuffle it anymore.
+
+470
+00:39:37,983 --> 00:39:41,580
+Rym: So if I was the dealer, I shuffle the deck, and I may have cheated.
+
+471
+00:39:41,840 --> 00:39:45,740
+Rym: I may have lined up the cards in any particular matter I want, because it's really fucking easy to do that.
+
+472
+00:39:46,140 --> 00:40:06,839
+Rym: But then I had to hand the deck to another player who is opposed to me, and they can't fuss with the deck, but they pick a number of arbitrary cards from the top and set them aside, and I have to take the bottom of that and stick it on top and then deal out the cards, thus ensuring that I don't have full agency over the order of those cards in case I happen to have sleight of hand.
+
+473
+00:40:07,500 --> 00:40:20,820
+Rym: Now, of course, I was still able to cheat because there are mechanisms like the false cut or dealing from the bottom that are very hard to detect, and those are really only detectable by everyone is watching the dealer.
+
+474
+00:40:21,280 --> 00:40:31,680
+Rym: That's actually why Euchre requires you to deal 2-3, 2-3, 2-3, because the ritual of that makes it harder to slip a card out from the bottom without someone noticing because so few cards are--.
+
+475
+00:40:31,700 --> 00:40:33,130
+Scott: Well, on the twos, it's really easy.
+
+476
+00:40:33,150 --> 00:40:34,660
+Scott: You just take one for the top and one for the bottom.
+
+477
+00:40:35,021 --> 00:40:37,068
+Rym: Well, usually you go one, two.
+
+478
+00:40:37,490 --> 00:40:50,099
+Rym: The top and bottom simultaneously, I do that in spotted, but if anyone ever did one motion to deal out two cards, I immediately called bullshit and demanded a redeal, as any savvy player would do.
+
+479
+00:40:50,940 --> 00:40:59,040
+Rym: But we had this physical mechanism to prevent the most common form of cheating, and it was pretty effective, but again, it required everything Scott said.
+
+480
+00:40:59,320 --> 00:41:09,460
+Rym: The people at the table had to agree to that and follow it, but the game encoded the rules, the culture encoded the rules, and it was an effective anti-cheat against all but the most extreme magician.
+
+481
+00:41:11,063 --> 00:41:21,320
+Scott: So this type of cheating, right, because there's different-- I think there's really not that actually many categories of cheating, but this category of cheating is basically not following game procedures, right?
+
+482
+00:41:21,480 --> 00:41:35,040
+Scott: Games have procedures that you're supposed to follow that are-- have, you know, based on how well the rules are written, have different degrees of explicitness and ambiguity, and if those procedures aren't followed properly, then that's cheating, right?
+
+483
+00:41:35,100 --> 00:41:38,880
+Rym: Yep, and the rules of a card game, the deck must be shuffled and delivered randomly.
+
+484
+00:41:39,920 --> 00:41:45,920
+Scott: Yep, and so the procedures themselves are often anti-cheat mechanisms, right?
+
+485
+00:41:46,000 --> 00:41:55,580
+Scott: It's like if the procedures are followed, and that actually prevents other problems in the game, you know, it makes it harder to cheat in other ways as long as we do these things.
+
+486
+00:41:55,820 --> 00:41:57,040
+Rym: Case in point, American football.
+
+487
+00:41:57,040 --> 00:42:00,759
+Scott: It's an anti-cheat mechanism, but also not following them is a form of cheating itself.
+
+488
+00:42:01,301 --> 00:42:15,440
+Rym: The fact that in American football, the coin flip, the coin is flipped into the air, but it is not caught, it is left to land on the ground, because a flipped and caught coin is very easy to cheat with, and I actually learned how to do this--.
+
+489
+00:42:15,440 --> 00:42:25,658
+Scott: Also, they use those weird commemorative coins that I believe are 50/50, so-- Never ever-- If you got-- you could get info about the coin in advance, you could predict which side is more likely to land up and--
+
+490
+00:42:26,481 --> 00:42:40,040
+Rym: But never ever trust, for anything serious, a coin flip where the person flipping catches it, because I learned in RIT, and I can do it pretty reliably, you can make a flipped coin that you catch be whatever face you want.
+
+491
+00:42:41,403 --> 00:42:43,859
+Rym: Because they spin at a rate that you can predict.
+
+492
+00:42:47,741 --> 00:42:56,200
+Scott: Anyway, so the way to prevent this kind of cheating, right, is to simply have people pay the fuck attention, right?
+
+493
+00:42:56,820 --> 00:42:59,320
+Scott: That's all you gotta do to prevent this kind of cheating, right?
+
+494
+00:42:59,600 --> 00:43:13,560
+Scott: Obviously you need the authority and whatnot, but it's like, if you just pay attention to the procedures, and actually look closely, and follow them, and don't drift off or whatever, it's like, then cheating will be prevented.
+
+495
+00:43:13,780 --> 00:43:15,279
+Scott: It's really not complicated, right?
+
+496
+00:43:15,480 --> 00:43:23,279
+Rym: It's like-- No one got away with cheating except the pros at our Euchre tables, because everyone was watching the dealer with an eagle eye.
+
+497
+00:43:26,684 --> 00:43:41,340
+Scott: As long as things are done openly, where everyone can see them, and people are paying attention because they care, then it would be pretty difficult for somebody to execute the procedures of the game in a way that's shady, right?
+
+498
+00:43:41,420 --> 00:43:45,395
+Scott: It's like, someone tries to start a game monopoly and deal themselves an extra $500 bill, right?
+
+499
+00:43:47,282 --> 00:43:53,400
+Scott: It's like, if you just look at everyone's money, you'd be like, "Hey, why you got an extra $500 more than everyone else?
+
+500
+00:43:53,460 --> 00:43:54,489
+Scott: You're supposed to start with $1100, not
+
+501
+00:43:54,489 --> 00:43:55,760
+Scott: $1600.".
+
+502
+00:43:55,760 --> 00:43:55,848
+Scott: Yeah.
+
+503
+00:43:56,780 --> 00:43:56,868
+Scott: Yeah.
+
+504
+00:43:57,521 --> 00:43:59,359
+Scott: It's like, it's pretty much that simple.
+
+505
+00:43:59,921 --> 00:44:01,960
+Scott: It's like, just fucking count.
+
+506
+00:44:03,420 --> 00:44:11,640
+Rym: But then there's the really thorny space that especially applies to video games of, how did you frame it, modifying the equipment in some way.
+
+507
+00:44:11,701 --> 00:44:13,880
+Scott: Right, so this is the hardest kind of cheating.
+
+508
+00:44:14,020 --> 00:44:23,440
+Scott: It's like, games, especially sports, and also esports included, are games that involve specialized equipment, right?
+
+509
+00:44:23,720 --> 00:44:29,260
+Scott: I think you'd also, even if you think about anything that's a sport, whether it's baseball, corked bats, right?
+
+510
+00:44:30,761 --> 00:44:33,800
+Scott: Running, which is drugged up human bodies, right?
+
+511
+00:44:34,100 --> 00:44:36,100
+Scott: The equipment is your body, which has been modified.
+
+512
+00:44:36,680 --> 00:44:40,758
+Scott: Jenga, someone shaves some of the Jenga tiles like this, logs, right?
+
+513
+00:44:41,744 --> 00:44:46,259
+Rym: Ice hockey, someone's got to stick with a little too much curve or a goalie pad that's a little too big.
+
+514
+00:44:46,841 --> 00:44:50,120
+Scott: Playing cards, someone marks them or clips them, right?
+
+515
+00:44:50,620 --> 00:44:54,620
+Rym: Counter-Strike, you've got an aimbot running on your computer next to Counter-Strike.
+
+516
+00:44:54,620 --> 00:44:57,000
+Scott: Right, the software is part of the equipment, right?
+
+517
+00:44:58,263 --> 00:45:00,498
+Scott: You've got a robot that moves the mouse for you.
+
+518
+00:45:02,481 --> 00:45:11,140
+Scott: There's equipment and materials involved in games, and if those materials aren't according to a particular spec, then that's cheating.
+
+519
+00:45:11,943 --> 00:45:22,940
+Scott: The worst case would be something like Formula One, where it's like the car must comply with these exact measurements, weights, et cetera, materials, you know, costs and shapes and all kinds of rules.
+
+520
+00:45:23,762 --> 00:45:30,515
+Scott: And the way you stop this kind of cheating is also pretty simple, which is inspect the equipment closely, right?
+
+521
+00:45:32,380 --> 00:45:40,720
+Scott: The difficulty, of course, is that sometimes you can't really inspect the equipment or be a super-certain, and this is where you get the performance-enhancing drugs, right?
+
+522
+00:45:40,780 --> 00:45:43,796
+Scott: It's like you can't always be 100% sure.
+
+523
+00:45:44,620 --> 00:45:50,377
+Scott: We have tests, we drug-tested someone, they got caught, and then they say, "Oh, no, my...".
+
+524
+00:45:51,021 --> 00:45:53,838
+Scott: The reason a Russian figure skater, her excuse was that...
+
+525
+00:45:54,100 --> 00:45:55,220
+Rym: What, the strawberry or something?
+
+526
+00:45:55,660 --> 00:46:13,500
+Scott: Yeah, so the excuse, if you haven't heard the excuse of the Russian figure skater, is that her grandpa would make this strawberry dessert, like family meal thing, and grandpa smashed his pills on a cutting board and then made the strawberry dessert on the cutting board later.
+
+527
+00:46:14,300 --> 00:46:19,520
+Scott: And so somehow some minuscule amount of whatever got into the strawberry.
+
+528
+00:46:19,780 --> 00:46:23,920
+Rym: I was walking down the street and I just fell on a needle filled with steroids.
+
+529
+00:46:24,500 --> 00:46:29,638
+Scott: And that was somehow enough for the drug test to come up positive, whatever minuscule amount that might have been.
+
+530
+00:46:31,425 --> 00:46:33,060
+Scott: It's like, yeah, obviously that's bullshit.
+
+531
+00:46:35,286 --> 00:46:39,440
+Scott: But even at the same time, something like that could happen.
+
+532
+00:46:40,523 --> 00:46:57,144
+Scott: If I was in the Olympic Village and I know that I'm the second-fastest runner and I'm chilling out with the first-fastest runner and he leaves his smoothie on the table and I sprinkle some drug, some performance-enhancing drug powder in his smoothie, I'm chilling
+
+533
+00:46:57,305 --> 00:47:05,420
+Rym: out in the Overwatch Village before a tournament and I see that one of my opponents has left their computer unlocked.
+
+534
+00:47:05,500 --> 00:47:08,598
+Rym: I go install some cheating software on it.
+
+535
+00:47:09,400 --> 00:47:10,247
+Scott: Right now that is cheating.
+
+536
+00:47:10,650 --> 00:47:11,860
+Scott: You're the one who's cheating, not them.
+
+537
+00:47:12,384 --> 00:47:13,600
+Scott: And they're the one who gets caught for cheating.
+
+538
+00:47:13,640 --> 00:47:16,960
+Rym: I mean, if you spike someone else's drink with steroids, you're cheating.
+
+539
+00:47:17,502 --> 00:47:18,420
+Scott: Well, that's also a crime.
+
+540
+00:47:19,871 --> 00:47:32,900
+Rym: But this comes down to the onerousness of imposing these checks and rules coupled with the possibility of consequences and coupled with the stakes involved.
+
+541
+00:47:33,300 --> 00:47:50,200
+Rym: So Counter-Strike or a video game like Helldiver, all these video game situations, anti-cheat software has to walk a fine line between preventing someone from using software they shouldn't to get an unfair advantage in the game and breaking your computer or spying on you or basically itself being malware.
+
+542
+00:47:51,280 --> 00:47:55,780
+Scott: Right, you have to look at how serious is the game that we're playing, right?
+
+543
+00:47:55,920 --> 00:47:57,086
+Scott: Is this the World Series?
+
+544
+00:47:57,127 --> 00:48:01,160
+Scott: Yeah, we're fucking x-raying every goddamn baseball bat that enters this building, right?
+
+545
+00:48:02,142 --> 00:48:05,860
+Rym: I'd let him use the cork bats, though, because the cork bats every study shows aren't better.
+
+546
+00:48:06,242 --> 00:48:07,339
+Rym: In fact, they're probably worse.
+
+547
+00:48:08,081 --> 00:48:11,020
+Scott: I'm just saying it's against the rules whether it's better or not, right?
+
+548
+00:48:11,080 --> 00:48:14,920
+Scott: So therefore, you're cheating if you try it, regardless of whether it's actually going to help you.
+
+549
+00:48:15,185 --> 00:48:15,879
+Scott: It's against the rules.
+
+550
+00:48:16,461 --> 00:48:17,199
+Scott: You know, it's the Olympics.
+
+551
+00:48:17,422 --> 00:48:22,380
+Scott: Yeah, everyone's going to live in this village where everything is closely guarded and you can't sneak anything in, hopefully, right?
+
+552
+00:48:22,461 --> 00:48:23,296
+Scott: Even though you probably can't.
+
+553
+00:48:24,402 --> 00:48:26,760
+Scott: Is it Poker Night at Rym's house?
+
+554
+00:48:27,040 --> 00:48:27,698
+Scott: Yeah, guess what?
+
+555
+00:48:28,503 --> 00:48:30,359
+Scott: If you use marked cards, you'll probably get away with it.
+
+556
+00:48:31,021 --> 00:48:33,240
+Scott: Because nobody's looking that close.
+
+557
+00:48:33,640 --> 00:48:34,826
+Rym: The $12 you make is not worth anyone's time.
+
+558
+00:48:38,304 --> 00:48:39,240
+Scott: Is it a poker tournament?
+
+559
+00:48:39,320 --> 00:48:49,979
+Scott: Yeah, those decks are all coming from a vault where they've been all checked and printed especially, and no one's ever seen them before, and we're going to change the deck every game.
+
+560
+00:48:50,761 --> 00:48:53,520
+Rym: In that case, cheating usually would come down to corruption.
+
+561
+00:48:55,027 --> 00:48:55,380
+Scott: Indeed.
+
+562
+00:48:55,840 --> 00:49:00,759
+Rym: But corruption is really just an evolved form of violating the procedures of the game.
+
+563
+00:49:01,921 --> 00:49:07,800
+Rym: Like, the referee is supposed to call X and you bribe them to not notice X at a very particular moment.
+
+564
+00:49:08,362 --> 00:49:20,960
+Scott: The difference between corruption and simply procedures not being followed properly is that in corruption, this is where the people who have the power and authority to stop the cheating are in fact part of the cheating.
+
+565
+00:49:21,200 --> 00:49:22,280
+Scott: And that's what's different, right?
+
+566
+00:49:22,721 --> 00:49:29,880
+Scott: If the hockey ref wants your team to win and he just calls them bullshit penalties a couple times, right?
+
+567
+00:49:30,682 --> 00:49:35,860
+Scott: It's like, you know, yes, they're not following the correct procedure.
+
+568
+00:49:35,940 --> 00:49:39,200
+Scott: They called a penalty inappropriately when no penalty was warranted.
+
+569
+00:49:39,801 --> 00:49:47,120
+Scott: So that is true, but the authority to do anything about it is vested in the cheating party.
+
+570
+00:49:47,444 --> 00:49:47,516
+Scott: Yup.
+
+571
+00:49:48,181 --> 00:49:49,659
+Scott: So what the fuck are you going to do about that?
+
+572
+00:49:49,840 --> 00:49:53,159
+Rym: That's why the Black Sox are known as the Black Sox to this day.
+
+573
+00:49:54,020 --> 00:49:54,377
+Scott: That's right.
+
+574
+00:49:55,341 --> 00:49:57,393
+Scott: But that was actually, the refs weren't in on that.
+
+575
+00:49:58,620 --> 00:49:59,480
+Scott: The umps weren't in on that.
+
+576
+00:49:59,520 --> 00:50:03,299
+Scott: That was the players were losing on purpose and betting on themselves to lose.
+
+577
+00:50:04,525 --> 00:50:11,499
+Rym: Well then it's the question of, are you cheating at game A or is game A's cheating just a part of a larger cheating of game B?
+
+578
+00:50:11,780 --> 00:50:13,339
+Rym: Game B being society in some way.
+
+579
+00:50:14,740 --> 00:50:27,119
+Rym: But for what we just said before, the analogy of corruption in a video game would be what if the anti-cheat in Overwatch had a "if Rym is playing, do not enforce" because Rym is part of the fix.
+
+580
+00:50:28,420 --> 00:50:31,720
+Scott: Yeah, Rym works at the game company and he puts in code to help him.
+
+581
+00:50:31,861 --> 00:50:33,190
+Scott: This has happened before.
+
+582
+00:50:33,371 --> 00:50:34,580
+Scott: I can't remember the exact instance.
+
+583
+00:50:35,481 --> 00:50:44,480
+Scott: But it has happened before where people who worked at game companies gave themselves boosts in the games for their own favor.
+
+584
+00:50:45,140 --> 00:50:53,500
+Rym: Now one interesting sort of side specific to video games is I think there's the situation where the game has high stakes and matters.
+
+585
+00:50:53,760 --> 00:50:59,060
+Rym: Like the professional championship of a game where that requires this high degree of anti-cheat.
+
+586
+00:50:59,702 --> 00:51:06,160
+Rym: But there's also a separate factor of a game that people can just play, the masses can play, like Counter-Strike.
+
+587
+00:51:07,241 --> 00:51:28,903
+Rym: In the era when Counter-Strike became popular, but before there was effective anti-cheat mechanisms the presence of cheating, it wasn't high stakes, the stakes of Counter-Strike are basically negative just playing it against randos, but it literally ruined the game and made it unplayable at all if anyone cheated.
+
+588
+00:51:30,187 --> 00:51:34,820
+Rym: In which case, anti-cheat is required for the game to exist in the first place.
+
+589
+00:51:35,600 --> 00:51:42,479
+Rym: And because people wanted to play Counter-Strike, that's kind of why people were willing to put up with Punkbuster and VAC in those early days.
+
+590
+00:51:43,440 --> 00:51:44,042
+Scott: That's correct.
+
+591
+00:51:45,749 --> 00:51:53,580
+Scott: So the last category of cheating that I can think of at least is basically there's an illegal game state that is created.
+
+592
+00:51:53,660 --> 00:52:04,037
+Scott: Now you can sort of say that maybe procedures weren't followed correctly, but it could just be like "Hey, somebody did something they're not allowed to
+
+593
+00:52:04,077 --> 00:52:04,218
+Scott: do.".
+
+594
+00:52:05,663 --> 00:52:21,138
+Scott: Maybe you're playing a collectible card game and there's a card that says "You can only have two greens" and someone puts out three greens and forgets that there's a rule for two greens and no one catches it.
+
+595
+00:52:22,162 --> 00:52:24,170
+Scott: And it's like, they might have done that on purpose.
+
+596
+00:52:24,913 --> 00:52:26,460
+Scott: Just slipped a third green out there.
+
+597
+00:52:27,581 --> 00:52:32,440
+Scott: I guess that technically, it's a matter of semantics, was that not following a procedure correctly.
+
+598
+00:52:33,061 --> 00:52:40,820
+Scott: But it's sort of different from not following a procedure correctly in that it's not just like you didn't shuffle the cards or you didn't cut them.
+
+599
+00:52:40,920 --> 00:52:46,158
+Scott: It's like the game is actually in a state in which the rules are broken.
+
+600
+00:52:48,860 --> 00:52:52,499
+Rym: Two pucks appear on the ice and we're not sure which one was the official puck.
+
+601
+00:52:53,440 --> 00:52:53,541
+Scott: Right.
+
+602
+00:52:53,561 --> 00:52:56,117
+Scott: They have a rule, which is you blow the whistle, you stop play, etc.
+
+603
+00:52:57,040 --> 00:53:00,000
+Scott: of what to do in that situation so it doesn't completely break the game.
+
+604
+00:53:00,581 --> 00:53:04,420
+Scott: But it's like you still had, for a time, an illegal game state.
+
+605
+00:53:04,480 --> 00:53:09,520
+Rym: And this is where you need a mechanism to detect, prevent, and mitigate those situations.
+
+606
+00:53:09,982 --> 00:53:24,640
+Rym: And I think you need a separate mechanism on at what point do you determine intentionality and/or apply consequences beyond the consequences of making the game into a good state or ending the game because it's permanently ruined.
+
+607
+00:53:26,220 --> 00:53:28,739
+Rym: Hockey, like a good example, just to keep bringing hockey analogies.
+
+608
+00:53:30,101 --> 00:53:36,740
+Rym: Delay of game, if you're in your zone and you shoot the puck just out of the arena, like off into the crowd, that's a delay of game penalty.
+
+609
+00:53:37,181 --> 00:53:39,200
+Rym: It doesn't matter if you did it on purpose or not.
+
+610
+00:53:39,300 --> 00:53:51,315
+Rym: The fact that it happened is a penalty that interacts with the game because otherwise people would very clearly, "Oops, I accidentally knocked it out of play in spicy
+
+611
+00:53:51,355 --> 00:53:52,018
+Rym: situations.".
+
+612
+00:53:52,500 --> 00:53:55,356
+Rym: "Oops, I accidentally had four Sol Rings in my magic
+
+613
+00:53:55,397 --> 00:53:55,618
+Rym: deck.".
+
+614
+00:53:56,060 --> 00:54:01,518
+Rym: "I guess my dad left them on the cutting board and I must have accidentally shuffled them in right before the
+
+615
+00:54:01,538 --> 00:54:01,919
+Rym: tournament.".
+
+616
+00:54:02,981 --> 00:54:03,064
+Scott: Yep.
+
+617
+00:54:05,781 --> 00:54:10,014
+Scott: So yeah, to prevent illegal game states, the best thing you can do is to have a video game, right?
+
+618
+00:54:12,541 --> 00:54:19,680
+Scott: Or some other sort of system that monitors the game state and that system is not corrupted.
+
+619
+00:54:20,821 --> 00:54:26,940
+Scott: And it monitors the game state and notifies or does something when the game state is no good, right?
+
+620
+00:54:27,040 --> 00:54:36,216
+Scott: So if you have a video game and there's a PVP video game and there's a server and the server obviously doesn't have cheat installed on it because it's at the game company's data
+
+621
+00:54:36,236 --> 00:54:36,437
+Rym: center,
+
+622
+00:54:38,981 --> 00:54:51,380
+Scott: it can detect, hopefully, it might not be able to detect if someone's cheating, depending on the type of cheating, but it can detect like, "Hey, so-and-so has more ammo than that gun can possibly hold," right?
+
+623
+00:54:51,861 --> 00:54:55,899
+Scott: "Hey, so-and-so has a thousand health in a game where max health is a
+
+624
+00:54:55,959 --> 00:54:56,180
+Scott: hundred.".
+
+625
+00:54:56,260 --> 00:55:00,916
+Rym: A really common one in the Quake days was, "So-and-so's character reached a speed that should be
+
+626
+00:55:00,956 --> 00:55:01,498
+Rym: impossible.".
+
+627
+00:55:02,242 --> 00:55:02,805
+Scott: Exactly.
+
+628
+00:55:03,892 --> 00:55:05,260
+Scott: Those sorts of things can be detected.
+
+629
+00:55:05,400 --> 00:55:11,800
+Scott: In the real world, then all you can do is just, like I said, for the procedures is vigilance, right?
+
+630
+00:55:12,140 --> 00:55:21,660
+Scott: You have to be paying attention, carefully checking the game state against the legal game state to see if anything bad has happened.
+
+631
+00:55:21,880 --> 00:55:42,010
+Scott: And depending on the design of the game, there could be situations where if the game is poorly written or poorly designed or has a flaw that no one recognized because even the best games aren't perfect, where you could follow all the procedures correctly and one rule could conflict another rule and following correct procedures puts the game in a state.
+
+632
+00:55:42,311 --> 00:55:45,220
+Scott: that breaks another rule about what's a legal state.
+
+633
+00:55:47,101 --> 00:56:06,700
+Rym: God, now I think back to, I don't know if it was a bad state or we just were unwilling to interrogate the rules to a conclusion, but I remember the one time since college that we played Diplomacy and we ended the game partly because a series of conflicts formed a perfect loop around the game board.
+
+634
+00:56:06,920 --> 00:56:07,912
+Scott: I think there's an answer for that.
+
+635
+00:56:07,932 --> 00:56:08,498
+Scott: we just didn't know.
+
+636
+00:56:08,660 --> 00:56:10,079
+Rym: I think there is, but we couldn't figure it out.
+
+637
+00:56:11,901 --> 00:56:12,204
+Scott: No.
+
+638
+00:56:12,547 --> 00:56:13,960
+Scott: I'm sure the internet has the answer somewhere.
+
+639
+00:56:14,961 --> 00:56:16,880
+Scott: Diplomacy is a well-trod ground.
+
+640
+00:56:17,140 --> 00:56:34,159
+Rym: At least in tabletop games, what that really comes down to is a well-designed game provides enough avenues and information about transactions and state changes in the game to ensure that players who are paying attention can notice if something has happened that shouldn't have happened.
+
+641
+00:56:34,960 --> 00:56:47,660
+Rym: Badly designed games will often leave opportunities where someone will not cheat on purpose, but someone who's not paying attention will just collect way too many victory points or pick up too many cards or have too many cards in their hand and no one notices.
+
+642
+00:56:48,541 --> 00:56:53,540
+Rym: I think that's just good game design to avoid those kinds of ambiguous possibilities.
+
+643
+00:56:55,241 --> 00:57:10,886
+Scott: I guess the final thing you can do in your actual life, most people listening are probably not game adjudicators, game designers maybe, is the thing that you could do in your actual life of game and sport playing to prevent cheating.
+
+644
+00:57:10,926 --> 00:57:15,840
+Scott: the most is to simply refuse to play with a cheating person.
+
+645
+00:57:17,141 --> 00:57:28,080
+Scott: If cheating people, if peoples don't play games with them, then that helps quelch the overall cheating that goes on in the world.
+
+646
+00:57:28,882 --> 00:57:37,780
+Rym: This is why I'm totally okay with online ortho games, the aggressive perma-banning of people who cheat, I am 100% there for that, I wish they could be more aggressive.
+
+647
+00:57:38,600 --> 00:57:47,639
+Scott: Yeah, it's like if your uncle is cheating and you don't have the authority and you can't stop him and no one cares, just stop playing, you don't have to play.
+
+648
+00:57:48,060 --> 00:57:54,940
+Rym: And every Christmas when the family asks you to play Monopoly with the cheating uncle, just say no and remind everyone that he's a piece of shit.
+
+649
+00:57:55,523 --> 00:57:56,066
+Scott: Yeah, just like.
+
+650
+00:57:56,147 --> 00:58:00,952
+Scott: no, you guys cheat, I don't want to play with the cheating way, and you guys don't seem to care about the cheating.
+
+651
+00:58:00,972 --> 00:58:05,420
+Scott: so you go play your cheating game and I'll stay over here with the pet and the dog, I don't know, right?
+
+652
+00:58:10,292 --> 00:58:12,550
+Rym: This has been GeekNights with Rym and Scott.
+
+653
+00:58:12,770 --> 00:58:15,210
+Rym: Special thanks to DJ Pretzel for the opening theme.
+
+654
+00:58:15,430 --> 00:58:21,430
+Scott: Be sure to visit our website at FrontRowClue.com for show notes, discussion, links and more.
+
+655
+00:58:21,930 --> 00:58:24,570
+Rym: Remember, GeekNights is not one but four different shows.
+
+656
+00:58:24,910 --> 00:58:26,450
+Rym: Mondays are science and technology.
+
+657
+00:58:26,610 --> 00:58:28,309
+Rym: Tuesdays, gaming and games.
+
+658
+00:58:28,471 --> 00:58:30,250
+Rym: Wednesdays are animation and comics.
+
+659
+00:58:30,690 --> 00:58:33,110
+Rym: Thursdays are arbitrary and indiscriminate.
+
+660
+00:58:33,910 --> 00:58:38,630
+Rym: GeekNights is distributed under a Creative Commons Attribution 4.0 International License.
+
+661
+00:58:39,150 --> 00:58:43,430
+Scott: GeekNights is recorded live with no studio and no audience.
+
+662
+00:58:43,950 --> 00:58:47,410
+Scott: But unlike those other late shows, it's actually recorded at night.
+
+663
+00:58:47,851 --> 00:59:05,930
+Rym: And the Patreon patrons for this episode of GeekNights are Alan Joyce, Link Iggi, Dread Lily, Tenebrae, Case, Care, Makes Music, Chris, Hadad, Christopher, Ore, Clinton, Walton, Finn, Joel Hayes, Penny Reimer, Rebecca Dunn, Sam Erickson, Shervin Von Hurl, and a bunch of people who are below that sweet five USD per month threshold.
+
+664
+00:59:06,470 --> 00:59:12,870
+Rym: I leave you tonight, short and sweet, with something that you really should have seen coming if you actually listened to the episode.
+
+665
+00:59:13,910 --> 00:59:15,190
+Scott: Greetings to whoever.
+
+666
+00:59:15,290 --> 00:59:18,650
+Scott: for some reason you so choose.
+

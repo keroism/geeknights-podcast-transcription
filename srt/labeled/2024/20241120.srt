@@ -1,0 +1,2200 @@
+1
+00:00:08,460 --> 00:00:11,901
+Rym: It's Wednesday, November 20th, 2024.
+
+2
+00:00:11,901 --> 00:00:14,930
+Rym: I'm Rym, and I'm Scott, and this is GeekNights.
+
+3
+00:00:15,190 --> 00:00:18,083
+Rym: Tonight we are talking about the Ranma ½ remake.
+
+4
+00:00:18,645 --> 00:00:19,650
+Scott: Let's do this.
+
+5
+00:00:20,390 --> 00:00:22,795
+Rym: So yeah, we had a long hiatus.
+
+6
+00:00:23,056 --> 00:00:35,029
+Rym: that was mostly due to, not due to the existential dread of the takeover of the US government by fascists, but actually just that I was overseas for two weeks, and then Scott went to a concert when I came back.
+
+7
+00:00:35,471 --> 00:00:40,110
+Rym: So we ended up having the longest hiatus we've had in a while, but we're back.
+
+8
+00:00:40,610 --> 00:00:44,710
+Scott: I mean, while you were gone, I went to like two, three, two concerts and a Broadway show.
+
+9
+00:00:47,132 --> 00:00:48,610
+Rym: We've actually been going to a lot of shows lately, too.
+
+10
+00:00:48,610 --> 00:00:49,248
+Scott: Went all around.
+
+11
+00:00:50,310 --> 00:00:54,860
+Rym: I've been to Dizzy's Club twice because it's rotating acts.
+
+12
+00:00:54,880 --> 00:00:59,290
+Rym: You can go to the same venue and just see a different band almost every night if you really wanted to.
+
+13
+00:00:59,410 --> 00:01:01,050
+Scott: I mean, that's true for most venues.
+
+14
+00:01:01,090 --> 00:01:01,196
+Scott: It is.
+
+15
+00:01:02,411 --> 00:01:09,350
+Scott: If you have a venue, you tend to want to have someone booked there most nights, and you don't really want to have the same person there that many times in a row.
+
+16
+00:01:09,930 --> 00:01:10,588
+Scott: He won't sell out.
+
+17
+00:01:10,930 --> 00:01:23,689
+Rym: Yeah, but that's the kind of place, like I've been there enough to where of all the times I've thought about having a season like Lincoln Center like subscription, that's actually the place I might do it if I ever do that.
+
+18
+00:01:23,950 --> 00:01:26,510
+Scott: I would buy, so the Lincoln Center operas membership?
+
+19
+00:01:26,650 --> 00:01:32,370
+Rym: If I didn't have to work, I'd have season Rangers tickets, season everything at Lincoln Center.
+
+20
+00:01:33,011 --> 00:01:36,950
+Scott: So season Rangers tickets for sporting events, right?
+
+21
+00:01:37,430 --> 00:01:41,710
+Scott: You get tickets to all the games for any sport usually.
+
+22
+00:01:42,130 --> 00:01:45,728
+Scott: The opera membership, a Met Opera membership, you know what it gets you?
+
+23
+00:01:47,278 --> 00:01:47,890
+Scott: Fuck all.
+
+24
+00:01:48,393 --> 00:01:49,090
+Scott: It gets you nothing.
+
+25
+00:01:49,611 --> 00:02:02,230
+Scott: It gets you like, oh, you can go in the little club before the opera or you can, we'll put your name somewhere in the book and we'll do, you have to actually still buy tickets to the fucking operas.
+
+26
+00:02:02,710 --> 00:02:03,909
+Scott: They don't give you tickets to that.
+
+27
+00:02:04,070 --> 00:02:06,500
+Scott: They'll maybe let you go to like a rehearsal or something or like.
+
+28
+00:02:06,520 --> 00:02:09,009
+Scott: give you the opportunity to buy tickets to a rehearsal, right?
+
+29
+00:02:09,251 --> 00:02:09,870
+Scott: You don't get tickets.
+
+30
+00:02:09,870 --> 00:02:14,990
+Scott: There's no thing where it's like buy a membership and get tickets to every opera.
+
+31
+00:02:15,050 --> 00:02:15,709
+Scott: They don't do that.
+
+32
+00:02:15,811 --> 00:02:16,510
+Scott: That's not a thing.
+
+33
+00:02:16,570 --> 00:02:23,130
+Rym: I always assumed that that was a good thing, but now I have to learn that it's just the same as an air miles program where you just trick a rich person.
+
+34
+00:02:23,350 --> 00:02:24,990
+Scott: No, it's not even an air miles program.
+
+35
+00:02:25,110 --> 00:02:34,970
+Scott: It's literally like you just donate thousands of dollars and they give you just like a bunch of ancillary benefits to thank you and you don't get fuck all in terms, you don't get like tickets to one fucking opera.
+
+36
+00:02:35,190 --> 00:02:43,610
+Rym: Well, I mean, in the sense that because, uh, because I travel a lot for work, I guess I'm a platinum delta and I'm going to be diamond soon, like before the end of the year.
+
+37
+00:02:44,351 --> 00:02:58,990
+Rym: And we keep getting these increasing barrage of weird rich person perks that aren't actually useful or valuable or meaningful in any way, but sound really nice to someone who is rich and dumb and also won't actually use them.
+
+38
+00:02:59,870 --> 00:02:59,992
+Scott: Yeah.
+
+39
+00:03:00,012 --> 00:03:01,309
+Scott: Oh, Carnegie Hall, similar deal.
+
+40
+00:03:01,691 --> 00:03:02,910
+Scott: You get a Carnegie Hall membership.
+
+41
+00:03:03,030 --> 00:03:10,330
+Scott: I don't think it gets you tickets to fucking anything as far as I can tell from the time that they called me and tried to ask me for thousands of dollars.
+
+42
+00:03:10,330 --> 00:03:11,534
+Scott: And it was like, oh, okay.
+
+43
+00:03:11,554 --> 00:03:16,530
+Scott: I'm like, does that mean I get to go to like, like, no, like, what are you insane?
+
+44
+00:03:17,951 --> 00:03:23,270
+Scott: You know, many hockey games I can go to instead of instead of spending that money on literally nothing.
+
+45
+00:03:23,851 --> 00:03:29,550
+Rym: And a hockey game is a comparable amount of entertainment if it's a good hockey game to an average opera.
+
+46
+00:03:30,476 --> 00:03:31,028
+Scott: I'm just saying.
+
+47
+00:03:33,232 --> 00:03:37,630
+Rym: But yes, I was in London doing something really annoying and dealing with an audit.
+
+48
+00:03:38,030 --> 00:03:42,730
+Rym: So it was a literally like nightmare time, like heavy work stuff.
+
+49
+00:03:42,890 --> 00:03:48,870
+Rym: But then I was in Singapore for a week and all of this was not nightmare time if you don't care about the results of the audit.
+
+50
+00:03:49,130 --> 00:03:49,371
+Rym: Yeah.
+
+51
+00:03:49,772 --> 00:03:59,069
+Rym: You know, honestly, the only hard part about this, which leads into the news we have to at least talk about is that, you know, I was there during the failed U.S.
+
+52
+00:03:59,109 --> 00:03:59,470
+Rym: election.
+
+53
+00:04:00,352 --> 00:04:09,910
+Rym: And I basically had to act like everything was fine and normal and not react to this in these meetings with all these very important auditors who are not American.
+
+54
+00:04:11,350 --> 00:04:15,890
+Rym: But then outside of those meetings, when we could talk like humans.
+
+55
+00:04:17,050 --> 00:04:24,730
+Rym: Yeah, the Europeans understand what a catastrophe this is, as do all the people I interacted with in Singapore along the way.
+
+56
+00:04:25,411 --> 00:04:35,770
+Rym: And the running sentiment in Asia, at least like in the APEC region, because I was at this conference with people from all over the region, was basically and I'm going to paraphrase a guy I talked to.
+
+57
+00:04:36,591 --> 00:04:40,809
+Rym: Do the Americans not realize that this is a coup, that this is what they're like?
+
+58
+00:04:41,350 --> 00:04:42,376
+Rym: That they just not know?
+
+59
+00:04:42,396 --> 00:04:43,723
+Rym: Are they all dumb?
+
+60
+00:04:44,145 --> 00:04:45,070
+Rym: Like, what are you doing?
+
+61
+00:04:45,591 --> 00:04:47,294
+Rym: Yes.
+
+62
+00:04:48,557 --> 00:04:49,699
+Scott: They're not paying attention.
+
+63
+00:04:49,819 --> 00:04:50,681
+Scott: They're not caring.
+
+64
+00:04:50,701 --> 00:04:53,185
+Scott: They're, you know, they're fooled.
+
+65
+00:04:53,746 --> 00:04:55,710
+Scott: They, you know, self-interested.
+
+66
+00:04:57,051 --> 00:05:03,110
+Scott: Not, you know, many, many different reasons that lead someone down the road of not voting or voting incorrectly.
+
+67
+00:05:03,170 --> 00:05:03,350
+Scott: Yep.
+
+68
+00:05:03,571 --> 00:05:18,290
+Rym: Which leads to, I've been thinking a lot about terminology in terms of the way I might use, say, the word stupid compared to the words unintelligent or ignorant in that stupidity I don't think is an attribute of a person.
+
+69
+00:05:18,450 --> 00:05:19,514
+Rym: A person is not stupid.
+
+70
+00:05:19,795 --> 00:05:23,168
+Rym: However, a person's behaviors may be stupid.
+
+71
+00:05:24,351 --> 00:05:35,890
+Rym: So this is definitely an election where the stupids, now that we have the data on how it went down in America, people who make poor decisions willfully and obstinately, despite evidence to the contrary.
+
+72
+00:05:37,290 --> 00:05:39,213
+Rym: I'm not getting a whole semantic debate about this.
+
+73
+00:05:39,875 --> 00:05:48,910
+Rym: Independent of level of intelligence and level of knowledge, a lot of Americans came out who haven't really voted recently and made a very stupid decision.
+
+74
+00:05:49,631 --> 00:05:53,361
+Rym: And didn't understand that it's going to fuck them over just as much as it fucks us over.
+
+75
+00:05:53,381 --> 00:05:56,770
+Rym: And they're going to go back into the woodwork and probably not even vote in the midterms.
+
+76
+00:05:57,951 --> 00:05:59,100
+Scott: Well, we'll see.
+
+77
+00:05:59,120 --> 00:05:59,886
+Scott: Yeah, midterms.
+
+78
+00:05:59,906 --> 00:06:00,370
+Scott: Yeah, of course.
+
+79
+00:06:02,210 --> 00:06:04,855
+Rym: But this is a catastrophe.
+
+80
+00:06:05,015 --> 00:06:13,330
+Rym: Like, but at the same time, it's hard to give a lot of advice because we don't really know how the next several years are going to go.
+
+81
+00:06:13,590 --> 00:06:19,004
+Rym: But you got to keep living and you can't let them steal joy and fun from you.
+
+82
+00:06:19,204 --> 00:06:21,650
+Rym: Like, we got to keep podcasting, keep doing your stuff.
+
+83
+00:06:21,810 --> 00:06:24,876
+Rym: Don't let them take away the good parts of life just because they fucked over the government.
+
+84
+00:06:25,357 --> 00:06:32,470
+Rym: But at the same time, you're going to have to recognize that you will not be able to trust the United States government for at least the next four years.
+
+85
+00:06:32,951 --> 00:06:36,610
+Rym: And interacting with it may become increasingly dangerous or at least risky.
+
+86
+00:06:37,750 --> 00:06:38,451
+Scott: No, it depends.
+
+87
+00:06:40,815 --> 00:06:45,301
+Scott: Well, you do not pay taxes, are you going to like?
+
+88
+00:06:45,321 --> 00:06:46,243
+Rym: you got to do the bare minimum.
+
+89
+00:06:46,263 --> 00:06:47,184
+Rym: You got a robot through.
+
+90
+00:06:47,264 --> 00:06:51,290
+Rym: But like, don't assume that federal jobs will continue to exist.
+
+91
+00:06:51,550 --> 00:06:55,621
+Rym: Like don't assume like snap and a lot of welfare stuff is probably just going to disappear.
+
+92
+00:06:55,661 --> 00:06:58,950
+Rym: A lot of regulations are probably going to stop being enforced.
+
+93
+00:07:00,630 --> 00:07:01,451
+Scott: We'll see what happens.
+
+94
+00:07:02,292 --> 00:07:03,674
+Scott: But you got to choose.
+
+95
+00:07:03,694 --> 00:07:05,897
+Scott: You know, no one has enough energy to fight every battle.
+
+96
+00:07:05,937 --> 00:07:08,260
+Scott: You got to choose your one area.
+
+97
+00:07:08,280 --> 00:07:09,101
+Scott: Right.
+
+98
+00:07:09,161 --> 00:07:10,963
+Scott: You got and focus on that.
+
+99
+00:07:11,023 --> 00:07:12,185
+Scott: The thing that matters to you.
+
+100
+00:07:12,245 --> 00:07:16,050
+Scott: The thing where you can be most helpful to the extent that you are able.
+
+101
+00:07:16,951 --> 00:07:19,776
+Scott: You know, do you know, it's like you're fighting.
+
+102
+00:07:19,816 --> 00:07:20,998
+Scott: It'll still be meaningful, right?
+
+103
+00:07:21,058 --> 00:07:25,185
+Scott: If you look at history, it's like, you know, I'm not saying it's going to be easy.
+
+104
+00:07:25,305 --> 00:07:28,310
+Scott: It's going to be the opposite of easy, extremely the opposite of easy.
+
+105
+00:07:28,790 --> 00:07:28,911
+Scott: Right.
+
+106
+00:07:29,311 --> 00:07:34,399
+Scott: But if you look historically, there were people right who did not have the right to vote.
+
+107
+00:07:34,459 --> 00:07:37,183
+Scott: And somehow they got that later.
+
+108
+00:07:37,523 --> 00:07:37,744
+Scott: Right.
+
+109
+00:07:37,784 --> 00:07:41,890
+Scott: It's like they had a political power despite on paper having zero political power.
+
+110
+00:07:41,930 --> 00:07:48,019
+Scott: There were in history many, many people who were literal autocrats, kings, like actual kings.
+
+111
+00:07:48,619 --> 00:07:51,043
+Scott: And yet at due to some events.
+
+112
+00:07:51,664 --> 00:07:51,884
+Scott: Right.
+
+113
+00:07:51,904 --> 00:07:56,130
+Rym: A lot of kings got chopped as time went on, despite all those kings were deposed.
+
+114
+00:07:56,811 --> 00:08:02,350
+Scott: Somehow the people still had political power, even though on paper only one person had political power.
+
+115
+00:08:02,450 --> 00:08:17,870
+Rym: The hard part to internalize is that even if the arc of history generally moves toward a better world, but due to all that hard work, a lot of times the arc of history does not move fast enough for generations of individual humans that fight along the way.
+
+116
+00:08:18,770 --> 00:08:18,890
+Scott: Yep.
+
+117
+00:08:18,930 --> 00:08:23,142
+Scott: There were people who were born in a shitty time and died while it was still a shitty time.
+
+118
+00:08:24,827 --> 00:08:25,750
+Scott: And that can happen, too.
+
+119
+00:08:26,890 --> 00:08:34,679
+Rym: But I guess I would advise, if nothing else, focus on the things you have more direct control, influence and expertise over.
+
+120
+00:08:35,120 --> 00:08:43,230
+Rym: Don't try to fight the fights that you are not well equipped to fight because the what you're up against is way bigger than individual people.
+
+121
+00:08:44,850 --> 00:08:54,179
+Scott: And part of their strategy is to just tire you out with so much nonsense that, you know, if you try to fight everything, you will fight them all ineffectively.
+
+122
+00:08:54,219 --> 00:09:06,910
+Scott: Whereas, you know, if you choose to target something that's the most important thing and you fight that one thing and don't get, you know, rope-a-doped at all the other nonsense, it's like, yeah, they'll probably have their way with a bunch of other nonsense.
+
+123
+00:09:06,990 --> 00:09:11,739
+Scott: But, you know, that's because they're literally in power, of course.
+
+124
+00:09:12,280 --> 00:09:17,830
+Scott: But you could win a nonsense here or there if you don't spread yourself thin.
+
+125
+00:09:18,510 --> 00:09:21,094
+Rym: But a good example would be like geopolitics, like U.S.
+
+126
+00:09:21,134 --> 00:09:31,750
+Rym: foreign policy, protesting it and being vocal about where it may become egregious and maybe immoral, like that is good and just and you should do that if you can.
+
+127
+00:09:32,391 --> 00:09:35,354
+Rym: But don't think that you will be able to influence it like that.
+
+128
+00:09:35,374 --> 00:09:40,761
+Rym: That is one thing that is way beyond the reach of anyone who is not already in a position of real power.
+
+129
+00:09:41,322 --> 00:09:48,110
+Rym: But whether or not the food bank in your town supports the people who lose SNAP, you have a lot of power over that.
+
+130
+00:09:49,770 --> 00:10:11,410
+Scott: And I guess the last thing is that, you know, all those stupids that Rym just mentioned, right, even those people, the self-interested people, the evil people, the uneducated, whatever you want to call them, whoever they are, for whatever reasons, even the outright racist people who know what the fuck they're doing, right, who voted for this on purpose with eyes wide open, even those people, right?
+
+131
+00:10:12,050 --> 00:10:18,194
+Scott: Nobody can deny when their actual life is ruined.
+
+132
+00:10:19,335 --> 00:10:41,710
+Scott: And so if they do all kinds of nonsense, if any of that nonsense actually makes America non-great and makes people's lives noticeably worse and people are losing money, people are out of their home, they're out of their job, they're actively suffering, right?
+
+133
+00:10:42,792 --> 00:10:51,930
+Scott: It's like, yeah, even those horrible evil people will turn on a dime as soon as they are faced with actual inescapable hardship.
+
+134
+00:10:52,630 --> 00:11:10,730
+Scott: So the question is, will the, you know, in despite all their attempts at evil doings, will they do evil so much that people suffer hardship and turn on them or will they not be go over the line to where that happens?
+
+135
+00:11:11,351 --> 00:11:23,710
+Rym: And my one hope now, because I had a lot of contingency plans for like real ones for if we won the popular vote, like has happened historically, but like lost out of technicality, like there are ways to fight that.
+
+136
+00:11:24,210 --> 00:11:29,059
+Rym: But the fact that this was like they won legitimately, you got to just make them own these catastrophes.
+
+137
+00:11:29,359 --> 00:11:35,670
+Rym: If tariffs literally destroyed like the consumer economy, that's going to suck for us, but it's going to suck for everybody.
+
+138
+00:11:36,191 --> 00:11:50,430
+Rym: And that might be the bad medicine that gets us out of this because they, by and large, based on what we know so far, I know a lot of you are probably tuning out from the day to day minutia of how bad it's going in terms of like who's taking over the government in detail.
+
+139
+00:11:50,890 --> 00:11:54,355
+Rym: And that's fine to tune out because it's not like you have any say in it right now.
+
+140
+00:11:54,936 --> 00:12:05,130
+Rym: But I would characterize the people who are being put in these positions as ranging from extremely incompetent to surprisingly incompetent.
+
+141
+00:12:07,132 --> 00:12:13,310
+Scott: I mean, if you tell someone don't touch that, you're going to get burned and they refuse to listen and they touch it and they get burned.
+
+142
+00:12:13,450 --> 00:12:13,752
+Scott: All right.
+
+143
+00:12:13,852 --> 00:12:17,110
+Scott: But it's there's not too many people who will Barney Gumble and touch it again.
+
+144
+00:12:19,371 --> 00:12:22,219
+Scott: So it's like, all right, you're everyone's about to get burned.
+
+145
+00:12:22,700 --> 00:12:26,570
+Scott: So smart people put on heat protecting gloves.
+
+146
+00:12:26,770 --> 00:12:26,930
+Rym: Yep.
+
+147
+00:12:27,551 --> 00:12:41,490
+Rym: And my last piece of advice, and then we'll move on, if you happen to be the kind of person who has some power in your job, specifically if you work for like a government agency, not like no one listens to GeekNights who's like head of a government agency.
+
+148
+00:12:41,610 --> 00:12:55,850
+Rym: But if you have like a functionary bureaucratic position where you have some discretion and let's say you get told to do something unethical, the history has shown us that resigning is not the play.
+
+149
+00:12:56,670 --> 00:13:02,502
+Rym: Resigning when someone tries to make you do something evil just opens the door for someone evil to take your place.
+
+150
+00:13:03,043 --> 00:13:06,470
+Rym: You got to refuse it and make them fire you, make them get rid of you.
+
+151
+00:13:07,390 --> 00:13:21,750
+Rym: So don't don't just walk away from a position, make them actually do it, because actually firing people, especially in the government, if there's a lot of them, starts to gum up the works, which makes it even harder for them to do their evil fast enough.
+
+152
+00:13:22,631 --> 00:13:22,791
+Scott: Yeah.
+
+153
+00:13:22,811 --> 00:13:29,688
+Scott: Their strategy is to make those kinds of people stressed out and have a rough go of it.
+
+154
+00:13:32,030 --> 00:13:32,271
+Scott: Right.
+
+155
+00:13:32,371 --> 00:13:37,066
+Scott: So it's like you have to, you know, you could just lock your feet in and be like, aha, right?
+
+156
+00:13:37,226 --> 00:13:38,350
+Scott: Let's see what you can do now.
+
+157
+00:13:39,150 --> 00:13:39,210
+Rym: Yep.
+
+158
+00:13:39,251 --> 00:13:39,834
+Rym: You gonna fire me?
+
+159
+00:13:39,874 --> 00:13:40,216
+Rym: All right.
+
+160
+00:13:40,497 --> 00:13:40,839
+Rym: Sue me.
+
+161
+00:13:41,080 --> 00:13:42,890
+Rym: Sue me and everybody in my whole department.
+
+162
+00:13:44,251 --> 00:13:50,870
+Scott: You know, there's a gun, they pick it up and they try to shoot someone with it, but I'm the firing pit and I've decided to be blunt.
+
+163
+00:13:54,411 --> 00:14:04,286
+Rym: But yeah, we'll definitely be addressing this off and on for the foreseeable future, but it's not going to dominate geek night.
+
+164
+00:14:04,306 --> 00:14:06,189
+Rym: It's just like it shouldn't dominate your life.
+
+165
+00:14:06,209 --> 00:14:06,870
+Rym: You got to keep living.
+
+166
+00:14:08,791 --> 00:14:15,502
+Scott: So in other news, so in Japan, you probably know about this company.
+
+167
+00:14:15,522 --> 00:14:16,664
+Scott: It's called Kadokawa.
+
+168
+00:14:17,165 --> 00:14:18,828
+Scott: They have this little Phoenix logo.
+
+169
+00:14:18,868 --> 00:14:20,150
+Scott: You've probably seen it.
+
+170
+00:14:20,270 --> 00:14:28,550
+Scott: If you're nerdy and listening to a Wednesday episode of GeekNights and they own, I don't know if people realize they might think of them as like a manga anime company, right?
+
+171
+00:14:28,811 --> 00:14:33,670
+Scott: Even more so in the manga department where you see their logo more often, like directly printed on manga.
+
+172
+00:14:35,491 --> 00:14:37,434
+Scott: But they own a lot of fuck ton of shit.
+
+173
+00:14:37,915 --> 00:14:44,364
+Scott: Like they are a mega media conglomerate in Japan mostly, but also around the world.
+
+174
+00:14:44,385 --> 00:14:48,030
+Scott: They have subsidiaries and all kinds of other not like the yen press.
+
+175
+00:14:48,130 --> 00:14:50,516
+Scott: They own like a significant portion of yen press.
+
+176
+00:14:50,556 --> 00:14:53,123
+Scott: I think a majority stake, um, it might even be 51%.
+
+177
+00:14:53,123 --> 00:14:55,930
+Scott: I forget exactly how much or 60 something.
+
+178
+00:14:56,752 --> 00:15:05,570
+Scott: Um, this is a big company that has its fingers on a lot of the nerdy shit you care about, especially if you care about Japanese stuff, right?
+
+179
+00:15:06,450 --> 00:15:11,378
+Scott: And there is news that Sony is trying to buy them, right?
+
+180
+00:15:12,159 --> 00:15:18,088
+Scott: Uh, and so all the news headlines are like, Oh, Sony's buying the, the owners of, of, you know, yeah.
+
+181
+00:15:19,331 --> 00:15:19,511
+Scott: Yeah.
+
+182
+00:15:19,631 --> 00:15:21,075
+Scott: Elden ring and dark soul.
+
+183
+00:15:21,156 --> 00:15:26,410
+Scott: And it's like, it's like, yeah, that's like a tiny fraction of what that company does.
+
+184
+00:15:26,811 --> 00:15:33,770
+Rym: It's like, that'd be like, they're buying the U S military known for this one fighter jet.
+
+185
+00:15:35,351 --> 00:15:37,657
+Scott: Ah, Rym is going to buy McDonald's.
+
+186
+00:15:38,078 --> 00:15:41,006
+Scott: The, the, uh, the makers of the tiny little apple pie.
+
+187
+00:15:41,668 --> 00:15:42,009
+Scott: Watch out.
+
+188
+00:15:45,990 --> 00:15:48,593
+Scott: What are the cookies they give you with the Hamburglar on.
+
+189
+00:15:48,633 --> 00:15:48,953
+Scott: this is
+
+190
+00:15:49,013 --> 00:16:06,230
+Rym: adjacent to the story about, uh, the video game that failed that like no press really talked about except extreme nerd press and how the media just doesn't know how to talk about these things because people who know a lot about them tend not to work for these media companies.
+
+191
+00:16:07,590 --> 00:16:07,791
+Scott: Yeah.
+
+192
+00:16:07,931 --> 00:16:20,890
+Scott: But anyway, uh, so first of all, you know, we could talk for hours about how it's, you know, the whole, the antitrust nonsense of no company should be so big that they can fuck up as majorly as they did on Concord and still exist.
+
+193
+00:16:21,290 --> 00:16:21,531
+Scott: All right.
+
+194
+00:16:22,212 --> 00:16:29,480
+Scott: Uh, but anyway, if Sony buys, you know, that's like, you're talking about media conglomerate.
+
+195
+00:16:29,520 --> 00:16:37,310
+Scott: That's like, this is we're entering the seriously ludicrous media conglomerate territory as if either both of them are ludicrous on their own.
+
+196
+00:16:37,370 --> 00:16:41,519
+Scott: So if you had ludicrous plus a second ludicrous, I don't know what that is.
+
+197
+00:16:42,502 --> 00:16:45,508
+Scott: I mean, my hope is that ludicrous had, I don't know, is ludicrous?
+
+198
+00:16:45,528 --> 00:16:46,050
+Scott: have any kids?
+
+199
+00:16:47,910 --> 00:16:48,852
+Rym: They're like, this is a murder.
+
+200
+00:16:48,892 --> 00:16:50,855
+Rym: This is an acquisition that's big enough to where.
+
+201
+00:16:50,955 --> 00:16:59,630
+Rym: if I had any power, uh, in regulatory boards, I would absolutely say, no, you're not allowed to buy that two companies that probably should be broken up might merge.
+
+202
+00:16:59,850 --> 00:17:01,192
+Scott: It's as it's preposterous.
+
+203
+00:17:01,472 --> 00:17:06,979
+Rym: So, but two companies that should be broken up might merge has been news at 11 for the past 40 years.
+
+204
+00:17:07,520 --> 00:17:07,680
+Scott: Yeah.
+
+205
+00:17:07,720 --> 00:17:18,874
+Scott: This one's, this one feels in terms of a, maybe not in terms of a dollar sign standpoint, but in terms of a control of, uh, a certain, you know, pop cultural segment.
+
+206
+00:17:19,275 --> 00:17:19,515
+Scott: Right.
+
+207
+00:17:20,256 --> 00:17:25,742
+Rym: Uh, I mean, we live in a society where AOL time Warner was a word someone would say that made perfect sense.
+
+208
+00:17:26,463 --> 00:17:26,623
+Scott: Yeah.
+
+209
+00:17:26,663 --> 00:17:33,030
+Scott: Now it's like NBC Comcast, even though they're going to, I think, sell off the cable TV part.
+
+210
+00:17:33,270 --> 00:17:37,819
+Rym: Oh, I was going to talk about that on the, on the next show's news to keep the stock.
+
+211
+00:17:38,080 --> 00:17:43,050
+Scott: That seems to be the play these days is take the shitty part of your business that's failing and spin it off.
+
+212
+00:17:43,450 --> 00:17:44,412
+Scott: These days.
+
+213
+00:17:44,472 --> 00:17:46,055
+Rym: And then that's been the play.
+
+214
+00:17:46,096 --> 00:17:51,226
+Scott: that stock since 1974 give or take the stock in that company drops.
+
+215
+00:17:51,506 --> 00:17:53,110
+Scott: And then your main company stays strong.
+
+216
+00:17:53,450 --> 00:17:55,053
+Rym: It's like when you're playing an 18 excess game.
+
+217
+00:17:55,073 --> 00:17:59,582
+Rym: like Scott, would you like to buy this train company that has a lot of very good trains?
+
+218
+00:18:00,123 --> 00:18:03,129
+Rym: Uh, they happen to be twos, but, uh, twos are coming up in this world.
+
+219
+00:18:03,149 --> 00:18:03,710
+Rym: They'll be fine.
+
+220
+00:18:03,830 --> 00:18:08,357
+Scott: It's more, it's more like I braid a brand new train company and sold it all my twos.
+
+221
+00:18:08,458 --> 00:18:13,446
+Rym: and now my main company doesn't have any problems, but you do the IPO right before you sell it.
+
+222
+00:18:13,466 --> 00:18:15,809
+Rym: All those twos, you buy the twos with the IPO money.
+
+223
+00:18:16,590 --> 00:18:18,452
+Scott: I'm just saying anyway.
+
+224
+00:18:18,892 --> 00:18:19,452
+Scott: Uh, yeah.
+
+225
+00:18:19,472 --> 00:18:20,893
+Scott: Who knows what the hell this is going to do.
+
+226
+00:18:20,913 --> 00:18:27,478
+Scott: This is, this is, you know, um, I mean, it's just so many possible ramifications of this cause.
+
+227
+00:18:27,518 --> 00:18:28,639
+Scott: it's so broad reaching.
+
+228
+00:18:28,719 --> 00:18:45,190
+Rym: It's just like, it's just like, well, like it's hard to even characterize Sony's behavior as a company because different parts of Sony not only act very differently from each other, but like in many cases have competed directly against each other and fucked each other over, over the years.
+
+229
+00:18:45,250 --> 00:18:52,420
+Scott: Kadokawa is a similar company where it's like, it's actually all the, it's a conglomerate of so many small and separate things.
+
+230
+00:18:52,540 --> 00:19:00,030
+Scott: It's like you think the division, whatever it that's like publishing delicious and dungeon manga has anything the fuck to do with from software.
+
+231
+00:19:00,330 --> 00:19:02,253
+Scott: It's like they might as well be separate companies.
+
+232
+00:19:03,475 --> 00:19:05,077
+Scott: Kadokawa technically owns both.
+
+233
+00:19:05,198 --> 00:19:13,270
+Rym: This is on the scale and also oddly eerily similar to the merger of Austria and Hungary into the Austro Hungarian empire.
+
+234
+00:19:15,690 --> 00:19:28,654
+Rym: Which doesn't bode well for the future of anyone involved, but anyway, things of the day.
+
+235
+00:19:29,035 --> 00:19:42,459
+Rym: So, uh, you weren't familiar with this and I was only vaguely familiar with this, but in Zelda three, you know, the legend of Zelda, a link to the past, the super Nintendo game, uh, one of the best games ever made, uh, one of the best Zelda games.
+
+236
+00:19:43,099 --> 00:19:45,600
+Rym: Uh, there's a place called misery Meyer in the dark world.
+
+237
+00:19:46,240 --> 00:19:47,561
+Scott: It's the second to last.
+
+238
+00:19:48,002 --> 00:19:51,405
+Scott: Well, it's the third to last dungeon, but it's the second to last regular dungeon.
+
+239
+00:19:51,445 --> 00:19:52,986
+Scott: If you don't count it's tower.
+
+240
+00:19:53,346 --> 00:19:54,347
+Rym: It's a, it's a good dungeon.
+
+241
+00:19:54,727 --> 00:19:55,768
+Rym: It's actually one of my favorites.
+
+242
+00:19:56,328 --> 00:19:59,991
+Scott: It's a very clever dungeon because it's, you know, kind of mazy, kind of puzzling.
+
+243
+00:20:00,031 --> 00:20:02,593
+Scott: It's got, it's got the weird stuff going on where you're trying to figure out.
+
+244
+00:20:02,613 --> 00:20:03,894
+Scott: how the hell do I get through this thing?
+
+245
+00:20:04,215 --> 00:20:05,095
+Scott: Where do I go?
+
+246
+00:20:05,115 --> 00:20:10,880
+Scott: I should, you know, it's that sort of, it's that sort of evil and disorienting kind of place, right?
+
+247
+00:20:11,400 --> 00:20:24,173
+Rym: But, uh, so if you've never noticed in misery Meyer, occasionally if you use certain area of effects, uh, or if you're really lucky or unlucky, shoot an arrow in the right places.
+
+248
+00:20:24,593 --> 00:20:28,296
+Rym: Sometimes you'll just hit an enemy that was invisible and it might drop.
+
+249
+00:20:28,336 --> 00:20:29,498
+Scott: something like.
+
+250
+00:20:29,558 --> 00:20:30,719
+Scott: I've never seen that happen.
+
+251
+00:20:30,739 --> 00:20:32,000
+Rym: I've seen it happen.
+
+252
+00:20:32,560 --> 00:20:34,883
+Scott: Is this one of those ones that was like patched out?
+
+253
+00:20:34,943 --> 00:20:44,677
+Scott: and cause there were, you know, this game actually has a lot of different versions and the earlier versions are buggy AF and that's why speed runners always use like the oldest buggiest versions to do all their tricks.
+
+254
+00:20:44,777 --> 00:20:46,860
+Scott: But the later versions have a lot of those patched out.
+
+255
+00:20:47,000 --> 00:20:48,382
+Rym: It's so much deeper than that.
+
+256
+00:20:48,442 --> 00:20:58,494
+Rym: So, uh, this video is 23 minutes long and that is about how much is necessary to explain what causes that.
+
+257
+00:20:59,315 --> 00:21:03,920
+Rym: And the summary in the first YouTube comment actually says it best.
+
+258
+00:21:04,400 --> 00:21:12,486
+Rym: Uh, so if you don't want to watch a 23 minute fascinating video quote, they misplaced an enemy that just so happened to be the jankiest enemy in the game.
+
+259
+00:21:12,506 --> 00:21:14,387
+Rym: Okay.
+
+260
+00:21:14,467 --> 00:21:29,158
+Rym: There's an enemy that's there that shouldn't be there and that it's not the enemy you're thinking it might be and that enemy has a specific behavior and all the stars aligned to where all over misery Meyer, there will just be invisible enemies that you can kill, but only with certain weapons
+
+261
+00:21:31,019 --> 00:21:32,160
+Scott: and they can't touch you or hurt you.
+
+262
+00:21:32,260 --> 00:21:37,107
+Rym: They can't touch you or hurt you, but they're there at 23 minutes.
+
+263
+00:21:37,127 --> 00:21:38,348
+Rym: We'll explain this in detail.
+
+264
+00:21:38,548 --> 00:21:42,374
+Scott: This is, but if you manage to use the right weapon and kill one, you can get some items.
+
+265
+00:21:42,414 --> 00:21:42,534
+Scott: Yeah.
+
+266
+00:21:42,554 --> 00:21:43,896
+Rym: They'll drop like a bomb or something.
+
+267
+00:21:44,597 --> 00:21:44,797
+Scott: Yeah.
+
+268
+00:21:44,917 --> 00:21:45,117
+Scott: Yeah.
+
+269
+00:21:45,538 --> 00:21:47,120
+Scott: Drop whatever they drop in the drop table.
+
+270
+00:21:48,081 --> 00:21:49,863
+Rym: Uh, but, uh, props to this research.
+
+271
+00:21:50,204 --> 00:21:53,449
+Rym: Uh, that was, this is one of those videos that goes like down to the depth of.
+
+272
+00:21:53,489 --> 00:21:54,471
+Rym: let's look at the code.
+
+273
+00:21:54,771 --> 00:21:56,173
+Rym: Let's do an example.
+
+274
+00:21:56,614 --> 00:22:00,200
+Rym: And, uh, the Zora's are way more complicated than I thought they were.
+
+275
+00:22:02,349 --> 00:22:02,838
+Rym: So what do you got?
+
+276
+00:22:04,360 --> 00:22:09,407
+Scott: Uh, so, uh, this person, they used a program called curl.
+
+277
+00:22:09,447 --> 00:22:18,240
+Scott: If you don't know the program, curl is a command line program that every nerd uses and basically you use it to make HTTP requests and look at the responses.
+
+278
+00:22:18,460 --> 00:22:32,260
+Scott: So basically you're doing what a web browser does, except instead of, you know, taking the results that you get back from a web server and turning it into a webpage that you can look at, you just look at the actual raw stuff, right?
+
+279
+00:22:32,340 --> 00:22:46,780
+Scott: The actual, just HTML, whatever, whatever's in the response from the web server, you just look at it in its original text form and do not go through the steps of parsing it and turning it into, you know, something that you can, you know, look at and browse and read comfortably.
+
+280
+00:22:47,521 --> 00:22:59,940
+Scott: Uh, and you use this mostly for, you know, interacting with web APIs, testing things, but also people, you know, write programs that need to talk to web servers and just use curl in their program or libcurl or who knows.
+
+281
+00:23:00,180 --> 00:23:08,280
+Rym: I've written Python scripts that basically just use curl to like hit a website, grab the HTML, look for some strings, like that kind of thing.
+
+282
+00:23:08,981 --> 00:23:09,182
+Scott: Yeah.
+
+283
+00:23:09,362 --> 00:23:18,740
+Scott: I mean, you know, it's usually you'll use curl more if you're on the command line, if you're using a programming language, most programming languages have a better library to use than curl.
+
+284
+00:23:18,960 --> 00:23:20,083
+Scott: Some don't know.
+
+285
+00:23:20,625 --> 00:23:23,292
+Scott: Uh, but curl is a very, very widely used program.
+
+286
+00:23:23,673 --> 00:23:24,655
+Scott: It might even be on your computer.
+
+287
+00:23:24,675 --> 00:23:26,320
+Scott: You don't even know about it cause it's so common.
+
+288
+00:23:27,001 --> 00:23:36,300
+Scott: And if you do curl-v for verbose, it'll show you basically the whole conversation that curl has with the web server, like every step of the way.
+
+289
+00:23:37,321 --> 00:23:42,005
+Scott: And these clever people c41c is the name of the YouTube channel.
+
+290
+00:23:42,685 --> 00:24:00,560
+Scott: They curl-v to google.com and then they take every single thing that happens during that conversation between your curl on your computer and google.com and they take those and made them lyrics for a heavy metal song that is, you know, decent.
+
+291
+00:24:01,403 --> 00:24:05,840
+Scott: Uh, but I guess wouldn't be decent if it wasn't, you know, for the curl part.
+
+292
+00:24:08,522 --> 00:24:14,480
+Rym: In the meta moment, we're going to be live at PAX Unplugged, which is coming up real soon.
+
+293
+00:24:15,040 --> 00:24:15,706
+Scott: Real soon.
+
+294
+00:24:15,786 --> 00:24:17,420
+Scott: It's not this weekend.
+
+295
+00:24:17,780 --> 00:24:18,440
+Rym: December 6th, 7th, and 8th.
+
+296
+00:24:18,520 --> 00:24:20,089
+Scott: Not the weekend after that.
+
+297
+00:24:20,612 --> 00:24:21,759
+Scott: It's two weekends.
+
+298
+00:24:22,266 --> 00:24:22,497
+Rym: Yup.
+
+299
+00:24:23,060 --> 00:24:23,636
+Scott: From now.
+
+300
+00:24:24,582 --> 00:24:29,480
+Rym: On Friday at noon, we'll be doing a updated version of Take Your Fucking Turn.
+
+301
+00:24:29,924 --> 00:24:30,853
+Scott: It's December 6th.
+
+302
+00:24:31,600 --> 00:24:31,740
+Scott: Yes.
+
+303
+00:24:32,181 --> 00:24:39,560
+Rym: If you are listening to this and have seen our panel take your fucking turn before, I'd say don't bother going.
+
+304
+00:24:39,860 --> 00:24:46,340
+Rym: Because while I'm making a bunch of updates, like I got a new version of the slides and I'm cleaning them up and adding some stuff, you know our deal.
+
+305
+00:24:46,740 --> 00:24:48,264
+Rym: This is really aimed at people.
+
+306
+00:24:48,385 --> 00:24:53,900
+Rym: This PAX, I think, is going to be the most attended, densest PAX Unplugged that has ever happened.
+
+307
+00:24:54,561 --> 00:24:55,058
+Rym: That is true.
+
+308
+00:24:55,621 --> 00:25:09,240
+Rym: This panel is there because I expect a lot of people who have no idea who we are are going to see that title and come into that room because they're mad about people being slow and we're doing God's work teaching them how to ridicule their friends into playing fast.
+
+309
+00:25:11,040 --> 00:25:20,320
+Rym: But also on Friday at 1.30pm, right after that, in the Mox Gaming Lounge, we will be teaching everyone how to play Deep Sea Adventure Boost.
+
+310
+00:25:20,601 --> 00:25:21,604
+Rym: The expansion, too.
+
+311
+00:25:22,066 --> 00:25:26,000
+Rym: Deep Sea Adventure, which is a game we have talked about many times on GeekNights.
+
+312
+00:25:26,200 --> 00:25:29,149
+Scott: It's basically Deep Sea Adventure with slightly different dice.
+
+313
+00:25:29,230 --> 00:25:32,480
+Scott: It's not that much different, but it is, you know, slightly different.
+
+314
+00:25:33,461 --> 00:25:33,902
+Rym: Yeah.
+
+315
+00:25:34,003 --> 00:25:39,900
+Rym: Also, that game is a fun push-your-luck game and it's always fun to teach people how to play a game.
+
+316
+00:25:41,300 --> 00:25:42,945
+Scott: And of course, we're going to teach you how to win.
+
+317
+00:25:43,446 --> 00:25:45,752
+Scott: as much as you can win a push-your-luck game.
+
+318
+00:25:45,832 --> 00:25:48,660
+Scott: Obviously, the number one thing you need to win that game is luck.
+
+319
+00:25:49,827 --> 00:25:51,760
+Rym: And knowing when to push is the hardest part.
+
+320
+00:25:52,320 --> 00:25:52,742
+Scott: Yeah.
+
+321
+00:25:52,762 --> 00:25:54,106
+Scott: That's the second most important thing.
+
+322
+00:25:54,186 --> 00:25:58,260
+Scott: Even if you know when to push, luck is the number one determining factor in who wins.
+
+323
+00:25:59,042 --> 00:25:59,283
+Rym: Yep.
+
+324
+00:25:59,383 --> 00:26:03,780
+Rym: My favorite thing about doing these, I've realized over the years, because teaching the games is fun, but that's pretty easy.
+
+325
+00:26:05,281 --> 00:26:10,040
+Rym: It's the devil's tutor, the deal with the devil that we always offer people in these sessions.
+
+326
+00:26:10,581 --> 00:26:13,919
+Rym: People actually take us up on it and it's always really funny when it goes down.
+
+327
+00:26:14,622 --> 00:26:19,660
+Rym: I had some really good moments at the last PAX where we did this at a particular table because they kept calling me over.
+
+328
+00:26:20,120 --> 00:26:26,720
+Rym: And the deal I always offer them is you can ask us for advice on what to do on your turn at any point in these sessions.
+
+329
+00:26:27,460 --> 00:26:31,220
+Rym: But that advice will be public to everyone else sitting at the table.
+
+330
+00:26:33,781 --> 00:26:34,062
+Rym: So yeah.
+
+331
+00:26:34,243 --> 00:26:38,740
+Rym: Otherwise, PAX Unplugged is going to be lit, it's going to be dense, and Saturday is almost sold out.
+
+332
+00:26:38,860 --> 00:26:43,559
+Rym: So if you're thinking about going and you haven't bought badges, deal with that, like, right now.
+
+333
+00:26:45,503 --> 00:26:48,220
+Scott: And I believe the three-day badges are sold out.
+
+334
+00:26:48,740 --> 00:26:49,202
+Rym: Yeah.
+
+335
+00:26:49,222 --> 00:26:53,580
+Rym: PAX Unplugged has intense demand, partly more so than the other PAXes.
+
+336
+00:26:54,060 --> 00:26:59,120
+Rym: Partly because PAX South is gone and PAX South used to be the secret, like, actually it's a tabletop PAXCon.
+
+337
+00:26:59,820 --> 00:27:10,100
+Rym: And tabletop, despite the fact that a lot of media doesn't talk about it that much, is a booming industry with a huge, insatiable demand for conventions.
+
+338
+00:27:10,822 --> 00:27:15,700
+Scott: Yeah, video games are down the pooper industry-wide, but tabletop games seem to be doing great.
+
+339
+00:27:16,060 --> 00:27:16,221
+Scott: Yeah.
+
+340
+00:27:17,689 --> 00:27:18,674
+Rym: Alright, let's get into it.
+
+341
+00:27:18,795 --> 00:27:19,760
+Rym: We're reviewing an anime.
+
+342
+00:27:20,280 --> 00:27:22,505
+Scott: So, uh, ancient times.
+
+343
+00:27:23,106 --> 00:27:29,880
+Rym: There was an anime called Ranma 1/2, based on a manga called Ranma 1/2 by Rumigo Takahashi.
+
+344
+00:27:30,742 --> 00:27:35,491
+Scott: Who has been authored so many mangas, and so many of them have been turned into anime.
+
+345
+00:27:36,011 --> 00:27:40,460
+Scott: Such a prolific, historic, mega-creator of the anime times.
+
+346
+00:27:41,541 --> 00:27:49,860
+Rym: I will admit, how much I like her works is pretty much inversely proportional to how recently she wrote those works.
+
+347
+00:27:52,522 --> 00:27:56,819
+Rym: I like her older stuff a lot more than I like her newer stuff, and that is applied throughout her entire career.
+
+348
+00:27:57,742 --> 00:28:04,340
+Rym: But that's not to say, like, she is super important, like, to manga, to anime, to culture.
+
+349
+00:28:05,660 --> 00:28:13,300
+Rym: And Ranma 1/2 was, for a lot of American anime fans and manga fans, one of the first ones they ever encountered.
+
+350
+00:28:14,761 --> 00:28:19,016
+Scott: Yeah, I mean, Ranma 1/2 was not, as far as I remember, on television.
+
+351
+00:28:19,076 --> 00:28:20,160
+Scott: I never saw it on television.
+
+352
+00:28:21,705 --> 00:28:23,049
+Scott: If it was, I missed it.
+
+353
+00:28:23,249 --> 00:28:24,232
+Scott: At least in the United States.
+
+354
+00:28:24,312 --> 00:28:26,860
+Scott: It was obviously on TV in Japan, come on, and other places.
+
+355
+00:28:28,120 --> 00:28:29,362
+Scott: And not where I lived, at least.
+
+356
+00:28:30,944 --> 00:28:42,958
+Scott: But every video store you went to, any place that had video tapes, VHS tapes, they had the comic book store, the Suncoast, whatever the hell you had where you lived.
+
+357
+00:28:44,360 --> 00:28:46,604
+Scott: The FYEs, the best buys.
+
+358
+00:28:47,666 --> 00:28:56,000
+Scott: In 1990 X, late 90s, anywhere you went, at least where I lived, there was always Ranma 1/2 tapes there.
+
+359
+00:28:57,241 --> 00:29:06,800
+Rym: They were $30 to $40 for the subtitled version, and $20 to $30 for the dubbed version, and you got between two and four episodes.
+
+360
+00:29:07,501 --> 00:29:12,410
+Scott: And this was way before any kind of explosion of anime or manga in the US, right?
+
+361
+00:29:12,550 --> 00:29:18,100
+Scott: We're talking like, you know, maybe the other anime you could get was like Akira or something, right?
+
+362
+00:29:18,802 --> 00:29:22,338
+Scott: Or you could see some on the sci-fi channel, and that was about it.
+
+363
+00:29:23,560 --> 00:29:33,659
+Rym: Like, Ranma was at the Blockbuster in the era where Blockbuster was pretty new, and they had an anime section that had like 14 tapes total in it.
+
+364
+00:29:34,602 --> 00:29:38,240
+Scott: It's like it was sitting next to the Godzillas because it was Japanese.
+
+365
+00:29:38,680 --> 00:29:52,858
+Rym: But simultaneously, if you even briefly and tangentially interacted with anime fandom in America, everyone knew Ranma, and everyone had seen some Ranma.
+
+366
+00:29:53,158 --> 00:29:54,720
+Rym: Like, everyone.
+
+367
+00:29:55,701 --> 00:29:57,885
+Scott: I had never really, I never bought one of those tapes.
+
+368
+00:29:58,446 --> 00:30:05,500
+Scott: I never sought it out, but I'd heard of it, and I watched a sparse smattering of episodes, maybe less than 10.
+
+369
+00:30:05,500 --> 00:30:08,928
+Scott: You know, but I knew the general deal, right?
+
+370
+00:30:09,028 --> 00:30:10,090
+Scott: I knew what the deal was.
+
+371
+00:30:10,110 --> 00:30:13,598
+Scott: I enjoyed the smattering of episodes that I had seen.
+
+372
+00:30:13,618 --> 00:30:14,520
+Scott: I never read the manga.
+
+373
+00:30:16,581 --> 00:30:19,800
+Scott: And, you know, I was like, okay, that's an important thing to know about.
+
+374
+00:30:20,960 --> 00:30:25,920
+Rym: At RIT Anime, we'd show there's one Christmas episode from later in the show that we would show on Christmas.
+
+375
+00:30:26,900 --> 00:30:28,459
+Scott: I think that's the only one I've seen more than once.
+
+376
+00:30:31,401 --> 00:30:36,600
+Rym: And I've seen, I would say, the majority of Ranma 1/2, but not in order.
+
+377
+00:30:37,521 --> 00:30:38,079
+Scott: That's a lot.
+
+378
+00:30:38,720 --> 00:30:41,915
+Rym: I remember I was watching anime starting in the early 90s.
+
+379
+00:30:43,700 --> 00:30:46,554
+Scott: See, the original manga has 38 volumes.
+
+380
+00:30:46,554 --> 00:30:52,400
+Rym: 1987 to 1996.
+
+381
+00:30:52,400 --> 00:30:54,800
+Scott: And the anime has how many episodes?
+
+382
+00:30:54,800 --> 00:30:54,961
+Rym: Was it '94?
+
+383
+00:30:54,981 --> 00:30:55,946
+Rym: I don't know if Wikipedia opened for that.
+
+384
+00:30:55,986 --> 00:30:56,971
+Rym: I think it came out in 1994, is my guess.
+
+385
+00:31:00,420 --> 00:31:01,426
+Rym: Anime.
+
+386
+00:31:02,572 --> 00:31:03,356
+Rym: List of Ranma 1/2 episodes.
+
+387
+00:31:05,340 --> 00:31:05,501
+Rym: No, 1989.
+
+388
+00:31:05,501 --> 00:31:05,942
+Rym: '94 was the end.
+
+389
+00:31:05,962 --> 00:31:06,545
+Rym: '92 was the end.
+
+390
+00:31:06,565 --> 00:31:07,509
+Rym: That was way off.
+
+391
+00:31:11,142 --> 00:31:11,228
+Rym: Okay.
+
+392
+00:31:11,721 --> 00:31:13,086
+Rym: Yeah, '89, the anime started.
+
+393
+00:31:13,547 --> 00:31:15,514
+Rym: And there are seven seasons of this.
+
+394
+00:31:15,995 --> 00:31:17,400
+Rym: Seven full seasons.
+
+395
+00:31:18,140 --> 00:31:21,280
+Scott: There's also OVAs in movies and such, too, right?
+
+396
+00:31:21,760 --> 00:31:24,735
+Rym: But on one hand, there's a story.
+
+397
+00:31:24,997 --> 00:31:25,620
+Rym: There's a narrative.
+
+398
+00:31:26,020 --> 00:31:40,420
+Rym: But on the other hand, a lot of anime in that era, especially stuff, the Rumiko Takahashi stuff, would sort of have a plot in the beginning that really just went until a critical mass of characters had been introduced to you.
+
+399
+00:31:41,042 --> 00:31:57,299
+Rym: And then it would shift from sort of following the plot to basically just being a sitcom, because they can assume you know these characters, and characters would evolve, and the world would evolve, but there was no longer an overarching plot so much as just, "What bullshit is Ranma on about
+
+400
+00:31:57,339 --> 00:31:57,560
+Rym: today?".
+
+401
+00:31:58,361 --> 00:32:09,200
+Scott: Right, because the plot wasn't so much a... Normally when you have a plot and a story that's going to end, you'll create this conflict that needs a resolution, right?
+
+402
+00:32:09,240 --> 00:32:11,030
+Scott: Like, "The bad guy's gonna take over the world.
+
+403
+00:32:11,151 --> 00:32:12,257
+Scott: Are you gonna stop
+
+404
+00:32:12,317 --> 00:32:12,458
+Scott: him?"
+
+405
+00:32:13,162 --> 00:32:15,980
+Scott: Or something like... That's the most basic one, obviously.
+
+406
+00:32:16,701 --> 00:32:35,559
+Scott: But the plot for Ranma doesn't really... It's like, "Yeah, okay, so there's this dude and his dad, and they get cursed, and so then they go to this dojo where the dad's friend is in charge, and then they decide to engage their children to each
+
+407
+00:32:35,659 --> 00:32:35,860
+Scott: other.".
+
+408
+00:32:36,040 --> 00:32:38,039
+Rym: And the children aren't into it.
+
+409
+00:32:39,200 --> 00:32:39,723
+Scott: Obviously.
+
+410
+00:32:39,743 --> 00:32:40,971
+Scott: Who would be?
+
+411
+00:32:41,051 --> 00:32:42,580
+Scott: Some stranger you've never seen before.
+
+412
+00:32:43,300 --> 00:32:52,679
+Scott: And the curse allows for hijinks, because the dad turns into a panda, Ranma turns into a female Ranma, and the other dude turns into a pig.
+
+413
+00:32:55,322 --> 00:33:01,540
+Rym: And from there, there is sort of an early plot around navigating that, and are they really gonna get married?
+
+414
+00:33:01,860 --> 00:33:02,763
+Rym: How are they gonna get out of this?
+
+415
+00:33:03,085 --> 00:33:06,256
+Rym: And then it just kind of resolves into, "Well, they're all friends
+
+416
+00:33:06,337 --> 00:33:06,558
+Rym: now.".
+
+417
+00:33:07,641 --> 00:33:14,200
+Scott: Yeah, it's like, they could have kept driving the plot to be like, "Okay, are they gonna attempt to eliminate the curse?
+
+418
+00:33:14,340 --> 00:33:17,798
+Scott: Are they gonna decide to get married or not get
+
+419
+00:33:17,858 --> 00:33:18,180
+Scott: married?".
+
+420
+00:33:18,260 --> 00:33:22,380
+Scott: And they could keep droning on about that, but it's like, they don't.
+
+421
+00:33:22,760 --> 00:33:24,926
+Scott: They're just like, "Well, I'm cursed now.
+
+422
+00:33:24,946 --> 00:33:26,510
+Scott: That's just the setup.
+
+423
+00:33:27,152 --> 00:33:28,114
+Scott: We're engaged now.
+
+424
+00:33:28,195 --> 00:33:28,977
+Scott: That's just the
+
+425
+00:33:28,997 --> 00:33:29,338
+Scott: setup.".
+
+426
+00:33:30,501 --> 00:33:36,860
+Scott: And then they just live there and go about their everyday lives in a sitcom Simpsons-like fashion.
+
+427
+00:33:38,522 --> 00:33:38,583
+Rym: Yup.
+
+428
+00:33:39,845 --> 00:33:46,140
+Rym: So, every classic anime from the '90s is getting remade, kind of one by one.
+
+429
+00:33:46,760 --> 00:33:48,711
+Scott: Well, the Rumigotaka Aichi specifically, right?
+
+430
+00:33:48,731 --> 00:33:50,220
+Scott: They did the Urusayatsura already.
+
+431
+00:33:50,440 --> 00:33:51,587
+Scott: I don't know if it's still going.
+
+432
+00:33:51,607 --> 00:33:53,640
+Scott: They're doing the Ranma.
+
+433
+00:33:54,040 --> 00:33:59,800
+Scott: You have to assume they're gonna do the Inuyasha or the Meisani Goku or something next.
+
+434
+00:33:59,920 --> 00:34:02,051
+Rym: Call me if... Let's see.
+
+435
+00:34:02,353 --> 00:34:03,840
+Rym: What would actually get me excited?
+
+436
+00:34:04,340 --> 00:34:08,639
+Rym: Call me if Escaflowne or Utena get the remake treatment.
+
+437
+00:34:10,081 --> 00:34:11,985
+Scott: There was recent buzz.
+
+438
+00:34:12,809 --> 00:34:16,719
+Scott: No one knows why, but there was recent buzz of Escaflowne in Japan recently.
+
+439
+00:34:17,042 --> 00:34:18,659
+Rym: Not only that, but so weirdly...
+
+440
+00:34:18,679 --> 00:34:22,571
+Scott: For no particular reason at all that anyone can tell, there was social media.
+
+441
+00:34:22,610 --> 00:34:24,476
+Scott: People were just like, "Escaflowne!
+
+442
+00:34:24,657 --> 00:34:25,319
+Scott: Oh, what a good
+
+443
+00:34:25,339 --> 00:34:25,560
+Scott: show.".
+
+444
+00:34:25,699 --> 00:34:37,679
+Rym: A couple weeks before I left for London, I actually had a weird random conversation with a co-worker because he knows that I'm an anime person, even though almost everyone watches anime now in this company.
+
+445
+00:34:38,481 --> 00:34:41,969
+Rym: All my adult co-worker people, they all watch some anime.
+
+446
+00:34:42,029 --> 00:34:46,860
+Rym: Anime is just a normal thing alongside anything else, but they know that I know a lot about it.
+
+447
+00:34:47,601 --> 00:34:53,940
+Rym: So, he asked me, "My daughter was talking about this show, and I never heard of it, and I don't know what the deal was.
+
+448
+00:34:54,860 --> 00:34:56,092
+Rym: Escaflowne, have you ever heard of this
+
+449
+00:34:56,132 --> 00:34:56,353
+Rym: thing?".
+
+450
+00:34:57,221 --> 00:34:59,828
+Rym: And I was just like, "How old's your daughter?
+
+451
+00:35:00,470 --> 00:35:03,659
+Rym: That's not a show that people younger than me tend to know
+
+452
+00:35:03,679 --> 00:35:03,879
+Rym: about.".
+
+453
+00:35:07,723 --> 00:35:15,800
+Rym: So now there's a remake, and I would say this remake is not... Because there's two ways you can go with a remake of an anime that itself is based on the manga.
+
+454
+00:35:16,241 --> 00:35:24,560
+Rym: You can take the anime and redo it, or you could take the manga and make a new anime from the manga.
+
+455
+00:35:25,020 --> 00:35:33,619
+Rym: And this is more to the latter than the former, but that's not saying much because the original anime was pretty close to the manga to begin with.
+
+456
+00:35:35,161 --> 00:35:38,453
+Rym: But it has a lot of stylistic elements from the manga.
+
+457
+00:35:39,195 --> 00:35:40,500
+Rym: The pacing is a little bit different.
+
+458
+00:35:40,781 --> 00:35:47,399
+Rym: It does a lot of the two-tone backgrounds and manga sound effects stuff that the original anime didn't really do.
+
+459
+00:35:48,220 --> 00:35:49,499
+Rym: But otherwise, it's very faithful.
+
+460
+00:35:50,620 --> 00:35:56,200
+Rym: But I am actually enjoying this anime more than I enjoyed the original Aranma.
+
+461
+00:35:56,941 --> 00:35:59,260
+Rym: And I watched a little bit of the original Aranma again, to be sure.
+
+462
+00:35:59,741 --> 00:36:02,159
+Rym: And honestly, that show was good for its time.
+
+463
+00:36:03,180 --> 00:36:04,125
+Rym: The pacing's not great.
+
+464
+00:36:04,888 --> 00:36:07,159
+Rym: The animation gets pretty janky kind of often.
+
+465
+00:36:08,520 --> 00:36:10,129
+Scott: You're cranking out that many episodes.
+
+466
+00:36:10,792 --> 00:36:12,220
+Scott: They spent a lot of money on them.
+
+467
+00:36:12,520 --> 00:36:18,427
+Rym: And I'd say that today, if someone's never seen this show and you're interested in it... Like, one, just read the manga.
+
+468
+00:36:18,628 --> 00:36:20,200
+Rym: The manga is still a good way to experience this.
+
+469
+00:36:20,380 --> 00:36:22,247
+Rym: But I just watched the new one.
+
+470
+00:36:22,488 --> 00:36:24,436
+Rym: I wouldn't really start with the old one.
+
+471
+00:36:24,496 --> 00:36:25,440
+Rym: I would just watch the new one.
+
+472
+00:36:26,240 --> 00:36:31,500
+Scott: Yeah, I can't really compare the old and the new because, like I said, for the old, I only saw a smattering of episodes.
+
+473
+00:36:31,700 --> 00:36:34,240
+Scott: I actually never saw it in order or anything, right?
+
+474
+00:36:34,300 --> 00:36:39,479
+Scott: So I just knew... I actually didn't know that it was because of some curse until I watched the new episodes.
+
+475
+00:36:39,960 --> 00:36:42,046
+Scott: I thought it was just like, "That's how it is.
+
+476
+00:36:42,107 --> 00:36:42,708
+Scott: That's the thing.
+
+477
+00:36:42,789 --> 00:36:46,039
+Scott: The show's about this guy who gets wet and turns into a
+
+478
+00:36:46,079 --> 00:36:46,279
+Scott: girl.".
+
+479
+00:36:46,641 --> 00:36:51,800
+Rym: Well, because you got all these other characters who have fallen in or eventually fall into a spring.
+
+480
+00:36:53,061 --> 00:36:54,625
+Scott: Yep.
+
+481
+00:36:54,646 --> 00:36:58,658
+Scott: It's like, I didn't know how it got that way or if it ever doesn't be that way.
+
+482
+00:36:58,698 --> 00:36:59,340
+Scott: I didn't know nothing.
+
+483
+00:37:00,342 --> 00:37:02,880
+Scott: Because I'd only seen, you know, whatever.
+
+484
+00:37:03,762 --> 00:37:20,840
+Scott: But what I can say about the new show is that there is at least one excellent artistic element of the new show that really stands out, is that at certain moments, they're actually changing the visual style of the show intentionally.
+
+485
+00:37:21,261 --> 00:37:23,845
+Scott: I noticed this.
+
+486
+00:37:23,865 --> 00:37:31,439
+Scott: During every combat scene, they change the coloring and the line style to be like this combat...
+
+487
+00:37:33,140 --> 00:37:35,110
+Rym: Yeah, with this purple highlight.
+
+488
+00:37:35,311 --> 00:37:37,140
+Rym: You'll notice it when you watch the show.
+
+489
+00:37:37,980 --> 00:37:49,840
+Scott: And there are other times where... I couldn't find a pattern for this style, but there are other times where the style changes to have screen tones and dots, like a manga all over.
+
+490
+00:37:50,181 --> 00:37:55,520
+Scott: I couldn't find a pattern of when they were using that style, but it kept happening.
+
+491
+00:37:56,320 --> 00:38:02,820
+Scott: So it's like most of the show is sort of in this, quote, "default anime style," I guess you want to call it, whatever.
+
+492
+00:38:03,400 --> 00:38:16,520
+Scott: But if you pay attention, you'll see, hey, they keep dramatically changing the visual style of the show, depending on the scene, according to some pattern of some kind, some logic.
+
+493
+00:38:16,640 --> 00:38:31,800
+Scott: I don't know, but I've seen shows change their style before, like suddenly everyone's chibi because someone's getting bopped on the head or something, like in Slayers, or suddenly everyone's serious face with extra high detail.
+
+494
+00:38:32,460 --> 00:38:39,420
+Scott: But it's like this show is doing that same effect of style changing, but not in the same way.
+
+495
+00:38:39,580 --> 00:38:47,700
+Scott: It's changing the coloring and the lines and that sort of thing, as opposed to changing the detail level or anything else.
+
+496
+00:38:47,780 --> 00:38:48,923
+Rym: And there's just a lot of craft to it.
+
+497
+00:38:48,963 --> 00:38:51,088
+Rym: Like, it's visually really good.
+
+498
+00:38:51,188 --> 00:38:53,494
+Rym: I'd say it's above average for an anime.
+
+499
+00:38:53,514 --> 00:38:54,376
+Rym: It's got a good budget.
+
+500
+00:38:55,258 --> 00:38:55,880
+Rym: It looks great.
+
+501
+00:38:56,420 --> 00:39:04,080
+Rym: And it also, the original show does have a lot of animation shortcuts because it ran forever and had a limited amount of money.
+
+502
+00:39:05,021 --> 00:39:16,160
+Rym: This one really uses the fact that it is animated and there's a lot of visual style and effects and it makes the show just a lot punchier.
+
+503
+00:39:16,360 --> 00:39:18,448
+Rym: And honestly, I think a lot funnier.
+
+504
+00:39:18,890 --> 00:39:21,119
+Rym: I think it is funnier than the original so far.
+
+505
+00:39:22,561 --> 00:39:26,046
+Scott: It depends if you like the kind of humor that it is, right?
+
+506
+00:39:26,126 --> 00:39:33,017
+Scott: It's a lot of very sort of juvenile, but it's not the filthy juvenile.
+
+507
+00:39:35,660 --> 00:39:52,340
+Rym: I would say it is heartfelt juvenile comedy in that it is juvenile, but the joke where he notices her panties is done in what I would consider a juvenile but tasteful and kind of wholesome, funny way.
+
+508
+00:39:52,800 --> 00:40:00,180
+Rym: As opposed to, say, a lecherous anime where it would be used more for both a juvenile and prurient way.
+
+509
+00:40:01,145 --> 00:40:03,820
+Scott: Right, but there's a lot of slapstick nonsense going on.
+
+510
+00:40:03,820 --> 00:40:05,420
+Rym: Yeah, I like slapstick nonsense in anime.
+
+511
+00:40:06,761 --> 00:40:11,632
+Scott: Yeah, but it's not quite the Looney Tunes kind of slapstick, right?
+
+512
+00:40:11,752 --> 00:40:15,060
+Scott: It's more, you know, I guess it's the anime style.
+
+513
+00:40:17,801 --> 00:40:26,837
+Rym: So, I would say if you love the old Ranma and haven't thought about Ranma since the 90s, watch a couple episodes of this.
+
+514
+00:40:28,600 --> 00:40:30,319
+Scott: This is going to take you back to the past.
+
+515
+00:40:30,660 --> 00:40:42,280
+Rym: Yep, and I just want to keep watching it like I'm actually really enjoying watching it in a way that I'm sort of almost experiencing Ranma properly for the first time because I never watched it in order.
+
+516
+00:40:42,580 --> 00:40:51,056
+Rym: I read random volumes sitting in Borders books and I watched random episodes of this and whatever VHS tapes I happen to borrow from someone.
+
+517
+00:40:51,336 --> 00:40:53,360
+Rym: I've never seen this story like in order.
+
+518
+00:40:55,041 --> 00:40:59,306
+Rym: If you've never experienced a Ranma thing, I'd also say watch a couple episodes.
+
+519
+00:40:59,647 --> 00:41:09,520
+Rym: If nothing else, you'll see the kind of anime that was crucial and deeply rooted in the early days of American anime fandom.
+
+520
+00:41:10,120 --> 00:41:17,580
+Rym: Like, this is one of the shows that left its long stain on how American anime fans engage with anime.
+
+521
+00:41:19,063 --> 00:41:21,800
+Rym: And if you really like it and you never read the manga, the manga's worth reading.
+
+522
+00:41:26,040 --> 00:41:36,460
+Scott: I'd say, I'm not going to say this is the best thing ever, you've got to go watch it, but I'm going to say everyone should at least, if you're an anime fan, not a normal person.
+
+523
+00:41:37,120 --> 00:41:42,013
+Scott: But if you're an anime fan, if you've got Netflix, don't go buy Netflix to watch this.
+
+524
+00:41:42,996 --> 00:41:44,339
+Scott: Or if you're going to pirate it, that's cool too.
+
+525
+00:41:45,161 --> 00:41:54,280
+Scott: You know, watch some and at the very minimum, you should just watch some because you should know what the deal is with some famous anime of all time.
+
+526
+00:41:54,860 --> 00:42:01,059
+Scott: And this new version is probably the best way to understand what the deal is with this famous show.
+
+527
+00:42:02,701 --> 00:42:13,200
+Scott: And then if you watch enough so that you know what the deal is, then you can decide for yourself if you want to go hard or just be satisfied with the amount you've seen.
+
+528
+00:42:18,082 --> 00:42:20,470
+Rym: This has been GeekNights with Rym and Scott.
+
+529
+00:42:20,511 --> 00:42:23,040
+Rym: Special thanks to DJ Pretzel for the opening theme.
+
+530
+00:42:23,240 --> 00:42:29,260
+Scott: Be sure to visit our website at FrontRowClue.com for show notes, discussion, links and more.
+
+531
+00:42:29,800 --> 00:42:32,405
+Rym: Remember, GeekNights is not one but four different shows.
+
+532
+00:42:32,705 --> 00:42:34,368
+Rym: Mondays are science and technology.
+
+533
+00:42:34,428 --> 00:42:36,171
+Rym: Tuesdays, gaming and games.
+
+534
+00:42:36,292 --> 00:42:38,115
+Rym: Wednesdays are animation and comics.
+
+535
+00:42:38,436 --> 00:42:40,920
+Rym: Thursdays are arbitrary and indiscriminate.
+
+536
+00:42:41,542 --> 00:42:46,480
+Rym: GeekNights is distributed under a Creative Commons Attribution 4.0 International License.
+
+537
+00:42:46,980 --> 00:42:51,270
+Scott: GeekNights is recorded live with no studio and no audience.
+
+538
+00:42:51,772 --> 00:42:55,220
+Scott: But unlike those other late shows, it's actually recorded at night.
+
+539
+00:42:55,680 --> 00:43:08,960
+Rym: And the Patreon patrons for this episode of GeekNights are Alan Joyce, Lynn Kijing, Jared Lilly, Tenebrae Case, Cara Mates, Musa Christ, Chris Hadad, Chris Kork, Lynch and Walton, Finn, Joel Hays, Penny Rymer, Rebecca Dunn, Sam Erickson, Shervin Von Hurl, and a bunch of people who do not want me to say their names.
+
+540
+00:43:09,662 --> 00:43:10,164
+Rym: We're back.
+
+541
+00:43:10,365 --> 00:43:14,000
+Rym: We'll be doing GeekNights on our regular schedule for the foreseeable future.
+
+542
+00:43:16,102 --> 00:43:20,372
+Rym: And for now, I'm hungry and I gotta edit GeekNights and maybe play some Friends vs.
+
+543
+00:43:20,392 --> 00:43:22,578
+Rym: Friends, so I leave you tonight with...
+
+544
+00:43:25,502 --> 00:43:26,377
+Scott: Hey, what's going on?
+
+545
+00:43:28,222 --> 00:43:31,180
+Scott: Ah, those bums won their court case, so they're marching today.
+
+546
+00:43:31,481 --> 00:43:31,918
+Scott: What bums?
+
+547
+00:43:32,580 --> 00:43:34,000
+Scott: The fucking Nazi party.
+
+548
+00:43:36,020 --> 00:43:37,065
+Scott: Illinois Nazis.
+
+549
+00:43:39,595 --> 00:43:40,920
+Rym: I hate Illinois Nazis.
+
+550
+00:43:41,851 --> 00:43:42,276
+Rym: I'll end up...
+

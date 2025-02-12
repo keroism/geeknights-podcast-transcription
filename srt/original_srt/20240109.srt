@@ -1,0 +1,3080 @@
+﻿1
+00:00:08,380 --> 00:00:10,318
+Speaker 0: It's Tuesday, January 9th, 2024.
+
+2
+00:00:10,318 --> 00:00:10,560
+Speaker 0: I'm Rim.
+
+3
+00:00:13,935 --> 00:00:14,409
+Speaker 1: I'm Scott.
+
+4
+00:00:14,770 --> 00:00:16,015
+Speaker 0: And this is Geek Nights.
+
+5
+00:00:16,055 --> 00:00:19,670
+Speaker 0: Tonight, we are reviewing Whale Street.
+
+6
+00:00:20,530 --> 00:00:21,507
+Speaker 1: Let's do this.
+
+7
+00:00:22,410 --> 00:00:32,590
+Speaker 0: So, uh, hopefully this Geek Nights, uh, we're streaming it live, but, uh, there's a big storm coming through New York, and I was even at work and they were like, "GTFO, like, go home," and they made everybody leave.
+
+8
+00:00:33,372 --> 00:00:34,630
+Speaker 0: So, uh, we'll see.
+
+9
+00:00:34,831 --> 00:00:35,288
+Speaker 1: I was already home.
+
+10
+00:00:35,611 --> 00:00:35,832
+Speaker 1: Yeah,
+
+11
+00:00:35,972 --> 00:00:46,844
+Speaker 0: well, I, uh, was not, 'cause I have to work in Midtown, which leads to my opening story here, which has nothing to do with the storm, but I'll just say, if the stream suddenly cuts out, that does mean the power went out, and if the
+
+12
+00:00:46,864 --> 00:00:50,670
+Speaker 1: power goes out-- The power has, like, never gone out here for more than, like, a second.
+
+13
+00:00:50,890 --> 00:00:52,015
+Speaker 0: Yep, that's what I'm getting at.
+
+14
+00:00:52,056 --> 00:00:55,030
+Speaker 0: So if that happens, we'll probably just record this episode later.
+
+15
+00:00:55,090 --> 00:00:55,930
+Speaker 0: I'm not gonna, like, wait.
+
+16
+00:00:56,090 --> 00:01:02,190
+Speaker 1: Not since the Great Blackout, when we were, you know, still living, not even in Beacon yet.
+
+17
+00:01:02,411 --> 00:01:09,649
+Speaker 0: Yep, we have, in our apartment here, where the main Geeknight Studio is, the power has never gone out.
+
+18
+00:01:10,270 --> 00:01:12,230
+Speaker 1: 'Cause that building is newer than that blackout.
+
+19
+00:01:12,530 --> 00:01:26,870
+Speaker 0: Yep, uh, and the worst that ever happened was during a hurricane, when a transformer exploded, there was the slightest dip in the power, where all the lights dimmed for a little bit, but it wasn't even enough to reboot the computers.
+
+20
+00:01:28,291 --> 00:01:31,270
+Speaker 1: Well, I've had some dips, but, you know, the UPS just went click-click.
+
+21
+00:01:31,431 --> 00:01:32,438
+Speaker 0: We don't even have UPSs.
+
+22
+00:01:32,458 --> 00:01:34,049
+Speaker 0: I got rid of the UPSs when we moved here.
+
+23
+00:01:34,874 --> 00:01:35,268
+Speaker 1: I got one.
+
+24
+00:01:35,830 --> 00:01:36,321
+Speaker 0: I got zero.
+
+25
+00:01:38,932 --> 00:01:39,889
+Speaker 0: But so far, so good.
+
+26
+00:01:40,590 --> 00:01:44,347
+Speaker 0: And I have a pipeline to where, even if the power goes out, we wouldn't lose the Geeknights.
+
+27
+00:01:44,387 --> 00:01:45,050
+Speaker 0: that was recorded.
+
+28
+00:01:45,690 --> 00:01:55,650
+Speaker 0: But anyway, so, I go out to lunch, 'cause I'm in Midtown, working, and when I come back, the rat is in front of my building.
+
+29
+00:01:57,119 --> 00:01:57,330
+Speaker 0: Alright.
+
+30
+00:01:57,650 --> 00:01:59,150
+Speaker 0: Yeah, like, my building in Midtown.
+
+31
+00:02:00,014 --> 00:02:01,870
+Speaker 0: So the rat's there, the big ol' rat.
+
+32
+00:02:02,511 --> 00:02:05,690
+Speaker 0: So, I walk over, of course, 'cause I'm down with the rat.
+
+33
+00:02:05,770 --> 00:02:09,470
+Speaker 0: When the rat's there, like, I wanna talk to the people, I wanna know their grievances.
+
+34
+00:02:10,110 --> 00:02:12,630
+Speaker 0: Nobody puts the rat out for a bad reason in New York City.
+
+35
+00:02:15,571 --> 00:02:23,270
+Speaker 0: So, I see the rat there, and I see three dudes who I will just say look very union.
+
+36
+00:02:23,891 --> 00:02:26,989
+Speaker 0: They look like the most union dudes you have ever seen.
+
+37
+00:02:27,412 --> 00:02:30,270
+Speaker 1: I think they pick those people on purpose to take care of the rat.
+
+38
+00:02:30,570 --> 00:02:32,062
+Speaker 0: Oh yeah, I mean, if your job is to take care of them.
+
+39
+00:02:32,990 --> 00:02:36,470
+Speaker 1: You don't wanna send out someone who doesn't look like, you know, they're a rat person.
+
+40
+00:02:36,550 --> 00:02:41,270
+Speaker 0: I feel like if you don't look like a union person, if you take care of the rat, you start transforming into one.
+
+41
+00:02:41,471 --> 00:02:44,070
+Speaker 0: It's like a magic idol that turns you into that kind of dude.
+
+42
+00:02:44,970 --> 00:02:48,426
+Speaker 0: But, so I take the flyer, but when I walk up to them, they kinda look at me.
+
+43
+00:02:48,466 --> 00:02:54,330
+Speaker 0: weird when I take the flyer, 'cause they can see I have a badge for the building, meaning I work in the building, they're protesting, and I'm wearing a suit.
+
+44
+00:02:54,954 --> 00:02:57,090
+Speaker 0: So they hand it to me, but like hesitantly.
+
+45
+00:02:57,731 --> 00:03:00,022
+Speaker 0: And I lean in, and I just say, "Yeah, I work here.
+
+46
+00:03:00,585 --> 00:03:01,087
+Speaker 0: Fuck these
+
+47
+00:03:01,147 --> 00:03:01,489
+Speaker 0: guys.".
+
+48
+00:03:01,851 --> 00:03:03,662
+Speaker 0: And then they all lean back and go, "Hey!
+
+49
+00:03:03,723 --> 00:03:04,306
+Speaker 0: Yo!
+
+50
+00:03:04,407 --> 00:03:04,870
+Speaker 0: Hey!".
+
+51
+00:03:04,890 --> 00:03:06,626
+Speaker 0: And they all pat me on the back, and then I went in.
+
+52
+00:03:08,012 --> 00:03:09,490
+Speaker 1: Okay, what were they mad about?
+
+53
+00:03:09,810 --> 00:03:18,050
+Speaker 0: So, the building is doing a bunch of renovations, and they have contracted Arsenal Scaffold, is the company that made the scaffold.
+
+54
+00:03:18,792 --> 00:03:25,510
+Speaker 0: And, according to the complaint, Arsenal Scaffold is not paying their workers the area standard wages.
+
+55
+00:03:25,650 --> 00:03:38,810
+Speaker 0: And if you don't know what that means, if you don't know union stuff, basically, in New York City, different unions, or even some non-unions, have an agreement of a minimum fucking salary, and some minimum benefits.
+
+56
+00:03:39,170 --> 00:03:45,750
+Speaker 0: And if any company in their domain doesn't provide that to their workers, they bring the rat out and try to shame the company into compliance.
+
+57
+00:03:46,372 --> 00:03:53,110
+Speaker 0: So here, Arsenal Scaffold is not paying the area standard wages for the scaffold.
+
+58
+00:03:53,850 --> 00:04:24,290
+Speaker 0: And I'll just say, if any Geek Nights listener out there would like to call Arsenal Scaffold at 631-274-3900, that's 631-274-3900, then you can explain to them that if they don't want to desecrate the American way of life and ruin everything for everyone, and impoverish the people of New York City, that maybe they should pay area standard wages for the scaffold that they built outside of 120 Park Avenue in New York City.
+
+59
+00:04:25,310 --> 00:04:30,150
+Speaker 1: I'll just say it's a shame that they don't have any rat poison in their arsenal.
+
+60
+00:04:33,291 --> 00:04:38,808
+Speaker 0: So I took their flyer and I left it in a prominent place inside of the building, too, to make sure more people see it.
+
+61
+00:04:39,810 --> 00:04:39,854
+Speaker 1: Eh.
+
+62
+00:04:40,712 --> 00:04:41,374
+Speaker 0: You know what you can.
+
+63
+00:04:41,394 --> 00:04:47,550
+Speaker 0: I have called them, and it went to a voicemail immediately, so clearly people are calling them.
+
+64
+00:04:48,050 --> 00:04:54,210
+Speaker 0: And I left as long a voicemail as it would let me before it hung up on me, which was a several minute voicemail.
+
+65
+00:04:56,150 --> 00:04:57,535
+Speaker 0: So yeah, got any news?
+
+66
+00:04:57,635 --> 00:05:02,130
+Speaker 0: There's tons of news out in the world on games right now, but we're only going to talk about two of them.
+
+67
+00:05:02,411 --> 00:05:22,710
+Speaker 1: The news that got the most action today, because our memory is really short, was this one particular news, in which Hasbro, specifically the WotC and the Magic the Gathering, a while ago they made a promise that they would not use AI/ML generated artworks.
+
+68
+00:05:23,673 --> 00:05:39,170
+Speaker 1: And that's kind of important for something like Magic the Gathering, where the artwork is such a huge aspect of it, to the point where Magic the Gathering artwork is almost like, you could just be into Magic for that and that alone, ignoring the game and ignoring the collecting.
+
+69
+00:05:39,791 --> 00:05:41,616
+Speaker 0: Yeah, go to Magic.
+
+70
+00:05:41,656 --> 00:05:46,330
+Speaker 0: people, even ones who aren't super paying attention to the art, know the names of some of the artists.
+
+71
+00:05:46,750 --> 00:05:48,330
+Speaker 0: It's a big part of the Magic community.
+
+72
+00:05:48,712 --> 00:05:53,170
+Speaker 1: Even when I was a kid in the 90s, I looked at the names of the artists on the cards that had really good art.
+
+73
+00:05:53,350 --> 00:05:56,270
+Speaker 1: I think I wrote a letter to one of them and got something in return, I don't know.
+
+74
+00:05:58,391 --> 00:06:04,950
+Speaker 1: You think about baseball cards, where it's like, well there's a photographer obviously, but it's like, you know, right?
+
+75
+00:06:05,970 --> 00:06:06,592
+Speaker 1: It's not like.
+
+76
+00:06:06,652 --> 00:06:13,290
+Speaker 1: it's high class photography, don't email me about how hard baseball card photography is.
+
+77
+00:06:16,152 --> 00:06:22,985
+Speaker 1: But it's like, yeah, Magic the Gathering cards, those are original artworks, often painted.
+
+78
+00:06:23,667 --> 00:06:25,330
+Speaker 1: Back in the day, they weren't even digital.
+
+79
+00:06:25,731 --> 00:06:28,610
+Speaker 1: They were handcrafted with real paint artworks.
+
+80
+00:06:28,630 --> 00:06:35,030
+Speaker 0: There were 25 artists in the original Magic the Gathering situation.
+
+81
+00:06:35,850 --> 00:06:38,594
+Speaker 1: And not only are they high quality, it's pretty rare.
+
+82
+00:06:38,614 --> 00:06:40,357
+Speaker 1: Not every Magic card art is some fucking masterpiece.
+
+83
+00:06:42,782 --> 00:06:43,919
+Speaker 1: But none of them are bad.
+
+84
+00:06:44,840 --> 00:06:48,392
+Speaker 1: You don't see a lot of bad, you look at them and you're like, ugh, what is this?
+
+85
+00:06:48,473 --> 00:06:50,580
+Speaker 1: You almost never say that, right?
+
+86
+00:06:50,620 --> 00:07:01,080
+Speaker 1: You might not like the style, but it's like, you know, it might not be your deal, but it's like, usually it's high quality, if not, you know, frickin' awesome.
+
+87
+00:07:02,981 --> 00:07:10,540
+Speaker 1: And so, yeah, they were like, hey, we're not going to generate artworks, because obviously that would a) piss off their audience, right?
+
+88
+00:07:11,562 --> 00:07:16,540
+Speaker 1: No one wants to buy Magic cards, which were just art generated by some machine computer.
+
+89
+00:07:18,041 --> 00:07:22,820
+Speaker 1: And also, all those artists who work for them would make a big stink, right?
+
+90
+00:07:23,360 --> 00:07:31,820
+Speaker 1: And then, as soon as, like, if they even generated a few cards that way, well, then all the artists would be like, fine, we're not going to make any cards for you, what are you going to do now?
+
+91
+00:07:32,401 --> 00:07:36,858
+Speaker 1: And they'd be like, shit, no one's going to buy our cards, because these artists aren't making the art on them, man.
+
+92
+00:07:37,260 --> 00:07:39,019
+Speaker 0: You're going to all thralls for the rest of Magic, nothing but thralls.
+
+93
+00:07:39,960 --> 00:07:53,400
+Speaker 1: Right, we'll have to use, we'll have to go, it's like, if they go in a little bit on the computer generated art, they got to go all in, and if they go all in, no, they're going to lose the customer, so they have to stick with full human generated art, regardless.
+
+94
+00:07:53,760 --> 00:08:00,340
+Speaker 0: Yeah, well, there's a way to get, I sadly, I think they lose the people who care about the art as a main thing.
+
+95
+00:08:00,401 --> 00:08:02,400
+Speaker 1: I think a lot more people care about the art than you realize.
+
+96
+00:08:02,560 --> 00:08:03,075
+Speaker 0: Oh, I think they do.
+
+97
+00:08:04,202 --> 00:08:07,027
+Speaker 1: I think more people care about the art than care about playing the game.
+
+98
+00:08:07,067 --> 00:08:13,720
+Speaker 1: Look at how much variants sell in digital games, Magic is basically half or more than half a digital game already.
+
+99
+00:08:15,062 --> 00:08:20,240
+Speaker 0: But, the secondary Magic doesn't, like, they don't make money from the secondary market, that's like its own thing for the most part.
+
+100
+00:08:21,300 --> 00:08:27,960
+Speaker 0: I think most of the people who you see at a random con playing Magic would grumble about it, but they're not going to stop playing their lifestyle game.
+
+101
+00:08:29,264 --> 00:08:30,219
+Speaker 1: I think a lot of people...
+
+102
+00:08:30,521 --> 00:08:32,592
+Speaker 0: What game are they going to play that's better than Magic.
+
+103
+00:08:32,653 --> 00:08:33,759
+Speaker 0: that would scratch that itch?
+
+104
+00:08:34,720 --> 00:08:38,700
+Speaker 1: I'm just saying, I think they might not buy cards from a set that didn't have original art.
+
+105
+00:08:38,940 --> 00:08:51,240
+Speaker 1: Regardless, they promised they wouldn't do it, which is kind of obvious, because they don't even need to make that promise, because of the reasons I just said, is that they basically can't get away with it, it would ruin them if they tried to do that.
+
+106
+00:08:52,420 --> 00:09:10,120
+Speaker 1: However, what they did do, is in some marketing materials, so basically an image used not in a card, but in an advertisement, was clearly partially or significantly generated by some sort of machine learning thing.
+
+107
+00:09:11,541 --> 00:09:18,040
+Speaker 0: There's a post on the Broken website that actually has specific, like, here's the parts that are clearly machine learning.
+
+108
+00:09:18,341 --> 00:09:22,080
+Speaker 1: So this was not an image on a card art, it was an image in an ad, right?
+
+109
+00:09:22,961 --> 00:09:39,520
+Speaker 1: And it was the image, we don't know, did someone at the WotC company in the marketing department just generate this, or did they pay an artist who then was like, say, using Photoshop, and used the tool in Photoshop to add some ML parts to it, right?
+
+110
+00:09:39,560 --> 00:09:45,460
+Speaker 0: Because, I mean, when I use Photoshop, I use the ML stuff inside of Photoshop all the time, in my own life.
+
+111
+00:09:45,680 --> 00:09:55,820
+Speaker 1: Yeah, so we don't know if there was an artist being paid who used it, and maybe didn't know, or if the marketing department bypassed artists entirely and just made an artwork this way.
+
+112
+00:09:57,800 --> 00:09:58,261
+Speaker 1: Unknown.
+
+113
+00:09:58,742 --> 00:10:15,120
+Speaker 1: But here's the thing, is, you know, on the one hand, it's like, yeah, when they promised that they probably weren't thinking about this scenario, if it was hiring an artist, the marketing department might not even have realized or noticed that the artist had used the, you know, that.
+
+114
+00:10:15,380 --> 00:10:24,836
+Speaker 0: I mean, I definitely have encountered people in my professional circles who use ML to do parts of their job without telling their employers.
+
+115
+00:10:24,916 --> 00:10:27,240
+Speaker 0: Like, I see that happening kind of often.
+
+116
+00:10:28,120 --> 00:10:28,601
+Speaker 1: I mean, of course.
+
+117
+00:10:30,023 --> 00:10:32,508
+Speaker 1: And so you have that part of it, right?
+
+118
+00:10:32,568 --> 00:10:39,360
+Speaker 1: But there's also the part with like, actually, come on, you know, from my perspective, right, some artists might get mad at me.
+
+119
+00:10:39,520 --> 00:10:45,260
+Speaker 1: But this is the kind of art that you probably should be generating.
+
+120
+00:10:45,780 --> 00:10:53,869
+Speaker 0: This is the argument I've been having hours in the real world around in text generation, listicles, the listicle should never have existed in the first place.
+
+121
+00:10:53,909 --> 00:11:01,238
+Speaker 0: If your job is making listicles, you already are a scab who replaced someone who used to write more thorough articles in AI.
+
+122
+00:11:01,278 --> 00:11:02,880
+Speaker 0: replacing you is just fair.
+
+123
+00:11:03,701 --> 00:11:12,860
+Speaker 1: Right now, on the one hand, right, there are people I know people who actually have the job of make art for that goes in company tweets and shit.
+
+124
+00:11:13,341 --> 00:11:18,800
+Speaker 1: And then no one ever looks at again after the ad is I used to have that job in my previous company.
+
+125
+00:11:19,821 --> 00:11:22,398
+Speaker 1: Okay, but, you know, better actual art, right?
+
+126
+00:11:23,680 --> 00:11:25,724
+Speaker 1: It's like there are people who have that job.
+
+127
+00:11:26,005 --> 00:11:34,680
+Speaker 1: And if companies were just going to use, you know, generate those images, then, yeah, you could eliminate that job.
+
+128
+00:11:34,800 --> 00:11:36,263
+Speaker 1: And that's artists out of work.
+
+129
+00:11:36,303 --> 00:11:45,740
+Speaker 1: And actually, a lot of artists have that kind of work because they're obviously not doing the kind of work where you create your own original thing and make a bunch of money off of it because that's the starving.
+
+130
+00:11:45,740 --> 00:12:00,120
+Speaker 0: Well, just like a huge amount of online quote journalism is just like bottom bidder, semi machine learning generated or previously just farmed out like word salad nonsense for SEO anyway.
+
+131
+00:12:00,900 --> 00:12:01,000
+Speaker 1: Right.
+
+132
+00:12:01,021 --> 00:12:06,000
+Speaker 1: So but the point is artists who have an interest in being paid, a lot of them have that kind of job.
+
+133
+00:12:06,440 --> 00:12:23,180
+Speaker 1: And they they're rightfully, I guess, from their perspective, mad that even for some advertising art that, you know, someone would have the computer generated and steal from indirectly because, you know, machine learning the way it works now is basically just copyright laundering.
+
+134
+00:12:23,624 --> 00:12:23,908
+Speaker 1: Right.
+
+135
+00:12:24,049 --> 00:12:24,919
+Speaker 1: Someone else's arts.
+
+136
+00:12:25,381 --> 00:12:25,681
+Speaker 1: Right.
+
+137
+00:12:25,721 --> 00:12:33,596
+Speaker 1: So, you know, who knows what arts was actually used, you know, and learned from to generate this advertisement.
+
+138
+00:12:33,636 --> 00:12:35,980
+Speaker 1: Shouldn't that person be paid or whatever?
+
+139
+00:12:36,100 --> 00:12:37,002
+Speaker 1: We'll figure that out.
+
+140
+00:12:37,122 --> 00:12:44,360
+Speaker 1: Or maybe it was like the internal models in those Photoshop type tools, which are still based on some kind of art that someone did.
+
+141
+00:12:44,500 --> 00:12:44,680
+Speaker 1: Yeah.
+
+142
+00:12:44,700 --> 00:12:46,504
+Speaker 0: But I think Adobe has a pretty good.
+
+143
+00:12:46,864 --> 00:12:47,425
+Speaker 0: Well, not good.
+
+144
+00:12:47,505 --> 00:12:47,986
+Speaker 0: Not good.
+
+145
+00:12:48,026 --> 00:12:50,210
+Speaker 0: And it's the right thing to do sense, but good.
+
+146
+00:12:50,270 --> 00:12:54,097
+Speaker 0: And it seems pretty watertight, like where they get their training data from.
+
+147
+00:12:54,478 --> 00:12:55,800
+Speaker 0: And they also have Adobe stock.
+
+148
+00:12:56,820 --> 00:12:57,061
+Speaker 1: Right.
+
+149
+00:12:58,142 --> 00:13:01,847
+Speaker 1: Regardless, it's sort of this in-between case.
+
+150
+00:13:01,948 --> 00:13:02,208
+Speaker 1: Right.
+
+151
+00:13:02,228 --> 00:13:06,033
+Speaker 1: Where it's like there's a right to be mad because that's like a real artist job.
+
+152
+00:13:06,574 --> 00:13:10,920
+Speaker 1: But also it's like this is the mark, an ad, like an image.
+
+153
+00:13:10,980 --> 00:13:14,665
+Speaker 0: This is like the bottom tier of that of that profession.
+
+154
+00:13:15,767 --> 00:13:16,107
+Speaker 1: Right.
+
+155
+00:13:16,227 --> 00:13:23,137
+Speaker 1: It's like, you know, I don't think any of the artists who have that job, it's like they want the job because capitalism and because they need money.
+
+156
+00:13:23,437 --> 00:13:25,300
+Speaker 1: But I don't think any artists want to do that.
+
+157
+00:13:25,520 --> 00:13:27,847
+Speaker 0: Well, case in point, nobody wants to write listicles.
+
+158
+00:13:27,927 --> 00:13:30,213
+Speaker 0: You're stuck writing listicles because it's the only job you can get.
+
+159
+00:13:30,233 --> 00:13:32,580
+Speaker 1: There's someone out there who just fucking loves them and wants to.
+
+160
+00:13:32,580 --> 00:13:33,861
+Speaker 0: Yeah, but not that many people.
+
+161
+00:13:33,881 --> 00:13:38,125
+Speaker 0: The number of people writing listicles, what percentage of them love it?
+
+162
+00:13:38,566 --> 00:13:39,366
+Speaker 0: It's very small.
+
+163
+00:13:40,327 --> 00:13:40,768
+Speaker 1: Probably.
+
+164
+00:13:40,808 --> 00:13:54,220
+Speaker 0: But I guess all these debates and all these arguments around this are sort of orbiting the actual problem, the black hole at the center, which is that people need these shit tier jobs to live because the way our society is structured.
+
+165
+00:13:54,220 --> 00:13:55,042
+Speaker 1: Right, right, right.
+
+166
+00:13:55,102 --> 00:14:01,760
+Speaker 1: But the point that is focusing on the current story and not just discussing the same thing over and over again for whole lives.
+
+167
+00:14:02,600 --> 00:14:06,480
+Speaker 0: Machine learning will just be us complaining about capitalism forever and then talking about fighting.
+
+168
+00:14:06,880 --> 00:14:09,383
+Speaker 1: This one goes both ways, right?
+
+169
+00:14:10,385 --> 00:14:19,856
+Speaker 1: It's not just a complete, you know, you look at it on the surface and you might just immediately go all in on boo, but actually I'm kind of like, yes and no.
+
+170
+00:14:19,896 --> 00:14:22,879
+Speaker 1: If they had used it to make a magic card, I would have been all boo.
+
+171
+00:14:22,879 --> 00:14:23,059
+Speaker 1: 100% boo.
+
+172
+00:14:24,260 --> 00:14:29,000
+Speaker 1: But because it's like an image in an ad that will never be looked at again.
+
+173
+00:14:29,140 --> 00:14:32,513
+Speaker 0: It's an ephemeral piece of capitalist detritus.
+
+174
+00:14:35,163 --> 00:14:39,680
+Speaker 1: Yeah, it's like, OK, no one really don't care too much about that.
+
+175
+00:14:40,321 --> 00:14:43,806
+Speaker 0: Yeah, well, it's the kind of image where it doesn't matter what the quality is.
+
+176
+00:14:43,826 --> 00:14:52,220
+Speaker 0: Any vaguely steampunk thing with five magic cards is good enough for the purpose of putting it in like one tweet and maybe one magazine ad.
+
+177
+00:14:53,121 --> 00:14:56,427
+Speaker 1: Now, the question is, right, is like this was uncovered.
+
+178
+00:14:56,887 --> 00:14:59,091
+Speaker 1: Someone did see that.
+
+179
+00:14:59,191 --> 00:14:59,351
+Speaker 1: Right.
+
+180
+00:14:59,371 --> 00:15:04,620
+Speaker 1: So who is looking at all the ads in their feed and such that closely?
+
+181
+00:15:05,820 --> 00:15:07,792
+Speaker 1: My advice to you is get ad block.
+
+182
+00:15:07,852 --> 00:15:08,174
+Speaker 1: Holy shit.
+
+183
+00:15:08,275 --> 00:15:09,080
+Speaker 0: Yeah, right.
+
+184
+00:15:13,212 --> 00:15:15,280
+Speaker 0: I mean, it's some random Twitter account.
+
+185
+00:15:15,321 --> 00:15:17,610
+Speaker 0: Looks like the one that like pointed it out originally.
+
+186
+00:15:18,232 --> 00:15:22,770
+Speaker 1: It's no surprise that a person who doesn't block ads and looks closely at ads is buying lots of magic.
+
+187
+00:15:26,771 --> 00:15:28,055
+Speaker 0: So this isn't a news.
+
+188
+00:15:28,176 --> 00:15:32,490
+Speaker 0: This is just a topic that's come up a little bit, both in Marvel Snap and Overwatch.
+
+189
+00:15:33,290 --> 00:15:34,212
+Speaker 0: So I want to bring up.
+
+190
+00:15:34,232 --> 00:15:46,010
+Speaker 0: it's been coming up in card games and living games of all kinds for any games, but where there are either characters or cards or things you can get in the game that are like part of the game.
+
+191
+00:15:46,090 --> 00:15:59,110
+Speaker 0: Like a character you play or a card you play, like a primary mechanic part of a game where new ones come out periodically and players can spend currency to get access to.
+
+192
+00:15:59,731 --> 00:16:01,314
+Speaker 1: No, it's more broad than that.
+
+193
+00:16:01,354 --> 00:16:01,755
+Speaker 1: It's any.
+
+194
+00:16:01,975 --> 00:16:03,579
+Speaker 1: it's any living game, right?
+
+195
+00:16:03,739 --> 00:16:06,465
+Speaker 1: Any game where the rules change.
+
+196
+00:16:06,745 --> 00:16:09,030
+Speaker 0: Early magic sets would come out that were just weaker.
+
+197
+00:16:09,473 --> 00:16:12,109
+Speaker 0: Dark Fallen Empires was just weaker than the previous ones.
+
+198
+00:16:13,390 --> 00:16:13,892
+Speaker 1: Well, there was.
+
+199
+00:16:14,012 --> 00:16:16,359
+Speaker 1: there was a little different in that scenario, right?
+
+200
+00:16:16,540 --> 00:16:19,750
+Speaker 1: They had not realized how they were still figuring it out, right?
+
+201
+00:16:20,590 --> 00:16:23,341
+Speaker 0: But also, you know, they'll phase out old sets and bring new sets in.
+
+202
+00:16:23,381 --> 00:16:25,570
+Speaker 0: They have the rotation of what's in the meta right now.
+
+203
+00:16:26,310 --> 00:16:26,430
+Speaker 1: Right.
+
+204
+00:16:26,490 --> 00:16:39,050
+Speaker 1: Basically, there was a lesson that was learned in that time that Rim was discussing that when you have a living game where you're, say, adding weapons to an FPS or you're adding characters to a fighting game or you're adding cards to a card game.
+
+205
+00:16:39,651 --> 00:16:49,190
+Speaker 1: Even if you're not collectible and everyone gets everything right, you have to put anything new that you add to the game.
+
+206
+00:16:49,771 --> 00:16:53,256
+Speaker 1: There is this if it's even if it's not conscious, right?
+
+207
+00:16:53,597 --> 00:17:02,350
+Speaker 1: There is this unconscious, like design incentive for the people designing the new parts of that game that are being added.
+
+208
+00:17:02,871 --> 00:17:14,910
+Speaker 1: Have to be like meaningfully different and probably better than everything that's already included in the game because better is true if you have all players have access to everything.
+
+209
+00:17:15,030 --> 00:17:16,813
+Speaker 0: I don't think that happens often.
+
+210
+00:17:16,973 --> 00:17:17,454
+Speaker 1: Absolutely.
+
+211
+00:17:17,474 --> 00:17:18,336
+Speaker 0: I have not.
+
+212
+00:17:18,356 --> 00:17:25,730
+Speaker 0: So the Overwatch example I'm going to use all the characters they've added up until now were underpowered at launch and were nerfed over.
+
+213
+00:17:26,191 --> 00:17:28,214
+Speaker 0: Or were basically buffed over time.
+
+214
+00:17:28,233 --> 00:17:36,890
+Speaker 0: Now, this is the first time the new character was too powerful and there's a specific change in the monetization model that seems to be tied to this.
+
+215
+00:17:37,850 --> 00:17:38,151
+Speaker 1: Okay.
+
+216
+00:17:38,191 --> 00:17:44,643
+Speaker 1: Well, it's happened in many games, even in games where people have everything because most new guns weren't better.
+
+217
+00:17:44,663 --> 00:17:45,524
+Speaker 0: They just filled a niche.
+
+218
+00:17:45,564 --> 00:17:48,530
+Speaker 0: The only exception was the P90 and that was a mistake that they admitted to.
+
+219
+00:17:48,970 --> 00:18:05,190
+Speaker 1: I'm sure that you can think of examples, right, where someone really tried hard not to do this, but there is a very large pattern of games that add things over time, right, where the game designer is you have this in your mind.
+
+220
+00:18:05,270 --> 00:18:07,114
+Speaker 1: You want people to use the new thing.
+
+221
+00:18:07,194 --> 00:18:13,046
+Speaker 1: It would suck a lot if you added a new character to the game and everyone was like, fuck that character.
+
+222
+00:18:13,086 --> 00:18:14,830
+Speaker 1: They suck and they didn't even use it ever.
+
+223
+00:18:15,712 --> 00:18:18,210
+Speaker 1: Or you added a new weapon to the game and people just kept using the old one.
+
+224
+00:18:18,210 --> 00:18:23,970
+Speaker 0: So would you believe that happened in Overwatch almost every time they added a new character for a long time?
+
+225
+00:18:25,070 --> 00:18:28,750
+Speaker 1: Or you added new cards to Magic and no one bought them because the old cards were just stronger.
+
+226
+00:18:28,810 --> 00:18:31,139
+Speaker 0: I mean, Fallen Empires ain't the best example there because that was, what, 1994?
+
+227
+00:18:31,139 --> 00:18:31,320
+Speaker 0: Anyway.
+
+228
+00:18:34,150 --> 00:18:48,570
+Speaker 1: It's happened, but it is a problem in games, I guess, where people, right, it's not like some universal thing like it's going to happen no matter what, but it's this thing you have to sort of consciously avoid doing on purpose.
+
+229
+00:18:48,650 --> 00:18:54,760
+Speaker 0: I will agree with that, but I think there's a specific inducement that makes this way worse and more sinister.
+
+230
+00:18:55,261 --> 00:19:00,530
+Speaker 0: It's when people can buy those characters or those items or when there is currency spent.
+
+231
+00:19:00,550 --> 00:19:07,650
+Speaker 1: It obviously gives you an extra incentive beyond the default of, I want people to use the new thing I worked hard on.
+
+232
+00:19:08,351 --> 00:19:09,432
+Speaker 1: It's, I need to make money.
+
+233
+00:19:09,452 --> 00:19:20,370
+Speaker 1: if I allow all Magic cards to be legal and every new set is just worse and not as powerful and the strongest deck is still from the oldest set, I will never sell another Magic card.
+
+234
+00:19:21,470 --> 00:19:26,290
+Speaker 1: So, yeah, the capitalist incentive obviously enhances this phenomenon.
+
+235
+00:19:26,671 --> 00:19:28,254
+Speaker 0: So Marvel Snap is a good example.
+
+236
+00:19:28,294 --> 00:19:36,270
+Speaker 0: Like if they add like, I don't know, dupe to Marvel Snap and it just is a terrible card, like it's worthless, nobody will use it.
+
+237
+00:19:36,450 --> 00:19:47,685
+Speaker 0: But more importantly, nobody is going to spend in-game currency that translates eventually back out to money to get that card because there's no deck.
+
+238
+00:19:47,705 --> 00:19:51,550
+Speaker 0: they would put it in so they don't make any money for having even introduced that card.
+
+239
+00:19:52,076 --> 00:19:52,886
+Speaker 0: Even if the card's okay.
+
+240
+00:19:53,870 --> 00:19:55,857
+Speaker 1: People have a discussion, right?
+
+241
+00:19:56,078 --> 00:19:59,730
+Speaker 1: When you buy the Season Pass in Marvel Snap, you get a card, right?
+
+242
+00:19:59,990 --> 00:20:08,230
+Speaker 1: That otherwise, if you don't buy it then for real money, you have to wait quite a while or use some other currency to be able to get that card.
+
+243
+00:20:10,331 --> 00:20:13,439
+Speaker 1: So, there's often a discussion of like, is that card good?
+
+244
+00:20:14,020 --> 00:20:15,003
+Speaker 1: Is it strong enough?
+
+245
+00:20:15,123 --> 00:20:16,527
+Speaker 1: Is it better than cards I have?
+
+246
+00:20:16,607 --> 00:20:17,890
+Speaker 1: Am I going to use it in a deck?
+
+247
+00:20:18,371 --> 00:20:23,080
+Speaker 1: And so therefore, the strength of that card decides whether people will buy it.
+
+248
+00:20:23,100 --> 00:20:28,390
+Speaker 1: There are people who decide whether or not to buy the Season Pass based on the strength of that card.
+
+249
+00:20:28,850 --> 00:20:39,650
+Speaker 1: And therefore, whether it's intentional or not, there is a strong incentive for them to make the Season Pass card a card that is at least slightly OP so that people will buy it.
+
+250
+00:20:39,770 --> 00:20:56,930
+Speaker 0: I've just broadly seen this trend in Marvel Snap where new cards come out, people who prioritize getting those cards earlier, those cards tend to be in the meta of the decks that are winning and eventually get nerfed or modified or counterbalanced in some way further on down the line.
+
+251
+00:20:57,730 --> 00:21:00,429
+Speaker 1: So that then the new card will be the strongest card.
+
+252
+00:21:01,270 --> 00:21:06,390
+Speaker 0: So, for the first time, this happened in Overwatch with Mauga, a new character, new tank they added.
+
+253
+00:21:06,991 --> 00:21:15,486
+Speaker 0: So, basically, the way Overwatch worked before free-to-play was everyone had every character all the time, it's just you have the whole game.
+
+254
+00:21:15,526 --> 00:21:17,490
+Speaker 0: You paid money, you got the whole game, that's it.
+
+255
+00:21:18,431 --> 00:21:22,690
+Speaker 0: And they made their money selling loot boxes with like skins and stuff, but no game affecting things.
+
+256
+00:21:23,230 --> 00:21:28,850
+Speaker 0: In the free-to-play model, when they do introduce a new character, which is rare, they do not introduce them often.
+
+257
+00:21:29,251 --> 00:21:38,910
+Speaker 0: They add very few characters to this game, but when they do, anyone who bought a Battle Pass basically gets the character right away and everyone else has to wait a few months and then they get the character.
+
+258
+00:21:39,390 --> 00:21:40,323
+Speaker 1: So, same as Marvel Snap.
+
+259
+00:21:40,383 --> 00:21:40,850
+Speaker 1: Pretty much.
+
+260
+00:21:41,150 --> 00:21:41,731
+Speaker 0: Pretty much.
+
+261
+00:21:42,312 --> 00:21:50,510
+Speaker 0: And now, with this new model, when they introduce Mauga, people are calling it the Battle Pass Diff.
+
+262
+00:21:51,550 --> 00:22:03,490
+Speaker 0: Because every fucking match, it's not actually a super overpowered character, like you could win, but it's pretty good, especially the way people tend to play the game.
+
+263
+00:22:04,431 --> 00:22:10,430
+Speaker 0: So, it's winning a ridiculous percentage of matches, like you run into it all the time, or you'll be on a team.
+
+264
+00:22:11,390 --> 00:22:13,357
+Speaker 1: Everyone, you're just gonna have at least one person.
+
+265
+00:22:13,377 --> 00:22:16,790
+Speaker 1: The thing is, it's a team game, and you're not gonna have four Amalgas or whatever.
+
+266
+00:22:17,250 --> 00:22:18,758
+Speaker 0: As long as one person on your team has it, you're good.
+
+267
+00:22:20,930 --> 00:22:21,593
+Speaker 0: No, no, no, no.
+
+268
+00:22:21,793 --> 00:22:24,764
+Speaker 0: You have one tank, two DPS, two supports.
+
+269
+00:22:24,824 --> 00:22:26,430
+Speaker 0: It's like a hockey team, like you have positions.
+
+270
+00:22:27,171 --> 00:22:30,660
+Speaker 0: So, you only have one tank, and you queue for the role.
+
+271
+00:22:31,000 --> 00:22:32,484
+Speaker 0: I'm playing tank in this game.
+
+272
+00:22:32,765 --> 00:22:34,710
+Speaker 0: If you join a team, you are the tank.
+
+273
+00:22:35,131 --> 00:22:39,429
+Speaker 0: If the player who is the tank did not pay for the Battle Pass, they don't have Mauga yet.
+
+274
+00:22:41,135 --> 00:22:42,089
+Speaker 0: Your team can't have a Mauga.
+
+275
+00:22:42,450 --> 00:22:52,904
+Speaker 1: So, you either be the Battle Pass and be the Mauga, or if you're not, if you're some other position, and you get teamed with a non-one of those, well, it's like okay.
+
+276
+00:22:57,110 --> 00:23:03,806
+Speaker 0: So, I've been in matches where some people on the team are just constantly yelling at the tank like, "Why don't you have the Battle Pass?
+
+277
+00:23:03,826 --> 00:23:04,969
+Speaker 0: You gotta play Mauga or we're gonna
+
+278
+00:23:05,029 --> 00:23:05,270
+Speaker 0: lose.".
+
+279
+00:23:05,270 --> 00:23:06,514
+Speaker 0: And they're like really weird about it.
+
+280
+00:23:06,995 --> 00:23:12,210
+Speaker 0: And Mauga's not even that OP, but he is OP, and they seem to have made it.
+
+281
+00:23:12,471 --> 00:23:14,924
+Speaker 1: Even if they're a tiny bit OP, it doesn't have to be a lot OP.
+
+282
+00:23:15,045 --> 00:23:15,789
+Speaker 1: Any amount of OP.
+
+283
+00:23:16,310 --> 00:23:20,470
+Speaker 0: Even worse, they kind of buffed him right before the holidays and made him even worse.
+
+284
+00:23:21,230 --> 00:23:27,170
+Speaker 1: Even if everyone on the team are pros, it's like, well, that tiny bit of OP-ness actually would matter even more.
+
+285
+00:23:29,814 --> 00:23:40,370
+Speaker 0: And it's just, it's bothering me that this is so pervasive in free-to-play games where, to your point, it's easy to do this by accident in a normal situation.
+
+286
+00:23:40,610 --> 00:23:55,770
+Speaker 0: But in the situation where you're extracting currency from kids with things like Battle Passes, or like the four or five different currencies in Marvel Snap, then yeah, this is just a direct capitalist fucked up incentive.
+
+287
+00:23:55,790 --> 00:24:06,609
+Speaker 1: This is a great example because people often argue with me when things like League of Legends, and I'm like, "If you don't have every character, then it's still an aspect of
+
+288
+00:24:06,629 --> 00:24:07,090
+Speaker 1: pay-to-win.".
+
+289
+00:24:07,150 --> 00:24:12,729
+Speaker 1: And they're like, "No, they think that pay-to-win is only if you had to pay for leveling up or boosting or
+
+290
+00:24:12,769 --> 00:24:13,010
+Speaker 1: whatever.".
+
+291
+00:24:14,273 --> 00:24:17,162
+Speaker 1: They're like, "I have the character that I'm gonna use, right?
+
+292
+00:24:18,165 --> 00:24:18,626
+Speaker 1: It's not
+
+293
+00:24:18,686 --> 00:24:19,248
+Speaker 1: pay-to-win.".
+
+294
+00:24:20,171 --> 00:24:23,218
+Speaker 1: I'm not like, you know, I have that character at full power, right?
+
+295
+00:24:23,399 --> 00:24:27,730
+Speaker 1: And it's like, if it's an asymmetric game and someone has options that you don't have...
+
+296
+00:24:28,650 --> 00:24:43,330
+Speaker 0: Even if all those options are strictly on a Pareto frontier, it's still unfair because, depending on the composition of your team or whatever you're doing, what if the way the other team's playing, Mauga happens to be the best tank to counter that?
+
+297
+00:24:43,510 --> 00:24:47,116
+Speaker 1: The game starts before character selection.
+
+298
+00:24:47,176 --> 00:24:48,899
+Speaker 1: That's the thing people don't understand.
+
+299
+00:24:49,300 --> 00:24:52,525
+Speaker 1: Before character selection, the game has already begun.
+
+300
+00:24:52,625 --> 00:24:54,788
+Speaker 1: Choosing the character is a rock, paper, scissors.
+
+301
+00:24:54,828 --> 00:24:55,850
+Speaker 1: that is part of the game.
+
+302
+00:24:56,190 --> 00:25:00,096
+Speaker 1: If I have rock and paper, it's like, yeah, they're all equally strong with scissors.
+
+303
+00:25:00,677 --> 00:25:08,730
+Speaker 1: But if I'm not allowed to pick scissors because I didn't buy it, then I'm sort of at a disadvantage, wouldn't you say, right?
+
+304
+00:25:08,810 --> 00:25:13,037
+Speaker 1: It's like, sure, I could keep picking rock to beat the people who paid for scissors.
+
+305
+00:25:13,358 --> 00:25:14,259
+Speaker 1: That can happen.
+
+306
+00:25:14,720 --> 00:25:19,088
+Speaker 1: But it's still unfair because what am I supposed to do about paper people?
+
+307
+00:25:19,168 --> 00:25:20,330
+Speaker 1: At best, I can tie them.
+
+308
+00:25:21,134 --> 00:25:22,488
+Speaker 0: And it's really telling.
+
+309
+00:25:22,670 --> 00:25:25,416
+Speaker 1: I can pick paper, but then I'll lose.
+
+310
+00:25:25,577 --> 00:25:28,383
+Speaker 1: if I pick paper to beat paper people, right?
+
+311
+00:25:28,724 --> 00:25:31,110
+Speaker 1: I'm gonna lose to all the people who paid money for scissors.
+
+312
+00:25:31,511 --> 00:25:40,989
+Speaker 0: So Overwatch is nerfing him now, like soon, right about when all the people who didn't have a battle pass are gonna get him.
+
+313
+00:25:44,531 --> 00:25:49,383
+Speaker 0: So, free-to-play is fucking up competitive games in profound ways.
+
+314
+00:25:49,423 --> 00:25:52,630
+Speaker 0: This is just one tiny but very specific example.
+
+315
+00:25:53,130 --> 00:26:07,590
+Speaker 1: No, I'm just gonna say, you never could, but you really can't take any game competitively seriously unless every player has the exact same access to everything, basically.
+
+316
+00:26:07,670 --> 00:26:14,025
+Speaker 0: But look, before Overwatch was free-to-play, they sold skin loot boxes and you paid for the game and it was fine.
+
+317
+00:26:14,346 --> 00:26:16,110
+Speaker 0: They kind of ruined it by going free-to-play.
+
+318
+00:26:16,550 --> 00:26:19,015
+Speaker 0: Free-to-play ruins games just across the board.
+
+319
+00:26:19,095 --> 00:26:20,178
+Speaker 0: It's a bad business.
+
+320
+00:26:20,398 --> 00:26:23,765
+Speaker 0: Well, it's a bad model for a good game, but it's a great business model.
+
+321
+00:26:23,805 --> 00:26:25,970
+Speaker 0: Marvel Snap is making fucking boatloads of money.
+
+322
+00:26:26,650 --> 00:26:27,890
+Speaker 1: Yeah, they just got a big investment.
+
+323
+00:26:28,050 --> 00:26:29,332
+Speaker 0: Yeah, huge investment.
+
+324
+00:26:31,374 --> 00:26:34,638
+Speaker 0: But anyway, things of the day.
+
+325
+00:26:34,658 --> 00:26:36,560
+Speaker 0: It's a little skip.
+
+326
+00:26:37,021 --> 00:26:44,830
+Speaker 0: So, if you're a fan of Star Wars, then you know that the best character in Star Wars is actually a character who's not in the movies, Vice Admiral Thrawn.
+
+327
+00:26:45,651 --> 00:26:47,814
+Speaker 0: So, similarly, you play D&D.
+
+328
+00:26:48,475 --> 00:26:53,302
+Speaker 0: There's a campaign setting called Ravenloft, if you're not up on the D&D world.
+
+329
+00:26:53,662 --> 00:26:55,745
+Speaker 0: And it's basically Vampire World.
+
+330
+00:26:56,046 --> 00:26:58,990
+Speaker 0: And it's ruled by Dracula, except he's called Strahd.
+
+331
+00:26:59,290 --> 00:27:00,313
+Speaker 0: And he's kind of bluish.
+
+332
+00:27:00,594 --> 00:27:02,260
+Speaker 0: He kind of looks like Thrawn.
+
+333
+00:27:02,280 --> 00:27:05,470
+Speaker 0: And there's a mystique about him, at least in the old days.
+
+334
+00:27:06,171 --> 00:27:07,242
+Speaker 1: He's basically just Dracula.
+
+335
+00:27:08,310 --> 00:27:10,870
+Speaker 0: Yeah, but he's Dracula with blue skin who looks like Thrawn.
+
+336
+00:27:12,712 --> 00:27:15,764
+Speaker 1: But he's not like the original Dracula.
+
+337
+00:27:15,804 --> 00:27:17,350
+Speaker 1: He's more like Castlevania Dracula.
+
+338
+00:27:17,390 --> 00:27:22,348
+Speaker 0: Yeah, he's very much like, "I am basically a god, and what the fuck are you gonna do about
+
+339
+00:27:22,388 --> 00:27:22,428
+Speaker 0: it?".
+
+340
+00:27:23,130 --> 00:27:35,109
+Speaker 0: And every D&D... So, he is canonically in the universe of D&D, like forgotten realms, adjacent, because canonically, Ravenloft is connected to all those other campaign worlds.
+
+341
+00:27:35,169 --> 00:27:35,690
+Speaker 0: for reasons.
+
+342
+00:27:37,011 --> 00:27:41,805
+Speaker 0: Most people like to run a campaign where you're playing D&D for a while, and then, "Oh shit, we're all trapped in Ravenloft.
+
+343
+00:27:41,825 --> 00:27:42,426
+Speaker 0: We gotta deal with
+
+344
+00:27:42,727 --> 00:27:43,169
+Speaker 0: Strahd.".
+
+345
+00:27:43,911 --> 00:27:52,090
+Speaker 0: But every campaign, any kid actually runs, usually involves you killing Strahd, like fucking him up, even though he's canonically this ultra-powerful thing.
+
+346
+00:27:52,770 --> 00:27:58,286
+Speaker 0: And this is a very short animation of a little D&D character killing Strahd.
+
+347
+00:27:58,647 --> 00:27:59,810
+Speaker 0: And it's pretty funny.
+
+348
+00:28:01,497 --> 00:28:01,968
+Speaker 0: So, what do you got?
+
+349
+00:28:05,651 --> 00:28:15,830
+Speaker 1: So, there is a... A while ago, a long time ago, I managed to regain access to it, I made a Tumblr of meats from video games.
+
+350
+00:28:15,971 --> 00:28:16,808
+Speaker 0: Oh yeah, Pixel Meats.
+
+351
+00:28:17,430 --> 00:28:18,595
+Speaker 1: Pixel Meats, right?
+
+352
+00:28:18,655 --> 00:28:22,110
+Speaker 1: If you know of any Pixel Meats that are not on my Pixel Meat Tumblr.
+
+353
+00:28:22,170 --> 00:28:22,941
+Speaker 0: Oh, you're doing it again?
+
+354
+00:28:22,961 --> 00:28:23,022
+Speaker 0: Ooh.
+
+355
+00:28:23,950 --> 00:28:27,010
+Speaker 1: I mean, it's been around for, you know, I got access to it a while ago.
+
+356
+00:28:27,895 --> 00:28:30,070
+Speaker 0: I think there's some new meats I can bring your way.
+
+357
+00:28:30,171 --> 00:28:33,090
+Speaker 1: I added a handful of meats to it, and then I forgot about it until today.
+
+358
+00:28:33,250 --> 00:28:34,639
+Speaker 0: I'm gonna link to it from the episode.
+
+359
+00:28:35,021 --> 00:28:35,927
+Speaker 0: Pixel Meat is back.
+
+360
+00:28:35,987 --> 00:28:36,410
+Speaker 1: It's gonna be a noose.
+
+361
+00:28:36,810 --> 00:28:43,448
+Speaker 1: Regardless, somebody made my thing of the day, and their thing of the day is not a Tumblr, it's a standalone website, moei.games.
+
+362
+00:28:44,250 --> 00:29:02,969
+Speaker 1: And what they have done is, it's sort of obvious when you think about it, 'cause like back in the day, there were just so many video games, which, for absolutely no reason whatsoever, included images of moei statues from Rapa Nui/Easter Island.
+
+363
+00:29:04,213 --> 00:29:05,570
+Speaker 0: Yep, they were just there.
+
+364
+00:29:07,350 --> 00:29:12,450
+Speaker 1: Yeah, and they're just like, you play Gradius, and it's like suddenly you're shooting moei heads.
+
+365
+00:29:12,910 --> 00:29:17,390
+Speaker 1: You play Magic Sword by Capcom, moei heads, right?
+
+366
+00:29:17,410 --> 00:29:22,944
+Speaker 1: They're just, in a lot of video games, a lot of them, they're just there as an image.
+
+367
+00:29:22,984 --> 00:29:25,150
+Speaker 1: They're a public domain image, you can just use them.
+
+368
+00:29:25,990 --> 00:29:29,409
+Speaker 1: I don't know, you know, how anyone would feel about that.
+
+369
+00:29:30,732 --> 00:29:34,048
+Speaker 1: In terms of, you know, cultural appropriation or anything, I don't know.
+
+370
+00:29:36,312 --> 00:29:39,850
+Speaker 1: Like, I don't know enough about their history, 'cause I've not studied that.
+
+371
+00:29:41,175 --> 00:29:43,670
+Speaker 1: I only know things that I've read on the internet.
+
+372
+00:29:43,890 --> 00:29:47,170
+Speaker 0: Almost no depiction of them in these old games has their hat on either.
+
+373
+00:29:48,331 --> 00:29:48,531
+Speaker 1: Yeah.
+
+374
+00:29:49,333 --> 00:29:57,410
+Speaker 1: So, you know, this person catalogued them on a website, much like I catalogued.
+
+375
+00:29:58,631 --> 00:30:00,102
+Speaker 1: They did a much better job than I did.
+
+376
+00:30:00,162 --> 00:30:01,150
+Speaker 1: I only got a few meats.
+
+377
+00:30:01,972 --> 00:30:03,599
+Speaker 0: It's a pretty good Infinite Scroll catalog.
+
+378
+00:30:04,081 --> 00:30:05,930
+Speaker 0: I wonder, are there more of these or meats?
+
+379
+00:30:07,512 --> 00:30:09,684
+Speaker 1: There might be more of these than meats.
+
+380
+00:30:09,704 --> 00:30:10,709
+Speaker 1: There's so many of them.
+
+381
+00:30:11,330 --> 00:30:14,030
+Speaker 0: I'm scrolling and scrolling, and it keeps loading.
+
+382
+00:30:15,173 --> 00:30:16,546
+Speaker 1: Oh yeah, there's so many.
+
+383
+00:30:20,313 --> 00:30:21,884
+Speaker 1: Good job, moai.games.
+
+384
+00:30:23,314 --> 00:30:24,269
+Speaker 1: In the meta moment!
+
+385
+00:30:25,190 --> 00:30:28,150
+Speaker 0: The Geek Nights Book Club book is The Night is Short, Walk on Girl.
+
+386
+00:30:28,370 --> 00:30:32,130
+Speaker 0: As made famous in nerd circles by the anime, The Night is Short, Walk on Girl.
+
+387
+00:30:33,050 --> 00:30:34,058
+Speaker 0: I have started reading it.
+
+388
+00:30:34,078 --> 00:30:35,308
+Speaker 0: Scott has also started reading it.
+
+389
+00:30:35,811 --> 00:30:37,089
+Speaker 0: Do you wanna show it at some point?
+
+390
+00:30:37,550 --> 00:30:41,269
+Speaker 0: The previous book club book, The Murderbot Diaries, I'll just mention because we did a show on it.
+
+391
+00:30:42,531 --> 00:30:49,750
+Speaker 0: There's such short reads, and they're coming up increasingly in my social circles, frequently.
+
+392
+00:30:50,751 --> 00:30:55,850
+Speaker 0: Those books are being talked about, so you should probably read The Murderbot Diaries if you listen to Geek Nights.
+
+393
+00:30:56,150 --> 00:30:56,509
+Speaker 0: Just saying.
+
+394
+00:30:56,710 --> 00:31:03,110
+Speaker 1: Yeah, there might be some internet memeage that you didn't realize was Murderbot jokes until you read the books.
+
+395
+00:31:03,330 --> 00:31:04,868
+Speaker 1: You can read one book, and that'd be great.
+
+396
+00:31:05,050 --> 00:31:05,754
+Speaker 0: You'll get most of them.
+
+397
+00:31:05,975 --> 00:31:07,764
+Speaker 0: Read two books, and you'll get 90% of them, I think.
+
+398
+00:31:10,923 --> 00:31:11,128
+Speaker 0: So yeah.
+
+399
+00:31:12,430 --> 00:31:17,629
+Speaker 0: We will be at MAGFest in a couple weeks doing not one, but two panels.
+
+400
+00:31:18,710 --> 00:31:20,015
+Speaker 0: Those panels are reruns of panels.
+
+401
+00:31:20,035 --> 00:31:26,290
+Speaker 0: we've done on other cons, but MAGFest is often an environment where-- A couple weeks will be there in like nine days.
+
+402
+00:31:27,250 --> 00:31:31,670
+Speaker 0: So if you're going to MAGFest, let us know, and we'll probably see you around.
+
+403
+00:31:32,111 --> 00:31:36,890
+Speaker 0: I plan to spend at least 20% of my time in concerts at this MAGFest.
+
+404
+00:31:37,272 --> 00:31:40,609
+Speaker 0: At least 10% of my time on DDR machines, assuming they are there.
+
+405
+00:31:41,373 --> 00:31:48,029
+Speaker 1: And the rest-- I'm not going to budget it, I'm just going to roll with it, but I guarantee I will eat at-- Nando's at least once.
+
+406
+00:31:48,890 --> 00:31:51,689
+Speaker 1: Nando's chicken, and you know.
+
+407
+00:31:52,370 --> 00:31:53,189
+Speaker 0: It's going to be a good time.
+
+408
+00:31:54,231 --> 00:32:00,770
+Speaker 0: I've missed conventions, but MAGFest has always been one of my favorite cons to just go and party at, so I look forward to the party.
+
+409
+00:32:02,376 --> 00:32:02,908
+Speaker 0: Let's get into it!
+
+410
+00:32:03,150 --> 00:32:17,549
+Speaker 0: At PEX Unplugged, we played a bunch of tabletop games, and one of them, Scott, comes over and says, "Oh, there's this game, and it looks like it's 18XX-style auctions, but it's not a train game, it's got another thing going
+
+411
+00:32:17,689 --> 00:32:17,729
+Speaker 0: on.".
+
+412
+00:32:18,292 --> 00:32:21,290
+Speaker 0: And you kept mentioning it, like, for a while.
+
+413
+00:32:21,990 --> 00:32:33,670
+Speaker 1: Well, because I went through the first look, and I read the rules to the games that looked like they were worth learning, and weren't going to be big and complicated, or require a bunch of players, or long rules explanations.
+
+414
+00:32:34,450 --> 00:32:48,970
+Speaker 1: And I saw this one, it was called Whale Street, and the art was kind of good, the production was good, and basically, it wouldn't take us long to learn, because it was mostly the same as 18XX train games.
+
+415
+00:32:49,571 --> 00:33:16,210
+Speaker 1: And it did something that I had long thought of doing, but few had attempted, which is to make an 18XX game, but to have a simpler, more streamlined operating round, but with that same inside-outside structure, so that you get the same sort of metagame thing, the core, that's the real meat of 18XX in my eyes.
+
+416
+00:33:16,491 --> 00:33:24,610
+Speaker 1: A lot of people, I think, the core of 18XX for them is the train part, whereas for me, it's the separation of the stock round from the operating round is the core part.
+
+417
+00:33:25,130 --> 00:33:35,490
+Speaker 1: So, this game replaced the train part entirely with a much simpler game of Texas Hold'em-ish poker.
+
+418
+00:33:35,770 --> 00:33:52,941
+Speaker 0: Basically, you got companies that will generate poker hands, where some players might know a little more about what that company's up to by having seen a card or two, and you're otherwise playing a pretty straight 18XX stock round
+
+419
+00:33:53,483 --> 00:33:54,204
+Speaker 1: around
+
+420
+00:33:54,224 --> 00:34:02,030
+Speaker 0: the poker hands these companies are doing, and the stocks move up or down based on the market of buying and selling, and also based on the poker hands.
+
+421
+00:34:02,811 --> 00:34:10,206
+Speaker 1: Yep, so instead of companies having this, "Oh, that company's clearly going to be the winner.
+
+422
+00:34:10,246 --> 00:34:11,989
+Speaker 1: Look how strong it is with capitalism
+
+423
+00:34:12,010 --> 00:34:12,170
+Speaker 1: snowball."
+
+424
+00:34:13,889 --> 00:34:16,476
+Speaker 1: It's, "Oh, which company has the best poker
+
+425
+00:34:16,496 --> 00:34:16,697
+Speaker 1: hand?".
+
+426
+00:34:16,717 --> 00:34:21,889
+Speaker 1: Well, A, we don't have full information because it's poker and it's not trains where we can see everything.
+
+427
+00:34:22,630 --> 00:34:26,909
+Speaker 0: And someone runs the company and might make decisions, just like in an 18XX game.
+
+428
+00:34:27,291 --> 00:34:32,570
+Speaker 1: Someone who's operating a company can choose, just like 18XX, how that company spends its money.
+
+429
+00:34:32,670 --> 00:34:45,686
+Speaker 1: And now they can choose, "Well, do I spend this company's money to generate a better poker hand to make its stock price go up, or do I spend that company's money on revenues to give me a bunch of money to buy
+
+430
+00:34:45,706 --> 00:34:45,826
+Speaker 1: others?".
+
+431
+00:34:47,090 --> 00:34:50,228
+Speaker 0: Or do I just fucking tank the company and sell it all and dump it on someone else?
+
+432
+00:34:50,953 --> 00:34:55,150
+Speaker 1: Right, it's like there's so many things you can, you know, there's choices to be made there.
+
+433
+00:34:56,670 --> 00:35:02,810
+Speaker 1: And companies won't snowball so much because your stock price can go back down quite easily.
+
+434
+00:35:03,791 --> 00:35:05,877
+Speaker 1: And, you know, they have a good hand.
+
+435
+00:35:06,058 --> 00:35:09,869
+Speaker 1: It's like, "Well, yeah, you had a good hand then, but that doesn't guarantee having a good hand next
+
+436
+00:35:09,909 --> 00:35:10,150
+Speaker 1: time.".
+
+437
+00:35:10,250 --> 00:35:15,948
+Speaker 1: Whereas once a company gets its trains going, it's probably going to keep its trains, you know, the companies in 18XX games.
+
+438
+00:35:16,690 --> 00:35:18,415
+Speaker 1: They get off good, they stay good.
+
+439
+00:35:18,877 --> 00:35:20,682
+Speaker 1: They get the good tokens, the good tracks.
+
+440
+00:35:22,106 --> 00:35:23,370
+Speaker 1: You know which ones are going to be good.
+
+441
+00:35:23,590 --> 00:35:25,997
+Speaker 1: Here, companies can have a bit more up and down.
+
+442
+00:35:26,860 --> 00:35:30,170
+Speaker 1: It's not a locked-in kind of deal, and that makes it a bit more interesting.
+
+443
+00:35:31,030 --> 00:35:34,619
+Speaker 1: And so based on that concept, I was like, "We gotta play this game.
+
+444
+00:35:34,679 --> 00:35:36,604
+Speaker 1: Look, they lock that concept down.
+
+445
+00:35:37,426 --> 00:35:39,210
+Speaker 1: 18XX but simpler with poker.
+
+446
+00:35:39,750 --> 00:35:40,817
+Speaker 1: That's a genius thought.
+
+447
+00:35:40,837 --> 00:35:42,327
+Speaker 1: Whoever thought of it, let's play
+
+448
+00:35:42,368 --> 00:35:42,509
+Speaker 1: this.".
+
+449
+00:35:42,730 --> 00:35:42,870
+Speaker 0: Yup.
+
+450
+00:35:43,352 --> 00:35:47,462
+Speaker 0: And, unfortunately, really, no disrespect to the designers.
+
+451
+00:35:47,542 --> 00:35:48,906
+Speaker 0: It's well-designed.
+
+452
+00:35:48,966 --> 00:35:50,530
+Speaker 0: It's got a lot of positive aspects.
+
+453
+00:35:51,290 --> 00:36:13,630
+Speaker 0: But I'd say over the course of the 30-ish minutes we spent with a group of people who were invested in the concept, learning to play, having a lot of rules clarifications, and then attempting to play, we bounced off of it shockingly hard compared to how enthusiastic we all were coming in.
+
+454
+00:36:14,652 --> 00:36:18,450
+Speaker 0: This is the first time in a long time I've bounced off of a game unexpectedly.
+
+455
+00:36:20,111 --> 00:36:30,580
+Speaker 1: Well, I think the hardest, the biggest flaw of the game is that it was not trivial to determine, "Okay, everyone did all their operating.
+
+456
+00:36:30,600 --> 00:36:33,770
+Speaker 1: They messed with the cards as much as they could.
+
+457
+00:36:34,211 --> 00:36:39,048
+Speaker 1: We know what the cards are out in the market, the shared cards, because it's a Hold'em style
+
+458
+00:36:39,068 --> 00:36:39,410
+Speaker 1: poker.".
+
+459
+00:36:39,570 --> 00:36:41,803
+Speaker 0: We've resolved every rules question.
+
+460
+00:36:41,944 --> 00:36:43,070
+Speaker 0: Everything is going fine.
+
+461
+00:36:43,810 --> 00:36:49,508
+Speaker 1: And then the question was, "Okay, which company has the strongest poker
+
+462
+00:36:49,548 --> 00:36:49,749
+Speaker 1: hand?".
+
+463
+00:36:50,412 --> 00:36:53,850
+Speaker 1: And answering that question was shockingly difficult.
+
+464
+00:36:53,970 --> 00:36:56,389
+Speaker 0: Now, when we say shockingly difficult, we messed it up.
+
+465
+00:36:56,831 --> 00:37:05,230
+Speaker 0: And this is a group of people who I would say are like goddamn experts at the concept of poker hands.
+
+466
+00:37:05,510 --> 00:37:05,671
+Speaker 1: Right.
+
+467
+00:37:05,691 --> 00:37:10,130
+Speaker 1: If you're playing poker, it's like actual normal poker, any variety of it.
+
+468
+00:37:10,510 --> 00:37:16,330
+Speaker 1: You can just reveal your cards and within seconds everyone at the table recognizes that's the winning hand.
+
+469
+00:37:16,950 --> 00:37:29,464
+Speaker 0: And even if everyone but one person somehow messes it up, like there's 20 people playing Texas Hold'em somehow, at least one person is going to recognize immediately, "Hey, we did this wrong.
+
+470
+00:37:29,524 --> 00:37:30,808
+Speaker 0: That one wins and it's
+
+471
+00:37:30,848 --> 00:37:31,169
+Speaker 0: fine.".
+
+472
+00:37:31,750 --> 00:37:40,370
+Speaker 0: Somehow we messed it up on multiple levels and nobody noticed because everyone was confused.
+
+473
+00:37:42,011 --> 00:37:46,170
+Speaker 0: And part of this is because the structure of the game is moderately confusing.
+
+474
+00:37:46,710 --> 00:37:53,470
+Speaker 0: Like there's a lot of confusing steps that really didn't need to be there or didn't seem to serve any game purpose.
+
+475
+00:37:54,031 --> 00:38:13,430
+Speaker 0: But also instead of using just either a regular deck of cards or a modified but consistent deck of cards, for reasons that I don't really understand, they made their own deck of colors and numbers and also made up their own ranking of what hand is more powerful.
+
+476
+00:38:13,530 --> 00:38:18,830
+Speaker 0: So if you know poker, you do not necessarily know what makes a stronger hand here.
+
+477
+00:38:20,012 --> 00:38:23,025
+Speaker 1: So the strongest hand is four of a kind, four of the same number, right?
+
+478
+00:38:24,550 --> 00:38:25,660
+Speaker 1: So that's easy to spot.
+
+479
+00:38:25,740 --> 00:38:26,870
+Speaker 1: No one achieved that, right?
+
+480
+00:38:27,310 --> 00:38:30,850
+Speaker 1: The second strongest hand is like four of the same color, okay?
+
+481
+00:38:31,450 --> 00:38:35,650
+Speaker 1: And then four numbers in order, so a straight regardless of suit.
+
+482
+00:38:36,130 --> 00:38:42,708
+Speaker 1: Then three of a kind, three same number, then three same color, then three numbers in order, right?
+
+483
+00:38:43,711 --> 00:38:49,430
+Speaker 1: And so you go around and you're looking and it's like, aha, I have four numbers in order.
+
+484
+00:38:49,650 --> 00:38:53,350
+Speaker 1: But wait, I also have four of the same color.
+
+485
+00:38:54,695 --> 00:38:57,429
+Speaker 1: You have multiples hitting at once because of the shared pool.
+
+486
+00:38:58,250 --> 00:39:10,250
+Speaker 1: And it's like because it was colors and these numbers and no face cards or anything, it was like, wait, what actually is my hand?
+
+487
+00:39:10,350 --> 00:39:15,710
+Speaker 1: I thought it was three numbers in order, which I do have, but actually I have three numbers, same color.
+
+488
+00:39:15,810 --> 00:39:16,815
+Speaker 1: That's what I have.
+
+489
+00:39:17,036 --> 00:39:20,210
+Speaker 1: And then what does that company have?
+
+490
+00:39:21,131 --> 00:39:26,810
+Speaker 1: And so it's like, okay, so actually it wasn't the company that we thought that had this.
+
+491
+00:39:26,950 --> 00:39:32,790
+Speaker 1: It was this other company because they had the same thing, but with a higher number card in there to break the tie.
+
+492
+00:39:32,950 --> 00:39:33,822
+Speaker 1: We just didn't realize it.
+
+493
+00:39:35,072 --> 00:39:47,804
+Speaker 0: Couple this with the fact that the rules for when cards flip up, face up so everyone can see them versus remain private, versus when they're in the pool versus when they
+
+494
+00:39:47,905 --> 00:39:48,226
+Speaker 1: count
+
+495
+00:39:48,567 --> 00:39:54,770
+Speaker 0: and can be used, we're all just fiddly and you had to keep a lot in your head to figure out the poker hand.
+
+496
+00:39:55,250 --> 00:39:59,970
+Speaker 0: All the procedures meant that everyone struggled to understand the odds and we messed up the poker hands.
+
+497
+00:40:00,592 --> 00:40:03,023
+Speaker 0: And that wasn't even the biggest problem.
+
+498
+00:40:03,063 --> 00:40:04,690
+Speaker 0: That was just the straw that broke the camel's back.
+
+499
+00:40:05,170 --> 00:40:10,730
+Speaker 0: And suddenly everyone else at the table kind of wilted and all voted to not continue the game.
+
+500
+00:40:10,770 --> 00:40:14,330
+Speaker 0: And we actually stopped playing after a little more interrogation of the rules.
+
+501
+00:40:16,531 --> 00:40:27,390
+Speaker 1: I think it's also, it's just, you know, even though the concept was so strong of simplifying the operating round of an 18XX game with something simpler and poker, I don't think was a bad choice.
+
+502
+00:40:27,510 --> 00:40:29,036
+Speaker 0: Poker's a great choice.
+
+503
+00:40:29,417 --> 00:40:32,850
+Speaker 0: Poker adjacent, there's a lot of ways, that wasn't even the worst.
+
+504
+00:40:33,050 --> 00:40:39,250
+Speaker 0: But all the problems of the poker hands were weirdly hard to do, that's not insurmountable.
+
+505
+00:40:39,770 --> 00:40:51,490
+Speaker 0: The method and means of adding, removing, and revealing cards was not predictable enough for player agency to seem to matter that much.
+
+506
+00:40:51,550 --> 00:40:58,110
+Speaker 0: Like the value of the companies felt like it was a lot more random than it needed to be.
+
+507
+00:40:58,771 --> 00:41:03,402
+Speaker 1: Well, I don't think it's how random it was.
+
+508
+00:41:03,503 --> 00:41:04,184
+Speaker 1: That didn't matter.
+
+509
+00:41:04,265 --> 00:41:06,350
+Speaker 1: I think what matters is that it was random.
+
+510
+00:41:06,470 --> 00:41:07,740
+Speaker 0: Well, it was really random.
+
+511
+00:41:07,781 --> 00:41:08,950
+Speaker 0: It was more like betting a lot of hits.
+
+512
+00:41:08,970 --> 00:41:09,734
+Speaker 1: But it doesn't matter how random.
+
+513
+00:41:09,915 --> 00:41:13,070
+Speaker 1: Any randomness at all would have been too much, right?
+
+514
+00:41:13,170 --> 00:41:18,346
+Speaker 1: We forgot when seeing the concept of, aha, simplified 18XX operating.
+
+515
+00:41:18,366 --> 00:41:19,490
+Speaker 1: Terrific, right?
+
+516
+00:41:19,731 --> 00:41:28,910
+Speaker 1: We forget the other core thing of 18XX, which is that there's really no randomness other than who goes first and maybe randomize the private companies to start.
+
+517
+00:41:28,930 --> 00:41:35,550
+Speaker 0: At the very least, players in the stock round can make reasonable valuation assessments of the companies.
+
+518
+00:41:35,910 --> 00:41:43,330
+Speaker 0: Here, honestly, it was more like playing an 18XX game, and the companies are effectively betting on three different slot machines.
+
+519
+00:41:45,152 --> 00:41:46,697
+Speaker 0: And that is not a satisfying game.
+
+520
+00:41:46,958 --> 00:41:50,490
+Speaker 0: But to make it worse, each company has a built-in power.
+
+521
+00:41:50,710 --> 00:41:53,445
+Speaker 0: Now, before you think, oh, some 18XX games have that.
+
+522
+00:41:53,526 --> 00:41:54,129
+Speaker 0: Yeah, they do.
+
+523
+00:41:54,910 --> 00:42:07,590
+Speaker 0: But these powers were all very different from each other and extremely fiddly to the point that everyone had to keep reading them over and over and over again and then checking to see if they applied or not.
+
+524
+00:42:07,790 --> 00:42:11,821
+Speaker 0: Like, they were not well-written or designed.
+
+525
+00:42:11,881 --> 00:42:15,170
+Speaker 0: Like, I would have removed that whole concept or radically simplified it.
+
+526
+00:42:16,151 --> 00:42:17,714
+Speaker 0: Like, they were just deeply unsatisfying.
+
+527
+00:42:17,754 --> 00:42:25,050
+Speaker 0: Like, Shell Motors, it has some arbitrary limits and some stuff I don't really want to explain because it's too fiddly.
+
+528
+00:42:25,451 --> 00:42:34,850
+Speaker 0: But its power is at phase three, if the sum of the tech cards on the market board is 12 or less, this company gets eight revenue.
+
+529
+00:42:35,652 --> 00:42:36,273
+Speaker 0: So every
+
+530
+00:42:36,293 --> 00:42:36,674
+Speaker 1: time any
+
+531
+00:42:36,774 --> 00:42:49,725
+Speaker 0: fucking thing happens in the game, everyone has to look and check, is that true or not, to then determine whether or not this company will have eight more dollars, which will then impact what that company is capable of during its operating round, which determines its valuation.
+
+532
+00:42:50,246 --> 00:42:51,389
+Speaker 0: Nobody's got time for that.
+
+533
+00:42:54,271 --> 00:42:59,920
+Speaker 1: But I think you can't have an 18XX simplifying the operating round with some other game.
+
+534
+00:43:00,260 --> 00:43:06,470
+Speaker 1: that reduces how much time the game takes, reduces complexity, but keeps the core is a great idea.
+
+535
+00:43:07,031 --> 00:43:15,850
+Speaker 1: But you have to keep the other thing that's true about 18XX, which is that there's really no hidden information and there's really no randomness.
+
+536
+00:43:19,211 --> 00:43:30,930
+Speaker 0: I would accept a tiny amount of randomness in that I would be okay with the president of a company knowing an X1 card that isn't public right away.
+
+537
+00:43:31,750 --> 00:43:39,470
+Speaker 1: I mean, yeah, it's obviously more randomness would be more damaging and less would be much better, but zero is really ideal for this kind of game.
+
+538
+00:43:40,611 --> 00:43:45,490
+Speaker 1: In a real stock market, if someone has an information advantage, they just win.
+
+539
+00:43:46,190 --> 00:43:48,894
+Speaker 0: The cards in the pool would move too fast.
+
+540
+00:43:49,114 --> 00:43:58,988
+Speaker 0: Cards would come in quickly and players who ran companies could take actions to push cards through the pool even faster, which added randomness multiplied by randomness.
+
+541
+00:44:03,393 --> 00:44:13,430
+Speaker 0: And it was really unsatisfying to play and the rules were so fiddly that we spent a long time continually referring to the rules to figure out how to do basic procedural things.
+
+542
+00:44:14,170 --> 00:44:23,430
+Speaker 0: And then to make matters worse, the physical components, if you so much as bump the table, you will ruin the game because you will not know what anything costs anymore.
+
+543
+00:44:24,172 --> 00:44:26,196
+Speaker 0: The spaces to put things were too small.
+
+544
+00:44:26,216 --> 00:44:32,630
+Speaker 0: Lots of little physical design flaws kind of sealed the deal on us bouncing off of this game, unfortunately.
+
+545
+00:44:32,830 --> 00:44:39,430
+Speaker 1: Yeah, I think they were trying to keep the game small, like physically small, so it wasn't some giant box full of enormous things.
+
+546
+00:44:40,350 --> 00:44:45,570
+Speaker 0: But there is a reason 18XX games are huge and it is not just because they're train games.
+
+547
+00:44:48,391 --> 00:44:51,336
+Speaker 1: The smallness saves the money on production.
+
+548
+00:44:52,057 --> 00:44:55,944
+Speaker 1: B, it makes the game look approachable.
+
+549
+00:44:56,024 --> 00:44:57,307
+Speaker 1: There isn't that much game here.
+
+550
+00:44:57,327 --> 00:44:59,250
+Speaker 1: There's only a few types of components.
+
+551
+00:45:01,410 --> 00:45:05,238
+Speaker 0: There's actually a lot of game here, but it's not the part you think it is.
+
+552
+00:45:05,278 --> 00:45:11,590
+Speaker 0: It's like an 18XX game, if the operating rounds were not only random, but ten times more complex.
+
+553
+00:45:12,652 --> 00:45:16,730
+Speaker 0: And then the stock rounds were also more complex, but none of that worked.
+
+554
+00:45:17,850 --> 00:45:20,595
+Speaker 1: Right, it is simpler than an 18XX game.
+
+555
+00:45:21,035 --> 00:45:29,930
+Speaker 1: In 18XX, you have to figure out what's the optimal route this company can run with these trains, and that is a harder problem to solve than who has the best poker hand.
+
+556
+00:45:29,930 --> 00:45:32,529
+Speaker 0: But it's not a confusing problem to solve.
+
+557
+00:45:33,671 --> 00:45:38,762
+Speaker 1: I mean, it could be, depending on your brain level and how used to it you are.
+
+558
+00:45:38,802 --> 00:45:42,630
+Speaker 1: The first few times I played, I didn't fucking figure out how to do it properly.
+
+559
+00:45:42,710 --> 00:45:56,510
+Speaker 0: This game would definitely be confusing, even if you had played it many times, because of the sheer number of random-ish inputs, the iconography instead of just using suits or poker hands, all these factors.
+
+560
+00:45:56,610 --> 00:45:59,530
+Speaker 1: They should have just used a literal, normal ass deck of cards.
+
+561
+00:45:59,670 --> 00:46:02,979
+Speaker 1: Or even a deck of cards with some extra suits.
+
+562
+00:46:03,560 --> 00:46:07,170
+Speaker 0: You could do a poker-type game where there's a fifth suit and it works fine.
+
+563
+00:46:07,691 --> 00:46:08,533
+Speaker 1: You don't need to, though.
+
+564
+00:46:08,593 --> 00:46:09,815
+Speaker 1: Just play.
+
+565
+00:46:09,936 --> 00:46:11,960
+Speaker 1: What's wrong with a 52 deck of cards?
+
+566
+00:46:12,942 --> 00:46:14,786
+Speaker 1: How would it be better by adding another suit?
+
+567
+00:46:14,806 --> 00:46:16,450
+Speaker 1: How does that improve it in any way?
+
+568
+00:46:16,590 --> 00:46:18,690
+Speaker 0: I mean, a bunch of trick-taking games we play add extra suits.
+
+569
+00:46:19,390 --> 00:46:24,450
+Speaker 1: But I'm saying, for a game of poker, how do you-- Pandante, a poker game, is improved by having another suit.
+
+570
+00:46:25,311 --> 00:46:29,570
+Speaker 1: Is it improved, or wouldn't it be better to just play Pandante with the regular deck of cards?
+
+571
+00:46:29,991 --> 00:46:44,843
+Speaker 0: I think Pandante is improved by it, but that's an edge case in fairness, partly because having more potential poker hands-- One, Pandante, even though it has more potential poker hands with the extra suit, the poker rules apply.
+
+572
+00:46:44,923 --> 00:46:48,450
+Speaker 0: Someone who knows poker logic can apply it to panda logic very easily.
+
+573
+00:46:48,570 --> 00:46:50,269
+Speaker 0: There's just one extra kind of hand, a flouche.
+
+574
+00:46:50,551 --> 00:46:50,965
+Speaker 1: The flouche.
+
+575
+00:46:51,650 --> 00:46:52,473
+Speaker 0: And that works fine.
+
+576
+00:46:52,954 --> 00:46:55,923
+Speaker 0: This is just, like, made-up nonsense.
+
+577
+00:46:56,043 --> 00:46:58,170
+Speaker 0: Even Battle Lion is more consistent than this.
+
+578
+00:46:59,752 --> 00:47:03,870
+Speaker 0: And Battle Lion also kind of makes up three-card poker hands with a weird deck.
+
+579
+00:47:03,930 --> 00:47:09,823
+Speaker 1: The other thing is that the way the stock market moves is, I like how when you buy a share, price goes up.
+
+580
+00:47:09,883 --> 00:47:11,606
+Speaker 1: When you sell a share, price goes down.
+
+581
+00:47:11,707 --> 00:47:13,210
+Speaker 1: That part is way better, right?
+
+582
+00:47:13,971 --> 00:47:15,297
+Speaker 1: Much simpler to understand.
+
+583
+00:47:15,318 --> 00:47:17,930
+Speaker 1: This makes the stock rounds a little more interesting.
+
+584
+00:47:19,353 --> 00:47:26,286
+Speaker 1: You don't have to worry about stuff like, "If the stock is sold out, it gets an extra boost," or any weird shit like that that 18XX has.
+
+585
+00:47:26,626 --> 00:47:28,610
+Speaker 1: Big improvement in the stock round, big time.
+
+586
+00:47:28,970 --> 00:47:37,210
+Speaker 1: I would like to play an 18XX that had that kind of simplified stock round, where whenever anyone buys a share from the treasury, the price goes up.
+
+587
+00:47:37,310 --> 00:47:39,901
+Speaker 1: And whenever anyone sells a share, price goes down.
+
+588
+00:47:40,524 --> 00:47:41,950
+Speaker 1: And just keep it real simple.
+
+589
+00:47:42,230 --> 00:47:52,030
+Speaker 1: But the way the stocks move after you do manage to figure out the true ranking of the companies is, basically, each round you're going to flip over this board.
+
+590
+00:47:52,731 --> 00:47:59,370
+Speaker 1: And that board is basically going to represent, like, how volatile the market is at that point in time.
+
+591
+00:47:59,931 --> 00:48:03,819
+Speaker 1: And so, some rounds, the market might be, like, not so exciting.
+
+592
+00:48:03,999 --> 00:48:08,869
+Speaker 1: We're like, "Okay, even if you win this hand, you're only going to move up one more space than the other companies,".
+
+593
+00:48:08,969 --> 00:48:09,170
+Speaker 1: right?
+
+594
+00:48:10,410 --> 00:48:16,883
+Speaker 1: But this hand, if you win this hand, you'll be, like, plus five, because it's a really crazy market right now.
+
+595
+00:48:17,524 --> 00:48:20,530
+Speaker 1: And if you lose this hand, you're going to be, like, minus three.
+
+596
+00:48:21,171 --> 00:48:28,027
+Speaker 1: And basically, because of that, it's like, "Oh, those numbers are all single-digit numbers.
+
+597
+00:48:28,087 --> 00:48:29,109
+Speaker 1: How big of a deal it can
+
+598
+00:48:29,130 --> 00:48:29,230
+Speaker 1: be?".
+
+599
+00:48:29,350 --> 00:48:32,337
+Speaker 1: Well, it can be a really big deal when you're only playing a handful of rounds.
+
+600
+00:48:33,038 --> 00:48:38,390
+Speaker 1: And now that one round ends up being the round that matters and decides which company is the big company.
+
+601
+00:48:38,791 --> 00:48:45,610
+Speaker 1: And so, whoever bought shares in that company at the start of the game and still has those shares is going to have the most valuable shares.
+
+602
+00:48:47,030 --> 00:48:53,879
+Speaker 1: And even if that company then proceeds to lose in the remaining rounds, it might not fall too much.
+
+603
+00:48:54,640 --> 00:49:01,049
+Speaker 1: And the other companies can't catch up because, you know, five is a bigger number than one, one, one, right?
+
+604
+00:49:01,229 --> 00:49:01,750
+Speaker 1: Or one, two.
+
+605
+00:49:02,531 --> 00:49:12,610
+Speaker 0: And I guess, if you play an 18xx game at 18xx.games, where it kind of handles all the calculations and, like, procedures for you, like, they're great games.
+
+606
+00:49:14,210 --> 00:49:21,202
+Speaker 0: Even if you had a computer handling everything, this game would still be a little too confusing and fiddly to play.
+
+607
+00:49:21,523 --> 00:49:29,530
+Speaker 1: There are so many procedures that are difficult to-- You wouldn't miss any of the bonus powers or get the rankings wrong.
+
+608
+00:49:29,530 --> 00:49:40,550
+Speaker 0: No, but you would miss understanding if and how they will apply because if and how they apply depends on all the random inputs, so it's very hard to project a valuation of a company.
+
+609
+00:49:41,230 --> 00:49:43,505
+Speaker 0: So, buying and selling stock is just gambling.
+
+610
+00:49:43,566 --> 00:49:44,210
+Speaker 1: It's just lottery tickets.
+
+611
+00:49:45,111 --> 00:49:51,321
+Speaker 1: If you computerize this because of the randomness, you can't have undoing or redoing or anything like that.
+
+612
+00:49:51,842 --> 00:49:56,990
+Speaker 1: And because of the hidden information, you can't have communication or anything like that, right?
+
+613
+00:49:57,191 --> 00:49:59,666
+Speaker 1: So, that just sort of messes up the whole thing.
+
+614
+00:50:00,430 --> 00:50:10,790
+Speaker 0: But it's also very easy to ruin your game by missing a step and then all your procedures are messed up and there's one too many cards in a place and they're all, like, irrecoverable errors.
+
+615
+00:50:11,751 --> 00:50:24,527
+Speaker 1: I don't think it would actually be bad if you just used regular deck of cards and, you know, okay, sure, you still, you know, maybe you don't even randomize the cards.
+
+616
+00:50:24,787 --> 00:50:27,150
+Speaker 1: You just literally show the hands that are there.
+
+617
+00:50:27,270 --> 00:50:30,510
+Speaker 0: What does the owner of a company do in the operating round?
+
+618
+00:50:31,610 --> 00:50:36,336
+Speaker 1: You literally go and spend the company's money to buy cards.
+
+619
+00:50:36,396 --> 00:50:37,898
+Speaker 1: Like, I want to buy that king.
+
+620
+00:50:38,038 --> 00:50:39,460
+Speaker 1: Kings are strong right now.
+
+621
+00:50:39,920 --> 00:50:43,745
+Speaker 1: And, right, I have to buy, you know, there's two kings in the market.
+
+622
+00:50:43,785 --> 00:50:48,050
+Speaker 1: If I buy that king and put it on my board, I'll have three kings.
+
+623
+00:50:48,431 --> 00:50:50,842
+Speaker 1: And so, the companies are fighting to see who can buy the king.
+
+624
+00:50:50,862 --> 00:50:52,670
+Speaker 1: You just show it, right?
+
+625
+00:50:53,534 --> 00:50:55,021
+Speaker 0: You can add the collusion, too.
+
+626
+00:50:55,303 --> 00:50:56,649
+Speaker 0: Let companies buy between each other.
+
+627
+00:50:57,050 --> 00:50:59,569
+Speaker 1: It functions the same as fighting for track or fighting for trains.
+
+628
+00:50:59,930 --> 00:51:00,671
+Speaker 0: Here's something.
+
+629
+00:51:00,691 --> 00:51:07,001
+Speaker 0: In AT&T X Games, one of the big, interesting parts of the operating rounds is the illegal collusion.
+
+630
+00:51:07,081 --> 00:51:12,770
+Speaker 0: Like, if I own two companies, well, company A buys really nice train from company B for a dollar.
+
+631
+00:51:13,130 --> 00:51:18,090
+Speaker 0: So, if I own two companies in this game, company A buys a king from company B for a dollar.
+
+632
+00:51:18,671 --> 00:51:18,992
+Speaker 1: That's right.
+
+633
+00:51:19,012 --> 00:51:22,059
+Speaker 1: There's no intercompany buying and selling in this game, right?
+
+634
+00:51:22,099 --> 00:51:27,030
+Speaker 1: Which also kind of ruins the whole, you know, thing going on.
+
+635
+00:51:27,050 --> 00:51:36,362
+Speaker 0: So, I guess I would say, unfortunately, I would recommend, if you see this game, like, at a table to play for free at a con, you could try it out.
+
+636
+00:51:37,062 --> 00:51:41,748
+Speaker 0: I would not buy this game or seek it out based on my reading of the rules and an attempt to play it.
+
+637
+00:51:42,549 --> 00:51:43,030
+Speaker 0: Which is a shame.
+
+638
+00:51:43,090 --> 00:51:45,955
+Speaker 1: So, it's, you know, the concept is there.
+
+639
+00:51:45,975 --> 00:51:47,558
+Speaker 1: I really, I'm enjoying that.
+
+640
+00:51:47,618 --> 00:51:54,590
+Speaker 1: somebody went for it and I learned a lot from playing their attempt and there were positive things here.
+
+641
+00:51:54,810 --> 00:52:01,207
+Speaker 1: Like I said, the stock round being just straightforward is like, yeah, why do all these other games complicate their stock round unnecessarily, right?
+
+642
+00:52:01,267 --> 00:52:02,410
+Speaker 1: This is just fine.
+
+643
+00:52:04,591 --> 00:52:12,430
+Speaker 0: So, the listener actually just asked, how does this compare to the other well-known 18x style game without track, Rolling Stock?
+
+644
+00:52:13,190 --> 00:52:14,714
+Speaker 1: I'd say it's the opposite of Rolling Stock.
+
+645
+00:52:15,075 --> 00:52:20,710
+Speaker 0: Rolling Stock is like 100% deterministic and you make bad decisions and you lose in round one.
+
+646
+00:52:21,690 --> 00:52:25,256
+Speaker 1: Yeah, Rolling Stock is like the complete opposite end of the, right?
+
+647
+00:52:25,296 --> 00:52:26,437
+Speaker 1: It's not trying to simplify.
+
+648
+00:52:26,678 --> 00:52:29,181
+Speaker 1: It's, you know, fancy grognard game.
+
+649
+00:52:29,242 --> 00:52:34,890
+Speaker 1: It just doesn't have tracks, but Rolling Stock doesn't simplify a damn thing, right?
+
+650
+00:52:36,210 --> 00:52:39,510
+Speaker 1: You know, the only really good, I think the best mechanic- I think Rolling Stock is a better game.
+
+651
+00:52:40,531 --> 00:52:45,870
+Speaker 1: Yeah, the best mechanic of Rolling Stock is that two people can't be on like the same price at the same time, right?
+
+652
+00:52:47,831 --> 00:52:49,894
+Speaker 1: That's the key in that game.
+
+653
+00:52:51,837 --> 00:52:54,381
+Speaker 1: But yeah, Rolling Stock isn't an attempt to simplify a damn thing.
+
+654
+00:52:54,782 --> 00:52:57,326
+Speaker 1: That's a grognard complicated game.
+
+655
+00:52:57,346 --> 00:52:59,590
+Speaker 1: You don't compare it.
+
+656
+00:52:59,850 --> 00:53:00,875
+Speaker 0: I respect Rolling Stock.
+
+657
+00:53:00,895 --> 00:53:01,798
+Speaker 0: I don't like playing it.
+
+658
+00:53:01,839 --> 00:53:03,225
+Speaker 0: I like playing 18xx games.
+
+659
+00:53:03,405 --> 00:53:04,490
+Speaker 0: That's my sweet spot.
+
+660
+00:53:05,190 --> 00:53:11,945
+Speaker 1: Don't be fooled to think Rolling Stock is anything like this because Rolling Stock doesn't have a map on it.
+
+661
+00:53:12,186 --> 00:53:13,930
+Speaker 1: It's not in the same category.
+
+662
+00:53:15,671 --> 00:53:18,755
+Speaker 1: We need to see, you know, we're trying to make 18xx that's accessible, right?
+
+663
+00:53:19,055 --> 00:53:27,506
+Speaker 1: What is the minimum viable game that anyone can play without a hundred hours explanation or anything that still does?
+
+664
+00:53:27,546 --> 00:53:30,450
+Speaker 1: the separation of the outside game and the inside game?
+
+665
+00:53:30,932 --> 00:53:31,238
+Speaker 1: Should we?
+
+666
+00:53:31,340 --> 00:53:32,649
+Speaker 1: I kinda- Stocks and operating.
+
+667
+00:53:33,571 --> 00:53:41,187
+Speaker 0: Maybe we should try to play a really hacked together, just poker hands game and make up some bullshitty rules and just do it and see what happens.
+
+668
+00:53:41,488 --> 00:53:44,015
+Speaker 1: Like when we're hanging out- Don't do any asymmetry.
+
+669
+00:53:44,075 --> 00:53:46,763
+Speaker 1: Just be like, just make it really, you know, plain.
+
+670
+00:53:47,886 --> 00:53:49,230
+Speaker 1: I could write those rules like tonight.
+
+671
+00:53:51,470 --> 00:53:54,950
+Speaker 1: If you're not trying to balance anything or have any private auctions or anything.
+
+672
+00:53:56,090 --> 00:54:01,330
+Speaker 0: Designing an unbalanced game is actually kind of easy if you literally just throw it together and see what happens.
+
+673
+00:54:02,810 --> 00:54:03,755
+Speaker 1: Just make everything the same.
+
+674
+00:54:03,795 --> 00:54:04,902
+Speaker 1: All the companies are the same.
+
+675
+00:54:05,002 --> 00:54:06,370
+Speaker 1: Everyone plays the same.
+
+676
+00:54:06,951 --> 00:54:07,192
+Speaker 1: Yep.
+
+677
+00:54:07,232 --> 00:54:10,207
+Speaker 0: Copy paste some stock market rules out of an 18xx game.
+
+678
+00:54:10,267 --> 00:54:10,890
+Speaker 0: Real simple ones.
+
+679
+00:54:11,010 --> 00:54:12,430
+Speaker 1: I would just use these stock rules, right?
+
+680
+00:54:17,241 --> 00:54:19,610
+Speaker 0: This has been Geek Nights with Rem and Scott.
+
+681
+00:54:19,670 --> 00:54:22,180
+Speaker 0: Special thanks to DJ Pretzel for the opening theme.
+
+682
+00:54:22,360 --> 00:54:28,400
+Speaker 1: Be sure to visit our website at FrontRowClue.com for show notes, discussion, links and more.
+
+683
+00:54:28,880 --> 00:54:31,565
+Speaker 0: Remember, Geek Nights is not one but four different shows.
+
+684
+00:54:31,865 --> 00:54:33,528
+Speaker 0: Mondays are science and technology.
+
+685
+00:54:33,568 --> 00:54:35,312
+Speaker 0: Tuesdays, gaming and games.
+
+686
+00:54:35,432 --> 00:54:37,255
+Speaker 0: Wednesdays are animation and comics.
+
+687
+00:54:37,576 --> 00:54:40,060
+Speaker 0: Thursdays are arbitrary and indiscriminate.
+
+688
+00:54:40,740 --> 00:54:45,600
+Speaker 0: Geek Nights is distributed under a Creative Commons Attribution 4.0 International License.
+
+689
+00:54:46,081 --> 00:54:50,431
+Speaker 1: Geek Nights is recorded live with no studio and no audience.
+
+690
+00:54:50,912 --> 00:54:54,380
+Speaker 1: But unlike those other late shows, it's actually recorded at night.
+
+691
+00:54:55,000 --> 00:55:17,443
+Speaker 0: And the Patreon patrons for this episode of Geek Nights are... Email us, whatever.
+
+692
+00:55:17,884 --> 00:55:19,287
+Speaker 0: Maybe we'll get a chance to say hi.
+
+693
+00:55:19,307 --> 00:55:23,577
+Speaker 0: I don't know if we'll play a board game, but I will play DDR with you at like 6 a.m.
+
+694
+00:55:23,838 --> 00:55:24,940
+Speaker 0: because that's what I'm going to be doing.
+
+695
+00:55:25,781 --> 00:55:28,696
+Speaker 0: But for now, tonight, simply leave you with...
+
+696
+00:55:30,720 --> 00:55:31,542
+Speaker 2: The choice is clear.
+
+697
+00:55:31,563 --> 00:55:37,220
+Speaker 2: Donald Trump's campaign is about him, not America, not you.
+
+698
+00:55:38,420 --> 00:55:42,800
+Speaker 2: Donald Trump's campaign is obsessed with the past, not the future.
+
+699
+00:55:43,744 --> 00:55:47,740
+Speaker 2: He's willing to sacrifice our democracy, put himself in power.
+
+700
+00:55:48,980 --> 00:55:52,114
+Speaker 2: Our campaign is different for me and Kamala.
+
+701
+00:55:52,174 --> 00:55:53,480
+Speaker 2: Our campaign is about America.
+
+702
+00:55:53,580 --> 00:55:54,122
+Speaker 2: It's about you.
+
+703
+00:55:54,182 --> 00:55:58,360
+Speaker 2: It's about every age and background that occupy this country.
+
+704
+00:55:59,542 --> 00:56:00,427
+Speaker 2: It's about the future.
+
+705
+00:56:00,447 --> 00:56:02,680
+Speaker 2: We're going to continue to build together.
+
+706
+00:56:03,840 --> 00:56:07,920
+Speaker 2: And our campaign is about preserving and strengthening our American democracy.
+
+707
+00:56:09,161 --> 00:56:16,320
+Speaker 2: Three years ago tomorrow, we saw with our own eyes the violent mob storm the United States Capitol.
+
+708
+00:56:17,581 --> 00:56:20,592
+Speaker 2: It was almost in disbelief as you first turned on the television.
+
+709
+00:56:21,555 --> 00:56:28,600
+Speaker 2: For the first time in our history, insurrectionists had come to stop the peaceful transfer of power in America.
+
+710
+00:56:28,940 --> 00:56:29,563
+Speaker 2: First time.
+
+711
+00:56:30,728 --> 00:56:33,500
+Speaker 2: Smashing windows, shattering doors, attacking the police.
+
+712
+00:56:35,001 --> 00:56:41,697
+Speaker 2: Outside, gallows were erected as the MAGA crowd chanted, "Hang Mike
+
+713
+00:56:41,857 --> 00:56:42,178
+Speaker 2: Pence.".
+
+714
+00:56:43,541 --> 00:56:46,789
+Speaker 2: Inside, they hunted for Speaker Pelosi.
+
+715
+00:56:47,771 --> 00:56:51,820
+Speaker 2: The House was chanting as they marched through and smashed windows.
+
+716
+00:56:52,340 --> 00:56:52,802
+Speaker 2: "Where's
+
+717
+00:56:52,882 --> 00:56:53,384
+Speaker 2: Nancy?".
+
+718
+00:56:54,469 --> 00:56:55,433
+Speaker 2: Over 140 police officers were injured.
+
+719
+00:56:58,063 --> 00:57:02,739
+Speaker 2: Jill and I attended the funeral of police officers who died as a result of the events of that day.
+
+720
+00:57:05,383 --> 00:57:11,080
+Speaker 2: Because of Donald Trump's lies, they died because these lies brought a mob to Washington.
+
+721
+00:57:12,821 --> 00:57:14,427
+Speaker 2: He promised it would be wild.
+
+722
+00:57:14,668 --> 00:57:15,270
+Speaker 2: And it was.
+
+723
+00:57:15,290 --> 00:57:17,700
+Speaker 2: He told the crowd to fight like hell.
+
+724
+00:57:18,640 --> 00:57:19,885
+Speaker 2: And all hell was unleashed.
+
+725
+00:57:20,227 --> 00:57:21,773
+Speaker 2: He promised he would write them.
+
+726
+00:57:22,837 --> 00:57:23,319
+Speaker 2: Write them.
+
+727
+00:57:24,562 --> 00:57:27,599
+Speaker 2: Everything they did, he would be side by side with them.
+
+728
+00:57:28,602 --> 00:57:32,560
+Speaker 2: Then, as usual, he left the dirty work to others.
+
+729
+00:57:33,562 --> 00:57:34,948
+Speaker 2: He retreated to the White House.
+
+730
+00:57:36,233 --> 00:57:43,840
+Speaker 2: As America was attacked from within, Donald Trump watched on TV in a private small dining room off my Oval -- off the Oval Office.
+
+731
+00:57:45,301 --> 00:57:47,188
+Speaker 2: The entire nation watched in horror.
+
+732
+00:57:48,332 --> 00:57:50,320
+Speaker 2: The whole world watched in disbelief.
+
+733
+00:57:51,782 --> 00:57:53,006
+Speaker 2: And Trump did nothing.
+
+734
+00:57:54,029 --> 00:58:02,900
+Speaker 2: Members of his staff, members of his family, Republican leaders who were under attack for the -- at that very moment, pled with him.
+
+735
+00:58:04,002 --> 00:58:04,182
+Speaker 2: Act.
+
+736
+00:58:05,046 --> 00:58:06,011
+Speaker 2: Call off the mob.
+
+737
+00:58:06,071 --> 00:58:07,517
+Speaker 2: Imagine had he gone out and said,
+
+738
+00:58:07,618 --> 00:58:07,919
+Speaker 2: "Stop.".
+
+739
+00:58:10,992 --> 00:58:12,656
+Speaker 2: And still, Trump did nothing.
+
+740
+00:58:13,698 --> 00:58:18,790
+Speaker 2: It was among the worst derelictions of duty by a president in American history.
+
+741
+00:58:20,131 --> 00:58:30,310
+Speaker 2: An attempt to overturn a free and fair election by force and violence -- a record 81 million people voted for my candidacy and to end his presidency.
+
+742
+00:58:31,692 --> 00:58:33,850
+Speaker 2: Trump lost the popular vote by 7 million.
+
+743
+00:58:35,471 --> 00:58:37,620
+Speaker 2: Trump's claims about the 2020 election never could stand up in court.
+
+744
+00:58:40,210 --> 00:58:44,302
+Speaker 2: Trump lost 60 court cases -- 60.
+
+745
+00:58:44,302 --> 00:58:46,950
+Speaker 2: Trump lost the Republican-controlled states.
+
+746
+00:58:47,873 --> 00:58:52,049
+Speaker 2: Trump lost before Trump appointed judge and then judges.
+
+747
+00:58:53,870 --> 00:58:56,446
+Speaker 2: And Trump lost before the United States Supreme Court.
+
+748
+00:58:58,210 --> 00:58:58,430
+Speaker 2: All of it.
+
+749
+00:58:58,690 --> 00:58:59,211
+Speaker 2: He lost.
+
+750
+00:59:04,016 --> 00:59:07,980
+Speaker 2: Trump lost recount after recount after recount and state after state.
+
+751
+00:59:09,281 --> 00:59:18,159
+Speaker 2: But in desperation and weakness, Trump and his MAGA followers went after election officials who -- who ensured your power as a citizen would be heard.
+
+752
+00:59:19,642 --> 00:59:25,900
+Speaker 2: These public service had their lives forever upended by attacks and death threats for simply doing their jobs.
+
+753
+00:59:27,160 --> 00:59:46,618
+Speaker 2: In Atlanta, Georgia, a brave black mother and her daughter, Ruby Freeman and Shea Moss, were doing their jobs electing workers, until Donald Trump and his MAGA followers targeted and threatened them, forcing them from their homes and unleashing racist vitriol on them.
+
+754
+00:59:48,063 --> 00:59:58,579
+Speaker 2: Trump's personal lawyer, Rudy Giuliani, was just hit with a $148 million judgment for cruelty and defamation that he inflicted against them.
+
+755
+00:59:59,720 --> 01:00:03,900
+Speaker 2: Other state and local elected officials across the country faced similar personal attacks.
+
+756
+01:00:04,861 --> 01:00:10,271
+Speaker 2: In addition, Fox News agreed to pay a record 8 -- $787 million for the lies they told about voter fraud.
+
+757
+01:00:17,240 --> 01:00:19,575
+Speaker 2: Let's be clear about the 2020 election.
+
+758
+01:00:21,540 --> 01:00:25,956
+Speaker 2: Trump exhausted every legal avenue available to him to overturn the election.
+
+759
+01:00:26,518 --> 01:00:26,940
+Speaker 2: Every one.
+
+760
+01:00:28,220 --> 01:00:36,120
+Speaker 2: But the legal path just took Trump back to the truth that I had won the election and he was a loser.
+
+761
+01:00:42,500 --> 01:00:54,470
+Speaker 2: Well, for knowing how his mind works now, he had one -- he had one act left, one desperate act available to him.
+
+762
+01:00:55,613 --> 01:00:58,584
+Speaker 2: The violence of January the 6th.
+
+763
+01:01:00,250 --> 01:01:05,990
+Speaker 2: And since that day, more than 1,200 people have been charged for their soul in the Capitol.
+
+764
+01:01:06,693 --> 01:01:09,630
+Speaker 2: Nearly 900 of them have been convicted or pled guilty.
+
+765
+01:01:10,430 --> 01:01:14,605
+Speaker 2: Collectively to date, they have been sentenced to more than 840 years in prison.
+
+766
+01:01:23,392 --> 01:01:24,294
+Speaker 2: What's Trump done?
+
+767
+01:01:25,557 --> 01:01:31,470
+Speaker 2: Instead of calling them criminals, he's called these insurrectionists patriots.
+
+768
+01:01:32,290 --> 01:01:32,953
+Speaker 2: They're patriots.
+
+769
+01:01:33,856 --> 01:01:37,110
+Speaker 2: And he promised to pardon them if he returns to office.
+
+770
+01:01:37,930 --> 01:01:40,987
+Speaker 2: Trump said that there was a lot of love on January the 6th.
+

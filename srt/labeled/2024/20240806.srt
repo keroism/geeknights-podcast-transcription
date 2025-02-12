@@ -1,0 +1,2020 @@
+1
+00:00:08,460 --> 00:00:11,695
+Rym: It's Tuesday August 6th 2024.
+
+2
+00:00:11,695 --> 00:00:12,117
+Rym: I'm Rym.
+
+3
+00:00:12,760 --> 00:00:14,608
+Rym: I'm Scott and this is GeekNights.
+
+4
+00:00:14,668 --> 00:00:21,970
+Rym: tonight We are talking about not the Legend of Zelda four swords adventures, but the Legend of Zelda four swords.
+
+5
+00:00:22,770 --> 00:00:23,833
+Scott: Let's do this.
+
+6
+00:00:24,415 --> 00:00:25,317
+Rym: You know it's funny.
+
+7
+00:00:25,377 --> 00:00:29,810
+Rym: I never played this one until uh until now, but I played the other one a bunch anyway.
+
+8
+00:00:30,614 --> 00:00:34,693
+Scott: The other one that would the other by the way the other one is was newer It wasn't isn't?
+
+9
+00:00:34,713 --> 00:00:35,555
+Scott: yeah?
+
+10
+00:00:35,716 --> 00:00:38,343
+Scott: the one we're gonna talk about today's is older.
+
+11
+00:00:38,784 --> 00:00:44,265
+Rym: Yeah, but yeah, I'm sure you all noticed We we had a hiatus that Scott.
+
+12
+00:00:44,285 --> 00:00:47,496
+Rym: I believe you finally Experienced the cactus throat.
+
+13
+00:00:48,318 --> 00:01:01,209
+Scott: yeah, so it's like yeah, I mean somewhat inevitable right yeah It's pretty much inevitable if you live in society at this point even though we had many vaccinations we went to a concert.
+
+14
+00:01:01,536 --> 00:01:03,902
+Scott: It's It's gonna happen
+
+15
+00:01:04,043 --> 00:01:04,224
+Rym: yep
+
+16
+00:01:05,212 --> 00:01:19,806
+Scott: But he basically ruined the whole summer because in June May and June and early July We had a lot of stuff going on right, but we weren't quite able to do The biking and the beach and all the other stuff we did, but not any biking and beach.
+
+17
+00:01:19,826 --> 00:01:24,402
+Scott: you know main to The main to summer activities could not get to.
+
+18
+00:01:24,443 --> 00:01:26,490
+Rym: this is a lot like what happened to us last summer.
+
+19
+00:01:26,571 --> 00:01:30,240
+Rym: We're like illness and things got in the way And we just kind of missed a bunch of first summers like that.
+
+20
+00:01:30,280 --> 00:01:38,396
+Rym: Calvin and Hobbes were Calvin sick all summer And then school starts, and he's like so I'll go to school in three months cuz I get my summer back, right Yeah, and then here.
+
+21
+00:01:38,416 --> 00:01:48,290
+Scott: We are right, so you know getting sick towards the middle of July and You know it was only really a few days, but it's sort of lingering even now.
+
+22
+00:01:48,390 --> 00:01:55,858
+Scott: I got some some phlegms, but between that and also the weather and Circumstances here we are.
+
+23
+00:01:55,878 --> 00:02:01,805
+Scott: it's fucking August 6th Yeah, and I still haven't really I haven't basically done fucking anything.
+
+24
+00:02:01,825 --> 00:02:04,497
+Scott: We have plans that got cancelled I mean this past weekend.
+
+25
+00:02:04,537 --> 00:02:14,889
+Rym: We were gonna go to the beach and then combination of everybody getting sick except like me and Emily but also giant thunderstorms coming and going and the weather be all crazy.
+
+26
+00:02:15,852 --> 00:02:17,763
+Scott: Meanwhile Pax West is in three weeks.
+
+27
+00:02:17,965 --> 00:02:21,094
+Scott: Oh my god I haven't biked.
+
+28
+00:02:21,114 --> 00:02:29,758
+Scott: I biked like one time and I beached like half a time basically like We and and now the weather is gonna.
+
+29
+00:02:29,799 --> 00:02:30,942
+Scott: Keep me from doing right.
+
+30
+00:02:31,684 --> 00:02:32,807
+Scott: We'll see what happens.
+
+31
+00:02:33,328 --> 00:02:40,622
+Rym: Yeah, we've I want to say about 450 miles total this summer because how many times?
+
+32
+00:02:41,063 --> 00:02:51,425
+Scott: well for really long rides like 70 like 70 so even even for bikes It's like I wanted to do like you know 12 to 20 bikes yep, and I did what.
+
+33
+00:02:51,445 --> 00:02:58,219
+Rym: well of course the one behind The ones where we didn't bike those weekends It was because we went camping or hiking or other stuff.
+
+34
+00:02:58,239 --> 00:03:01,050
+Rym: instead we we luckily we got very lucky last summer.
+
+35
+00:03:01,070 --> 00:03:01,936
+Rym: We couldn't this summer.
+
+36
+00:03:01,956 --> 00:03:03,929
+Rym: We spent almost every weekend outside.
+
+37
+00:03:04,695 --> 00:03:05,964
+Scott: Well, it's gonna rain now.
+
+38
+00:03:06,004 --> 00:03:06,749
+Scott: We'll see what happens.
+
+39
+00:03:08,391 --> 00:03:48,265
+Scott: one thing I did manage to do which is is watch a lot of Olympics inside the house and Finally after 70 years of televised Olympics a hundred and something years of modern Olympics and thousands of years of Olympics If you go back to the ancient Greek times Finally in the year 2020 X it is now Not only possible But relatively easy and accessible for most people on the earth who have internet and a computer or some sort of device To watch all of the Olympics at a reasonable cost.
+
+40
+00:03:48,325 --> 00:03:52,859
+Scott: I mean there were ways to do it I'd say last decade yeah, but they were not convenient.
+
+41
+00:03:52,920 --> 00:03:53,762
+Scott: They were not good.
+
+42
+00:03:53,782 --> 00:03:56,250
+Scott: They were not price conscious.
+
+43
+00:03:56,270 --> 00:03:56,511
+Scott: well the
+
+44
+00:03:56,531 --> 00:04:13,450
+Rym: year I watched the most Olympics was actually we went on a ski trip out to And it just so happened that they had tons of snow And it was a beautiful season up until the day before we headed up there And then it got like 70 degrees for two days and rained and then it got cold again.
+
+45
+00:04:13,952 --> 00:04:18,029
+Rym: So we're up in Vermont and it's solid ice so we could only ski a little bit like we barely skied.
+
+46
+00:04:18,452 --> 00:04:20,523
+Rym: So we happen to be staying at an Airbnb.
+
+47
+00:04:20,583 --> 00:04:22,834
+Rym: that happened to have TV.
+
+48
+00:04:22,854 --> 00:04:29,565
+Scott: so we just write the Olympics the whole time, but having TV You know the Olympics a bit on TV my whole life.
+
+49
+00:04:29,626 --> 00:04:35,823
+Scott: Yeah, but Even in other countries the u.s.. Worse than some others, but still the others.
+
+50
+00:04:36,064 --> 00:04:36,726
+Scott: you know they're tech.
+
+51
+00:04:36,746 --> 00:04:45,645
+Scott: due to technical limitations Broadcasting rights many reasons You couldn't really see No matter where you were unless you were at the.
+
+52
+00:04:45,685 --> 00:04:49,041
+Scott: even if you're at the Olympics You couldn't see it all because you could only see what you had tickets to.
+
+53
+00:04:49,061 --> 00:04:52,495
+Rym: I Remember those bad days like.
+
+54
+00:04:52,575 --> 00:04:58,213
+Rym: I remember that you could only talk about like ah X is the good sport like they won't let you Watch the badminton.
+
+55
+00:04:58,253 --> 00:05:01,523
+Rym: They're gonna show you the Americans winning medals, and that's it right.
+
+56
+00:05:01,683 --> 00:05:06,379
+Scott: you could only see what your country Was gonna show you on television.
+
+57
+00:05:06,901 --> 00:05:12,781
+Scott: and now finally in the US at least For 15 bucks with no ads and a lower price.
+
+58
+00:05:12,821 --> 00:05:27,550
+Scott: with ads on the peacock TV service You can see the whole Olympics live and unedited every event even qualifiers No matter who every single competitor every single event everything live and replay.
+
+59
+00:05:27,711 --> 00:05:31,390
+Scott: But as soon as the Olympics are over all the replays are gonna be gone.
+
+60
+00:05:31,935 --> 00:05:32,299
+Scott: It's like they.
+
+61
+00:05:32,420 --> 00:05:45,149
+Scott: it's like they cut it off But you do have the entirety of the Olympic period which is until like the end of the week to watch Anything that's happened right with whatever time you have live or not live.
+
+62
+00:05:48,311 --> 00:06:04,219
+Rym: There's been some good stuff, but also what I've noticed is this year more so than any Olympics in my life a lot of people in my circles are Talking about specific events and getting excited, and I think What happens if people can actually fucking watch?
+
+63
+00:06:04,320 --> 00:06:05,263
+Scott: it is the right.
+
+64
+00:06:05,303 --> 00:06:15,803
+Rym: but also to follow on from what you said the fact that you Can watch anything means that all the buzz was the sports that were never on TV Back in the day of course because those are the better sports to watch.
+
+65
+00:06:16,587 --> 00:06:21,190
+Scott: a lot of depends But you know people got to see competitors not from their own country.
+
+66
+00:06:21,692 --> 00:06:25,367
+Scott: They got to see you know events that their country never cared about.
+
+67
+00:06:25,829 --> 00:06:32,470
+Scott: you know All this kind of stuff that was basically or hidden from view is now available for all.
+
+68
+00:06:33,733 --> 00:06:36,350
+Scott: And so you know there's plenty of bad things to say about the Olympics.
+
+69
+00:06:36,450 --> 00:06:40,850
+Scott: I'm pretty sure we did an Olympic episode back in the day and all those things are still true.
+
+70
+00:06:41,191 --> 00:06:44,861
+Scott: You got your your cheating you got your scandals you got your corruption.
+
+71
+00:06:45,162 --> 00:06:55,110
+Scott: You got your money you get capitalism, but The Olympic spirit you know the competitors and the spectators who are you know watching them?
+
+72
+00:06:55,732 --> 00:07:01,090
+Scott: That has always been you know always been there, so we've never done a show on the Olympics.
+
+73
+00:07:02,691 --> 00:07:09,310
+Rym: We did a show once in 2008 on the Olympics in China specifically, and we focused on China.
+
+74
+00:07:10,231 --> 00:07:10,973
+Scott: Okay, well.
+
+75
+00:07:11,515 --> 00:07:13,442
+Scott: I'm pretty sure we we said all the general.
+
+76
+00:07:13,803 --> 00:07:18,385
+Rym: I remember we also did a show on tournaments Okay, which I guess that covers it.
+
+77
+00:07:19,971 --> 00:07:32,925
+Scott: But you know the the good party Olympics has always been there however diminished But now it has actually been You know boosted a bit right because of the availability of streaming services.
+
+78
+00:07:33,025 --> 00:07:44,715
+Scott: Oh and by the way just a side note Peacock TV Other than the Olympics is Probably the worst content I've ever seen.
+
+79
+00:07:44,935 --> 00:07:48,687
+Scott: every single thing on there is like complete garbage except for like.
+
+80
+00:07:48,907 --> 00:07:53,603
+Scott: they've got a few movies That are good legendary movies like Jaws and whatever, but I've seen those.
+
+81
+00:07:54,226 --> 00:07:56,313
+Scott: it is the worst Lineup.
+
+82
+00:07:56,414 --> 00:08:00,670
+Rym: I feel like it might be because Paramount you know we have Paramount which of course that'll all change.
+
+83
+00:08:00,770 --> 00:08:03,602
+Rym: but because we watch Star Trek like that's it that's literally it is.
+
+84
+00:08:03,844 --> 00:08:10,279
+Rym: I am paying for Star Trek and Every time a Star Trek ends it tries to.
+
+85
+00:08:10,801 --> 00:08:19,210
+Rym: it tries to trick us into watching something else and Everything it has ever tried to trick us to watch looks awful like unwatchable.
+
+86
+00:08:19,856 --> 00:08:21,170
+Scott: I browsed around on there.
+
+87
+00:08:21,230 --> 00:08:27,088
+Scott: I figured I'm gonna have this service for one month exactly and then cancel that right into until two years from now.
+
+88
+00:08:27,149 --> 00:08:30,099
+Scott: probably What is on here?
+
+89
+00:08:30,240 --> 00:08:31,630
+Scott: is there even one thing on here?
+
+90
+00:08:31,750 --> 00:08:36,047
+Scott: I can watch that I should watch before the Olympics are over and no not one thing.
+
+91
+00:08:36,126 --> 00:08:38,096
+Scott: it was all Not just stuff.
+
+92
+00:08:38,135 --> 00:08:40,225
+Scott: that was like hey, it was all stuff.
+
+93
+00:08:40,245 --> 00:08:44,527
+Scott: That was like oh God someone watches this.
+
+94
+00:08:47,896 --> 00:08:49,954
+Rym: So Yeah, we're we're back.
+
+95
+00:08:49,994 --> 00:08:56,265
+Rym: we should be mostly doing GeekNights episodes though a crazy rainstorm is about to hit, New York City And we'll see how that goes.
+
+96
+00:08:57,332 --> 00:09:01,749
+Scott: Mm-hmm I haven't talked this much in weeks, and it's making me cough a whole bunch.
+
+97
+00:09:01,769 --> 00:09:03,359
+Rym: yep No, I remember that feeling.
+
+98
+00:09:03,399 --> 00:09:07,922
+Rym: it was about three weeks from the first time I got COVID before I every time as I'm talking now.
+
+99
+00:09:07,962 --> 00:09:09,690
+Scott: There's like this tiny spot in my throat.
+
+100
+00:09:09,771 --> 00:09:11,644
+Scott: That's like getting vibrated and making me.
+
+101
+00:09:11,866 --> 00:09:12,490
+Rym: that's the thing.
+
+102
+00:09:12,570 --> 00:09:14,542
+Rym: That's what stood out the most cuz I didn't like.
+
+103
+00:09:14,582 --> 00:09:19,564
+Rym: we got very lucky myself and Emily both We didn't really have a bad time with COVID like we had no side effects after it was gone.
+
+104
+00:09:19,584 --> 00:09:29,883
+Rym: It was gone, but Before we got it I remember wondering if that real that bad cold We all got after PAX like maybe we got lucky and like that was it or something.
+
+105
+00:09:29,924 --> 00:09:35,810
+Rym: and then when we actually got it It's such a specific feeling in this specific spot in your throat.
+
+106
+00:09:36,552 --> 00:09:37,415
+Scott: I don't have a any.
+
+107
+00:09:37,536 --> 00:09:39,583
+Scott: it's not a specific different feeling.
+
+108
+00:09:39,783 --> 00:09:41,048
+Rym: I've never felt like that in my life.
+
+109
+00:09:42,332 --> 00:09:46,288
+Scott: Alright, I mean it was a sore throat, but it's like it's just there's this.
+
+110
+00:09:46,609 --> 00:09:50,305
+Scott: it's like It's just like a feeling that's familiar, but it won't go away.
+
+111
+00:09:50,325 --> 00:09:51,430
+Scott: It's like such lingering.
+
+112
+00:09:51,430 --> 00:09:57,574
+Scott: There's like this once area where they're like it keeps being like a tickle and mucus And it was.
+
+113
+00:09:57,796 --> 00:10:04,665
+Scott: it's like it feels like if I could just cough it out I would be cured like something stuck back there, but no it's still there
+
+114
+00:10:04,825 --> 00:10:12,410
+Rym: yep, so uh Anyway, let's dive into some news to minimize How much you have to talk before you a cough again because there is actually some news.
+
+115
+00:10:12,490 --> 00:10:13,799
+Rym: But we're gonna dig back into some stuff.
+
+116
+00:10:13,819 --> 00:10:20,363
+Rym: that happened while we were hiatus thing Mm-hmm, so you got What do I have game informer?
+
+117
+00:10:20,383 --> 00:10:20,423
+Rym: Oh?
+
+118
+00:10:21,430 --> 00:10:23,077
+Scott: Yeah, that happened like very recently.
+
+119
+00:10:23,639 --> 00:10:29,926
+Scott: so game informer was a video game magazine Was one of the last remaining u.s.. Video game magazines.
+
+120
+00:10:30,047 --> 00:10:30,770
+Scott: are there any left?
+
+121
+00:10:32,510 --> 00:10:33,617
+Scott: Nintendo powers gone?
+
+122
+00:10:33,637 --> 00:10:35,570
+Scott: yeah game pro is long gone.
+
+123
+00:10:36,653 --> 00:10:36,974
+Scott: I don't know.
+
+124
+00:10:37,776 --> 00:10:38,999
+Scott: someone tell me if there's any left.
+
+125
+00:10:39,360 --> 00:10:40,664
+Scott: EGM pretty sure it's gone.
+
+126
+00:10:40,684 --> 00:10:42,910
+Rym: I guess we gotta be gonna make a zine for Pax's.
+
+127
+00:10:46,310 --> 00:10:46,652
+Scott: Anyway.
+
+128
+00:10:47,134 --> 00:10:52,499
+Scott: so game informer was maybe the last one standing Maybe not, but it is no longer standing.
+
+129
+00:10:52,599 --> 00:11:00,287
+Scott: and I found out I knew my whole life that Game informer was owned by GameStop, and so I never cared about game informer.
+
+130
+00:11:00,307 --> 00:11:00,990
+Scott: I never trusted it.
+
+131
+00:11:01,311 --> 00:11:02,154
+Scott: I was side-eyed.
+
+132
+00:11:02,194 --> 00:11:04,844
+Scott: anyone who bought it because like isn't that just ads?
+
+133
+00:11:05,024 --> 00:11:11,043
+Rym: which was really because I Subscribed to Nintendo power knowing that it was just Nintendo propaganda.
+
+134
+00:11:11,063 --> 00:11:14,933
+Rym: I was buying Nintendo ads for myself for something.
+
+135
+00:11:14,953 --> 00:11:24,198
+Scott: it's something different about propaganda from a publisher and propaganda from a Retailer, but also Nintendo power did have like.
+
+136
+00:11:24,518 --> 00:11:29,030
+Rym: it was basically like you get actual content like cheat codes and stuff that works.
+
+137
+00:11:29,210 --> 00:11:31,037
+Scott: I mean there was actual content in game informer.
+
+138
+00:11:31,057 --> 00:11:33,746
+Scott: I'm sure everything the best review ever, but we're good.
+
+139
+00:11:34,147 --> 00:11:43,290
+Scott: I knew some people Who had like GameStop membership cards.
+
+140
+00:11:43,490 --> 00:11:51,475
+Scott: Ha cuz they were the kind of people that would always be buying and selling their games back and forth in the CD rom days With their PlayStation.
+
+141
+00:11:51,596 --> 00:11:52,279
+Rym: see the tree there.
+
+142
+00:11:52,339 --> 00:11:57,603
+Rym: the trick there was to the son of a red octane and get those Mail to you copy them and send them.
+
+143
+00:11:57,643 --> 00:12:05,533
+Scott: but those people got game informer subscriptions for free along with their GameStop membership Plans and those.
+
+144
+00:12:05,773 --> 00:12:12,506
+Scott: so those people had game informer, but what I didn't know and I learned very just this week Was that game informer?
+
+145
+00:12:13,610 --> 00:12:15,114
+Scott: Wasn't a GameStop creation.
+
+146
+00:12:15,174 --> 00:12:17,260
+Scott: It was a creation of funko land.
+
+147
+00:12:17,381 --> 00:12:21,885
+Scott: It was the funko land newsletter fucking and funko land I did not like this.
+
+148
+00:12:23,330 --> 00:12:30,150
+Scott: Funko land just had a newsletter that they would mail out and then when GameStop bought them, which I did know GameStop bought.
+
+149
+00:12:30,190 --> 00:12:35,370
+Scott: Yeah, they that became game informer magazine through some evolutionary.
+
+150
+00:12:35,410 --> 00:12:36,414
+Rym: I feel like geek.
+
+151
+00:12:36,434 --> 00:12:39,747
+Rym: nice listeners would know what funko land was because you don't.
+
+152
+00:12:39,787 --> 00:12:47,790
+Rym: it was this like There was almost like a time capsule of a very specific time and place in video game history that this kind of store could exist.
+
+153
+00:12:48,478 --> 00:12:55,190
+Scott: It was well It was funko land was only it was only the buying and the selling of the used games.
+
+154
+00:12:55,330 --> 00:13:01,710
+Scott: it didn't really have a lot of new stock like a Toys R Us and so GameStop did have the stock.
+
+155
+00:13:03,071 --> 00:13:12,782
+Rym: But what funko land had was they had a bunch of consoles set up and you could just ask to play any Game, they were selling to decide if you wanted to buy it and I would.
+
+156
+00:13:12,822 --> 00:13:13,023
+Scott: others.
+
+157
+00:13:13,203 --> 00:13:14,990
+Scott: other stores did that too, but not many.
+
+158
+00:13:15,814 --> 00:13:29,385
+Scott: When GameStop, you know combined with EB and funko land That's how they started to have the buy sell back stuff mixed in with the new retail And we just stop just came out on top of all the different game retailers.
+
+159
+00:13:29,968 --> 00:13:30,610
+Rym: It's the funniest thing.
+
+160
+00:13:30,650 --> 00:13:33,810
+Rym: I didn't realize how GameStop actually formed officially.
+
+161
+00:13:34,231 --> 00:13:39,470
+Rym: So funko land merged with a bad bitches and that's what made the original game stop.
+
+162
+00:13:40,542 --> 00:13:44,892
+Scott: It was also Come was a computer, it's et cetera I think.
+
+163
+00:13:45,012 --> 00:13:54,969
+Rym: but uh funko lands in the 80s and early 90s were Infamous for parents would like drive up and just drop their kids off at them like it was daycare and leave.
+
+164
+00:13:56,511 --> 00:13:58,663
+Scott: Yeah, we didn't go to the funko land, which did?
+
+165
+00:13:58,683 --> 00:13:59,790
+Scott: we saw ads for it on TV?
+
+166
+00:14:00,070 --> 00:14:04,410
+Scott: We didn't go to it because it was a little far away with a mall next to us had a GameStop and two EBS.
+
+167
+00:14:04,651 --> 00:14:10,470
+Rym: Yeah, I so ended up why I sold Final Fantasy 1 my original cartridge to funko land.
+
+168
+00:14:10,490 --> 00:14:16,102
+Rym: They gave me 20 US dollars for it Which was a pretty big deal for an NES game back then.
+
+169
+00:14:16,484 --> 00:14:24,370
+Rym: and then about a year and a half later I went to that same funko land and I saw Final Fantasy 1 for sale for five bucks.
+
+170
+00:14:24,671 --> 00:14:30,729
+Rym: So I was like, alright, I bought it back and it was my same cartridge with my same save game on it.
+
+171
+00:14:31,493 --> 00:14:33,544
+Scott: Yep, you sell that story thousand of course, okay.
+
+172
+00:14:33,725 --> 00:14:34,348
+Rym: It's a good story.
+
+173
+00:14:35,233 --> 00:14:36,760
+Rym: Okay, I still have that cartridge.
+
+174
+00:14:37,082 --> 00:14:37,926
+Scott: What are the news we got?
+
+175
+00:14:38,127 --> 00:14:38,770
+Rym: So I got some news.
+
+176
+00:14:39,912 --> 00:14:40,414
+Rym: On one hand.
+
+177
+00:14:40,514 --> 00:14:57,850
+Rym: We've talked about this a lot on GeekNights for many years and you all know that in the game of go one of the most Computationally complex games that humans have ever played at scale there really Isn't any human who's good at go who can beat a modern?
+
+178
+00:14:58,231 --> 00:15:02,030
+Scott: Machine learning algorithm at go like the machine not since the alpha go.
+
+179
+00:15:02,150 --> 00:15:03,555
+Rym: Yeah, like it just wins.
+
+180
+00:15:04,116 --> 00:15:17,929
+Rym: but there is actually an asterisk on that and in there have been several Increasingly sophisticated attacks is the best way to describe it or exploits, but basically These even the best go a eyes out there.
+
+181
+00:15:18,331 --> 00:15:20,678
+Rym: they will win against someone who is trying to win.
+
+182
+00:15:21,279 --> 00:15:39,399
+Rym: but if you play crazy if you Learn enough about their algorithms to try to exploit them Humans can use strategies that could never win against another human of even mediocre skill but will fuck the AI up and cause it to spiral and fail and lose.
+
+183
+00:15:39,419 --> 00:15:44,402
+Rym: and this article talks about how as good as these a eyes are there are.
+
+184
+00:15:44,764 --> 00:15:56,516
+Rym: there are just a constant stream of human crafted cyclic exploits to attack the machine learning algorithm itself and They aren't able to defend themselves against these.
+
+185
+00:15:56,556 --> 00:16:12,433
+Rym: very well and it's a fascinating article like I think you should read it because you'll learn a lot about how modern machine learning works and This does have implications for the upper limits of at least current tech machine learning Mm-hmm, but it's fascinating.
+
+186
+00:16:12,494 --> 00:16:17,260
+Rym: this kind of exploit works And it's also fascinating learning a little more about what?
+
+187
+00:16:17,580 --> 00:16:27,431
+Rym: Kinds of things these models are good at versus bad at and what it really seems to come down to in the end Humans for all our problems and our processing issues.
+
+188
+00:16:27,571 --> 00:16:30,500
+Rym: one thing that human brains are crazy good at that.
+
+189
+00:16:30,889 --> 00:16:44,379
+Rym: No Machine learning algorithm in the world is good at yet is seeing a bunch of options and just with very little computation Arbitrarily assuming that most of them are bullshit and ignoring them and we're not perfect at that.
+
+190
+00:16:44,821 --> 00:16:50,539
+Rym: But we're really really good at that compared to computers and we don't fully understand why yet.
+
+191
+00:16:53,333 --> 00:17:01,750
+Rym: And one last little news a while ago we talked about the Nintendo upcoming games And of course, there is the Legend of Zelda echoes of wisdom, which looks delightful.
+
+192
+00:17:02,232 --> 00:17:06,184
+Rym: It's in the same engine as the links awakening remake and it looks beautiful.
+
+193
+00:17:06,224 --> 00:17:07,869
+Scott: It should be out in late September.
+
+194
+00:17:07,951 --> 00:17:09,279
+Scott: Yep, I think we talked about it already.
+
+195
+00:17:09,319 --> 00:17:11,030
+Rym: We talked about it in length, but we got it.
+
+196
+00:17:11,069 --> 00:17:14,069
+Rym: There's a new trailer that dropped and it's a very long trailer.
+
+197
+00:17:14,109 --> 00:17:21,617
+Rym: It's almost six minutes long and it shows a lot of gameplay And I think you should if you're interested in this game one I mean you're gonna buy it.
+
+198
+00:17:21,678 --> 00:17:25,840
+Rym: Anyway, like you probably already pre-ordered it Like anyone who listens to GeekNights is playing this game.
+
+199
+00:17:25,881 --> 00:17:34,386
+Rym: I'm gonna play it but to watching this trailer Implies that there is a lot going on with this game.
+
+200
+00:17:34,486 --> 00:17:43,490
+Rym: This is a deep Full on Zelda game with a lot of biz going on way more than you might expect and I'm actually really here for that.
+
+201
+00:17:45,392 --> 00:17:48,150
+Scott: Because looks away, you know, they're gonna charge you 60 bucks for it.
+
+202
+00:17:48,170 --> 00:17:58,050
+Rym: So it better be you know, yeah, but telling links awakening was great Even though it really was just a you know, a straight port with better graphics and minor changes of an old Gameboy game.
+
+203
+00:17:58,171 --> 00:18:00,870
+Rym: But it shows the power of that good game design.
+
+204
+00:18:01,351 --> 00:18:06,770
+Rym: But this idiot like the quest menus even look like tears of the kingdom quest menus.
+
+205
+00:18:07,131 --> 00:18:10,843
+Rym: It's almost like a dmake of a full Zelda but itself is a full Zelda.
+
+206
+00:18:10,984 --> 00:18:12,950
+Rym: I'm I'm actually really pumped for this game.
+
+207
+00:18:13,071 --> 00:18:14,095
+Rym: I can't wait to play it.
+
+208
+00:18:14,919 --> 00:18:19,252
+Scott: No, I mean, I'm gonna play it but it's like, okay I'm excited about it.
+
+209
+00:18:19,312 --> 00:18:22,516
+Rym: I haven't been excited about a Zelda game since tears in the kingdom.
+
+210
+00:18:25,239 --> 00:18:27,868
+Rym: But anyway things Of the day.
+
+211
+00:18:27,888 --> 00:18:36,488
+Rym: I I made myself a rule I'm only going to reference the Olympics as a thing of the day once Total for any given Olympics.
+
+212
+00:18:36,689 --> 00:18:37,893
+Rym: Otherwise, it's a problem.
+
+213
+00:18:38,054 --> 00:18:43,562
+Scott: I think the best the best Olympic I see There's been a lot of good Olympic but I mean the pole vault dude I was about.
+
+214
+00:18:43,884 --> 00:18:55,440
+Rym: I was actually 50/50 if I wanted to talk about the Turkish sharpshooter Yusef did check or to catch or If I wanted to talk about the guy whose own dick prevented him from winning an Olympic medal.
+
+215
+00:18:55,883 --> 00:18:57,720
+Scott: Not that guy the guy who won the pole vault.
+
+216
+00:19:01,902 --> 00:19:09,120
+Rym: But I Can't imagine you listen to a podcast and yet are not online enough to have encountered the photo of the guy.
+
+217
+00:19:09,140 --> 00:19:11,206
+Rym: I'm talking about this Turkish sharpshooter the.
+
+218
+00:19:11,287 --> 00:19:15,560
+Rym: the event in question is the air pistol, which itself is a fascinating event.
+
+219
+00:19:15,640 --> 00:19:30,320
+Rym: I actually used to shoot air pistols and air rifles quite a bit as a kid, you know, it was a Cub Scout thing safer and Just better in every way for humans than shooting real guns, but you still get all the sport of gun shooting.
+
+220
+00:19:30,583 --> 00:19:31,331
+Rym: There's a lot going on.
+
+221
+00:19:31,352 --> 00:19:32,080
+Rym: There's a fun little thing.
+
+222
+00:19:32,161 --> 00:19:45,406
+Rym: I was never particularly good at it but the reason this is my thing of the day and also the reason this became such a meme out there in the wild is Just that this sport is so Ridiculously hyper-tuned.
+
+223
+00:19:45,547 --> 00:19:54,815
+Rym: like many Olympic sports get like fencing went through the same Evolution to where they use guns that are handcrafted for them individually.
+
+224
+00:19:55,016 --> 00:20:05,239
+Rym: like they have their own Jig and dice a gun they wear special glasses and you think if you have never seen the special glasses They wear they're way more special than you think they are.
+
+225
+00:20:05,681 --> 00:20:07,466
+Scott: It's it's quite surprising in how?
+
+226
+00:20:07,546 --> 00:20:12,280
+Scott: some Olympic sports the equipment is understandably highly highly regulated.
+
+227
+00:20:12,602 --> 00:20:15,015
+Scott: You know, we had the controversy of the the bathing suits.
+
+228
+00:20:15,458 --> 00:20:19,242
+Rym: Yeah the special skates Mm-hmm.
+
+229
+00:20:19,423 --> 00:20:24,120
+Scott: Mm-hmm, but in some sports the equipment is actually quite unregulated.
+
+230
+00:20:24,541 --> 00:20:28,271
+Scott: Like I was actually researching the pole vault that I said, right?
+
+231
+00:20:28,351 --> 00:20:31,319
+Scott: Yeah, you could pole vault with pretty much any old stick.
+
+232
+00:20:32,681 --> 00:20:35,269
+Scott: Like there's not a lot of rules about the pole vault stick.
+
+233
+00:20:35,711 --> 00:20:37,055
+Scott: Yeah, just a few.
+
+234
+00:20:37,075 --> 00:20:41,960
+Rym: Yeah, and The sharp shooting is like that to many degrees in many ways.
+
+235
+00:20:42,060 --> 00:20:51,860
+Rym: So they'll wear these super special glasses and all this equipment and all this nonsense and this dude Just walks in hand in his pocket shooting wearing.
+
+236
+00:20:52,982 --> 00:20:56,179
+Scott: Almost everyone puts their hand in their pocket the pocket actually have to shoot.
+
+237
+00:20:56,743 --> 00:20:57,731
+Scott: It's shoot with one hand.
+
+238
+00:20:57,771 --> 00:20:59,020
+Scott: So you keep the other hand of the pocket.
+
+239
+00:20:59,100 --> 00:21:08,219
+Rym: It's a lot like how fencers especially like movie fencing or like old-timey fencing you see them like Wrap their hand into the small of their back like that was just a thing.
+
+240
+00:21:08,821 --> 00:21:17,020
+Rym: But the just the image of this guy shooting next to someone with all the equipment Was a very stark image.
+
+241
+00:21:17,361 --> 00:21:34,880
+Rym: But the reason I made this my thing of the day is I think you should actually watch how the sport goes down Because the sport itself is pretty intense and the degree of accuracy of shooting these Basically glorified BB guns at a target that's way further away than you think it is is absolutely amazing.
+
+242
+00:21:35,502 --> 00:21:38,392
+Scott: Yeah, don't let this you know this meme go to waste right.
+
+243
+00:21:38,492 --> 00:21:40,359
+Scott: the goodness of this meme is not that.
+
+244
+00:21:40,419 --> 00:21:40,620
+Scott: haha.
+
+245
+00:21:40,660 --> 00:21:41,903
+Scott: It's a funny thing, right?
+
+246
+00:21:41,984 --> 00:21:42,385
+Scott: Whatever.
+
+247
+00:21:42,786 --> 00:21:43,107
+Scott: It's that.
+
+248
+00:21:43,167 --> 00:21:47,899
+Scott: hey, like I said before finally the whole Olympics is not erased.
+
+249
+00:21:48,261 --> 00:21:53,967
+Scott: We can see competitors in small countries like this guy Competitors who are not gold medalists.
+
+250
+00:21:53,988 --> 00:21:56,416
+Scott: He's a silver medalist, you know, but still all right.
+
+251
+00:21:57,259 --> 00:22:05,236
+Scott: and Sports that otherwise your local broadcaster would probably ignore Unless your country's competitors were like the best at it or something.
+
+252
+00:22:05,597 --> 00:22:12,095
+Scott: So It's like paying attention to the actual sport Recognizing the competitors learning about it.
+
+253
+00:22:12,458 --> 00:22:21,741
+Scott: Maybe Someone will you know bring the attention on this sport will bring in added participation Which would be make them very happy I'm sure
+
+254
+00:22:21,802 --> 00:22:27,988
+Rym: especially because I would like to see more diversity of the sports that are available for kids to play or the kids know About to play.
+
+255
+00:22:28,211 --> 00:22:31,738
+Rym: there's a lot of sports I didn't know existed when I was young enough to try them out.
+
+256
+00:22:32,421 --> 00:22:33,626
+Scott: Yeah, and it's like it, you know.
+
+257
+00:22:33,867 --> 00:22:43,320
+Scott: on the one hand we talked about how like yes to win an Olympic sport You probably need to be like Duplantis the pole vault guy who happened to grow up with a pole vault set up in his back.
+
+258
+00:22:43,400 --> 00:22:46,237
+Scott: Yeah, right because of who his parents were?
+
+259
+00:22:46,297 --> 00:22:54,120
+Scott: they you know but they didn't force him to do it like they had a bunch of equipment set up in their backyard like a batting cage and All kinds of stuff because they were just an athletic family.
+
+260
+00:22:54,301 --> 00:22:57,560
+Scott: Yeah, he just took to the pole vault that happened to have a setup in his back.
+
+261
+00:22:57,600 --> 00:23:01,480
+Rym: It's more about how fun is it to do sports and competitions?
+
+262
+00:23:02,441 --> 00:23:03,225
+Rym: In general tournaments.
+
+263
+00:23:03,245 --> 00:23:07,140
+Scott: the point is is that there are some people who get to the Olympics?
+
+264
+00:23:07,800 --> 00:23:09,548
+Scott: Not that not by that path.
+
+265
+00:23:09,628 --> 00:23:09,829
+Scott: right.
+
+266
+00:23:10,130 --> 00:23:11,697
+Scott: the woman I forget her name.
+
+267
+00:23:12,059 --> 00:23:12,380
+Scott: Sorry.
+
+268
+00:23:13,204 --> 00:23:16,600
+Scott: Who won the women's cycling road race, right?
+
+269
+00:23:18,244 --> 00:23:20,260
+Scott: She was someone from New York City.
+
+270
+00:23:20,360 --> 00:23:26,976
+Scott: I guess she was originally from Alaska, but she came to New York City was working in finance Right in like her early 20s.
+
+271
+00:23:27,861 --> 00:23:37,291
+Scott: she went to Central Park because there was like cycling class or something and she just went to check it out and she got so into it and Years later gold medal.
+
+272
+00:23:37,997 --> 00:23:40,948
+Rym: No He was just a member of the.
+
+273
+00:23:41,008 --> 00:23:47,653
+Rym: basically the Turk is the cool Turkish equivalent of Section 9 or the National Guard combined something they call the Jindo Marie.
+
+274
+00:23:48,094 --> 00:23:49,780
+Rym: He was just like an officer in it.
+
+275
+00:23:49,941 --> 00:23:56,379
+Rym: He retired and he just became a shooting professional in Sport because he was a really good shot.
+
+276
+00:23:57,755 --> 00:23:59,977
+Rym: Yeah So you got a thing of the day?
+
+277
+00:24:01,360 --> 00:24:03,631
+Scott: Yeah, so is this really cool zine?
+
+278
+00:24:03,832 --> 00:24:05,420
+Scott: this like zine really speaks to me.
+
+279
+00:24:05,620 --> 00:24:14,143
+Scott: It is a a small group of trans tabletop craters have made a zine and the issue one of the zine is Issue one.
+
+280
+00:24:14,404 --> 00:24:19,420
+Scott: meanwhile in the mobile Hut and I the title of the overall zine I believe is chicken pot
+
+281
+00:24:20,221 --> 00:24:21,247
+Rym: Number one
+
+282
+00:24:21,790 --> 00:24:35,680
+Scott: and on the cover they have an excellent illustration of what is some sort of combination of Baba Yaga's Hut right and a pod like what the Zentradi have in Macross
+
+283
+00:24:36,280 --> 00:24:36,448
+Rym: combined
+
+284
+00:24:38,053 --> 00:24:44,539
+Scott: right And that pretty much tells you everything you need to know about what the contents of the zine are going to be.
+
+285
+00:24:45,423 --> 00:24:56,895
+Scott: You can download it for name your own price on itch.io Or there is a place you will eventually be able to get a print copy but I went there and it wasn't listed yet, but they say it will be.
+
+286
+00:24:56,915 --> 00:25:17,571
+Scott: so I haven't read the zine yet, but I I don't need to see anything else to know that this is Magnificent and I will probably Get every issue of chicken pod but there is only one as of this moment, so that is the one that you should acquire and Check out.
+
+287
+00:25:18,689 --> 00:25:19,660
+Rym: All right, let's get right into it.
+
+288
+00:25:19,700 --> 00:25:32,255
+Rym: So back in March of 2009 we reviewed a game called the Legend of Zelda four swords adventures And I realized talking to our friends Almost nobody knows that there are two different four swords games and most people I think
+
+289
+00:25:32,356 --> 00:25:39,960
+Scott: at the time they came out There wasn't very good communication from Nintendo about these games and like, you know what the deal was?
+
+290
+00:25:39,980 --> 00:25:42,935
+Rym: There was not so we'll talk about the bigger one briefly first.
+
+291
+00:25:42,955 --> 00:25:43,819
+Rym: So you have context.
+
+292
+00:25:43,919 --> 00:25:51,433
+Rym: in Nintendo released a GameCube game called the Legend of Zelda four swords adventures.
+
+293
+00:25:51,833 --> 00:26:07,448
+Rym: at that time a lot of people I think Mistook that it was just a GameCube release of the game They remember from the GBA era and didn't realize that it was a full-on full-length Absolutely top tier Zelda game, right?
+
+294
+00:26:07,508 --> 00:26:09,475
+Scott: It was like Oh four swords didn't that already?
+
+295
+00:26:09,575 --> 00:26:11,000
+Scott: like four swords already existed.
+
+296
+00:26:11,121 --> 00:26:15,993
+Scott: So then when I four swords is out for the GameCube It was like doesn't that already exist on GBA?
+
+297
+00:26:16,013 --> 00:26:17,440
+Scott: Like what is this going on?
+
+298
+00:26:17,560 --> 00:26:19,907
+Scott: I don't know right and plus you couldn't.
+
+299
+00:26:20,208 --> 00:26:24,620
+Scott: it was like absolutely essential to play it with the GBAs and the link cables.
+
+300
+00:26:24,681 --> 00:26:26,960
+Scott: You could not play that shit with the GameCube.
+
+301
+00:26:27,140 --> 00:26:39,830
+Rym: This and Crystal Chronicles are some of the greatest experiences Nintendo ever made and it was because of that experimental GameCube Game Boy link cable nonsense Which was rare and hard to get going like.
+
+302
+00:26:39,850 --> 00:26:42,780
+Rym: I feel very blessed that we lived in the era to have experienced it.
+
+303
+00:26:44,762 --> 00:26:56,297
+Scott: yep, but two years earlier in 2002 for the GBA they released a GBA remake of Link to the past which is itself one of the best Zelda games ever made right?
+
+304
+00:26:56,940 --> 00:27:00,739
+Scott: It's like well if you hadn't played it on Super Nintendo Why not get it on GBA?
+
+305
+00:27:01,320 --> 00:27:09,386
+Scott: that was the time before most people know how to use ROMs and emulators, but having already played link to the past and Having emulators to play it again.
+
+306
+00:27:09,406 --> 00:27:12,640
+Scott: If I wanted to I could probably get a Super Nintendo if I wanted to play it again.
+
+307
+00:27:12,720 --> 00:27:19,400
+Rym: Yep, I mean I had a Super Nintendo and I had a ROM and the only thing about this cartridge was underneath legends.
+
+308
+00:27:19,400 --> 00:27:20,183
+Rym: They'll link to the past.
+
+309
+00:27:20,384 --> 00:27:28,195
+Scott: There's a little thing that says includes new multiplayer adventure for swords Yep, and it's like in the year 2002 when I have a lot of money.
+
+310
+00:27:28,216 --> 00:27:29,180
+Scott: I had a GBA.
+
+311
+00:27:29,902 --> 00:27:35,020
+Scott: Why would I choose that GBA game for probably 30 to 50 bucks for the one game?
+
+312
+00:27:35,180 --> 00:27:37,100
+Rym: You can buy like every other month at best.
+
+313
+00:27:39,332 --> 00:27:41,049
+Rym: I Didn't even have a GBA yet.
+
+314
+00:27:41,110 --> 00:27:45,105
+Rym: I didn't get a GBA till 2003 Yeah, but so I never.
+
+315
+00:27:45,245 --> 00:27:47,972
+Scott: I never bothered with that ever until just now.
+
+316
+00:27:48,493 --> 00:28:03,240
+Scott: they have released that game that GBA game on The Nintendo switch online, you know app for the GBA And they have set it up in such a way that you could use the internet to work as GBA link cables.
+
+317
+00:28:04,301 --> 00:28:18,964
+Scott: So for people with switches in four different locations with internet access who all have Nintendo switch online accounts can play this game as if they had four GBAs and four link cables and it was 2002 all over it.
+
+318
+00:28:19,004 --> 00:28:24,287
+Rym: Yep, and it does just work like yeah, but you have to know yeah It's easy to make this mistake.
+
+319
+00:28:24,307 --> 00:28:26,620
+Rym: You don't launch the game and then try to do the multiplayer.
+
+320
+00:28:27,041 --> 00:28:32,699
+Rym: You actually have to use the menu on the left of the of the app itself on the switch and pick the GBA.
+
+321
+00:28:33,301 --> 00:28:47,400
+Scott: GBA app on the left has like a go online button and that's sort of like plugging in your link cables And then after you do that you choose a game afterwards Yep, and I would say if you have access to this on your switch.
+
+322
+00:28:47,822 --> 00:28:50,694
+Rym: It is very much worth your while to get three friends together and play it.
+
+323
+00:28:50,714 --> 00:28:52,000
+Rym: You'll beat it in a couple hours.
+
+324
+00:28:52,302 --> 00:28:55,284
+Rym: you'll experience it and For what it's worth.
+
+325
+00:28:55,665 --> 00:29:08,220
+Rym: It's pretty good with the caveat that it is very very obviously a prototype of What eventually became the real game for swords adventures on the GameCube?
+
+326
+00:29:09,140 --> 00:29:16,829
+Scott: Yeah, I mean, you know You can see a lot of the mechanics in this game up here and the GameCube one like, okay All the links have to step on the buttons together.
+
+327
+00:29:16,849 --> 00:29:19,180
+Scott: Yeah, all the links have to push the block together.
+
+328
+00:29:19,742 --> 00:29:24,820
+Scott: Right, although you can hurt each other and throw each other and then to get over obstacles, right?
+
+329
+00:29:25,040 --> 00:29:26,638
+Scott: You could get to team up to fight the bosses.
+
+330
+00:29:27,461 --> 00:29:33,438
+Scott: Everyone has to do their part because sometimes the boss changes color and only that link can do damage all that sort of stuff.
+
+331
+00:29:35,062 --> 00:29:36,952
+Scott: Well, basically, it's just four dungeons.
+
+332
+00:29:37,676 --> 00:29:39,705
+Scott: It's a four dungeon game Tutorial.
+
+333
+00:29:39,846 --> 00:29:41,720
+Rym: the tutorial is a third of the gameplay.
+
+334
+00:29:41,940 --> 00:29:46,870
+Rym: I think gameplay time and the tutorials fun like don't skip it because otherwise you're skipping like a third of the game.
+
+335
+00:29:48,421 --> 00:29:50,631
+Scott: Also, if you don't do the tutorial you won't know what the heck to do.
+
+336
+00:29:50,933 --> 00:29:51,094
+Scott: Yep,
+
+337
+00:29:51,415 --> 00:30:08,861
+Rym: and that's actually true You will not have any idea how any of this stuff works because I feel like what this game was is they were they clearly Wanted to make four swords adventures the real game and they use this to try out some mechanics and then to Get some market feedback and see how people engage with it and like figure I think
+
+338
+00:30:09,102 --> 00:30:14,739
+Scott: also to boost sales on a game that otherwise, you know, was it really gonna sell?
+
+339
+00:30:14,759 --> 00:30:15,120
+Scott: how you know?
+
+340
+00:30:15,220 --> 00:30:19,840
+Scott: How well would that GBA game have sold if not for adding something on to it, right?
+
+341
+00:30:19,920 --> 00:30:27,515
+Scott: I think you know, it probably would have sold about as well But I definitely think it got a lot of sales because it added something extra.
+
+342
+00:30:27,816 --> 00:30:28,398
+Scott: if it was just.
+
+343
+00:30:28,679 --> 00:30:31,060
+Scott: hey Here's exactly the same game again a big what?
+
+344
+00:30:32,280 --> 00:30:38,995
+Scott: You know when they released the second link to the past remake the one that's on The DS one where you get flat and stuff.
+
+345
+00:30:39,015 --> 00:30:39,720
+Scott: Mm-hmm, right?
+
+346
+00:30:40,601 --> 00:30:49,459
+Scott: That one, you know, they really sort of boosted it and add, you know, it wasn't just a straight remake And that was able to boost get more sales.
+
+347
+00:30:50,442 --> 00:31:01,552
+Scott: But yes, it's hard to sell just a straight remake in unless the game is particularly old or Particularly in need of an upgrade right like the Super Mario RPG remake.
+
+348
+00:31:01,593 --> 00:31:07,953
+Scott: It's like huge time gap and Significant quality of life improvements because of that distance.
+
+349
+00:31:08,435 --> 00:31:09,900
+Rym: I plan to play it as a result.
+
+350
+00:31:10,821 --> 00:31:14,168
+Scott: Whereas you know, what what year did link to the past come out right?
+
+351
+00:31:14,168 --> 00:31:14,589
+Scott: 1990 something?
+
+352
+00:31:14,609 --> 00:31:21,870
+Rym: Yeah Several times since 1991 that won the u.s.
+
+353
+00:31:21,870 --> 00:31:24,983
+Scott: 91 91 or 92 So they.
+
+354
+00:31:25,104 --> 00:31:27,719
+Scott: the remake was basically a 10-year remake, right?
+
+355
+00:31:28,440 --> 00:31:39,723
+Scott: Whereas Super Mario RPG the original one came out in 96 and the remake came out in 2024 so 2024 minus 96 right is.
+
+356
+00:31:39,743 --> 00:31:45,510
+Scott: uh My math is not working.
+
+357
+00:31:45,531 --> 00:31:51,293
+Scott: Yeah It's what I throw basic to 28 years versus 10 years.
+
+358
+00:31:51,314 --> 00:31:52,780
+Scott: Yeah, so three times the gap.
+
+359
+00:31:54,081 --> 00:31:56,050
+Rym: So how this game works, this is short.
+
+360
+00:31:56,111 --> 00:31:59,062
+Rym: its deal, you know got play with friends Don't disease.
+
+361
+00:31:59,383 --> 00:32:02,792
+Rym: literally no reason to not play this with other humans.
+
+362
+00:32:03,173 --> 00:32:06,080
+Rym: Don't mess with any other way to engage with it.
+
+363
+00:32:06,363 --> 00:32:07,435
+Rym: It's a four player game.
+
+364
+00:32:08,701 --> 00:32:10,007
+Rym: You'll just go through a series of dungeons.
+
+365
+00:32:10,107 --> 00:32:10,951
+Scott: You don't have four people.
+
+366
+00:32:10,971 --> 00:32:11,393
+Scott: Don't bother.
+
+367
+00:32:11,413 --> 00:32:11,574
+Rym: Yep.
+
+368
+00:32:11,594 --> 00:32:13,000
+Rym: The dungeons are semi randomized.
+
+369
+00:32:13,161 --> 00:32:17,201
+Rym: So every time you enter a dungeon things will be in a different order and stuff will be moved around Like.
+
+370
+00:32:17,241 --> 00:32:19,570
+Rym: it's a little bit of not quite a roguelike.
+
+371
+00:32:19,631 --> 00:32:21,920
+Rym: It's just like a very simple random.
+
+372
+00:32:22,001 --> 00:32:24,900
+Scott: It's a little bit of procedural generation just to mix things up.
+
+373
+00:32:24,980 --> 00:32:30,779
+Rym: yep, and basically you're just trying to be the one to collect the most rupees while also solving some simple puzzles.
+
+374
+00:32:30,799 --> 00:32:47,620
+Rym: and The thing that I think is striking about it is despite being basically a tech demo and a proof of concept the sheer number of items is a lot like to the point that The items barely get used enough each to scratch.
+
+375
+00:32:47,620 --> 00:32:52,760
+Scott: Yeah a surface of how they put in a lot of items and you don't really use them more than like once each.
+
+376
+00:32:52,821 --> 00:32:55,999
+Scott: It's like you got boomerang Pegasus boot.
+
+377
+00:32:57,243 --> 00:32:57,887
+Scott: Where the other ones?
+
+378
+00:32:57,987 --> 00:32:58,531
+Scott: Oh the Cape?
+
+379
+00:32:58,913 --> 00:33:02,046
+Rym: Yeah, the kids real fun Bob down stab.
+
+380
+00:33:02,067 --> 00:33:06,486
+Rym: the game doesn't even tell you about yeah the bomb The.
+
+381
+00:33:06,628 --> 00:33:15,163
+Scott: there's a lot of items Yeah, and you really only use them like one use them as tutorial and use them like once each in the game and it's like.
+
+382
+00:33:15,644 --> 00:33:21,806
+Scott: this is not enough level and dungeon to make use of all the items that they that they made like.
+
+383
+00:33:21,826 --> 00:33:38,700
+Rym: there's basically almost no puzzles that you that require a bunch of different items and a complex workflow like you might put together in four sword adventures like this game is Honestly baby easy mode like you are not going to have trouble beating the game in one sitting.
+
+384
+00:33:38,882 --> 00:33:40,739
+Rym: I don't think you'll even die more than a few times.
+
+385
+00:33:41,642 --> 00:33:57,520
+Scott: No, you can easily beat it without dying on your first try if you have any kind of video game confidence especially Zelda competence, but what's striking about it is that it introduces so many concepts and Most of them actually work really well.
+
+386
+00:33:57,620 --> 00:34:00,170
+Rym: like think about the things this did because this game was novel.
+
+387
+00:34:00,210 --> 00:34:08,098
+Rym: when it came out the four players simultaneous and In this kind of environment on four different game boys was not common.
+
+388
+00:34:08,118 --> 00:34:13,600
+Rym: yet Like multiplayer on consoles was not super common in the area that this game came out.
+
+389
+00:34:15,204 --> 00:34:16,553
+Rym: it has the the.
+
+390
+00:34:16,632 --> 00:34:24,239
+Rym: the items are Interactive to the point that you can hurt each other and that's a lot of the fun like it's semi-competitive.
+
+391
+00:34:24,481 --> 00:34:40,498
+Rym: So I think if I feel like the game encourages a certain amount of throwing your friends Into the pit so you can open the chest before they open it like the game encourages that but it doesn't make it too annoying Like the game doesn't bog down on everyone just fighting with each other.
+
+392
+00:34:42,101 --> 00:34:57,398
+Rym: there is a shocking variety of puzzles and it even has a few elements where along the way like there's a moment where there's just like one area where there's some tiles and each player only sees the tiles of their color and all the places that aren't their color, it's just a pit.
+
+393
+00:34:57,418 --> 00:34:59,549
+Rym: and The game doesn't even tell you.
+
+394
+00:34:59,609 --> 00:35:01,280
+Rym: you just figure it out by talking to each other.
+
+395
+00:35:02,682 --> 00:35:10,635
+Scott: Yeah, so for the Game Boy Advance, there are fifteen hundred and thirty eight legitimately licensed games Worldwide, I guess right.
+
+396
+00:35:10,655 --> 00:35:14,560
+Scott: Wow For the Game Boy Advance the number of games.
+
+397
+00:35:17,042 --> 00:35:19,640
+Scott: Oh, these are Game Boy and Game Boy Color games that use the link.
+
+398
+00:35:20,984 --> 00:35:25,275
+Scott: Game Boy Advance games that supported link cable.
+
+399
+00:35:25,657 --> 00:35:26,900
+Scott: I don't think it was that many there.
+
+400
+00:35:27,101 --> 00:35:32,280
+Rym: Definitely not that many like Advance Wars supported it and we played Advance Wars.
+
+401
+00:35:33,901 --> 00:35:39,500
+Rym: You know as a kid, I always really really wanted to try out the game the original Game Boy link cable to play Humper Run October.
+
+402
+00:35:39,661 --> 00:35:44,400
+Rym: But I never knew anyone else who had a Game Boy and was willing to play multiplayer.
+
+403
+00:35:44,701 --> 00:35:48,837
+Scott: There are less than 40 games that support the GBA link cable.
+
+404
+00:35:49,279 --> 00:35:49,500
+Scott: a lot.
+
+405
+00:35:49,580 --> 00:35:54,789
+Scott: Most of them are like direct multiplayer like Bomberman Advance Wars Dr.
+
+406
+00:35:54,830 --> 00:36:03,294
+Scott: Mario puzzle right You know four swords, obviously Mario Kart Super Circuit all the Mario Advance games.
+
+407
+00:36:03,535 --> 00:36:05,600
+Scott: You could have a little battle modes in them.
+
+408
+00:36:07,363 --> 00:36:12,566
+Rym: Feel like I played most of these multiplayer when they were yeah A but there's some Sonic games.
+
+409
+00:36:12,707 --> 00:36:14,693
+Scott: a bunch of Sonic games support it.
+
+410
+00:36:14,713 --> 00:36:17,080
+Scott: a monkey ball game supports obviously Pokemon games.
+
+411
+00:36:17,140 --> 00:36:25,870
+Scott: Yeah, Ruby set Ruby Sapphire emerald fire red leaf green all support it And there's some a lot of insignificant ones like Mario Luigi.
+
+412
+00:36:25,890 --> 00:36:34,715
+Scott: Superstar saga supports it but it's like that's a single-player RPG But you can connect it and it lets you play Mario Bros 1 not Super Mario Brothers, right?
+
+413
+00:36:34,795 --> 00:36:36,520
+Scott: original Mario Bros, right?
+
+414
+00:36:36,680 --> 00:36:38,568
+Scott: So that does that really count?
+
+415
+00:36:38,930 --> 00:36:41,100
+Scott: It's like, you know, and that's pretty much it.
+
+416
+00:36:41,260 --> 00:36:42,810
+Scott: Those are the games that support link cable.
+
+417
+00:36:42,830 --> 00:36:44,520
+Scott: So that's why almost no one had link cables.
+
+418
+00:36:44,963 --> 00:36:49,399
+Scott: It was also hard to get link cables, you know Even if you wanted one and had games that supported them.
+
+419
+00:36:49,701 --> 00:36:55,800
+Rym: We were very lucky to to be living at RIT During this era where we were a bunch of nerds and all that game boys.
+
+420
+00:36:56,181 --> 00:36:56,703
+Scott: Well, we weren't?
+
+421
+00:36:56,723 --> 00:37:02,100
+Scott: we worked hard to get GBA link cables and Gameboy, you know advanced game cube link cables.
+
+422
+00:37:02,120 --> 00:37:15,696
+Scott: Yeah we wanted them on purpose and we were in a situation where they were valuable to us because We had a bunch of people who had Gameboy advances game cubes Right all living together in close quarters and we could make use of those cables.
+
+423
+00:37:15,817 --> 00:37:16,218
+Scott: and we did.
+
+424
+00:37:16,559 --> 00:37:18,044
+Rym: Yep And it was worth it.
+
+425
+00:37:18,084 --> 00:37:18,806
+Rym: like this game.
+
+426
+00:37:19,227 --> 00:37:37,995
+Rym: You can say the game might not seem revolutionary if you're just used to modern games but you have to understand that there were not games like this until this came out and The fact that a couple years later they released a GameCube version of this game That is multiple orders of magnitude more game and is actually I think one of the.
+
+427
+00:37:38,517 --> 00:37:42,613
+Rym: I think it's a top-tier Definitely top 20 GameCube game the four swords.
+
+428
+00:37:43,336 --> 00:37:46,148
+Scott: I mean if you think about it It's like in terms of multiplayer games.
+
+429
+00:37:46,188 --> 00:37:48,196
+Scott: You had couch co-op, which is for player.
+
+430
+00:37:48,276 --> 00:37:49,140
+Scott: No problem, right?
+
+431
+00:37:49,200 --> 00:37:51,520
+Scott: You'd game cubes to play smash for player, right?
+
+432
+00:37:52,782 --> 00:37:56,200
+Scott: And you had PC multiplayer like your quakes, right?
+
+433
+00:37:56,621 --> 00:38:07,699
+Scott: But in terms of same room multiplayer, but multi screen The only way to do that was to get like, you know People would do like Goldeneye and and and halo and shit with a bunch of TVs.
+
+434
+00:38:08,905 --> 00:38:22,897
+Scott: And that was you know, you could do that But it was preposterous and happened rarely, you know, this was like a special thing at the time, you know Even nowadays we could do this easily with phones, but no one fucking does.
+
+435
+00:38:22,917 --> 00:38:23,177
+Rym: Nope.
+
+436
+00:38:23,258 --> 00:38:23,980
+Rym: No one game.
+
+437
+00:38:24,642 --> 00:38:30,300
+Scott: Yeah, what game can you play on your phone where everyone else opens it on their phone other than like a jackbox?
+
+438
+00:38:30,641 --> 00:38:38,900
+Scott: I was about to say the jackbox does this But it's like there's no reason you couldn't make a phone game where everyone opens it up and does local wireless multiplayer.
+
+439
+00:38:39,804 --> 00:38:41,159
+Scott: All the technology is in there.
+
+440
+00:38:42,301 --> 00:38:46,739
+Scott: It would even get approved in the Apple store if you made it, but I don't know when it was made.
+
+441
+00:38:46,820 --> 00:38:47,658
+Scott: one There probably is one.
+
+442
+00:38:48,014 --> 00:38:55,826
+Rym: Yeah But but the fact that you see these early concepts like the color thing with the tiles and the same thing happens with some Some energy balls that come out of the bosses.
+
+443
+00:38:56,267 --> 00:39:10,506
+Rym: the game already is experimenting with the idea of giving each player information the other players don't have because you know They're all in the same room and it forces them to talk to each other and Coordinate without seeing each other's screens.
+
+444
+00:39:10,827 --> 00:39:18,520
+Rym: and that brilliant concept was then used to great effect in Final Fantasy Crystal Chronicles And also four swords on the GameCube.
+
+445
+00:39:19,841 --> 00:39:20,464
+Scott: So we were.
+
+446
+00:39:20,525 --> 00:39:26,171
+Scott: I think we were correct for us to not purchase this game back in the day But back in the day when it came out.
+
+447
+00:39:26,251 --> 00:39:28,040
+Scott: if someone had not played link to the past.
+
+448
+00:39:29,044 --> 00:39:31,222
+Scott: It would have been a very worthwhile Purchase.
+
+449
+00:39:31,544 --> 00:39:35,440
+Rym: absolutely would have been a must-buy because Zelda 3 is one of the best games ever made.
+
+450
+00:39:36,123 --> 00:39:37,993
+Scott: But today you can play.
+
+451
+00:39:38,073 --> 00:39:46,180
+Scott: link to the if you have a switch You can play link to the past in the SNES online app and you can play this in the GBA online app.
+
+452
+00:39:47,401 --> 00:39:51,836
+Rym: So if you have never played all four swords, then get some friends like.
+
+453
+00:39:51,896 --> 00:39:52,939
+Rym: it's absolutely worth it.
+
+454
+00:39:53,242 --> 00:40:03,007
+Rym: Try this out and If it tickles your fancy a little bit just know that if you put in the effort to get the real one on the GameCube It's a Zelda 3 length game.
+
+455
+00:40:03,308 --> 00:40:06,360
+Rym: That's just that but more refined with more stuff going on.
+
+456
+00:40:06,721 --> 00:40:07,144
+Scott: Yeah, you could.
+
+457
+00:40:07,164 --> 00:40:17,393
+Scott: we did an episode of the GameCube one back in the day Which I will but we've actually have not beaten that game because even though every time we've played it We had a super fun time and sat there for hours.
+
+458
+00:40:17,534 --> 00:40:18,317
+Scott: We never finished it.
+
+459
+00:40:18,377 --> 00:40:19,060
+Scott: That's how big it is.
+
+460
+00:40:19,100 --> 00:40:21,395
+Scott: It's like a full-on game with lots and lots of levels.
+
+461
+00:40:21,456 --> 00:40:25,832
+Scott: So One day we'll make it happen in the retirement home.
+
+462
+00:40:26,514 --> 00:40:28,040
+Rym: Maybe keep those link cables.
+
+463
+00:40:30,182 --> 00:40:32,550
+Rym: This has been GeekNights with Rym and Scott.
+
+464
+00:40:32,611 --> 00:40:35,120
+Rym: special thanks to DJ pretzel for the opening theme.
+
+465
+00:40:35,320 --> 00:40:41,340
+Scott: Be sure to visit our website at front row crew comm for show notes discussion links and more.
+
+466
+00:40:41,821 --> 00:40:44,512
+Rym: Remember GeekNights is not one but four different shows.
+
+467
+00:40:44,814 --> 00:40:46,380
+Rym: Mondays are science and technology.
+
+468
+00:40:46,500 --> 00:40:48,267
+Rym: Tuesdays gaming and games.
+
+469
+00:40:48,387 --> 00:40:50,213
+Rym: Wednesdays are animation and comics.
+
+470
+00:40:50,514 --> 00:40:53,044
+Rym: Thursdays are arbitrary and Indiscriminate.
+
+471
+00:40:53,646 --> 00:40:58,624
+Rym: GeekNights is distributed under a creative commons attribution 4.0 International license.
+
+472
+00:40:59,026 --> 00:41:03,340
+Scott: GeekNights is recorded live with no studio and no audience.
+
+473
+00:41:03,841 --> 00:41:07,371
+Scott: But unlike those other late shows it's actually recorded at night.
+
+474
+00:41:08,233 --> 00:41:23,080
+Rym: and the patreon patrons for this episode of GeekNights Are Alan Joyce Lincoln G dried Lily 10 bright case care mates music Chris the doctors for Clinton Walton Finn Joel Hayes Penny Reimer Rebecca Dunn Sam Erickson Shervin von Harlan a bunch of people who do not want me to say their names.
+
+475
+00:41:23,481 --> 00:41:25,948
+Rym: Scott still has somewhat of a cactus in his throat.
+
+476
+00:41:26,108 --> 00:41:32,126
+Rym: I had to edit out a shocking amount of extreme coughing on his part But otherwise, we're pretty much back.
+
+477
+00:41:32,889 --> 00:41:35,560
+Rym: It doesn't look like the power went out during our incoming flooding.
+
+478
+00:41:36,021 --> 00:41:44,959
+Media: So tonight I leave you with and you know, America has tried these failed policies before And we are not going back.
+
+479
+00:41:45,825 --> 00:41:47,920
+Media: We are not going back.
+
+480
+00:41:51,732 --> 00:41:52,414
+Media: We all here.
+
+481
+00:41:52,494 --> 00:41:54,459
+Media: Remember what those four years were like.
+
+482
+00:41:55,342 --> 00:41:58,450
+Media: and today we were given yet another reminder.
+
+483
+00:42:00,258 --> 00:42:23,590
+Media: this afternoon Donald Trump spoke at the annual meeting of the National Association of black journalists and it was the same old show The divisiveness and the disrespect.
+
+484
+00:42:25,879 --> 00:42:30,268
+Media: And let me just say The American people deserve better.
+
+485
+00:42:31,332 --> 00:42:33,275
+Media: The American people deserve better.
+
+486
+00:42:37,363 --> 00:42:48,270
+Media: the American people deserve a leader who tells the truth a Leader who does not respond with hostility and anger when confronted with the facts.
+
+487
+00:42:49,792 --> 00:42:56,649
+Media: We deserve a leader who understands that Our differences do not divide us.
+
+488
+00:42:58,212 --> 00:43:01,349
+Media: They are an essential source of our strength.
+
+489
+00:43:03,393 --> 00:43:08,030
+Media: So I say the Sigma Gamma Rho sorority incorporated.
+
+490
+00:43:10,192 --> 00:43:19,354
+Media: Ours is a fight for the future and it is a fight for freedom Across our nation.
+
+491
+00:43:19,896 --> 00:43:39,423
+Media: We are witnessing a full-on attack on hard-fought hard-won Fundamental freedoms and rights the freedom to vote The freedom to be safe from gun violence the freedom to live without fear of bigotry and hate The freedom to love who you love openly and with pride.
+
+492
+00:43:39,503 --> 00:43:43,497
+Media: the freedom to learn and acknowledge America's true and full history.
+
+493
+00:43:43,958 --> 00:43:51,855
+Media: and the freedom of a woman to make decisions about her own body And not have her government tell her what to do.
+
+494
+00:43:55,519 --> 00:43:58,897
+Media: a fight for our most fundamental freedoms.
+
+495
+00:43:58,917 --> 00:44:12,052
+Media: and To this room of leaders I say bring it on Bring it on those who would dare to attack these fundamental freedoms.
+
+496
+00:44:12,693 --> 00:44:25,280
+Media: because we here we love our country We love our country and I believe it is the highest form of patriotism to fight for the ideals of our country.
+
+497
+00:44:26,830 --> 00:44:35,040
+Media: So we Who believe in the sacred freedom to vote will finally pass the John Lewis Voting Rights Act and the freedom to vote at?
+
+498
+00:44:38,491 --> 00:44:47,830
+Media: We who believe that every person should be free from gun violence will finally pass universal background checks red flag laws and an assault weapons ban.
+
+499
+00:44:50,887 --> 00:45:07,888
+Media: And We who believe in reproductive freedom will fight for a woman's right to choose Because we know one does not have to abandon their faith or Deeply held beliefs to agree.
+
+500
+00:45:08,250 --> 00:45:24,231
+Media: the government should not be telling her what to do because we know faith and freedom can coexist and Understand.
+
+501
+00:45:24,272 --> 00:45:37,426
+Media: when he was president Donald Trump hand-picked three members of the United States Supreme Court the court of Thurgood and RBG Because he intended for them to overturn the protections of Roe v. Wade and as he intended they did.
+
+502
+00:45:38,228 --> 00:45:53,868
+Media: and now in the south where the majority of black women live Every state except for Virginia has an abortion ban many with no exception even for rape and incest.
+
+503
+00:45:54,109 --> 00:46:03,990
+Media: and Now he intends to pass a nationwide Abortion ban to ban access to fundamental health care in every state.
+
+504
+00:46:05,391 --> 00:46:07,095
+Media: But I will not let that happen.
+
+505
+00:46:07,195 --> 00:46:18,580
+Media: I promise you when I am president of the United States And when Congress passes a law to restore reproductive freedoms, I will sign it into law.
+

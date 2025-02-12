@@ -1,0 +1,2584 @@
+﻿1
+00:00:08,540 --> 00:00:12,231
+Speaker 1: It's Wednesday October 23rd 2024.
+
+2
+00:00:12,231 --> 00:00:15,419
+Speaker 1: I'm rim I'm Scott and this is geek nights.
+
+3
+00:00:15,479 --> 00:00:19,998
+Speaker 1: tonight We're talking about the 2024 anime Terminator zero.
+
+4
+00:00:20,861 --> 00:00:25,270
+Speaker 1: Let's do this All right, you said you had an opening bit open away.
+
+5
+00:00:25,511 --> 00:00:27,680
+Speaker 0: So we got you know those instax cameras.
+
+6
+00:00:27,680 --> 00:00:34,587
+Speaker 0: You know the ones that have the expensive modern not Polaroid, but Fuji Instant photo film.
+
+7
+00:00:35,229 --> 00:00:35,531
+Speaker 1: Oh, yeah.
+
+8
+00:00:35,551 --> 00:00:37,640
+Speaker 1: I think you talked about those on the show a long time ago.
+
+9
+00:00:37,982 --> 00:00:45,937
+Speaker 0: so we got this instax mini 12 and You know it worked for a while, and then it stopped working.
+
+10
+00:00:45,997 --> 00:00:46,680
+Speaker 0: it had this base.
+
+11
+00:00:46,680 --> 00:00:50,699
+Speaker 0: So you know the Xbox 360 had the dreaded thinking red red light.
+
+12
+00:00:51,664 --> 00:00:54,980
+Speaker 0: The instax mini has basically the dreaded blinking orange light.
+
+13
+00:00:55,722 --> 00:00:58,372
+Speaker 0: It's a thing that happens and I hadn't even before.
+
+14
+00:00:58,392 --> 00:01:00,320
+Speaker 0: you know we got the thing for free.
+
+15
+00:01:00,903 --> 00:01:03,359
+Speaker 0: It's like I knew about the light before getting it.
+
+16
+00:01:04,982 --> 00:01:08,499
+Speaker 0: Which is you know knowing about the light problem, I wouldn't have bought one with money.
+
+17
+00:01:10,900 --> 00:01:16,819
+Speaker 0: But because because I had seen you know there was a previous thing of the day says sticks fix.
+
+18
+00:01:17,622 --> 00:01:26,258
+Speaker 0: He he was repairing cameras that had this problem by replacing a particular chip on them little IC or whatever.
+
+19
+00:01:27,381 --> 00:01:32,260
+Speaker 0: But people are saying oh yeah that the problem is battery related, but I'm like dude.
+
+20
+00:01:32,441 --> 00:01:34,853
+Speaker 0: I charged up these batteries like just now.
+
+21
+00:01:34,934 --> 00:01:38,507
+Speaker 0: They're the high that the Superanna loops the dark gray ones.
+
+22
+00:01:38,807 --> 00:01:39,790
+Speaker 0: they're fully charged.
+
+23
+00:01:39,830 --> 00:01:43,240
+Speaker 0: they came right out of the charger and the cameras got the blinking orange light.
+
+24
+00:01:43,300 --> 00:01:45,029
+Speaker 0: What the what the heck's the problem right?
+
+25
+00:01:45,511 --> 00:01:50,790
+Speaker 0: I don't think that's it and of course I don't own like a bench power supply or anything so I can't check.
+
+26
+00:01:50,830 --> 00:01:59,878
+Speaker 0: yeah, you know if I had room I would own one but anyway But I you know we're like all right.
+
+27
+00:01:59,959 --> 00:02:02,513
+Speaker 0: well We kind of still want to use the film we got.
+
+28
+00:02:02,533 --> 00:02:05,700
+Speaker 0: let's maybe we should buy one But I kind of want to fix this one.
+
+29
+00:02:05,800 --> 00:02:09,356
+Speaker 0: But I the fix that I had seen other people do was not a fix.
+
+30
+00:02:09,437 --> 00:02:10,120
+Speaker 0: I wanted to do.
+
+31
+00:02:12,262 --> 00:02:22,303
+Speaker 0: So I'm like well, let's I did some last-second research and One person was like yeah, you got to use like Alkaline batteries.
+
+32
+00:02:22,344 --> 00:02:26,718
+Speaker 0: your your nickel metal hydride batteries aren't gonna work, and I'm like like that.
+
+33
+00:02:26,738 --> 00:02:29,007
+Speaker 1: if I Like I still got.
+
+34
+00:02:29,027 --> 00:02:43,160
+Speaker 1: all the antelopes are bought in beacon and actually they still like have a lot using the same sets of antelopes for like Super a long time same like like it's the original set I have bought no more Yeah, but anyway, so I'm like alright.
+
+35
+00:02:43,240 --> 00:02:48,419
+Speaker 0: Well, it's it's cheap to try that and it means I don't have to open up the camera just yet or sell it.
+
+36
+00:02:48,720 --> 00:02:50,466
+Speaker 0: It's the least hassle to attempt that.
+
+37
+00:02:50,567 --> 00:02:52,112
+Speaker 1: so did it work cuz then I'm mad.
+
+38
+00:02:52,614 --> 00:02:53,858
+Speaker 0: so yeah, we go to the store.
+
+39
+00:02:53,978 --> 00:02:57,900
+Speaker 0: at the store It's like they only sold like Duracell alkaline.
+
+40
+00:02:57,900 --> 00:03:01,834
+Speaker 0: It's like big packs, and I'm like well if I need a big pack.
+
+41
+00:03:01,874 --> 00:03:03,560
+Speaker 0: I'll go to Costco and get a big bag.
+
+42
+00:03:04,023 --> 00:03:05,414
+Speaker 0: I'll just so.
+
+43
+00:03:05,595 --> 00:03:15,727
+Speaker 0: but they had Energizer had lithium batteries that were you could just get for a normal amount But not rechargeable like primary cell.
+
+44
+00:03:15,747 --> 00:03:18,554
+Speaker 0: yes like non rechargeable lithium, which I'm like.
+
+45
+00:03:18,635 --> 00:03:20,500
+Speaker 0: what like why is that even a thing?
+
+46
+00:03:20,900 --> 00:03:22,450
+Speaker 1: Oh, those have been a thing for a long time there.
+
+47
+00:03:22,470 --> 00:03:24,080
+Speaker 1: They have a lot of very important uses.
+
+48
+00:03:24,140 --> 00:03:26,891
+Speaker 1: They're super great, but they shouldn't be used casually.
+
+49
+00:03:26,991 --> 00:03:30,670
+Speaker 0: I would say I don't know, but it is like well That's the only thing they got at this store.
+
+50
+00:03:30,690 --> 00:03:32,099
+Speaker 0: That's not 20 batteries.
+
+51
+00:03:33,561 --> 00:03:35,088
+Speaker 0: So I'm like oh, I guess we should get.
+
+52
+00:03:35,128 --> 00:03:37,840
+Speaker 0: at least try that and see and it worked.
+
+53
+00:03:38,423 --> 00:03:43,680
+Speaker 0: So I guess this camera if you have an instax mini 12 I guess there's really sensitive.
+
+54
+00:03:43,840 --> 00:03:49,696
+Speaker 0: It's really picky about the voltage because there's nothing else that it could be the right or the current right.
+
+55
+00:03:49,716 --> 00:03:53,078
+Speaker 0: it's it's super picky about What you know your battery being?
+
+56
+00:03:54,320 --> 00:03:54,678
+Speaker 0: correct.
+
+57
+00:03:56,302 --> 00:04:10,610
+Speaker 0: And so if you have one or if you're thinking about getting one make sure that you go to Costco and buy a mega pack of Batteries that go in the garbage I guess because Rechargeable batteries aren't going to work.
+
+58
+00:04:10,650 --> 00:04:12,699
+Speaker 0: and also why do these things?
+
+59
+00:04:13,480 --> 00:04:14,467
+Speaker 0: Take double-a.
+
+60
+00:04:14,507 --> 00:04:17,803
+Speaker 0: shouldn't it have a lithium Rechargeable ion?
+
+61
+00:04:18,327 --> 00:04:20,858
+Speaker 1: I think double-a is a final vestige.
+
+62
+00:04:21,160 --> 00:04:22,506
+Speaker 1: Yeah, it's like an old era.
+
+63
+00:04:22,686 --> 00:04:25,558
+Speaker 0: shouldn't they make an inst like the instax mini printer.
+
+64
+00:04:25,639 --> 00:04:25,980
+Speaker 0: I have.
+
+65
+00:04:27,426 --> 00:04:34,932
+Speaker 0: well it Just it's insect square printer, but regardless it Has a battery built-in you recharge it with.
+
+66
+00:04:34,993 --> 00:04:35,616
+Speaker 0: I didn't see my.
+
+67
+00:04:37,263 --> 00:04:44,779
+Speaker 1: almost every Power cell I have to recharge things takes micro USB and I still have one.
+
+68
+00:04:45,800 --> 00:04:49,993
+Speaker 0: What I'm saying is like why did the instax cameras still take batteries?
+
+69
+00:04:50,054 --> 00:04:50,635
+Speaker 0: They should.
+
+70
+00:04:50,656 --> 00:04:52,642
+Speaker 1: there's always Someone.
+
+71
+00:04:52,682 --> 00:04:56,214
+Speaker 0: you should have a house in battery and a USB cable of some kind.
+
+72
+00:04:56,695 --> 00:05:01,900
+Speaker 0: Yeah the year 2024 Hopefully the instax mini 13 camera will be that way.
+
+73
+00:05:02,161 --> 00:05:10,740
+Speaker 1: I have one use case for a traditional battery and but that is not a use case actually Matters anymore in my life because I don't do this often enough to for it to be a problem.
+
+74
+00:05:11,343 --> 00:05:18,712
+Speaker 1: but it's the use case more for mountain bikers specifically an older style bike headlight that takes regular batteries.
+
+75
+00:05:19,033 --> 00:05:30,110
+Speaker 1: those things will last like 12 hours and If you are like biking through the woods at night You can't get away with USB C charge ones because they usually only lasted full brightness like an hour or two.
+
+76
+00:05:30,962 --> 00:05:34,019
+Speaker 1: But like that's an extreme edge case and there's a lot of ways around that.
+
+77
+00:05:34,482 --> 00:05:36,437
+Speaker 1: But I still have one thing left.
+
+78
+00:05:36,477 --> 00:05:47,682
+Speaker 1: in this apartment we have an old keyboard that takes D batteries and I'm old enough to have to have used things that took C batteries and single a batteries and Triple-a batteries.
+
+79
+00:05:47,923 --> 00:05:50,548
+Speaker 1: Hmm, and none of that's gonna mean anything to young people.
+
+80
+00:05:50,568 --> 00:06:00,182
+Speaker 0: Yeah, I Just I don't know how they made something that was so sensitive that it like I bet they skimped out on the voltage regulator or something like.
+
+81
+00:06:00,262 --> 00:06:00,924
+Speaker 0: I don't know what.
+
+82
+00:06:01,065 --> 00:06:03,715
+Speaker 0: I'm sure someone who knows more about Electronics will know.
+
+83
+00:06:03,795 --> 00:06:06,064
+Speaker 1: but like, you know who we could ask, you know what we should ask.
+
+84
+00:06:06,124 --> 00:06:08,695
+Speaker 1: I should ask big Clive like hey What's up with this camera?
+
+85
+00:06:08,815 --> 00:06:11,829
+Speaker 1: Cuz for all we know he'll get one and do a video about it then blow it up.
+
+86
+00:06:12,511 --> 00:06:16,182
+Speaker 1: Maybe big Clive is still remains one of my favorite YouTube channels.
+
+87
+00:06:16,443 --> 00:06:17,165
+Speaker 0: Yeah, he might.
+
+88
+00:06:17,205 --> 00:06:18,890
+Speaker 0: he might be able to tell you why.
+
+89
+00:06:18,930 --> 00:06:22,387
+Speaker 0: Yeah, the camera is so sensitive that it works with.
+
+90
+00:06:23,874 --> 00:06:31,895
+Speaker 0: You know no matter if even if the battery is fully charged it has to be an alkaline battery or apparently a non rechargeable lithium battery or It's just?
+
+91
+00:06:32,157 --> 00:06:32,500
+Speaker 0: I don't know.
+
+92
+00:06:33,348 --> 00:06:36,064
+Speaker 1: Yep So I got a little thing that happened.
+
+93
+00:06:36,326 --> 00:06:39,081
+Speaker 1: so at work I got a guy I work with one of my peers like.
+
+94
+00:06:39,101 --> 00:06:50,235
+Speaker 1: he's one of the senior leaders in the group Like there's a council of four basically that run everything and he's one of the four big Mets fan like Mets like good.
+
+95
+00:06:50,295 --> 00:06:55,709
+Speaker 1: He loves the Mets whether they win whether they lose and he's obviously a little bit disheartened.
+
+96
+00:06:56,174 --> 00:07:03,190
+Speaker 1: recently so I was talking to him and I actually convinced him because he's never had interest in ice hockey.
+
+97
+00:07:03,210 --> 00:07:04,417
+Speaker 1: He's never seen a game ice hockey.
+
+98
+00:07:04,678 --> 00:07:12,289
+Speaker 1: and I was like look you should watch one Rangers game just just to see because it would give you something to do after the Mets lose.
+
+99
+00:07:13,113 --> 00:07:13,474
+Speaker 1: And you know.
+
+100
+00:07:13,755 --> 00:07:15,161
+Speaker 1: and he was like, you know what I will.
+
+101
+00:07:15,442 --> 00:07:17,389
+Speaker 1: so he's gonna watch the next Rangers game.
+
+102
+00:07:18,790 --> 00:07:19,995
+Speaker 0: I'm gonna go to the next.
+
+103
+00:07:20,015 --> 00:07:30,587
+Speaker 1: Yeah, dude's never seen a hockey game before but in his whole life I mean, you may have seen a hockey game at some point But like he hasn't like sat down on purpose and just like watched a hockey game on TV.
+
+104
+00:07:30,607 --> 00:07:32,496
+Speaker 1: Like he does not care He likes soccer.
+
+105
+00:07:32,757 --> 00:07:33,943
+Speaker 1: He likes baseball.
+
+106
+00:07:34,164 --> 00:07:35,169
+Speaker 1: He likes cigars.
+
+107
+00:07:38,131 --> 00:07:42,201
+Speaker 1: He's a cool guy actually but so he's gonna watch a hockey game.
+
+108
+00:07:43,003 --> 00:07:51,756
+Speaker 1: and I'm actually kind of excited about this because The Rangers if any of you out there have not paying attention Are at least in the early season.
+
+109
+00:07:51,796 --> 00:07:52,740
+Speaker 1: I'm not going to project that.
+
+110
+00:07:52,780 --> 00:07:54,084
+Speaker 1: I'm saying nothing about the future.
+
+111
+00:07:54,526 --> 00:08:00,103
+Speaker 1: I'm making no implications I'm simply saying of the hockey games that have happened so far this season.
+
+112
+00:08:00,504 --> 00:08:05,038
+Speaker 1: The Rangers have played those specific hockey games Incredibly well, yeah, you know.
+
+113
+00:08:05,881 --> 00:08:13,170
+Speaker 0: that doesn't say that, you know, but even if you the thing is if you look at the standings Right, it's like, you know, Winnipeg has six wins, right?
+
+114
+00:08:13,210 --> 00:08:15,619
+Speaker 0: Winnipeg is like even crazier than the Rangers.
+
+115
+00:08:16,161 --> 00:08:18,450
+Speaker 0: the Rangers do have the biggest goal differential.
+
+116
+00:08:18,550 --> 00:08:19,374
+Speaker 0: They've outscored.
+
+117
+00:08:19,394 --> 00:08:22,810
+Speaker 0: they've scored 19 more goals than their opponent than they've led.
+
+118
+00:08:22,931 --> 00:08:28,414
+Speaker 1: That's what it's actually excited me because like the Red Wings and the Leafs didn't play badly It's just the Rangers played better.
+
+119
+00:08:28,535 --> 00:08:32,827
+Speaker 0: Winnipeg was all 17 more goals than their opponent than they've led in which is to less.
+
+120
+00:08:33,448 --> 00:08:37,523
+Speaker 0: but You know at basically almost every other team is.
+
+121
+00:08:37,965 --> 00:08:44,089
+Speaker 1: you know, yeah But like the Habs played like crap, but the Habs are kind of a crappy team right now.
+
+122
+00:08:44,431 --> 00:08:58,790
+Speaker 1: but one thing I remember you and I talked about this last season is that the difference between the Contender teams and the non-contender teams is when a contender team plays a team that's good The game might be close and they might win and lose like it can be real like hockey's hockey.
+
+123
+00:08:59,415 --> 00:09:02,484
+Speaker 1: But when a contender plays a non-contender It's almost always a blowout.
+
+124
+00:09:02,565 --> 00:09:10,757
+Speaker 1: and the Rangers historically wouldn't always have a lot of blowouts against shitty teams like they take a surprising loss or like Beat a shitty team in overtime.
+
+125
+00:09:10,798 --> 00:09:13,650
+Speaker 1: that really shouldn't happen, but they kicked that shit out of the Habs.
+
+126
+00:09:13,791 --> 00:09:19,590
+Speaker 0: Yep, they sure did and the Penguins But that meanwhile Utah formerly, Arizona.
+
+127
+00:09:20,451 --> 00:09:23,522
+Speaker 0: That was the game that they lost in overtime and was closer.
+
+128
+00:09:23,602 --> 00:09:25,850
+Speaker 0: But actually Utah is surprising everyone.
+
+129
+00:09:25,950 --> 00:09:27,135
+Speaker 0: I think they're gonna be a playoff team.
+
+130
+00:09:27,778 --> 00:09:29,986
+Speaker 1: I think I think the Red Wings are in the bubble.
+
+131
+00:09:30,307 --> 00:09:30,528
+Speaker 1: I like.
+
+132
+00:09:30,568 --> 00:09:32,466
+Speaker 1: I think they They're not.
+
+133
+00:09:35,490 --> 00:09:36,032
+Speaker 1: Micheletti was.
+
+134
+00:09:36,253 --> 00:09:39,488
+Speaker 1: he mentioned the Red Wings not this game, but recently he was like, oh, they're they're.
+
+135
+00:09:39,508 --> 00:09:40,010
+Speaker 1: they're in the bubble.
+
+136
+00:09:40,050 --> 00:09:41,175
+Speaker 1: They're a contender team this year.
+
+137
+00:09:41,215 --> 00:09:42,160
+Speaker 1: They're they're.
+
+138
+00:09:42,180 --> 00:09:44,068
+Speaker 1: their rebuild is come along, but we'll see.
+
+139
+00:09:45,191 --> 00:09:48,667
+Speaker 1: My family is not jazzed about me being a Rangers fan.
+
+140
+00:09:48,687 --> 00:09:49,230
+Speaker 1: But what are you gonna do?
+
+141
+00:09:49,310 --> 00:09:55,830
+Speaker 1: I've lived in New York a long time at this point But anyway, so in the news, what do you got?
+
+142
+00:09:57,972 --> 00:10:01,338
+Speaker 0: So What did have John wick?
+
+143
+00:10:01,680 --> 00:10:04,550
+Speaker 0: oh, yeah, so, you know people like the John wick and whatever.
+
+144
+00:10:05,377 --> 00:10:06,425
+Speaker 0: It's a whole franchise.
+
+145
+00:10:06,466 --> 00:10:14,113
+Speaker 1: now Yeah, if you want to watch a guy just systematically shoot Russians Russian mobsters in the head with a pistol over and over again That's your movie.
+
+146
+00:10:14,134 --> 00:10:21,357
+Speaker 0: Yeah, the fourth one went a little long I'd say But anyway, you know the.
+
+147
+00:10:22,100 --> 00:10:29,846
+Speaker 0: the problem with this franchise is that you know Around one character which they've associated with one actor much to his financial benefit.
+
+148
+00:10:29,886 --> 00:10:33,115
+Speaker 0: I'm sure but They can't really.
+
+149
+00:10:33,175 --> 00:10:35,103
+Speaker 0: it's hard to make more shit with that.
+
+150
+00:10:35,224 --> 00:10:39,437
+Speaker 0: That guy's not gonna be in You know, so what else?
+
+151
+00:10:39,537 --> 00:10:40,361
+Speaker 0: what else can you do?
+
+152
+00:10:40,441 --> 00:10:42,450
+Speaker 0: you got to start making stuff with other characters.
+
+153
+00:10:42,450 --> 00:10:48,187
+Speaker 1: You got to start me how to do a prequel of like when John wick is in elementary school and find some kid.
+
+154
+00:10:48,408 --> 00:10:58,122
+Speaker 0: Yeah But yeah, one of those they interviewed the one of the co-creators Chad Stahel ski, I don't know how to print if that's pronouncing it correctly.
+
+155
+00:10:58,142 --> 00:11:02,049
+Speaker 0: Sorry Chad, but they're like, hey What John wicky shit are you making?
+
+156
+00:11:02,350 --> 00:11:05,266
+Speaker 0: Cuz we know that it's popular and you want money and you're gonna make more.
+
+157
+00:11:05,306 --> 00:11:06,070
+Speaker 0: John wick shit.
+
+158
+00:11:06,191 --> 00:11:10,018
+Speaker 0: Tell us what's on the docket and he's like, yeah Well, there's a bunch of stuff on the docket.
+
+159
+00:11:10,561 --> 00:11:12,329
+Speaker 0: one of those things is gonna be a prequel.
+
+160
+00:11:13,771 --> 00:11:21,650
+Speaker 0: That's gonna you know partially Include showing you, you know, basically like leading up to the first movie, right?
+
+161
+00:11:21,690 --> 00:11:25,823
+Speaker 0: It's like how did this guy who was a crazy assassin end up quitting right?
+
+162
+00:11:25,864 --> 00:11:31,439
+Speaker 0: It'll partially tell you that I assume Among other things but it's good.
+
+163
+00:11:31,700 --> 00:11:34,290
+Speaker 0: This particular prequel will be an anime.
+
+164
+00:11:35,451 --> 00:11:37,057
+Speaker 0: Yeah, but is it an anime?
+
+165
+00:11:37,077 --> 00:11:40,670
+Speaker 0: is to be made by Japanese people in Japan in the Japanese language?
+
+166
+00:11:41,131 --> 00:11:44,924
+Speaker 0: Or is it just going to be animated in a style that looks like anime?
+
+167
+00:11:45,446 --> 00:11:46,570
+Speaker 0: that that is all unclear.
+
+168
+00:11:49,028 --> 00:11:55,854
+Speaker 1: But Regardless there's an anime news network article that has a little more but it's still Up in the air.
+
+169
+00:11:55,874 --> 00:11:57,539
+Speaker 1: that the weight live-action script.
+
+170
+00:11:57,640 --> 00:11:59,867
+Speaker 1: John wick Stark and Reeves blah blah blah.
+
+171
+00:11:59,927 --> 00:12:00,850
+Speaker 1: No, that's just a bunch of fluff.
+
+172
+00:12:00,911 --> 00:12:02,105
+Speaker 1: Nobody has any more information.
+
+173
+00:12:02,146 --> 00:12:08,789
+Speaker 0: Yeah, no Hollywood reporter interviewed him and that's basically just one of the things he said in the interview.
+
+174
+00:12:09,371 --> 00:12:18,270
+Speaker 1: Among other the line the best line from the interview is he says, you know in terms of quality control I'm like, how do you maintain quality when you like expand a franchise?
+
+175
+00:12:18,710 --> 00:12:23,250
+Speaker 1: And the quote is we didn't just work the last ten years to see it all go to shit.
+
+176
+00:12:24,971 --> 00:12:25,333
+Speaker 0: That's right.
+
+177
+00:12:25,353 --> 00:12:27,645
+Speaker 0: You work the last ten years to cash in.
+
+178
+00:12:29,311 --> 00:12:33,056
+Speaker 0: Yeah, they're cashing in just like While the iron's hot.
+
+179
+00:12:33,076 --> 00:12:36,009
+Speaker 0: we're gonna make as much John wick shit as we possibly can.
+
+180
+00:12:37,771 --> 00:12:40,438
+Speaker 1: Yeah, I mean John wick stuff gets a little repetitive like.
+
+181
+00:12:40,478 --> 00:12:44,490
+Speaker 1: I think the first one is still the best one but I enjoy John wick.
+
+182
+00:12:44,650 --> 00:12:49,606
+Speaker 1: It's like it's like watching a spider-man thing or a superman thing like I think the thing is.
+
+183
+00:12:49,686 --> 00:12:50,710
+Speaker 0: is that in the first one?
+
+184
+00:12:51,170 --> 00:12:54,389
+Speaker 0: We could probably do an episode about it, but the did we do an episode on it?
+
+185
+00:12:54,610 --> 00:12:54,892
+Speaker 0: I don't know.
+
+186
+00:12:54,932 --> 00:13:07,824
+Speaker 0: but in the first one, it's like they Create a world and also, you know, I never talked about John wick on geek night Okay, but then basically like in the the following ones.
+
+187
+00:13:08,386 --> 00:13:10,973
+Speaker 0: It's like there Is it?
+
+188
+00:13:11,013 --> 00:13:21,299
+Speaker 0: there's a balance between just action scenes with lots of constant fighting and The world that they've that they've built exploring it.
+
+189
+00:13:21,339 --> 00:13:24,206
+Speaker 1: Let us explain to you what the high table is.
+
+190
+00:13:24,226 --> 00:13:25,950
+Speaker 0: Yeah, who's on the high table?
+
+191
+00:13:27,514 --> 00:13:27,996
+Speaker 1: Or is it?
+
+192
+00:13:28,096 --> 00:13:31,107
+Speaker 1: is it in the wheel of time and all that kind of shit?
+
+193
+00:13:31,147 --> 00:13:39,150
+Speaker 0: and it's like The action scenes no matter how well done and you know at times extremely well done.
+
+194
+00:13:39,271 --> 00:13:41,808
+Speaker 0: It's like they go on so long.
+
+195
+00:13:43,112 --> 00:13:44,627
+Speaker 0: Yeah, it's just like kind of.
+
+196
+00:13:46,514 --> 00:13:46,838
+Speaker 0: It's like.
+
+197
+00:13:46,919 --> 00:13:53,727
+Speaker 0: it's like that's amazing But it's like I'm sitting here for like 10 minutes watching guys punch and kick and shoot and it's like and like.
+
+198
+00:13:53,868 --> 00:13:56,973
+Speaker 1: I like them but yeah, it's They.
+
+199
+00:13:57,294 --> 00:13:57,816
+Speaker 1: you know what it is.
+
+200
+00:13:57,877 --> 00:14:01,590
+Speaker 1: It's a lot like reading Dumas like the Count of Monte Cristo or the Musketeers.
+
+201
+00:14:01,918 --> 00:14:06,559
+Speaker 1: They're good like they're really good stories, but They just keep going at right steady.
+
+202
+00:14:06,619 --> 00:14:20,570
+Speaker 0: imagine if you went to a roller coaster and it was a good roller coaster Right and it goes up to the top of the hill Right, but you sit on the roller coaster for like ten loops not without stopping at the at the exit.
+
+203
+00:14:20,992 --> 00:14:23,869
+Speaker 1: Uh, I actually have an anecdote where I did that once.
+
+204
+00:14:26,210 --> 00:14:30,870
+Speaker 1: Basically I was a Cedar Point and the Gemini is one of the steepest roller coasters in the world.
+
+205
+00:14:30,930 --> 00:14:31,191
+Speaker 1: It's not.
+
+206
+00:14:31,312 --> 00:14:32,676
+Speaker 1: it's a really old coaster.
+
+207
+00:14:33,018 --> 00:14:36,430
+Speaker 1: It's a steel coaster, but it has a wood frame and it's not like huge.
+
+208
+00:14:36,470 --> 00:14:43,710
+Speaker 1: There's nothing super special about it Except that there's a really steep first drop and it's like a solid roller coaster like a solid b-level roller coaster.
+
+209
+00:14:44,531 --> 00:14:48,307
+Speaker 1: It's like a hundred times better than the best roller coaster in Wildwood, which we both rode once.
+
+210
+00:14:48,328 --> 00:14:49,667
+Speaker 1: that one time It was kind of shitty.
+
+211
+00:14:51,073 --> 00:14:57,788
+Speaker 1: we were on it me and my brother and It was on a day like when it was kind of cold and everyone thought was gonna rain but then it didn't.
+
+212
+00:14:57,829 --> 00:14:58,130
+Speaker 1: so the park.
+
+213
+00:14:58,250 --> 00:15:14,370
+Speaker 1: So we wrote it and it ends and the bars come up and then the operator is just like you kids just want to stay on because there was no one in line and We wrote it for like an hour over and over and over and over again, and I will admit I never got tired of it.
+
+214
+00:15:14,430 --> 00:15:18,490
+Speaker 1: Yeah, we only left because our parents our parents came up and we're like what the fuck is wrong with you.
+
+215
+00:15:18,530 --> 00:15:18,852
+Speaker 1: We got it.
+
+216
+00:15:18,872 --> 00:15:19,957
+Speaker 1: We're gonna go do something else.
+
+217
+00:15:20,118 --> 00:15:37,475
+Speaker 1: I just say like, you know a few times right But Anyway and some other minor news if you live anywhere near New York City There's a thing that Emily and I've been to once before and I want to come.
+
+218
+00:15:37,495 --> 00:15:37,977
+Speaker 1: I'm gonna go again.
+
+219
+00:15:38,037 --> 00:15:38,660
+Speaker 1: It's this Friday.
+
+220
+00:15:39,401 --> 00:15:43,240
+Speaker 1: There's an event called animation speakeasy and it's in Brooklyn at a bar.
+
+221
+00:15:43,340 --> 00:15:57,620
+Speaker 1: but the cool thing about a link to it is that basically what they do is they get Usually three animators like and this time this week It's Anne Beale, Shane Fu and Bill Plimpton and I'm confident you've all heard of at least one of those three people.
+
+222
+00:15:58,621 --> 00:15:59,383
+Speaker 1: Those are the three.
+
+223
+00:15:59,464 --> 00:16:02,212
+Speaker 1: but they don't get animators to talk about their own stuff.
+
+224
+00:16:02,693 --> 00:16:08,691
+Speaker 1: They get animators to talk about Some short that they are fans of.
+
+225
+00:16:08,811 --> 00:16:15,200
+Speaker 1: so imagine like the famous animator Brings a short that someone else made that they just particularly like.
+
+226
+00:16:15,722 --> 00:16:27,874
+Speaker 1: Everyone watches it and then they do a panel discussion talking about it unpacking it doing crit about it And then they open it up to the crowd and have like a convention panel style Back and forth dialogue about the work and that seems to be in hot.
+
+227
+00:16:27,974 --> 00:16:29,720
+Speaker 0: that kind of format seems to be hot these days.
+
+228
+00:16:29,760 --> 00:16:39,218
+Speaker 0: Like they got that, you know criterion vault where they bring in like the famous and they're like show us which movies from this vault are you know, great and which why you like them and whatnot.
+
+229
+00:16:39,278 --> 00:16:43,679
+Speaker 0: and There was actually at the New York Film Festival some weeks ago.
+
+230
+00:16:44,181 --> 00:16:58,258
+Speaker 0: They had a criterion mini vault in a truck and you could wait in line for three hours Go in the truck for like a minute or two and film your own little video in the truck and also buy DVDs and blu-rays from the truck, I guess.
+
+231
+00:17:00,082 --> 00:17:05,953
+Speaker 0: Or you could just go to their website and buy the blue race Directly, I don't know.
+
+232
+00:17:07,584 --> 00:17:09,159
+Speaker 0: I wasn't gonna wait in line for three hours.
+
+233
+00:17:10,281 --> 00:17:12,579
+Speaker 1: Yeah, but this is I like this kind of format.
+
+234
+00:17:12,660 --> 00:17:18,025
+Speaker 1: I like this kind of dialogue just in general and the last one we went to was fantastic Like it was a really good time.
+
+235
+00:17:18,445 --> 00:17:28,339
+Speaker 1: Imagine, you know when you go to a con and there's a panel like that and 99.9 repeating percent of the time if they ask the audience to say anything, it's terrible.
+
+236
+00:17:28,339 --> 00:17:32,536
+Speaker 1: 100% of the things the audience said were actually really good.
+
+237
+00:17:32,596 --> 00:17:33,440
+Speaker 1: Like it's a good crowd.
+
+238
+00:17:34,421 --> 00:17:36,931
+Speaker 1: So we'll be there on Friday in Brooklyn.
+
+239
+00:17:37,132 --> 00:17:43,120
+Speaker 1: if any of you happen to live in the area and I highly recommend This event just make sure you RSVP because it fills the fuck up.
+
+240
+00:17:48,982 --> 00:17:55,671
+Speaker 1: but anyway things of the day, so This guy this guy his YouTube channel.
+
+241
+00:17:55,711 --> 00:17:57,840
+Speaker 1: He has a mission and this mission is great.
+
+242
+00:17:57,920 --> 00:18:16,044
+Speaker 1: He's trying to find in every major league baseball field in America the single worst seat and this video talks about the worst seat at the Chicago White Sox is guaranteed rate field and it's only a minute long.
+
+243
+00:18:16,064 --> 00:18:18,938
+Speaker 1: like it's really short and his criteria are pretty good.
+
+244
+00:18:18,958 --> 00:18:26,460
+Speaker 1: and If you don't know like if you've never like been to baseball games in a place where baseball is actually popular.
+
+245
+00:18:26,962 --> 00:18:30,700
+Speaker 1: There are seats at baseball fields more so than in other sports.
+
+246
+00:18:31,102 --> 00:18:32,166
+Speaker 1: We just can't see anything.
+
+247
+00:18:32,709 --> 00:18:36,858
+Speaker 1: but somehow like this guy is finding the worst possible seat.
+
+248
+00:18:37,462 --> 00:18:46,921
+Speaker 1: but the best part about this thing of the day is if you scroll down because one of the things he points out is that the worst seat will have people in walking in front of you all the time because of where it is in relation to the Stairs.
+
+249
+00:18:47,663 --> 00:18:49,769
+Speaker 1: and this quote this comment from the YouTube.
+
+250
+00:18:50,571 --> 00:18:56,692
+Speaker 1: as a White Sox fan who's been to that stadium many times You will not have to worry about people walking up and down the stairs.
+
+251
+00:18:57,074 --> 00:18:58,579
+Speaker 1: Nobody goes to the fucking games.
+
+252
+00:18:59,541 --> 00:19:02,611
+Speaker 0: No, the White Sox are that like the worst team in baseball history.
+
+253
+00:19:02,671 --> 00:19:05,300
+Speaker 0: So yeah, and there's the Cubs are in the same city.
+
+254
+00:19:05,421 --> 00:19:06,474
+Speaker 0: You can go see them instead.
+
+255
+00:19:07,422 --> 00:19:10,164
+Speaker 1: Yep So you got a thing of the day?
+
+256
+00:19:10,184 --> 00:19:21,260
+Speaker 0: Yeah, so, you know, I bought this Chicago manual of style edition 18 Which was a very not regret opposite of regrettable purchase is extremely valuable purchase.
+
+257
+00:19:22,581 --> 00:19:30,152
+Speaker 0: But you know like many I try to avoid buying a hardcover book but when you do a lot of times they come with a book jacket.
+
+258
+00:19:30,272 --> 00:19:35,120
+Speaker 0: and the thing is with a book jacket is You don't want it on there.
+
+259
+00:19:35,120 --> 00:19:36,839
+Speaker 0: It's sort of annoying and in the way.
+
+260
+00:19:37,502 --> 00:19:40,431
+Speaker 0: But you also feel bad throwing it out in the garbage.
+
+261
+00:19:40,812 --> 00:19:51,182
+Speaker 0: and also a lot of times the underlying Book that is underneath does have some identifying marker of what book it is, but sometimes not so much Depend.
+
+262
+00:19:51,282 --> 00:19:56,160
+Speaker 1: I've got some books where without the dust jacket did you John almost like you can't see what the fuck the book is.
+
+263
+00:19:56,180 --> 00:19:57,320
+Speaker 1: It's just a gray hardcover.
+
+264
+00:19:57,922 --> 00:20:02,979
+Speaker 0: And so, you know when you get books of the library the book jackets always have like those plastic covers on them.
+
+265
+00:20:03,822 --> 00:20:11,180
+Speaker 0: Mmm, and I'm like, you know, I'm sure a lot of people Libraries are probably the people who do most of that plastic.
+
+266
+00:20:11,642 --> 00:20:17,080
+Speaker 0: The reason libraries do it is to make it hold up over time because it's getting used heavily because it's a library.
+
+267
+00:20:17,080 --> 00:20:30,478
+Speaker 0: Yeah but normal people who would do that to their books are probably the same kind of nerds like protecting their comic books and plastic and putting all their collectible cards and plastic and putting their video games in plastic and Not opening Lego sets or those kinds of people.
+
+268
+00:20:31,322 --> 00:20:40,025
+Speaker 0: but it's like, you know, if you are if you do have a hardcover book that you're gonna keep and you don't want to throw the book jacket out and You're actually gonna use the book.
+
+269
+00:20:40,146 --> 00:20:44,640
+Speaker 0: the plastic thing probably isn't the worst idea, you know, and I'm like, how do I get those?
+
+270
+00:20:44,780 --> 00:20:46,620
+Speaker 0: How do I put them on properly?
+
+271
+00:20:46,920 --> 00:20:50,740
+Speaker 1: It's my strategy was always I would take the every time I wanted to look at the book and pull it off the shelf.
+
+272
+00:20:51,126 --> 00:20:52,080
+Speaker 1: I take the dust jacket.
+
+273
+00:20:52,100 --> 00:20:55,134
+Speaker 1: Yeah, I'd leave it on the shelf where the book was and I'd use the book without.
+
+274
+00:20:55,155 --> 00:20:58,253
+Speaker 0: that's what I do, too But it's kind of a pain in the ass also.
+
+275
+00:20:58,514 --> 00:20:59,360
+Speaker 1: Oh, yeah, absolutely.
+
+276
+00:20:59,461 --> 00:21:02,280
+Speaker 0: So I'm like, alright, let's research the stupid plastic things.
+
+277
+00:21:02,661 --> 00:21:05,574
+Speaker 0: So apparently the plastic things are called like.
+
+278
+00:21:05,594 --> 00:21:13,675
+Speaker 0: them are bro dart Like book jacket Protectors like road art is the company that like is basically the champion.
+
+279
+00:21:13,715 --> 00:21:18,331
+Speaker 0: as far as I can tell from the internet They are the ones who make the ones that everyone's using right.
+
+280
+00:21:18,712 --> 00:21:24,558
+Speaker 0: the other other people making them are like imitators Some kind of monopoly like YKK zippers or something.
+
+281
+00:21:24,578 --> 00:21:27,000
+Speaker 0: I don't know But here is a YouTube video.
+
+282
+00:21:27,040 --> 00:21:29,468
+Speaker 0: There's a bunch of YouTube videos showing you how to put them on.
+
+283
+00:21:30,050 --> 00:21:32,820
+Speaker 0: all of them are too long or too slow or too crappy.
+
+284
+00:21:34,060 --> 00:21:47,097
+Speaker 0: So this isn't you know, the greatest tattoo video I've ever seen but it's the one that's short enough to be reasonable And and help was interesting helpful enough through this video this process.
+
+285
+00:21:47,137 --> 00:21:48,020
+Speaker 1: It wasn't a broad art.
+
+286
+00:21:48,181 --> 00:21:49,390
+Speaker 1: I definitely used the imitations.
+
+287
+00:21:49,471 --> 00:22:08,761
+Speaker 1: but one thing in my Middle school and high school especially middle school that was required in public school is Every kid had to make a book jacket for all their textbooks because if there was damage on the textbooks they'd make you pay at the end of the year and Like teachers were like yell at you and send you home and you get in trouble if you didn't have a book jacket on all Your books.
+
+288
+00:22:08,781 --> 00:22:11,391
+Speaker 1: and most kids made these piece-of-shit book jackets.
+
+289
+00:22:12,134 --> 00:22:13,680
+Speaker 1: I took the covers of dragon magazines.
+
+290
+00:22:14,081 --> 00:22:20,220
+Speaker 1: I took book jacket protectors and I made really fancy dragon magazine book covers and they were fantastic.
+
+291
+00:22:21,461 --> 00:22:27,720
+Speaker 0: And I always just I always just used you know, brown paper Grocery bags, but good luck.
+
+292
+00:22:27,780 --> 00:22:28,944
+Speaker 1: That is what everyone did.
+
+293
+00:22:28,984 --> 00:22:33,320
+Speaker 1: the school even gave us instructions on how to turn a brown paper grocery bag into a book.
+
+294
+00:22:33,360 --> 00:22:38,860
+Speaker 0: Good luck getting one of those in the year 2024.
+
+295
+00:22:38,860 --> 00:22:42,053
+Speaker 1: all right, maybe kids just make him out of the fresh direct bag.
+
+296
+00:22:42,073 --> 00:22:48,440
+Speaker 1: Mm-hmm But I made him out of dragon magazine covers and you know what?
+
+297
+00:22:49,261 --> 00:22:57,111
+Speaker 1: I was the coolest fucking kid in my middle school in a very narrow Band of what is considered cool in the moment.
+
+298
+00:22:57,191 --> 00:22:59,859
+Speaker 1: We will be live at PAX unplugged.
+
+299
+00:23:00,442 --> 00:23:01,808
+Speaker 1: It's gonna be a real good time.
+
+300
+00:23:02,150 --> 00:23:08,560
+Speaker 1: We have two events both on Friday Take your fucking turn which I'm actually updating the slides and moving stuff around.
+
+301
+00:23:09,421 --> 00:23:13,798
+Speaker 1: I'm gonna I commit 20% of this panel will be different from previous times.
+
+302
+00:23:13,858 --> 00:23:18,680
+Speaker 1: We've run it Partly because I don't remember what the hell I was talking about with some of the slides that we have.
+
+303
+00:23:18,820 --> 00:23:19,845
+Speaker 1: So I'm just redoing it.
+
+304
+00:23:20,507 --> 00:23:23,580
+Speaker 1: and then after that on Friday learn and play.
+
+305
+00:23:23,700 --> 00:23:29,603
+Speaker 1: We're gonna teach a room full of nerds in the Mox gaming lounge how to play Deep sea adventure.
+
+306
+00:23:29,664 --> 00:23:33,774
+Speaker 1: boost the expansion to deep sea adventure not in the Mox gaming lounge.
+
+307
+00:23:33,835 --> 00:23:39,925
+Speaker 0: Mox gaming lounge is a chain of game stores that are also Restaurants that went to one.
+
+308
+00:23:40,025 --> 00:23:49,066
+Speaker 1: the room according to the schedule is called the Mox game lounge because Mox is yes The learn and play room Sponsored by Mox gaming lounge.
+
+309
+00:23:49,386 --> 00:23:51,933
+Speaker 1: in the schedule the room is called Mox game lounge.
+
+310
+00:23:52,013 --> 00:23:55,503
+Speaker 0: interested parentheses room 201. interesting I guess they've.
+
+311
+00:23:55,845 --> 00:23:57,292
+Speaker 1: I copy pasted out of the pack.
+
+312
+00:23:57,313 --> 00:24:00,505
+Speaker 0: I guess they've changed their Sponsorship are they?
+
+313
+00:24:00,525 --> 00:24:01,712
+Speaker 0: it's gonna be a restaurant in there.
+
+314
+00:24:01,752 --> 00:24:02,375
+Speaker 0: I sure hope so.
+
+315
+00:24:02,415 --> 00:24:02,878
+Speaker 0: I need food.
+
+316
+00:24:06,082 --> 00:24:15,779
+Speaker 1: The only annoying part of that is I used to always make you know the old days I started making for many years Loops that would play with like pop-up video stuff in the room while people were walking in.
+
+317
+00:24:16,221 --> 00:24:33,610
+Speaker 0: But now as Pax has gotten these sponsorships the Mox game lounge plays their video while people Free advertising, but I will say I visited the Mox gaming lounge in Portland, Oregon while I was there, Oregon, whatever and That place it was just on a Saturday, right?
+
+318
+00:24:34,172 --> 00:24:39,267
+Speaker 0: Well, I guess it was a Saturday, but it was during the day It was hopping in there.
+
+319
+00:24:39,307 --> 00:24:43,320
+Speaker 1: there were people shopping, I mean imagine if a place like that could exist in New York City.
+
+320
+00:24:43,420 --> 00:24:44,022
+Speaker 1: I'd be there.
+
+321
+00:24:44,123 --> 00:24:44,865
+Speaker 0: It was large.
+
+322
+00:24:45,005 --> 00:24:45,928
+Speaker 0: There were people shopping.
+
+323
+00:24:46,109 --> 00:24:46,931
+Speaker 0: There were people eating.
+
+324
+00:24:47,192 --> 00:24:48,276
+Speaker 0: I saw people role-playing.
+
+325
+00:24:48,416 --> 00:24:49,620
+Speaker 0: I saw a card game players.
+
+326
+00:24:49,760 --> 00:24:53,729
+Speaker 0: I saw the miniatures tables like, you know, we're all happening.
+
+327
+00:24:53,749 --> 00:24:58,340
+Speaker 0: It's like every kind of game was being played there all around.
+
+328
+00:24:59,621 --> 00:25:00,465
+Speaker 0: It was an extremely.
+
+329
+00:25:00,505 --> 00:25:06,165
+Speaker 0: it was like it was like a convention like if there was one of those that was that active And I could walk to it.
+
+330
+00:25:06,586 --> 00:25:08,431
+Speaker 0: I'd probably hang out there frequently.
+
+331
+00:25:08,592 --> 00:25:17,240
+Speaker 0: So yeah, if you have one near you You know, we don't have that in New York City because the real estate situation commercial real estate would be too expensive.
+
+332
+00:25:18,701 --> 00:25:28,516
+Speaker 1: Yeah, but if you live in Portland, I mean, I'm sure New York's a place where very profitable businesses cannot afford the rent to have a storefront in New York City.
+
+333
+00:25:29,442 --> 00:25:40,233
+Speaker 1: And last metamoment thing I cannot stress this enough if anyone is listening to this if you can vote in America You've got a vote like it is a big fucking problem.
+
+334
+00:25:40,333 --> 00:25:42,982
+Speaker 1: If you don't vote in this upcoming election I don't.
+
+335
+00:25:43,203 --> 00:25:44,631
+Speaker 1: I shouldn't need to tell you this.
+
+336
+00:25:45,014 --> 00:25:45,999
+Speaker 1: I'm not gonna dwell on it.
+
+337
+00:25:46,342 --> 00:25:53,210
+Speaker 1: but if nothing else make a plan for exactly how you are going to vote because there's a lot of data that shows.
+
+338
+00:25:53,691 --> 00:26:05,600
+Speaker 1: if you make a To-go vote on the D election if you make a specific plan, you are like way more likely to actually go and vote.
+
+339
+00:26:06,464 --> 00:26:09,801
+Speaker 1: I hope geek nights listeners are smart enough to just vote without me needing I have.
+
+340
+00:26:09,882 --> 00:26:12,250
+Speaker 0: I just have the same plan every time which is is it?
+
+341
+00:26:12,451 --> 00:26:14,980
+Speaker 0: is there an election today of any kind?
+
+342
+00:26:15,701 --> 00:26:20,637
+Speaker 0: If there is go across what go outside walk across the street and vote after breakfast.
+
+343
+00:26:21,078 --> 00:26:23,925
+Speaker 1: Yeah the end Vote for the Democrats.
+
+344
+00:26:24,266 --> 00:26:31,298
+Speaker 1: I don't want the the ground hall if the groundhog sees its swastika It's gonna be a real bad time for a lot of humans for a long time.
+
+345
+00:26:31,881 --> 00:26:38,375
+Speaker 1: The Democrats have to win this one and if you're listening to geek nights, and you don't believe that well I don't know what to say except fuck you.
+
+346
+00:26:40,761 --> 00:26:43,536
+Speaker 0: Also, we have a discord server where you can come do to.
+
+347
+00:26:46,100 --> 00:26:47,322
+Speaker 1: You know Talk.
+
+348
+00:26:47,382 --> 00:26:50,700
+Speaker 0: I go in human beings like the one other once every few months.
+
+349
+00:26:51,323 --> 00:26:54,040
+Speaker 1: I go in there and I post a bunch and then I disappear for a while.
+
+350
+00:26:54,221 --> 00:26:58,820
+Speaker 0: We have a forum where you can go to talk to other the one other listener.
+
+351
+00:26:58,860 --> 00:27:00,168
+Speaker 0: Yeah, I guess you know there's.
+
+352
+00:27:00,188 --> 00:27:03,371
+Speaker 1: there's four or five people who regularly post there And I should look at the stats.
+
+353
+00:27:03,411 --> 00:27:08,155
+Speaker 1: cuz last I checked There were still a surprising number of people who have accounts and like login and read everything.
+
+354
+00:27:08,175 --> 00:27:09,320
+Speaker 1: They just never say anything.
+
+355
+00:27:09,540 --> 00:27:14,494
+Speaker 0: Yeah, you should you know just say something like you know if you consume a piece of media.
+
+356
+00:27:14,534 --> 00:27:17,592
+Speaker 0: Just be like hey watch this Hey, I read this.
+
+357
+00:27:17,733 --> 00:27:20,960
+Speaker 0: hey I Eat a good food today.
+
+358
+00:27:21,060 --> 00:27:21,683
+Speaker 0: Just you know.
+
+359
+00:27:21,703 --> 00:27:26,697
+Speaker 0: yeah, you can feel free to say just whatever the heck you want in there as long as it's not you know bad.
+
+360
+00:27:27,741 --> 00:27:32,659
+Speaker 1: But also you know lurking is cool and lurking like lurking is a really important thing and I like ecosystems like.
+
+361
+00:27:32,739 --> 00:27:35,005
+Speaker 1: I Respect the lurker.
+
+362
+00:27:35,065 --> 00:27:36,371
+Speaker 1: I think they're a big part of the world.
+
+363
+00:27:36,391 --> 00:27:38,460
+Speaker 0: you can you can lurk, but you know yeah.
+
+364
+00:27:38,862 --> 00:27:55,907
+Speaker 1: but I guess say something a little bit partly because Even if we're on the good path and the election goes The decent way and the world gets a little bit better for a while It's good to make connections with people who have similar views because if the dark path happens You need to know who your friends are.
+
+365
+00:27:56,248 --> 00:28:02,955
+Speaker 1: and little micro communities are the way you Organize and find people you can trust or at least people you know.
+
+366
+00:28:02,975 --> 00:28:04,240
+Speaker 1: that matters a lot.
+
+367
+00:28:05,843 --> 00:28:07,700
+Speaker 1: But also you know I'd like to talk to some more nerds.
+
+368
+00:28:07,801 --> 00:28:09,560
+Speaker 1: I want to spend more time in the geek nights community.
+
+369
+00:28:09,620 --> 00:28:13,140
+Speaker 1: I do use the forum more than I use the discord just because I've been really busy lately.
+
+370
+00:28:13,220 --> 00:28:17,699
+Speaker 1: But I've actually been busy with mostly work stuff like my job's actually difficult lately.
+
+371
+00:28:17,719 --> 00:28:25,028
+Speaker 1: I guess that's what happens when you get old and get a super senior role, but Maybe I can retire before too long.
+
+372
+00:28:25,671 --> 00:28:27,359
+Speaker 0: you seem to have failed at getting a new job.
+
+373
+00:28:28,980 --> 00:28:30,660
+Speaker 1: It's it's hard to get a new job.
+
+374
+00:28:30,740 --> 00:28:33,652
+Speaker 1: That is better than the current job like.
+
+375
+00:28:33,953 --> 00:28:40,446
+Speaker 1: it's easy to get another job with the kind of skills I have but it's hard to get a job that is just like better, and I have a rule I followed my entire life.
+
+376
+00:28:40,849 --> 00:28:42,860
+Speaker 1: I will never switch jobs laterally.
+
+377
+00:28:43,241 --> 00:28:46,990
+Speaker 1: I will not go from thing to basically the same thing.
+
+378
+00:28:47,331 --> 00:28:50,359
+Speaker 1: working for a different company like that's almost never worth it.
+
+379
+00:28:53,392 --> 00:28:57,583
+Speaker 1: Anyway, there's a terminator anime that was actually pretty good.
+
+380
+00:28:57,623 --> 00:28:58,746
+Speaker 1: We're gonna talk about it today.
+
+381
+00:28:58,827 --> 00:28:59,007
+Speaker 1: now.
+
+382
+00:28:59,408 --> 00:29:05,225
+Speaker 1: this anime was made by Production IG in collaboration with Netflix.
+
+383
+00:29:05,606 --> 00:29:07,196
+Speaker 1: like it's on Netflix You can just watch it.
+
+384
+00:29:07,619 --> 00:29:18,012
+Speaker 1: you may know IG From such important anime as the Patlabor movie or the heroic legend of Arslan from 1991.
+
+385
+00:29:18,012 --> 00:29:20,479
+Speaker 0: In the shells yeah, that's FL CL.
+
+386
+00:29:20,519 --> 00:29:24,650
+Speaker 1: like studio IG is one of the most important anime entities in history.
+
+387
+00:29:25,974 --> 00:29:34,790
+Speaker 0: They tend to only work on something That's you know somewhat of a like a big deal and more often than not some sort of sci-fi thing you know yep.
+
+388
+00:29:36,590 --> 00:29:39,861
+Speaker 1: But so terminator zero is not even that long.
+
+389
+00:29:39,901 --> 00:29:42,951
+Speaker 1: it came out this year in August like late August 2024.
+
+390
+00:29:42,951 --> 00:29:46,928
+Speaker 1: It's only eight episodes long And we're gonna review it.
+
+391
+00:29:47,030 --> 00:29:49,039
+Speaker 1: We're not gonna give you spoilers or anything cuz it's short.
+
+392
+00:29:49,099 --> 00:29:51,650
+Speaker 1: like if you care about terminators stuff at all just watch it.
+
+393
+00:29:51,770 --> 00:29:57,170
+Speaker 1: But I'll say I've actually only watched the first half of it because it's the whole thing.
+
+394
+00:29:57,972 --> 00:30:07,498
+Speaker 1: but what's interesting is the first half is a Not a cliffhanger, but like a turning point.
+
+395
+00:30:07,879 --> 00:30:22,590
+Speaker 1: every episode basically is a cliffhanger until the the end true But I enjoyed it as someone who has a very strong opinions about the Terminator franchise And how there are only two movies in the Terminator franchise that are worth watching.
+
+396
+00:30:24,233 --> 00:30:37,035
+Speaker 1: This was pretty good like this is I'd say broadly about as good of a sci-fi as And good at being a Terminator thing as Terminator 1 was.
+
+397
+00:30:37,438 --> 00:30:39,670
+Speaker 1: but it's not Terminator 2 like I'm not gonna pretend.
+
+398
+00:30:40,152 --> 00:30:44,550
+Speaker 1: This has achieved the heights of what I think Terminator 2 did considering everything in that context.
+
+399
+00:30:44,991 --> 00:30:49,602
+Speaker 1: But it's worth watching and I highly recommend it, but now we can talk about some of why.
+
+400
+00:30:50,143 --> 00:31:04,848
+Speaker 0: well the I think the best thing about it is that you know the fundamental thing in any Terminator movie is That there's this robot right and it has been programmed with a directive to.
+
+401
+00:31:06,072 --> 00:31:07,416
+Speaker 0: You know do something.
+
+402
+00:31:07,557 --> 00:31:12,174
+Speaker 1: usually kill somebody a high percentage of the time it is kill Sarah Connor right.
+
+403
+00:31:12,215 --> 00:31:16,897
+Speaker 0: kill a specific person and There's not a lot that person can do.
+
+404
+00:31:17,599 --> 00:31:21,810
+Speaker 0: you know to get say like military aid to fight it all right?
+
+405
+00:31:22,432 --> 00:31:23,276
+Speaker 0: It's not that's it.
+
+406
+00:31:23,316 --> 00:31:32,467
+Speaker 1: the one of the most important parts of any Terminator franchise Item is that the Terminator is effectively an unstoppable force like Conan the Barbarian.
+
+407
+00:31:32,528 --> 00:31:33,330
+Speaker 1: It's a force of nature.
+
+408
+00:31:33,432 --> 00:31:35,554
+Speaker 1: You can't fight it Right?
+
+409
+00:31:36,015 --> 00:31:39,890
+Speaker 0: it's like you can try to fight it, but you won't like destroy it easily right?
+
+410
+00:31:39,970 --> 00:31:41,154
+Speaker 0: It's always just gonna.
+
+411
+00:31:41,275 --> 00:31:43,462
+Speaker 0: it doesn't even go fast like it sometimes.
+
+412
+00:31:43,522 --> 00:31:49,250
+Speaker 0: it runs like it'll run after a car occasionally But it's like it only does that like when it sees the target.
+
+413
+00:31:49,391 --> 00:31:51,309
+Speaker 0: And it's like I'm gonna and you're trying to get away from it.
+
+414
+00:31:51,410 --> 00:31:56,734
+Speaker 0: It'll chase you but most of the time it just walks Slow normal slowly.
+
+415
+00:31:56,754 --> 00:31:57,577
+Speaker 0: it does.
+
+416
+00:31:57,597 --> 00:32:12,750
+Speaker 0: you know it can investigate and do research like a detective and it just doesn't it like slowly and methodically But it doesn't ever stop right like you can dump it down into like you know a bottomless pit.
+
+417
+00:32:13,032 --> 00:32:14,681
+Speaker 0: And it's like a week later here.
+
+418
+00:32:14,742 --> 00:32:15,305
+Speaker 0: It comes.
+
+419
+00:32:15,385 --> 00:32:16,170
+Speaker 0: It's still coming.
+
+420
+00:32:16,812 --> 00:32:24,830
+Speaker 1: I have a big one of my favorite tropes and horror is the slow and Exorable force that's coming for you and terminator one.
+
+421
+00:32:24,850 --> 00:32:28,910
+Speaker 1: It's like a lot of people and I bet the geek nights listener is one of those people.
+
+422
+00:32:29,673 --> 00:32:36,193
+Speaker 1: Most people who know anything about terminator saw terminator 2 and have never seen terminator Like.
+
+423
+00:32:36,213 --> 00:32:37,878
+Speaker 1: I know a lot of people who have never seen terminator.
+
+424
+00:32:37,978 --> 00:32:47,847
+Speaker 1: terminator at the beginning of this entire franchise is a sci-fi horror Movie and it's just that there's just a terminator very slowly walking towards Sarah Connor.
+
+425
+00:32:48,208 --> 00:32:55,043
+Speaker 0: That's the movie Yep, and so That you know sort of terror of like it's.
+
+426
+00:32:55,103 --> 00:32:56,930
+Speaker 0: you know, is it a scary thing?
+
+427
+00:32:57,010 --> 00:32:59,321
+Speaker 0: It's not a scary jump out and go boo thing.
+
+428
+00:32:59,502 --> 00:32:59,884
+Speaker 0: It's not.
+
+429
+00:33:00,045 --> 00:33:01,150
+Speaker 0: it doesn't look scary.
+
+430
+00:33:01,150 --> 00:33:03,422
+Speaker 0: It's just like a robot that looks like a person right doesn't?
+
+431
+00:33:03,522 --> 00:33:07,999
+Speaker 0: it's not like a you know, crazy gory nasty monster or anything like that.
+
+432
+00:33:08,019 --> 00:33:15,303
+Speaker 0: or you know, it's just going to kill you and you you You can run but it's still coming right?
+
+433
+00:33:15,424 --> 00:33:15,846
+Speaker 0: How do you?
+
+434
+00:33:15,966 --> 00:33:16,609
+Speaker 0: what are you gonna do?
+
+435
+00:33:18,635 --> 00:33:38,749
+Speaker 0: It is looming death and so the anime recognizes that and captures that right where the Characters the terminator is coming for them and it just keeps coming and they they didn't mess that part up Which I think a lot of the terminator media that I've seen other than the first two movies does not do.
+
+436
+00:33:38,789 --> 00:33:38,950
+Speaker 0: that.
+
+437
+00:33:39,070 --> 00:33:41,793
+Speaker 0: All right, there was I don't know it might have been the third movie I saw.
+
+438
+00:33:41,833 --> 00:33:44,290
+Speaker 0: I don't forget because I watched it once and put it out of my mind.
+
+439
+00:33:44,410 --> 00:33:56,939
+Speaker 1: I will admit I have never and this is purposeful consumed any terminator terminator media except terminator 1 and terminator 2 I think and terminator 0 I think I've seen the third.
+
+440
+00:33:57,180 --> 00:33:59,370
+Speaker 0: it was either the third movie or the fourth movie.
+
+441
+00:33:59,530 --> 00:34:03,883
+Speaker 0: It seems like there are according to Wikipedia 1 2 3 4 6 movies.
+
+442
+00:34:03,903 --> 00:34:04,725
+Speaker 0: God, Dan Lee.
+
+443
+00:34:05,207 --> 00:34:06,290
+Speaker 0: I've only seen half of those.
+
+444
+00:34:06,451 --> 00:34:07,496
+Speaker 0: I don't and I don't know which.
+
+445
+00:34:07,877 --> 00:34:14,248
+Speaker 0: if I've seen the 2003 or the 2009 Movie there was a TV series didn't see that.
+
+446
+00:34:15,650 --> 00:34:18,603
+Speaker 0: And then there was a machinima series on the web.
+
+447
+00:34:18,643 --> 00:34:20,250
+Speaker 0: There were two of them a YouTube one.
+
+448
+00:34:20,411 --> 00:34:21,534
+Speaker 0: I didn't see those.
+
+449
+00:34:21,917 --> 00:34:23,784
+Speaker 0: and then there's the anime and then there were.
+
+450
+00:34:23,804 --> 00:34:24,969
+Speaker 0: there's a lot of comic books.
+
+451
+00:34:25,293 --> 00:34:32,068
+Speaker 1: I've read a couple of those I guess But like think about how scary that is like imagine there's the thing that's walking slowly.
+
+452
+00:34:32,128 --> 00:34:32,610
+Speaker 0: I went to that.
+
+453
+00:34:32,650 --> 00:34:41,924
+Speaker 0: I was I went to the the the Terminator ride at like, you know, oh, yeah Universal Studios in Florida, which I guess doesn't exist anymore.
+
+454
+00:34:42,065 --> 00:34:43,188
+Speaker 1: Yeah, I've even I wrote the old.
+
+455
+00:34:43,909 --> 00:34:45,040
+Speaker 0: No, they don't have any now.
+
+456
+00:34:47,491 --> 00:34:51,629
+Speaker 1: Yeah, I don't think there's not that many people on earth who have ridden the original Star Wars ride down there.
+
+457
+00:34:52,911 --> 00:34:54,215
+Speaker 0: Anyway, it's still that's still there.
+
+458
+00:34:54,275 --> 00:34:55,661
+Speaker 0: I think is it the original?
+
+459
+00:34:55,721 --> 00:34:58,009
+Speaker 0: I think they've changed the the video on it though.
+
+460
+00:34:58,691 --> 00:34:59,615
+Speaker 1: But think about like.
+
+461
+00:34:59,715 --> 00:35:07,990
+Speaker 1: even if you get away from the Terminator like you you somehow get on a plane and fly to the other Of the world, you know that it's eventually going to find you again.
+
+462
+00:35:08,092 --> 00:35:20,110
+Speaker 0: like maybe it's just Either get its own plane or it'll like walk on the bottom of the ocean and actually walk out of the ocean to the on The other side of the world, but the inexorable force is super important.
+
+463
+00:35:20,431 --> 00:35:26,860
+Speaker 1: I think the second thing that is really important about a good proper Terminator is that there is a time loop Because it's about.
+
+464
+00:35:26,880 --> 00:35:27,910
+Speaker 1: it's a time travel story.
+
+465
+00:35:27,990 --> 00:35:54,490
+Speaker 1: It is a Terminator sent from the future by an evil AI Evil in with an asterisk for you know, if you don't know what terminators about well anyway that sends back in time to kill someone to change the future, but in Terminator 1 and Terminator 2 the act of sending something back in time Actually caused the future event to appear and you have a full-on time loop Terminator 1 Terminator 2 and now Terminator 0.
+
+466
+00:35:54,490 --> 00:36:02,790
+Speaker 1: Correctly do the time loop in a way that the other terminators don't seem to have done Right and you think oh it's just doing the same thing again.
+
+467
+00:36:02,870 --> 00:36:06,102
+Speaker 0: But it's like well you kind of have to do that because otherwise it doesn't work.
+
+468
+00:36:06,143 --> 00:36:16,140
+Speaker 0: Yeah, otherwise, it's a very different kind of story You know and it's like oh well, you know a Lot of times people they want all the answers right of like.
+
+469
+00:36:16,261 --> 00:36:16,943
+Speaker 0: ah, this is the.
+
+470
+00:36:17,064 --> 00:36:18,810
+Speaker 0: it turned out this way, right?
+
+471
+00:36:18,911 --> 00:36:20,288
+Speaker 0: It's like you can't do that either.
+
+472
+00:36:21,710 --> 00:36:29,591
+Speaker 1: Terminators have to end hopefully but not conclusively which Terminator 1 and Terminator 2 both definitely did Right.
+
+473
+00:36:29,651 --> 00:36:39,218
+Speaker 0: And so this anime I think the you know, it's not necessarily a negative but it is Very anime, right?
+
+474
+00:36:39,258 --> 00:36:52,550
+Speaker 1: There is like a whole and while there is that Terminator component There is a big anime component where feels like 80s sci-fi anime like some of my like which is a type of anime that is some of my favorite anime.
+
+475
+00:36:53,732 --> 00:36:54,818
+Speaker 0: Yeah, I mean this, you know, it's.
+
+476
+00:36:54,999 --> 00:37:00,984
+Speaker 0: it has this sort of terrible secretive space But it has this guy talking like in a room just talking to this AI.
+
+477
+00:37:01,044 --> 00:37:02,710
+Speaker 1: that guy is definitely gendo coded.
+
+478
+00:37:02,891 --> 00:37:06,556
+Speaker 1: There's a whole gendo adjacent situation there And he's like.
+
+479
+00:37:06,636 --> 00:37:14,810
+Speaker 1: I want to point out he is really bad at Negotiating with that AI and really bad at to fill of all the people who could be in that room.
+
+480
+00:37:14,870 --> 00:37:17,620
+Speaker 1: He might be the worst possible person to be in that room.
+
+481
+00:37:17,701 --> 00:37:19,026
+Speaker 0: The one who made that time.
+
+482
+00:37:19,427 --> 00:37:20,210
+Speaker 0: It was his idea.
+
+483
+00:37:20,351 --> 00:37:22,169
+Speaker 1: That's yeah, but he's bad at it.
+
+484
+00:37:23,273 --> 00:37:28,217
+Speaker 0: He is not we right He's talking to is like an anime girl.
+
+485
+00:37:28,257 --> 00:37:32,370
+Speaker 0: so it's like he's basically like all right, I made an anime girl AI that's gonna fight.
+
+486
+00:37:33,030 --> 00:37:36,743
+Speaker 0: Hopefully I can convince it to fight Skynet for please save humanity.
+
+487
+00:37:36,883 --> 00:37:38,007
+Speaker 1: and she's like why.
+
+488
+00:37:38,067 --> 00:37:40,176
+Speaker 1: and he's like, I don't know I'm actually bad at this.
+
+489
+00:37:40,237 --> 00:37:41,282
+Speaker 1: Maybe we aren't worth saving.
+
+490
+00:37:41,302 --> 00:37:49,218
+Speaker 0: and the anime girls like okay Yeah, and that basically that whole part of it is like.
+
+491
+00:37:49,378 --> 00:37:50,361
+Speaker 0: so anime.
+
+492
+00:37:50,421 --> 00:37:58,910
+Speaker 0: and like the the three kids, you know with someone that You know running away with they basically their nanny is sort of like a Masato.
+
+493
+00:38:00,554 --> 00:38:02,619
+Speaker 0: Only less confident is.
+
+494
+00:38:02,660 --> 00:38:04,224
+Speaker 0: so it's basically a lot.
+
+495
+00:38:04,284 --> 00:38:04,584
+Speaker 0: It's like.
+
+496
+00:38:05,046 --> 00:38:10,100
+Speaker 0: it's like what if the Unstoppable Terminator went into an anime.
+
+497
+00:38:10,140 --> 00:38:29,163
+Speaker 0: Yeah, that was that wasn't a Terminator anime and started chasing some of the characters Exactly like the 80s Live-action Terminator, but in an anime world like that's that's how it feels because the Terminator is Part of it is kind of you know, it's not the great.
+
+498
+00:38:29,203 --> 00:38:31,790
+Speaker 0: It's not bad, but it's not like an st.
+
+499
+00:38:33,234 --> 00:38:35,130
+Speaker 0: It's like it's like oh, it's an anime.
+
+500
+00:38:36,194 --> 00:38:53,160
+Speaker 1: very animate those parts, but what it does really well is instead of like doing like Subtle homage to like Terminator or instead of just recreating things that happen the old Terminator It'll have like shots like individual shots
+
+501
+00:38:53,562 --> 00:38:54,244
+Speaker 0: or individual
+
+502
+00:38:54,284 --> 00:39:01,752
+Speaker 1: scenes that are framed exactly like a specific scene from Terminator 1 or Terminator 2.
+
+503
+00:39:01,752 --> 00:39:10,663
+Speaker 1: But it's just like a moment that you can if you've seen those movies and you think a lot about them You'll internalize and recognize but then it'll diverge and do something else.
+
+504
+00:39:10,763 --> 00:39:11,907
+Speaker 1: Like it's a kind of homage.
+
+505
+00:39:11,927 --> 00:39:12,569
+Speaker 1: I haven't seen that.
+
+506
+00:39:12,649 --> 00:39:14,454
+Speaker 1: often I'm thinking like some of them.
+
+507
+00:39:14,514 --> 00:39:35,397
+Speaker 1: specific examples are the scene when she's trying to cut when she's trying to get the phone call to the dad and There it's the exact same Framing as in Terminator 2. when they're in cyberdyne systems in the office building with the light coming into the windows and the helicopter outside It's like the same shot for us moment But it's not like the same scene.
+
+508
+00:39:35,538 --> 00:39:46,250
+Speaker 1: other things are happening and lots of what happens in this anime are Very evocative of specific moments from Terminator 1 and Terminator 2. but it jumps around which movies it's referencing when.
+
+509
+00:39:46,913 --> 00:39:50,610
+Speaker 1: But then it does some other things like the police station scene.
+
+510
+00:39:51,971 --> 00:39:54,759
+Speaker 0: Yeah, what I've seen what a fucking triumph.
+
+511
+00:39:54,799 --> 00:40:02,533
+Speaker 1: just that it's the same scene and there's the moment or the cop Who's like actually trying to figure it out says the line You're the.
+
+512
+00:40:02,914 --> 00:40:06,850
+Speaker 1: this is the safest place you could be and I'm pretty sure I haven't seen Terminator 1 in a long time.
+
+513
+00:40:07,152 --> 00:40:12,937
+Speaker 1: I think the cop says the exact same thing to Sarah Connor Right before the Terminator comes back.
+
+514
+00:40:13,600 --> 00:40:15,326
+Speaker 0: Well, the cop has no reason he's like.
+
+515
+00:40:15,446 --> 00:40:16,470
+Speaker 0: he's like, where could you be?
+
+516
+00:40:16,610 --> 00:40:27,086
+Speaker 0: That's safer than a station if you're not the bad if you're not the bad guy and the police are on yours actually on your Side somehow and if it's just one guy chasing you no matter how violent he is.
+
+517
+00:40:27,106 --> 00:40:28,250
+Speaker 1: He's one guy.
+
+518
+00:40:28,411 --> 00:40:36,191
+Speaker 1: we're a bunch of righted-up police officers with a ton of guns and The scene plays out pretty much the same way as it did in Terminator 1.
+
+519
+00:40:36,191 --> 00:40:52,820
+Speaker 0: Yeah So I mean, you know if you like a Terminator but you're expecting like something as like, you know, like Legendary as Terminator 1 or 2. you're not gonna find that here, right?
+
+520
+00:40:52,860 --> 00:40:53,944
+Speaker 0: It's like you can't?
+
+521
+00:40:54,025 --> 00:40:54,587
+Speaker 0: it's really.
+
+522
+00:40:55,109 --> 00:41:05,872
+Speaker 0: it's like asking people to continue a franchise but then add a new entry to a franchise and have it be as S-tier as the existing s-tier.
+
+523
+00:41:05,992 --> 00:41:07,920
+Speaker 0: entry in that franchise is like.
+
+524
+00:41:08,640 --> 00:41:09,222
+Speaker 0: It's like.
+
+525
+00:41:09,343 --> 00:41:11,208
+Speaker 0: who can possibly do that?
+
+526
+00:41:11,309 --> 00:41:12,031
+Speaker 0: Especially right?
+
+527
+00:41:12,172 --> 00:41:14,419
+Speaker 0: It's it's so difficult to you know.
+
+528
+00:41:15,805 --> 00:41:16,898
+Speaker 0: It's like come on, right?
+
+529
+00:41:18,562 --> 00:41:22,864
+Speaker 0: You could say well, it just makes something new and I'd say yeah, I agree Please make new things.
+
+530
+00:41:22,924 --> 00:41:26,216
+Speaker 0: stop doing the sequels and the prequels and the remakes and the whatever.
+
+531
+00:41:26,236 --> 00:41:27,200
+Speaker 0: I'd be very happy with that.
+
+532
+00:41:27,301 --> 00:41:36,931
+Speaker 0: But if you're gonna do it It's like at least what you can do is stick to the formula But still add something new and just don't fuck it up.
+
+533
+00:41:37,072 --> 00:41:39,380
+Speaker 0: and at least it might be worth someone's time.
+
+534
+00:41:39,461 --> 00:41:41,237
+Speaker 0: It won't be it or won't be a waste of time.
+
+535
+00:41:42,661 --> 00:42:05,850
+Speaker 0: It's like I always say like hey Nintendo, you know Nintendo loves to mix it up every time they make a new game Right, even if they're in the same franchise, but it's like, you know, sometimes it's like you can just do the same one again Right and just slightly tweak it, you know You could have just made Super Metroid 2. as long as you don't make Super Metroid 3 4 or 5 That's too far but you can just do the same thing again.
+
+536
+00:42:05,990 --> 00:42:06,712
+Speaker 0: You hit gold.
+
+537
+00:42:07,053 --> 00:42:09,400
+Speaker 0: It's okay to make gold another gold.
+
+538
+00:42:09,881 --> 00:42:11,387
+Speaker 0: That's the same as the other one, right.
+
+539
+00:42:11,688 --> 00:42:15,120
+Speaker 0: and they made breath of the wild and then they made tears of the kingdom, right?
+
+540
+00:42:15,180 --> 00:42:16,244
+Speaker 0: and that's what I'm talking about.
+
+541
+00:42:16,345 --> 00:42:21,925
+Speaker 0: is you just you do the same thing crook slightly so and That's good you can.
+
+542
+00:42:21,985 --> 00:42:23,069
+Speaker 0: you can just do that.
+
+543
+00:42:23,551 --> 00:42:25,620
+Speaker 0: you don't need to go a third one.
+
+544
+00:42:25,700 --> 00:42:28,067
+Speaker 0: It might be too much but just two is okay.
+
+545
+00:42:28,127 --> 00:42:34,545
+Speaker 0: So here it's sort of like yep, you made another a solid entrant Into the franchise.
+
+546
+00:42:35,086 --> 00:42:36,610
+Speaker 0: Is it legendary at ST?
+
+547
+00:42:36,670 --> 00:42:37,793
+Speaker 0: or obviously not.
+
+548
+00:42:37,953 --> 00:42:40,760
+Speaker 0: but is it garbage like some of the other ones?
+
+549
+00:42:40,880 --> 00:42:44,699
+Speaker 0: I haven't seen or purported to be or the one I put out of my mind kind of was.
+
+550
+00:42:46,243 --> 00:42:48,402
+Speaker 1: No, well, that's the two questions I would ask it.
+
+551
+00:42:48,422 --> 00:42:50,631
+Speaker 0: might it might bounce off people who aren't like?
+
+552
+00:42:50,651 --> 00:42:56,491
+Speaker 1: the questions you ask about something like this is one Why is this a Terminator movie other than another movie?
+
+553
+00:42:56,571 --> 00:42:59,340
+Speaker 1: and in this case because it hits the same core?
+
+554
+00:42:59,500 --> 00:43:01,247
+Speaker 1: Beats and has this what we?
+
+555
+00:43:01,267 --> 00:43:01,408
+Speaker 1: what?
+
+556
+00:43:01,428 --> 00:43:11,739
+Speaker 1: I would consider the essential elements of a Terminator Because if it wasn't we would watch or it didn't the aura wouldn't have Denying completely different like Mars Express.
+
+557
+00:43:12,362 --> 00:43:19,770
+Speaker 0: You can't deny that if they threw this anime on Netflix and it was just a complete completely new IP No, wouldn't have watched it at least not yet.
+
+558
+00:43:20,414 --> 00:43:21,540
+Speaker 0: It wouldn't to talk about it yet.
+
+559
+00:43:21,640 --> 00:43:24,820
+Speaker 0: So it's like for all my complaining about not being a original.
+
+560
+00:43:26,061 --> 00:43:30,100
+Speaker 0: I'm part of the problem and that yeah, it kind of works like yeah, I went to see that alien movie.
+
+561
+00:43:30,241 --> 00:43:38,935
+Speaker 1: But the second question I would ask is yeah Why should I watch this if I've already seen Terminator 1 and Terminator 2 and I got I'm getting something out of it.
+
+562
+00:43:39,015 --> 00:43:46,240
+Speaker 1: and my advice to all of you If you if you have not seen Terminator 1 watch it before you watch this.
+
+563
+00:43:46,301 --> 00:43:49,968
+Speaker 1: It's not necessary But you'll get a lot more out of this anime.
+
+564
+00:43:50,048 --> 00:43:54,763
+Speaker 1: if you have actually actually seen Terminator 1 like that famous line I'll be back.
+
+565
+00:43:55,364 --> 00:43:56,728
+Speaker 1: It's that's from Terminator 1.
+
+566
+00:43:56,728 --> 00:44:00,560
+Speaker 1: Terminator 2 was referencing Terminator 1. when Arnold says I'll be back.
+
+567
+00:44:02,621 --> 00:44:06,580
+Speaker 0: You know now that I know that there's six movies even though I've heard that they're bad.
+
+568
+00:44:06,882 --> 00:44:07,830
+Speaker 0: I kind of know how.
+
+569
+00:44:07,890 --> 00:44:09,100
+Speaker 0: maybe I should just go and watch.
+
+570
+00:44:12,221 --> 00:44:20,240
+Speaker 1: That's the kind of movie I'd watch on a plane when I'm on the plane for 18 hours Just to see what just what the fuck is going on over there.
+
+571
+00:44:20,260 --> 00:44:28,490
+Speaker 1: I mean Terminator 2 is just like for a lot of reasons than if we ever done a show on like Terminator 2.
+
+572
+00:44:28,490 --> 00:44:32,118
+Speaker 0: I'm gonna see where we ever Haven't seen it in many years.
+
+573
+00:44:32,381 --> 00:44:33,393
+Speaker 0: Terminator.
+
+574
+00:44:33,413 --> 00:44:36,616
+Speaker 1: ah No, we have never reviewed Terminator.
+
+575
+00:44:36,637 --> 00:44:36,999
+Speaker 1: Terminator.
+
+576
+00:44:37,542 --> 00:44:47,483
+Speaker 1: This is the first time we've ever talked about a Terminator franchise item on the show except in relation to scavengers rain and Mars Express and Building a computer.
+
+577
+00:44:47,523 --> 00:44:58,475
+Speaker 0: for some reason I should say that the other the other thing about Terminator right is that in terms of a sci-fi It covers, you know, it's one of those sci-fis that can cover a lot of bases.
+
+578
+00:44:58,515 --> 00:44:58,635
+Speaker 0: like.
+
+579
+00:44:58,696 --> 00:45:01,445
+Speaker 0: I remember we talked about Mars Express.
+
+580
+00:45:01,907 --> 00:45:05,439
+Speaker 0: Yeah, and how Mars Express covered literally every sci-fi base there is.
+
+581
+00:45:07,021 --> 00:45:09,569
+Speaker 0: But Terminator covers a lot.
+
+582
+00:45:09,589 --> 00:45:13,080
+Speaker 0: it basically covers everything except for outer space is covered.
+
+583
+00:45:13,140 --> 00:45:23,722
+Speaker 1: Especially Terminator 2 like Terminator 2 if you somehow listen to keep diets and never seen Terminator 2 It's like the fact that it's an action movie is secondary to Like.
+
+584
+00:45:23,742 --> 00:45:32,199
+Speaker 1: it introduced a lot of concepts to people that they never thought about before that in the year 2024 are Shockingly and dangerously prescient.
+
+585
+00:45:34,463 --> 00:45:36,094
+Speaker 0: Yeah, it's like anything that you know.
+
+586
+00:45:36,335 --> 00:45:46,439
+Speaker 0: the you know The major themes of science fiction novels right and stories that don't have to do with outer space Because Terminator is strictly on earth.
+
+587
+00:45:47,121 --> 00:45:49,327
+Speaker 0: They're mostly covered in Terminator.
+
+588
+00:45:49,888 --> 00:45:52,034
+Speaker 0: and so whereas it's not just the one thing.
+
+589
+00:45:52,074 --> 00:45:53,617
+Speaker 0: It's not just the evil AI.
+
+590
+00:45:53,698 --> 00:46:06,540
+Speaker 0: It's not just you know robots and cyborgs and the line between Machine and man and you know, then and there's man gonna kill themselves in a nuclear war and time travel.
+
+591
+00:46:08,543 --> 00:46:21,999
+Speaker 1: The thing that strikes me the most especially considering the election that's about to happen is Like think about in Terminator 2 Sarah Connor You know the fucked up future that awaits if you don't stop it But yet you're powerless to stop it.
+
+592
+00:46:22,080 --> 00:46:28,980
+Speaker 1: And I think a final big theme of Terminator is that the Terminator itself the individual Terminator is an inexorable horror force.
+
+593
+00:46:29,523 --> 00:46:31,918
+Speaker 1: But there's a meta story about the characters.
+
+594
+00:46:31,938 --> 00:46:40,796
+Speaker 1: in encountering the Terminator Realize that there is a much bigger inexorable force of the AI Holocaust that's coming for them.
+
+595
+00:46:41,077 --> 00:46:42,260
+Speaker 1: that cannot be stopped.
+
+596
+00:46:42,621 --> 00:46:45,572
+Speaker 1: They're equally inexorable and they evoke each other.
+
+597
+00:46:45,693 --> 00:46:47,700
+Speaker 1: and that's like the core theme of Terminator.
+
+598
+00:46:48,162 --> 00:46:53,040
+Speaker 1: What do you do when you see the future and you convince other people that the future is there and yet?
+
+599
+00:46:53,500 --> 00:46:58,929
+Speaker 1: None of you have the power to stop it and all you do is either try to figure out how to stop it or give up.
+
+600
+00:47:00,221 --> 00:47:05,200
+Speaker 0: Yeah, there's some crazy conspiracy but it's actually real and you've seen evidence that it's real.
+
+601
+00:47:05,281 --> 00:47:07,142
+Speaker 0: It's not just some made-up thing But you can't.
+
+602
+00:47:07,584 --> 00:47:12,040
+Speaker 0: you can't get enough evidence to show anyone else and make them believe it's very one of the best.
+
+603
+00:47:12,120 --> 00:47:27,758
+Speaker 1: Terminator 2 is when Sarah Connors in the mental Institute and Like they locked her up because they think she's crazy but yet like they have the video of the fucking original Terminator attacking the police station and they just kind of Blow it off and cover it up and don't trust her and don't listen to her
+
+604
+00:47:30,030 --> 00:47:30,452
+Speaker 0: Mm-hmm.
+
+605
+00:47:31,175 --> 00:47:42,710
+Speaker 0: I mean, you know if that it's the thing is it's like you see a lot of other Media that are you know have some similar, you know magic or whatever and it's like why are people so stupid?
+
+606
+00:47:42,811 --> 00:47:44,321
+Speaker 0: Why are people not believing the truth?
+
+607
+00:47:44,381 --> 00:47:45,488
+Speaker 0: Why are people in Terminator?
+
+608
+00:47:46,431 --> 00:47:48,339
+Speaker 0: It's it's at least the ones that I've seen.
+
+609
+00:47:48,981 --> 00:47:50,286
+Speaker 0: that's actually never an issue.
+
+610
+00:47:50,306 --> 00:47:52,594
+Speaker 0: people are acting You know, the humans are act.
+
+611
+00:47:52,734 --> 00:47:56,285
+Speaker 1: every human who sees the Terminator and is like, oh fuck.
+
+612
+00:47:56,345 --> 00:47:57,027
+Speaker 1: She was right.
+
+613
+00:47:57,167 --> 00:47:59,432
+Speaker 1: Well, fuck me Right.
+
+614
+00:48:00,294 --> 00:48:09,029
+Speaker 0: It's like it's a scenario in which people can act right in common sense Even though it's a stupid thing to do.
+
+615
+00:48:09,491 --> 00:48:11,176
+Speaker 0: Because who would believe that?
+
+616
+00:48:11,316 --> 00:48:22,890
+Speaker 0: until they do believe that and then they change how they act quickly and you never have to be like You know like other horror movies where it's like, oh, they yeah, they got killed because those idiots messed with the thing.
+
+617
+00:48:23,853 --> 00:48:24,114
+Speaker 0: It's like.
+
+618
+00:48:24,175 --> 00:48:26,229
+Speaker 0: why did they do that those fools right?
+
+619
+00:48:26,810 --> 00:48:28,555
+Speaker 0: There's you don't have that in any Terminator.
+
+620
+00:48:28,615 --> 00:48:36,389
+Speaker 1: people act in a rational manner given it's really you got the cigarette fall Just like in Ghostbusters and that one see.
+
+621
+00:48:38,882 --> 00:48:42,521
+Speaker 1: Yeah This has been geek nights with rim and Scott.
+
+622
+00:48:42,581 --> 00:48:45,090
+Speaker 1: special thanks to DJ pretzel for the opening theme.
+
+623
+00:48:45,270 --> 00:48:47,598
+Speaker 0: Be sure to visit our website at front row.
+
+624
+00:48:47,638 --> 00:48:51,290
+Speaker 0: clue calm for show notes discussion links and more.
+
+625
+00:48:51,791 --> 00:48:54,482
+Speaker 1: Remember geek nights is not one but four different shows.
+
+626
+00:48:54,784 --> 00:48:58,216
+Speaker 1: Mondays are science and technology Tuesdays gaming and games.
+
+627
+00:48:58,336 --> 00:49:00,162
+Speaker 1: Wednesdays are animation and comics.
+
+628
+00:49:00,483 --> 00:49:02,930
+Speaker 1: Thursdays are arbitrary and indiscriminate.
+
+629
+00:49:03,593 --> 00:49:08,574
+Speaker 1: Peek nights is distributed under a Creative Commons attribution 4.0 International license.
+
+630
+00:49:08,976 --> 00:49:13,290
+Speaker 0: geek nights is recorded live with no studio and no audience.
+
+631
+00:49:13,811 --> 00:49:17,321
+Speaker 0: But unlike those other late shows it's actually recorded at night
+
+632
+00:49:18,123 --> 00:49:31,449
+Speaker 1: and the picture and patrons for this episode of geek nights are Alan Joyce linkage adrenaline the temporary case care makes music Krista dot Christopher Clinton Walton finjol haze penny rhyme or Rebecca Dunne Sam Erickson German Ron Horrell and a bunch of people who do not want me to say their names.
+
+633
+00:49:32,890 --> 00:49:36,883
+Speaker 1: Patreon's changing their subscription model, and I didn't even bother reading.
+
+634
+00:49:36,943 --> 00:49:40,558
+Speaker 1: they're doing it because of some Apple things so We'll see how that goes.
+
+635
+00:49:40,578 --> 00:49:50,550
+Speaker 1: if it causes an annoyance for you Feel free to just drop the subscription like patreon is basically a free Just backup of geek nights that I want to get out there because it doesn't cost us anything.
+
+636
+00:49:51,115 --> 00:49:52,649
+Speaker 1: But yeah make a plan to vote.
+
+637
+00:49:53,131 --> 00:49:58,810
+Speaker 1: Hopefully the groundhog won't see the swastika and give us a generation of chaos and misery under fascism.
+
+638
+00:49:59,373 --> 00:50:01,728
+Speaker 1: But tonight I leave you with.
+
+639
+00:50:05,452 --> 00:50:09,764
+Speaker 1: And so for all practical purposes truth had been abolished in Germany.
+
+640
+00:50:09,784 --> 00:50:14,559
+Speaker 1: a Lot of my German friends wondered what had hit them.
+
+641
+00:50:15,382 --> 00:50:16,265
+Speaker 1: How did it happen?
+
+642
+00:50:16,907 --> 00:50:17,810
+Speaker 1: Where did it start?
+
+643
+00:50:19,372 --> 00:50:30,530
+Speaker 1: it started right here and This was where it could have been stopped If those people had stood together if they had protected each other they could have resisted the Nazi threat.
+
+644
+00:50:31,391 --> 00:50:39,869
+Speaker 1: Together they would have been strong, but once they allowed themselves to be split apart They were happens when that first minority lost out.
+
+645
+00:50:40,633 --> 00:50:41,657
+Speaker 1: Everybody lost time.
+
+646
+00:50:42,159 --> 00:50:44,670
+Speaker 1: they made the mistake of gambling with other people's freedom.
+

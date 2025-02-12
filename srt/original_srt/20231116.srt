@@ -1,0 +1,2936 @@
+﻿1
+00:00:08,140 --> 00:00:10,938
+Speaker 1: It's Thursday, November 16th, 2023.
+
+2
+00:00:10,938 --> 00:00:11,660
+Speaker 1: I'm rim.
+
+3
+00:00:11,941 --> 00:00:14,869
+Speaker 1: I'm Scott and this is geek nights.
+
+4
+00:00:14,909 --> 00:00:17,149
+Speaker 1: tonight We are talking about layoffs.
+
+5
+00:00:17,890 --> 00:00:18,955
+Speaker 0: Let's do this.
+
+6
+00:00:19,517 --> 00:00:20,682
+Speaker 1: So you got your choice.
+
+7
+00:00:20,702 --> 00:00:23,233
+Speaker 1: I have two open events We could talk about.
+
+8
+00:00:23,554 --> 00:00:27,390
+Speaker 0: one of them is something actually remember to save the other one or is it not worth now?
+
+9
+00:00:27,670 --> 00:00:29,652
+Speaker 1: Well, whichever one we don't talk about I'm just gonna.
+
+10
+00:00:29,713 --> 00:00:33,026
+Speaker 1: I'm gonna memory hold because I even if I try to remember I'm not gonna.
+
+11
+00:00:33,428 --> 00:00:34,715
+Speaker 0: so okay You can write it down.
+
+12
+00:00:34,736 --> 00:00:35,843
+Speaker 0: You know, that's a new technology.
+
+13
+00:00:35,903 --> 00:00:36,930
+Speaker 1: I know I refuse it.
+
+14
+00:00:37,311 --> 00:00:41,930
+Speaker 1: I like the idea that the opening bit is just whatever whatever I can find at the time.
+
+15
+00:00:41,930 --> 00:00:51,598
+Speaker 0: I have a ton of opening bits the next episode because next week I'm going to Los Angeles all week including, you know, Disneyland Potentially a hockey game.
+
+16
+00:00:51,880 --> 00:00:53,469
+Speaker 0: Well, I'm just gonna see what the schedule is.
+
+17
+00:00:56,111 --> 00:00:59,750
+Speaker 1: Rims mom is coming out to New York and that's definitely gonna generate a bunch of opening bits.
+
+18
+00:00:59,790 --> 00:01:03,142
+Speaker 0: Maybe I'll get around the show and there's some packs unplugged the week after that.
+
+19
+00:01:03,182 --> 00:01:05,149
+Speaker 0: We'll tell about in the lot going on.
+
+20
+00:01:06,232 --> 00:01:13,512
+Speaker 0: I like the idea that but it's only the next two weeks like actual December other than normal holiday routine Really?
+
+21
+00:01:13,552 --> 00:01:14,454
+Speaker 0: Not much going on.
+
+22
+00:01:14,635 --> 00:01:19,530
+Speaker 1: Yeah, which is like so with climate change like I'm not gonna have any ski trips till January or February.
+
+23
+00:01:19,690 --> 00:01:23,282
+Speaker 0: Anyway, so I foresee lots of normal geek nights in December.
+
+24
+00:01:23,542 --> 00:01:25,890
+Speaker 0: November is two and a half three weeks.
+
+25
+00:01:26,650 --> 00:01:33,130
+Speaker 1: Historically, I want to say November is the month we skip the most shows because of the density of holidays and stuff happening.
+
+26
+00:01:34,571 --> 00:01:39,609
+Speaker 1: Anyway, so your choice is either something about pants or something about bikes.
+
+27
+00:01:39,629 --> 00:01:42,555
+Speaker 0: I Mean you do your bikes too much.
+
+28
+00:01:42,635 --> 00:01:43,578
+Speaker 0: So let's do pants.
+
+29
+00:01:44,019 --> 00:01:55,410
+Speaker 1: Okay, so this morning, you know, I get up before Emily and then Getting dressed doing my thing and because my wardrobe is in the bedroom I just get dressed in the dark cuz kind of doesn't matter what I wear like gonna put a jacket over it anyway.
+
+30
+00:01:56,116 --> 00:01:57,689
+Speaker 1: So I put on some pants and I put on my shirt.
+
+31
+00:01:58,413 --> 00:02:06,930
+Speaker 1: Guy go out about to walk out and I discover as I'm at the door about to leave that I have not in fact put on a pair of my jeans.
+
+32
+00:02:07,592 --> 00:02:12,024
+Speaker 1: I have put on a pair of Emily's jeans and they fit the same they are.
+
+33
+00:02:12,084 --> 00:02:13,247
+Speaker 1: they fit me perfectly.
+
+34
+00:02:13,548 --> 00:02:22,649
+Speaker 1: It's kind of amazing but The way I discovered and realized that they were Emily's jeans and not my jeans just pockets were worthless.
+
+35
+00:02:22,769 --> 00:02:27,790
+Speaker 0: Yes So I Your phone in your pocket and the pocket was guard.
+
+36
+00:02:27,830 --> 00:02:34,478
+Speaker 1: I grabbed my phone and I go to slide it into my my breast pocket on my blazer and then I think no I'm gonna bike to work.
+
+37
+00:02:34,518 --> 00:02:35,569
+Speaker 1: I'm not putting my phone there.
+
+38
+00:02:35,871 --> 00:02:42,849
+Speaker 1: So I take it out of that breaking and I go to put it into the jeans and they get it gets about a third Of the way in and I hit the bottom of the pocket.
+
+39
+00:02:43,771 --> 00:02:45,857
+Speaker 0: Yeah, I mean it's not news.
+
+40
+00:02:45,897 --> 00:02:49,507
+Speaker 0: we've known for a long time that they don't put proper pockets on.
+
+41
+00:02:49,548 --> 00:02:50,350
+Speaker 0: most bullshit.
+
+42
+00:02:50,551 --> 00:02:54,326
+Speaker 1: If I wore women's jeans on purpose, I'd be real mad, you know what I'm real.
+
+43
+00:02:54,366 --> 00:03:02,530
+Speaker 0: many of companies There's is I don't say plenty but it's like if you buy from small businesses online, you know, not from major stores, right?
+
+44
+00:03:03,732 --> 00:03:23,444
+Speaker 0: Like, you know your H&Ms your Macy's your gaps or whatever, right if you buy from you know Smaller places this there are lots of companies that are intentionally producing you know female clothes or Any gendered clothes that are that have appropriate pockets sometimes Incredible pockets.
+
+45
+00:03:23,885 --> 00:03:26,715
+Speaker 0: So dresses with pockets skirts with pockets.
+
+46
+00:03:26,755 --> 00:03:28,140
+Speaker 0: I've seen them, you know.
+
+47
+00:03:28,260 --> 00:03:39,060
+Speaker 1: I mean I still think back when we when we got our Utilicate branded skirts so long ago at the store and I think yeah They showed us how much shit you can put in those pockets and it was amazing.
+
+48
+00:03:40,482 --> 00:03:48,231
+Speaker 0: The problem is is that buying clothes from a lot of these places, you know You're buying clothing that wasn't made in a sweatshop, etc, etc, and it's not cheap.
+
+49
+00:03:48,312 --> 00:03:54,280
+Speaker 0: So it's like basically you have to have money to have clothes with pockets that isn't you know?
+
+50
+00:03:55,520 --> 00:03:56,483
+Speaker 0: Mass manufactured.
+
+51
+00:03:56,523 --> 00:03:59,613
+Speaker 1: Yeah, and there are differences like in the way they're cut.
+
+52
+00:03:59,653 --> 00:04:04,679
+Speaker 1: like these jeans ride way lower Which is I like low riding jeans anyway, so that's fine.
+
+53
+00:04:05,241 --> 00:04:20,976
+Speaker 1: but then so I'm at work and a person at work around lunchtime when I'm just in like the common area having some coffee and Wasting some time because I don't really want to go back to my desk and do work A person who I talk to off and on just says hi and out of nowhere says, where'd you get those jeans?
+
+54
+00:04:21,017 --> 00:04:21,660
+Speaker 1: They look great.
+
+55
+00:04:23,283 --> 00:04:29,609
+Speaker 1: Okay and I think they do look great, but I Guess I guess I have a I fit.
+
+56
+00:04:29,770 --> 00:04:30,715
+Speaker 1: women's jeans fit me fine.
+
+57
+00:04:30,976 --> 00:04:32,787
+Speaker 1: So cool Data point.
+
+58
+00:04:32,807 --> 00:04:45,815
+Speaker 0: I Mean, I'm sure I could find you know for any person right of any size a pair of any clothing From any gender intended gender or whatever that would fit them.
+
+59
+00:04:45,835 --> 00:04:47,280
+Speaker 1: Well, I mean, I remember there was a blog.
+
+60
+00:04:47,401 --> 00:04:55,186
+Speaker 0: I think one of us you if you if you were married to a very tall person Their jeans would not fit you fine Married to a very short person.
+
+61
+00:04:55,347 --> 00:05:04,974
+Speaker 1: Yeah, it does help that for just because we have You know Emily and I actually have very similar body shapes and body sizes.
+
+62
+00:05:05,135 --> 00:05:06,960
+Speaker 1: So actually a lot of our clothes fit each other.
+
+63
+00:05:08,351 --> 00:05:16,378
+Speaker 1: Anyway Anyway, so in some news there is actually some fantastic actual good.
+
+64
+00:05:17,280 --> 00:05:21,928
+Speaker 1: Legitimately like this will help Millions of people in a profound way.
+
+65
+00:05:21,988 --> 00:05:51,194
+Speaker 1: news New York State is now the seventh state in the United States To pass a law that basically if you committed a crime But that crime wasn't murder or rape or something like extremely violent uh After three years or seven or eight years depending on the nature of the crime If you have not committed another crime in that period the record will be sealed Meaning you do not have to tell employers you had that felony.
+
+66
+00:05:51,294 --> 00:05:53,944
+Speaker 1: like you can basically Get away.
+
+67
+00:05:53,964 --> 00:05:54,927
+Speaker 0: There's a background.
+
+68
+00:05:54,987 --> 00:05:56,352
+Speaker 0: What if someone does a background check?
+
+69
+00:05:56,372 --> 00:05:58,760
+Speaker 0: Well, they find out that you were a crimed or not.
+
+70
+00:05:58,921 --> 00:06:01,034
+Speaker 1: I did not read all the details yet.
+
+71
+00:06:01,155 --> 00:06:02,000
+Speaker 1: It's called the clean.
+
+72
+00:06:02,121 --> 00:06:03,288
+Speaker 0: That's the part that I was convinced.
+
+73
+00:06:03,308 --> 00:06:05,080
+Speaker 0: That's the part that I was confused on right?
+
+74
+00:06:05,120 --> 00:06:12,540
+Speaker 0: It's like when you're filling out a job application Yeah, you can just say and it says on the questionnaire are have you been convicted of a felony?
+
+75
+00:06:12,940 --> 00:06:14,895
+Speaker 0: You can say no because the felony was.
+
+76
+00:06:15,298 --> 00:06:22,883
+Speaker 0: you know I got so long ago and I that is still important because very few companies actually do real background checks like oh, yeah But there are.
+
+77
+00:06:22,983 --> 00:06:25,173
+Speaker 0: but like let's say you want to work in certain jobs.
+
+78
+00:06:25,254 --> 00:06:28,683
+Speaker 0: I always do background check Background check.
+
+79
+00:06:28,823 --> 00:06:31,029
+Speaker 1: I had to go through for the place.
+
+80
+00:06:31,130 --> 00:06:40,710
+Speaker 1: I work now was dwarfed only by the second background check I had to go to when I took over the Swift Payments platform at this company, right?
+
+81
+00:06:41,051 --> 00:06:42,756
+Speaker 0: So that's one factor that I'm not.
+
+82
+00:06:42,817 --> 00:06:43,780
+Speaker 0: I just don't know the answer.
+
+83
+00:06:43,840 --> 00:06:48,302
+Speaker 0: It might be that no the background check won't find anything because right Or like.
+
+84
+00:06:48,423 --> 00:06:54,003
+Speaker 0: it could be that there's some law the background check company can't say because the law I don't know I don't know.
+
+85
+00:06:54,083 --> 00:06:54,625
+Speaker 0: I just don't know.
+
+86
+00:06:54,766 --> 00:06:55,530
+Speaker 1: I think it's different.
+
+87
+00:06:55,670 --> 00:06:57,338
+Speaker 1: it might be different in different states.
+
+88
+00:06:57,378 --> 00:07:00,860
+Speaker 1: in context I know that there are some kinds of special background checks.
+
+89
+00:07:01,041 --> 00:07:05,680
+Speaker 1: I bet certain government background checks will still flag like yeah, there's something.
+
+90
+00:07:05,680 --> 00:07:05,769
+Speaker 0: Yeah.
+
+91
+00:07:05,880 --> 00:07:11,718
+Speaker 0: The other thing I wasn't too sure on right is like what level of a crime do you need to do in?
+
+92
+00:07:12,561 --> 00:07:17,509
+Speaker 0: Order to like, you know, cuz it's like if you crime again, let's say I kill someone I feel like someone doesn't count.
+
+93
+00:07:17,549 --> 00:07:19,000
+Speaker 0: Let's say I rob a convenience store.
+
+94
+00:07:19,127 --> 00:07:26,908
+Speaker 0: Yeah and I go to I go and I serve time and then three years pass and I try to apply for a job and they Say have you robbed a convenience store?
+
+95
+00:07:26,948 --> 00:07:28,274
+Speaker 0: and I say no, right?
+
+96
+00:07:28,655 --> 00:07:28,796
+Speaker 0: Now.
+
+97
+00:07:28,876 --> 00:07:35,873
+Speaker 0: What if on Like the whatever is 800th day like we're getting pretty close to the canceling time.
+
+98
+00:07:35,934 --> 00:07:38,630
+Speaker 0: I can't apply for a job yet I guess I could but I have to tell them.
+
+99
+00:07:38,691 --> 00:07:42,111
+Speaker 0: Yeah, and I speed in a car or I?
+
+100
+00:07:44,241 --> 00:07:49,382
+Speaker 1: Well speeding wouldn't so I'm sure but I'm not sure on the exact line I did.
+
+101
+00:07:49,623 --> 00:07:55,600
+Speaker 1: I'm pretty sure it has to be at least a misdemeanor and up and very few traffic violations are on the level of misdemeanor.
+
+102
+00:07:56,481 --> 00:07:58,268
+Speaker 0: Yeah, what it you know, it's like what it's like.
+
+103
+00:07:58,308 --> 00:08:01,399
+Speaker 0: what if it's like what level of thing can I can I do?
+
+104
+00:08:02,100 --> 00:08:07,750
+Speaker 0: to like avoid, you know, I Smoked weed in the park right and the cop actually does.
+
+105
+00:08:07,790 --> 00:08:10,820
+Speaker 1: that is a civil infraction same as smoking cigarettes in the park.
+
+106
+00:08:10,840 --> 00:08:13,282
+Speaker 1: It's the same ticket actually Okay.
+
+107
+00:08:13,382 --> 00:08:18,559
+Speaker 0: Well, I mean, yeah, but yeah, it's just like what I don't know exactly what level of thing you can still do.
+
+108
+00:08:19,270 --> 00:08:29,153
+Speaker 0: right because While it's pretty I guess in my opinion easy to not felon if you're not a felon, you know It's pretty easy to not miss demean to the like.
+
+109
+00:08:29,594 --> 00:08:31,040
+Speaker 0: I mean, yeah, I haven't missed a mean.
+
+110
+00:08:32,083 --> 00:08:32,851
+Speaker 1: So here's an example.
+
+111
+00:08:33,092 --> 00:08:44,819
+Speaker 0: I could Take my car, but the thing is it's easy to not miss demean when you're not say an unfortunate Not white person living in a sad place where cops are out looking for you all the time.
+
+112
+00:08:44,839 --> 00:08:46,689
+Speaker 0: true Who know who you are?
+
+113
+00:08:46,789 --> 00:08:50,344
+Speaker 0: because you're already on their radar Etc, etc.
+
+114
+00:08:50,364 --> 00:08:54,638
+Speaker 0: All right, you know, you got to be even more careful in that situation.
+
+115
+00:08:54,718 --> 00:09:02,099
+Speaker 0: It's like It's like yeah really easy to not get hit by spikes when your beds not made of spikes You know.
+
+116
+00:09:02,341 --> 00:09:02,782
+Speaker 1: But there is.
+
+117
+00:09:02,822 --> 00:09:09,100
+Speaker 1: there is a big gulf between the highest like civil or ticketable offense and the lowest misdemeanor.
+
+118
+00:09:09,502 --> 00:09:11,409
+Speaker 1: So there is at least that gap you have to.
+
+119
+00:09:11,731 --> 00:09:14,020
+Speaker 1: you have to jump a little bit or be extra unlucky.
+
+120
+00:09:14,901 --> 00:09:19,338
+Speaker 0: Yeah, you know except the crooked cop who hates you and knows you and in frames you yeah, etc.
+
+121
+00:09:20,261 --> 00:09:22,088
+Speaker 1: I mean crooked cop is gonna be a problem.
+
+122
+00:09:22,128 --> 00:09:24,497
+Speaker 1: No matter what laws we pass until we get rid of crooked cops.
+
+123
+00:09:25,039 --> 00:09:30,496
+Speaker 0: Yeah Now keep in mind though this law also I guess would protect a crooked cop.
+
+124
+00:09:30,516 --> 00:09:35,795
+Speaker 1: Ooh Yeah, yeah, they would though most crooked cops.
+
+125
+00:09:36,157 --> 00:09:40,979
+Speaker 1: if they do go down It's it's one of those felony violent things and it's not gonna get expunged.
+
+126
+00:09:41,401 --> 00:09:55,395
+Speaker 0: It could be yeah, but I think that I would like to see an exception not just for murders and rapes civil service Exactly if you committed a crime as you know in a corruption crime or whatever.
+
+127
+00:09:55,415 --> 00:09:59,770
+Speaker 0: It's like I don't think that you know Against, you know the public good.
+
+128
+00:09:59,830 --> 00:10:02,661
+Speaker 0: I don't think that should be at least, you know I don't.
+
+129
+00:10:02,943 --> 00:10:07,080
+Speaker 0: I think that you should be able to serve your time and you know get back into society.
+
+130
+00:10:07,120 --> 00:10:13,469
+Speaker 1: But I do think but if you should have to tell your future employer You have actually committed a crime against the public good.
+
+131
+00:10:13,529 --> 00:10:15,897
+Speaker 1: You cannot ever be employed for the public again.
+
+132
+00:10:16,199 --> 00:10:16,580
+Speaker 0: Just full.
+
+133
+00:10:16,641 --> 00:10:25,682
+Speaker 1: Oh, yes that that of course Had that if you fucked around they might not kill you, but you can't be like a senator again Exactly.
+
+134
+00:10:25,843 --> 00:10:26,686
+Speaker 0: That's what I'm saying.
+
+135
+00:10:27,068 --> 00:10:33,060
+Speaker 1: But this is this is a huge step forward Especially considering that it's a pretty broad program.
+
+136
+00:10:33,160 --> 00:10:38,700
+Speaker 1: They said it will apply immediately to more than 2 million criminal records like just at the start.
+
+137
+00:10:39,282 --> 00:10:50,246
+Speaker 0: So yep, so there's 2 million people who yesterday or a week ago I guess would have had to apply for a job and being like yeah, I was a felon a long time ago You're not gonna hire me.
+
+138
+00:10:50,326 --> 00:10:51,651
+Speaker 0: Are you god damn it, right?
+
+139
+00:10:51,691 --> 00:10:53,939
+Speaker 0: And now those people can go hire me.
+
+140
+00:10:54,139 --> 00:11:06,220
+Speaker 1: Nope I never done nothing, you know It's funny in the old days because I feel like the only jobs that actually do this kind of background check are The really high up jobs and the really low down awful job.
+
+141
+00:11:06,220 --> 00:11:07,203
+Speaker 0: No, there's one.
+
+142
+00:11:07,223 --> 00:11:15,340
+Speaker 0: there's another category the kind of job where it might not be a high or low job But you are working with something sensitive stuff.
+
+143
+00:11:15,400 --> 00:11:20,988
+Speaker 0: It could be children it could be Especially, you know medical.
+
+144
+00:11:21,108 --> 00:11:22,152
+Speaker 0: they don't want you messing around with.
+
+145
+00:11:22,313 --> 00:11:23,940
+Speaker 0: you know, you're in a pharmacy, right?
+
+146
+00:11:24,080 --> 00:11:31,828
+Speaker 0: You might steal all the drugs, you know, you're dealing with some sensitive thing where you could you know Take advantage of your job and cause.
+
+147
+00:11:32,149 --> 00:11:39,040
+Speaker 0: your job gives you an opportunity to cause Great greater than normal harms by accident or on purpose.
+
+148
+00:11:39,080 --> 00:11:44,840
+Speaker 0: You have to operate a crane or some dangerous machinery and that gives you the potential to like smash buildings, right?
+
+149
+00:11:44,980 --> 00:11:48,866
+Speaker 0: We want to know you're not Checks for crane operators.
+
+150
+00:11:49,087 --> 00:12:00,272
+Speaker 1: I hope they would feel like they don't because I but I feel like I suspect Nobody who has caused a crane problem Uh Has like caused other crane problems.
+
+151
+00:12:00,312 --> 00:12:03,043
+Speaker 1: like they don't go around smashing cranes around I feel like they might have come.
+
+152
+00:12:03,083 --> 00:12:09,774
+Speaker 0: I've never seen I've never seen a story where somebody with like a mega tower crane Does it on purpose?
+
+153
+00:12:10,076 --> 00:12:12,056
+Speaker 0: Yeah It's all you know.
+
+154
+00:12:14,182 --> 00:12:17,576
+Speaker 1: In half-life 1 I fucked a bunch of people up with that crane.
+
+155
+00:12:17,596 --> 00:12:29,212
+Speaker 0: Oh, yeah I Caught around and tried to fuck up as much as possible with that crane before I moved on cuz like if you operated like A skyscraper building tower crane and you wanted to hurt people on purpose.
+
+156
+00:12:29,654 --> 00:12:29,894
+Speaker 0: Whoo.
+
+157
+00:12:30,095 --> 00:12:30,717
+Speaker 0: That's scary.
+
+158
+00:12:30,817 --> 00:12:32,242
+Speaker 1: Yeah, of course That's real.
+
+159
+00:12:32,303 --> 00:12:34,713
+Speaker 1: Why you could say the same thing about any large vehicle.
+
+160
+00:12:34,733 --> 00:12:39,247
+Speaker 0: I Mean any of the military people were doing training.
+
+161
+00:12:39,388 --> 00:12:44,040
+Speaker 0: It's like, you know, yeah just flying this jet around with bombs and shit.
+
+162
+00:12:44,803 --> 00:12:45,808
+Speaker 0: Only I'm a good person.
+
+163
+00:12:45,848 --> 00:12:47,495
+Speaker 0: So I'm not gonna drop them on.
+
+164
+00:12:47,756 --> 00:12:48,620
+Speaker 1: Oh, so do you know?
+
+165
+00:12:49,557 --> 00:12:54,097
+Speaker 1: that Happened once and it was like a whole lot Thunderball.
+
+166
+00:12:54,257 --> 00:12:57,488
+Speaker 0: It's the No, there's no James Bond movie.
+
+167
+00:12:57,508 --> 00:12:57,970
+Speaker 0: That was so good.
+
+168
+00:12:57,990 --> 00:12:58,693
+Speaker 0: They made it twice.
+
+169
+00:12:59,114 --> 00:13:03,632
+Speaker 1: So there was a very Kind of terrifying incident in the 90s.
+
+170
+00:13:03,672 --> 00:13:05,720
+Speaker 1: This was like 1997 when we were in high school.
+
+171
+00:13:07,061 --> 00:13:13,400
+Speaker 1: At a at a base somewhere a pilot pilot pilot flying a fully loaded a 10 warthog on a training mission.
+
+172
+00:13:13,440 --> 00:13:19,539
+Speaker 1: Uh, just fucked off from the target ground and flew off toward a city and they lost track of him.
+
+173
+00:13:20,862 --> 00:13:22,732
+Speaker 1: No, and there nobody knew what he was gonna do.
+
+174
+00:13:22,792 --> 00:13:25,056
+Speaker 1: right up and we're like, yeah Nobody knew what he was gonna do.
+
+175
+00:13:25,400 --> 00:13:26,746
+Speaker 1: there was a big fear.
+
+176
+00:13:26,786 --> 00:13:32,508
+Speaker 1: this dude was about to like bomb the shit out of some people and You know, thankfully it ended up.
+
+177
+00:13:32,709 --> 00:13:35,360
+Speaker 1: He just crashed it after off in the distance alone.
+
+178
+00:13:35,641 --> 00:13:40,156
+Speaker 1: But that could have gone to real bad on purpose or backs it on purpose.
+
+179
+00:13:41,140 --> 00:13:42,726
+Speaker 0: Oh He crashed on purpose it was.
+
+180
+00:13:42,987 --> 00:13:46,020
+Speaker 1: it was effectively a long suicide.
+
+181
+00:13:47,101 --> 00:13:49,293
+Speaker 0: Okay, they're pretty sure but they're not a hundred percent.
+
+182
+00:13:49,333 --> 00:13:50,560
+Speaker 0: He wasn't trying to hurt other people.
+
+183
+00:13:50,601 --> 00:13:51,859
+Speaker 1: No, he didn't hurt anyone but himself.
+
+184
+00:13:52,141 --> 00:13:55,120
+Speaker 0: He flew it off and the taxpayers who paid for the and crashed it.
+
+185
+00:13:55,381 --> 00:14:06,021
+Speaker 1: the only debate that remains other than exactly why he did it because he can't ask him is They're not sure whether or not he shot all the weapons first and then crashed it or if he crashed it and then the weapons blew up Hmm.
+
+186
+00:14:06,764 --> 00:14:09,876
+Speaker 1: Well just a weird story that I remember from high school.
+
+187
+00:14:09,896 --> 00:14:11,020
+Speaker 0: It wasn't where anyone was living.
+
+188
+00:14:11,102 --> 00:14:13,737
+Speaker 1: Yep So you got some news?
+
+189
+00:14:15,801 --> 00:14:23,100
+Speaker 0: Yeah, so this is sort of you know, it's a Monday news But it's such a. it's such a wild news that you no one would ever think this would have happened.
+
+190
+00:14:24,341 --> 00:14:25,344
+Speaker 0: I was shot to discuss.
+
+191
+00:14:25,685 --> 00:14:40,364
+Speaker 0: Yeah, so if you don't know right text messages use a system called SMS and It was used to be like basically really awful that like phone companies would charge for SMS because it basically cost them nothing to operate Kids.
+
+192
+00:14:40,424 --> 00:14:40,945
+Speaker 1: did you know?
+
+193
+00:14:40,966 --> 00:14:56,140
+Speaker 0: there was a time when depending on what phone number you dialed from what other phone number you got charged different per minute rates to keep that anyway, so the SMS is what does text messages and SMS can only handle like, you know, it's not the greatest.
+
+194
+00:14:56,260 --> 00:15:02,740
+Speaker 0: It can only send like some text letters and you know, you can use MMS like with some phones to add.
+
+195
+00:15:02,901 --> 00:15:07,719
+Speaker 0: You know images maybe but that's you know, it really you can't do very much with SMS.
+
+196
+00:15:08,100 --> 00:15:10,928
+Speaker 0: It's extremely limited text messaging service.
+
+197
+00:15:10,948 --> 00:15:18,248
+Speaker 1: Well, cuz it was basically a system that was itself just piggybacking on like Unused metadata channels on the.
+
+198
+00:15:18,369 --> 00:15:18,911
+Speaker 0: I'm saying it was.
+
+199
+00:15:19,212 --> 00:15:23,948
+Speaker 0: it was designed for people who were using, you know Like, you know Nokia phones that didn't even have.
+
+200
+00:15:24,249 --> 00:15:27,559
+Speaker 0: you know keyboards or touchscreens for using like t9, right?
+
+201
+00:15:28,880 --> 00:15:34,460
+Speaker 0: So anyway, that's still the system that current phones smartphones are using to do text messages.
+
+202
+00:15:34,741 --> 00:15:37,910
+Speaker 0: So Apple decided to solve that problem by making iMessage.
+
+203
+00:15:37,950 --> 00:15:39,494
+Speaker 0: and the way they have iMessage is.
+
+204
+00:15:39,935 --> 00:15:45,240
+Speaker 0: iMessage is like a standalone Messaging system that has you know, you don't need to use it with a phone at all.
+
+205
+00:15:45,280 --> 00:15:55,273
+Speaker 0: Like if you just have a Mac or an iPad and you have Wi-Fi you could do iMessage with people just like you could do AOL Instant Messenger or Google Chat or WeChat.
+
+206
+00:15:55,434 --> 00:16:00,314
+Speaker 0: or it's just a you know a normal internet chat service with actually lots of features.
+
+207
+00:16:00,374 --> 00:16:14,240
+Speaker 0: its end-to-end encrypted and It has a fancy like clever way of backing up to iCloud and you know That may or may not be encrypted and you can send stickers and emojis and reactions and all voice messages.
+
+208
+00:16:14,280 --> 00:16:15,846
+Speaker 0: It's it's fully featured.
+
+209
+00:16:15,866 --> 00:16:18,417
+Speaker 0: It may be one if not the.
+
+210
+00:16:18,497 --> 00:16:25,578
+Speaker 0: it's one of the best Message, you know DM systems at least it's not you know, it does FaceTime with the group videos and every.
+
+211
+00:16:25,819 --> 00:16:26,280
+Speaker 0: it's fancy.
+
+212
+00:16:26,441 --> 00:16:31,900
+Speaker 1: But if even one person you're talking to in a group Right, so on an iPhone.
+
+213
+00:16:33,181 --> 00:16:38,200
+Speaker 0: If you text someone right using SMS, but they have an iPhone also.
+
+214
+00:16:38,441 --> 00:16:40,228
+Speaker 0: It's very clever and it says aha.
+
+215
+00:16:40,609 --> 00:16:43,200
+Speaker 0: I see you both have iPhones and you're trying to use SMS.
+
+216
+00:16:43,661 --> 00:16:46,170
+Speaker 0: Let's use iMessage instead and it just does right.
+
+217
+00:16:46,631 --> 00:16:51,952
+Speaker 0: and now that chat is an iMessage chat Even though you were trying to text them at their phone number.
+
+218
+00:16:51,972 --> 00:16:55,249
+Speaker 0: and it doesn't go over SMS It goes over iMessage instead.
+
+219
+00:16:55,611 --> 00:16:56,395
+Speaker 0: You don't really know.
+
+220
+00:16:56,415 --> 00:17:02,789
+Speaker 0: the only way you know The difference is all the text messages are blue and in that chat you can do all sorts of fancy iMessage things.
+
+221
+00:17:02,910 --> 00:17:09,199
+Speaker 0: and Even if you add a ton of people to the chat as long as they all have Apple devices, it's still gonna work, right?
+
+222
+00:17:10,540 --> 00:17:19,652
+Speaker 0: So let's say you invite you add to the group chat or you text someone with an iPhone and they don't have an Apple device And you send them an SMS.
+
+223
+00:17:19,713 --> 00:17:23,267
+Speaker 0: Well it uses SMS which doesn't have a lot of features.
+
+224
+00:17:23,749 --> 00:17:25,596
+Speaker 0: and that's when you see the green bubbles, right.
+
+225
+00:17:26,159 --> 00:17:30,715
+Speaker 0: and so Android people using Android phones when they chat with each other, right?
+
+226
+00:17:31,036 --> 00:17:40,047
+Speaker 0: They could use SMS I guess if they wanted to but they actually use this newer more up-to-date system called RCS, right, which is an open standard.
+
+227
+00:17:40,229 --> 00:17:44,247
+Speaker 0: anyone who wanted to Can make a phone that talks RCS.
+
+228
+00:17:44,328 --> 00:17:48,159
+Speaker 0: Yep, and it's basically just SMS but way better with a lot more features.
+
+229
+00:17:48,439 --> 00:17:53,419
+Speaker 1: now We always assumed and like Apple wouldn't give a shit about this because they have their own better thing.
+
+230
+00:17:54,322 --> 00:18:00,440
+Speaker 0: Right, so Android people when they chat with each other are using RCS and it's kind of a similarly fancy chat.
+
+231
+00:18:00,541 --> 00:18:05,145
+Speaker 0: not maybe not quite as fancy as iMessage, but Modernly fancy, right?
+
+232
+00:18:05,426 --> 00:18:11,824
+Speaker 0: But if you cross the streams you're basically downgrading to the lowest common denominator which is SMS.
+
+233
+00:18:12,246 --> 00:18:14,074
+Speaker 0: really basic chat, that's sad.
+
+234
+00:18:14,758 --> 00:18:22,084
+Speaker 0: and so Today Apple announced no one thought this would ever happen that they're going to support RCS Sometime.
+
+235
+00:18:22,104 --> 00:18:24,840
+Speaker 1: the first two the first line of this article is great.
+
+236
+00:18:24,840 --> 00:18:25,642
+Speaker 1: I'm just gonna quote it.
+
+237
+00:18:26,104 --> 00:18:31,860
+Speaker 1: Apple is shocking the world today by adopting the RCS messaging standard for iMessage.
+
+238
+00:18:32,801 --> 00:18:38,120
+Speaker 0: Yep, this is partly because of pressure from the EU which has been putting a lot of pressure on Apple.
+
+239
+00:18:38,140 --> 00:18:45,052
+Speaker 1: I gotta say 10% of the time the EU Oversteps into weird regulation like France being weird about cell phone.
+
+240
+00:18:45,293 --> 00:18:47,740
+Speaker 1: quote radiation again, even though there's no evidence.
+
+241
+00:18:48,021 --> 00:18:48,584
+Speaker 1: That's a thing.
+
+242
+00:18:49,207 --> 00:18:51,800
+Speaker 1: there's some yeah, but not the thing they're talking about.
+
+243
+00:18:52,961 --> 00:18:56,756
+Speaker 1: Anyway, there's almost none actually and most of the evidence is for phones that don't exist anymore.
+
+244
+00:18:57,117 --> 00:19:00,491
+Speaker 0: a lot of the studies I saw that we're saying, you know, it's one of those things where it's like.
+
+245
+00:19:00,511 --> 00:19:06,008
+Speaker 0: I don't really know 100% what to believe yet but I was bothered by the fact that this they were.
+
+246
+00:19:06,048 --> 00:19:15,100
+Speaker 0: I looked at the studies that said there is a problem and the ones that said there Isn't and the one that said there isn't were mostly from conflict of interested parties like phone manufacturers.
+
+247
+00:19:15,261 --> 00:19:15,461
+Speaker 1: There's
+
+248
+00:19:15,582 --> 00:19:20,558
+Speaker 0: lots of medical ones that said there were a problem tended to be from academics and I was like, hmm
+
+249
+00:19:21,180 --> 00:19:31,990
+Speaker 1: But a lot of ones that are more focused from a physics standpoint Seem to make the point that the evidence doesn't show it partly because there's no Understandable mechanism of how it could cause a problem.
+
+250
+00:19:32,291 --> 00:19:42,920
+Speaker 1: Well, regardless the actual topic at hand Yeah, 90% of the time gonna sue is pushing good regulations that are forcing the US and global companies to catch up to modern best practices.
+
+251
+00:19:43,963 --> 00:19:45,799
+Speaker 0: Anyway, so they're gonna support RCS.
+
+252
+00:19:46,120 --> 00:19:58,220
+Speaker 0: we don't know for sure exactly what this is going to look like but what I'm going to guess is going to happen is that You're still going to have on iPhones the blue bubbles and the green bubbles, right?
+
+253
+00:19:58,440 --> 00:20:02,551
+Speaker 0: Because obviously the Android people aren't gonna start talking and I message.
+
+254
+00:20:02,571 --> 00:20:10,520
+Speaker 0: Yeah, right and sending memo G's and facetimes But what will happen I guess is that the green bubble mode?
+
+255
+00:20:11,622 --> 00:20:19,456
+Speaker 0: Will be significantly upgraded to be on par with basically What an Android people have when they chat with each other, right?
+
+256
+00:20:19,938 --> 00:20:22,626
+Speaker 0: So You're still it's like.
+
+257
+00:20:22,646 --> 00:20:34,000
+Speaker 0: so will iPhone people still be mad and want to not talk chat you know not add an Android person to the group chat or Will it be good enough that they'll be like, okay green bubbles aren't actually so bad.
+
+258
+00:20:34,423 --> 00:20:36,659
+Speaker 0: We'll let you in the group chat with your Android phone.
+
+259
+00:20:37,327 --> 00:20:46,740
+Speaker 0: But I Message is still different and better because really people are mostly using stickers and reactions and voice chats And I don't know how many of those things RCS support.
+
+260
+00:20:51,043 --> 00:20:55,060
+Speaker 1: And like I don't really use SMS except talking to individual old people.
+
+261
+00:20:55,802 --> 00:20:58,590
+Speaker 0: Yeah, I don't think people care about them emojis that my.
+
+262
+00:20:58,931 --> 00:20:59,492
+Speaker 1: I do this.
+
+263
+00:20:59,532 --> 00:21:07,680
+Speaker 1: She will still have a big weird issue about it, but it's I'm gonna say this charitably basic people who are being weird and classist about their iPhones.
+
+264
+00:21:08,463 --> 00:21:08,825
+Speaker 0: I don't know.
+
+265
+00:21:09,408 --> 00:21:12,080
+Speaker 0: But anyway, it's still a good thing that you know.
+
+266
+00:21:12,180 --> 00:21:18,660
+Speaker 0: The closed walled garden people are adapting a you know, open protocol interoperability, etc.
+
+267
+00:21:18,861 --> 00:21:20,520
+Speaker 0: There is a positive development.
+
+268
+00:21:21,903 --> 00:21:23,169
+Speaker 0: You know at the very least right.
+
+269
+00:21:23,230 --> 00:21:33,226
+Speaker 0: regardless of what it means for the iPhone people It means for the Android people that when they chat with an iPhone person They're not Limited to just SMS.
+
+270
+00:21:33,266 --> 00:21:39,187
+Speaker 0: they can use all the things that they're used to in the Android mess And they won't know.
+
+271
+00:21:39,228 --> 00:21:40,572
+Speaker 0: they won't know the difference right?
+
+272
+00:21:41,033 --> 00:21:42,940
+Speaker 0: It's only the iPhone people will notice a difference.
+
+273
+00:21:45,200 --> 00:21:48,557
+Speaker 1: What anyway things of the day.
+
+274
+00:21:48,678 --> 00:21:52,471
+Speaker 1: so I What I appreciate about my thing of the day this video.
+
+275
+00:21:52,792 --> 00:22:03,225
+Speaker 1: It's called the insane engineering of the f-16 So the fighter jet, but it doesn't really focus on or even really talk about at all the military weapons fighting.
+
+276
+00:22:03,365 --> 00:22:14,239
+Speaker 1: like aspects of the f-16 it is a pure exploration of the physics and the aviation of this amazing machine that can take a human into the sky and fly around.
+
+277
+00:22:14,259 --> 00:22:18,492
+Speaker 1: and Like how utterly nuts it is that the f-16 even exists.
+
+278
+00:22:19,095 --> 00:22:30,942
+Speaker 1: It's also a nice Baby's first introduction to the concept of energy maneuverability theory, which is basically the underpinning of all modern Energetic aviation shall we say.
+
+279
+00:22:31,423 --> 00:22:40,939
+Speaker 1: but the video is just a really detailed explanation of how This tiny little thing can fly around the way it does and what?
+
+280
+00:22:41,580 --> 00:22:55,060
+Speaker 1: massive advancements in the understanding of physics the understanding of flight and the understanding of how humans interact with the user experience of Piloting things like the f-16 was one of the most revolutionary jets to have ever been developed on earth.
+
+281
+00:22:56,820 --> 00:22:59,082
+Speaker 1: hmm That's it.
+
+282
+00:22:59,142 --> 00:22:59,624
+Speaker 1: It's pretty cool.
+
+283
+00:22:59,664 --> 00:23:00,828
+Speaker 1: I've been into fighter jets lately.
+
+284
+00:23:01,450 --> 00:23:11,636
+Speaker 0: Yeah, I mean, oh so the Everybody even if you're not a super computery person, you know about you know, different image files, right JPEGs.
+
+285
+00:23:11,897 --> 00:23:28,160
+Speaker 0: Yeah gifts gifts pings bumps evifs web rise Yeah, all these different ways and it you know It's kind of annoying I guess for the average person for there to be so many image formats in the world.
+
+286
+00:23:28,280 --> 00:23:32,134
+Speaker 0: But there is a good reason for that because they do serve different purposes.
+
+287
+00:23:32,274 --> 00:23:35,386
+Speaker 1: a lot of them are obsolete Effect it's true.
+
+288
+00:23:35,707 --> 00:23:36,611
+Speaker 1: But yes, they're usable.
+
+289
+00:23:36,671 --> 00:23:37,093
+Speaker 1: It's funny.
+
+290
+00:23:37,113 --> 00:23:46,891
+Speaker 1: There was in the old and oldest days There are a million million formats partly because computers weren't that good yet and like they had to be hyper-specific to a particular use case.
+
+291
+00:23:47,213 --> 00:23:51,765
+Speaker 1: and then there was the error where there's basically just bitmaps.
+
+292
+00:23:51,785 --> 00:23:54,719
+Speaker 1: JPEGs Like PNGs didn't really even exist.
+
+293
+00:23:54,759 --> 00:23:56,912
+Speaker 1: yet There weren't that many file farmers most people knew about.
+
+294
+00:23:57,334 --> 00:23:58,179
+Speaker 1: and then there's a lot again.
+
+295
+00:23:59,082 --> 00:24:09,560
+Speaker 0: Yeah, anyway, so if you have image programs on your computer, even if it's not Photoshop if it's the gimp or anything else Right, they can usually handle lots and lots of different image formats.
+
+296
+00:24:09,701 --> 00:24:19,840
+Speaker 0: Like there's a very large number of open image formats that basically all Software that displays and edits images can handle and it's not really a problem for most people.
+
+297
+00:24:19,941 --> 00:24:23,160
+Speaker 0: But what if you have like rim said an ancient computer?
+
+298
+00:24:23,220 --> 00:24:28,762
+Speaker 0: We're not talking like an old DOS computer that we're talking like a Commodore 128.
+
+299
+00:24:28,762 --> 00:24:34,680
+Speaker 0: Yeah, an Apple to an Amiga something, you know, you have Mac paint on your your Mac Plus like I have in the corner over there.
+
+300
+00:24:34,780 --> 00:24:40,380
+Speaker 0: It's like you can draw images and save them in Mac paint on a Mac Plus just like I have.
+
+301
+00:24:40,420 --> 00:24:40,963
+Speaker 1: Yeah that's not.
+
+302
+00:24:41,044 --> 00:24:51,391
+Speaker 0: I'm putting a JPEG and cannot do a JPEG or a bump or a gif or pretty much any kind of file that any kind of Photoshop or anything can read at all.
+
+303
+00:24:51,431 --> 00:24:52,477
+Speaker 1: It's those files.
+
+304
+00:24:52,798 --> 00:24:56,180
+Speaker 1: stay Like advanced new computer image formats.
+
+305
+00:24:56,762 --> 00:25:03,640
+Speaker 0: Yeah, those files can be read by a Mac with Mac paint or an emulator running Mac paint.
+
+306
+00:25:03,822 --> 00:25:05,579
+Speaker 0: It's like there is that's it.
+
+307
+00:25:05,660 --> 00:25:31,065
+Speaker 0: However here my thing of the day there is a there is a library recoil the retro computer image library Which if you use this software you can on your modern normal computer with normal operating system handle Interpret display Etc a vast vast number of truly ancient Image form.
+
+308
+00:25:31,105 --> 00:25:34,180
+Speaker 1: I have heard of maybe 1% of these as I'm looking through the list.
+
+309
+00:25:34,280 --> 00:25:37,146
+Speaker 0: Yeah It's like even like image for they got it.
+
+310
+00:25:37,467 --> 00:25:39,512
+Speaker 0: can they handle a PlayStation image format?
+
+311
+00:25:39,572 --> 00:25:54,213
+Speaker 0: plenty of old Japanese computers Commodore computers to various old apples Amiga ZX spectrums all the image formats used or a lot of them by These old ancient computers and the software that ran on them.
+
+312
+00:25:54,213 --> 00:25:55,898
+Speaker 0: 108 different Commodore 64 image formats.
+
+313
+00:25:58,402 --> 00:25:59,989
+Speaker 0: For I guess there's 108 different Commodore 64 image editors.
+
+314
+00:26:02,781 --> 00:26:03,303
+Speaker 0: I don't know.
+
+315
+00:26:03,464 --> 00:26:15,211
+Speaker 1: Hey if you got a TRS 80 and you saved a clip file, which has a resolution a monochromatic resolution of 40 by 56 Yeah, and you want to read that file because it's still just a file.
+
+316
+00:26:15,271 --> 00:26:15,793
+Speaker 0: It's just bits.
+
+317
+00:26:15,833 --> 00:26:18,360
+Speaker 0: you can get it onto a modern file system.
+
+318
+00:26:18,644 --> 00:26:19,718
+Speaker 0: It's not that hard to do.
+
+319
+00:26:21,324 --> 00:26:22,428
+Speaker 0: How would you open it though?
+
+320
+00:26:22,448 --> 00:26:23,471
+Speaker 0: Here you go.
+
+321
+00:26:23,491 --> 00:26:24,895
+Speaker 0: You can open all those files.
+
+322
+00:26:24,935 --> 00:26:25,838
+Speaker 0: That's pretty awesome.
+
+323
+00:26:25,978 --> 00:26:26,600
+Speaker 1: This is real cool.
+
+324
+00:26:26,821 --> 00:26:34,166
+Speaker 1: So anyway, yeah in the meta moment the geek nuts book club book the collected murder about Diaries the most recent murder Bot just came out.
+
+325
+00:26:34,388 --> 00:26:35,858
+Speaker 1: I'm about a third of the way through it.
+
+326
+00:26:36,502 --> 00:26:37,125
+Speaker 0: It's oh you.
+
+327
+00:26:37,165 --> 00:26:39,860
+Speaker 0: finally you finally passed me because I didn't start reading it.
+
+328
+00:26:40,241 --> 00:26:41,183
+Speaker 0: I read page one.
+
+329
+00:26:41,424 --> 00:26:47,380
+Speaker 1: it picks up right where the fourth for the fifth book leaves off like literally the bit the big one.
+
+330
+00:26:47,522 --> 00:26:48,192
+Speaker 1: Yeah, the big one.
+
+331
+00:26:48,253 --> 00:26:50,897
+Speaker 1: It's like Yeah weeks after that.
+
+332
+00:26:51,661 --> 00:26:53,928
+Speaker 0: Yeah, that's what I assume was gonna happen.
+
+333
+00:26:53,968 --> 00:26:57,379
+Speaker 0: cuz book six spoilers was a side story that didn't matter.
+
+334
+00:26:57,399 --> 00:26:59,260
+Speaker 1: Yeah It was a good story.
+
+335
+00:26:59,461 --> 00:26:59,803
+Speaker 1: I like.
+
+336
+00:26:59,924 --> 00:27:00,346
+Speaker 1: I like it.
+
+337
+00:27:00,507 --> 00:27:01,654
+Speaker 1: was it basically a whodunit?
+
+338
+00:27:02,217 --> 00:27:06,251
+Speaker 1: and yeah I felt really stupid for not realizing who done it when the reveal happened.
+
+339
+00:27:06,271 --> 00:27:07,294
+Speaker 1: Hmm.
+
+340
+00:27:07,896 --> 00:27:13,389
+Speaker 1: Anyway, yeah So we'll give you a few weeks Maybe a month because we'll miss some shows.
+
+341
+00:27:13,410 --> 00:27:17,064
+Speaker 1: but in December we were gonna do the episode on the collected Murder about Diaries.
+
+342
+00:27:17,084 --> 00:27:19,752
+Speaker 1: if you listen to geek nights read the murder about Diaries.
+
+343
+00:27:19,792 --> 00:27:22,200
+Speaker 1: They ain't long like they're really quick reads.
+
+344
+00:27:23,282 --> 00:27:25,471
+Speaker 0: We're gonna talk and I all the other ones.
+
+345
+00:27:25,491 --> 00:27:27,440
+Speaker 0: they read from the library, but this one's so new.
+
+346
+00:27:27,521 --> 00:27:28,619
+Speaker 0: I got the the ebooks.
+
+347
+00:27:28,821 --> 00:27:30,406
+Speaker 0: I actually didn't look how long it is.
+
+348
+00:27:30,907 --> 00:27:33,175
+Speaker 1: and we will of course be at packs unplugged.
+
+349
+00:27:33,255 --> 00:27:40,021
+Speaker 1: on Friday 5 p.m learn and play whist hearts and wizard the old WHW.
+
+350
+00:27:40,383 --> 00:27:42,429
+Speaker 1: and then on Saturday 2 30 p.m.
+
+351
+00:27:42,469 --> 00:27:49,820
+Speaker 1: In the crab god mastering game mechanics worker placement I'm about halfway done making slides for that worker placement panel.
+
+352
+00:27:49,941 --> 00:27:52,090
+Speaker 0: I did I did the intro and I did whist.
+
+353
+00:27:52,130 --> 00:27:59,991
+Speaker 0: I just got to do hearts which is gonna be really quick Yeah, then I got to do wizard which will be a little bit less quick and then maybe add a couple slides of strategies And then we're good.
+
+354
+00:28:00,134 --> 00:28:06,853
+Speaker 0: Yeah then after packs Unplugged you should be aware that magfest is gonna happen.
+
+355
+00:28:06,994 --> 00:28:08,480
+Speaker 0: Yeah, I'll probably go into that.
+
+356
+00:28:09,481 --> 00:28:12,770
+Speaker 1: Panels, I have a hotel and theoretically mages is still happening.
+
+357
+00:28:12,810 --> 00:28:13,652
+Speaker 1: I had to email them again.
+
+358
+00:28:13,672 --> 00:28:21,500
+Speaker 0: But yeah, and then just today packs East badges went on sale and I'm going to PAX East.
+
+359
+00:28:23,222 --> 00:28:34,818
+Speaker 1: Yeah, so I had a brief Moment of panic though because I was about to go to bed last night and then you messaged me like oh, yeah I got an East hotel room and I thought I didn't submit any panels for East.
+
+360
+00:28:35,199 --> 00:28:35,904
+Speaker 1: wait When does he?
+
+361
+00:28:35,924 --> 00:28:37,474
+Speaker 1: when did what a panels happen for ease?
+
+362
+00:28:37,716 --> 00:28:38,380
+Speaker 1: I'm like, oh shit.
+
+363
+00:28:38,460 --> 00:28:42,636
+Speaker 1: So I go look and I go to the East website and I see panel submissions are closed.
+
+364
+00:28:42,897 --> 00:28:48,173
+Speaker 1: and for a moment I think have I for the first time since the year 2008 fuck this up.
+
+365
+00:28:48,594 --> 00:28:52,917
+Speaker 1: and then I realized no the paxi's website hasn't even Been updated for 2024 on that page.
+
+366
+00:28:52,977 --> 00:28:56,789
+Speaker 0: I'm good Yeah, they're putting the badges on sale like way early.
+
+367
+00:28:56,889 --> 00:28:57,010
+Speaker 0: Okay.
+
+368
+00:28:57,511 --> 00:28:59,997
+Speaker 1: Yeah, but paxi's we're gonna be there.
+
+369
+00:29:00,017 --> 00:29:00,960
+Speaker 1: probably enforce.
+
+370
+00:29:01,543 --> 00:29:02,850
+Speaker 1: I like enforcing paxi's.
+
+371
+00:29:03,272 --> 00:29:04,779
+Speaker 1: so uh, yeah, let's get into it.
+
+372
+00:29:05,681 --> 00:29:15,220
+Speaker 1: Full disclosure though just in case anyone worries that anything we say might sound Callous because we're gonna talk about this as if you know, it's a topic that some people might have experienced.
+
+373
+00:29:15,902 --> 00:29:17,065
+Speaker 1: I've never been laid off.
+
+374
+00:29:17,406 --> 00:29:19,972
+Speaker 1: I've never been fired every job I've ever had.
+
+375
+00:29:20,253 --> 00:29:20,895
+Speaker 1: I quit.
+
+376
+00:29:21,797 --> 00:29:24,345
+Speaker 1: I was semi One job I had.
+
+377
+00:29:24,385 --> 00:29:25,610
+Speaker 1: I did not quit cuz I'm still at it.
+
+378
+00:29:26,312 --> 00:29:28,059
+Speaker 0: I was semi laid off one time.
+
+379
+00:29:29,263 --> 00:29:33,574
+Speaker 0: so I was working at a place and It was a shady place.
+
+380
+00:29:33,615 --> 00:29:34,099
+Speaker 0: to begin with.
+
+381
+00:29:34,622 --> 00:29:38,864
+Speaker 0: It was basically the job I had before Broadway.com.
+
+382
+00:29:39,126 --> 00:29:41,317
+Speaker 1: I was about as shady as that hospital job I had.
+
+383
+00:29:41,357 --> 00:29:41,980
+Speaker 1: for different reasons.
+
+384
+00:29:42,080 --> 00:29:44,393
+Speaker 0: I feel like anyway, the company was bought.
+
+385
+00:29:44,554 --> 00:30:06,019
+Speaker 0: I could talk a lot about that but I'm just not going to because it's not relevant right now, but they the company was bought by another company and then shortly thereafter right the There was like a trip like a company trip to Puerto Rico for like team Doing shit, it was like, you know around this time of year right like early November ish, right?
+
+386
+00:30:07,162 --> 00:30:08,850
+Speaker 0: Or like was just after Thanksgiving.
+
+387
+00:30:08,891 --> 00:30:10,338
+Speaker 0: Maybe it was around this time of year.
+
+388
+00:30:10,398 --> 00:30:15,140
+Speaker 0: regardless I was like, I'm not going to some weird-ass team-building shit.
+
+389
+00:30:16,204 --> 00:30:23,300
+Speaker 0: That's like, you know Somehow the boss of the company that bought us had like some involvement and it seemed like some sort of inside deal.
+
+390
+00:30:23,721 --> 00:30:28,179
+Speaker 1: It seemed sketch anyway that it felt weird at the time when you described what was going down.
+
+391
+00:30:29,043 --> 00:30:31,034
+Speaker 0: Yeah, so I didn't go on that but everyone else did.
+
+392
+00:30:31,054 --> 00:30:32,179
+Speaker 0: those most other people did.
+
+393
+00:30:33,241 --> 00:30:38,620
+Speaker 0: They came back, you know, it didn't seem like anyone had a negative experience, but people weren't raving about it either.
+
+394
+00:30:38,721 --> 00:30:40,152
+Speaker 0: So I didn't feel like I missed anything.
+
+395
+00:30:40,172 --> 00:30:52,257
+Speaker 0: Yeah Regardless it came back and then they started laying people off at our little tiny one floor Company and not even a whole floor like a half a floor and the office started getting real quiet.
+
+396
+00:30:52,298 --> 00:30:53,020
+Speaker 0: and then people start.
+
+397
+00:30:53,040 --> 00:30:57,718
+Speaker 0: You know the the four founding people right some of them were leaving and you're getting.
+
+398
+00:30:57,839 --> 00:31:04,860
+Speaker 0: you know Whatever, you know, it was basically I was going to this office every day and it was getting emptier and emptier and lonelier and lonelier.
+
+399
+00:31:05,142 --> 00:31:20,716
+Speaker 0: it was like not hard and Somehow I was one of the last people still in there not laid off or anything Just going to this office Not entirely alone, but mostly and obviously I was looking for the next job already.
+
+400
+00:31:20,736 --> 00:31:21,600
+Speaker 0: I'm not an idiot.
+
+401
+00:31:25,202 --> 00:31:33,654
+Speaker 0: I Was already deep into the job hunting for a while, right But I was just going through the motions of going there to collect money.
+
+402
+00:31:33,976 --> 00:31:39,193
+Speaker 0: It wasn't any work to do And they created some sort of like.
+
+403
+00:31:39,233 --> 00:31:48,697
+Speaker 0: they came over to me and they're like, hey You know, you should Come in earlier and I'm like bro, you know that I'm like taking the train from upstate.
+
+404
+00:31:48,737 --> 00:31:49,620
+Speaker 0: This is when I get here.
+
+405
+00:31:50,382 --> 00:31:58,530
+Speaker 0: That's how it's gonna be and I think they did know that right but they were creating some sort of excuse To let me go with cause rather than leave me off.
+
+406
+00:31:58,751 --> 00:32:01,520
+Speaker 0: I guess cuz it saved some money for them somehow.
+
+407
+00:32:01,781 --> 00:32:04,860
+Speaker 1: Oh, it absolutely would because then you don't get unemployment and there's all sorts.
+
+408
+00:32:04,880 --> 00:32:15,240
+Speaker 0: Yeah, I collected some unemployment and then I the unemployment person called me at a bad time and you know Then they cut off the other but regardless had to do jobs didn't matter, but it was still a rigmarole.
+
+409
+00:32:15,301 --> 00:32:17,077
+Speaker 0: But effectively I was laid off, right?
+
+410
+00:32:18,284 --> 00:32:20,905
+Speaker 0: Does not literally technically laid off?
+
+411
+00:32:20,965 --> 00:32:28,471
+Speaker 1: my experience was weirder in that the closest I ever got to a layoff and actually I Wish I'd been laid off at that moment and I was mad that I wasn't.
+
+412
+00:32:28,953 --> 00:32:41,790
+Speaker 1: I was working for that capital markets company a while ago a few companies ago and I was there from like near the beginning and we had doubled in size and Then I think like the market crashed in 2008.
+
+413
+00:32:41,790 --> 00:32:43,476
+Speaker 1: You might remember that whole situation.
+
+414
+00:32:43,496 --> 00:32:43,737
+Speaker 0: This was 2008.
+
+415
+00:32:43,737 --> 00:32:48,511
+Speaker 1: Yes So, uh, I just remember one day I'm gonna my group.
+
+416
+00:32:48,591 --> 00:32:50,215
+Speaker 1: we were like the DevOps team before.
+
+417
+00:32:50,236 --> 00:32:52,363
+Speaker 1: that was really a word and trade operation.
+
+418
+00:32:52,403 --> 00:32:58,550
+Speaker 1: so we were like it was one big floor and Everyone who wasn't an engineer sat in a big open plan.
+
+419
+00:32:58,630 --> 00:33:01,200
+Speaker 1: except the president had a glass-walled office.
+
+420
+00:33:01,281 --> 00:33:09,467
+Speaker 1: You could see him but like you couldn't hear him and he couldn't hear you HR had their own glass-walled office and they had Curtains they could pull up but like no one else had curtains.
+
+421
+00:33:09,888 --> 00:33:18,420
+Speaker 1: the compliance office had a glass-walled room that was separate and my group Had a glass-walled room that was separate because we were yelling at each other all the time because it was DevOps.
+
+422
+00:33:18,821 --> 00:33:20,769
+Speaker 1: Also, we were nerds and we're bored all the time.
+
+423
+00:33:20,889 --> 00:33:36,893
+Speaker 1: So so we're sitting in there and Like we just see like two of the people who are work in our group of five people Like get an email and they like mumble at each other and they're like, oh and they get up and they walk out like there's a meeting or something going on
+
+424
+00:33:37,618 --> 00:33:37,739
+Speaker 0: and
+
+425
+00:33:38,563 --> 00:33:50,679
+Speaker 1: Me and the other two super senior people are just sitting there doing our thing and then we all kind of realize and we notice that our two guys have walked over to the HR office and So have like six other people.
+
+426
+00:33:51,943 --> 00:34:03,146
+Speaker 1: so we all stand up and then Just as we're about to be like what's going on our boss's boss like comes running into our little room and he's like, okay Yeah, we got to talk right now.
+
+427
+00:34:03,226 --> 00:34:04,573
+Speaker 1: So yeah, they're laying a bunch of people off.
+
+428
+00:34:05,075 --> 00:34:07,836
+Speaker 1: don't make a big deal about it Please don't go out there and make a fuss.
+
+429
+00:34:09,762 --> 00:34:12,416
+Speaker 0: And they sounds like I should go out there and make a fuss.
+
+430
+00:34:12,556 --> 00:34:15,879
+Speaker 1: Oh, yeah, so They laid some people off.
+
+431
+00:34:16,141 --> 00:34:24,127
+Speaker 1: So I immediately started looking for another job and then those people were laid off because they were pretty new But I don't think they got a severance.
+
+432
+00:34:24,588 --> 00:34:36,126
+Speaker 1: and then they laid off over the next several months about half the company in a very Slow rolling wave and every single person who got laid off because of our contracts and like the way the company was Got a huge severance.
+
+433
+00:34:36,286 --> 00:34:46,061
+Speaker 1: like had I been laid off I would have gotten a year and a half salary like Yeah, and especially back then in 2008 that rim in 2008.
+
+434
+00:34:46,061 --> 00:34:48,458
+Speaker 1: That would have been the best possible thing that could have ever happened to me.
+
+435
+00:34:49,199 --> 00:34:51,449
+Speaker 0: I mean look the Oilers just fired their coach.
+
+436
+00:34:51,509 --> 00:34:53,536
+Speaker 0: that guy still gets paid now.
+
+437
+00:34:53,577 --> 00:34:54,300
+Speaker 0: He just gets paid.
+
+438
+00:34:54,360 --> 00:34:55,626
+Speaker 0: He doesn't even have to coach hockey.
+
+439
+00:34:55,666 --> 00:34:56,510
+Speaker 0: It's like thanks.
+
+440
+00:34:56,771 --> 00:35:00,287
+Speaker 0: I can just sit at home and collect the same paycheck Like a crooked cop.
+
+441
+00:35:00,327 --> 00:35:12,529
+Speaker 1: it gets put on paid administrative leave like, okay Yeah or when you're in school and you get an out-of-school suspension like wait so I don't have to go to school and I don't get In trouble for not going to school Yes, I will.
+
+442
+00:35:12,549 --> 00:35:14,020
+Speaker 1: I will accept my punishment.
+
+443
+00:35:15,281 --> 00:35:19,751
+Speaker 1: so I really wanted to be laid off and Over the next month.
+
+444
+00:35:20,054 --> 00:35:35,047
+Speaker 1: They laid off everyone in my area except me and And They basically my boss said yeah, you're like the best one and we like you're gonna stick around till the end.
+
+445
+00:35:35,569 --> 00:35:42,040
+Speaker 1: and I quit like a few weeks after I had that talk with them because I Was actively looking for another job, of course.
+
+446
+00:35:42,221 --> 00:35:46,840
+Speaker 1: But I was kind of holding off on accepting a job because I wanted to get laid off.
+
+447
+00:35:46,900 --> 00:35:52,959
+Speaker 1: But the dream was get laid off fuck around for a couple months start a new job while still getting paid for the old job.
+
+448
+00:35:52,979 --> 00:35:57,680
+Speaker 1: and Ching it went on so long that I had to quit instead because I couldn't wait that much longer.
+
+449
+00:35:58,576 --> 00:36:05,620
+Speaker 0: Yep So the thing all right, so layoffs in general right are sort of like this two-edged coin.
+
+450
+00:36:05,860 --> 00:36:08,147
+Speaker 0: Yeah on the one hand, right?
+
+451
+00:36:08,207 --> 00:36:12,400
+Speaker 0: It's like there are people who cannot get out of their job so easily.
+
+452
+00:36:12,480 --> 00:36:25,940
+Speaker 0: Yeah maybe there's not a large number of Employers available in their area or for their skill set or maybe just the world is changing and they work for the buggy whip Manufacture, I don't know right because I mean our perspective is work.
+
+453
+00:36:26,100 --> 00:36:28,409
+Speaker 1: We still do some of the most in-demand work there is.
+
+454
+00:36:28,429 --> 00:36:34,000
+Speaker 0: so and capitalism which of course is the root problem Demands that if you don't work you don't eat, right?
+
+455
+00:36:34,140 --> 00:36:44,012
+Speaker 0: There's a bunch of bullshit because food water shelter should all be medicine should all be human rights that you should get no matter What you if you work or not or what you do, there's a reason.
+
+456
+00:36:44,132 --> 00:36:46,640
+Speaker 1: parent got laid off is like education.
+
+457
+00:36:46,800 --> 00:36:55,259
+Speaker 1: Also the plot of a huge percentage of all the stories that people have told since industrialization.
+
+458
+00:36:56,382 --> 00:37:00,200
+Speaker 0: Yep, but that is not currently the case in a large portion of the world.
+
+459
+00:37:00,441 --> 00:37:09,980
+Speaker 0: and so if your job is taken away from you and You know, it's not even something you did or did not do necessarily, right?
+
+460
+00:37:10,440 --> 00:37:13,390
+Speaker 0: It's something unrelated to you when you get laid off right.
+
+461
+00:37:13,470 --> 00:37:16,620
+Speaker 0: if you did something bad, you would be fired with cause, right?
+
+462
+00:37:16,720 --> 00:37:23,426
+Speaker 1: Like you sit on Deborah's desk or you didn't do your job at all Right something actually bad.
+
+463
+00:37:23,466 --> 00:37:28,220
+Speaker 0: You would be fired or you know got the axe laid off is like you didn't do anything wrong.
+
+464
+00:37:28,746 --> 00:37:34,020
+Speaker 0: You were just unlucky Unfortunate working in the wrong industry the wrong company the wrong place the wrong time.
+
+465
+00:37:34,182 --> 00:37:42,940
+Speaker 0: Usually it's someone else's fault Like the business leaders fucked up and the company isn't making any money not because of you not working hard or maybe not right.
+
+466
+00:37:43,324 --> 00:37:47,191
+Speaker 0: It's not your fault in any way But you're the one who now has to suffer.
+
+467
+00:37:47,592 --> 00:37:49,018
+Speaker 0: you are going to.
+
+468
+00:37:49,038 --> 00:37:58,759
+Speaker 0: you know If you don't have a ton of money or super high demand skills or have some other fortune You're gonna suddenly be in hard times and your life could be turned completely upside down.
+
+469
+00:37:59,121 --> 00:38:00,505
+Speaker 0: Yep, and it's complete horseshit.
+
+470
+00:38:00,867 --> 00:38:24,099
+Speaker 1: and there's a. there's an interesting nuance in that this is overlaid on the world around you in the sense that There's situation a a company lays a bunch of people off Which is hard because if a company lays a bunch of people off those people suddenly there's a bunch of people With your skill set who are all looking for jobs in that same geographic place because you all worked at the same place.
+
+471
+00:38:24,119 --> 00:38:37,203
+Speaker 1: that just did layoffs, but there's a separate kind of environment where All the companies in a sector are all laying people off at the same time Which is actually what's happening right now in technology like Amazon meta Microsoft.
+
+472
+00:38:37,223 --> 00:38:40,599
+Speaker 1: go all these companies the kinds of companies me and Scott like to work for.
+
+473
+00:38:40,699 --> 00:38:44,557
+Speaker 1: well Like to work for in that they pay a lot and it's within our skill set.
+
+474
+00:38:44,618 --> 00:38:46,406
+Speaker 0: not that we like I don't work for them because they're too big.
+
+475
+00:38:46,446 --> 00:38:51,378
+Speaker 1: But anyway, yeah, but the kinds of companies we work for They're all laying off at the same time.
+
+476
+00:38:51,801 --> 00:39:00,358
+Speaker 1: Which is even worse because imagine you have a resume that XYZ on it and suddenly you need to find a job at the exact same moment.
+
+477
+00:39:00,358 --> 00:39:08,242
+Speaker 1: 50,000 other people with the same goddamn resume are looking for the exact same kind of job because there are now fewer jobs of that Type.
+
+478
+00:39:08,605 --> 00:39:09,210
+Speaker 0: full stop.
+
+479
+00:39:09,230 --> 00:39:09,432
+Speaker 0: Yep.
+
+480
+00:39:10,098 --> 00:39:10,340
+Speaker 0: Yep
+
+481
+00:39:10,940 --> 00:39:26,559
+Speaker 1: and the worst part is that kind of layoff also fucks over the people who don't get laid off because Let's say you work for a company and condition like you're not getting paid enough and it's not great and maybe you want another job And you're not happy and maybe your co-workers aren't happy either.
+
+482
+00:39:27,141 --> 00:39:31,314
+Speaker 1: But then all the other companies that do the kind of thing you do do layoffs.
+
+483
+00:39:31,836 --> 00:39:37,816
+Speaker 1: suddenly your company knows Yeah, none of those people are gonna quit because none of the other companies are gonna hire him.
+
+484
+00:39:37,836 --> 00:39:38,880
+Speaker 1: Nobody's hiring anymore.
+
+485
+00:39:39,262 --> 00:39:46,774
+Speaker 1: In fact, we could if they're an evil company We could make their situation worse and make them work harder because what are they gonna do?
+
+486
+00:39:46,895 --> 00:39:47,156
+Speaker 1: quit?
+
+487
+00:39:47,216 --> 00:39:47,657
+Speaker 1: Good luck.
+
+488
+00:39:47,878 --> 00:39:48,520
+Speaker 1: There's layoffs.
+
+489
+00:39:49,502 --> 00:39:50,992
+Speaker 0: Yep, it's not a good time right now.
+
+490
+00:39:51,032 --> 00:39:52,120
+Speaker 0: You can't lose your job right now.
+
+491
+00:39:52,220 --> 00:39:53,607
+Speaker 0: You won't be able to find another one.
+
+492
+00:39:53,627 --> 00:39:55,717
+Speaker 0: That means we can put the screws on you, right?
+
+493
+00:39:56,661 --> 00:40:03,560
+Speaker 0: Of course, that's not a great idea because you know You want to retain employees generally if they're ones you want to keep you want to retain them, right?
+
+494
+00:40:03,640 --> 00:40:05,830
+Speaker 0: Because it actually costs you money to get.
+
+495
+00:40:05,990 --> 00:40:08,160
+Speaker 0: it's difficult to get good employees, right?
+
+496
+00:40:08,281 --> 00:40:19,340
+Speaker 0: So it's like, you know when you're a company laying off It's like if you if you're not just going out of business or trying to you know Right, if you're actually like fucking up like Twitter like normal layoffs, right?
+
+497
+00:40:19,380 --> 00:40:22,519
+Speaker 0: It's like if you actually want to stay in business and recover and do good.
+
+498
+00:40:23,720 --> 00:40:31,517
+Speaker 0: then you want to keep the high quality employees that would be difficult to obtain and Get rid of the the ones that maybe don't matter to your.
+
+499
+00:40:31,698 --> 00:40:33,086
+Speaker 0: you know Core businesses so much.
+
+500
+00:40:33,187 --> 00:40:42,239
+Speaker 0: usually what happens is a lot of companies Especially in the tech sector are gonna mostly lay off people who are working on new projects unprofitable departments.
+
+501
+00:40:43,307 --> 00:40:48,493
+Speaker 0: You know, yeah Support employees, you know think well, which I will say total aside.
+
+502
+00:40:48,573 --> 00:40:59,487
+Speaker 1: in technology, especially in larger companies Going after support employees for layoffs early is in my professional opinion The worst fucking thing you can do.
+
+503
+00:40:59,547 --> 00:41:04,019
+Speaker 1: those are your most important employees, but the business people often don't realize it Obviously.
+
+504
+00:41:05,031 --> 00:41:09,820
+Speaker 1: But yes The only guy who knows how that one Linux thing works, right?
+
+505
+00:41:09,960 --> 00:41:16,440
+Speaker 0: So Google for example might lay off all the people working on like some rando app that they're gonna shut down anyway.
+
+506
+00:41:16,461 --> 00:41:21,255
+Speaker 0: Yeah, right but they're not gonna lay off the people who work on search because that's where all the fucking money is.
+
+507
+00:41:21,295 --> 00:41:25,680
+Speaker 0: the ads people the Maps people though the things that actually work and make them a lot of money.
+
+508
+00:41:26,081 --> 00:41:28,367
+Speaker 0: You're not going to see the layoffs in those departments, right?
+
+509
+00:41:28,408 --> 00:41:32,018
+Speaker 0: But the Google news people like they don't right there.
+
+510
+00:41:32,078 --> 00:41:32,680
+Speaker 0: They're holding on.
+
+511
+00:41:33,152 --> 00:41:36,429
+Speaker 0: Yeah Somehow I can't believe Google News still exists.
+
+512
+00:41:36,530 --> 00:41:37,936
+Speaker 1: Google News kind of doesn't.
+
+513
+00:41:37,956 --> 00:41:39,060
+Speaker 1: have you gone to it recently?
+
+514
+00:41:39,160 --> 00:41:41,127
+Speaker 1: It doesn't like it really work anymore.
+
+515
+00:41:41,388 --> 00:41:41,690
+Speaker 0: Yeah.
+
+516
+00:41:41,750 --> 00:41:44,119
+Speaker 0: No, I'm surprised that it's still up is what I'm saying.
+
+517
+00:41:44,139 --> 00:41:46,130
+Speaker 1: Yeah Literally, I go to it.
+
+518
+00:41:46,150 --> 00:41:47,059
+Speaker 1: like doesn't work.
+
+519
+00:41:47,401 --> 00:41:50,249
+Speaker 0: You know Apple News isn't great either but a complete tangent.
+
+520
+00:41:50,289 --> 00:41:56,540
+Speaker 0: if someone wants to make a competitor like of the normal news Aggregator as opposed to like, you know RSS reader style.
+
+521
+00:41:56,660 --> 00:42:01,400
+Speaker 0: Yeah to compete directly with Google News Apple News like the competition is pretty weak.
+
+522
+00:42:01,540 --> 00:42:03,690
+Speaker 0: You could beat them easily probably.
+
+523
+00:42:03,710 --> 00:42:05,840
+Speaker 1: Yeah, like I went back to Fark.
+
+524
+00:42:07,041 --> 00:42:07,282
+Speaker 0: Yeah.
+
+525
+00:42:07,563 --> 00:42:07,824
+Speaker 0: All right.
+
+526
+00:42:07,924 --> 00:42:12,140
+Speaker 0: Anyway, so why do these companies do the layoffs, right?
+
+527
+00:42:12,200 --> 00:42:12,482
+Speaker 0: It's like.
+
+528
+00:42:12,844 --> 00:42:14,414
+Speaker 0: did they hire people too fast?
+
+529
+00:42:14,635 --> 00:42:15,138
+Speaker 0: Sometimes?
+
+530
+00:42:15,199 --> 00:42:17,902
+Speaker 0: Yes well in the current tech layoffs That is the.
+
+531
+00:42:18,584 --> 00:42:55,899
+Speaker 1: the primary cause of all the super big tech company layoffs is over the last several years They have been hiring like crazy For a bunch of reasons that I can't edge into giving financial advice and be a little vague here But broadly in my personal opinion based on you can read websites to verify this they money was cheap and They were hiring to try to basically expand into a bunch of different markets that look pretty hot partly because money was cheap and All those markets kind of dried up simultaneously coupled with a couple other things going on.
+
+532
+00:42:56,481 --> 00:43:01,057
+Speaker 1: So as the COVID situation wound down and the economy spun back up again.
+
+533
+00:43:01,198 --> 00:43:15,820
+Speaker 1: in some ways not all of those sectors actually grew the way they expected and to the Adpocalypse is still happening in slow motion and a lot of those companies were funding all those hires With their ad supported businesses that suddenly aren't making money.
+
+534
+00:43:17,801 --> 00:43:22,354
+Speaker 1: So a lot of this right now was over hiring right but the thing is it's like okay.
+
+535
+00:43:22,394 --> 00:43:25,422
+Speaker 0: these companies though are still Profitable.
+
+536
+00:43:25,442 --> 00:43:26,144
+Speaker 0: Yeah, right.
+
+537
+00:43:26,364 --> 00:43:37,740
+Speaker 0: It's like but yet they're laying people off and a lot of them are laying off and simultaneously hiring right, so Layoffs really is lot, you know, if a company is unprofitable, right?
+
+538
+00:43:37,840 --> 00:43:44,300
+Speaker 0: You're not making money and you know, it's like and you can't you can't like just decide to increase revenues.
+
+539
+00:43:44,441 --> 00:43:49,480
+Speaker 0: You actually have to succeed at something to get more revenues and then therefore more profits, right?
+
+540
+00:43:49,902 --> 00:43:55,615
+Speaker 0: So if your projects aren't working out Maybe you're a game design developer publisher and your games flop or you move.
+
+541
+00:43:55,655 --> 00:43:56,880
+Speaker 0: you're making movies and they flop.
+
+542
+00:43:57,586 --> 00:43:58,979
+Speaker 0: It's like you lost money.
+
+543
+00:43:59,543 --> 00:44:09,023
+Speaker 0: You end up in a situation where if you want to be profitable The only thing you only think that you can just decide to do to keep your company from just completely shuttering and going out Of business.
+
+544
+00:44:09,747 --> 00:44:12,060
+Speaker 0: it's a lay people off which cuts labor costs, right?
+
+545
+00:44:12,080 --> 00:44:15,817
+Speaker 0: Which is usually labor is the biggest cost at any company period.
+
+546
+00:44:16,299 --> 00:44:18,808
+Speaker 0: so That's the core reason.
+
+547
+00:44:18,848 --> 00:44:22,445
+Speaker 0: but the second reason is like well, wait a minute What if you're profiting?
+
+548
+00:44:22,485 --> 00:44:23,689
+Speaker 0: Why would you lay people off?
+
+549
+00:44:23,709 --> 00:44:26,617
+Speaker 0: Well, this is because we have a stock market, right?
+
+550
+00:44:26,999 --> 00:44:31,913
+Speaker 0: And so Investors are the people the company is serving not the employees.
+
+551
+00:44:32,354 --> 00:44:47,420
+Speaker 0: and so when you're serving the investors it's like well, you know the this if the stock price isn't going down isn't going up or Dividends aren't giving the investors any kind of return even if the company's profitable the investors aren't gonna be happy.
+
+552
+00:44:47,520 --> 00:44:50,030
+Speaker 0: They need the stock price to go up right?
+
+553
+00:44:50,432 --> 00:44:54,990
+Speaker 0: And so if you're a company again You can't just decide to get revenues.
+
+554
+00:44:55,351 --> 00:45:00,917
+Speaker 0: unless you're a monopoly Rockefeller could just decide Yes, if I could decide to get revenues, I wouldn't be here.
+
+555
+00:45:00,937 --> 00:45:10,602
+Speaker 0: Yeah So you what you can always do when you're a company is lay people off cut costs and Guess what?
+
+556
+00:45:10,823 --> 00:45:12,788
+Speaker 0: Your company is now more profitable.
+
+557
+00:45:12,969 --> 00:45:21,994
+Speaker 0: you make your earnings report and it's a lot better than it would have been up and therefore you beat the you beat your earnings estimate and the stock price goes up maybe.
+
+558
+00:45:22,014 --> 00:45:30,594
+Speaker 0: and now the investors are happy and basic, you know if a company was serving its employees and not its investors and owners.
+
+559
+00:45:31,115 --> 00:45:37,900
+Speaker 0: then instead of laying people off like If it was profitable, they would be sharing the wealth amongst all the employees.
+
+560
+00:45:38,040 --> 00:45:41,192
+Speaker 0: Maybe you'd slow down hiring or something if it was a bad time, right?
+
+561
+00:45:41,272 --> 00:45:45,331
+Speaker 0: But when it's the investors, it's like wow We just freaking ruin people's lives.
+
+562
+00:45:45,351 --> 00:45:45,955
+Speaker 0: You don't give a shit.
+
+563
+00:45:45,976 --> 00:45:48,006
+Speaker 0: It makes us richer And that's how that goes.
+
+564
+00:45:48,368 --> 00:45:57,578
+Speaker 1: Yep, and it and big companies especially this will happen partly because a small company that does like one thing if you lay people off you are.
+
+565
+00:45:57,638 --> 00:46:07,180
+Speaker 1: basically It's almost like burning your reserves Like you're burning the fuel that you would need to be able to succeed in the future if you make it through that rough time.
+
+566
+00:46:07,682 --> 00:46:13,756
+Speaker 1: But if you're a big company you lay the people off working in the part of the company that you're just gonna jettison anyway Mm-hmm.
+
+567
+00:46:14,783 --> 00:46:17,291
+Speaker 1: So I would say a moral here.
+
+568
+00:46:17,492 --> 00:46:19,780
+Speaker 1: is that one across the board?
+
+569
+00:46:20,400 --> 00:46:24,021
+Speaker 1: You can't let companies get too big or do too many different things Like.
+
+570
+00:46:24,041 --> 00:46:24,663
+Speaker 1: that is just.
+
+571
+00:46:25,186 --> 00:46:28,680
+Speaker 1: that is one of the biggest problems with capitalism today.
+
+572
+00:46:28,921 --> 00:46:34,980
+Speaker 1: Is that companies can get too big and do too many things which gives them that level of flexibility?
+
+573
+00:46:35,782 --> 00:46:38,250
+Speaker 1: And that is not a good flexibility for society.
+
+574
+00:46:38,671 --> 00:46:43,631
+Speaker 0: Well, we're gonna try to do new thing X. Let's hire a whole bunch of people to work on that.
+
+575
+00:46:43,873 --> 00:46:45,762
+Speaker 0: Oh, we decided that's not working out You know what?
+
+576
+00:46:45,782 --> 00:46:47,572
+Speaker 0: We're just gonna get rid of all those people by.
+
+577
+00:46:47,592 --> 00:47:01,182
+Speaker 1: yeah now in the old days a company would do an IPO and like form to do that new thing and Those employees and that company would ostensibly try to succeed at doing that thing and really try to make it work They would like.
+
+578
+00:47:01,222 --> 00:47:04,514
+Speaker 1: now the company might you're in just say fuck it and fire everybody.
+
+579
+00:47:04,875 --> 00:47:07,726
+Speaker 1: if they still had a revenue stream They try to make it keep going.
+
+580
+00:47:08,168 --> 00:47:08,308
+Speaker 0: Yeah.
+
+581
+00:47:08,489 --> 00:47:11,320
+Speaker 0: Now the company might go out of business completely, right?
+
+582
+00:47:11,682 --> 00:47:15,120
+Speaker 0: And then that would obviously have the same result of everyone losing their jobs.
+
+583
+00:47:15,562 --> 00:47:19,400
+Speaker 0: But at least you know, it's the same result for the employees, right?
+
+584
+00:47:19,440 --> 00:47:22,259
+Speaker 0: It's like you're now in the same shit as if you have been laid off.
+
+585
+00:47:22,821 --> 00:47:26,812
+Speaker 0: But it's just less cruelty to that in some sense right.
+
+586
+00:47:26,872 --> 00:47:33,907
+Speaker 1: more incentive among everyone involved especially managers and leaders and Investors to try to keep it going.
+
+587
+00:47:34,008 --> 00:47:46,995
+Speaker 1: an investor in Joey Jojo Shabba dues buggy whip company Really wants it to not go out of business and might support them more than an investor in say Google who might say What if you just get rid of?
+
+588
+00:47:47,861 --> 00:47:48,124
+Speaker 1: Gmail?
+
+589
+00:47:48,205 --> 00:47:49,300
+Speaker 1: what's that doing for you?
+
+590
+00:47:50,320 --> 00:47:51,019
+Speaker 0: Yeah, exactly.
+
+591
+00:47:52,961 --> 00:47:58,615
+Speaker 0: So the advice for actual life, well if you get laid off it fucking sucks.
+
+592
+00:47:58,776 --> 00:48:10,480
+Speaker 0: Yeah, if you if unless you're Incredibly fortunate and you just have a bunch of money or you know, you can get a job super easily If you're if you have a techie kinda or at least office style job.
+
+593
+00:48:11,142 --> 00:48:25,579
+Speaker 1: I have very specific advice even if you like your current job a lot and have no complaints about it Always be testing the waters and keeping an eye out for other jobs like just always be looking even if you don't take them even if you don't interview just
+
+594
+00:48:26,301 --> 00:48:26,682
+Speaker 0: Always
+
+595
+00:48:26,763 --> 00:48:31,275
+Speaker 1: be like occasionally low-key job searching just in case that is that
+
+596
+00:48:31,375 --> 00:48:32,237
+Speaker 0: always right.
+
+597
+00:48:32,298 --> 00:48:47,020
+Speaker 0: be paying attention To what's going on in you know Your company's biz even if you're not directly getting involved in office politics Like you like you could usually feel when get to check down the vibe check of what's going down lately.
+
+598
+00:48:47,060 --> 00:48:47,221
+Speaker 0: Like
+
+599
+00:48:47,241 --> 00:49:02,089
+Speaker 1: if you see the people who look and act and have the kind of jobs that I have They're all suddenly like talking to everyone else less talking to each other more Grumbling a lot having a lot of private meetings and that's not been the history before Something's
+
+600
+00:49:02,151 --> 00:49:02,499
+Speaker 0: happening.
+
+601
+00:49:03,421 --> 00:49:20,960
+Speaker 0: Yeah, I mean, I can't say I've never been surprised about anything, you know that happened at an employer but it's usually I see that something was happening right and then it's like ah, That's what it was or something happens and it's like oh and then it's like ah, there were signs I missed, right?
+
+602
+00:49:21,060 --> 00:49:22,760
+Speaker 0: It's like I could have seen that one coming, right?
+
+603
+00:49:23,160 --> 00:49:26,299
+Speaker 0: It's like if I would have just paid more attention or thought about it harder.
+
+604
+00:49:26,319 --> 00:49:35,964
+Speaker 1: now If you are if you're that if you're a gig guys listener who is in The level of being in the know and having some power like a middle manager Like like.
+
+605
+00:49:36,005 --> 00:49:38,179
+Speaker 1: I'm actually in that position and have been for most of my career.
+
+606
+00:49:40,122 --> 00:49:43,420
+Speaker 1: If you know things tell people and be transparent.
+
+607
+00:49:44,361 --> 00:49:52,760
+Speaker 1: If you work for a company and you are told not to be transparent with people who should know things One huge red flag that you are also in deep shed
+
+608
+00:49:53,901 --> 00:49:54,102
+Speaker 0: Yep,
+
+609
+00:49:54,563 --> 00:50:09,187
+Speaker 1: yep, so if you have the power like if you are if you find out that there's likely layoffs coming And you have employees who report to you or you have a way to like tell people in a way that like isn't against a Contract or a specific rule
+
+610
+00:50:09,408 --> 00:50:11,397
+Speaker 0: just tell them in a way that can't be traced
+
+611
+00:50:11,578 --> 00:50:11,880
+Speaker 1: to you.
+
+612
+00:50:11,961 --> 00:50:19,323
+Speaker 0: Yep Right because it's like a lot of times like if you're in such a high position that you know about layoffs before say the stock Market does.
+
+613
+00:50:19,885 --> 00:50:23,620
+Speaker 0: you could get in trouble if you reveal that, you know, possibly legal trouble.
+
+614
+00:50:23,680 --> 00:50:25,440
+Speaker 0: Yeah, you were to reveal that information.
+
+615
+00:50:25,580 --> 00:50:34,140
+Speaker 0: But if nobody knows you revealed it and you just reveal it to the employees to whom it might matter It's like that is a noble endeavor.
+
+616
+00:50:34,381 --> 00:50:38,172
+Speaker 0: Just make sure there's no way to know that you do.
+
+617
+00:50:38,192 --> 00:50:39,075
+Speaker 0: the one who done did it.
+
+618
+00:50:39,095 --> 00:50:42,857
+Speaker 0: don't send an email on the company You know or the company's slack, right?
+
+619
+00:50:44,562 --> 00:50:54,988
+Speaker 1: Times where Scott and I both generally avoid maybe take an employee out to coffee or something I was about to say cuz we know we tend to not make strong Relationships with a lot of people we work with.
+
+620
+00:50:55,048 --> 00:50:57,740
+Speaker 1: like my work life is very separate from my real life.
+
+621
+00:50:57,981 --> 00:50:59,311
+Speaker 1: Oh, yeah, that is like.
+
+622
+00:50:59,673 --> 00:51:00,560
+Speaker 1: that's an important thing.
+
+623
+00:51:01,520 --> 00:51:06,543
+Speaker 1: but if you're in a position of power in a company it You.
+
+624
+00:51:06,643 --> 00:51:11,660
+Speaker 1: it is prudent to have some amount of outside of work communication channels.
+
+625
+00:51:12,103 --> 00:51:23,791
+Speaker 1: Like I go out to drinks with people even if I don't necessarily want to go hang out in a bar with co-workers and have drinks because we all Will share information pretty regularly and that's for a decade.
+
+626
+00:51:23,831 --> 00:51:25,556
+Speaker 1: I've been doing this across multiple jobs.
+
+627
+00:51:26,198 --> 00:51:28,740
+Speaker 1: And yeah I've never been surprised by anything as a result.
+
+628
+00:51:31,561 --> 00:51:34,313
+Speaker 1: And otherwise you want advice on how to like.
+
+629
+00:51:34,434 --> 00:51:35,740
+Speaker 1: make this not a problem anymore.
+
+630
+00:51:36,667 --> 00:51:38,100
+Speaker 1: In the very least if you live in the u.s.
+
+631
+00:51:38,201 --> 00:51:39,351
+Speaker 1: Vote for Democrats like.
+
+632
+00:51:39,391 --> 00:51:40,320
+Speaker 1: that'll get us closer.
+
+633
+00:51:41,089 --> 00:51:49,620
+Speaker 1: If you don't live in the u.s Vote for whatever the leftist party is as opposed to the rightist party But don't go too far to the left just go mostly to all the way full communist.
+
+634
+00:51:50,985 --> 00:51:52,160
+Speaker 1: I absolutely mean that.
+
+635
+00:51:53,241 --> 00:51:59,404
+Speaker 1: Okay, but but I guess to be for getting into the political theory not Revolutionary communism.
+
+636
+00:51:59,485 --> 00:52:06,076
+Speaker 1: that doesn't mean revolutionary communism is a very specific Political concept and it's stupid.
+
+637
+00:52:06,418 --> 00:52:07,427
+Speaker 1: It is Stupid.
+
+638
+00:52:08,780 --> 00:52:11,460
+Speaker 1: Anyway, authoritarian communism also not a great idea.
+
+639
+00:52:12,103 --> 00:52:12,465
+Speaker 0: if you're.
+
+640
+00:52:12,706 --> 00:52:15,479
+Speaker 0: the thing that I would say that you should do is when they're.
+
+641
+00:52:15,520 --> 00:52:31,697
+Speaker 0: the thing you can do that would be the most beneficial to society is pay attention to the news about layoffs and then when they occur Think about if there's anything you can do to help the people who had been laid off.
+
+642
+00:52:31,777 --> 00:52:32,840
+Speaker 0: Are you in that industry?
+
+643
+00:52:33,001 --> 00:52:34,626
+Speaker 0: Can you hire people right?
+
+644
+00:52:34,967 --> 00:52:37,636
+Speaker 1: maybe history is really good about this every time.
+
+645
+00:52:38,198 --> 00:52:41,380
+Speaker 1: every time There's a game company that like shuts down or does big layoffs.
+
+646
+00:52:41,782 --> 00:52:44,700
+Speaker 1: I'm in a lot of private game industry discords and chats.
+
+647
+00:52:45,302 --> 00:52:48,430
+Speaker 1: It is there's like a process of like.
+
+648
+00:52:48,530 --> 00:52:53,545
+Speaker 1: every discord has this like system or the channel of hey This company just had layoffs.
+
+649
+00:52:54,147 --> 00:52:55,111
+Speaker 1: Here's all the resumes.
+
+650
+00:52:55,432 --> 00:52:56,495
+Speaker 1: like everybody go through them.
+
+651
+00:52:56,516 --> 00:52:57,640
+Speaker 1: Let's try to hire all these people.
+
+652
+00:52:58,325 --> 00:53:05,405
+Speaker 0: yeah, the other thing is If you are laid off or you know There was an industry that had layoffs.
+
+653
+00:53:05,967 --> 00:53:13,573
+Speaker 0: if you can even if you don't have a company you could try to gather Many of those people together and form a new endeavor.
+
+654
+00:53:13,593 --> 00:53:15,480
+Speaker 1: Yeah, I've seen that seed.
+
+655
+00:53:15,641 --> 00:53:19,300
+Speaker 1: I've known people who have done that and done really well for themselves.
+
+656
+00:53:20,155 --> 00:53:25,290
+Speaker 0: Yep You know whether it's leaving or being laid off right.
+
+657
+00:53:25,330 --> 00:53:28,720
+Speaker 0: for example valve is a bunch of people who like all left Microsoft.
+
+658
+00:53:28,801 --> 00:53:30,060
+Speaker 0: Yeah, I'll go do that, right.
+
+659
+00:53:30,160 --> 00:53:34,560
+Speaker 0: So, you know if they had been laid off for Microsoft, it wouldn't really have made a difference.
+
+660
+00:53:34,640 --> 00:53:36,367
+Speaker 0: They could have achieved the same thing.
+
+661
+00:53:36,387 --> 00:53:39,680
+Speaker 0: I just you know breaking off and teaming up on their own, right?
+
+662
+00:53:41,020 --> 00:53:42,646
+Speaker 1: You gotta be pretty entrepreneurial for that.
+
+663
+00:53:42,686 --> 00:53:44,151
+Speaker 1: Like I'm actually not like.
+
+664
+00:53:44,211 --> 00:53:46,699
+Speaker 1: I kind of like having a salary instead of having to hustle.
+
+665
+00:53:47,582 --> 00:53:57,843
+Speaker 0: I'm just saying is that there are several places, you know, there are a lot of businesses that basically exist as employees that You know spun out of one place Went
+
+666
+00:53:57,903 --> 00:53:58,324
+Speaker 1: out on their
+
+667
+00:53:58,445 --> 00:54:02,960
+Speaker 0: own and succeeded and even sometimes the original place will like buy them back in and shit, right?
+
+668
+00:54:04,463 --> 00:54:12,780
+Speaker 0: So, you know if you're really not working for a time Even if you can't bring in any revenues, it's like try to work on something, right?
+
+669
+00:54:13,700 --> 00:54:19,790
+Speaker 0: You know call up those people who you might not who are probably also not working yet And you can you might be able to make something happen.
+
+670
+00:54:19,831 --> 00:54:21,659
+Speaker 0: It's the frequent success stories.
+
+671
+00:54:27,682 --> 00:54:30,050
+Speaker 1: This has been geek nights with rim and Scott.
+
+672
+00:54:30,111 --> 00:54:32,620
+Speaker 1: special thanks to DJ pretzel for the opening theme.
+
+673
+00:54:32,820 --> 00:54:38,820
+Speaker 0: Be sure to visit our website at front row crew comm for show notes discussion links and more.
+
+674
+00:54:39,321 --> 00:54:42,012
+Speaker 1: Remember geek nights is not one but four different shows.
+
+675
+00:54:42,314 --> 00:54:43,880
+Speaker 1: Mondays are science and technology.
+
+676
+00:54:44,000 --> 00:54:45,746
+Speaker 1: Tuesdays gaming and games.
+
+677
+00:54:45,887 --> 00:54:47,693
+Speaker 1: Wednesdays are animation and comics.
+
+678
+00:54:48,014 --> 00:54:50,543
+Speaker 1: Thursdays are arbitrary and Indiscriminate.
+
+679
+00:54:51,145 --> 00:54:56,080
+Speaker 1: geek nights is distributed under a Creative Commons attribution 4.0 international license.
+
+680
+00:54:56,521 --> 00:55:02,840
+Speaker 0: Geek nights is recorded live with no studio and no audience, but I'd like those other late shows.
+
+681
+00:55:03,362 --> 00:55:07,560
+Speaker 1: It's actually recorded at night and the picture on patrons for this episode of geek not.
+
+682
+00:55:07,600 --> 00:55:09,690
+Speaker 1: Sorry, Alan Joyce, Link, Eiji, dread lily, Santa break case.
+
+683
+00:55:09,730 --> 00:55:13,324
+Speaker 1: care makes music Chris not Christopher Clinton Walton M Def Mac thing.
+
+684
+00:55:13,565 --> 00:55:18,860
+Speaker 1: Joel Hayes penny Reimer Rebecca Dunn say Americans ensure front hole and a bunch of people who are below that threshold.
+
+685
+00:55:19,163 --> 00:55:24,862
+Speaker 1: I leave you tonight with Something that I Don't know.
+
+686
+00:55:24,902 --> 00:55:30,220
+Speaker 1: the last time things like this were happening on the floor of the Senate I feel like it was right before the Civil War.
+
+687
+00:55:30,421 --> 00:55:33,756
+Speaker 1: So I leave you with Bernie Sanders trying to break up a fight.
+
+688
+00:55:33,977 --> 00:55:34,700
+Speaker 1: So this is a time.
+
+689
+00:55:34,740 --> 00:55:36,949
+Speaker 1: This is a place if you want to run your mouth.
+
+690
+00:55:37,371 --> 00:55:38,696
+Speaker 1: We can be to consenting adults.
+
+691
+00:55:38,757 --> 00:55:39,460
+Speaker 1: We can finish it here.
+
+692
+00:55:39,982 --> 00:55:40,525
+Speaker 1: Okay, that's fine.
+
+693
+00:55:40,727 --> 00:55:41,069
+Speaker 1: Perfect.
+
+694
+00:55:41,350 --> 00:55:41,913
+Speaker 1: You want to do it now?
+
+695
+00:55:42,155 --> 00:55:42,980
+Speaker 1: I'd love to do it right now.
+
+696
+00:55:43,060 --> 00:55:45,099
+Speaker 1: Well, stay in your butt up then you stand your bottom.
+
+697
+00:55:45,562 --> 00:55:46,687
+Speaker 1: Hold on stop it.
+
+698
+00:55:47,048 --> 00:55:47,812
+Speaker 1: Is that your solution?
+
+699
+00:55:47,832 --> 00:55:48,414
+Speaker 1: every public?
+
+700
+00:55:48,736 --> 00:55:52,648
+Speaker 1: No, no sit down You know, you're a United States senator.
+
+701
+00:55:52,688 --> 00:55:53,370
+Speaker 1: sit actively.
+
+702
+00:55:53,430 --> 00:55:54,633
+Speaker 1: Okay, sit down, please.
+
+703
+00:55:54,814 --> 00:55:56,017
+Speaker 1: All right, can I respond?
+
+704
+00:55:56,037 --> 00:55:56,558
+Speaker 1: This is all it.
+
+705
+00:55:56,819 --> 00:55:59,583
+Speaker 1: hold it If we can't.
+
+706
+00:55:59,764 --> 00:56:00,707
+Speaker 1: no, I have the money.
+
+707
+00:56:00,767 --> 00:56:01,229
+Speaker 1: I'm sorry.
+
+708
+00:56:01,309 --> 00:56:02,212
+Speaker 1: This is all they said.
+
+709
+00:56:02,312 --> 00:56:03,376
+Speaker 1: you'll have your time.
+
+710
+00:56:03,577 --> 00:56:04,540
+Speaker 1: Okay, can I respond?
+
+711
+00:56:04,760 --> 00:56:05,302
+Speaker 1: No, you can't.
+
+712
+00:56:06,204 --> 00:56:12,020
+Speaker 1: this is a hearing and God knows the American people have enough at contempt the Congress.
+
+713
+00:56:12,060 --> 00:56:17,200
+Speaker 1: I Don't like you because you described yourself.
+
+714
+00:56:18,100 --> 00:56:18,443
+Speaker 1: Hold it.
+
+715
+00:56:19,209 --> 00:56:19,814
+Speaker 1: You have the mic.
+
+716
+00:56:19,915 --> 00:56:20,540
+Speaker 1: You have time.
+
+717
+00:56:20,882 --> 00:56:26,944
+Speaker 1: All right your statement and let's do this because I did challenge you and I accepted your challenge And you went quiet.
+
+718
+00:56:27,445 --> 00:56:28,187
+Speaker 0: No, I didn't go quiet.
+
+719
+00:56:28,207 --> 00:56:32,780
+Speaker 1: I was you challenged me to a cage match acting like a 12 year old.
+
+720
+00:56:34,443 --> 00:56:34,705
+Speaker 1: Hold it.
+
+721
+00:56:34,867 --> 00:56:35,431
+Speaker 1: No, excuse me.
+
+722
+00:56:35,491 --> 00:56:38,245
+Speaker 1: I will say I will say Senator Mullen, I have the mic.
+
+723
+00:56:38,888 --> 00:56:41,056
+Speaker 1: you have questions on any economic issues.
+
+724
+00:56:41,136 --> 00:56:42,160
+Speaker 1: anything that said go for it.
+
+725
+00:56:42,641 --> 00:56:45,674
+Speaker 1: We're not here to talk about physical abuse you brought.
+
+726
+00:56:45,714 --> 00:56:47,924
+Speaker 1: when I talk about of course Let me tell you.
+
+727
+00:56:47,944 --> 00:56:49,352
+Speaker 1: let me show you his hearing because I want to.
+
+728
+00:56:49,593 --> 00:56:53,490
+Speaker 1: I want to expose this thug To who he is and you don't point to me.
+
+729
+00:56:53,510 --> 00:56:54,393
+Speaker 1: That's disrespectful.
+
+730
+00:56:54,413 --> 00:56:56,280
+Speaker 1: All right, I don't care about respecting you at all.
+
+731
+00:56:56,422 --> 00:56:57,635
+Speaker 0: I don't respect you at all.
+
+732
+00:56:57,857 --> 00:56:58,627
+Speaker 1: Sorry Hold it.
+
+733
+00:56:58,890 --> 00:57:02,628
+Speaker 1: No You don't want to hold it.
+
+734
+00:57:02,648 --> 00:57:04,660
+Speaker 1: the most late acted please.
+

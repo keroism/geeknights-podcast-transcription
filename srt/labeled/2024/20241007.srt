@@ -1,0 +1,2872 @@
+1
+00:00:07,900 --> 00:00:09,468
+Rym: It's Monday, October 7th, 2024.
+
+2
+00:00:09,468 --> 00:00:09,750
+Rym: I'm Rym.
+
+3
+00:00:12,884 --> 00:00:13,279
+Scott: I'm Scott.
+
+4
+00:00:13,560 --> 00:00:15,045
+Rym: And this is GeekNights Tonight.
+
+5
+00:00:15,065 --> 00:00:19,920
+Rym: We are talking about multi-cores and multi-processors, concurrency, and all that stuff.
+
+6
+00:00:20,660 --> 00:00:21,618
+Scott: Let's do this.
+
+7
+00:00:22,780 --> 00:00:26,039
+Rym: So, uh, we had a little hiatus because I was in London and Frankfurt for work.
+
+8
+00:00:26,320 --> 00:00:30,280
+Rym: And we're gonna have another two-week hiatus in November because I gotta be in London again.
+
+9
+00:00:30,560 --> 00:00:31,848
+Scott: Nothing but hiatuses over here.
+
+10
+00:00:31,949 --> 00:00:33,540
+Scott: How many podcasts have you even done this year?
+
+11
+00:00:33,680 --> 00:00:35,827
+Rym: Yeah, a lot of life.
+
+12
+00:00:35,847 --> 00:00:38,837
+Rym: You know, I feel like just being in our 40s, stuff happens.
+
+13
+00:00:38,877 --> 00:00:39,740
+Rym: Like, life gets in the way.
+
+14
+00:00:40,261 --> 00:00:41,809
+Rym: But, uh, I do get to go back to Singapore.
+
+15
+00:00:41,829 --> 00:00:43,919
+Rym: I haven't been to Singapore in a while, but I guess it's been a week there.
+
+16
+00:00:44,760 --> 00:00:49,079
+Rym: And, uh, anyway, so we'll schedule around that and figure out what we do.
+
+17
+00:00:49,380 --> 00:00:55,460
+Rym: And, uh, in the interim, right before the previous hiatus, Emily and I went camping upstate at Harriman Park.
+
+18
+00:00:55,680 --> 00:00:56,824
+Rym: Which we've done a few times.
+
+19
+00:00:56,864 --> 00:00:57,987
+Rym: We really like hiking up there.
+
+20
+00:00:58,027 --> 00:01:02,660
+Rym: It's a gigantic, like, natural park with good mountains and good valleys.
+
+21
+00:01:02,680 --> 00:01:03,804
+Rym: And just fantastic hiking.
+
+22
+00:01:04,405 --> 00:01:05,529
+Rym: But, uh, we're up there to camp.
+
+23
+00:01:06,432 --> 00:01:09,080
+Rym: And we're gonna camp in a place we've never camped before by a certain lake.
+
+24
+00:01:09,761 --> 00:01:12,360
+Rym: And while we're hiking in with our giant packs, we pass a guy.
+
+25
+00:01:12,460 --> 00:01:13,446
+Scott: There's a lot of lakes up there.
+
+26
+00:01:13,486 --> 00:01:14,391
+Scott: In fact, there's a road.
+
+27
+00:01:14,814 --> 00:01:15,780
+Scott: Isn't the road like seven lakes?
+
+28
+00:01:16,040 --> 00:01:16,800
+Rym: Yeah, seven lake drive.
+
+29
+00:01:18,142 --> 00:01:24,016
+Scott: I've biked the entire length of seven lake drives and I can confirm there are seven lakes.
+
+30
+00:01:26,782 --> 00:01:29,100
+Scott: And a lot of them have little beaches with lifeguards.
+
+31
+00:01:29,541 --> 00:01:37,159
+Rym: There are trails that are named like "The Five Hills" and hiking those things is very much like, well...
+
+32
+00:01:37,440 --> 00:01:39,140
+Scott: The aptly named Five Hills.
+
+33
+00:01:42,040 --> 00:01:51,140
+Rym: It's something hiking when you are going downhill and you're trying to remember how many summits did we summit in Five Hill Gulch.
+
+34
+00:01:51,520 --> 00:01:55,999
+Rym: And then we come around a corner and we see a ridge and we're like, "We're gonna have to hike up that fucking thing, aren't
+
+35
+00:01:56,039 --> 00:01:56,120
+Rym: we?".
+
+36
+00:01:56,200 --> 00:01:56,774
+Rym: And sure enough...
+
+37
+00:01:57,482 --> 00:02:02,340
+Scott: In the town I grew up in, in Connecticut, there was, like, you know, the town was Trumbull, right?
+
+38
+00:02:02,440 --> 00:02:05,879
+Scott: But the town actually had these parts of the town that had names.
+
+39
+00:02:07,301 --> 00:02:10,180
+Scott: And one of the parts of the town that had a name was Long Hill.
+
+40
+00:02:12,465 --> 00:02:13,158
+Scott: Let me tell ya.
+
+41
+00:02:14,963 --> 00:02:16,759
+Scott: It was an aptly named part of town.
+
+42
+00:02:18,581 --> 00:02:20,707
+Scott: It wasn't long in the upwards direction.
+
+43
+00:02:20,847 --> 00:02:25,540
+Scott: It was long and, like, it was, you know, it went up and then it's like you get to the top of the hill.
+
+44
+00:02:25,540 --> 00:02:26,712
+Scott: And the peak was just like,
+
+45
+00:02:26,793 --> 00:02:27,217
+Scott: "Why?".
+
+46
+00:02:28,303 --> 00:02:35,880
+Scott: It's like there was this whole part of town that was, like, a road that was higher up than all the other, you know... If you tried to get up to that road, you had to go, you know, it's a hill.
+
+47
+00:02:36,020 --> 00:02:38,920
+Scott: But once you're on the road, long road without going up or down.
+
+48
+00:02:39,323 --> 00:02:40,800
+Scott: The top of the hill was long.
+
+49
+00:02:41,620 --> 00:02:44,379
+Rym: But this place where we hike is part of the Croton Reservoir, too.
+
+50
+00:02:45,702 --> 00:02:47,680
+Rym: And unlike, usually we camp down in the valleys.
+
+51
+00:02:48,281 --> 00:02:52,780
+Rym: And you hear the fart cars and the motorcycles resonating off in the distance.
+
+52
+00:02:52,860 --> 00:02:53,597
+Rym: You can't escape it.
+
+53
+00:02:54,061 --> 00:03:01,780
+Rym: But where we camped last time, up in the top, it's like this giant plains up in the top of the, like, one of the mountains.
+
+54
+00:03:02,221 --> 00:03:03,840
+Rym: So you actually don't hear the cars up there.
+
+55
+00:03:04,040 --> 00:03:04,700
+Rym: It was kind of amazing.
+
+56
+00:03:05,060 --> 00:03:05,995
+Rym: Like, I would camp there again.
+
+57
+00:03:06,056 --> 00:03:06,320
+Rym: It's great.
+
+58
+00:03:06,726 --> 00:03:07,280
+Scott: But it's colder.
+
+59
+00:03:08,381 --> 00:03:08,503
+Rym: Eh.
+
+60
+00:03:08,766 --> 00:03:12,940
+Rym: I mean, we don't... So, as much as I like the outdoors, I don't camp when it's cold.
+
+61
+00:03:13,080 --> 00:03:13,503
+Rym: Fuck that.
+
+62
+00:03:13,524 --> 00:03:14,330
+Rym: Fuck that.
+
+63
+00:03:14,411 --> 00:03:15,137
+Rym: I got enough as a kid.
+
+64
+00:03:16,202 --> 00:03:17,620
+Rym: Once it's cold, I'm not camping.
+
+65
+00:03:17,720 --> 00:03:22,597
+Rym: I'll hike, I'll bike, but I'm not spending the night outside when it is below, like, 50 degrees at night.
+
+66
+00:03:25,040 --> 00:03:29,955
+Rym: But while we're hiking in with our packs, we pass someone on the trail and they're like, "Oh, hey, heads up.
+
+67
+00:03:30,316 --> 00:03:30,978
+Rym: There's a bear
+
+68
+00:03:31,018 --> 00:03:31,278
+Rym: ahead.".
+
+69
+00:03:31,900 --> 00:03:36,000
+Rym: And we've never encountered a bear in this part, despite this part being lousy with black bears.
+
+70
+00:03:36,420 --> 00:03:38,525
+Rym: And we get kind of excited, like, "I'd like to see a bear.
+
+71
+00:03:38,605 --> 00:03:44,699
+Rym: I haven't seen a bear up close in person, really, like, ever, except as a little kid doing, like, Cub Scout stuff off in the
+
+72
+00:03:44,740 --> 00:03:44,920
+Rym: distance.".
+
+73
+00:03:45,741 --> 00:03:48,329
+Rym: So, and the guy, but then the guy's like, "But don't worry.
+
+74
+00:03:48,369 --> 00:03:49,272
+Rym: He's just sitting there.
+
+75
+00:03:49,332 --> 00:03:50,556
+Rym: He's not bothering anyone.
+
+76
+00:03:50,777 --> 00:03:51,619
+Rym: We just wanted you to
+
+77
+00:03:51,659 --> 00:03:51,800
+Rym: know.".
+
+78
+00:03:52,582 --> 00:03:58,880
+Rym: So we kind of get excited and we hike and we don't see a bear, so we set up our camp and then we go hiking off some more.
+
+79
+00:03:59,440 --> 00:04:01,992
+Rym: We pass another group of people and they're like, "Oh, watch out.
+
+80
+00:04:02,454 --> 00:04:03,579
+Rym: There's a bear on the
+
+81
+00:04:03,619 --> 00:04:03,840
+Rym: trail.".
+
+82
+00:04:04,861 --> 00:04:07,536
+Rym: And we keep running to people and say, "Oh, yeah, something, something.
+
+83
+00:04:07,556 --> 00:04:07,838
+Rym: There's a
+
+84
+00:04:07,878 --> 00:04:08,119
+Rym: bear.".
+
+85
+00:04:08,661 --> 00:04:18,860
+Rym: And we're starting to wonder if someone saw a bear, they warned someone else, and then people just keep warning each other about the bear, but no one has seen the bear in, like, a day.
+
+86
+00:04:19,221 --> 00:04:22,040
+Rym: It's just passing this warning around, 'cause we haven't seen any bear.
+
+87
+00:04:23,582 --> 00:04:24,400
+Rym: So then we're hiking back...
+
+88
+00:04:24,400 --> 00:04:26,000
+Scott: But there are bear in that woods.
+
+89
+00:04:26,200 --> 00:04:30,958
+Rym: I mean, there are lots of black bears in those woods, like, tons of black bears.
+
+90
+00:04:31,620 --> 00:04:33,040
+Scott: Yes, it is a bear place.
+
+91
+00:04:33,740 --> 00:04:34,577
+Rym: Now, I will say...
+
+92
+00:04:34,861 --> 00:04:35,403
+Scott: It's not like.
+
+93
+00:04:35,443 --> 00:04:38,156
+Scott: people are making it up and being like, "Oh, yeah, there's a, there's a
+
+94
+00:04:38,216 --> 00:04:38,859
+Scott: jabberwocka.".
+
+95
+00:04:41,020 --> 00:04:46,933
+Rym: But I'm not, like, an expert in, like, backcountry bear stuff.
+
+96
+00:04:46,973 --> 00:04:48,216
+Rym: Like, I'm not a bear expert.
+
+97
+00:04:48,256 --> 00:04:50,120
+Rym: However, I am an expert hiker.
+
+98
+00:04:50,640 --> 00:04:53,199
+Rym: It's not just Cub Scout stuff, like, I've followed up since then.
+
+99
+00:04:53,761 --> 00:04:57,160
+Rym: So I broadly know all the things you need to know.
+
+100
+00:04:57,500 --> 00:04:58,639
+Scott: What you saw on YouTube.
+
+101
+00:04:59,363 --> 00:05:00,859
+Rym: Not just that, I've actually read some books.
+
+102
+00:05:01,943 --> 00:05:02,840
+Scott: Oh, you read a whole book.
+
+103
+00:05:02,920 --> 00:05:03,321
+Scott: Yeah.
+
+104
+00:05:03,662 --> 00:05:05,004
+Rym: Plus I got lessons on this as a kid.
+
+105
+00:05:05,024 --> 00:05:12,480
+Rym: It's like, I know the parameters of black bears and interactions with them when you are not in a zoo.
+
+106
+00:05:12,801 --> 00:05:15,651
+Rym: Like, I know what to do, I know all the stuff.
+
+107
+00:05:16,073 --> 00:05:17,940
+Rym: Like, we carry a bear canister for our food.
+
+108
+00:05:18,120 --> 00:05:20,130
+Scott: You know, you know what someone told you to do.
+
+109
+00:05:20,150 --> 00:05:22,060
+Scott: It's a question of, is that person right?
+
+110
+00:05:23,061 --> 00:05:26,088
+Rym: I would say that I trust the consensus of many experts.
+
+111
+00:05:26,148 --> 00:05:31,740
+Rym: Like, black bears, like, if I have to summarize it, black bears are little babies.
+
+112
+00:05:32,406 --> 00:05:33,820
+Scott: They are easily startled.
+
+113
+00:05:34,040 --> 00:05:35,090
+Scott: It's not a grizzly bear.
+
+114
+00:05:35,131 --> 00:05:35,999
+Scott: It's not a polar bear.
+
+115
+00:05:36,420 --> 00:05:36,480
+Rym: No.
+
+116
+00:05:36,500 --> 00:05:37,101
+Rym: It's a black bear.
+
+117
+00:05:37,162 --> 00:05:38,324
+Rym: Black bears are little babies.
+
+118
+00:05:38,364 --> 00:05:46,120
+Rym: Like, go on YouTube, you'll see videos of, like, a tiny cat hissing at a black bear and the black bear runs away like God is coming to smite it.
+
+119
+00:05:46,780 --> 00:05:55,291
+Rym: Black bears are friendly and chill, but at the same time, as a human, you shouldn't be interacting up close with a black bear because even if the black bear- They'll still fuck you up.
+
+120
+00:05:55,352 --> 00:05:55,939
+Scott: It's still a bear.
+
+121
+00:05:56,000 --> 00:06:06,300
+Rym: Yeah, even if the black bear is 100% friendly and chill, the bear might just, like, give you a friendly little swat of the paw and you don't want that to happen as a human.
+
+122
+00:06:07,961 --> 00:06:09,459
+Rym: That is bad news bear.
+
+123
+00:06:10,081 --> 00:06:13,920
+Scott: Even if you're, like, a monster like Zangief, you don't want to fuck with the bear.
+
+124
+00:06:14,120 --> 00:06:14,252
+Scott: Nope.
+
+125
+00:06:15,582 --> 00:06:20,520
+Scott: That's only in the animes where, you know, a big strong person can fuck with the bear.
+
+126
+00:06:20,640 --> 00:06:25,055
+Scott: In real life, the biggest strongest person, Muhammad Ali, could not fuck with the bear.
+
+127
+00:06:25,757 --> 00:06:26,560
+Scott: Even in his prime.
+
+128
+00:06:27,800 --> 00:06:34,867
+Rym: But the other- it's also for the bear's safety because if bears get too acclimated to humans, then they will approach humans.
+
+129
+00:06:35,608 --> 00:06:46,680
+Rym: and even if those interactions don't come to any harm, eventually that bear is gonna approach a human who reacts the wrong way and a tragic situation is gonna come and usually the only recourse is to kill the bear.
+
+130
+00:06:47,301 --> 00:06:50,068
+Rym: So, it's good for everybody to keep away from bears.
+
+131
+00:06:50,428 --> 00:06:52,874
+Rym: And I would say that I know all about what to do about bears.
+
+132
+00:06:53,455 --> 00:06:55,620
+Rym: So, we assume we're not gonna see this bear.
+
+133
+00:06:55,800 --> 00:06:56,900
+Scott: Hide your picnic basket.
+
+134
+00:06:58,101 --> 00:06:58,722
+Rym: Kind of literally.
+
+135
+00:06:58,782 --> 00:07:00,725
+Rym: Like, when you camp, you make a triangle.
+
+136
+00:07:01,065 --> 00:07:11,460
+Rym: Your tent is in one spot, you go a distance away, you cook over there, and then you go a third distance away to make a triangle and that's where you actually store all your food.
+
+137
+00:07:12,300 --> 00:07:13,203
+Rym: Anything that smells.
+
+138
+00:07:13,483 --> 00:07:16,090
+Rym: Like, there's all these procedures you should follow in the woods if you're camping.
+
+139
+00:07:16,612 --> 00:07:19,800
+Rym: But not to spend an hour talking about bear protocol in the woods.
+
+140
+00:07:20,520 --> 00:07:22,544
+Rym: So, we assume we're not gonna see this bear.
+
+141
+00:07:22,805 --> 00:07:30,440
+Rym: We're on our way back from a very long hike toward our campsite to then cook dinner and get, you know, sit by the lake and enjoy that natural splendor.
+
+142
+00:07:31,021 --> 00:07:39,580
+Rym: And we see up ahead in the trail, which is the only direct trail back to our campsite, a bunch of people and they're all milling around and they're agitated.
+
+143
+00:07:40,221 --> 00:07:41,524
+Rym: It's like a bunch of Korean tourists.
+
+144
+00:07:41,604 --> 00:07:49,040
+Rym: it looks like and just like one white guy who's kind of standing near them and then another little group of people just kind of standing around.
+
+145
+00:07:49,500 --> 00:07:51,784
+Rym: And everyone's just kind of standing there like milling and nervous.
+
+146
+00:07:52,105 --> 00:07:58,035
+Rym: and we walk up and the one guy runs over us right away and he's like, "So, there's a bear over there.
+
+147
+00:07:58,055 --> 00:07:59,378
+Rym: Are you guys bear experts?
+
+148
+00:07:59,418 --> 00:08:00,039
+Rym: Like, what do we
+
+149
+00:08:00,059 --> 00:08:00,159
+Rym: do?".
+
+150
+00:08:01,022 --> 00:08:04,460
+Scott: Isn't there a park ranger-y type, you know, group out there?
+
+151
+00:08:04,540 --> 00:08:04,741
+Scott: No.
+
+152
+00:08:05,303 --> 00:08:10,360
+Rym: You're basically not going to encounter anyone official in the woods unless you're really unlucky.
+
+153
+00:08:10,580 --> 00:08:15,120
+Rym: Because usually you only encounter them if you're camping somewhere you shouldn't and they happen to walk by.
+
+154
+00:08:15,580 --> 00:08:17,059
+Scott: Where's Ranger Smith when you need him?
+
+155
+00:08:18,440 --> 00:08:22,253
+Rym: So, basically, they're like, "There's a bear over there.
+
+156
+00:08:22,734 --> 00:08:23,818
+Rym: We don't know what to
+
+157
+00:08:23,878 --> 00:08:24,039
+Rym: do.".
+
+158
+00:08:26,481 --> 00:08:32,440
+Rym: Emily and I are about to explain to the group because we don't see a bear and we need to hike that way as well.
+
+159
+00:08:32,659 --> 00:08:46,819
+Rym: So we're about to explain like, "Alright, clearly none of you know, here are the basics of bears in the woods and then we're going to offer to lead them forward on the trail and if we encounter the bear then we'll do the right thing and it'll all be
+
+160
+00:08:46,859 --> 00:08:47,099
+Rym: fine.".
+
+161
+00:08:47,640 --> 00:08:50,707
+Rym: But as I'm explaining this to them, they all go,
+
+162
+00:08:50,727 --> 00:08:51,088
+Rym: "Ah!".
+
+163
+00:08:51,509 --> 00:08:56,120
+Rym: and I look and the bear comes right up over the trail and he's walking right toward us.
+
+164
+00:08:56,460 --> 00:08:58,280
+Rym: Now, this bear is- He's coming.
+
+165
+00:08:58,540 --> 00:08:58,920
+Rym: He's coming.
+
+166
+00:08:59,140 --> 00:08:59,460
+Scott: He's coming.
+
+167
+00:08:59,960 --> 00:09:02,551
+Rym: And he is big for a black bear.
+
+168
+00:09:02,812 --> 00:09:04,540
+Rym: Like, this is a big bear.
+
+169
+00:09:05,360 --> 00:09:05,849
+Scott: Daddy bear?
+
+170
+00:09:05,951 --> 00:09:06,440
+Scott: Mommy bear?
+
+171
+00:09:06,680 --> 00:09:07,063
+Rym: Uh, yep.
+
+172
+00:09:07,425 --> 00:09:07,928
+Rym: I can't tell.
+
+173
+00:09:07,988 --> 00:09:09,980
+Rym: The sexual dimorphism is not that strong.
+
+174
+00:09:10,582 --> 00:09:13,800
+Scott: I don't know either but I'm just saying it's an adult bear, not a baby bear.
+
+175
+00:09:13,800 --> 00:09:14,741
+Rym: This is a big bear.
+
+176
+00:09:15,462 --> 00:09:32,920
+Rym: And I will say, in my, uh, not expert but at least moderately learned, uh, like, in my- I would say this bear was perfectly friendly, not aggressive, like, he wasn't really a danger unless you scared him or fucked up in some way.
+
+177
+00:09:33,560 --> 00:09:39,980
+Rym: Meanwhile, all these people, they're on the verge of, like, running away and maybe yelling, which is going to be a bad situation.
+
+178
+00:09:40,080 --> 00:09:41,119
+Scott: Well then the bear would chase one of them.
+
+179
+00:09:41,280 --> 00:09:41,646
+Scott: Maybe.
+
+180
+00:09:41,748 --> 00:09:42,379
+Rym: That's a big problem.
+
+181
+00:09:42,420 --> 00:09:42,748
+Scott: Yeah.
+
+182
+00:09:44,002 --> 00:09:47,211
+Rym: So we basically get- we're basically like, "Alright everybody, shut up.
+
+183
+00:09:47,953 --> 00:09:48,375
+Rym: Follow our
+
+184
+00:09:48,415 --> 00:09:48,655
+Rym: lead.".
+
+185
+00:09:49,137 --> 00:09:50,240
+Rym: And we do the bear protocol.
+
+186
+00:09:50,520 --> 00:09:58,015
+Rym: So Emily and I take a step toward the bear and we start yelling at the bear, like, "Bear, get the fuck out of here!
+
+187
+00:09:58,035 --> 00:09:58,876
+Rym: Roar!"
+
+188
+00:09:58,936 --> 00:10:00,760
+Rym: and blowing a whistle and making big arms.
+
+189
+00:10:01,541 --> 00:10:13,060
+Rym: And after a beat, and this is to the credit of these scared tourists who have no idea what to do and a gigantic bear is pretty close to them, after a few seconds, they all join in.
+
+190
+00:10:13,740 --> 00:10:21,920
+Rym: So I want to now cut to what this bear perceived because this bear basically comes over a hill and sees a group of monkeys hanging out.
+
+191
+00:10:22,502 --> 00:10:26,620
+Rym: And the monkeys immediately start screaming at it and acting super aggressive.
+
+192
+00:10:27,320 --> 00:10:29,187
+Rym: And the bear does the bear equivalent of,
+
+193
+00:10:29,207 --> 00:10:29,809
+Rym: "Nope!"
+
+194
+00:10:30,231 --> 00:10:32,620
+Rym: and fucks off as fast as possible.
+
+195
+00:10:34,105 --> 00:10:35,179
+Rym: And nobody saw the bear again.
+
+196
+00:10:35,880 --> 00:10:39,487
+Rym: So we explain to this group, like, "That's what you do if you encounter a black bear.
+
+197
+00:10:39,527 --> 00:10:40,369
+Rym: They're little babies.
+
+198
+00:10:40,749 --> 00:10:44,456
+Rym: Get big, wave your arms, yell at them, and 99% of the time, just like you.
+
+199
+00:10:46,600 --> 00:10:57,100
+Rym: Imagine, Scott, if you came over the ridge and you saw a bunch of little howler monkeys and they all immediately looked at you and started screaming at you and waving their arms at you, what would you do?
+
+200
+00:10:58,824 --> 00:10:59,780
+Scott: Uh, I'm a bear, though.
+
+201
+00:11:00,460 --> 00:11:01,024
+Rym: But you're a human.
+
+202
+00:11:01,044 --> 00:11:01,527
+Rym: You're Scott.
+
+203
+00:11:01,588 --> 00:11:02,453
+Rym: And it's little monkeys.
+
+204
+00:11:02,473 --> 00:11:03,400
+Scott: They're only, like, a foot tall.
+
+205
+00:11:03,640 --> 00:11:06,070
+Scott: I mean, if I'm a human, I'm not fucking with any kind of monkey.
+
+206
+00:11:06,190 --> 00:11:08,520
+Scott: But if I'm a bear, I'll fucking eat that monkey.
+
+207
+00:11:08,980 --> 00:11:10,269
+Scott: Does a monkey taste good for a bear?
+
+208
+00:11:10,309 --> 00:11:11,235
+Scott: I mean, bears like fish.
+
+209
+00:11:11,255 --> 00:11:12,000
+Scott: They don't really like monkeys.
+
+210
+00:11:12,100 --> 00:11:13,432
+Rym: I mean, actually, you know what bears mostly like?
+
+211
+00:11:13,795 --> 00:11:14,319
+Rym: Berries.
+
+212
+00:11:15,461 --> 00:11:16,228
+Scott: Yeah, for sure.
+
+213
+00:11:16,248 --> 00:11:17,800
+Scott: And picnic baskets.
+
+214
+00:11:18,080 --> 00:11:21,480
+Rym: In fact, you want to know why there's so many, part of why there's such a big bear population in Harriman?
+
+215
+00:11:22,200 --> 00:11:28,700
+Rym: The Harriman part is, like, there are so many blueberry and blackberry bushes in Harriman, it's amazing.
+
+216
+00:11:28,880 --> 00:11:29,350
+Scott: H-U-N-N-Y.
+
+217
+00:11:30,300 --> 00:11:35,520
+Rym: So, yeah, I think we saved a bunch of tourists from possibly having a bad encounter with a bear, and I think they know what to do.
+
+218
+00:11:35,540 --> 00:11:37,359
+Scott: You could have just fed one tourist to the bear.
+
+219
+00:11:37,740 --> 00:11:41,260
+Rym: I mean, yeah, but I couldn't tell offhand if any of them were bad people.
+
+220
+00:11:42,604 --> 00:11:43,070
+Scott: I don't know.
+
+221
+00:11:43,090 --> 00:11:43,536
+Scott: They never know.
+
+222
+00:11:45,041 --> 00:11:46,086
+Rym: So, I guess we can get into the news.
+
+223
+00:11:46,287 --> 00:11:48,660
+Rym: So, the nightmare is over.
+
+224
+00:11:49,882 --> 00:12:00,660
+Rym: The Intel issue that AMD nerds talked about a lot more than anyone else did is fully, fully resolved, and there's an article on The Verge that explains everything that happened.
+
+225
+00:12:00,981 --> 00:12:15,340
+Rym: I'm not going to summarize the entire thing for you, but if you were curious about the issue, where 13th and 14th generation Intel chips were, in certain circumstances, desktop and server devices only, having instability, this is the full story.
+
+226
+00:12:16,020 --> 00:12:26,040
+Rym: But the highlights that I think are important is one of the hardest things to troubleshoot in hardware is when more than one thing is wrong at the same time.
+
+227
+00:12:26,580 --> 00:12:31,460
+Rym: Like, that makes it orders of magnitude more difficult to troubleshoot anything.
+
+228
+00:12:31,680 --> 00:12:33,480
+Rym: That just, like, really makes it hard.
+
+229
+00:12:34,060 --> 00:12:38,500
+Scott: The fact that they could even find what was wrong is, like, wow, that's not easy.
+
+230
+00:12:38,941 --> 00:12:44,300
+Rym: So, there are four independent operating scenarios causing the problem.
+
+231
+00:12:46,261 --> 00:12:58,319
+Rym: One of them is a bug in some BIOS code and microcode that caused the CPU to basically get too much voltage, especially when it was idle and not doing that much.
+
+232
+00:12:59,100 --> 00:13:15,239
+Rym: There was another bug in an algorithm inside of the microcode that would cause the CPU to request too much voltage, which would then change in average somewhere, which then caused the voltage minimum to slowly creep up, which would just cause it to increasingly send more and more voltage to the CPU.
+
+233
+00:13:17,142 --> 00:13:19,817
+Rym: There was one other issue that's similar to those two.
+
+234
+00:13:20,840 --> 00:13:31,039
+Rym: And, actually, one of the primary causes was the same thing that you and I suggested way back at the beginning of this whole thing.
+
+235
+00:13:33,180 --> 00:13:39,400
+Rym: Motherboards had bullshit settings that were sending way too much voltage and not following Intel's recommendations.
+
+236
+00:13:41,700 --> 00:13:43,558
+Rym: So, my professional advice to you.
+
+237
+00:13:44,501 --> 00:13:48,080
+Rym: One, if you have an Intel chip that's affected by this, update the microcode.
+
+238
+00:13:48,220 --> 00:13:50,720
+Rym: You need version 129 or your CPU will die.
+
+239
+00:13:50,840 --> 00:13:58,119
+Scott: If you just update your motherboard's BIOS to the newest, and there will be a new one if your motherboard supports this kind of chip, and that's all you have to do.
+
+240
+00:13:58,381 --> 00:14:03,377
+Rym: And if your motherboard manufacturer does not provide an update that includes microcode update 0x129.
+
+241
+00:14:04,540 --> 00:14:05,400
+Scott: It seems very unlikely.
+
+242
+00:14:05,540 --> 00:14:06,539
+Rym: There are some shit here.
+
+243
+00:14:07,021 --> 00:14:11,240
+Rym: There's a lot of people complaining that their motherboard manufacturer hasn't provided an update.
+
+244
+00:14:12,401 --> 00:14:17,417
+Scott: I mean, everyone has an Asus or a Gigabyte or an MSI or one of those.
+
+245
+00:14:17,538 --> 00:14:18,280
+Scott: It's gonna be fine.
+
+246
+00:14:18,540 --> 00:14:25,400
+Rym: The only people who are having that problem are people who bought made-up brand motherboards from bullshit websites.
+
+247
+00:14:27,375 --> 00:14:27,660
+Rym: I guess.
+
+248
+00:14:28,843 --> 00:14:28,963
+Rym: Yep.
+
+249
+00:14:29,485 --> 00:14:34,780
+Rym: But do not overclock your CPUs in the year 2024.
+
+250
+00:14:34,780 --> 00:14:38,980
+Rym: Do not turn on "make the computer faster" options on your motherboard.
+
+251
+00:14:39,440 --> 00:14:40,698
+Rym: They are always a bad idea.
+
+252
+00:14:41,240 --> 00:14:47,639
+Scott: Your computer will be fast enough if you spent the right amount of money without any additional oomph.
+
+253
+00:14:47,881 --> 00:14:49,320
+Scott: My computer is not overclocked.
+
+254
+00:14:49,540 --> 00:14:57,798
+Rym: I'm using the actual stock settings that Intel recommends, and my CPU with its 24 cores is running at 5.5 GHz.
+
+255
+00:14:59,440 --> 00:15:00,819
+Rym: That is fucking enough.
+
+256
+00:15:01,780 --> 00:15:03,385
+Scott: Right.
+
+257
+00:15:04,629 --> 00:15:21,839
+Scott: If you need your computer to do work and accomplish things because it is a tool, and you're not just playing with your computer itself for no real purpose other than to play with the computer, then if you're trying to accomplish tasks, then stability is always a higher priority than performance.
+
+258
+00:15:23,021 --> 00:15:28,520
+Scott: If your computer crashes or breaks, you cannot accomplish anything at any speed.
+
+259
+00:15:29,200 --> 00:15:37,217
+Scott: It's okay to then say, "Well, if I do it, I might be able to do it a minute faster with these settings, but there's a risk of it not working at
+
+260
+00:15:37,338 --> 00:15:37,419
+Scott: all.".
+
+261
+00:15:38,421 --> 00:15:38,845
+Scott: Just do it.
+
+262
+00:15:38,885 --> 00:15:39,712
+Scott: Wait one more minute.
+
+263
+00:15:39,994 --> 00:15:40,720
+Scott: It's gonna be fine.
+
+264
+00:15:41,581 --> 00:15:50,687
+Rym: It's not like I overclocked, but the time I overclocked was when I had an 800 MHz processor, and I could make it 20% faster.
+
+265
+00:15:50,767 --> 00:15:53,780
+Rym: Back then, that was a huge difference.
+
+266
+00:15:54,640 --> 00:15:56,400
+Rym: Nothing like that matters in modern computing.
+
+267
+00:15:57,622 --> 00:16:01,760
+Scott: Your video game is gonna have a few extra FPS that you'll never be able to see or tell the difference.
+
+268
+00:16:02,081 --> 00:16:04,600
+Rym: Most of you probably have your monitor stuck at 60 anyway.
+
+269
+00:16:04,640 --> 00:16:07,280
+Scott: I would prefer the game to not crash in the middle of a match.
+
+270
+00:16:07,703 --> 00:16:10,260
+Scott: That would be worse than losing the frames, don't you think?
+
+271
+00:16:10,741 --> 00:16:11,478
+Rym: So you got any news?
+
+272
+00:16:13,521 --> 00:16:20,973
+Scott: Yeah, so usually I don't like to do a news of like, "Oh, popular common piece of software got an update," because you can just do that news 10,000 times a day.
+
+273
+00:16:22,661 --> 00:16:28,520
+Scott: But Python 3.13 was released, and there are some notable things.
+
+274
+00:16:29,660 --> 00:16:41,006
+Scott: The one thing that's really shocking is if anyone's ever programmed in Python, you might know, it has this built-in interpreter where you go to the terminal, you type Python, and it opens up a REPL, right, which is basically just.
+
+275
+00:16:41,066 --> 00:16:42,960
+Scott: you can type Python one line at a time.
+
+276
+00:16:43,040 --> 00:16:49,200
+Scott: When you press enter, it'll execute the Python you typed, and that's a very handy tool for testing code.
+
+277
+00:16:51,582 --> 00:16:55,720
+Scott: The official Python interpreter has basically fallen out of favor.
+
+278
+00:16:55,860 --> 00:17:12,020
+Scott: You really only use it kind of like when you have to because it's kind of, you know, the minimal implementation, and there are alternatives like IPython and BPython and all these other ones, but IPython's the main one, that are just better in terms of user interface.
+
+279
+00:17:13,060 --> 00:17:22,319
+Scott: They just added colors in the year 2024, a programming language that's been around for decades.
+
+280
+00:17:23,240 --> 00:17:28,515
+Scott: They added color to the interpreter, to the command line interpreter.
+
+281
+00:17:30,301 --> 00:17:31,660
+Rym: What a time to be alive.
+
+282
+00:17:32,400 --> 00:17:50,540
+Scott: Right, that they're going to... It's a sign that they're actually going to invest in maybe making it so that IPython eventually is no longer needed, right, if they... Other notable things, supposedly iOS and Android are now supported platforms on Tier 3.
+
+283
+00:17:50,540 --> 00:17:52,314
+Scott: I don't know what the tiers mean.
+
+284
+00:17:52,334 --> 00:17:53,040
+Scott: I didn't look into that.
+
+285
+00:17:53,181 --> 00:17:54,851
+Rym: I have no idea what those tiers are.
+
+286
+00:17:54,871 --> 00:17:56,039
+Rym: I've never encountered that before.
+
+287
+00:17:57,964 --> 00:18:00,000
+Scott: But it's like, okay, what does that even mean?
+
+288
+00:18:00,160 --> 00:18:12,760
+Scott: It's like, as far as I know, I still cannot write a program in Python, even on this Mac, and then create an executable that I could then have Apple sign and put in the App Store.
+
+289
+00:18:12,840 --> 00:18:17,820
+Scott: If there's a way to do that, someone send me the tutorial on how to do that because I'll do the Hello World.
+
+290
+00:18:18,420 --> 00:18:22,960
+Scott: But it's like, how is it really supported, right?
+
+291
+00:18:23,381 --> 00:18:35,120
+Scott: But if it's at Tier 3 now, there is progress and there is, again, a sign that they're going to try to get to that level if they're not at that level yet.
+
+292
+00:18:37,182 --> 00:18:41,100
+Scott: And then there is a experimental JIT, right?
+
+293
+00:18:41,220 --> 00:18:55,260
+Scott: People don't know JIT, J-I-T, means just in time for just in time compilation, which is basically... Instead of compiling code in advance and giving a binary or interpreting code, right?
+
+294
+00:18:55,820 --> 00:19:00,313
+Scott: Just in time compiling is you have the code and then you compile it and use it.
+
+295
+00:19:00,815 --> 00:19:02,500
+Scott: at the moment you're going to use it, right?
+
+296
+00:19:03,121 --> 00:19:05,900
+Scott: And that's a very powerful computing architecture pattern.
+
+297
+00:19:05,920 --> 00:19:09,440
+Rym: There are a lot of advantages to just in time practices.
+
+298
+00:19:09,501 --> 00:19:10,560
+Scott: Yes, it's very common.
+
+299
+00:19:11,720 --> 00:19:13,463
+Scott: And it's something actually that's keeping.
+
+300
+00:19:14,003 --> 00:19:25,160
+Scott: the fact that Apple does not allow it in apps that go in the App Store is what's keeping a lot of emulators from having enough performance to be worth deploying.
+
+301
+00:19:25,620 --> 00:19:36,820
+Scott: The emulators for the higher powered platforms are not really able to get in the App Store because if they don't use JIT, then the game is going to run slow as balls to where it's useless, right?
+
+302
+00:19:37,622 --> 00:19:44,500
+Scott: But when you run those same emulators on your normal computer, they're using that technique and that's what's making the game run quickly.
+
+303
+00:19:45,200 --> 00:19:56,360
+Scott: Python has a preliminary experimental JIT that doesn't really yet provide significant performance enhancement, but it will someday.
+
+304
+00:19:56,600 --> 00:20:04,619
+Rym: But I mean, the fact that the word preliminary and the word experimental appear in this should tell you what the state of this thing is.
+
+305
+00:20:06,142 --> 00:20:16,700
+Scott: And then the final thing is that there's this notorious part of Python called the GIL, the global interpreter lock, which is what the main bit is going to be about.
+
+306
+00:20:18,080 --> 00:20:23,879
+Scott: But they have, you know, it's basically been this thing for a long time where people are like, "Oh, Python is so
+
+307
+00:20:23,919 --> 00:20:24,180
+Scott: slow.".
+
+308
+00:20:24,941 --> 00:20:28,700
+Scott: They blame this GIL thing that they only half understand.
+
+309
+00:20:31,260 --> 00:20:35,700
+Scott: And Python has basically finally been in version 3.13.
+
+310
+00:20:35,700 --> 00:20:41,500
+Scott: They have an experimental free threaded build mode, which will disable the GIL.
+
+311
+00:20:41,720 --> 00:20:50,820
+Scott: Now, if your code is not thread safe and you enable this, you know, if you disable the GIL, your code is going to be busted.
+
+312
+00:20:53,345 --> 00:20:54,980
+Scott: Your program will fail, probably.
+
+313
+00:20:55,601 --> 00:21:14,480
+Scott: But if you write code in a certain way and your code is such that you have lots of long running computations that are written in pure Python and they need to run in parallel, this will theoretically on paper dramatically increase your performance.
+
+314
+00:21:14,620 --> 00:21:24,760
+Scott: So and the fact that, you know, this is here again is a signal that a future version of Python, they're going to work towards it just being off by default all the time.
+
+315
+00:21:25,784 --> 00:21:26,108
+Scott: I don't know.
+
+316
+00:21:26,128 --> 00:21:27,160
+Scott: You know, we'll see it someday.
+
+317
+00:21:27,660 --> 00:21:28,458
+Rym: Free threaded builds.
+
+318
+00:21:29,341 --> 00:21:37,200
+Scott: And then that's only exciting, not because I write a lot of code that will take advantage of that, but because people can stop fucking complaining.
+
+319
+00:21:39,462 --> 00:21:43,020
+Scott: All these people on the internet can just shut the fuck up about the stupid GIL all the time.
+
+320
+00:21:43,020 --> 00:21:44,214
+Scott: They're like, "Oh, the
+
+321
+00:21:44,254 --> 00:21:44,436
+Scott: GIL!".
+
+322
+00:21:45,225 --> 00:21:46,619
+Scott: It's like, all right, now you can shut up.
+
+323
+00:21:46,960 --> 00:21:50,155
+Scott: Python 3.16 doesn't have that shit anymore.
+
+324
+00:21:50,175 --> 00:21:50,818
+Scott: Can it?
+
+325
+00:21:51,360 --> 00:21:58,000
+Rym: The only language I've written code that went into production at a real company was Java.
+
+326
+00:21:58,320 --> 00:22:05,040
+Rym: I've written only Java, and I never worried about threading and concurrency and any of that nonsense.
+
+327
+00:22:05,300 --> 00:22:06,080
+Scott: Well, Java has those things.
+
+328
+00:22:06,240 --> 00:22:08,735
+Rym: Yeah, but my code didn't need to worry about that.
+
+329
+00:22:08,775 --> 00:22:09,640
+Rym: My code was single threaded.
+
+330
+00:22:09,801 --> 00:22:13,239
+Scott: And if you don't write code that does that, it won't do this.
+
+331
+00:22:19,652 --> 00:22:22,150
+Rym: So things of the day.
+
+332
+00:22:22,991 --> 00:22:23,528
+Rym: So what do you got?
+
+333
+00:22:25,357 --> 00:22:25,990
+Scott: What did I have?
+
+334
+00:22:26,630 --> 00:22:28,129
+Rym: Popular Science from a Certain Date.
+
+335
+00:22:28,190 --> 00:22:32,410
+Scott: Oh yeah, I had a thing of the day recently that was an archive of Radio Shack catalogs.
+
+336
+00:22:33,250 --> 00:22:41,450
+Scott: But little did I know that Google, on their Google Books website, which has still not been deleted by Google for some reason.
+
+337
+00:22:41,510 --> 00:22:44,249
+Scott: I guess they're keeping books.google.com around for now.
+
+338
+00:22:45,931 --> 00:22:52,424
+Scott: They have an archive of every issue of Popular Science from the year the 2010s, no, the 2000s.
+
+339
+00:22:55,470 --> 00:23:00,784
+Scott: So the newest issue they have is March 2009.
+
+340
+00:23:00,784 --> 00:23:03,730
+Scott: So they basically stop at the middle of 2009.
+
+341
+00:23:03,730 --> 00:23:10,290
+Rym: You know, when I was in middle school, I got a co-op gig where I worked in the library for one period instead of going to class.
+
+342
+00:23:10,430 --> 00:23:11,173
+Rym: There was no work to do.
+
+343
+00:23:11,634 --> 00:23:16,790
+Rym: All I did was read every single Popular Science in the school library until I'd read all of them.
+
+344
+00:23:18,691 --> 00:23:21,841
+Scott: The final print issue of the magazine was April 2021.
+
+345
+00:23:21,841 --> 00:23:24,730
+Scott: Now it's all digital, so they don't have every issue.
+
+346
+00:23:24,910 --> 00:23:30,284
+Scott: But the first issue they have is from May 1872, which I believe is likely the first issue.
+
+347
+00:23:33,350 --> 00:23:37,570
+Rym: That is less than a decade after the end of the fucking Civil War.
+
+348
+00:23:38,331 --> 00:23:38,832
+Scott: That's right.
+
+349
+00:23:38,872 --> 00:23:42,181
+Scott: Yep, volume one, May to October 1872, is the first issue they have.
+
+350
+00:23:45,390 --> 00:23:54,130
+Scott: So somehow they got all these issues, which is already, the fact that those were all saved somewhere in some library, and then someone scanned them all.
+
+351
+00:23:54,690 --> 00:24:03,850
+Scott: But even if you don't need to read any of these, because obviously the old ones are going to have a lot of outdated info, so they're really good for more studying history than studying science.
+
+352
+00:24:04,231 --> 00:24:06,098
+Rym: I just clicked on this.
+
+353
+00:24:06,118 --> 00:24:08,829
+Rym: Do you know what the headline article is in that first one?
+
+354
+00:24:10,150 --> 00:24:13,578
+Rym: June, 1862, on the artificial production of stupidity in schools.
+
+355
+00:24:21,510 --> 00:24:23,464
+Rym: It appears to be complaining.
+
+356
+00:24:23,545 --> 00:24:24,270
+Scott: Nothing's changed.
+
+357
+00:24:25,050 --> 00:24:30,648
+Rym: All the way back to Rome, humans drawing dicks on stuff and complaining about the kids since the beginning of humans.
+
+358
+00:24:32,533 --> 00:24:39,070
+Scott: But at least in terms of, if you want to study science, you can learn some science, but obviously the older stuff won't be accurate.
+
+359
+00:24:40,251 --> 00:24:43,110
+Scott: You can learn about the history of popular science.
+
+360
+00:24:43,610 --> 00:24:50,390
+Scott: The thing I find most fascinating, of course, for me, is just the typography and graphic design over time.
+
+361
+00:24:50,750 --> 00:24:58,210
+Scott: And you can see how there was basically no color printing until 1920s, then the covers were in color.
+
+362
+00:24:58,993 --> 00:25:02,929
+Scott: And then you can see in the 90s, the shitty computer graphics start to enter the scene.
+
+363
+00:25:04,090 --> 00:25:15,970
+Scott: And just how the logo changes over time, and the quality of the illustrations that are done by hand, and how the artistic style of the drafts people.
+
+364
+00:25:17,050 --> 00:25:20,524
+Scott: If you look at the covers from the 30s, that art is museum-worthy.
+
+365
+00:25:24,934 --> 00:25:26,270
+Scott: But it's pretty cool.
+
+366
+00:25:27,152 --> 00:25:33,590
+Rym: I love the nature of the language from the late 1800s, because to read the first paragraph of this is really short.
+
+367
+00:25:34,611 --> 00:25:39,670
+Rym: "It is related of a learned judge that he once praised a retiring witness with the following words.
+
+368
+00:25:40,050 --> 00:25:41,875
+Rym: 'You were entitled to great credit, sir.
+
+369
+00:25:42,256 --> 00:25:44,302
+Rym: You must have taken infinite pains with yourself.
+
+370
+00:25:44,663 --> 00:25:46,789
+Rym: No man could naturally be so
+
+371
+00:25:46,969 --> 00:25:47,310
+Rym: stupid.'".
+
+372
+00:25:51,092 --> 00:25:51,594
+Rym: This is cool.
+
+373
+00:25:51,614 --> 00:25:52,637
+Rym: I think I'm going to read this article.
+
+374
+00:25:52,717 --> 00:25:56,609
+Rym: I'm going to read this issue of popular science after the show.
+
+375
+00:25:58,870 --> 00:25:59,733
+Rym: So, my thing of the day.
+
+376
+00:25:59,793 --> 00:26:02,039
+Rym: This is a 52-second video.
+
+377
+00:26:02,641 --> 00:26:03,805
+Rym: It is expertly produced.
+
+378
+00:26:03,905 --> 00:26:05,369
+Rym: It is titled "How May Blows Up the
+
+379
+00:26:05,389 --> 00:26:05,570
+Rym: Game.".
+
+380
+00:26:05,610 --> 00:26:07,213
+Rym: This is an Overwatch-like clip.
+
+381
+00:26:07,674 --> 00:26:16,030
+Rym: But the way Overwatch works, the video game, is when you play any match, all the telemetry is saved for a period of time.
+
+382
+00:26:16,492 --> 00:26:20,030
+Rym: So you can rewatch the match from any perspective.
+
+383
+00:26:20,730 --> 00:26:27,450
+Rym: You could literally play a game and then watch the entire game from the perspective of the guy who kept killing you to see what he was doing.
+
+384
+00:26:27,870 --> 00:26:28,962
+Rym: That's how it works.
+
+385
+00:26:28,983 --> 00:26:29,630
+Rym: It's fantastic.
+
+386
+00:26:30,194 --> 00:26:30,660
+Scott: Very good.
+
+387
+00:26:30,842 --> 00:26:31,410
+Scott: It's very good.
+
+388
+00:26:31,530 --> 00:26:36,490
+Scott: An essential, I wish that more multiplayer games did this sort of thing.
+
+389
+00:26:37,572 --> 00:26:42,070
+Scott: Why, for example, in Marvel Snap do we have to use third-party tools to track our own stats?
+
+390
+00:26:42,471 --> 00:26:48,390
+Scott: Why doesn't the game just let me see complete replays of every game I've ever played and all the stats of every game I've ever played.
+
+391
+00:26:48,870 --> 00:26:51,121
+Scott: It's like, just make that available to the players.
+
+392
+00:26:51,141 --> 00:26:53,010
+Scott: You could even charge a dollar for it.
+
+393
+00:26:54,050 --> 00:26:59,610
+Rym: Most competitive FPSs, that is like baked in day one, like day zero requirements.
+
+394
+00:26:59,810 --> 00:27:01,289
+Scott: That's a relatively recent development.
+
+395
+00:27:01,730 --> 00:27:02,152
+Rym: Modern ones.
+
+396
+00:27:02,173 --> 00:27:05,150
+Rym: Like, Overwatch has every stat you could ever want.
+
+397
+00:27:05,571 --> 00:27:14,870
+Rym: But this video is so well produced, but basically what this is, if you're not familiar with Overwatch, because the beauty of this is, this is sublime.
+
+398
+00:27:15,370 --> 00:27:25,070
+Rym: First you see the character Mei, who is the player, is in a mech suit, and a thing they can do is jump out of the mech suit and launch the mech suit forward.
+
+399
+00:27:25,570 --> 00:27:31,626
+Rym: And the mech suit flies off into the map, and then after a few seconds, explodes and kills everyone.
+
+400
+00:27:31,687 --> 00:27:32,348
+Rym: it can see.
+
+401
+00:27:32,388 --> 00:27:32,910
+Rym: It's like a nuke.
+
+402
+00:27:33,010 --> 00:27:34,825
+Scott: Well, isn't it coming really slow?
+
+403
+00:27:34,845 --> 00:27:35,470
+Scott: You can just run away?
+
+404
+00:27:35,731 --> 00:27:37,369
+Rym: Oh yeah, you don't get killed by this thing.
+
+405
+00:27:37,710 --> 00:27:40,690
+Scott: And then when you get out of your mech suit, you're really weak, and people can kill you easily.
+
+406
+00:27:40,970 --> 00:27:43,330
+Rym: Yep, and you can call a new mech suit down, but you can't right away.
+
+407
+00:27:43,370 --> 00:27:44,409
+Scott: Oh, you can get a new one, okay.
+
+408
+00:27:44,510 --> 00:27:45,750
+Rym: Yeah, but you can't do it right away.
+
+409
+00:27:46,452 --> 00:27:46,645
+Rym: Obviously.
+
+410
+00:27:47,650 --> 00:27:54,990
+Rym: So the video starts, you see D.Va has launched the nuke, and then it cuts to Mei.
+
+411
+00:27:55,130 --> 00:27:56,177
+Rym: Now, Mei is a different character.
+
+412
+00:27:56,197 --> 00:27:57,082
+Rym: Mei is on the other team.
+
+413
+00:27:57,525 --> 00:27:58,270
+Rym: Mei can do a thing.
+
+414
+00:27:58,792 --> 00:28:03,647
+Rym: Mei can basically pop up a temporary wall, like a super strong wall.
+
+415
+00:28:03,667 --> 00:28:04,630
+Rym: You can pop it up in the map.
+
+416
+00:28:05,510 --> 00:28:16,130
+Rym: So, what appears to be happening is that the nuke is launched at the enemy team, then we cut to Mei, and Mei appears to be attempting to throw up the wall to shield.
+
+417
+00:28:16,130 --> 00:28:18,590
+Scott: So that the enemy team cannot run, and then they get nuked.
+
+418
+00:28:19,973 --> 00:28:24,690
+Rym: So, Mei is trying to pop up the wall to block the nuke and save her own team.
+
+419
+00:28:25,531 --> 00:28:29,770
+Scott: Oh, I thought you were trying to trap their team in with the nuke, and they were both on the same team.
+
+420
+00:28:29,870 --> 00:28:33,190
+Rym: Ah, so Mei makes a mistake.
+
+421
+00:28:34,170 --> 00:28:35,409
+Scott: Oh, they put the wall in the wrong spot.
+
+422
+00:28:35,711 --> 00:28:43,750
+Rym: Mei not only puts the wall in the wrong spot, Mei puts the wall in the literal worst possible spot.
+
+423
+00:28:44,570 --> 00:28:55,810
+Rym: So the nuke lands, it's sitting there, it's about to go off, and then Mei's wall lifts it into the air, increasing its radius to ensure that it kills everyone.
+
+424
+00:28:56,350 --> 00:28:57,649
+Rym: Losing the game for her team.
+
+425
+00:28:59,071 --> 00:29:06,310
+Rym: But the production value, the music, this clip is just, this is what I love about competitive gaming, is everything that happens in this clip.
+
+426
+00:29:09,141 --> 00:29:18,320
+Scott: Is that a viable common strategy of using the wall and the nuke combo, both on the same team, to basically, you can't run, nuke, boom, you die?
+
+427
+00:29:18,500 --> 00:29:21,709
+Rym: Oh, that is like a core strategy if you're playing with those characters.
+
+428
+00:29:21,729 --> 00:29:25,480
+Rym: This game is all about coordinating with your team, and doing that kind of combo.
+
+429
+00:29:25,921 --> 00:29:33,340
+Scott: I appreciate a strategy of that nature, of like, I'm in trouble, turn around and run, oh, there's the wall, if I don't die from getting shot at, oh, the nuke's gone.
+
+430
+00:29:33,380 --> 00:29:40,500
+Rym: That's my strategy, I play Mei a lot, I wait for the enemy, like the big tank, to come forward, like leading a charge, and I throw the wall right behind him.
+
+431
+00:29:40,940 --> 00:29:48,880
+Rym: So now, he's alone, cut off from the rest of his team, and then the rest of my team comes in and kills him, and then the wall drops, and the rest of the team doesn't have a tank to protect them anymore.
+
+432
+00:29:50,180 --> 00:29:50,782
+Rym: It's a good game.
+
+433
+00:29:51,503 --> 00:29:55,029
+Rym: Anyway, metamoment, stay tuned for PAX Unplugged.
+
+434
+00:29:55,089 --> 00:30:01,040
+Rym: We are going to be there doing learn and play, that I can't announce yet, it's under embargo until the schedule goes up.
+
+435
+00:30:01,580 --> 00:30:08,880
+Rym: But we are going to teach everyone a game that we have not yet played, and I'm pretty excited about teaching this one to a group of people at PAX.
+
+436
+00:30:09,320 --> 00:30:14,500
+Rym: We're also doing a panel on Friday, take your fucking turn, gonna update it a little bit.
+
+437
+00:30:15,121 --> 00:30:21,560
+Rym: And otherwise, we're going to be at PAX Unplugged, playing tabletop games, if you live anywhere near Philadelphia, it's highly worth your while.
+
+438
+00:30:22,040 --> 00:30:25,239
+Rym: If you need a hotel in Philly, good fucking luck, because I'm pretty sure they're all sold out.
+
+439
+00:30:26,880 --> 00:30:30,359
+Rym: Magfest is coming up, of course, in January, we're going to be there too, doing a bunch of stuff.
+
+440
+00:30:30,980 --> 00:30:35,980
+Rym: But I think we should get right into the main bit, because Emily's cooking in there, and I can smell food, and I'm already drooling because I'm hungry.
+
+441
+00:30:36,721 --> 00:30:46,500
+Rym: So, in ancient times, computers, early computers, you could load a program into them, and that program would run to completion.
+
+442
+00:30:47,420 --> 00:30:50,229
+Rym: There were not multiple programs on a computer at the same time.
+
+443
+00:30:50,289 --> 00:30:53,740
+Rym: There wasn't even an operating system, there was a program.
+
+444
+00:30:54,461 --> 00:30:56,247
+Scott: Even when there was an operating system, right?
+
+445
+00:30:56,287 --> 00:31:00,400
+Scott: If you had DOS, DOS could not run two programs at once.
+
+446
+00:31:00,460 --> 00:31:10,460
+Scott: You would boot up your computer, and you would have DOS, and then you would run Doom.exe, and Doom.exe was basically controlling the whole computer.
+
+447
+00:31:10,621 --> 00:31:12,580
+Rym: Yup, nothing else is happening on your computer.
+
+448
+00:31:13,140 --> 00:31:16,679
+Scott: And then eventually, it would exit, and then DOS would take over again.
+
+449
+00:31:18,400 --> 00:31:27,800
+Scott: And there were some utilities in DOS that there were things available, like libraries and whatnot, drivers and things.
+
+450
+00:31:27,940 --> 00:31:31,516
+Scott: But Doom was the only program running on the computer.
+
+451
+00:31:31,797 --> 00:31:32,059
+Scott: The end.
+
+452
+00:31:33,160 --> 00:31:46,340
+Rym: So, when Windows came around, and there were many other, we're not going to go over the whole history of all this, but many of you might remember, if you're ancient like us, you know, Windows, even Windows 3.1, you would have a window with a program running in it.
+
+453
+00:31:46,940 --> 00:31:55,480
+Rym: But Windows was also in the background, and you could open a different window, and futz with a different program, and then go back to the first window, and that program was still there.
+
+454
+00:31:55,962 --> 00:31:59,840
+Rym: But even then, those computers could only do one thing at a time.
+
+455
+00:32:00,580 --> 00:32:01,001
+Scott: That's right.
+
+456
+00:32:01,241 --> 00:32:10,820
+Scott: If you had a video, let's say you had a video player, because there were video players for Windows 3.1, and it was playing a video, and then you opened up a minesweeper, right?
+
+457
+00:32:11,361 --> 00:32:16,455
+Scott: You couldn't have the video playing in the background, and a minesweeper in the foreground.
+
+458
+00:32:16,476 --> 00:32:18,000
+Scott: The video would stop playing.
+
+459
+00:32:19,081 --> 00:32:21,299
+Scott: The computer could only do one thing at a time.
+
+460
+00:32:21,740 --> 00:32:36,593
+Rym: And there were things that could happen sort of in the background, but what that really meant, and again, I'm super oversimplifying, is the computer, the operating system would basically say, "Alright, there's five programs running, then I'm just going to go in a loop.
+
+461
+00:32:36,873 --> 00:32:39,575
+Rym: Program one, you get to run for ten microseconds.
+
+462
+00:32:39,655 --> 00:32:40,316
+Rym: Alright, stop.
+
+463
+00:32:40,576 --> 00:32:42,297
+Rym: Program two, you get to run for a little while.
+
+464
+00:32:42,317 --> 00:32:43,358
+Rym: Alright, fuck you, stop.
+
+465
+00:32:43,638 --> 00:32:44,699
+Rym: Program three, you start
+
+466
+00:32:44,739 --> 00:32:45,000
+Rym: running.".
+
+467
+00:32:46,260 --> 00:32:56,940
+Rym: And slowly things got more complex, like we had the concept of interrupts, where a program could basically interrupt the processor and say, "Hey, I need you to do something else right now," and then go back to whatever you were doing.
+
+468
+00:32:57,480 --> 00:33:06,420
+Rym: But up until a lot more recently than you realize, unless you're as old as us, computers could functionally only do one thing at a time.
+
+469
+00:33:07,221 --> 00:33:26,680
+Scott: Yeah, there were some shenanigans, like people might want to talk about 386 Enhanced Mode, where basically, it's very complicated, but they would put the CPU in a mode, and then basically have virtual machines that different programs would run in, and it sort of felt like multitasking, but it wasn't really multitasking, it was sort of not.
+
+470
+00:33:27,980 --> 00:33:33,588
+Scott: Real multitasking didn't really come until Windows 95, and even then, it was kind of meh.
+
+471
+00:33:34,249 --> 00:33:38,636
+Scott: It had some issues, and it was only towards the 98, I don't even know if 98, maybe.
+
+472
+00:33:41,740 --> 00:33:45,046
+Rym: Not really, because there weren't multi-core processors.
+
+473
+00:33:45,066 --> 00:33:53,160
+Rym: You could have more threads at that point that were all active at the same time, but the CPU could still really only effectively do one thing at a time.
+
+474
+00:33:54,340 --> 00:34:07,080
+Scott: Yes, but the thing is, if you had Windows 2000, even though you only had one core in your CPU, you could still have video playing while you played Minesweeper.
+
+475
+00:34:07,981 --> 00:34:44,896
+Scott: The reason you could do that, even though you only had one core, is because it was a multitasking operating system, where the CPU, even though there was only one CPU, the CPU time was shared between processes, and the operating system would schedule, and a little bit of Minesweeper code would run, then a little bit of video code would run, and the CPU would switch back and forth between those, and so the video would keep playing at a pace, and the Minesweeper would keep playing, and it was fast enough that, you know, you playing the game and watching the video, it felt like you were doing two things at once.
+
+476
+00:34:44,916 --> 00:34:49,500
+Scott: You were really, truly multitasking, even though you only had one CPU core.
+
+477
+00:34:49,639 --> 00:34:49,821
+Rym: Yep.
+
+478
+00:34:50,101 --> 00:34:57,160
+Rym: Now, people who were extremely fancy would have a computer with a motherboard that had two CPUs.
+
+479
+00:34:58,560 --> 00:34:59,720
+Scott: Yeah, almost no one had those.
+
+480
+00:34:59,740 --> 00:35:04,320
+Scott: Well, in practice, even if you had that- You would see a picture of one in, like, Computer Shopper, but no one had it.
+
+481
+00:35:04,360 --> 00:35:04,560
+Rym: Yep.
+
+482
+00:35:05,041 --> 00:35:11,652
+Rym: In practice, no software at the time that any of you, or anyone would have access to, could even leverage that.
+
+483
+00:35:11,872 --> 00:35:14,617
+Rym: Operating systems weren't prepared to leverage that.
+
+484
+00:35:14,697 --> 00:35:16,540
+Rym: Like, that was highly specialized computing.
+
+485
+00:35:17,181 --> 00:35:26,952
+Scott: There were, I did mention before the show, I was talking about how there were Macs in the 90s, where what you would do is you would put a card in the Mac that had another CPU on it.
+
+486
+00:35:27,733 --> 00:35:33,800
+Scott: I think the earliest example was actually in Apple II, you could put a board in the Apple II that had a Z80 CPU on it.
+
+487
+00:35:33,920 --> 00:35:40,189
+Scott: So it was like, you basically put a second computer in the computer, and then you could press a keyboard command to switch.
+
+488
+00:35:40,570 --> 00:35:47,240
+Scott: I remember it being "Open Apple Enter," and it's like the computer would instantly switch to being a DOS, and Windows was there.
+
+489
+00:35:47,740 --> 00:35:50,828
+Scott: And then you'd press "Open Apple Enter," and it would instantly switch to being a Mac again.
+
+490
+00:35:50,929 --> 00:35:51,350
+Scott: And why?
+
+491
+00:35:51,370 --> 00:35:54,298
+Scott: It's because it's just two computers in one box, basically.
+
+492
+00:35:54,358 --> 00:35:55,160
+Scott: Attached at the hip.
+
+493
+00:35:55,300 --> 00:35:57,480
+Rym: Yeah, a whole computer plugged into the computer.
+
+494
+00:35:58,121 --> 00:36:00,540
+Scott: It was closer to a KVM, right?
+
+495
+00:36:02,121 --> 00:36:17,220
+Rym: Now, I would say it wasn't until around 2006 with the Intel Core 2 Duo that most people who were not extreme specialists had access to a CPU that had multiple cores.
+
+496
+00:36:18,260 --> 00:36:28,020
+Scott: Well, I mean, there were the Pentium 4s that had the hyper-threading or whatever they wanted to call it, which is sort of like virtual cores, in a way.
+
+497
+00:36:28,120 --> 00:36:35,320
+Rym: The Core 2 Duo that Intel launched in 2006 had two independent cores that you could use simultaneously.
+
+498
+00:36:37,081 --> 00:36:43,780
+Scott: The computer could finally actually do two things at once, truly at the same time.
+
+499
+00:36:44,100 --> 00:36:51,300
+Rym: That was the moment when you could be burning a CD and still using your computer at the same time and nothing would break.
+
+500
+00:36:52,101 --> 00:36:55,599
+Rym: It's hard to express what a leap forward the Core 2 Duo was.
+
+501
+00:36:56,121 --> 00:36:57,125
+Rym: But that was two.
+
+502
+00:36:57,406 --> 00:37:01,080
+Rym: My current computer has 24 independent physical cores.
+
+503
+00:37:02,701 --> 00:37:09,880
+Scott: Yeah, the hyper-threading, the way that one worked, is that you would still have one core, but it had two logical processors in the core.
+
+504
+00:37:11,500 --> 00:37:18,419
+Scott: So each one could sort of, you know, it was close, but it wasn't quite the same.
+
+505
+00:37:19,202 --> 00:37:33,940
+Rym: Now, independent of this, you have the concept of, in an application, you know, an operating system or even just a program that someone wrote, what if you write a program and you want that program to itself be able to do two different things at the same time?
+
+506
+00:37:34,480 --> 00:37:36,012
+Rym: Most people don't write code like that.
+
+507
+00:37:36,193 --> 00:37:36,959
+Rym: Most people write code.
+
+508
+00:37:37,801 --> 00:37:39,925
+Scott: Most programs don't need to do that.
+
+509
+00:37:41,888 --> 00:37:48,880
+Scott: But it's really just the high CPU intensive programs that can benefit from having more cores.
+
+510
+00:37:49,200 --> 00:37:51,345
+Scott: Let's say you're encoding a video.
+
+511
+00:37:51,365 --> 00:37:57,039
+Scott: You're turning a video from an uncompressed, you know, MOV file into an MP4 file.
+
+512
+00:37:57,460 --> 00:38:05,080
+Scott: Well, it just so happens that you're really processing, you know, some frames at a time or groups of frames together.
+
+513
+00:38:06,083 --> 00:38:11,300
+Scott: So it's like you could have one program just start at frame zero and go straight to the last frame in order.
+
+514
+00:38:11,761 --> 00:38:12,384
+Scott: And that'll work.
+
+515
+00:38:12,766 --> 00:38:15,320
+Scott: But you have to wait for the whole thing to finish.
+
+516
+00:38:15,981 --> 00:38:22,098
+Scott: You could chop the video up and be like, "Hey, let's have you do the first half of the video and you do the second half of the
+
+517
+00:38:22,138 --> 00:38:22,459
+Scott: video.".
+
+518
+00:38:22,921 --> 00:38:24,588
+Scott: Or, "Hey, we'll chop it into four
+
+519
+00:38:24,648 --> 00:38:25,009
+Scott: pieces.".
+
+520
+00:38:25,110 --> 00:38:27,460
+Scott: And now you can have four people working on it.
+
+521
+00:38:28,481 --> 00:38:33,540
+Rym: And every time you chop it in half like that, you're basically having the time it'll take.
+
+522
+00:38:33,680 --> 00:38:40,177
+Rym: If you have two threads, the first half of the video and the second half of the video working the same time at the same speed, it'll just be done 50% faster.
+
+523
+00:38:42,280 --> 00:38:42,882
+Scott: Yeah.
+
+524
+00:38:42,983 --> 00:38:44,248
+Scott: If you have enough cores, sure.
+
+525
+00:38:45,111 --> 00:38:45,453
+Scott: Usually.
+
+526
+00:38:46,035 --> 00:38:47,240
+Scott: It depends on a lot of factors.
+
+527
+00:38:47,380 --> 00:38:52,915
+Scott: But you need to not only have a significant amount of work to do, it has to be work.
+
+528
+00:38:53,236 --> 00:38:54,840
+Scott: that's CPU work.
+
+529
+00:38:55,461 --> 00:39:06,480
+Scott: For example, if the work is heavily dependent on the network, let's say it's network stuff that you gotta do, having more CPUs do the work isn't gonna help you because you're waiting on the network all the time.
+
+530
+00:39:06,560 --> 00:39:08,969
+Scott: Or you're waiting on the hard drive or you're waiting on something else.
+
+531
+00:39:09,370 --> 00:39:12,000
+Scott: It has to be work where you're doing calculations.
+
+532
+00:39:12,560 --> 00:39:13,623
+Scott: And that's the slow part.
+
+533
+00:39:14,064 --> 00:39:19,240
+Scott: And so you need the CPU can just go at it as long as you have enough CPU to go at it.
+
+534
+00:39:20,042 --> 00:39:26,060
+Scott: And it has to be a substantial amount of work that doesn't depend on the work that came before it.
+
+535
+00:39:26,320 --> 00:39:36,800
+Scott: So I might have a bunch of calculations to do, but if every calculation has an input where the input is the answer of the previous calculation, I can't do them out of order or side by side.
+
+536
+00:39:37,521 --> 00:39:40,753
+Scott: We need to do them the first one, then the second one, then the third one.
+
+537
+00:39:40,793 --> 00:39:42,539
+Scott: So splitting up the work won't help you.
+
+538
+00:39:42,840 --> 00:40:06,820
+Scott: If me and you are, I don't know, stamping envelopes and the steps are write the address, put the stamp on the envelope, and then put a rubber stamp on top of the postage stamp, it's like, well, yeah, we can write the addresses and put the stamps on side by side and get that done quickly, but the rubber stamp always has to come last.
+
+539
+00:40:07,341 --> 00:40:12,852
+Scott: So adding an extra worker to do the rubber stamps is going to speed things up somewhat, right?
+
+540
+00:40:13,894 --> 00:40:16,800
+Scott: But not as much as if we could do them in any order.
+
+541
+00:40:17,000 --> 00:40:26,400
+Scott: Like if we could do the rubber stamp first, then it's like one person just be like, stamp, stamp, stamp, stamp without even caring if the envelope had been, you know, posted, stamped or addressed yet.
+
+542
+00:40:26,841 --> 00:40:29,125
+Scott: And everyone could just do their work as fast as possible.
+
+543
+00:40:29,506 --> 00:40:36,660
+Scott: But if you had to wait for someone, it's like, well, the third person is waiting for envelopes to come from the other two people before they do their work.
+
+544
+00:40:36,842 --> 00:40:38,000
+Scott: And that slows things down.
+
+545
+00:40:38,020 --> 00:40:43,420
+Rym: And trying to sequence all of that is a very complex computer science problem to do correctly.
+
+546
+00:40:44,880 --> 00:40:56,000
+Scott: So the thing I think people have a hard time understanding is that there's sort of multi-process and then there's multi-thread and the difference between a process and a thread.
+
+547
+00:40:56,440 --> 00:41:01,852
+Scott: So, you know, when you start a program on your computer, Doom.exe, that's a process.
+
+548
+00:41:01,872 --> 00:41:03,676
+Scott: You open up Task Manager and you see it there.
+
+549
+00:41:03,776 --> 00:41:05,460
+Scott: Doom.exe, that is a process.
+
+550
+00:41:05,981 --> 00:41:14,540
+Scott: The operating system looks at all those processes, all the things in the Task Manager and the operating system says, all right, you get to use this core.
+
+551
+00:41:14,720 --> 00:41:15,263
+Scott: Go ahead.
+
+552
+00:41:15,444 --> 00:41:16,632
+Scott: All right, now you can stop.
+
+553
+00:41:16,712 --> 00:41:18,000
+Scott: Someone else is going to use the core now.
+
+554
+00:41:18,080 --> 00:41:28,360
+Scott: And it's scheduling which of the processes in the Task Manager or whatever your operating system has activity monitor and Mac OS or just top and Linux or whatever.
+
+555
+00:41:28,961 --> 00:41:34,935
+Scott: And the operating system is like, OK, we've got all these processes that want to do computing.
+
+556
+00:41:35,517 --> 00:41:36,900
+Scott: They got different priority levels.
+
+557
+00:41:37,140 --> 00:41:41,380
+Scott: Some of them are high priority, like the Doom that you're playing right now is really high priority.
+
+558
+00:41:41,881 --> 00:41:48,100
+Scott: And some things are low priority, like, you know, check your email in the background is lower priority.
+
+559
+00:41:49,121 --> 00:41:53,171
+Scott: And it decides which processes go to which CPUs when.
+
+560
+00:41:53,451 --> 00:41:54,574
+Scott: It's like, OK, you go now.
+
+561
+00:41:54,774 --> 00:41:55,316
+Scott: Now you go.
+
+562
+00:41:55,336 --> 00:41:56,398
+Scott: I'm going to stop you.
+
+563
+00:41:56,499 --> 00:41:56,980
+Scott: Now you go.
+
+564
+00:41:57,601 --> 00:42:11,220
+Scott: And so if you can write your program in such a way to where you can just have multiple processes, it's their programs that work that way and they don't need to sort of talk to each other.
+
+565
+00:42:11,901 --> 00:42:18,260
+Scott: Then that works out pretty great, actually, because the operating systems these days are pretty good at scheduling processes.
+
+566
+00:42:18,801 --> 00:42:27,119
+Scott: So if you can break your program up and do a bunch of separate programs that all work independently, you can just run your program like five times.
+
+567
+00:42:27,840 --> 00:42:29,463
+Rym: That's actually how the trading infrastructure.
+
+568
+00:42:29,583 --> 00:42:39,360
+Rym: way back like many jobs ago when I was doing operations are basically our trading environment had like 14 different demons that would each spawn as their own process.
+
+569
+00:42:39,901 --> 00:42:52,700
+Rym: Now, they communicated with each other via shared memory, but each one could be allocated to like its own core or it's like it was an independent process that the operating system could schedule on its own as a unit.
+
+570
+00:42:52,901 --> 00:42:56,961
+Rym: And that worked very effectively in like the year 2007.
+
+571
+00:42:56,961 --> 00:42:59,564
+Scott: I mean, a good example would be like a Web server, right?
+
+572
+00:42:59,584 --> 00:43:01,447
+Scott: Let's say you're just serving up Web pages.
+
+573
+00:43:01,967 --> 00:43:11,220
+Scott: It's like, well, any individual HTTP request for a Web page, the response to that can be calculated independently of any other request that's coming in.
+
+574
+00:43:11,881 --> 00:43:17,840
+Scott: So if you have four cores, you might as well spin up four Web servers if you're not doing anything else with the computer.
+
+575
+00:43:18,342 --> 00:43:22,400
+Scott: And now you can handle four times as many requests as long as your network isn't jacked.
+
+576
+00:43:23,640 --> 00:43:30,600
+Scott: And now you've got four people independently processing Web requests for your Web server and they never need to talk to each other.
+
+577
+00:43:30,680 --> 00:43:35,660
+Scott: They don't care what the other three are doing because those requests are unrelated and it's all good.
+
+578
+00:43:36,880 --> 00:43:41,199
+Scott: So the question is, OK, well, what if they do need to talk to each other?
+
+579
+00:43:41,520 --> 00:43:41,801
+Scott: Right.
+
+580
+00:43:42,683 --> 00:43:44,306
+Scott: There's two ways to solve this problem.
+
+581
+00:43:44,507 --> 00:43:50,500
+Scott: One way is inter process communication, which is a programming challenge in its own right.
+
+582
+00:43:51,061 --> 00:44:01,700
+Scott: You can use things like named pipes or just files or any some kind of shared resource, because each process has its own memory.
+
+583
+00:44:01,961 --> 00:44:02,101
+Scott: Right.
+
+584
+00:44:02,141 --> 00:44:07,600
+Scott: The operating system, when you make a process, is like here is a piece of memory for your process to use.
+
+585
+00:44:08,021 --> 00:44:08,884
+Scott: It's all yours.
+
+586
+00:44:08,985 --> 00:44:11,373
+Scott: You can go ham in that area of the RAM.
+
+587
+00:44:11,433 --> 00:44:12,336
+Scott: It belongs to you.
+
+588
+00:44:12,677 --> 00:44:13,500
+Scott: You process you.
+
+589
+00:44:13,680 --> 00:44:21,300
+Scott: And I guarantee you no other processes are going to mess with that RAM unless the only way that RAM is getting messed with is if I come and destroy you.
+
+590
+00:44:23,341 --> 00:44:25,268
+Scott: And you can ask for more RAM if you need more.
+
+591
+00:44:25,328 --> 00:44:26,212
+Scott: And I might give you more.
+
+592
+00:44:26,352 --> 00:44:28,440
+Scott: I might not, depending if there is any available.
+
+593
+00:44:28,580 --> 00:44:30,646
+Scott: But that RAM is yours.
+
+594
+00:44:30,846 --> 00:44:36,200
+Scott: And so no other process can see what's going on in that RAM because that would be hack soaring.
+
+595
+00:44:38,621 --> 00:44:40,446
+Scott: So you spark four processes.
+
+596
+00:44:40,486 --> 00:44:45,160
+Scott: They all have their own RAM that they're all working with and they can't see what each other's are up to.
+
+597
+00:44:45,701 --> 00:44:47,784
+Scott: But they can talk through some other means.
+
+598
+00:44:47,805 --> 00:44:48,486
+Scott: Right.
+
+599
+00:44:48,726 --> 00:44:56,120
+Scott: Like a file that they all, you know, maybe one of them, for example, is like writing to a file and the other three are like reading from the file.
+
+600
+00:44:56,220 --> 00:45:02,740
+Scott: You could have a database, for example, where, you know, you have one database process that could do insert and select queries.
+
+601
+00:45:03,101 --> 00:45:08,340
+Scott: So you can update the data and three other database processes that only do reading queries and they don't do any writing.
+
+602
+00:45:08,781 --> 00:45:13,090
+Scott: There's no conflicts in terms of who writes in what order and causing any problems.
+
+603
+00:45:13,651 --> 00:45:17,940
+Scott: And now because that data is in a file, they can all share.
+
+604
+00:45:18,301 --> 00:45:19,744
+Scott: And you've got a multi-process setup.
+
+605
+00:45:19,784 --> 00:45:22,089
+Scott: that's improving your performance in some way.
+
+606
+00:45:22,891 --> 00:45:26,820
+Scott: But what if you want to go faster and you got something to share?
+
+607
+00:45:27,221 --> 00:45:27,461
+Scott: Right.
+
+608
+00:45:27,521 --> 00:45:35,200
+Scott: Well, in that case, you want to be able to share the RAM because RAM is way faster than other things and other means of communication.
+
+609
+00:45:36,081 --> 00:45:38,948
+Scott: And so how can you have processes that share the RAM?
+
+610
+00:45:38,968 --> 00:45:43,440
+Scott: I mean, very complex topic, but basically what you do is you make threads instead.
+
+611
+00:45:44,761 --> 00:45:50,300
+Scott: If you have one process, the process can have threads, which are like processes underneath a process.
+
+612
+00:45:51,162 --> 00:45:55,394
+Scott: And then those threads are all part of the one process.
+
+613
+00:45:55,554 --> 00:45:57,580
+Scott: So they all can see all the same RAM.
+
+614
+00:45:58,500 --> 00:46:06,180
+Scott: The downside is you now have to sort of maybe in some parts schedule or manage your own threads, right?
+
+615
+00:46:06,260 --> 00:46:13,260
+Scott: Because the operating system may or may not manage those to a certain extent, depending on a whole bunch of complicated nonsense.
+
+616
+00:46:15,182 --> 00:46:23,140
+Scott: But your process can just have a bunch of simultaneous threads and you could even put those on different cores so they truly happen simultaneously.
+
+617
+00:46:24,401 --> 00:46:32,597
+Scott: And they can share RAM and see the same RAM and write to the same RAM and read the same RAM, which can make things go really fast if that's necessary.
+
+618
+00:46:35,261 --> 00:46:39,533
+Scott: The downside is that you now have to program in a thread-safe manner.
+
+619
+00:46:39,573 --> 00:46:42,180
+Scott: This is what people mean when they say thread-safe, right?
+
+620
+00:46:42,500 --> 00:46:47,899
+Scott: Is to where the threads won't step on each other's toes and mess up the memory and screw everything up.
+
+621
+00:46:48,921 --> 00:46:54,060
+Scott: Because like, let's say one guy writes and the other guy overwrites it, and now it's all ruined.
+
+622
+00:46:54,720 --> 00:46:56,765
+Scott: Or one guy is trying to read it and the other, right?
+
+623
+00:47:04,741 --> 00:47:10,200
+Scott: In computer science college, they'll teach you about the dining philosophers and whatnot, right?
+
+624
+00:47:10,700 --> 00:47:12,003
+Scott: It's a huge topic.
+
+625
+00:47:12,023 --> 00:47:20,040
+Scott: There's tons of different algorithms you can use to basically guarantee that the threads aren't going to step on each other.
+
+626
+00:47:20,160 --> 00:47:24,778
+Scott: And they'll stop and wait for it to be safe to do something before they go and do it.
+
+627
+00:47:26,164 --> 00:47:27,839
+Scott: And otherwise, they'll do as much as they can.
+
+628
+00:47:28,581 --> 00:47:29,844
+Rym: God, I have a flashback.
+
+629
+00:47:29,884 --> 00:47:36,356
+Rym: So when I worked at that company, we had the most dreaded error that would pop up on my console.
+
+630
+00:47:36,416 --> 00:47:38,440
+Rym: that meant all hell is about to break loose.
+
+631
+00:47:38,801 --> 00:47:38,901
+Rym: Is?
+
+632
+00:47:38,921 --> 00:47:52,020
+Rym: we'd see spinlock errors, which usually were followed by a deadlock, meaning two threads within one of our processes basically got deadlocked against each other in some way and everything would crash.
+
+633
+00:47:54,021 --> 00:48:03,820
+Rym: And finding the causes of those issues was like the most senior developers at the company's sole job was to work on that kind of problem.
+
+634
+00:48:05,481 --> 00:48:14,600
+Scott: And so it's like, if you just do programming tutorials, you're not really going to be writing anything like this unless you know, you'll know if you are, right?
+
+635
+00:48:14,640 --> 00:48:16,364
+Scott: It's not like it happens in most programs.
+
+636
+00:48:16,404 --> 00:48:17,507
+Scott: You just write programs.
+
+637
+00:48:17,928 --> 00:48:22,780
+Scott: They're going to be single process, single threaded programs that just execute from beginning to end.
+
+638
+00:48:22,980 --> 00:48:26,919
+Scott: You're still multitasking because the operating system, your process is one among many.
+
+639
+00:48:28,182 --> 00:48:39,500
+Scott: But your program isn't going to have any of these concurrency issues unless you specifically start doing special code to be multiprocess or multithread within your one program.
+
+640
+00:48:41,562 --> 00:48:46,240
+Scott: And so back to the original, the news, the global interpreter lock in Python.
+
+641
+00:48:46,920 --> 00:48:49,005
+Scott: So Python is an interpreted language.
+
+642
+00:48:49,046 --> 00:48:50,008
+Scott: You have Python code.
+
+643
+00:48:50,409 --> 00:48:54,540
+Scott: The Python interpreter reads the code and executes it as it goes through the code.
+
+644
+00:48:54,821 --> 00:48:57,920
+Scott: It actually gets converted to byte code first, but that doesn't matter.
+
+645
+00:49:00,120 --> 00:49:15,690
+Scott: And so there is this global interpreter lock with any Python program where basically even if you write a multithreaded program, the interpreter is only going to be working on one at a time.
+
+646
+00:49:16,950 --> 00:49:22,242
+Scott: So you can still get bonuses to performance in Python with lots of threads.
+
+647
+00:49:22,783 --> 00:49:26,050
+Scott: if, for example, you have lots of IO happening, right?
+
+648
+00:49:26,090 --> 00:49:35,450
+Scott: Let's say you've got like, you know, you're waiting for the network or you're waiting for some hard drives or some other input output devices to do something.
+
+649
+00:49:36,352 --> 00:49:42,650
+Scott: That thread that's doing the IO, let's say you have a thread to do network stuff, is waiting for network packets, right?
+
+650
+00:49:43,230 --> 00:49:56,510
+Scott: It can sort of pause and the interpreter can go off and do some other stuff and then come back to it instead of just your whole program sitting in a locked waiting for the network to finish, right?
+
+651
+00:49:56,991 --> 00:50:00,779
+Scott: And so you could do that even with the infamous GIL, right?
+
+652
+00:50:00,839 --> 00:50:01,240
+Scott: It's not like.
+
+653
+00:50:01,320 --> 00:50:06,110
+Scott: threads in Python without, you know, with the GIL are worthless, which I think is what a lot of people misunderstand.
+
+654
+00:50:08,091 --> 00:50:19,190
+Scott: But if you are writing Python and you have a lot of CPU intensive work, let's say you're computing Fibonacci sequence or digits of pi or something, right?
+
+655
+00:50:19,731 --> 00:50:21,313
+Scott: And you're doing it in parallel.
+
+656
+00:50:21,333 --> 00:50:33,330
+Scott: And it's all written in Python because you could actually, you know, write some C or some other language for a part of the program and Python would just talk to that and then you avoid the situation entirely.
+
+657
+00:50:35,310 --> 00:50:38,219
+Scott: Then the interpreter can only really do one of those at a time.
+
+658
+00:50:39,202 --> 00:50:41,670
+Scott: And so that's when the GIL is going to cause you problems.
+
+659
+00:50:41,810 --> 00:50:55,110
+Scott: And that's when getting rid of the GIL with the new experimental feature will help because now you could have basically the multiple different Python parts being interpreted and executed in parallel on different cores simultaneously.
+
+660
+00:50:57,099 --> 00:50:57,567
+Scott: And there you go.
+
+661
+00:50:58,150 --> 00:51:05,030
+Rym: And broadly, like the most computers, like browsers, things that you use every day, they do use this heavily.
+
+662
+00:51:05,170 --> 00:51:08,210
+Rym: Like right now my computer actually got every tab is like separate.
+
+663
+00:51:08,370 --> 00:51:16,190
+Scott: And then even when you're rendering a Web page, it's like all the different parts of the Web page, all different steps of loading a Web page can sort of be done separately.
+
+664
+00:51:16,370 --> 00:51:23,090
+Scott: It's like, well, you go off and get the CSS, you go download the images, you draw the images as they come in, you render the fonts.
+
+665
+00:51:23,250 --> 00:51:24,113
+Scott: It's like each.
+
+666
+00:51:24,274 --> 00:51:28,790
+Scott: all of that work can be done very separately in lots of different orders.
+
+667
+00:51:28,910 --> 00:51:31,109
+Scott: The order doesn't matter as long as the end result is the same.
+
+668
+00:51:31,711 --> 00:51:40,410
+Scott: And so you can get a lot of work done by having lots of threads and have each tab in like its own thread or process separately.
+
+669
+00:51:41,784 --> 00:51:41,910
+Rym: Yeah.
+
+670
+00:51:42,150 --> 00:51:51,310
+Rym: My computer right now, Streaming Ignites, has three hundred and three processes running and across those processes has six thousand seven hundred and twenty something threads.
+
+671
+00:51:51,752 --> 00:51:55,630
+Rym: And the number of threads is moving up and down a little bit constantly.
+
+672
+00:51:56,170 --> 00:51:56,235
+Scott: Yep.
+
+673
+00:51:57,373 --> 00:51:58,789
+Rym: That's just how modern computers work.
+
+674
+00:51:59,825 --> 00:51:59,950
+Scott: Yeah.
+
+675
+00:52:00,150 --> 00:52:11,930
+Scott: I mean, you just look at the applications you use on a daily basis and or just your computer and think, you know, even within one program, you know, like Discord, it's like what's happening in Discord?
+
+676
+00:52:12,150 --> 00:52:18,369
+Scott: Well, you've got all these different channels and servers and they're all checking for new messages or messages are coming in.
+
+677
+00:52:18,972 --> 00:52:22,969
+Scott: And then maybe there's like a video you're streaming that you're talking to someone in Discord.
+
+678
+00:52:23,370 --> 00:52:32,490
+Scott: All these different parts of Discord are like these separate little programs that don't necessarily need to be dependent on each other, even though they're all in the same window.
+
+679
+00:52:32,650 --> 00:52:36,730
+Rym: I got six of these bad boys running under my one Discord right now.
+
+680
+00:52:36,850 --> 00:52:37,732
+Rym: Right.
+
+681
+00:52:37,792 --> 00:52:48,730
+Scott: And so the the to drastically increase the performance of that program, you write it in a in a threaded parallel way and having many cores in your in your hardware really helps it.
+
+682
+00:52:49,110 --> 00:52:53,210
+Scott: You know, the alternative would be like, imagine a Discord on Windows three point one.
+
+683
+00:52:53,330 --> 00:52:54,890
+Scott: Like, OK, you open Discord.
+
+684
+00:52:55,330 --> 00:52:57,330
+Scott: Every other program on your computer is doing nothing.
+
+685
+00:52:57,678 --> 00:52:58,210
+Scott: It's just waiting.
+
+686
+00:52:59,150 --> 00:52:59,272
+Scott: Right.
+
+687
+00:52:59,292 --> 00:53:00,429
+Scott: Discord is the top program.
+
+688
+00:53:01,395 --> 00:53:02,329
+Scott: You're in a chat room.
+
+689
+00:53:02,953 --> 00:53:06,790
+Scott: You can't really get notifications for the other chat rooms, really.
+
+690
+00:53:08,230 --> 00:53:17,310
+Scott: You're only in this chat room right now and you have to actually go and check the other chat rooms by clicking on them one at a time to see if there's any new messages.
+
+691
+00:53:20,272 --> 00:53:23,310
+Scott: And if you do a voice chat, you're not doing anything else.
+
+692
+00:53:23,550 --> 00:53:24,809
+Scott: That's your whole computer is doing that.
+
+693
+00:53:25,151 --> 00:53:25,606
+Scott: Nothing else.
+
+694
+00:53:27,710 --> 00:53:34,030
+Rym: So I guess like I did IT in university and actually I didn't learn any of this stuff in college.
+
+695
+00:53:34,250 --> 00:53:34,993
+Rym: I learned all the like.
+
+696
+00:53:35,073 --> 00:53:39,690
+Rym: I learned these concepts doing actual work in operations after I left college.
+
+697
+00:53:40,691 --> 00:53:52,710
+Rym: And I think to Scott's point, most of you, unless you do serious computer science or very certain kinds of development, will never encounter these concepts practically in your day to day life.
+
+698
+00:53:52,810 --> 00:53:53,509
+Rym: Like it won't matter.
+
+699
+00:53:53,670 --> 00:53:53,991
+Rym: You'll just.
+
+700
+00:53:54,652 --> 00:54:03,910
+Scott: it's something basically only computer programmers and CPU making people have to really think about, which is a lot of people.
+
+701
+00:54:05,031 --> 00:54:10,099
+Scott: But people who just use a computer, you don't really have to know.
+
+702
+00:54:10,459 --> 00:54:17,190
+Scott: unless you're really trying to optimize the performance of something, you know, because you're one of those weird nerds or it's your job.
+
+703
+00:54:18,552 --> 00:54:22,490
+Scott: But even then, it's more on the programmers to get the performance optimized.
+
+704
+00:54:27,791 --> 00:54:30,090
+Rym: This has been GeekNights with Rym and Scott.
+
+705
+00:54:30,270 --> 00:54:32,750
+Rym: Special thanks to DJ Pretzel for the opening theme.
+
+706
+00:54:32,950 --> 00:54:38,970
+Scott: Be sure to visit our website at FrontRowClue.com for show notes, discussion, links and more.
+
+707
+00:54:39,450 --> 00:54:42,090
+Rym: Remember, GeekNights is not one, but four different shows.
+
+708
+00:54:42,430 --> 00:54:43,969
+Rym: Mondays are science and technology.
+
+709
+00:54:44,130 --> 00:54:45,809
+Rym: Tuesdays, gaming and games.
+
+710
+00:54:46,010 --> 00:54:47,750
+Rym: Wednesdays are animation and comics.
+
+711
+00:54:48,190 --> 00:54:50,610
+Rym: Thursdays are arbitrary and indiscriminate.
+
+712
+00:54:51,290 --> 00:54:55,186
+Rym: GeekNights is distributed under a Creative Commons Attribution 4.0 International License.
+
+713
+00:54:56,632 --> 00:55:00,950
+Scott: GeekNights is recorded live with no studio and no audience.
+
+714
+00:55:01,470 --> 00:55:04,930
+Scott: But unlike those other late shows, it's actually recorded at night.
+
+715
+00:55:05,470 --> 00:55:18,810
+Rym: And the Patreon patrons for this episode of GeekNights are Alan Jones, Nicky G, Dre, Logan Tender, Brad Case, Cara Meeks, Musa, Kristin Ott, Christopher, Clinton Walton, Finjil Hayes, Penny Rymer, Rebecca Dunn, Sam Erickson, Shervin Van Horl, and a bunch of people who do not want me to say their names.
+
+716
+00:55:19,491 --> 00:55:32,210
+Rym: I am back from London and Frankfurt, and on Wednesday we're going to do the anime cinematic interpretation of one of the one-shot works of the person who made Chainsaw Man.
+
+717
+00:55:32,370 --> 00:55:34,570
+Rym: And if that sounds intriguing, tune in on Wednesday.
+
+718
+00:55:34,730 --> 00:55:36,269
+Rym: But tonight, I leave you with...
+

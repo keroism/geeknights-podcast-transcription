@@ -1,0 +1,2344 @@
+1
+00:00:07,980 --> 00:00:09,369
+Rym: It's Wednesday, August 14th, 2024.
+
+2
+00:00:09,369 --> 00:00:09,630
+Rym: I'm Rym.
+
+3
+00:00:12,422 --> 00:00:12,838
+Scott: I'm Scott.
+
+4
+00:00:13,120 --> 00:00:14,246
+Rym: And this is GeekNights.
+
+5
+00:00:14,306 --> 00:00:16,920
+Rym: Tonight, we are reviewing Scavengers Reign.
+
+6
+00:00:17,600 --> 00:00:18,639
+Scott: Let's do this!
+
+7
+00:00:19,600 --> 00:00:30,340
+Rym: So, uh, way back, you may remember that Kickstarter, which we were big fans of, they made possibly the stupidest announcement that any company that we've ever liked has ever made.
+
+8
+00:00:30,700 --> 00:00:40,380
+Rym: They announced that they were embracing the blockchain, and then they announced a bunch of word salad because the blockchain's fake and a scam, about how they were going to use the fake scam blockchain to do nothing.
+
+9
+00:00:40,982 --> 00:00:43,800
+Scott: They said the word "blockchain" and provided no specifics.
+
+10
+00:00:44,520 --> 00:00:48,639
+Scott: And then, they clearly have abandoned all those plans by now.
+
+11
+00:00:49,781 --> 00:00:53,479
+Rym: Though they still have not, like, formally repudiated them.
+
+12
+00:00:53,800 --> 00:00:54,323
+Scott: Exactly.
+
+13
+00:00:54,343 --> 00:01:01,560
+Scott: They have not, basically, have just remained silent on the matter since, and have just operated quietly as business as usual.
+
+14
+00:01:02,262 --> 00:01:07,020
+Scott: It's clear they're not doing any of that, but they also haven't said that they're not doing any of that.
+
+15
+00:01:07,160 --> 00:01:09,572
+Scott: But they also haven't said anything about it since.
+
+16
+00:01:09,632 --> 00:01:11,180
+Scott: They just have said nothing.
+
+17
+00:01:11,720 --> 00:01:16,435
+Rym: And that's part of why, like, at the time, I literally was like, "Well, I'm done.
+
+18
+00:01:16,475 --> 00:01:17,578
+Rym: Boycott Kickstarter.
+
+19
+00:01:17,639 --> 00:01:17,819
+Rym: Fuck
+
+20
+00:01:17,839 --> 00:01:18,060
+Rym: them.".
+
+21
+00:01:18,160 --> 00:01:19,004
+Rym: Like, I walked away.
+
+22
+00:01:20,329 --> 00:01:22,800
+Rym: And the fact that I actually never went back, partly because of what you said.
+
+23
+00:01:22,860 --> 00:01:26,660
+Rym: They've never addressed the fact that they fell for and promoted a scam.
+
+24
+00:01:27,001 --> 00:01:30,092
+Scott: Like, if you've abandoned it, how hard is it?
+
+25
+00:01:30,132 --> 00:01:31,457
+Scott: you could just put out one thing?
+
+26
+00:01:31,497 --> 00:01:32,360
+Scott: Like, "Yeah, we're not doing
+
+27
+00:01:32,380 --> 00:01:32,460
+Scott: that.".
+
+28
+00:01:32,500 --> 00:01:38,140
+Rym: And I suspect they're afraid to say that because then the Bitcoin people are going to go after them and they don't want to deal with it.
+
+29
+00:01:38,220 --> 00:01:39,700
+Rym: Because the Bitcoin people are all stupid.
+
+30
+00:01:40,660 --> 00:01:40,987
+Rym: I don't know.
+
+31
+00:01:41,231 --> 00:01:41,660
+Scott: But anyway.
+
+32
+00:01:42,640 --> 00:01:56,380
+Rym: So anyway, at the time, while I was 100% done with Kickstarter and I literally never went back, I left my account in place because at the time I had two projects that were nearing completion that had not shipped to me yet.
+
+33
+00:01:56,663 --> 00:01:57,800
+Rym: That I'd backed previously.
+
+34
+00:01:58,860 --> 00:02:05,940
+Rym: So all I did was basically change my name in Kickstarter to be a sort of protest thing.
+
+35
+00:02:05,940 --> 00:02:08,479
+Rym: And I changed my profile to be an anti-Bitcoin thing.
+
+36
+00:02:09,321 --> 00:02:11,772
+Rym: And then I just logged out and never logged back in.
+
+37
+00:02:11,812 --> 00:02:13,420
+Rym: And I didn't think about it again.
+
+38
+00:02:14,340 --> 00:02:20,920
+Rym: So today, out of nowhere, I got an email from Kickstarter because of a project I had backed a long time ago.
+
+39
+00:02:21,260 --> 00:02:22,167
+Rym: Because I'd forgotten about this.
+
+40
+00:02:22,207 --> 00:02:23,840
+Rym: Like, I didn't even think about this account.
+
+41
+00:02:24,001 --> 00:02:25,159
+Rym: I never planned to log into it again.
+
+42
+00:02:25,862 --> 00:02:34,519
+Rym: And I forgot that I had changed my name, like my account profile name in Kickstarter, to be a little protest message on my way out the door.
+
+43
+00:02:35,160 --> 00:02:39,802
+Rym: So I got an email that literally opens, from Kickstarter officially, "Hi!
+
+44
+00:02:39,922 --> 00:02:41,209
+Rym: Blockchain is a scam!
+
+45
+00:02:41,792 --> 00:02:42,054
+Rym: Quit
+
+46
+00:02:42,154 --> 00:02:42,717
+Rym: Kickstarter!".
+
+47
+00:02:44,603 --> 00:02:45,918
+Rym: Because that's what my name was.
+
+48
+00:02:47,841 --> 00:02:54,200
+Rym: And it's just kind of, it's sad that a company like that that was doing so well, like, it wasn't even that they fell for a scam.
+
+49
+00:02:54,340 --> 00:03:01,020
+Rym: It seems like some executives in the company were scammers trying to make the blockchain scam a thing.
+
+50
+00:03:01,340 --> 00:03:07,220
+Scott: Nobody, it's such a weird, you know, it's like something that seemed like it was going in all the right directions.
+
+51
+00:03:07,341 --> 00:03:10,578
+Scott: Got really weird and now has stayed mysterious.
+
+52
+00:03:11,660 --> 00:03:12,082
+Rym: Yup.
+
+53
+00:03:12,142 --> 00:03:19,980
+Rym: And meanwhile, almost every creator I know who relied on Kickstarter that I cared about a lot, they all bailed on Kickstarter about that same time.
+
+54
+00:03:20,060 --> 00:03:24,780
+Rym: And now like all the indie RPGs have different channels and like I don't even need Kickstarter anymore.
+
+55
+00:03:24,981 --> 00:03:26,900
+Rym: Everything I would ever want is on other platforms.
+
+56
+00:03:28,760 --> 00:03:30,960
+Rym: In fact, a lot of stuff I'm buying directly from BackerKit.
+
+57
+00:03:32,420 --> 00:03:42,000
+Scott: I mean, you know, it's just, I feel like, you know, that was already at that time, like, you know, when Kickstarter first started, there were so few projects.
+
+58
+00:03:42,560 --> 00:03:47,518
+Rym: Yeah, like I would go to Kickstarter every week or so and look like, "Ooh, what new wallets are people Kickstarting
+
+59
+00:03:47,558 --> 00:03:47,719
+Rym: today?".
+
+60
+00:03:47,820 --> 00:03:50,060
+Scott: Well, because there would only be like five new things, right?
+
+61
+00:03:50,400 --> 00:03:50,501
+Scott: Yup.
+
+62
+00:03:50,542 --> 00:03:52,240
+Rym: And it'd be like wallets and keychains mostly.
+
+63
+00:03:52,900 --> 00:03:53,041
+Scott: Right.
+
+64
+00:03:53,061 --> 00:04:00,520
+Scott: And then there was a time period where, you know, there were more projects, but people were actually doing things where they wouldn't do them.
+
+65
+00:04:00,840 --> 00:04:03,780
+Scott: They needed the pre-funding to actually happen, right?
+
+66
+00:04:04,201 --> 00:04:12,100
+Scott: And so there was lots like animation projects and things of that nature that were probably things of the day or news on GeekNights or, you know, some of them.
+
+67
+00:04:12,367 --> 00:04:12,579
+Scott: Yeah.
+
+68
+00:04:12,741 --> 00:04:15,419
+Scott: And it's like, and it's like, "Oh man, this thing, it'll never happen.
+
+69
+00:04:16,043 --> 00:04:18,579
+Scott: But now this thing can happen that wouldn't have otherwise happened.
+
+70
+00:04:18,660 --> 00:04:19,199
+Scott: I'll Kickstart that.
+
+71
+00:04:19,220 --> 00:04:20,872
+Rym: You want a flashlight to annoy Rym with?
+
+72
+00:04:21,034 --> 00:04:21,798
+Scott: Here you go.
+
+73
+00:04:21,899 --> 00:04:22,259
+Scott: Yeah, right.
+
+74
+00:04:22,800 --> 00:04:22,941
+Scott: Right.
+
+75
+00:04:22,981 --> 00:04:28,060
+Scott: But nowadays it's like, you can just buy Ultra Byte flashlights anywhere, right?
+
+76
+00:04:28,140 --> 00:04:33,180
+Scott: And so it's instead, you know, it's like the need so much for Kickstarter.
+
+77
+00:04:33,621 --> 00:04:41,079
+Scott: It's like, it's still there a little bit, but it's like how many board games with a thousand fancy miniatures are there going to be?
+
+78
+00:04:41,560 --> 00:04:41,641
+Rym: Yeah.
+
+79
+00:04:41,661 --> 00:04:41,782
+Rym: Like.
+
+80
+00:04:41,822 --> 00:04:53,380
+Rym: for now, I need what like BackerKit provides because BackerKit is now basically like the place for independent creators to like manage their sales and their inventory.
+
+81
+00:04:53,901 --> 00:04:57,080
+Scott: There's plenty of online e-commerce platforms you could use, right?
+
+82
+00:04:57,901 --> 00:04:59,548
+Rym: Back in the day, we ran Magento for a hot minute.
+
+83
+00:05:02,840 --> 00:05:03,226
+Scott: Right.
+
+84
+00:05:03,266 --> 00:05:04,179
+Scott: There's tons of those.
+
+85
+00:05:04,720 --> 00:05:14,839
+Scott: So, you know, we've reached a point where the people who were Kickstarting things have sort of figured out how to just start a business the normal way.
+
+86
+00:05:15,640 --> 00:05:21,000
+Scott: And it's not really doing the pre-funding thing as much as a pre-order thing.
+
+87
+00:05:21,280 --> 00:05:28,079
+Rym: I feel like the nail hit that coffin as soon as larger companies started using it literally as a promotional platform.
+
+88
+00:05:28,801 --> 00:05:38,520
+Rym: And then I think the peak or the nadir, depending on your opinion on all this, was Exploding Kittens because I remember going to a conference and learning a lot about how that campaign went.
+
+89
+00:05:39,001 --> 00:05:46,460
+Rym: And it was very clear that Kickstarter's pre-funding was 0% of why they used Kickstarter.
+
+90
+00:05:47,080 --> 00:05:50,700
+Rym: They used Kickstarter solely as a hype machine for the project.
+
+91
+00:05:51,300 --> 00:05:51,601
+Scott: Yeah.
+
+92
+00:05:51,641 --> 00:06:05,080
+Scott: I mean, that's basically the core problem of internet discovery we talk about constantly, which is like, yeah, you want to have a distributed web where everyone has their own website, but then it's like, okay, well, how do you find anything, right?
+
+93
+00:06:05,140 --> 00:06:09,239
+Scott: You can only find things when there's a place that is aggregating things.
+
+94
+00:06:09,560 --> 00:06:14,079
+Rym: Like Yahoo.com, which used to be a curated list of websites to look at.
+
+95
+00:06:14,420 --> 00:06:18,560
+Scott: But, you know, the social medias, the Googles, whatever they are, right?
+
+96
+00:06:18,880 --> 00:06:23,758
+Scott: There's some large singular place that you can go to search.
+
+97
+00:06:24,420 --> 00:06:34,420
+Scott: And then that place becomes a very powerful place, not because of anything else it does other than be a phone book or a directory or how you discover things.
+
+98
+00:06:34,601 --> 00:06:44,980
+Scott: So then it becomes, you know, you have this discovery place to solve the problem of how do I find anything when there's 10 billion different websites and I have to know the domain to go to them.
+
+99
+00:06:45,201 --> 00:06:47,520
+Rym: But then people need to game that system.
+
+100
+00:06:48,220 --> 00:06:56,460
+Scott: Then you have the inverse problem, which is, okay, people who want to be seen now must go to those places from the other side.
+
+101
+00:06:56,720 --> 00:07:00,860
+Rym: That's why in the 80s, like every fucking plumber was like AAA plumbing.
+
+102
+00:07:02,080 --> 00:07:02,202
+Scott: Right.
+
+103
+00:07:02,262 --> 00:07:03,679
+Scott: Trying to get into the yellow pages.
+
+104
+00:07:04,002 --> 00:07:06,740
+Rym: White pages and yellow pages were both gamed.
+
+105
+00:07:07,740 --> 00:07:07,981
+Scott: Right.
+
+106
+00:07:08,222 --> 00:07:24,100
+Scott: And so, you know, Kickstarter, which nominally was, I have an idea that I don't know if it will be a successful business, but I can get pre-funding and if enough people believe in it, at least I won't lose money making the first run and producing the thing.
+
+107
+00:07:24,782 --> 00:07:31,779
+Scott: And then we'll see and be able to test whether it's a good idea without having to do it the old fashioned way of risk with taking a loan.
+
+108
+00:07:33,002 --> 00:07:33,102
+Scott: Right.
+
+109
+00:07:33,203 --> 00:07:36,200
+Scott: And if not enough people kickstart, well, then I don't do it.
+
+110
+00:07:36,260 --> 00:07:45,220
+Scott: And I also don't take risk that I guess Kickstarter can still do that, but it hasn't done that for the majority of cases in a very long time.
+
+111
+00:07:45,480 --> 00:07:57,460
+Scott: It's now just another place to aggregate products, you know, to sort of, you know, promote and people come from the other side to be like, well, if I just put this on my own website, no one would see it.
+
+112
+00:07:57,500 --> 00:08:00,299
+Scott: So I make a Kickstarter hoping to be found.
+
+113
+00:08:00,862 --> 00:08:15,770
+Rym: And I got to admit, I have come around on this specific topic of discoverability to the point that currently in the year 2024, I think big central aggregators for discoverability are too poisonous for humans in the current social environment.
+
+114
+00:08:16,233 --> 00:08:17,239
+Rym: Like, I don't think they work.
+
+115
+00:08:17,921 --> 00:08:23,500
+Rym: And I think the webbering might be the most highly evolved and effective form of discovery.
+
+116
+00:08:24,260 --> 00:08:24,903
+Scott: Well, go ahead.
+
+117
+00:08:24,963 --> 00:08:28,319
+Scott: But the way I see it is that as a buyer of things, right?
+
+118
+00:08:28,824 --> 00:08:30,260
+Rym: I just don't buy things anymore.
+
+119
+00:08:30,880 --> 00:08:31,001
+Scott: Right.
+
+120
+00:08:31,081 --> 00:08:37,460
+Scott: It's like, is it really a good idea to go to a website that's always showing you new things to buy that you probably don't need?
+
+121
+00:08:37,961 --> 00:08:39,087
+Scott: You know what Kickstarter turned into?
+
+122
+00:08:39,149 --> 00:08:40,780
+Rym: QVC for internet people.
+
+123
+00:08:41,380 --> 00:08:41,743
+Scott: Right.
+
+124
+00:08:41,803 --> 00:08:44,140
+Scott: It's like, you know, you see it and it seems like a good idea.
+
+125
+00:08:44,220 --> 00:08:47,040
+Scott: when you look at the Kickstarter page and you're like, oh man, that's awesome.
+
+126
+00:08:47,462 --> 00:08:50,180
+Scott: And maybe you buy it and maybe it does show up at your door.
+
+127
+00:08:50,320 --> 00:08:53,480
+Scott: Maybe it does work as advertised and then it sits in a drawer.
+
+128
+00:08:53,840 --> 00:08:59,700
+Rym: I mean, between you and I, I don't know which one of us owns more indie RPGs that we have never played.
+
+129
+00:09:00,800 --> 00:09:05,299
+Scott: But you can now, if you want those, you go to itch.io and get a PDF instead, which is a much better idea.
+
+130
+00:09:07,100 --> 00:09:09,480
+Rym: So getting into some news, I got a little geek bite.
+
+131
+00:09:09,780 --> 00:09:15,231
+Rym: Emily and I went to see Deadpool and Wolverine with the caveat that I haven't seen most of the MCU.
+
+132
+00:09:15,271 --> 00:09:21,600
+Rym: Like, I've only seen a handful of those movies because I'm not that invested in the MCU and I got better things to do.
+
+133
+00:09:21,760 --> 00:09:24,660
+Rym: But two, I haven't even seen any of the other Deadpool movies.
+
+134
+00:09:25,424 --> 00:09:34,660
+Rym: So we just went to see Deadpool and Wolverine, which, if you're not aware, is now the highest grossing R-rated film in R-rated film history.
+
+135
+00:09:35,820 --> 00:09:35,920
+Rym: Okay.
+
+136
+00:09:37,122 --> 00:09:45,536
+Rym: You will never guess, unless you are highly tuned into politics in America, what film it beat to claim the throne.
+
+137
+00:09:45,556 --> 00:09:46,560
+Rym: Do you know?
+
+138
+00:09:47,322 --> 00:09:54,100
+Scott: I know because you already said, because you keep saying the same things over and over again and then, no, it's the Jesus movie.
+
+139
+00:09:54,462 --> 00:09:54,744
+Rym: It is.
+
+140
+00:09:54,805 --> 00:09:57,160
+Rym: The Passion of the Christ was the previous winner.
+
+141
+00:09:58,621 --> 00:10:08,060
+Rym: So we saw it, and to give you a little geek bite, what's interesting is that, like, it's Deadpool, so if you are a fan of Deadpool's schtick, it's that to the end.
+
+142
+00:10:08,140 --> 00:10:12,080
+Rym: Like, if you like Deadpool, this movie might be your Citizen Kane.
+
+143
+00:10:12,722 --> 00:10:15,140
+Rym: Like, you're gonna get the maximum possible Deadpool.
+
+144
+00:10:15,781 --> 00:10:19,160
+Rym: If you don't like Deadpool's deal, you will not like this movie.
+
+145
+00:10:19,701 --> 00:10:23,460
+Rym: This movie is not for you if you don't like Deadpool as a concept.
+
+146
+00:10:23,722 --> 00:10:25,680
+Rym: Like, it's pretty hard there.
+
+147
+00:10:25,780 --> 00:10:29,320
+Rym: This is not like the Spider-Man movie that someone who hates comics will love.
+
+148
+00:10:29,420 --> 00:10:31,240
+Rym: Like, no, if you don't like Deadpool, you're not gonna like this movie.
+
+149
+00:10:31,940 --> 00:10:33,692
+Rym: But I really enjoyed it.
+
+150
+00:10:33,793 --> 00:10:58,400
+Rym: It was a pretty good movie, and it was, if I wanted to put on my lit crit hat without getting into any details, I would say that this movie is addressing, whether or not this is intentional or not, the same fundamental thing that the Spider-Verse movies are dealing with, but in the opposite way and from the opposite side of that lit crit conversation.
+
+151
+00:10:59,340 --> 00:11:08,880
+Rym: Like, you wanna have that conversation from an art cinematic masterpiece standpoint of a highly refined creative vision drawn to perfect execution?
+
+152
+00:11:09,280 --> 00:11:09,778
+Rym: Spider-Verse.
+
+153
+00:11:10,261 --> 00:11:25,540
+Rym: If you wanna get that same message with a guy saying fuck a lot and gross stuff happening constantly and Deadpool doing Deadpool stuff, then yeah, you can watch Deadpool to get to many of the same conclusions and many of the same lit crit and philosophical ideas.
+
+154
+00:11:26,782 --> 00:11:29,599
+Rym: So, I don't know, without getting too deep into it, I enjoyed it.
+
+155
+00:11:30,161 --> 00:11:36,799
+Rym: Like, kinda glad I saw it in the theater, but like all MCU movies, it's not a movie I necessarily need to see more than once.
+
+156
+00:11:37,700 --> 00:11:45,880
+Scott: Yeah, I mean, I haven't seen any live action superhero-y movie since the Spider-Man when we were in college, the Upside Down one.
+
+157
+00:11:45,980 --> 00:11:47,080
+Rym: Oh yeah, that one was pretty good.
+
+158
+00:11:47,140 --> 00:11:50,740
+Scott: I think I saw some of the Batmans that I don't like from the Nolan guy.
+
+159
+00:11:51,322 --> 00:12:05,160
+Rym: I mean, I say this not as a joke and I've said it on GeekNights many, many times, my favorite Batman movies in order remain, number one, Mask of the Phantasm, number two, Michael Keaton's Batman, number three, Michael Keaton's other Batman.
+
+160
+00:12:05,620 --> 00:12:06,122
+Scott: That's right.
+
+161
+00:12:07,427 --> 00:12:21,940
+Scott: But anyway, I haven't seen any of them and the reason I don't see them, I mean, there might be something to enjoy in them, right, is mainly is that the things that I enjoy about comic books, I know that those movies do not have those things.
+
+162
+00:12:21,960 --> 00:12:24,720
+Rym: Yeah, it's not gonna be trippy Secret of Space.
+
+163
+00:12:25,160 --> 00:12:39,320
+Scott: Right, they do not have the parts, I enjoy Marvel comics a lot, many of them, but I know for a fact that those movies contain the parts of the comics that I do not enjoy, so I'm not particularly motivated to go see them.
+
+164
+00:12:39,700 --> 00:12:46,280
+Scott: However, I do just want to comment that the Fantastic Four one might change the tune.
+
+165
+00:12:48,882 --> 00:12:50,480
+Scott: Fantastic Four has a chance.
+
+166
+00:12:50,840 --> 00:12:55,099
+Rym: For the sole reason of the aesthetic that it appears to be.
+
+167
+00:12:56,060 --> 00:12:57,079
+Scott: Fantastic Four has a chance.
+
+168
+00:12:57,800 --> 00:12:59,700
+Rym: And similarly, actually, you know why I watch Loki?
+
+169
+00:12:59,880 --> 00:13:06,380
+Rym: Partly because Loki has a very, like, early 60s aesthetic, start to finish.
+
+170
+00:13:07,260 --> 00:13:13,020
+Rym: And Loki also, the problem is it's not far enough into the trippy stuff for you to accept it.
+
+171
+00:13:13,461 --> 00:13:20,714
+Scott: Well, no, the problem with those one is that that's television, that's not even, so I don't, even if that has, I don't like it because it's television.
+
+172
+00:13:22,881 --> 00:13:26,460
+Rym: It's a short series that has a beginning, middle, and end.
+
+173
+00:13:26,500 --> 00:13:27,739
+Rym: It's basically just a long movie.
+
+174
+00:13:29,341 --> 00:13:36,612
+Scott: Anyway, speaking of television, at the end of this month on Netflix, there will be a release of a new anime.
+
+175
+00:13:36,632 --> 00:13:42,753
+Scott: that's only eight episodes, another short one, the Terminator Zero anime from Production I.G.
+
+176
+00:13:42,814 --> 00:13:44,860
+Scott: will be on Netflix in a couple weeks.
+
+177
+00:13:45,080 --> 00:13:47,739
+Rym: I would have zero interest in this were it not Production I.G.
+
+178
+00:13:47,940 --> 00:13:54,579
+Rym: because of all the Terminator properties in order, the good ones are Terminator 2, then Terminator 1, and then my list ends.
+
+179
+00:13:55,880 --> 00:13:58,916
+Scott: But anyway, it was going to premiere.
+
+180
+00:13:59,880 --> 00:14:06,135
+Scott: It still is going to premiere at Anime NYC, which is also coming up pretty soon, like a week, I think, right?
+
+181
+00:14:06,196 --> 00:14:06,600
+Scott: Pretty soon.
+
+182
+00:14:06,780 --> 00:14:06,873
+Rym: Yeah.
+
+183
+00:14:08,082 --> 00:14:20,880
+Scott: But there was a problem, is that one of the places that does post-production, right, for many animated things, had a little security problem, and the whole show has been leaked online for like a week now.
+
+184
+00:14:21,120 --> 00:14:21,544
+Scott: I am shocked.
+
+185
+00:14:21,604 --> 00:14:23,359
+Rym: this doesn't happen way more often.
+
+186
+00:14:24,561 --> 00:14:27,060
+Scott: Along with, you know, the new Arkane that Rym loves.
+
+187
+00:14:27,280 --> 00:14:29,640
+Rym: Oh God, Arkane 2, I am more excited.
+
+188
+00:14:30,002 --> 00:14:37,960
+Rym: The only thing I am more excited to see in terms of animated media than Arkane 2 is Spider-Verse 3.
+
+189
+00:14:37,960 --> 00:14:45,520
+Scott: Yeah, also some of the new Ranma ½ show and some other stuff have just been leaked online, like, in their entirety.
+
+190
+00:14:47,002 --> 00:14:52,219
+Scott: You know, they can't really, they can try to take them down from some places, but, you know, good luck.
+
+191
+00:14:52,580 --> 00:14:56,640
+Scott: So if you want to watch any of those shows, pirate style, you can do it right now.
+
+192
+00:14:56,660 --> 00:14:57,730
+Scott: You don't got to wait.
+
+193
+00:14:57,791 --> 00:14:58,760
+Scott: They're out there, right?
+
+194
+00:14:58,881 --> 00:15:12,419
+Rym: I'm seriously considering one, because we subscribe to Netflix anyway, so it's like, they get the same money out of us, regardless if I watch it now on the pirate feed, or later on Netflix legit, because I pay the same amount of money.
+
+195
+00:15:14,984 --> 00:15:29,858
+Scott: So I just think that's pretty funny, is that like, they're trying to hype this premiere to get people to go to anime NYC to see it, and I'm wondering what will the turnout be at that premiere, relative to what it would have been, if people who were super interested in it have seen the whole show already, what do they care about?
+
+196
+00:15:30,500 --> 00:15:39,688
+Rym: I bet it'll be the same, and my rationale is, in my interactions with people who have kids who are younger than us, they don't know how to pirate stuff.
+
+197
+00:15:40,233 --> 00:15:41,079
+Rym: Like, they just don't know.
+
+198
+00:15:41,681 --> 00:15:42,420
+Rym: That's not a thing they can do.
+
+199
+00:15:42,521 --> 00:15:45,480
+Scott: But how many kids caring about the Terminator one?
+
+200
+00:15:45,600 --> 00:15:47,540
+Scott: I feel like it's old people, they care about the Terminator one.
+
+201
+00:15:47,580 --> 00:15:55,839
+Rym: True, but I've also found that older people also don't know how to pirate stuff anymore, because they still try to go to, like, Pirate Bay, like, they don't know.
+
+202
+00:15:57,182 --> 00:15:59,320
+Scott: I don't know why people think, like, Pirate Bay doesn't work.
+
+203
+00:15:59,420 --> 00:16:01,573
+Scott: It works the same as it always has, it is just fine.
+
+204
+00:16:02,940 --> 00:16:14,938
+Rym: Well, the problem with Pirate Bay is that a lot of these streams, well, people know to go to Pirate Bay, and they know to click on these torrents, the problem is, they download them and also upload, and then they get letters from their ISPs.
+
+205
+00:16:16,322 --> 00:16:18,280
+Rym: They don't know to not share, to be selfish.
+
+206
+00:16:19,161 --> 00:16:19,484
+Scott: I don't know.
+
+207
+00:16:20,232 --> 00:16:21,020
+Scott: I've never had a problem.
+
+208
+00:16:21,421 --> 00:16:23,940
+Rym: I mean, I haven't either, but also, I haven't pirated anything in a couple years.
+
+209
+00:16:24,423 --> 00:16:26,800
+Scott: Also, VPNs are super mainstream nowadays.
+
+210
+00:16:27,080 --> 00:16:29,059
+Scott: There's, like, ads on the subway telling you to use them.
+
+211
+00:16:30,122 --> 00:16:31,118
+Scott: People know what they're for.
+
+212
+00:16:32,983 --> 00:16:34,900
+Rym: So, in some other news, another anime.
+
+213
+00:16:35,160 --> 00:16:59,978
+Rym: So, you may remember a while back, like, we're talking 2020 and 2021, there were five short films that were released that were all called, like, the Rick and Morty anime, and a lot of people ignored them if they weren't fans of the show, which is a shame, because while it's the same characters, they're as different as Deadpool and Spider-Verse are.
+
+214
+00:17:00,440 --> 00:17:03,580
+Rym: They just happen to involve characters from the same franchise.
+
+215
+00:17:04,040 --> 00:17:06,358
+Rym: They're just anime, and they're good sci-fi.
+
+216
+00:17:06,839 --> 00:17:07,605
+Rym: They're thoughtful.
+
+217
+00:17:08,008 --> 00:17:09,660
+Rym: They're not just combat.
+
+218
+00:17:09,740 --> 00:17:12,140
+Rym: Like, there's a lot going on with these things, but they were just shorts.
+
+219
+00:17:12,940 --> 00:17:29,740
+Rym: So, now, it has been announced that Studio Deen, which is a legit anime studio, like, you, even anime fans, often haven't heard of Studio Deen, but if you click on this link and look at what they worked on, you'll be shocked that you don't know this studio exists.
+
+220
+00:17:30,360 --> 00:17:44,280
+Rym: But this is, like, a full-on anime studio and a who's who of anime people making a full season of full-length episodes of the Rick and Morty anime, and the style is fantastic.
+
+221
+00:17:44,300 --> 00:17:45,878
+Rym: I'm actually really looking forward to this.
+
+222
+00:17:46,905 --> 00:17:47,240
+Scott: Okay.
+
+223
+00:17:48,062 --> 00:17:51,680
+Rym: This is full-on good anime, if you like some sci-fi.
+
+224
+00:17:59,441 --> 00:18:02,320
+Rym: But, anyway, things of the day.
+
+225
+00:18:02,620 --> 00:18:17,480
+Rym: So, this one I'm using partly because it's a PSA, because this is an issue I've thought about a lot, and a lot of people I know have COVID right now, including, like, more than 20 people in my office, many of whom I work with on a daily basis over the last two weeks.
+
+226
+00:18:17,980 --> 00:18:41,120
+Rym: But it's a Kirkus Act video, but I'm linking to it partly because it actually makes a specific recommendation and cites all its sources for the age-old question of if you're sick and you have a low-grade fever, and ostensibly fevers are a big part of your immune response, does taking a fever reducer impact your recovery in any way?
+
+227
+00:18:41,484 --> 00:18:42,800
+Rym: And the answer is complicated.
+
+228
+00:18:42,920 --> 00:18:44,499
+Rym: Like, way more complicated than you'd think.
+
+229
+00:18:45,082 --> 00:18:45,324
+Scott: Right.
+
+230
+00:18:45,908 --> 00:18:47,500
+Scott: It seems like such a simple question.
+
+231
+00:18:47,600 --> 00:18:58,140
+Scott: Like, okay, your body has an immune response such as making mucus or having a rash or vomiting or diarrhea or, you know, a fever, right?
+
+232
+00:18:58,900 --> 00:18:59,900
+Scott: Coughing, sneezing, whatever.
+
+233
+00:19:00,260 --> 00:19:08,700
+Scott: And it's like, well, we think evolutionarily those immune responses developed because they can help fight whatever the virus is, right?
+
+234
+00:19:08,880 --> 00:19:16,980
+Scott: The fever might, you know, kill bacterias or viruses by making them uncomfortably warm, and then you'll get better afterwards.
+
+235
+00:19:17,643 --> 00:19:21,200
+Scott: But at the same time, fevers can be dangerous to you.
+
+236
+00:19:21,300 --> 00:19:23,558
+Scott: You can die if your fever is too high, right?
+
+237
+00:19:24,402 --> 00:19:26,260
+Scott: It's damaging yourself, right?
+
+238
+00:19:26,280 --> 00:19:28,498
+Scott: You're making it an uncomfortable environment for you, too.
+
+239
+00:19:29,181 --> 00:19:33,492
+Scott: So it's like if your fever is too high, yeah, you need a fever reducer because you might just die of fever.
+
+240
+00:19:34,560 --> 00:19:38,500
+Scott: People have allergic reactions which are immune responses that they then die from.
+
+241
+00:19:39,102 --> 00:19:47,460
+Rym: I mean, case in point, the last high, like, serious fever I had as opposed to, like, a normal, like, low-grade fever was when I had Lyme disease.
+
+242
+00:19:47,921 --> 00:19:50,358
+Rym: And I told the story on GeekNights, like, 20 years ago.
+
+243
+00:19:50,800 --> 00:19:58,299
+Rym: But I woke up with 104 fever in the middle of the night, which I learned later when I measured it and went to the hospital the next morning.
+
+244
+00:19:59,101 --> 00:20:07,400
+Rym: But I woke up and I felt so bad and I was so delirious from the fever that I thought to myself, well, I guess I'm dying.
+
+245
+00:20:09,183 --> 00:20:09,324
+Scott: Fuck.
+
+246
+00:20:09,405 --> 00:20:10,959
+Rym: Oh, well, what are you going to do?
+
+247
+00:20:11,321 --> 00:20:15,472
+Rym: And I went back to sleep and then I woke up a few hours later and I was like, what the fuck's wrong with me?
+
+248
+00:20:15,492 --> 00:20:16,260
+Rym: And I went to the hospital.
+
+249
+00:20:17,061 --> 00:20:17,540
+Scott: That's right.
+
+250
+00:20:17,802 --> 00:20:18,799
+Rym: That's how bad it felt.
+
+251
+00:20:19,420 --> 00:20:21,980
+Scott: Right, but it's like, you know, it's a difficult thing, right?
+
+252
+00:20:22,060 --> 00:20:33,020
+Scott: It's like, okay, I can get rid of this fever, which would, A, make me feel a lot better, at least short-term, but would it keep me sick longer if the fever is indeed effective at fighting the disease?
+
+253
+00:20:33,481 --> 00:20:42,380
+Scott: But if the fever is damaging me, is maybe the cure of fever worse than the disease and thus I'm better off fighting the disease with some other method than a fever.
+
+254
+00:20:42,500 --> 00:20:45,200
+Scott: So I should reduce the fever and then do something else.
+
+255
+00:20:45,940 --> 00:20:47,128
+Rym: You know, I don't know.
+
+256
+00:20:47,149 --> 00:20:47,833
+Scott: It's a tough call.
+
+257
+00:20:47,934 --> 00:20:48,740
+Scott: Tough call to say.
+
+258
+00:20:49,140 --> 00:20:56,247
+Rym: This video is a comprehensive summary of the current research consensus as of August 13th, 2024 in a lot of detail.
+
+259
+00:21:00,061 --> 00:21:06,040
+Rym: And I highly recommend you watch it because summarizing it will leave out a lot of very important information.
+
+260
+00:21:06,161 --> 00:21:10,159
+Rym: The video is not even that long and you should watch it rather than listening to me summarize it.
+
+261
+00:21:10,620 --> 00:21:20,019
+Rym: But the broad summary is unless a fever is high grade, the evidence suggests you are almost always better off not reducing the fever.
+
+262
+00:21:22,626 --> 00:21:24,197
+Scott: If your fever is 104, go to the hospital.
+
+263
+00:21:24,600 --> 00:21:33,659
+Rym: If your fever is high grade, you need to go to a doctor because fevers above 100 to 101 are dangerous and you need a doctor to work with you.
+
+264
+00:21:34,122 --> 00:21:37,619
+Rym: But the scary part was something I didn't know that I learned from this video.
+
+265
+00:21:38,762 --> 00:21:41,180
+Rym: This is very hard to study for a lot of reasons.
+
+266
+00:21:41,540 --> 00:22:02,639
+Rym: But one of the reasons why it's not super well studied is that a large number of studies to determine if reducing certain high grade fevers is risky or beneficial or whatever, all had to be halted because of the high rate of death of people who were receiving fever reducers during the studies which tripped ethical concerns.
+
+267
+00:22:03,962 --> 00:22:07,139
+Rym: So anyway, watch the video rather than listening to what I just said.
+
+268
+00:22:08,100 --> 00:22:16,219
+Rym: But I feel like this is a timely PSA considering that many of you might have or are about to have a fever in the next few weeks.
+
+269
+00:22:17,460 --> 00:22:18,078
+Scott: Cabin fever.
+
+270
+00:22:19,483 --> 00:22:21,280
+Rym: I'd rather have cabin fever than COVID fever.
+
+271
+00:22:21,780 --> 00:22:22,700
+Scott: We got cabin fever.
+
+272
+00:22:24,286 --> 00:22:24,760
+Scott: So what do you got?
+
+273
+00:22:25,401 --> 00:22:28,700
+Scott: We all love a Dance Dance Revolution here at GeekNights.
+
+274
+00:22:29,222 --> 00:22:32,417
+Scott: And someone on YouTube made a video, Nefara822.
+
+275
+00:22:33,700 --> 00:22:34,700
+Scott: This video is fucking amazing.
+
+276
+00:22:35,280 --> 00:22:36,325
+Scott: They had a video.
+
+277
+00:22:36,386 --> 00:22:39,220
+Scott: They also did this for BeatMania, by the way, and some other things.
+
+278
+00:22:39,880 --> 00:22:43,640
+Scott: But the video is Dance Dance Revolution, the samples, first through fifth mix.
+
+279
+00:22:43,760 --> 00:22:52,279
+Scott: And what they did is they went through almost every DDR song in first through fifth mix, but also the side mixes like, you know, DDR mix and whatnot.
+
+280
+00:22:53,182 --> 00:22:59,260
+Scott: And they picked out and were able to find, you know, what samples were used in that music.
+
+281
+00:22:59,381 --> 00:23:01,820
+Scott: So they identify the sample and then they play the song.
+
+282
+00:23:02,281 --> 00:23:16,520
+Scott: They also were able to identify various digital instruments that were used and they were able to like play, you know, a demo from the musical, you know, the synthesizer or other electronic instrument that was used in the song.
+
+283
+00:23:16,901 --> 00:23:22,000
+Scott: And then they played a clip of the DDR song and you can hear how that instrument was used in the song.
+
+284
+00:23:22,501 --> 00:23:28,960
+Scott: The amount of research it must have taken to figure this out for even like one fucking song, right, is unbelievable.
+
+285
+00:23:29,220 --> 00:23:37,460
+Scott: But as you watch through this video, which is quite long, obviously, you're going to rock out to all the old DDR tunes, which is awesome, right?
+
+286
+00:23:38,021 --> 00:23:41,818
+Rym: But DDR fourth and fifth mix are the best music in DDR.
+
+287
+00:23:41,878 --> 00:23:42,240
+Rym: Fight me.
+
+288
+00:23:42,880 --> 00:23:48,340
+Scott: You'll realize how many of the samples and it came from the same places.
+
+289
+00:23:48,440 --> 00:23:54,600
+Scott: So it's like once they hit gold on one, it's like, oh, this thing actually has all these DDR songs, right?
+
+290
+00:23:54,680 --> 00:23:57,660
+Scott: So, for example, it's there's three things that really shocked me.
+
+291
+00:23:57,760 --> 00:24:11,620
+Scott: Number one, there weren't that many, but there were a few that actually sampled old Konami games and other sounds from Konami's intellectual property like Konami, you know, logo sounds and things.
+
+292
+00:24:11,700 --> 00:24:17,100
+Scott: And I was like, oh, I didn't realize that when I played DDR that there was some Castlevania three in that song.
+
+293
+00:24:17,261 --> 00:24:18,250
+Scott: I never realized that.
+
+294
+00:24:18,371 --> 00:24:19,460
+Rym: And I've listened to these songs.
+
+295
+00:24:19,640 --> 00:24:25,200
+Rym: Yeah, I've listened to almost every song that they're referencing dozens of times and some of them hundreds of times.
+
+296
+00:24:25,720 --> 00:24:27,234
+Scott: Oh, there was some Gradius in that song.
+
+297
+00:24:27,274 --> 00:24:27,759
+Scott: I didn't know.
+
+298
+00:24:29,100 --> 00:24:37,840
+Scott: Secondly, it's shocking how many, especially the voice samples, came from what amounts to basically clip art CDs, audio clip art.
+
+299
+00:24:37,960 --> 00:24:49,800
+Scott: Like somebody at Konami bought CD, you know, CDs, audio CDs that have nothing except like some, you know, rapper just spewing out random lines or some guy going, huh?
+
+300
+00:24:51,186 --> 00:24:51,428
+Scott: Ha.
+
+301
+00:24:51,772 --> 00:24:52,399
+Scott: Get on up.
+
+302
+00:24:52,961 --> 00:24:58,540
+Scott: It's like and they took those CDs, went, listened to them, found voice clips.
+
+303
+00:24:58,660 --> 00:25:04,380
+Scott: And that's where the voices in DDR come from is just those kinds of audio clip art CDs.
+
+304
+00:25:04,501 --> 00:25:07,240
+Scott: There's like a handful of them that they used extensively.
+
+305
+00:25:08,041 --> 00:25:16,961
+Scott: And the third thing I learned that was very fascinating is that there is a machine called the Roland JV 1080.
+
+306
+00:25:16,961 --> 00:25:27,120
+Rym: I had not heard of this machine before because I've heard of this, but only because of a couple of YouTube channels I follow that talk about right off a lot because I'm not a music producer or composer.
+
+307
+00:25:28,061 --> 00:25:41,640
+Scott: But there was a machine called the Roland JV 1080, and it's basically a synthesizer, but it's a synthesizer that is somewhat sample based and also just comes when if you just get one of these, it has a fuck ton of presets in it.
+
+308
+00:25:41,840 --> 00:25:49,440
+Scott: Normally, if you had like just a bare synthesizer, you'd have to sort of, you know, use, you know, additive synthesis with all the waves or whatever.
+
+309
+00:25:49,701 --> 00:25:49,963
+Scott: Right.
+
+310
+00:25:50,003 --> 00:25:53,280
+Scott: And your envelopes and everything to make the sound you want.
+
+311
+00:25:53,581 --> 00:25:53,683
+Scott: Right.
+
+312
+00:25:54,215 --> 00:25:54,420
+Scott: Right.
+
+313
+00:25:54,843 --> 00:25:56,940
+Scott: Whereas here, this thing's already set up.
+
+314
+00:25:57,240 --> 00:25:58,705
+Scott: It's got, you know, it's like, you know, you think about.
+
+315
+00:25:58,725 --> 00:26:04,000
+Scott: you buy a keyboard and it's got like, you know, you know what, you know, a kid's keyboard, at least you buy a keyboard.
+
+316
+00:26:04,140 --> 00:26:07,360
+Rym: By default, you can hit a button and every key will pick a piano noise to hit a different.
+
+317
+00:26:07,540 --> 00:26:07,661
+Scott: Yeah.
+
+318
+00:26:07,681 --> 00:26:10,399
+Scott: It's like you got piano, guitar is like 10 different buttons.
+
+319
+00:26:10,520 --> 00:26:10,823
+Scott: Right.
+
+320
+00:26:10,864 --> 00:26:12,660
+Scott: This is like on crack.
+
+321
+00:26:12,761 --> 00:26:15,399
+Scott: It has like thousands of so many.
+
+322
+00:26:16,282 --> 00:26:16,786
+Scott: And it's not.
+
+323
+00:26:16,887 --> 00:26:18,640
+Scott: it doesn't even have a keyboard attached to it.
+
+324
+00:26:18,680 --> 00:26:20,320
+Scott: It's a two you rack unit.
+
+325
+00:26:20,761 --> 00:26:31,600
+Scott: So you would put it in a rack and then you the only way to make it play sounds other than the demo songs is to get a keyboard and or a MIDI controller and do MIDI out into it so that you can play it.
+
+326
+00:26:31,780 --> 00:26:32,743
+Scott: Right.
+
+327
+00:26:32,763 --> 00:26:38,880
+Scott: So the other thing is that it has four slots in it to which you can put expansion cards.
+
+328
+00:26:39,322 --> 00:26:42,300
+Scott: And there's like 20 expansion cards that were made for this.
+
+329
+00:26:42,700 --> 00:26:48,039
+Scott: It's like you use a lot of times you see devices like this and they have a cool expansion slot that never really gets used.
+
+330
+00:26:48,260 --> 00:26:50,040
+Rym: Even the NES has an expansion slot.
+
+331
+00:26:50,300 --> 00:26:50,442
+Rym: Yeah.
+
+332
+00:26:50,462 --> 00:26:51,920
+Scott: Looking at you, Nintendo consoles.
+
+333
+00:26:52,201 --> 00:26:52,642
+Scott: Yeah.
+
+334
+00:26:53,164 --> 00:26:57,280
+Scott: This thing had an expansion slot that was used extensively and basically.
+
+335
+00:26:57,780 --> 00:27:15,577
+Scott: But if you listen to any sounds from this machine, it's like it is like the ultimate like memory poker, because at least if you're our age, because basically everything you heard in movie soundtracks, commercials and, you know, in the club between 1995 and the early 2000s.
+
+336
+00:27:18,723 --> 00:27:20,595
+Scott: Around time geek night started.
+
+337
+00:27:21,199 --> 00:27:21,340
+Scott: Right.
+
+338
+00:27:21,900 --> 00:27:26,220
+Scott: The sounds from this machine were the sounds of the 90s and the 2000s.
+
+339
+00:27:27,220 --> 00:27:27,321
+Scott: Right.
+
+340
+00:27:27,966 --> 00:27:29,197
+Scott: It's like and the sounds of DDR.
+
+341
+00:27:29,900 --> 00:27:35,860
+Scott: It's like someone could just play like one note on like just pick one of the piano presets on this and play a note.
+
+342
+00:27:35,940 --> 00:27:39,280
+Scott: And you're like, oh, that's the piano from like three DDR songs.
+
+343
+00:27:39,360 --> 00:27:48,280
+Rym: Like I'm transported back to the putt putt at RIT in the year 2004 with Scott in shorts, eating Arby's and playing DDR.
+
+344
+00:27:49,080 --> 00:27:51,731
+Scott: It's also the piano from this movie soundtrack.
+
+345
+00:27:51,891 --> 00:27:53,478
+Scott: It's unmistakable from one note.
+
+346
+00:27:53,518 --> 00:27:54,000
+Scott: You can tell.
+
+347
+00:27:54,220 --> 00:27:58,060
+Scott: And it's like this machine has been so overused.
+
+348
+00:27:58,401 --> 00:28:00,978
+Scott: Now, I don't want to say overused because it sounds amazing.
+
+349
+00:28:01,139 --> 00:28:01,360
+Scott: Right.
+
+350
+00:28:01,481 --> 00:28:02,409
+Scott: It's like a good sound.
+
+351
+00:28:02,429 --> 00:28:03,780
+Scott: You could still use this thing today.
+
+352
+00:28:03,881 --> 00:28:05,009
+Scott: They're not actually expensive.
+
+353
+00:28:05,029 --> 00:28:06,440
+Scott: You can get one for a few hundred bucks on eBay.
+
+354
+00:28:06,500 --> 00:28:06,782
+Scott: I looked.
+
+355
+00:28:07,867 --> 00:28:09,898
+Scott: I didn't buy one because what the fuck am I going to do with it?
+
+356
+00:28:10,700 --> 00:28:11,705
+Scott: I can't even play a piano.
+
+357
+00:28:12,087 --> 00:28:12,328
+Scott: Right.
+
+358
+00:28:12,408 --> 00:28:14,840
+Scott: But what an amazing machine.
+
+359
+00:28:15,840 --> 00:28:21,780
+Scott: What the people who made the sounds that are in that machine deserve a lot more money than they probably got.
+
+360
+00:28:21,980 --> 00:28:22,965
+Rym: This comment on the YouTube video.
+
+361
+00:28:23,025 --> 00:28:26,140
+Rym: Dude, this is like the Bible to music producers and DDR lovers.
+
+362
+00:28:27,440 --> 00:28:27,625
+Scott: Yeah.
+
+363
+00:28:27,645 --> 00:28:27,686
+Scott: So.
+
+364
+00:28:28,621 --> 00:28:29,025
+Rym: All right.
+
+365
+00:28:29,167 --> 00:28:30,340
+Rym: So let's get right into it.
+
+366
+00:28:30,661 --> 00:28:35,800
+Rym: There's a show that you can watch on HBO Max or other means if you need.
+
+367
+00:28:35,880 --> 00:28:37,590
+Scott: I don't think it's on HBO Max anymore.
+
+368
+00:28:37,731 --> 00:28:38,516
+Rym: Oh, yeah, I guess not.
+
+369
+00:28:39,079 --> 00:28:39,220
+Scott: Right.
+
+370
+00:28:39,280 --> 00:28:40,850
+Scott: So that that's the thing that was shocking.
+
+371
+00:28:40,870 --> 00:28:41,091
+Scott: Yes.
+
+372
+00:28:41,111 --> 00:28:41,474
+Scott: Now, right.
+
+373
+00:28:42,580 --> 00:28:44,925
+Scott: There was a show that originally came out.
+
+374
+00:28:44,966 --> 00:28:51,060
+Scott: It was made by HBO or HBO Max produced by whatever has an HBO Max logo when you start the show.
+
+375
+00:28:51,581 --> 00:28:51,842
+Scott: All right.
+
+376
+00:28:52,184 --> 00:28:55,460
+Scott: But HBO was like, nah, get that out of here.
+
+377
+00:28:56,081 --> 00:28:57,707
+Scott: So it was made for HBO Max.
+
+378
+00:28:57,768 --> 00:28:58,932
+Scott: It was put on HBO Max.
+
+379
+00:28:59,193 --> 00:29:00,840
+Scott: It was kicked off of HBO Max.
+
+380
+00:29:01,141 --> 00:29:02,025
+Scott: But now it's a Netflix.
+
+381
+00:29:02,065 --> 00:29:03,130
+Scott: You watch it on Netflix.
+
+382
+00:29:03,170 --> 00:29:05,380
+Scott: And when the show starts, you see an HBO Max logo.
+
+383
+00:29:06,123 --> 00:29:10,560
+Scott: After the Netflix logo that plays before every Netflix thing, which is so weird.
+
+384
+00:29:11,441 --> 00:29:13,609
+Scott: I don't know how that went down or what the problem is.
+
+385
+00:29:14,532 --> 00:29:16,680
+Scott: But regardless, you can watch the show.
+
+386
+00:29:17,281 --> 00:29:18,585
+Scott: It's called Scavengers Rain.
+
+387
+00:29:19,067 --> 00:29:21,073
+Scott: It's an animated series that's pretty short.
+
+388
+00:29:22,718 --> 00:29:23,180
+Scott: It exists.
+
+389
+00:29:23,700 --> 00:29:23,760
+Rym: Yes.
+
+390
+00:29:23,780 --> 00:29:24,505
+Rym: And it's pretty good.
+
+391
+00:29:24,525 --> 00:29:25,612
+Rym: It's only 12 episodes.
+
+392
+00:29:25,632 --> 00:29:26,880
+Rym: Like, I guess they're making a season two.
+
+393
+00:29:27,020 --> 00:29:27,925
+Rym: I don't know why.
+
+394
+00:29:27,986 --> 00:29:30,259
+Rym: Like, I don't feel like it was fine.
+
+395
+00:29:31,903 --> 00:29:42,200
+Rym: But that aside, like, it is 12 episodes of animation science fiction that if you're a listener of GeekNights, you will probably enjoy.
+
+396
+00:29:42,820 --> 00:29:43,014
+Rym: Probably.
+
+397
+00:29:43,580 --> 00:29:44,982
+Rym: Because it's, I don't know, it's.
+
+398
+00:29:45,363 --> 00:29:46,204
+Rym: how would I describe it?
+
+399
+00:29:46,364 --> 00:29:55,979
+Rym: It's a fairly slow moving, surreal, serious science fiction story that has big Mobius vibes.
+
+400
+00:29:56,561 --> 00:29:56,821
+Scott: Yeah.
+
+401
+00:29:57,243 --> 00:30:01,454
+Scott: Aesthetically, it's a huge Mobius influence.
+
+402
+00:30:01,474 --> 00:30:03,700
+Scott: We're talking about the comic creators Mobius, right?
+
+403
+00:30:04,580 --> 00:30:05,483
+Scott: You know, it takes place.
+
+404
+00:30:05,683 --> 00:30:10,979
+Scott: These people have crashed their spaceship on a planet from wherever they were coming from.
+
+405
+00:30:11,661 --> 00:30:17,200
+Scott: And the planet has this crazy ecosystem that looks like a Mobius comic.
+
+406
+00:30:17,580 --> 00:30:20,594
+Scott: And the people are, you know, they're not dum-dums, right?
+
+407
+00:30:20,614 --> 00:30:22,040
+Scott: They're all scientists and geniuses.
+
+408
+00:30:22,181 --> 00:30:27,280
+Rym: Every character acts pretty intelligently based on their deal and what they know.
+
+409
+00:30:27,380 --> 00:30:30,344
+Scott: And they sort of, and you know, they're stranded.
+
+410
+00:30:30,544 --> 00:30:43,060
+Scott: So they're, you know, using their knowledge and interacting with the ecosystem and understanding it and seeing how the floras and the faunas interact and how they can be useful and how they can, what can they eat and what is dangerous.
+
+411
+00:30:43,301 --> 00:30:46,920
+Scott: And, you know, they haven't learned everything because they've just landed there.
+
+412
+00:30:47,381 --> 00:30:52,920
+Scott: But, you know, they have advanced interstellar space travel levels of technology and smartness.
+
+413
+00:30:53,382 --> 00:30:55,854
+Scott: So they can figure out more than we could, right?
+
+414
+00:30:55,954 --> 00:30:57,120
+Scott: Even if we had our best technology.
+
+415
+00:30:57,180 --> 00:31:02,720
+Rym: It definitely feels like alien alien slash murder bot level of interstellar travel tech.
+
+416
+00:31:02,960 --> 00:31:03,221
+Scott: Right.
+
+417
+00:31:03,742 --> 00:31:10,576
+Scott: You know, but yeah, the planet isn't like alien level of dangerous, right?
+
+418
+00:31:10,616 --> 00:31:12,620
+Scott: But it is still quite hazardous.
+
+419
+00:31:13,040 --> 00:31:13,461
+Rym: Well, you know what?
+
+420
+00:31:13,521 --> 00:31:16,405
+Rym: It is alien in the most profound way.
+
+421
+00:31:16,425 --> 00:31:27,260
+Rym: And that's sort of what makes, what drives this show and makes it work is that you're basically following a bunch of different characters who are all in different parts of the planet and dealing with very different situations.
+
+422
+00:31:27,701 --> 00:31:29,563
+Rym: And it kind of just cuts between them all.
+
+423
+00:31:30,024 --> 00:31:36,334
+Rym: But as the viewer, you can't assume anything about how this planet works.
+
+424
+00:31:36,594 --> 00:31:37,495
+Rym: Like you just can't.
+
+425
+00:31:37,556 --> 00:31:40,460
+Rym: You have no point of reference for how this planet works.
+
+426
+00:31:40,980 --> 00:31:45,511
+Rym: The only point of reference you have are the humans and them navigating the situation.
+
+427
+00:31:45,591 --> 00:31:49,180
+Rym: And if you watch these different groups navigate it, some better than others.
+
+428
+00:31:49,821 --> 00:31:49,981
+Scott: Right.
+
+429
+00:31:50,021 --> 00:32:05,460
+Scott: The show does a good job of a, you know, illustrating how the ecosystem and the planets work without saying you just watch and you can see, ah, I see how that, you know, these, you know, are, have a symbiotic relationship and these haven't known.
+
+430
+00:32:05,640 --> 00:32:11,428
+Scott: And they also do a good job of, you know, be keeping it consistent systemically.
+
+431
+00:32:11,729 --> 00:32:11,989
+Scott: Right.
+
+432
+00:32:12,269 --> 00:32:20,040
+Scott: So a lot of the things you see working in the environment are Chekhov's guns that come back later and make sense in a, in a good way.
+
+433
+00:32:20,761 --> 00:32:24,427
+Scott: Um, you know, and so that's like the good part of the show.
+
+434
+00:32:24,467 --> 00:32:29,356
+Scott: The other good part of the show is that, you know, some of these characters are actually cool.
+
+435
+00:32:29,877 --> 00:32:31,800
+Scott: The coolest being the girl with the robot.
+
+436
+00:32:33,241 --> 00:32:33,682
+Rym: What's her name?
+
+437
+00:32:33,722 --> 00:32:35,387
+Rym: and Levi are the best characters.
+
+438
+00:32:35,908 --> 00:32:36,149
+Scott: Yes.
+
+439
+00:32:36,169 --> 00:32:36,229
+Scott: Yes.
+
+440
+00:32:36,310 --> 00:32:40,000
+Scott: By far you care about them and everyone else care about much less.
+
+441
+00:32:40,160 --> 00:32:46,468
+Rym: Well, the guy who's the guy who interacts with the psychic little guy, not to spoil anything.
+
+442
+00:32:46,488 --> 00:32:47,049
+Scott: The bad guy.
+
+443
+00:32:47,189 --> 00:32:47,389
+Scott: Yeah.
+
+444
+00:32:47,529 --> 00:32:48,791
+Scott: The piece of shit guy.
+
+445
+00:32:49,011 --> 00:32:50,053
+Rym: That guy sucks.
+
+446
+00:32:50,113 --> 00:32:50,734
+Scott: He sucks.
+
+447
+00:32:51,234 --> 00:32:53,397
+Rym: And he makes bad decisions.
+
+448
+00:32:54,158 --> 00:32:54,398
+Scott: Yeah.
+
+449
+00:32:54,638 --> 00:32:55,820
+Scott: He's also a bad person.
+
+450
+00:32:55,920 --> 00:32:56,141
+Scott: Yeah.
+
+451
+00:32:56,221 --> 00:32:59,948
+Rym: But, but the extent of his badness is only revealed over the course of the show.
+
+452
+00:33:00,008 --> 00:33:02,453
+Rym: Like it's at the first you're like, oh, he's being tricked.
+
+453
+00:33:02,593 --> 00:33:03,154
+Rym: Sucks for him.
+
+454
+00:33:03,194 --> 00:33:05,378
+Rym: And the bit by beer, like, oh, he's not just crazy.
+
+455
+00:33:05,438 --> 00:33:06,300
+Rym: He's the problem.
+
+456
+00:33:07,640 --> 00:33:07,841
+Scott: Yeah.
+
+457
+00:33:07,861 --> 00:33:10,525
+Scott: Um, so the show starts off.
+
+458
+00:33:10,646 --> 00:33:19,100
+Scott: mostly, you know, it's the first few episodes are more like the best episode of samurai Jack, the one where he has to be quiet with the archers on top of the town.
+
+459
+00:33:19,180 --> 00:33:19,581
+Scott: Oh yeah.
+
+460
+00:33:20,302 --> 00:33:20,522
+Scott: Right.
+
+461
+00:33:20,582 --> 00:33:26,189
+Scott: Whereas, and then the show gets more, you know, get sorta gets bored of that in a way.
+
+462
+00:33:26,289 --> 00:33:28,092
+Scott: And it still has it in the background.
+
+463
+00:33:28,112 --> 00:33:34,540
+Scott: Like it's established the setting and it's like, okay, now that I've spent a few episodes establishing this setting, which was the best part.
+
+464
+00:33:35,040 --> 00:33:47,560
+Scott: You guys, we're going to focus on these characters now and what their deal is and how, you know, their journey to get rescued or whatever they're going to do right with their precarious stranded on a remote planet situation.
+
+465
+00:33:48,161 --> 00:33:55,171
+Scott: And that has, that's not bad, but it's not as interesting as, and not as exciting as the early part.
+
+466
+00:33:55,191 --> 00:33:55,411
+Scott: Right.
+
+467
+00:33:56,072 --> 00:34:01,600
+Scott: And then the show sorta gets to a third part where it's not really clearly like delineated.
+
+468
+00:34:01,900 --> 00:34:06,327
+Scott: It's more of just like it flows from one part to the next somewhat naturally actually.
+
+469
+00:34:06,387 --> 00:34:14,679
+Scott: But the third part where it's just like, okay, the characters are starting to come together, you know, uh, and interact and there's a lot more talking going on.
+
+470
+00:34:15,780 --> 00:34:29,260
+Scott: And some other characters are introduced and that part was kind of not as good kind of, and it was, you know, but then the show, the thing is before that part sorta really drags you down and makes you want to stop watching the show ends.
+
+471
+00:34:29,840 --> 00:34:39,960
+Scott: So if the show had started out the way it was at the end, I might've not finished it, but because it was so good and then it was like, you know, good middle.
+
+472
+00:34:41,021 --> 00:34:44,027
+Scott: I won't say low, but you know, not as high as the start.
+
+473
+00:34:44,047 --> 00:34:44,770
+Scott: I got to the end.
+
+474
+00:34:44,790 --> 00:34:45,672
+Scott: So it does start to drag.
+
+475
+00:34:50,121 --> 00:35:01,640
+Rym: And I think the main thing that I struggle with is that like we said, some of the sets of characters are just way more interesting to watch than others and just are like their stories are better stories.
+
+476
+00:35:02,181 --> 00:35:04,729
+Rym: So like sometimes you're like Prince of Nothing.
+
+477
+00:35:04,749 --> 00:35:05,731
+Rym: books had that problem too.
+
+478
+00:35:06,032 --> 00:35:08,680
+Rym: It cycles through like all the different people doing different things.
+
+479
+00:35:09,060 --> 00:35:12,109
+Scott: And usually there's like Hyperion with Canterbury Tale, right?
+
+480
+00:35:12,209 --> 00:35:16,040
+Rym: It's like, yeah, the best of those, you're really invested in whatever one you're reading.
+
+481
+00:35:16,140 --> 00:35:21,140
+Rym: And then when the next chapter is other people, you're like, fuck, I didn't want to jump to other people.
+
+482
+00:35:21,240 --> 00:35:28,040
+Rym: But then you get two paragraphs in and you're just as invested in the other people and shows that chosen books that do that poorly.
+
+483
+00:35:28,582 --> 00:35:33,034
+Rym: You really just keep, you're watching, you know, Joey Jojo getting tricked by the psychic thing.
+
+484
+00:35:33,054 --> 00:35:35,020
+Rym: And you're just like, man, I want to see more Levi.
+
+485
+00:35:35,980 --> 00:35:37,142
+Rym: Exactly.
+
+486
+00:35:37,663 --> 00:35:46,800
+Scott: If you're going to do the shtick where you cycle through different characters, chapter to chapter or have phases, you need to make them all as good as each other.
+
+487
+00:35:47,341 --> 00:35:47,621
+Scott: Right.
+
+488
+00:35:48,602 --> 00:35:55,973
+Scott: Because even if you're the worst of them is good, you know, human minds evaluate things relatively right.
+
+489
+00:35:56,013 --> 00:36:00,860
+Scott: Death Note had this problem and some other anime have as well where they had different arcs.
+
+490
+00:36:02,061 --> 00:36:08,180
+Scott: And, you know, like Death Note is the one that stands out the most because people love the characters from the first arc so much.
+
+491
+00:36:08,921 --> 00:36:13,047
+Scott: And then there's a second arc of Death Note and that has different characters in it.
+
+492
+00:36:13,628 --> 00:36:21,160
+Scott: And I don't, if that was its own manga, that wasn't Death Note, it might've been moderately well received, right?
+
+493
+00:36:21,541 --> 00:36:23,529
+Scott: It wasn't like an amazing manga or anything, right?
+
+494
+00:36:23,589 --> 00:36:25,276
+Scott: But it was, it might've been, you know, okay.
+
+495
+00:36:26,561 --> 00:36:35,400
+Scott: But because it was directly attached to that first part that was so highly esteemed and loved and wasn't as good as it, right?
+
+496
+00:36:35,801 --> 00:36:38,372
+Scott: It was perceived, the second part was so disappointing.
+
+497
+00:36:38,814 --> 00:36:40,159
+Scott: It got perceived as trash.
+
+498
+00:36:41,020 --> 00:36:44,527
+Rym: Like, here is the fancy $400 scotch.
+
+499
+00:36:44,587 --> 00:36:46,310
+Rym: Take a sip of that and you really enjoy it.
+
+500
+00:36:46,530 --> 00:36:49,416
+Rym: And then they're like, all right, here's the $50 scotch.
+
+501
+00:36:49,596 --> 00:36:51,460
+Rym: And you're like, oh, it's not as good as what I just drank.
+
+502
+00:36:52,241 --> 00:36:52,502
+Scott: Yeah.
+
+503
+00:36:52,662 --> 00:36:56,376
+Scott: But if you walked in to a normal old bar and it's like, have a $50 scotch.
+
+504
+00:36:57,520 --> 00:36:58,849
+Scott: It'll be like, oh Lord, $50 scotch.
+
+505
+00:36:58,869 --> 00:36:59,192
+Rym: Let's roll.
+
+506
+00:37:00,922 --> 00:37:02,268
+Scott: And you'd be like, oh damn, that shit good.
+
+507
+00:37:02,770 --> 00:37:05,300
+Scott: I mean, I wouldn't think it's good, but someone else might think that it's good.
+
+508
+00:37:05,660 --> 00:37:14,196
+Scott: And so, you know, that's sort of what happens here is that Scavengers Reign starts out as like, you know, incredible.
+
+509
+00:37:14,516 --> 00:37:16,500
+Scott: I'd say even maybe like A+ territory.
+
+510
+00:37:17,001 --> 00:37:22,640
+Scott: It goes down to B territory and then it goes down to like C+ territory and then it's, and then it's over.
+
+511
+00:37:22,961 --> 00:37:26,267
+Scott: But the majority of it is the A+ B territory.
+
+512
+00:37:26,769 --> 00:37:32,240
+Scott: So, and by the time you get to the C territory, maybe you won't think it's C territory.
+
+513
+00:37:33,081 --> 00:37:37,358
+Scott: But if you do feel the same as I do, you'll still be able to finish it because 12 episodes.
+
+514
+00:37:38,080 --> 00:37:38,180
+Rym: Yeah.
+
+515
+00:37:38,601 --> 00:37:44,436
+Rym: And honestly, if you're into sci-fi and you like the Mobius aesthetic, like it's a perfectly good show to watch.
+
+516
+00:37:44,497 --> 00:37:45,619
+Rym: Like I do recommend it.
+
+517
+00:37:46,000 --> 00:37:52,477
+Rym: But if your choice right now was, do I watch the first episode of this or do I watch Mars Express?
+
+518
+00:37:52,497 --> 00:37:53,760
+Rym: Because you haven't seen that yet.
+
+519
+00:37:54,120 --> 00:37:56,439
+Scott: Mars Express is going to take less time than watching 12 episodes.
+
+520
+00:37:56,700 --> 00:37:58,588
+Rym: But I would also watch Mars Express first.
+
+521
+00:37:58,608 --> 00:38:01,360
+Rym: Like I kind of want to watch Mars Express again already.
+
+522
+00:38:02,221 --> 00:38:03,584
+Scott: Well, it costs money.
+
+523
+00:38:03,644 --> 00:38:07,433
+Scott: If you did the rental like I did, you could have done the purchase or you could pirate it.
+
+524
+00:38:12,482 --> 00:38:13,766
+Scott: But yeah, you know, scavengers reign.
+
+525
+00:38:13,806 --> 00:38:18,520
+Scott: It's like if you have a Netflix, right, you should absolutely watch it while it's up there.
+
+526
+00:38:18,841 --> 00:38:19,303
+Scott: Absolutely.
+
+527
+00:38:19,765 --> 00:38:22,480
+Scott: But you shouldn't go subscribing to Netflix just to watch this.
+
+528
+00:38:22,760 --> 00:38:27,013
+Scott: You should wait until there's enough other A+ amazing stuff on Netflix you haven't seen.
+
+529
+00:38:27,334 --> 00:38:29,060
+Scott: Subscribe, watch all that.
+
+530
+00:38:29,420 --> 00:38:32,379
+Scott: And then, yeah, also watch this and then unsubscribe from Netflix again.
+
+531
+00:38:33,741 --> 00:38:40,999
+Scott: So if and when you have a Netflix subscription for another reason, definitely watch this if it's still up there.
+
+532
+00:38:42,100 --> 00:38:45,373
+Scott: Otherwise, if they take it down, don't worry.
+
+533
+00:38:45,393 --> 00:38:46,055
+Scott: You're not missing it.
+
+534
+00:38:46,196 --> 00:38:46,537
+Rym: You'll be okay.
+
+535
+00:38:48,260 --> 00:38:54,260
+Rym: The people who would particularly like this, I think, are the people who like slower, more meandering science fiction.
+
+536
+00:38:54,760 --> 00:39:01,820
+Rym: Especially people who love to like see and try to figure out the deal with the science fiction world without the show explaining anything to you.
+
+537
+00:39:02,082 --> 00:39:03,579
+Rym: If you like that kind of thing.
+
+538
+00:39:04,180 --> 00:39:08,820
+Scott: Yeah, if you like some eco-punk kind of alien environments.
+
+539
+00:39:09,260 --> 00:39:11,586
+Rym: Well, Mushishi has some similarities in that.
+
+540
+00:39:11,686 --> 00:39:17,780
+Rym: Mushishi, the anime, which is fantastic, also has the dudes trying to solve problems.
+
+541
+00:39:18,100 --> 00:39:28,440
+Rym: The problems are utterly alien and you don't have any frame of reference, but you learn by watching the show how to interpret this ecosystem.
+
+542
+00:39:28,621 --> 00:39:30,090
+Rym: And this show does that very well.
+
+543
+00:39:30,130 --> 00:39:31,860
+Rym: Like, that part is fantastic.
+
+544
+00:39:32,900 --> 00:39:32,972
+Scott: Yep.
+
+545
+00:39:34,981 --> 00:39:37,047
+Rym: Otherwise, the animation is good, the voice acting is good.
+
+546
+00:39:37,107 --> 00:39:41,760
+Rym: Like, you know, it's a solid B science fiction, I'd say, overall.
+
+547
+00:39:42,600 --> 00:39:45,010
+Scott: Yeah, then, you know, the ending isn't really too bad.
+
+548
+00:39:45,391 --> 00:39:47,519
+Scott: It's a somewhat satisfying ending.
+
+549
+00:39:48,703 --> 00:39:51,513
+Scott: I heard people saying they're gonna like make some more and it's like, really?
+
+550
+00:39:51,594 --> 00:39:53,099
+Scott: You know, I don't know.
+
+551
+00:39:53,680 --> 00:39:56,817
+Rym: Yeah, that'd be like if you heard, yeah, they're making Total Recall 2.
+
+552
+00:39:56,817 --> 00:39:57,360
+Scott: Like, why?
+
+553
+00:39:58,201 --> 00:40:05,158
+Scott: I think it would be a better idea rather than to make more because it's like, for me, the characters weren't the thing I cared about other than Levi.
+
+554
+00:40:07,481 --> 00:40:09,612
+Scott: The robot and the girl that was with Levi.
+
+555
+00:40:09,692 --> 00:40:10,798
+Scott: Also, I forget her name.
+
+556
+00:40:10,878 --> 00:40:11,180
+Scott: Amazing.
+
+557
+00:40:13,963 --> 00:40:14,979
+Scott: Ozzy, Ozzy, Ozzy.
+
+558
+00:40:15,381 --> 00:40:16,063
+Scott: Ozzy, that's it.
+
+559
+00:40:16,183 --> 00:40:16,866
+Scott: Ozzy and Levi.
+
+560
+00:40:16,906 --> 00:40:20,620
+Scott: So, if they made an Ozzy-Levi show only, obviously, I'm gonna watch that.
+
+561
+00:40:20,680 --> 00:40:21,325
+Scott: Oh, my God.
+
+562
+00:40:21,466 --> 00:40:23,360
+Rym: I would prioritize watching that.
+
+563
+00:40:24,062 --> 00:40:28,678
+Scott: But if they just continued this plot with all the characters, I'd be like, eh, maybe, right?
+
+564
+00:40:30,180 --> 00:40:37,160
+Scott: What they would, I think the thing that they should do that would be the most exciting would just be to do a different planet, right?
+
+565
+00:40:37,220 --> 00:40:42,560
+Scott: It's like, can you come up with a different kind of ecosystem with a different aesthetic?
+
+566
+00:40:43,281 --> 00:40:46,812
+Scott: Do that same formula, except this time.
+
+567
+00:40:46,852 --> 00:40:49,200
+Scott: make all the characters as cool as Ozzy and Levi.
+
+568
+00:40:49,681 --> 00:40:51,298
+Scott: I only care about some of them.
+
+569
+00:40:56,883 --> 00:40:59,251
+Rym: This has been GeekNights with Rym and Scott.
+
+570
+00:40:59,311 --> 00:41:01,820
+Rym: Special thanks to DJ Pretzel for the opening theme.
+
+571
+00:41:02,020 --> 00:41:08,040
+Scott: Be sure to visit our website at FrontRowClue.com for show notes, discussion, links and more.
+
+572
+00:41:08,540 --> 00:41:11,205
+Rym: Remember, GeekNights is not one, but four different shows.
+
+573
+00:41:11,506 --> 00:41:13,149
+Rym: Mondays are science and technology.
+
+574
+00:41:13,209 --> 00:41:14,952
+Rym: Tuesdays, gaming and games.
+
+575
+00:41:15,072 --> 00:41:16,896
+Rym: Wednesdays are animation and comics.
+
+576
+00:41:17,216 --> 00:41:19,140
+Rym: Thursdays are arbitrary and indiscriminate.
+
+577
+00:41:20,420 --> 00:41:25,200
+Rym: GeekNights is distributed under a Creative Commons Attribution 4.0 International License.
+
+578
+00:41:25,722 --> 00:41:30,020
+Scott: GeekNights is recorded live with no studio and no audience.
+
+579
+00:41:30,540 --> 00:41:34,020
+Scott: But unlike those other late shows, it's actually recorded at night.
+
+580
+00:41:34,500 --> 00:41:45,680
+Rym: And the Patreon patrons for this episode of GeekNights are Alan Joyce, like E.G, Jared Lillithin, Brocase, Cara Makes Music, Krista Dodd, Christopher Orr, Clinton, Walton, Finn, Joel Hayes, Penny Rymer, Rekonaut, Sam Marcus, and sure about a whole bunch of people whose names I will not say.
+
+581
+00:41:47,001 --> 00:41:51,093
+Rym: Our hiatus should be mostly over at this point.
+
+582
+00:41:51,254 --> 00:41:53,320
+Rym: Scott's recovered from COVID, GeekNights as usual.
+
+583
+00:41:53,842 --> 00:41:58,178
+Rym: But tonight, as a result, I feel like I should leave you with...
+
+584
+00:42:48,123 --> 00:42:50,513
+Scott: We live on the Nile, the Nile.
+
+585
+00:42:50,573 --> 00:42:54,330
+Scott: We laugh by night We sleep on the cliffs above.
+
+586
+00:42:54,370 --> 00:43:06,279
+Scott: By day we fish in the deep We stand on long bare islands Of yellow sand and wet The sun sinks slowly down And the grey o'clock wolves grow dark and brown.
+

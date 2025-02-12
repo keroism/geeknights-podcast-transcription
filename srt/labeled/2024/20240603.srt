@@ -1,0 +1,3216 @@
+1
+00:00:08,060 --> 00:00:09,558
+Rym: It's Monday, June 3rd, 2024.
+
+2
+00:00:09,558 --> 00:00:09,840
+Rym: I'm Rym.
+
+3
+00:00:12,850 --> 00:00:13,389
+Scott: And I'm Scott.
+
+4
+00:00:13,690 --> 00:00:25,272
+Rym: This is GeekNights, and tonight we are going to make some predictions about technology for the years 2025, 2029, and 2034.
+
+5
+00:00:25,272 --> 00:00:26,308
+Scott: Let's do this!
+
+6
+00:00:27,731 --> 00:00:31,121
+Rym: So, uh, I guess we don't have to talk about hockey again for about a year.
+
+7
+00:00:31,141 --> 00:00:33,950
+Rym: Well, less than a year, but no hockey's happening.
+
+8
+00:00:34,917 --> 00:00:35,650
+Rym: No more Rangers.
+
+9
+00:00:36,853 --> 00:00:39,169
+Rym: The bums couldn't get past the Florida Men, and that's the end of that.
+
+10
+00:00:39,950 --> 00:00:40,770
+Scott: Just couldn't get anything going.
+
+11
+00:00:41,810 --> 00:01:22,349
+Scott: I think the thing that I learned was that, um, you know, more so this year, this season, than any previous season, in the online space where all the fans talk about their team, right, the Reddits and the Discords and all those places, right, there seems to be a clear delineation between these fans who are fans of the sports team, right, the way that, like, someone is a fan of a TV show or a media property, like a Star Wars fan, right, where it's like, they just fucking love it, right, and it's like, they're only positive about it.
+
+12
+00:01:23,192 --> 00:01:43,929
+Scott: But because sports has this additional element where it's a thing that's actually happening, it's like a game that's really being played for real, it's probably very unlikely to be rigged, um, where the athletes are actually competing, there is, you know, in addition to who you want to win and who you like,
+
+13
+00:01:44,311 --> 00:01:46,280
+Rym: who you think will win, right,
+
+14
+00:01:46,320 --> 00:02:10,295
+Scott: your laundry that you're loyal to, there is also just an honest evaluation of what happened in in these games, right, you know, what, who's better than who, who matches up, you know, the game analysis, right, and so what happens is, you know, I grew up with grandpa yelling at the TV, parents yelling at the TV, aunts and uncles yelling at the TV,
+
+15
+00:02:10,436 --> 00:02:13,548
+Rym: I too grew up in such an environment, though cousins
+
+16
+00:02:13,689 --> 00:02:15,316
+Scott: and siblings yelling at the TV,
+
+17
+00:02:15,457 --> 00:02:19,975
+Rym: but Detroit is definitely a different environment from New York, New York is pretty special,
+
+18
+00:02:20,456 --> 00:02:31,480
+Scott: right, and when we yell at the TV, it's like, well, if our team does well, we're like, yay, that's, everyone does that, right, no one's gonna, when your team, the team you like does well, no one's gonna say boo, except
+
+19
+00:02:31,500 --> 00:02:35,457
+Rym: those two guys who have the season tickets next to us at MSG, nothing can make them happy,
+
+20
+00:02:36,139 --> 00:02:37,485
+Scott: they boo when the Rangers are good,
+
+21
+00:02:37,505 --> 00:02:47,140
+Rym: they don't boo, but I remember, I was there, we're like, Crider scored a goal, and the guy just says, the guy who sits closer to us, just immediately, that was a bad goal, that was a shitty goal,
+
+22
+00:02:48,063 --> 00:02:48,866
+Scott: what,
+
+23
+00:02:48,946 --> 00:02:51,955
+Rym: okay, like that wasn't a good enough goal for this guy,
+
+24
+00:02:53,219 --> 00:02:55,727
+Scott: I mean, greasy goals are extra good, greasy
+
+25
+00:02:55,747 --> 00:02:58,234
+Rym: goals are the best kind of goal, I want to see a Michigan, you
+
+26
+00:02:58,274 --> 00:03:16,445
+Scott: want to get those, yeah, anyway, but there are people like me, who when my team does bad, I say to my own team, you guys are not doing well, you suck, do better, right, stop fucking up, right, you pieces of shit, why can't you bum,
+
+27
+00:03:16,585 --> 00:03:22,970
+Rym: see, I will say your bums do better, but also I still, I'm like, good job, you had a good season, you made it three rounds in, nice job,
+
+28
+00:03:23,210 --> 00:03:24,434
+Scott: I mean, you know, but
+
+29
+00:03:24,835 --> 00:03:25,036
+Rym: there
+
+30
+00:03:25,357 --> 00:03:49,887
+Scott: are other people who are like, even when their team is clearly going to lose, they're like, I believe, no, we're, you know, don't, stop dooming, stop saying we're gonna lose, and it's like, I wouldn't say, I'm not saying we're gonna lose, because I'm like, you know, some pessimist, right, who just always thinks the worst is gonna happen, I'm saying that because I see what's happening on the ice, and that's my evaluation,
+
+31
+00:03:49,967 --> 00:04:06,903
+Rym: though, in that I view sports as, I am signing up for this roller coaster, and it's way more fun if you're just commit to it, like, this is the Mets year, I think they can pull it off, down by four, well, if we get a grand slam, we're back in this game, like, that is way more fun to watch sports,
+
+32
+00:04:08,547 --> 00:05:28,617
+Scott: I mean, okay, but you know, I've seen, you know, it's, I guess, if you were a fan of some other team somewhere, and you had a different experience at some point, right, like, actual good teams, but here, I've seen too much stuff, right, I've seen Luis Castillo just drop a ball and lose, right, lose a game, I've seen Matt Dodge kick the ball right to Deshaun Jackson and miss the playoffs, I had, when we lived in New York, and we were already doing GeekNights at this time, I had Mets playoff tickets in my hand, paper tickets, right, in the times when those were a thing, I had these tickets, and then in the final game of the season, the Mets lost, and therefore missed the playoffs, and I had to wait to get a refund on the tickets that I had, right, and so when you have these New York experiences, you end up being a person who enjoys sports the way I do, and expresses sports fandom the way I do, and also, you know, while I, you know, I don't think that positively about the kind of people who called into sports radio when that was a thing, right, there is still an element of, you know, some, you listen to sports radio, some guy calls in and says a bunch of nonsense, and it's like, "Eh, that guy, what, what, what's this nutjob calling into the radio
+
+33
+00:05:28,657 --> 00:05:28,898
+Scott: here?".
+
+34
+00:05:29,339 --> 00:05:34,976
+Scott: But you got your own non-nonsense, and you just, you're just not a big enough nutjob to call in.
+
+35
+00:05:35,699 --> 00:05:53,075
+Rym: Well, I'm a big fan of one, just rolling with the team, ride the roller coaster, but I'm also a big fan of, and I'm glad that this is happening increasingly in hockey as well, because football actually really pushed it first, I think, in the U.S More expert commentary, more, like, people who know what the fuck they're talking about, explaining what happened.
+
+36
+00:05:53,095 --> 00:05:57,373
+Scott: There's no, there's really not enough of that at all, I think, in hockey.
+
+37
+00:05:57,393 --> 00:06:02,510
+Rym: Well, I mean, I'd say we have more now than we have ever had, but it's still a trick.
+
+38
+00:06:02,590 --> 00:06:04,679
+Scott: Yeah, but it's like, it's insignificant, right?
+
+39
+00:06:04,940 --> 00:06:08,174
+Scott: Most of the coaches and people, they just do not talk X's and O's.
+
+40
+00:06:08,857 --> 00:06:16,202
+Scott: In order to learn any of this stuff, you either have to get personally involved in hockey, or you have to, like, read books.
+
+41
+00:06:16,402 --> 00:06:20,297
+Scott: There's, like, a few books that talk about actual strategy of hockey.
+
+42
+00:06:20,357 --> 00:06:21,181
+Scott: It's like, that's about it.
+
+43
+00:06:21,202 --> 00:06:22,468
+Scott: The media never talks about it.
+
+44
+00:06:22,488 --> 00:06:26,321
+Scott: They just talk about who's got a good contract, who's getting traded where, right?
+
+45
+00:06:26,341 --> 00:06:29,271
+Scott: You know, they talk about that.
+
+46
+00:06:29,312 --> 00:06:52,495
+Rym: As much as, like, I think esports commentary still has, lacks a lot, for a lot of reasons, that's not the scope of the show, but partly because of the overlap between people who play and people who watch esports, I find that most esports commentary is very much like, oh, he's losing this game because of 15 acronyms in a row and then an extremely detailed analysis of why this guy clicked wrong and now they're going to lose.
+
+47
+00:06:53,438 --> 00:07:01,883
+Scott: Yeah, but anyway, there is a conflict that happened and is still happening, right, amongst fans of teams.
+
+48
+00:07:02,445 --> 00:07:08,086
+Scott: when some of the fans have a different attitude, you know, and they express their fandom in a different way.
+
+49
+00:07:08,388 --> 00:07:11,278
+Scott: The people are always positive no matter what.
+
+50
+00:07:11,378 --> 00:07:21,915
+Scott: and then the realists who are like, I see my team, I want them to win, so do you, but I see them sucking and therefore I'm not going to lie to myself and say they're great when I just saw them stick it up.
+
+51
+00:07:23,760 --> 00:07:28,552
+Rym: I, uh, I do, I am very much the, uh, it's still good, it's still good.
+
+52
+00:07:28,572 --> 00:07:34,330
+Rym: I will ride that, well, they could, if they win the face-off, if they win the face-off, they could tie it up.
+
+53
+00:07:35,092 --> 00:07:42,979
+Scott: I still hope that they do, that's what I want, but I don't believe that that will actually happen if the evidence has not been presented.
+
+54
+00:07:43,662 --> 00:07:45,390
+Rym: I just, I don't know, I don't know what's gonna happen.
+
+55
+00:07:46,111 --> 00:07:53,393
+Scott: It's still possible, I hold on to that possibility, but it's improbable and I acknowledge the improbability.
+
+56
+00:07:53,513 --> 00:07:56,121
+Scott: I'm not gonna be like, oh, it's gonna happen.
+
+57
+00:07:56,141 --> 00:07:59,671
+Scott: I'll be like, oh, I hope it happens, but I don't feel it.
+
+58
+00:07:59,772 --> 00:08:13,816
+Rym: Yeah, I was feeling it in about the first 18 minutes of the last two games and then I was not feeling it and an increasing rate of not feeling it minute by minute throughout the remaining 60 minutes of those two games.
+
+59
+00:08:15,060 --> 00:08:15,220
+Scott: All
+
+60
+00:08:15,742 --> 00:08:47,688
+Rym: right, anyway, it's a tech day, so in the news, uh, one big one, uh, there is a, there was a massive data breach of both Ticketmaster and Santander, the bank, uh, and there's a lot to unpack there, like way more to unpack than we could fit into a news segment, so I'll link to a couple articles, but a few key takeaways, uh, one, it looks like Ticketmaster, so Live Nation, wouldn't even acknowledge that this happened for 11 days, despite the fact that it was, like, obvious that it happened, like the data
+
+61
+00:08:47,708 --> 00:08:50,316
+Scott: was- I mean, you're not gonna, you're not gonna acknowledge it unless you have to, right?
+
+62
+00:08:50,356 --> 00:08:50,857
+Scott: Why would you?
+
+63
+00:08:51,138 --> 00:08:51,700
+Scott: If you're, if you're
+
+64
+00:08:52,501 --> 00:09:06,476
+Rym: Yeah, but two, it seems to be a bit, so it's tied to both out at both, uh, breaches, which are massive in scope, seem to be linked specifically to a third-party technology provider that, unless you work in tech, you've probably never heard of them, called Snowflake.
+
+65
+00:09:06,878 --> 00:09:07,923
+Rym: Snowflake's kind of a big deal.
+
+66
+00:09:08,405 --> 00:09:13,807
+Scott: Well, it's not real, it's, it's, Snowflake was involved and so was Okta, but it's actually not anything.
+
+67
+00:09:14,068 --> 00:09:16,897
+Scott: either of them did super wrong, right?
+
+68
+00:09:17,017 --> 00:09:52,996
+Scott: Even though I really don't trust Okta at all, um, Okta basically is, you want to have logins for your company or for your system or both and so you rather than have your developers code a login system or use an off-the- shelf login system like Keycloak and then have to have IT guys maintain it, you pay Okta and then you just have to integrate, you have to duct tape Okta onto your system and now all your employees and maybe your customers and clients can log in to your stuff with Okta and it's just taken care of and it's like, that's a reasonable product, um, because if
+
+69
+00:09:53,056 --> 00:09:58,557
+Rym: it's not, you're, if you're not selling centralized login, that's not the thing you're selling, so obviously someone good, but
+
+70
+00:09:59,501 --> 00:10:17,396
+Scott: Okta in the past has had issues, it's actually not really great at what it does in my opinion, um, it's kind of janky, um, but a lot of people use it, um, and in the past it's had problems, but here it didn't have a problem, it, but it was part of the equation, right?
+
+71
+00:10:17,436 --> 00:10:27,909
+Scott: Snowflake is a database, uh, but it's not like a Postgres database, basically what it is, is it lets you put massive amounts of data on Snowflake, right?
+
+72
+00:10:28,210 --> 00:10:41,227
+Scott: And then actually successfully query it, whereas like if you tried to put that much data in like a Postgres table, you would have to build up tons of infrastructure to get it to be able, you know, partitioning and, and pool, you had to do all sorts of extra shit, it wouldn't just work, right?
+
+73
+00:10:41,669 --> 00:10:48,617
+Scott: So with Snowflake, it's like you pay them, you get, you just dump your shit tons of data onto them, you pay them money, right?
+
+74
+00:10:48,798 --> 00:11:06,347
+Scott: Because they're running the database in their cloud or whatever, um, and then you can, you know, it's good for analytics data where you've just got so much stuff, like imagine if you're like, you know, just tracking like every visit to a popular website and then you want to query that and be like, yeah, it's not easy, right?
+
+75
+00:11:06,367 --> 00:11:10,820
+Scott: You know, how many people visited at 10 AM in the past year?
+
+76
+00:11:11,040 --> 00:11:14,513
+Scott: It's like, good luck, but Snowflake can kind of do those things.
+
+77
+00:11:14,533 --> 00:11:32,205
+Scott: Um, and they were using Okta, but the problem was that some employee, uh, someone, you know, socially engineered or who knows what and got, there's conflicting kind of discussion around what happened and everyone's being really cagey about it.
+
+78
+00:11:32,847 --> 00:11:33,028
+Scott: Yeah.
+
+79
+00:11:33,048 --> 00:11:38,830
+Scott: They got the employees Okta credential, which means they could basically log into all the systems as the employee.
+
+80
+00:11:39,472 --> 00:11:49,771
+Scott: And then even though they were, they were logged in as a Snowflake employee, which is what I've seen in the reports, they were able to access Ticketmaster data, which is like, what the fuck?
+
+81
+00:11:49,912 --> 00:11:59,158
+Rym: Well, it's like this article Ticketmaster data, Santander data, and the data of, uh, potentially hundreds of other companies, right?
+
+82
+00:11:59,258 --> 00:12:04,498
+Scott: Why does any employee at Snowflake have any access to any customer data anywhere, right?
+
+83
+00:12:04,558 --> 00:12:17,782
+Scott: It's like, when you provide a service, you know, a technology service where you, even if you're hosting stuff for some other company, you don't actually think the data that's that company's belongs to that company.
+
+84
+00:12:17,843 --> 00:12:21,096
+Scott: And none of your employees should be able to access it.
+
+85
+00:12:21,257 --> 00:12:21,438
+Scott: Right.
+
+86
+00:12:21,498 --> 00:12:35,261
+Rym: It's like, oh, I've definitely found in my entire professional career, that level of security and due diligence is basically impractical or impossible for almost any company to bother with and still make a profit.
+
+87
+00:12:35,723 --> 00:12:40,037
+Rym: Uh, partly because failing at this has almost no consequences.
+
+88
+00:12:40,097 --> 00:12:43,067
+Rym: Like, I don't think this will even impact any of these companies materially.
+
+89
+00:12:43,850 --> 00:12:44,512
+Scott: No, probably not.
+
+90
+00:12:44,552 --> 00:12:44,633
+Scott: No.
+
+91
+00:12:44,673 --> 00:12:47,724
+Scott: I mean, how are they harmed?
+
+92
+00:12:47,904 --> 00:12:48,045
+Scott: Right.
+
+93
+00:12:48,065 --> 00:12:48,748
+Scott: They're not harmed.
+
+94
+00:12:48,848 --> 00:12:49,110
+Rym: Yeah.
+
+95
+00:12:49,371 --> 00:12:56,680
+Rym: The average user, like people, I think the average person, especially in America is so inundated with, oh, Hey, your data got stolen.
+
+96
+00:12:57,042 --> 00:12:59,552
+Rym: Your data got stolen again that they just kind of gave up.
+
+97
+00:12:59,592 --> 00:13:02,183
+Rym: Cause this is, this isn't like they got into your Gmail.
+
+98
+00:13:02,223 --> 00:13:07,323
+Rym: This is like all the data you have on some random company's site is now owned by hackers.
+
+99
+00:13:07,404 --> 00:13:09,354
+Rym: Like you can't protect yourself from that.
+
+100
+00:13:09,414 --> 00:13:11,906
+Rym: That's like trying to protect yourself from Godzilla, even if the right.
+
+101
+00:13:11,946 --> 00:13:15,321
+Scott: It's like, even if these, these hacks never happened or whatever, right.
+
+102
+00:13:15,361 --> 00:13:17,449
+Scott: These breaches hadn't occurred all day.
+
+103
+00:13:17,570 --> 00:13:25,336
+Scott: The data that they got out of it is your name, your email, your address, your phone number, your encrypted credit card number.
+
+104
+00:13:25,356 --> 00:13:33,203
+Scott: Um, in the case of ticket master, for example, uh, you know, it might be like your ticket purchasing history.
+
+105
+00:13:33,584 --> 00:13:33,785
+Scott: Right.
+
+106
+00:13:34,468 --> 00:13:43,020
+Scott: Um, and so like most of the, other than the ticket purchasing history, basically for anyone who uses a computer, all that information is already available everywhere.
+
+107
+00:13:43,140 --> 00:13:52,730
+Rym: Now, if you really want to know that could be actually a much more serious situation, but again, it depends on the details of the data.
+
+108
+00:13:52,750 --> 00:13:53,853
+Rym: Yeah.
+
+109
+00:13:54,334 --> 00:14:03,872
+Scott: But it's like, if you want to know, if you know somebody's name or email address and you want to know their home address or phone number, it's like you could, anyone can find that.
+
+110
+00:14:03,952 --> 00:14:08,951
+Scott: I sorry to break it to everybody, but it's like, there's really not much you can do except not use computers.
+
+111
+00:14:09,975 --> 00:14:21,179
+Rym: I mean, remember shadow profiles and shadow data, like a lot of companies will collect public information about you and store it themselves and then merge it with other data sets to build a more complete picture of you.
+
+112
+00:14:21,621 --> 00:14:35,648
+Rym: And then if that gated data gets stolen at no point did you do anything that caused that data to be interacted with, you participated in society, you have a social security number and you live in a, you live at an address.
+
+113
+00:14:35,668 --> 00:14:36,090
+Rym: You're fucked.
+
+114
+00:14:36,270 --> 00:14:36,451
+Rym: You
+
+115
+00:14:36,471 --> 00:14:56,383
+Scott: paid taxes, you paid rent, you had a bank account, you know, it's like, if the information is there, you just kind of have to, you know, I mean, we used to have the white pages, which, which is literally, you just get a book just on your porch that had like the names of phone numbers of like every single person who lived anywhere near you.
+
+116
+00:14:56,745 --> 00:14:56,945
+Rym: Yeah.
+
+117
+00:14:57,266 --> 00:14:57,507
+Scott: Right.
+
+118
+00:14:57,748 --> 00:14:59,474
+Scott: And that wasn't a problem really.
+
+119
+00:14:59,494 --> 00:15:06,680
+Scott: Um, and so it's like, you have to, you know, I'm not saying we should like give up on privacy, you know,
+
+120
+00:15:07,020 --> 00:15:11,376
+Rym: I have given up, like we shouldn't give up, but I kind of have given up,
+
+121
+00:15:11,858 --> 00:15:15,990
+Scott: but there is, there is some privacy you shouldn't give up on, right?
+
+122
+00:15:16,030 --> 00:15:30,604
+Scott: Like, you know, your personal works that you've like, you know, it's like if I, you know, if I write something and I don't publish it on the web and I just keep it on my hard drive, that should probably, yeah, but I'm backing that up to cloud storage.
+
+123
+00:15:30,825 --> 00:15:32,872
+Rym: Uh, I've typed things into discords.
+
+124
+00:15:32,912 --> 00:15:40,197
+Rym: Like I will not be surprised when eventually discord is like, Oh yeah, somebody stole all every DM you ever did.
+
+125
+00:15:40,217 --> 00:15:42,844
+Rym: Like, I feel like those things are just going to start happening more and more.
+
+126
+00:15:42,864 --> 00:15:44,108
+Scott: Oh yeah.
+
+127
+00:15:44,749 --> 00:16:01,341
+Scott: Um, like I with the handful of, of exceptions of a few actually secure things that I keep like offline, I am, I believe, I believe in the, in the privacy of the things that I have not uploaded to the internet.
+
+128
+00:16:01,441 --> 00:16:01,982
+Rym: That is true.
+
+129
+00:16:02,002 --> 00:16:12,679
+Rym: Uh, I also believe in the privacy of my entire ICQ and aim chat log for my youth because those are so old and obscure that I think that data is actually gone.
+
+130
+00:16:13,620 --> 00:16:14,785
+Scott: It could, it would be very different.
+
+131
+00:16:14,805 --> 00:16:29,141
+Rym: I would actually be like amazed if someone was able to bring up like my old geo cities page, not even amazed, thrilled if someone has, if someone hacked ICQ and like got all my private communication fucking publish it on the internet.
+
+132
+00:16:29,161 --> 00:16:30,408
+Rym: Cause I want to look at that again.
+
+133
+00:16:30,629 --> 00:16:34,165
+Rym: Cause the only copy I have is on a hard drive that died 20 years ago.
+
+134
+00:16:34,185 --> 00:16:34,787
+Rym: Yeah.
+
+135
+00:16:34,988 --> 00:16:35,650
+Scott: I've all.
+
+136
+00:16:35,750 --> 00:16:38,420
+Scott: as for my personal data, I even went to floppy disks.
+
+137
+00:16:38,520 --> 00:16:40,266
+Scott: I've rescued everything that can be rescued.
+
+138
+00:16:40,306 --> 00:16:42,553
+Scott: There is nothing else to be dug up.
+
+139
+00:16:43,015 --> 00:16:44,559
+Scott: Um, the end.
+
+140
+00:16:45,321 --> 00:16:45,582
+Rym: Yup.
+
+141
+00:16:45,742 --> 00:17:05,200
+Rym: So anyway, well this is a topic we'll talk about a lot, but the last thing to remember, we did a show on this, I think a long time ago, a thing you have to remember about all these technologies is that if there is ever a company that a lot of other companies use to do a thing, then if you want to hack a lot of companies, you only have to hack that one company.
+
+142
+00:17:05,819 --> 00:17:08,449
+Rym: And like Okta, they're there.
+
+143
+00:17:08,530 --> 00:17:09,633
+Rym: A lot of companies use them.
+
+144
+00:17:09,794 --> 00:17:11,460
+Rym: Google, a lot of companies use them.
+
+145
+00:17:11,800 --> 00:17:13,346
+Rym: Amazon, a lot of companies use them.
+
+146
+00:17:14,890 --> 00:17:29,666
+Rym: But at the same time, there's almost a, I don't know, not plausible deniability, but like I remember I worked at a company many, many years ago, like a long time ago, and we leverage some very specific cloud technology and we've leveraged some very specific Google technology.
+
+147
+00:17:29,767 --> 00:17:41,985
+Rym: And our rationale was, if that thing is compromised, the whole industry is so fucked that the impact to us will not even rise above the noise because everybody's fucked.
+
+148
+00:17:44,676 --> 00:17:45,580
+Rym: So you got any other news?
+
+149
+00:17:47,700 --> 00:17:48,903
+Scott: Yeah, I do have other news.
+
+150
+00:17:49,003 --> 00:17:58,023
+Scott: So Google has always been secretive about exactly how they rank the search results.
+
+151
+00:17:58,304 --> 00:18:03,764
+Scott: Because A, they don't want mostly, they want to keep it secret so no one else can make a search engine.
+
+152
+00:18:03,784 --> 00:18:04,528
+Scott: that's quite as good.
+
+153
+00:18:04,709 --> 00:18:06,961
+Scott: If they just told you how it was done, someone just copy it.
+
+154
+00:18:07,403 --> 00:18:11,362
+Rym: Up to a point, because knowing how to do it and implementing it can be very different things at scale.
+
+155
+00:18:11,602 --> 00:18:22,482
+Scott: But mostly because they don't want SEO people to be like, aha, that's how they're ranking, therefore this is how I can, all I have to do to get to the top of the search results is do this, right?
+
+156
+00:18:22,844 --> 00:18:28,687
+Scott: If you know what the ranking system is, you know, if you know what the judges are looking for, then you know how to tailor your performance.
+
+157
+00:18:30,332 --> 00:18:39,624
+Scott: However, Google accidentally published some documents on GitHub under the irrevocable Apache 2 license, which is funny, like accidentally somebody published this.
+
+158
+00:18:40,307 --> 00:18:42,314
+Rym: I can't express how funny this is.
+
+159
+00:18:42,335 --> 00:18:44,524
+Rym: Like, you have to understand how absolutely fucking funny this is.
+
+160
+00:18:44,544 --> 00:18:48,502
+Scott: It's like you accidentally published your private documentation on GitHub.
+
+161
+00:18:48,702 --> 00:18:54,060
+Rym: With a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright.
+
+162
+00:18:54,600 --> 00:18:55,485
+Scott: Yeah, so someone fucked up.
+
+163
+00:18:56,228 --> 00:18:59,463
+Scott: Or it was on purpose, they don't want to say it's on purpose, but regardless, it could be.
+
+164
+00:18:59,564 --> 00:19:05,805
+Rym: If it was on purpose, that is an example of, basically, information laundering, and that's the topic.
+
+165
+00:19:05,986 --> 00:19:10,004
+Scott: If it was 4D chess, like they're trying to mess with people, that would be amazing.
+
+166
+00:19:10,084 --> 00:19:11,491
+Rym: It would be, but I don't think so.
+
+167
+00:19:11,833 --> 00:19:12,939
+Rym: I think this is just a fuck up.
+
+168
+00:19:13,019 --> 00:19:13,621
+Scott: No, it doesn't.
+
+169
+00:19:14,404 --> 00:19:16,794
+Scott: If it's a 4D chess, it's a 5D chess.
+
+170
+00:19:16,814 --> 00:19:18,139
+Rym: If it's a 4D chess, you got me.
+
+171
+00:19:20,320 --> 00:19:37,059
+Scott: Yeah, and it contains a lot of information about how this, you know, it's ranked and it's thousands and thousands of pages, and basically, it's like, yeah, there's lots and lots of tiny factors, right, that are add and subtract, and all together, you combine those in some way.
+
+172
+00:19:37,099 --> 00:19:44,367
+Scott: that's incomprehensible to humans, because it's so big, so many factors, into determining how the results are ranked for any particular search.
+
+173
+00:19:44,728 --> 00:19:50,407
+Scott: But, you know, you might not be able to figure out, like, any, like, surefire things, like this.
+
+174
+00:19:50,508 --> 00:19:56,086
+Scott: doing this will guarantee first place, but you can say, this is a thing that matters.
+
+175
+00:19:56,648 --> 00:19:58,133
+Scott: This is also a thing that matters.
+
+176
+00:19:58,595 --> 00:20:00,682
+Scott: This is also a thing that matters, right?
+
+177
+00:20:00,702 --> 00:20:02,550
+Scott: And what's interesting is the SEO.
+
+178
+00:20:02,590 --> 00:20:11,280
+Scott: people, right, are obviously the ones who are digging over this the most, and they are both happy to have the information that the leak happened.
+
+179
+00:20:11,701 --> 00:20:19,911
+Scott: They're also upset, because a lot of the things that are in this document conflict things that Google has said in the past.
+
+180
+00:20:20,031 --> 00:20:23,505
+Scott: So either the document is wrong or Google has been a liar.
+
+181
+00:20:23,525 --> 00:20:24,990
+Rym: Yeah, one specific example.
+
+182
+00:20:25,030 --> 00:20:37,853
+Rym: Google said over and over and over again that the number of times people click on a link has no bearing on search results, and yet this otherwise obviously shows that that is part of the algorithm, right?
+
+183
+00:20:38,134 --> 00:20:51,298
+Scott: So if, right, it's like, if people knew that that was true, they would just set up bots to go to do Google searches and keep clicking on frontrowcrew.com results, right, all the time to get them upranked.
+
+184
+00:20:51,438 --> 00:20:56,632
+Rym: But I would argue at the same time, I actually, and Google doesn't want people to do that.
+
+185
+00:20:56,652 --> 00:21:09,631
+Rym: If Google was actively lying about how it works to trick shitty SEO people into doing stupid things, then I applaud that, because SEO is a garbage task for garbage people, and I hate it.
+
+186
+00:21:10,533 --> 00:21:24,929
+Scott: Yeah, obviously, but this is just really interesting, and it also kind of gives you, you know, Google is like, ah, don't, don't go trusting outdated or incomplete information that may have leaked, right?
+
+187
+00:21:26,311 --> 00:21:31,726
+Scott: It's like, how outdated or incomplete is it, or who knows, right?
+
+188
+00:21:32,609 --> 00:21:34,936
+Scott: Regardless, this is still a thing that happened.
+
+189
+00:21:34,996 --> 00:21:42,548
+Rym: If it were 5D chess, I actually thought of the plausible way this could be an effective attempt to clean up search results.
+
+190
+00:21:42,608 --> 00:21:48,947
+Rym: You publish this, and I noticed reading through it, it's like, unreasonably complex.
+
+191
+00:21:49,007 --> 00:21:56,693
+Rym: The way it works, from what I've read of the document so far, is like, it's complex to a degree that nobody could understand it.
+
+192
+00:21:57,856 --> 00:22:08,152
+Rym: And if I wanted to trap a bunch of SEO people into wasting their time, what better could I do than publish an authoritative document that is basically impossible?
+
+193
+00:22:08,413 --> 00:22:12,790
+Rym: It's like trying to trick people into solving a stupid hash for no reason.
+
+194
+00:22:14,770 --> 00:22:19,869
+Rym: So trying to analyze this might be the trap, if it were a trap, if I don't think it is.
+
+195
+00:22:20,351 --> 00:22:29,511
+Rym: Like, I don't think any human understands how this works at this point, and maybe that's why it kind of worked for a while, because it kind of ended up just being fuzzy and voodoo if this is even real.
+
+196
+00:22:32,577 --> 00:22:39,570
+Rym: So in some other news, Twitter is increasing, it just continues to try to prevent.
+
+197
+00:22:39,791 --> 00:22:48,430
+Scott: We said we wouldn't talk about its downfall unless it downfalled significantly further, and I think it did make a significant further downward step.
+
+198
+00:22:48,890 --> 00:22:57,349
+Rym: Which is amazing because it did a thing that, if done correctly when Twitter was still kind of okay, would have made Twitter better in many ways.
+
+199
+00:22:57,550 --> 00:22:57,844
+Scott: Precisely.
+
+200
+00:22:58,912 --> 00:23:03,512
+Rym: Now they're doing it in a way that will make Twitter worse, and they're doing it for the wrong reasons.
+
+201
+00:23:04,174 --> 00:23:09,370
+Rym: It's hard to express how bad of an idea it is on the current Twitter.
+
+202
+00:23:10,271 --> 00:23:20,802
+Scott: So what they're going to do is they're going to allow people, they're giving you permission to post consensual adult sexy content on Twitter.
+
+203
+00:23:21,083 --> 00:23:23,388
+Scott: You know, naked peoples.
+
+204
+00:23:23,749 --> 00:23:32,017
+Scott: I don't know if it'll allow you to show people getting it on, but at least they're going to let you show the human body not covered up by clothing.
+
+205
+00:23:32,378 --> 00:23:45,497
+Scott: As long as it's consensual and labeled so that they, you know, if you just go and post it but don't label it, or it's nonconsensual according to their policy and their statement at least, that is not allowed.
+
+206
+00:23:45,938 --> 00:23:49,990
+Scott: So on paper, that's good, right?
+
+207
+00:23:51,391 --> 00:23:56,130
+Scott: But the reality is that, A, they can't even moderate what they've got already.
+
+208
+00:23:57,931 --> 00:24:01,969
+Scott: How the hell are people going to post all kinds of nonconsensual crap and get away with it?
+
+209
+00:24:04,531 --> 00:24:15,771
+Rym: The Twitter user base is shifting to where I feel like this is going to turn into a sea of that very basic crass style of pornography that seems to be the most popular pornography in the world.
+
+210
+00:24:15,791 --> 00:24:24,379
+Scott: Yeah, they're doing this to get clicks and, you know, make the, bring, it's basically like, well, no one's, it's sort of weird, right?
+
+211
+00:24:24,419 --> 00:24:29,176
+Scott: It's like, usually we talk about porn is like the first technology adopter.
+
+212
+00:24:29,196 --> 00:24:37,646
+Scott: At least that's the story everyone likes to tell because of, you know, videotapes back in the day and sort of driving technology forward here.
+
+213
+00:24:38,208 --> 00:24:41,057
+Scott: And this is a, this is a cart horse situation.
+
+214
+00:24:41,078 --> 00:24:45,753
+Scott: I don't know which direction, where it's like, shit, our technology, no one's using it anymore.
+
+215
+00:24:46,175 --> 00:24:47,720
+Scott: Let's add porn to get users.
+
+216
+00:24:48,402 --> 00:24:52,997
+Rym: I don't think we've ever seen that particular kind of pivot before.
+
+217
+00:24:54,180 --> 00:24:54,381
+Scott: Yeah.
+
+218
+00:24:54,441 --> 00:24:56,608
+Scott: I mean, usually it's just like porn.
+
+219
+00:24:56,648 --> 00:25:04,154
+Scott: people do porn and not, you know, like who, who out there was like not doing porn and was like, shit, we're going out of business.
+
+220
+00:25:04,214 --> 00:25:08,268
+Scott: Better add porn as the, as the spice to, to get viewers.
+
+221
+00:25:08,449 --> 00:25:16,677
+Scott: It's like, uh, you know, it would be one thing if they made a new social network that was like porn, porn, Twitter, you know, naked bird or something.
+
+222
+00:25:18,181 --> 00:25:22,793
+Scott: Um, but, uh, yeah, this is going to be, uh, I think bad.
+
+223
+00:25:22,813 --> 00:25:31,586
+Scott: I mean, you know, there might be, there probably will be, um, you know, sex workers and other people of that nature who will benefit from this.
+
+224
+00:25:31,767 --> 00:25:41,880
+Rym: But I think actually because of Twitter's lack of moderation, uh, like explicit, like on purpose refusal to moderate, like they've let open Nazis posts on the platform.
+
+225
+00:25:41,920 --> 00:25:54,702
+Rym: Again, I feel like sex workers who use Twitter to do this are going to be extremely high targets of shitty people trying to harm or exploit them way more so than under old Twitter.
+
+226
+00:25:54,722 --> 00:25:55,766
+Rym: Yeah.
+
+227
+00:25:55,806 --> 00:25:58,474
+Scott: I think the other thing you're going to see a lot, right.
+
+228
+00:25:58,614 --> 00:26:07,839
+Scott: Is, um, you know, not just nonconsensual, like I took my, my, my bedroom photos of an X and posted them.
+
+229
+00:26:08,120 --> 00:26:08,401
+Scott: Right.
+
+230
+00:26:08,842 --> 00:26:16,483
+Scott: But you're going to also see, I pay for someone's only fans and I got all their stuff and I just reposted it to Twitter.
+
+231
+00:26:17,547 --> 00:26:20,056
+Scott: Um, and now no one's paying for their only fans now.
+
+232
+00:26:20,698 --> 00:26:22,947
+Scott: And that's also nonconsensual, right?
+
+233
+00:26:22,987 --> 00:26:26,920
+Scott: It's like, you didn't pay the person, you know, you're just pirating their, their bod.
+
+234
+00:26:27,281 --> 00:26:36,155
+Rym: So, I mean, you can't trust any, as soon as Twitter explicitly allowed the Nazis back, like you cannot trust Twitter no matter what they say.
+
+235
+00:26:36,255 --> 00:26:39,585
+Rym: That is, that's like a hard line of there is no word.
+
+236
+00:26:39,846 --> 00:26:44,866
+Rym: Anyone who allows Nazis into their spaces on purpose can ever say to get that trust back.
+
+237
+00:26:44,926 --> 00:26:46,531
+Rym: That is a permanently burn bridge.
+
+238
+00:26:48,996 --> 00:26:50,299
+Rym: Uh, one last little news.
+
+239
+00:26:50,980 --> 00:26:56,090
+Scott: Uh, so this isn't, this isn't really a significant news.
+
+240
+00:26:56,170 --> 00:27:03,518
+Scott: There's nothing really to say about it, but Nvidia was announcing their new chips that are coming out like in a couple of years, like their AI platform.
+
+241
+00:27:04,301 --> 00:27:07,974
+Scott: And they called it Reuben, which is my last name, which is funny.
+
+242
+00:27:08,174 --> 00:27:08,375
+Rym: Yeah.
+
+243
+00:27:08,475 --> 00:27:15,082
+Scott: Well, I mean, I got to say, if I asked, if the one, if the year after that, they come out with the decoster, we know something's up.
+
+244
+00:27:15,182 --> 00:27:17,152
+Rym: Then we know they're mining GeekNights.
+
+245
+00:27:17,413 --> 00:27:20,001
+Rym: GeekNights is like the last source of data for the AIs.
+
+246
+00:27:21,867 --> 00:27:34,110
+Rym: It's, I will say though, if I ask you how to make a pizza, uh, have better, gooier cheese, I'm confident of all the things you could say to me, you would not tell me to put glue in my pizza.
+
+247
+00:27:35,390 --> 00:27:37,679
+Scott: No, I would tell you to go and buy more expensive cheese.
+
+248
+00:27:37,900 --> 00:27:38,502
+Scott: Yeah.
+
+249
+00:27:38,602 --> 00:27:39,988
+Scott: Get a hot, get a hotter oven.
+
+250
+00:27:40,008 --> 00:27:40,068
+Rym: Yup.
+
+251
+00:27:40,750 --> 00:27:41,935
+Rym: Which are the correct answers.
+
+252
+00:27:41,955 --> 00:27:45,130
+Scott: I don't even need to Google that.
+
+253
+00:27:45,310 --> 00:27:45,872
+Scott: Yeah.
+
+254
+00:27:47,576 --> 00:27:48,097
+Rym: All right.
+
+255
+00:27:48,157 --> 00:27:51,726
+Rym: But anyway, things of the day.
+
+256
+00:27:51,846 --> 00:27:58,468
+Rym: So, uh, Emily and I went to a cool thing and it, it gave me an idea for some content we could do in GeekNights in the future.
+
+257
+00:27:58,488 --> 00:28:02,400
+Rym: Uh, but anyway, at the, it was a thing called animation speakeasy.
+
+258
+00:28:02,841 --> 00:28:08,963
+Rym: And the shick is they get like, they go to a bar, but they rent it out, like chairs in a row.
+
+259
+00:28:09,345 --> 00:28:10,670
+Rym: People don't have to be drinking.
+
+260
+00:28:10,891 --> 00:28:25,098
+Rym: Like they just use the bar because they have a big projector and they get basically three animators, uh, to pick each an animated shorts of some kinds, not one of their own, but just like a short that they can think is notable.
+
+261
+00:28:25,500 --> 00:28:26,905
+Rym: They screen it for the audience.
+
+262
+00:28:27,327 --> 00:28:30,358
+Rym: Then they interview this person about why did you pick it?
+
+263
+00:28:30,639 --> 00:28:31,623
+Rym: Let's talk about it.
+
+264
+00:28:31,964 --> 00:28:33,991
+Scott: And then the creator might not even be there.
+
+265
+00:28:34,011 --> 00:28:34,554
+Scott: Yeah.
+
+266
+00:28:34,574 --> 00:28:35,981
+Rym: The crater is probably not there.
+
+267
+00:28:36,021 --> 00:28:44,227
+Rym: In fact, in this case, the craters were not there, so you've got a, you've got professional animators, but also other people all in a big room.
+
+268
+00:28:44,729 --> 00:28:48,242
+Rym: And some people are like on stage, like being interviewed about this work.
+
+269
+00:28:48,564 --> 00:29:00,707
+Rym: But then they go to the audience with a microphone and they take commentary, they ask questions and it's very much like the kinds of panels that are actually good lively panels at conventions, but in a non convention space.
+
+270
+00:29:01,530 --> 00:29:06,546
+Rym: And it would like the discussion that was had was very high quality.
+
+271
+00:29:06,747 --> 00:29:11,261
+Scott: Like I would say the only people showing up to that are people who are very deep into it.
+
+272
+00:29:11,502 --> 00:29:12,064
+Rym: Exactly.
+
+273
+00:29:12,084 --> 00:29:17,384
+Rym: So one of the shorts that was picked, which I am confident I've seen this before.
+
+274
+00:29:17,525 --> 00:29:27,972
+Scott: I didn't realize I'd as soon as it was like, yeah, it's like the Vegas, like, like it's like the tiniest bit of remembering.
+
+275
+00:29:28,092 --> 00:29:31,161
+Rym: Like I think I saw this on MTV.
+
+276
+00:29:31,202 --> 00:29:32,746
+Rym: Like I think they showed it on MTV.
+
+277
+00:29:32,967 --> 00:29:35,016
+Scott: It's possible, but I don't know.
+
+278
+00:29:35,036 --> 00:29:36,224
+Rym: My brain might be making that up.
+
+279
+00:29:36,264 --> 00:29:36,707
+Rym: I'm over 40.
+
+280
+00:29:36,707 --> 00:29:50,896
+Rym: Like anyway, but it's a short film that was made by like two students in 1989, Wolfgang and Christoph Lowenstein.
+
+281
+00:29:51,699 --> 00:29:54,190
+Rym: They were just like students at different colleges, like separate colleges.
+
+282
+00:29:54,611 --> 00:29:56,898
+Rym: And they just made this stop motion animation together.
+
+283
+00:29:57,620 --> 00:30:04,280
+Rym: And it ended up like to their absolute shock nominated and then winning an Oscar.
+
+284
+00:30:05,684 --> 00:30:09,014
+Rym: Like the one of the first things they ever made just won an Oscar out of nowhere.
+
+285
+00:30:09,877 --> 00:30:11,401
+Scott: And it can happen, especially in 1989.
+
+286
+00:30:11,401 --> 00:30:19,621
+Rym: And I will say this is like a timeless, all star animated short.
+
+287
+00:30:20,503 --> 00:30:23,170
+Rym: I love everything about it and you should watch it.
+
+288
+00:30:23,230 --> 00:30:24,957
+Rym: It's seven minutes and 40 seconds long.
+
+289
+00:30:25,398 --> 00:30:26,302
+Rym: It is a triumph.
+
+290
+00:30:26,362 --> 00:30:27,125
+Rym: It is a treasure.
+
+291
+00:30:27,145 --> 00:30:30,419
+Rym: If you do not take something away from it, I'm disappointed in you.
+
+292
+00:30:31,062 --> 00:30:39,472
+Rym: And yeah, that's my thing of the day, because even though I might have seen this or I may not have in the past, I saw it recently and it was fucking amazing.
+
+293
+00:30:39,934 --> 00:30:47,595
+Rym: And it caused a whole bunch of people in a bar in Park Slope at night to say a lot of words and have a lot of thoughts.
+
+294
+00:30:49,781 --> 00:30:51,686
+Rym: So what do you got?
+
+295
+00:30:51,746 --> 00:30:52,248
+Scott: What do I have?
+
+296
+00:30:52,308 --> 00:30:55,077
+Rym: So all right, this next looking thing.
+
+297
+00:30:55,800 --> 00:30:56,121
+Scott: Yeah.
+
+298
+00:30:56,181 --> 00:30:59,132
+Scott: So what is there must be in the whole world, right?
+
+299
+00:30:59,212 --> 00:31:01,400
+Scott: There are many motorcycles, right?
+
+300
+00:31:01,721 --> 00:31:04,130
+Scott: And some of them, many of them are custom made.
+
+301
+00:31:05,111 --> 00:31:11,067
+Scott: There must be one that is bigger than all the others and heavier there.
+
+302
+00:31:11,127 --> 00:31:11,949
+Scott: That's just right.
+
+303
+00:31:12,330 --> 00:31:15,504
+Scott: There could be like one particular one and there could be many of that one.
+
+304
+00:31:15,565 --> 00:31:23,778
+Scott: But no matter what, at any point in time, there is a biggest of each thing, a biggest giraffe, a biggest elephant, biggest person, a biggest building.
+
+305
+00:31:24,360 --> 00:31:24,541
+Scott: Right.
+
+306
+00:31:24,762 --> 00:31:27,971
+Scott: So what's the world's biggest, heaviest motorcycle right?
+
+307
+00:31:28,473 --> 00:31:30,360
+Scott: is the Panzer bike.
+
+308
+00:31:30,380 --> 00:31:31,745
+Scott: And you can read all about it.
+
+309
+00:31:31,845 --> 00:31:37,230
+Scott: If you click the link to my thing of the day, I'm not going to go over it because it's a long story about these German dudes.
+
+310
+00:31:37,811 --> 00:31:45,373
+Scott: But you all you need to know is that the majority of the Panzer bike is its engine, obviously.
+
+311
+00:31:45,553 --> 00:31:45,774
+Scott: Right.
+
+312
+00:31:46,736 --> 00:31:50,347
+Scott: And it is an engine from a Soviet tank.
+
+313
+00:31:50,808 --> 00:31:51,510
+Scott: It's a tank engine.
+
+314
+00:31:52,511 --> 00:31:56,185
+Scott: And that is why it is the world's biggest, heaviest motorcycle.
+
+315
+00:31:56,486 --> 00:31:56,667
+Rym: Yeah.
+
+316
+00:31:56,767 --> 00:31:57,209
+Rym: It's all you.
+
+317
+00:31:57,229 --> 00:32:04,730
+Rym: literally this is a post World War Two Soviet tank, but not that much post World War Two like this.
+
+318
+00:32:05,251 --> 00:32:08,906
+Rym: This is the state of the art of World War Two era tank in the Soviet.
+
+319
+00:32:08,926 --> 00:32:14,870
+Scott: The point is the engine is capable of moving a tank with a bunch of armor and a bunch of people and a bunch of magicians.
+
+320
+00:32:15,731 --> 00:32:20,790
+Scott: And it's moving basically just itself, a person, some handlebars and two wheels.
+
+321
+00:32:22,331 --> 00:32:27,564
+Scott: It can move very easily when it's not burdened with a tank on top of it.
+
+322
+00:32:28,206 --> 00:32:33,664
+Rym: See, I want to eventually phase out basically all uses of fossil fuels wherever we can.
+
+323
+00:32:34,065 --> 00:32:42,617
+Rym: But I would allow an exception for works of art like this to be driven around occasionally to remind the world of what this kind of thing could be obvious.
+
+324
+00:32:42,938 --> 00:32:44,543
+Rym: This thing is just amazing to look at.
+
+325
+00:32:45,306 --> 00:32:45,707
+Rym: All right.
+
+326
+00:32:45,848 --> 00:32:48,580
+Rym: In the meta moment, the GeekNights Book Club book was Walk on Girl.
+
+327
+00:32:48,640 --> 00:32:49,384
+Rym: The night is short.
+
+328
+00:32:49,424 --> 00:32:50,550
+Rym: We did a whole episode on it.
+
+329
+00:32:50,910 --> 00:32:53,585
+Rym: The next book club book is going to be some number of the Moomin books.
+
+330
+00:32:53,686 --> 00:32:57,182
+Rym: I'm going to make a post and pick an appropriate number of pages for us to read.
+
+331
+00:32:57,604 --> 00:33:11,036
+Rym: I don't think it'll be a long book club, but I think it'll be a more poignant book club than Scott is expecting based on my knowledge of the Moomintroll books and the sheer amount of melancholy that is interspersed throughout these charming children's books.
+
+332
+00:33:12,841 --> 00:33:19,077
+Rym: We could have read Fear and Loathing on the Campaign Trail by Hunter Thompson, but we're not.
+
+333
+00:33:21,423 --> 00:33:21,783
+Rym: All right.
+
+334
+00:33:22,285 --> 00:33:23,046
+Rym: Any other meta stuff?
+
+335
+00:33:23,086 --> 00:33:26,880
+Rym: I guess PAX West hotels are on sale, like badges I guess will be on sale soon.
+
+336
+00:33:27,282 --> 00:33:28,447
+Rym: We're going to be at PAX West.
+
+337
+00:33:28,488 --> 00:33:38,883
+Scott: They got a new thing going on where I think for a limited time, you can buy a badge bundle, which is a new thing they're doing, which lets you buy like a four pack.
+
+338
+00:33:39,545 --> 00:33:41,492
+Scott: Let me just check to make sure they're still on sale.
+
+339
+00:33:42,696 --> 00:33:47,450
+Scott: Yes, you can still buy like a three pack, a four pack or a six pack of badges.
+
+340
+00:33:48,111 --> 00:33:52,365
+Scott: All of those badges in that bundle will be for a single day.
+
+341
+00:33:52,406 --> 00:34:00,045
+Scott: So like if you want to bring a family of four on like just Saturday or just Friday, there's a discount for that.
+
+342
+00:34:01,188 --> 00:34:04,318
+Scott: But I think there is a deadline of June 20th.
+
+343
+00:34:04,599 --> 00:34:06,706
+Scott: Well, they will no longer sell those bundles.
+
+344
+00:34:07,207 --> 00:34:16,154
+Scott: And then if you will be forced to buy single day badges, each single day badge is $66 no matter which day, which I think is not cool for Monday actually.
+
+345
+00:34:16,174 --> 00:34:27,181
+Scott: And then of course there is the four day badge, which is I guess a slight savings because if you think about it, 66 times four is 264.
+
+346
+00:34:27,181 --> 00:34:32,498
+Scott: You're saving $14 when you buy the four day badge.
+
+347
+00:34:32,498 --> 00:34:37,391
+Rym: $14 is less than one cocktail at a rooftop bar in Seattle next to PAX.
+
+348
+00:34:37,851 --> 00:34:43,342
+Scott: Yeah, but if you buy the 4X bundle, right, of badges, you're saving $26.
+
+349
+00:34:43,342 --> 00:34:49,391
+Scott: So I guess that's significant.
+
+350
+00:34:49,473 --> 00:34:50,074
+Scott: It's not nothing.
+
+351
+00:34:53,023 --> 00:34:58,457
+Rym: Otherwise, like PAX West, PAX Unplugged, MagFest, just noting we're going to be at MagFest.
+
+352
+00:34:59,219 --> 00:35:03,329
+Rym: MagFest hotel stuff and dates are announced.
+
+353
+00:35:03,529 --> 00:35:18,976
+Rym: So if you want to go to MagFest, I advise you to sort out a place to stay as soon as possible because the lottery to get a hotel at MagFest, you are more likely to win the real lottery than to get a hotel room at MagFest.
+
+354
+00:35:19,057 --> 00:35:19,739
+Scott: That's not true.
+
+355
+00:35:20,100 --> 00:35:26,688
+Scott: MagFest is like out of hundreds of thousands or maybe tens of thousands, whereas the real lottery is out of hundreds of millions.
+
+356
+00:35:26,708 --> 00:35:29,257
+Rym: Well, I didn't say jackpot, I said win a lottery.
+
+357
+00:35:29,277 --> 00:35:31,504
+Rym: A lot of people win like the 50 bucks.
+
+358
+00:35:31,604 --> 00:35:31,965
+Scott: Oh, win $2?
+
+359
+00:35:31,965 --> 00:35:36,142
+Scott: Yeah, oh yeah, it's a lot easier to win $2 in a lottery than to win a MagFest.
+
+360
+00:35:36,323 --> 00:35:38,231
+Rym: It's a lot easier to do a lot of things.
+
+361
+00:35:38,592 --> 00:35:48,879
+Rym: MagFest hotels, hotel rooms in the convention center at MagFest are one of the rarer things that nerds care about on earth.
+
+362
+00:35:49,661 --> 00:35:51,808
+Scott: You can get one by staffing at MagFest.
+
+363
+00:35:51,949 --> 00:35:52,791
+Scott: You can, in fact.
+
+364
+00:35:52,831 --> 00:35:54,618
+Scott: You might have to share with some people.
+
+365
+00:35:54,920 --> 00:35:57,169
+Scott: You have to share with some people, but you know.
+
+366
+00:35:58,875 --> 00:36:25,177
+Rym: You know, we talked about this in the MagFest episode, but if you were ever on the fence about going to MagFest, I recommend trying to go to this one because as we've come out of the pandemic and we're possibly entering some dark times and a lot of conventions are getting more and more infused with capitalism, I just want to say MagFest has kind of gone in the opposite trajectory from most of the rest of the conventions I'm aware of, excluding furry conventions, which have always been on this trajectory.
+
+367
+00:36:27,765 --> 00:36:28,728
+Rym: All right, let's get into it.
+
+368
+00:36:28,749 --> 00:36:32,379
+Rym: We did an episode of GeekNights a long time ago, back in the year 2000.
+
+369
+00:36:32,379 --> 00:36:42,708
+Rym: Well, we did the episode in 2010, and the episode was predicting technology things for the future.
+
+370
+00:36:42,728 --> 00:36:50,061
+Rym: a year later, and I don't have time to listen to that episode, but I'm going to go back and get a transcript and figure out what predictions we actually made.
+
+371
+00:36:50,422 --> 00:37:02,930
+Rym: We'll probably do a future episode of GeekNights where we will tell you all what we were right about and what we were stupid about, but we're going to try to do something like that now and make some technology predictions about some...
+
+372
+00:37:03,331 --> 00:37:08,994
+Scott: It feels like we did this many times in the past, but I just can't find those instances, I only found the one.
+
+373
+00:37:09,175 --> 00:37:09,236
+Scott: I'm
+
+374
+00:37:09,256 --> 00:37:26,897
+Rym: going to tag this episode, I'm going to remember it, we're going to give it a good title, but I guess the promise is we will, one, five, and ten years from now, do an episode to revisit these, assuming we're still around in ten years, a lot could happen, and see whether our predictions were good or bad.
+
+375
+00:37:28,601 --> 00:37:41,332
+Rym: Also, cynically, this will make sure that at least five years from now, if Scott and I are struggling to come up with a Monday episode, we're going to look at our queue, and I'm going to see a note that says, "Hey, you did some predictions five years ago.
+
+376
+00:37:41,813 --> 00:37:42,355
+Rym: There's an easy
+
+377
+00:37:42,415 --> 00:37:42,877
+Rym: episode.".
+
+378
+00:37:44,201 --> 00:37:54,510
+Scott: I mean, my strategy for predicting is to basically predict that history will repeat itself, and I will just by probability be more right than not.
+
+379
+00:37:55,731 --> 00:38:02,197
+Scott: It's not any particular foresight or genius, and it's like, if anything out of the ordinary happens, yeah, I'm going to miss that.
+
+380
+00:38:03,323 --> 00:38:04,570
+Scott: How could I possibly predict that?
+
+381
+00:38:04,870 --> 00:38:27,853
+Rym: I'm not going to lie, looking at the fact that the geopolitical situation in Europe and the United States mirrors events of between 40 and 70 years ago to a degree that is extremely uncomfortable, and also not exactly, I am not shocked by all of this in retrospect, let's say.
+
+382
+00:38:28,355 --> 00:38:31,690
+Rym: But at the same time, sometimes things destabilize.
+
+383
+00:38:31,750 --> 00:38:35,089
+Scott: Yeah, I really want my team to win, but I won't be shocked because I see them.
+
+384
+00:38:35,650 --> 00:38:40,929
+Rym: Yep, I really want certain things to not follow the trajectory that they followed in the 30s.
+
+385
+00:38:43,611 --> 00:38:49,873
+Rym: So anyway, we're going to go through a list of topics first and discuss them on the one, five, ten-year timeline.
+
+386
+00:38:50,355 --> 00:39:00,860
+Rym: And then, I don't know, I have a handful of very specific predictions, but not that many because I remember we saw a talk a long time ago where Jane McGonigal was talking about forecasting the future.
+
+387
+00:39:01,582 --> 00:39:10,037
+Rym: And I think she cited, I forget what she cited, but she cited this paper that basically said, "It is fucking impossible to predict things specifically 10 years in the future.
+
+388
+00:39:10,359 --> 00:39:13,169
+Rym: In the modern world, 10 years is basically infinity
+
+389
+00:39:13,229 --> 00:39:13,430
+Rym: years.".
+
+390
+00:39:14,650 --> 00:39:16,960
+Scott: Yeah, but think about 2014, right?
+
+391
+00:39:17,964 --> 00:39:19,450
+Scott: Would they know anything that's happening?
+
+392
+00:39:20,271 --> 00:39:22,003
+Scott: No, you couldn't have possibly known any 2024 things.
+
+393
+00:39:23,251 --> 00:39:30,089
+Rym: But the real thing was it said 30 years was the horizon of, "You can't predict really
+
+394
+00:39:30,269 --> 00:39:30,590
+Rym: anything.".
+
+395
+00:39:32,772 --> 00:39:34,621
+Rym: So we're not even going to try to predict 30 years from now.
+
+396
+00:39:34,641 --> 00:39:38,522
+Scott: Like my 30-year predictions- Yeah, even in the 80s, we're like, "What's going to be in the year
+
+397
+00:39:38,522 --> 00:39:38,642
+Scott: 2000?"
+
+398
+00:39:38,642 --> 00:39:41,796
+Scott: Which was like 15 to 20 years off.
+
+399
+00:39:42,519 --> 00:39:43,964
+Scott: And we were like, "Flying cars!
+
+400
+00:39:44,024 --> 00:39:44,505
+Scott: Jetsons,
+
+401
+00:39:44,546 --> 00:39:44,887
+Scott: baby!".
+
+402
+00:39:46,833 --> 00:39:57,309
+Rym: Would anyone other than someone working at ARPA have said, "Computers are going to be connected to each other, and that is going to destabilize society in ways that we cannot possibly
+
+403
+00:39:57,389 --> 00:39:57,670
+Rym: imagine.".
+
+404
+00:39:59,930 --> 00:40:01,436
+Rym: So let's go through the list.
+
+405
+00:40:01,656 --> 00:40:02,800
+Rym: We'll start with smartphones.
+
+406
+00:40:02,881 --> 00:40:04,948
+Rym: That's a nice prosaic one.
+
+407
+00:40:05,008 --> 00:40:16,523
+Rym: as I hold my... I feel like every two or three years I buy the smallest viable smartphone in the world, and it is also the smallest smartphone I will ever own.
+
+408
+00:40:16,543 --> 00:40:19,275
+Rym: And I hate that trend, but I feel like that trend is going to continue.
+
+409
+00:40:19,737 --> 00:40:23,915
+Rym: I do not think there's going to be a small smartphone in the year 2025.
+
+410
+00:40:23,915 --> 00:40:24,256
+Rym: No, probably not.
+
+411
+00:40:27,891 --> 00:40:35,485
+Rym: And it really bothers me, and I don't know what to do about it because eventually this iPhone 13... Yeah, I don't really have that capability, but I don't know.
+
+412
+00:40:35,505 --> 00:40:40,090
+Rym: I feel like in one year we're going to see smartphones following the exact same trend they're following now.
+
+413
+00:40:40,411 --> 00:40:50,220
+Rym: There's going to be the push to force people to upgrade with increasingly camera-focused features, which is interesting to me because I don't think many
+
+414
+00:40:50,240 --> 00:40:50,542
+Scott: people-
+
+415
+00:40:53,331 --> 00:40:58,494
+Rym: It's that and AI, and I don't think smartphone AI is going to do anything different a year from now from what it's doing now.
+
+416
+00:40:58,836 --> 00:41:06,529
+Rym: In 2025, there won't be any AI features or smartphones that are in any way different from just asking Siri or Alexa or whatever something today.
+
+417
+00:41:09,253 --> 00:41:11,562
+Scott: Make your photo look better with AI, right?
+
+418
+00:41:11,602 --> 00:41:13,670
+Scott: That's stuff we have already have that today.
+
+419
+00:41:14,211 --> 00:41:16,762
+Scott: There's nothing new going to be invented in that realm.
+
+420
+00:41:16,782 --> 00:41:26,350
+Scott: It might improve incrementally, but there is no major development that's going to appear in next year's smartphones.
+
+421
+00:41:27,673 --> 00:41:28,075
+Rym: Yep.
+
+422
+00:41:28,156 --> 00:41:31,230
+Rym: I don't think batteries are going to get better in one year in any material way.
+
+423
+00:41:31,430 --> 00:41:35,650
+Rym: I don't really think anything material is going to change about smartphones in a year.
+
+424
+00:41:36,731 --> 00:41:36,872
+Scott: No.
+
+425
+00:41:37,774 --> 00:41:48,570
+Rym: I do think if we look at the five-year horizon, I don't think batteries are actually going to get better, but I do think we're going to finally have won the war of replaceable batteries.
+
+426
+00:41:48,937 --> 00:41:49,328
+Rym: For real.
+
+427
+00:41:50,811 --> 00:41:53,289
+Scott: It could be because of various regulations and such.
+
+428
+00:41:53,630 --> 00:41:53,771
+Rym: Yep.
+
+429
+00:41:54,173 --> 00:41:57,890
+Rym: I feel like Apple is sort of being forced there, and I feel like that is going to happen.
+
+430
+00:42:01,755 --> 00:42:18,186
+Rym: Actually, even in the five-year horizon, I don't think much is going to change about smartphones either because I still don't think a new killer app is going to appear, and Apple is going to continue to try to come up with reasons for people to buy a new phone every year, despite there being no good reason to do so.
+
+431
+00:42:19,091 --> 00:42:19,211
+Scott: Yeah.
+
+432
+00:42:19,231 --> 00:42:33,926
+Scott: I don't think there will be some major new function, but I think we will see meaningful advances, for example, in the display department and possibly the form factor.
+
+433
+00:42:36,370 --> 00:42:36,470
+Rym: Sure.
+
+434
+00:42:36,491 --> 00:42:41,649
+Rym: We're right on the cusp of things like FOLEDs actually reducing the power the screens use materially.
+
+435
+00:42:41,990 --> 00:42:42,151
+Scott: Yeah.
+
+436
+00:42:42,171 --> 00:42:45,230
+Scott: They're trying to do foldables, which never really quite work.
+
+437
+00:42:45,331 --> 00:42:48,310
+Rym: I think foldables disappear in the five-year horizon.
+
+438
+00:42:49,050 --> 00:42:53,070
+Scott: Well, the ones, the foldables of the kind they have now are just sort of like, right?
+
+439
+00:42:53,290 --> 00:42:59,770
+Scott: But there might be some flexible action, especially if they can get it to be thinner.
+
+440
+00:43:03,081 --> 00:43:16,078
+Rym: It's hard to say, though, because thinner doesn't buy anything for a phone beyond a certain point, and I feel like we could get thinner, and then we hit this point where thinner doesn't actually matter, but I guess marketing could make it better.
+
+441
+00:43:16,822 --> 00:43:21,080
+Scott: As thin as an iPod Nano and you can actually bend it and it's not a problem like it's supposed to.
+
+442
+00:43:21,701 --> 00:43:22,293
+Scott: It won't break.
+
+443
+00:43:22,980 --> 00:43:24,619
+Rym: I don't think we'll have that in five years, though.
+
+444
+00:43:25,843 --> 00:43:26,331
+Scott: Five years?
+
+445
+00:43:26,372 --> 00:43:26,819
+Scott: Yeah, it could.
+
+446
+00:43:27,541 --> 00:43:27,863
+Scott: It could.
+
+447
+00:43:27,943 --> 00:43:34,880
+Rym: I just don't think we will because I don't think that's going to drive because the foldables today did not drive consumer behavior.
+
+448
+00:43:34,880 --> 00:43:35,860
+Scott: It's not going to be foldable.
+
+449
+00:43:36,543 --> 00:43:37,980
+Scott: No, not that kind of folding.
+
+450
+00:43:38,080 --> 00:43:39,339
+Scott: I'm just saying it'll be flexy.
+
+451
+00:43:39,964 --> 00:43:41,500
+Scott: It won't just be sort of solid.
+
+452
+00:43:41,941 --> 00:43:43,939
+Scott: You can sort of flap it, fan yourself with it.
+
+453
+00:43:46,583 --> 00:43:48,479
+Rym: But 10 years, I think we're going to see a change.
+
+454
+00:43:49,140 --> 00:44:03,480
+Rym: Partly, I think all my 10-year predictions, at least, are going to be predicated on the idea that by then climate change is going to have hit such a crisis that I think there will be a forced end to the one-year phone upgrade cycle.
+
+455
+00:44:03,680 --> 00:44:06,437
+Rym: And there is a new phone every year model.
+
+456
+00:44:07,421 --> 00:44:16,479
+Rym: I think the new phone every year ends within 10 years, either because governments force it or manufacturing is fucked over by climate change.
+
+457
+00:44:18,689 --> 00:44:18,959
+Scott: Maybe.
+
+458
+00:44:20,543 --> 00:44:24,860
+Scott: I mean, in 10 years, will a smartphone even still be the thing, right?
+
+459
+00:44:24,860 --> 00:44:26,888
+Scott: It's like we've had them since 2007, basically, right?
+
+460
+00:44:30,060 --> 00:44:32,881
+Scott: I mean, we had them before then, but the iPhone was 2007.
+
+461
+00:44:32,881 --> 00:44:34,540
+Scott: That's when people started actually buying them.
+
+462
+00:44:34,640 --> 00:44:35,815
+Scott: There were palm trios before that.
+
+463
+00:44:36,180 --> 00:44:37,449
+Scott: That was 17 years ago.
+
+464
+00:44:39,220 --> 00:44:43,760
+Scott: We had the PC in the 80s and that lasted really before then.
+
+465
+00:44:44,642 --> 00:44:48,236
+Scott: But PC didn't really start being in people's homes until the 80s and also the 90s, really.
+
+466
+00:44:49,860 --> 00:44:53,660
+Rym: Now in the 2010s, 2020s, PC stopped being in the homes, right?
+
+467
+00:44:53,761 --> 00:44:56,880
+Scott: So in 30 to 40 years, the PC is fading.
+
+468
+00:44:57,541 --> 00:45:07,599
+Scott: So in 10 years from now, in 2034, that puts the PC, I guess, the smartphone in sort of its Windows XP era.
+
+469
+00:45:08,821 --> 00:45:12,980
+Rym: So maybe it's peak penetration and adoption, but approaching.
+
+470
+00:45:13,160 --> 00:45:19,120
+Scott: But it feels like that's happened already because, you know, we're moving faster than we did then, right?
+
+471
+00:45:19,180 --> 00:45:20,940
+Scott: It's like there was a lot of that, right?
+
+472
+00:45:22,061 --> 00:45:29,779
+Scott: So I feel like, you know, if you sort of scale in the greater acceleration of the present day, we're sort of in the Windows XP now.
+
+473
+00:45:30,641 --> 00:45:34,220
+Scott: And in 10 years, you know, there might be something else going down.
+
+474
+00:45:34,240 --> 00:45:34,879
+Rym: You know what I do think?
+
+475
+00:45:35,020 --> 00:45:43,240
+Rym: I think in 10 years, I think even in the 10 year horizon, the concept of the portable device that connects you to everything and has the screen is still going to be there.
+
+476
+00:45:43,760 --> 00:45:52,899
+Rym: I do think 10 years from now, people will primarily interact with their phones via either some sort of glasses or contacts or something like that.
+
+477
+00:45:53,241 --> 00:45:55,840
+Rym: But I think that is impossible on the five year horizon.
+
+478
+00:45:56,987 --> 00:45:57,739
+Scott: I don't think they're good.
+
+479
+00:45:58,803 --> 00:46:06,599
+Scott: That even if they've been working on that kind of stuff for so long and it still isn't smaller, I just don't know if they're going to be able to do that.
+
+480
+00:46:06,760 --> 00:46:08,394
+Rym: I think we'll get there in 10 years.
+
+481
+00:46:10,724 --> 00:46:12,340
+Rym: I don't think we'll get there in five years.
+
+482
+00:46:12,700 --> 00:46:15,300
+Rym: I think five years, almost nothing is changing, but 10 years.
+
+483
+00:46:15,720 --> 00:46:16,202
+Rym: It's either.
+
+484
+00:46:16,222 --> 00:46:20,712
+Scott: we're going to have VR headsets for 30 plus years and they still aren't that much.
+
+485
+00:46:21,260 --> 00:46:28,160
+Rym: VR headsets, though, have not gotten that much investment outside of installations and like, yeah, like Apple did.
+
+486
+00:46:28,663 --> 00:46:29,460
+Scott: Like Apple did.
+
+487
+00:46:29,520 --> 00:46:32,080
+Scott: It's like they got all the money and they still that's the best.
+
+488
+00:46:32,100 --> 00:46:33,760
+Rym: I think Apple missed the mission, though.
+
+489
+00:46:34,120 --> 00:46:37,200
+Rym: Apple included a lot of features that were fucking worthless.
+
+490
+00:46:37,700 --> 00:46:46,180
+Rym: I think Apple actually made a huge miss on understanding what people would value about that kind of technology and went too soon to the wrong market.
+
+491
+00:46:47,000 --> 00:46:50,580
+Scott: I think that they were like, hey, no matter what we make, it's going to cost this much money.
+
+492
+00:46:50,681 --> 00:46:55,140
+Scott: So nobody's going to pay that unless it has unless they're professional, the professional use case.
+
+493
+00:46:55,242 --> 00:46:56,219
+Scott: So that's what we had to target.
+
+494
+00:46:56,501 --> 00:46:57,565
+Rym: But they never.
+
+495
+00:46:57,585 --> 00:47:02,000
+Rym: their professional use case was absolutely fucking bonkers.
+
+496
+00:47:02,160 --> 00:47:08,599
+Rym: In my professional opinion, as a product manager, I've been a product manager for 16 years, like professionally for real.
+
+497
+00:47:10,320 --> 00:47:15,800
+Rym: And I cannot fathom who they thought they would sell that to in the professional space.
+
+498
+00:47:16,341 --> 00:47:22,900
+Scott: I think if I'm a CEO at any company and we got R&D people making products, I'd be like, OK, give me the product.
+
+499
+00:47:23,001 --> 00:47:27,097
+Scott: And if I actually use the product a bunch and keep using it, then I'll be like, this is a winner.
+
+500
+00:47:27,364 --> 00:47:28,260
+Scott: It's that simple, right?
+
+501
+00:47:28,580 --> 00:47:31,700
+Scott: Do you think Tim Apple is sitting there using his Apple Vision Pro at home?
+
+502
+00:47:32,280 --> 00:47:38,640
+Scott: No, Apple is going to be giving up on the Vision Pro after maybe one or two revisions.
+
+503
+00:47:39,260 --> 00:47:41,680
+Scott: There will be forced to cave on that one.
+
+504
+00:47:41,900 --> 00:47:47,600
+Rym: One thing I do think is going to happen for sure on the 10 year horizon, maybe on the five year horizon.
+
+505
+00:47:47,660 --> 00:47:59,115
+Rym: I think most people will primarily type things like interact with their phone via their voices because I'm already seeing this trend among the youth of not typing, but talking because they can't type fast enough on the phone.
+
+506
+00:48:00,721 --> 00:48:08,480
+Rym: I mean, maybe I'm seeing more and more people talking into their phones, not live, but to generate text than I've ever seen in my life.
+
+507
+00:48:08,601 --> 00:48:12,479
+Rym: Just in the last year, I'd say out in public, I also see people like sending voice messages.
+
+508
+00:48:12,822 --> 00:48:14,139
+Rym: Yeah, I'm seeing that more and more.
+
+509
+00:48:14,481 --> 00:48:17,933
+Rym: I feel like the voice interface is going to happen as people.
+
+510
+00:48:18,294 --> 00:48:21,980
+Rym: just you can't type that fast on a smartphone.
+
+511
+00:48:23,120 --> 00:48:24,538
+Rym: Like there's no preliminary how fast you can type.
+
+512
+00:48:25,642 --> 00:48:28,958
+Scott: People can if they practice, but they don't or they get they practice.
+
+513
+00:48:29,680 --> 00:48:34,700
+Scott: There were people who could type super fast with like T9 back in the day, but it's like they didn't have another option.
+
+514
+00:48:34,941 --> 00:48:38,680
+Scott: And so that they so they ended up practicing intentionally or not.
+
+515
+00:48:39,121 --> 00:48:44,380
+Scott: But now, because that isn't required, people aren't forced to type on the smartphone.
+
+516
+00:48:45,563 --> 00:48:51,220
+Rym: If you want to type fast on a smartphone, put a physical trigger somewhere on it.
+
+517
+00:48:51,380 --> 00:48:58,660
+Rym: Like you can operate with your thumb or your fingers on the back and let everyone learn Morse code like that is actually like a crazy efficient way to type.
+
+518
+00:48:59,320 --> 00:49:05,179
+Rym: But I feel like more typing on a keyboard is going to be seen as a very specialized thing in the future, but that's a different topic.
+
+519
+00:49:06,763 --> 00:49:08,320
+Rym: So what about totally different topic?
+
+520
+00:49:08,481 --> 00:49:10,520
+Scott: Game consoles, I think.
+
+521
+00:49:10,720 --> 00:49:16,340
+Scott: Well, I mean, Nintendo is going to come out with a Switch successor next year and it's basically or is it a prediction?
+
+522
+00:49:16,520 --> 00:49:28,920
+Scott: This is just sort of mostly reported and almost guaranteed, but not officially guaranteed that, yeah, you're going to still have all your Switch games on there because you'll log in with your Nintendo account and you won't, you know, which Nintendo has never really done before.
+
+523
+00:49:29,180 --> 00:49:29,252
+Scott: Yep.
+
+524
+00:49:29,601 --> 00:49:32,840
+Rym: I think this is the digital transformation of Nintendo's consumer side.
+
+525
+00:49:33,201 --> 00:49:43,940
+Rym: The Switch is the first console to be to be supported in a modern way as an online cloud driven digital distribution type of experience.
+
+526
+00:49:44,560 --> 00:49:48,375
+Scott: But then the question is, why would somebody get it?
+
+527
+00:49:48,636 --> 00:49:55,779
+Scott: if it's like, you know, it's like they're going to have to make games that are switched to only and don't work on Switch one, which I think they will.
+
+528
+00:49:57,062 --> 00:50:02,239
+Scott: And it's like, well, if they and if the same eShop is open with the same accounts, the Switch one isn't really dead.
+
+529
+00:50:02,722 --> 00:50:12,100
+Scott: So even though they might not be selling new ones, it's like the market for old ones is like still out there because like you can still get them and you can still play Breath of the Wild.
+
+530
+00:50:12,460 --> 00:50:14,269
+Rym: I think that would be a great ecosystem.
+
+531
+00:50:14,329 --> 00:50:21,638
+Rym: if you've got an online store, you've got a game console, there's a V1 and a V2 and the V1 is real cheap, but it can still play a lot of games.
+
+532
+00:50:21,840 --> 00:50:27,919
+Scott: But I think it's going to, it might, you know, what it'll do is if they, the problem is they come out with new games, right?
+
+533
+00:50:28,421 --> 00:50:28,882
+Scott: And it's like.
+
+534
+00:50:30,146 --> 00:50:45,479
+Scott: the only reason anyone would have to buy Switch two is if the games that are switched to only are so compelling that you're like, okay, I'll upgrade from a Switch one and you can, the upgrade path is low friction because you're not losing anything.
+
+535
+00:50:45,740 --> 00:50:58,460
+Scott: So, but I think a lot of people will be perfectly content to stick with a Switch one, especially if games are still coming out for it, even if Nintendo isn't releasing games that are Switch one worthy.
+
+536
+00:50:59,640 --> 00:51:08,160
+Scott: Other developers who, you know, putting out like most of the stuff in the eShop will be like, yeah, why would I make a game that's switched to only to help Nintendo sell consoles?
+
+537
+00:51:08,341 --> 00:51:11,240
+Scott: I want to make my game Switch one and Switch two compatible.
+
+538
+00:51:11,501 --> 00:51:14,800
+Scott: I don't need the extra horsepower of the Switch two for my game.
+
+539
+00:51:15,241 --> 00:51:19,359
+Scott: It's not a AAA game and I want to get a lot of sales from all those people who still have Switch ones.
+
+540
+00:51:20,541 --> 00:51:29,860
+Scott: And that is going to make it hard, I think, you know, for the Switch two to get sales because it'll literally only have Nintendo exclusive and some AAA titles.
+
+541
+00:51:30,963 --> 00:51:31,938
+Scott: The only reason to buy it.
+
+542
+00:51:32,660 --> 00:51:34,920
+Rym: I think that actually leads to a five year prediction there.
+
+543
+00:51:35,060 --> 00:51:43,680
+Rym: I would predict that Nintendo and the Switch is one of a handful of consoles that survive the five year horizon.
+
+544
+00:51:44,181 --> 00:52:07,340
+Rym: But I bet we'll see a Switch every few years, a new Switch comes out, but all the Switch and maybe they have different names or whatever, but they're all part of the same eShop ecosystem and old ones get retired, new ones come out, kind of like smartphones and games get released that will work on like V4 and newer, V5 and newer.
+
+545
+00:52:08,122 --> 00:52:27,299
+Scott: I think instead what you're going to see is the it's already happening, but the expanded and continued success of the streaming games where you don't have to have expensive hardware, you just pay for some service like the Xbox Live or whatever, and you just get all these games coming to you stream from somewhere else.
+
+546
+00:52:27,661 --> 00:52:29,320
+Scott: Now, it doesn't matter what hardware you have.
+
+547
+00:52:29,340 --> 00:52:36,268
+Scott: You can have some cheapy hardware like even just Apple TV or, you know, your Steam deck or whatever you got.
+
+548
+00:52:36,308 --> 00:52:37,379
+Scott: that's really weak.
+
+549
+00:52:37,901 --> 00:52:48,700
+Scott: But as long as it is strong enough to stream 1080p or 4K video from the web and display it and, you know, that's going to work and you can play basically any game with that.
+
+550
+00:52:48,760 --> 00:52:51,859
+Scott: You don't need to have a GPU of your own or a CPU of your own.
+
+551
+00:52:52,203 --> 00:52:53,460
+Scott: It's in a data center somewhere.
+
+552
+00:52:54,222 --> 00:52:55,779
+Scott: And it's like, yeah, we don't like that.
+
+553
+00:52:55,901 --> 00:52:57,879
+Scott: We've talked about that when it started coming out.
+
+554
+00:52:58,381 --> 00:53:03,259
+Scott: We don't like that as, you know, game players and game enjoyers.
+
+555
+00:53:03,722 --> 00:53:05,379
+Scott: But that's what it's going to be.
+
+556
+00:53:05,541 --> 00:53:17,300
+Scott: Because, you know, if you think about the proposition of someone who's not a big nerd, it's like, hey, do you want to buy this big expensive PS5 that costs six hundred bucks or you want to buy this thing is fifty bucks.
+
+557
+00:53:17,749 --> 00:53:18,220
+Scott: And guess what?
+
+558
+00:53:18,360 --> 00:53:24,197
+Scott: You just pay this small subscription and you get basically every game or a lot or get a lot of games.
+
+559
+00:53:24,446 --> 00:53:24,676
+Scott: Yeah.
+
+560
+00:53:24,860 --> 00:53:31,499
+Rym: And it's like with music that expanded music heavily for a little while and then destroyed the music industry.
+
+561
+00:53:32,430 --> 00:53:32,638
+Scott: Right.
+
+562
+00:53:32,900 --> 00:53:46,359
+Scott: So it's like the majority, a lot of people are going to, you know, go to the store and they're going to see, you know, something that's a lot of money and something that's really not a lot of money or nothing because they're like, oh, my TV.
+
+563
+00:53:46,781 --> 00:53:51,660
+Scott: Like literally the TV that I just got does streaming video games in itself.
+
+564
+00:53:52,242 --> 00:54:05,079
+Scott: So someone who isn't big on games but wants to play a game now and then, it's like if they recognize that and use it, it's like they might not ever feel compelled to buy any gaming hardware that's dedicated in any way.
+
+565
+00:54:06,962 --> 00:54:14,540
+Scott: And I think you could see a lot of gaming hardware just really, you know, disappear almost entirely along those lines.
+
+566
+00:54:14,861 --> 00:54:22,339
+Rym: I think Sony PlayStation will disappear as a hardware platform in five years or like be radically diminished.
+
+567
+00:54:22,882 --> 00:54:25,460
+Scott: I feel like PlayStation online streaming service.
+
+568
+00:54:25,524 --> 00:54:25,780
+Scott: Right.
+
+569
+00:54:26,041 --> 00:54:28,300
+Rym: And I think, but what will people play it on?
+
+570
+00:54:28,440 --> 00:54:30,580
+Rym: Cause I don't, well, you know, we'll talk about personal computing next.
+
+571
+00:54:30,900 --> 00:54:33,460
+Scott: There might, there'll probably be some sort of PlayStation device, right.
+
+572
+00:54:33,600 --> 00:54:36,580
+Scott: That, you know, device is like, they don't make a lot of money selling the hardware.
+
+573
+00:54:36,681 --> 00:54:38,320
+Scott: They make the money selling the razor blades.
+
+574
+00:54:38,440 --> 00:54:41,840
+Scott: They're going to be able to sell razor blades without having to give away cheap razors.
+
+575
+00:54:42,531 --> 00:54:42,720
+Scott: Right.
+
+576
+00:54:43,024 --> 00:54:43,979
+Scott: Or keep them in stock.
+
+577
+00:54:44,442 --> 00:54:48,199
+Scott: It's like, yeah, literally it's like, yeah, you can already see them putting their games on Steam.
+
+578
+00:54:48,581 --> 00:54:52,360
+Scott: They're like, oh, let's just put these games on fricking every platform.
+
+579
+00:54:52,880 --> 00:54:59,220
+Rym: I could see Sony giving up on hardware and just putting their, you know, quote, exclusive games on other people's hardware.
+
+580
+00:54:59,661 --> 00:55:07,300
+Rym: I think Microsoft and the Xbox turned into the streaming gaming console device that just sits in your house and is streaming from the cloud.
+
+581
+00:55:08,142 --> 00:55:11,920
+Rym: And I think Steam becomes effectively the console for the hardcore enthusiasts.
+
+582
+00:55:12,362 --> 00:55:18,320
+Rym: And there'll probably be some sort like gaming PCs will exist for those people, but that'll be a very hardcore niche demographic.
+
+583
+00:55:20,765 --> 00:55:27,720
+Scott: Yeah, I think it's, you might, you're going to see, you know, even downloading a game is going to be only for like, you know, PC nerds.
+
+584
+00:55:28,122 --> 00:55:32,580
+Scott: And you're going to see like, you're going to see AAA games that are going to be like, it'll happen very soon.
+
+585
+00:55:32,680 --> 00:55:42,420
+Scott: I think probably within the one year, a big AAA game that comes out, that's like streaming only on Xbox live game pass.
+
+586
+00:55:42,500 --> 00:55:44,160
+Scott: It's like the only place to play this game.
+
+587
+00:55:44,420 --> 00:55:48,959
+Rym: You can't buy it on Steam, but to be clear, not an online game where that's how already happened a lot.
+
+588
+00:55:49,080 --> 00:55:52,260
+Rym: We're talking a single player experience only.
+
+589
+00:55:52,420 --> 00:55:55,820
+Rym: There's no reason for it to be online, but to lock you into this ecosystem.
+
+590
+00:55:56,574 --> 00:55:56,700
+Scott: Yeah.
+
+591
+00:55:56,760 --> 00:56:03,939
+Scott: And, you know, unlike say a Netflix or whatever, or, you know, the streaming video services were like, you're just interested in a few of them.
+
+592
+00:56:04,503 --> 00:56:06,219
+Scott: And so you have to like keep switching between them.
+
+593
+00:56:06,682 --> 00:56:12,740
+Scott: I think a lot of people would be, you know, whichever one of the game services they pick will have so much shit.
+
+594
+00:56:13,080 --> 00:56:18,780
+Scott: They'll be content not to go to any, you know, to have multiples or switch around.
+
+595
+00:56:19,520 --> 00:56:26,000
+Rym: I think they will lock you in by holding whatever cosmetics or anything.
+
+596
+00:56:26,261 --> 00:56:26,759
+Scott: Well, they got your save.
+
+597
+00:56:26,882 --> 00:56:28,080
+Scott: They got your save game in there.
+
+598
+00:56:28,601 --> 00:56:30,980
+Rym: You got to keep paying forever or the save games die.
+
+599
+00:56:31,805 --> 00:56:32,460
+Scott: Yeah, they could do that.
+
+600
+00:56:32,600 --> 00:56:33,598
+Rym: They could easily do that.
+
+601
+00:56:34,080 --> 00:56:34,294
+Rym: All right.
+
+602
+00:56:34,420 --> 00:56:36,260
+Rym: I think we've gone on long, so let's just do two more.
+
+603
+00:56:37,160 --> 00:56:43,080
+Rym: I'd say personal computing is a big one because I think the one year prediction already happened.
+
+604
+00:56:44,283 --> 00:56:49,040
+Rym: Like only mega nerds and professionals have workstations anymore.
+
+605
+00:56:49,700 --> 00:56:50,600
+Scott: Like that's that's it.
+
+606
+00:56:50,880 --> 00:56:51,618
+Scott: Or even laptops.
+
+607
+00:56:52,000 --> 00:56:52,137
+Scott: Really?
+
+608
+00:56:52,440 --> 00:56:52,540
+Scott: Yeah.
+
+609
+00:56:52,802 --> 00:56:55,940
+Rym: I would say in like, I work with people just have a phones and tablets.
+
+610
+00:56:56,020 --> 00:56:56,839
+Scott: They don't have anything else.
+
+611
+00:56:57,160 --> 00:57:01,420
+Rym: Most adults I know who are technology professionals who are not in my like nerdy friend group.
+
+612
+00:57:01,842 --> 00:57:05,620
+Rym: There is no computer in their house other than smartphones and tablets, not even a laptop.
+
+613
+00:57:06,041 --> 00:57:10,000
+Scott: I guess they might have a smart TV or some sort of TV thing.
+
+614
+00:57:10,481 --> 00:57:14,959
+Rym: Yeah, they do not have general purpose computing devices running something like windows on them.
+
+615
+00:57:15,900 --> 00:57:20,640
+Scott: It's like they might have game consoles and other devices to handle entered computing entertainment.
+
+616
+00:57:21,221 --> 00:57:26,200
+Scott: And it's like they're not doing any production, so they don't need any computer to do that.
+
+617
+00:57:26,321 --> 00:57:29,180
+Scott: And then all their communications are with their phone.
+
+618
+00:57:29,943 --> 00:57:33,940
+Scott: And it's like, what other device, what other use case do they have?
+
+619
+00:57:34,164 --> 00:57:34,318
+Scott: Yeah.
+
+620
+00:57:34,500 --> 00:57:34,611
+Scott: Right.
+
+621
+00:57:34,740 --> 00:57:39,340
+Scott: That they need a computing device for if they're not production or something serious.
+
+622
+00:57:39,561 --> 00:57:40,480
+Scott: I think it's all there.
+
+623
+00:57:40,680 --> 00:57:48,800
+Rym: It is creation and creation or production of things using the computer as a tool or that hardcore demographic of gamers.
+
+624
+00:57:49,447 --> 00:57:49,658
+Scott: Right.
+
+625
+00:57:50,260 --> 00:57:52,140
+Scott: That's what people use computers for.
+
+626
+00:57:52,540 --> 00:57:58,480
+Scott: Communications, consumption of entertainment, and then creating digital works.
+
+627
+00:57:58,862 --> 00:58:08,760
+Scott: And if you're not creating digital works, which not everyone does, the other two things are now accomplished without a laptop or desktop general purpose computer.
+
+628
+00:58:09,560 --> 00:58:11,259
+Rym: Which leads me to something else that I'm noticing.
+
+629
+00:58:11,560 --> 00:58:15,400
+Rym: And that this, this sounds slightly old crank adjacent, but I feel like it's happening.
+
+630
+00:58:16,702 --> 00:58:22,100
+Rym: I have noticed in my career over the last five years that nobody younger than me can type.
+
+631
+00:58:24,121 --> 00:58:26,900
+Scott: Like you talked about this already in this episode, you're going back to it again.
+
+632
+00:58:26,940 --> 00:58:31,180
+Rym: So I would say on a five or 10 year horizon with keyboards, like forget the smartphone thing.
+
+633
+00:58:32,142 --> 00:58:40,000
+Rym: I don't think 10 years out, people who aren't professionals will be able to type quickly on a traditional keyboard.
+
+634
+00:58:40,720 --> 00:58:43,920
+Scott: But I think people who aren't professionals already can't type on a traditional keyboard.
+
+635
+00:58:44,100 --> 00:58:52,380
+Rym: But I think it's going to be like someone who uses a keyboard to type things 10 years from now will be seen as either a like super professional tool or weird.
+
+636
+00:58:53,260 --> 00:59:01,320
+Scott: It's like, well, the people I work with are all software engineers and other off, or at least I call it the demographic who can type a paragraph.
+
+637
+00:59:02,281 --> 00:59:05,179
+Rym: Because that was the only way to interact with your friends on IRC.
+
+638
+00:59:05,420 --> 00:59:07,820
+Rym: When you were a kid was the type of paragraph before they typed one.
+
+639
+00:59:08,421 --> 00:59:13,040
+Scott: But everyone I work with is like an office worker at least, or an engineer.
+
+640
+00:59:13,342 --> 00:59:14,308
+Scott: So everyone can type it.
+
+641
+00:59:14,349 --> 00:59:16,040
+Scott: Everyone knows how to use a computer or a laptop.
+
+642
+00:59:16,221 --> 00:59:31,880
+Scott: But if someone has a different kind of job, a different kind of profession, I don't know, a barber or a plumber or a Uber driver, or I don't know, a non-office job, a non-computer job.
+
+643
+00:59:32,281 --> 00:59:34,920
+Scott: Why the hell would they know how to use type on a keyboard?
+
+644
+00:59:35,521 --> 00:59:40,080
+Scott: At what point in their life did they practice that and spend enough time doing that?
+
+645
+00:59:40,140 --> 00:59:43,980
+Scott: They didn't grow up with one in the house because they only had those other devices.
+
+646
+00:59:44,941 --> 00:59:49,640
+Scott: They didn't do it in school, or they did it in school, but not very much.
+
+647
+00:59:50,481 --> 00:59:52,660
+Scott: They said write a few papers maybe or something.
+
+648
+00:59:53,580 --> 00:59:56,260
+Scott: So some people will learn in school, but a lot won't.
+
+649
+00:59:57,660 --> 01:00:04,899
+Scott: Especially if they're using various AI tools to do a lot of typing for them, or speech-to-text, or who knows what.
+
+650
+01:00:07,501 --> 01:00:11,500
+Scott: That's how it is today, but it'll just get more, I think, exaggerated.
+
+651
+01:00:11,760 --> 01:00:15,400
+Scott: There will be people who know how to computer and people who don't.
+
+652
+01:00:15,700 --> 01:00:19,800
+Rym: I think it's going to cause a particular kind of divide, but again, this isn't a new trend.
+
+653
+01:00:19,920 --> 01:00:20,920
+Rym: We've always seen this divide.
+
+654
+01:00:21,300 --> 01:00:38,719
+Rym: My entire life, since the internet became accessible, people who were savvy about how to leverage that tool and do the technology tended to communicate more with other people who had that same set of skills and less with people who didn't, and I think that's driven a lot of social evolution over time.
+
+655
+01:00:39,460 --> 01:00:45,920
+Scott: Yeah, I mean, if you go to online spaces, it's like a web forum.
+
+656
+01:00:46,120 --> 01:00:47,049
+Scott: It's like pretty much everyone.
+
+657
+01:00:47,090 --> 01:00:48,019
+Scott: there is someone who could type.
+
+658
+01:00:48,560 --> 01:00:51,880
+Scott: You go to a Facebook, it's like, "Wow, there's a lot of people there on phones.
+
+659
+01:00:52,080 --> 01:00:53,633
+Scott: Who knows what kind of people are in
+
+660
+01:00:53,653 --> 01:00:53,774
+Scott: there?".
+
+661
+01:00:55,547 --> 01:01:02,060
+Scott: But people who know how to type and how to computer aren't going to be going to those Facebooks as much as some other spaces.
+
+662
+01:01:02,821 --> 01:01:16,540
+Scott: So there is a definite gathering to where those people are going to, at least in the digital realm, everyone's in the digital realm because you don't have to type to be there, but there's more separation between those people.
+
+663
+01:01:16,640 --> 01:01:17,578
+Scott: They don't really see each other.
+
+664
+01:01:17,821 --> 01:01:36,039
+Rym: I mean, even in my life today and all the private spaces I'm in online, it's definitely true that now the people I know who can type faster are more able to express themselves in those spaces and the people who cannot type fast often struggle to keep up with the conversation or get their ideas out because the people who are typing just move past them.
+
+665
+01:01:38,071 --> 01:01:38,560
+Scott: All right, last one.
+
+666
+01:01:38,840 --> 01:01:40,840
+Scott: Maybe they should use some more speech to text then.
+
+667
+01:01:40,880 --> 01:01:41,447
+Rym: Maybe they should.
+
+668
+01:01:41,669 --> 01:01:42,600
+Rym: I think that would be better.
+
+669
+01:01:42,721 --> 01:01:43,359
+Scott: Or learn to type.
+
+670
+01:01:43,963 --> 01:01:49,120
+Rym: Yeah, I mean, being able to type very fast has been very important to my life, like for real.
+
+671
+01:01:50,107 --> 01:01:51,839
+Rym: It's one of the skills I cherish the most.
+
+672
+01:01:53,486 --> 01:01:54,560
+Rym: All right, we've gone long.
+
+673
+01:01:54,780 --> 01:02:01,220
+Rym: Last one, because machine learning and AI has been a pretty big topic/problem lately and it's only accelerating.
+
+674
+01:02:02,143 --> 01:02:12,040
+Rym: I'm going to say one year out, machine learning and AI for most people is going to be worse and do worse things and not help them materially.
+
+675
+01:02:12,502 --> 01:02:20,500
+Rym: I think models are going to get worse, answers are going to get worse, misapplication is going to make machine learning feel like a dud to a lot of people.
+
+676
+01:02:21,201 --> 01:02:27,137
+Rym: But at the same time, I do think machine learning is going to be used behind the scenes in places most people don't pay attention to.
+
+677
+01:02:28,322 --> 01:02:31,520
+Rym: I think it's going to drive a lot of scientific research.
+
+678
+01:02:31,841 --> 01:02:34,019
+Rym: We're already seeing that, but it doesn't really make the news.
+
+679
+01:02:34,743 --> 01:02:36,079
+Rym: It's not understood very well.
+
+680
+01:02:37,401 --> 01:02:41,990
+Rym: But the average person trying to use AI in their daily lives, they're going to see it increasingly.
+
+681
+01:02:42,030 --> 01:02:43,980
+Rym: tell them to eat rocks and put glue in their pizza.
+
+682
+01:02:45,761 --> 01:02:55,440
+Scott: Probably, but I think the uses that people will see that are legitimate and good in their everyday lives are going to show up just as features.
+
+683
+01:02:56,581 --> 01:03:02,731
+Scott: Your photos, when you take them, auto photo improver, which you already have, but those things are going to increase.
+
+684
+01:03:04,580 --> 01:03:06,380
+Rym: Yeah, they'll just be better and you won't notice.
+
+685
+01:03:07,181 --> 01:03:17,420
+Scott: Edit, spell and grammar check my text better than the current methods when I write my essay for class or things of that nature.
+
+686
+01:03:19,300 --> 01:03:27,660
+Scott: But you're not going to see... I'd also think a lot sort of like how in the early days, we had Napster and Peter Peer networking.
+
+687
+01:03:28,722 --> 01:03:30,380
+Scott: It was like a dangerous Wild West.
+
+688
+01:03:30,560 --> 01:03:31,840
+Scott: Everyone was pirating all over.
+
+689
+01:03:32,000 --> 01:03:33,060
+Scott: Yeehaw, it was really easy.
+
+690
+01:03:33,140 --> 01:03:33,978
+Scott: Everyone was doing it.
+
+691
+01:03:34,360 --> 01:03:35,439
+Scott: And it's like, you can still do it.
+
+692
+01:03:35,661 --> 01:03:38,400
+Scott: There's no one actually ever put a stop to that.
+
+693
+01:03:39,127 --> 01:03:39,256
+Scott: Really.
+
+694
+01:03:40,340 --> 01:03:45,479
+Rym: Like I remember when Napster died, I didn't notice right away because I was connected to like 10 WinMX nodes.
+
+695
+01:03:46,420 --> 01:03:46,520
+Scott: Yeah.
+
+696
+01:03:46,660 --> 01:03:49,520
+Scott: Like, you know, using Direct Connects and all the other things.
+
+697
+01:03:49,661 --> 01:03:51,080
+Scott: It's like those things never went away.
+
+698
+01:03:51,220 --> 01:03:51,816
+Scott: They're still there.
+
+699
+01:03:52,720 --> 01:03:54,100
+Scott: You can still pirate things.
+
+700
+01:03:54,260 --> 01:04:00,500
+Scott: BitTorrent is still there, but it's just sort of been pushed into this dark realm.
+
+701
+01:04:01,144 --> 01:04:09,220
+Scott: And I think you're going to see a similar thing where the darker uses of AI or AI machine learnings and whatnot.
+
+702
+01:04:09,340 --> 01:04:11,318
+Scott: It's like you can't get rid of them, right?
+
+703
+01:04:11,580 --> 01:04:13,580
+Scott: Like the porn generation and whatnot.
+
+704
+01:04:14,001 --> 01:04:21,439
+Scott: But it's like they can be regulated and pushed into the dark realm where the Napster-alikes are.
+
+705
+01:04:21,801 --> 01:04:26,478
+Scott: So we're only, you know, people who are in the darkness are going to, you know, make use of them.
+
+706
+01:04:26,962 --> 01:04:37,460
+Scott: And the big companies that actually have to have, you know, a legal existence that people are aware of are only going to be able to use it in, you know, certain ways without getting in trouble.
+
+707
+01:04:38,620 --> 01:04:49,500
+Rym: I think on a more like five-year time horizon, though, I do think we're going to see machine learning models and machine learning systems that are capable of doing.
+
+708
+01:04:50,520 --> 01:05:00,600
+Rym: You know, it sucks because there's a lot of extremely shady people making wild, fucked up, made up claims with no knowledge or backing about machine learning.
+
+709
+01:05:01,242 --> 01:05:07,900
+Rym: But I think accidentally, many of those claims will become true five years from now as the technology advances.
+
+710
+01:05:08,180 --> 01:05:16,520
+Rym: I think we're going to see machine learning models like writing novels that are better than the average novel written by a mediocre author.
+
+711
+01:05:18,623 --> 01:05:27,299
+Scott: I mean, listen, you know, if something upends society in a way that the man doesn't like, right, they're not going to allow that to happen, right?
+
+712
+01:05:27,781 --> 01:05:41,520
+Scott: But it either has to, A, society itself gets upended, and then, therefore, the man is no longer in charge to keep that down, or it itself is the reason that society is upended.
+
+713
+01:05:42,321 --> 01:05:52,600
+Scott: But if something threatens the status quo seriously, as AI is doing in some ways, then, you know, the status quo will put out that fire.
+
+714
+01:05:52,860 --> 01:06:11,880
+Rym: I think one that is going to become a fire and not be addressed by the end of five years is that semantic apocalypse of, if it's cheap enough to spew out human plausible content, the internet is going to become a sea of 99% of made up AI generated bullshit.
+
+715
+01:06:12,722 --> 01:06:32,620
+Rym: And I think that's going to force a lot of people who are in the know back to human curation, more private places, link, like, here are the links to good places on the internet to find things, and anyone who doesn't know about those places is going to see just nonsense from search engines farming nonsense.
+
+716
+01:06:33,720 --> 01:06:45,340
+Scott: Yeah, we might see, well, it might be like an internet of, you know, just like the real world, right, where we made countries, the internet might become like countries, right?
+
+717
+01:06:45,420 --> 01:06:51,920
+Scott: Not necessarily aligned with the geographical and political countries that we have.
+
+718
+01:06:52,020 --> 01:06:56,940
+Rym: But like, here's the internet where humans talk to each other, and there was a Butlerian Jihad against spam and advertising.
+
+719
+01:06:57,340 --> 01:07:11,199
+Scott: It's like all the people like this, you know, go to these websites or use these servers or maybe even have like a VPN kind of network that they're all on and you have to get into, or, you know, they're federating with each other and no one else.
+
+720
+01:07:11,762 --> 01:07:21,320
+Scott: And it's like, you know, you can travel to other countries and see what's going on, but it's like most of your stuff is going to be with, you know, in a certain sphere.
+
+721
+01:07:21,740 --> 01:07:22,997
+Rym: Yeah, but you know what there won't be?
+
+722
+01:07:23,720 --> 01:07:26,320
+Rym: There will not be full internet search.
+
+723
+01:07:26,480 --> 01:07:31,180
+Rym: Like, I think the period of time where you could go to a website and search for something.
+
+724
+01:07:31,580 --> 01:07:32,538
+Scott: Well, I think there still will be.
+
+725
+01:07:32,680 --> 01:07:38,680
+Scott: It's just that so much of things will be not publicly accessible that it won't be able to search a lot, right?
+
+726
+01:07:38,860 --> 01:07:40,680
+Scott: Well, it doesn't have full internet search anywhere.
+
+727
+01:07:40,860 --> 01:07:44,340
+Scott: Right, I think about how much stuff is just in just like Discord.
+
+728
+01:07:44,601 --> 01:07:48,680
+Scott: How much content is in Discord, like, you know, that used to be in forums.
+
+729
+01:07:48,980 --> 01:07:53,520
+Scott: It's like how much like tech support happened for a particular project.
+
+730
+01:07:54,243 --> 01:07:56,680
+Scott: And it's like all that is in these is in Discord.
+
+731
+01:07:56,840 --> 01:07:59,500
+Scott: So you have to go to the Discord for that project and search there.
+
+732
+01:07:59,802 --> 01:08:06,080
+Scott: If you search Google, you'll never find the answer to your question because it's in a Discord for the thing and you have to find that somehow.
+
+733
+01:08:06,460 --> 01:08:19,959
+Rym: If you want to see a wild time and you're a newer listener to GeekNights, go click on, you know, we have our new GeekNights forum and not many people use it, but go look at the old GeekNights forum, which we archived and put on there.
+
+734
+01:08:21,261 --> 01:08:22,560
+Scott: We only archived it out of principle.
+
+735
+01:08:22,680 --> 01:08:23,760
+Scott: There is nothing for you there.
+
+736
+01:08:24,022 --> 01:08:25,279
+Rym: No, there's no content for you there.
+
+737
+01:08:25,359 --> 01:09:03,019
+Rym: What I want you to do is click around it a little bit because what is shocking to me, like I was poking around it the other day for an unrelated reason, the sheer amount of typing and the sheer number of people typing shit into that thing on a daily basis for a period of about three years is just, it's amazing to me how much, and there were tons of forums like that, and all of that has been pushed out of the internet and pushed into private places like Discord, which is also going to starve the machine learning models of content and thus fuel the inside, outside, outside, the outside internet is going to be bullshit and all the private internets are going to be the only places you can find stuff.
+
+738
+01:09:05,590 --> 01:09:06,870
+Scott: No, I gotta, I gotta eat.
+
+739
+01:09:06,990 --> 01:09:07,569
+Rym: I gotta eat too.
+
+740
+01:09:07,993 --> 01:09:08,770
+Rym: I'm desperate here.
+
+741
+01:09:08,970 --> 01:09:16,849
+Rym: I will predict that we will be able to, 10 years from now, simply doing GeekNights and address what we just said today.
+
+742
+01:09:17,434 --> 01:09:18,470
+Scott: We have to live that long.
+
+743
+01:09:18,692 --> 01:09:19,849
+Rym: I can make it 10 more years.
+
+744
+01:09:20,910 --> 01:09:23,970
+Scott: I mean, I hope so, but it's not anything that happens.
+
+745
+01:09:24,892 --> 01:09:25,969
+Scott: Too much skiing going on.
+
+746
+01:09:26,130 --> 01:09:38,410
+Rym: Hey, I have transitioned away from sports that I don't see old people doing and mostly I'm only doing sports that I've seen people over 80 doing repeatedly, which is skiing, running, biking, but not mountain biking.
+
+747
+01:09:39,113 --> 01:09:40,609
+Scott: The old people biking are faster than me.
+
+748
+01:09:41,234 --> 01:09:41,430
+Rym: Right?
+
+749
+01:09:42,493 --> 01:09:43,270
+Rym: I remember, anyway.
+
+750
+01:09:44,731 --> 01:09:45,267
+Rym: I'm not even fast.
+
+751
+01:09:51,023 --> 01:09:53,300
+Rym: This has been GeekNights with Rym and Scott.
+
+752
+01:09:53,479 --> 01:09:55,960
+Rym: Special thanks to DJ Pretzel for the opening theme.
+
+753
+01:09:56,160 --> 01:10:02,160
+Scott: Be sure to visit our website at frontrowclue.com for show notes, discussion, links, and more.
+
+754
+01:10:02,680 --> 01:10:05,320
+Rym: Remember, GeekNights is not one, but four different shows.
+
+755
+01:10:05,680 --> 01:10:07,200
+Rym: Mondays are science and technology.
+
+756
+01:10:07,360 --> 01:10:09,019
+Rym: Tuesdays, gaming and games.
+
+757
+01:10:09,240 --> 01:10:10,960
+Rym: Wednesdays are animation and comics.
+
+758
+01:10:11,342 --> 01:10:13,840
+Rym: Thursdays are arbitrary and indiscriminate.
+
+759
+01:10:14,660 --> 01:10:19,380
+Rym: GeekNights is distributed under a Creative Commons attribution 4.0 international license.
+
+760
+01:10:19,960 --> 01:10:24,180
+Scott: GeekNights is recorded live with no studio and no audience.
+
+761
+01:10:24,680 --> 01:10:28,160
+Scott: But unlike those other late shows, it's actually recorded at night.
+
+762
+01:10:28,681 --> 01:10:44,700
+Rym: And the patron patrons for this episode of GeekNights are Alan Joyce, Lincoln G, Greg Lillie, Tenebrae Case, Cara Mates, Musa Christodad, Christopher R, Clinton Walton, Finn, Joel Hayes, Penny Reimer, Rebecca Dunn, Sam Erickson, Shervin Von Harl, and a bunch of people who do not want me to say their names.
+
+763
+01:10:45,280 --> 01:10:48,420
+Rym: I leave you with something that was entirely predictable tonight.
+
+764
+01:10:48,980 --> 01:10:49,800
+Rym: We've got a verdict.
+
+765
+01:10:50,040 --> 01:10:50,457
+Rym: Ari Melber.
+
+766
+01:10:51,160 --> 01:10:52,852
+Media: We are looking at count one, guilty.
+
+767
+01:10:54,700 --> 01:10:56,400
+Media: Count two, guilty.
+
+768
+01:10:56,840 --> 01:10:59,100
+Media: Count three, guilty.
+
+769
+01:10:59,800 --> 01:11:02,100
+Media: Count four, guilty.
+
+770
+01:11:02,460 --> 01:11:04,380
+Media: Count five, guilty.
+
+771
+01:11:04,700 --> 01:11:12,960
+Media: Those are the first five counts coming out of this jury finding Donald J. Trump guilty on the first five felony counts.
+
+772
+01:11:13,982 --> 01:11:17,060
+Media: Reading the rest as we are getting it from our court reporters.
+
+773
+01:11:17,360 --> 01:11:18,079
+Rym: Starting with count six.
+
+774
+01:11:18,380 --> 01:11:19,700
+Media: Count six, guilty.
+
+775
+01:11:20,381 --> 01:11:22,360
+Media: Count seven, guilty.
+
+776
+01:11:22,602 --> 01:11:24,080
+Media: Count eight, guilty.
+
+777
+01:11:24,180 --> 01:11:25,820
+Media: And you'll see on the screen we're tracking ahead.
+
+778
+01:11:26,000 --> 01:11:27,000
+Media: Count nine, guilty.
+
+779
+01:11:27,160 --> 01:11:28,940
+Media: Count 10, guilty.
+
+780
+01:11:29,120 --> 01:11:29,626
+Media: Count 11, guilty.
+
+781
+01:11:31,223 --> 01:11:32,400
+Media: Count 12, guilty.
+
+782
+01:11:32,580 --> 01:11:33,066
+Media: Count 13, guilty.
+
+783
+01:11:34,722 --> 01:11:36,460
+Media: Count 14, guilty.
+
+784
+01:11:36,662 --> 01:11:37,288
+Media: Count 16, guilty.
+
+785
+01:11:38,740 --> 01:11:39,366
+Media: Count 17, guilty.
+
+786
+01:11:41,060 --> 01:11:41,504
+Media: Count 18, guilty.
+
+787
+01:11:43,281 --> 01:11:44,900
+Media: Count 19, guilty.
+
+788
+01:11:45,060 --> 01:11:45,626
+Media: Count 20, guilty.
+
+789
+01:11:47,200 --> 01:11:47,665
+Media: Count 21, guilty.
+
+790
+01:11:49,080 --> 01:11:49,524
+Media: Count 22, guilty.
+
+791
+01:11:51,320 --> 01:11:51,744
+Media: Count 23, guilty.
+
+792
+01:11:53,420 --> 01:11:53,824
+Media: Count 24, guilty.
+
+793
+01:11:55,680 --> 01:11:56,105
+Media: Count 25, guilty.
+
+794
+01:11:57,540 --> 01:11:58,004
+Media: Count 26, guilty.
+
+795
+01:12:00,801 --> 01:12:03,835
+Media: Count 27, we're seeing that on screen.
+
+796
+01:12:05,200 --> 01:12:05,662
+Media: guilty.
+
+797
+01:12:06,324 --> 01:12:08,049
+Media: count 28 guilty.
+
+798
+01:12:09,012 --> 01:12:12,542
+Media: those are the first 28 felony counts here as read by the jury.
+
+799
+01:12:12,602 --> 01:12:13,103
+Media: count 29 guilty.
+
+800
+01:12:13,123 --> 01:12:13,805
+Media: count 30 guilty.
+
+801
+01:12:13,845 --> 01:12:15,369
+Media: count 31 guilty.
+
+802
+01:12:15,409 --> 01:12:15,890
+Media: count 32 guilty.
+
+803
+01:12:20,642 --> 01:12:23,872
+Media: count 33 and 34 guilty.
+
+804
+01:12:24,213 --> 01:12:31,920
+Media: that is Donald J Trump defendant in New York versus Donald Trump found guilty on all 34 the felony counts.
+

@@ -1,0 +1,3104 @@
+1
+00:00:07,420 --> 00:00:09,137
+Rym: It's Thursday, October 17th, 2024.
+
+2
+00:00:09,137 --> 00:00:14,561
+Rym: I'm Rym Scott and this is GeekNights tonight.
+
+3
+00:00:14,601 --> 00:00:16,209
+Rym: We are talking about debt.
+
+4
+00:00:17,010 --> 00:00:18,027
+Scott: Let's do this.
+
+5
+00:00:18,852 --> 00:00:27,389
+Rym: So, uh hockey again tonight game two of the two games that the Red Wings and the Rangers are gonna play because they're in different parts of the National Hockey League.
+
+6
+00:00:29,291 --> 00:00:31,119
+Scott: So there might I don't know about the schedule this year.
+
+7
+00:00:31,140 --> 00:00:31,923
+Scott: there might be a third.
+
+8
+00:00:32,124 --> 00:00:36,810
+Rym: there might be a third because the it's Teams that are not in the same division.
+
+9
+00:00:37,812 --> 00:00:39,883
+Scott: This is this is something that bothers me, right?
+
+10
+00:00:39,903 --> 00:00:40,306
+Rym: So is that?
+
+11
+00:00:40,346 --> 00:00:41,130
+Rym: it's not a metric?
+
+12
+00:00:41,331 --> 00:00:42,903
+Rym: It bothers me in the NHL.
+
+13
+00:00:43,185 --> 00:00:52,105
+Scott: in the NHL There are four divisions across two conferences and each Division has eight teams and each conference has 16 teams.
+
+14
+00:00:52,205 --> 00:00:53,450
+Scott: It is perfectly symmetrical.
+
+15
+00:00:54,114 --> 00:01:02,170
+Scott: So if you want to have a regular season during the regular season You want every team to play every other team at least once in both buildings?
+
+16
+00:01:02,291 --> 00:01:10,510
+Scott: That way someone who lives in Seattle can see the Rangers at least once a year Every team Dallas at least once a year.
+
+17
+00:01:10,670 --> 00:01:15,972
+Rym: But you can't have every team play every other team the equal number of times because then there's no point in having Conferences.
+
+18
+00:01:16,153 --> 00:01:17,879
+Scott: if you had right so that's it.
+
+19
+00:01:17,939 --> 00:01:20,950
+Scott: So if you had every team play every team an equal number of times.
+
+20
+00:01:21,393 --> 00:01:22,098
+Scott: It's like okay.
+
+21
+00:01:22,260 --> 00:01:26,013
+Scott: Is it just once that's only 31 games?
+
+22
+00:01:26,114 --> 00:01:26,695
+Scott: that's not.
+
+23
+00:01:27,117 --> 00:01:32,515
+Scott: oh, no, it's a. it's 62 games because it's home in a way, right and No, is it?
+
+24
+00:01:32,917 --> 00:01:34,747
+Scott: I guess 62?
+
+25
+00:01:34,747 --> 00:01:35,290
+Scott: I gotta do that?
+
+26
+00:01:35,310 --> 00:01:35,832
+Scott: I don't know.
+
+27
+00:01:35,852 --> 00:01:41,209
+Scott: I have because in your own division the seven but then there's eight eight eight eight sixteen twenty four plus seven.
+
+28
+00:01:42,232 --> 00:01:43,502
+Scott: Twenty four plus seven is thirty.
+
+29
+00:01:43,562 --> 00:01:44,510
+Scott: Yeah, sixty two games.
+
+30
+00:01:44,630 --> 00:01:50,750
+Rym: There was a time when I paid more attention to other conferences and other divisions But I pretty much only pay attention to the one my team is in right?
+
+31
+00:01:50,990 --> 00:01:55,950
+Scott: The point is is that there it's an eighty two game season and it's not symmetrical.
+
+32
+00:01:56,050 --> 00:02:02,350
+Scott: There are some seasons where like there are teams in your conference and like in your division that you don't even play that much.
+
+33
+00:02:02,975 --> 00:02:04,348
+Scott: And it's like what's up with that?
+
+34
+00:02:04,930 --> 00:02:15,390
+Scott: Ideally, you would play every team in your division Twice home and twice away and there's seven other teams in your division because you're one of those teams.
+
+35
+00:02:15,831 --> 00:02:18,481
+Scott: So that's seven times four, which is 28 games.
+
+36
+00:02:18,501 --> 00:02:23,598
+Scott: seven, right 28 Plus the three other divisions.
+
+37
+00:02:23,638 --> 00:02:25,364
+Scott: you still want to play them twice each.
+
+38
+00:02:25,424 --> 00:02:27,370
+Scott: that's eight sixteen twenty four times two.
+
+39
+00:02:28,074 --> 00:02:39,087
+Scott: so 48 plus 28 is 76 I think 74. whatever the point is there should be 70 something games in the NHL season.
+
+40
+00:02:39,127 --> 00:02:40,110
+Scott: It should be symmetrical.
+
+41
+00:02:40,551 --> 00:02:51,490
+Scott: You should play the teams in your division four times per season twice home twice away And you should play all the other teams in the league To twice once home once away and that would be perfect.
+
+42
+00:02:51,791 --> 00:03:00,969
+Scott: But they tack on like several games to get it up to 82 to make it a asymmetrical and bullshit and B Just to make more money sell more tickets.
+
+43
+00:03:01,491 --> 00:03:04,039
+Rym: Yep, and there's a lot of factors here like it's not.
+
+44
+00:03:04,761 --> 00:03:07,750
+Rym: it's based on geography because otherwise travel becomes a problem.
+
+45
+00:03:08,032 --> 00:03:15,830
+Rym: but then that can cause a problem because Certain parts of America and Canada have better hockey teams than other parts physically.
+
+46
+00:03:16,272 --> 00:03:19,769
+Rym: So thus you have divisions that are stronger or weaker than others.
+
+47
+00:03:20,697 --> 00:03:25,217
+Rym: you also run into the situation of The schedules might be hard to make.
+
+48
+00:03:25,538 --> 00:03:29,430
+Rym: sometimes some of these divisions cross time zones, which makes interesting problems.
+
+49
+00:03:30,093 --> 00:03:34,873
+Rym: So you can't balance it in any case, but yeah Like.
+
+50
+00:03:34,953 --> 00:03:43,670
+Scott: if the other thing is that like in some divisions like where we are the Metro division is the easiest Division for traveling because a lot of the teams are like a bus ride away from it.
+
+51
+00:03:44,432 --> 00:03:49,990
+Rym: It's the smallest division geographically, but like it's so tiny compared to the other three, right?
+
+52
+00:03:49,990 --> 00:03:57,590
+Scott: It's like if you're in the Pacific Division, and it's like yeah, okay, Seattle You had to play LA if you did what I said and you played them four times a year.
+
+53
+00:03:57,711 --> 00:03:59,082
+Scott: It's like oh you got to make.
+
+54
+00:03:59,122 --> 00:04:04,382
+Scott: that says it's like Said who got all these teams you that are far apart.
+
+55
+00:04:04,402 --> 00:04:05,446
+Scott: You got to go to Edmonton.
+
+56
+00:04:05,486 --> 00:04:18,483
+Scott: It's like way up there You know, it's like the teams that are in your division are long trips and that kind of sucks Yep, so like our division we got the New York Rangers the New York Islanders the Philly team The Washington Jersey team.
+
+57
+00:04:18,624 --> 00:04:21,579
+Rym: Yep, Carolina Columbus like that's.
+
+58
+00:04:21,839 --> 00:04:23,909
+Scott: it's like it's all of us is the only far away one.
+
+59
+00:04:23,969 --> 00:04:25,559
+Rym: Yep That's the furthest away one.
+
+60
+00:04:25,881 --> 00:04:26,746
+Scott: and then you got Pittsburgh.
+
+61
+00:04:26,988 --> 00:04:35,165
+Scott: Yep Washington but Most of the most of those teams are connected by trains.
+
+62
+00:04:35,205 --> 00:04:38,195
+Scott: That's how close they are Trajectory wise.
+
+63
+00:04:38,275 --> 00:04:40,770
+Rym: so the Rangers have played three games so far this season.
+
+64
+00:04:41,051 --> 00:04:45,170
+Rym: They got six goals in the first game five goals in the second game and four goals in the third game.
+
+65
+00:04:45,573 --> 00:04:47,450
+Rym: So I hope that is not a correlation.
+
+66
+00:04:49,753 --> 00:04:51,228
+Scott: Three goals bet on it.
+
+67
+00:04:54,176 --> 00:04:55,909
+Rym: All right, anyway, I got any news?
+
+68
+00:04:57,311 --> 00:04:59,863
+Scott: Yeah, so, you know we talk a lot about.
+
+69
+00:05:00,144 --> 00:05:07,427
+Scott: you know dark patterns Which if you don't know is basically when someone does it there they predate the internet and the web.
+
+70
+00:05:07,467 --> 00:05:24,996
+Scott: but you know It's basically when someone designed something to sort of you know Rather than having a good design which encourages you know good behaviors of the people using the product or the service and Making them easy to use for people.
+
+71
+00:05:25,538 --> 00:05:36,089
+Scott: right you try to make it difficult for people to do what they want to do and Make it easy for them to do what you want them to do, which is give you more money.
+
+72
+00:05:36,431 --> 00:05:37,053
+Scott: Yeah, right.
+
+73
+00:05:37,414 --> 00:05:54,465
+Scott: So for example when the biggest example is like, oh you're going to download Adobe acrobat reader and you didn't realize and you installed McAfee antivirus Bullshit or whatever on your computer, whatever the hell it is Norton, whatever the hell the bullshit
+
+74
+00:05:54,505 --> 00:05:56,210
+Rym: all scams every one of those things
+
+75
+00:05:56,992 --> 00:06:01,006
+Scott: It's like you didn't realize it but yep, we tricked you into installing something on your computer.
+
+76
+00:06:01,046 --> 00:06:02,290
+Scott: Gotcha, right?
+
+77
+00:06:03,851 --> 00:06:04,889
+Scott: You know things like that.
+
+78
+00:06:05,033 --> 00:06:13,191
+Scott: so The ones that get people the most upset are when you accidentally sign up for something or when it's difficult to cancel something Right.
+
+79
+00:06:13,211 --> 00:06:15,000
+Scott: It's like oh you you signed up for it.
+
+80
+00:06:15,040 --> 00:06:16,367
+Scott: Yeah, it's real easy to sign up.
+
+81
+00:06:16,387 --> 00:06:17,070
+Scott: You want to cancel?
+
+82
+00:06:17,250 --> 00:06:24,969
+Scott: oh, yeah, you got to come into our office and go through ten walls of phone menus and all this bullshit.
+
+83
+00:06:24,989 --> 00:06:27,859
+Scott: and The FTC in the u.s.
+
+84
+00:06:28,381 --> 00:06:29,426
+Scott: Put out a rule today.
+
+85
+00:06:29,486 --> 00:06:33,896
+Scott: That is like, all right No more dark pattern.
+
+86
+00:06:34,358 --> 00:06:39,299
+Scott: right if you want to cancel subscriptions They can't dark pattern you.
+
+87
+00:06:39,500 --> 00:06:41,770
+Scott: they got to make it just as easy as signing up.
+
+88
+00:06:41,850 --> 00:06:45,004
+Scott: They got to be really clear and obvious with the terms.
+
+89
+00:06:45,406 --> 00:06:48,756
+Scott: We've had enough of this And so that's good.
+
+90
+00:06:49,439 --> 00:06:49,660
+Rym: Yep.
+
+91
+00:06:50,022 --> 00:06:58,765
+Rym: It's it's actually a pretty specific Ruling - and if you read through this article Or actually read like the ruling and the comment you can read the rule probably at FTC gov.
+
+92
+00:06:58,825 --> 00:06:59,969
+Scott: I am a. yeah, it's.
+
+93
+00:06:59,989 --> 00:07:02,133
+Rym: uh, Whoever wrote this?
+
+94
+00:07:02,173 --> 00:07:04,279
+Rym: like whoever is in charge of this specific thing.
+
+95
+00:07:04,760 --> 00:07:05,342
+Rym: They know what's up.
+
+96
+00:07:05,502 --> 00:07:08,370
+Rym: Like they know exactly what these companies are doing.
+
+97
+00:07:09,812 --> 00:07:14,150
+Scott: It just they just had to do the work of writing up this rule to cover all the the bases.
+
+98
+00:07:14,431 --> 00:07:23,910
+Rym: Yeah, this is a. this is this is the kind of thing that For Democrats instead of crazy fascists.
+
+99
+00:07:24,780 --> 00:07:31,950
+Scott: Yeah, yeah Don't be surprised if Republicans control the FTC and just undo things like this because it's not this isn't a law.
+
+100
+00:07:32,211 --> 00:07:33,456
+Scott: The Congress didn't do this.
+
+101
+00:07:33,617 --> 00:07:42,307
+Scott: Yeah, so, you know theoretically someone You know the president who appoints the FTC Commissioner could just undo things like this or redo them or whatever.
+
+102
+00:07:42,327 --> 00:07:55,255
+Rym: Yep, so so in some other news Something that sounds crazy happened in North Korea and it is crazy, but it's not as Crazy as a lot of people think it was.
+
+103
+00:07:55,737 --> 00:08:02,825
+Rym: but the reason why it's not as crazy as people think it of is actually because it's More crazy in terms of its historical precedent.
+
+104
+00:08:03,187 --> 00:08:09,426
+Rym: So basically There is a road and train line that connects North Korea and South Korea.
+
+105
+00:08:09,787 --> 00:08:19,164
+Rym: that was built Not that long ago, but a long ago as part of the like Intent to reunify or at least normalize relations like it was a good.
+
+106
+00:08:19,204 --> 00:08:21,090
+Scott: how often is the road actually used though?
+
+107
+00:08:21,290 --> 00:08:25,310
+Rym: Well, they had a history of being used and not used for a bunch of reasons.
+
+108
+00:08:25,310 --> 00:08:28,957
+Rym: I don't want to get into the history of North Korea and South Korea Like there have been.
+
+109
+00:08:28,977 --> 00:08:31,210
+Scott: I know about this because of kpop nonsense.
+
+110
+00:08:31,531 --> 00:08:41,086
+Scott: Yeah, like there were at least one time like kpop groups like performing Legitimately in North Korea like there were things in some recent years, right?
+
+111
+00:08:41,126 --> 00:08:47,010
+Rym: Not that long ago I think we hit the best relations we've had in modern history between North and South Korea.
+
+112
+00:08:47,411 --> 00:08:57,748
+Rym: However, we are now currently at the second worst relations that have ever existed because the only relation Worse than the current status quo was the October 17th.
+
+113
+00:08:58,210 --> 00:09:06,749
+Rym: It was the actual war which to give you who may not know it over any listener who may not know much about the Korean War it is technically still going.
+
+114
+00:09:07,852 --> 00:09:17,524
+Rym: There is no peace there is an armistice that is just still in effect like technically according to international law and convention North and South Korea remain at war.
+
+115
+00:09:17,704 --> 00:09:20,432
+Rym: like war war like Formal.
+
+116
+00:09:20,533 --> 00:09:21,958
+Rym: we have declared war.
+
+117
+00:09:22,259 --> 00:09:24,085
+Rym: here is our letter in our cashes belly.
+
+118
+00:09:24,225 --> 00:09:25,570
+Rym: Like that is insane.
+
+119
+00:09:26,274 --> 00:09:34,368
+Rym: So North Korea just a few days ago this road was not being used for recently for reasons and I just why.
+
+120
+00:09:34,449 --> 00:09:41,636
+Scott: I just Wondering was that if that road was used for those events that happen I don't actually.
+
+121
+00:09:41,657 --> 00:09:43,630
+Scott: or did they use like an airplane?
+
+122
+00:09:44,630 --> 00:09:49,898
+Rym: So, uh, North Korea blew them up Suddenly like they exploded the roads.
+
+123
+00:09:49,938 --> 00:09:51,323
+Rym: They exploded the rail lines.
+
+124
+00:09:52,086 --> 00:09:59,570
+Rym: They built a wall named And now they're heavily Fortifying the boat what used to be a path between the two countries.
+
+125
+00:10:00,732 --> 00:10:04,707
+Scott: All right, well no one's using the road now that knows that that roads gone forever.
+
+126
+00:10:05,049 --> 00:10:07,919
+Scott: now I mean, it could be rebuilt at some point.
+
+127
+00:10:08,159 --> 00:10:11,170
+Scott: Uh, probably not because probably not but it's possible.
+
+128
+00:10:11,732 --> 00:10:18,348
+Rym: So the road was not probable by South Korea as a show of good faith during a previously better situation.
+
+129
+00:10:19,692 --> 00:10:23,290
+Rym: Now this isn't like blown up because North Korea is about to start a war.
+
+130
+00:10:23,450 --> 00:10:34,540
+Rym: They got a fortify because actually North Korea as a country has a long-standing history and tradition of Blowing up civil infrastructure as a political statement.
+
+131
+00:10:35,021 --> 00:10:37,146
+Rym: They've blown up things for internal audiences.
+
+132
+00:10:37,467 --> 00:10:38,650
+Rym: They've blown up buildings.
+
+133
+00:10:38,991 --> 00:10:42,850
+Rym: They blew up some tunnels that were used for nuclear testing as a show of good faith.
+
+134
+00:10:42,970 --> 00:10:49,750
+Rym: like they blow up like buildings and infrastructure kind of commonly the same way that in the u.s.
+
+135
+00:10:50,211 --> 00:10:52,998
+Rym: We would just issue a statement about something like.
+
+136
+00:10:53,299 --> 00:10:57,190
+Rym: that's just a thing about North Korean political and government culture.
+
+137
+00:10:57,732 --> 00:11:04,480
+Rym: So them blowing up this road is very likely And experts would agree.
+
+138
+00:11:05,043 --> 00:11:14,470
+Rym: just a political statement More so than actually blowing it up for a physical reason like trying to defend themselves again as a war that they're about to start.
+
+139
+00:11:15,071 --> 00:11:29,885
+Rym: So it's not as dangerous and crazy as you might expect because if you ask any diplomat, they'll be like, oh, yeah North Korea does that all the time like this isn't particularly sure that if they you know The armistice ended and they started actively military shooting each other.
+
+140
+00:11:30,086 --> 00:11:41,915
+Rym: the road wasn't gonna get used exactly, but The reason they blew it up the statement they're making is actually dangerous and crazy because I mean They're dangerous and crazy every day.
+
+141
+00:11:41,975 --> 00:11:42,457
+Scott: They are.
+
+142
+00:11:42,738 --> 00:11:45,970
+Rym: but what has changed is something somewhat profound.
+
+143
+00:11:46,931 --> 00:11:59,626
+Rym: North Korea as a government has formally declared and this this explosion and this like Dismantling and refortification is the diplomatic sort of signal following this announcement.
+
+144
+00:12:00,087 --> 00:12:09,889
+Rym: They have decided that reunification with South Korea is Permanently impossible, which is a radical change in the government's formal stance.
+
+145
+00:12:10,932 --> 00:12:20,222
+Rym: and countries like North Korea take their formal stances at least at a government level like very seriously in the same way that China and Russia and Iran.
+
+146
+00:12:20,262 --> 00:12:30,998
+Rym: and countries like that like their governments tend to Treat formal statements like that with extreme deference due to an extreme adherence to legalism Something we've talked about on GeekNights before.
+
+147
+00:12:31,038 --> 00:12:43,814
+Rym: not all countries behave to that degree of legalism but the fact that North Korea has basically gone from we always intended to reunify with the South to Reunification is impossible.
+
+148
+00:12:44,115 --> 00:12:53,410
+Rym: South Korea is not Korea and we and they are our greatest enemy and we are permanently at war with them is a Worrying change in the stance of that government.
+
+149
+00:12:54,315 --> 00:12:57,210
+Scott: No, so any different more worrying than the rest of the world?
+
+150
+00:12:57,390 --> 00:12:58,213
+Rym: Yeah, I did.
+
+151
+00:12:58,614 --> 00:13:01,423
+Rym: This is we are definitely if I zoom out a little bit.
+
+152
+00:13:01,764 --> 00:13:17,450
+Rym: This is one sign among many that We're in a really fucked up time and it is probably a more unstable and dangerous time than Not all times in modern history, but most times in modern history.
+
+153
+00:13:18,036 --> 00:13:24,503
+Rym: so just be prepared for the world to get weird and worse faster than it gets.
+
+154
+00:13:24,964 --> 00:13:36,630
+Rym: less weird and better is my Unfortunate cynical opinion, but I just wanted to give some context because this news really seems Worse than it is if you don't know the history.
+
+155
+00:13:37,031 --> 00:13:42,104
+Rym: But if you know the full history, it is worse than it appears but not for the reasons people think it is.
+
+156
+00:13:42,124 --> 00:13:46,620
+Scott: I Think on the list of bad things going around.
+
+157
+00:13:47,123 --> 00:13:50,955
+Scott: that's not high on anyone's list I actually would argue it is.
+
+158
+00:13:51,216 --> 00:13:57,920
+Rym: but my argument is a personal one and this is based on it's not even if you open like The you know, the major newspapers.
+
+159
+00:13:57,981 --> 00:13:59,790
+Scott: Is that even on the front page?
+
+160
+00:14:00,391 --> 00:14:02,202
+Scott: No, it's not on the front page of the New York Times.
+
+161
+00:14:02,262 --> 00:14:03,409
+Scott: Is it on the front page of CNN?
+
+162
+00:14:04,290 --> 00:14:11,828
+Rym: Yeah, it barely knows Partly because every individual country has its own like local extreme danger.
+
+163
+00:14:11,888 --> 00:14:18,150
+Rym: that's happening Like we're about to have an election that's gonna determine the fate of a good chunk of the world for probably the rest of our lives.
+
+164
+00:14:19,198 --> 00:14:19,849
+Scott: Vote for the Democrats.
+
+165
+00:14:20,131 --> 00:14:22,397
+Scott: The only thing about the only thing about Korea.
+
+166
+00:14:22,477 --> 00:14:27,594
+Scott: on the BBC home page says our North Korean troops joining Russia's war in Ukraine Question mark.
+
+167
+00:14:27,694 --> 00:14:30,630
+Rym: the answer is probably yes, there's strong evidence that that is happening.
+
+168
+00:14:31,171 --> 00:14:37,310
+Scott: Maybe but the point is is that this story that you're bringing up is not on the front page of the world's major news sources.
+
+169
+00:14:37,510 --> 00:14:38,894
+Scott: Yeah, that's how significant it is.
+
+170
+00:14:39,256 --> 00:14:46,760
+Rym: Yep, or at least in English in the in the hierarchy of attention Even every to Korean newspaper.
+
+171
+00:14:46,780 --> 00:15:02,115
+Rym: to like to give an example of hierarchy of attention Let's say you find out that the water in your apartment has slightly elevated levels of lead but on the same day a nuke goes off a Hundred miles away from your apartment.
+
+172
+00:15:02,837 --> 00:15:10,690
+Rym: Those are both bad things, but you're only going to be thinking about one of them The nuke one, I think you're gonna be thinking about the nuke one.
+
+173
+00:15:10,690 --> 00:15:17,488
+Rym: You're not gonna be worried about the very small increase in the lead content of your water at that time Even though that is a fucked up and bad thing.
+
+174
+00:15:20,711 --> 00:15:22,568
+Rym: Anyway, I got some things of the day.
+
+175
+00:15:24,151 --> 00:15:33,853
+Scott: Yeah, so PBS has a new documentary Right, and I admit I was very ignorant about this whole thing and now I am less ignorant I have.
+
+176
+00:15:33,954 --> 00:15:39,669
+Scott: even though I haven't watched the documentary yet I read this article about it, which obviously is gonna make me want to read it.
+
+177
+00:15:40,331 --> 00:15:53,549
+Scott: But if you're a nerd who reads sci-fi or fantasy novels, of course you couldn't help but notice that when you go to the used bookstore or even the non used bookstore that a very significant portion of the major
+
+178
+00:15:54,138 --> 00:15:54,930
+Rym: post-popular
+
+179
+00:15:55,351 --> 00:15:59,924
+Scott: significant sci-fi fantasy novels all say Del Rey books on the side.
+
+180
+00:16:00,606 --> 00:16:04,555
+Scott: and I was but I Obviously, I recognize that brand.
+
+181
+00:16:05,037 --> 00:16:09,970
+Scott: if I see that brand I associate it with top-tier sci-fi and fantasy fiction.
+
+182
+00:16:10,853 --> 00:16:13,562
+Scott: But what else do I know about that brand?
+
+183
+00:16:13,723 --> 00:16:15,690
+Scott: where it came from what it is?
+
+184
+00:16:16,530 --> 00:16:18,344
+Scott: nothing until now.
+
+185
+00:16:19,159 --> 00:16:22,035
+Scott: apparently Delray is actually a person.
+
+186
+00:16:22,175 --> 00:16:40,425
+Scott: there was a person named Judy Lynn Del Rey who started out as an editor at like Ballantine books, right and Was such a good editor that everyone hopped on board To get their books edited by her because she was like the best editor.
+
+187
+00:16:40,445 --> 00:16:43,535
+Scott: and then Penguin Random House is like.
+
+188
+00:16:43,576 --> 00:16:51,589
+Scott: you're so fucking good and you're so smart doing doing all this You know editing and picking the good shit and putting out the high call all these amazing books.
+
+189
+00:16:52,572 --> 00:17:11,473
+Scott: we're gonna let you have your own imprint Del Rey books and That was that and this person got some credit while they were alive, but Obviously not enough because no Someone who's read many many Del Rey books didn't even know there was a person I mean Arthur C.
+
+190
+00:17:11,512 --> 00:17:11,773
+Rym: Clarke.
+
+191
+00:17:11,794 --> 00:17:12,095
+Rym: look into.
+
+192
+00:17:12,455 --> 00:17:16,730
+Rym: Arthur C. Clarke called her quote the most brilliant editor I ever encountered.
+
+193
+00:17:17,111 --> 00:17:21,705
+Rym: Philip K Dick said she was quote the greatest editor since Maxwell Perkins.
+
+194
+00:17:22,308 --> 00:17:22,849
+Scott: I don't know right?
+
+195
+00:17:22,849 --> 00:17:23,238
+Scott: It's like.
+
+196
+00:17:23,259 --> 00:17:23,790
+Scott: so think about it.
+
+197
+00:17:23,790 --> 00:17:30,210
+Scott: You have all these legendary authors and it's like, you know, we think we give them all the credit for these books generally.
+
+198
+00:17:30,311 --> 00:17:31,217
+Scott: But it's like wait a minute.
+
+199
+00:17:31,640 --> 00:17:34,617
+Scott: this same fucking editor Was touching all them.
+
+200
+00:17:34,637 --> 00:17:39,259
+Scott: It's like who was really the one That was it.
+
+201
+00:17:39,279 --> 00:17:41,750
+Scott: when there's something in common it's like man.
+
+202
+00:17:41,830 --> 00:17:46,170
+Scott: Maybe if I wrote a book, you know that then I was able to have her edit it.
+
+203
+00:17:46,290 --> 00:17:49,524
+Scott: I could have been a legendary sci-fi author even though I was shitty at writing.
+
+204
+00:17:49,664 --> 00:17:50,829
+Scott: if I get an editor that good.
+
+205
+00:17:51,331 --> 00:17:56,029
+Scott: But not just the editing and not just the picking and selecting, right?
+
+206
+00:17:57,070 --> 00:17:59,469
+Scott: But also the foresight into the market.
+
+207
+00:18:00,932 --> 00:18:04,010
+Scott: The big deal that she pulled off was getting all the Star Wars novels.
+
+208
+00:18:04,713 --> 00:18:08,870
+Scott: Good luck finding a Star Wars novel that doesn't say Del Rey books on the side of it, right?
+
+209
+00:18:10,230 --> 00:18:10,631
+Scott: It's like so.
+
+210
+00:18:10,651 --> 00:18:16,408
+Scott: the person was also a book business genius, right knowing what was gonna sell at a time.
+
+211
+00:18:17,491 --> 00:18:22,610
+Scott: You know cuz at the time that you know, she was getting started like the sci-fi novels were a thing, right?
+
+212
+00:18:23,050 --> 00:18:25,317
+Scott: but the fantasy wasn't so much like.
+
+213
+00:18:25,357 --> 00:18:31,275
+Rym: the fantasy novels that were popular at the time were pretty underground and a lot of them were Extremely fucked up in a bad way.
+
+214
+00:18:31,877 --> 00:18:44,620
+Scott: Yeah, it's like the rise of the the fantasy fantasy romance sort of thing Other than JR like if you think about it, it was like up until you know These times that you know, like in the 70s or whatever.
+
+215
+00:18:45,021 --> 00:18:53,048
+Scott: It's like fantasy novels are pretty much token and I don't know was was once a future king out.
+
+216
+00:18:53,068 --> 00:18:58,970
+Scott: yet There were some Arthurian tales and legends, but it wasn't what it is today, right?
+
+217
+00:18:59,811 --> 00:19:00,676
+Scott: Not by any stretch.
+
+218
+00:19:01,018 --> 00:19:02,224
+Scott: so they didn't have your R.I.
+
+219
+00:19:02,264 --> 00:19:03,048
+Scott: Salvatore's then.
+
+220
+00:19:03,068 --> 00:19:08,682
+Scott: Yeah So, yeah, I'm gonna watch this documentary for sure.
+
+221
+00:19:08,702 --> 00:19:14,282
+Scott: I'm gonna hella watch this thing yeah and You know, it also is a good reminder.
+
+222
+00:19:14,302 --> 00:19:17,114
+Scott: since I get that, you know We're about to do metamoment.
+
+223
+00:19:17,174 --> 00:19:18,860
+Scott: Rym has to get his book club shit together.
+
+224
+00:19:18,920 --> 00:19:20,405
+Scott: The website doesn't have any.
+
+225
+00:19:20,666 --> 00:19:20,907
+Rym: Yep.
+
+226
+00:19:21,228 --> 00:19:21,770
+Rym: I've been busy.
+
+227
+00:19:22,751 --> 00:19:26,390
+Rym: Yeah, I gotta go back to Singapore soon and there'll be another hiatus for GeekNights.
+
+228
+00:19:26,972 --> 00:19:30,728
+Scott: The book club on the website still says not a short walk on girl, which you should read.
+
+229
+00:19:30,748 --> 00:19:32,056
+Rym: if you didn't read It's really good.
+
+230
+00:19:32,439 --> 00:19:36,096
+Scott: It's not my fault that the Website's not updated.
+
+231
+00:19:36,760 --> 00:19:48,908
+Rym: So my thing of the day I learned about this recently and it looks like now it's making the rounds and I feel like a bunch of people Discovered this at the same time, but verge has a one-minute video that explains the deal with it.
+
+232
+00:19:50,091 --> 00:19:57,390
+Rym: So when I got my first VCR as a kid that VCR had a remote control But it was a wired remote control.
+
+233
+00:19:57,491 --> 00:20:04,529
+Rym: You plugged a wire into the front of the VCR and the wire Had a little remote control on the other end of it and had like a 20-foot cable.
+
+234
+00:20:06,071 --> 00:20:07,558
+Scott: I seen those but we didn't have one.
+
+235
+00:20:07,599 --> 00:20:10,050
+Scott: We basically had TVs without remote controls.
+
+236
+00:20:10,171 --> 00:20:12,886
+Scott: They just you had to get up and turn the physical dial that went.
+
+237
+00:20:12,906 --> 00:20:16,407
+Scott: kachunka chunk Yeah, or even worse and eventually we got one with the remote.
+
+238
+00:20:16,528 --> 00:20:16,910
+Rym: even worse.
+
+239
+00:20:16,990 --> 00:20:17,954
+Rym: I remember when I was a kid.
+
+240
+00:20:18,075 --> 00:20:32,170
+Rym: not only do you have to turn the walk over and turn the TV kachunka chunk But depending on what channel we wanted to watch you might have to turn this other dial that rotated What direction the directional antenna on our roof was pointing and if you rotated this thing?
+
+241
+00:20:32,651 --> 00:20:36,109
+Rym: It would like were and the antenna was slowly rotating on our roof.
+
+242
+00:20:38,301 --> 00:20:43,464
+Rym: So Then IR infrared kind of became the way to do remote controls.
+
+243
+00:20:44,226 --> 00:20:45,170
+Rym: I didn't know this existed.
+
+244
+00:20:45,672 --> 00:20:53,843
+Rym: this is an ancient remote control that does not use a wire and Also does not use any power whatsoever.
+
+245
+00:20:53,863 --> 00:21:00,724
+Rym: yet is a 100% wireless remote control that will function just fine.
+
+246
+00:21:00,764 --> 00:21:05,596
+Rym: You push a button the TV changes channel No power no lasers.
+
+247
+00:21:05,937 --> 00:21:06,499
+Rym: No wire.
+
+248
+00:21:06,639 --> 00:21:07,200
+Rym: No nothing.
+
+249
+00:21:07,702 --> 00:21:08,644
+Rym: And how does this work?
+
+250
+00:21:08,724 --> 00:21:12,837
+Rym: Well, honestly watch the video because It's kind of amazing.
+
+251
+00:21:13,158 --> 00:21:14,684
+Rym: I did not know this existed.
+
+252
+00:21:14,804 --> 00:21:16,370
+Rym: I don't think a lot of people knew this existed.
+
+253
+00:21:16,671 --> 00:21:26,156
+Scott: I think I might have seen it on the internet like one time and then forgotten because it was familiar In the meta moment.
+
+254
+00:21:26,256 --> 00:21:30,590
+Rym: other than the book club thing GeekNights will be live at PAX unplugged.
+
+255
+00:21:31,370 --> 00:21:37,089
+Scott: Schedule for PAX Unplugged is live on the website so I can tell you what the exact schedule is.
+
+256
+00:21:37,129 --> 00:21:37,510
+Scott: What is it?
+
+257
+00:21:37,650 --> 00:21:38,093
+Scott: I didn't look.
+
+258
+00:21:38,516 --> 00:21:39,383
+Rym: I didn't look at it either.
+
+259
+00:21:39,907 --> 00:21:40,270
+Scott: Okay?
+
+260
+00:21:41,152 --> 00:22:00,306
+Scott: But I think someone told me that a both of our panels like our learn and play and our panel panel are on Friday, yep so We're probably gonna basically be showing up to unplugged and on Friday Doing panels and learn and play then enforcing at night then on Saturday Gaming all day and forcing at night and then on Sunday doing whatever.
+
+261
+00:22:00,326 --> 00:22:01,210
+Scott: Yeah, they go at home.
+
+262
+00:22:01,732 --> 00:22:03,663
+Rym: I'm gonna look at the tournament schedule to see.
+
+263
+00:22:03,783 --> 00:22:05,939
+Scott: cuz I you know, I had to miss Wazi tournament.
+
+264
+00:22:05,999 --> 00:22:12,950
+Rym: I Had to miss two PAX is cuz I got sick before both of them and just a stroke of fucking bad luck.
+
+265
+00:22:13,071 --> 00:22:25,349
+Rym: but I have been wanting to Start to because I've been to a lot of taxes like a lot of faxes I am making a point of every new can every convention I go to.
+
+266
+00:22:25,831 --> 00:22:32,554
+Rym: I'm gonna pick an area that I haven't heavily engaged with before and like really try to engage with it and Tournaments are the thing.
+
+267
+00:22:32,594 --> 00:22:33,417
+Rym: I want to engage with.
+
+268
+00:22:33,477 --> 00:22:43,490
+Rym: I'm gonna see there's a tournament that I can join and play to conclusion And hopefully does not have that guy in it like the last tournament you and I entered at a fax.
+
+269
+00:22:44,037 --> 00:22:54,390
+Scott: Yeah, it's a lot harder I think because you know at at PAX at East West the and I don't know about us but the tabletop tournaments You know, there's a whole bunch of other things at the con that aren't tabletop.
+
+270
+00:22:54,511 --> 00:22:58,913
+Scott: Yeah, so getting into a tabletop tournament isn't necessarily that difficult But it unplugged.
+
+271
+00:22:59,114 --> 00:23:07,070
+Scott: everyone's there for tabletop and even though there are more tournaments and they might have larger capacity Everyone is there for tabletop.
+
+272
+00:23:07,331 --> 00:23:11,646
+Scott: So if you never mind the phase of tournament, you're really really really want to play it like.
+
+273
+00:23:11,686 --> 00:23:12,850
+Scott: it's a high priority for you.
+
+274
+00:23:12,910 --> 00:23:16,564
+Scott: You're not just like I'll play in it if I can but like if you really want to.
+
+275
+00:23:16,584 --> 00:23:21,364
+Scott: you have to line up when the con Starts at tabletop tournament and get a tournament ticket.
+
+276
+00:23:21,625 --> 00:23:22,609
+Scott: at the start of the day.
+
+277
+00:23:23,191 --> 00:23:32,191
+Rym: A popular tabletop tournament like for a popular game is hard to get into even at a regular PAX, but Tabletop is hot right now like.
+
+278
+00:23:32,251 --> 00:23:42,514
+Rym: I'm not gonna speak to the industry and its profitability, but the demand for places to play tabletop games is like into Catastrophically huge.
+
+279
+00:23:42,655 --> 00:23:52,350
+Rym: it is like a hot market and PAX Unplugged is Within train distance like a day trip of what like 40 or 50 million humans.
+
+280
+00:23:54,272 --> 00:23:55,617
+Rym: Yeah, so good fucking luck.
+
+281
+00:23:55,637 --> 00:23:56,500
+Rym: get into a tournament.
+
+282
+00:23:56,780 --> 00:24:04,883
+Rym: I'm gonna see if I can find one that is for a game that nobody likes Mmm, and I gotta find something that I like that nobody else likes.
+
+283
+00:24:04,904 --> 00:24:06,450
+Rym: maybe Hansa, Titania.
+
+284
+00:24:07,534 --> 00:24:08,889
+Scott: I don't know if there's a tournament for it.
+
+285
+00:24:08,990 --> 00:24:13,309
+Scott: They only can have tournaments of things that are that they have enough copies of.
+
+286
+00:24:13,429 --> 00:24:14,978
+Rym: you know What I would really like to see a tournament of.
+
+287
+00:24:14,998 --> 00:24:18,293
+Rym: at PAX Unplugged hearts All right.
+
+288
+00:24:18,414 --> 00:24:21,070
+Scott: I think I can definitely get enough decks of playing cards to do that.
+
+289
+00:24:22,952 --> 00:24:29,670
+Rym: I'd like to see one that just take like 400 people in and just over the course of the conscious single elimination whittle it down to one.
+
+290
+00:24:29,730 --> 00:24:37,160
+Scott: Well, I mean if you have four people per game, you're gonna be down to 100 after a single round exactly But I don't think you'll get 400 people to join.
+
+291
+00:24:37,201 --> 00:24:37,381
+Rym: Yep.
+
+292
+00:24:37,723 --> 00:24:42,722
+Rym: Also the tricky part is I Was you know having not really done tournaments at cons before like this.
+
+293
+00:24:43,384 --> 00:24:44,850
+Rym: the last time we did it out of hacks.
+
+294
+00:24:44,931 --> 00:24:59,823
+Rym: what I was shocked by is My impression that a near majority of the people who signed up for the tournament that we played in did not know how to play the game and Like expect it to be taught how to play the game at the tournament.
+
+295
+00:25:00,305 --> 00:25:01,068
+Scott: That's how PAX is.
+
+296
+00:25:01,108 --> 00:25:01,510
+Scott: Yeah, it's not.
+
+297
+00:25:01,590 --> 00:25:03,984
+Scott: you know PAX isn't like, you know the competitive like.
+
+298
+00:25:04,004 --> 00:25:09,650
+Scott: yeah like a Magic the gathering tournament where everyone shows up with a deck and knows how to play magic.
+
+299
+00:25:09,811 --> 00:25:10,152
+Scott: It's like.
+
+300
+00:25:10,574 --> 00:25:12,864
+Scott: yeah, you can just sign up for a tournament not knowing the game.
+
+301
+00:25:13,166 --> 00:25:15,296
+Rym: and yeah Stuff because I like it.
+
+302
+00:25:15,336 --> 00:25:25,704
+Rym: what personally when I sign up for a tournament like any tournament My goal the only reason I would ever join a tournament is because I want to play a game All out against people who are equally serious about it.
+
+303
+00:25:26,146 --> 00:25:28,859
+Rym: So Scott and I are very blessed.
+
+304
+00:25:29,040 --> 00:25:37,906
+Rym: Like I think I want to get ahead of Anything that might come up in the course of this conversation that we are both Relatively well off as humans on this earth.
+
+305
+00:25:37,926 --> 00:25:42,904
+Scott: Yeah Relative truly wealthy people we are still poor as hell.
+
+306
+00:25:43,366 --> 00:25:52,776
+Rym: like I like, uh, you know I'm pretty wealthy like it's like just even compared to Scott just by the nature, you know, I work for the money factory and the.
+
+307
+00:25:53,077 --> 00:26:02,698
+Rym: the gap in wealth between me and Even people who are just like one step wealthier than me in my career is bigger than the gap between me and poverty.
+
+308
+00:26:02,899 --> 00:26:07,270
+Rym: like these people make so much fucking money it is unconscionable.
+
+309
+00:26:07,792 --> 00:26:09,721
+Rym: But I just want to preface everything.
+
+310
+00:26:09,741 --> 00:26:17,310
+Scott: we're about to say that we are still You know, obviously we want to just destroy capitalism and right but that's not the time.
+
+311
+00:26:17,310 --> 00:26:23,255
+Scott: You know the topic of today's show is a topic within the framework of capitalism Yeah, and thus it's.
+
+312
+00:26:23,416 --> 00:26:26,046
+Scott: it would be off topic to discuss the same thing.
+
+313
+00:26:26,066 --> 00:26:31,483
+Rym: We discuss all the time Yep, but one of my favorite favorite phrases that I use a lot in my life.
+
+314
+00:26:32,045 --> 00:26:33,710
+Rym: I'm not saying this is good.
+
+315
+00:26:34,394 --> 00:26:36,469
+Rym: I am just saying this is what happened.
+
+316
+00:26:37,631 --> 00:26:49,490
+Rym: Like that is the position I'm taking here, but been very blessed that I have never had Significant debt in my entire life except for my student loans except for that time that they came and repoed your car.
+
+317
+00:26:49,691 --> 00:26:53,658
+Rym: That was I only owed like $9,000 on that car.
+
+318
+00:26:53,758 --> 00:26:54,481
+Rym: I was just poor.
+
+319
+00:26:54,501 --> 00:26:56,770
+Scott: Yeah, I mean that's significant to some people.
+
+320
+00:26:56,950 --> 00:27:12,097
+Rym: I mean it was at the time that was significant to my life then because my net worth when I owed $9,000 for that 2008 Pontiac Sunfire was Negative nine thousand dollars.
+
+321
+00:27:12,177 --> 00:27:14,465
+Rym: I didn't have any fucking money as you remember in college.
+
+322
+00:27:14,766 --> 00:27:20,812
+Rym: I couldn't pay for anything Yeah, but I didn't pay off my student loans until 2012.
+
+323
+00:27:20,812 --> 00:27:30,350
+Rym: I graduated in 2005 and we know people who graduated before us from our IT Who are still paying off the student loans in the year of our lower?
+
+324
+00:27:33,737 --> 00:27:35,470
+Scott: Yep, I mean so this is the thing about debt, right?
+
+325
+00:27:35,610 --> 00:27:45,322
+Scott: Is that like for dips for some people most people I'd say debt is Viewed correctly from their perspective as sort of like this burden and I see it that way.
+
+326
+00:27:45,784 --> 00:27:48,130
+Rym: I don't want you are having debt, right?
+
+327
+00:27:48,250 --> 00:27:52,630
+Scott: It's like you are in a situation in life where you have needs, right?
+
+328
+00:27:52,770 --> 00:27:54,917
+Scott: You wouldn't use debt to get something you want.
+
+329
+00:27:54,957 --> 00:27:55,539
+Scott: That's stupid.
+
+330
+00:27:55,760 --> 00:27:56,783
+Scott: Well, some people do.
+
+331
+00:27:56,803 --> 00:28:08,590
+Scott: that's what a lot of people do with Fools right, but most people there's something they need a home to live in Right a car to drive because they live in a place where cars are necessary.
+
+332
+00:28:08,650 --> 00:28:15,043
+Scott: It's not their fault right and to live in a place where cars weren't necessary Would mean that the home to live in would be beyond what they could afford.
+
+333
+00:28:15,204 --> 00:28:17,914
+Rym: Yeah living in New York I pay more for.
+
+334
+00:28:18,336 --> 00:28:21,969
+Rym: I pay more in a few months in rent than I paid for that fucking car, right?
+
+335
+00:28:24,369 --> 00:28:26,195
+Scott: So Very, you know an education right.
+
+336
+00:28:26,215 --> 00:28:37,790
+Scott: you want to go to college because of right and so all of these things are Things you need and also things that sort of will pay off, right?
+
+337
+00:28:37,890 --> 00:28:50,162
+Scott: it's like you are okay taking debt to go to school because It's like well if I don't go to school my career options are going to be less And therefore I'll make less money.
+
+338
+00:28:50,344 --> 00:28:50,666
+Scott: be the.
+
+339
+00:28:50,827 --> 00:29:02,293
+Scott: your sort of Reasoning is like hey, I'll if I go to a fancy school that costs more money I'll have that diploma and then if I have the diploma the debt won't be a problem because I can get a better job that Makes more money.
+
+340
+00:29:02,313 --> 00:29:10,602
+Scott: Yeah pay off the debt with the money and then once the debts gone I'll actually be better off than if I had not deaded in the first.
+
+341
+00:29:10,642 --> 00:29:10,802
+Scott: Yep.
+
+342
+00:29:10,903 --> 00:29:21,558
+Rym: So it is more like the bank Invested in you and then you're gonna go do something and then you're gonna give back to the bank More than they gave you.
+
+343
+00:29:21,739 --> 00:29:24,933
+Rym: but you are also well off by this Interaction.
+
+344
+00:29:25,555 --> 00:29:26,378
+Rym: right everybody wins.
+
+345
+00:29:26,398 --> 00:29:29,390
+Scott: so right in theory in theory.
+
+346
+00:29:29,491 --> 00:29:51,695
+Scott: But the problem is is that when you are a person of ordinary means right You know, it doesn't feel that way because That the amount you have to pay on the loan is a significant amount relative Right, and it's it could be more than your worth like ruin you, you know And it's like you written.
+
+347
+00:29:51,735 --> 00:29:55,870
+Scott: yours can be stuck in situations where like you really just don't have a choice, right?
+
+348
+00:29:55,910 --> 00:30:00,594
+Scott: It's like well, I don't have enough money to buy a car I live it.
+
+349
+00:30:00,714 --> 00:30:03,265
+Scott: I can't afford to live in a place where a car is not necessary.
+
+350
+00:30:03,607 --> 00:30:07,850
+Scott: without a car I can't make any money to go to a job of any kind.
+
+351
+00:30:08,313 --> 00:30:09,319
+Scott: So I need the car.
+
+352
+00:30:09,662 --> 00:30:13,704
+Scott: so I get some debt All right, and I take a loan and I buy the car.
+
+353
+00:30:13,744 --> 00:30:14,950
+Rym: but the car doesn't pay off.
+
+354
+00:30:15,030 --> 00:30:22,404
+Rym: the car just maintains your status quo of living your life and it slowly depreciates in value and It costs a lot of money to maintain.
+
+355
+00:30:22,425 --> 00:30:25,137
+Rym: and yes I owe that money that you have paid to.
+
+356
+00:30:25,157 --> 00:30:29,350
+Scott: the value you get from the car is not a quantifiable value.
+
+357
+00:30:29,611 --> 00:30:32,281
+Scott: It's you know, every time you use it to do something.
+
+358
+00:30:32,481 --> 00:30:39,450
+Scott: It's like you think about well, okay The value I got from it is equal to what it would have cost me to use an uber instead.
+
+359
+00:30:39,531 --> 00:30:41,550
+Scott: I guess right or something like that.
+
+360
+00:30:42,832 --> 00:30:45,770
+Scott: Or how much hassle it would have been to use some other mode of transportation.
+
+361
+00:30:46,650 --> 00:30:47,092
+Scott: That's the.
+
+362
+00:30:47,534 --> 00:30:48,116
+Scott: it's like an.
+
+363
+00:30:48,377 --> 00:30:52,050
+Scott: it doesn't show up on your balance sheet, but that's the value you're getting back.
+
+364
+00:30:52,291 --> 00:30:54,669
+Rym: But it's also heavy out that value you're getting back by.
+
+365
+00:30:55,412 --> 00:30:56,556
+Rym: There aren't alternatives.
+
+366
+00:30:56,676 --> 00:31:00,750
+Rym: Like if you live in a lot of places in America, you really don't have a meaningful alternative.
+
+367
+00:31:00,931 --> 00:31:03,701
+Rym: So it's you know a phrase I use at work a lot to KTL.
+
+368
+00:31:03,721 --> 00:31:06,130
+Rym: o it's keep the lights on expenses.
+
+369
+00:31:06,431 --> 00:31:08,278
+Rym: It just keeps you living your current life.
+
+370
+00:31:08,620 --> 00:31:15,110
+Rym: It's a basic necessity and as a result It's not paying off other than just keeping you alive, right?
+
+371
+00:31:15,210 --> 00:31:19,310
+Scott: And so you're now in this situation where it's like just to stay alive.
+
+372
+00:31:19,953 --> 00:31:21,018
+Scott: You have to you're.
+
+373
+00:31:21,339 --> 00:31:21,902
+Scott: it's like okay.
+
+374
+00:31:21,942 --> 00:31:34,744
+Scott: if I want to maintain just living Reasonably with some good standard of you know, being able to move around to have a roof or whatever it is I need to produce money at a certain rate because that debt is there.
+
+375
+00:31:34,864 --> 00:31:36,429
+Scott: Otherwise, the debt will hurt me.
+
+376
+00:31:37,153 --> 00:31:39,770
+Rym: Right, like you're playing an 18xx game you take some debt.
+
+377
+00:31:39,890 --> 00:31:43,430
+Rym: Well, you better pay that debt off real fucking quick or you're going bankrupt, right?
+
+378
+00:31:43,550 --> 00:31:44,514
+Scott: And it's like well now you have.
+
+379
+00:31:44,595 --> 00:31:50,550
+Scott: that means you have to work somewhere that makes enough money to pay it And if you lose that job, you could be in deep shit.
+
+380
+00:31:50,610 --> 00:31:56,430
+Scott: You have to hurry up and just get whatever shitty job you can get like, you know You have this pressure on you at all times.
+
+381
+00:31:57,671 --> 00:32:01,210
+Rym: I remember the moment I paid off my student loan in 2012.
+
+382
+00:32:01,210 --> 00:32:06,450
+Rym: I it felt like a weight had been lifted off of my shoulders like it was burdening me.
+
+383
+00:32:06,611 --> 00:32:08,830
+Rym: I thought about that debt a lot back then.
+
+384
+00:32:08,870 --> 00:32:13,910
+Scott: Yeah, and it's like you could just ignore the debt and go bankrupt or whatever, but that's a whole nother top show.
+
+385
+00:32:14,030 --> 00:32:17,727
+Rym: Well, also you can often can't student loan debt not dischargeable in bankruptcy?
+
+386
+00:32:17,908 --> 00:32:19,534
+Scott: in most cases No, not a lot.
+
+387
+00:32:20,277 --> 00:32:23,450
+Scott: And so that's the way most people view debt.
+
+388
+00:32:23,932 --> 00:32:28,838
+Rym: So I want to say that's terrifying how rich people view debt like not us like not even differently, yeah.
+
+389
+00:32:29,710 --> 00:32:37,314
+Rym: So wealthy people the people who make four to four hundred times as much money as I make Debts an asset.
+
+390
+00:32:37,594 --> 00:32:38,577
+Rym: debt is worth money.
+
+391
+00:32:38,918 --> 00:32:41,966
+Rym: being in debt is better than not being in debt, right?
+
+392
+00:32:42,046 --> 00:32:43,169
+Scott: Imagine this, right?
+
+393
+00:32:43,630 --> 00:32:47,024
+Scott: So let's say you've got I don't know a bit.
+
+394
+00:32:47,044 --> 00:32:47,888
+Scott: You're a billionaire.
+
+395
+00:32:47,908 --> 00:32:55,430
+Scott: Yeah, right It's like you could just use your money and buy something basically anything that exists and in society you could buy.
+
+396
+00:32:55,812 --> 00:32:56,616
+Scott: That's for sale.
+
+397
+00:32:56,737 --> 00:32:57,381
+Scott: That's buyable.
+
+398
+00:32:57,481 --> 00:32:57,924
+Scott: Not that not.
+
+399
+00:32:57,964 --> 00:32:59,673
+Scott: you couldn't buy the Brooklyn Bridge But you could buy.
+
+400
+00:33:00,196 --> 00:33:02,929
+Scott: you could pay someone to build a bridge somewhere, right?
+
+401
+00:33:03,551 --> 00:33:09,578
+Scott: but so you could buy Something that actually produces money.
+
+402
+00:33:09,718 --> 00:33:12,927
+Scott: you could buy a business right like a existing business.
+
+403
+00:33:12,967 --> 00:33:13,930
+Scott: It's already successful.
+
+404
+00:33:14,453 --> 00:33:20,010
+Scott: You could buy a you know, a money fountain Basically with the money, right?
+
+405
+00:33:21,011 --> 00:33:22,215
+Scott: You know you think about like.
+
+406
+00:33:22,235 --> 00:33:25,165
+Scott: a small money fountain would be like a vending machine.
+
+407
+00:33:25,446 --> 00:33:26,710
+Scott: That's like a small money fountain.
+
+408
+00:33:27,673 --> 00:33:34,184
+Scott: a big money fountain would be like A big apartment building right in a in New York City.
+
+409
+00:33:34,425 --> 00:33:35,750
+Scott: It's like basically just a money fountain.
+
+410
+00:33:35,810 --> 00:33:39,170
+Scott: Whoever owns it just gets money for doing jackal shit, right?
+
+411
+00:33:39,410 --> 00:33:44,931
+Scott: You just have to own it and you get money and you want to do work because someone else does all the work and you For it.
+
+412
+00:33:45,573 --> 00:33:52,109
+Scott: and so if a billionaire used their actual money to let's say buy a buy an apartment building, right?
+
+413
+00:33:53,270 --> 00:33:55,728
+Scott: Well, if something goes wrong, they lose the money.
+
+414
+00:33:56,292 --> 00:33:58,229
+Scott: Obviously that kind of sucks.
+
+415
+00:33:59,472 --> 00:34:04,769
+Scott: It makes their you know net worth like go down right for until they earn the money back.
+
+416
+00:34:06,052 --> 00:34:13,569
+Scott: And it oftentimes most of their money isn't in a bank account it's in stocks and they'd have to sell stocks in order to get the money to buy the building.
+
+417
+00:34:13,589 --> 00:34:15,168
+Scott: and So they don't want to do that.
+
+418
+00:34:15,931 --> 00:34:20,684
+Scott: But because they're so wealthy they the bank knows I can loan them money.
+
+419
+00:34:20,744 --> 00:34:25,260
+Scott: because if they fuck up the building They want to build they're loaded.
+
+420
+00:34:25,440 --> 00:34:27,469
+Scott: I could just force them to sell stocks and pay me back.
+
+421
+00:34:27,610 --> 00:34:29,579
+Scott: So I'll loan them all the money they fucking.
+
+422
+00:34:29,599 --> 00:34:38,330
+Rym: well, the rich person says, all right the interest rate I'm paying the bank for this loan is X. the money fountain gives me more than X. Well, it's just free money.
+
+423
+00:34:38,992 --> 00:34:42,103
+Rym: Right and even worse what even worse the banks.
+
+424
+00:34:42,143 --> 00:34:44,109
+Rym: this is actually what Donald fucking Trump will.
+
+425
+00:34:44,511 --> 00:34:46,176
+Rym: assuming he loses the election.
+
+426
+00:34:46,196 --> 00:34:50,089
+Rym: the world doesn't collapse into chaos will go to prison for in New York.
+
+427
+00:34:50,109 --> 00:34:54,614
+Rym: is The richer you are The less interest banks charge you.
+
+428
+00:34:54,835 --> 00:34:57,904
+Rym: the poorer you are the more interest banks charge you.
+
+429
+00:34:58,265 --> 00:34:59,950
+Rym: rich people just pay less for loans.
+
+430
+00:35:00,311 --> 00:35:02,219
+Rym: Money is cheaper for rich people.
+
+431
+00:35:02,620 --> 00:35:05,792
+Rym: think about what that sentence out loud It is.
+
+432
+00:35:06,294 --> 00:35:09,123
+Rym: money is cheaper to buy if you are rich than if you are poor.
+
+433
+00:35:09,504 --> 00:35:13,890
+Rym: that is possibly the most fucked up Indictment of capitalism you can ever say out loud, right?
+
+434
+00:35:14,110 --> 00:35:18,270
+Scott: So you're rich already right and you want to get richer because you're greedy and evil.
+
+435
+00:35:18,774 --> 00:35:20,268
+Scott: So you go to the bank and you say bank?
+
+436
+00:35:21,430 --> 00:35:26,007
+Scott: Lend me some money to build a bread to buy this land and build an apartment building.
+
+437
+00:35:26,027 --> 00:35:29,398
+Scott: and the bank says No, this person's rich if this fucks up.
+
+438
+00:35:29,739 --> 00:35:34,296
+Scott: I know that I they're covering it a and B That bank.
+
+439
+00:35:34,577 --> 00:35:37,190
+Scott: a building like that in a big city is going to be a money fountain.
+
+440
+00:35:37,553 --> 00:35:39,229
+Scott: So I know this is probably gonna work.
+
+441
+00:35:39,892 --> 00:35:40,615
+Scott: Go right ahead.
+
+442
+00:35:40,635 --> 00:35:41,438
+Scott: and what app is that?
+
+443
+00:35:41,478 --> 00:35:44,490
+Scott: the bank isn't allowed to just do business because it's a bank.
+
+444
+00:35:44,590 --> 00:35:47,830
+Scott: Otherwise the bank could just buy the land to build a building on its own.
+
+445
+00:35:48,011 --> 00:35:50,190
+Scott: Yeah, but a bank is not allowed to do that.
+
+446
+00:35:50,310 --> 00:35:53,583
+Scott: A bank has to have can only give loans to other people to do that.
+
+447
+00:35:53,703 --> 00:35:55,450
+Scott: Otherwise banks would just own everything.
+
+448
+00:35:57,630 --> 00:36:08,549
+Scott: So So the bank gives the rich person hundreds of millions of dollars whatever it takes to build this building, right and then they build the building.
+
+449
+00:36:08,569 --> 00:36:11,802
+Scott: the Building starts spitting out money like a money fountain.
+
+450
+00:36:11,983 --> 00:36:13,390
+Scott: The rich person doesn't have to do any work.
+
+451
+00:36:13,470 --> 00:36:18,004
+Scott: They just pay architects contractors all kinds of other people to do all the work management company.
+
+452
+00:36:18,345 --> 00:36:19,790
+Scott: It just happens, right?
+
+453
+00:36:20,330 --> 00:36:21,915
+Scott: Professionals get paid to do all this work.
+
+454
+00:36:21,936 --> 00:36:23,019
+Scott: They're receiving money.
+
+455
+00:36:23,059 --> 00:36:24,966
+Scott: That was part of the loan as their salaries.
+
+456
+00:36:25,648 --> 00:36:33,384
+Scott: and then Eventually people start paying rent or buying the condos in the building Whatever it is and money comes out of the building like a fountain.
+
+457
+00:36:33,946 --> 00:36:34,850
+Scott: and where does that money go?
+
+458
+00:36:34,990 --> 00:36:37,070
+Scott: Well, it goes to the bank because they had to pay the loan back.
+
+459
+00:36:37,150 --> 00:36:40,129
+Rym: Well, some of it goes to the bank and the rest goes back to the rich person.
+
+460
+00:36:40,431 --> 00:36:42,157
+Scott: and a lot of the thing is eventually.
+
+461
+00:36:42,438 --> 00:36:49,843
+Scott: eventually the loan is paid back in full eventually and Then the building is still there and it's still a money fountain.
+
+462
+00:36:50,345 --> 00:36:51,510
+Scott: and who owns the money fountain?
+
+463
+00:36:51,953 --> 00:36:54,270
+Scott: The rich person completely owns the money fountain.
+
+464
+00:36:54,411 --> 00:36:55,334
+Scott: They just get all them.
+
+465
+00:36:55,374 --> 00:36:56,277
+Scott: they own this building.
+
+466
+00:36:56,297 --> 00:36:59,449
+Scott: the bank basically bought a building and just gave it to the rich person.
+
+467
+00:36:59,549 --> 00:37:00,595
+Scott: now That's what happened.
+
+468
+00:37:00,716 --> 00:37:07,530
+Rym: Imagine a poor person equally skilled Equally knowledgeable hell ten times more skilled and more knowledgeable than the rich person.
+
+469
+00:37:08,092 --> 00:37:13,130
+Rym: They know how to run a mounting money fountain ten times better than the rich person.
+
+470
+00:37:13,573 --> 00:37:15,549
+Rym: No bank will ever give them the money to do this.
+
+471
+00:37:15,630 --> 00:37:21,747
+Scott: No, imagine if the bank had just went to a homeless person and was like you're completely homeless here.
+
+472
+00:37:22,008 --> 00:37:28,869
+Scott: We're going to Give a loan and we got all these architects and we got these developers and construction companies all lined up.
+
+473
+00:37:29,572 --> 00:37:32,746
+Scott: We're gonna use our money to build this building.
+
+474
+00:37:32,786 --> 00:37:33,730
+Scott: That's gonna be a money fountain.
+
+475
+00:37:33,810 --> 00:37:35,736
+Scott: It's a. it's almost a guaranteed hit right?
+
+476
+00:37:35,756 --> 00:37:36,578
+Scott: Because it's a big pot.
+
+477
+00:37:36,618 --> 00:37:40,790
+Scott: It's a high, you know density popular area in a major city.
+
+478
+00:37:40,870 --> 00:37:41,192
+Scott: It's it's.
+
+479
+00:37:41,554 --> 00:37:42,722
+Scott: there's no way we lose on this.
+
+480
+00:37:42,762 --> 00:37:44,050
+Scott: the rents are skyrocketing there.
+
+481
+00:37:44,932 --> 00:37:48,070
+Scott: We're just gonna put it in your name instead of rich person's name.
+
+482
+00:37:48,532 --> 00:37:51,806
+Scott: Nothing would happen differently in that the building would get built.
+
+483
+00:37:51,866 --> 00:37:52,750
+Scott: It would be a money fountain.
+
+484
+00:37:52,810 --> 00:37:59,866
+Scott: It would spit out money only at the end of the day The homeless person would now be a wealthy person because they own a building.
+
+485
+00:37:59,906 --> 00:38:00,870
+Scott: that's just spitting out money.
+
+486
+00:38:00,890 --> 00:38:04,380
+Scott: They don't do any work But only rich people can do that.
+
+487
+00:38:04,942 --> 00:38:09,760
+Scott: and because banks won't give money to homeless person They just they won't put that other person's name on the paper.
+
+488
+00:38:10,161 --> 00:38:14,314
+Rym: now the concept of debt Is important.
+
+489
+00:38:14,374 --> 00:38:24,054
+Rym: even if you're not in a like fully capitalist Ferengi fucked up like extreme hyper libertarian libertarian society We're still like.
+
+490
+00:38:24,215 --> 00:38:28,026
+Rym: debt is a way to help people invest in other people.
+
+491
+00:38:28,126 --> 00:38:29,350
+Rym: It's a way to cover losses.
+
+492
+00:38:29,390 --> 00:38:31,941
+Rym: There's a lot of functions debt conservative society.
+
+493
+00:38:32,463 --> 00:38:33,628
+Rym: What's the problem here?
+
+494
+00:38:33,709 --> 00:38:33,910
+Rym: Is that?
+
+495
+00:38:34,712 --> 00:38:36,970
+Rym: We use debt the wrong way.
+
+496
+00:38:37,391 --> 00:38:45,070
+Rym: We don't have enough limits on it and a lot of this comes out of the fact that we don't have enough limits on capital Itself because debt is just like the inverse of capital.
+
+497
+00:38:46,214 --> 00:38:47,650
+Rym: I'm trying to not like get into jargon.
+
+498
+00:38:47,710 --> 00:38:52,094
+Rym: So I'm trying to always come back to like human words because remember I work for the money factory Like.
+
+499
+00:38:52,477 --> 00:38:57,924
+Rym: I really try not to not talk about The details of how this works because I'm gonna use a bunch of acronyms.
+
+500
+00:38:57,964 --> 00:38:58,969
+Rym: None of you have ever heard before.
+
+501
+00:39:00,551 --> 00:39:10,730
+Scott: The point is is that when you think of debt in your life being a normal person where debt can be greater than your assets And can crush you and make you ruined is you think of it as a burden correctly?
+
+502
+00:39:11,290 --> 00:39:16,207
+Scott: Whereas a rich person thinks Oh debt the bank is going to buy me something and give it to me for free.
+
+503
+00:39:16,227 --> 00:39:19,720
+Scott: Hooray It's even worse even though it's the same thing.
+
+504
+00:39:20,021 --> 00:39:21,566
+Rym: So the bay that buildings paid off.
+
+505
+00:39:21,587 --> 00:39:22,510
+Rym: You've got the money fountain.
+
+506
+00:39:22,651 --> 00:39:23,213
+Rym: It's paid off.
+
+507
+00:39:23,253 --> 00:39:25,803
+Rym: You own it a hundred percent in the clear all the money.
+
+508
+00:39:25,863 --> 00:39:26,345
+Rym: It spits out.
+
+509
+00:39:26,365 --> 00:39:27,289
+Rym: It goes directly to you.
+
+510
+00:39:28,093 --> 00:39:37,858
+Rym: Now you can go to the bank and say hey I want more money and I'm gonna guarantee that loan with This money factory that I've got.
+
+511
+00:39:38,018 --> 00:39:40,166
+Rym: that's worth all this money that you already bought.
+
+512
+00:39:40,186 --> 00:39:41,210
+Scott: you bought me a money fountain.
+
+513
+00:39:41,572 --> 00:39:42,197
+Scott: I'll tell you what.
+
+514
+00:39:42,660 --> 00:39:47,149
+Scott: you buy me another money fountain And if the second one doesn't work you can have the first one.
+
+515
+00:39:47,652 --> 00:39:51,450
+Scott: But it's like the second one's gonna work and then it's like well now I got two money fountains.
+
+516
+00:39:51,570 --> 00:39:55,084
+Scott: Lend me enough money to build a 2x mega extra-large money fountain.
+
+517
+00:39:55,405 --> 00:39:58,063
+Scott: So and if it fucks up I'll give you the two money fountains.
+
+518
+00:39:58,083 --> 00:39:58,889
+Scott: You already bought me.
+
+519
+00:40:00,574 --> 00:40:04,130
+Scott: If it works out, I'll now have three money fountains one of which is an extra-large.
+
+520
+00:40:05,553 --> 00:40:08,008
+Rym: Yeah, fuck up as the rich person.
+
+521
+00:40:08,028 --> 00:40:10,041
+Rym: a Hundred percent abs.
+
+522
+00:40:10,061 --> 00:40:11,510
+Rym: you're old a one on the room.
+
+523
+00:40:11,590 --> 00:40:17,608
+Scott: You built the building on a sinkhole and it ruined and there was an insurance payout and people die.
+
+524
+00:40:17,628 --> 00:40:18,230
+Scott: It was terrible.
+
+525
+00:40:18,370 --> 00:40:18,852
+Scott: Let's know.
+
+526
+00:40:18,932 --> 00:40:22,061
+Rym: every investment you made fails and you go.
+
+527
+00:40:22,121 --> 00:40:22,984
+Rym: you like you're done.
+
+528
+00:40:23,024 --> 00:40:23,886
+Rym: You're out of money.
+
+529
+00:40:23,906 --> 00:40:26,446
+Rym: You're no longer a billionaire You're a zero air.
+
+530
+00:40:27,132 --> 00:40:36,789
+Rym: Well, uh, I'm not gonna get into corporate law, but zooming out Effectively you can just declare bankruptcy and you don't have to pay anyone back.
+
+531
+00:40:38,990 --> 00:40:45,900
+Rym: Like rich people don't become no longer rich even if they fail Catastrophically, that's just how it works.
+
+532
+00:40:46,182 --> 00:40:50,980
+Rym: However, if I Don't pay back the nine thousand dollars.
+
+533
+00:40:51,060 --> 00:40:56,069
+Rym: I owed on a car that didn't even run that well one They repossess the car which happened to me.
+
+534
+00:40:56,554 --> 00:41:06,670
+Rym: I had to steal my own car Back out of a repo lot and hide it until I could come up with the money to pay off Enough payments for them to let me keep the car in the clear like I used to not have a lot of money.
+
+535
+00:41:07,131 --> 00:41:10,320
+Rym: But two I'm not gonna be able to declare bankruptcy to get out of that.
+
+536
+00:41:10,380 --> 00:41:16,207
+Rym: and three even if me is a normal person declare Bankruptcy and get away with it.
+
+537
+00:41:17,111 --> 00:41:22,890
+Rym: No one's ever gonna loan me money again because I'm a poor person who has defaulted on loans previously.
+
+538
+00:41:23,312 --> 00:41:24,837
+Rym: so I'm just fucked for the rest of my life.
+
+539
+00:41:25,480 --> 00:41:33,705
+Rym: and the single biggest cause of bankruptcy in America among and on rich people is medical debt.
+
+540
+00:41:34,006 --> 00:41:34,950
+Rym: It's not even something.
+
+541
+00:41:35,091 --> 00:41:38,224
+Rym: It's not like someone bought a bought a fancy house and couldn't afford to pay for it.
+
+542
+00:41:38,465 --> 00:41:39,490
+Scott: It's a human rights issue.
+
+543
+00:41:39,490 --> 00:41:47,229
+Rym: Yeah Almost everyone who goes bankrupt in America goes bankrupt because they like get cancer and their choices go into debt to pay for cancer therapy Or just die.
+
+544
+00:41:48,019 --> 00:41:48,207
+Scott: Yep.
+
+545
+00:41:49,991 --> 00:41:55,447
+Scott: So, uh, yeah, I at least in other countries, even if they're capitalist that doesn't happen.
+
+546
+00:41:55,487 --> 00:42:03,670
+Rym: Yeah The Democrats in this election just reminding you all out there if you live in America.
+
+547
+00:42:04,682 --> 00:42:13,579
+Rym: But on a personal level like the old the biggest debt I've ever had in my life is the car we own right now.
+
+548
+00:42:13,599 --> 00:42:18,950
+Rym: and That debt just doesn't even weigh in because like it's just everything's automated and I got plenty of money.
+
+549
+00:42:19,071 --> 00:42:20,381
+Rym: Like I'm a rich person living in New York.
+
+550
+00:42:20,401 --> 00:42:22,458
+Rym: I Don't even know offhand.
+
+551
+00:42:22,478 --> 00:42:25,332
+Rym: I forget how much I paid for that car like.
+
+552
+00:42:25,372 --> 00:42:27,098
+Rym: that's just how different your life is.
+
+553
+00:42:27,138 --> 00:42:39,870
+Rym: when you have a little bit more money and a little bit more slack then I Can't pay the car that was probably worth like a third with the car I own now is and I literally am hiding it from the repo man like parking it in the woods near RIT.
+
+554
+00:42:40,492 --> 00:42:44,349
+Rym: So it doesn't get stolen from me again because I needed to live until I can pay it off.
+
+555
+00:42:44,711 --> 00:42:54,608
+Scott: Yep, but yeah, if you are a person of some means right you should At you know in if you want to play you you're gonna have to play capitalism until it's overthrown.
+
+556
+00:42:54,628 --> 00:43:06,850
+Scott: Yep You there should be at some point in your life where you use debt to you know boost yourself Financially in a responsible low-risk fashion, right?
+
+557
+00:43:07,471 --> 00:43:12,230
+Scott: It could be that you take out a small business loan and you legitimately start a small business.
+
+558
+00:43:12,812 --> 00:43:18,611
+Scott: It could be you get a mortgage and you actually buy a house and that you think will it be in a good area Right.
+
+559
+00:43:18,631 --> 00:43:18,812
+Scott: It's like
+
+560
+00:43:18,832 --> 00:43:35,052
+Rym: would be you have the cash to buy a car and you live in a place where you need a car But you take a loan anyway to make sure that you are liquid Because you can pay the lane on loan off faster if you want later and because you're have enough cash to buy the car outright.
+
+561
+00:43:35,353 --> 00:43:40,915
+Rym: you'll actually get a lower interest rate than some poor person buying the same car and then Opportunity cost.
+
+562
+00:43:41,217 --> 00:43:43,949
+Rym: you use the money that you didn't immediately use on the car.
+
+563
+00:43:44,431 --> 00:43:49,773
+Rym: You invest it in like a CD or a high-yield savings account Like right now.
+
+564
+00:43:49,974 --> 00:43:55,710
+Rym: my savings account pays more interest to us then the interest I pay on the car loan.
+
+565
+00:43:56,132 --> 00:43:59,413
+Rym: So I guess I literally don't pay the car loan Fast.
+
+566
+00:43:59,493 --> 00:44:04,630
+Rym: I pay the minimum payment every month because I make more money from having that money in a savings account.
+
+567
+00:44:04,892 --> 00:44:07,050
+Rym: That is paying me like four point three percent.
+
+568
+00:44:07,713 --> 00:44:08,174
+Scott: So I went to.
+
+569
+00:44:08,195 --> 00:44:11,870
+Scott: I just went on the internet right now and I searched Bank of America shitty bank.
+
+570
+00:44:11,930 --> 00:44:18,576
+Scott: I wouldn't go there, but they have their auto loan rates and for a new car from the dealer 5.34 percent APR.
+
+571
+00:44:19,238 --> 00:44:20,260
+Scott: used car from the dealer 5.64.
+
+572
+00:44:20,260 --> 00:44:30,854
+Scott: So 0.3 more refinance is higher 6.74. so if you are buying a used car or a new car It's going to be under 6%.
+
+573
+00:44:30,854 --> 00:44:39,790
+Scott: if you can find any opportunity to Invest money that will give you better than 6% returns, which isn't totally out of the question, right?
+
+574
+00:44:41,212 --> 00:44:44,390
+Rym: Don't buy cryptocurrencies or invest no visual stocks.
+
+575
+00:44:44,851 --> 00:44:50,450
+Scott: There might be some bonds or some index funds or a really really good CD that you know.
+
+576
+00:44:50,510 --> 00:44:51,355
+Scott: That's where I mentioned.
+
+577
+00:44:51,758 --> 00:44:53,046
+Scott: you might be able to beat that?
+
+578
+00:44:53,167 --> 00:44:55,512
+Scott: maybe Possibly so.
+
+579
+00:44:55,612 --> 00:44:58,740
+Scott: if you do, let's say I want to buy a thirty thousand dollar car.
+
+580
+00:44:59,201 --> 00:45:09,560
+Scott: take thirty thousand dollars buy a thirty thousand dollar bond CD ETF shares whatever it is that's gonna pay out more than Five-point whatever percent.
+
+581
+00:45:09,581 --> 00:45:19,289
+Scott: then get the loan to get the car and pay off the loan and I you know slowly and you'll actually end up with more money at the end.
+
+582
+00:45:19,932 --> 00:45:24,408
+Scott: then if you had not gotten the loan and just use the thirty thousand dollars to buy the car.
+
+583
+00:45:24,468 --> 00:45:30,690
+Scott: and So those are the kinds of ways that normal people can use debt to get a little bit ahead.
+
+584
+00:45:31,191 --> 00:45:34,562
+Scott: Right, but not you can't do it the way a rich person can do it where?
+
+585
+00:45:34,923 --> 00:45:39,540
+Scott: oh the bank bought me a Mercedes But I guess a Mercedes isn't a money factory.
+
+586
+00:45:39,600 --> 00:45:41,428
+Scott: Yeah, you get the idea.
+
+587
+00:45:41,448 --> 00:45:46,383
+Rym: now Another thing and I've encountered a lot of people in my life even now who don't know this.
+
+588
+00:45:46,403 --> 00:45:48,810
+Rym: this especially is true in America.
+
+589
+00:45:49,314 --> 00:45:53,837
+Rym: So I really want to explain this to all of you Get a fucking credit card.
+
+590
+00:45:54,098 --> 00:46:06,130
+Rym: Do not use debit cards to do things because credit cards mean you have a buffer between Your actual money and the cruel realities of the evil world around you, right?
+
+591
+00:46:06,150 --> 00:46:06,693
+Scott: So here's the thing.
+
+592
+00:46:06,713 --> 00:46:10,150
+Scott: people I guess, you know, there's an old SNL don't buy things you can't afford.
+
+593
+00:46:11,431 --> 00:46:17,830
+Scott: So with a credit card, it's you don't you know, what you want to do is there's this merchant fees.
+
+594
+00:46:18,292 --> 00:46:18,734
+Scott: You know, we.
+
+595
+00:46:18,834 --> 00:46:30,883
+Scott: I can know if we talked about these before but basically anytime we complain about a lot on GeekNights Right, basically anytime anyone buys anything with a credit card instead of a debit card Visa MasterCard discover American Express.
+
+596
+00:46:31,345 --> 00:46:32,710
+Scott: they charge the merchant.
+
+597
+00:46:32,770 --> 00:46:33,895
+Scott: That's why it's a merchant fee.
+
+598
+00:46:33,955 --> 00:46:39,958
+Scott: the store you buy it from the restaurant you went to has to pay Visa MasterCard, whoever money.
+
+599
+00:46:40,299 --> 00:46:45,756
+Scott: so if I buy, you know, and I went to a gaming store and I said I want to buy this d20 Just this d20.
+
+600
+00:46:45,797 --> 00:46:46,620
+Scott: It's 25 cents.
+
+601
+00:46:46,921 --> 00:46:48,006
+Scott: I don't have any money on me.
+
+602
+00:46:48,026 --> 00:46:48,970
+Scott: I only have a card.
+
+603
+00:46:49,231 --> 00:46:50,156
+Scott: They're like just take it.
+
+604
+00:46:50,357 --> 00:46:52,830
+Rym: that literally happened at millennium games.
+
+605
+00:46:53,473 --> 00:47:01,990
+Scott: Right because if I swipe the credit card the merchant fee They would have to pay would mean that they lose money because it's too small, right?
+
+606
+00:47:02,030 --> 00:47:19,190
+Scott: and that's why you'll see like a lot of businesses try to do like credit card minimum or We charge gas stations would be like if you use cash will charge you this much but if you use credit will charge you this much because they're trying to pass on the merchant fee and make it a Customer fee instead, but most businesses don't do that.
+
+607
+00:47:19,270 --> 00:47:28,950
+Scott: most businesses just increase the price of all their goods in Order to pay the merchant fees that you know, and what happens to the merchant fees?
+
+608
+00:47:28,950 --> 00:47:37,469
+Scott: Well, that's how Visa MasterCard American Express That's how those places make money and the merchant fees add up to so much that they actually get split up.
+
+609
+00:47:37,850 --> 00:47:47,910
+Scott: Visa, for example, keep would keep some of the merchant fee, but let's say you're using a I don't know What's a good to store a Macy's credit card, right?
+
+610
+00:47:48,853 --> 00:47:56,350
+Scott: If you use a Macy's credit card Macy's would get some of the money too and then there's going to be rewards for using the credit card.
+
+611
+00:47:56,410 --> 00:47:57,698
+Scott: Maybe you get some airline miles.
+
+612
+00:47:58,080 --> 00:47:59,810
+Scott: Maybe you get some points, right?
+
+613
+00:48:00,190 --> 00:48:03,079
+Scott: That's also basically the merchant fee.
+
+614
+00:48:03,179 --> 00:48:15,282
+Scott: the merchant fee that the store pays is split up between The purse the credit card company the the bank the whoever's printed on the front of that whatever, you know brand of you know credit card you have.
+
+615
+00:48:15,302 --> 00:48:20,052
+Scott: maybe it's related to a Something you like a Disney credit card or whoever it is Right.
+
+616
+00:48:20,293 --> 00:48:31,830
+Rym: and then you the credit card user you get some of the merchant fee back Every sucker who uses a crappy credit card or a debit card or just pays cash.
+
+617
+00:48:32,373 --> 00:48:33,481
+Rym: They're basically subs.
+
+618
+00:48:33,501 --> 00:48:37,761
+Rym: They're basically paying you Whatever that whatever your fancy credit card gives you.
+
+619
+00:48:38,142 --> 00:48:38,303
+Rym: like.
+
+620
+00:48:38,363 --> 00:48:45,410
+Rym: I get air miles on Delta because I fly a lot Yep, so we would like it suckers giving me free airline stuff.
+
+621
+00:48:45,872 --> 00:48:49,550
+Scott: So we would love it if there were no merchant fees because that's horseshit, right?
+
+622
+00:48:49,710 --> 00:48:55,684
+Scott: There should be zero and that would cause the prices of everything to go down and it would ruin Visa MasterCard Whatever deservedly.
+
+623
+00:48:55,704 --> 00:48:59,422
+Rym: I Card to be nationalized, but what do I exactly?
+
+624
+00:48:59,442 --> 00:49:01,390
+Rym: just a communist who cares a lot, right?
+
+625
+00:49:01,831 --> 00:49:07,919
+Scott: And so this means that if you want to get your share of that merchant fee You're buying goods with higher prices.
+
+626
+00:49:07,939 --> 00:49:10,449
+Scott: You want to claw that money back as much as you can.
+
+627
+00:49:11,332 --> 00:49:16,610
+Scott: You want to get a credit card with the best rewards you can get and you want to use that credit card to make?
+
+628
+00:49:17,170 --> 00:49:25,990
+Scott: every purchase as Much as you can to get the most rewards clawed back to you out of that evil pile of merchant fees.
+
+629
+00:49:26,030 --> 00:49:26,474
+Scott: That's going.
+
+630
+00:49:26,494 --> 00:49:28,489
+Rym: but it serves a different another purpose too.
+
+631
+00:49:28,971 --> 00:49:39,027
+Rym: If you don't have a credit card and you're not well off or something unexpected comes up You are limited by the amount of cash you have and if it hits zero, you just can't do anything.
+
+632
+00:49:39,068 --> 00:49:40,433
+Rym: like you can't buy food You can't buy gas.
+
+633
+00:49:40,694 --> 00:49:41,418
+Rym: You're just fucked.
+
+634
+00:49:41,438 --> 00:49:43,005
+Rym: So so what lets you?
+
+635
+00:49:44,513 --> 00:49:52,130
+Rym: Have a buffer so that the day you get a paycheck Does not determine whether or not you can afford food on a specific day of the week?
+
+636
+00:49:52,895 --> 00:49:54,770
+Scott: Right, you use the credit card to do everything.
+
+637
+00:49:55,091 --> 00:49:59,343
+Scott: You don't have to worry about when your paychecks come as law.
+
+638
+00:49:59,403 --> 00:50:03,675
+Scott: All you have to worry about is am I Buying less shit?
+
+639
+00:50:03,876 --> 00:50:06,324
+Scott: then that as much as I can afford.
+
+640
+00:50:06,364 --> 00:50:06,505
+Scott: right?
+
+641
+00:50:06,545 --> 00:50:11,445
+Scott: if you go out with your credit card and you're like Ooh, let me buy a new gaming PC every month.
+
+642
+00:50:11,847 --> 00:50:14,155
+Scott: It's like Yeah, you're gonna be in trouble.
+
+643
+00:50:14,215 --> 00:50:18,248
+Scott: Let me go and use it on this mobile game and buy a bunch of loot boxes.
+
+644
+00:50:18,268 --> 00:50:20,257
+Scott: Oops Don't do that.
+
+645
+00:50:20,499 --> 00:50:21,850
+Scott: Let me use it at the casino.
+
+646
+00:50:22,111 --> 00:50:28,572
+Rym: don't do that, but thus the only difference on that level then between a credit card and a debit card or cash are with the debit.
+
+647
+00:50:28,632 --> 00:50:45,081
+Rym: they if you're gonna buy the same stuff either way and You get more benefit and more and less risk using the credit card instead of the debit card in the situation Where you try to buy something where you don't have enough money You really can't afford it.
+
+648
+00:50:45,444 --> 00:50:49,379
+Rym: with the debit card You just can't but with the credit card you can.
+
+649
+00:50:49,780 --> 00:50:53,690
+Rym: and then the question becomes did you buy the thing that now puts you negative?
+
+650
+00:50:54,430 --> 00:50:58,556
+Rym: because you are stupid or Because you truly needed it?
+
+651
+00:50:58,697 --> 00:51:02,350
+Rym: in which case going into debt was probably better than the alternative?
+
+652
+00:51:03,114 --> 00:51:06,530
+Scott: Yep, and it's probably better than getting like some payday loan, right?
+
+653
+00:51:06,570 --> 00:51:10,685
+Scott: Because like oh, no, my my bill came in two days before my paycheck.
+
+654
+00:51:11,207 --> 00:51:11,929
+Scott: I couldn't pay it.
+
+655
+00:51:12,190 --> 00:51:13,329
+Scott: You know my cell phone bill
+
+656
+00:51:13,591 --> 00:51:27,100
+Rym: I had always likes with me when I were when I first worked at Montefiore Medical Center back in like 2007 I did the onboarding for the company and I went to a seminar all day with like all the employees of the entire company from executives down to janitors.
+
+657
+00:51:27,421 --> 00:51:31,961
+Rym: go to this like thing and They do a Q&A at the end.
+
+658
+00:51:31,982 --> 00:51:37,574
+Rym: and Some of the first question is a guy asks When do we get paid?
+
+659
+00:51:37,734 --> 00:51:39,740
+Rym: What is the schedule of paying like?
+
+660
+00:51:39,800 --> 00:51:40,702
+Rym: when do paychecks come?
+
+661
+00:51:41,505 --> 00:51:43,029
+Rym: and the person on stage didn't know?
+
+662
+00:51:44,051 --> 00:51:47,123
+Rym: And the guy who asked the question said this it stuck with me to this day.
+
+663
+00:51:47,404 --> 00:51:51,557
+Rym: He said man Rich people don't need to know when payday is.
+
+664
+00:51:51,577 --> 00:51:52,700
+Scott: that's right.
+
+665
+00:51:53,642 --> 00:51:55,486
+Rym: And that is very true.
+
+666
+00:51:55,687 --> 00:51:57,794
+Rym: I don't know what day I get paid There's just always money.
+
+667
+00:51:57,875 --> 00:51:58,317
+Scott: Oh, it's twice.
+
+668
+00:51:58,357 --> 00:51:59,061
+Scott: it's twice a month.
+
+669
+00:51:59,101 --> 00:52:00,910
+Scott: It's like the middle of the month and then the end of the month.
+
+670
+00:52:02,805 --> 00:52:13,231
+Scott: But Yeah, it's like if you but for example if you set up auto pay for I know Verizon If you set up auto pay you actually get a discount on your cell phone like five to ten bucks a month or whatever it Is.
+
+671
+00:52:13,311 --> 00:52:20,620
+Rym: but also if you don't know this if you if you pay Everything you spent the previous month on your credit card statement.
+
+672
+00:52:21,022 --> 00:52:22,045
+Rym: You don't pay any interest.
+
+673
+00:52:22,326 --> 00:52:24,438
+Rym: that loan was free Mm-hmm.
+
+674
+00:52:24,478 --> 00:52:25,388
+Rym: Just don't fuck that up.
+
+675
+00:52:26,192 --> 00:52:39,759
+Scott: Yeah, you can actually set your bank account to auto pay your credit card Right and as long as you have enough money in your checking account to cover the balance every month It's like you won't ever pay any interest.
+
+676
+00:52:39,779 --> 00:52:43,469
+Scott: You'll just pay exactly what the things cost and then you'll get rewards.
+
+677
+00:52:43,489 --> 00:52:45,672
+Scott: and That's it.
+
+678
+00:52:45,893 --> 00:52:50,449
+Rym: But there's one other factor here that a lot of people don't think about and deeply misunderstand now.
+
+679
+00:52:51,092 --> 00:52:55,998
+Rym: credit scores are also a fucking scam and also They're new.
+
+680
+00:52:56,219 --> 00:52:58,450
+Rym: they're not like this ancient thing.
+
+681
+00:52:58,610 --> 00:53:00,576
+Rym: That's like always existed for a good purpose.
+
+682
+00:53:00,616 --> 00:53:02,401
+Scott: credit cards aren't that old.
+
+683
+00:53:02,481 --> 00:53:12,570
+Rym: the first Diners Club card was in what the 70s or the 80s And that like even I remember like before credit cards there were charge cards Like we had a charge card at service merchandise.
+
+684
+00:53:13,051 --> 00:53:13,914
+Rym: You might hear that phrase.
+
+685
+00:53:14,335 --> 00:53:16,943
+Rym: old people sometimes say charge card when they mean credit card.
+
+686
+00:53:17,304 --> 00:53:19,250
+Rym: charge card is a different kind of thing.
+
+687
+00:53:19,693 --> 00:53:20,399
+Rym: Charge cards.
+
+688
+00:53:20,661 --> 00:53:25,870
+Rym: you can go into debt During the month, but at the end of the month, you have to settle your debt back to zero.
+
+689
+00:53:26,231 --> 00:53:27,596
+Rym: You can't carry a balance.
+
+690
+00:53:27,897 --> 00:53:29,724
+Rym: You have to pay the entire thing.
+
+691
+00:53:30,065 --> 00:53:31,250
+Rym: They were just a convenience.
+
+692
+00:53:32,731 --> 00:53:40,630
+Rym: but credit scores didn't appear until the 70s and Didn't become what we know today until the 90s like not that long ago.
+
+693
+00:53:40,710 --> 00:53:41,212
+Rym: I say that.
+
+694
+00:53:41,272 --> 00:53:46,270
+Scott: but the 90s or as long 90s is when they added the loyalty programs, right?
+
+695
+00:53:46,450 --> 00:53:50,630
+Rym: But the night the 90s are as long ago two kids today is like the 50s and 60s were to us.
+
+696
+00:53:50,911 --> 00:54:00,969
+Scott: Yeah, but in the olden days like the original ones it would basically like, you know There were cards you could get say like in the 50s, you know Like I said the Diners Club one.
+
+697
+00:54:01,431 --> 00:54:06,504
+Scott: But those were more like just having a tab at a local business because that people did.
+
+698
+00:54:06,544 --> 00:54:09,313
+Scott: they had tabs at like the grocery store In their town.
+
+699
+00:54:09,454 --> 00:54:17,930
+Scott: Yeah where they would just go in and get groceries and at the end of the month They would go or whatever at the grocery person to be like, okay all the groceries you got this month.
+
+700
+00:54:17,950 --> 00:54:18,775
+Scott: I've been keeping track.
+
+701
+00:54:18,796 --> 00:54:28,589
+Scott: you owe me this much money now, right and The earliest credit cards were just those tabs sort of formalized into a you know, more general system.
+
+702
+00:54:28,649 --> 00:54:39,460
+Rym: Yep But if you have a low credit score, you're also fucked in America Like banks won't give you loans credit card companies won't give you credit cards.
+
+703
+00:54:39,861 --> 00:54:47,425
+Rym: so yeah leads to the catch-22 of you have bad credit and the only way to get good credit is to Have and use credit.
+
+704
+00:54:47,826 --> 00:54:51,659
+Rym: but no one will give you credit because you have bad credit and you're just fucked.
+
+705
+00:54:53,210 --> 00:55:04,909
+Rym: yep, so my advice is get a credit card as soon as you legally can and Always pay it off And don't spend more than you can afford on it.
+
+706
+00:55:05,310 --> 00:55:08,037
+Rym: and that will slowly build up your credit rating.
+
+707
+00:55:08,378 --> 00:55:12,839
+Rym: and that's a number That is very important If you ever want to buy a house or buy a car.
+
+708
+00:55:13,302 --> 00:55:16,300
+Rym: The higher that number is the lower interest you'll pay on your car loan.
+
+709
+00:55:16,621 --> 00:55:19,840
+Rym: The lower that number is the higher interest you'll pay on your car loan.
+
+710
+00:55:19,981 --> 00:55:22,560
+Scott: Once again, it should be easier to do this nowadays.
+
+711
+00:55:22,701 --> 00:55:25,754
+Scott: Like when I was you know, I had to like keep track of it like that.
+
+712
+00:55:25,975 --> 00:55:26,658
+Scott: It was difficult.
+
+713
+00:55:26,718 --> 00:55:29,439
+Scott: nowadays You could just have an app on your phone.
+
+714
+00:55:29,821 --> 00:55:31,087
+Scott: Maybe it's even the same app.
+
+715
+00:55:31,127 --> 00:55:33,880
+Scott: if you get a credit card from your bank, it'll be the same app.
+
+716
+00:55:33,920 --> 00:55:40,149
+Scott: You can open the app and you can see how much money's in my chain account What's my credit card balance and then you just subtract.
+
+717
+00:55:40,670 --> 00:55:50,360
+Scott: and as long as the credit card balance number is lower than the checking account Number, you know, you can use a credit card to buy that much stuff and don't go over that number.
+
+718
+00:55:50,500 --> 00:55:51,786
+Rym: What's my credit score right now?
+
+719
+00:55:51,826 --> 00:55:53,091
+Rym: I'm actually gonna look it up.
+
+720
+00:55:53,171 --> 00:55:55,380
+Scott: Mine's like eight way is basically like maxed out.
+
+721
+00:55:55,420 --> 00:55:59,226
+Scott: It's not completely maxed out, but it's like, you know Now the max is 850.
+
+722
+00:55:59,226 --> 00:56:01,402
+Rym: So 850 I'm 800 something.
+
+723
+00:56:01,422 --> 00:56:01,843
+Rym: Oh, you know what?
+
+724
+00:56:01,863 --> 00:56:02,906
+Scott: You know why it's 830 instead of higher?
+
+725
+00:56:08,160 --> 00:56:10,528
+Rym: Because my oldest line of credit could be older.
+
+726
+00:56:10,568 --> 00:56:14,060
+Rym: I'm only in my 40s like and I've never had a mortgage.
+
+727
+00:56:14,465 --> 00:56:15,420
+Rym: Those are the two factors.
+
+728
+00:56:15,742 --> 00:56:18,480
+Scott: That's why I'm sure if I got a mortgage and paid it off that it would go.
+
+729
+00:56:18,540 --> 00:56:21,219
+Rym: I've only had two car loans in my life and I've never had a mortgage.
+
+730
+00:56:22,001 --> 00:56:26,717
+Scott: I've also only had one car loan that I completely paid off and I haven't had another car since.
+
+731
+00:56:26,918 --> 00:56:30,510
+Scott: so But yeah because for me it's like I have money.
+
+732
+00:56:30,530 --> 00:56:36,910
+Scott: I'm very fortunate compared to most people on earth But yet not wealthy to the point where debt is.
+
+733
+00:56:37,251 --> 00:56:38,735
+Scott: the bank will buy me free stuff.
+
+734
+00:56:38,775 --> 00:56:51,100
+Rym: debt is still a burden to avoid yep, so other than that, the only other advice I have for you on debt is We live in a fucked up capitalist society and there's not a lot we can do about it.
+
+735
+00:56:51,240 --> 00:57:09,140
+Rym: So if you have to live in a broken game and you can't escape the game Then you at least need to understand the rules of how the game works so you can navigate them Successfully to the best of your ability while simultaneously trying to figure out how to either escape the game or change the rules.
+
+736
+00:57:11,281 --> 00:57:12,464
+Rym: Like don't opt out.
+
+737
+00:57:12,745 --> 00:57:16,336
+Rym: opt saying you're opting out of the game just means the evil people win.
+
+738
+00:57:16,396 --> 00:57:17,820
+Rym: like debt will never get better.
+
+739
+00:57:17,840 --> 00:57:22,060
+Rym: It'll only get worse if you choose not to get a credit card because you're mad at capitalism.
+
+740
+00:57:22,543 --> 00:57:33,099
+Rym: It's just gonna make your life worse and it's not gonna change the system Just like if you choose not to vote for a Democrat because you don't think they're perfect That just means the evil people win and nothing's going to get better.
+
+741
+00:57:33,381 --> 00:57:34,705
+Scott: you can't imagine your plan.
+
+742
+00:57:34,925 --> 00:57:41,731
+Scott: imagine you're playing Monopoly and you're right and someone you're sitting with just reaches into the bank and grabs all The 500s and puts it in front of themselves.
+
+743
+00:57:41,851 --> 00:57:43,299
+Scott: It's like well, what can you do?
+
+744
+00:57:43,520 --> 00:57:45,929
+Scott: Well, hopefully there would be somebody there to be like.
+
+745
+00:57:46,491 --> 00:57:48,318
+Scott: no, this is a Monopoly tournament.
+
+746
+00:57:48,338 --> 00:57:48,980
+Scott: You're disqualified.
+
+747
+00:57:49,100 --> 00:57:49,783
+Scott: You can't do that.
+
+748
+00:57:50,265 --> 00:57:53,176
+Scott: But if there's no such person, what are you gonna do?
+
+749
+00:57:53,618 --> 00:57:58,648
+Scott: You could a Like try to fight with them But you can't make them put it back.
+
+750
+00:57:58,688 --> 00:58:01,440
+Rym: and if what if they also have a gun and they're pointing it at you like you?
+
+751
+00:58:01,560 --> 00:58:06,160
+Rym: Writing them directly is not going to work out for you and it's not gonna change anything, right?
+
+752
+00:58:06,240 --> 00:58:08,427
+Scott: so it's like they're cheating and you can't win.
+
+753
+00:58:08,468 --> 00:58:25,354
+Scott: if they're cheating the only thing you can do in that situation is to either a not play in which case only cheaters are playing and a cheater is going to win or you could reach your hand into that bank and grab some money for yourself and At least maybe you'll beat the cheater that way.
+
+754
+00:58:25,515 --> 00:58:30,739
+Scott: and if you beat them Right, then now you'll have some power to maybe do something about them.
+
+755
+00:58:36,262 --> 00:58:39,032
+Rym: This has been GeekNights with Rym and Scott special.
+
+756
+00:58:39,072 --> 00:58:41,220
+Rym: Thanks to DJ pretzel for the opening theme.
+
+757
+00:58:41,400 --> 00:58:43,728
+Scott: Be sure to visit our website at front row.
+
+758
+00:58:43,768 --> 00:58:47,420
+Scott: clue calm for show notes discussion links and more.
+
+759
+00:58:47,902 --> 00:58:50,559
+Rym: Remember GeekNights is not one but four different shows.
+
+760
+00:58:50,881 --> 00:58:54,350
+Rym: Mondays are science and technology Tuesdays gaming and games.
+
+761
+00:58:54,470 --> 00:58:56,295
+Rym: Wednesdays are animation and comics.
+
+762
+00:58:56,616 --> 00:58:59,123
+Rym: Thursdays are arbitrary and Indiscriminate.
+
+763
+00:58:59,726 --> 00:59:04,704
+Rym: GeekNights is distributed under a Creative Commons attribution 4.0 International license.
+
+764
+00:59:05,106 --> 00:59:09,420
+Scott: GeekNights is recorded live with no studio and no audience.
+
+765
+00:59:09,941 --> 00:59:19,170
+Rym: But unlike those other late shows it's actually recorded at night and the patreon patrons for this episode of the GeekNights podcast are Alan Gage adrenaline center by case care makes music.
+
+766
+00:59:19,190 --> 00:59:23,410
+Rym: Krista not Chris for Clinton Walton Fincher Lace Penny Reimer Rebecca Dunn Sam Erickson.
+
+767
+00:59:23,450 --> 00:59:25,940
+Rym: she run hole in a bunch of people whose names I will not say.
+
+768
+00:59:26,665 --> 00:59:33,695
+Rym: so, uh, yeah, uh I'm curious if anyone listens to these stingers anymore, but I'm just gonna leave you with.
+
+769
+00:59:34,722 --> 00:59:35,265
+Scott: We need water.
+
+770
+00:59:35,285 --> 00:59:37,196
+Rym: humans can go days without water.
+
+771
+00:59:37,437 --> 00:59:40,992
+Rym: So relax That is a hundred percent not true.
+
+772
+00:59:41,012 --> 00:59:42,139
+Scott: Oh, yeah, how long then?
+
+773
+00:59:42,484 --> 00:59:44,843
+Scott: I don't know 19 hours 19.
+
+774
+00:59:44,843 --> 00:59:47,129
+Rym: I've slept 19 hours without water.
+
+775
+00:59:47,149 --> 00:59:49,896
+Scott: You idiot who sleeps that long.
+
+776
+00:59:50,217 --> 00:59:51,240
+Rym: I had a bad day.
+

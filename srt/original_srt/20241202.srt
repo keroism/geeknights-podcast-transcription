@@ -1,0 +1,2664 @@
+﻿1
+00:00:08,380 --> 00:00:09,887
+Speaker 1: It's Monday, December 2nd, 2024.
+
+2
+00:00:09,887 --> 00:00:10,108
+Speaker 1: I'm Rym.
+
+3
+00:00:13,660 --> 00:00:13,915
+Speaker 0: Who's got?
+
+4
+00:00:14,260 --> 00:00:15,268
+Speaker 1: And this is Geek Nights.
+
+5
+00:00:15,308 --> 00:00:16,899
+Speaker 1: Tonight we're talking about blogs.
+
+6
+00:00:17,720 --> 00:00:18,678
+Speaker 0: Let's do this.
+
+7
+00:00:19,420 --> 00:00:21,619
+Speaker 1: So, uh, there's something on Sunday that I've never done in my life.
+
+8
+00:00:21,820 --> 00:00:26,640
+Speaker 1: Despite being a big skier, I have never gone to a mountain on the day that it has opened before.
+
+9
+00:00:28,352 --> 00:00:28,735
+Speaker 0: Uh... Okay.
+
+10
+00:00:29,181 --> 00:00:31,480
+Speaker 0: Usually because- I mean, opened for the season or opened period?
+
+11
+00:00:31,620 --> 00:00:33,419
+Speaker 1: Opened for the season, like the first day.
+
+12
+00:00:33,500 --> 00:00:36,980
+Speaker 0: I mean, technically all the mountains opened many years ago.
+
+13
+00:00:37,040 --> 00:00:37,297
+Speaker 0: Oh, millions.
+
+14
+00:00:38,820 --> 00:00:39,009
+Speaker 1: Thousands.
+
+15
+00:00:42,340 --> 00:00:48,719
+Speaker 1: So, uh, we got a bunch of snow because, you know, even though climate change is destroying everything, climate change has caused a polar vortex to come down.
+
+16
+00:00:49,301 --> 00:00:56,160
+Speaker 1: And for the first time in like a decade, the weather in late November is what I remember from my childhood for this time of year.
+
+17
+00:00:56,621 --> 00:01:00,200
+Speaker 1: It's cold, snows, and there's a bunch of snow, so I went skiing.
+
+18
+00:01:00,801 --> 00:01:05,600
+Speaker 1: And I've now seen what it's like to ski at a mountain on day one.
+
+19
+00:01:06,223 --> 00:01:08,940
+Speaker 1: Uh, first, only the hardcore people are there.
+
+20
+00:01:09,642 --> 00:01:13,899
+Speaker 1: They're like, nobody's there who is like, "We ski twice a year with our
+
+21
+00:01:13,919 --> 00:01:14,180
+Speaker 1: kids.".
+
+22
+00:01:14,300 --> 00:01:16,780
+Speaker 1: It's like, everybody there is like ski people.
+
+23
+00:01:17,860 --> 00:01:21,840
+Speaker 1: Uh, two, not many people are there because, like, they don't tweet.
+
+24
+00:01:22,180 --> 00:01:23,980
+Speaker 1: Like, their Twitter doesn't even seem like it works anymore.
+
+25
+00:01:24,140 --> 00:01:27,700
+Speaker 1: And it's not like these mountains mostly know how to use social media, I've found.
+
+26
+00:01:27,880 --> 00:01:31,578
+Speaker 1: So, the only people who even knew they were open were people who check their website every day.
+
+27
+00:01:32,768 --> 00:01:32,956
+Speaker 0: Mm.
+
+28
+00:01:33,622 --> 00:01:38,060
+Speaker 1: Uh, but three, they only had one trail open from top to bottom.
+
+29
+00:01:38,200 --> 00:01:39,019
+Speaker 1: Everything else was closed.
+
+30
+00:01:39,720 --> 00:01:43,260
+Speaker 0: And that trail, because of the-- So you just go up to the same exact trail over and over.
+
+31
+00:01:43,440 --> 00:01:43,508
+Speaker 0: Yep.
+
+32
+00:01:44,120 --> 00:01:49,900
+Speaker 1: Which is fine, because that trail, uh, was expert level terrain only.
+
+33
+00:01:50,061 --> 00:01:52,300
+Speaker 1: And in fact, they were running the snow guns all day.
+
+34
+00:01:52,661 --> 00:02:06,419
+Speaker 1: So there's one trail, and this trail is absolutely covered in texture and moguls, to the point that, uh, after about an hour, almost everyone stopped skiing, because it was too hard for them to ski.
+
+35
+00:02:07,180 --> 00:02:10,199
+Speaker 1: And I basically had the trail to myself.
+
+36
+00:02:10,919 --> 00:02:13,040
+Speaker 0: I skied so much-- They didn't put snow on, like, the bunny hill?
+
+37
+00:02:13,480 --> 00:02:15,100
+Speaker 1: No, no, they didn't have enough snow anywhere.
+
+38
+00:02:15,560 --> 00:02:19,020
+Speaker 0: Because even with all that snow that fell-- It's cold, it's just not snowing.
+
+39
+00:02:19,420 --> 00:02:23,600
+Speaker 1: Even with all that snow that fell, that's not enough for skiing, like, in the old days.
+
+40
+00:02:23,921 --> 00:02:26,480
+Speaker 1: So, they've been blowing snow on top of all that snow.
+
+41
+00:02:26,782 --> 00:02:29,078
+Speaker 1: And they can only blow snow in so many parts of the mountain at one time.
+
+42
+00:02:30,440 --> 00:02:34,820
+Speaker 0: Wouldn't you blow the snow on the trail that most people can do to please your customers?
+
+43
+00:02:35,342 --> 00:02:37,969
+Speaker 1: Yeah, so the most popular trail-- So the two biggest trails.
+
+44
+00:02:38,069 --> 00:02:44,560
+Speaker 1: at Hunter Mountain, there's one called Hell Gate, which is the Black Diamond, which is the one they had open, and it is, like, the default trail down.
+
+45
+00:02:44,620 --> 00:02:46,480
+Speaker 1: It's kind of like the best trail, it's the Black Diamond.
+
+46
+00:02:47,022 --> 00:02:55,079
+Speaker 1: And the other trail that's the most popular, the second most popular, is called the Belt Parkway, which is kind of a joke, because it's famous for little kids crashing into you.
+
+47
+00:02:55,562 --> 00:02:58,560
+Speaker 1: It's a blue trail that, like, people who aren't experts can ski.
+
+48
+00:02:59,120 --> 00:03:03,760
+Speaker 1: And as a result, it's the only blue trail that goes from the top of the big mountain to the bottom.
+
+49
+00:03:04,300 --> 00:03:11,095
+Speaker 1: So, pretty much every dipsh*t who doesn't know how to ski in the world is on that trail, and you will get run into by a sh*tty snowboarder.
+
+50
+00:03:11,236 --> 00:03:11,699
+Speaker 1: Guaranteed.
+
+51
+00:03:12,481 --> 00:03:13,240
+Speaker 1: It's so crowded.
+
+52
+00:03:14,440 --> 00:03:15,660
+Speaker 0: So... That makes sense.
+
+53
+00:03:15,963 --> 00:03:16,077
+Speaker 0: Yeah.
+
+54
+00:03:16,420 --> 00:03:23,260
+Speaker 1: So, it seems like they assume that the people who are going to open in a day are going to be the people who care about the good trail, so they only had that trail open instead.
+
+55
+00:03:23,722 --> 00:03:25,068
+Speaker 1: But I did see why.
+
+56
+00:03:25,088 --> 00:03:32,239
+Speaker 1: I bet they wanted to have the Belt Parkway also open, but I could see the Belt Parkway had snow, and they were blowing snow on it.
+
+57
+00:03:32,681 --> 00:03:36,880
+Speaker 1: But there is one section, maybe like 100 feet long, where I could see dirt.
+
+58
+00:03:38,381 --> 00:03:41,858
+Speaker 1: So, they clearly did not have enough coverage to open it even if they wanted to.
+
+59
+00:03:43,001 --> 00:03:48,079
+Speaker 1: And they were blowing snow, like all the snowblowers near that patch of dirt were running full blast the whole day.
+
+60
+00:03:49,040 --> 00:03:50,060
+Speaker 0: What was happening to the snow?
+
+61
+00:03:50,120 --> 00:03:53,118
+Speaker 0: There was like a snow monster eating all the snow in one spot where the dirt was?
+
+62
+00:03:53,560 --> 00:03:57,160
+Speaker 1: I feel like it just might be a spot where for whatever reason the other guns don't reach.
+
+63
+00:03:57,421 --> 00:03:57,840
+Speaker 1: Like, I don't know.
+
+64
+00:03:58,181 --> 00:04:00,960
+Speaker 1: I don't know the current state of the art on how 100 Mountain blows snow.
+
+65
+00:04:01,060 --> 00:04:07,360
+Speaker 0: I feel like you should have some snow guns that have a hose so somebody can manually go around and blast the snow in the spots where it needs to be.
+
+66
+00:04:07,360 --> 00:04:08,148
+Speaker 1: Oh, they can do that too.
+
+67
+00:04:08,208 --> 00:04:16,540
+Speaker 1: So, I'm not going to get into it, but the way snowblowing works at modern mountains... 100 Mountain was actually the first mountain in North America to have full snowblowing coverage.
+
+68
+00:04:17,101 --> 00:04:18,219
+Speaker 1: That was kind of their deal.
+
+69
+00:04:18,725 --> 00:04:20,160
+Speaker 1: And this is their 65th anniversary.
+
+70
+00:04:20,600 --> 00:04:23,960
+Speaker 1: So, the mountain, they actually like, if you go there, they talk a lot about their snowmaking.
+
+71
+00:04:24,480 --> 00:04:32,060
+Speaker 1: Basically, you'll have big permanent guns that can be aimed that cover huge areas that are like operated remotely usually on schedules.
+
+72
+00:04:32,721 --> 00:04:35,460
+Speaker 1: Then you have other guns that are operated manually.
+
+73
+00:04:35,620 --> 00:04:38,260
+Speaker 1: Like, they can turn them on and turn them off, but they're like, they're not fancy.
+
+74
+00:04:38,481 --> 00:04:42,780
+Speaker 1: Like, if the weather changes, you got to go and turn it off or it's going to just like throw water everywhere.
+
+75
+00:04:43,422 --> 00:04:48,200
+Speaker 1: And then they have portable guns on little tripods that they can set up to spot cover a specific area.
+
+76
+00:04:48,500 --> 00:04:49,358
+Speaker 1: Like a sprinkler almost.
+
+77
+00:04:51,280 --> 00:04:55,820
+Speaker 0: I kind of want to have like a concert and then just spray snow on people.
+
+78
+00:04:56,140 --> 00:04:59,440
+Speaker 1: That would actually be pretty cool and you could do it like they were running the guns while we were skiing.
+
+79
+00:04:59,580 --> 00:05:01,793
+Speaker 0: You never see anyone use a snow gun anywhere.
+
+80
+00:05:01,813 --> 00:05:02,356
+Speaker 0: that doesn't belong.
+
+81
+00:05:03,800 --> 00:05:05,217
+Speaker 0: But it's like, what's stopping you?
+
+82
+00:05:06,923 --> 00:05:09,460
+Speaker 0: You just need electricity, the machine, and water.
+
+83
+00:05:09,822 --> 00:05:10,000
+Speaker 0: Right.
+
+84
+00:05:10,140 --> 00:05:10,959
+Speaker 0: You don't need anything else.
+
+85
+00:05:12,201 --> 00:05:18,860
+Speaker 1: So it has to be a certain humidity and below a certain temperature, but above a certain temperature for these things to operate.
+
+86
+00:05:20,701 --> 00:05:23,700
+Speaker 0: Yeah, but I mean, if you're just out on the street and it's cold out.
+
+87
+00:05:23,882 --> 00:05:24,619
+Speaker 1: Yeah, it would totally work.
+
+88
+00:05:24,920 --> 00:05:28,479
+Speaker 1: You could have one in New York City just like blowing snow into the into the parkway if you want.
+
+89
+00:05:29,020 --> 00:05:29,677
+Speaker 0: That's what I'm saying.
+
+90
+00:05:32,144 --> 00:05:32,900
+Speaker 1: It's like a Care Bears.
+
+91
+00:05:32,920 --> 00:05:33,564
+Speaker 0: I've never seen one.
+
+92
+00:05:33,625 --> 00:05:35,175
+Speaker 0: I've never seen one used anywhere.
+
+93
+00:05:35,256 --> 00:05:35,900
+Speaker 0: it doesn't belong.
+
+94
+00:05:36,604 --> 00:05:37,800
+Speaker 0: But there's no reason you couldn't.
+
+95
+00:05:37,820 --> 00:05:45,140
+Speaker 0: You could have like, if it's just really cold, there's no reason you couldn't have like football game with intentional snow for fun.
+
+96
+00:05:45,320 --> 00:05:46,197
+Speaker 1: That would be amazing.
+
+97
+00:05:47,200 --> 00:05:51,780
+Speaker 0: Right, instead of having it be like, oh no, it snowed during the football game, we get an exciting time.
+
+98
+00:05:51,881 --> 00:05:53,300
+Speaker 0: It's like, let's do it on purpose.
+
+99
+00:05:53,782 --> 00:05:55,273
+Speaker 1: That would be absolutely amazing.
+
+100
+00:05:55,313 --> 00:05:56,260
+Speaker 1: It's like in Smash Brothers.
+
+101
+00:05:57,101 --> 00:06:01,220
+Speaker 0: It's even better because the spectators don't need to get snowed on, only the football.
+
+102
+00:06:02,822 --> 00:06:04,029
+Speaker 0: You can see everything great.
+
+103
+00:06:04,089 --> 00:06:05,598
+Speaker 0: It's just that they're falling down in the...
+
+104
+00:06:05,980 --> 00:06:10,080
+Speaker 1: But the second thing, and it made me realize something, there's a kind of review I like.
+
+105
+00:06:10,320 --> 00:06:13,279
+Speaker 1: Like there's only one kind of review I actually use in my real life.
+
+106
+00:06:14,321 --> 00:06:24,000
+Speaker 1: And that review is when an expert on the thing reviews how an expert will use the thing from their own subjective personal experience.
+
+107
+00:06:24,621 --> 00:06:28,520
+Speaker 1: Like not the stats, because you know, I bought new skis and I haven't used them until yesterday.
+
+108
+00:06:29,403 --> 00:06:38,980
+Speaker 1: And I did a lot of research and all these reviewers have like these rankings of like, this ski has an 88 out of 100 in playfulness versus stiffness and all these like nonsense.
+
+109
+00:06:40,584 --> 00:06:42,620
+Speaker 1: A lot of reviewers are just bullshit, like all reviewers.
+
+110
+00:06:42,920 --> 00:06:56,020
+Speaker 1: But I did find two ski patrol guys, different unrelated guys who did reviews of skis, and their reviews were like, here's my deal, here's how I ski, here is my professional opinion on these skis.
+
+111
+00:06:56,782 --> 00:07:03,760
+Speaker 1: And that is actually, those two guys both recommended the same specific ski for specific reasons they could articulate.
+
+112
+00:07:04,061 --> 00:07:05,338
+Speaker 1: And I have now tried that ski.
+
+113
+00:07:06,061 --> 00:07:14,260
+Speaker 1: And it's a ski that is designed for what I would characterize as the shitty conditions typical of northeastern ski resorts.
+
+114
+00:07:15,002 --> 00:07:16,289
+Speaker 1: Like, are you skiing on shit?
+
+115
+00:07:16,691 --> 00:07:18,220
+Speaker 1: These skis are designed for shit.
+
+116
+00:07:19,040 --> 00:07:19,623
+Speaker 1: And you know what?
+
+117
+00:07:20,226 --> 00:07:23,200
+Speaker 1: God damn, they can ski on some shit really well.
+
+118
+00:07:23,441 --> 00:07:25,912
+Speaker 1: Like, I am actually really impressed with these skis.
+
+119
+00:07:26,515 --> 00:07:27,540
+Speaker 1: They're kind of amazing.
+
+120
+00:07:28,081 --> 00:07:28,898
+Speaker 1: Anyway, got any news?
+
+121
+00:07:30,401 --> 00:07:31,786
+Speaker 0: There's a bunch of news going on.
+
+122
+00:07:31,806 --> 00:07:35,940
+Speaker 0: It's actually a news I forgot to send you, because it's incredibly recent.
+
+123
+00:07:37,380 --> 00:07:39,687
+Speaker 0: Roblox, the biggest game in the world.
+
+124
+00:07:39,747 --> 00:07:51,260
+Speaker 0: as far as we can tell, they are adding two Roblox, like built into the game, a basically Discord competitor that would only be for Roblox people.
+
+125
+00:07:52,425 --> 00:07:53,772
+Speaker 1: Ah, you know what that reminds me of?
+
+126
+00:07:54,255 --> 00:07:54,979
+Speaker 1: Tribes too.
+
+127
+00:07:56,380 --> 00:08:01,139
+Speaker 0: Yeah, so that'll be interesting I guess, because even Fortnite doesn't have that.
+
+128
+00:08:03,780 --> 00:08:07,559
+Speaker 0: Most people are trying, you know, so it's like, I don't know what's going to happen in there.
+
+129
+00:08:08,860 --> 00:08:11,760
+Speaker 0: It says it's only going to be for people who are 13 and older.
+
+130
+00:08:12,540 --> 00:08:13,017
+Speaker 1: Of course it is.
+
+131
+00:08:14,764 --> 00:08:17,660
+Speaker 0: We'll see how pedophiles make use of this thing.
+
+132
+00:08:17,740 --> 00:08:19,214
+Speaker 0: I guess in Australia it'll have to be 16 and over.
+
+133
+00:08:19,960 --> 00:08:29,060
+Speaker 0: It's not 18 plus, it's 13 plus, so all the 13 to 18 year olds are going to be, assuming that, you know, come on, people under 13 are going to get in there, right?
+
+134
+00:08:30,241 --> 00:08:43,200
+Speaker 0: But assuming that even if they don't, you know, you got a bunch of 13 to 17 year olds who are going to be available for chatting and voice chatting inside of Roblox.
+
+135
+00:08:44,741 --> 00:08:54,479
+Speaker 1: It's, uh, I mean, unfortunately I see this as yet one more example of a platform that wants people to stay in the platforms, they can monetize.
+
+136
+00:08:54,920 --> 00:09:10,959
+Speaker 0: Exactly, they don't want people using out of, you know, it's like, you know, those people, if they really have the need to chat, would have gone to an outside place and Roblox is like, ah, we could bring them in, but it's like, well now, but there's also people who weren't chatting at all who are now suddenly going to, or just in Roblox all the time.
+
+137
+00:09:11,120 --> 00:09:12,727
+Speaker 1: My employees got to buy food.
+
+138
+00:09:12,848 --> 00:09:20,678
+Speaker 1: What if I just sold them food right in the factory so they didn't even have to leave and then I gave them an apartment in the factory and then I paid them in Roblox.
+
+139
+00:09:21,880 --> 00:09:27,878
+Speaker 0: Yeah, anyway, well, you know, I'm not, uh, I don't think this is going to go too great for the, yeah, we'll see.
+
+140
+00:09:28,461 --> 00:09:35,755
+Speaker 1: I, uh, I guess, you know, in terms of like a demographic to go after that is a demographic I wouldn't want to bother with as a product manager.
+
+141
+00:09:35,815 --> 00:09:45,819
+Speaker 1: Like I just wouldn't, Oh my God, Polygon even described Hindenburg research and investment firm that focuses on social activism described Roblox as a quote pedophile hellscape.
+
+142
+00:09:46,785 --> 00:09:47,616
+Speaker 0: Yeah, pretty much.
+
+143
+00:09:51,603 --> 00:09:52,827
+Speaker 0: So in other news, right?
+
+144
+00:09:53,850 --> 00:09:56,980
+Speaker 0: Intel has been meh lately, right?
+
+145
+00:09:57,120 --> 00:10:01,339
+Speaker 0: You know, they had, you know, they, they resolved it, but they had an issue with their CPU's.
+
+146
+00:10:01,881 --> 00:10:06,199
+Speaker 0: The AMD is beating them on the price performance ratios yet again.
+
+147
+00:10:07,081 --> 00:10:13,708
+Speaker 0: Um, they've had a lot of, uh, you know, organizational failures as well, right?
+
+148
+00:10:13,789 --> 00:10:19,572
+Speaker 0: They don't seem to be moving forwards rapidly in terms of their product, uh, and such.
+
+149
+00:10:20,435 --> 00:10:22,524
+Speaker 0: Um, but there's two newses about Intel.
+
+150
+00:10:23,528 --> 00:10:29,694
+Speaker 0: One, the US government gave them uh, like $8 billion almost.
+
+151
+00:10:29,814 --> 00:10:33,347
+Speaker 0: Um, it was, they were going to give me eight and a half.
+
+152
+00:10:33,408 --> 00:10:37,204
+Speaker 0: I think it went down to like 7.8, but it's basically eight, just billion dollars.
+
+153
+00:10:37,807 --> 00:10:45,496
+Speaker 0: Plus that doesn't, I don't think that includes a Pentagon contract so that the $8 billion was like a gift basically.
+
+154
+00:10:45,516 --> 00:10:47,846
+Speaker 0: Just like a subsidy, like a corn subsidy.
+
+155
+00:10:47,866 --> 00:10:49,171
+Speaker 0: They just gave money to Intel.
+
+156
+00:10:49,212 --> 00:10:53,449
+Speaker 0: It's like, bro, how many houses for almost people could you have built with just $8 billion?
+
+157
+00:10:54,433 --> 00:10:55,558
+Speaker 0: Um, just giving it out.
+
+158
+00:10:55,699 --> 00:10:58,028
+Speaker 0: The government printed the money and just gave it to Intel.
+
+159
+00:10:58,731 --> 00:11:07,667
+Speaker 0: Um, and also, uh, the Pentagon gave them a $3 billion contract basically to, you know, to purchase things, you know, chips.
+
+160
+00:11:07,707 --> 00:11:11,522
+Speaker 1: And a big part of this is broadly, uh, the United States as an institution.
+
+161
+00:11:11,824 --> 00:11:25,540
+Speaker 1: And, uh, let's ignore the fact that with the fascist coming into power, a lot of this might change has seen for a long time the danger of the fact that basically all our ships are made overseas in places that are easily invented by Taiwan or by China as in Taiwan.
+
+162
+00:11:26,461 --> 00:11:26,682
+Speaker 0: Yes.
+
+163
+00:11:27,887 --> 00:11:40,136
+Speaker 0: Uh, and so yeah, part of this, you know, gift of printed money, uh, basically has Intel promising to like, you know, make the chips in the United States with US workers and so, right.
+
+164
+00:11:40,156 --> 00:11:48,328
+Speaker 0: So it's really a gift to, you know, the people that Intel is going to buy equipment from the employees of Intel, right?
+
+165
+00:11:48,689 --> 00:11:57,404
+Speaker 0: You know, that, you know, but also to the executives of Intel, Intel will choose how to distribute that $8 billion.
+
+166
+00:11:57,846 --> 00:12:00,938
+Speaker 0: Um, but they have to use it in certain ways, right?
+
+167
+00:12:00,958 --> 00:12:03,729
+Speaker 0: They can't use it to build a factory in another country.
+
+168
+00:12:03,890 --> 00:12:06,661
+Speaker 0: that would, they would be in trouble if they did that.
+
+169
+00:12:06,722 --> 00:12:06,882
+Speaker 0: Right.
+
+170
+00:12:07,003 --> 00:12:09,011
+Speaker 0: Um, so that's interesting.
+
+171
+00:12:09,031 --> 00:12:19,133
+Speaker 0: Uh, what's also interesting is that just a week or, you know, so after that news, the CEO of Intel, Pat Gelsinger, uh, retired like, all right, peace.
+
+172
+00:12:19,193 --> 00:12:20,519
+Speaker 0: I got the, I got the 8 billion guys.
+
+173
+00:12:21,660 --> 00:12:22,263
+Speaker 0: We're good.
+
+174
+00:12:23,147 --> 00:12:25,316
+Speaker 0: I did a job, job mission accomplished.
+
+175
+00:12:26,020 --> 00:12:27,706
+Speaker 0: Uh, let me get off the sinking ship.
+
+176
+00:12:27,887 --> 00:12:28,509
+Speaker 0: Good, good luck.
+
+177
+00:12:29,072 --> 00:12:30,076
+Speaker 0: Um, yeah.
+
+178
+00:12:30,116 --> 00:12:34,031
+Speaker 1: Now will he take another stupid job or will he just go to the beach?
+
+179
+00:12:34,091 --> 00:12:37,104
+Speaker 1: Cause I'm always fascinated by people who don't just go to the beach when they have money.
+
+180
+00:12:37,124 --> 00:12:40,357
+Speaker 0: I don't know how old that, uh, Pat Gelsinger.
+
+181
+00:12:40,377 --> 00:12:43,469
+Speaker 1: I mean, if I had money when I was 17, I would have gone to the beach.
+
+182
+00:12:44,774 --> 00:12:45,798
+Speaker 0: Yeah, but you know.
+
+183
+00:12:49,140 --> 00:12:51,920
+Speaker 0: Pat Gelsinger is 63.
+
+184
+00:12:51,920 --> 00:12:55,135
+Speaker 0: So he can retire, normal-ish retirement age.
+
+185
+00:12:55,155 --> 00:13:02,223
+Speaker 0: It's like, you know, that's actually sort of normal person, retirement age, you know, 65, 63, 65.
+
+186
+00:13:02,223 --> 00:13:04,194
+Speaker 1: It's going to get pushed up a lot.
+
+187
+00:13:04,536 --> 00:13:05,220
+Speaker 1: Mark my words.
+
+188
+00:13:06,280 --> 00:13:06,682
+Speaker 0: We'll see.
+
+189
+00:13:07,123 --> 00:13:15,195
+Speaker 0: Um, but yeah, it's, you know, even it's where even me, someone who has always been like, yeah, if you're going to make a PC, you got to get the Intel one.
+
+190
+00:13:15,215 --> 00:13:20,395
+Speaker 0: You can't trust those AMDs, especially since, you know, 20 years ago and they were AMDs were just setting on fire.
+
+191
+00:13:20,696 --> 00:13:21,540
+Speaker 0: I could never trust them.
+
+192
+00:13:21,881 --> 00:13:35,173
+Speaker 0: And even today, especially the GPUs, I think today more than the CPUs, I see people like, you know, anyone I know with an AMD GPU, they just, they have all kinds of restarting low level problems with their video games.
+
+193
+00:13:35,495 --> 00:13:47,986
+Speaker 1: Like, yeah, but also honestly, all my friends, uh, who I've helped with computers, the ones who have had the most hardware problems are running all AMD and the people who have had zero problems are all running Intel.
+
+194
+00:13:48,809 --> 00:13:48,990
+Speaker 0: Yep.
+
+195
+00:13:49,733 --> 00:13:58,488
+Speaker 0: Uh, but I would like to point out, if you go to the steam hardware survey, which is, I was reminded of it again because it popped up and said, hey, do you want to submit to the steam hardware survey?
+
+196
+00:13:59,251 --> 00:14:05,256
+Speaker 0: But I was like, oh yeah, that's a useful place to look at like what kind of PC computers people have, at least gamers have.
+
+197
+00:14:05,959 --> 00:14:19,954
+Speaker 0: And uh, right now in terms of people who have steam, uh, CPUs, which I believe are, you know, those arm ones.
+
+198
+00:14:19,974 --> 00:14:23,688
+Speaker 0: Uh, I think that's what the, I think that's what that is.
+
+199
+00:14:24,652 --> 00:14:26,178
+Speaker 0: Um, or it could be something else.
+
+200
+00:14:26,218 --> 00:14:26,660
+Speaker 0: I don't even know.
+
+201
+00:14:26,720 --> 00:14:33,206
+Speaker 1: That's why I can't get any of these new Microsoft laptops cause they're all, they all got Snapdragon chips and uh, the Adobe stuff doesn't run on those.
+
+202
+00:14:35,114 --> 00:14:35,254
+Speaker 0: Yeah.
+
+203
+00:14:35,274 --> 00:14:36,499
+Speaker 0: I don't know what that means.
+
+204
+00:14:36,560 --> 00:14:40,817
+Speaker 0: if you have a Microsoft XTA CPU, maybe it's like a virtual machine or something.
+
+205
+00:14:40,837 --> 00:14:41,278
+Speaker 0: I don't even know.
+
+206
+00:14:42,061 --> 00:14:44,587
+Speaker 0: Um, that 35.71% have AMD and 64.23% have Intel.
+
+207
+00:14:49,760 --> 00:14:50,302
+Speaker 0: Right.
+
+208
+00:14:50,423 --> 00:14:51,527
+Speaker 0: But that's it.
+
+209
+00:14:51,567 --> 00:14:52,370
+Speaker 0: That's in November.
+
+210
+00:14:52,993 --> 00:14:55,060
+Speaker 0: Now that sounds like, oh, it's like 65, 35.
+
+211
+00:14:55,060 --> 00:14:55,664
+Speaker 0: Intel is favored.
+
+212
+00:14:55,685 --> 00:14:56,672
+Speaker 0: Right.
+
+213
+00:14:57,960 --> 00:15:08,864
+Speaker 0: But if you look at the change right since I think July, no, no, maybe not even since July, since, uh, since October, right.
+
+214
+00:15:09,265 --> 00:15:14,552
+Speaker 0: Just over the one month there was a minus 2% for Intel, plus 2% for AMD.
+
+215
+00:15:14,975 --> 00:15:20,641
+Speaker 0: Since July, it's more like three to 4% swing like twice as much.
+
+216
+00:15:20,661 --> 00:15:21,665
+Speaker 0: And that's just a few months.
+
+217
+00:15:22,007 --> 00:15:23,453
+Speaker 0: It's like a few percent swing.
+
+218
+00:15:23,513 --> 00:15:34,503
+Speaker 0: It's like at that rate, it will take one to five, take like less than a year for actually AMD to come out over 50%.
+
+219
+00:15:34,503 --> 00:15:37,594
+Speaker 1: So historically what has happened?
+
+220
+00:15:37,614 --> 00:15:48,537
+Speaker 1: in my subjective experiences, AMT has since the K7 era onward busted ahead because they'd be cheap, even if they may or may not have reliability problems.
+
+221
+00:15:49,020 --> 00:15:53,920
+Speaker 1: Uh, and Intel would then basically like the R and D they were doing suddenly leapfrog them.
+
+222
+00:15:54,582 --> 00:15:57,179
+Speaker 1: Uh, and then AMD would like catch up again, be cheaper.
+
+223
+00:15:58,221 --> 00:15:58,823
+Speaker 0: Right.
+
+224
+00:15:58,863 --> 00:16:04,429
+Speaker 0: But if you look, Intel is having all sorts of, you know, organizational problems.
+
+225
+00:16:04,470 --> 00:16:05,519
+Speaker 0: They've had them for years.
+
+226
+00:16:07,702 --> 00:16:14,679
+Speaker 0: They've had so many delays and you know, it's like it's just had, they've been nothing but problems there for like years.
+
+227
+00:16:15,862 --> 00:16:24,657
+Speaker 0: Meanwhile, you look at AMD and it's like, you know, whatever experience you've had with the processors, at least in the news, it's like they're actually moving right along.
+
+228
+00:16:24,717 --> 00:16:26,769
+Speaker 0: Like they're, they're putting out new chips.
+
+229
+00:16:26,869 --> 00:16:30,287
+Speaker 0: The ones they put out are, you know, better than the previous ones.
+
+230
+00:16:30,307 --> 00:16:39,080
+Speaker 0: Um, so, you know, this could be, uh, you know, there's no sign that Intel is like riding the ship, right?
+
+231
+00:16:39,180 --> 00:16:41,389
+Speaker 0: They just got a bunch of money and the CEO left.
+
+232
+00:16:41,409 --> 00:16:44,988
+Speaker 0: So, um, you might say, oh, well they got a bunch of money.
+
+233
+00:16:45,049 --> 00:16:49,211
+Speaker 0: It's like, bro, that money ain't, isn't for making, you know, gamer CPU.
+
+234
+00:16:50,115 --> 00:16:51,239
+Speaker 0: Now it's not what that's for.
+
+235
+00:16:51,721 --> 00:16:59,605
+Speaker 1: If I were going to build a computer right now in December 2nd, 2024, I would still go with an Intel, but yeah, that, that, that may change.
+
+236
+00:16:59,786 --> 00:17:01,034
+Speaker 1: the tides often turn.
+
+237
+00:17:01,577 --> 00:17:01,939
+Speaker 1: We'll see.
+
+238
+00:17:02,541 --> 00:17:06,359
+Speaker 1: But I don't see a future where I would ever consider an AMD GPU.
+
+239
+00:17:06,960 --> 00:17:14,150
+Speaker 1: there would have to be a big change just considering how many problems everyone I know who has AMD GPUs has.
+
+240
+00:17:14,894 --> 00:17:15,114
+Speaker 0: Yeah.
+
+241
+00:17:15,676 --> 00:17:23,397
+Speaker 0: Uh, but you know, there's actually all the, all these shenanigans just make me feel better about going with the absolute best CPU, the Apple CPU.
+
+242
+00:17:25,422 --> 00:17:31,660
+Speaker 1: So a last little thing, uh, uh, blue sky at the, you know, the Twitter replacement is suddenly getting a lot of traction.
+
+243
+00:17:31,761 --> 00:17:33,112
+Speaker 1: Like tons of people are migrating there.
+
+244
+00:17:33,132 --> 00:17:45,519
+Speaker 1: Uh, so I have fully set up all my biz and this is partly related to the main bit, but I can walk you through what I've set up because I like Scott and done investing in other people's platforms.
+
+245
+00:17:46,121 --> 00:17:46,322
+Speaker 0: Yup.
+
+246
+00:17:46,342 --> 00:17:49,960
+Speaker 0: For us, you know, blue sky for however good it may be at the moment.
+
+247
+00:17:50,182 --> 00:17:52,540
+Speaker 0: And it does seem good if that's the thing.
+
+248
+00:17:52,940 --> 00:17:57,332
+Speaker 1: It's basically all the things we liked about Twitter without all the things we didn't like so far.
+
+249
+00:17:57,353 --> 00:18:00,559
+Speaker 0: Um, but it's missing a lot of significant features.
+
+250
+00:18:00,579 --> 00:18:03,336
+Speaker 0: I mean, it doesn't even have decent two factor authentication.
+
+251
+00:18:03,437 --> 00:18:05,520
+Speaker 0: It's really, it's just like really bare bones.
+
+252
+00:18:06,202 --> 00:18:10,978
+Speaker 0: It's a really bare bones Twitter that's trying to do an honest job of moderation.
+
+253
+00:18:11,901 --> 00:18:17,399
+Speaker 0: And I think the thing that benefits at the most really is nothing to do with the software or the organization running it.
+
+254
+00:18:18,001 --> 00:18:27,273
+Speaker 0: It's that the only people who have gone to blue sky are like the hardcore heavy social media user type people.
+
+255
+00:18:28,016 --> 00:18:39,020
+Speaker 0: Um, because blue, it's not like blue sky is out there like Twitter was or like Facebook was trying to attract everyday people like, Hey, just follow a bunch of celebrities guys, right there only.
+
+256
+00:18:39,660 --> 00:18:43,700
+Speaker 0: And so that's why you keep seeing reports of like high engagement numbers.
+
+257
+00:18:43,761 --> 00:18:45,999
+Speaker 0: Like, Hey, I posted a blue sky and I got way more likes.
+
+258
+00:18:46,703 --> 00:18:49,820
+Speaker 1: I did a little reply to like, it's like deep in a thread.
+
+259
+00:18:49,960 --> 00:18:59,968
+Speaker 1: We're like AOC posted something about like drugstores being shitty in New York and like I got more engagement on that like random short reply than like anything I ever got on Twitter.
+
+260
+00:19:00,250 --> 00:19:00,452
+Speaker 0: Right.
+
+261
+00:19:00,532 --> 00:19:04,200
+Speaker 0: That has not, in my opinion, that has nothing to do with blue sky itself.
+
+262
+00:19:04,440 --> 00:19:17,512
+Speaker 0: It has to do with blue sky has taken the very active, you know, people always say that like, Oh yeah, amongst internet users, there's like, you know, the 10% that are doing like all the posting and there's tons and tons of lurkers.
+
+263
+00:19:17,592 --> 00:19:17,874
+Speaker 0: Right.
+
+264
+00:19:18,559 --> 00:19:26,999
+Speaker 0: Uh, and so blue sky is basically just heavily concentrated on like people who are really heavy users, right?
+
+265
+00:19:27,520 --> 00:19:32,705
+Speaker 0: You are very engaged and reading lots of news and all that sort of thing and talking a lot.
+
+266
+00:19:32,745 --> 00:19:32,926
+Speaker 1: Yeah.
+
+267
+00:19:33,027 --> 00:19:34,475
+Speaker 1: And talking to each other a lot.
+
+268
+00:19:34,515 --> 00:19:39,160
+Speaker 1: Like people who spawn, you know, like you, any of you who followed me on Twitter, I was one of those people.
+
+269
+00:19:39,321 --> 00:19:43,762
+Speaker 1: I would like have 20 post long conversations with someone just in a Twitter thread.
+
+270
+00:19:44,646 --> 00:19:44,847
+Speaker 0: Right.
+
+271
+00:19:45,189 --> 00:19:54,895
+Speaker 0: That's the kind of person that they've, you know, attracted because those are the people who are most, you know, put off by the changes that have happened in other places.
+
+272
+00:19:54,955 --> 00:19:55,216
+Speaker 1: Yup.
+
+273
+00:19:55,277 --> 00:19:55,397
+Speaker 1: Right.
+
+274
+00:19:56,040 --> 00:19:58,333
+Speaker 0: Um, and so that's the reason that that's happening there.
+
+275
+00:19:58,374 --> 00:20:04,020
+Speaker 0: So anyway, I set up, uh, the geek nights website to automatically post our new episodes there.
+
+276
+00:20:04,283 --> 00:20:18,676
+Speaker 0: I made an account for myself, but I don't plan to use my account or the Ignites account for anything other than automatically posting links to things I post elsewhere because whatever you, however happy you are with blue sky or whatever, it'll die.
+
+277
+00:20:18,696 --> 00:20:19,480
+Speaker 1: It'll die.
+
+278
+00:20:19,881 --> 00:20:23,360
+Speaker 0: It's, it's, it's a public benefit corporation, but so was Kickstarter, right?
+
+279
+00:20:23,800 --> 00:20:26,649
+Speaker 0: This they're funded by VC investors.
+
+280
+00:20:27,632 --> 00:20:35,767
+Speaker 0: as much as they promise or in good faith, truly believe that they're not going to in shitify everyone's favorite word these days.
+
+281
+00:20:35,787 --> 00:20:35,888
+Speaker 0: Right.
+
+282
+00:20:37,660 --> 00:20:38,905
+Speaker 0: Right.
+
+283
+00:20:39,165 --> 00:20:39,788
+Speaker 0: Eventually.
+
+284
+00:20:40,249 --> 00:20:40,551
+Speaker 0: Right.
+
+285
+00:20:40,932 --> 00:20:43,463
+Speaker 0: And this is also what Corey Doctorow says, right?
+
+286
+00:20:43,504 --> 00:20:45,059
+Speaker 0: Is that push will come to shove, right?
+
+287
+00:20:45,941 --> 00:20:50,220
+Speaker 0: And as much as they don't want to in shitify, they'll have investors to please who are in charge.
+
+288
+00:20:50,521 --> 00:20:51,827
+Speaker 0: They'll have employees to pay.
+
+289
+00:20:51,847 --> 00:20:58,276
+Speaker 0: They'll have to get money to pay those employees and they'll be like, okay, we'll do a little bit of tracking.
+
+290
+00:20:58,296 --> 00:21:00,245
+Speaker 0: Well, and then you're right.
+
+291
+00:21:00,285 --> 00:21:03,886
+Speaker 0: We'll, we'll, we'll put it, we'll put a tasteful ad, a tasteful ad, right?
+
+292
+00:21:04,529 --> 00:21:05,695
+Speaker 0: And then that's it.
+
+293
+00:21:05,835 --> 00:21:06,820
+Speaker 0: It's going to happen.
+
+294
+00:21:06,860 --> 00:21:08,320
+Speaker 0: I guarantee you it's going to happen.
+
+295
+00:21:08,400 --> 00:21:15,049
+Speaker 0: And so I'm not going to invest in any more platform that is not hosted by me and fully controlled by me.
+
+296
+00:21:15,734 --> 00:21:20,118
+Speaker 0: But sure, I can post links there that does to other places that are, that doesn't hurt me.
+
+297
+00:21:20,740 --> 00:21:29,100
+Speaker 1: So I made a barebone setup of my posse model and I'm still relying on services, but, uh, the key is that is centered around a domain I control.
+
+298
+00:21:29,241 --> 00:21:33,580
+Speaker 1: So I can always migrate and always keep control of everything down the road.
+
+299
+00:21:33,600 --> 00:21:34,597
+Speaker 0: You got to get your data though.
+
+300
+00:21:35,143 --> 00:21:35,365
+Speaker 1: Yeah.
+
+301
+00:21:35,628 --> 00:21:41,560
+Speaker 1: Well, or, or, I mean, one, I do have the data because the services I'm using usually give me direct database access among other things.
+
+302
+00:21:42,320 --> 00:21:52,633
+Speaker 1: But basically what I've done is I am trying to embrace the same thing Scott's embracing, but with less investment to start in the posse model, which we've talked about on Geek Nights before.
+
+303
+00:21:52,674 --> 00:22:03,879
+Speaker 1: But the idea is, if you're going to post stuff, we're not talking about like having a conversation with someone online, but if you're posting something, you're making content, post it on your own website and then syndicate it everywhere else.
+
+304
+00:22:04,861 --> 00:22:05,042
+Speaker 0: Yep.
+
+305
+00:22:05,524 --> 00:22:06,127
+Speaker 0: That's what we do.
+
+306
+00:22:06,408 --> 00:22:10,420
+Speaker 1: So what I've got, I got a domain on dot social, just rim dot social.
+
+307
+00:22:10,862 --> 00:22:17,250
+Speaker 1: And I made that the center of all my crap and I put a static page there and it links to whatever account I have.
+
+308
+00:22:17,390 --> 00:22:23,159
+Speaker 1: that's public and every other thing I actually use, uh, for now, those things may come or go.
+
+309
+00:22:23,602 --> 00:22:27,486
+Speaker 1: So that way I can always tell people to find me at rim dot social and nothing else matters.
+
+310
+00:22:27,527 --> 00:22:28,598
+Speaker 1: Like there's always a way to find me.
+
+311
+00:22:29,342 --> 00:22:32,397
+Speaker 1: And then basically I set up a microblog.
+
+312
+00:22:33,201 --> 00:22:39,160
+Speaker 1: I'm actually using the micro dot blog service for now, but I'll probably at some point migrate to something I host myself as well.
+
+313
+00:22:39,721 --> 00:22:42,854
+Speaker 1: But I have a microblog there and that's the only place I post.
+
+314
+00:22:43,658 --> 00:22:49,120
+Speaker 1: that thing automatically syndicates to a mastodon that I'm also paying for hosting for.
+
+315
+00:22:49,240 --> 00:22:50,420
+Speaker 1: And it's my own private instance.
+
+316
+00:22:50,901 --> 00:22:58,640
+Speaker 1: And it happens to post to a blue sky cause I set one of those up and this was trivial to set up and doesn't even cost that much money.
+
+317
+00:22:59,182 --> 00:23:04,992
+Speaker 1: Like it's really easy to get going at least to start with these kinds of services like hosting my own mastodon.
+
+318
+00:23:05,012 --> 00:23:06,640
+Speaker 1: Uh, my mastodon host died.
+
+319
+00:23:06,820 --> 00:23:10,305
+Speaker 1: Cloud plane just fucking went out of business and told me I had a month to get my data off.
+
+320
+00:23:10,889 --> 00:23:12,280
+Speaker 1: Uh, I just migrated it to different hosting.
+
+321
+00:23:12,280 --> 00:23:14,214
+Speaker 0: It was so generous with the, with the warning.
+
+322
+00:23:14,314 --> 00:23:16,156
+Speaker 0: Most places were just like, we're closing tomorrow.
+
+323
+00:23:16,196 --> 00:23:16,399
+Speaker 0: Bye.
+
+324
+00:23:16,740 --> 00:23:19,340
+Speaker 1: Oh, they even posted nice guides like, Hey, here's how to migrate.
+
+325
+00:23:19,520 --> 00:23:20,404
+Speaker 1: They gave advice.
+
+326
+00:23:20,424 --> 00:23:23,620
+Speaker 1: Uh, and I migrated to mastahost and guess what?
+
+327
+00:23:23,981 --> 00:23:25,570
+Speaker 1: Because I ran my own mastodon.
+
+328
+00:23:25,952 --> 00:23:27,219
+Speaker 1: It doesn't matter where I host it.
+
+329
+00:23:27,681 --> 00:23:31,400
+Speaker 1: I just spun up an instance on a different host with the same domain.
+
+330
+00:23:31,581 --> 00:23:32,891
+Speaker 1: It's working just like it did before.
+
+331
+00:23:32,911 --> 00:23:38,580
+Speaker 1: No one would even know that anything happened except it was down for like three days during the migration.
+
+332
+00:23:38,681 --> 00:23:39,184
+Speaker 1: And that was it.
+
+333
+00:23:39,809 --> 00:23:44,680
+Speaker 1: So if nothing else, you should start by getting your own goddamn domain.
+
+334
+00:23:45,662 --> 00:23:52,369
+Speaker 1: Even if you use other services like microblog or mastodon or whatever, uh, run it on your own domain.
+
+335
+00:23:52,409 --> 00:23:59,300
+Speaker 1: That way, if anything dies in the future, you could point whatever died at this, at something else in the future.
+
+336
+00:23:59,421 --> 00:24:06,619
+Speaker 0: So microblog guys, there is another discussion to be had though, is that, you know, all of these decentralized things are dependent on DNS.
+
+337
+00:24:07,241 --> 00:24:11,520
+Speaker 0: And if something happens to you, eventually no one's there to renew your DNS.
+
+338
+00:24:12,060 --> 00:24:17,220
+Speaker 1: So that, uh, so I am sidestepping the when rim eventually dies of old age conversation.
+
+339
+00:24:18,063 --> 00:24:20,499
+Speaker 1: Uh, but that is a conversation I think we could do a Monday episode on.
+
+340
+00:24:20,780 --> 00:24:22,739
+Speaker 1: Actually, maybe I got a lot to say about that.
+
+341
+00:24:22,900 --> 00:24:39,642
+Speaker 1: I've made a lot of thoughts about that because I do and I still do intend to somehow put everything I've ever created that isn't encumbered by other people's, uh, copyright or intellectual property claims public domain at some point after my death.
+
+342
+00:24:39,885 --> 00:24:41,339
+Speaker 1: And I'm trying to figure out how to do that.
+
+343
+00:24:42,762 --> 00:24:45,900
+Speaker 1: So far I've talked to two lawyers whose response was what?
+
+344
+00:24:47,744 --> 00:24:49,358
+Speaker 1: They had no idea what the hell I was talking about.
+
+345
+00:24:50,801 --> 00:24:51,757
+Speaker 0: intellectual property lawyers.
+
+346
+00:24:52,180 --> 00:24:53,086
+Speaker 1: Yeah.
+
+347
+00:24:53,106 --> 00:24:55,259
+Speaker 1: Uh, but anyway, uh, this worked pretty well.
+
+348
+00:24:55,601 --> 00:24:58,559
+Speaker 1: So I recommend at least doing something like that.
+
+349
+00:24:58,941 --> 00:25:04,173
+Speaker 1: Don't just migrate to blue sky because it's eventually going to die and all your posts are going to disappear.
+
+350
+00:25:04,233 --> 00:25:04,800
+Speaker 1: Just like Twitter.
+
+351
+00:25:11,620 --> 00:25:14,760
+Speaker 1: But anyway, things of the day.
+
+352
+00:25:15,380 --> 00:25:20,840
+Speaker 1: So, uh, I don't usually, I try not to just like post speed runs all the time, but I've been watching a lot of lately.
+
+353
+00:25:21,040 --> 00:25:40,780
+Speaker 1: My thing is I'm watching documentary videos about weird speed runs, not like the state of the art, like this part, you know, the, the summoning salt, like here's the history of the Mike Tyson's punch out, like legitimate speed run, but more like here's a weird, stupid category and a crazy bug and like the nonsense stuff that happens in speed running.
+
+354
+00:25:41,500 --> 00:25:50,264
+Speaker 1: So this video is a 15 minute explanation of a speed run tech in Twilight Princess, the Legend of Zelda game,
+
+355
+00:25:50,766 --> 00:25:51,208
+Speaker 0: where
+
+356
+00:25:51,911 --> 00:26:02,620
+Speaker 1: essentially if you stare at a rupee for 17 hours, you can try for the world record in a certain speed run category that is surprisingly popular among speed runners.
+
+357
+00:26:03,780 --> 00:26:21,875
+Speaker 1: And it's kind of nuts how this bug works, but what's really nuts about it is the sheer effort, a surprisingly large community put into figuring out how to use the most insane bug you have seen in a video game into speed running and successfully doing it.
+
+358
+00:26:22,960 --> 00:26:28,439
+Speaker 0: I mean, you know, I respect the what's going on there, but at the same time, it's like people.
+
+359
+00:26:29,702 --> 00:26:37,100
+Speaker 0: You should all just agree that one person can wait the 17 hours or fast forward 17 hours and make a save state at that moment.
+
+360
+00:26:37,841 --> 00:26:39,633
+Speaker 0: And so now nobody has to wait the 17 hours, right?
+
+361
+00:26:40,720 --> 00:26:42,300
+Speaker 0: It's like you can agree that that's fair.
+
+362
+00:26:42,420 --> 00:26:45,017
+Speaker 0: Why should you force someone to wait 17 hours each time?
+
+363
+00:26:45,820 --> 00:26:54,100
+Speaker 1: I am done with the category of speed run where the world record depends on RNG or like some nonsense.
+
+364
+00:26:54,740 --> 00:26:56,440
+Speaker 1: I think we can skip past that nonsense.
+
+365
+00:26:57,882 --> 00:26:58,043
+Speaker 0: Yeah.
+
+366
+00:26:58,205 --> 00:27:04,711
+Speaker 0: I personally would, you know, when there's, when there's a lot of RNG in a speed run, I personally do not give a crap.
+
+367
+00:27:04,852 --> 00:27:08,240
+Speaker 0: if some, if there is, I don't, you know, it wouldn't be cheating as far as I'm concerned.
+
+368
+00:27:08,801 --> 00:27:23,460
+Speaker 0: If they made like a ROM hack that forced the best possible RNG, as long as it didn't modify the game in any other way, it just forced the RNG to always be, you know, a way that it could be in the game, you know, a possible result.
+
+369
+00:27:23,640 --> 00:27:24,349
+Speaker 1: You know what that is like?
+
+370
+00:27:24,389 --> 00:27:25,280
+Speaker 1: Here's the perfect analogy.
+
+371
+00:27:25,481 --> 00:27:29,080
+Speaker 1: Say you were going to speed run one of those Dungeons and Dragons gold box games.
+
+372
+00:27:29,742 --> 00:27:31,211
+Speaker 1: You might just roll a character with all 18s.
+
+373
+00:27:32,930 --> 00:27:33,159
+Speaker 0: Exactly.
+
+374
+00:27:33,420 --> 00:27:36,217
+Speaker 1: You might just roll all your characters with all 18s.
+
+375
+00:27:36,780 --> 00:27:38,680
+Speaker 1: That is a perfectly valid stat block.
+
+376
+00:27:39,220 --> 00:27:39,262
+Speaker 1: So...
+
+377
+00:27:39,640 --> 00:27:40,473
+Speaker 0: Right, but all 20s?
+
+378
+00:27:40,656 --> 00:27:40,798
+Speaker 0: No.
+
+379
+00:27:41,660 --> 00:27:42,715
+Speaker 0: All right, but all 18s?
+
+380
+00:27:42,796 --> 00:27:43,040
+Speaker 0: Okay.
+
+381
+00:27:43,960 --> 00:27:45,018
+Speaker 0: Just, just go for it.
+
+382
+00:27:45,240 --> 00:27:45,361
+Speaker 1: Yep.
+
+383
+00:27:46,407 --> 00:27:54,820
+Speaker 1: So the speed run is stupid, but I am interested in just like the logistics of how people figured out how to take advantage of this weird bug.
+
+384
+00:27:55,283 --> 00:27:57,380
+Speaker 1: To make speed runs in this stupid category.
+
+385
+00:27:58,560 --> 00:27:58,660
+Speaker 0: Yep.
+
+386
+00:27:59,520 --> 00:28:00,040
+Speaker 1: So what do you got?
+
+387
+00:28:00,940 --> 00:28:01,698
+Speaker 0: So this is his website.
+
+388
+00:28:02,460 --> 00:28:08,679
+Speaker 0: It's actually from 2019, but I don't know if it's being updated or whatever, but I haven't checked it.
+
+389
+00:28:09,301 --> 00:28:11,200
+Speaker 0: You know, I didn't really discover it until recently.
+
+390
+00:28:11,280 --> 00:28:12,340
+Speaker 0: It's called the Network of Time.
+
+391
+00:28:12,480 --> 00:28:19,100
+Speaker 0: And what this website does is they've got a big log list of famous people, mostly US famous people, right?
+
+392
+00:28:19,561 --> 00:28:20,859
+Speaker 0: People, the world famous people.
+
+393
+00:28:21,665 --> 00:28:26,100
+Speaker 0: If you're from another country, the famous people you think of may or may not be on these lists.
+
+394
+00:28:26,322 --> 00:28:27,398
+Speaker 0: It's not the longest list.
+
+395
+00:28:28,200 --> 00:28:35,819
+Speaker 0: And what they've done is using facial recognition and also other internet data gathering, like image captions, I assume.
+
+396
+00:28:36,742 --> 00:28:41,179
+Speaker 0: They collected just public photos of famous people, which are really easy to get.
+
+397
+00:28:41,981 --> 00:28:47,400
+Speaker 0: And they have in their database which famous people are in which photos, right?
+
+398
+00:28:47,440 --> 00:28:52,200
+Speaker 0: This photo contains, you know, the Dalai Lama and the Pope sitting together.
+
+399
+00:28:52,962 --> 00:29:00,680
+Speaker 0: This one has the president and an athlete who won the Super Bowl, and they're, you know, at the White House, right?
+
+400
+00:29:00,720 --> 00:29:01,279
+Speaker 0: That kind of thing.
+
+401
+00:29:01,940 --> 00:29:14,780
+Speaker 0: And so you go to the website and you pick two people, and it searches their graph database of names to find a path, sort of like, you know, the degrees of, you know, getting bacon there, from one person to the other.
+
+402
+00:29:16,186 --> 00:29:18,919
+Speaker 1: I typed in Mark Twain and Henry Kissinger just now.
+
+403
+00:29:19,120 --> 00:29:20,100
+Speaker 1: It only takes three photos.
+
+404
+00:29:20,955 --> 00:29:21,200
+Speaker 0: Exactly.
+
+405
+00:29:21,560 --> 00:29:26,280
+Speaker 0: And so not only does it show you the path, but it shows you the photos.
+
+406
+00:29:26,500 --> 00:29:32,242
+Speaker 1: So it's like, here's a photo of Mark Twain with Helen Keller in 1909.
+
+407
+00:29:32,242 --> 00:29:36,521
+Speaker 1: Here's a photo of Helen Keller with Frank Sinatra in the year 1944.
+
+408
+00:29:36,521 --> 00:29:41,004
+Speaker 1: And then here's a photo of Frank Sinatra and Henry Kissinger in 1977.
+
+409
+00:29:41,004 --> 00:29:41,477
+Speaker 0: There you go.
+
+410
+00:29:42,000 --> 00:29:42,196
+Speaker 0: God damn.
+
+411
+00:29:44,146 --> 00:29:44,957
+Speaker 0: And so there you have it.
+
+412
+00:29:45,560 --> 00:29:48,140
+Speaker 0: So it's, you know, it's such a simple thing, right?
+
+413
+00:29:48,240 --> 00:29:52,539
+Speaker 0: It's just photos, graph database names, not a long list of names at all.
+
+414
+00:29:53,263 --> 00:29:54,320
+Speaker 0: So it's a small database.
+
+415
+00:29:54,442 --> 00:29:55,380
+Speaker 0: They can search it quickly.
+
+416
+00:29:56,042 --> 00:29:58,659
+Speaker 0: But it's just really fun to see the connections like that.
+
+417
+00:30:00,180 --> 00:30:07,655
+Speaker 0: I think, sadly, there's a lot of -- the bad guy shows up a lot, because he's in a lot of photos with a lot of famous people.
+
+418
+00:30:09,224 --> 00:30:09,289
+Speaker 1: Yep.
+
+419
+00:30:11,423 --> 00:30:13,080
+Speaker 1: That's a trend that is going to continue.
+
+420
+00:30:14,160 --> 00:30:14,249
+Speaker 0: Yeah.
+
+421
+00:30:16,623 --> 00:30:21,020
+Speaker 1: In the meta moment, we're going to be live at PAX Unplugged this fucking weekend.
+
+422
+00:30:22,280 --> 00:30:39,100
+Speaker 1: And one warning to all of you, our panels will likely be recorded, but I actually got a warning, because every year at PAX Unplugged, we have a little bit of trouble because the union in the Philadelphia Convention Center is extra weird about video and tripods and recording.
+
+423
+00:30:40,101 --> 00:30:45,420
+Speaker 0: They have a union contract that says if you have a camera, you need to pay a union camera operator.
+
+424
+00:30:45,600 --> 00:30:46,740
+Speaker 0: They're trying to protect their labor.
+
+425
+00:30:46,900 --> 00:30:56,940
+Speaker 0: So they don't want you coming in operating a camera without paying their union camera operator what you're supposed to pay them or using their power outlet without paying for it.
+
+426
+00:30:57,040 --> 00:30:59,896
+Speaker 0: And so if you do, they want to come after you.
+
+427
+00:31:01,020 --> 00:31:01,090
+Speaker 1: Yep.
+
+428
+00:31:01,581 --> 00:31:06,219
+Speaker 1: And there's a wide discussion to be had around the pros and cons of that and the specific nuances of it.
+
+429
+00:31:06,480 --> 00:31:13,980
+Speaker 1: But suffice it to say, there's always a chance that the panels we do at Unplugged will not appear on the internet because we will be shut down.
+
+430
+00:31:14,180 --> 00:31:15,338
+Speaker 1: We almost got shut down once.
+
+431
+00:31:15,781 --> 00:31:18,319
+Speaker 1: We've avoided it every year so far, but you never know.
+
+432
+00:31:18,820 --> 00:31:25,819
+Speaker 1: So if you want to see our stuff and your FX Unplugged, you probably got to go to the room just in case, because I can't guarantee we'll have video.
+
+433
+00:31:26,401 --> 00:31:34,100
+Speaker 1: But we'll be doing an updated and honestly much better version of Take Your Fucking Turn on Friday at noon in the Kelpie Theater.
+
+434
+00:31:34,541 --> 00:31:44,120
+Speaker 1: I actually spent a lot of time cleaning up, reordering, and changing that panel to make it a much more clear narrative and to have a much more specific focus.
+
+435
+00:31:44,560 --> 00:31:45,338
+Speaker 1: And I'm very happy with it.
+
+436
+00:31:45,920 --> 00:31:47,914
+Speaker 1: And also right after that at 1.30 p.m.
+
+437
+00:31:47,994 --> 00:31:56,260
+Speaker 1: on the same day Friday in the Mox Game Lounge, room 201A, we're going to be teaching all of you how to play Deep Sea Adventure Boost.
+
+438
+00:31:56,520 --> 00:31:57,599
+Speaker 1: I just finished the slides.
+
+439
+00:31:58,120 --> 00:31:59,400
+Speaker 1: Scott added the strategy slides.
+
+440
+00:32:00,124 --> 00:32:01,037
+Speaker 1: It's a new fun thing.
+
+441
+00:32:01,581 --> 00:32:02,580
+Speaker 0: One strategy slide?
+
+442
+00:32:02,880 --> 00:32:03,840
+Speaker 1: Yeah, strategy slide.
+
+443
+00:32:04,021 --> 00:32:05,060
+Speaker 0: It's not a deep game.
+
+444
+00:32:05,140 --> 00:32:06,400
+Speaker 0: You don't need more than one slide.
+
+445
+00:32:06,784 --> 00:32:08,520
+Speaker 1: It is a very deep game.
+
+446
+00:32:08,800 --> 00:32:09,740
+Speaker 1: The words even in the title.
+
+447
+00:32:10,503 --> 00:32:12,898
+Speaker 0: Deep is in the name and in the theme, but not in the play.
+
+448
+00:32:13,440 --> 00:32:14,538
+Speaker 1: Though I will say one thing.
+
+449
+00:32:15,502 --> 00:32:18,400
+Speaker 1: Deep Sea Adventure Boost is premiering in the United States.
+
+450
+00:32:18,821 --> 00:32:22,559
+Speaker 1: It's technically launching on Friday at PAX Unplugged.
+
+451
+00:32:22,981 --> 00:32:24,060
+Speaker 1: They announced that on their website.
+
+452
+00:32:24,580 --> 00:32:27,659
+Speaker 1: So we are technically the first people in the U.S.
+
+453
+00:32:28,421 --> 00:32:31,299
+Speaker 1: running an event around this game, which is fun.
+
+454
+00:32:31,840 --> 00:32:35,220
+Speaker 1: But having read the rules for Boost, it only adds two rules.
+
+455
+00:32:36,003 --> 00:32:39,420
+Speaker 1: But those two rules actually make the game.
+
+456
+00:32:39,881 --> 00:32:43,660
+Speaker 1: Again, they're not turning this game into Advanced Squad Leader.
+
+457
+00:32:43,940 --> 00:32:45,318
+Speaker 1: Don't misinterpret me.
+
+458
+00:32:46,080 --> 00:32:56,840
+Speaker 1: But the players have substantially more agency than they did before due to these two very small rules changes.
+
+459
+00:32:57,862 --> 00:33:02,680
+Speaker 1: It actually makes the game, I think, materially and objectively better.
+
+460
+00:33:03,620 --> 00:33:08,540
+Speaker 0: Yeah, there's no reason to play regular Deep Sea Adventure when Deep Sea Adventure Boost is available.
+
+461
+00:33:08,820 --> 00:33:16,560
+Speaker 1: But I will also say there's a chance we will be playing the game with everybody using a giant set of Deep Sea Adventure.
+
+462
+00:33:17,710 --> 00:33:18,080
+Speaker 1: Stay tuned.
+
+463
+00:33:18,240 --> 00:33:19,860
+Speaker 0: I thought that one was not boosted, though.
+
+464
+00:33:22,401 --> 00:33:30,300
+Speaker 1: It'll be fine, because the only things you need to play Boost are instead of rolling the dice, you roll different dice.
+
+465
+00:33:30,460 --> 00:33:31,498
+Speaker 1: It's roll three dice, pick two.
+
+466
+00:33:33,121 --> 00:33:35,060
+Speaker 0: We need more giant dice, though.
+
+467
+00:33:35,180 --> 00:33:37,897
+Speaker 1: I feel like we could just use the tiny dice for the big one.
+
+468
+00:33:40,302 --> 00:33:43,800
+Speaker 1: And the second rule that's different doesn't involve the board at all.
+
+469
+00:33:44,120 --> 00:33:49,599
+Speaker 1: On your turn, when you are about to roll the dice, the new rules are roll three dice and pick two.
+
+470
+00:33:50,381 --> 00:33:53,599
+Speaker 1: You have the option before your roll of saying, "I'm gonna
+
+471
+00:33:53,639 --> 00:33:53,760
+Speaker 1: boost.".
+
+472
+00:33:54,781 --> 00:33:57,919
+Speaker 1: You steal an oxygen, and you count all three dice.
+
+473
+00:34:00,202 --> 00:34:05,699
+Speaker 1: And the website for Deep Sea Adventure even says this will probably cause other people to yell at you.
+
+474
+00:34:06,340 --> 00:34:06,914
+Speaker 1: They know what's up.
+
+475
+00:34:08,500 --> 00:34:09,592
+Speaker 0: Yeah, everyone just start boosting.
+
+476
+00:34:09,632 --> 00:34:10,260
+Speaker 0: Boost, boost, boost.
+
+477
+00:34:10,520 --> 00:34:11,518
+Speaker 1: Boost on the way down.
+
+478
+00:34:12,400 --> 00:34:12,899
+Speaker 0: That's right.
+
+479
+00:34:13,782 --> 00:34:18,536
+Speaker 1: I think the pro move is you pick up a treasure on your next turn, turn around, boost, and head up.
+
+480
+00:34:19,804 --> 00:34:20,319
+Speaker 1: Boost, boost, boost.
+
+481
+00:34:20,540 --> 00:34:20,824
+Speaker 0: Could be.
+
+482
+00:34:21,293 --> 00:34:21,578
+Speaker 0: Could be.
+
+483
+00:34:22,219 --> 00:34:24,239
+Speaker 1: All right, so let's get into the main bit.
+
+484
+00:34:24,420 --> 00:34:29,679
+Speaker 1: So blogging, because we don't want to talk about Blue Sky specifically, but we've never really talked about blogging.
+
+485
+00:34:30,023 --> 00:34:31,940
+Speaker 0: Blue Sky, I guess they call it microblogging.
+
+486
+00:34:32,221 --> 00:34:32,840
+Speaker 1: It's not even.
+
+487
+00:34:33,800 --> 00:34:39,000
+Speaker 1: Microblogging is like microblog, where I can post small, tiny articles that get syndicated.
+
+488
+00:34:39,761 --> 00:34:43,040
+Speaker 1: I would characterize Twitter and Blue Sky and things as just social media.
+
+489
+00:34:45,100 --> 00:34:48,080
+Speaker 0: But basically, back in the day, people had websites.
+
+490
+00:34:48,480 --> 00:34:56,293
+Speaker 0: And you would structure your website, usually if you're normal, just an individual with a personal site or a fan site, you would just have pages, right?
+
+491
+00:34:58,363 --> 00:35:00,940
+Speaker 0: And you would just have some sort of navigation and organization.
+
+492
+00:35:01,722 --> 00:35:04,838
+Speaker 0: On my website, I was like, "Here's video game
+
+493
+00:35:04,879 --> 00:35:05,140
+Speaker 0: section."
+
+494
+00:35:05,140 --> 00:35:06,659
+Speaker 0: I had a page per video game.
+
+495
+00:35:07,180 --> 00:35:09,820
+Speaker 0: And then it was alphabetical order, I guess.
+
+496
+00:35:10,521 --> 00:35:18,660
+Speaker 0: Even if you couldn't tell what was new, unless I edited my GeoCities HTML to put the new ones at top with a new flag on them.
+
+497
+00:35:18,781 --> 00:35:20,259
+Speaker 1: I ran three websites.
+
+498
+00:35:20,681 --> 00:35:36,520
+Speaker 1: I ran Mephistopheles Realm, which was an alphabetical order, a list of NES and SNES games, and links to download translations of the Japanese ROMs that I dispersed across a bunch of GeoCities sites.
+
+499
+00:35:37,561 --> 00:35:40,420
+Speaker 1: One of them was the site for a clan in an MMO called The Realm.
+
+500
+00:35:40,780 --> 00:35:53,700
+Speaker 1: But the third one was a blog I ran, but by blog, what I did is, whenever I typed something, I would edit HTML raw, and I would just put my new post at the top of a giant table.
+
+501
+00:35:56,820 --> 00:35:59,194
+Speaker 0: And so blogging wasn't really a thing.
+
+502
+00:36:00,461 --> 00:36:04,780
+Speaker 0: The idea of blogging was, it's just, when I say something, I post it on a website.
+
+503
+00:36:05,402 --> 00:36:08,420
+Speaker 0: And that is much older than the idea of blogging, right?
+
+504
+00:36:08,840 --> 00:36:20,640
+Speaker 0: So it's like, when did blogging itself start, versus when did the word blog and people blogging intentionally with that structure and mindset come in, right?
+
+505
+00:36:20,780 --> 00:36:25,200
+Speaker 0: Because people were doing it without labeling it or thinking about it as such.
+
+506
+00:36:26,064 --> 00:36:28,900
+Speaker 0: They were just writing thoughts and putting them on websites.
+
+507
+00:36:29,082 --> 00:36:29,518
+Speaker 0: An example.
+
+508
+00:36:30,060 --> 00:36:35,400
+Speaker 1: Scott recorded audio of him saying words about things, put it on the internet.
+
+509
+00:36:35,762 --> 00:36:36,894
+Speaker 1: Was that a podcast?
+
+510
+00:36:37,157 --> 00:36:37,319
+Speaker 1: No.
+
+511
+00:36:38,440 --> 00:36:39,716
+Speaker 0: I mean, it was in an RSS feed.
+
+512
+00:36:40,981 --> 00:36:42,659
+Speaker 0: Podcasts did exist at that point.
+
+513
+00:36:42,861 --> 00:36:43,899
+Speaker 1: Yep, it might have been.
+
+514
+00:36:43,940 --> 00:36:46,439
+Speaker 0: But I didn't know the word podcast when I did it.
+
+515
+00:36:46,820 --> 00:36:46,913
+Speaker 0: Yep.
+
+516
+00:36:47,441 --> 00:36:51,940
+Speaker 1: I remember when we launched Geek Nights, you basically said, "Hey, there's this thing called podcasting.
+
+517
+00:36:51,960 --> 00:36:52,515
+Speaker 1: We should do
+
+518
+00:36:52,535 --> 00:36:52,576
+Speaker 1: it.".
+
+519
+00:36:52,882 --> 00:36:57,400
+Speaker 0: At that point, I had heard the word, but I didn't really understand it until iPod Nano came out.
+
+520
+00:36:58,140 --> 00:37:11,400
+Speaker 0: So anyway, the concept of blog was like, okay, I will intentionally post in chronological order, right, my thoughts in sort of long form text to the website on a regular basis.
+
+521
+00:37:11,984 --> 00:37:14,540
+Speaker 0: And then eventually RSS came around.
+
+522
+00:37:15,000 --> 00:37:22,360
+Speaker 0: You know, the word blog, it's like someone coined the word blog based on web blog, right, just removing the "weh" part.
+
+523
+00:37:23,580 --> 00:37:32,974
+Speaker 0: But then there was, you know, software blogger, right, really caused that word to be the word you used for, "I am posting to this
+
+524
+00:37:33,378 --> 00:37:33,580
+Speaker 0: website.".
+
+525
+00:37:33,621 --> 00:37:45,259
+Speaker 1: Well, because before that point, like even if what I ran on GeoCities in the '90s was technically by modern standards a blog, I was doing it manually and I had to know HTML and I literally just wrote HTML.
+
+526
+00:37:47,183 --> 00:37:57,820
+Speaker 1: Once the technology was sort of separated from the content creation, I think that was the genesis of blogging, because then someone could have a blog.
+
+527
+00:37:58,162 --> 00:38:00,836
+Speaker 1: who is not an expert in making a website work?
+
+528
+00:38:00,876 --> 00:38:01,077
+Speaker 1: in the '90s.
+
+529
+00:38:02,062 --> 00:38:26,407
+Speaker 0: Before the idea of blogging, even though some websites were blogs, most people were using a Usenet or an email list or a BBS or something of that nature to do blogging-type activities, because in those places, people could follow, right, with an email list, you would get the emails of the new posts versus where.
+
+530
+00:38:26,427 --> 00:38:32,519
+Speaker 0: if you had a website, people just kind of, it was like early web comics, people just sort of check your website every day and see if there was a new comic.
+
+531
+00:38:32,700 --> 00:38:38,700
+Speaker 1: Yep, I used to open all my bookmarks of Penny Arcade and MegaTokyo in real life to see if they had an update.
+
+532
+00:38:39,300 --> 00:39:00,160
+Speaker 0: Right, so even though blogging originated in the later '90s, it didn't really explode until the RSS came around in the earlier 2000s, right, and people were actually able to follow blogs and see new posts coming in and check on them in sort of a feed-like manner.
+
+533
+00:39:01,465 --> 00:39:13,899
+Speaker 0: And when that happened, right, you know, there was no Twitters or anything, no social networks really, you know, they were very early, you know, Facebook was like still college-only kind of thing.
+
+534
+00:39:14,621 --> 00:39:15,519
+Speaker 1: Yep, Orchid, we used Orchid.
+
+535
+00:39:16,342 --> 00:39:19,212
+Speaker 0: Yeah, but that wasn't a place that you could really blog.
+
+536
+00:39:19,495 --> 00:39:20,220
+Speaker 0: very well, right?
+
+537
+00:39:20,300 --> 00:39:27,810
+Speaker 1: I ran a mailing list called Rims Rants between 1999 and late 2000 that I then stopped.
+
+538
+00:39:30,585 --> 00:39:32,160
+Speaker 1: That I also cross-posted to Usenet.
+
+539
+00:39:34,480 --> 00:39:56,159
+Speaker 0: Yeah, and so, right, once the, you know, people got RSS, people started blogging a lot 'cause you can make money on it, get followers, right, become popular, go on to be, you know, get noticed, become a real journalist or whatever it is, you know, if you were writing about something well enough, whereas if you did that on a website earlier than that, nothing would come of it 'cause no one would see you.
+
+540
+00:39:57,420 --> 00:40:05,483
+Speaker 0: Then the social networks came along and they actually sapped a lot of the energy out of blogging because I, you know, at least for me personally, it's like you.
+
+541
+00:40:05,523 --> 00:40:22,940
+Speaker 0: look at the blogs I've had over the years, I started in, I guess I had the website that wasn't a blog technically, then in college I used the software Blossom, which is like a Perl script basically, a CGI Perl script, where you would put text files in a folder and that would cause them to be posts on the blog.
+
+542
+00:40:23,462 --> 00:40:28,020
+Speaker 0: and then that's also where I put that not a podcast thing, I was in the same platform.
+
+543
+00:40:29,601 --> 00:40:29,847
+Speaker 0: Self-hosted.
+
+544
+00:40:31,021 --> 00:40:56,995
+Speaker 0: And, you know, I wrote stuff there regularly and then I switched to WordPress, I guess around when we were in Beacon Times and then once there was like the social networks really picked up and I was Twittering, my energy of writing and like what I had something to say and I just wanted to say it, I didn't care if, you know, if anyone read it really, but I had the things to put out into the world and I put them out into the world on, you know, Twitters or whatever I was using at
+
+545
+00:40:57,015 --> 00:40:57,439
+Speaker 1: the time.
+
+546
+00:40:57,681 --> 00:41:01,520
+Speaker 1: Like sometimes I'd post in our own forum if it was really long and then link to that on Twitter.
+
+547
+00:41:02,342 --> 00:41:25,019
+Speaker 0: Yeah, but it's like my energy for writing on the blog was going, you know, it was elsewhere, so I didn't really blog a lot, you know, even though I had, like I think my word, like I keep these websites up just for even though I wrote a bunch of really bad shit I don't agree with probably still on there and someone could probably go digging and make sure I never win any political campaign ever, but I'm not gonna try anyway, so it doesn't matter.
+
+548
+00:41:29,302 --> 00:41:34,020
+Speaker 0: Oh yeah, I keep the blogs up, but I stop blogging, right?
+
+549
+00:41:34,241 --> 00:41:42,577
+Speaker 0: Because my writing energy was going elsewhere and now that I'm not using the social media, I got the energy again, but now I have to go make a website again.
+
+550
+00:41:43,944 --> 00:41:51,179
+Speaker 1: Yeah, that's why I took the interim step of setting up micro.blog because it just handles that and I have access to the database, but I will eventually.
+
+551
+00:41:51,260 --> 00:41:55,380
+Speaker 0: It's better if I say, if I do that, all the energy will be sapped out again.
+
+552
+00:41:55,720 --> 00:41:56,096
+Speaker 1: I can't do that.
+
+553
+00:41:56,320 --> 00:42:06,285
+Speaker 1: Well, I'm letting my energy go 'cause this is sort of the fundamental thing and this is, so unrelatedly, I'm doing a lot of research into modernity, partly because there's a panel Emily and I are doing at MagFest.
+
+554
+00:42:06,568 --> 00:42:08,000
+Speaker 1: that is not a Raymond Scott panel.
+
+555
+00:42:08,080 --> 00:42:38,820
+Speaker 1: that's on post-postmodernism and I'm doing actual research, but disentangling how you create something from creating something is a big fucking deal because that allows people who have, for example, Scott and I, we get our ideas out about a lot of things, not just computers, but video games and board games and politics and stuff, but we have more voice than a lot of humans because one, we have money, that's a separate problem, but two, we know technology.
+
+556
+00:42:39,101 --> 00:42:40,440
+Speaker 1: We're running this infrastructure.
+
+557
+00:42:41,041 --> 00:42:43,700
+Speaker 1: You're watching our livestream because I got a bunch of shit set up everywhere.
+
+558
+00:42:44,080 --> 00:42:45,997
+Speaker 1: Scott made a website to syndicate it.
+
+559
+00:42:48,364 --> 00:43:03,240
+Speaker 1: There are a lot of people who are very smart, way smarter than us, who know a lot about things that are not technology related, but if they need to know as much as we know about technology to get those ideas out there, unless they're really lucky, those ideas will go nowhere.
+
+560
+00:43:03,962 --> 00:43:12,460
+Speaker 1: As soon as you can let the people who are experts in things get their ideas out there without them needing to become experts in additional things, that transforms the world.
+
+561
+00:43:12,744 --> 00:43:13,759
+Speaker 1: That's a big deal.
+
+562
+00:43:14,560 --> 00:43:16,059
+Speaker 0: - And so that's what happened with blogging.
+
+563
+00:43:16,140 --> 00:43:22,940
+Speaker 0: is that once we had that sort of structure in mind, people built platforms like Blogger, but also WordPress.
+
+564
+00:43:23,880 --> 00:43:24,874
+Speaker 1: - Tumblr, arguably.
+
+565
+00:43:26,300 --> 00:43:32,079
+Speaker 0: - Yeah, nowadays you have your sort of sub stacks and your medium and things like that.
+
+566
+00:43:32,300 --> 00:43:34,840
+Speaker 1: - Total aside, don't use sub stack, Nazis use it.
+
+567
+00:43:35,261 --> 00:43:36,500
+Speaker 1: Like seriously, don't use sub stack.
+
+568
+00:43:37,440 --> 00:43:56,140
+Speaker 0: - Yeah, but I mean, the thing is, as much as sub stack is used by Nazis and is bad and I won't use it, there are some people who write for a living as journalists and it's like, that's basically one of the only ones where they can actually get actual revenues from subscribers that live.
+
+569
+00:43:56,860 --> 00:44:03,839
+Speaker 0: So I can't really blame them for using it when there isn't another one that does that and also helps build their audience.
+
+570
+00:44:03,920 --> 00:44:15,820
+Speaker 1: - But that shows the expansion of it's not just access 'cause the idea of the CMS, the content management system to where one person can set up the technology and a different person can write the blog and make the content.
+
+571
+00:44:16,460 --> 00:44:27,439
+Speaker 1: Now there's other orders of access, monetization, we live in a capitalist world, is one of those things you need to be able to provide to democratize access, to democratize getting ideas out there.
+
+572
+00:44:28,600 --> 00:44:35,660
+Speaker 0: - So technologically speaking, the earliest blogs were just write some HTML and just you happen to write it in a certain way.
+
+573
+00:44:36,042 --> 00:44:47,340
+Speaker 0: And then we sort of moved on to the WordPress, well, I guess the Blossom model, which is where you put files in a folder and then a CGI script generates HTML on the fly.
+
+574
+00:44:48,046 --> 00:45:13,700
+Speaker 0: And then the WordPress model, which is basically still used a lot these days, is basically the same thing only instead of putting text files in a folder on a web server, you go to web form, you fill, you write your post, it's in a database and then people visit the website, the web app queries the database and then server side renders HTML and then sends the HTML to the visitor.
+
+575
+00:45:14,324 --> 00:45:15,513
+Speaker 0: Or RSS to the web page.
+
+576
+00:45:17,080 --> 00:45:22,540
+Speaker 0: And now what's interesting today is that a lot of people are actually going backwards.
+
+577
+00:45:23,920 --> 00:45:32,300
+Speaker 0: One of the most popular things to use these days is not just for blogging, although some of them are, but basically are these static site generators.
+
+578
+00:45:33,240 --> 00:45:37,359
+Speaker 0: Hugo is an extremely popular one, maybe the most popular one, but there's many of them.
+
+579
+00:45:37,920 --> 00:45:41,580
+Speaker 1: - I'm actually using Hugo in my microblog.
+
+580
+00:45:42,524 --> 00:45:42,799
+Speaker 0: - Okay.
+
+581
+00:45:43,240 --> 00:45:48,400
+Speaker 0: But the way these work is even more primitive than like the old blogs.
+
+582
+00:45:48,600 --> 00:46:06,680
+Speaker 0: What happens is on your local computer, you write posts in a form, usually markdown, but it could be some other sort of, you know, structured markup language, could be even HTML, but you write posts in some sort of, you know, markup language or just text even.
+
+583
+00:46:07,302 --> 00:46:22,440
+Speaker 0: And then you push a render button and on your computer, it will look at all your posts, it'll look at the theme and all the templates you have set up and all your configuration files and everything, and it will render the entire website.
+
+584
+00:46:22,741 --> 00:46:28,020
+Speaker 0: Every page on the website will generate the HTML and all the other CSS, everything.
+
+585
+00:46:28,180 --> 00:46:33,280
+Speaker 0: It will render every file for the whole website all at once instead of on demand.
+
+586
+00:46:33,960 --> 00:46:39,820
+Speaker 0: And so then you upload that entire folder, right, to someplace on the internet where it can be delivered.
+
+587
+00:46:40,403 --> 00:46:42,500
+Speaker 0: And now it's just a static website, right?
+
+588
+00:46:42,620 --> 00:46:44,240
+Speaker 0: It doesn't change in real time.
+
+589
+00:46:44,440 --> 00:46:46,960
+Speaker 0: The server doesn't need any CPU to do any rendering.
+
+590
+00:46:47,560 --> 00:46:53,100
+Speaker 0: You just need to, a user comes to the URL, there's a file at the URL, the server delivers the file.
+
+591
+00:46:53,864 --> 00:47:01,899
+Speaker 0: If you want to edit your website, you edit it locally on your computer, you push render, and you upload the new version, and now your website's updated.
+
+592
+00:47:03,722 --> 00:47:09,520
+Speaker 0: And a lot of people are using this method these days because A, it's extremely flexible, right?
+
+593
+00:47:09,560 --> 00:47:15,320
+Speaker 0: You can customize everything entirely, right, at any part of the pipeline locally.
+
+594
+00:47:16,148 --> 00:47:16,638
+Speaker 0: It's free.
+
+595
+00:47:18,606 --> 00:47:19,660
+Speaker 0: That's always a bonus.
+
+596
+00:47:21,522 --> 00:47:27,420
+Speaker 0: But the hosting becomes way, way cheaper, easier, and faster, right?
+
+597
+00:47:28,224 --> 00:47:29,740
+Speaker 0: You don't have to pay for a server.
+
+598
+00:47:29,901 --> 00:47:35,060
+Speaker 0: You can just put your files on, like, GitHub pages or an S3 bucket or something.
+
+599
+00:47:35,403 --> 00:47:40,879
+Speaker 0: That the hosting is so much cheaper and your website loads so much faster, you don't have to worry about it.
+
+600
+00:47:41,181 --> 00:47:42,459
+Speaker 0: It's like, oh, no, my server went down.
+
+601
+00:47:42,562 --> 00:47:43,198
+Speaker 0: That doesn't happen.
+
+602
+00:47:43,341 --> 00:47:45,196
+Speaker 0: It's just files being delivered at the end.
+
+603
+00:47:47,044 --> 00:47:51,160
+Speaker 0: And so doing things this old way is like the new popular way of blogging.
+
+604
+00:47:51,320 --> 00:47:53,859
+Speaker 0: I mean, it even generates the RSS feeds, right?
+
+605
+00:47:54,543 --> 00:47:56,017
+Speaker 0: Those are just static files also.
+
+606
+00:47:57,702 --> 00:48:11,239
+Speaker 0: And so if someone was going to want to blog today, that's actually what I would recommend is, you know, Hugo is the most popular one by far, but you could even make your own because it's not a complicated piece of software to write.
+
+607
+00:48:12,484 --> 00:48:13,740
+Speaker 0: It's a static site generator.
+
+608
+00:48:14,441 --> 00:48:22,280
+Speaker 0: And then the syndication, right, you have to handle sort of on your own because there's no computation resources, right, going on there.
+
+609
+00:48:22,280 --> 00:48:30,380
+Speaker 1: Now, that is why, again, this is not like an endorsement or an ad, but that's why I'm using micro.blog for now is that they will handle some of those pieces.
+
+610
+00:48:31,321 --> 00:48:42,719
+Speaker 1: So they have like a little thing set up that'll automatically, all I have to do is do a credential login or an app password, and they'll cross post to a bunch of different things and handle that for me.
+
+611
+00:48:43,062 --> 00:48:45,240
+Speaker 1: And I'm paying them a few dollars a month to make that happen.
+
+612
+00:48:45,662 --> 00:48:54,460
+Speaker 1: But eventually I'll just host that myself, which again ties back to why you got to use your own domain so that you have control over that in case, you know, microblog might go down.
+
+613
+00:48:54,660 --> 00:48:56,059
+Speaker 1: Cloud plane literally died on me.
+
+614
+00:48:57,060 --> 00:48:57,201
+Speaker 0: Yep.
+
+615
+00:48:57,262 --> 00:49:07,360
+Speaker 0: I mean, that's the thing is like, you know, if you have a static website and you put it on, you know, an S3 bucket, it's like you're going to have to use your own domain.
+
+616
+00:49:07,529 --> 00:49:07,658
+Speaker 1: Yep.
+
+617
+00:49:08,320 --> 00:49:18,940
+Speaker 0: But if you, let's say you go to, let's say you use Tumblr or Medium or something, it's like, well, you're not, you know, you guess you could pay, I don't know if some of those, like even wordpress.com supports paying and using your own domain.
+
+618
+00:49:19,343 --> 00:49:28,491
+Speaker 0: But if you don't use your own domain and people start subscribing to you and you want to change where you're hosted or move at all, it's like you lose all that, right?
+
+619
+00:49:29,720 --> 00:49:31,539
+Speaker 0: Because all your old URLs are just going to die.
+
+620
+00:49:32,381 --> 00:49:43,439
+Speaker 0: So it's like, no matter what you use, you got to have a custom domain of some kind if you expect to be doing this a long time, to keep it there, to, you know, have followers, be able to follow you.
+
+621
+00:49:43,560 --> 00:49:44,300
+Speaker 1: I mean, and not for nothing.
+
+622
+00:49:44,381 --> 00:49:46,439
+Speaker 1: This is something where we have some expertise.
+
+623
+00:49:46,700 --> 00:49:53,540
+Speaker 1: Geek Nights has been going since 2005 and every fucking thing we've ever made is still on the internet and all our old links still work.
+
+624
+00:49:53,820 --> 00:49:57,519
+Speaker 1: You know how much of a pain in the ass it was to make all of our old links work forever?
+
+625
+00:50:00,323 --> 00:50:01,878
+Speaker 0: It's really, you know, it's a pain, yeah.
+
+626
+00:50:03,320 --> 00:50:06,940
+Speaker 1: Yeah, so micro.blog, they right now just out of the box just click.
+
+627
+00:50:07,822 --> 00:50:17,300
+Speaker 1: They'll cross post to Medium, Macedon, LinkedIn, I guess if you really want to do that, Tumblr, Flickr, Blue Sky, Noister, PixelFed, and Threads.
+
+628
+00:50:18,040 --> 00:50:19,278
+Speaker 1: Like, it'll just work.
+
+629
+00:50:21,260 --> 00:50:27,500
+Speaker 0: Yeah, so yeah, you know, I think blogging, it's like, it's weird that it sort of went out of style.
+
+630
+00:50:28,200 --> 00:50:31,780
+Speaker 0: I don't know if it's like that much back in style.
+
+631
+00:50:31,921 --> 00:50:34,600
+Speaker 0: I don't get the feeling that like normal people are.
+
+632
+00:50:34,620 --> 00:50:35,920
+Speaker 1: Actually, that's something I've been feeling too.
+
+633
+00:50:36,020 --> 00:50:51,320
+Speaker 1: I feel like, just like you mentioned how Blue Sky is getting like the top 10%, like the invested aggressive users, I feel like blogging and forums are starting to make a comeback, but only among a very certain small group of people globally.
+
+634
+00:50:52,222 --> 00:50:57,880
+Speaker 0: Yeah, at least, you know, in the English-speaking world, I don't see the rest of the internet because I can't read it very well.
+
+635
+00:50:59,141 --> 00:51:17,880
+Speaker 0: But yeah, it feels like people who are, you know, deeply involved in something, right, are the very engaged people, are the kind that will find a blog, right, which is also a deeply engaged person who's writing deeply, usually on just a single topic or a handful of topics.
+
+636
+00:51:17,980 --> 00:51:29,516
+Speaker 1: Well, here, what's better, going to a Reddit thread or following a user on Reddit who gives ski reviews or finding some guy out there who is an expert on skis and subscribing to his crap wherever it is?
+
+637
+00:51:32,144 --> 00:51:35,119
+Speaker 0: But yeah, it's like, so, I don't know.
+
+638
+00:51:35,740 --> 00:51:36,552
+Speaker 1: Yeah, well, I guess...
+
+639
+00:51:37,080 --> 00:51:43,960
+Speaker 0: It'll be interesting to see what happens going forward, right, as different social medias or, you know, build up.
+
+640
+00:51:44,101 --> 00:51:46,140
+Speaker 0: Will they sap the energy again?
+
+641
+00:51:46,320 --> 00:51:47,859
+Speaker 0: Will they help to amplify blogging?
+
+642
+00:51:47,900 --> 00:51:53,060
+Speaker 1: What I think, and Blue Sky made me think about this a lot because I'm not, like, Blue Sky is going to die.
+
+643
+00:51:53,160 --> 00:51:53,577
+Speaker 1: They all die.
+
+644
+00:51:53,820 --> 00:52:16,240
+Speaker 1: But the fact that so many people migrated so quickly to it when all it was is what Twitter used to be a long time ago, I think there is this deep hunger in society for the content and easy ways to interact with it free from the baleful gaze of advertising, capitalism, brands, and bullshit.
+
+645
+00:52:17,781 --> 00:52:37,859
+Speaker 1: And there is always a subset of people who will use the technology to make that exist in the world, and that's what's happening again, where we always, now that the Internet exists, people like us keep fleeing to the places where capitalism isn't ruining everything as best we can because the content is what people want.
+
+646
+00:52:38,542 --> 00:52:43,540
+Speaker 1: But I think the other thing that's happening is that the technology behind it barely matters because it's kind of a hockey stick.
+
+647
+00:52:43,780 --> 00:52:47,200
+Speaker 1: I mean, the Internet was invented not that long ago.
+
+648
+00:52:47,600 --> 00:52:49,699
+Speaker 1: Blogging appeared not that long ago.
+
+649
+00:52:50,120 --> 00:52:52,019
+Speaker 1: Social media is brand new in the world.
+
+650
+00:52:52,601 --> 00:53:01,540
+Speaker 1: I feel like everything that's happened in the last 20 years of the Internet is going to be in the history books of, like, how humans communicate with each other.
+
+651
+00:53:02,042 --> 00:53:05,200
+Speaker 1: It's like one sentence compared to what's coming.
+
+652
+00:53:05,803 --> 00:53:22,680
+Speaker 1: So the content itself, the actual creative or intellectual or whatever it is, the pornography, everything, the content itself, that is all that matters, and the way we get it to each other is going to evolve so rapidly that you can't invest in any particular technology or platform.
+
+653
+00:53:23,081 --> 00:53:30,100
+Speaker 1: You've just got to focus on making sure the content's available and adapting to how the technology makes that possible.
+
+654
+00:53:35,620 --> 00:53:37,638
+Speaker 1: This has been "Geek Nights with Rym and
+
+655
+00:53:37,658 --> 00:53:37,900
+Speaker 1: Scott.".
+
+656
+00:53:38,021 --> 00:53:40,540
+Speaker 1: Special thanks to DJ Pretzel for the opening theme.
+
+657
+00:53:40,740 --> 00:53:46,760
+Speaker 0: Be sure to visit our website at frontrowclue.com for show notes, discussion, links, and more.
+
+658
+00:53:47,260 --> 00:53:49,900
+Speaker 1: Remember, "Geek Nights" is not one but four different shows.
+
+659
+00:53:50,240 --> 00:53:51,780
+Speaker 1: Mondays are science and technology.
+
+660
+00:53:51,940 --> 00:53:53,599
+Speaker 1: Tuesdays, gaming and games.
+
+661
+00:53:53,800 --> 00:53:55,560
+Speaker 1: Wednesdays are animation and comics.
+
+662
+00:53:55,980 --> 00:53:58,420
+Speaker 1: Thursdays are arbitrary and indiscriminate.
+
+663
+00:53:59,140 --> 00:54:03,940
+Speaker 1: "Geek Nights" is distributed under a Creative Commons Attribution 4.0 International License.
+
+664
+00:54:04,480 --> 00:54:08,720
+Speaker 0: "Geek Nights" is recorded live with no studio and no audience.
+
+665
+00:54:09,280 --> 00:54:12,739
+Speaker 0: But unlike those other late shows, it's actually recorded at night.
+
+666
+00:54:13,303 --> 00:54:36,221
+Speaker 1: And the Patreon patrons for this episode of "Geek Nights" are... ...with...
+

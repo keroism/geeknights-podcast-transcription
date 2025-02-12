@@ -1,0 +1,3668 @@
+1
+00:00:08,300 --> 00:00:09,868
+Rym: It's Monday, April 22nd, 2024.
+
+2
+00:00:09,868 --> 00:00:10,049
+Rym: I'm Rym.
+
+3
+00:00:13,525 --> 00:00:14,020
+Scott: I'm Scott.
+
+4
+00:00:14,300 --> 00:00:15,564
+Rym: And this is GeekNights.
+
+5
+00:00:15,604 --> 00:00:21,820
+Rym: Tonight we are talking about a new TV in the year 2024.
+
+6
+00:00:21,820 --> 00:00:22,798
+Scott: Let's do this!
+
+7
+00:00:24,181 --> 00:00:27,840
+Rym: So I had no show on Thursday because I was in Michigan helping my mom with the thing.
+
+8
+00:00:28,381 --> 00:00:29,639
+Rym: I hadn't been to Detroit in a while.
+
+9
+00:00:30,861 --> 00:00:38,320
+Rym: Which also meant I watched the first important game of hockey from an airport lounge.
+
+10
+00:00:39,260 --> 00:00:50,740
+Rym: And it was noteworthy in that the Red Wings, you know, my hometown team from my childhood, the team from the place where I was at, was knocked out of the playoffs by the team the Rangers are playing.
+
+11
+00:00:52,802 --> 00:00:54,069
+Scott: They weren't knocked out.
+
+12
+00:00:54,089 --> 00:00:55,880
+Scott: They didn't get in to begin with.
+
+13
+00:00:56,060 --> 00:01:01,440
+Rym: Well, they didn't get in because of the tiebreaker of that wildcard slot.
+
+14
+00:01:02,440 --> 00:01:02,612
+Scott: Yes.
+
+15
+00:01:04,120 --> 00:01:09,220
+Rym: So I'm watching the game on a particular website on my laptop in the airport lounge.
+
+16
+00:01:09,843 --> 00:01:10,711
+Rym: And the game's going well.
+
+17
+00:01:11,014 --> 00:01:11,620
+Rym: Everything's fine.
+
+18
+00:01:13,102 --> 00:01:20,358
+Rym: A person comes into the room I'm sitting in to get a drink and sees that I've got this hockey game playing and walks over and just says, "Rangers,
+
+19
+00:01:20,418 --> 00:01:20,620
+Rym: right?".
+
+20
+00:01:21,288 --> 00:01:21,734
+Rym: And I'm like,
+
+21
+00:01:21,836 --> 00:01:22,119
+Rym: "Yeah.".
+
+22
+00:01:22,261 --> 00:01:23,657
+Rym: And he just says, "Fuck 'em
+
+23
+00:01:23,758 --> 00:01:23,819
+Rym: up.".
+
+24
+00:01:24,143 --> 00:01:25,139
+Rym: And then he just walks away.
+
+25
+00:01:26,241 --> 00:01:30,520
+Rym: And then about ten minutes later, a woman is sitting back there and she comes over.
+
+26
+00:01:30,660 --> 00:01:32,850
+Rym: And at first she's like, "What website is that?
+
+27
+00:01:32,870 --> 00:01:34,999
+Rym: I was trying to watch the hockey game, but I couldn't.
+
+28
+00:01:35,683 --> 00:01:36,656
+Rym: There's no way to watch it.
+
+29
+00:01:36,676 --> 00:01:36,818
+Rym: I don't
+
+30
+00:01:36,839 --> 00:01:36,920
+Rym: know.".
+
+31
+00:01:36,980 --> 00:01:38,919
+Scott: It is an illegal shady website.
+
+32
+00:01:39,120 --> 00:01:39,281
+Rym: Yep.
+
+33
+00:01:39,401 --> 00:01:46,053
+Rym: I was like, "Ma'am, this is a piracy website that I'm streaming through my phone because it was actually blocked on the airport
+
+34
+00:01:46,094 --> 00:01:46,497
+Rym: Wi-Fi.".
+
+35
+00:01:49,660 --> 00:01:53,829
+Rym: And then she basically expressed the same sentiment after that, like, "Oh,
+
+36
+00:01:53,890 --> 00:01:54,090
+Rym: whatever.".
+
+37
+00:01:54,794 --> 00:01:57,367
+Rym: "Anyway, I hope the caps
+
+38
+00:01:57,448 --> 00:01:57,770
+Rym: lose.".
+
+39
+00:01:57,971 --> 00:01:58,902
+Rym: And then she just left.
+
+40
+00:01:59,266 --> 00:02:00,113
+Rym: So... Alright.
+
+41
+00:02:00,798 --> 00:02:02,510
+Scott: I mean, you were waiting for a flight to New York.
+
+42
+00:02:03,033 --> 00:02:05,130
+Rym: I was waiting for a flight to New York from Detroit.
+
+43
+00:02:06,512 --> 00:02:10,090
+Scott: I was literally just before the show on a bus in New York.
+
+44
+00:02:10,590 --> 00:02:13,910
+Scott: And a person came onto the bus wearing a Winnipeg Jets jacket.
+
+45
+00:02:15,592 --> 00:02:15,678
+Scott: Okay.
+
+46
+00:02:17,611 --> 00:02:23,750
+Scott: They did win last night, but only because the Appalachian goalie is not very good right now.
+
+47
+00:02:24,252 --> 00:02:28,290
+Rym: In my bracket, I put Winnipeg making it to the Western Conference Final.
+
+48
+00:02:30,054 --> 00:02:30,457
+Scott: Could be.
+
+49
+00:02:30,477 --> 00:02:33,290
+Scott: I mean, this problem is... I don't think they get past Dallas.
+
+50
+00:02:34,210 --> 00:02:37,250
+Scott: The problem is you look at the bracket, right?
+
+51
+00:02:37,390 --> 00:02:40,741
+Scott: And it's like, okay, we look at this here and we say, "Huh.
+
+52
+00:02:41,784 --> 00:02:43,128
+Scott: How many bad teams are
+
+53
+00:02:43,189 --> 00:02:43,369
+Scott: there?".
+
+54
+00:02:43,711 --> 00:02:45,850
+Scott: Teams you don't think are gonna make it, right?
+
+55
+00:02:45,930 --> 00:02:52,950
+Scott: It's like, in the West, I guess the Kings probably won't make it, right?
+
+56
+00:02:53,452 --> 00:02:57,890
+Scott: But even Nashville, it's like, well, yeah, they're not that good.
+
+57
+00:02:58,030 --> 00:03:02,448
+Scott: But since they had their drama with the U2 concert, they've been amazing.
+
+58
+00:03:03,730 --> 00:03:09,350
+Scott: And then you look in the East and it's like, okay, Islanders and Washington probably not gonna make it.
+
+59
+00:03:10,291 --> 00:03:14,548
+Rym: Of course, based on the first game that the Leafs played, the Leafs...
+
+60
+00:03:15,091 --> 00:03:16,416
+Scott: Well, we'll see about it tonight.
+
+61
+00:03:16,456 --> 00:03:19,670
+Scott: If the Leafs stink it up tonight, I guess we can say, yeah, they're not there in trouble.
+
+62
+00:03:19,971 --> 00:03:24,970
+Rym: But if the Leafs come back, I actually, in my bracket, I guess Boston, Toronto goes to seven games.
+
+63
+00:03:25,310 --> 00:03:29,930
+Rym: Partly because when you make a bracket, you can make it strictly what you would bet on in Vegas.
+
+64
+00:03:30,531 --> 00:03:34,790
+Rym: But my brackets are usually a mix of what I think is gonna happen and what I want to happen.
+
+65
+00:03:35,030 --> 00:03:36,233
+Scott: I wish they would let you put both in.
+
+66
+00:03:36,254 --> 00:03:41,850
+Scott: But anyway, out of 16 teams, you've got less than four that you say are gonna not make it.
+
+67
+00:03:42,211 --> 00:03:44,240
+Scott: And the other 12 are basically all equal.
+
+68
+00:03:44,562 --> 00:03:46,370
+Scott: It could be anybody.
+
+69
+00:03:48,493 --> 00:03:52,330
+Scott: The NHL would be very unhappy if it was, say, you know...
+
+70
+00:03:53,130 --> 00:03:58,630
+Rym: There were a lot of years where one decision was just better than the other, categorically.
+
+71
+00:03:58,810 --> 00:04:00,129
+Rym: But it hasn't been that way for a while.
+
+72
+00:04:00,250 --> 00:04:03,470
+Scott: It could be Dallas, Carolina, and the NHL would be very unhappy.
+
+73
+00:04:04,872 --> 00:04:07,203
+Rym: Let's see, what would make the NHL the happiest?
+
+74
+00:04:07,243 --> 00:04:08,309
+Rym: I think Rangers would be...
+
+75
+00:04:09,111 --> 00:04:11,457
+Scott: New York or Toronto against almost anybody.
+
+76
+00:04:17,250 --> 00:04:17,845
+Rym: Yeah, pretty much.
+
+77
+00:04:24,253 --> 00:04:26,389
+Rym: Hockey looks okay so far, that's all I'm gonna say.
+
+78
+00:04:26,991 --> 00:04:27,607
+Rym: You got any news?
+
+79
+00:04:29,190 --> 00:04:33,890
+Scott: Yeah, so if people didn't know, I might have talked about this on the show before, but there's more to say now.
+
+80
+00:04:34,050 --> 00:04:36,069
+Scott: Or maybe I didn't, in which case there's a lot to say.
+
+81
+00:04:37,611 --> 00:04:43,690
+Scott: They are now allowing emulators on the Apple App Store.
+
+82
+00:04:44,410 --> 00:04:47,822
+Scott: So you could get an NES emulator for your iPhone in the App Store.
+
+83
+00:04:47,862 --> 00:04:50,110
+Scott: Legit, no jailbreak, no hacking, no nothing.
+
+84
+00:04:50,270 --> 00:04:51,779
+Scott: Obviously, no ROMs.
+
+85
+00:04:51,800 --> 00:04:53,490
+Scott: Gotta get your ROMs elsewhere.
+
+86
+00:04:54,330 --> 00:04:58,209
+Rym: Because they had software that can read a file of a particular type and interpret it.
+
+87
+00:04:59,690 --> 00:05:05,670
+Scott: So there was someone attempted to put an emulator out there and Apple took them down.
+
+88
+00:05:07,252 --> 00:05:15,510
+Scott: Not because they were breaking the new emulator rule, but because they stole someone else's emulator and branded it as their own.
+
+89
+00:05:16,090 --> 00:05:17,189
+Scott: So that one's not up anymore.
+
+90
+00:05:18,110 --> 00:05:22,770
+Scott: There are other emulators that are up there now, so that's a thing now.
+
+91
+00:05:23,651 --> 00:05:34,230
+Scott: The second interesting thing about this is that when you make an emulator for iOS, there are all the features of iOS that you now have access to.
+
+92
+00:05:34,870 --> 00:05:37,130
+Scott: Most notably is AirPlay.
+
+93
+00:05:37,730 --> 00:05:50,209
+Scott: So this means, let's say you've got an Apple TV or other AirPlay capable device that can receive AirPlay, you can literally get an NES emulator on like an iPhone, an old one.
+
+94
+00:05:51,490 --> 00:06:01,310
+Scott: Broadcast the display to a television through an Apple TV and then use a Bluetooth game controller with your iPhone or Apple TV, either one.
+
+95
+00:06:02,311 --> 00:06:08,530
+Scott: And now you have a whole console, not just a portable game device, you have to tap on the screen with your thumbs and it sucks.
+
+96
+00:06:09,051 --> 00:06:15,128
+Scott: But an actual console with no wires whatsoever, except for I guess the HDMI cable from the Apple TV to the TV.
+
+97
+00:06:16,232 --> 00:06:20,490
+Scott: Some TVs, as we'll talk about, have AirPlay built in.
+
+98
+00:06:21,732 --> 00:06:28,050
+Rym: My almost literal dream from the year 1994, what if I could just make my emulators work on TVs?
+
+99
+00:06:29,050 --> 00:06:38,250
+Scott: Right, so we're starting to see the HTPC maybe not be so necessary if all these things come into play.
+
+100
+00:06:38,450 --> 00:06:38,671
+Scott: Right.
+
+101
+00:06:39,852 --> 00:06:52,290
+Scott: And then lastly, there's a problem is that, yeah, if you want to throw up emulators for newer consoles like GameCube or Wii, right, you can go right ahead.
+
+102
+00:06:52,450 --> 00:07:07,650
+Scott: The problem is that the app store rules do not allow you to put up an app that uses something called JIT, just in time compilation, which we're not going to talk about right now, even though it's a Monday show, it would be relevant.
+
+103
+00:07:08,751 --> 00:07:10,216
+Rym: I'll see if we ever talked about that.
+
+104
+00:07:10,577 --> 00:07:11,300
+Rym: I doubt it.
+
+105
+00:07:11,521 --> 00:07:14,290
+Rym: Maybe we talked about it adjacent to some other topic.
+
+106
+00:07:15,231 --> 00:07:20,358
+Scott: But in a very simplified to the point of being almost- Time crisis 5?
+
+107
+00:07:20,358 --> 00:07:22,269
+Rym: No, we didn't talk about this.
+
+108
+00:07:22,610 --> 00:07:24,753
+Scott: To the point of being almost wrong.
+
+109
+00:07:25,875 --> 00:07:37,350
+Scott: explanation is that you sort of get the source code is in the ROM, gets compiled, right, instead of compiling the software and then here you go, here's a compiled binary.
+
+110
+00:07:37,770 --> 00:07:54,750
+Scott: The software gets compiled and run just in time, like as you're running the software, you're compiling and then running the code you just compiled for performance benefits rather than, you know, interpreting all the, you know, instructions one at a time.
+
+111
+00:07:54,850 --> 00:08:08,070
+Scott: So you could make an emulator for GameCube or Wii or some newer consoles that it does classic interpretation, which is perfectly good enough for an NES emulator or Game Boy emulator or even a SNES emulator.
+
+112
+00:08:08,730 --> 00:08:19,063
+Scott: But to try to run a GameCube or a Wii game, the performance without, you know, newer, you know, just in time compilation will be horrendous, unplayable.
+
+113
+00:08:19,104 --> 00:08:24,170
+Scott: horrendous to the point at which you might not even get accepted in the app store because the app is useless.
+
+114
+00:08:24,691 --> 00:08:24,912
+Scott: Right.
+
+115
+00:08:24,972 --> 00:08:26,154
+Scott: It did run so slowly.
+
+116
+00:08:26,235 --> 00:08:33,090
+Scott: So you can't have an emulator for those because of other unrelated technical reasons.
+
+117
+00:08:33,289 --> 00:08:43,710
+Rym: Which leads us back to the whole HTPC situation in that the benefit of an HTPC generally is that you can run whatever software you want on it without any hassle.
+
+118
+00:08:44,392 --> 00:08:44,573
+Scott: Yep.
+
+119
+00:08:44,855 --> 00:08:47,009
+Rym: That software might be malware, but that's on you.
+
+120
+00:08:47,850 --> 00:08:53,910
+Scott: There is still room for the HTPC has not been eliminated yet because they're not letting you do anything.
+
+121
+00:08:54,071 --> 00:08:57,710
+Rym: I feel like Apple is not going to ever break from this rule.
+
+122
+00:08:58,310 --> 00:09:00,070
+Scott: Well, because it's a it's a security concern.
+
+123
+00:09:02,231 --> 00:09:03,254
+Scott: There's various ways.
+
+124
+00:09:03,314 --> 00:09:09,549
+Scott: if you if they let you do that, that you could basically get around all use that technique to get around all sorts of other.
+
+125
+00:09:10,730 --> 00:09:19,550
+Rym: The simplest way you could make an app that passes all the security tests, but has a very obfuscated exploit that's triggered by a payload that you load into that app.
+
+126
+00:09:20,311 --> 00:09:30,650
+Scott: But if you're trying to get it in the app store, someone is going to play and test the app, one of the employees, and they're going to test it out on your legal, you know, we ROM that you've provided.
+
+127
+00:09:31,810 --> 00:09:36,630
+Scott: And it's going to run so beautifully and they're going to know, huh, how is this working so beautifully?
+
+128
+00:09:38,353 --> 00:09:39,709
+Scott: And so it's not going to work.
+
+129
+00:09:39,950 --> 00:09:49,650
+Scott: So it's just a lot of really interesting stuff going on there, particularly the airplay aspect that you could, you know, you're not bringing the HTPC with you everywhere you go.
+
+130
+00:09:50,411 --> 00:09:57,930
+Scott: But you could just, bam, take out your iPhone and get, you know, old, get all your ROMs that you've got on there because you're following the law.
+
+131
+00:09:58,391 --> 00:10:06,730
+Scott: And then just play them on almost any television that has airplay and a little Bluetooth game that you carry around with you.
+
+132
+00:10:07,071 --> 00:10:14,290
+Rym: I often do, when I travel, effectively bring an HTPC with me everywhere because I still have a regular old Windows laptop and, you know, it happens to have a whole bunch of emulators.
+
+133
+00:10:14,350 --> 00:10:16,421
+Scott: The MacBook has an HDMI port on it.
+
+134
+00:10:16,863 --> 00:10:18,189
+Scott: It's the same thing.
+
+135
+00:10:19,430 --> 00:10:26,530
+Rym: So in some other news, there's a long trail of news that leads us to today, and it's a pretty interesting place.
+
+136
+00:10:26,890 --> 00:10:30,110
+Rym: I'm going to also broadly summarize what's going on here.
+
+137
+00:10:30,210 --> 00:10:43,570
+Rym: But if you weren't aware, there's something called the GDPR in Europe, and there's other related regulations, but it basically requires companies to respect basic privacy ideas.
+
+138
+00:10:44,331 --> 00:10:54,010
+Rym: And they have extreme power to, to use an industry term, completely fuck over any company that violates these basic privacy rules.
+
+139
+00:10:54,291 --> 00:10:55,933
+Scott: At least as far as Europe goes, right?
+
+140
+00:10:56,114 --> 00:11:05,070
+Scott: They can basically say you can't do business in Europe, you can't sell your product here, you can't offer your website here, you can't collect money from Europeans.
+
+141
+00:11:05,350 --> 00:11:13,110
+Rym: They can also fine you, like the fine structure for violating this is based on your company's global total revenue.
+
+142
+00:11:14,610 --> 00:11:15,932
+Rym: So that's all there.
+
+143
+00:11:16,193 --> 00:11:28,610
+Rym: And of course, independent of that, pretty much every website that normal people use, the only way it makes money is by having horrific ads and extreme spying, and the ads are driven by the data from the extreme spying.
+
+144
+00:11:29,250 --> 00:11:31,750
+Rym: So websites can't make money in Europe.
+
+145
+00:11:32,475 --> 00:11:33,629
+Scott: Unless they charge money.
+
+146
+00:11:34,114 --> 00:11:34,708
+Scott: Yes, so.
+
+147
+00:11:35,150 --> 00:11:36,069
+Scott: Directly to somebody.
+
+148
+00:11:37,431 --> 00:11:51,110
+Rym: So way back in ancient times, in October of 2023, Meta, Facebook, announced that they're going to have an ad-free version of Facebook that costs money.
+
+149
+00:11:52,070 --> 00:11:54,898
+Rym: Now on the surface, that sounds like everything.
+
+150
+00:11:54,938 --> 00:11:59,350
+Rym: we always say, you should pay for things with money, not with other weird non-money things.
+
+151
+00:11:59,731 --> 00:12:02,826
+Rym: If the price were right, I mean, I pay for ad-free YouTube, like.
+
+152
+00:12:02,846 --> 00:12:03,730
+Rym: that's the thing I pay for.
+
+153
+00:12:03,870 --> 00:12:10,890
+Scott: If you pay for that, is it actually like, is it not just ad-free, but like, is it really a pure Facebook that doesn't have any bullshit whatsoever?
+
+154
+00:12:13,011 --> 00:12:14,089
+Scott: Would that even be good?
+
+155
+00:12:15,131 --> 00:12:21,770
+Rym: So they are only offering ad-free Facebook in Europe.
+
+156
+00:12:22,311 --> 00:12:28,390
+Scott: Well, that tells you that they they make more money from your data than they make from you paying whatever that subscription fee is.
+
+157
+00:12:30,111 --> 00:12:31,409
+Scott: That's how valuable it is.
+
+158
+00:12:31,690 --> 00:12:34,330
+Scott: Like if you look at the subscription, what is the subscription fee, does it say?
+
+159
+00:12:34,912 --> 00:12:35,779
+Rym: Ah, it's a lot.
+
+160
+00:12:35,839 --> 00:12:37,169
+Rym: It's ten bucks a month.
+
+161
+00:12:37,850 --> 00:12:40,950
+Scott: So that means the data that Facebook collects from a single person.
+
+162
+00:12:41,190 --> 00:12:42,509
+Rym: Sorry, ten euros a month.
+
+163
+00:12:43,310 --> 00:12:44,970
+Scott: And plus, oh ten euros, okay.
+
+164
+00:12:45,170 --> 00:12:46,130
+Scott: That's about ten bucks a month.
+
+165
+00:12:46,490 --> 00:13:00,330
+Scott: The data that they collect from you, and the ad revenue they get from the ads they show to a single Facebook user over the course of thirty days, is worth close to ten euros.
+
+166
+00:13:00,530 --> 00:13:06,190
+Rym: Yeah, so they should be paying me nine euros a month to even use their fucking website in the first place.
+
+167
+00:13:06,530 --> 00:13:08,370
+Scott: That is what should be the other option.
+
+168
+00:13:08,470 --> 00:13:15,550
+Scott: The option should be, do you want to pay us ten euros, or we will collect your data and give you ten euros.
+
+169
+00:13:16,032 --> 00:13:18,110
+Scott: Those should be the two options.
+
+170
+00:13:18,952 --> 00:13:31,670
+Rym: Tell you what, if Twitter wasn't full of extremely violent Nazis right now, if Twitter was like old Twitter, if they paid me five bucks a month to shitpost, damn howdy would I be still shitposting.
+
+171
+00:13:31,810 --> 00:13:33,480
+Scott: That's the YouTube model, right?
+
+172
+00:13:33,540 --> 00:13:35,070
+Scott: We pay you to upload your videos.
+
+173
+00:13:36,710 --> 00:13:45,870
+Rym: So it's very clear that they're doing this to try to skirt around European stuff, the fact that they only earmarked it to Europe, specifically.
+
+174
+00:13:46,472 --> 00:13:49,481
+Rym: So, fast forward a little bit, got another article.
+
+175
+00:13:49,943 --> 00:13:53,671
+Rym: This is from March 1st of 2024.
+
+176
+00:13:53,671 --> 00:14:02,210
+Rym: The EU does not trust what Meta announced, arguing that this is effectively extortion.
+
+177
+00:14:02,770 --> 00:14:20,530
+Rym: They're basically telling Europeans, you either have to pay or be tracked, because the way it worked is if you didn't pay to get the ad-free version of Facebook, then Facebook didn't work until you consented to all the privacy-breaking tracking bullshit in Facebook.
+
+178
+00:14:21,691 --> 00:14:22,956
+Scott: Because otherwise their ads don't work.
+
+179
+00:14:22,976 --> 00:14:26,630
+Rym: Now of course, this sidesteps the fact that Facebook could.
+
+180
+00:14:27,910 --> 00:14:29,414
+Rym: They don't even have to stop selling ads.
+
+181
+00:14:29,535 --> 00:14:35,230
+Rym: In Europe, Facebook could have as many ads as they want, and the EU would not care at all.
+
+182
+00:14:35,511 --> 00:14:45,130
+Rym: The only sticking point is the amount of data they steal from you and track about you in order to target those ads, which is another very important thing.
+
+183
+00:14:45,210 --> 00:14:57,110
+Scott: If they didn't target the ads, if they were just not governed by data, not targeted or anything, the ad revenue, who would be willing to buy the ads would dramatically decrease.
+
+184
+00:14:57,751 --> 00:15:00,324
+Scott: The value of the ad real estate would dramatically decrease.
+
+185
+00:15:00,344 --> 00:15:01,530
+Scott: They'd lose a fortune.
+
+186
+00:15:03,451 --> 00:15:22,590
+Rym: Now I would say, again talking about what should the real options be, I think non-opt-in, like non-consensual, non-affirmatively opt-in advertising, should by law, it should be illegal to use any data to target the ads in any way except for where they are shown.
+
+187
+00:15:23,190 --> 00:15:25,630
+Rym: They shouldn't be able to use any data to target those ads.
+
+188
+00:15:26,551 --> 00:15:30,075
+Scott: Right, it's like you can't opt-in to slavery.
+
+189
+00:15:30,836 --> 00:15:32,458
+Scott: There should be certain things.
+
+190
+00:15:32,518 --> 00:15:39,607
+Scott: It's like, no, no matter, even if you put in a big button that's like, yes, you can have all my data, it's like, no, you can't.
+
+191
+00:15:39,747 --> 00:15:41,389
+Scott: You can't take people's data, period.
+
+192
+00:15:41,409 --> 00:15:41,810
+Scott: Tough shit.
+
+193
+00:15:42,830 --> 00:15:45,093
+Rym: Now I could carve out an exception.
+
+194
+00:15:45,214 --> 00:15:53,766
+Rym: If someone wanted to opt-in to, I will share my data, in return I get targeted ads that I want ads.
+
+195
+00:15:54,346 --> 00:15:55,508
+Rym: Track me to give me ads.
+
+196
+00:15:55,748 --> 00:15:56,890
+Rym: I feel like that would be okay.
+
+197
+00:15:56,970 --> 00:15:59,134
+Rym: But again, that is not what's happening here.
+
+198
+00:15:59,154 --> 00:16:04,182
+Rym: This is Facebook basically saying, we're going to track you and show you ads.
+
+199
+00:16:04,443 --> 00:16:06,366
+Rym: You can pay us to not track you.
+
+200
+00:16:06,787 --> 00:16:08,770
+Rym: And the ads are just along for the ride on that.
+
+201
+00:16:09,050 --> 00:16:20,330
+Rym: So the EU looked at this whole model and all the complaints they got about it, and they're basically saying, yeah, this doesn't pass even the remotest sniff test of the intent of all our legislation.
+
+202
+00:16:21,230 --> 00:16:30,225
+Scott: Yeah, we saw this, you know, there was another recent one where we saw, I forget what it was, where someone wasn't following the letter of the law.
+
+203
+00:16:30,245 --> 00:16:33,130
+Scott: Oh, they were following the letter, but not the spirit.
+
+204
+00:16:33,171 --> 00:16:34,369
+Rym: Apple did that a bunch.
+
+205
+00:16:36,057 --> 00:16:37,070
+Scott: It was a recent one, though.
+
+206
+00:16:37,130 --> 00:16:39,449
+Rym: This was the Apple App Store Fortnite thing.
+
+207
+00:16:42,199 --> 00:16:42,949
+Scott: It could have been that one.
+
+208
+00:16:43,430 --> 00:16:44,135
+Rym: I mean, that's one of them.
+
+209
+00:16:44,195 --> 00:16:46,670
+Rym: I feel like this is happening a lot lately.
+
+210
+00:16:48,771 --> 00:16:51,337
+Scott: Basically, all the companies are doing this in Europe, right?
+
+211
+00:16:51,357 --> 00:16:56,210
+Scott: Which is trying to follow the letter of the law without actually following the spirit.
+
+212
+00:16:56,250 --> 00:17:14,569
+Rym: Yeah, but this is something very interesting and important about Europe and EU regulations in that if I were to broadly, to the point of absurdity, characterize the US and British history of legal systems to the current European legal system regime.
+
+213
+00:17:16,276 --> 00:17:18,369
+Scott: It's much newer, so that helps.
+
+214
+00:17:19,290 --> 00:17:36,850
+Rym: But broadly, I would say the American-British common law history system is very legalistic in contrast to the European model, which is much more, you know what I fucking meant when I wrote that, don't fuck with me, don't play with me.
+
+215
+00:17:39,370 --> 00:17:50,849
+Rym: So basically, now this current news, a whole bunch of rights groups in Europe are formally telling the EU, "Look, Facebook's clearly trying to get around this, so how are you going to stop
+
+216
+00:17:50,889 --> 00:17:51,009
+Rym: them?".
+
+217
+00:17:52,093 --> 00:17:53,666
+Scott: I think what they should do is just be like,
+
+218
+00:17:53,988 --> 00:17:54,089
+Scott: "No."
+
+219
+00:17:56,050 --> 00:17:56,351
+Scott: Yeah.
+
+220
+00:17:56,551 --> 00:18:03,983
+Rym: Well, there's big implications here because on one hand, we have said for a long time that really you should pay for products with money.
+
+221
+00:18:04,063 --> 00:18:07,809
+Rym: So that would thereby make sense that YouTube should cost me $5 a month to use.
+
+222
+00:18:08,972 --> 00:18:13,910
+Scott: All the people who don't want to pay or can't pay for Facebook just lose all their accounts.
+
+223
+00:18:14,931 --> 00:18:15,193
+Rym: Yep.
+
+224
+00:18:15,858 --> 00:18:16,826
+Rym: So the other...
+
+225
+00:18:17,551 --> 00:18:19,710
+Scott: You also need the law that people can get their data out.
+
+226
+00:18:19,970 --> 00:18:20,091
+Scott: Yep.
+
+227
+00:18:20,554 --> 00:18:22,930
+Rym: Not that most people would even know how to use that data for anything.
+
+228
+00:18:23,031 --> 00:18:23,254
+Scott: Right.
+
+229
+00:18:23,334 --> 00:18:24,710
+Scott: So that they can back up their stuff.
+
+230
+00:18:24,871 --> 00:18:26,428
+Rym: If they even know how to do that.
+
+231
+00:18:27,453 --> 00:18:29,190
+Scott: Or if there's anywhere to upload it to afterwards.
+
+232
+00:18:30,131 --> 00:18:30,371
+Rym: Right.
+
+233
+00:18:31,152 --> 00:18:44,550
+Rym: But the more realistic scenario is that because of the way the world works, all these kinds of systems, all these kinds of services are more along the lines of you either pay to not see ads or you get to use it for free, but you see ads.
+
+234
+00:18:44,931 --> 00:18:54,210
+Rym: But that itself is a kind of false choice because the tracking is baked into both options everywhere except the EU.
+
+235
+00:18:54,950 --> 00:19:04,370
+Rym: And the tracking doesn't get talked about enough, especially considering the tracking both generates direct revenue and the tracking is the only reason the ads work in the first place.
+
+236
+00:19:04,930 --> 00:19:12,970
+Rym: The tracking is thereby, as much as I hate ads, I'm going to come to the conclusion the tracking is the bigger problem.
+
+237
+00:19:14,111 --> 00:19:16,536
+Scott: Well, the ads would still work without the tracking.
+
+238
+00:19:16,636 --> 00:19:19,522
+Scott: It would just be like old fashioned ads, right?
+
+239
+00:19:19,542 --> 00:19:23,030
+Scott: Where you have to show the same car ads of the whole world on the Super Bowl.
+
+240
+00:19:23,570 --> 00:19:32,627
+Scott: And you can't show little Timmy a Fortnite ad and show, I don't know, Grandma an ad for whatever Grandma wants.
+
+241
+00:19:32,948 --> 00:19:33,549
+Scott: Knitting needles?
+
+242
+00:19:33,629 --> 00:19:33,950
+Scott: I don't know.
+
+243
+00:19:34,370 --> 00:19:35,601
+Scott: Whatever is stereotypically.
+
+244
+00:19:35,641 --> 00:19:36,650
+Scott: Grandpa some golf clubs.
+
+245
+00:19:36,670 --> 00:19:38,450
+Rym: You know, I might have seen it because I was in Michigan.
+
+246
+00:19:38,490 --> 00:19:39,624
+Scott: Maybe Grandma wants golf clubs.
+
+247
+00:19:39,685 --> 00:19:40,029
+Scott: I don't know.
+
+248
+00:19:40,351 --> 00:19:42,839
+Rym: I was in Michigan in waiting rooms in public places for a while.
+
+249
+00:19:42,899 --> 00:19:46,250
+Rym: So broadcast TV with ads was on in the background everywhere I went.
+
+250
+00:19:46,890 --> 00:20:00,470
+Rym: And I will just say that based on the sampling of when I happened to look up at those TVs at any point over the last several days, almost all ads are for prescription medicine or cars.
+
+251
+00:20:01,390 --> 00:20:01,696
+Scott: Pretty much.
+
+252
+00:20:01,940 --> 00:20:02,409
+Scott: Oh, alcohol.
+
+253
+00:20:03,112 --> 00:20:04,303
+Rym: I didn't see that many alcohol ads.
+
+254
+00:20:04,343 --> 00:20:04,908
+Rym: I saw way more.
+
+255
+00:20:06,011 --> 00:20:07,510
+Scott: If it's a sporting event, you'll see.
+
+256
+00:20:07,550 --> 00:20:07,772
+Scott: True.
+
+257
+00:20:07,852 --> 00:20:10,310
+Scott: I didn't watch many sports except hockey.
+
+258
+00:20:10,731 --> 00:20:11,130
+Scott: Sports gambling.
+
+259
+00:20:11,670 --> 00:20:11,871
+Scott: Yeah.
+
+260
+00:20:12,454 --> 00:20:13,679
+Rym: God, sports gambling ads.
+
+261
+00:20:13,719 --> 00:20:14,985
+Rym: We should just ban those directly.
+
+262
+00:20:15,146 --> 00:20:16,110
+Rym: Unrelated to everything else.
+
+263
+00:20:16,410 --> 00:20:17,321
+Scott: There's also insurance.
+
+264
+00:20:17,462 --> 00:20:18,009
+Scott: ads are big.
+
+265
+00:20:19,051 --> 00:20:19,510
+Rym: Ah, yeah.
+
+266
+00:20:20,212 --> 00:20:20,937
+Scott: And food ads.
+
+267
+00:20:21,521 --> 00:20:22,710
+Scott: Fast foods and soft drinks.
+
+268
+00:20:23,830 --> 00:20:28,530
+Rym: But I would say that prescription medication ads were the far majority of ads that I saw.
+
+269
+00:20:28,591 --> 00:20:29,309
+Scott: There's a lot of them.
+
+270
+00:20:29,891 --> 00:20:31,509
+Scott: They never should have made it legal to do that.
+
+271
+00:20:31,671 --> 00:20:31,774
+Scott: Nope.
+
+272
+00:20:31,857 --> 00:20:32,270
+Scott: Never should.
+
+273
+00:20:32,310 --> 00:20:32,819
+Scott: Big mistake.
+
+274
+00:20:33,043 --> 00:20:33,429
+Scott: Big mistake.
+
+275
+00:20:35,734 --> 00:20:39,230
+Rym: But anyway, things of the day.
+
+276
+00:20:40,010 --> 00:20:40,948
+Rym: So check this out.
+
+277
+00:20:41,430 --> 00:20:46,690
+Rym: This is this thing that is only OK, but the topic is what is the interesting part of what we got.
+
+278
+00:20:46,790 --> 00:20:49,449
+Rym: This is called 90s computer room.
+
+279
+00:20:49,995 --> 00:20:50,750
+Rym: Emoji emoji.
+
+280
+00:20:51,190 --> 00:20:53,250
+Rym: Windows 95.
+
+281
+00:20:53,250 --> 00:20:56,810
+Rym: Nostalgicore music and ambience extended version.
+
+282
+00:20:57,513 --> 00:20:59,730
+Rym: It's a three hour and forty six minute long video.
+
+283
+00:20:59,830 --> 00:21:04,768
+Rym: And all it is, is something that looks like what an A.I.
+
+284
+00:21:04,969 --> 00:21:05,250
+Rym: thought.
+
+285
+00:21:06,210 --> 00:21:11,662
+Rym: The place a family computer would sit and be used in the year between, I guess, 1994 and 1996, like that era of life.
+
+286
+00:21:15,633 --> 00:21:17,749
+Rym: Like what it was like to sit at a computer like that.
+
+287
+00:21:18,131 --> 00:21:25,130
+Rym: So you got a big gray mid tower computer with a floppy drive in it and a multimedia drive in it.
+
+288
+00:21:25,491 --> 00:21:26,919
+Rym: You got a 19 or 20 inch CRT four by three.
+
+289
+00:21:29,093 --> 00:21:30,590
+Rym: You got the Logitech sick mic.
+
+290
+00:21:31,032 --> 00:21:32,929
+Rym: You got the Logitech speaker that everyone had.
+
+291
+00:21:33,452 --> 00:21:35,970
+Rym: You got 90s shit laying around the room.
+
+292
+00:21:36,553 --> 00:21:37,359
+Scott: And it's just sort of this.
+
+293
+00:21:37,520 --> 00:21:38,770
+Rym: ambience late at night.
+
+294
+00:21:39,330 --> 00:21:42,750
+Rym: Like this is what this is the vibe of before the Internet.
+
+295
+00:21:43,210 --> 00:21:46,024
+Rym: What we did when we were sitting at a computer at night in the 90s.
+
+296
+00:21:47,910 --> 00:21:56,410
+Rym: Now, on one hand, it is not strictly accurate for a number of the things that appear on this monitor in the background while the ambient music is playing.
+
+297
+00:21:57,090 --> 00:22:01,978
+Rym: There's a couple SNES games that appear at various points, which there was.
+
+298
+00:22:02,319 --> 00:22:09,410
+Rym: if I could have gotten my SNES to output to my computer monitor, that would have been a major achievement in my childhood.
+
+299
+00:22:09,471 --> 00:22:10,769
+Rym: That was not possible back then.
+
+300
+00:22:11,390 --> 00:22:12,117
+Scott: I now have a thing.
+
+301
+00:22:12,158 --> 00:22:13,370
+Scott: I just bought a thing that will do that.
+
+302
+00:22:13,510 --> 00:22:14,247
+Scott: Did just buy a thing.
+
+303
+00:22:15,610 --> 00:22:41,390
+Rym: But my thing of the day is partly this, because I have distinct memories, like very distinct memories of what it was like in the early to mid 90s to be sitting at a multimedia computer in front of a tiny CRT alone at night in your house while the rest of the family is asleep, just clicking on things because there wasn't that much to do on a computer before the Internet.
+
+304
+00:22:44,390 --> 00:22:45,007
+Rym: So what do you got?
+
+305
+00:22:46,030 --> 00:22:49,510
+Scott: So I don't know if we're going to be able to put this thing of the day on our new website.
+
+306
+00:22:49,651 --> 00:22:49,994
+Rym: Yeah, I know.
+
+307
+00:22:50,014 --> 00:22:52,190
+Rym: I didn't check to see if I could put a telnet link there.
+
+308
+00:22:52,531 --> 00:22:54,250
+Scott: It's going to make an Ahref, right?
+
+309
+00:22:56,892 --> 00:23:00,209
+Scott: But anyway, maybe there's a website for this thing that we can link to.
+
+310
+00:23:00,371 --> 00:23:01,770
+Scott: I can link to the GitHub.
+
+311
+00:23:02,854 --> 00:23:03,710
+Scott: Yeah, that's a good idea.
+
+312
+00:23:04,270 --> 00:23:06,810
+Scott: So what it is is you've got to go to telnet.
+
+313
+00:23:06,950 --> 00:23:09,850
+Scott: You've got to open up your terminal and type telnet space.
+
+314
+00:23:10,974 --> 00:23:12,690
+Rym: I'm not telling it to even come on Windows anymore.
+
+315
+00:23:12,771 --> 00:23:13,890
+Scott: I think it does.
+
+316
+00:23:14,092 --> 00:23:14,629
+Scott: It's in CMD.
+
+317
+00:23:15,111 --> 00:23:16,647
+Scott: Yeah, but you can always install it anyway.
+
+318
+00:23:18,251 --> 00:23:19,249
+Scott: And that is not right.
+
+319
+00:23:19,370 --> 00:23:20,809
+Rym: Tell that is not installed by default.
+
+320
+00:23:21,510 --> 00:23:23,829
+Scott: You can go to the add on section in Windows and add it.
+
+321
+00:23:24,010 --> 00:23:28,110
+Scott: And you can also you mean it's not installed by default on most Linux distros and Mac.
+
+322
+00:23:28,270 --> 00:23:36,690
+Rym: You got to install because telnet is ancient technology, even though as late as the year 2002, I was using raw unencrypted telnet to read my email over the Internet.
+
+323
+00:23:37,094 --> 00:23:37,647
+Scott: Anyway, you go.
+
+324
+00:23:37,830 --> 00:23:40,970
+Scott: It's M-A-P-S-C-I-I.
+
+325
+00:23:41,693 --> 00:23:42,470
+Scott: Yeah, there is a GitHub.
+
+326
+00:23:42,930 --> 00:23:44,289
+Scott: Rasta Pasta is the person.
+
+327
+00:23:45,011 --> 00:23:46,610
+Scott: And the data comes from OpenStreetMap.
+
+328
+00:23:46,830 --> 00:23:54,530
+Scott: And basically the way it works is in your terminal, which is completely using ASCII text characters and colors.
+
+329
+00:23:55,313 --> 00:23:58,290
+Scott: It is giving you a map just like Google Maps.
+
+330
+00:23:59,131 --> 00:24:11,630
+Scott: And you can use your mouse to pan and zoom with the scroll wheel, just like it's Google Maps, with surprising performance and shocking resolution clarity.
+
+331
+00:24:12,210 --> 00:24:16,130
+Rym: Whatever you think this is, it is so much more impressive than what you're imagining.
+
+332
+00:24:16,950 --> 00:24:19,310
+Scott: And it has all the OpenStreetMap data.
+
+333
+00:24:19,370 --> 00:24:29,110
+Scott: So they got like businesses and roads and like it is shocking the kind of interface they've been able to make inside of a little terminal.
+
+334
+00:24:30,598 --> 00:24:31,409
+Scott: It's pretty awesome.
+
+335
+00:24:32,132 --> 00:24:33,847
+Scott: A great, great achievement here.
+
+336
+00:24:35,951 --> 00:24:40,689
+Scott: It's like, it's like, wow, it's like just a normal, like you go to Google Maps, you know, go wow, even though you probably should.
+
+337
+00:24:41,031 --> 00:24:45,790
+Rym: I mean, I went wild the first time I went to Google Maps on a phone.
+
+338
+00:24:46,835 --> 00:24:47,087
+Scott: Yeah.
+
+339
+00:24:48,713 --> 00:24:53,990
+Scott: But, you know, seeing it just like in an old, it's like, you know, someone's cramming something.
+
+340
+00:24:54,410 --> 00:25:03,510
+Scott: It's like if you, it's like I turned on an NES and it still looked like NES quality graphics, but we were playing Tears of the Kingdom.
+
+341
+00:25:03,795 --> 00:25:04,568
+Scott: It's sort of like that.
+
+342
+00:25:06,010 --> 00:25:10,850
+Rym: But it was also like, this isn't just a video someone made using animation.
+
+343
+00:25:11,110 --> 00:25:12,650
+Rym: Like this is live in a terminal.
+
+344
+00:25:13,010 --> 00:25:13,809
+Scott: Oh yeah, no, it's real.
+
+345
+00:25:14,050 --> 00:25:14,146
+Scott: Yeah.
+
+346
+00:25:14,671 --> 00:25:18,490
+Rym: In the meta moment, the GeekNights Book Club book, the night is short, walk on girl.
+
+347
+00:25:18,771 --> 00:25:21,770
+Rym: I've read nearly to the end because I had a bunch of travels so we can do a show.
+
+348
+00:25:22,012 --> 00:25:22,250
+Scott: All right.
+
+349
+00:25:22,834 --> 00:25:23,628
+Scott: I forgot about that.
+
+350
+00:25:24,372 --> 00:25:26,770
+Rym: If not next Thursday, definitely the following Thursday.
+
+351
+00:25:27,290 --> 00:25:32,470
+Rym: And I got to say, I had no spoilers obviously, but of course the book club, we're going to talk about it.
+
+352
+00:25:32,510 --> 00:25:33,548
+Rym: Assuming you've read the book.
+
+353
+00:25:34,570 --> 00:25:42,570
+Rym: But when we reviewed the movie about the book and based on the book, we didn't like get too deep into the allegory and the spoilers and mostly reviewed the movie as is.
+
+354
+00:25:43,391 --> 00:25:55,070
+Rym: I have mixed and different interpretations of key aspects of this story that I derived solely from the book that I either did not pick up on or were not present in in the movie.
+
+355
+00:25:55,853 --> 00:25:57,810
+Rym: And I think I got some interesting things to talk about.
+
+356
+00:25:57,850 --> 00:26:03,770
+Rym: I got a, not a theory, like it's not on that level, but I have some more takeaways from the book than I did from the movie.
+
+357
+00:26:04,976 --> 00:26:06,009
+Scott: And I did not expect that.
+
+358
+00:26:06,490 --> 00:26:07,909
+Scott: That's how, that's how, you know, written.
+
+359
+00:26:08,790 --> 00:26:09,625
+Rym: That's how the written word is.
+
+360
+00:26:10,435 --> 00:26:10,630
+Scott: Yeah.
+
+361
+00:26:10,892 --> 00:26:13,210
+Scott: That's usually why books are worth reading.
+
+362
+00:26:13,570 --> 00:26:15,788
+Scott: And, you know, uh, yeah.
+
+363
+00:26:16,530 --> 00:26:18,688
+Rym: Otherwise conventions of the future will.
+
+364
+00:26:19,951 --> 00:26:20,449
+Scott: Pax West.
+
+365
+00:26:20,813 --> 00:26:21,369
+Rym: Pax West.
+
+366
+00:26:21,810 --> 00:26:22,565
+Rym: Pax Unplugged.
+
+367
+00:26:24,044 --> 00:26:24,190
+Scott: Yeah.
+
+368
+00:26:24,231 --> 00:26:25,348
+Scott: There's really nothing going on.
+
+369
+00:26:25,930 --> 00:26:26,168
+Rym: Magfest.
+
+370
+00:26:26,190 --> 00:26:29,670
+Rym: No, it's still vaguely thinking about Magstock, but we'll see.
+
+371
+00:26:29,910 --> 00:26:30,869
+Rym: That's a, I got a lot.
+
+372
+00:26:31,471 --> 00:26:33,770
+Rym: This would, this is like the summer of George coming up.
+
+373
+00:26:33,830 --> 00:26:39,790
+Rym: If I got so much stuff I'm trying to plan that like I can't even plan the week in Wildwood because I got too much in my calendar already.
+
+374
+00:26:41,092 --> 00:26:43,330
+Rym: This is, this is like the summer of coming back out into the world.
+
+375
+00:26:44,391 --> 00:26:45,390
+Scott: So you're going to talk about TVs.
+
+376
+00:26:45,610 --> 00:26:46,228
+Scott: Talk about TVs.
+
+377
+00:26:46,850 --> 00:26:49,390
+Scott: I bought a TV when I wasn't planning to buy a TV.
+
+378
+00:26:49,610 --> 00:27:01,710
+Scott: So what happened was, uh, I started looking at, you know, TV related media, like TV reviews and technical discussions because I was, I researched, I think dumb TVs at one point.
+
+379
+00:27:01,770 --> 00:27:07,510
+Scott: Like, are there any, um, and like are the ones that you can get to like display a menu in your restaurant?
+
+380
+00:27:07,653 --> 00:27:08,430
+Scott: Those are dumb TVs.
+
+381
+00:27:08,631 --> 00:27:10,077
+Scott: If you buy one, are they any good?
+
+382
+00:27:10,560 --> 00:27:12,790
+Scott: or is there a big monitor you can get?
+
+383
+00:27:12,931 --> 00:27:15,770
+Scott: That's just a monitor, but you hang it in your living room cause it's big.
+
+384
+00:27:15,850 --> 00:27:16,827
+Scott: There are a couple of those.
+
+385
+00:27:17,418 --> 00:27:18,130
+Rym: So you went down that road.
+
+386
+00:27:18,290 --> 00:27:18,728
+Rym: I just gay.
+
+387
+00:27:19,010 --> 00:27:28,310
+Rym: I, cause I, while you were not planning to buy a TV, I'm actively planning to buy a TV, but you'll note I have not pulled the trigger yet while you, but uh, you went down that road of research.
+
+388
+00:27:28,510 --> 00:27:31,798
+Rym: I skipped that and just assumed I'm just going to have to get a regular TV.
+
+389
+00:27:31,898 --> 00:27:37,390
+Rym: cause then the 30 seconds of research I did on, could I just get a really big monitor?
+
+390
+00:27:37,753 --> 00:27:39,609
+Rym: They were just way too expensive for the quality.
+
+391
+00:27:40,138 --> 00:27:40,265
+Scott: Yeah.
+
+392
+00:27:40,490 --> 00:27:42,310
+Scott: I wasn't planning to actually buy one of these.
+
+393
+00:27:42,431 --> 00:27:43,728
+Scott: I was just researching, right.
+
+394
+00:27:44,090 --> 00:27:51,210
+Scott: And sort of, you know, you know, learning about display technologies and what, what changes have been made and what's available out there.
+
+395
+00:27:51,870 --> 00:28:09,490
+Scott: Um, and, but, and even though there are plenty of new TV announcements for like the months and months I was looking into this stuff, um, I was like, wow, that's a fancy new TV, but my 55 inch 1080P TV that is 10 plus years old that we got for free is still perfectly fine.
+
+396
+00:28:09,930 --> 00:28:10,368
+Scott: It works.
+
+397
+00:28:10,811 --> 00:28:13,840
+Scott: There is no, nothing that I want to do that it doesn't do.
+
+398
+00:28:13,860 --> 00:28:14,983
+Scott: that I can imagine.
+
+399
+00:28:15,043 --> 00:28:17,490
+Scott: really that's worth paying that price for.
+
+400
+00:28:18,510 --> 00:28:20,649
+Scott: And why would I buy that fancy new TV?
+
+401
+00:28:21,470 --> 00:28:21,538
+Scott: Meh.
+
+402
+00:28:22,070 --> 00:28:22,190
+Scott: Right.
+
+403
+00:28:23,150 --> 00:28:30,023
+Scott: Uh, but then suddenly, right, just like a month or two ago, uh, Samsung announced their new TVs.
+
+404
+00:28:30,063 --> 00:28:33,490
+Scott: cause it early in the years when they all announced new TV models, right.
+
+405
+00:28:33,510 --> 00:28:36,289
+Scott: Which usually just slightly upgraded from the last year.
+
+406
+00:28:36,475 --> 00:28:36,563
+Scott: Yeah.
+
+407
+00:28:36,810 --> 00:28:41,450
+Scott: And I just about everyone updated at CES, um, including Samsung.
+
+408
+00:28:41,611 --> 00:28:44,250
+Scott: So when he waited a little bit, they did, there's like a week or two ago.
+
+409
+00:28:45,110 --> 00:29:02,510
+Scott: Um, but anyway, they announced the newest, highest end, most expensive, well, not technically not, but the most expensive normal consumer TV that they offer the S 95 D. last year it was the S 95 C um, which is basically their highest end OLED.
+
+410
+00:29:02,670 --> 00:29:10,710
+Scott: And they're like, this TV is going to have, you know, all this stuff, but also it's going to have this new anti glare coding.
+
+411
+00:29:10,771 --> 00:29:11,607
+Scott: And I was like, wait, what?
+
+412
+00:29:12,210 --> 00:29:12,370
+Scott: Right.
+
+413
+00:29:12,990 --> 00:29:24,570
+Scott: So it just so happens that where I live, we had big windows facing south in the Northern hemisphere and the sun shines right the fuck in the window directly.
+
+414
+00:29:25,032 --> 00:29:29,330
+Scott: And even if you, we can't, we can only use so much curtain and blinds, right.
+
+415
+00:29:29,530 --> 00:29:33,090
+Scott: Action there, you know, cause there was a renting and it's a pain in the ass and whatnot.
+
+416
+00:29:33,691 --> 00:29:39,130
+Scott: Um, and the way the windows are structured and the way the heater is, it's, it's, we can't really get it any darker.
+
+417
+00:29:39,150 --> 00:29:39,276
+Scott: Right.
+
+418
+00:29:39,630 --> 00:29:42,950
+Rym: When the sun comes in, this is a problem you definitely have.
+
+419
+00:29:42,970 --> 00:29:49,169
+Rym: Cause I've witnessed it firsthand that just by the direction our apartment faces, we literally have do not have that problem.
+
+420
+00:29:49,691 --> 00:29:53,430
+Scott: But since that building went up blocking the sun, you don't have that problem.
+
+421
+00:29:53,871 --> 00:30:06,990
+Scott: But basically at certain times of day, even if, and certain times of the year, which is more frequently than you would imagine, if even if I close the blinds and whatnot, I, you literally cannot see the TV at all.
+
+422
+00:30:07,212 --> 00:30:09,230
+Scott: It's just a white sheet and it hurts your eyes.
+
+423
+00:30:09,480 --> 00:30:09,690
+Scott: Right.
+
+424
+00:30:09,771 --> 00:30:10,887
+Scott: It's like reflecting at you.
+
+425
+00:30:11,491 --> 00:30:25,550
+Scott: Um, and newer TVs, if you go to like a Best Buy or something and look at all the new TVs, whether, no matter what kind they are, the basically the screens are like this glossy mirror finish where they can see yourself in the TV when it's off.
+
+426
+00:30:26,052 --> 00:30:28,749
+Scott: And if there's like a light behind you, you can see it in the TV.
+
+427
+00:30:29,491 --> 00:30:34,870
+Scott: And it's like, I don't care how good your image quality is or any of that nonsense.
+
+428
+00:30:35,281 --> 00:30:35,470
+Scott: Right.
+
+429
+00:30:35,610 --> 00:30:43,109
+Scott: If I'm seeing something on the screen that isn't part of the image, that's like my face or the lamp behind me.
+
+430
+00:30:43,591 --> 00:30:43,691
+Scott: Right.
+
+431
+00:30:43,711 --> 00:30:52,990
+Scott: Can you imagine going to the movie theater and like seeing the crowd on the screen because it's like a mirror when it is or certain areas where there's like not enough image coming through.
+
+432
+00:30:53,572 --> 00:30:56,390
+Scott: It's just like you just see yourself inserted into the movie.
+
+433
+00:30:56,835 --> 00:30:57,324
+Scott: It's like that.
+
+434
+00:30:58,030 --> 00:31:04,410
+Rym: But if I Google around like a lot of people like like the glossiness of the TVs for some reason.
+
+435
+00:31:04,691 --> 00:31:05,071
+Scott: Well, yeah.
+
+436
+00:31:05,111 --> 00:31:05,973
+Scott: Well, so here's the thing.
+
+437
+00:31:06,033 --> 00:31:13,530
+Scott: This makes TV nerds ultra angry because they are watching their TVs in a dark place.
+
+438
+00:31:13,872 --> 00:31:14,032
+Scott: Right.
+
+439
+00:31:14,052 --> 00:31:17,430
+Scott: They have made a dark room for their home theater because they're TV nerds.
+
+440
+00:31:17,610 --> 00:31:18,358
+Scott: They have no need.
+
+441
+00:31:18,519 --> 00:31:19,469
+Scott: They have no need for this.
+
+442
+00:31:19,771 --> 00:31:19,972
+Scott: Right.
+
+443
+00:31:20,314 --> 00:31:21,924
+Scott: Which is like, OK, you have no need for it.
+
+444
+00:31:21,964 --> 00:31:22,205
+Scott: Great.
+
+445
+00:31:22,246 --> 00:31:22,849
+Scott: Don't buy it then.
+
+446
+00:31:24,410 --> 00:31:27,349
+Scott: And they're saying, hey, if you put this extra coating on it.
+
+447
+00:31:27,730 --> 00:31:27,991
+Scott: Right.
+
+448
+00:31:28,191 --> 00:31:32,879
+Scott: It's going to somehow reduce brightness or, you know, it's not going to be.
+
+449
+00:31:32,979 --> 00:31:39,650
+Scott: the clear screen is like letting all the light through perfectly and not interfering with my perfect image quality.
+
+450
+00:31:39,911 --> 00:31:40,573
+Scott: Yeah.
+
+451
+00:31:40,593 --> 00:31:45,150
+Scott: And, you know, it's like, OK, maybe in some small, imperceptible way, that could be true.
+
+452
+00:31:45,271 --> 00:31:47,429
+Scott: In which case, if you have a dark room, don't buy this TV.
+
+453
+00:31:48,293 --> 00:31:50,350
+Scott: But when they announced that TV, I was like, shit.
+
+454
+00:31:50,935 --> 00:31:51,177
+Scott: Right.
+
+455
+00:31:51,460 --> 00:31:52,388
+Scott: I didn't want to buy a TV.
+
+456
+00:31:52,850 --> 00:31:58,650
+Scott: I was happy with the one I had, except for this one problem that someone came along and solved.
+
+457
+00:31:58,851 --> 00:32:03,850
+Scott: And they only put this anti glare thing on their most expensive, ludicrous TV.
+
+458
+00:32:04,512 --> 00:32:08,070
+Scott: They could if they would have put it on a lower end TV, I would have gotten that one.
+
+459
+00:32:09,177 --> 00:32:10,789
+Scott: But they only put it on the best TV.
+
+460
+00:32:11,031 --> 00:32:14,144
+Scott: And I'm like, well, this is a real big problem that we have.
+
+461
+00:32:14,204 --> 00:32:15,670
+Scott: that like we literally like their times.
+
+462
+00:32:15,750 --> 00:32:19,190
+Scott: Like I just I go to I went to play tears of the kingdom and it's like, well, I guess I can't play now.
+
+463
+00:32:19,270 --> 00:32:19,651
+Scott: Got to wait.
+
+464
+00:32:20,534 --> 00:32:21,979
+Scott: And I can.
+
+465
+00:32:22,159 --> 00:32:25,410
+Scott: I'm happy to report at least because I would have returned it if it was bullshit.
+
+466
+00:32:25,550 --> 00:32:26,213
+Scott: I could have done that.
+
+467
+00:32:26,274 --> 00:32:26,454
+Scott: Right.
+
+468
+00:32:26,936 --> 00:32:30,130
+Scott: But the anti glare coating is absolutely legit.
+
+469
+00:32:30,551 --> 00:32:30,652
+Scott: Right.
+
+470
+00:32:30,993 --> 00:32:34,790
+Scott: When the sun comes in the window and hits the TV like directly.
+
+471
+00:32:35,430 --> 00:32:35,831
+Scott: Yes.
+
+472
+00:32:36,192 --> 00:32:42,550
+Scott: That area of the TV being hit directly by sunlight is you can see that there is brightness there from the sun.
+
+473
+00:32:42,770 --> 00:32:42,871
+Scott: Right.
+
+474
+00:32:42,891 --> 00:32:49,470
+Rym: I mean, if you had said you couldn't, I would have gone from impressed to like shocked where the where the photons gone.
+
+475
+00:32:49,590 --> 00:32:50,513
+Scott: The laws of physics.
+
+476
+00:32:51,215 --> 00:32:55,730
+Rym: You know, in some distant future, those photons would be converted directly into electricity to make the TV go.
+
+477
+00:32:56,512 --> 00:32:56,713
+Scott: Sure.
+
+478
+00:32:56,754 --> 00:32:57,801
+Scott: They have to go somewhere.
+
+479
+00:32:57,922 --> 00:32:58,083
+Scott: Right.
+
+480
+00:32:58,103 --> 00:32:59,110
+Scott: They're not going to use them.
+
+481
+00:32:59,270 --> 00:33:01,569
+Scott: They're not going to absorb into the TV and heat the TV up.
+
+482
+00:33:01,690 --> 00:33:16,487
+Scott: But because the TV is a high end OLED and is very bright and powerful, even in that area where the sun is causing glare, you can still clearly see the image generated by the TV because it's shining through.
+
+483
+00:33:16,508 --> 00:33:17,370
+Scott: It's more powerful.
+
+484
+00:33:17,611 --> 00:33:17,831
+Scott: Right.
+
+485
+00:33:18,212 --> 00:33:25,650
+Scott: However, if we close the blinds, which are not opaque blinds, they're like mostly transparent, translucent blinds.
+
+486
+00:33:25,710 --> 00:33:30,190
+Scott: They sort of just dim the sunlight so that you don't go blind, I guess completely.
+
+487
+00:33:31,371 --> 00:33:37,750
+Scott: And keep in mind, with the previous TV and the blinds closed and the sun coming in, you couldn't see a single thing.
+
+488
+00:33:37,790 --> 00:33:39,233
+Scott: The TV was just like a white sheet.
+
+489
+00:33:40,817 --> 00:33:46,670
+Scott: If I close the blinds with the new TV and the sun comes directly in, you can't see any glare whatsoever.
+
+490
+00:33:47,071 --> 00:33:50,263
+Scott: It's like all you see is the TV image like it was a painting.
+
+491
+00:33:50,323 --> 00:33:51,990
+Scott: So the coding was legit.
+
+492
+00:33:53,031 --> 00:33:58,650
+Scott: And it's like, OK, for once in my life, I'll buy the highest end TV and I have it now.
+
+493
+00:33:58,771 --> 00:34:00,990
+Scott: And if it doesn't last 20 years, I'm going to be pissed.
+
+494
+00:34:02,051 --> 00:34:02,553
+Rym: So is it ever?
+
+495
+00:34:02,954 --> 00:34:04,499
+Rym: is it is ever the other part of it good?
+
+496
+00:34:04,539 --> 00:34:07,530
+Rym: Like, is there any hidden drawback or nonsense or is it just.
+
+497
+00:34:08,010 --> 00:34:13,909
+Scott: Well, so I mean, the hidden drawback is, you know, as we always discuss the smart TV aspect.
+
+498
+00:34:15,312 --> 00:34:15,612
+Scott: Right.
+
+499
+00:34:15,634 --> 00:34:19,170
+Scott: So, you know, they're always trying to get you to do the smart TV thing.
+
+500
+00:34:19,210 --> 00:34:21,246
+Scott: And I was like, man, I just don't want to connect it to the Internet.
+
+501
+00:34:21,368 --> 00:34:21,590
+Scott: Right.
+
+502
+00:34:21,831 --> 00:34:24,530
+Scott: And I could have not connected it to the Internet or the wife.
+
+503
+00:34:24,771 --> 00:34:26,090
+Rym: Whoa, you connected it to the Internet.
+
+504
+00:34:26,831 --> 00:34:27,112
+Scott: Right.
+
+505
+00:34:27,233 --> 00:34:34,690
+Scott: So there are upsides and mitigation things that you can do to basically avoid the bullshit.
+
+506
+00:34:35,152 --> 00:34:38,750
+Scott: And there are some benefits to allowing it to connect.
+
+507
+00:34:38,870 --> 00:34:40,034
+Scott: And I can always just connect it.
+
+508
+00:34:40,214 --> 00:34:44,969
+Rym: Are we sure that this is Scott and not some sort of GPT language model imposter?
+
+509
+00:34:45,610 --> 00:34:47,638
+Rym: Because that's so.
+
+510
+00:34:47,658 --> 00:34:48,601
+Scott: there are many features.
+
+511
+00:34:48,661 --> 00:34:50,790
+Scott: if you haven't had a new TV in 10 years.
+
+512
+00:34:50,991 --> 00:34:51,192
+Scott: Right.
+
+513
+00:34:51,212 --> 00:34:54,310
+Scott: There's a bunch of things that I didn't realize might be useful.
+
+514
+00:34:54,531 --> 00:34:54,692
+Scott: Right.
+
+515
+00:34:54,713 --> 00:34:56,927
+Scott: It's like I mentioned earlier, airplay.
+
+516
+00:34:57,129 --> 00:34:57,330
+Scott: Right.
+
+517
+00:34:57,630 --> 00:35:03,150
+Scott: Even if you don't have an Apple TV, which I did end up getting for other reasons, you could just airplay to the TV.
+
+518
+00:35:03,451 --> 00:35:07,364
+Scott: But obviously you can't do that if the TV is not on the Wi-Fi.
+
+519
+00:35:07,745 --> 00:35:09,110
+Scott: Let's say, you know, the TV only.
+
+520
+00:35:09,230 --> 00:35:14,030
+Rym: Will that work for this TV if you put it on a private Wi-Fi that only has the TV and phones on it?
+
+521
+00:35:14,070 --> 00:35:14,572
+Scott: You could do.
+
+522
+00:35:14,612 --> 00:35:19,129
+Scott: you could, but you'd have to have then your airplay broadcast device like your iPhone, if you want to.
+
+523
+00:35:19,612 --> 00:35:19,753
+Scott: Right.
+
+524
+00:35:19,773 --> 00:35:22,248
+Scott: You would have to have the iPhone on that same Wi-Fi.
+
+525
+00:35:22,811 --> 00:35:26,309
+Rym: All right, everybody, connect your phones to my special source network.
+
+526
+00:35:27,430 --> 00:35:27,571
+Scott: Right.
+
+527
+00:35:27,853 --> 00:35:30,307
+Scott: Well, you just had the one device that's doing the air playing.
+
+528
+00:35:30,327 --> 00:35:30,770
+Scott: Right.
+
+529
+00:35:32,410 --> 00:35:37,930
+Scott: The there is a feature that allows the TV to connect to the soundbar.
+
+530
+00:35:38,051 --> 00:35:41,489
+Scott: I also got a Samsung soundbar to match right for easiness.
+
+531
+00:35:42,811 --> 00:35:44,114
+Scott: And that goes.
+
+532
+00:35:44,214 --> 00:35:51,310
+Scott: you can actually have the audio go from the TV to the soundbar over Wi-Fi if you want to save an HDMI cable.
+
+533
+00:35:51,831 --> 00:35:53,376
+Scott: I didn't do that, but you could.
+
+534
+00:35:53,938 --> 00:35:54,760
+Scott: Right.
+
+535
+00:35:55,763 --> 00:35:57,568
+Scott: I got an antenna for 20 bucks.
+
+536
+00:35:57,989 --> 00:35:58,170
+Scott: Right.
+
+537
+00:35:58,270 --> 00:36:07,710
+Scott: Which actually works amazingly well because we're in New York City and the Empire State Building is like a shit ton of TV stations just aiming directly at a lot of amps right there.
+
+538
+00:36:08,250 --> 00:36:09,074
+Scott: A lot of lots.
+
+539
+00:36:09,094 --> 00:36:11,927
+Scott: And I'm not going to use the antenna that often.
+
+540
+00:36:12,289 --> 00:36:12,510
+Scott: Right.
+
+541
+00:36:12,770 --> 00:36:18,150
+Scott: But there are rare occasions where now it's like, aha, something is on the broadcast TV.
+
+542
+00:36:18,410 --> 00:36:20,996
+Scott: I don't need to do pirate TV anymore.
+
+543
+00:36:21,377 --> 00:36:21,577
+Scott: Right.
+
+544
+00:36:21,617 --> 00:36:27,490
+Scott: For example, superb owl once a year, you know, or Thanksgiving parade, I guess.
+
+545
+00:36:29,330 --> 00:36:32,859
+Scott: Emergency thing is happening and I want to turn on the stupid news.
+
+546
+00:36:32,980 --> 00:36:33,381
+Scott: I don't know.
+
+547
+00:36:33,721 --> 00:36:36,970
+Scott: It would be really rare, but it was so cheap and so easy.
+
+548
+00:36:37,531 --> 00:36:37,751
+Scott: Right.
+
+549
+00:36:38,312 --> 00:36:46,690
+Scott: The TV because the smart TV can get the TV programming guide and you can browse it like it's cable TV.
+
+550
+00:36:47,791 --> 00:36:50,900
+Scott: Even though it's an antenna because Internet connection.
+
+551
+00:36:51,301 --> 00:36:54,290
+Scott: It knows what the it knows what the channels are and it knows what's on.
+
+552
+00:36:56,711 --> 00:37:02,490
+Scott: You know, there's other features that might not require the Wi-Fi, but you still require some networking.
+
+553
+00:37:02,730 --> 00:37:04,975
+Scott: For example, modern TV has Bluetooth.
+
+554
+00:37:05,256 --> 00:37:09,345
+Scott: You could just connect Bluetooth headphones when you don't want to disturb anyone with your TV watching sounds.
+
+555
+00:37:10,667 --> 00:37:11,630
+Scott: old TV can't do that.
+
+556
+00:37:13,632 --> 00:37:16,798
+Scott: It has a special feature, Q symphony.
+
+557
+00:37:16,998 --> 00:37:17,159
+Scott: Right.
+
+558
+00:37:17,219 --> 00:37:23,070
+Scott: Normally, my whole life, I've you know, I connected better speakers to the TV and you turn off the TV speakers.
+
+559
+00:37:23,290 --> 00:37:23,410
+Scott: Right.
+
+560
+00:37:23,430 --> 00:37:23,991
+Scott: Because they suck.
+
+561
+00:37:25,173 --> 00:37:38,450
+Scott: Samsung, if you have, you know, a Samsung audio devices of various kinds, you can enable Q symphony, which basically the TV uses your sound bar, your whatever speakers you've got.
+
+562
+00:37:38,691 --> 00:37:42,650
+Scott: Plus the TV speakers in concert, like a symphony.
+
+563
+00:37:42,890 --> 00:37:50,770
+Rym: I want to say Sony's got something similar because they make a big deal about how they all the companies have something like because they got a center channel that's like in the middle of the screen.
+
+564
+00:37:50,831 --> 00:37:52,629
+Rym: That'll point at you and you can just use that.
+
+565
+00:37:53,251 --> 00:37:53,492
+Scott: All right.
+
+566
+00:37:53,532 --> 00:37:59,349
+Scott: So the TV, of course, is trying to collect data on you and track you and do all the evil things with its Internet connection.
+
+567
+00:37:59,589 --> 00:37:59,810
+Scott: Right.
+
+568
+00:38:00,690 --> 00:38:02,957
+Scott: So I have avoided that problem.
+
+569
+00:38:03,018 --> 00:38:05,906
+Scott: I confirmed it's working by using pie hole.
+
+570
+00:38:08,211 --> 00:38:18,170
+Scott: There are certain domains where all the Samsung tracking happens and I block those domains and all the functions of the TV use other data sources that aren't on those domains.
+
+571
+00:38:18,611 --> 00:38:20,337
+Scott: But all the ad tracking goes to it.
+
+572
+00:38:20,398 --> 00:38:20,558
+Scott: Right.
+
+573
+00:38:20,759 --> 00:38:22,445
+Scott: They don't imagine anyone's going to do this.
+
+574
+00:38:23,127 --> 00:38:23,669
+Scott: It's so simple.
+
+575
+00:38:23,709 --> 00:38:23,870
+Scott: Right.
+
+576
+00:38:24,251 --> 00:38:32,470
+Scott: So this TV, if I hadn't had pie hole, there actually would be ads in the user interface, but they're not there because it can't read.
+
+577
+00:38:32,590 --> 00:38:34,697
+Scott: I can see it trying to reach the ad server.
+
+578
+00:38:34,798 --> 00:38:36,523
+Rym: I guess I'll get a pie hole.
+
+579
+00:38:36,965 --> 00:38:37,186
+Scott: Yeah.
+
+580
+00:38:37,266 --> 00:38:38,189
+Scott: Not resolving DNS.
+
+581
+00:38:38,911 --> 00:38:46,929
+Scott: So if they get if they somehow fix this issue and so pie holes can't block all the evil, I could just disconnect it from the Internet again.
+
+582
+00:38:47,169 --> 00:38:47,350
+Scott: Right.
+
+583
+00:38:48,051 --> 00:38:49,654
+Scott: And it wouldn't wouldn't be much of a problem.
+
+584
+00:38:51,358 --> 00:38:53,943
+Scott: But there is a way to do it for now, at least.
+
+585
+00:38:55,786 --> 00:38:57,610
+Scott: So that's that's how that's going.
+
+586
+00:38:58,710 --> 00:39:04,625
+Scott: The other thing is there is an evil, annoying Samsung user interface, smart TV section.
+
+587
+00:39:04,645 --> 00:39:06,350
+Scott: And I really don't like using that.
+
+588
+00:39:07,071 --> 00:39:17,210
+Scott: So thankfully, because the new TV and have a matching sound system, the HDMI CEC mostly ninety nine percent works.
+
+589
+00:39:17,950 --> 00:39:18,110
+Scott: Right.
+
+590
+00:39:18,130 --> 00:39:27,070
+Scott: If you don't know, HDMI CEC means that the all the HDMI devices talk to each other and tell each other things.
+
+591
+00:39:27,631 --> 00:39:40,170
+Scott: For example, if I turn on the Apple TV, the TV turns on, the soundbar turns on, the Apple TV is the selected input and the audio is playing out the soundbar from the Apple TV.
+
+592
+00:39:40,590 --> 00:39:41,814
+Scott: Just turn the Apple TV on.
+
+593
+00:39:41,834 --> 00:39:44,181
+Scott: Of course, it knows that that's what I want to do right now.
+
+594
+00:39:44,582 --> 00:39:47,070
+Scott: And I don't even see the Samsung smart TV shit.
+
+595
+00:39:47,190 --> 00:39:48,395
+Scott: It goes straight to Apple TV.
+
+596
+00:39:48,917 --> 00:39:50,544
+Scott: If I turn on the Nintendo Switch, same thing.
+
+597
+00:39:50,564 --> 00:39:52,170
+Scott: It switches to the Nintendo Switch.
+
+598
+00:39:52,952 --> 00:39:56,741
+Scott: I don't have to push any input buttons or program any universal remotes.
+
+599
+00:39:57,222 --> 00:39:58,906
+Scott: You just it goes, oh, you turn the switch on.
+
+600
+00:39:58,926 --> 00:40:00,429
+Scott: You must want to play games right now.
+
+601
+00:40:00,890 --> 00:40:01,411
+Scott: Boop.
+
+602
+00:40:01,431 --> 00:40:01,893
+Scott: There it is.
+
+603
+00:40:03,517 --> 00:40:07,869
+Scott: And if I turn off the Apple TV, turns off the TV, turns off the soundbar.
+
+604
+00:40:08,270 --> 00:40:08,410
+Scott: Right.
+
+605
+00:40:08,670 --> 00:40:11,799
+Scott: The volume buttons on every remote all control the same volume.
+
+606
+00:40:12,060 --> 00:40:12,982
+Scott: I don't need it to configure.
+
+607
+00:40:13,022 --> 00:40:13,484
+Scott: They just all.
+
+608
+00:40:13,584 --> 00:40:15,610
+Scott: whichever remote you're holding, volume buttons going to work.
+
+609
+00:40:15,830 --> 00:40:16,351
+Scott: Correct.
+
+610
+00:40:16,371 --> 00:40:17,193
+Rym: We've come a long way.
+
+611
+00:40:17,213 --> 00:40:26,650
+Rym: I feel like over time, TVs and computers accrued a number of mutually interacting volume controls, and now they're all coming back down to just one again.
+
+612
+00:40:27,290 --> 00:40:27,731
+Scott: Yeah.
+
+613
+00:40:27,751 --> 00:40:30,195
+Scott: So there's two negatives in this.
+
+614
+00:40:30,395 --> 00:40:30,595
+Scott: Right.
+
+615
+00:40:30,735 --> 00:40:31,116
+Scott: One of them.
+
+616
+00:40:31,156 --> 00:40:40,070
+Scott: Well, I guess one of them is not a CEC issue, but the Nintendo Switch, if I turn off the Nintendo Switch and put it in sleep mode, the TV does not turn off.
+
+617
+00:40:41,050 --> 00:40:46,160
+Scott: However, if I turn off the TV, the Nintendo Switch will go into sleep mode fast.
+
+618
+00:40:46,200 --> 00:40:51,130
+Scott: So when you what it says this right in the Nintendo Switch settings, that's what's going to happen.
+
+619
+00:40:51,370 --> 00:40:52,794
+Scott: So I guess it's a switch limitation.
+
+620
+00:40:52,834 --> 00:40:58,430
+Scott: But basically, if you want to use the Nintendo Switch, you turn on the switch with your game pad and you play games.
+
+621
+00:40:58,751 --> 00:41:01,620
+Scott: And then when you're done, you turn off the TV with one.
+
+622
+00:41:01,660 --> 00:41:02,362
+Scott: But not too bad.
+
+623
+00:41:03,225 --> 00:41:04,610
+Scott: And so that's that's how that goes.
+
+624
+00:41:06,952 --> 00:41:18,850
+Scott: But yeah, there's another great feature that I didn't realize is actually a soundbar feature, which is the soundbar is a Bluetooth slash Wi-Fi slash Airplay audio receiving device.
+
+625
+00:41:19,751 --> 00:41:28,610
+Scott: So I could just on my phone in Spotify or Apple Music, just choose soundbar as the output device and music just starts playing.
+
+626
+00:41:29,991 --> 00:41:33,279
+Scott: I don't have to like turn it on or push any input switches.
+
+627
+00:41:33,299 --> 00:41:34,382
+Scott: I'm just.
+
+628
+00:41:34,702 --> 00:41:37,650
+Scott: it just is a Bluetooth speaker, even though it's a whole sound system.
+
+629
+00:41:38,730 --> 00:41:51,630
+Rym: That would be pretty nice, because right now, because my TV is 15 years old and it's got a fairly dumb soundbar plugged into it because a 15 year old TV has the worst speakers.
+
+630
+00:41:52,432 --> 00:41:52,733
+Scott: Yes.
+
+631
+00:41:53,695 --> 00:41:59,129
+Rym: But there's no way to play music out of that soundbar without either fussing with it or having the TV on.
+
+632
+00:41:59,930 --> 00:42:01,754
+Scott: Yeah, it's just it's just super convenient.
+
+633
+00:42:01,854 --> 00:42:02,035
+Scott: Right.
+
+634
+00:42:02,115 --> 00:42:08,970
+Scott: I could just basically any device in the house can just play audio to the soundbar quickly and easily with no hassle.
+
+635
+00:42:11,291 --> 00:42:12,634
+Scott: And so that's that's pretty great.
+
+636
+00:42:12,875 --> 00:42:13,737
+Scott: Yeah.
+
+637
+00:42:14,078 --> 00:42:16,162
+Scott: So there are here's a here's a weird thing.
+
+638
+00:42:16,203 --> 00:42:17,265
+Scott: There's two weird things.
+
+639
+00:42:18,047 --> 00:42:19,350
+Scott: One, well, the weirdest thing.
+
+640
+00:42:19,971 --> 00:42:22,117
+Scott: So the antenna was researching the antenna.
+
+641
+00:42:22,358 --> 00:42:22,598
+Scott: Right.
+
+642
+00:42:23,080 --> 00:42:26,750
+Scott: So there's a thing in the United States is I don't think this matters anywhere else in the world.
+
+643
+00:42:27,390 --> 00:42:35,748
+Scott: Probably called ATSC, which is basically, you know, they used to have analog over the air TV right back in the day until like the mid 2000s.
+
+644
+00:42:36,530 --> 00:42:38,315
+Scott: Then they had the digital over the air TV.
+
+645
+00:42:38,335 --> 00:42:42,608
+Scott: There's a digital conversion and people had to get like converter boxes for old TVs.
+
+646
+00:42:42,628 --> 00:42:43,270
+Scott: Right.
+
+647
+00:42:43,410 --> 00:42:44,252
+Rym: It was the whole thing.
+
+648
+00:42:44,292 --> 00:42:46,055
+Rym: Like the government was giving away for free.
+
+649
+00:42:46,135 --> 00:42:54,510
+Rym: But like, yeah, there were hundreds of thousands of old people who called networks and governments complaining angrily despite being warned for like two fucking years.
+
+650
+00:42:55,091 --> 00:42:55,351
+Scott: Yeah.
+
+651
+00:42:55,391 --> 00:42:55,732
+Scott: So they were.
+
+652
+00:42:55,872 --> 00:43:06,329
+Scott: they replaced UHF and VHF with ATSC, which allowed them to fit a lot more channels digitally into a smaller space, support higher resolutions, et cetera.
+
+653
+00:43:06,530 --> 00:43:06,670
+Scott: Right.
+
+654
+00:43:07,091 --> 00:43:10,899
+Scott: So that was a thing for a long time.
+
+655
+00:43:11,220 --> 00:43:13,084
+Scott: Now there's ATSC three.
+
+656
+00:43:13,104 --> 00:43:14,006
+Scott: They skipped over two.
+
+657
+00:43:14,206 --> 00:43:15,389
+Scott: So just pretend it's two.
+
+658
+00:43:15,409 --> 00:43:15,950
+Scott: Right.
+
+659
+00:43:17,032 --> 00:43:18,134
+Scott: And this is basically.
+
+660
+00:43:18,395 --> 00:43:25,910
+Scott: theoretically this protocol looks a lot more like IP protocol, even though it's a wireless sort of one way deal.
+
+661
+00:43:27,311 --> 00:43:39,649
+Scott: And it optionally allows you to connect your TV to the Internet to sort of enhance and combine with the broadcast in some way, plus ad tracking and other evil shit also.
+
+662
+00:43:41,531 --> 00:43:42,753
+Scott: Yeah.
+
+663
+00:43:43,254 --> 00:43:48,806
+Scott: And so they're planning to eventually replace, I don't know, maybe if it's actually going to happen, it's way behind schedule.
+
+664
+00:43:48,826 --> 00:43:50,690
+Scott: The ATSC one with ATSC three.
+
+665
+00:43:51,290 --> 00:43:56,338
+Scott: The ATSC three also has DRM and shit going on with encryption and all kinds of nonsense.
+
+666
+00:43:56,919 --> 00:44:07,235
+Scott: Supposedly it'll allow four K, but it doesn't look like anyone who's using ATSC three is actually doing four K. They're just cramming more 1080p stuff into smaller space.
+
+667
+00:44:08,798 --> 00:44:15,770
+Scott: But anyway, there are some TVs that have ATSC three tuners allowing you to watch ATSC three.
+
+668
+00:44:16,250 --> 00:44:19,516
+Scott: The antenna that you can get any antenna because the antenna is just metal.
+
+669
+00:44:20,477 --> 00:44:21,098
+Scott: It doesn't matter.
+
+670
+00:44:21,158 --> 00:44:22,921
+Scott: The tuner is what matters.
+
+671
+00:44:23,462 --> 00:44:27,870
+Scott: But the ATSC three because the DRM and the encryption, there's some patents on it.
+
+672
+00:44:28,471 --> 00:44:35,741
+Scott: And so some TVs such as mine, like the S 95 C from last year had the ATSC three tuner.
+
+673
+00:44:36,041 --> 00:44:37,243
+Scott: The one from this year doesn't.
+
+674
+00:44:37,583 --> 00:44:42,190
+Scott: The LG, the LG TV, the newest LG TVs, they don't have it.
+
+675
+00:44:42,290 --> 00:44:43,472
+Scott: They only have ATSC one.
+
+676
+00:44:43,972 --> 00:44:46,976
+Scott: So it only affects people trying to use antennas in the US.
+
+677
+00:44:47,717 --> 00:44:57,410
+Scott: Um, but you know, if the world goes to ATSC three and you only have the TV with ATSC one, you'll need to like buy an ATSC three tuner.
+
+678
+00:44:57,590 --> 00:44:57,851
+Scott: All right.
+
+679
+00:44:57,891 --> 00:45:02,219
+Rym: I just check because the research I had done, I was looking more at the Sony TVs.
+
+680
+00:45:02,239 --> 00:45:08,590
+Scott: So I also want to look, I want to go see the Sony ones, the higher, the new Sony TVs, the higher end ones, the ones they just announced.
+
+681
+00:45:08,670 --> 00:45:09,772
+Rym: They all have ATSC three.
+
+682
+00:45:10,172 --> 00:45:12,455
+Scott: The old, the lower end ones don't have it though.
+
+683
+00:45:12,796 --> 00:45:16,881
+Scott: So if you get, there's like a, they, Sony did a great thing with their new TVs.
+
+684
+00:45:17,342 --> 00:45:23,290
+Scott: They re instead of doing weird ass model numbers, like every other TV brand, that's all confusing.
+
+685
+00:45:23,390 --> 00:45:27,477
+Scott: They just said Bravia three, five, seven, eight, nine, whatever.
+
+686
+00:45:27,497 --> 00:45:33,066
+Rym: That replaces, cause right now the old models, you can get the Bravia A95K or the A95L or the A90K.
+
+687
+00:45:35,690 --> 00:45:38,735
+Scott: The A95L is like the best TV, but it's glossy, right?
+
+688
+00:45:39,275 --> 00:45:41,018
+Scott: Um, that's the best OLED they make still.
+
+689
+00:45:41,118 --> 00:45:45,464
+Scott: But yeah, now it's like Bravia five, seven, eight, et cetera.
+
+690
+00:45:45,485 --> 00:45:46,166
+Scott: It's real simple.
+
+691
+00:45:46,226 --> 00:45:50,791
+Scott: But the lower number Bravia doesn't have the 3.02.
+
+692
+00:45:50,791 --> 00:45:51,892
+Scott: The higher number ones do.
+
+693
+00:45:52,573 --> 00:45:54,896
+Scott: Uh, but it's a patent issue that they don't want to pay the patents.
+
+694
+00:45:55,356 --> 00:45:57,879
+Scott: Another patent issue is Dolby vision, right?
+
+695
+00:45:58,280 --> 00:46:01,724
+Scott: Some of the TV companies don't want to pay Dolby to do Dolby vision.
+
+696
+00:46:02,284 --> 00:46:07,310
+Scott: So the Samsung TV we got only has HDR 10 plus and not Dolby vision.
+
+697
+00:46:07,751 --> 00:46:21,267
+Scott: So I guess that means if I watch something that doesn't, you know, that's like supposed to be HDR content, but only supports Dolby vision, it won't be HDR or won't be as good as if I had Dolby vision.
+
+698
+00:46:21,788 --> 00:46:23,450
+Scott: I don't think anyone could tell the difference, right?
+
+699
+00:46:23,970 --> 00:46:35,099
+Scott: Um, and I think actually what's happening a lot with Dolby vision specifically is that the people making the media, the blu-rays and the streams aren't actually making full use of the Dolby vision.
+
+700
+00:46:35,119 --> 00:46:46,268
+Scott: So even if you have the Dolby vision TV, it's like, yeah, if they made that blu-ray with as good Dolby vision biz as they could, it might make a difference HDR wise, but they aren't.
+
+701
+00:46:46,688 --> 00:46:48,710
+Scott: So you're not really getting that much.
+
+702
+00:46:49,370 --> 00:46:53,353
+Scott: Um, and plus there are a lot of things that support the HDR 10, 10 plus also.
+
+703
+00:46:53,813 --> 00:46:55,455
+Scott: So it's not like you're without HDR.
+
+704
+00:46:55,935 --> 00:47:14,528
+Scott: Um, so whatever, uh, the TV actually does support like, you know, higher refresh rates for some gaming biz, which I guess doesn't matter cause I don't have a PS five or an Xbox that, or I haven't plugged a gaming PC directly into the TV, but I'm hoping to keep this TV long enough that yeah, it's going to matter one day.
+
+705
+00:47:15,328 --> 00:47:15,569
+Scott: Right?
+
+706
+00:47:15,969 --> 00:47:17,610
+Scott: So that's a, that's a nice to have.
+
+707
+00:47:17,750 --> 00:47:22,830
+Rym: I guess this is your first OLED TV, so I guess you got to watch out for burn-in because yeah, HTP.
+
+708
+00:47:23,390 --> 00:47:34,063
+Scott: So the OLED TVs, the newer ones are only going to burn in if like there's a company art RTI NGS ratings that is actually, they're sort of like consumer reports.
+
+709
+00:47:34,103 --> 00:47:35,945
+Scott: They do like independent real testing.
+
+710
+00:47:36,606 --> 00:47:39,530
+Scott: Um, and they have this ongoing TV burn in test.
+
+711
+00:47:40,171 --> 00:47:42,534
+Scott: And do the OLED TVs burn in?
+
+712
+00:47:42,674 --> 00:47:43,335
+Scott: You bet they do.
+
+713
+00:47:43,696 --> 00:47:44,297
+Scott: Absolutely.
+
+714
+00:47:44,577 --> 00:47:44,978
+Scott: Right.
+
+715
+00:47:44,998 --> 00:47:53,690
+Scott: They super burn in, but they only burn in when you have like a static image on the TV for an extremely long time at a really high brightness.
+
+716
+00:47:53,710 --> 00:47:59,240
+Scott: It's like their TVs are like running day and night with the CNN logo in the same spot.
+
+717
+00:47:59,701 --> 00:48:01,544
+Scott: And that's like the only part that's burned in.
+
+718
+00:48:01,585 --> 00:48:04,570
+Scott: You don't see like any newscasters burned into the screen or anything.
+
+719
+00:48:04,570 --> 00:48:12,250
+Rym: Don't put an HTPC with like YouTube open in a web browser all the time with the TV on the entire time in a windows bar.
+
+720
+00:48:12,950 --> 00:48:13,170
+Scott: Right.
+
+721
+00:48:13,251 --> 00:48:16,316
+Scott: It's like, it'll only burn it if you're really careless with it.
+
+722
+00:48:16,797 --> 00:48:19,581
+Scott: Um, it's just as just have a screen saver and you'll be fine.
+
+723
+00:48:19,722 --> 00:48:19,882
+Scott: Right.
+
+724
+00:48:19,942 --> 00:48:22,526
+Scott: Or don't leave the TV on all the time, which we don't.
+
+725
+00:48:22,727 --> 00:48:24,690
+Scott: So, uh, that's not an issue.
+
+726
+00:48:24,690 --> 00:48:30,077
+Scott: So yeah, I did study all of the different new kinds of screen technologies, right?
+
+727
+00:48:30,577 --> 00:48:40,370
+Scott: So there's obviously everyone knows LCD, which is where you have this basically translucent sheet of crystal squares that change color and a light shines through.
+
+728
+00:48:41,011 --> 00:48:45,878
+Scott: And the problem with this is that light shines through the areas that are supposed to be black.
+
+729
+00:48:46,118 --> 00:48:47,560
+Scott: So you can't really get black, black.
+
+730
+00:48:47,681 --> 00:48:48,041
+Scott: Yep.
+
+731
+00:48:48,662 --> 00:48:54,030
+Scott: And then people have gotten around this by, you know, having more lights instead of one big light.
+
+732
+00:48:54,471 --> 00:49:00,261
+Scott: Or like, or, you know, very small led lights and they turn them on and off in different areas.
+
+733
+00:49:00,581 --> 00:49:05,690
+Scott: And that helps some areas get darker, but there's still some sort of bleeding around the edges of the bright areas.
+
+734
+00:49:06,411 --> 00:49:12,017
+Scott: Um, there's even newer ones like that new high end Sony TV is actually an LCD.
+
+735
+00:49:12,397 --> 00:49:14,740
+Scott: The high, the highest end Bravia one is not no led.
+
+736
+00:49:15,381 --> 00:49:23,710
+Scott: Um, and, but they're doing is they're actually those LEDs that are behind the screen are getting darker and lighter.
+
+737
+00:49:23,810 --> 00:49:29,439
+Scott: So the individual LEDs have varying brightness in addition to turning on and off rapidly.
+
+738
+00:49:29,999 --> 00:49:32,203
+Scott: Um, and that's extremely effective.
+
+739
+00:49:32,303 --> 00:49:37,130
+Scott: It's like you probably aren't going to notice too much difference from the OLED with that method.
+
+740
+00:49:37,270 --> 00:49:43,420
+Rym: The biggest tech that's not in the consumer TVs yet, but will be this year is specifically, you've probably heard it.
+
+741
+00:49:43,460 --> 00:49:49,350
+Rym: If you've paid attention to these, the FOLEDS there's a, there's a very specific new technology.
+
+742
+00:49:49,490 --> 00:49:51,636
+Rym: I know Sony announced they're going to have some of these this year.
+
+743
+00:49:52,237 --> 00:49:54,824
+Rym: We'll see how much it matters, but it doesn't make the images better.
+
+744
+00:49:54,844 --> 00:49:57,190
+Rym: And it only applies to OLED TVs.
+
+745
+00:49:57,590 --> 00:50:14,190
+Rym: And basically up until now, red and green sub pixels, like, you know, the ones that are sending the light out, they use phosphorescent organic light emitting dilo diodes, which convert almost all of the electricity to light as opposed to heat.
+
+746
+00:50:14,410 --> 00:50:17,098
+Scott: Like they generate the FOLEDS were that were the flexible ones.
+
+747
+00:50:17,279 --> 00:50:19,305
+Rym: No, that's a different, that's, that's also called FOLED.
+
+748
+00:50:19,325 --> 00:50:19,727
+Rym: that's different.
+
+749
+00:50:19,747 --> 00:50:20,629
+Rym: A P H O L E D.
+
+750
+00:50:21,590 --> 00:50:22,011
+Scott: Okay.
+
+751
+00:50:22,912 --> 00:50:26,579
+Rym: I have, I found a page that summarizes all these, but Emily's dad was talking about this one.
+
+752
+00:50:26,619 --> 00:50:32,930
+Rym: So I did a lot more research on it, but the blue color, the blue sub pixel.
+
+753
+00:50:33,770 --> 00:50:35,634
+Rym: They can't make them yet that way.
+
+754
+00:50:35,654 --> 00:50:36,757
+Rym: At least they haven't been able to.
+
+755
+00:50:36,857 --> 00:50:41,968
+Rym: So the blue ones are different from the other two and they're only like 25% efficient.
+
+756
+00:50:41,988 --> 00:50:42,950
+Rym: So they make a lot of heat.
+
+757
+00:50:43,350 --> 00:50:56,970
+Rym: That's why OLED TVs still get hot, but theoretically once all three sub pixels are using P H O L E D technology, then the TV should use way less electricity and be way less hot.
+
+758
+00:50:57,631 --> 00:50:57,791
+Scott: Yep.
+
+759
+00:50:58,392 --> 00:51:04,179
+Scott: So the other ones, obviously there's OLED, which is where you have, you know, individual, right?
+
+760
+00:51:04,580 --> 00:51:06,422
+Scott: LEDs that are self illuminating.
+
+761
+00:51:06,522 --> 00:51:12,350
+Scott: And so, and it's like, yeah, it illuminate changes its own color and illuminates itself.
+
+762
+00:51:12,811 --> 00:51:13,031
+Scott: Right.
+
+763
+00:51:13,652 --> 00:51:15,014
+Scott: Uh, and so yet there's.
+
+764
+00:51:15,074 --> 00:51:16,836
+Scott: no, you don't have to worry about backlights.
+
+765
+00:51:16,956 --> 00:51:26,550
+Scott: It is, but the screen is lighting itself and that's why you get the black, black and, but the bright area, even on, on the OLEDs, you know, can get super bright.
+
+766
+00:51:26,630 --> 00:51:29,675
+Scott: The one, the TV I have now it's like in the best buy mode.
+
+767
+00:51:29,715 --> 00:51:39,530
+Scott: I don't know why TV people that are obsessed with like maximum brightness or whatever, but it's like, if you turn this TV on any, like most modes, it's so bright and oversaturated, it's unlookable.
+
+768
+00:51:39,790 --> 00:51:40,331
+Scott: Right.
+
+769
+00:51:40,531 --> 00:51:41,753
+Scott: It's like, why do you want this?
+
+770
+00:51:41,833 --> 00:51:43,955
+Scott: I'm like, I'm like turning all that shit off constantly.
+
+771
+00:51:45,497 --> 00:51:51,404
+Scott: Um, so it doesn't burn my eyeballs, but there's W OLEDs, which is just OLEDs.
+
+772
+00:51:51,925 --> 00:51:52,145
+Scott: Right.
+
+773
+00:51:52,526 --> 00:51:55,850
+Scott: And then there's QD OLEDs, the quantum dot OLEDs.
+
+774
+00:51:56,250 --> 00:51:56,430
+Rym: Yeah.
+
+775
+00:51:57,051 --> 00:52:02,176
+Scott: And so the quantum quantum dots, if you don't know, are basically this newer ish technology.
+
+776
+00:52:02,397 --> 00:52:15,150
+Scott: There's also quantum dots and LCD TVs also, um, where it's literally quantum, like literally there's the, the, the quantum dot material that they've made.
+
+777
+00:52:15,490 --> 00:52:25,046
+Scott: They shoot it with UV light and it excites the electrons and the electrons go from, you know, the covalent area out into the sort of, you know, outer ring, right.
+
+778
+00:52:25,186 --> 00:52:27,650
+Scott: Of the molecule or whatever material it is.
+
+779
+00:52:28,970 --> 00:52:31,035
+Scott: Uh, and when that happens, right.
+
+780
+00:52:31,415 --> 00:52:34,041
+Scott: The light that goes through, right.
+
+781
+00:52:34,121 --> 00:52:38,470
+Scott: The quantum dot is, you know, different and it can, you know, what, and it admits light.
+
+782
+00:52:39,171 --> 00:52:42,754
+Scott: Um, and so this is, you know, it's pretty amazing.
+
+783
+00:52:43,094 --> 00:52:48,139
+Scott: They've got something even newer that's not here yet, which is Q led, right?
+
+784
+00:52:48,459 --> 00:52:57,848
+Scott: Well, the Q, this Q led, which is Q led is what Samsung calls LCD TVs that have quantum dots.
+
+785
+00:52:57,948 --> 00:52:59,710
+Scott: Also, it does not OLEDs, right.
+
+786
+00:53:00,071 --> 00:53:05,779
+Scott: There's Q D OLED, which is what I have, which is an OLED TV that also has quantum dots, right?
+
+787
+00:53:06,520 --> 00:53:09,865
+Scott: W OLED is an OLED TV that doesn't have quantum dots.
+
+788
+00:53:09,945 --> 00:53:12,830
+Scott: The new thing that's not out yet is Q D E L.
+
+789
+00:53:13,752 --> 00:53:14,939
+Rym: Is that nano led?
+
+790
+00:53:14,999 --> 00:53:16,589
+Rym: Because that's what I thought that was.
+
+791
+00:53:17,591 --> 00:53:19,690
+Scott: No, uh, no, I think that's different.
+
+792
+00:53:19,850 --> 00:53:23,357
+Rym: Because nano led is where you have quantum dots, but there's no backlight whatsoever.
+
+793
+00:53:23,398 --> 00:53:27,105
+Rym: You're directly electrically stimulating the quantum dots.
+
+794
+00:53:27,466 --> 00:53:29,030
+Rym: You can tell we're out of our depth on this.
+
+795
+00:53:29,571 --> 00:53:29,931
+Scott: Yeah.
+
+796
+00:53:30,252 --> 00:53:41,150
+Scott: But basically the there's, there's, uh, there is a micro led nano led thing that you can actually get right now, but the TVs are like six figures.
+
+797
+00:53:41,290 --> 00:53:41,530
+Scott: Yeah.
+
+798
+00:53:42,151 --> 00:53:50,384
+Scott: Um, but I think that's different from the Q led, but yeah, one of, one of these is quantum dots.
+
+799
+00:53:50,424 --> 00:53:54,330
+Scott: that just are the, is the only thing you have and they illuminate themselves the end.
+
+800
+00:53:55,251 --> 00:54:02,922
+Scott: And the other one is just like a shocking number of regular old LEDs, right?
+
+801
+00:54:03,002 --> 00:54:08,890
+Scott: Not, or not OLEDs, but just, just a shocking number of OLED, you know, and you can buy that.
+
+802
+00:54:09,531 --> 00:54:12,638
+Rym: That is micro led, I think is what they call that.
+
+803
+00:54:12,979 --> 00:54:14,161
+Rym: There's a few out in the wild.
+
+804
+00:54:14,462 --> 00:54:17,790
+Rym: The average micro led TV costs more than a hundred thousand dollars.
+
+805
+00:54:18,391 --> 00:54:19,051
+Scott: You can get these.
+
+806
+00:54:19,091 --> 00:54:28,242
+Scott: now though, the QDL, the Q Dells with a self-illuminating quantum dots, you can't get those yet, but the micro LEDs, they exist.
+
+807
+00:54:28,442 --> 00:54:30,044
+Scott: You can buy them for six figures.
+
+808
+00:54:30,745 --> 00:54:34,409
+Scott: Um, and all those are is just LEDs, just so many of them.
+
+809
+00:54:34,449 --> 00:54:35,390
+Scott: And they're so small.
+
+810
+00:54:36,471 --> 00:54:38,175
+Rym: But they're also super hard to build.
+
+811
+00:54:38,255 --> 00:54:45,290
+Rym: The problem with them is that one, those tiny LEDs, they're not that expensive individually, but you need so fucking many of them.
+
+812
+00:54:46,050 --> 00:54:46,290
+Rym: Yeah.
+
+813
+00:54:46,310 --> 00:54:48,032
+Rym: And then you need to assemble this thing.
+
+814
+00:54:48,453 --> 00:54:58,065
+Rym: And it has, from what I'm reading here, the current technology to manufacture them is one long uninterrupted process per entire TV screen.
+
+815
+00:54:58,465 --> 00:55:02,090
+Rym: And if anything goes wrong with any one pixel, the whole thing breaks, throw it away.
+
+816
+00:55:02,872 --> 00:55:03,072
+Scott: Yep.
+
+817
+00:55:03,213 --> 00:55:09,810
+Scott: But yeah, these are mostly for like hanging them in a museum or a fancy art gallery or a special.
+
+818
+00:55:09,870 --> 00:55:13,950
+Rym: These things have 25 million sub pixels on average.
+
+819
+00:55:14,831 --> 00:55:15,112
+Scott: Yeah.
+
+820
+00:55:15,994 --> 00:55:20,345
+Scott: Um, so those are probably the best TVs that exist.
+
+821
+00:55:21,087 --> 00:55:22,050
+Scott: Uh, but six figures.
+
+822
+00:55:22,290 --> 00:55:24,056
+Rym: Well, you know, I found one for a $5,800.
+
+823
+00:55:24,056 --> 00:55:25,080
+Rym: It is a 10 inch display.
+
+824
+00:55:25,080 --> 00:55:29,393
+Scott: 10 inch display.
+
+825
+00:55:29,413 --> 00:55:30,154
+Scott: Yeah.
+
+826
+00:55:30,675 --> 00:55:38,090
+Scott: The QDEL will actually, with the quantum dots, will at some point be available at a reachable cost for normal people.
+
+827
+00:55:38,490 --> 00:55:41,233
+Rym: And FOLED Blue will be available this year.
+
+828
+00:55:42,214 --> 00:55:42,415
+Scott: Yeah.
+
+829
+00:55:42,755 --> 00:55:55,570
+Rym: So what I'm debating is I'm probably going to, I might either wait and get a FOLED because of just, you know, reducing how much electricity it uses and heat is always a good thing, or wait till FOLED comes out and then buy the previous best TV.
+
+830
+00:55:56,651 --> 00:55:56,871
+Scott: Yeah.
+
+831
+00:55:56,951 --> 00:56:03,548
+Scott: I mean, if it wasn't, if it wasn't for the specific need of our apartment and the glare, I would have stuck with the 55 inch old TV.
+
+832
+00:56:05,432 --> 00:56:05,633
+Scott: Right.
+
+833
+00:56:05,693 --> 00:56:06,776
+Scott: I would not have replaced that.
+
+834
+00:56:06,856 --> 00:56:07,699
+Scott: It was still working.
+
+835
+00:56:08,321 --> 00:56:11,550
+Scott: Um, there are a lot of things that are really nice, right?
+
+836
+00:56:11,850 --> 00:56:22,826
+Scott: But most of those nice things actually came from the soundbar and not from the right, because most of the hassle we had with the old TV was, you know, I had the sound system.
+
+837
+00:56:22,866 --> 00:56:25,630
+Scott: that was a Logitech PC sound system.
+
+838
+00:56:26,031 --> 00:56:28,977
+Scott: That's 16 years old that it bought me the beacon.
+
+839
+00:56:29,458 --> 00:56:29,699
+Scott: Right.
+
+840
+00:56:29,999 --> 00:56:34,810
+Scott: And you'd have to use an optical switch to choose the right audio input when you change the video input.
+
+841
+00:56:35,411 --> 00:56:44,670
+Scott: And it didn't have the HDMI eARC and it didn't, you know, do any Dolby Atmos's and there were wires everywhere.
+
+842
+00:56:45,632 --> 00:56:48,537
+Scott: And it's like the new soundbar auto switches.
+
+843
+00:56:48,557 --> 00:56:52,384
+Scott: I can play directly to it with over the wifi.
+
+844
+00:56:52,404 --> 00:56:55,850
+Scott: It has the HDMI eARC, so I don't need to choose any inputs ever.
+
+845
+00:56:56,951 --> 00:57:00,697
+Scott: All the volume buttons and all the remotes all control it, you know, no matter what.
+
+846
+00:57:01,217 --> 00:57:01,438
+Scott: Right.
+
+847
+00:57:01,798 --> 00:57:09,070
+Scott: So I could have actually just gotten the soundbar and not gotten the TV to solve a lot of those issues we were experiencing.
+
+848
+00:57:10,541 --> 00:57:14,125
+Scott: But the glare thing, just a really specific to us problem.
+
+849
+00:57:15,706 --> 00:57:18,690
+Scott: There was no other reason to buy such a high end TV.
+
+850
+00:57:19,430 --> 00:57:26,950
+Scott: I could have easily gotten the second tier OLED, no problem, if you're in a dark room or nothing and waited for that TV to break.
+
+851
+00:57:27,250 --> 00:57:39,530
+Rym: Kind of like when we talked about buying stuff in general, like when we both bought our first like nice big TVs, when we moved into these two apartments back in 2008, 2009 was up until that point, I'd always had crappy TVs.
+
+852
+00:57:39,970 --> 00:57:45,010
+Rym: So pretty much any modern TV, no matter how cheap, was better than anything I'd ever owned up to that point.
+
+853
+00:57:45,370 --> 00:57:52,110
+Rym: So now, again, my current TV is a 2009 standard definition that is getting dimmed.
+
+854
+00:57:52,190 --> 00:57:52,878
+Scott: I thought it was 1080p.
+
+855
+00:57:54,150 --> 00:57:54,959
+Rym: Oh, it's 1080p.
+
+856
+00:57:55,222 --> 00:57:55,607
+Rym: It's not 4K.
+
+857
+00:57:58,971 --> 00:58:03,137
+Scott: The 4K part is like doesn't really matter that much unless you sit really close.
+
+858
+00:58:03,297 --> 00:58:03,518
+Scott: Right.
+
+859
+00:58:03,898 --> 00:58:07,804
+Scott: It's like at the distance we sit from the TV and my apartment's not big.
+
+860
+00:58:08,204 --> 00:58:11,589
+Scott: It's like you really couldn't tell the difference between 1080p and 4K.
+
+861
+00:58:12,351 --> 00:58:20,403
+Rym: The only reason I care about it at all right now is that we use the HDPC for a lot and I have the HDPC as my old workstation.
+
+862
+00:58:20,423 --> 00:58:24,510
+Rym: so we can drive 4K just fine for playing games or looking at the desktop reading.
+
+863
+00:58:24,910 --> 00:58:32,506
+Scott: But even when I have 4K content streaming for Netflix or whatever, it's like you really can't tell the difference right from that distance.
+
+864
+00:58:32,526 --> 00:58:34,410
+Scott: You have to be closer for it to matter.
+
+865
+00:58:35,151 --> 00:58:38,674
+Scott: So there's no reason to get up in a bunch about the 4K part.
+
+866
+00:58:39,094 --> 00:58:42,657
+Scott: However, there is a reason to get up in a bunch.
+
+867
+00:58:42,757 --> 00:58:58,450
+Scott: In some ways, the old TV that was only 1080p, if the video encoding, like there was low bitrates or shitty quality compression or whatever, it's like you couldn't really tell because the TV wasn't any good.
+
+868
+00:58:59,110 --> 00:59:08,538
+Scott: With a high-end TV, the quality of your source data, of your source video, you can see everything that's fucking wrong with it.
+
+869
+00:59:08,859 --> 00:59:10,820
+Scott: Because the TV is so good.
+
+870
+00:59:11,261 --> 00:59:19,848
+Scott: And so it actually makes standard def or 720p lower def content look worse.
+
+871
+00:59:19,928 --> 00:59:22,650
+Scott: because now you can see all the imperfections because your TV's so good.
+
+872
+00:59:24,991 --> 00:59:27,796
+Scott: So you really need upscaling of some kind.
+
+873
+00:59:27,856 --> 00:59:34,990
+Scott: I bought a little thing like I was saying earlier in the show that allows you to plug, because the new TV is the first one I've ever had that only has HDMI ports.
+
+874
+00:59:36,271 --> 00:59:41,175
+Scott: So I bought a thing that basically, it's called the RetroTINK.
+
+875
+00:59:42,136 --> 00:59:58,690
+Scott: There is a 4K one that costs a zillion dollars, but I got the cheaper one, the RetroTINK 5X, that allows you to plug in component RCA, SCART, or other old devices pre-HDMI, and it will upscale the mostly old game consoles.
+
+876
+00:59:59,471 --> 01:00:12,230
+Scott: So I plugged in my Wii into that, and then plugged that as an HDMI cable that goes to the TV, and F-Zero GX from the GameCube running on a Wii never looked as good.
+
+877
+01:00:13,972 --> 01:00:18,339
+Scott: But if you tried to do it without that, number one, you couldn't because there's no HDMI out on your GameCube.
+
+878
+01:00:19,841 --> 01:00:25,330
+Scott: But B, even if it would, it would be really ugly because it wouldn't be upscaled or anything.
+
+879
+01:00:25,490 --> 01:00:31,169
+Scott: So that is a thing to be aware of if you're watching lots of old DVDs, let's say, on a new TV.
+
+880
+01:00:31,770 --> 01:00:34,490
+Rym: Oh, DVDs look like shit in modern equipment.
+
+881
+01:00:35,470 --> 01:00:38,082
+Scott: They might look real bad on a new TV, right?
+
+882
+01:00:38,122 --> 01:00:39,769
+Scott: You kinda actually want the old TV.
+
+883
+01:00:40,130 --> 01:00:46,700
+Rym: Well, because DVDs, they didn't actually hold that much data, and the encryption, or not the encryption, the encryption wasn't easy to deal with.
+
+884
+01:00:46,800 --> 01:00:53,550
+Rym: The compression was modern, I keep saying encryption because I'm on about a whole other thing.
+
+885
+01:00:53,976 --> 01:00:54,788
+Scott: They do have that too.
+
+886
+01:00:55,050 --> 01:01:02,410
+Rym: Yeah, but modern compression algorithms are so much better than the MPEG-2 that was used on DVDs.
+
+887
+01:01:03,470 --> 01:01:05,634
+Scott: But yeah, you just really need some kind of upscaling.
+
+888
+01:01:05,834 --> 01:01:13,910
+Scott: The TV can do it, external devices can do it, but you need to upscale old content or else it looks bad on a new TV.
+
+889
+01:01:15,270 --> 01:01:20,565
+Scott: But yeah, it'll be a lot more convenient if you've only ever experienced an old TV in terms of modern conveniences.
+
+890
+01:01:20,585 --> 01:01:22,330
+Scott: The image quality is better.
+
+891
+01:01:23,131 --> 01:01:32,810
+Rym: Think back, we had the 1974 color RCA and our sound system was that mono guitar speaker that I had plugged into the TV via that app.
+
+892
+01:01:34,490 --> 01:01:44,470
+Scott: But yeah, it's like, unless your TV's broken, or you can identify a specific life-changing reason to get a new one like I did, right?
+
+893
+01:01:45,152 --> 01:01:48,182
+Scott: Yeah, I literally can't watch the one I had at certain times.
+
+894
+01:01:48,824 --> 01:01:50,469
+Scott: Several hours a day, I can't use it.
+
+895
+01:01:51,670 --> 01:01:56,187
+Scott: I wouldn't recommend buying a TV right now because things are changing so much, and it's kind of...
+
+896
+01:01:57,411 --> 01:02:07,030
+Rym: If you can hold out, if you have a TV that works enough at your shop, at least hold out for one more tech to come out this year, because then if nothing else, the TV you're looking at to buy will just get cheaper.
+
+897
+01:02:07,890 --> 01:02:27,010
+Scott: And I would always, I would buy TVs, if you're gonna buy one, right, you should buy one early in the year, kind of like we did, March/April time, because in that case you're either going to be getting a new TV that was just announced, that just came out, the highest end, newest one, or you're gonna get last year's model that was just made obsolete and is on mega sale.
+
+898
+01:02:28,653 --> 01:02:30,809
+Scott: I wouldn't buy really anything else besides that.
+
+899
+01:02:36,870 --> 01:02:39,260
+Rym: This has been GeekNights with Rym and Scott.
+
+900
+01:02:39,300 --> 01:02:41,830
+Rym: Special thanks to DJ Pretzel for the opening theme.
+
+901
+01:02:42,030 --> 01:02:48,050
+Scott: Be sure to visit our website at FrontRowClue.com for show notes, discussion, links, and more.
+
+902
+01:02:48,530 --> 01:02:51,195
+Rym: Remember, GeekNights is not one, but four different shows.
+
+903
+01:02:51,496 --> 01:02:53,159
+Rym: Mondays are science and technology.
+
+904
+01:02:53,219 --> 01:02:54,962
+Rym: Tuesdays, gaming and games.
+
+905
+01:02:55,082 --> 01:02:56,886
+Rym: Wednesdays are animation and comics.
+
+906
+01:02:57,226 --> 01:02:59,130
+Rym: Thursdays are arbitrary and indiscriminate.
+
+907
+01:03:00,390 --> 01:03:05,230
+Rym: GeekNights is distributed under a Creative Commons Attribution 4.0 International License.
+
+908
+01:03:05,890 --> 01:03:10,060
+Scott: GeekNights is recorded live with no studio and no audience.
+
+909
+01:03:10,561 --> 01:03:14,030
+Scott: But unlike those other late shows, it's actually recorded at night.
+
+910
+01:03:14,471 --> 01:03:27,442
+Rym: And the Patreon patrons for this episode of GeekNights are... ...and a bunch of people whose names I'm not gonna say.
+
+911
+01:03:30,850 --> 01:03:31,653
+Rym: I'll figure out what to do.
+
+912
+01:03:31,673 --> 01:03:36,910
+Rym: the show on Wednesday, because the only anime I'm watching is Dungeon Meshy, which we already reviewed.
+
+913
+01:03:37,510 --> 01:03:40,690
+Rym: But tonight, I will leave you this evening with...
+
+914
+01:03:42,111 --> 01:03:46,460
+Media: Come, come, come, come, come along now, run away from the humdrum.
+
+915
+01:03:47,041 --> 01:03:50,950
+Media: We'll go to a place that is safe from greed, anger and boredom.
+
+916
+01:03:52,030 --> 01:03:56,259
+Media: We'll dance and sing till sundown, at peace with abandon.
+
+917
+01:03:56,820 --> 01:04:01,130
+Media: We'll sleep when the morning comes and we'll rise by the sound of the birdsong.
+

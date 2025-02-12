@@ -1,0 +1,2596 @@
+1
+00:00:07,900 --> 00:00:11,511
+Rym: It's Monday December 16th 2024.
+
+2
+00:00:11,511 --> 00:00:14,619
+Rym: I'm Rym I'm Scott and this is GeekNights.
+
+3
+00:00:14,659 --> 00:00:16,678
+Rym: tonight We are talking about drones.
+
+4
+00:00:18,780 --> 00:00:19,845
+Scott: Let's do this.
+
+5
+00:00:19,865 --> 00:00:23,660
+Scott: I had some kind of Saturday going on.
+
+6
+00:00:26,425 --> 00:00:28,760
+Scott: You know after all these weekends I had holidays.
+
+7
+00:00:29,322 --> 00:00:30,789
+Scott: Yeah PAX Unplugged.
+
+8
+00:00:31,111 --> 00:00:32,879
+Scott: I couldn't get anything done in my house.
+
+9
+00:00:33,483 --> 00:00:36,420
+Scott: And then it's like oh hey finally a weekend where I could get shit done in my house.
+
+10
+00:00:36,841 --> 00:00:40,792
+Scott: You know I have no clean clothes that the kitchen is a disaster.
+
+11
+00:00:40,812 --> 00:00:44,628
+Scott: You know, but nope I had a Saturday That was just stacked.
+
+12
+00:00:44,669 --> 00:00:49,060
+Scott: I couldn't do any of those things until Sunday and today base basically.
+
+13
+00:00:50,761 --> 00:00:52,888
+Scott: But yeah, so on Saturday first.
+
+14
+00:00:52,948 --> 00:00:56,500
+Scott: I went to a hockey game and the Rangers have collapsed.
+
+15
+00:00:56,661 --> 00:01:02,326
+Rym: They said now Rita to read a short paragraph from blue shirt banter Which is pretty apropos.
+
+16
+00:01:02,828 --> 00:01:05,597
+Rym: quote the season is done midway through December.
+
+17
+00:01:05,898 --> 00:01:08,706
+Rym: the Rangers currently Outside of a playoff spot.
+
+18
+00:01:08,986 --> 00:01:11,533
+Rym: there are three and ten in their last 13 games.
+
+19
+00:01:11,834 --> 00:01:19,342
+Scott: the locker room appears to be an outright mutiny Alright, so yeah, you know for you non hockey fans you non sports fans You gotta understand.
+
+20
+00:01:19,402 --> 00:01:19,864
+Scott: last year.
+
+21
+00:01:19,884 --> 00:01:24,940
+Scott: You know in the past three seasons the Rangers made it to the conference finals.
+
+22
+00:01:25,241 --> 00:01:30,600
+Scott: Yeah, twice which is basically you know what a few wins away from the fine.
+
+23
+00:01:30,640 --> 00:01:32,287
+Scott: That's basically the semi finals right?
+
+24
+00:01:32,307 --> 00:01:35,460
+Scott: the final for the top four teams in the whole league.
+
+25
+00:01:35,621 --> 00:01:40,140
+Rym: Getting to the conference finals is an acceptable outcome of a hockey season like you feel pretty good.
+
+26
+00:01:40,180 --> 00:01:43,015
+Scott: It's like you're one of the four best teams out of 32, right?
+
+27
+00:01:44,480 --> 00:01:47,774
+Scott: So then not only that last season they were the print.
+
+28
+00:01:47,794 --> 00:02:00,920
+Scott: they won the president's trophy Which no one really cares about but it what it means is that at least in the regular season you were the best team Period and just only the regular season because obviously playoffs is what determines who really wins.
+
+29
+00:02:00,960 --> 00:02:02,186
+Scott: But you know.
+
+30
+00:02:02,769 --> 00:02:06,567
+Scott: and so this season it was like, okay You know there were.
+
+31
+00:02:06,909 --> 00:02:09,580
+Scott: there were some signs of of troubles, right?
+
+32
+00:02:09,759 --> 00:02:13,234
+Scott: You know, we were never that confident in them to win all.
+
+33
+00:02:13,254 --> 00:02:19,800
+Rym: but I started the season out Just okay looking really good winning a ton of games though against kind of weak team.
+
+34
+00:02:19,961 --> 00:02:26,409
+Scott: Not it not a ton but you know, they won as much as we expected They would win right but then they just.
+
+35
+00:02:26,610 --> 00:02:36,065
+Scott: they just shit the bed and they're still rolling around in the shitty bed and there's no sign of Any stopping of the shitting or Getting out of the bed.
+
+36
+00:02:36,085 --> 00:02:40,539
+Rym: I mean the last game I was at when they've just continued to decline since then.
+
+37
+00:02:41,283 --> 00:02:43,553
+Rym: They got a standing boovation at the end like the whole crowd.
+
+38
+00:02:43,573 --> 00:02:44,015
+Scott: That was me.
+
+39
+00:02:44,035 --> 00:02:48,054
+Scott: Yeah, that was me Last two last two games.
+
+40
+00:02:48,115 --> 00:02:55,377
+Scott: I was booing But yeah, the last game that I went to I think is the worst game I've seen in person.
+
+41
+00:02:55,398 --> 00:03:03,059
+Rym: I only watched Two minutes of the first period and three minutes or four minutes of the third period of that game.
+
+42
+00:03:04,462 --> 00:03:06,636
+Scott: You didn't miss you, you know, as long as you heard me booing.
+
+43
+00:03:06,656 --> 00:03:07,260
+Scott: That's the important.
+
+44
+00:03:07,340 --> 00:03:07,781
+Rym: Well, I saw.
+
+45
+00:03:07,822 --> 00:03:11,030
+Rym: I saw a little birdie said something cryptic about.
+
+46
+00:03:11,391 --> 00:03:16,831
+Rym: these kids are suddenly scoring goals question mark And I come in and oh, well, that's cuz no one else is.
+
+47
+00:03:16,911 --> 00:03:19,322
+Rym: Yeah, suddenly the game's 3-2. now They just kick.
+
+48
+00:03:19,564 --> 00:03:20,811
+Scott: you knew that was a different.
+
+49
+00:03:20,851 --> 00:03:21,595
+Scott: No, that wasn't the game.
+
+50
+00:03:21,615 --> 00:03:22,098
+Scott: I was at.
+
+51
+00:03:22,239 --> 00:03:28,774
+Scott: Oh, yeah The game I was at was the Kings where they Mean every game they've lost.
+
+52
+00:03:28,955 --> 00:03:31,908
+Scott: like yeah But yeah, they're terrible.
+
+53
+00:03:32,674 --> 00:03:35,208
+Scott: and then after that There's a movie.
+
+54
+00:03:35,490 --> 00:03:40,880
+Scott: I've been meaning to see And it was playing at the museum the moving image where I have a membership.
+
+55
+00:03:41,242 --> 00:03:43,553
+Scott: Yeah, and the director of the movie is gonna be there.
+
+56
+00:03:43,613 --> 00:03:44,296
+Scott: the movie is.
+
+57
+00:03:44,316 --> 00:03:45,060
+Scott: you may have heard of it.
+
+58
+00:03:45,422 --> 00:03:46,530
+Scott: I saw the TV glow.
+
+59
+00:03:46,550 --> 00:03:47,537
+Scott: It's pretty hot.
+
+60
+00:03:48,221 --> 00:03:49,949
+Rym: Yeah, we wanted to go but we had to.
+
+61
+00:03:49,969 --> 00:03:55,005
+Rym: we had an appointment someone coming to our apartment that was Ambiguously timed enough to where we couldn't risk it.
+
+62
+00:03:55,165 --> 00:03:55,626
+Rym: It was probably good.
+
+63
+00:03:55,646 --> 00:03:57,069
+Rym: We didn't risk it timing wise.
+
+64
+00:03:57,089 --> 00:03:57,710
+Rym: I wouldn't worked out.
+
+65
+00:03:58,621 --> 00:04:02,302
+Scott: Anyway, they museum did something At least.
+
+66
+00:04:02,603 --> 00:04:07,378
+Scott: I don't know if they've been doing this and I just never realized it or if it's actually something new that they do.
+
+67
+00:04:08,861 --> 00:04:19,310
+Scott: But the way the screenings there usually work when it's a special screening like this Is there's the curators at the museum sort of decide what to screen At least the film curators.
+
+68
+00:04:19,329 --> 00:04:21,099
+Scott: There's other parts of the museum that aren't film.
+
+69
+00:04:21,159 --> 00:04:32,589
+Scott: but And so that whoever picked the movie will typically introduce it beforehand and then interview The you know moderate the Q&A afterwards.
+
+70
+00:04:32,689 --> 00:04:36,720
+Scott: Usually they'll do a bunch of cues themselves and then open up to audience questions.
+
+71
+00:04:38,101 --> 00:04:40,430
+Scott: And so this time they're like they sent me an email.
+
+72
+00:04:40,450 --> 00:04:42,397
+Scott: They're like, hey, you're a member.
+
+73
+00:04:42,437 --> 00:04:46,708
+Scott: There's gonna be a curator Talk before the movie.
+
+74
+00:04:46,989 --> 00:05:06,757
+Scott: and I'm like, oh, no, I'm going anyway $0, I'm paying for the membership anyway, and so I go there an hour before the movie And like that curator person who's gonna be doing the questions right and moderating everything right and introducing the movie It like in some back room at the museum.
+
+75
+00:05:06,797 --> 00:05:11,619
+Scott: That's like some reusable multi-use, you know white room.
+
+76
+00:05:12,642 --> 00:05:21,251
+Scott: There's like five chairs and like four other museum members And the curator person and another museum employee and that was it.
+
+77
+00:05:21,271 --> 00:05:23,860
+Scott: Yeah, and then they just they just chatted about the movie.
+
+78
+00:05:25,502 --> 00:05:27,648
+Rym: While that's pretty cool though, right?
+
+79
+00:05:27,789 --> 00:05:28,471
+Scott: That's what I'm saying.
+
+80
+00:05:28,511 --> 00:05:29,233
+Scott: is it's like, huh?
+
+81
+00:05:29,313 --> 00:05:40,291
+Scott: This is like, you know I'm surprised so few people went but they're actually putting in some effort to sort of you know Reward, you know membership.
+
+82
+00:05:40,331 --> 00:05:42,421
+Scott: by doing more stuff like that I
+
+83
+00:05:42,441 --> 00:05:54,911
+Rym: mean, I'm reminded way back the thing we kept proposing to all the anime cons We worked with that They were never interested in was having curated screenings like show an anime and have someone who knows something about it Talk about it a little bit.
+
+84
+00:05:55,597 --> 00:05:57,464
+Rym: Yep It's format.
+
+85
+00:05:57,484 --> 00:05:58,952
+Scott: I like or it's like they.
+
+86
+00:05:59,153 --> 00:06:09,456
+Scott: you know, these ease a Lot, you know the cons will bring in guests who you know at Japanese guests, but it's like bro Don't just bring in the Japanese guests for the panel.
+
+87
+00:06:09,577 --> 00:06:14,053
+Scott: you should Screen their movie their show whatever it is.
+
+88
+00:06:14,495 --> 00:06:19,000
+Scott: Yep, and then Talk to them after and that's the same event.
+
+89
+00:06:21,065 --> 00:06:22,257
+Rym: It's obvious any good format.
+
+90
+00:06:23,542 --> 00:06:27,280
+Rym: I've heard really good things about that movie from a lot of people.
+
+91
+00:06:27,963 --> 00:06:32,500
+Scott: Well, you know, I think part of the discussion before Is that basically?
+
+92
+00:06:32,540 --> 00:06:35,492
+Scott: You know, it's obvious it's a trans movie right?
+
+93
+00:06:35,653 --> 00:06:37,962
+Scott: It's no it's not a secret It's like.
+
+94
+00:06:38,503 --> 00:06:49,753
+Scott: but you know, there are some people who are you know, they see this movie and they're like, you know Emotionally destroyed and you can see why if you're a trans person.
+
+95
+00:06:49,893 --> 00:06:51,377
+Scott: It's it's pretty much guaranteed.
+
+96
+00:06:51,978 --> 00:07:00,177
+Scott: if you Are emotionally destroyed by this movie and you think you're not trans you might be Or queer in some way.
+
+97
+00:07:03,342 --> 00:07:42,354
+Scott: You know and other people what see this movie and they're just like, you know, what the fuck I was somewhere in between I was like I was like, oh I get it But I would still recommend it to to everyone right because even if you You know, I mean you should care about you know, the the very forward queer messaging of the film Even if for some reason you don't there's a there's a strong message in the film of Discovering who you are And and you know allowing yourself to be who you are and such.
+
+98
+00:07:42,414 --> 00:07:50,041
+Rym: so and that's a universal theme I think yep, very important in these times for a lot of reasons as well Mm-hmm.
+
+99
+00:07:50,403 --> 00:07:59,680
+Scott: So, you know and if you're if you're the age we are or I'd say fuck, you know five to ten years younger even or maybe even five years older like that range.
+
+100
+00:08:00,002 --> 00:08:15,032
+Scott: so I guess if you're between 30 and All right, you know if you were watching television when Buffy the Vampire Slayer was Even even though I don't like that show and I only saw like yeah But I but I couldn't escape the presence of that show.
+
+101
+00:08:15,333 --> 00:08:17,120
+Scott: I know I yeah, I know, you know enough about it.
+
+102
+00:08:17,260 --> 00:08:25,840
+Rym: Anyway, so, uh, there's some news but the news is not you think it is and it's part of the reason why we're doing This main bit on drones, but I wanted to start right up front.
+
+103
+00:08:26,522 --> 00:08:27,727
+Rym: Nothing new is happening.
+
+104
+00:08:28,249 --> 00:08:30,416
+Rym: There's nothing going on with drones.
+
+105
+00:08:30,456 --> 00:08:34,311
+Rym: There's like a. I'd say weird, but it's not that weird.
+
+106
+00:08:34,491 --> 00:08:36,419
+Rym: I'd say surprising but it's not that surprising.
+
+107
+00:08:36,881 --> 00:08:44,465
+Rym: there's kind of a hysteria happening in the US just in the last like two weeks and Basically, well, there is the.
+
+108
+00:08:44,585 --> 00:08:45,147
+Scott: there is the.
+
+109
+00:08:45,467 --> 00:08:48,776
+Scott: the Chinese person flew drone near near base.
+
+110
+00:08:49,057 --> 00:08:52,812
+Rym: now that happens all The time and it's not new.
+
+111
+00:08:53,214 --> 00:08:54,480
+Rym: people fly drones places.
+
+112
+00:08:54,520 --> 00:09:05,134
+Rym: They're not supposed to all the time and there are definitely state-sponsored actors flying Cheap drones near US military bases, but like that's obvious drones are everywhere.
+
+113
+00:09:05,515 --> 00:09:07,200
+Scott: because what people sure that u.s.
+
+114
+00:09:07,581 --> 00:09:10,813
+Scott: Sponsored actors are flying drones near foreign military 100% as well.
+
+115
+00:09:10,833 --> 00:09:19,314
+Rym: I Have flown as has at least one friend of ours drones in places that they're not supposed to fly.
+
+116
+00:09:19,455 --> 00:09:30,060
+Scott: on occasions In fact, all of New York City all as far as I'm aware all of New York City is a place You are not supposed to fly a drill, but it's technically in New York.
+
+117
+00:09:31,661 --> 00:09:35,355
+Scott: Maybe you're allowed to in in in flushing in the park.
+
+118
+00:09:35,696 --> 00:09:44,074
+Scott: There's this one like rectangular concrete Square, basically, that's like a model plane airfield kind of thing.
+
+119
+00:09:44,094 --> 00:09:46,060
+Scott: I you might be allowed to fly it.
+
+120
+00:09:46,261 --> 00:09:47,064
+Rym: What's the term for?
+
+121
+00:09:47,124 --> 00:09:48,611
+Rym: it's an fi something something.
+
+122
+00:09:48,651 --> 00:10:01,540
+Rym: there's a. there's a special designation from the FAA for areas that are for recreational tiny Airplanes to fly and there's a bunch of these all over America next to meadow lake in flushing.
+
+123
+00:10:01,640 --> 00:10:03,406
+Scott: You can even see it on Google Maps.
+
+124
+00:10:03,446 --> 00:10:05,212
+Scott: There is a model airplane field.
+
+125
+00:10:05,232 --> 00:10:05,432
+Rym: Yep.
+
+126
+00:10:05,793 --> 00:10:07,399
+Rym: They have special FAA clearance.
+
+127
+00:10:07,439 --> 00:10:08,562
+Rym: those places Usually it's.
+
+128
+00:10:08,903 --> 00:10:16,031
+Scott: it's basically like this this little like field and it has like these beat-up Concrete circles and that's it.
+
+129
+00:10:16,071 --> 00:10:18,324
+Rym: I Mean, it's really sad.
+
+130
+00:10:18,585 --> 00:10:26,754
+Rym: I never owned one, but I in many occasions got to fly gasoline-powered Pretty large radio-controlled airplanes like that's a big hobby.
+
+131
+00:10:26,774 --> 00:10:28,440
+Rym: That's been around for a long time.
+
+132
+00:10:28,780 --> 00:10:29,863
+Scott: Yes, you can fly them.
+
+133
+00:10:30,003 --> 00:10:31,566
+Scott: You can fly those at this but you
+
+134
+00:10:31,626 --> 00:10:33,610
+Rym: know, you really can't fly a drone in New York is
+
+135
+00:10:34,620 --> 00:10:35,042
+Scott: Anywhere
+
+136
+00:10:35,102 --> 00:10:38,592
+Rym: along the waterfront by us because it's directly opposite the UN
+
+137
+00:10:38,613 --> 00:10:38,673
+Scott: and
+
+138
+00:10:39,214 --> 00:10:47,060
+Rym: I have seen people get I'm just going to politely say fucked by the police for clearly piloting drones over there.
+
+139
+00:10:47,140 --> 00:10:49,090
+Scott: Yeah, but there are also a lot of people who get away with it.
+
+140
+00:10:49,110 --> 00:10:55,276
+Scott: If you just go on YouTube, you'll see it's really So much footage drone footage of New York City.
+
+141
+00:10:55,517 --> 00:10:59,153
+Scott: some you know some of it people got permits and all the things you're supposed to do.
+
+142
+00:10:59,213 --> 00:11:04,660
+Scott: because obviously like if you want to you know, If you're shooting like a professional film, there's ways to get permits to do it legally.
+
+143
+00:11:04,760 --> 00:11:16,779
+Rym: In fact, I know there was a I saw the journalists setting up their designated area to fly a drone specifically to get aerial circulator shots of MSG ahead of a hockey game that we went to.
+
+144
+00:11:19,323 --> 00:11:20,849
+Rym: But the news is so.
+
+145
+00:11:21,531 --> 00:11:22,535
+Rym: just in the last few weeks
+
+146
+00:11:22,897 --> 00:11:23,057
+Scott: all
+
+147
+00:11:23,118 --> 00:11:43,028
+Rym: over America but mostly in specific neighborhoods people are just starting to call the cops saying they're seeing drones and Complaining about them and then kind of making up wild stuff about how big these drones are how many of them there are Etc and These reports are getting picked up mostly by right-wing news.
+
+148
+00:11:43,329 --> 00:11:48,560
+Rym: that then causes more people to hear about it look around and then yeah There are a lot of drones everywhere.
+
+149
+00:11:48,560 --> 00:11:52,032
+Rym: They're always have been and then they start reporting them and it's starting to.
+
+150
+00:11:52,293 --> 00:11:55,316
+Scott: a lot of the people are also just seeing planets airplanes.
+
+151
+00:11:56,103 --> 00:12:11,139
+Rym: Yep, so that's so what I'm gonna link to is a New York Times article that is like Here's what's actually going on because basically one subset of these people keep seeing Ryan's belt like specifically and taking pictures of it and it's just a Ryan's belt.
+
+152
+00:12:12,202 --> 00:12:14,308
+Scott: People are seeing onion onion on that belt.
+
+153
+00:12:14,368 --> 00:12:15,050
+Scott: three of them, right?
+
+154
+00:12:16,004 --> 00:12:16,357
+Scott: there's.
+
+155
+00:12:17,082 --> 00:12:32,955
+Rym: but most of the reports of people who say claim they saw a big drone are easily explained by Manned aircraft because there are a lot of normal airplanes that fly over places like New York City all the time and Nothing.
+
+156
+00:12:33,055 --> 00:12:41,330
+Rym: there's not more of them now than there were before But people are suddenly looking up seeing them and then getting scared because they're reading about on the news and calling the police.
+
+157
+00:12:41,932 --> 00:12:43,016
+Rym: But it's actually.
+
+158
+00:12:43,036 --> 00:12:46,490
+Rym: I think I figured out what's really happening and why this is suddenly so explosive.
+
+159
+00:12:47,152 --> 00:12:57,850
+Rym: Apparently Joe fucking Rogan has been talking for the last two weeks about how their secret drones doing nuclear gas Something something like made-up nonsense and that seems to be what triggered everyone talk.
+
+160
+00:12:58,231 --> 00:13:00,176
+Scott: Wasn't the hysteria before then?
+
+161
+00:13:00,256 --> 00:13:02,221
+Scott: and then the hysteria before then?
+
+162
+00:13:02,301 --> 00:13:05,950
+Rym: was he reiterating being so before that it was really isolated?
+
+163
+00:13:06,353 --> 00:13:08,350
+Rym: Like there weren't actually that many reports.
+
+164
+00:13:09,032 --> 00:13:16,233
+Rym: But then a right-wing news picked it up and that right-wing news was saying it's Iran which the White House was like, no Okay, it's not.
+
+165
+00:13:16,474 --> 00:13:20,747
+Rym: there's no ship off the East Coast sending drones into New York and Staten Island.
+
+166
+00:13:21,008 --> 00:13:21,770
+Rym: You're all crazy.
+
+167
+00:13:22,071 --> 00:13:25,002
+Scott: Yes, New Jersey is the place Iran wants to spy on.
+
+168
+00:13:25,062 --> 00:13:26,246
+Scott: Yeah, but like
+
+169
+00:13:28,856 --> 00:13:44,245
+Rym: This is not a thing But it's just getting bigger and bigger and bigger in the news to the point that like at work today I had several people come up to me because I guess I have this reputation for knowing about things Partly because I read the internet and increasingly no one else does and they're all like.
+
+170
+00:13:44,306 --> 00:13:45,310
+Rym: so what's up with these bones?
+
+171
+00:13:46,390 --> 00:13:50,990
+Scott: I mean, that's the only reason GeekNights exists is that we read and then we say what we read.
+
+172
+00:13:51,131 --> 00:13:56,578
+Scott: Yeah, which is what they ought to what they taught us to do in school from first grade book report Read book say what you read.
+
+173
+00:13:56,658 --> 00:14:01,100
+Scott: read things say what you read and people I guess listening to this I don't know how many there are.
+
+174
+00:14:01,120 --> 00:14:02,106
+Scott: this should only be one.
+
+175
+00:14:02,247 --> 00:14:03,652
+Scott: if that most Guess.
+
+176
+00:14:03,672 --> 00:14:07,730
+Scott: you don't know how to read on your own and you just want to hear us say what we read.
+
+177
+00:14:07,750 --> 00:14:10,810
+Rym: Well, they're here for the color and the commentary.
+
+178
+00:14:10,931 --> 00:14:20,851
+Rym: But yeah, if you watch the live stream, like I usually show what I'm looking at while we do GeekNights I'm just like reading Wikipedia half the time while we're talking like don't think we know everything everything I know.
+
+179
+00:14:20,932 --> 00:14:26,976
+Scott: I typed into a web browser somewhere and the color commentary is just me connecting two things I read together.
+
+180
+00:14:27,197 --> 00:14:40,288
+Rym: That's a that's a rare skill apparently But I predict this hysteria is only gonna get bigger and more annoying and I am confident that These drones are like literally nothing is new today from a month ago.
+
+181
+00:14:40,951 --> 00:14:42,896
+Scott: Yeah, is there you know, cuz there.
+
+182
+00:14:43,197 --> 00:14:52,007
+Scott: there's obviously this some sort of psychological effect where you know, you tell people To look for something and then they start seeing it everywhere.
+
+183
+00:14:52,027 --> 00:15:00,210
+Scott: Yeah It's related to a confirmation bias sort of but it's not quite the same thing, right?
+
+184
+00:15:00,250 --> 00:15:05,310
+Scott: It's like if I told someone ah, there's the sharks in this lake even though sharks don't live in lakes.
+
+185
+00:15:05,432 --> 00:15:14,038
+Scott: right and people would if people heard that they might come out to the lake and try to look and then if there was a splash of Water someone's gonna believe they saw a shark.
+
+186
+00:15:14,058 --> 00:15:15,843
+Scott: They're like though in that splash.
+
+187
+00:15:15,863 --> 00:15:17,829
+Scott: They'll see a shark the way you might see.
+
+188
+00:15:18,451 --> 00:15:20,819
+Scott: You know a Pikachu when you look at a cloud, right?
+
+189
+00:15:21,140 --> 00:15:22,083
+Scott: It's something like that.
+
+190
+00:15:22,103 --> 00:15:24,150
+Rym: No, so there that's definitely forget.
+
+191
+00:15:24,190 --> 00:15:25,240
+Rym: There's a name for it.
+
+192
+00:15:25,401 --> 00:15:26,249
+Rym: I don't remember it.
+
+193
+00:15:26,410 --> 00:15:27,115
+Scott: You know or like.
+
+194
+00:15:27,135 --> 00:15:29,569
+Scott: when you look at a Rorschach test and you start seeing things, right?
+
+195
+00:15:29,850 --> 00:15:34,550
+Scott: You know if I told you can you find the the butterfly in this Rorschach test?
+
+196
+00:15:35,010 --> 00:15:35,432
+Scott: Yeah, like.
+
+197
+00:15:35,492 --> 00:15:37,963
+Scott: oh I found one here and I right but it's I didn't tell you.
+
+198
+00:15:38,305 --> 00:15:40,655
+Scott: if I told you to look for a snake You'd be like, oh I found snakes.
+
+199
+00:15:40,695 --> 00:15:41,218
+Scott: Here they are.
+
+200
+00:15:41,238 --> 00:15:43,650
+Scott: Right whatever I tell you to look for you're gonna see it.
+
+201
+00:15:44,872 --> 00:15:45,114
+Scott: What is?
+
+202
+00:15:45,296 --> 00:15:46,829
+Scott: there must be a name for this?
+
+203
+00:15:47,970 --> 00:15:57,170
+Scott: Psychological phenomena because basically they told people Look for drones in the sky near New Jersey and so people look at the sky and anything that's bright or moving.
+
+204
+00:15:57,271 --> 00:15:58,383
+Scott: They say I see a drone.
+
+205
+00:15:58,403 --> 00:16:02,659
+Scott: Yep They weren't looking before so they didn't see anything.
+
+206
+00:16:02,759 --> 00:16:12,449
+Rym: but never mind the fact that most of these early reports were under one of the flight paths into JFK Airport and Newark Airport, so Huh?
+
+207
+00:16:13,272 --> 00:16:21,954
+Scott: Yeah, yeah funny that also lots of smaller airports are around that people don't really know about or pay attention to Where the small planes go.
+
+208
+00:16:22,435 --> 00:16:23,177
+Scott: now drone can't.
+
+209
+00:16:23,237 --> 00:16:27,126
+Scott: you can't fly your little personal private rich person plane into JFK.
+
+210
+00:16:27,227 --> 00:16:36,289
+Rym: now drones are a Problem in that people do fly them around airports dangerously all the time, but that's been happening for like five years now.
+
+211
+00:16:37,484 --> 00:16:39,780
+Rym: Yeah Say anyway got any news.
+
+212
+00:16:41,229 --> 00:16:46,167
+Scott: I Don't know if we talked about it on the show much but there's a big drama going on with WordPress.
+
+213
+00:16:46,489 --> 00:16:52,416
+Scott: So Basically WordPress is An open-source thing.
+
+214
+00:16:52,697 --> 00:16:55,306
+Scott: right you get to make a blog and it's been around a long time.
+
+215
+00:16:55,406 --> 00:16:56,410
+Scott: We used it a lot.
+
+216
+00:16:56,510 --> 00:16:57,532
+Scott: I've used it in the past.
+
+217
+00:16:57,652 --> 00:17:00,758
+Scott: I'm not using it anymore, but I used it a lot in the past.
+
+218
+00:17:00,778 --> 00:17:08,348
+Scott: GeekNights used it in the past and Software wise it's really not terrible.
+
+219
+00:17:11,431 --> 00:17:26,799
+Scott: If you just want to make a blog the thing is There's a company also that goes with WordPress says wordpress.org Which is just the open-source software and then there's wordpress.com which is a company and if the company is automatic They're a big company.
+
+220
+00:17:26,880 --> 00:17:28,069
+Scott: Actually, they've bought tumblr.
+
+221
+00:17:29,453 --> 00:17:30,861
+Scott: They own like gravatar.
+
+222
+00:17:31,163 --> 00:17:41,622
+Scott: they own quite a few things But wordpress.com is a website where you can make a blog that is powered by WordPress But you don't have to host anything like.
+
+223
+00:17:41,643 --> 00:17:45,959
+Scott: they're just selling pre-hosted WordPress because they're literally the WordPress.
+
+224
+00:17:46,000 --> 00:17:54,030
+Rym: come now this vague structure of like an open-source project a Company that does something with it and a company that offers it as a service or like it like a service bureau.
+
+225
+00:17:54,571 --> 00:17:56,276
+Rym: That's like a tale as old as time.
+
+226
+00:17:56,316 --> 00:18:00,910
+Rym: There are so many pieces of software that are basically structured like this out in the world.
+
+227
+00:18:01,573 --> 00:18:03,864
+Scott: Yeah, I mean but you know you look at some other open-source software.
+
+228
+00:18:03,884 --> 00:18:05,230
+Scott: Let's say postgres, right?
+
+229
+00:18:05,290 --> 00:18:05,491
+Scott: It's like.
+
+230
+00:18:05,531 --> 00:18:07,258
+Scott: well postgres is just open source.
+
+231
+00:18:07,519 --> 00:18:10,290
+Scott: There are companies that will sell you a postgres like Amazon.
+
+232
+00:18:10,510 --> 00:18:11,915
+Scott: That's RDS, right?
+
+233
+00:18:11,935 --> 00:18:16,709
+Scott: You can pay Amazon and they will run a postgres for you and you can use it.
+
+234
+00:18:17,271 --> 00:18:17,772
+Rym: I'm a post.
+
+235
+00:18:17,792 --> 00:18:19,878
+Scott: you know postgres itself doesn't do that.
+
+236
+00:18:19,918 --> 00:18:20,760
+Scott: There's no right.
+
+237
+00:18:20,821 --> 00:18:24,350
+Scott: It's not the same organization that makes the software.
+
+238
+00:18:24,470 --> 00:18:27,498
+Rym: Yeah, the sauce anyway there, right?
+
+239
+00:18:27,538 --> 00:18:32,410
+Scott: So the guy the CEO of automatic right is this dude who's not?
+
+240
+00:18:32,751 --> 00:18:37,530
+Scott: Historically has it been the worst dude, but has it been the best dude?
+
+241
+00:18:38,551 --> 00:18:42,910
+Scott: Either this Matt Mullen way guy right and he is the guy who started WordPress, right?
+
+242
+00:18:43,050 --> 00:18:47,929
+Scott: So he's not like, you know some completely, you know useless know nothing or anything.
+
+243
+00:18:48,992 --> 00:18:58,950
+Scott: But anyway, he at the latest it was it was a while ago already like months or you know go like feels like Where there was basically the big WordPress con, right?
+
+244
+00:18:59,752 --> 00:19:01,518
+Scott: And he comes to give a talk there.
+
+245
+00:19:01,598 --> 00:19:14,421
+Rym: cuz you know, who else would be the big speaker, you know total aside Most people who know me in my non GeekNights professional life when I say oh I'm going to a convention this weekend to speak they think it's something like this.
+
+246
+00:19:14,462 --> 00:19:15,887
+Rym: They don't realize it's like PAX.
+
+247
+00:19:16,408 --> 00:19:21,970
+Scott: Yeah Anyway, it's just a gathering of people who depend on WordPress professionally.
+
+248
+00:19:21,970 --> 00:19:24,864
+Scott: Yeah, right gather to the WordPress conference.
+
+249
+00:19:25,146 --> 00:19:36,780
+Scott: So anyway And he gets big mad about this company called WP engine and he like trashes them and and they calls them leeches.
+
+250
+00:19:36,881 --> 00:19:38,488
+Scott: and then what I you know, you insult right.
+
+251
+00:19:38,508 --> 00:19:40,796
+Scott: and What's WP engine?
+
+252
+00:19:40,896 --> 00:19:50,209
+Scott: Well, it's just another company that hosts WordPress Sells and you pay them to host WordPress and it's just a direct competitor to wordpress.com.
+
+253
+00:19:50,591 --> 00:19:58,522
+Scott: And since the WordPress software itself is open source Theoretically anybody could just host WordPress and be like pay me.
+
+254
+00:19:58,783 --> 00:20:00,490
+Scott: I could be like I could run a company right now.
+
+255
+00:20:00,550 --> 00:20:01,497
+Scott: That's like pay me.
+
+256
+00:20:01,577 --> 00:20:03,088
+Scott: I'll host Postgres is for you.
+
+257
+00:20:03,471 --> 00:20:10,110
+Rym: I'll host WordPress, you know to use an example from like my Professional life that fixed protocol thing that I don't talk about that much on GeekNights.
+
+258
+00:20:10,431 --> 00:20:13,261
+Rym: There's an open source quick fix engine called quick fix.
+
+259
+00:20:13,623 --> 00:20:15,128
+Rym: That's what most people use out in the wild.
+
+260
+00:20:16,711 --> 00:20:22,469
+Rym: Lots of companies just sell quick fix to you, but they'll also build software around it for you.
+
+261
+00:20:23,233 --> 00:20:25,768
+Scott: Right because I mean open source software is only you.
+
+262
+00:20:25,849 --> 00:20:26,030
+Scott: you know.
+
+263
+00:20:26,090 --> 00:20:33,596
+Scott: especially server type software is only useful if you can host it and not everybody has hosting capacity.
+
+264
+00:20:33,917 --> 00:20:46,750
+Scott: and even if you just buy raw hosting capacity like You know from the cloud or some other kind of host or you even have your own data center I guess or you pay a data center to co-locate a computer.
+
+265
+00:20:47,252 --> 00:20:54,334
+Scott: You need professional experienced people to now maintain that and administer it all the time and also like the like.
+
+266
+00:20:54,395 --> 00:20:59,949
+Rym: that is often the more valuable part of something than the technology itself.
+
+267
+00:21:00,029 --> 00:21:04,439
+Scott: is the Operationalization of it right and so WP engine?
+
+268
+00:21:04,900 --> 00:21:13,724
+Scott: they not only will host a WordPress for you if you pay them But they also make a lot of custom plugins and you know spruce it up in various ways.
+
+269
+00:21:13,844 --> 00:21:24,542
+Scott: and a lot of very big companies use WP engine for their WordPress needs rather than hosting it themselves like big companies names You know use it.
+
+270
+00:21:24,663 --> 00:21:25,349
+Scott: I've never used it.
+
+271
+00:21:26,795 --> 00:21:39,303
+Scott: But like you can just see the you know They got one of those things on the website where the logos fly by and you can see it's like AMD Yelp Petco Pandora country music awards.
+
+272
+00:21:39,404 --> 00:21:44,321
+Scott: right big Companies, you know use WP engine for the WordPress hosting.
+
+273
+00:21:44,642 --> 00:21:52,160
+Scott: but the CEO of wordpress.com was super mad at them and Basically there was a whole big brouhaha and it.
+
+274
+00:21:52,501 --> 00:21:58,719
+Scott: the one hand people were a little bit Against WP engine like a little bit agreeing with him.
+
+275
+00:21:58,799 --> 00:22:05,241
+Scott: It's like yeah, you know, they're sort of you know They're using WP in their name.
+
+276
+00:22:05,341 --> 00:22:07,630
+Scott: They don't really have to do that, right?
+
+277
+00:22:07,710 --> 00:22:10,749
+Scott: It's a little bit trademark in fringe ish, maybe.
+
+278
+00:22:10,769 --> 00:22:15,730
+Scott: and They're not really, you know, the greatest contributors to the community.
+
+279
+00:22:15,951 --> 00:22:20,650
+Scott: They're just sort of running the software and selling it instead of being really, you know, partnering.
+
+280
+00:22:21,474 --> 00:22:24,468
+Scott: But it's like they don't really have to legally, you know.
+
+281
+00:22:25,573 --> 00:22:39,947
+Scott: but this the wordpress guy he was just going off like a like a Like unreasonably angry especially considering Open-source software broadly lets people do things like this.
+
+282
+00:22:40,489 --> 00:22:41,714
+Scott: Yes Anyway, he goes off.
+
+283
+00:22:41,774 --> 00:22:43,903
+Scott: and the big thing he did various things.
+
+284
+00:22:43,923 --> 00:22:45,570
+Scott: You can read all the drama somewhere else.
+
+285
+00:22:46,131 --> 00:22:48,358
+Scott: The biggest thing he did was he basically two things.
+
+286
+00:22:48,739 --> 00:22:53,760
+Scott: He cut off WP engine from the WordPress plug-in repository.
+
+287
+00:22:54,204 --> 00:22:57,666
+Scott: so like WP engine couldn't like when it tried to connect.
+
+288
+00:22:58,028 --> 00:23:07,325
+Scott: and you know If you were using WP engine you tried to go get WordPress themes or plugins from the official central place That is run by automatic you'd use black blocked.
+
+289
+00:23:07,486 --> 00:23:13,626
+Scott: So Basically causing a huge pain in the butt like they couldn't get you know updates things like that.
+
+290
+00:23:14,248 --> 00:23:23,190
+Scott: Not great I mean, could you imagine like I don't know You I can't I can't think of another comparison.
+
+291
+00:23:23,832 --> 00:23:33,940
+Scott: but anyway, and then the other thing is like he put a thing on like the sign up for WordPress calm or like you had to Like click a checkbox.
+
+292
+00:23:33,980 --> 00:23:37,418
+Scott: that said like I'm not Affiliated with WP engine.
+
+293
+00:23:38,483 --> 00:23:47,505
+Rym: I agree with you F those guys I'm not a lawyer, but that broadly Edges into the kinds of non like anti-competitive practices.
+
+294
+00:23:47,545 --> 00:23:49,595
+Rym: They get you in deep shit I don't know.
+
+295
+00:23:49,655 --> 00:23:52,550
+Scott: It's very straight if the guy just went off the deep end with this, right?
+
+296
+00:23:53,071 --> 00:24:04,259
+Scott: And so there's gonna be you know, a lot of court fighting involved but the first court fighting the very you know, the very first thing happened and First judge said yeah, we're gonna put an injunction.
+
+297
+00:24:04,300 --> 00:24:05,864
+Scott: You can't keep blocking these people.
+
+298
+00:24:07,228 --> 00:24:19,150
+Scott: and so in response to that The the baby CEO guy Matt like in some slack channel of like a bunch like a WordPress slack community.
+
+299
+00:24:19,313 --> 00:24:19,903
+Scott: he was just like.
+
+300
+00:24:22,172 --> 00:24:27,770
+Scott: Then he he's like he's like left and he took his ball home and quit like left the slack.
+
+301
+00:24:28,091 --> 00:24:31,189
+Rym: It is just amazing child, you know.
+
+302
+00:24:31,491 --> 00:24:37,950
+Rym: But not shocking that someone like that could get to the point of being in this position of power and a company.
+
+303
+00:24:38,734 --> 00:24:41,430
+Scott: I mean, that's really you know, the problem in our society.
+
+304
+00:24:41,470 --> 00:24:56,586
+Scott: It's like it did start WordPress and ran and this company Indian did a lot of successful Good things but also, you know, it wasn't perfect in a lot of ways, you know The signs were there that you know, this was not.
+
+305
+00:24:56,626 --> 00:25:04,669
+Scott: he's not like, you know The worst horrible, you know tart terrible gut dudes and the scale of bad dudes, but he's still not great.
+
+306
+00:25:05,553 --> 00:25:07,922
+Rym: Like I guess for some reason just got hung up.
+
+307
+00:25:08,223 --> 00:25:16,929
+Scott: person would be pleasant based on this No, but also for some reason he got so hung up on this one company He just couldn't let it go and he ended up shooting himself right in the foot.
+
+308
+00:25:17,090 --> 00:25:19,662
+Rym: But like don't you have a PR person or you probably do it?
+
+309
+00:25:19,682 --> 00:25:20,325
+Rym: you ignored them.
+
+310
+00:25:20,365 --> 00:25:24,290
+Rym: No, I don't think he does But yeah, we'll uh continue to follow this.
+
+311
+00:25:24,390 --> 00:25:27,101
+Rym: I mean we roll our own website like Scott wrote it.
+
+312
+00:25:27,161 --> 00:25:29,450
+Rym: so we don't really have any concerns about WordPress.
+
+313
+00:25:29,691 --> 00:25:30,855
+Rym: We don't use WP engine.
+
+314
+00:25:31,316 --> 00:25:32,721
+Rym: So I'm just gonna bring out the popcorn.
+
+315
+00:25:32,761 --> 00:25:38,261
+Rym: like I actually don't care that much about this whole situation I'm just curious to see how it would shakes down.
+
+316
+00:25:38,302 --> 00:25:39,025
+Scott: I think it's also.
+
+317
+00:25:39,165 --> 00:25:40,270
+Scott: it's also entertaining.
+
+318
+00:25:41,631 --> 00:25:43,717
+Scott: I mean, I guess I mean, it's not just entertaining.
+
+319
+00:25:43,757 --> 00:25:51,142
+Scott: It's also important because you know, a lot of websites are still using WordPress and so this could code if I
+
+320
+00:25:51,645 --> 00:26:00,353
+Rym: the relationship between Companies that own an open source project and companies that monetize that and it might start to set some of where the boundaries are allowed To be.
+
+321
+00:26:00,696 --> 00:26:02,830
+Scott: I don't I don't know if that's the matter of the case.
+
+322
+00:26:02,890 --> 00:26:09,249
+Scott: I think the matters of the case are matters of like, you know trademark infringement and then you know slandered libel, etc.
+
+323
+00:26:09,490 --> 00:26:10,925
+Scott: Yeah thing right.
+
+324
+00:26:11,087 --> 00:26:14,189
+Scott: whatever Disparagement, I don't know when the lawyer, right?
+
+325
+00:26:15,731 --> 00:26:16,801
+Scott: That's what the case is about.
+
+326
+00:26:16,842 --> 00:26:26,575
+Scott: the case isn't about that other thing but anyway things Of the day.
+
+327
+00:26:26,715 --> 00:26:30,330
+Rym: so gotta take you back to a time a long time ago.
+
+328
+00:26:31,032 --> 00:26:38,258
+Rym: We're talking about the night to the late 80s and the early 90s and back then There were two special kinds of phone numbers.
+
+329
+00:26:38,759 --> 00:26:47,790
+Rym: if you were using a telephone so you could dial in 800 number Which was toll-free because phone calls used to cost money unless you were calling people like in your neighborhood.
+
+330
+00:26:48,472 --> 00:27:00,750
+Rym: So there was long distance local but when 800 numbers were always free and then there were one 900 numbers which Most of them were porn and the ones that weren't porn were weird or scams.
+
+331
+00:27:01,151 --> 00:27:13,904
+Rym: But basically they were numbers you could call and they would just charge you money oftentimes a lot of money to stay on the line with them and They had a variety of different uses and there's a lot you could talk about.
+
+332
+00:27:13,984 --> 00:27:15,855
+Rym: but the thing I'm talking about something I learned About that.
+
+333
+00:27:15,875 --> 00:27:16,644
+Rym: I didn't know about.
+
+334
+00:27:16,664 --> 00:27:24,430
+Rym: well I guess I'd heard of it and I remembered it But I didn't know what it was until now and it was actually way ahead of its time.
+
+335
+00:27:25,032 --> 00:27:32,558
+Rym: so there was a number one nine hundred four nine zero freak and They ran ads on MTV.
+
+336
+00:27:33,220 --> 00:27:46,469
+Rym: the ads were just this little gremlin Dancing while weird stuff comes on screen and it just advertised the freak phone and it didn't in any way Describe what the fuck would happen if you called this number?
+
+337
+00:27:47,531 --> 00:28:00,961
+Rym: So if you called it what it actually did is it let you leave a message or listen to a message that someone else had left at some point and It was just kind of a Wild West of whatever.
+
+338
+00:28:00,981 --> 00:28:26,834
+Rym: It was like this weird nonsense service of Posting content and receiving content and then the people who ran it would actually take whatever they thought was particularly funny or good Or noteworthy and when you called in you could ask for something random or you could ask to hear one of the like Trending items or the good items or the freak stars and you get like the popular one or the one that the people around it Thought were.
+
+339
+00:28:26,854 --> 00:28:30,094
+Rym: it's good And it's all lost.
+
+340
+00:28:30,395 --> 00:28:35,190
+Rym: Nobody has any of the recordings of anything that was on this service.
+
+341
+00:28:35,531 --> 00:28:38,440
+Rym: So all I sense all I have for you is a wiki.
+
+342
+00:28:38,861 --> 00:28:46,689
+Rym: that is basically everything we know about the content That was on this phone number that you had to pay for in the 80s and early 90s
+
+343
+00:28:48,232 --> 00:29:07,970
+Scott: when when I was young and in an adolescent Right what we used to do for example, whenever we were left unsupervised near payphones Yeah is we would call various numbers on the payphones And obviously, you know, you didn't put any money in and you were on a payphone.
+
+344
+00:29:08,732 --> 00:29:13,750
+Scott: So but it would like connect you and you could hear like the intro messages on a lot of these things.
+
+345
+00:29:14,532 --> 00:29:16,003
+Scott: Yeah, which was which was funny.
+
+346
+00:29:16,728 --> 00:29:37,228
+Scott: So You know NPR has their their tiny desk, right and there's basically a whole lot of shows That are along those lines right where you basically, you know get some musical artists to perform a small Concert performance and you know, you put it up as a YouTube video concert, whatever, right?
+
+347
+00:29:38,092 --> 00:29:41,070
+Scott: There's some targeted ones that are like really specific.
+
+348
+00:29:41,110 --> 00:30:03,430
+Scott: Anyway, I found this new one because thanks to the YouTube algorithm, which isn't all bad, I guess And basically These people they do something the NPR tiny desk doesn't do or doesn't do often Which is they got mostly DJs going on in here, right and they call it elevator music because their little set looks like an elevator.
+
+349
+00:30:03,511 --> 00:30:09,639
+Scott: It's basically a desk with you know DJ turntables and elevator doors behind them.
+
+350
+00:30:09,700 --> 00:30:12,687
+Rym: I like how there's an elevator inspection sticker like on the left.
+
+351
+00:30:13,449 --> 00:30:20,370
+Scott: Yeah And they've had you know, it's been going for like a year or so and they've had you know performances every few weeks.
+
+352
+00:30:20,812 --> 00:30:34,749
+Scott: But if you look at their YouTube channel, it's like most of them only have like, you know Thousands of views or maybe tens of thousands of views for some of the more popular people except their very newest one Which is the one that helped me know that they exist.
+
+353
+00:30:36,052 --> 00:30:39,389
+Scott: They got fat boy slim and so there are six hundred thousand views.
+
+354
+00:30:41,633 --> 00:30:48,907
+Scott: Hey You know, the set is amazing - I didn't know that that's a fat boy slim looked like.
+
+355
+00:30:48,967 --> 00:30:50,493
+Scott: I've never seen him before I guess.
+
+356
+00:30:50,513 --> 00:30:51,778
+Scott: I guess also he's old now.
+
+357
+00:30:51,999 --> 00:30:52,380
+Scott: I never.
+
+358
+00:30:52,400 --> 00:30:54,730
+Scott: I guess I didn't see him when he was young either.
+
+359
+00:30:54,832 --> 00:30:55,648
+Scott: I could go look it up.
+
+360
+00:30:56,893 --> 00:30:58,687
+Scott: It's a person I've known about but never saw.
+
+361
+00:31:00,632 --> 00:31:05,575
+Scott: And also it's interesting that this elevator music is actually on like.
+
+362
+00:31:05,615 --> 00:31:10,117
+Scott: the way they're distributing this is Yeah, you can watch them on YouTube.
+
+363
+00:31:10,799 --> 00:31:12,305
+Scott: They've got an official website.
+
+364
+00:31:12,686 --> 00:31:13,770
+Scott: They're on Apple music.
+
+365
+00:31:13,790 --> 00:31:14,698
+Scott: I think there must.
+
+366
+00:31:14,758 --> 00:31:20,543
+Scott: they might even be like somehow Actually involved Apple music wise like it might be Apple music like first.
+
+367
+00:31:20,583 --> 00:31:25,836
+Scott: I don't know if Apple is paying for this in any way But they also got patreon and everything.
+
+368
+00:31:26,037 --> 00:31:35,626
+Scott: So it's like, you know, whichever way you want to get the you know These when episodes whenever they come out performances, you know, they're about an hour long each.
+
+369
+00:31:35,867 --> 00:31:43,619
+Scott: every few weeks they're available there for you, but You know pretty pretty good in the better moment.
+
+370
+00:31:43,679 --> 00:31:54,850
+Rym: We're gonna be live at PAX East PAX West very likely and Magfest and I will be live but probably not Scott because he never comes anymore at zenkai con.
+
+371
+00:31:55,596 --> 00:32:01,422
+Scott: I went to zenkai con only like two times Move to a much bigger Convention Center saying saying never comes anymore.
+
+372
+00:32:01,442 --> 00:32:03,468
+Scott: It's like saying I used to go frequently.
+
+373
+00:32:03,528 --> 00:32:04,050
+Scott: I went twice.
+
+374
+00:32:04,171 --> 00:32:04,794
+Rym: Yeah, you know what.
+
+375
+00:32:04,814 --> 00:32:08,374
+Rym: twice I've how many I've been to like six seven mostly I was like one.
+
+376
+00:32:08,414 --> 00:32:12,821
+Scott: we went to one in a shit in a really shady Weird place and then we went to the one.
+
+377
+00:32:12,921 --> 00:32:14,087
+Scott: I went to Lancaster one time.
+
+378
+00:32:14,309 --> 00:32:16,035
+Scott: Mmm And it's still in Lancaster.
+
+379
+00:32:16,075 --> 00:32:21,739
+Rym: as far as I know it is still in Lancaster, but Lancaster has changed significantly there I'm sure it has.
+
+380
+00:32:21,800 --> 00:32:22,590
+Scott: it's been a long time.
+
+381
+00:32:22,650 --> 00:32:28,089
+Rym: There are now like six restaurants that are open on Sunday as opposed to zero like back in the day.
+
+382
+00:32:30,931 --> 00:32:32,917
+Rym: But usually I do like four or five panels.
+
+383
+00:32:32,937 --> 00:32:35,123
+Scott: that's an infinity percent increase.
+
+384
+00:32:36,046 --> 00:32:47,783
+Rym: but anyway drones Drones are relatively new for consumers like in the last I'd say at most 20 years Anyone had access to this kind of thing.
+
+385
+00:32:47,864 --> 00:32:48,749
+Rym: It wasn't a specialist.
+
+386
+00:32:49,534 --> 00:32:55,670
+Scott: Yeah, I mean what I don't know much about drones honestly Which is why I was sort of iffy about doing an episode in this cuz like what the fuck do I know?
+
+387
+00:32:55,810 --> 00:32:57,480
+Scott: But one thing I do know about drones.
+
+388
+00:32:57,560 --> 00:32:59,150
+Scott: is that the drone?
+
+389
+00:32:59,990 --> 00:33:07,262
+Scott: Itself isn't really that new an invention humans have known since the Wright brothers Or even even earlier.
+
+390
+00:33:07,343 --> 00:33:08,170
+Scott: paper airplane, right?
+
+391
+00:33:08,330 --> 00:33:12,289
+Scott: But we've known how to make a thing that flies without a person in it.
+
+392
+00:33:12,550 --> 00:33:13,052
+Scott: Yeah, right.
+
+393
+00:33:13,413 --> 00:33:18,469
+Scott: The problem is simply a matter of yeah, we need something to power it.
+
+394
+00:33:19,292 --> 00:33:37,210
+Scott: The thing that powers it has to be not so heavy that it can't fly anymore Right, and so in the case of you know, their propeller with an engine right the Engine is powerful enough that in the plane is Aerodynamic enough and whatnot that it can fly even carrying some people.
+
+395
+00:33:37,451 --> 00:33:43,890
+Scott: All right, if you get enough of them up there right the jet engine even is really heavy, but it's also insanely powerful.
+
+396
+00:33:45,232 --> 00:33:52,420
+Scott: but to make a small flying device that isn't just like Children's toy with like a pull string or something, right?
+
+397
+00:33:52,741 --> 00:33:56,210
+Scott: How could you get enough power to achieve sustained flight?
+
+398
+00:33:56,870 --> 00:34:00,804
+Scott: Without you know weighing the thing down with like a whole frickin engine?
+
+399
+00:34:01,146 --> 00:34:08,149
+Rym: now model airplanes Like I used to play with when I was a kid We're like small like consumer like did fit in your house so you just own them.
+
+400
+00:34:08,772 --> 00:34:13,831
+Rym: They had gas-powered engines like they were just actual airplanes Exactly.
+
+401
+00:34:14,293 --> 00:34:25,241
+Scott: And so what's really enabled the drone as we call it now Right, even though it's just a small unmanned flying device Is the lithium-ion battery?
+
+402
+00:34:25,321 --> 00:34:25,502
+Rym: Yep.
+
+403
+00:34:25,522 --> 00:34:26,730
+Rym: Well, it's the combination of two things.
+
+404
+00:34:26,810 --> 00:34:27,592
+Rym: I think it's one.
+
+405
+00:34:28,313 --> 00:34:34,350
+Rym: the lithium-ion battery allows you to have small light things that aren't just gas-powered planes.
+
+406
+00:34:35,079 --> 00:34:40,744
+Rym: Yes to Advanced communications and smartphones and all the kind of technology.
+
+407
+00:34:40,784 --> 00:34:52,081
+Rym: we got got to the point to where You could just pilot this thing remotely by looking through a camera on the thing and it just works Which is magic even a decade ago for most people compared to today.
+
+408
+00:34:53,143 --> 00:35:09,910
+Scott: and also of course, you know the computational miniaturization right, you know a lot of the drones that consumers have have like a four propeller VTOL design and so to keep the Four propellers and have like auto balancing and all that right is like you need a fast enough CPU.
+
+409
+00:35:10,452 --> 00:35:14,589
+Scott: That's low power enough right enough memory in there, etc.
+
+410
+00:35:14,810 --> 00:35:26,345
+Rym: Yeah, cuz like old like gas-powered planes are really hard to fly not even just because you don't have a camera And you can't see but because you have to manually control all the control surfaces.
+
+411
+00:35:26,686 --> 00:35:30,910
+Rym: these drones now Just keep themselves level using computing technology.
+
+412
+00:35:31,472 --> 00:35:36,050
+Scott: Yeah, you control them with a gamepad like it's a video game, but it's really doing most of the flying itself.
+
+413
+00:35:36,230 --> 00:35:42,392
+Scott: Right, if a gust of wind comes, you know, you know, it may might move but it's not gonna fall unless it's a crazy Gust-of-wind.
+
+414
+00:35:42,472 --> 00:35:44,941
+Scott: Yeah, because but it's doing that on its own.
+
+415
+00:35:44,981 --> 00:35:51,004
+Scott: Whereas if you're flying a model airplane and there's a gust of wind Yeah, you have to deal with that with your hands on the controls.
+
+416
+00:35:51,164 --> 00:35:52,148
+Scott: Otherwise, you're in trouble.
+
+417
+00:35:52,349 --> 00:35:55,700
+Rym: Yep I mean I've tried to fly a robot control helicopters before.
+
+418
+00:35:56,402 --> 00:36:06,749
+Rym: it is even something so simple is So hard to keep level even if there's no wind and you're inside like an apartment It's like impossible to keep it level in one place.
+
+419
+00:36:07,212 --> 00:36:13,138
+Rym: I mean our old friend I Aaron who would fly helicopters said that that's actually really hard Even if you're in a real helicopter, like.
+
+420
+00:36:13,198 --> 00:36:13,680
+Rym: it's really hard.
+
+421
+00:36:13,720 --> 00:36:23,296
+Rym: and our professionally trained helicopter pilot Yeah, but modern drones like the fun toy ones that kids play with they just they do it They just work.
+
+422
+00:36:23,619 --> 00:36:25,110
+Rym: so you don't need any special skills.
+
+423
+00:36:25,511 --> 00:36:32,608
+Rym: All the only thing you need to have a pretty good drone to fly around is a credit card With enough space on it to buy the drone.
+
+424
+00:36:33,574 --> 00:36:46,172
+Scott: and so now and all that technology not only became Feasible but became so inexpensive That it's just available to anyone who wants to buy one and can afford it and you know whatever.
+
+425
+00:36:46,373 --> 00:36:48,542
+Rym: and the prices have just come down and down and down.
+
+426
+00:36:48,623 --> 00:36:59,310
+Rym: and I would say the Single biggest use of this technology for people who are not professional specialists has been photography and video Obviously far away.
+
+427
+00:37:00,193 --> 00:37:07,910
+Scott: Well, because a camera is something you know a drone, you know, we've talked about like, you know drones delivering packages You know things of that nature.
+
+428
+00:37:08,030 --> 00:37:13,447
+Scott: but it's like that's kind of difficult and requires a more powerful drone to get a more bigger lift.
+
+429
+00:37:13,727 --> 00:37:20,490
+Scott: and it's much, you know, But a camera cameras have also been digitized Miniaturized low power, right?
+
+430
+00:37:20,890 --> 00:37:30,857
+Scott: and so it's really easy to slap one or more cameras on a drone and fly it around and that's a very interesting and Useful use of them.
+
+431
+00:37:30,877 --> 00:37:37,100
+Scott: It's like other things you might do with the drone are like You know that I guess are interesting is you can race them.
+
+432
+00:37:37,582 --> 00:37:39,430
+Scott: That's you know, kind of interesting.
+
+433
+00:37:39,711 --> 00:37:41,602
+Rym: What's really interesting is drone racing.
+
+434
+00:37:41,924 --> 00:37:45,277
+Rym: having watched some of it It's actually not really that exciting.
+
+435
+00:37:45,458 --> 00:37:51,781
+Rym: usually unless they're huge drones to watch the drones themselves as a spectator Watch as a spectator.
+
+436
+00:37:51,841 --> 00:37:53,190
+Scott: No, but I'm saying to race them.
+
+437
+00:37:53,250 --> 00:37:59,250
+Scott: Oh, yeah, especially if it's like small drones in the woods and it's like it's a lot like your bikes.
+
+438
+00:37:59,371 --> 00:38:06,507
+Scott: You know return of the Jedi The situation but watching them first-person racing is actually really fun.
+
+439
+00:38:07,149 --> 00:38:07,289
+Scott: Yeah.
+
+440
+00:38:09,372 --> 00:38:13,070
+Scott: And then of course, you know drone displays in the sky instead of fireworks.
+
+441
+00:38:14,472 --> 00:38:16,706
+Scott: You know kind of cool sometimes.
+
+442
+00:38:16,826 --> 00:38:24,154
+Scott: Yeah, right It's like I guess there's less air pollution if you do that, but how much power you know but I guess he better.
+
+443
+00:38:24,174 --> 00:38:32,229
+Rym: the the hard part for me is that it will drones to sort of hit this critical mass where They were cool, but too expensive.
+
+444
+00:38:32,249 --> 00:38:37,873
+Rym: and There was a brief moment where they had this sweet spot and now they're still cool In fact more cool than ever.
+
+445
+00:38:38,334 --> 00:38:39,879
+Rym: but because they're so common.
+
+446
+00:38:40,300 --> 00:38:41,744
+Rym: They're starting to be a problem.
+
+447
+00:38:42,045 --> 00:38:47,550
+Rym: Like it's not a conspiracy It's just a lot of people are flying drones all over the place go in places.
+
+448
+00:38:47,630 --> 00:38:52,003
+Rym: They shouldn't be getting in trouble bumping into things crashing getting stolen.
+
+449
+00:38:52,504 --> 00:39:00,933
+Scott: Well, cuz I mean, you know, it's like If you're the kind of person who is a law-following Person right?
+
+450
+00:39:01,394 --> 00:39:07,790
+Scott: You don't need someone to tell you that you can only fly the drone in appropriate ways in appropriate places, right?
+
+451
+00:39:07,910 --> 00:39:10,583
+Scott: It's like you don't need to check the FAA regulations.
+
+452
+00:39:10,623 --> 00:39:30,476
+Scott: Like you already know, you know, you're Already know you're not supposed to be doing this And if you aren't the kind of person to follow laws, even if you check the FAA regulations You're just gonna ignore that shit cuz you're not a law-abiding Yeah, you know person who cares about those things and you're just gonna go fly it Wherever you feel like.
+
+453
+00:39:30,557 --> 00:39:32,007
+Scott: cuz you bought it and you want to have fun.
+
+454
+00:39:33,072 --> 00:39:39,230
+Rym: Yeah, man, we hit this interesting problem now where there are really cool specific use cases.
+
+455
+00:39:39,310 --> 00:39:46,650
+Rym: Why there's one that I'd love to do but you can't and that just you no one will let you and for obvious good reasons.
+
+456
+00:39:46,812 --> 00:39:47,929
+Rym: My example is skiing.
+
+457
+00:39:48,652 --> 00:39:56,330
+Rym: There are a bunch of drones that are designed to basically follow you and video you you skiing tell it like different ways to circle.
+
+458
+00:39:56,410 --> 00:40:02,590
+Rym: They'll just autonomously follow you with a tracker and film you and just do it all for you.
+
+459
+00:40:02,651 --> 00:40:04,149
+Rym: So you get all this cool video of you skiing.
+
+460
+00:40:04,932 --> 00:40:18,910
+Rym: as far as I can tell every single ski resort in America has banned all drones permanently and The reason for that is that if they let anyone have them The mountain is gonna be covered in drones and people are definitely going to be hit by drones.
+
+461
+00:40:20,312 --> 00:40:23,610
+Rym: Also, people don't want a million drones buzzing everywhere and they're trying to enjoy the woods.
+
+462
+00:40:24,052 --> 00:40:24,956
+Rym: So it's a situation of.
+
+463
+00:40:24,996 --> 00:40:27,648
+Rym: it would only work if only one person was allowed to do it.
+
+464
+00:40:28,392 --> 00:40:37,830
+Scott: Yeah, usually those actually get used for you know Like someone's doing a special like I am got on this Red Bull sponsored guide.
+
+465
+00:40:37,830 --> 00:40:41,570
+Scott: I'm gonna ski down super dangerous mountain and there there's a film crew.
+
+466
+00:40:41,710 --> 00:40:50,136
+Scott: But you know, I also brought a drone that I'll try to automatically follow me or maybe another drone that someone's controlling and you know It's nice for those ever.
+
+467
+00:40:50,216 --> 00:40:51,461
+Rym: was that that I've ever seen?
+
+468
+00:40:51,501 --> 00:40:53,630
+Rym: was that video in the bowling alley?
+
+469
+00:40:54,014 --> 00:40:55,650
+Rym: I think you made it a thing of the day years ago.
+
+470
+00:40:56,911 --> 00:40:57,674
+Scott: No, but that was.
+
+471
+00:40:57,714 --> 00:41:00,463
+Scott: that was like a. that wasn't an automatic file.
+
+472
+00:41:00,483 --> 00:41:01,606
+Rym: That was a piloted drone.
+
+473
+00:41:02,168 --> 00:41:06,690
+Rym: Yeah But imagine if bowling alleys just allowed drones never brought their drones.
+
+474
+00:41:07,651 --> 00:41:12,587
+Scott: Right, it's drones are not a thing that scales like cell phones, right if everyone everyone's got one.
+
+475
+00:41:12,627 --> 00:41:13,229
+Scott: It's a problem.
+
+476
+00:41:13,289 --> 00:41:16,723
+Scott: Yeah It's like I guess cars are the same way.
+
+477
+00:41:16,923 --> 00:41:20,469
+Scott: But you know, that's a. that's Already lost that problem.
+
+478
+00:41:20,997 --> 00:41:23,186
+Rym: I feel like yeah You could tell what had happened.
+
+479
+00:41:23,206 --> 00:41:26,019
+Rym: because you know There used to be the helicopter tracking shot in movies.
+
+480
+00:41:26,059 --> 00:41:28,007
+Rym: that was really expensive and always kind of looked like crap.
+
+481
+00:41:28,508 --> 00:41:33,170
+Rym: and now Any movie any commercial pretty much anything has drone shots?
+
+482
+00:41:33,270 --> 00:41:43,690
+Rym: Like any sporting event will clearly have a drone shot Circling whatever arena or stadium that circling event that that that sporting event is in like that shot.
+
+483
+00:41:43,811 --> 00:41:46,329
+Rym: Is that the start of every match of every sport now?
+
+484
+00:41:47,210 --> 00:41:52,990
+Scott: Yeah, I mean, well, it's so inexpensive to do and if you are a professional broadcaster you got permission to do it.
+
+485
+00:41:53,190 --> 00:41:54,816
+Scott: Yeah, and it looks great.
+
+486
+00:41:55,178 --> 00:41:57,406
+Scott: So why would you you know exactly?
+
+487
+00:41:57,606 --> 00:41:58,570
+Scott: why would you not do it?
+
+488
+00:41:58,710 --> 00:41:59,494
+Scott: It's like it's.
+
+489
+00:41:59,654 --> 00:42:01,664
+Scott: you know, it takes you like a few minutes before.
+
+490
+00:42:01,684 --> 00:42:07,028
+Scott: if you do it once At the season or whatever, you know, it's like.
+
+491
+00:42:07,048 --> 00:42:09,199
+Scott: yeah, of course It's just become a standard.
+
+492
+00:42:09,259 --> 00:42:15,529
+Scott: part of the equipment for any Broadcast or film crew is is to use drones because they of course they have them.
+
+493
+00:42:15,590 --> 00:42:18,622
+Rym: now I don't remember what GeekNights episode it was.
+
+494
+00:42:18,803 --> 00:42:19,767
+Rym: it might have been the 2010 episode.
+
+495
+00:42:20,450 --> 00:42:24,130
+Rym: We did called automatic killing machines, but I feel like we talked about it before then.
+
+496
+00:42:24,593 --> 00:42:36,090
+Rym: But I have a distinct memory of us on the show Actually probably before then because I remember doing this in beacon talking about What will the world be like the moment a drone can carry a handgun.
+
+497
+00:42:37,271 --> 00:42:47,650
+Rym: Well, and now we're in that world like drones are a big part of militaries and we've seen this expand Rapidly just in the last three years with the Russia's invasion of Ukraine.
+
+498
+00:42:48,031 --> 00:42:52,524
+Scott: Well, I think it's more than just three years, but that the way the military drones mostly work is.
+
+499
+00:42:52,564 --> 00:42:58,403
+Scott: they're really just you know Unmanned aircraft right but they have might have a bomb on them.
+
+500
+00:42:58,443 --> 00:43:04,647
+Scott: They might have reconnaissance surveillance equipment on them They might have who knows what on more advanced ones have full armament now like a fighter.
+
+501
+00:43:04,687 --> 00:43:07,120
+Rym: Yeah Yeah, but but the Ukraine war right.
+
+502
+00:43:07,321 --> 00:43:07,965
+Rym: with the
+
+503
+00:43:07,985 --> 00:43:32,390
+Scott: way they work though Is that there's just somebody on the usually like on the other side of the world like I'm pretty sure the US like there's drones in the Middle East and someone's like in a US base like in the middle of the US like out Kansas or some shit and they're just sitting there with like a gamepad looking at a screen and Piloting the drone on its on its military mission Dropping bombs on people from halfway around the world.
+
+504
+00:43:33,420 --> 00:43:40,066
+Scott: And that's been going on for a long time Since since the Obama days at least with Russia's invasion.
+
+505
+00:43:40,106 --> 00:43:48,130
+Rym: What changed is the use of Consumer grade drones to be similarly deadly weapons like yeah
+
+506
+00:43:48,250 --> 00:44:05,269
+Scott: I mean, especially if you don't have as much money or resources, it's like you can get ton You know as long as it works, it's like, you know, you know the US military stuff is like, you know heavily Over-engineered right but you know for good reason in a lot of cases, but it's like if you're a scrappy.
+
+507
+00:44:07,311 --> 00:44:11,624
+Scott: You know resistance group or a country of lesser means right?
+
+508
+00:44:11,824 --> 00:44:13,870
+Scott: You're probably not going to be using that kind of equipment.
+
+509
+00:44:14,111 --> 00:44:21,965
+Scott: You can use what you get and if anything that you can get can help you win in your situation Why wouldn't you use it?
+
+510
+00:44:23,011 --> 00:44:26,119
+Rym: Yep, and that leads to another asymmetry of drone.
+
+511
+00:44:26,239 --> 00:44:32,787
+Rym: technology has gotten to the point to where it's really cheap to deploy drones and mass for a variety of purposes.
+
+512
+00:44:32,808 --> 00:44:50,410
+Rym: and I think the only reason we don't see just swarms of drones getting in everyone's way everywhere despite all the hysteria recently is that they are still for the most part regulated and There appear to be some consequences when at least companies abuse them at scale.
+
+513
+00:44:50,775 --> 00:44:51,709
+Rym: We'll see how long that lasts.
+
+514
+00:44:51,890 --> 00:44:58,449
+Rym: But I think drones are gonna be a really really big problem if they do not continue to be heavily regulated for commercial use.
+
+515
+00:44:59,751 --> 00:45:05,048
+Scott: Mmm, I think the other thing that you know keeps drones from being a super huge problem.
+
+516
+00:45:05,148 --> 00:45:09,976
+Scott: Is that any drone of Consequence is noisy AF.
+
+517
+00:45:10,257 --> 00:45:10,498
+Rym: Yep.
+
+518
+00:45:10,578 --> 00:45:11,883
+Rym: They're not they're not subtle.
+
+519
+00:45:12,626 --> 00:45:27,090
+Scott: in order to fly Right, at least all the ones the consumers have right work with these, you know VTOL propellers that have to spin at really high rpms These little electric motors and you can hear the buzzing.
+
+520
+00:45:28,774 --> 00:45:30,690
+Scott: You can't miss it when someone's using one.
+
+521
+00:45:30,770 --> 00:45:33,620
+Rym: Yeah, like if I'm running those stealth and by our house.
+
+522
+00:45:33,861 --> 00:45:37,696
+Rym: if anyone in the park has a drone you can hear it in the entire Park, right?
+
+523
+00:45:38,078 --> 00:45:48,934
+Scott: And so it's not like you can you know Sneak over to your neighbor's house and and take photos over their fence, you know, if they're home at least Hear it.
+
+524
+00:45:49,255 --> 00:45:56,672
+Scott: your neighbors will hear it, you know, you can't you know try to go to like a Public.
+
+525
+00:45:56,733 --> 00:45:59,603
+Scott: you can't bring one in to a sporting event, right?
+
+526
+00:45:59,664 --> 00:46:01,370
+Scott: Cuz they'll catch you at the security gate.
+
+527
+00:46:01,390 --> 00:46:05,390
+Scott: Yeah, but you can't like fly one into a sporting event over the top of the stadium.
+
+528
+00:46:06,613 --> 00:46:07,944
+Scott: They're gonna know it's coming right?
+
+529
+00:46:07,964 --> 00:46:08,569
+Scott: It's not gonna work.
+
+530
+00:46:09,771 --> 00:46:18,771
+Scott: So it's like all these sort of you know, nefarious slash dangerous uses of drones are There's.
+
+531
+00:46:18,831 --> 00:46:19,734
+Scott: no you can't like.
+
+532
+00:46:19,754 --> 00:46:21,379
+Scott: surprise and get away with them.
+
+533
+00:46:21,620 --> 00:46:22,743
+Scott: right because the drones are.
+
+534
+00:46:23,044 --> 00:46:25,230
+Scott: even the smaller drones are so noticeable.
+
+535
+00:46:25,592 --> 00:46:28,868
+Rym: I think the only reason we don't see tons of them just flying into football games yet.
+
+536
+00:46:29,772 --> 00:46:32,721
+Rym: Is that the kind of person who would do that?
+
+537
+00:46:33,163 --> 00:46:35,310
+Rym: is also not the kind of person who can afford?
+
+538
+00:46:35,690 --> 00:46:37,724
+Rym: To lose the drone the first time they use it.
+
+539
+00:46:38,207 --> 00:46:39,781
+Scott: That's right You know you could.
+
+540
+00:46:40,103 --> 00:46:57,130
+Scott: I don't you know There are drones that you could just buy that you could definitely stand outside a stadium Launch the drone and get it over the top of the stadium and over and start shooting video in the field or the crowd But it will be noticed and dealt with and you're definitely not getting the drone back and you're probably going to jail.
+
+541
+00:46:57,291 --> 00:47:01,570
+Rym: Yeah, if you get away with it, you're gonna have to buy a new drone and I feel like there's a line.
+
+542
+00:47:01,611 --> 00:47:02,910
+Scott: I don't think they'd let you buy a new.
+
+543
+00:47:04,332 --> 00:47:06,423
+Rym: I mean, I don't think they depends on how you bought it.
+
+544
+00:47:06,443 --> 00:47:07,428
+Rym: You bought it with cash.
+
+545
+00:47:07,468 --> 00:47:07,850
+Rym: you bought it.
+
+546
+00:47:08,071 --> 00:47:10,004
+Scott: I guess so, I guess yeah, I guess you could buy one.
+
+547
+00:47:10,024 --> 00:47:10,930
+Scott: a Facebook marketplace.
+
+548
+00:47:11,092 --> 00:47:14,830
+Rym: Yeah, I feel like there'd be a way to get it But I feel like that's the only thing holding people back.
+
+549
+00:47:14,990 --> 00:47:26,184
+Rym: Is that just like the kinds of people who should have fireworks the least can only afford a very small number of fireworks usually Mm-hmm, cuz I could take my credit card and build an arsenal of fireworks and guess what?
+
+550
+00:47:26,225 --> 00:47:30,684
+Rym: I don't do Yep, I don't want to sometimes but I don't know.
+
+551
+00:47:31,833 --> 00:47:35,495
+Scott: And I think the other thing is that you know The the drones that people can buy.
+
+552
+00:47:35,976 --> 00:47:39,907
+Scott: they come equipped with cameras right or things of that nature.
+
+553
+00:47:40,689 --> 00:47:47,757
+Scott: if you Were just a fool and you tried to equip one with something dangerous It probably wouldn't fly anymore.
+
+554
+00:47:48,318 --> 00:47:48,679
+Scott: It would be.
+
+555
+00:47:48,819 --> 00:48:02,930
+Scott: it would take someone who is you know, very good at engineering to Take a consumer drone and make it, you know dangerous in some way Besides just crashing the drone into something which isn't really that dangerous.
+
+556
+00:48:03,887 --> 00:48:07,370
+Scott: Yeah It would hurt like it would probably hurt a lot.
+
+557
+00:48:07,370 --> 00:48:12,069
+Scott: I don't want to be hit by a drone, but I'm not too afraid of of that.
+
+558
+00:48:12,990 --> 00:48:14,696
+Scott: Drone was coming at me.
+
+559
+00:48:14,716 --> 00:48:17,043
+Scott: I would actually be okay kind of like attacking it.
+
+560
+00:48:17,505 --> 00:48:18,989
+Scott: Oh, yeah, I try to kick it.
+
+561
+00:48:19,210 --> 00:48:20,656
+Rym: I would definitely kick the drone.
+
+562
+00:48:21,057 --> 00:48:24,250
+Rym: I'm more afraid of a car hitting me than a drone hitting me.
+
+563
+00:48:24,491 --> 00:48:28,529
+Scott: Oh, yeah, like, you know about several thousand times worried.
+
+564
+00:48:30,593 --> 00:48:31,339
+Rym: But yeah the the.
+
+565
+00:48:31,722 --> 00:48:45,669
+Rym: I guess the most dangerous future thing is In militaries the the idea of what the next generation of fighter jets is is a little bit terrifying because the idea is very anime.
+
+566
+00:48:46,411 --> 00:48:56,313
+Rym: Instead of having you know, a bunch of fighter jets piloted by people You're not just gonna move to a bunch of AI piloted things because we're not there yet as much as certain people want to say We are.
+
+567
+00:48:56,333 --> 00:48:58,009
+Rym: we're not for a lot of reasons.
+
+568
+00:48:58,453 --> 00:49:06,610
+Rym: But you're also not gonna move to entirely Things that are controlled by someone sitting in like Alabama or Texas or wherever those bases are because communications can be disruptive.
+
+569
+00:49:07,011 --> 00:49:09,298
+Rym: You need that closed loop that situational awareness.
+
+570
+00:49:09,980 --> 00:49:13,410
+Rym: the plans for sixth-generation fighters basically involved.
+
+571
+00:49:13,793 --> 00:49:16,068
+Rym: You have one special fighter jet with someone in it.
+
+572
+00:49:16,531 --> 00:49:19,202
+Rym: the fighter jets mostly automated and the person in it.
+
+573
+00:49:19,343 --> 00:49:30,619
+Rym: their job is to Basically direct a swarm of AI controlled drones that are following that fighter jet Everyone know just to take out the leader.
+
+574
+00:49:30,659 --> 00:49:31,883
+Scott: That's like so basic.
+
+575
+00:49:32,024 --> 00:49:37,450
+Scott: Yeah, obviously they know But I've never played a video game or watching it or anything ever.
+
+576
+00:49:37,672 --> 00:49:40,090
+Scott: It's like and people are gonna know which one the leader is.
+
+577
+00:49:40,130 --> 00:49:45,250
+Scott: You're not gonna be able to like hide amongst your swarm except for that one guy who's like a new type, but everyone else, right?
+
+578
+00:49:46,752 --> 00:49:49,349
+Scott: We're gonna know which one the leader is an attack only one.
+
+579
+00:49:50,172 --> 00:49:56,794
+Rym: But I think this is this is sort of the tech where we're gonna see drones admit like making big advances in society Not just military.
+
+580
+00:49:56,814 --> 00:49:57,536
+Rym: That's just an example.
+
+581
+00:49:57,556 --> 00:50:05,862
+Rym: But anywhere is gonna be using them to augment humans, but still having humans local to them in the loop making decisions and directing them.
+
+582
+00:50:06,363 --> 00:50:14,289
+Rym: and I think a lot of the AI and Automated things within these drones is gonna be mostly around making sure they fly level and do what they were told to do.
+
+583
+00:50:14,752 --> 00:50:16,709
+Rym: But you're gonna have humans in the loop for a long time.
+
+584
+00:50:17,131 --> 00:50:21,309
+Rym: But augmenting humans with drones that just kind of listen to them and do what they need.
+
+585
+00:50:22,214 --> 00:50:30,910
+Rym: I was reading a cool article about how surveyors Can use specialized drones and basically tell the drones to go use lasers and map things for them.
+
+586
+00:50:31,371 --> 00:50:40,767
+Scott: Like I mean drones are being used, you know, it's still camera functions But for surveillance right and not just police surveillance though.
+
+587
+00:50:40,927 --> 00:50:46,870
+Scott: police surveillance Yeah, but also like hey, we got to go inspect the utility poles, right?
+
+588
+00:50:47,271 --> 00:50:49,499
+Scott: Do you get someone to climb up there?
+
+589
+00:50:49,519 --> 00:50:57,816
+Scott: or You could just send a drone up and and with the camera and look at everything right that way or like hey Someone's missing in the woods.
+
+590
+00:50:58,137 --> 00:50:58,999
+Scott: Can we find them?
+
+591
+00:50:59,300 --> 00:51:02,170
+Scott: a drone could help with that legitimately, right?
+
+592
+00:51:03,250 --> 00:51:10,141
+Scott: You know anytime you got to see somewhere where it's hard for a person to get to that place to take a look.
+
+593
+00:51:10,826 --> 00:51:14,879
+Scott: but You know, we don't have cameras pre-installed there.
+
+594
+00:51:14,999 --> 00:51:26,630
+Scott: you can sort of get instant surveillance whether it you know Sometimes it is police surveillance like ah, we're having a you know Music festival and there aren't security cameras all over the music festival just at the entrances.
+
+595
+00:51:26,871 --> 00:51:29,360
+Scott: We can't put them in the middle of a field that easily.
+
+596
+00:51:29,882 --> 00:51:31,990
+Scott: So we'll just have drones moving around.
+
+597
+00:51:32,110 --> 00:51:36,550
+Scott: Yeah, taking a look at what's going on in this music festival the whole time making sure no one's up to no good.
+
+598
+00:51:37,877 --> 00:51:45,474
+Rym: Yep, honestly the only reason I haven't bought a drone because that's the kind of thing I would play with is I live in New York in a department and I just there.
+
+599
+00:51:45,514 --> 00:51:52,085
+Rym: isn't that much I can do with the drone in New York City because all the things I would do with Because you're against the rules.
+
+600
+00:51:52,528 --> 00:51:52,870
+Scott: That's right.
+
+601
+00:51:52,970 --> 00:51:55,058
+Scott: If I wasn't law-abiding I would just buy one.
+
+602
+00:51:55,701 --> 00:52:07,669
+Scott: or if I move somewhere or if I had you know Some time out in the woods or whatever, you know, they could buy one or we could share one whatever and you know, but Why would I if I'm not
+
+603
+00:52:08,590 --> 00:52:09,435
+Rym: Right now
+
+604
+00:52:09,475 --> 00:52:12,069
+Scott: if I had bought one how much would I have used it?
+
+605
+00:52:12,470 --> 00:52:21,930
+Rym: like if I had one like what I'd want to do with it is like fly it over to all those tiny little like Some of them are unnamed islands all around the Hudson and just like look at what's over there.
+
+606
+00:52:22,171 --> 00:52:31,308
+Scott: Like that's the kind of yeah, I guess I could like bike somewhere use it and then go home and it's like, okay How many times would I have done that like giant heavy drone in your panty hair?
+
+607
+00:52:32,514 --> 00:52:33,780
+Scott: Yeah, you just be in your backpack.
+
+608
+00:52:33,820 --> 00:52:34,564
+Scott: you got small ones.
+
+609
+00:52:35,006 --> 00:52:36,636
+Rym: hmm All right.
+
+610
+00:52:36,656 --> 00:52:41,293
+Rym: I think we killed enough time on a drone episode Droned on quite a bit.
+
+611
+00:52:47,565 --> 00:52:50,270
+Rym: This has been GeekNights with Rym and Scott special.
+
+612
+00:52:50,331 --> 00:52:52,489
+Rym: Thanks to DJ pretzel for the opening theme.
+
+613
+00:52:52,690 --> 00:52:55,018
+Scott: Be sure to visit our website at front row.
+
+614
+00:52:55,058 --> 00:52:58,690
+Scott: clue calm for show notes discussion links and more.
+
+615
+00:52:59,192 --> 00:53:01,882
+Rym: Remember GeekNights is not one but four different shows.
+
+616
+00:53:02,184 --> 00:53:03,750
+Rym: Mondays or science and technology.
+
+617
+00:53:03,870 --> 00:53:05,616
+Rym: Tuesdays gaming and games.
+
+618
+00:53:05,737 --> 00:53:07,563
+Rym: Wednesdays are animation and comics.
+
+619
+00:53:07,884 --> 00:53:10,393
+Rym: Thursdays are arbitrary and Indiscriminate.
+
+620
+00:53:10,996 --> 00:53:15,994
+Rym: GeekNights is distributed under a Creative Commons attribution 4.0 International license.
+
+621
+00:53:16,396 --> 00:53:20,690
+Scott: GeekNights is recorded live with no studio and no audience.
+
+622
+00:53:21,211 --> 00:53:29,840
+Rym: But unlike those other late shows it's actually recorded at night and the patron patrons for this episode of GeekNights are Alan Joyce Linky G dread lily Tenebrae.
+
+623
+00:53:29,860 --> 00:53:30,666
+Rym: case care makes music.
+
+624
+00:53:30,686 --> 00:53:40,550
+Rym: Chris Adagas Roar Clinton Walton Fingal Hayes Penny Reimer Rebecca Dunn Sam Erickson sure been gone Oh, and a bunch of people who do not want me to say their names tonight.
+
+625
+00:53:41,571 --> 00:53:43,238
+Rym: We did the show late for a bunch of reasons.
+
+626
+00:53:43,378 --> 00:53:46,370
+Rym: So this actually actually recorded tonight.
+
+627
+00:53:46,952 --> 00:53:51,950
+Rym: So on this special occasion, I'll leave you with something that you really should have seen coming.
+
+628
+00:53:58,631 --> 00:53:59,496
+Scott: Doing those free.
+
+629
+00:53:59,596 --> 00:54:02,130
+Rym: call now one nine hundred four nine.
+
+630
+00:54:02,290 --> 00:54:06,644
+Scott: Oh freak join the party the fast and easy way to hear what's scamming.
+
+631
+00:54:06,664 --> 00:54:07,868
+Scott: from New York to LA.
+
+632
+00:54:07,948 --> 00:54:10,495
+Rym: call now One nine hundred four nine.
+
+633
+00:54:10,616 --> 00:54:11,759
+Rym: Oh freak what's happening?
+
+634
+00:54:11,779 --> 00:54:14,487
+Rym: What's jamming party to your drop dialing here?
+
+635
+00:54:14,527 --> 00:54:15,390
+Rym: the action was hot.
+
+636
+00:54:15,610 --> 00:54:16,795
+Rym: What's that call now?
+
+637
+00:54:17,317 --> 00:54:18,842
+Scott: one nine hundred four nine?
+
+638
+00:54:18,963 --> 00:54:24,421
+Scott: Oh freak two dollars a call The freak phone and now you can call the phone.
+
+639
+00:54:24,481 --> 00:54:26,770
+Scott: freaks on the freak phone for freaky frightening fun.
+
+640
+00:54:27,351 --> 00:54:31,585
+Scott: Call us now at one nine hundred four ninety f r e a k and you'll get full tilt.
+
+641
+00:54:31,665 --> 00:54:33,350
+Scott: madcap wacky warp madness.
+
+642
+00:54:33,791 --> 00:54:34,473
+Rym: Give us a call.
+
+643
+00:54:34,634 --> 00:54:35,897
+Rym: one nine hundred four ninety.
+
+644
+00:54:36,017 --> 00:54:36,358
+Scott: freak.
+
+645
+00:54:36,840 --> 00:54:40,450
+Scott: a dazzling diabolical hideous dimension of torrid twisted terror.
+
+646
+00:54:41,072 --> 00:54:41,714
+Scott: Join the party.
+
+647
+00:54:41,734 --> 00:54:44,001
+Scott: selected callers get to talk to one of the phone freaks live.
+
+648
+00:54:44,182 --> 00:54:46,690
+Scott: call us now one nine hundred four ninety freak.
+
+649
+00:54:47,033 --> 00:54:48,369
+Scott: Just two dollars a call.
+

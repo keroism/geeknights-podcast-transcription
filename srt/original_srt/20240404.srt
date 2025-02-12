@@ -1,0 +1,3464 @@
+﻿1
+00:00:08,140 --> 00:00:09,777
+Speaker 0: It's Thursday, April 4th, 2024.
+
+2
+00:00:09,777 --> 00:00:09,958
+Speaker 0: I'm Rem.
+
+3
+00:00:13,114 --> 00:00:13,485
+Speaker 1: I'm Scott.
+
+4
+00:00:13,910 --> 00:00:15,037
+Speaker 0: And this is Geek Nights.
+
+5
+00:00:15,077 --> 00:00:17,369
+Speaker 0: Tonight we are talking about Easter eggs.
+
+6
+00:00:18,131 --> 00:00:20,169
+Speaker 0: The correct kind, not the kind you're thinking of.
+
+7
+00:00:20,670 --> 00:00:21,668
+Speaker 1: Let's do this.
+
+8
+00:00:22,530 --> 00:00:32,950
+Speaker 0: So, uh, you know, I told the story about on my last ski trip of the year up at Hunter Mountain, on the last run of the day, which, you know, saying that actually is kind of funny because I would have skied more.
+
+9
+00:00:33,130 --> 00:00:38,050
+Speaker 0: It was only the last run of the day because my skis exploded, but my skis exploded and I had to, like, hike down the mountain.
+
+10
+00:00:39,110 --> 00:00:49,870
+Speaker 0: So that is relevant because yesterday, in the pouring rain, I had to go to REI because I bought my fancy new skis online and I bought bindings to put on those skis online.
+
+11
+00:00:50,270 --> 00:00:57,890
+Speaker 0: I had them delivered to REI and I had to go to REI to pick them up and then take them downstairs in REI to the ski shop to have them put together.
+
+12
+00:00:58,071 --> 00:01:01,310
+Speaker 0: Because while I could put bindings on a ski, I'm not gonna.
+
+13
+00:01:01,972 --> 00:01:07,110
+Speaker 0: The bindings on a ski are way more critical to life than most components on a bicycle.
+
+14
+00:01:07,831 --> 00:01:10,150
+Speaker 0: So I'm not gonna do that kind of installation myself.
+
+15
+00:01:11,151 --> 00:01:16,050
+Speaker 0: And, uh, you gotta bring your ski boots to a place when you do that, for a lot of reasons.
+
+16
+00:01:16,832 --> 00:01:17,889
+Speaker 0: No, I don't really want to get into that.
+
+17
+00:01:18,210 --> 00:01:26,950
+Speaker 0: So I'm busy and in a hurry and there's a deadline to do this, so on the way out the door in the morning to work, I just grab my ski bag because my boots are in it and I take it to work.
+
+18
+00:01:27,230 --> 00:01:35,090
+Speaker 0: And we go to REI and the extreme, insane pouring rain and I have my boots and I pick up the skis and everything's all cool.
+
+19
+00:01:35,710 --> 00:01:38,540
+Speaker 0: And I go downstairs and the guy's like, "All right, fill out this form.
+
+20
+00:01:38,701 --> 00:01:40,829
+Speaker 0: I'll do all the normal ski stuff to set your DINs.
+
+21
+00:01:41,750 --> 00:01:44,988
+Speaker 0: Sign all these waivers and all right, I just need your
+
+22
+00:01:45,008 --> 00:01:45,229
+Speaker 0: boots.".
+
+23
+00:01:45,852 --> 00:01:49,970
+Speaker 0: And then I open the bag to my boots and I see- No boots in there.
+
+24
+00:01:50,370 --> 00:01:51,147
+Speaker 0: No, the boots are in there.
+
+25
+00:01:52,191 --> 00:01:53,201
+Speaker 0: Something else is in there too.
+
+26
+00:01:53,483 --> 00:01:54,210
+Speaker 0: So let's flashback.
+
+27
+00:01:55,011 --> 00:01:59,145
+Speaker 0: Remember how my ski bindings had exploded on the mountain, like boom, gone, debris.
+
+28
+00:02:01,370 --> 00:02:07,150
+Speaker 0: So I had to hike down the mountain in my ski boots that day and I had hiked down the mountain in the mud.
+
+29
+00:02:08,050 --> 00:02:14,730
+Speaker 0: And I had forgotten this fact and I had not taken my ski boots out of my bag at any point until that day because I've been busy and sick and stuff.
+
+30
+00:02:15,391 --> 00:02:23,390
+Speaker 0: So I open the bag and the amount of mud that was on the ski boots that I was about to hand to this guy was comical.
+
+31
+00:02:25,234 --> 00:02:26,422
+Speaker 0: And he looks at him, he's like, "Uh...".
+
+32
+00:02:28,131 --> 00:02:28,617
+Speaker 0: And I'm like, "Oh,
+
+33
+00:02:29,246 --> 00:02:29,510
+Speaker 0: fuck.".
+
+34
+00:02:29,550 --> 00:02:33,486
+Speaker 0: And Emily's like, "Oh, we didn't open those in like a month, did
+
+35
+00:02:33,526 --> 00:02:33,667
+Speaker 0: we?".
+
+36
+00:02:35,012 --> 00:02:36,158
+Speaker 0: But the guy was cool.
+
+37
+00:02:36,861 --> 00:02:37,946
+Speaker 0: and he's like, "I got
+
+38
+00:02:37,966 --> 00:02:38,067
+Speaker 0: you.".
+
+39
+00:02:38,870 --> 00:02:43,825
+Speaker 0: And he goes away and he comes back with a wire brush and a rag and he's like, "If you want to clean them off, you can just do it right now.
+
+40
+00:02:44,286 --> 00:02:44,427
+Speaker 0: No
+
+41
+00:02:44,487 --> 00:02:44,868
+Speaker 0: problem.".
+
+42
+00:02:46,971 --> 00:02:55,670
+Speaker 0: So on Friday I will get my ridiculous new skis with the first time ever where I have bought bindings separately from skis and had them installed.
+
+43
+00:02:56,471 --> 00:03:00,350
+Speaker 0: Usually I buy skis that just have, like the ski has bindings when you buy it.
+
+44
+00:03:00,590 --> 00:03:05,070
+Speaker 0: So this is a pretty big step up toward extreme advanced nonsense that I'm doing.
+
+45
+00:03:06,651 --> 00:03:13,270
+Speaker 1: We bought basically arguably the best television that a normal person can buy if they have enough money.
+
+46
+00:03:13,870 --> 00:03:16,161
+Speaker 1: But there's not really much to say about that right now.
+
+47
+00:03:16,201 --> 00:03:18,170
+Speaker 1: We'll save that for a different episode.
+
+48
+00:03:18,873 --> 00:03:20,290
+Speaker 0: Yeah, I'll be very keen to see it.
+
+49
+00:03:20,630 --> 00:03:23,397
+Speaker 1: It's the first time in my entire life.
+
+50
+00:03:23,417 --> 00:03:28,510
+Speaker 1: we've always had, you know, we never bought bad television, but we just bought a TV.
+
+51
+00:03:28,830 --> 00:03:30,765
+Speaker 0: We went to Beacon, we just like, "We bought a
+
+52
+00:03:30,785 --> 00:03:31,027
+Speaker 0: TV."
+
+53
+00:03:31,610 --> 00:03:37,048
+Speaker 0: Our TV, I literally just went around online, I bought like a cheap-ish one that was the right size.
+
+54
+00:03:37,128 --> 00:03:37,530
+Speaker 0: They're all fine.
+
+55
+00:03:37,690 --> 00:03:43,790
+Speaker 1: All the previous ones I had, I bought like one that was the right size at a good price.
+
+56
+00:03:44,030 --> 00:03:47,642
+Speaker 1: I wasn't like investigating like, "Ah, is it a high quality screen?
+
+57
+00:03:47,722 --> 00:03:48,505
+Speaker 1: How's its color
+
+58
+00:03:48,585 --> 00:03:49,187
+Speaker 1: accuracy?"
+
+59
+00:03:49,228 --> 00:03:49,910
+Speaker 1: and such and such.
+
+60
+00:03:50,774 --> 00:03:51,649
+Speaker 1: Never did any of that.
+
+61
+00:03:53,010 --> 00:03:55,010
+Speaker 1: Those ones cost insane amounts of money.
+
+62
+00:03:55,010 --> 00:04:04,930
+Speaker 0: But also I think we were both in that boat because for a long time, the HD era, like there wasn't a lot of content that mattered in terms of that level, like the quality of the display.
+
+63
+00:04:04,970 --> 00:04:10,805
+Speaker 0: But also, like before that we had what, the TV you got free with the credit card thing, the old 1974 color RCA.
+
+64
+00:04:13,290 --> 00:04:18,404
+Speaker 0: Like, when I first bought the TV we bought, the big screen LCD.
+
+65
+00:04:18,425 --> 00:04:27,029
+Speaker 0: when we moved into this apartment in 2009, literally the cheapest, shittiest LCD was gonna be better than any TV I'd ever owned in my life up to that point, so I didn't think that much about it.
+
+66
+00:04:28,010 --> 00:04:28,571
+Speaker 1: Yeah.
+
+67
+00:04:28,591 --> 00:04:33,779
+Speaker 1: But no, this time I went out and I just, I'm like, "Ah, I don't like all this smart TV action, but there's not much choice.
+
+68
+00:04:35,162 --> 00:04:39,829
+Speaker 1: I'll just get the best I can get so that, you know, my TV life is
+
+69
+00:04:39,849 --> 00:04:40,230
+Speaker 1: easier.".
+
+70
+00:04:40,790 --> 00:04:40,834
+Speaker 1: Ah.
+
+71
+00:04:41,092 --> 00:04:41,503
+Speaker 0: Yeah.
+
+72
+00:04:41,853 --> 00:04:42,510
+Speaker 1: Yeah, alright.
+
+73
+00:04:43,090 --> 00:04:52,270
+Speaker 1: Also yesterday, for the first time, at least that I remember or that I'm aware of, I went to a two-star Michelin restaurant.
+
+74
+00:04:52,530 --> 00:04:53,428
+Speaker 1: I've been to one star.
+
+75
+00:04:54,670 --> 00:04:56,849
+Speaker 1: I've been to one star before, right?
+
+76
+00:04:57,390 --> 00:05:03,130
+Speaker 1: But I don't think I've been to three yet, even though I guess I tried or I didn't, I don't know.
+
+77
+00:05:03,570 --> 00:05:05,530
+Speaker 1: But we went to two star, right?
+
+78
+00:05:06,531 --> 00:05:08,890
+Speaker 1: And, you know, it was fancy.
+
+79
+00:05:10,617 --> 00:05:12,050
+Speaker 1: The only, it wasn't anything unexpected.
+
+80
+00:05:13,151 --> 00:05:14,570
+Speaker 0: But it was good, I assume.
+
+81
+00:05:15,470 --> 00:05:15,691
+Speaker 1: Yeah.
+
+82
+00:05:15,831 --> 00:05:22,350
+Speaker 1: I mean, you know, some dishes were, the best dish was the canard consomme, which was duck soup, Mark's brother.
+
+83
+00:05:27,311 --> 00:05:29,856
+Speaker 1: But basically it's the same thing as all the other fancy restaurants.
+
+84
+00:05:29,916 --> 00:05:38,310
+Speaker 1: where it's like, there's not, you know, not necessarily anything that's like interesting or like, interesting, but nothing outlandish.
+
+85
+00:05:38,310 --> 00:05:38,455
+Speaker 1: Yeah.
+
+86
+00:05:38,890 --> 00:05:38,998
+Speaker 1: Right?
+
+87
+00:05:39,510 --> 00:05:41,910
+Speaker 1: It's like unbelievable food you've never heard of.
+
+88
+00:05:42,090 --> 00:05:54,169
+Speaker 1: It's just like, oh, it is a duck soup and you taste the soup and it's like, wow, that is, you know, not necessarily an unfamiliar flavor, but somehow it is extremely powerful, right?
+
+89
+00:05:55,171 --> 00:05:58,010
+Speaker 1: It's like, there'll be like a tiny piece of asparagus, right?
+
+90
+00:05:58,558 --> 00:05:59,128
+Speaker 1: And you eat it.
+
+91
+00:05:59,451 --> 00:06:05,230
+Speaker 1: And it's like, did they just extract like all the asparagus flavor from like an entire farm of asparagus?
+
+92
+00:06:05,371 --> 00:06:09,310
+Speaker 1: It's like one drop and put it onto this tiny sliver of asparagus.
+
+93
+00:06:11,153 --> 00:06:13,570
+Speaker 1: It's like this, here's some asparagus soup in a thimble.
+
+94
+00:06:14,390 --> 00:06:22,610
+Speaker 1: And it's like, you take one spoon of it and it's like, that feels like, it tastes like a shit ton of asparagus, but it's just a small amount of liquid.
+
+95
+00:06:23,031 --> 00:06:25,970
+Speaker 1: Probably just asparagus flavor and melted butter.
+
+96
+00:06:27,810 --> 00:06:34,042
+Speaker 1: Um, but the other thing that was comical was that there's the, you know, it was, uh, for dinner.
+
+97
+00:06:34,062 --> 00:06:38,630
+Speaker 1: we got, I think it was four courses and the fourth one was dessert, right?
+
+98
+00:06:39,292 --> 00:06:41,810
+Speaker 1: And you choose the first three, there's three pages on the menu.
+
+99
+00:06:41,990 --> 00:06:44,049
+Speaker 1: You choose one thing from each page and then you get dessert.
+
+100
+00:06:46,572 --> 00:06:54,970
+Speaker 1: And the dessert we ordered came out and then there was some like free extra like fresh madeleines they made.
+
+101
+00:06:55,150 --> 00:06:56,028
+Speaker 1: It was the second dessert.
+
+102
+00:06:57,451 --> 00:07:00,690
+Speaker 1: And then we're sitting there and we're like, all right, that's, we're good now.
+
+103
+00:07:01,212 --> 00:07:05,249
+Speaker 1: And then they come out with a little, uh, petty four.
+
+104
+00:07:06,193 --> 00:07:07,689
+Speaker 1: That's like the third dessert.
+
+105
+00:07:08,210 --> 00:07:10,909
+Speaker 0: That third dessert is beyond what even a hobbit would expect.
+
+106
+00:07:11,830 --> 00:07:12,071
+Speaker 1: Right.
+
+107
+00:07:12,131 --> 00:07:20,190
+Speaker 1: And so we're like, all right, that third dessert, we must be done here, but they have not brought the check yet and they have not taken away this plate.
+
+108
+00:07:20,831 --> 00:07:29,830
+Speaker 1: They come and they take away the third dessert plate and then a guy comes over with a tray of assorted chocolate sticks and you can select one of four sticks.
+
+109
+00:07:30,294 --> 00:07:31,409
+Speaker 1: So it was a fourth dessert.
+
+110
+00:07:33,690 --> 00:07:37,970
+Speaker 1: And then after the fourth dessert, you hit one chocolate stick of your choosing.
+
+111
+00:07:38,730 --> 00:07:46,010
+Speaker 1: And then they came with little, uh, like tiny cakes in bags and they're like, here's cake for when you get home, the fifth dessert.
+
+112
+00:07:47,890 --> 00:07:49,950
+Speaker 1: This place is going wild with the dessert.
+
+113
+00:07:50,131 --> 00:07:52,910
+Speaker 0: That extra dessert in a, in a, in a box or a bag.
+
+114
+00:07:53,170 --> 00:08:03,590
+Speaker 0: I have encountered, I've never encountered that in the US, but I've encountered it many, many times in my European travels for work where we eat it, like not Michelin star two places, but like very expensive places.
+
+115
+00:08:04,111 --> 00:08:06,970
+Speaker 1: Well, I haven't eaten at any place this fancy in like a year.
+
+116
+00:08:07,230 --> 00:08:14,210
+Speaker 1: I ate a, I like think I ate a one star last year at some point and they didn't give a fifth dessert in a bag.
+
+117
+00:08:14,410 --> 00:08:16,350
+Speaker 1: They gave breakfast for tomorrow.
+
+118
+00:08:16,510 --> 00:08:18,530
+Speaker 1: They're like, here's breakfast for tomorrow to take home.
+
+119
+00:08:22,131 --> 00:08:26,210
+Speaker 0: Three star is just like Sarah's crack pipe for the evening.
+
+120
+00:08:26,470 --> 00:08:26,551
+Speaker 1: Yeah.
+
+121
+00:08:26,611 --> 00:08:29,530
+Speaker 1: If I go to, if I go to the three star, are they going to give me 10 desserts?
+
+122
+00:08:31,131 --> 00:08:35,450
+Speaker 1: Are they going to give me like a pre a pre dessert and then they move away from dessert.
+
+123
+00:08:35,570 --> 00:08:40,049
+Speaker 0: You just get a small piece of high grade silver, like a little ingot to take home.
+
+124
+00:08:41,731 --> 00:08:42,347
+Speaker 1: I don't know.
+
+125
+00:08:42,890 --> 00:08:43,111
+Speaker 1: Oh yeah.
+
+126
+00:08:43,152 --> 00:08:47,850
+Speaker 1: Here's, here's a refund and a half the value of what you just gave us in cash in gold.
+
+127
+00:08:49,512 --> 00:08:50,497
+Speaker 0: You paid so much.
+
+128
+00:08:50,577 --> 00:08:53,090
+Speaker 0: We can give you a lot of it back and we still made a lot of money.
+
+129
+00:08:53,230 --> 00:08:53,740
+Speaker 0: My good man.
+
+130
+00:08:56,415 --> 00:08:57,167
+Speaker 0: So you got any news?
+
+131
+00:08:59,210 --> 00:09:04,130
+Speaker 1: Uh, yeah, so usually high profile peoples, right?
+
+132
+00:09:04,490 --> 00:09:08,450
+Speaker 1: You know, executive CEOs, billionaires, politicians, right?
+
+133
+00:09:09,430 --> 00:09:23,570
+Speaker 1: Uh, any, you know, important people who are, who have things, you know, that we want to hear them say or not say, will be very, very careful in when and where they speak to whom about what, et cetera.
+
+134
+00:09:23,910 --> 00:09:24,010
+Speaker 1: Right.
+
+135
+00:09:24,471 --> 00:09:31,890
+Speaker 1: In other countries, even more careful than in the U S I know that like a lot of, especially like, you know, Japan, Korea, right?
+
+136
+00:09:31,910 --> 00:09:37,530
+Speaker 1: We've had experience interviewing Japanese, uh, minor, medium celebrities.
+
+137
+00:09:38,112 --> 00:09:41,003
+Speaker 1: And it's like the questions are all approved ahead of time.
+
+138
+00:09:41,063 --> 00:09:42,730
+Speaker 1: They prepare their answers ahead of time.
+
+139
+00:09:42,810 --> 00:09:46,827
+Speaker 1: The interview is merely just a performance of something that has already been written, right?
+
+140
+00:09:47,930 --> 00:09:58,990
+Speaker 1: You're not really, they, you know, they're not, they're upset if you say anything else that was not planned in advance in the U S not as much, uh, so scripted as that.
+
+141
+00:09:59,430 --> 00:09:59,591
+Speaker 1: Right.
+
+142
+00:09:59,992 --> 00:10:09,330
+Speaker 1: But you know, if you were even like, you know, like in a press pool, it's like, you know, at a press conference, they might not take your question cause they know they don't like you.
+
+143
+00:10:09,590 --> 00:10:10,595
+Speaker 0: They'll ignore you.
+
+144
+00:10:10,635 --> 00:10:12,786
+Speaker 0: They might kick you out of the next one.
+
+145
+00:10:12,806 --> 00:10:12,887
+Speaker 1: Yeah.
+
+146
+00:10:13,670 --> 00:10:16,540
+Speaker 1: They're not going to give you a real answer if you do, right.
+
+147
+00:10:16,620 --> 00:10:19,290
+Speaker 1: Or they're going to try to prevent you from asking in the first place.
+
+148
+00:10:20,490 --> 00:10:25,165
+Speaker 1: Um, and if it's, you know, an interview, it's like, you know, am I going to do an interview with that person?
+
+149
+00:10:25,366 --> 00:10:26,590
+Speaker 1: No, that person hates me.
+
+150
+00:10:26,690 --> 00:10:29,379
+Speaker 1: I'm not going to do an interview with them because they're going to run me over.
+
+151
+00:10:29,700 --> 00:10:32,670
+Speaker 1: It's like, ah, this person is going to toss up softballs.
+
+152
+00:10:32,791 --> 00:10:34,097
+Speaker 1: It's just letterman or some shit.
+
+153
+00:10:34,117 --> 00:10:35,002
+Speaker 1: I'll go on that show.
+
+154
+00:10:35,102 --> 00:10:35,304
+Speaker 1: Right.
+
+155
+00:10:35,444 --> 00:10:36,449
+Speaker 1: He's just going to hype me up.
+
+156
+00:10:36,570 --> 00:10:53,510
+Speaker 0: Now this is why some of the most powerful moments that can happen in America with important people who have power is when either they expect a live thing to be softfalls and it's not, which is super rare or when they agree to what Scott's news is.
+
+157
+00:10:54,450 --> 00:10:54,671
+Speaker 1: Yeah.
+
+158
+00:10:54,831 --> 00:11:01,657
+Speaker 1: So what happened is there is a person, uh, who I don't really don't want to mispronounce their name.
+
+159
+00:11:01,677 --> 00:11:16,670
+Speaker 1: Uh, Ola Yemi Olorin, who is a former defense lawyer for the legal aid society, uh, and is generally an extremely leftist person on issues, especially of, you know, social justice, crime, et cetera.
+
+160
+00:11:17,170 --> 00:11:21,775
+Speaker 1: Who probably 99 or 110% agree with whatever they have to say.
+
+161
+00:11:23,436 --> 00:11:32,285
+Speaker 1: Um, and this person, you know, despite being far to the left is very much a critic of the mayor of New York because everyone is right.
+
+162
+00:11:32,565 --> 00:11:35,888
+Speaker 1: The people on the right hate the mayor of New York because he's a Democrat.
+
+163
+00:11:35,949 --> 00:11:37,390
+Speaker 1: He's not a right wing nut job.
+
+164
+00:11:37,731 --> 00:11:37,871
+Speaker 1: Right.
+
+165
+00:11:37,891 --> 00:11:39,235
+Speaker 1: He's not a Maga dude.
+
+166
+00:11:39,556 --> 00:11:39,777
+Speaker 1: Right.
+
+167
+00:11:39,837 --> 00:11:40,860
+Speaker 1: He's not that kind of evil.
+
+168
+00:11:40,880 --> 00:11:44,269
+Speaker 1: Uh, but people on the left hate him also because he's a cop.
+
+169
+00:11:45,010 --> 00:11:45,070
+Speaker 0: Yup.
+
+170
+00:11:45,991 --> 00:11:48,155
+Speaker 0: And he's been a mixed bag as a mayor.
+
+171
+00:11:48,195 --> 00:11:49,116
+Speaker 0: He's done some good things.
+
+172
+00:11:49,156 --> 00:11:50,017
+Speaker 0: He's done some shitty things.
+
+173
+00:11:51,439 --> 00:11:58,530
+Speaker 0: The number of mayors of New York who are not both hated and mediocre is vanishingly small in the entire history of this city.
+
+174
+00:11:58,810 --> 00:12:02,775
+Speaker 1: Mayor of New York is basically you're hated even if you're right by no matter what.
+
+175
+00:12:02,815 --> 00:12:02,935
+Speaker 1: Right.
+
+176
+00:12:02,955 --> 00:12:05,218
+Speaker 1: You think of like the good mayors of New York, right?
+
+177
+00:12:05,398 --> 00:12:14,850
+Speaker 1: Still have things you couldn't criticize them about, but really if you ask any anyone who like who was a good mayor of New York, you might get some right wing nut job saying Giuliani.
+
+178
+00:12:15,151 --> 00:12:15,371
+Speaker 1: Yup.
+
+179
+00:12:15,652 --> 00:12:15,873
+Speaker 1: Right.
+
+180
+00:12:16,153 --> 00:12:22,770
+Speaker 1: You might get some, you know, middling middle people or weird people who really liked your boss for some reason.
+
+181
+00:12:24,270 --> 00:12:27,633
+Speaker 1: Um, there are people who do say that that is true.
+
+182
+00:12:28,153 --> 00:12:29,695
+Speaker 1: They're not many, but they are out there.
+
+183
+00:12:29,715 --> 00:12:32,376
+Speaker 0: I have no formal comments.
+
+184
+00:12:33,057 --> 00:12:33,337
+Speaker 1: Yeah.
+
+185
+00:12:33,898 --> 00:12:39,442
+Speaker 1: Uh, the majority of people though, I think if you ask them like who was a mayor of New York that didn't suck, right?
+
+186
+00:12:39,942 --> 00:12:45,346
+Speaker 1: Are only the only names you ever hear are like, uh, Dukakis and LaGuardia, right?
+
+187
+00:12:45,666 --> 00:12:48,328
+Speaker 1: And even they were flawed in many ways.
+
+188
+00:12:48,849 --> 00:12:54,374
+Speaker 0: Um, but anyway, I'll ask someone, Hey, tell who's a mayor of New York who sucked.
+
+189
+00:12:54,674 --> 00:12:57,597
+Speaker 0: New Yorkers will like have someone already all over their tongue.
+
+190
+00:12:58,037 --> 00:13:07,246
+Speaker 1: And it doesn't matter if you ask a Republican or the farthest Nazi or a commie or an anarchist, right there, which mayor is sucked.
+
+191
+00:13:07,326 --> 00:13:10,189
+Speaker 1: They will name mayors on both sides, downsides.
+
+192
+00:13:12,072 --> 00:13:13,574
+Speaker 1: You don't want to be mayor of New York.
+
+193
+00:13:13,654 --> 00:13:13,794
+Speaker 1: No.
+
+194
+00:13:13,814 --> 00:13:18,181
+Speaker 1: So the mayor of New York never really goes on to greatness afterwards, right?
+
+195
+00:13:18,201 --> 00:13:23,970
+Speaker 1: That doesn't happen because you just, you get there and then you're a hated, reviled individual who can't go anywhere else.
+
+196
+00:13:24,270 --> 00:13:26,574
+Speaker 0: The best case scenario for you is when you're no longer mayor.
+
+197
+00:13:26,614 --> 00:13:27,757
+Speaker 0: No one talks about you again.
+
+198
+00:13:28,538 --> 00:13:28,738
+Speaker 1: Yeah.
+
+199
+00:13:28,818 --> 00:13:29,840
+Speaker 1: It's like the last guy.
+
+200
+00:13:29,921 --> 00:13:34,970
+Speaker 1: He was mayor for, you know, he got reelected as mayor despite criticism all over the place.
+
+201
+00:13:35,130 --> 00:13:37,293
+Speaker 1: And he also did good and bad things, right?
+
+202
+00:13:37,313 --> 00:13:37,954
+Speaker 1: De Blasio.
+
+203
+00:13:38,355 --> 00:13:41,439
+Speaker 1: But as soon as he tried to like run for president, it was like a laughing stock.
+
+204
+00:13:43,041 --> 00:13:44,343
+Speaker 1: It's like, you can't do that.
+
+205
+00:13:44,984 --> 00:13:49,210
+Speaker 1: But anyway, so, uh, what was her name?
+
+206
+00:13:49,630 --> 00:13:56,315
+Speaker 1: Uh, Olayemi, uh, got a call to appear on this radio show, which is called the breakfast club.
+
+207
+00:13:56,355 --> 00:13:57,336
+Speaker 1: Nothing to do with the movie.
+
+208
+00:13:57,877 --> 00:13:58,997
+Speaker 1: Um, at least that I'm aware of.
+
+209
+00:13:59,658 --> 00:14:01,579
+Speaker 1: It's a very popular show, right?
+
+210
+00:14:02,020 --> 00:14:08,144
+Speaker 1: It's, it's a local radio show, but it's basically nationally syndicated on BET because it's right.
+
+211
+00:14:08,245 --> 00:14:15,170
+Speaker 1: It's targeting an audience of black people, um, which is why, you know, white people probably don't know about the show.
+
+212
+00:14:16,711 --> 00:14:19,975
+Speaker 1: Uh, but you know, the mayor is also a black dude, right?
+
+213
+00:14:20,095 --> 00:14:21,957
+Speaker 1: So it's appropriate for him to appear on the show.
+
+214
+00:14:21,977 --> 00:14:23,279
+Speaker 1: I don't know if he's been on it before.
+
+215
+00:14:23,579 --> 00:14:23,779
+Speaker 1: Right.
+
+216
+00:14:24,260 --> 00:14:32,450
+Speaker 1: But somehow, uh, this person, only Emmy who was a extremely strong critic of the mayor from the left, right.
+
+217
+00:14:32,810 --> 00:14:33,952
+Speaker 1: Was going to appear on this show.
+
+218
+00:14:33,972 --> 00:14:37,115
+Speaker 1: Uh, and she's like, I got to be on that show, right?
+
+219
+00:14:37,135 --> 00:14:37,656
+Speaker 1: That'd be great.
+
+220
+00:14:37,936 --> 00:14:38,617
+Speaker 1: People hear me all.
+
+221
+00:14:38,657 --> 00:14:39,618
+Speaker 1: It's a really popular show.
+
+222
+00:14:40,159 --> 00:14:42,522
+Speaker 1: And then they're like, yo, mayor is going to be on with you.
+
+223
+00:14:42,782 --> 00:14:43,483
+Speaker 1: And she's like, what?
+
+224
+00:14:44,063 --> 00:14:44,404
+Speaker 1: You got it.
+
+225
+00:14:44,424 --> 00:14:45,545
+Speaker 1: You know, you're, you're lying.
+
+226
+00:14:45,585 --> 00:14:45,886
+Speaker 1: That's you.
+
+227
+00:14:45,906 --> 00:14:47,548
+Speaker 1: There was no way he would agree to that.
+
+228
+00:14:47,888 --> 00:14:48,969
+Speaker 1: How is this even happening?
+
+229
+00:14:49,430 --> 00:14:49,650
+Speaker 0: Right?
+
+230
+00:14:50,090 --> 00:14:51,452
+Speaker 0: But obviously it happened.
+
+231
+00:14:51,472 --> 00:14:52,693
+Speaker 0: Like that's what we're talking about, right?
+
+232
+00:14:52,753 --> 00:15:01,843
+Speaker 1: She was expecting, she'd show up to talk about the mayor, like spend her time on the show, criticizing the mayor and that he would be a topic of conversation, but not that the mayor would be there.
+
+233
+00:15:01,924 --> 00:15:02,104
+Speaker 1: Right.
+
+234
+00:15:02,164 --> 00:15:05,507
+Speaker 1: If you're the mayor, you don't need to appear with someone on a show.
+
+235
+00:15:05,548 --> 00:15:06,388
+Speaker 1: You're the mayor of New York.
+
+236
+00:15:06,428 --> 00:15:07,530
+Speaker 1: You appear by yourself.
+
+237
+00:15:08,710 --> 00:15:16,295
+Speaker 1: It's just you and the host, you don't go on, you don't need like an extra person to like, you know, get the ratings up or to have anything else to talk about.
+
+238
+00:15:16,375 --> 00:15:16,595
+Speaker 1: Right.
+
+239
+00:15:16,676 --> 00:15:17,756
+Speaker 1: You are the mayor of New York.
+
+240
+00:15:17,796 --> 00:15:18,697
+Speaker 1: You appear alone.
+
+241
+00:15:18,717 --> 00:15:19,297
+Speaker 1: Right.
+
+242
+00:15:19,898 --> 00:15:33,147
+Speaker 1: Um, but somehow, I don't know if the mayor's press secretary who's responsible for this or whatever, but, uh, at least, you know, from our perspective, this is amazing, but from the mayor's perspective, someone fucked the fuck up.
+
+243
+00:15:33,207 --> 00:15:33,387
+Speaker 1: Yeah.
+
+244
+00:15:33,427 --> 00:15:36,529
+Speaker 0: Like the, the, the strategy is like already released a statement.
+
+245
+00:15:36,589 --> 00:15:37,770
+Speaker 0: Like you shouldn't have gone on the show.
+
+246
+00:15:38,130 --> 00:15:42,957
+Speaker 0: Like there was a whole, this is still like an evolving kind of crisis for this dude.
+
+247
+00:15:43,738 --> 00:15:43,838
+Speaker 1: Yeah.
+
+248
+00:15:43,858 --> 00:15:46,802
+Speaker 1: Well, I mean, he's, his whole time has been a crisis regardless.
+
+249
+00:15:47,383 --> 00:15:52,910
+Speaker 1: Sure enough, the show happened and you can see clips from it or listen to it easily.
+
+250
+00:15:53,590 --> 00:16:02,104
+Speaker 0: You know, when there's a hockey game between like two teams that like really have a history and like you just know coming in like, yeah, there's going to be some fight.
+
+251
+00:16:02,384 --> 00:16:03,306
+Speaker 0: It's going to be crazy.
+
+252
+00:16:03,786 --> 00:16:06,030
+Speaker 0: And then you get there and it's exactly what you thought.
+
+253
+00:16:06,631 --> 00:16:11,843
+Speaker 0: I haven't watched, listened to this whole thing, but from what I've seen, yeah, this is exactly what you think it was.
+
+254
+00:16:11,903 --> 00:16:13,467
+Speaker 0: Like it was not cordial.
+
+255
+00:16:13,928 --> 00:16:14,810
+Speaker 0: It went hard.
+
+256
+00:16:15,770 --> 00:16:24,783
+Speaker 1: This dude was getting ripped a new one big time, uh, by someone who had, you know, one person showed up with, you know, was prepared receipts, right?
+
+257
+00:16:24,803 --> 00:16:27,506
+Speaker 1: It was basically their whole job is criticizing this one dude.
+
+258
+00:16:27,546 --> 00:16:27,767
+Speaker 0: Yup.
+
+259
+00:16:28,408 --> 00:16:28,668
+Speaker 1: Right.
+
+260
+00:16:29,329 --> 00:16:30,070
+Speaker 1: And they're a lawyer.
+
+261
+00:16:31,170 --> 00:16:31,411
+Speaker 1: I do.
+
+262
+00:16:31,511 --> 00:16:35,014
+Speaker 1: I would like, I want to hear is, you know, some guy do
+
+263
+00:16:35,635 --> 00:16:52,090
+Speaker 0: have a certain amount of respect, even for someone I might hate or disagree with in an extreme fashion, if they will own what they're all about and like show up in an adversarial context like this to like face the receipts.
+
+264
+00:16:53,170 --> 00:16:56,272
+Speaker 1: Yeah, no, but no, but he was just like, this was clearly a fuck up.
+
+265
+00:16:56,312 --> 00:16:57,173
+Speaker 0: Like this was right.
+
+266
+00:16:57,193 --> 00:16:59,194
+Speaker 1: He showed up, but he wasn't facing the receipts.
+
+267
+00:16:59,234 --> 00:17:00,155
+Speaker 1: He was like, no, no, no.
+
+268
+00:17:00,175 --> 00:17:01,076
+Speaker 1: Your facts are wrong.
+
+269
+00:17:01,116 --> 00:17:02,397
+Speaker 1: And it's like, no, they're not right.
+
+270
+00:17:02,457 --> 00:17:03,457
+Speaker 0: And they're absolutely not.
+
+271
+00:17:03,497 --> 00:17:05,319
+Speaker 0: That's, that's very clear from the follow up.
+
+272
+00:17:05,358 --> 00:17:05,579
+Speaker 0: Right.
+
+273
+00:17:05,659 --> 00:17:09,320
+Speaker 1: It's like, you know, if he would have showed up and been like, yeah, you're right.
+
+274
+00:17:09,561 --> 00:17:10,162
+Speaker 1: I have fucked up.
+
+275
+00:17:10,222 --> 00:17:10,742
+Speaker 1: I'll do better.
+
+276
+00:17:10,762 --> 00:17:12,223
+Speaker 1: It's like, all right, there we go.
+
+277
+00:17:12,743 --> 00:17:18,167
+Speaker 1: I could respect, you know, but it's like you, you just appearing is not enough to get the respect.
+
+278
+00:17:18,188 --> 00:17:20,950
+Speaker 1: You have to appear with the right way.
+
+279
+00:17:20,970 --> 00:17:21,069
+Speaker 1: Right.
+
+280
+00:17:21,550 --> 00:17:28,298
+Speaker 1: And just sitting there and getting absolutely destroyed and admitting no wrong is not the, not the way to get the respect.
+
+281
+00:17:28,338 --> 00:17:28,538
+Speaker 1: Right.
+
+282
+00:17:28,778 --> 00:17:29,039
+Speaker 0: Yeah.
+
+283
+00:17:29,319 --> 00:17:36,527
+Speaker 1: Like you get invited to the dunk or you don't know what a dunk or at least even if you're not going to admit wrong, you need to come back with something better.
+
+284
+00:17:36,547 --> 00:17:37,128
+Speaker 1: Right.
+
+285
+00:17:37,428 --> 00:17:38,690
+Speaker 1: And he didn't have anything.
+
+286
+00:17:38,790 --> 00:17:40,131
+Speaker 0: It's got to bring your own receipts.
+
+287
+00:17:40,211 --> 00:17:41,352
+Speaker 0: Gotta gotta have something you can't.
+
+288
+00:17:41,412 --> 00:17:41,652
+Speaker 0: Right.
+
+289
+00:17:41,792 --> 00:17:46,836
+Speaker 1: You can't just say there's put up a legit fight in good faith.
+
+290
+00:17:47,116 --> 00:17:47,396
+Speaker 1: Right.
+
+291
+00:17:47,436 --> 00:17:48,757
+Speaker 1: That was sincere.
+
+292
+00:17:49,257 --> 00:17:50,178
+Speaker 1: And right.
+
+293
+00:17:50,218 --> 00:17:50,919
+Speaker 1: Then it's like, all right.
+
+294
+00:17:51,019 --> 00:17:51,759
+Speaker 1: I can respect that.
+
+295
+00:17:51,779 --> 00:17:54,181
+Speaker 1: he went into the battle, his harshest critic.
+
+296
+00:17:54,281 --> 00:17:54,521
+Speaker 1: Right.
+
+297
+00:17:54,581 --> 00:17:54,741
+Speaker 1: With.
+
+298
+00:17:54,922 --> 00:17:57,503
+Speaker 1: But it's like, no, he just went and got his ass handed to him.
+
+299
+00:17:57,543 --> 00:17:59,345
+Speaker 1: But, you know, pretended that he didn't.
+
+300
+00:17:59,445 --> 00:18:00,526
+Speaker 1: And that's that doesn't count.
+
+301
+00:18:01,086 --> 00:18:02,627
+Speaker 0: So as a total aside, because this is great.
+
+302
+00:18:02,647 --> 00:18:06,830
+Speaker 0: Like you should you should check out all these clips if you want to know the deal with New York politics.
+
+303
+00:18:07,370 --> 00:18:11,873
+Speaker 1: The quote, I think that my favorite quote, right, was, uh, let me find it.
+
+304
+00:18:12,153 --> 00:18:12,914
+Speaker 1: I had it written down.
+
+305
+00:18:14,575 --> 00:18:16,956
+Speaker 0: There's a lot of really quotable moments so far.
+
+306
+00:18:16,976 --> 00:18:25,141
+Speaker 1: Uh, oh, you can't have it both ways.
+
+307
+00:18:25,301 --> 00:18:27,102
+Speaker 1: Is this the safest city in America?
+
+308
+00:18:27,122 --> 00:18:27,182
+Speaker 1: Yes.
+
+309
+00:18:27,383 --> 00:18:30,204
+Speaker 1: Or is this a dangerous hellscape that needs more police?
+
+310
+00:18:30,324 --> 00:18:31,125
+Speaker 1: Which one is it?
+
+311
+00:18:31,225 --> 00:18:32,266
+Speaker 1: Because the mayor says both.
+
+312
+00:18:32,726 --> 00:18:32,966
+Speaker 1: Right.
+
+313
+00:18:33,206 --> 00:18:36,808
+Speaker 1: The mayor is like, it's the safest city in America, which is true.
+
+314
+00:18:37,008 --> 00:18:37,709
+Speaker 1: That is a fact.
+
+315
+00:18:37,749 --> 00:18:37,949
+Speaker 1: Yep.
+
+316
+00:18:38,329 --> 00:18:39,530
+Speaker 1: Or is it a dangerous hellscape?
+
+317
+00:18:39,770 --> 00:18:40,711
+Speaker 1: That needs more police?
+
+318
+00:18:41,531 --> 00:18:42,032
+Speaker 1: Not true.
+
+319
+00:18:42,292 --> 00:18:45,234
+Speaker 1: But the mayor often is like, oh, we need more police in the subway.
+
+320
+00:18:45,254 --> 00:18:49,857
+Speaker 1: It's like, you know, it's like, uh, well, you just said it was the safest city, which is true.
+
+321
+00:18:49,897 --> 00:18:50,778
+Speaker 1: You're not wrong about that.
+
+322
+00:18:50,858 --> 00:18:51,078
+Speaker 1: Yeah.
+
+323
+00:18:51,118 --> 00:18:55,621
+Speaker 1: Why are you then supporting all this boosting of the police unnecessarily?
+
+324
+00:18:55,821 --> 00:19:01,425
+Speaker 1: And you're only not even getting into the fact that police don't increase safety, which is an entirely separate discussion.
+
+325
+00:19:01,605 --> 00:19:01,865
+Speaker 0: Yep.
+
+326
+00:19:03,006 --> 00:19:05,248
+Speaker 0: Ah, so a total aside before we get to the other news.
+
+327
+00:19:05,508 --> 00:19:08,730
+Speaker 0: The thing we talked about right before the show happened three times during this segment.
+
+328
+00:19:11,200 --> 00:19:11,500
+Speaker 1: Okay.
+
+329
+00:19:11,520 --> 00:19:11,961
+Speaker 0: The cutout.
+
+330
+00:19:12,401 --> 00:19:16,924
+Speaker 0: And it seems to happen when you get loud because you're animated and then you back off a little bit.
+
+331
+00:19:19,006 --> 00:19:22,528
+Speaker 0: Anyway, uh, let the listener take a guess at what that's about.
+
+332
+00:19:22,568 --> 00:19:24,609
+Speaker 0: But, uh, so I got a little news.
+
+333
+00:19:24,770 --> 00:19:36,638
+Speaker 0: This isn't, this isn't news in that anyone who's even like remotely paid attention slightly to anything that's been happening for the last decade would feel, but it is.
+
+334
+00:19:36,678 --> 00:19:39,580
+Speaker 0: some say it's a statistic that is growing.
+
+335
+00:19:40,360 --> 00:19:48,646
+Speaker 0: That is sort of really underpinning that we as a society in America, at least, uh, I'm not even going to get into the rest of the world, which also not great right now.
+
+336
+00:19:49,367 --> 00:19:53,229
+Speaker 0: Things are not going well, but this is a very specific one.
+
+337
+00:19:53,249 --> 00:20:00,054
+Speaker 0: Uh, seven in 10 adults in America are stressed about money.
+
+338
+00:20:00,054 --> 00:20:00,775
+Speaker 0: 70%.
+
+339
+00:20:00,775 --> 00:20:08,180
+Speaker 0: So 70% of all the adults you meet encounter know in your life are stressed about money to the point that it's impacting their lives.
+
+340
+00:20:10,020 --> 00:20:16,345
+Speaker 0: And I think we're all feeling this like layoffs, capital is like, even people who have a lot of money, right?
+
+341
+00:20:16,445 --> 00:20:19,387
+Speaker 1: It's like, you know, should I really be stressed about money?
+
+342
+00:20:19,887 --> 00:20:20,427
+Speaker 1: Not really.
+
+343
+00:20:20,488 --> 00:20:23,009
+Speaker 1: I just, I got, I'm fortunate, very fortunate.
+
+344
+00:20:23,189 --> 00:20:26,031
+Speaker 1: I just bought a fancy TV and my bank account still has a big.
+
+345
+00:20:26,071 --> 00:20:35,238
+Speaker 0: like you and I like our, like we're, we're people who worst case scenario, if things went really bad, cheapening our lifestyle and using our savings, like we'd survive.
+
+346
+00:20:35,278 --> 00:20:38,240
+Speaker 0: There's the universe where we can't eat is almost zero.
+
+347
+00:20:38,921 --> 00:20:39,081
+Speaker 1: Right.
+
+348
+00:20:39,101 --> 00:20:41,444
+Speaker 1: The thing that worries me though, is the rent, right?
+
+349
+00:20:41,484 --> 00:20:43,927
+Speaker 1: The rent is high here and I don't want to leave.
+
+350
+00:20:43,947 --> 00:20:52,837
+Speaker 0: So yeah, I really need, I hit the backup plan of, well, I can survive, but I have to live literally anywhere but New York city.
+
+351
+00:20:53,378 --> 00:20:55,280
+Speaker 0: I'm extremely uncomfortable with that.
+
+352
+00:20:56,500 --> 00:20:56,721
+Speaker 1: Yeah.
+
+353
+00:20:56,741 --> 00:20:59,564
+Speaker 1: So it's like, I won't be in money trouble, but right.
+
+354
+00:20:59,604 --> 00:21:03,769
+Speaker 1: The other thing that concerns me is like, yes, I have, I'm very fortunate right now.
+
+355
+00:21:03,789 --> 00:21:13,380
+Speaker 1: I've been fortunate for a long time that basically anytime I've lost a job, I've been able to change or get a new job easily, but there are a lot of layoffs going on in the industry.
+
+356
+00:21:13,660 --> 00:21:14,502
+Speaker 1: Yup.
+
+357
+00:21:15,043 --> 00:21:19,471
+Speaker 1: I don't currently have, you know, AI machine learning skills because I'm bad at math.
+
+358
+00:21:19,631 --> 00:21:24,620
+Speaker 0: Nor do, nor do I. I'm working on a project, but it's a very small longterm project.
+
+359
+00:21:25,381 --> 00:21:25,541
+Speaker 1: Right.
+
+360
+00:21:25,801 --> 00:21:29,465
+Speaker 1: I am getting recruiter emails still, but much less frequently.
+
+361
+00:21:29,505 --> 00:21:32,529
+Speaker 0: Also much more less frequently, but also a more worrying statistic.
+
+362
+00:21:32,609 --> 00:21:42,580
+Speaker 0: I'm getting a lot more people I've worked with like in my long career because I realized I've been being, I've been a product manager in capital markets for 17 years and that just is a terrifying number.
+
+363
+00:21:43,900 --> 00:21:58,575
+Speaker 0: People have been contacting me in the last six months basically said, basically said like, Hey, you hire in, you know anybody who is, and I have not had people reach out to me like that frequently in my entire life.
+
+364
+00:21:58,955 --> 00:22:03,960
+Speaker 0: And I think more people have reached out to me with questions like that in the last six months than the rest of my life combined.
+
+365
+00:22:07,041 --> 00:22:07,101
+Speaker 1: Hmm.
+
+366
+00:22:07,121 --> 00:22:12,787
+Speaker 1: Uh, and the other thing is that I'm at a job now and you know, the company is, is surviving, right?
+
+367
+00:22:13,327 --> 00:22:25,520
+Speaker 1: But it's like, uh, and my job is, you know, extremely generous, but, uh, if I lose this job or if the company goes under, cause it is a startup place, it's not super stable like the other places I've been.
+
+368
+00:22:25,540 --> 00:22:25,940
+Speaker 1: Right.
+
+369
+00:22:26,080 --> 00:22:31,524
+Speaker 1: It's still had, there's always a risk, uh, no matter how low or right, there's never zero risk.
+
+370
+00:22:32,265 --> 00:22:34,146
+Speaker 1: Uh, anything can happen at any time.
+
+371
+00:22:34,346 --> 00:22:34,566
+Speaker 1: Yep.
+
+372
+00:22:35,327 --> 00:22:38,049
+Speaker 1: And if something happens, it's like, yeah, I got savings.
+
+373
+00:22:38,129 --> 00:22:39,270
+Speaker 1: I can go right.
+
+374
+00:22:39,850 --> 00:22:44,194
+Speaker 1: Um, if I have to, I could see, you know, dip into, you know, longer term savings.
+
+375
+00:22:44,494 --> 00:22:48,157
+Speaker 1: If you know, I could even pay for a one K penalties if I was truly desperate.
+
+376
+00:22:48,437 --> 00:22:48,657
+Speaker 1: Right.
+
+377
+00:22:49,297 --> 00:22:52,360
+Speaker 1: But you know, really don't want to do that.
+
+378
+00:22:52,660 --> 00:22:52,880
+Speaker 0: Yep.
+
+379
+00:22:52,920 --> 00:23:01,346
+Speaker 0: But also like you and I, like you pointed about the privilege thing where we're in the upper percents just by the Nate, the extreme wealth disparities in America and the world.
+
+380
+00:23:02,007 --> 00:23:09,653
+Speaker 0: Like most of the people I know in the world, like the people I am friends with and care about don't have enough money to retire.
+
+381
+00:23:10,013 --> 00:23:13,135
+Speaker 0: Like at all, like nobody can afford to retire.
+
+382
+00:23:13,155 --> 00:23:19,820
+Speaker 0: I am worried about being able to retire and I have probably the best shot of a good retirement of almost anyone we know.
+
+383
+00:23:19,940 --> 00:23:21,761
+Speaker 0: And I'm worried about the future of that.
+
+384
+00:23:22,662 --> 00:23:22,842
+Speaker 1: Yeah.
+
+385
+00:23:22,862 --> 00:23:26,605
+Speaker 1: It's like, you know, I got more money in my 401k than most people.
+
+386
+00:23:27,025 --> 00:23:28,986
+Speaker 1: I'm like way ahead of what other people have.
+
+387
+00:23:29,547 --> 00:23:33,209
+Speaker 1: But it's like, then you look at like, well, what it's going to cost to live numbers wise.
+
+388
+00:23:33,429 --> 00:23:33,569
+Speaker 1: Yeah.
+
+389
+00:23:33,589 --> 00:23:41,655
+Speaker 0: The calculator still tells me, yeah, you're not in great shape despite the amount of money being ludicrous compared to what most people could ever save.
+
+390
+00:23:42,295 --> 00:23:42,536
+Speaker 1: Right.
+
+391
+00:23:42,596 --> 00:23:48,600
+Speaker 1: It's like, I'd have, you know, it's like, sure, I'll have money when I retire, but you know, if, when, if I live that long.
+
+392
+00:23:48,800 --> 00:23:48,920
+Speaker 1: Right.
+
+393
+00:23:48,940 --> 00:23:49,721
+Speaker 1: That's the first goal.
+
+394
+00:23:49,941 --> 00:23:50,081
+Speaker 1: Right.
+
+395
+00:23:50,101 --> 00:23:50,862
+Speaker 1: Just live that long.
+
+396
+00:23:51,042 --> 00:23:51,522
+Speaker 1: It does do.
+
+397
+00:23:52,183 --> 00:24:07,495
+Speaker 1: Um, but it's like, yeah, you're, you're going to have, you know, if social security still exists plus that savings, you know, plus if you do some old timey man job, you know, for whatever you can do, um, you know, it's just a part timey old person job because you're retired.
+
+398
+00:24:07,536 --> 00:24:12,319
+Speaker 1: You're not doing a real job, but those are, if you do too much real job, they stop giving you social security.
+
+399
+00:24:12,360 --> 00:24:12,540
+Speaker 1: Right.
+
+400
+00:24:12,700 --> 00:24:12,900
+Speaker 0: Yeah.
+
+401
+00:24:13,200 --> 00:24:24,590
+Speaker 0: But even worse, I, I, there's another article, uh, I was reading this morning on the train talking about how could like the low key retirement jobs that a lot of old people would take to supplement their income.
+
+402
+00:24:25,010 --> 00:24:28,533
+Speaker 0: They're all disappearing because young people are so desperate.
+
+403
+00:24:28,573 --> 00:24:32,417
+Speaker 0: They're taking those kinds of jobs and old people are just, they got nothing now.
+
+404
+00:24:32,977 --> 00:24:35,399
+Speaker 0: Like they don't even have the option of working cause no one will hire them.
+
+405
+00:24:36,060 --> 00:24:36,180
+Speaker 1: Yeah.
+
+406
+00:24:36,320 --> 00:24:40,888
+Speaker 1: Regardless, uh, you know, that would only be like the smallest part, right?
+
+407
+00:24:41,168 --> 00:24:45,395
+Speaker 1: It's just like a very low wage job that you only do a few hours a week, right?
+
+408
+00:24:45,455 --> 00:24:46,157
+Speaker 1: Way less than 40.
+
+409
+00:24:46,157 --> 00:24:48,220
+Speaker 1: It's not bringing in that much.
+
+410
+00:24:48,280 --> 00:24:54,248
+Speaker 1: Even if you get one, it's like, will that be enough to pay for a New York city apartment and all this shit?
+
+411
+00:24:54,308 --> 00:24:55,890
+Speaker 1: No, no, I had to go.
+
+412
+00:24:55,910 --> 00:25:02,979
+Speaker 1: I had to go live somewhere cheap and you know, but seriously downgrade, you know, my cost of living.
+
+413
+00:25:03,220 --> 00:25:03,360
+Speaker 0: Yeah.
+
+414
+00:25:03,560 --> 00:25:09,107
+Speaker 0: Well, you'll have to live in a town that is at least two towns away from a town that has a train.
+
+415
+00:25:09,868 --> 00:25:10,108
+Speaker 1: Yeah.
+
+416
+00:25:10,148 --> 00:25:10,829
+Speaker 1: Who knows where.
+
+417
+00:25:10,849 --> 00:25:11,249
+Speaker 1: Right.
+
+418
+00:25:11,570 --> 00:25:13,152
+Speaker 1: We'll see what, we'll see what the world is like.
+
+419
+00:25:13,332 --> 00:25:14,613
+Speaker 0: Yep.
+
+420
+00:25:14,633 --> 00:25:17,457
+Speaker 0: And broadly, I don't know what to do about it.
+
+421
+00:25:17,477 --> 00:25:18,919
+Speaker 0: Like I already vote for Democrats.
+
+422
+00:25:18,979 --> 00:25:19,980
+Speaker 0: Like that's not enough.
+
+423
+00:25:22,160 --> 00:25:31,750
+Speaker 1: You know, there's some things that it's like, yeah, you know, you got to fight for what you can fight for and do what you can do, but certain things are just like the sun rising, right?
+
+424
+00:25:32,170 --> 00:25:35,253
+Speaker 1: It's like you can't at least individually do anything about it.
+
+425
+00:25:35,333 --> 00:25:41,880
+Speaker 1: You engage in your collective action that you can engage in with, in your means and abilities and capabilities.
+
+426
+00:25:42,980 --> 00:25:51,790
+Speaker 1: And beyond that is you, you know, you can't control other people so much and that's just what the world is going to be.
+
+427
+00:25:51,810 --> 00:25:51,870
+Speaker 1: Yep.
+
+428
+00:25:51,890 --> 00:25:56,796
+Speaker 1: There's no different, even though, you know, it's, it's frustrating because it's like people did that.
+
+429
+00:25:56,896 --> 00:26:00,060
+Speaker 1: It wasn't like a natural disaster, like an earthquake, nothing you could do about it.
+
+430
+00:26:00,380 --> 00:26:17,280
+Speaker 0: But it's vital in this weird abstract sense because the societal structures like companies and political parties and all these things that are comprised of people, they get complex enough to where they will take actions that no one person within that entity would necessarily have taken.
+
+431
+00:26:17,801 --> 00:26:20,787
+Speaker 0: But they will take them on their own due to their own bureaucratic inertia.
+
+432
+00:26:20,827 --> 00:26:22,049
+Speaker 0: Like that's a thing that happens.
+
+433
+00:26:22,370 --> 00:26:27,400
+Speaker 0: That's actually a thing that I've gotten training on in terms of, you know, like management and stuff like that.
+
+434
+00:26:28,802 --> 00:26:29,502
+Speaker 1: And so, right.
+
+435
+00:26:29,523 --> 00:26:42,759
+Speaker 1: So even though they're not natural disasters, you sort of just have, you know, my philosophy at least is that you just sort of have to live as if they are, be mad at them, be upset, fight against them, of course, if they're terrible, right?
+
+436
+00:26:42,799 --> 00:26:43,880
+Speaker 1: Fight for them if they're good.
+
+437
+00:26:44,840 --> 00:26:47,785
+Speaker 1: But in the end, right, you're going to live this one life.
+
+438
+00:26:48,786 --> 00:26:50,829
+Speaker 1: You're not going to be able to change certain things.
+
+439
+00:26:50,909 --> 00:26:52,932
+Speaker 1: Other people live their whole lives, right?
+
+440
+00:26:52,992 --> 00:26:58,080
+Speaker 1: Everyone who's lived their life up until this point, every single person has dealt with shit their whole life.
+
+441
+00:26:58,440 --> 00:27:01,465
+Speaker 1: And there wasn't a utopia by the time they died.
+
+442
+00:27:01,586 --> 00:27:02,968
+Speaker 1: No, not one person yet.
+
+443
+00:27:03,048 --> 00:27:08,216
+Speaker 1: Not the great Caesar, not the poorest, saddest person, right?
+
+444
+00:27:08,717 --> 00:27:10,340
+Speaker 1: Not the copper guy.
+
+445
+00:27:10,580 --> 00:27:19,700
+Speaker 0: I mean, people lived in peasant servitude in Europe longer than all the technology we use today that uses electricity has existed.
+
+446
+00:27:23,181 --> 00:27:23,722
+Speaker 0: Yeah, that's it.
+
+447
+00:27:23,742 --> 00:27:24,825
+Speaker 0: That's just depressing news.
+
+448
+00:27:24,925 --> 00:27:29,537
+Speaker 0: I'm thinking about it a lot and not sure what to do about it.
+
+449
+00:27:29,978 --> 00:27:30,720
+Speaker 0: Anyway.
+
+450
+00:27:31,300 --> 00:27:32,362
+Speaker 1: Just do what you can.
+
+451
+00:27:32,643 --> 00:27:33,444
+Speaker 1: You live your life.
+
+452
+00:27:34,065 --> 00:27:34,526
+Speaker 1: Be glad.
+
+453
+00:27:34,586 --> 00:27:35,287
+Speaker 1: Be very glad.
+
+454
+00:27:35,467 --> 00:27:39,314
+Speaker 1: If you're listening to a podcast, you are definitely better off.
+
+455
+00:27:39,314 --> 00:27:42,660
+Speaker 1: 100% of the people listening to this are better off than medieval peasants by a lot.
+
+456
+00:27:42,900 --> 00:27:43,000
+Speaker 1: The
+
+457
+00:27:43,020 --> 00:28:01,780
+Speaker 0: best thing I could say is what one thing you can do in the very least is talk about this more just broadly, because we need a higher percentage of people in society to at least openly recognize this slow motion disaster that's happening, even if they can't do anything about it.
+
+458
+00:28:02,180 --> 00:28:28,080
+Speaker 0: Because there's a theory of bureaucracy, and I don't want to drill down because we've got to do the whole main bit and everything, but I was reading a lot of essays lately, and it boils down to the first step to solving a big problem is just getting the smallest majority, the narrowest majority of the people who exist in the space where that problem is to recognize it's actually a problem and to agree and talk about that it's a problem.
+
+459
+00:28:28,380 --> 00:28:29,181
+Speaker 0: That doesn't solve it.
+
+460
+00:28:29,502 --> 00:28:44,440
+Speaker 0: That doesn't even get you 1% of the way to solving it, but it's the first step toward anything happening, because if you can't even get a majority of people to agree it's a problem and say it's a problem, what fucking chance do you have of doing anything about it unless you're a superhero or a billionaire?
+
+461
+00:28:45,921 --> 00:28:59,674
+Speaker 1: And I guess the other thing is that no matter how bad shit is, even if we're all reduced, let's say we're all reduced to medieval peasantry tomorrow by some great disaster, you can still have comfort knowing you're not alone.
+
+462
+00:28:59,974 --> 00:29:03,598
+Speaker 1: You're not the only person who's being subjected to medieval peasantry.
+
+463
+00:29:03,758 --> 00:29:05,780
+Speaker 1: We are all peasanting together.
+
+464
+00:29:06,141 --> 00:29:10,760
+Speaker 0: And maybe that's where we unionize together and then the barricades form and things get weird.
+
+465
+00:29:13,541 --> 00:29:18,305
+Speaker 1: The rest of us are also here living through the same disaster.
+
+466
+00:29:20,147 --> 00:29:35,124
+Speaker 1: It's one thing to be in a zombie apocalypse by yourself, but it's like even if there's a zombie apocalypse, if I got a group of 10 people and none of them are the crazy guy who's gonna get bit by zombies on purpose or something Or not
+
+467
+00:29:35,144 --> 00:29:36,620
+Speaker 0: tell anyone that they got bit by a zombie.
+
+468
+00:29:37,180 --> 00:29:42,235
+Speaker 1: As long as no one's the crazy guy who's gonna ruin it, that's something I can hold on to.
+
+469
+00:29:44,300 --> 00:29:57,697
+Speaker 0: All this reminds me of, I'm watching that Wheel of Time series, because I read all those books to the end, and I was reminded because we just watched the scene where, remember when the one stupid kid, they're in this super evil place, like the worst Mordor.
+
+470
+00:29:57,897 --> 00:30:00,080
+Speaker 0: Imagine if Mordor was there, but then there's the worst Mordor.
+
+471
+00:30:00,320 --> 00:30:01,232
+Speaker 1: The place in the far north?
+
+472
+00:30:01,414 --> 00:30:01,799
+Speaker 1: That place?
+
+473
+00:30:02,522 --> 00:30:07,335
+Speaker 0: The place with the cursed dagger and all the nonsense or even like the evil dark magic won't go.
+
+474
+00:30:07,676 --> 00:30:08,780
+Speaker 0: Like the trollocs won't go there.
+
+475
+00:30:10,163 --> 00:30:11,480
+Speaker 1: I barely remember.
+
+476
+00:30:11,960 --> 00:30:18,830
+Speaker 0: Well the wizard woman is like, listen you kids, whatever the fuck you do, do not fucking touch anything while we're here.
+
+477
+00:30:19,190 --> 00:30:26,060
+Speaker 0: And the first thing that kid does is find a cursed looking dagger and take it and hide it, not tell anyone about it.
+
+478
+00:30:27,262 --> 00:30:34,117
+Speaker 0: And the show, when he finds the dagger and he picks it up, it looks so cursed.
+
+479
+00:30:34,238 --> 00:30:35,240
+Speaker 0: it was almost funny.
+
+480
+00:30:36,142 --> 00:30:36,820
+Speaker 1: Comically cursed?
+
+481
+00:30:36,960 --> 00:30:38,239
+Speaker 0: It was comically cursed.
+
+482
+00:30:39,520 --> 00:30:40,183
+Speaker 1: Oh I remember that.
+
+483
+00:30:40,203 --> 00:30:45,080
+Speaker 1: and then he's like, he's the one who's dealing with bullshit all the time because it's cursed.
+
+484
+00:30:51,231 --> 00:30:53,394
+Speaker 0: But anyway, things of the day.
+
+485
+00:30:53,494 --> 00:30:57,119
+Speaker 0: This is a 16 second video, but I learned something from it.
+
+486
+00:30:57,499 --> 00:31:05,150
+Speaker 0: There's an old Bugs Bunny cartoon where Bugs Bunny does a thing, but before he does the thing he says, I saw this once in a toothpaste commercial.
+
+487
+00:31:06,031 --> 00:31:07,212
+Speaker 0: And it's like a throwaway joke.
+
+488
+00:31:07,733 --> 00:31:23,070
+Speaker 0: Like there's no possible way as a kid, as an adult, I haven't read any context for that, but it turns out that was a pop culture reference to a commercial that was contemporary to that Bugs Bunny cartoon.
+
+489
+00:31:24,191 --> 00:31:28,021
+Speaker 0: And this YouTube video just shows you that commercial and then that Bugs Bunny scene.
+
+490
+00:31:28,943 --> 00:31:31,549
+Speaker 0: And I learned something and you'll learn something too.
+
+491
+00:31:32,311 --> 00:31:39,290
+Speaker 1: I mean, Looney Tunes in general, old Warner Brothers cartoons are mostly timeless in their humor.
+
+492
+00:31:39,690 --> 00:31:41,014
+Speaker 0: Well, case in point.
+
+493
+00:31:41,595 --> 00:31:47,410
+Speaker 0: You don't need to know who Peter Lorre was, but you'll recognize that character and find it funny when it appears.
+
+494
+00:31:47,450 --> 00:31:52,901
+Speaker 1: Would people younger than us really recognize or would they just be like, you know, that Bugs Bunny is pretending to be Groucho Marx?
+
+495
+00:31:58,334 --> 00:32:02,250
+Speaker 1: Or is he just pretending to be funny guy with mustache and a cigar?
+
+496
+00:32:02,430 --> 00:32:05,630
+Speaker 0: How many people know We Don't Need No Stinking Badges from The Simpsons?
+
+497
+00:32:06,591 --> 00:32:06,932
+Speaker 1: Right.
+
+498
+00:32:07,293 --> 00:32:11,990
+Speaker 1: Or how many people don't even know We Don't Need No Stinking Badges at all?
+
+499
+00:32:16,932 --> 00:32:24,150
+Speaker 1: Regardless, there were some jokes that were in old cartoons that weren't timeless and you may or may not get them without knowledge.
+
+500
+00:32:24,370 --> 00:32:37,030
+Speaker 0: But I think the magic is the most timeless jokes that are pop culture references are the ones that are equally funny if you know what they're referencing or you don't know what they're referencing, which is kind of relevant to Easter eggs.
+
+501
+00:32:37,270 --> 00:32:42,110
+Speaker 1: That is the key, I think, is like if you're going, you know, you ideally if you're making jokes, you want to make timeless ones.
+
+502
+00:32:42,310 --> 00:32:48,781
+Speaker 1: If you have to make a non timeless joke, you just have to make it in such a way that it lands.
+
+503
+00:32:49,362 --> 00:32:49,583
+Speaker 1: Right.
+
+504
+00:32:49,743 --> 00:32:53,830
+Speaker 1: Even if someone doesn't know anything, it'll still be funny in perhaps a different way or some way.
+
+505
+00:32:54,250 --> 00:32:54,511
+Speaker 1: Right.
+
+506
+00:32:55,955 --> 00:32:59,224
+Speaker 0: Anyway, so I had a second YouTube thing of the day.
+
+507
+00:32:59,244 --> 00:33:01,510
+Speaker 0: You have an hour and forty one minute thing of the day.
+
+508
+00:33:01,510 --> 00:33:02,011
+Speaker 1: That's right.
+
+509
+00:33:02,071 --> 00:33:14,770
+Speaker 1: So we love to do thing of the day when we find a movie that is normally not easy to see because it is, you know, not available by legal means in the United States, in English, etc.
+
+510
+00:33:16,411 --> 00:33:17,313
+Speaker 1: Right.
+
+511
+00:33:17,353 --> 00:33:19,197
+Speaker 1: You won't see this on Netflix, I don't think.
+
+512
+00:33:19,498 --> 00:33:24,369
+Speaker 1: I think you will see something with the same title on Netflix that is a different movie entirely or a TV show.
+
+513
+00:33:24,409 --> 00:33:24,870
+Speaker 1: I don't even know.
+
+514
+00:33:25,870 --> 00:33:32,870
+Speaker 1: But it is well known among the nerds that Resident Evil was greatly inspired by something called Sweet Home.
+
+515
+00:33:33,550 --> 00:33:37,024
+Speaker 1: And Sweet Home was like this old NES game that was Japanese only.
+
+516
+00:33:37,064 --> 00:33:38,470
+Speaker 1: But you can play a translation of it.
+
+517
+00:33:38,610 --> 00:33:38,791
+Speaker 1: Yeah.
+
+518
+00:33:38,951 --> 00:33:39,934
+Speaker 0: I honestly recommend it.
+
+519
+00:33:39,974 --> 00:33:41,158
+Speaker 0: Watch a long play of it.
+
+520
+00:33:41,198 --> 00:33:44,910
+Speaker 0: Like it's you've got to be a very particular kind of person to enjoy playing it.
+
+521
+00:33:45,650 --> 00:33:45,831
+Speaker 1: Yeah.
+
+522
+00:33:45,851 --> 00:33:47,194
+Speaker 1: It's it's old NES game.
+
+523
+00:33:47,254 --> 00:33:47,474
+Speaker 1: Right.
+
+524
+00:33:48,376 --> 00:33:55,050
+Speaker 1: But Sweet Home, the video game was I don't know, was it based on the movie or vice versa?
+
+525
+00:33:55,391 --> 00:33:55,955
+Speaker 0: I actually don't.
+
+526
+00:33:56,035 --> 00:33:56,679
+Speaker 0: I actually don't know.
+
+527
+00:33:56,779 --> 00:33:58,670
+Speaker 0: I would have to look that up in Wikipedia and I'm not willing to.
+
+528
+00:33:58,930 --> 00:34:01,561
+Speaker 1: It could be that the movie was based on the game, but I don't think that's correct.
+
+529
+00:34:02,706 --> 00:34:03,710
+Speaker 1: Could be wrong anyway.
+
+530
+00:34:04,551 --> 00:34:13,684
+Speaker 1: That movie, Sweet Home from 1989, full film, subbed, is on YouTube for free to watch.
+
+531
+00:34:14,705 --> 00:34:18,350
+Speaker 1: I don't know if this is legally on YouTube, but it's there to watch.
+
+532
+00:34:19,449 --> 00:34:25,350
+Speaker 0: The video game is based on the movie of the same name from the same year.
+
+533
+00:34:25,770 --> 00:34:26,411
+Speaker 1: So I was correct.
+
+534
+00:34:26,451 --> 00:34:26,712
+Speaker 0: Yes.
+
+535
+00:34:27,733 --> 00:34:30,136
+Speaker 1: But yeah, this movie was very popular and influential.
+
+536
+00:34:30,676 --> 00:34:41,489
+Speaker 1: And if you like, I don't consider myself to be like a Resident Evil fan, but I've played and beaten all of them except maybe the most recent one.
+
+537
+00:34:41,770 --> 00:34:44,462
+Speaker 0: I was playing through four again not that long ago.
+
+538
+00:34:44,522 --> 00:34:46,270
+Speaker 0: I just had this urge and was just playing.
+
+539
+00:34:46,630 --> 00:34:48,158
+Speaker 1: I've beaten four twice.
+
+540
+00:34:48,418 --> 00:34:50,688
+Speaker 0: I think I watched you beat four the first time you beat it.
+
+541
+00:34:51,409 --> 00:34:53,353
+Speaker 1: Yeah, that was on the GameCube.
+
+542
+00:34:54,815 --> 00:35:00,123
+Speaker 1: But yeah, they're the kind of games where I play once, I beat it, and I'm done.
+
+543
+00:35:00,143 --> 00:35:04,169
+Speaker 1: I don't go back and do it again and find all the other endings and characters.
+
+544
+00:35:04,189 --> 00:35:05,090
+Speaker 1: I don't do that.
+
+545
+00:35:06,090 --> 00:35:07,393
+Speaker 1: It's like I just play them once, done.
+
+546
+00:35:08,997 --> 00:35:10,822
+Speaker 1: So I'm not deep into it.
+
+547
+00:35:12,346 --> 00:35:13,970
+Speaker 1: They take a couple days or so and then you're good.
+
+548
+00:35:14,230 --> 00:35:17,897
+Speaker 0: Alright, in the meta moment, the Geek Nights Book Club book, Night is Short, Walk on Girl.
+
+549
+00:35:18,278 --> 00:35:20,101
+Speaker 0: Within a few weeks, we're going to do the episode.
+
+550
+00:35:20,421 --> 00:35:21,383
+Speaker 0: The book is short.
+
+551
+00:35:21,623 --> 00:35:23,407
+Speaker 0: You can read it pretty quickly.
+
+552
+00:35:23,427 --> 00:35:25,330
+Speaker 0: It's pretty good.
+
+553
+00:35:26,710 --> 00:35:30,544
+Speaker 1: Yeah, I'm going to try to finish reading it because I want to move on to some other book.
+
+554
+00:35:30,564 --> 00:35:32,030
+Speaker 1: I'm motivated to read a different thing.
+
+555
+00:35:34,092 --> 00:35:37,998
+Speaker 0: I want to read the new Emily Wilson translation that I haven't yet.
+
+556
+00:35:38,258 --> 00:35:42,826
+Speaker 0: I want to read the conclusion of The City We Become.
+
+557
+00:35:42,846 --> 00:35:45,490
+Speaker 0: I've got a bunch of essays.
+
+558
+00:35:45,771 --> 00:35:46,930
+Speaker 1: I've also got those.
+
+559
+00:35:47,890 --> 00:35:49,394
+Speaker 0: There's a lot of reading I want to do.
+
+560
+00:35:49,935 --> 00:35:57,390
+Speaker 0: I've just been busy, but I've got a bunch of travel because Emily and I are heading up to hopefully watch the eclipse this weekend.
+
+561
+00:35:58,230 --> 00:35:59,010
+Speaker 1: Unless it's cloudy.
+
+562
+00:35:59,330 --> 00:35:59,562
+Speaker 1: Indirectly.
+
+563
+00:36:00,852 --> 00:36:03,070
+Speaker 0: I've got glasses that are legit, thankfully.
+
+564
+00:36:04,533 --> 00:36:07,570
+Speaker 1: So we can't see the eclipse from New York City, is that correct?
+
+565
+00:36:07,911 --> 00:36:16,127
+Speaker 0: So you'll see a little bit of it, but it is one of the absolutely rare complete and total eclipses and it goes right over rah-cha-cha.
+
+566
+00:36:16,408 --> 00:36:17,430
+Speaker 0: Like, right over.
+
+567
+00:36:18,372 --> 00:36:19,370
+Speaker 1: That's not that far away.
+
+568
+00:36:19,570 --> 00:36:21,099
+Speaker 0: No, that's why we're doing it.
+
+569
+00:36:21,119 --> 00:36:22,930
+Speaker 0: We're driving out to Emily's house for the weekend.
+
+570
+00:36:23,150 --> 00:36:30,170
+Speaker 1: But I'm saying you'd think that if the moon gets in the way of the sun, that a much larger area of the earth would be in the shadow.
+
+571
+00:36:30,330 --> 00:36:41,990
+Speaker 0: But the moon is so little that the band of a total eclipse, where if you are in that band, the sun will absolutely be invisible for a brief moment.
+
+572
+00:36:42,751 --> 00:36:45,163
+Speaker 0: That band is not that wide, but you know what it covers?
+
+573
+00:36:45,424 --> 00:36:46,610
+Speaker 0: Henrietta and Rochester.
+
+574
+00:36:47,812 --> 00:36:52,510
+Speaker 1: I mean, I would be more motivated if I hadn't already seen some total solar eclipse or two.
+
+575
+00:36:52,831 --> 00:36:55,650
+Speaker 0: I've never seen a total solar eclipse in person before.
+
+576
+00:36:56,592 --> 00:36:59,367
+Speaker 1: It was the one that was in, I remember I was in Manhattan.
+
+577
+00:36:59,387 --> 00:36:59,829
+Speaker 1: there was one.
+
+578
+00:37:00,950 --> 00:37:02,377
+Speaker 0: The one in Manhattan wasn't total.
+
+579
+00:37:02,618 --> 00:37:04,930
+Speaker 1: The one that I remember seeing back when I worked as a flyer.
+
+580
+00:37:05,070 --> 00:37:05,870
+Speaker 1: It was only a mostly eclipse.
+
+581
+00:37:06,090 --> 00:37:06,852
+Speaker 0: Yeah, but it wasn't total.
+
+582
+00:37:06,892 --> 00:37:07,613
+Speaker 0: Total is different.
+
+583
+00:37:08,175 --> 00:37:13,447
+Speaker 0: Some special things happen if you are within the totality zone of an eclipse.
+
+584
+00:37:13,487 --> 00:37:14,730
+Speaker 0: But the one in Manhattan was pretty deep.
+
+585
+00:37:16,213 --> 00:37:17,584
+Speaker 1: It was eclipse enough for me.
+
+586
+00:37:17,625 --> 00:37:18,189
+Speaker 1: It's like, okay.
+
+587
+00:37:19,834 --> 00:37:27,130
+Speaker 1: I mean, it's like, if you think about it, if you just walk under a tree and then walk out from under the tree, that's like an eclipse simulator.
+
+588
+00:37:29,093 --> 00:37:34,209
+Speaker 1: What does it matter if the moon is casting a shadow on you or if a tree is casting a shadow on you?
+
+589
+00:37:34,950 --> 00:37:37,227
+Speaker 1: Something is between you and the sun.
+
+590
+00:37:37,247 --> 00:37:37,549
+Speaker 0: Congrats.
+
+591
+00:37:37,730 --> 00:37:46,990
+Speaker 0: The difference is the shadow is big enough to where there is no ambient light reflecting from areas outside of the shadow within the horizon.
+
+592
+00:37:50,171 --> 00:37:54,888
+Speaker 0: Hopefully it won't be cloudy, but we have glasses that I am confident we can look at the sun without going blind with.
+
+593
+00:37:56,710 --> 00:38:02,170
+Speaker 0: Because we bought them from something that was linked directly from SciShow, like Hank Green, like those people.
+
+594
+00:38:02,530 --> 00:38:03,430
+Speaker 1: Alright, that seems trustworthy.
+
+595
+00:38:04,212 --> 00:38:06,824
+Speaker 0: If I can't trust that, society is fucked.
+
+596
+00:38:06,864 --> 00:38:08,070
+Speaker 0: Like at that point there's nothing left.
+
+597
+00:38:09,190 --> 00:38:16,990
+Speaker 1: Personally, I really, no matter what fancy equipment I had, I really wouldn't even be that interested in looking at the eclipse directly.
+
+598
+00:38:17,090 --> 00:38:31,110
+Speaker 1: It's like, first of all, the box method is good enough for me, but second of all, in the total eclipse scenario, just looking around at the darkness would I think actually be more impactful than looking at a circle with a black disc in front of it.
+
+599
+00:38:31,170 --> 00:38:43,810
+Speaker 0: I watched some videos of previous solar eclipses from different places and in a lot of places, apparently, all the birds just go fucking nuts, which makes sense because birds, you know, they're outside.
+
+600
+00:38:44,251 --> 00:38:52,028
+Speaker 1: But when there was the eclipse in Manhattan, you know, I mostly was just looking at the other people who were, you know, using glasses and looking up at the sky.
+
+601
+00:38:52,068 --> 00:38:53,050
+Speaker 1: That was much more interesting.
+
+602
+00:38:53,410 --> 00:39:04,789
+Speaker 0: What was fascinating, though, is I remember the one in Manhattan because there were a lot of people I encountered out in the street who literally had no idea there was going to be an eclipse and were like, "Why is everyone out?
+
+603
+00:39:04,829 --> 00:39:05,229
+Speaker 0: What's going
+
+604
+00:39:05,450 --> 00:39:05,490
+Speaker 0: on?".
+
+605
+00:39:05,911 --> 00:39:08,163
+Speaker 1: Those are the people who don't read and watch news.
+
+606
+00:39:08,303 --> 00:39:09,630
+Speaker 1: We talk about those people all the time.
+
+607
+00:39:09,690 --> 00:39:11,242
+Speaker 1: We're the opposite of those people.
+
+608
+00:39:12,630 --> 00:39:17,050
+Speaker 0: Those are not the people who are going to vote effectively or help us deal with the coming apocalypse.
+
+609
+00:39:18,060 --> 00:39:18,110
+Speaker 1: No.
+
+610
+00:39:19,631 --> 00:39:21,898
+Speaker 0: Alright, so Easter eggs.
+
+611
+00:39:22,660 --> 00:39:24,546
+Speaker 0: We're not talking about the past kind.
+
+612
+00:39:24,787 --> 00:39:25,710
+Speaker 0: We're talking about the...
+
+613
+00:39:25,971 --> 00:39:27,920
+Speaker 1: Although, Easter was very recent, the holiday.
+
+614
+00:39:27,940 --> 00:39:29,830
+Speaker 1: So it's appropriate, I guess.
+
+615
+00:39:30,270 --> 00:39:35,890
+Speaker 0: I'm confident there's a chance someone will expect we're going to talk about egg Easter eggs.
+
+616
+00:39:36,090 --> 00:39:43,690
+Speaker 0: But no, we're talking about Easter eggs like the first Easter egg, which if you didn't know, it's actually the Atari video game adventure.
+
+617
+00:39:44,632 --> 00:39:45,421
+Speaker 1: Oh, really?
+
+618
+00:39:45,462 --> 00:39:46,210
+Speaker 1: That's the first one?
+
+619
+00:39:46,250 --> 00:39:49,250
+Speaker 0: That's the first one that was called an Easter egg.
+
+620
+00:39:49,290 --> 00:39:51,430
+Speaker 1: At least in software, or is it first one period?
+
+621
+00:39:51,590 --> 00:39:53,149
+Speaker 0: It's the first time anyone...
+
+622
+00:39:53,230 --> 00:39:53,898
+Speaker 1: I don't know about that.
+
+623
+00:39:54,343 --> 00:39:54,849
+Speaker 1: I don't think so.
+
+624
+00:39:55,130 --> 00:39:56,914
+Speaker 0: Well, the first time it was publicly released.
+
+625
+00:39:57,254 --> 00:40:02,405
+Speaker 0: The first known Easter egg, I just pulled out the Wikipedia to confirm, is in a 1973 video game, Moonlander.
+
+626
+00:40:06,772 --> 00:40:09,190
+Speaker 1: Okay, let me check and see something.
+
+627
+00:40:09,870 --> 00:40:17,350
+Speaker 0: Horizontally, you encounter a McDonald's restaurant, according to Wikipedia that I just opened a second ago.
+
+628
+00:40:18,911 --> 00:40:30,423
+Speaker 0: The term was coined in 1979 by Steve Wright, and the term was applied in 1980, when 1980 appears to be the first time.
+
+629
+00:40:30,443 --> 00:40:36,350
+Speaker 0: an Easter egg that nobody knew about except the person who put it in the game was discovered after the fact.
+
+630
+00:40:37,071 --> 00:40:39,735
+Speaker 0: And apparently, I just learned something I didn't know.
+
+631
+00:40:39,816 --> 00:40:48,470
+Speaker 0: According to Wikipedia, it was a big deal because that was before video game developers for Atari were allowed to have credits for their games.
+
+632
+00:40:48,810 --> 00:40:55,210
+Speaker 0: It was some anti-union, anti-unionization biz to make sure they couldn't negotiate for better salaries.
+
+633
+00:40:55,731 --> 00:41:05,645
+Speaker 0: So, Warren Robin Fett just fucking put his name in a secret room in Adventure, and then someone found it, and Atari was like, "Oh shit, we gotta recall the game,".
+
+634
+00:41:05,685 --> 00:41:08,910
+Speaker 0: and then they gave up because they realized that was impossible, and it was a whole thing.
+
+635
+00:41:10,871 --> 00:41:13,408
+Speaker 1: Alright, so what year did you claim this first...
+
+636
+00:41:13,750 --> 00:41:19,294
+Speaker 0: So, Wikipedia, the first one ever, Wikipedia claims 1973.
+
+637
+00:41:19,294 --> 00:41:22,154
+Speaker 1: Oh, when in 1973?
+
+638
+00:41:22,154 --> 00:41:22,596
+Speaker 0: I don't know.
+
+639
+00:41:22,616 --> 00:41:23,662
+Speaker 0: I'll have to click deeper.
+
+640
+00:41:23,782 --> 00:41:25,250
+Speaker 0: The game Moonlander.
+
+641
+00:41:26,110 --> 00:41:26,913
+Speaker 1: Okay, okay.
+
+642
+00:41:27,334 --> 00:41:31,607
+Speaker 1: So, it might be correct in that it defeated this, which I believe...
+
+643
+00:41:32,770 --> 00:41:33,918
+Speaker 0: February 25th, 1973, the game was dead complete.
+
+644
+00:41:35,730 --> 00:41:43,430
+Speaker 1: Okay, you have beaten what I believed to be an earlier easter egg by ten months, right?
+
+645
+00:41:44,050 --> 00:41:51,570
+Speaker 1: On December 7th, 1973, in the United Kingdom, Monty Python released a vinyl album.
+
+646
+00:41:51,771 --> 00:41:52,858
+Speaker 0: Oh, the third track!
+
+647
+00:41:53,080 --> 00:41:54,570
+Speaker 0: Did they call it an easter egg, though?
+
+648
+00:41:54,790 --> 00:42:03,550
+Speaker 1: The matching tie and handkerchief, and if you don't know, on this vinyl album, right, what they did is it was a three-sided album.
+
+649
+00:42:04,032 --> 00:42:08,430
+Speaker 1: So, on one side of the album, you would put the needle in the groove, and it would play.
+
+650
+00:42:08,610 --> 00:42:14,509
+Speaker 1: On the other side of the album, there were actually, like, double grooves, so...
+
+651
+00:42:14,931 --> 00:42:16,269
+Speaker 0: Like two interlocked spirals.
+
+652
+00:42:16,970 --> 00:42:26,969
+Speaker 1: Yes, so if you put the needle into one groove, it played side B, and if you put the needle in the other groove, it was like, you'd be like, "Wait a
+
+653
+00:42:26,989 --> 00:42:27,190
+Speaker 1: minute.".
+
+654
+00:42:27,691 --> 00:42:33,466
+Speaker 1: It's like, by accident, you would just hit the other groove, and it would play something completely different.
+
+655
+00:42:33,566 --> 00:42:34,910
+Speaker 1: It was a three-sided record.
+
+656
+00:42:35,390 --> 00:42:36,510
+Speaker 0: Something completely different, eh?
+
+657
+00:42:36,810 --> 00:42:37,751
+Speaker 1: Right, that's right.
+
+658
+00:42:37,872 --> 00:42:50,350
+Speaker 1: A hidden track, effectively, an entire hidden side to the entire album, content that you didn't know was there, which is, I argue, the exact definition of an easter egg.
+
+659
+00:42:51,131 --> 00:42:59,962
+Speaker 1: You were getting some sort of artwork, or some form of media, and there is something in it that you were not aware of.
+
+660
+00:43:00,022 --> 00:43:04,668
+Speaker 1: that required some secreting, or some digging, or something to uncover.
+
+661
+00:43:08,131 --> 00:43:17,370
+Speaker 0: Now, I think part of the difference, too, is the difference between what an easter egg is versus when people started calling this concept an easter egg specifically.
+
+662
+00:43:19,932 --> 00:43:23,130
+Speaker 1: Just because someone doesn't call it an easter egg doesn't mean it's not an easter egg.
+
+663
+00:43:23,290 --> 00:43:23,551
+Speaker 0: Exactly.
+
+664
+00:43:23,611 --> 00:43:31,550
+Speaker 0: I mean, I think certain hidden images in old tapestries, those are easter eggs.
+
+665
+00:43:33,751 --> 00:43:51,230
+Speaker 0: I think humans have had the concept of easter eggs and loved it and done it for as long as humans have made art, but I think sometime between, let's just say, 1970 and 1980, they started being called easter eggs, and that became the word for it, henceforth.
+
+666
+00:43:54,851 --> 00:44:07,890
+Speaker 1: And software especially, games mostly, but also other software, was ripe for having these, because in other art forms, there are only so many ways to hide things.
+
+667
+00:44:08,510 --> 00:44:13,921
+Speaker 0: Think about the complexity of printing a record that has a fiddly fucking third track hidden.
+
+668
+00:44:14,141 --> 00:44:16,045
+Speaker 0: Like, we had one, my dad had it.
+
+669
+00:44:16,426 --> 00:44:18,670
+Speaker 0: It was really hard to get that middle track to play.
+
+670
+00:44:18,891 --> 00:44:19,796
+Speaker 1: It was very hard.
+
+671
+00:44:19,856 --> 00:44:22,650
+Speaker 1: I almost didn't believe it was there, because I couldn't get it to go in this slot.
+
+672
+00:44:22,910 --> 00:44:24,420
+Speaker 0: We had to use the good turntable.
+
+673
+00:44:24,440 --> 00:44:25,790
+Speaker 0: It wouldn't work on my Big Bird one.
+
+674
+00:44:29,131 --> 00:44:44,210
+Speaker 1: But in other art forms, to get easter eggs in there, for them to either be non-obvious, so they're hidden enough that no one notices them, but also they're actually findable without going to extreme lengths.
+
+675
+00:44:45,711 --> 00:44:51,105
+Speaker 1: Something like, "Ah yes, if you shine a UV light on this, or wear special glasses, the secret message
+
+676
+00:44:51,145 --> 00:44:51,385
+Speaker 1: appears.".
+
+677
+00:44:51,406 --> 00:44:52,268
+Speaker 1: Who knows to do that?
+
+678
+00:44:52,308 --> 00:44:53,110
+Speaker 1: No one will ever see it.
+
+679
+00:44:53,331 --> 00:45:00,910
+Speaker 0: I feel like the best easter eggs are the ones that are so easy to find, or so obvious, yet no one notices them for a long time.
+
+680
+00:45:02,690 --> 00:45:03,854
+Speaker 0: That's the peak easter egg.
+
+681
+00:45:03,894 --> 00:45:05,459
+Speaker 0: That is S-tier easter egg.
+
+682
+00:45:05,860 --> 00:45:09,070
+Speaker 0: Once you know about it, it's so obvious you feel stupid.
+
+683
+00:45:10,751 --> 00:45:19,270
+Speaker 1: The sculpture that looks like a particular object, but if you look at it from a very specific angle, it lines up and it's a different object.
+
+684
+00:45:20,571 --> 00:45:24,790
+Speaker 1: Or there's those drawings where if you turn them upside down, it's something different.
+
+685
+00:45:27,171 --> 00:45:30,979
+Speaker 0: But software really gave you a lot of ways to do it, because one, there's the source code.
+
+686
+00:45:31,861 --> 00:45:36,270
+Speaker 0: There's easter eggs in source code, just like there's easter eggs in the spectrograms of audio.
+
+687
+00:45:36,330 --> 00:45:39,036
+Speaker 1: If you don't have access to the source code, it makes the easter eggs too easy to find.
+
+688
+00:45:39,056 --> 00:45:45,350
+Speaker 1: But if you don't have access to the source code, then it's like there's so many places to hide it.
+
+689
+00:45:47,651 --> 00:45:50,036
+Speaker 1: But the thing is, once someone knows, it's very easy.
+
+690
+00:45:50,356 --> 00:45:57,390
+Speaker 1: You just have to type in this keyboard shortcut that no one would ever press these 10 keys at the same time on this specific dialogue box.
+
+691
+00:45:57,890 --> 00:46:00,967
+Speaker 1: That would never happen, but once you know about it, you just do it.
+
+692
+00:46:01,027 --> 00:46:01,429
+Speaker 1: There it is.
+
+693
+00:46:01,670 --> 00:46:20,129
+Speaker 0: So supposedly, the first software easter egg, even if it wasn't called that, was actually October 1967 on the PDP-6, where if you used the make command and typed "make love", it would just respond "not war".
+
+694
+00:46:20,149 --> 00:46:21,330
+Speaker 0: And then it would work.
+
+695
+00:46:24,310 --> 00:46:29,360
+Speaker 1: There's also, I think, one of the most famous ones in gaming is Totaka's song.
+
+696
+00:46:29,981 --> 00:46:34,870
+Speaker 1: There's so many Nintendo games that either have it in a hidden or non-hidden fashion.
+
+697
+00:46:36,651 --> 00:46:51,890
+Speaker 1: Or there are also games that people have dug through the data of the games and found the song, but are not necessarily sure if there's actually a way to play it or not, legitimately, or if it's just on the disc or on the cartridge, taking up memory.
+
+698
+00:46:52,510 --> 00:46:55,333
+Speaker 0: There's also edge cases.
+
+699
+00:46:57,235 --> 00:47:04,863
+Speaker 0: If you play Mario 3, there's the 1-up sound, but there's actually an extended version of that, but it's not accessible via the game.
+
+700
+00:47:04,903 --> 00:47:06,044
+Speaker 0: That's not really an easter egg.
+
+701
+00:47:06,304 --> 00:47:12,210
+Speaker 0: It's just an artifact of how the game was programmed, because there's no way to access it except via a glitch, and it doesn't appear to have been intentional.
+
+702
+00:47:13,750 --> 00:47:15,398
+Speaker 0: The intentionality is really key.
+
+703
+00:47:15,418 --> 00:47:17,830
+Speaker 0: It has to be intentional, and it has to be accessible.
+
+704
+00:47:18,910 --> 00:47:25,960
+Speaker 1: I mean, Mario 3 is a great example because of what's a secret and what's an easter egg, right?
+
+705
+00:47:26,080 --> 00:47:31,388
+Speaker 1: It's ducking down on the white block and then going to get the whistle and then getting a white coin house.
+
+706
+00:47:31,428 --> 00:47:33,070
+Speaker 1: None of that stuff is in the instruction manual.
+
+707
+00:47:33,870 --> 00:47:35,717
+Speaker 0: But I would call that a secret.
+
+708
+00:47:35,817 --> 00:47:39,150
+Speaker 0: I haven't figured out what my line is yet, but that's definitely not an easter egg to me.
+
+709
+00:47:39,270 --> 00:47:40,492
+Speaker 1: It's in the strategy guide.
+
+710
+00:47:40,512 --> 00:47:42,515
+Speaker 1: They just tell you about all this stuff, right?
+
+711
+00:47:42,916 --> 00:47:45,460
+Speaker 1: But it's like, what's an easter egg and what's an easter egg?
+
+712
+00:47:45,480 --> 00:47:51,450
+Speaker 1: I think the easter egg, especially if it's a game, it's like there's functionality to those, right?
+
+713
+00:47:51,930 --> 00:47:53,913
+Speaker 1: A coin ship is giving you a bunch of coins, right?
+
+714
+00:47:53,933 --> 00:47:58,921
+Speaker 1: It's like part of the game somehow, even though it was just a hidden part of the game.
+
+715
+00:47:59,181 --> 00:48:04,569
+Speaker 1: Like a secret in Wolfenstein, you open up that door, there's a warp, there's ammo in there, there's treasure in there.
+
+716
+00:48:05,130 --> 00:48:09,157
+Speaker 1: But Easter eggs is literally just like, you know, a dev room.
+
+717
+00:48:09,377 --> 00:48:12,863
+Speaker 1: I think like in, uh, I think it's like a dev room.
+
+718
+00:48:12,943 --> 00:48:14,285
+Speaker 1: You go, it's just like a room.
+
+719
+00:48:14,766 --> 00:48:15,086
+Speaker 1: Oh no.
+
+720
+00:48:15,146 --> 00:48:16,829
+Speaker 1: Or system shock, I think as a dev room.
+
+721
+00:48:16,849 --> 00:48:17,230
+Speaker 0: I don't know.
+
+722
+00:48:17,710 --> 00:48:20,655
+Speaker 1: A lot of games have dev rooms where it's just a room.
+
+723
+00:48:20,695 --> 00:48:22,017
+Speaker 1: It doesn't do anything.
+
+724
+00:48:22,678 --> 00:48:29,890
+Speaker 1: It's just like a space where, you know, to that, where the sort of out of context leads me to a better definition for this part.
+
+725
+00:48:30,651 --> 00:48:35,876
+Speaker 0: I think Easter eggs have got to be not contextual to the media itself.
+
+726
+00:48:35,956 --> 00:48:38,319
+Speaker 1: Like they are not, but the Monty Python one is contextual.
+
+727
+00:48:38,359 --> 00:48:39,780
+Speaker 1: It's a whole, right?
+
+728
+00:48:40,101 --> 00:48:40,381
+Speaker 0: True.
+
+729
+00:48:40,721 --> 00:48:45,326
+Speaker 0: But like the adventure one is a credit appears on a screen.
+
+730
+00:48:45,346 --> 00:48:47,328
+Speaker 0: Like text appears saying, Hey, I made this game.
+
+731
+00:48:48,069 --> 00:48:48,449
+Speaker 1: That's true.
+
+732
+00:48:48,890 --> 00:48:49,010
+Speaker 1: Yep.
+
+733
+00:48:49,750 --> 00:48:53,173
+Speaker 0: So maybe the Monty Python one isn't technically an Easter egg.
+
+734
+00:48:54,474 --> 00:49:01,620
+Speaker 0: Maybe you could, the only thing that bothers me about Easter eggs is a lot of people will call things Easter eggs.
+
+735
+00:49:02,080 --> 00:49:06,543
+Speaker 0: that I would say are just references to other media in media.
+
+736
+00:49:07,084 --> 00:49:08,685
+Speaker 0: Like, Oh, it's an Easter egg.
+
+737
+00:49:08,725 --> 00:49:10,787
+Speaker 0: That's Spider-Man's web shooter.
+
+738
+00:49:10,807 --> 00:49:14,269
+Speaker 0: Like, no, that's just a reference to Spider-Man in a Spider-Man movie.
+
+739
+00:49:14,349 --> 00:49:15,330
+Speaker 0: Calm down nerd.
+
+740
+00:49:16,970 --> 00:49:21,714
+Speaker 0: Like I don't really consider things that are just references and movies and comics to be Easter eggs.
+
+741
+00:49:22,034 --> 00:49:26,298
+Speaker 1: The Easter egg would have to be like, yeah, those are just like cameos or whatever or homages, right?
+
+742
+00:49:26,318 --> 00:49:30,661
+Speaker 1: It actually has to be like a hidden, like a truly hidden thing, right?
+
+743
+00:49:30,681 --> 00:49:34,004
+Speaker 1: There has to be some step you take to like reveal it.
+
+744
+00:49:34,064 --> 00:49:34,324
+Speaker 1: Yeah.
+
+745
+00:49:34,664 --> 00:49:41,630
+Speaker 0: Like you take, you take page five of the comic and do the mad magazine thing in a particular spot.
+
+746
+00:49:42,030 --> 00:49:45,615
+Speaker 0: And Oh shit, there's a picture of Spider-Man, but this is not a Spider-Man comic.
+
+747
+00:49:45,655 --> 00:49:46,596
+Speaker 0: like their Easter egg.
+
+748
+00:49:46,616 --> 00:49:50,201
+Speaker 0: Yeah, I like them.
+
+749
+00:49:50,281 --> 00:49:54,026
+Speaker 0: I like, I like people hiding little treats around.
+
+750
+00:49:54,106 --> 00:49:54,266
+Speaker 0: Like.
+
+751
+00:49:54,306 --> 00:49:55,908
+Speaker 0: I just think it's a fun thing to do.
+
+752
+00:49:56,289 --> 00:49:57,150
+Speaker 0: It hurts no one.
+
+753
+00:49:58,350 --> 00:50:03,314
+Speaker 0: There's a lot of debate as I skim through this Wikipedia article of, are they okay?
+
+754
+00:50:03,734 --> 00:50:04,895
+Speaker 0: Are they security risks?
+
+755
+00:50:04,935 --> 00:50:07,638
+Speaker 0: Like there's people have a lot of opinions.
+
+756
+00:50:08,018 --> 00:50:08,778
+Speaker 1: Are they okay?
+
+757
+00:50:08,899 --> 00:50:10,380
+Speaker 1: If you're not hurting anyone, it's okay.
+
+758
+00:50:11,140 --> 00:50:11,400
+Speaker 1: Come on.
+
+759
+00:50:11,521 --> 00:50:13,262
+Speaker 1: That's the end of discussion.
+
+760
+00:50:13,422 --> 00:50:15,844
+Speaker 0: If the Easter egg is fascist, it's bad.
+
+761
+00:50:16,044 --> 00:50:16,845
+Speaker 0: Like full stop.
+
+762
+00:50:17,786 --> 00:50:17,906
+Speaker 1: Yeah.
+
+763
+00:50:17,926 --> 00:50:23,410
+Speaker 1: If you're hiding like secret, you know, a secret copy of Mein Kampf in your video game, then yes, that's bad.
+
+764
+00:50:23,630 --> 00:50:25,013
+Speaker 0: Ooh, the listener is a question.
+
+765
+00:50:25,373 --> 00:50:29,240
+Speaker 0: There are architect, uh, at a comment, architecturally strikes, like that's true.
+
+766
+00:50:29,340 --> 00:50:32,365
+Speaker 0: Walk through the right part of a building and like a thing happens.
+
+767
+00:50:32,726 --> 00:50:34,709
+Speaker 0: Step on the brick and King Todd winks at you.
+
+768
+00:50:35,730 --> 00:50:43,916
+Speaker 1: Uh, things like in grand central, it's like you whisper into the corner and the people on the other side can hear it, things like that.
+
+769
+00:50:43,936 --> 00:50:48,200
+Speaker 1: where it's like, that's really more, you know, it's like a hidden feature, right?
+
+770
+00:50:48,240 --> 00:50:54,544
+Speaker 1: Where it's like, it's just, you know, there's something about it, but you just don't, you just don't know.
+
+771
+00:50:54,724 --> 00:50:58,667
+Speaker 1: unless it has been, you know, it just looks like a normal object, right?
+
+772
+00:50:58,807 --> 00:51:02,410
+Speaker 1: It looks just like a room, but actually there's something in this room that you can't see.
+
+773
+00:51:02,750 --> 00:51:19,390
+Speaker 0: I still think it, it's only an Easter egg if it is intentional by the creator and intentionally hidden by the creator, because I think a key component for me of what, when I viscerally feel something is an Easter egg is when I find it or I find out about it.
+
+774
+00:51:20,311 --> 00:51:22,353
+Speaker 0: My first reaction is, ha, wow.
+
+775
+00:51:22,493 --> 00:51:25,216
+Speaker 0: Like I'm surprised and slightly delighted.
+
+776
+00:51:25,456 --> 00:51:29,840
+Speaker 0: Like, like I'm, I, there's always a little bit of excitement like, Oh, what's this?
+
+777
+00:51:29,860 --> 00:51:31,222
+Speaker 0: Ooh, right now.
+
+778
+00:51:31,242 --> 00:51:39,150
+Speaker 1: Like imagine if someone had, you know, an old slidey bookshelf with a secret room, is that an Easter egg, you know, or is it, is it too far?
+
+779
+00:51:39,330 --> 00:51:39,550
+Speaker 1: Right.
+
+780
+00:51:39,970 --> 00:51:44,156
+Speaker 1: But for example, I was at Disneyland in November, right?
+
+781
+00:51:44,576 --> 00:51:48,981
+Speaker 1: And we were going through, you know, in, uh, I don't know how it is.
+
+782
+00:51:49,001 --> 00:51:55,930
+Speaker 1: I haven't been to Disney world this millennium, but I remember when I went to Disney world as a kid, I wanted to go in the castle and that's not really a thing.
+
+783
+00:51:56,651 --> 00:52:04,999
+Speaker 1: Uh, but in Disneyland, there was something that approached going in the castle, basically behind the castle to the left, right?
+
+784
+00:52:05,360 --> 00:52:13,328
+Speaker 1: There was a shop where you could buy princess dresses, um, of all the different princesses, uh, like a fancy dress shop, right?
+
+785
+00:52:13,348 --> 00:52:15,310
+Speaker 1: Like you want the high quality costume, right?
+
+786
+00:52:15,891 --> 00:52:21,716
+Speaker 1: And then next to it was like a little, a door, a port, a doorway, and basically it was up a staircase.
+
+787
+00:52:21,736 --> 00:52:23,999
+Speaker 1: I don't think it's a very accessible area with the staircase.
+
+788
+00:52:24,059 --> 00:52:25,961
+Speaker 1: There was no other way to get in there besides stairs.
+
+789
+00:52:26,661 --> 00:52:35,350
+Speaker 1: And it was just a short walkthrough where you went in one side and it came out the other and you just go in through stairs and it looked like you were in a castle.
+
+790
+00:52:35,410 --> 00:52:46,142
+Speaker 1: It was castle inside Dunjany themed and it just sorta had little scenes, dioramas just showing you the Sleeping Beauty story because it's Sleeping Beauty's castle in California.
+
+791
+00:52:46,802 --> 00:52:49,045
+Speaker 1: And you know, that, that was it, right?
+
+792
+00:52:49,065 --> 00:52:50,506
+Speaker 1: It was just walkthrough.
+
+793
+00:52:51,527 --> 00:52:54,090
+Speaker 1: There's the story of Sleeping Beauty and a few thingies, right?
+
+794
+00:52:54,130 --> 00:52:55,583
+Speaker 1: I think that leads to another aspect.
+
+795
+00:52:58,590 --> 00:53:09,800
+Speaker 1: But the, the Easter egg part was that while I was walking through, right, there was, you know, it was decorated like the inside of a castle and there was a wooden door, right?
+
+796
+00:53:10,060 --> 00:53:13,062
+Speaker 1: Like a decorative, you know, castle Dunjany wooden door.
+
+797
+00:53:13,843 --> 00:53:17,746
+Speaker 1: And I pulled on the handle to be like, "Lol, I'm going to try to open the dungeon
+
+798
+00:53:17,786 --> 00:53:18,066
+Speaker 1: door.".
+
+799
+00:53:18,687 --> 00:53:21,609
+Speaker 1: The door shook and there was a, like,
+
+800
+00:53:21,649 --> 00:53:22,050
+Speaker 1: "Hahaha.".
+
+801
+00:53:22,854 --> 00:53:23,278
+Speaker 0: That's good.
+
+802
+00:53:23,379 --> 00:53:24,187
+Speaker 0: That might be an Easter egg.
+
+803
+00:53:25,011 --> 00:53:25,311
+Speaker 1: Right.
+
+804
+00:53:25,632 --> 00:53:31,459
+Speaker 1: And so it's like, you know, it's like, it wasn't that hidden because it's like you're just opening a door.
+
+805
+00:53:31,620 --> 00:53:32,621
+Speaker 1: that's a door.
+
+806
+00:53:32,661 --> 00:53:34,003
+Speaker 1: It's not hidden, right?
+
+807
+00:53:34,403 --> 00:53:38,389
+Speaker 1: But it's like nothing in there would make you think that anything was interactive.
+
+808
+00:53:38,469 --> 00:53:39,430
+Speaker 1: It was just a walkthrough.
+
+809
+00:53:39,710 --> 00:53:40,712
+Speaker 0: But I think that's it too.
+
+810
+00:53:40,752 --> 00:53:48,044
+Speaker 0: It has, it not only has to be hidden and intentional, they have to want people to find it.
+
+811
+00:53:49,546 --> 00:53:51,910
+Speaker 0: If you don't want people to find it, it's not an Easter egg.
+
+812
+00:53:55,511 --> 00:53:55,832
+Speaker 0: All right.
+
+813
+00:53:56,413 --> 00:54:03,626
+Speaker 0: We're discussing, actually, there's a lively chat on this one because this is a hot dog sandwich situation.
+
+814
+00:54:03,666 --> 00:54:05,790
+Speaker 0: This is, it's actually really hard to define.
+
+815
+00:54:05,850 --> 00:54:09,789
+Speaker 1: It is one of those cases where, yeah, it's like we could argue about the definition all day.
+
+816
+00:54:10,811 --> 00:54:14,476
+Speaker 1: But who really cares, right, of classifying what is and what is not an Easter egg.
+
+817
+00:54:14,876 --> 00:54:23,367
+Speaker 1: The point is, is that when there are things hidden with whimsy and, you know, joy and serendipity.
+
+818
+00:54:26,690 --> 00:54:27,770
+Speaker 0: Serendipitous discovery.
+
+819
+00:54:28,630 --> 00:54:28,751
+Speaker 1: Yes.
+
+820
+00:54:29,152 --> 00:54:33,150
+Speaker 1: Those are things that make people happy as long as you don't overdo it.
+
+821
+00:54:33,350 --> 00:54:39,098
+Speaker 0: So case in point, imagine before anyone, like everyone knew about the third track and understood it.
+
+822
+00:54:39,859 --> 00:54:48,770
+Speaker 0: Imagine you put the record, you play that record and you play that record and one day you put the needle down and it happens to hit that other groove you didn't know about.
+
+823
+00:54:49,311 --> 00:54:51,795
+Speaker 0: And a record you've listened to before plays something different.
+
+824
+00:54:52,517 --> 00:54:57,727
+Speaker 0: Imagine what that feels like for 30 seconds before you figure out what's going on.
+
+825
+00:54:57,767 --> 00:54:59,530
+Speaker 0: Like that is sublime.
+
+826
+00:55:00,610 --> 00:55:01,351
+Speaker 1: That's the key.
+
+827
+00:55:01,452 --> 00:55:06,539
+Speaker 1: It doesn't really matter what your definition is, whether it counts as an Easter egg or not, who cares, right?
+
+828
+00:55:06,579 --> 00:55:14,750
+Speaker 1: The point is there are certain things along these lines that can make people feel good, positive, right?
+
+829
+00:55:15,370 --> 00:55:16,192
+Speaker 1: Good, right?
+
+830
+00:55:16,212 --> 00:55:16,794
+Speaker 1: We like them.
+
+831
+00:55:17,135 --> 00:55:17,817
+Speaker 1: We enjoy them.
+
+832
+00:55:18,118 --> 00:55:22,710
+Speaker 1: They make the world nicer for humans to live in when they're experiencing artwork.
+
+833
+00:55:23,371 --> 00:55:25,115
+Speaker 1: And that is a good thing.
+
+834
+00:55:25,196 --> 00:55:31,330
+Speaker 1: So if you can do a thing like that in your artwork successfully, you know, in a positive way that works.
+
+835
+00:55:32,891 --> 00:55:42,850
+Speaker 1: If someone wants to say it's not an Easter egg or it is whatever definition who gives a shit, as long as it is achieving the positive ends, we like that a lot.
+
+836
+00:55:43,751 --> 00:55:55,430
+Speaker 1: And if anyone has more cool examples, because maybe younger or older than us and you know better or worse than us, share so that we can all have that feeling some more.
+
+837
+00:56:01,020 --> 00:56:03,390
+Speaker 0: This has been Geek Nights with Rim and Scott.
+
+838
+00:56:03,450 --> 00:56:05,960
+Speaker 0: Special thanks to DJ Pretzel for the opening theme.
+
+839
+00:56:06,160 --> 00:56:12,200
+Speaker 1: Be sure to visit our website at frontrowcrew.com for show notes, discussion, links and more.
+
+840
+00:56:12,661 --> 00:56:15,345
+Speaker 0: Remember, Geek Nights is not one but four different shows.
+
+841
+00:56:15,646 --> 00:56:17,309
+Speaker 0: Mondays are science and technology.
+
+842
+00:56:17,349 --> 00:56:19,092
+Speaker 0: Tuesdays, gaming and games.
+
+843
+00:56:19,212 --> 00:56:21,035
+Speaker 0: Wednesdays are animation and comics.
+
+844
+00:56:21,356 --> 00:56:23,840
+Speaker 0: Thursdays are arbitrary and indiscriminate.
+
+845
+00:56:24,560 --> 00:56:29,380
+Speaker 0: Geek Nights is distributed under a Creative Commons Attribution 4.0 international license.
+
+846
+00:56:29,940 --> 00:56:34,210
+Speaker 1: Geek Nights is recorded live with no studio and no audience.
+
+847
+00:56:34,692 --> 00:56:38,160
+Speaker 1: But unlike those other late shows, it's actually recorded at night.
+
+848
+00:56:38,621 --> 00:56:55,080
+Speaker 0: And the Patreon patrons for this episode of Geek Nights are Alan Joyce, Linki G, Dre, Lily Tenderberry, Kace, Cara Makes the Music, Chris the Doc, Chris Ferrar, Clinton Welton, Finn, Joel Hayes, Penny Reimer, Rebecca Dunne, Sam Erickson, Shervin Von Harl, and a bunch of people whose names I will not say.
+
+849
+00:56:56,480 --> 00:56:59,708
+Speaker 0: Probably not going to do a show on Monday because I'll still be in Ra Cha Cha.
+
+850
+00:56:59,728 --> 00:57:01,773
+Speaker 0: I hope you guys enjoy the eclipse.
+
+851
+00:57:02,295 --> 00:57:04,400
+Speaker 0: Absolutely do not risk your eyes.
+
+852
+00:57:05,060 --> 00:57:11,220
+Speaker 0: Follow whatever advice you need to follow to test whatever glasses you might use to look at that thing if you're in its path.
+
+853
+00:57:11,880 --> 00:57:17,859
+Speaker 0: And tonight, I will leave you with... Something's going on, just look around.
+
+854
+00:57:20,400 --> 00:57:21,898
+Speaker 0: Fear is on their eyes.
+
+855
+00:57:22,500 --> 00:57:24,520
+Speaker 1: And there's blood all over the ground.
+
+856
+00:57:24,680 --> 00:57:27,080
+Speaker 1: Let's all just blindfold the poor.
+
+857
+00:57:27,481 --> 00:57:30,099
+Speaker 1: We must remind them what's in store.
+
+858
+00:57:30,940 --> 00:57:34,299
+Speaker 0: We got 'em now, just break 'em down a little bit more.
+
+859
+00:57:36,787 --> 00:57:38,839
+Speaker 1: I said hey, you, feed the machine.
+
+860
+00:57:39,380 --> 00:57:42,900
+Speaker 1: Bring 'em all back down to their knees, no time to waste.
+
+861
+00:57:43,322 --> 00:57:46,920
+Speaker 0: Remind the slate, they ain't gonna make it out alive today.
+
+862
+00:57:47,120 --> 00:57:49,760
+Speaker 0: I said hey, you, poison the well.
+
+863
+00:57:50,340 --> 00:57:52,380
+Speaker 0: Watch it all burn, take 'em straight to hell.
+
+864
+00:57:52,560 --> 00:57:55,320
+Speaker 0: He's got the whole world in his hands.
+
+865
+00:57:55,581 --> 00:57:56,697
+Speaker 1: It was nice to know ya.
+
+866
+00:57:57,180 --> 00:57:58,498
+Speaker 1: Bob, Ben, Dan, come on!
+

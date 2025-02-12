@@ -1,0 +1,1932 @@
+﻿1
+00:00:08,380 --> 00:00:09,828
+Speaker 1: It's Wednesday, July 3rd, 2024.
+
+2
+00:00:09,828 --> 00:00:10,029
+Speaker 1: I'm Rym.
+
+3
+00:00:13,462 --> 00:00:13,940
+Speaker 1: I'm Scott.
+
+4
+00:00:14,240 --> 00:00:15,263
+Speaker 1: Uh oh, Scott was yawning.
+
+5
+00:00:15,303 --> 00:00:21,580
+Speaker 1: This is Geek Nights, and tonight we are reviewing the anime of Oku, The Inner Chambers.
+
+6
+00:00:22,260 --> 00:00:23,196
+Speaker 0: Let's do this.
+
+7
+00:00:24,340 --> 00:00:25,484
+Speaker 1: 4th of July is tomorrow.
+
+8
+00:00:26,668 --> 00:00:47,039
+Speaker 1: Working in my day job, of course, is in capital markets, so it's kind of funny how for many people, if they have a global company, like only the Americans get the 4th of July off, but capital markets is so New York City focused globally that basically nothing happens in the rest of the world on the 4th of July either, even if people technically have to go to work.
+
+9
+00:00:49,263 --> 00:00:52,640
+Speaker 0: Being on a Thursday is kind of weird, like a lot of people, we don't have any plans.
+
+10
+00:00:52,880 --> 00:00:56,440
+Speaker 1: Oh, there's like nobody at work, like everybody took vacation days this week because it was on a Thursday.
+
+11
+00:00:59,363 --> 00:01:03,620
+Speaker 0: Most of the people I know, no one made a special plan because a Thursday is weird, right?
+
+12
+00:01:04,101 --> 00:01:05,525
+Speaker 0: Even people who took off or whatever.
+
+13
+00:01:05,546 --> 00:01:14,540
+Speaker 0: And the other thing is that my company, which has employees all around the world, mostly the US, but also we had a ton in Argentina, actually.
+
+14
+00:01:16,440 --> 00:01:22,118
+Speaker 0: But the CEO was just like, "Yeah, alright, no work Thursday for the whole world, and you know what, Friday
+
+15
+00:01:22,178 --> 00:01:22,399
+Speaker 0: either.".
+
+16
+00:01:22,880 --> 00:01:32,679
+Speaker 0: And it's like one of those times where it's like they switched my, because I only work 4 days a week, and I started off in the first year not working Friday, and they're like, "You wanna do Monday
+
+17
+00:01:32,699 --> 00:01:32,840
+Speaker 0: instead?".
+
+18
+00:01:33,041 --> 00:01:37,438
+Speaker 0: And I'm like, "I know that's less days, but alright,
+
+19
+00:01:37,479 --> 00:01:37,720
+Speaker 0: fine.".
+
+20
+00:01:40,260 --> 00:01:51,060
+Speaker 0: But it's usually, the Monday doesn't pay off because there'll be like an observed holiday on a Monday, but this really pays off because now I don't have to work from now until Tuesday.
+
+21
+00:01:52,443 --> 00:01:53,728
+Speaker 0: So 5 days off in a row.
+
+22
+00:01:54,110 --> 00:01:56,460
+Speaker 0: Pretty good.
+
+23
+00:01:57,082 --> 00:02:03,159
+Speaker 0: Could do some biking, find some water to swim/bathe in, I don't know.
+
+24
+00:02:04,721 --> 00:02:12,140
+Speaker 1: I gotta check what the water temperature is at Sandy Hook, because usually the water's not warm enough to swim in until August, but it's been so hot.
+
+25
+00:02:13,400 --> 00:02:14,360
+Speaker 1: Water temperature.
+
+26
+00:02:14,940 --> 00:02:22,320
+Speaker 1: The Astoria pool opened, but they actually- Well didn't they have a crisis of not enough lifeguards, only part of it was open, and then they turned people away?
+
+27
+00:02:24,341 --> 00:02:27,275
+Speaker 1: Gothamist had an article that was like, "Hundreds turned away from the
+
+28
+00:02:27,295 --> 00:02:27,597
+Speaker 1: pool!".
+
+29
+00:02:28,280 --> 00:02:31,232
+Speaker 0: Well, so there's a line to get in.
+
+30
+00:02:32,317 --> 00:02:33,100
+Speaker 0: You gotta go early.
+
+31
+00:02:34,180 --> 00:02:38,632
+Speaker 1: Oh damn, the water temperature outside of Sandy Hook is like 71 degrees right now.
+
+32
+00:02:38,692 --> 00:02:41,780
+Speaker 1: That's like way warmer than it usually is in July.
+
+33
+00:02:42,680 --> 00:02:46,530
+Speaker 0: And then they have pH problems, and they'll close it for that.
+
+34
+00:02:47,433 --> 00:02:50,080
+Speaker 0: Someone said they went and then they all got kicked out early.
+
+35
+00:02:51,641 --> 00:02:59,080
+Speaker 0: And then yeah, there were some times where there weren't enough lifeguards on duty, because basically the pool, they have a lap section on the side.
+
+36
+00:02:59,680 --> 00:03:06,160
+Speaker 0: And then the rest of it is like sectioned off with ropes and it's like these rectangles, and it's like one lifeguard per rectangle.
+
+37
+00:03:06,860 --> 00:03:11,476
+Speaker 0: And so if they don't have one lifeguard per rectangle, they'll just be like, "You can't swim in that rectangle.
+
+38
+00:03:11,496 --> 00:03:12,479
+Speaker 0: There's no lifeguard for
+
+39
+00:03:12,520 --> 00:03:12,560
+Speaker 0: it.".
+
+40
+00:03:12,660 --> 00:03:18,980
+Speaker 1: Now for those of you who don't live in New York City, if you look up any news about this, you'll see that there's a shortage of lifeguards in New York City.
+
+41
+00:03:19,662 --> 00:03:23,394
+Speaker 1: But the reality is, there are plenty of people who could be lifeguards.
+
+42
+00:03:23,634 --> 00:03:25,360
+Speaker 1: They just don't pay lifeguards fucking money.
+
+43
+00:03:28,442 --> 00:03:32,030
+Speaker 1: I don't think there's really shortages in any labor market in America right now.
+
+44
+00:03:32,090 --> 00:03:36,480
+Speaker 1: There's only shortages of companies willing to pay what it costs to get someone to do that job.
+
+45
+00:03:38,161 --> 00:03:46,917
+Speaker 0: Well, the other thing is to even someone who would be a lifeguard, there's a lifeguard union basically, and they have standards, which is like, "Yeah, that makes sense.
+
+46
+00:03:46,957 --> 00:03:48,479
+Speaker 0: You can't just have someone who can't
+
+47
+00:03:48,560 --> 00:03:48,700
+Speaker 0: swim.".
+
+48
+00:03:48,901 --> 00:03:52,200
+Speaker 1: Lifeguards gotta be able to swim and drag someone out of the water and no CPR.
+
+49
+00:03:53,100 --> 00:03:56,226
+Speaker 0: And an ocean lifeguard needs even more skills than a pool lifeguard.
+
+50
+00:03:56,426 --> 00:04:02,417
+Speaker 0: Not to say that pool lifeguards are unskilled, but that's already a high bar to be pool lifeguard.
+
+51
+00:04:02,457 --> 00:04:04,060
+Speaker 0: The bar for ocean lifeguard is higher.
+
+52
+00:04:04,901 --> 00:04:12,692
+Speaker 1: When I was in Australia last time swimming, I saw someone who was so far out, I could not have swum to them.
+
+53
+00:04:13,514 --> 00:04:17,880
+Speaker 1: And they were having trouble, and two lifeguards just fucking swam there like it was nothing.
+
+54
+00:04:19,142 --> 00:04:23,120
+Speaker 1: And a drone dropped a lifesaver over the guy before the lifeguards even got there.
+
+55
+00:04:25,440 --> 00:04:31,780
+Speaker 1: I imagine that because I just saw New York has authorized, they're doing trials of the same drones that Australia's had for like 10 years.
+
+56
+00:04:33,243 --> 00:04:42,760
+Speaker 0: But the point is, is that if you have those high skills, are you gonna go be a New York lifeguard for low pay as a seasonal job?
+
+57
+00:04:44,341 --> 00:04:58,040
+Speaker 0: Or if you have those skills, you could just be a lifeguard at a fancy rich person beach at a 24/7 year round beach in Florida kind of place or an island or on a cruise ship.
+
+58
+00:05:00,946 --> 00:05:02,939
+Speaker 0: New York is not a great place to be a lifeguard.
+
+59
+00:05:04,300 --> 00:05:08,707
+Speaker 0: So I think, you know, and it's like, what do you, it's like the seasonality of it.
+
+60
+00:05:09,148 --> 00:05:14,556
+Speaker 0: First of all, that, you know, is so short because in New York, they don't fricking start it until July and then they end it too soon.
+
+61
+00:05:14,996 --> 00:05:16,499
+Speaker 0: It's like, they got to expand the time.
+
+62
+00:05:16,539 --> 00:05:17,420
+Speaker 0: They got to start that shit.
+
+63
+00:05:17,560 --> 00:05:21,020
+Speaker 1: But they're saying they can't expand the time because they don't have enough lifeguards.
+
+64
+00:05:21,821 --> 00:05:22,001
+Speaker 0: Yep.
+
+65
+00:05:22,442 --> 00:05:28,720
+Speaker 0: It's like, it's like if you expanded the time more, like it would be more reasonable to take that job because it lasts longer and pays more.
+
+66
+00:05:29,060 --> 00:05:38,640
+Speaker 1: Like even like there's annoying stuff like the ferry we take, like the beach ferry, there are other ferries that can get to that island or that peninsula, but basically it stops on like Labor Day.
+
+67
+00:05:39,161 --> 00:05:43,779
+Speaker 1: But yet it's hot enough to continue to go to the beach for another month now compared to what it used to be.
+
+68
+00:05:44,161 --> 00:05:49,420
+Speaker 1: But like all the beaches change over to fall hours, the lifeguards all disappear, the ferries all stop.
+
+69
+00:05:49,660 --> 00:05:50,101
+Speaker 1: Right.
+
+70
+00:05:50,121 --> 00:05:50,781
+Speaker 0: They got to stop.
+
+71
+00:05:50,841 --> 00:06:13,900
+Speaker 0: There's this time where they have to start thinking about transitioning to being more like places where it's always warm and having that be some sort of permanent job where like, okay, it's like, yeah, even in Florida or any tropical island where there's lifeguards all the time, there are still days where there's no life, you know, the weather, there's no swimming, it rains, there's a storm.
+
+72
+00:06:15,221 --> 00:06:15,541
+Speaker 0: Yeah.
+
+73
+00:06:15,802 --> 00:06:16,362
+Speaker 0: It's not hot.
+
+74
+00:06:16,383 --> 00:06:26,460
+Speaker 0: It does, you know, our times where it's not hot enough, it's like, oh shit, it's, it's, you know, and so those lifeguards are still getting paid, I presume because it's a year round job in those places.
+
+75
+00:06:27,081 --> 00:06:36,620
+Speaker 0: And so it's like, yeah, we kind of have to do that event, you know, or find some other job for those lifeguards to do during those months where it's, you know, everything's closed.
+
+76
+00:06:37,100 --> 00:06:37,300
+Speaker 1: Yep.
+
+77
+00:06:37,381 --> 00:06:39,883
+Speaker 1: But we're not good at this as a society or a city.
+
+78
+00:06:40,003 --> 00:06:42,225
+Speaker 1: But anyway, getting some anime news.
+
+79
+00:06:42,545 --> 00:06:45,048
+Speaker 1: So this is an anime, but it's related to anime.
+
+80
+00:06:46,209 --> 00:06:48,231
+Speaker 1: On August 11th at 9 p.m.
+
+81
+00:06:49,372 --> 00:06:51,194
+Speaker 1: JST, so 8 a.m.
+
+82
+00:06:51,234 --> 00:06:51,374
+Speaker 1: in the
+
+83
+00:06:51,494 --> 00:06:51,814
+Speaker 1: U.S.,
+
+84
+00:06:52,114 --> 00:06:58,040
+Speaker 1: there is going to be a live stream and none of you would ever guess what this live stream would be unless...
+
+85
+00:06:58,120 --> 00:07:01,240
+Speaker 0: I wouldn't have guessed, but I mean, now you already sent it to me, so now I know.
+
+86
+00:07:01,761 --> 00:07:08,171
+Speaker 1: So there is a Lupin III kabuki, like a full on kabuki.
+
+87
+00:07:08,191 --> 00:07:14,140
+Speaker 1: that is just Lupin, and it is streaming with English subtitles at that time.
+
+88
+00:07:15,360 --> 00:07:16,660
+Speaker 0: Alright, I'll just put that on the calendar.
+
+89
+00:07:18,061 --> 00:07:25,392
+Speaker 1: If you miss it, the archive of the performance will be available between August 12th and August 18th.
+
+90
+00:07:25,872 --> 00:07:31,180
+Speaker 1: And I presume you'll have to pirate it after that point and there'll be no other way to ever see this again in America.
+
+91
+00:07:31,561 --> 00:07:32,066
+Speaker 0: You said it's 8 a.m.
+
+92
+00:07:32,086 --> 00:07:32,489
+Speaker 0: is the time.
+
+93
+00:07:32,530 --> 00:07:33,599
+Speaker 0: I'm trusting you on the...
+
+94
+00:07:33,881 --> 00:07:41,500
+Speaker 1: I mean, the article will tell us and we're going to... Obviously, I'm going to put this in my calendar too because I really want to watch this.
+
+95
+00:07:42,541 --> 00:07:48,172
+Speaker 1: The article I linked to has a sort of trailer and this looks fucking amazing.
+
+96
+00:07:48,313 --> 00:07:54,070
+Speaker 1: And even if it's bad, it's definitely going to be worth it because... How many of you have ever seen kabuki ever?
+
+97
+00:07:54,673 --> 00:07:56,140
+Speaker 1: So you got to see it at least once.
+
+98
+00:07:56,240 --> 00:07:59,130
+Speaker 0: I've only seen, you know, portions, right?
+
+99
+00:07:59,170 --> 00:08:02,100
+Speaker 0: I've never seen like a full kabuki play.
+
+100
+00:08:02,441 --> 00:08:06,980
+Speaker 1: I've seen Rakugo twice and both times it was that same guy who did it in English.
+
+101
+00:08:10,203 --> 00:08:13,760
+Speaker 0: It is going to cost you though like 26 bucks, I guess, to watch it legally.
+
+102
+00:08:15,102 --> 00:08:15,944
+Speaker 1: Yeah, but I'm into it.
+
+103
+00:08:16,446 --> 00:08:17,408
+Speaker 1: I really want to see this.
+
+104
+00:08:17,448 --> 00:08:22,060
+Speaker 1: I've never seen a kabuki play like start to finish in English before in my life.
+
+105
+00:08:23,120 --> 00:08:23,220
+Speaker 0: Nope.
+
+106
+00:08:24,400 --> 00:08:24,895
+Speaker 1: So you got any news?
+
+107
+00:08:26,421 --> 00:08:29,750
+Speaker 0: Yeah, so G-kids is going to do something really interesting.
+
+108
+00:08:29,790 --> 00:08:33,820
+Speaker 0: This is new anime coming called Don Don Don, right?
+
+109
+00:08:34,179 --> 00:08:36,070
+Speaker 0: So it's not Don Don Don.
+
+110
+00:08:36,230 --> 00:08:40,270
+Speaker 0: The third word doesn't have the N. So it's D-A-N-D-A-D-A-N.
+
+111
+00:08:40,633 --> 00:08:41,578
+Speaker 0: Don Don Don.
+
+112
+00:08:43,001 --> 00:08:46,294
+Speaker 0: And it's some sort of sci-fi teen rom-com deal.
+
+113
+00:08:46,535 --> 00:08:47,960
+Speaker 0: It's like a hot anime.
+
+114
+00:08:49,822 --> 00:08:51,433
+Speaker 0: Was it Science Saru or not?
+
+115
+00:08:51,674 --> 00:08:52,580
+Speaker 0: I'm trying to remember.
+
+116
+00:08:52,660 --> 00:08:55,860
+Speaker 1: The character designs look like a bunch of other shows I've seen recently.
+
+117
+00:08:57,561 --> 00:08:59,609
+Speaker 0: Let me just look up one second.
+
+118
+00:08:59,689 --> 00:09:02,420
+Speaker 0: But it's one of the hot new shows coming.
+
+119
+00:09:04,825 --> 00:09:05,594
+Speaker 0: It is Science Saru.
+
+120
+00:09:05,715 --> 00:09:06,140
+Speaker 0: I was correct.
+
+121
+00:09:07,623 --> 00:09:09,579
+Speaker 0: And so yeah, of course we're going to be watching this anime.
+
+122
+00:09:09,740 --> 00:09:09,978
+Speaker 0: Oh yeah.
+
+123
+00:09:11,261 --> 00:09:19,837
+Speaker 0: But G-kids, who licensed it in the US, is doing something new and interesting that might have been done before.
+
+124
+00:09:19,877 --> 00:09:21,079
+Speaker 0: that I just wasn't aware of.
+
+125
+00:09:22,187 --> 00:09:23,640
+Speaker 0: But it hasn't been done that often.
+
+126
+00:09:24,260 --> 00:09:31,660
+Speaker 0: And that is they are going to take the first three episodes of this show and they will put them in the movie theater to watch.
+
+127
+00:09:31,740 --> 00:09:35,540
+Speaker 0: So you can go to the movie theater and watch the first three episodes on the big screen.
+
+128
+00:09:36,482 --> 00:09:39,999
+Speaker 0: And then you can go home on Netflix and watch the rest of the show.
+
+129
+00:09:40,563 --> 00:09:41,840
+Speaker 1: I think this is brilliant.
+
+130
+00:09:43,564 --> 00:09:47,816
+Speaker 0: I mean, at least it's unique and new and it's trying something.
+
+131
+00:09:47,876 --> 00:09:49,160
+Speaker 0: I don't know if it's brilliant.
+
+132
+00:09:50,146 --> 00:09:51,219
+Speaker 0: I guess it can't hurt.
+
+133
+00:09:51,940 --> 00:10:05,460
+Speaker 1: I mean, I'm interested in it partly because a thing that I know companies are struggling with generally, not just anime but everywhere, is getting someone to even watch any amount of a show to even decide if they like it or not.
+
+134
+00:10:05,940 --> 00:10:08,019
+Speaker 1: Discoverability is at an all-time low in all media.
+
+135
+00:10:08,720 --> 00:10:13,240
+Speaker 1: So this is a way to get a bunch of people to see it at the same time, I think.
+
+136
+00:10:13,884 --> 00:10:15,800
+Speaker 1: And then that might give it a little boost.
+
+137
+00:10:16,161 --> 00:10:19,940
+Speaker 1: Most shows I watch these days are because other people I trust are talking about them.
+
+138
+00:10:20,240 --> 00:10:27,840
+Speaker 1: That's almost the only inducement I have to watch a show is other people I trust are talking about it positively.
+
+139
+00:10:29,168 --> 00:10:29,920
+Speaker 0: That is a good point.
+
+140
+00:10:30,280 --> 00:10:42,460
+Speaker 0: Marketing-wise, it may result in a lot of people starting the show at the same time as opposed to "I'll get around to it whenever" and thus creating the buzz at the same time.
+
+141
+00:10:44,821 --> 00:10:50,600
+Speaker 1: No one's talking about Oku except you when I talk to you, but everyone I know is talking about Dungeon Meshi.
+
+142
+00:10:52,964 --> 00:10:55,559
+Speaker 0: But Dungeon Meshi didn't do this and that's also a Netflix anime.
+
+143
+00:10:56,520 --> 00:11:01,940
+Speaker 1: I think it's basically the hottest non-Shonen fighting anime that's out there right now in America.
+
+144
+00:11:02,220 --> 00:11:03,684
+Speaker 0: It's really just a question of.
+
+145
+00:11:04,306 --> 00:11:09,340
+Speaker 0: I guess they'll make money selling tickets because it probably doesn't cost them very much.
+
+146
+00:11:10,385 --> 00:11:13,480
+Speaker 0: How much money do they make from Netflix views?
+
+147
+00:11:15,143 --> 00:11:16,799
+Speaker 0: So that's a benefit for them.
+
+148
+00:11:19,121 --> 00:11:24,240
+Speaker 0: But yeah, we'll see how this goes and I guess we don't really have any way to gauge the success.
+
+149
+00:11:24,882 --> 00:11:27,340
+Speaker 0: Well, no box office receipts I guess if it's in a theater.
+
+150
+00:11:27,921 --> 00:11:33,260
+Speaker 0: There'll be some number published and then we'll really know if they do it again.
+
+151
+00:11:33,541 --> 00:11:39,860
+Speaker 0: If they do it again, that means it must have worked or they're trying to test it again at least.
+
+152
+00:11:40,000 --> 00:11:44,600
+Speaker 0: But if they start doing it all the time, then it must be benefiting them in some way.
+
+153
+00:11:44,860 --> 00:11:52,340
+Speaker 1: Yeah, because I think back to RIT anime and a big part of what I think was the successful format of that anime club that we ran.
+
+154
+00:11:52,721 --> 00:11:53,949
+Speaker 1: And we didn't come up with this format.
+
+155
+00:11:53,969 --> 00:11:55,740
+Speaker 1: This format predated us by like a decade.
+
+156
+00:11:56,141 --> 00:12:01,900
+Speaker 1: But the format was always they'd pick a show and they'd show you the first four episodes of it.
+
+157
+00:12:02,502 --> 00:12:06,079
+Speaker 1: And that's usually, you know, we've talked about this on Geek Nights for 18 years now.
+
+158
+00:12:06,800 --> 00:12:12,099
+Speaker 1: Four episodes of an anime is 99% of the time enough information to know if you like it or not.
+
+159
+00:12:13,260 --> 00:12:15,708
+Speaker 0: Yeah, but this is sort of backwards, right?
+
+160
+00:12:15,728 --> 00:12:19,220
+Speaker 0: You're not getting a free trial and then based on the free trial of four episodes.
+
+161
+00:12:19,220 --> 00:12:24,660
+Speaker 1: Anime club was, well I guess you could come to anime shining free, but to be a member of the club you had to pay.
+
+162
+00:12:25,422 --> 00:12:28,729
+Speaker 0: Right, but this is, you know, that was like a free trial.
+
+163
+00:12:28,789 --> 00:12:33,759
+Speaker 0: Four episodes, then you decide do I want to buy DVDs, do I want to go download it, do whatever.
+
+164
+00:12:34,500 --> 00:12:41,780
+Speaker 0: This is, do you want to pay a whole month's worth of Netflix for a movie theater ticket to watch three episodes?
+
+165
+00:12:42,340 --> 00:12:50,860
+Speaker 0: And then if you want to watch the rest, you have to subscribe to Netflix, the legal method in the US at least, and to watch the rest of it.
+
+166
+00:12:51,181 --> 00:12:55,580
+Speaker 0: Or you could just subscribe to Netflix and watch the whole thing, you just won't see the first three episodes in a theater.
+
+167
+00:12:56,040 --> 00:13:01,078
+Speaker 1: Yeah, but hence the reason I say it's brilliant is simply that they're trying something new that I didn't think of.
+
+168
+00:13:02,660 --> 00:13:03,557
+Speaker 0: Yeah, I mean, you know.
+
+169
+00:13:04,280 --> 00:13:11,000
+Speaker 1: Props to anyone who tries something new because a lot of things we do, the collective we, we do because that's how we've always done them.
+
+170
+00:13:11,940 --> 00:13:15,154
+Speaker 0: Yeah, it's like, you know, am I, you know, am I going to watch this show?
+
+171
+00:13:15,375 --> 00:13:16,500
+Speaker 0: Probably, eventually.
+
+172
+00:13:16,800 --> 00:13:19,435
+Speaker 1: I mean, Science Saru, that puts the odds above 50% by itself.
+
+173
+00:13:20,440 --> 00:13:28,060
+Speaker 0: Yeah, am I going to go to the theater to see the first three episodes when I, you know, have actually a newer TV and sound system now?
+
+174
+00:13:28,320 --> 00:13:32,800
+Speaker 1: I might because I still have not replaced my 2009 slowly dimming TV.
+
+175
+00:13:33,761 --> 00:13:38,280
+Speaker 0: Yeah, maybe, maybe, you know, it's possible that I will go to the theater.
+
+176
+00:13:38,280 --> 00:13:44,700
+Speaker 1: I got to say, being at your apartment the other day, when I got home, I looked at the TVs I was thinking about buying again.
+
+177
+00:13:45,621 --> 00:13:55,300
+Speaker 0: There's a great video actually now I'll send you the link where there's these two TV nerd guys on YouTube that YouTube keeps recommending to me, even though I already bought the TV and I don't need them anymore.
+
+178
+00:13:55,961 --> 00:14:01,420
+Speaker 0: And they went to basically a convention and did a panel just like we would, right?
+
+179
+00:14:01,840 --> 00:14:15,876
+Speaker 0: And their panel was a big room and they had basically a big long table at the front of the room with TVs from all the major brands at the same time with the same footage so that you could see the differences.
+
+180
+00:14:15,956 --> 00:14:19,220
+Speaker 0: and they explain the differences and they aren't salesman for the brands.
+
+181
+00:14:19,280 --> 00:14:30,000
+Speaker 0: They're just YouTube TV review guys who, you know, get YouTube money from people watching them all the time and they're not shilling for any particular brand.
+
+182
+00:14:30,700 --> 00:14:34,820
+Speaker 0: They are fanboys of particular brands, but they aren't paid off.
+
+183
+00:14:36,201 --> 00:14:43,120
+Speaker 1: This gives me a crazy idea, not really an idea, it's more like a vision because this is not something we are going to do and it would be almost impossible to do.
+
+184
+00:14:43,680 --> 00:15:05,320
+Speaker 1: Imagine a convention where the only kinds of panels at it are people who do the equivalent of what we do, like the Remen Scott style, like here's two people who know a lot or at least sound like they know a lot about one thing and they're not trying to sell you anything and they do just like that full on kind of panel, but it's every type of thing like that across all forms of media and entertainment.
+
+185
+00:15:06,863 --> 00:15:08,576
+Speaker 1: I just don't know how many of those people there are out there.
+
+186
+00:15:10,462 --> 00:15:11,014
+Speaker 0: Yeah, I don't know.
+
+187
+00:15:17,621 --> 00:15:20,405
+Speaker 1: So things of the day.
+
+188
+00:15:20,425 --> 00:15:23,069
+Speaker 1: I found this channel and it's pretty funny.
+
+189
+00:15:23,089 --> 00:15:30,360
+Speaker 1: It's a guy who basically does little comedy skits and it's him, he plays himself and he plays his dad and they're Arabic.
+
+190
+00:15:30,760 --> 00:15:33,680
+Speaker 0: That seems to be a very common YouTube thing.
+
+191
+00:15:34,040 --> 00:15:35,912
+Speaker 1: Oh yeah, that's like a genre on YouTube now.
+
+192
+00:15:41,001 --> 00:15:44,786
+Speaker 0: I will be all the characters and I will play usually two, right?
+
+193
+00:15:44,886 --> 00:15:51,415
+Speaker 0: Like there's the lady who is the hirer and the hiree, the employee boss combo, right?
+
+194
+00:15:51,695 --> 00:15:53,718
+Speaker 0: And there's just so many.
+
+195
+00:15:55,681 --> 00:15:57,980
+Speaker 1: But this one actually made me laugh out loud.
+
+196
+00:15:57,980 --> 00:16:00,320
+Speaker 0: Oh, it's the one that plays mom and all the sisters?
+
+197
+00:16:00,681 --> 00:16:02,689
+Speaker 1: Yeah, I know which one you're talking about.
+
+198
+00:16:02,770 --> 00:16:04,697
+Speaker 1: I'm pretty sure I'm subscribed to this one.
+
+199
+00:16:06,260 --> 00:16:12,140
+Speaker 1: So he is basically making fun of the tropes of his Arabic family and his father.
+
+200
+00:16:13,701 --> 00:16:22,500
+Speaker 1: And there's two, I'm going to link to this one and it's a short 54 second comedy skit, but it's worth it because the payout at the end is actually pretty good.
+
+201
+00:16:25,200 --> 00:16:36,540
+Speaker 0: So, you know, I haven't played that much Mario Maker 2, but I've been keeping my eye and still watching and occasionally playing and making some Mario Maker 2 levels since it came out, right?
+
+202
+00:16:36,620 --> 00:16:45,280
+Speaker 0: It's sort of like, you know, this back burner one that I always go back to just a little bit here and there because that's a game that is still going strong.
+
+203
+00:16:45,380 --> 00:16:46,839
+Speaker 0: There's still a big community for it.
+
+204
+00:16:47,383 --> 00:16:50,119
+Speaker 0: If you go on Twitch, it's like, it's up there.
+
+205
+00:16:50,720 --> 00:16:55,880
+Speaker 0: It's obviously not with the Fortnite, but it's like, let me actually see right now on Twitch.
+
+206
+00:16:56,500 --> 00:16:59,659
+Speaker 0: How high does Mario Maker 2 rank in terms of watching?
+
+207
+00:17:02,700 --> 00:17:04,559
+Speaker 0: Oh, sort by viewers high to low.
+
+208
+00:17:06,242 --> 00:17:07,689
+Speaker 0: Is it on the front page?
+
+209
+00:17:07,930 --> 00:17:08,512
+Speaker 0: Okay, it's not.
+
+210
+00:17:08,694 --> 00:17:09,297
+Speaker 0: Or maybe it is.
+
+211
+00:17:09,377 --> 00:17:09,699
+Speaker 0: I don't know.
+
+212
+00:17:12,400 --> 00:17:14,428
+Speaker 1: I don't even have a Twitch account anymore.
+
+213
+00:17:14,489 --> 00:17:17,260
+Speaker 1: Like I just like, I watch SGDQs when they hit YouTube.
+
+214
+00:17:20,720 --> 00:17:30,440
+Speaker 0: Anyway, the point is that it's a game that sort of, you know, never ends because you can keep making more levels and people keep coming up with new, different and creative ideas.
+
+215
+00:17:30,881 --> 00:17:35,600
+Speaker 0: Given that tool set, you think everything had been done, but no, someone always surprises you with some new idea.
+
+216
+00:17:36,221 --> 00:17:38,900
+Speaker 0: This video is a few years old, but I haven't seen it until recently.
+
+217
+00:17:39,421 --> 00:17:47,840
+Speaker 0: Someone managed to figure out how to make a level where you go into a room and if you jump four times, if you jump three times, you're okay.
+
+218
+00:17:47,900 --> 00:17:51,280
+Speaker 0: As soon as you jump a fourth time, you'll die no matter what.
+
+219
+00:17:51,620 --> 00:17:55,011
+Speaker 1: Before I watched the video, I thought, how the fuck would I do that?
+
+220
+00:17:55,031 --> 00:17:57,498
+Speaker 1: Because I've used Mario Maker and I couldn't come up with a way to do it.
+
+221
+00:17:58,381 --> 00:18:02,260
+Speaker 0: In the very first room, they expose the mechanism to you, right?
+
+222
+00:18:02,641 --> 00:18:09,840
+Speaker 0: And that they have, basically there's this rat character in the game who jumps when you jump, right?
+
+223
+00:18:10,401 --> 00:18:18,580
+Speaker 0: We call them the Dormice and they put clouds so that every time you jump, that rat will get, actually will elevate higher, right?
+
+224
+00:18:18,620 --> 00:18:23,800
+Speaker 0: By one level because they'll jump and land on clouds because the clouds, you can go through the bottom, but you can't fall through the top.
+
+225
+00:18:24,481 --> 00:18:33,760
+Speaker 0: And so on the fourth jump, the rat will hit some P switches at the top and the floor in every room is P blocks that will disappear.
+
+226
+00:18:34,721 --> 00:18:43,720
+Speaker 0: And so you won't be able to go in the door to exit the level and you won't be able to stand on anything and you'll die.
+
+227
+00:18:44,086 --> 00:18:44,600
+Speaker 1: It's brilliant.
+
+228
+00:18:45,101 --> 00:18:47,427
+Speaker 0: Yeah, and so it's an excellent level.
+
+229
+00:18:47,467 --> 00:18:52,600
+Speaker 0: The level codes are on the YouTube video description/comments so you can play the level yourself.
+
+230
+00:18:54,240 --> 00:19:00,280
+Speaker 0: But yeah, I just saw this and I was like, oh my god, I haven't seen one that good in quite a while, even though it's a few years old.
+
+231
+00:19:00,360 --> 00:19:02,447
+Speaker 1: That's the thing about Mario Maker and I think you hit the nail on the head.
+
+232
+00:19:02,548 --> 00:19:11,695
+Speaker 1: One thing I like about it is anytime you revisit it and look at what people are doing, you're going to see something that you'd never even conceived would be possible.
+
+233
+00:19:11,715 --> 00:19:13,440
+Speaker 1: Like someone did something crazy with it.
+
+234
+00:19:14,101 --> 00:19:14,281
+Speaker 0: Yep.
+
+235
+00:19:15,885 --> 00:19:22,498
+Speaker 0: I can't wait for Mario Maker 3 to be a Nintendo Next console, whatever it's called, launch title.
+
+236
+00:19:22,518 --> 00:19:23,540
+Speaker 0: Please.
+
+237
+00:19:24,940 --> 00:19:29,750
+Speaker 1: Alright, so we're reviewing the anime of Oku, The Inner Chambers.
+
+238
+00:19:29,831 --> 00:19:34,180
+Speaker 1: Now, I have a copy of the first volume of this manga that I'm pretty sure I got from you.
+
+239
+00:19:34,901 --> 00:19:35,699
+Speaker 0: Oh good, you can have that.
+
+240
+00:19:36,060 --> 00:19:37,159
+Speaker 1: I was about to say, do you want it back?
+
+241
+00:19:37,701 --> 00:19:45,260
+Speaker 0: There was a manga book club in New York that was very short lived, but I went to all single digit of its meetings.
+
+242
+00:19:45,820 --> 00:19:47,544
+Speaker 0: And that was like one of the selections.
+
+243
+00:19:47,704 --> 00:19:55,020
+Speaker 0: And so it was a book that I had seen on the shelves and had definitely looked different from the other mangas.
+
+244
+00:19:55,821 --> 00:19:57,966
+Speaker 1: It stood out and I remembered what it was.
+
+245
+00:19:57,986 --> 00:20:00,673
+Speaker 1: And every time I saw it around, I'd always be like, oh, that's that thing.
+
+246
+00:20:01,074 --> 00:20:03,520
+Speaker 1: But I never opened it or looked into what it was.
+
+247
+00:20:04,021 --> 00:20:07,851
+Speaker 0: Yeah, I didn't know what it was about until it was selected by that manga club.
+
+248
+00:20:08,052 --> 00:20:10,980
+Speaker 0: And then I read that first volume for that club.
+
+249
+00:20:11,100 --> 00:20:13,487
+Speaker 0: And I was like, oh, that's some good shit.
+
+250
+00:20:13,587 --> 00:20:17,900
+Speaker 0: But I didn't read that many volumes because there were a lot of them.
+
+251
+00:20:18,100 --> 00:20:19,344
+Speaker 1: There are 19 of them.
+
+252
+00:20:19,424 --> 00:20:25,040
+Speaker 1: This manga ran from 2004 to 2020.
+
+253
+00:20:25,040 --> 00:20:25,161
+Speaker 0: Yeah.
+
+254
+00:20:25,462 --> 00:20:27,372
+Speaker 0: So it's not like one piece when I say many.
+
+255
+00:20:27,513 --> 00:20:28,820
+Speaker 0: That's definitely a manageable number.
+
+256
+00:20:29,041 --> 00:20:29,944
+Speaker 1: One Piece is beyond many.
+
+257
+00:20:30,044 --> 00:20:32,072
+Speaker 1: One Piece is an unmanageable.
+
+258
+00:20:32,554 --> 00:20:34,120
+Speaker 1: One Piece is a lifestyle at this point.
+
+259
+00:20:34,900 --> 00:20:35,141
+Speaker 0: Pretty much.
+
+260
+00:20:35,161 --> 00:20:38,737
+Speaker 0: I mean, it's the most popular comic in the world ever.
+
+261
+00:20:38,998 --> 00:20:39,340
+Speaker 0: Period.
+
+262
+00:20:40,120 --> 00:20:45,749
+Speaker 0: Superman, Spider-Man, Batman, Dragon Balls.
+
+263
+00:20:46,070 --> 00:20:51,418
+Speaker 0: Any comic, manga, any, you know, Tintin.
+
+264
+00:20:51,478 --> 00:20:52,500
+Speaker 0: It's like anything.
+
+265
+00:20:53,302 --> 00:20:54,967
+Speaker 0: One Piece is number one.
+
+266
+00:20:55,287 --> 00:20:55,729
+Speaker 0: Period.
+
+267
+00:20:55,889 --> 00:20:56,090
+Speaker 0: Ever.
+
+268
+00:20:56,491 --> 00:20:59,940
+Speaker 0: In all of human history, it is the biggest comic that has ever existed.
+
+269
+00:21:00,300 --> 00:21:02,305
+Speaker 0: And it's pulling away still.
+
+270
+00:21:02,626 --> 00:21:03,849
+Speaker 0: It hasn't slowed down.
+
+271
+00:21:03,929 --> 00:21:04,571
+Speaker 0: It's still going.
+
+272
+00:21:05,012 --> 00:21:05,272
+Speaker 0: Right?
+
+273
+00:21:05,774 --> 00:21:08,300
+Speaker 0: So it's like the Wayne Gretzky of comics.
+
+274
+00:21:09,701 --> 00:21:15,960
+Speaker 1: So Oku has the manga, which is 19 volumes and ran for almost two decades.
+
+275
+00:21:16,741 --> 00:21:18,365
+Speaker 1: It has a live action film from 2010.
+
+276
+00:21:18,365 --> 00:21:21,973
+Speaker 1: It has a television drama from 2012.
+
+277
+00:21:21,973 --> 00:21:25,941
+Speaker 1: It has another live action film from 2012.
+
+278
+00:21:25,941 --> 00:21:29,491
+Speaker 1: It has another television drama from 2023.
+
+279
+00:21:29,491 --> 00:21:32,820
+Speaker 1: And it has an anime on Netflix from 2023.
+
+280
+00:21:32,820 --> 00:21:36,320
+Speaker 1: That is 10 episodes long and covers a tiny fraction of the manga.
+
+281
+00:21:37,120 --> 00:21:37,301
+Speaker 0: Yep.
+
+282
+00:21:37,581 --> 00:21:42,410
+Speaker 0: So I have read some of the manga and then I forgot most of it.
+
+283
+00:21:43,071 --> 00:21:46,358
+Speaker 0: But then there was the anime on Netflix and I said, "Oh, that thing.
+
+284
+00:21:46,478 --> 00:21:47,239
+Speaker 0: Alright, we're watching
+
+285
+00:21:47,279 --> 00:21:47,460
+Speaker 0: this.".
+
+286
+00:21:47,680 --> 00:21:49,932
+Speaker 0: And so we watched the 10 episodes.
+
+287
+00:21:50,113 --> 00:21:50,716
+Speaker 0: So what?
+
+288
+00:21:52,940 --> 00:21:54,704
+Speaker 1: So there's a lot going on here.
+
+289
+00:21:54,724 --> 00:21:56,589
+Speaker 1: I like it.
+
+290
+00:21:56,890 --> 00:21:57,611
+Speaker 1: Like, it's not bad.
+
+291
+00:21:57,852 --> 00:22:00,739
+Speaker 1: I think it's worth watching if you're into this kind of thing, but it's not for everybody.
+
+292
+00:22:00,819 --> 00:22:01,220
+Speaker 1: Definitely.
+
+293
+00:22:02,661 --> 00:22:11,360
+Speaker 1: But basically, before we get into what it's about, the anime does a thing that is pretty rare, where the first episode is basically more like a movie.
+
+294
+00:22:11,860 --> 00:22:13,346
+Speaker 1: Like, it sets the stage.
+
+295
+00:22:13,427 --> 00:22:15,696
+Speaker 1: It's like a complete story-ish start to finish.
+
+296
+00:22:15,937 --> 00:22:16,399
+Speaker 1: It's really long.
+
+297
+00:22:16,820 --> 00:22:19,540
+Speaker 0: I think, if I remember correctly, that's what the manga does as well.
+
+298
+00:22:19,660 --> 00:22:19,920
+Speaker 0: Yeah.
+
+299
+00:22:20,521 --> 00:22:33,320
+Speaker 1: But then at the end of the first episode, the shogun, she basically goes to the oldest guy she knows and is like, "I want to see the records that are secret that only I'm allowed to
+
+300
+00:22:33,360 --> 00:22:33,480
+Speaker 1: see.".
+
+301
+00:22:33,500 --> 00:22:33,963
+Speaker 1: And he's like,
+
+302
+00:22:34,407 --> 00:22:34,890
+Speaker 1: "Alright.".
+
+303
+00:22:34,910 --> 00:22:39,569
+Speaker 0: And then episode two- He's like, "I've waited 4,000 years for someone to want to read these.
+
+304
+00:22:39,990 --> 00:22:43,339
+Speaker 0: My whole job has been taking care of these records that no one ever looks
+
+305
+00:22:43,480 --> 00:22:43,520
+Speaker 0: at.".
+
+306
+00:22:43,660 --> 00:22:43,801
+Speaker 0: Yep.
+
+307
+00:22:43,922 --> 00:22:46,019
+Speaker 1: You're the first person to ever want to read this book.
+
+308
+00:22:46,500 --> 00:22:48,153
+Speaker 0: "How long I've waited for this
+
+309
+00:22:48,193 --> 00:22:48,455
+Speaker 0: day.".
+
+310
+00:22:49,200 --> 00:22:56,200
+Speaker 1: And basically, the rest of the anime is a flashback to what is in that book that she's reading.
+
+311
+00:22:57,121 --> 00:22:58,800
+Speaker 0: Yeah, the tablets are scrolls.
+
+312
+00:23:00,681 --> 00:23:04,600
+Speaker 1: But what is it about is also not what I expected.
+
+313
+00:23:05,021 --> 00:23:12,900
+Speaker 0: So it's an alternate history story about basically feudal Japan.
+
+314
+00:23:14,361 --> 00:23:17,065
+Speaker 0: But in this feudal Japan, there is one difference.
+
+315
+00:23:17,786 --> 00:23:27,180
+Speaker 0: And that difference is that there is a horrible disease that they can't really understand because their technology is limited and their understanding of disease is limited.
+
+316
+00:23:27,840 --> 00:23:30,799
+Speaker 0: But the disease only seems to affect men.
+
+317
+00:23:31,222 --> 00:23:32,890
+Speaker 1: Like Why the Last Man style.
+
+318
+00:23:32,930 --> 00:23:34,840
+Speaker 1: Like all the men are dying everywhere in Japan.
+
+319
+00:23:35,481 --> 00:23:35,541
+Speaker 0: Yes.
+
+320
+00:23:35,561 --> 00:23:36,744
+Speaker 0: It's basically Why the Last Man.
+
+321
+00:23:36,824 --> 00:23:38,448
+Speaker 0: But it's not literally the last man.
+
+322
+00:23:38,468 --> 00:23:39,792
+Speaker 0: It's just men.
+
+323
+00:23:39,872 --> 00:23:43,000
+Speaker 0: everywhere are dying and they're running out of men.
+
+324
+00:23:43,360 --> 00:23:44,462
+Speaker 0: And there are so few of them.
+
+325
+00:23:44,843 --> 00:23:46,306
+Speaker 0: And now it's mostly women.
+
+326
+00:23:46,727 --> 00:23:53,160
+Speaker 0: And the only dudes left are basically old men who for some reason haven't gotten the disease and became old.
+
+327
+00:23:54,380 --> 00:23:55,402
+Speaker 0: Babies who?
+
+328
+00:23:55,903 --> 00:24:01,313
+Speaker 0: you just had the baby and it's fine, assuming it survived.
+
+329
+00:24:01,554 --> 00:24:03,257
+Speaker 0: How long will it live?
+
+330
+00:24:03,818 --> 00:24:04,820
+Speaker 0: Will it get the disease?
+
+331
+00:24:05,760 --> 00:24:15,800
+Speaker 0: And then the very rare number of middle-aged younger dudes who are somehow still alive but could die at any time.
+
+332
+00:24:17,143 --> 00:24:19,914
+Speaker 1: And this is set during the Tokugawa Shogunate basically.
+
+333
+00:24:20,055 --> 00:24:21,320
+Speaker 1: So that era of Japan.
+
+334
+00:24:23,286 --> 00:24:27,500
+Speaker 0: And it's like, hey, what would be different and the same about those times?
+
+335
+00:24:29,440 --> 00:24:43,260
+Speaker 0: And then what the thing is, it does sort of give you the broader picture, but it's called Oku because it's focusing on a place called the Oku, which is basically a harem of dudes.
+
+336
+00:24:44,062 --> 00:24:45,189
+Speaker 0: Because they ran out of dudes.
+
+337
+00:24:45,631 --> 00:24:47,140
+Speaker 0: So the Shogun is a woman.
+
+338
+00:24:47,521 --> 00:24:56,540
+Speaker 1: So think about the type of period drama where there's a Shogun and then he has his harem in the inner court and all that kind of drama if the lady's intriguing.
+
+339
+00:24:56,960 --> 00:24:59,419
+Speaker 1: Just invert the sexes and that's the show.
+
+340
+00:25:00,140 --> 00:25:02,548
+Speaker 0: Yeah, they're waiting for the Shogun to have a male child.
+
+341
+00:25:02,588 --> 00:25:04,755
+Speaker 0: that lives and doesn't happen.
+
+342
+00:25:04,876 --> 00:25:06,080
+Speaker 0: so they can't find an heir.
+
+343
+00:25:07,021 --> 00:25:13,460
+Speaker 0: So the woman heir has to become the Shogun just like Queen of England or whatever.
+
+344
+00:25:13,520 --> 00:25:17,560
+Speaker 1: And then bit by bit, women take over all of Japanese society.
+
+345
+00:25:18,240 --> 00:25:22,880
+Speaker 0: Yeah, they show them taking over leadership of villages as well in some scenes.
+
+346
+00:25:23,440 --> 00:25:36,700
+Speaker 1: And the cool part, the fascinating part that's fun is that it is written and portrayed such that it could have actually happened because it's sort of set during the period when Japan was super isolationist.
+
+347
+00:25:37,181 --> 00:25:45,980
+Speaker 1: And it even frames that isolationist era as being Japan as a nation hiding the fact that all the men are dying from the outside world.
+
+348
+00:25:47,502 --> 00:25:51,340
+Speaker 1: Because the disease has not spread as far as they know beyond the borders of Japan.
+
+349
+00:25:51,820 --> 00:25:52,201
+Speaker 0: Yeah, they're like.
+
+350
+00:25:52,241 --> 00:25:57,440
+Speaker 0: we can never let foreigners know that we're running out of men because then they'll just conquer us.
+
+351
+00:25:58,120 --> 00:26:02,720
+Speaker 0: So we have to sort of pretend that we have lots of men all the time.
+
+352
+00:26:04,603 --> 00:26:06,250
+Speaker 0: Don't let them come into our cities.
+
+353
+00:26:06,711 --> 00:26:08,680
+Speaker 0: Only let them visit us in this one area.
+
+354
+00:26:10,081 --> 00:26:15,880
+Speaker 1: And the dignitaries that visit have to visit the Oku so that all the people they see are men to kind of trick them.
+
+355
+00:26:16,480 --> 00:26:17,943
+Speaker 0: The Oku is basically the woman.
+
+356
+00:26:17,963 --> 00:26:28,739
+Speaker 0: Shogun keeps a whole harem of dudes around to make babies with but also to present to foreigners and to protect from disease and etc.
+
+357
+00:26:29,982 --> 00:26:37,660
+Speaker 0: And so the story is mostly just focused on what's happening with the Shogun and what's happening in that Oku among those dudes.
+
+358
+00:26:37,880 --> 00:26:45,700
+Speaker 1: And it'll like the show mentions off and on like there'll be broad context of the political situation with the Shogunate and Edo and everything going on outside.
+
+359
+00:26:46,060 --> 00:26:54,800
+Speaker 1: But it's really just a zoomed in like hyper dramatic story of individual people navigating the court intrigue of the Oku.
+
+360
+00:26:55,060 --> 00:26:56,197
+Speaker 1: Like that's what it really is.
+
+361
+00:26:56,741 --> 00:26:57,965
+Speaker 0: The other part is just the setting.
+
+362
+00:26:58,005 --> 00:26:58,747
+Speaker 0: The story is court dealings.
+
+363
+00:27:02,740 --> 00:27:12,659
+Speaker 1: Like episode one, if you watch that and nothing else, you might think, "Ooh, this is about this female Shogun figuring out what's going on and why things are the way they
+
+364
+00:27:12,759 --> 00:27:12,839
+Speaker 1: are.".
+
+365
+00:27:13,180 --> 00:27:20,620
+Speaker 1: But no, the whole rest of the show is really just all these men are having the kind of court drama that women would have in a typical story like this.
+
+366
+00:27:21,141 --> 00:27:27,540
+Speaker 1: And the inversion of the gender roles is a big part of what makes this shine because they kind of fully maximize.
+
+367
+00:27:27,940 --> 00:27:28,860
+Speaker 0: That's sort of the whole point.
+
+368
+00:27:29,280 --> 00:27:30,799
+Speaker 0: Yeah, but they really lean into it.
+
+369
+00:27:30,880 --> 00:27:32,535
+Speaker 0: There's no point to the show if they don't have that.
+
+370
+00:27:34,661 --> 00:27:43,920
+Speaker 1: And I guess what I like about it is that the characters are actually moderately complex, but more importantly, what they do is moderately complex.
+
+371
+00:27:44,841 --> 00:27:50,880
+Speaker 1: It's kind of hard to predict where it's going because the characters do change a lot as it goes on.
+
+372
+00:27:51,421 --> 00:27:56,720
+Speaker 1: Like the young kid who's with the beautiful priest eventually murders that cat and then becomes a warrior.
+
+373
+00:27:57,381 --> 00:28:04,780
+Speaker 1: People change a lot and they sometimes make pragmatic decisions, which in stories like this people often don't make pragmatic decisions.
+
+374
+00:28:04,920 --> 00:28:06,038
+Speaker 1: And I like that aspect of it.
+
+375
+00:28:06,662 --> 00:28:12,120
+Speaker 0: I mean, you have different people with different personalities and different motivations and backstories.
+
+376
+00:28:13,421 --> 00:28:27,100
+Speaker 0: And then people are often doing really extreme things and you might really like or dislike them based on the horrible or not horrible things that they do to each other or even to themselves.
+
+377
+00:28:27,740 --> 00:28:34,420
+Speaker 0: But in the end, they eventually sort of reveal everyone's reasons for doing the things that they do.
+
+378
+00:28:34,600 --> 00:28:40,200
+Speaker 0: And it's like none of the people are truly straight up evil, right?
+
+379
+00:28:40,640 --> 00:28:42,958
+Speaker 0: I mean, some of them are evil because they're still doing evil shit.
+
+380
+00:28:43,580 --> 00:28:51,999
+Speaker 1: The closest to evil, I would say, of the major characters is what's-her-name, the woman who sets it all up and is sort of like the Vizier.
+
+381
+00:28:52,382 --> 00:28:53,160
+Speaker 0: Exactly, right.
+
+382
+00:28:53,320 --> 00:29:00,700
+Speaker 1: She is bad and she is trying to solve a very different problem from what literally everyone else is trying to do.
+
+383
+00:29:01,463 --> 00:29:05,660
+Speaker 0: Right, it's like the whole show, the whole first arc at least, right?
+
+384
+00:29:05,760 --> 00:29:12,880
+Speaker 0: This woman who's like the old granny of the Oku who's sort of secretly controlling everything like an evil Vizier or whatever.
+
+385
+00:29:13,040 --> 00:29:22,300
+Speaker 1: And she's obsessed with the blood of the Shogun and trying to bring the male heir back and keep society exactly under this military dictatorship.
+
+386
+00:29:23,442 --> 00:29:26,399
+Speaker 1: And she basically ruins the lives of everyone around her by doing this.
+
+387
+00:29:27,085 --> 00:29:28,920
+Speaker 0: Yep, and she keeps doing all this evil shit.
+
+388
+00:29:29,120 --> 00:29:35,140
+Speaker 0: But then at the end, or close to the end, I guess spoilers, it's revealed.
+
+389
+00:29:36,201 --> 00:29:43,480
+Speaker 0: She's basically like, "Look, the reason I'm doing all this evil shit to make sure that all this happens is because we got to avoid
+
+390
+00:29:43,500 --> 00:29:43,640
+Speaker 0: war.".
+
+391
+00:29:44,922 --> 00:29:46,193
+Speaker 0: She's like, "Look what happened
+
+392
+00:29:46,234 --> 00:29:46,597
+Speaker 0: before.".
+
+393
+00:29:47,261 --> 00:29:54,020
+Speaker 0: She's old, she lived through the era where all these different warlords are just battling each other like it's freaking a game of samurai swords.
+
+394
+00:29:54,561 --> 00:30:04,619
+Speaker 0: And she's like, "Since the disease came along and whatnot and we've been keeping the status quo and keeping a Shogun on the throne, we've been able to avoid
+
+395
+00:30:04,679 --> 00:30:04,859
+Speaker 0: that.".
+
+396
+00:30:05,300 --> 00:30:11,036
+Speaker 0: And she's like, "I don't care if I had to fuck up the lives of some monk or murder some kid or force people to
+
+397
+00:30:11,297 --> 00:30:11,537
+Speaker 0: fuck.".
+
+398
+00:30:12,560 --> 00:30:16,257
+Speaker 0: She's like, "That is nothing compared to avoiding a whole ass
+
+399
+00:30:16,297 --> 00:30:16,498
+Speaker 0: war.".
+
+400
+00:30:17,183 --> 00:30:17,930
+Speaker 0: And it's like, "Well,
+
+401
+00:30:18,252 --> 00:30:18,555
+Speaker 0: dammit.".
+
+402
+00:30:19,161 --> 00:30:20,834
+Speaker 0: Everyone's sort of like, "Well, I guess you're right,
+
+403
+00:30:20,895 --> 00:30:21,238
+Speaker 0: granny.".
+
+404
+00:30:21,640 --> 00:30:27,620
+Speaker 1: Yeah, with the caveat of that was the rationale of the Shogunates, which really, they were just military dictatorships.
+
+405
+00:30:28,660 --> 00:30:29,262
+Speaker 0: Obvious, yes.
+
+406
+00:30:29,563 --> 00:30:34,459
+Speaker 0: But within the context of the show, the people are saying, "I guess you're right,
+
+407
+00:30:34,499 --> 00:30:34,780
+Speaker 0: granny.".
+
+408
+00:30:34,820 --> 00:30:37,219
+Speaker 0: That doesn't mean that the real-life granny was right.
+
+409
+00:30:37,820 --> 00:30:38,182
+Speaker 1: Yeah.
+
+410
+00:30:38,904 --> 00:30:43,520
+Speaker 1: Well, she's also, she's like, cruel for no reason sometimes.
+
+411
+00:30:44,140 --> 00:30:48,620
+Speaker 0: She could've, it's like, if you really think about it, it's like, you could've gotten the job done without the cruelty.
+
+412
+00:30:48,880 --> 00:30:49,181
+Speaker 1: Oh, yeah.
+
+413
+00:30:49,742 --> 00:31:01,260
+Speaker 1: Especially considering all the characters around her are usually finding much more nuanced ways to solve their problems, even though their problems are way more deadly to them.
+
+414
+00:31:03,101 --> 00:31:08,500
+Speaker 0: I mean, you could try to say some interpretation, like, "Well, she's old school, she doesn't know a newer, better way to do
+
+415
+00:31:08,520 --> 00:31:08,560
+Speaker 0: it.".
+
+416
+00:31:08,600 --> 00:31:10,304
+Speaker 1: I think that actually is a big interpretation.
+
+417
+00:31:10,344 --> 00:31:17,220
+Speaker 1: Like, she represents the old male-dominated order, and basically everyone else is just trying to navigate the world they're presented with.
+
+418
+00:31:17,520 --> 00:31:31,180
+Speaker 1: And she's trying to cling to an old world instead of transparently adapting to the new world, which might still have involved a conspiracy with the outside world, but she didn't need to kill that many people and fuck up that many lives along the way.
+
+419
+00:31:32,040 --> 00:31:33,160
+Speaker 0: She did not need to do that.
+
+420
+00:31:35,781 --> 00:31:47,280
+Speaker 0: But yeah, there's a lot of romance going on, obviously, between the Shogun and different dudes, and, you know, romantic tensions between people and whatnot in their situations.
+
+421
+00:31:48,561 --> 00:31:56,260
+Speaker 0: Being able to be together, not being able to be together, having to follow formal procedures, you know, and whatnot.
+
+422
+00:31:58,701 --> 00:32:00,946
+Speaker 0: People in the Oku don't really have their freedom, right?
+
+423
+00:32:00,986 --> 00:32:02,689
+Speaker 0: It's like they're basically prisoner dudes.
+
+424
+00:32:03,451 --> 00:32:06,998
+Speaker 0: They can't leave against their will.
+
+425
+00:32:07,038 --> 00:32:08,160
+Speaker 0: They're not happy about that.
+
+426
+00:32:08,440 --> 00:32:13,420
+Speaker 1: But some of them end up being okay with it because of the way they change it in some cases.
+
+427
+00:32:14,020 --> 00:32:22,140
+Speaker 1: There's definitely an arc where, over time, it's obvious that the people in the Oku eventually begin wielding the real power of the state later, but not initially.
+
+428
+00:32:22,240 --> 00:32:24,199
+Speaker 1: Initially, they're basically just figureheads and puppets.
+
+429
+00:32:24,881 --> 00:32:35,780
+Speaker 0: And also, you know, this first arc is like, you know, the current Shogun is trying to figure out the history, and she's reading basically the story of the first Shogun with the first Oku.
+
+430
+00:32:36,100 --> 00:32:41,720
+Speaker 0: And then if you were to read the manga and get the whole story, it goes Shogun by Shogun, and those are the arcs, right?
+
+431
+00:32:41,760 --> 00:32:45,519
+Speaker 0: It's like, all right, time for the second Shogun, who is the child of the first one, right?
+
+432
+00:32:46,520 --> 00:32:47,827
+Speaker 0: First woman Shogun, right?
+
+433
+00:32:47,847 --> 00:32:50,420
+Speaker 0: It doesn't tell the stories about the dude Shoguns of the past, right?
+
+434
+00:32:50,861 --> 00:32:59,560
+Speaker 0: And each one, and it shows, you know, how the first arc here that you're going to see on Netflix is showing you how the Oku was formed from nothing, basically.
+
+435
+00:33:00,421 --> 00:33:07,860
+Speaker 0: And then as you go on to the later arcs, the Oku is like established and has, you know, its way of being.
+
+436
+00:33:08,421 --> 00:33:14,780
+Speaker 0: And that becomes the tradition and evolves into the Oku that the Shogun of the first episode inherited.
+
+437
+00:33:15,683 --> 00:33:21,360
+Speaker 1: Well, like, you see, here is a tradition, and it's weird, and like, that's just the way things are done.
+
+438
+00:33:21,460 --> 00:33:26,560
+Speaker 1: And then in the flashbacks, you see, like, literally the exact incident that led to that tradition.
+
+439
+00:33:28,102 --> 00:33:31,760
+Speaker 1: The beheading of the first person to have sex with the Shogun, like, that whole thing is one of the examples.
+
+440
+00:33:32,464 --> 00:33:33,278
+Speaker 0: That's the biggest one.
+
+441
+00:33:34,443 --> 00:33:41,920
+Speaker 0: But it has the typical- There's plenty of things where it shows you something of the cart, the present, and it's like, how did things get that way?
+
+442
+00:33:42,241 --> 00:33:45,218
+Speaker 0: And then it's like, here's how things got that way, oh.
+
+443
+00:33:46,060 --> 00:33:49,700
+Speaker 1: But I think the show does a good job of showing rather than telling.
+
+444
+00:33:50,641 --> 00:34:04,940
+Speaker 1: Because for a show based on a manga that is mostly just beautiful people standing there talking to each other, the anime actually is animated pretty well and keeps things moving, and it isn't just people standing there talking to each other the whole time.
+
+445
+00:34:06,421 --> 00:34:13,620
+Speaker 0: I don't know about the difficulty of animating it, considering, you know, so many computers and not a lot of action scenes.
+
+446
+00:34:14,199 --> 00:34:15,485
+Speaker 0: It's like, things don't move a lot.
+
+447
+00:34:16,370 --> 00:34:18,400
+Speaker 0: It's people sitting, people standing.
+
+448
+00:34:20,342 --> 00:34:23,820
+Speaker 1: I'd say the show is carried by the quality of the voice acting more than anything.
+
+449
+00:34:24,260 --> 00:34:33,060
+Speaker 0: Yeah, the voice acting, but also, even though there's not a lot of movement that's happening, it's a lot of illustration, right?
+
+450
+00:34:33,080 --> 00:34:37,899
+Speaker 0: Because they have to illustrate buildings, scenes, clothing.
+
+451
+00:34:39,280 --> 00:34:46,637
+Speaker 1: The setting of the oku is so well defined, and there's a lot of subtle detail that the characters interact with.
+
+452
+00:34:46,838 --> 00:34:50,679
+Speaker 1: that's never called out, and I think that is the strongest aspect of this show for me.
+
+453
+00:34:51,400 --> 00:34:57,820
+Speaker 1: It's got all the period things of that era of Japan just there, and as far as I know, relatively accurate.
+
+454
+00:34:58,381 --> 00:35:05,557
+Speaker 1: And like the furniture, and the screens, and all that kind of stuff, and the characters interact with the stuff all the time, and they're plot points, but they're never called out.
+
+455
+00:35:05,598 --> 00:35:06,179
+Speaker 1: They're just there.
+
+456
+00:35:08,962 --> 00:35:11,632
+Speaker 1: So yeah, I'd say it's worth watching.
+
+457
+00:35:11,653 --> 00:35:13,600
+Speaker 1: It's on Netflix if you've got Netflix.
+
+458
+00:35:13,800 --> 00:35:22,260
+Speaker 0: The people who like, you know, a gender, I guess it's not, you know, it's not too gender bendy, or twisty, or changey.
+
+459
+00:35:22,320 --> 00:35:25,933
+Speaker 0: At least not, you know, there haven't been trans people or gay people.
+
+460
+00:35:27,680 --> 00:35:31,939
+Speaker 1: There's a lot of LGBT representation that one couldn't have hoped from something like this.
+
+461
+00:35:33,362 --> 00:35:36,780
+Speaker 0: There might be in a later part, but there isn't in the parts that I've seen.
+
+462
+00:35:37,000 --> 00:35:40,620
+Speaker 1: Yeah, it mostly only focuses on the flipped binary.
+
+463
+00:35:41,360 --> 00:35:41,781
+Speaker 0: Yeah.
+
+464
+00:35:44,085 --> 00:35:51,659
+Speaker 0: It's like, you know, it takes some of the, you know, typically male traits and flips them over backwards and forwards, just like Why the Last Man does.
+
+465
+00:35:52,680 --> 00:35:54,559
+Speaker 0: I don't know which came first.
+
+466
+00:35:56,502 --> 00:36:01,020
+Speaker 1: But like, you get the, like the men in the harem in the later, like the first episode.
+
+467
+00:36:01,401 --> 00:36:06,740
+Speaker 1: They're all like fighting with each other over petty nonsense and doing all the stuff that you expect from harem dramas.
+
+468
+00:36:07,200 --> 00:36:19,480
+Speaker 1: And it's just, it's dudes doing it, and they're kind of doing it exactly, like, it very clearly has this undercurrent of, if you flip the gender roles of a society just one for one, they're the same either way.
+
+469
+00:36:19,601 --> 00:36:21,954
+Speaker 1: Like, there's nothing to do with the underlying people.
+
+470
+00:36:21,975 --> 00:36:22,900
+Speaker 1: It's just a circumstance.
+
+471
+00:36:27,002 --> 00:36:29,370
+Speaker 1: This has been Geek Nights with Rim and Scott.
+
+472
+00:36:29,431 --> 00:36:31,940
+Speaker 1: Special thanks to DJ Pretzel for the opening theme.
+
+473
+00:36:32,140 --> 00:36:38,160
+Speaker 0: Be sure to visit our website at FrontRowClue.com for show notes, discussion, links, and more.
+
+474
+00:36:38,660 --> 00:36:41,325
+Speaker 1: Remember, Geek Nights is not one, but four different shows.
+
+475
+00:36:41,625 --> 00:36:43,288
+Speaker 1: Mondays are science and technology.
+
+476
+00:36:43,328 --> 00:36:45,071
+Speaker 1: Tuesdays, gaming and games.
+
+477
+00:36:45,192 --> 00:36:47,015
+Speaker 1: Wednesdays are animation and comics.
+
+478
+00:36:47,336 --> 00:36:49,820
+Speaker 1: Thursdays are arbitrary and indiscriminate.
+
+479
+00:36:50,500 --> 00:36:55,320
+Speaker 1: Geek Nights is distributed under a Creative Commons Attribution 4.0 International License.
+
+480
+00:36:55,841 --> 00:37:00,191
+Speaker 0: Geek Nights is recorded live with no studio and no audience.
+
+481
+00:37:00,672 --> 00:37:04,140
+Speaker 0: But unlike those other late shows, it's actually recorded at night.
+
+482
+00:37:04,620 --> 00:37:20,620
+Speaker 1: And your picture on Patrons for this July 3rd episode of the Geek Nights Podcast are Alan Joyce, Link Pidgeon, Miller, The Tenderberry, Casey Tare, Mix of Music, Chris The Dot, Chris Ford, Clinton Walton, Finn, Joel Hayes, Penny Rymer, Rebecca Dunn, Sam Erickson, Shervin Von Hurl, and a bunch of people who do not want me to say their names.
+
+483
+00:37:21,181 --> 00:37:27,656
+Speaker 1: Tonight, on this 4th of July Eve, I leave you with...
+

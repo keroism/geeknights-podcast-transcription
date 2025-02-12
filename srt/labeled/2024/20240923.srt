@@ -1,0 +1,2416 @@
+1
+00:00:08,540 --> 00:00:10,208
+Rym: It's Monday, September 23rd, 2024.
+
+2
+00:00:10,208 --> 00:00:10,409
+Rym: I'm Rem.
+
+3
+00:00:13,901 --> 00:00:14,460
+Scott: And I'm Scott.
+
+4
+00:00:14,620 --> 00:00:15,765
+Rym: And this is GeekNights!
+
+5
+00:00:15,805 --> 00:00:19,380
+Rym: Tonight we're talking about web trackers and web analytics and all that evil crap.
+
+6
+00:00:19,980 --> 00:00:20,999
+Scott: Let's do this!
+
+7
+00:00:21,860 --> 00:00:45,557
+Rym: So, uh, while back, you may remember, I think we talked about it a little bit on GeekNights, but there were a series, over several months, there were a series of articles and follow-ups that were kind of vague, uh, unless you actually just read the official statements from Intel, which were actually very straightforward, but, uh, around instability in current generation i7 and i9 chips and only those chips.
+
+8
+00:00:47,381 --> 00:00:52,480
+Rym: And the discourse around this was fractured, like, wildly.
+
+9
+00:00:53,020 --> 00:01:03,480
+Rym: Like, on one side you had people who are, shall I say, very charitably, fans of AMD, who were kind of just making stuff up about the problem that was actually happening.
+
+10
+00:01:03,983 --> 00:01:16,377
+Rym: But then on the other side of the chain, like the other side of the discourse, you had people who I would charitably say are Intel fanboys who were trying to argue there is literally nothing wrong and you're all making this stuff up.
+
+11
+00:01:17,320 --> 00:01:17,692
+Rym: Like, both sides.
+
+12
+00:01:18,640 --> 00:01:19,799
+Rym: Yeah, there was definitely something wrong.
+
+13
+00:01:20,440 --> 00:01:30,580
+Scott: It's something wrong, but it's a very specific and narrow something wrong that only happens in some cases, but it's a very bad thing that happens in those cases.
+
+14
+00:01:30,821 --> 00:01:36,380
+Scott: And even though it's a specific thing, it is not that uncommon.
+
+15
+00:01:36,860 --> 00:01:38,319
+Scott: So it's actually an issue.
+
+16
+00:01:39,360 --> 00:01:44,200
+Rym: So, uh, not, I mean, I'm not gonna, this is my, like, open-y bit because I have addressed this in my own world.
+
+17
+00:01:44,362 --> 00:01:45,499
+Rym: So I'm not gonna get into the full news.
+
+18
+00:01:45,620 --> 00:01:46,339
+Rym: I'll link to a thing about it.
+
+19
+00:01:46,360 --> 00:01:51,680
+Rym: But basically, over the course of this, what was determined is that there were multiple things going on.
+
+20
+00:01:51,820 --> 00:01:56,118
+Rym: So the people who said, "Ah, that's just overclockers, like, doing weird
+
+21
+00:01:56,158 --> 00:01:56,540
+Rym: nonsense."
+
+22
+00:01:56,660 --> 00:02:02,360
+Rym: Like, yes, if you overclocked, this problem happened, like, a thousand percent faster and worse.
+
+23
+00:02:03,700 --> 00:02:14,700
+Rym: Two, people were blaming the motherboard manufacturers who have all these, like, automatic overclocking features and, like, your RAM will just be faster, click this button features.
+
+24
+00:02:14,960 --> 00:02:19,220
+Rym: And, yeah, those also made it worse, but weren't the problem.
+
+25
+00:02:19,441 --> 00:02:22,220
+Rym: And also, those things cause other problems.
+
+26
+00:02:22,321 --> 00:02:24,959
+Rym: Like, they're bad, but they weren't the sole cause.
+
+27
+00:02:26,301 --> 00:02:35,951
+Rym: But in the end, the specific issue, which is actually fixed as of today, as of several weeks ago, actually, like, a month ago at this point, the ultimate,
+
+28
+00:02:37,255 --> 00:02:37,957
+Scott: narrowest
+
+29
+00:02:37,997 --> 00:02:50,860
+Rym: specific issue was there was a bug in the microcode of i7s and 99s from the 13th and 14th generation where if you overclocked, you're just fucked and your chip's fucked.
+
+30
+00:02:51,281 --> 00:03:03,000
+Rym: But if you did everything right and didn't overclock at all, complete, like, factory specifications for your motherboard, your chip, your RAM, everything, this would still eventually occur to your chip.
+
+31
+00:03:04,202 --> 00:03:13,140
+Rym: One of the pins would ask for too much power for one part of the chip and that part of the chip would eventually degrade to the point that it would start erroring.
+
+32
+00:03:13,302 --> 00:03:14,219
+Rym: and then the chip is fucked.
+
+33
+00:03:15,206 --> 00:03:15,433
+Scott: Mmm.
+
+34
+00:03:16,262 --> 00:03:32,320
+Rym: And the fix is out, and basically, if you have an Intel chip that's affected and you have any even remotely reasonable motherboard, whatever the current BIOS update is, just fixes this, prevents the problem, total fix, locked in.
+
+35
+00:03:32,320 --> 00:03:34,468
+Scott: What if you had some amount of degradation?
+
+36
+00:03:34,950 --> 00:03:40,699
+Scott: Obviously, the patch will prevent further degradation, but, you know, are you at the point where...
+
+37
+00:03:41,881 --> 00:03:47,860
+Rym: So if you have any detectable degradation, meaning system instability, your chip's fucked.
+
+38
+00:03:48,801 --> 00:03:50,688
+Rym: There's no way back that can't be repaired.
+
+39
+00:03:50,949 --> 00:03:54,240
+Rym: It has physically destroyed itself in a way that cannot be corrected.
+
+40
+00:03:55,182 --> 00:04:00,320
+Rym: Your CPU could never be more stable than it is the day after you install the new microcode.
+
+41
+00:04:01,581 --> 00:04:31,116
+Rym: But Intel, one, contrary to what a lot of AMD people were saying all over the internet, Intel fully admitted the problem, announced every chip that's affected, or even could be affected, has a blanket two-year extension to whatever the warranty was, specifically for this but covering everything, and they are actually working on a tool that you'll be able to run to detect if your chip has any degradation, in which case, they'll also replace it.
+
+42
+00:04:34,863 --> 00:04:34,946
+Rym: Mmm.
+
+43
+00:04:37,083 --> 00:04:55,160
+Rym: Many people who haven't messed with PCs and workstations that much lately may remember that for much of human history, installing BIOS updates, especially big ones that also update things like CPU microcode, was a dicey process, at least for ASUS motherboards.
+
+44
+00:04:55,900 --> 00:04:58,400
+Rym: It's so easy and perfect.
+
+45
+00:04:59,020 --> 00:05:09,719
+Scott: Especially nowadays, a lot of times you can just go to your UEFI, UEFI BIOS, and just it has the capacity to connect to internet, download, and update itself if you tell it to.
+
+46
+00:05:10,420 --> 00:05:20,360
+Rym: But there's a special USB slot on my motherboard, and basically you just put a stick in there that has the update, and you hit a button while the computer's off, and it'll just update itself.
+
+47
+00:05:20,460 --> 00:05:24,060
+Rym: Doesn't even need to boot, doesn't even need components installed.
+
+48
+00:05:24,941 --> 00:05:31,820
+Rym: I think you can even do some of these BIOS updates without having anything plugged in, except obviously...
+
+49
+00:05:32,000 --> 00:05:32,500
+Scott: No electricity.
+
+50
+00:05:33,103 --> 00:05:33,838
+Rym: Well, you need electricity.
+
+51
+00:05:34,680 --> 00:05:37,159
+Scott: Breathe on the computer, breathe the BIOS on to it.
+
+52
+00:05:37,400 --> 00:05:44,659
+Rym: But I powered my system down, I put this USB stick in, I hit a button, and it said the light will look like this, and then it'll look like that, and when it looks like that, you're good.
+
+53
+00:05:45,080 --> 00:05:53,320
+Rym: And it looked like that, I rebooted, and everything was fine, and then I used the Microsoft tool, sorry, the Intel tool, to look at my microcode version.
+
+54
+00:05:53,802 --> 00:05:55,620
+Rym: It was updated, and everything's great.
+
+55
+00:05:55,921 --> 00:05:56,616
+Rym: So I'm good to go.
+
+56
+00:05:59,041 --> 00:06:03,700
+Scott: So yeah, I mean, on the one hand, right, it's like, was that good for Intel?
+
+57
+00:06:04,141 --> 00:06:09,220
+Scott: No, but they handled it pretty much the best way that a company could handle a fuckup.
+
+58
+00:06:09,581 --> 00:06:13,040
+Rym: But they handled it the way all normal companies handle things.
+
+59
+00:06:13,500 --> 00:06:16,400
+Scott: Right, it's like, you fuck up, that's not good, that's a bad sign.
+
+60
+00:06:16,540 --> 00:06:21,680
+Scott: But, once you have fucked up, it's not like you can go back in time and un-fuckup magically, right?
+
+61
+00:06:21,780 --> 00:06:29,135
+Scott: It's like, you have to do some corrective action, so it's like, hey, on the one hand, are you right to criticize them for fucking up?
+
+62
+00:06:29,518 --> 00:06:29,700
+Scott: Yeah.
+
+63
+00:06:30,260 --> 00:06:41,440
+Scott: Are you also right to, but it's like, after that, it's like, well, they band-aided with the correct best, I mean, what are they gonna do, just give out free chips?
+
+64
+00:06:41,943 --> 00:06:42,737
+Scott: It's like, what, I don't know.
+
+65
+00:06:43,141 --> 00:06:45,660
+Scott: You can't really ask for more corrective action.
+
+66
+00:06:45,780 --> 00:06:45,961
+Scott: They
+
+67
+00:06:45,981 --> 00:07:01,360
+Rym: even went so far as to say, if anyone who thinks they were affected by this tried to RMA a chip at any point that could be affected, up until this announcement, and they got rejected, to just do it again, and they'll look at the record, and they're just gonna send you a chip.
+
+68
+00:07:01,480 --> 00:07:14,379
+Rym: Like, they did everything right, and the thing that annoyed me was that if you go to the overclockery parts of the internet, people are just lying and saying that Intel is covering something up and didn't do any of the things they did.
+
+69
+00:07:15,801 --> 00:07:25,908
+Rym: But simultaneously, separate from that, I cannot stress enough, Intel has shit the bed on the business side to a degree that is, like, comical.
+
+70
+00:07:25,989 --> 00:07:30,460
+Rym: This is like explosive into orbit from your bed bedshitting.
+
+71
+00:07:30,960 --> 00:07:38,940
+Scott: Well, I mean, several years ago, they were already having troubles where they'd be like, alright, our next chip's gonna be on the next process of less nanometers.
+
+72
+00:07:39,021 --> 00:07:41,200
+Scott: And they're like, sorry, we gotta delay that one.
+
+73
+00:07:41,560 --> 00:08:03,970
+Scott: Alright, well, it's like they just started bungling years ago, and you could see that bungling happening as they kept delaying new processes and such, and over time, and then that finally has caught up with them in the past one to three years, where it's like, there's differences, but in terms of price performance ratio, AMD is beating them, right?
+
+74
+00:08:04,934 --> 00:08:05,839
+Scott: Apple is beating them.
+
+75
+00:08:06,922 --> 00:08:10,520
+Rym: I mean, Qualcomm is trying to buy them.
+
+76
+00:08:11,040 --> 00:08:31,860
+Scott: Well, that's an untotally confirmed report, but there was a strong rumor swirling on major tech news sources that Qualcomm, who doesn't, you know, you might not know about Qualcomm, but I think nerds know about them, is they make chips, but they don't make CPUs that go in your desktop PC, right?
+
+77
+00:08:31,920 --> 00:08:43,537
+Scott: They make mostly modem-type chips, but they are a huge, huge chip maker, and so it wouldn't be weird for them to buy Intel, though an antitrust of the U.S.
+
+78
+00:08:43,578 --> 00:08:44,140
+Scott: might stop that.
+
+79
+00:08:46,541 --> 00:08:51,000
+Rym: The antitrust hammer of Damocles feels like it's in Biden's hands already.
+
+80
+00:08:52,262 --> 00:08:53,066
+Scott: I mean, the U.K.
+
+81
+00:08:53,146 --> 00:08:55,819
+Scott: already stopped ARM and Nvidia from happening, right?
+
+82
+00:08:55,940 --> 00:08:57,206
+Scott: So I feel like Qualcomm.
+
+83
+00:08:57,266 --> 00:08:59,517
+Scott: Intel is close to that in a way.
+
+84
+00:09:01,662 --> 00:09:02,064
+Scott: But I guess
+
+85
+00:09:02,104 --> 00:09:27,160
+Rym: where I would leave this is Intel has made very bad business decisions and corporate decisions, but even now, today, if I had to build a Nuke workstation and my use case was what it is today, which is run Windows, do a lot of Adobe stuff that's resource-intensive, and play a lot of video games on Steam, I would still go Intel right now, because the hardware is not the problem with Intel.
+
+86
+00:09:27,681 --> 00:09:29,380
+Rym: Every other part of Intel is the problem.
+
+87
+00:09:29,680 --> 00:09:30,958
+Rym: Well, I qualify that.
+
+88
+00:09:31,700 --> 00:09:38,400
+Rym: Long-term, the hardware stack Intel supports is not the future of computing, as it stands today.
+
+89
+00:09:39,320 --> 00:09:42,112
+Scott: You know, if you look, the AMD sort of is, right?
+
+90
+00:09:45,122 --> 00:09:53,657
+Scott: Again, if you look at the price-performance ratios, is getting ahead, but I have this long history of distrust with them, which is unfounded.
+
+91
+00:09:54,480 --> 00:10:07,480
+Rym: Emily and I were helping a friend who has a computer that has some problems, and it's an AMD computer, and I'm not saying AMD was the cause, but, like, four different hardware components failed independently with each other in this fucking computer.
+
+92
+00:10:08,261 --> 00:10:08,502
+Scott: Right.
+
+93
+00:10:09,004 --> 00:10:17,316
+Scott: The point is, is that I'm the person who prioritizes stability, and you might say, "Well, if you prioritize stability, how can you possibly go with Intel, who just had that huge
+
+94
+00:10:17,356 --> 00:10:17,719
+Scott: fuck-up?".
+
+95
+00:10:17,960 --> 00:10:22,580
+Rym: Because that wasn't a fuck-up that even registered in the stock market, and they issued a patch that fixed it immediately.
+
+96
+00:10:22,981 --> 00:10:25,631
+Scott: Well, but that's a fuck-up.
+
+97
+00:10:25,651 --> 00:10:28,060
+Scott: that's only happening for nonsense, over-clocky people.
+
+98
+00:10:28,320 --> 00:10:31,239
+Scott: I wouldn't be buying those ridiculous chips anyway.
+
+99
+00:10:33,160 --> 00:10:55,260
+Scott: But, yeah, I could see, though, as much as today, where I'm still, if I had to spend money on a computer, would still buy an Intel chip today, I could see in a few years, if Intel continues to lag, AMD might pull ahead to the point where the AMD CPU becomes, you know, the choice, even for me, and not just the AMD fanboy.
+
+100
+00:10:55,961 --> 00:10:57,940
+Scott: We're getting close to the edge here, right?
+
+101
+00:10:58,000 --> 00:11:08,140
+Rym: It would be if the sole bastion of workstation usage for consumers is just PC gaming, and basically all creative stuff eventually moves to other platforms.
+
+102
+00:11:08,221 --> 00:11:09,439
+Rym: I could see that definitely happening.
+
+103
+00:11:10,060 --> 00:11:13,537
+Scott: But I would never buy the AMD GPU.
+
+104
+00:11:13,577 --> 00:11:14,140
+Scott: That's not happening.
+
+105
+00:11:14,760 --> 00:11:15,958
+Scott: Not a chance.
+
+106
+00:11:16,420 --> 00:11:20,980
+Rym: But also, I don't like the ecosystem, like the chipsets and all the stuff on the motherboard.
+
+107
+00:11:21,320 --> 00:11:24,000
+Rym: Like, any motherboards have some issues, I've noticed.
+
+108
+00:11:24,100 --> 00:11:34,539
+Rym: And also, now that I've installed some AMD chips, like with the current cooling setup, you know the feeling when you put together a piece of hardware that feels really good, versus it feels a little janky?
+
+109
+00:11:35,780 --> 00:11:39,940
+Rym: The heatsink mounting on AMD's is janky as shit compared to the Intel mount.
+
+110
+00:11:41,584 --> 00:11:42,957
+Rym: Just now that I've experienced it.
+
+111
+00:11:43,920 --> 00:11:45,620
+Scott: There's a reason I bought the Apple computer.
+
+112
+00:11:46,201 --> 00:11:46,282
+Rym: Yep.
+
+113
+00:11:46,485 --> 00:11:47,255
+Rym: But at the same time...
+
+114
+00:11:48,344 --> 00:11:51,600
+Scott: I delayed the purchase of a gaming PC by many years.
+
+115
+00:11:52,561 --> 00:11:56,840
+Scott: I would say, I think in the past you might have heard me say I'll buy an Nvidia 5080.
+
+116
+00:11:56,840 --> 00:11:57,968
+Scott: I think we might be looking at 6080, 7080.
+
+117
+00:11:57,968 --> 00:11:58,271
+Scott: I don't know.
+
+118
+00:11:59,700 --> 00:12:03,060
+Scott: We've got to see when a game comes out that I actually need.
+
+119
+00:12:04,303 --> 00:12:04,444
+Rym: Yep.
+
+120
+00:12:04,484 --> 00:12:11,118
+Rym: I mean, with my current video card, my current workstation, I can't imagine ever needing to upgrade this in the rest of my life.
+
+121
+00:12:12,303 --> 00:12:13,440
+Rym: In a quantum computer?
+
+122
+00:12:14,300 --> 00:12:15,018
+Scott: We'll see what happens.
+
+123
+00:12:15,620 --> 00:12:31,800
+Rym: But the last thing on this I would say is that in my life, what I've seen... Remember, there's always these eras where Intel would be the expensive option, and then AMD would have something that wasn't as stable, but was just way faster per dollar.
+
+124
+00:12:32,460 --> 00:12:40,080
+Rym: But then, partly due to the fact that Intel spent a lot more on R&D, Intel would then surpass AMD by such a ridiculous margin.
+
+125
+00:12:40,584 --> 00:12:47,660
+Rym: And then there'd be another ecosystem for a while, and then Intel would kind of plateau out and then be really expensive for what it is.
+
+126
+00:12:47,740 --> 00:12:48,898
+Rym: Then AMD would shoot past them.
+
+127
+00:12:49,240 --> 00:12:52,919
+Rym: But Intel was always like inexorably coming back and surpassing.
+
+128
+00:12:53,322 --> 00:13:01,780
+Rym: And I don't know if that trend will continue, because that trend, no matter how good you are at technology, you also have to be good at the business to continue a trend like that.
+
+129
+00:13:02,121 --> 00:13:10,000
+Rym: Because that's a trend that requires enormous outlay of R&D money that isn't there if a company is fucking up on basic business stuff.
+
+130
+00:13:10,280 --> 00:13:10,998
+Rym: So yeah, got any news?
+
+131
+00:13:12,662 --> 00:13:13,718
+Rym: It's actually big news.
+
+132
+00:13:14,660 --> 00:13:21,360
+Scott: Yeah, so Microsoft... You know, in recent times, Microsoft has sort of taken a beating on security, right?
+
+133
+00:13:21,480 --> 00:13:25,080
+Scott: They weren't at fault with the, what was it called, the CrowdStrike issue.
+
+134
+00:13:25,602 --> 00:13:28,640
+Scott: But they got entangled with it, obviously.
+
+135
+00:13:29,340 --> 00:13:31,700
+Scott: And it's sort of like, you know, that whole discussion.
+
+136
+00:13:31,781 --> 00:13:33,158
+Scott: But even before then, right?
+
+137
+00:13:33,582 --> 00:13:36,740
+Scott: There's all sorts of questions swirling about Microsoft and security.
+
+138
+00:13:37,040 --> 00:13:42,060
+Scott: It's like, there have been all kinds of Windows vulnerabilities for as long as we can remember.
+
+139
+00:13:42,220 --> 00:13:43,840
+Scott: And they've always had their patch Tuesdays.
+
+140
+00:13:45,084 --> 00:13:46,920
+Scott: It's like, that's sort of been the thing.
+
+141
+00:13:47,480 --> 00:13:54,700
+Scott: You know, they've had this sort of status quo of, yeah, there's always security issues and we're constantly fixing them all the time.
+
+142
+00:13:55,203 --> 00:14:00,940
+Scott: But also, not just the software they sell, but, you know, the company itself, right?
+
+143
+00:14:01,000 --> 00:14:03,080
+Scott: How secure are their operations, right?
+
+144
+00:14:03,100 --> 00:14:05,560
+Scott: They're a very, you know, important company.
+
+145
+00:14:05,681 --> 00:14:10,840
+Scott: If someone can, you know, do anything to Microsoft, they can impact the entire world, right?
+
+146
+00:14:11,161 --> 00:14:19,520
+Scott: So, and considering, especially, you know, the US government and many other companies rely on this Microsoft software, right?
+
+147
+00:14:19,620 --> 00:14:23,699
+Scott: Windows, Office, et cetera, Exchange, right?
+
+148
+00:14:25,481 --> 00:14:31,000
+Scott: Any security vulnerabilities in those are way more devastating than in any other things.
+
+149
+00:14:31,321 --> 00:14:37,479
+Scott: And there's a lot more people in the world trying to, you know, actually maliciously target things.
+
+150
+00:14:37,961 --> 00:14:43,060
+Rym: Like nobody's targeting their malware at Linux on the desktop in the year 2024.
+
+151
+00:14:43,060 --> 00:14:49,100
+Scott: But I'm saying is like, we're seeing a lot more cyber crimes and cyber attacks going on of more serious natures.
+
+152
+00:14:49,843 --> 00:14:59,600
+Scott: So there was a lot of pressure on Microsoft to be like, hey, you know, you've just sort of had this status quo regarding security and it's not good enough, which is, how do we know it's not good enough?
+
+153
+00:14:59,720 --> 00:15:05,240
+Scott: Because for as long as time, people keep adding security products to Windows, right?
+
+154
+00:15:05,601 --> 00:15:07,500
+Scott: Like CrowdStrike, for example, right?
+
+155
+00:15:07,560 --> 00:15:09,099
+Scott: It's like, why was CrowdStrike even there?
+
+156
+00:15:09,220 --> 00:15:13,080
+Scott: It's like, well, because Windows wasn't secure enough and people wanted to monitor.
+
+157
+00:15:13,322 --> 00:15:21,420
+Rym: And one could argue, maybe this is an era, we're in an era where the operating system should itself provide all core security.
+
+158
+00:15:22,900 --> 00:15:33,900
+Scott: But anyway, so since this pressure got put on Microsoft a while ago, the CEO was like, all right, security is now priority number one, right?
+
+159
+00:15:33,960 --> 00:15:37,279
+Scott: We're going to prioritize security ahead of all other things.
+
+160
+00:15:38,422 --> 00:15:41,960
+Scott: And they laid out exactly how they're going to do that.
+
+161
+00:15:42,523 --> 00:15:44,680
+Scott: They showed how they've changed their organization.
+
+162
+00:15:45,021 --> 00:15:48,399
+Scott: They have like a bunch of like, you know, CISOs, right?
+
+163
+00:15:48,800 --> 00:15:55,740
+Scott: Chief Information Security Officer, and they have a bunch of like deputies at their organization and like all the processes they've done.
+
+164
+00:15:56,582 --> 00:16:00,139
+Scott: The Microsoft employees, they're going to have, you know, they got really specific with this.
+
+165
+00:16:00,300 --> 00:16:05,120
+Scott: They're like, yeah, employees at Microsoft, you know, they have their certificates, they're going to expire frequently.
+
+166
+00:16:07,401 --> 00:16:16,980
+Scott: That's how granular they got with this plan here of how to make Microsoft, the company and its products actually secure for one.
+
+167
+00:16:17,420 --> 00:16:20,640
+Rym: So I might be able to shed some light onto why this is happening.
+
+168
+00:16:21,662 --> 00:16:23,700
+Rym: And it's a little bit bigger than just CrowdStrike.
+
+169
+00:16:24,321 --> 00:16:29,320
+Rym: So there's a regulation coming in Europe that goes into effect in January next year.
+
+170
+00:16:29,520 --> 00:16:31,757
+Rym: Like it's now called DORA, D-O-R-A.
+
+171
+00:16:32,761 --> 00:16:34,900
+Rym: And there's similar regulations.
+
+172
+00:16:35,620 --> 00:16:39,400
+Rym: There's all European and United Kingdom regulations that are coming.
+
+173
+00:16:39,600 --> 00:16:39,942
+Rym: Like the U.S.
+
+174
+00:16:39,962 --> 00:16:42,298
+Rym: doesn't have anything like this yet that I'm aware of.
+
+175
+00:16:42,880 --> 00:16:49,520
+Rym: But these regulations basically broadly, I'm not giving anyone advice on how to respond to regulations to be clear.
+
+176
+00:16:50,461 --> 00:17:09,200
+Rym: They broadly say that if you are a regulated entity in Europe, meaning like banks, a lot of financial institutions, then you must look at not just your own operational resilience, but you have to look at third parties you rely on for critical things.
+
+177
+00:17:09,682 --> 00:17:20,000
+Rym: And I would argue and point out that the Microsoft operating system is definitely something that major regulated entities around the world use for very critical activities.
+
+178
+00:17:20,200 --> 00:17:31,140
+Rym: And thus Microsoft will be subject to some amount of scrutiny likely as European entities must then work with auditors to prove their operational resilience, including their relationships with third parties.
+
+179
+00:17:31,661 --> 00:17:36,400
+Rym: So a lot of the world is quietly getting ready to respond to these kinds of regulations.
+
+180
+00:17:36,841 --> 00:17:43,140
+Rym: What's fascinating to me is how few people talk about the regulations except in extremely inside baseball channels.
+
+181
+00:17:43,600 --> 00:17:45,479
+Rym: Like have you heard of DORA or any of this stuff?
+
+182
+00:17:46,474 --> 00:17:46,578
+Scott: No.
+
+183
+00:17:46,920 --> 00:17:48,120
+Scott: Maybe it's just the nature of my work.
+
+184
+00:17:49,160 --> 00:17:59,379
+Scott: It was in May that the CEO said, "Microsoft is overhauling its security processes after a series of high-profile attacks in recent years.
+
+185
+00:17:59,880 --> 00:18:01,219
+Scott: It's now our top priority.
+
+186
+00:18:02,722 --> 00:18:07,786
+Scott: A company outlined today in response to ongoing questions about its security practices and the U.S.
+
+187
+00:18:07,846 --> 00:18:11,394
+Scott: Cyber Safety Review Board's labeling of Microsoft's security culture as
+
+188
+00:18:11,415 --> 00:18:12,140
+Scott: inadequate.".
+
+189
+00:18:13,022 --> 00:18:25,980
+Scott: And so the report they released today is Secure Future Initiative, September 2024 Progress Report, Security Above All Else, I guess Even Stability and Performance.
+
+190
+00:18:26,842 --> 00:18:40,740
+Scott: And then the six initiatives they have are Protect Identities and Secrets, Protect Engineering Systems, Protect Tenants and Isolate Production Systems, Monitor and Detect Threats, Protect Networks, and Accelerate Response and Remediation.
+
+191
+00:18:41,302 --> 00:18:58,480
+Rym: What I would say, in my professional opinion, is that right now, in the world as it is today, chains of trust and security of computing resources that people use are probably more important than every other concern around these technologies right now.
+
+192
+00:18:58,560 --> 00:19:03,200
+Rym: Because if you can't trust the platform, then everything else is fucked at some point.
+
+193
+00:19:03,280 --> 00:19:04,118
+Rym: It's just a matter of when.
+
+194
+00:19:05,020 --> 00:19:19,799
+Rym: And not to go super doom cycle for our future, but if a supply chain attack on technology involves pagers exploding by our radio signal, then security is really important for electronic devices in the modern era.
+
+195
+00:19:22,163 --> 00:19:24,520
+Rym: So some other news, this is a little two-step.
+
+196
+00:19:24,660 --> 00:19:26,119
+Rym: I'm not going to get into the details of both of these.
+
+197
+00:19:26,540 --> 00:19:39,619
+Rym: But news number one, there is a growing web of basically machine learning, algorithmic social media accounts that are all doing the same thing.
+
+198
+00:19:40,120 --> 00:19:52,198
+Rym: And what they're doing is sharing pop culture facts like this album came out on this day and that kind of stuff all over TikTok and Twitter and all these places just to get clicks and drive ad revenue, the typical thing.
+
+199
+00:19:53,240 --> 00:20:07,780
+Rym: But what's fascinating, and the Slate article gets into it, they're all right about broad details but then they'll always be sharing more details that are very specific and are provably wrong.
+
+200
+00:20:08,464 --> 00:20:20,560
+Rym: But they're so prevalent that they're poisoning the well and making it hard for researchers even to confirm things like on what date did this specific album actually come out?
+
+201
+00:20:20,681 --> 00:20:25,499
+Rym: because there'll be a lot of competing sources and a lot of authoritative sources borrow from each other.
+
+202
+00:20:25,860 --> 00:20:37,919
+Rym: A lot of citations end up being circular and official sources for some of this information aren't super widely available or were cited too digital from an analog source at some point.
+
+203
+00:20:38,561 --> 00:20:45,497
+Rym: And this article gets into a little bit about why this is happening and how shockingly pervasive it is.
+
+204
+00:20:47,403 --> 00:21:21,000
+Rym: And this ties with the second article which is talking a lot about how in online communities like not really so much in the places the average geek night's enjoyer might hang out but like the places regular old people hang out on the internet are increasingly being invaded by chatbots that are acting like humans not disclosing what they are and are basically just either milking interaction for some other purpose or talking enough to then sneak an ad in that's very targeted to like one person in a message thread somewhere.
+
+205
+00:21:21,801 --> 00:21:28,180
+Rym: And these two together are just complementing some news I used over the last few GeekDives episodes before the hiatus.
+
+206
+00:21:29,441 --> 00:21:35,439
+Rym: Machine learning garbage slop is infecting the web way faster than any of you are ready for.
+
+207
+00:21:36,306 --> 00:21:40,240
+Rym: And I don't know what to do about it like other than I don't go to those websites.
+
+208
+00:21:41,182 --> 00:21:42,580
+Rym: I don't trust most sources.
+
+209
+00:21:43,526 --> 00:21:48,273
+Rym: I'm at the point to where you can tell like you start to read any text you can almost see.
+
+210
+00:21:48,334 --> 00:22:00,300
+Scott: wait a minute this is AI slop and follow only things that you specifically know and trust and don't follow anything else and don't allow any content you didn't ask for to enter your eyeballs.
+
+211
+00:22:00,400 --> 00:22:08,620
+Rym: But the weirdest thing is the fake facts don't seem like they're up to anything more nefarious than basically just trying to make ad money and engagement.
+
+212
+00:22:09,903 --> 00:22:23,559
+Rym: But the fact that they're spewing these very specific and like slightly wrong details seems to just be because the models are sloppy and they're themselves farming data from places like Reddit where people make shit up all the time.
+
+213
+00:22:26,860 --> 00:22:30,758
+Rym: But anyway Things of the day what do you got?
+
+214
+00:22:31,800 --> 00:22:38,700
+Scott: So there's this uh I saw this animation recently that is made by a person known only as Wigglewood.
+
+215
+00:22:39,184 --> 00:22:58,379
+Scott: they have a YouTube channel that's about a month old and there are three animations on their YouTube channel very short ones like a minute long and they are all done in the style of like DOS adventure game with minimal animation or more like Philips CDI Zelda type animation but actually a little bit better than that but the same aesthetic.
+
+216
+00:23:00,405 --> 00:23:01,479
+Scott: but they are new.
+
+217
+00:23:02,389 --> 00:23:06,899
+Scott: as far as I can tell these are animations that somebody made by hand that are new.
+
+218
+00:23:07,263 --> 00:23:20,330
+Scott: they're not like from a game or anything and they all involve this wizard and two out of the three of them were very funny and the third one was not as funny but two out of three.
+
+219
+00:23:20,351 --> 00:23:21,716
+Scott: that's real good.
+
+220
+00:23:22,545 --> 00:23:26,120
+Rym: I mean if I had a 667 batting average that's phenomenal.
+
+221
+00:23:27,066 --> 00:23:33,678
+Scott: so uh these are a minute long but I've watched the good ones multiple times.
+
+222
+00:23:34,162 --> 00:23:36,320
+Rym: this is good stuff.
+
+223
+00:23:36,381 --> 00:23:36,825
+Scott: so my thing
+
+224
+00:23:38,541 --> 00:24:00,353
+Rym: I made this a thing of the day instead of the news because I don't want to get into the security problem here and I think it's more interesting read this like a story because however bad you think what you're going to learn about like the tiny part of the internet that's holding up the whole rest of the internet is if you read this story you're going to learn that there are so many like.
+
+225
+00:24:00,474 --> 00:24:01,080
+Rym: it is shocking.
+
+226
+00:24:01,161 --> 00:24:02,432
+Rym: the internet even works like.
+
+227
+00:24:02,715 --> 00:24:04,332
+Rym: it's shocking that TLS works.
+
+228
+00:24:04,655 --> 00:24:06,211
+Rym: it's shocking that domains work like.
+
+229
+00:24:06,535 --> 00:24:08,840
+Rym: the fact that any of this shit works is fascinating.
+
+230
+00:24:09,405 --> 00:24:12,880
+Rym: and this the title of this article is from Whois Adventures.
+
+231
+00:24:13,668 --> 00:24:23,551
+Rym: we spent $20 to achieve remote code execution and we accidentally became the admins of the top level domain and that is kind of true.
+
+232
+00:24:24,721 --> 00:24:34,299
+Rym: the broad detail like the way this went down Whois I feel like only turbo nerds.
+
+233
+00:24:35,207 --> 00:24:39,950
+Scott: I did see today there was a story that Google was like we should stop using Whois and I'm like ah.
+
+234
+00:24:39,990 --> 00:24:42,218
+Scott: now I understand why it must be related to this.
+
+235
+00:24:42,764 --> 00:24:48,740
+Rym: Whois is like one of the ancient parts of the internet that is still there.
+
+236
+00:24:48,760 --> 00:24:59,325
+Rym: like you think DNS is old and crufty like Whois is basically a service where you can bring back a string that tells you like some stuff about a domain.
+
+237
+00:25:00,012 --> 00:25:02,073
+Rym: like just a string comes back like I can't.
+
+238
+00:25:02,700 --> 00:25:08,478
+Scott: I don't know why Whois wasn't killed long ago and why it's still like required for all like I can't.
+
+239
+00:25:08,498 --> 00:25:13,677
+Scott: I guess it's partially ICANN's fault like requiring Whois if you don't know what Whois is.
+
+240
+00:25:14,040 --> 00:25:14,666
+Rym: just read about it.
+
+241
+00:25:14,686 --> 00:25:37,312
+Rym: but basically many services leverage Whois for surprising purposes and the .mobi domain at one point changed where their Whois is hosted and they pointed it at a different place and they updated their own like DNS and they updated the places you're supposed to update Whois.
+
+242
+00:25:37,332 --> 00:25:47,470
+Rym: but Whois is basically built on static text files if you go deep enough kind of like how DNS if you go all the way down there's just a static file that says where all the top level servers are.
+
+243
+00:25:47,915 --> 00:25:58,419
+Rym: it's like that and a lot of people just hard code those values in software and in processes because they almost never change.
+
+244
+00:25:59,034 --> 00:26:07,007
+Rym: so as of the writing of this article a shocking number of critical things used the Whois.
+
+245
+00:26:07,047 --> 00:26:25,148
+Rym: that's pointing at the wrong domain for .mobi which was fine until these people bought that expired domain and put a Whois server there to see who queried it found that millions of people were querying it and started fucking with them alright in the meta moment.
+
+246
+00:26:25,310 --> 00:26:31,017
+Rym: probably no geek guides next week because I gotta go to Frankfurt and London for work cause I'm gonna be gone all week.
+
+247
+00:26:32,964 --> 00:26:34,725
+Rym: I'm going to pick good form.
+
+248
+00:26:35,028 --> 00:26:36,119
+Rym: yep it'll be fun.
+
+249
+00:26:36,221 --> 00:26:41,939
+Rym: the sad news is I'm gonna be in Germany in Frankfurt and then right as I leave Frankfurt to go to London.
+
+250
+00:26:42,641 --> 00:26:48,039
+Rym: Spiele starts in Essen and Spiele's only like a three and a half hour train ride from Frankfurt in Essen.
+
+251
+00:26:48,464 --> 00:26:57,168
+Rym: that's closer than I've ever been to Essen but I have to fly from Frankfurt to London just as Spiele is starting cause I don't get to go to Spiele.
+
+252
+00:26:57,188 --> 00:26:59,268
+Scott: that's like when I was just in Seattle right?
+
+253
+00:26:59,752 --> 00:27:11,819
+Scott: I was going to see Night Temple was touring the US and I did see him in Brooklyn but I could have seen him in Seattle and Brooklyn if I had changed my travel plans just a little bit.
+
+254
+00:27:12,041 --> 00:27:14,540
+Scott: I could have seen the same person twice on two sides of the country.
+
+255
+00:27:14,661 --> 00:27:24,220
+Rym: I was about to go to the third PAX Australia cause I went to two of them and I was gonna go to the third one but then a work trip came up so I couldn't and then at the end of the day what ended up happening?
+
+256
+00:27:24,766 --> 00:27:30,056
+Rym: I was in Australia up until the day PAX all started and then I flew away.
+
+257
+00:27:32,423 --> 00:27:35,820
+Rym: I was real mad about that but you can't plan an Australia trip for the last minute.
+
+258
+00:27:35,840 --> 00:27:36,718
+Scott: maybe we should go back.
+
+259
+00:27:38,069 --> 00:27:39,640
+Rym: you didn't even see the new convention center.
+
+260
+00:27:40,341 --> 00:27:41,680
+Rym: we saw it from the outside.
+
+261
+00:27:42,607 --> 00:27:44,180
+Scott: it was there, PAX wasn't in it.
+
+262
+00:27:44,301 --> 00:27:46,299
+Scott: we were like why isn't PAX in this place?
+
+263
+00:27:46,482 --> 00:27:50,379
+Scott: and the answer was it will be it will be, it shall come back in a year.
+
+264
+00:27:50,541 --> 00:28:02,380
+Rym: I will say, now this isn't comprehensive because I haven't been to every convention center but of the convention centers I have been to in my life the best one I have ever set foot in is the new one that PAX West has in Seattle.
+
+265
+00:28:02,887 --> 00:28:08,359
+Rym: the second best one I have ever set foot in is the one in Melbourne that PAX Australia is in.
+
+266
+00:28:09,329 --> 00:28:11,040
+Scott: there's a bunch of major ones I haven't been in though.
+
+267
+00:28:11,040 --> 00:28:13,100
+Scott: I haven't been in the Chicago one or the Vegas one.
+
+268
+00:28:13,523 --> 00:28:15,480
+Scott: these other major ones I haven't checked out.
+
+269
+00:28:15,520 --> 00:28:20,548
+Scott: there was one in Portland that actually had Rose City Comic Con going on.
+
+270
+00:28:20,669 --> 00:28:26,979
+Scott: while I was there I didn't even know until I saw people walking around the street with badges and I'm like those people look like convention people.
+
+271
+00:28:27,423 --> 00:28:35,876
+Scott: and this Japanese restaurant is strangely crowded and I saw their lanyards at Rose City Comic Con.
+
+272
+00:28:35,896 --> 00:28:42,339
+Rym: and I'm like this Japanese restaurant is strangely crowded, is literally like there are weebs about.
+
+273
+00:28:42,984 --> 00:28:52,039
+Scott: they handed me a convention special menu right and I'm like okay, I didn't know that this was here literally the week after PAX.
+
+274
+00:28:52,624 --> 00:29:07,976
+Scott: I didn't go to it, but it actually had a surprisingly big guest lineup of people I knew and it was mostly comics focused, so actually it also though, it seemed like one of those collectee focused cons right?
+
+275
+00:29:09,503 --> 00:29:11,100
+Scott: I looked at the map on their website.
+
+276
+00:29:11,241 --> 00:29:15,779
+Scott: it was mostly a lot of booths and not so much panels and such.
+
+277
+00:29:17,328 --> 00:29:19,339
+Scott: and also I was only in Portland for a few days.
+
+278
+00:29:19,886 --> 00:29:20,920
+Scott: I wasn't going to go to a con.
+
+279
+00:29:21,061 --> 00:29:24,699
+Scott: I could go to New York City Comic Con if I really wanted to, but I don't.
+
+280
+00:29:25,768 --> 00:29:26,339
+Rym: it's right there.
+
+281
+00:29:26,682 --> 00:29:30,095
+Rym: the subway goes straight from our neighborhood to it and we don't go.
+
+282
+00:29:31,085 --> 00:29:38,480
+Scott: but I saw the convention center from the train and also from the road and it was like these three glass tower things.
+
+283
+00:29:38,480 --> 00:29:39,459
+Rym: it actually looked really nice.
+
+284
+00:29:39,520 --> 00:29:42,377
+Rym: I think I know exactly, because I've been to Portland once.
+
+285
+00:29:43,567 --> 00:29:48,179
+Scott: it looked really nice from the outside, these three buildings with glass things on top of them.
+
+286
+00:29:49,024 --> 00:29:50,099
+Scott: who knows what's going on in there?
+
+287
+00:29:50,841 --> 00:29:55,839
+Rym: all I can say is of the ones I've been inside the Pax West one is the best one I've ever been inside of.
+
+288
+00:29:58,251 --> 00:30:04,253
+Rym: alright, so let's get into this because way back we talked about do not track the flag and some very.
+
+289
+00:30:04,820 --> 00:30:17,440
+Scott: I think we may have talked about a lot of these topics in general over the course of time but I think there is a renewed interest in them with lots of developments happening.
+
+290
+00:30:17,480 --> 00:30:31,059
+Rym: I've also become increasingly I guess I would say nakedly adversarial toward a lot of these concepts because I think there are places where this type of telemetry is necessary and good to make the world better.
+
+291
+00:30:31,584 --> 00:30:36,819
+Rym: but I think the practical reality is most uses of it on the public internet are making the world worse.
+
+292
+00:30:37,888 --> 00:30:49,260
+Scott: so the fundamental question is you have a website or an app you have some software and people are using the software and you, the person who makes the software that is an internet software.
+
+293
+00:30:49,983 --> 00:31:01,520
+Scott: you want to know how many people are using it how they're using it and who they are maybe even knowing their specific identities.
+
+294
+00:31:02,148 --> 00:31:12,438
+Scott: you have these questions and you, the person may want to know these things for legitimate reasons questionable reasons or completely illegitimate reasons.
+
+295
+00:31:12,964 --> 00:31:23,225
+Scott: a legitimate reason might be hey I have a software and if it crashes I would like a crash report so that I can fix it and I can't test all the hardware in the known universe.
+
+296
+00:31:23,346 --> 00:31:36,260
+Scott: but if one of my users has a weird hardware and it crashes for them they're sort of giving me testing data with their crash report and that's terrific and we can anonymize the crash report and they don't actually give me any personally identifying data.
+
+297
+00:31:36,925 --> 00:31:38,096
+Scott: that's a good use.
+
+298
+00:31:39,953 --> 00:31:50,919
+Scott: a bad use would be "haha I know that Grim came to my website and he is a 40 something year old male in New York who likes REI type shit.
+
+299
+00:31:51,021 --> 00:32:06,018
+Scott: let me show him a very targeted ad about the sale going on on tents right now and in fact I'll make up a sale $10 off coupon just for him and I'll lie that it's gonna it better happen.
+
+300
+00:32:07,542 --> 00:32:24,051
+Rym: so I'm even gonna share my screen for a second because I was literally just now finishing up an order on REI to buy some stuff sacks and shit literally the point being if you know someone well enough you can really target them or you can get even worse.
+
+301
+00:32:24,091 --> 00:32:44,495
+Scott: you could be like "aha let me pretend to be a political candidate that this person approves of and ask for a donation but the donation goes to the opposite candidate or haha this looks totally like a website for the bank that you use and I know your name and I know your account.
+
+302
+00:32:44,555 --> 00:32:47,485
+Scott: I know all these things about you so it looks super legit.
+
+303
+00:32:47,566 --> 00:32:50,092
+Scott: it's the ultimate phishing you could.
+
+304
+00:32:50,355 --> 00:32:54,276
+Scott: even a smart person gets fooled by it and logs in and I got their bank account.
+
+305
+00:32:54,418 --> 00:32:56,596
+Rym: yep now I'm gonna zoom out a little bit.
+
+306
+00:32:56,616 --> 00:33:05,950
+Rym: on one hand on one side of the spectrum use cases where total deep analytics including identities are very valuable.
+
+307
+00:33:06,677 --> 00:33:16,579
+Rym: if you are a military and you are studying the use of the systems in your fighter jets to make those better and more efficient total telemetry makes sense there for a lot of reasons.
+
+308
+00:33:17,104 --> 00:33:25,199
+Rym: if you are if it is software that runs a nuclear power plant there should be analytics on every fucking click everything that happens.
+
+309
+00:33:26,294 --> 00:33:26,720
+Rym: there are a lot.
+
+310
+00:33:26,942 --> 00:33:35,100
+Rym: those are use cases where yes fully full telemetry full knowledge the operators do not have a right to privacy.
+
+311
+00:33:36,230 --> 00:33:38,593
+Rym: but then on the other extreme the public internet.
+
+312
+00:33:39,017 --> 00:33:55,784
+Rym: I would posit that ninety-nine point nine percent of all web analytics are used for exactly one purpose at least intentionally and that one purpose is to target ads and drive engagement to ads or even not targeting ads.
+
+313
+00:33:55,845 --> 00:33:59,180
+Scott: but even just the counting of visits is used for selling ads.
+
+314
+00:33:59,220 --> 00:34:00,940
+Rym: good point I'll simplify.
+
+315
+00:34:01,565 --> 00:34:06,455
+Rym: they are used to drive the advertising ecosystem and that is all there.
+
+316
+00:34:06,476 --> 00:34:17,159
+Scott: for if there was no web if there was no web advertising people would not put in the effort because they would be to count and track very much at all.
+
+317
+00:34:17,199 --> 00:34:20,838
+Scott: they would put in a minimal effort at best because there would be no value in it.
+
+318
+00:34:21,806 --> 00:34:28,612
+Scott: the only value of the counting and the tracking is that you can translate it into money without ads.
+
+319
+00:34:28,714 --> 00:34:30,018
+Scott: how else would you turn that into money?
+
+320
+00:34:30,565 --> 00:34:32,040
+Rym: now a good case in point.
+
+321
+00:34:32,303 --> 00:34:37,840
+Rym: like the GeekNights website Scott how much tracking and analytics do you do on our GeekNights website?
+
+322
+00:34:38,163 --> 00:34:49,130
+Scott: well on our previous GeekNights website we had Google Analytics installed but I never really logged into it or looked at it at all and it was just sort of like.
+
+323
+00:34:49,331 --> 00:34:57,596
+Scott: you know at the time we set that website up in two thousand x it was just sort of like matter of course to put that there to see who's using the website.
+
+324
+00:34:57,637 --> 00:35:04,239
+Scott: but then when we redid the website I was like why I never look at it anyway and we're not selling ads.
+
+325
+00:35:04,664 --> 00:35:07,395
+Scott: and it slows the website down and it's a privacy concern.
+
+326
+00:35:07,435 --> 00:35:09,799
+Scott: and why I just don't do it.
+
+327
+00:35:09,859 --> 00:35:10,909
+Scott: so there is zero.
+
+328
+00:35:10,969 --> 00:35:15,899
+Scott: we're just serving up HTML pages and CSS files and images and that's it.
+
+329
+00:35:16,101 --> 00:35:17,900
+Scott: and similarly we have the Libsyn data.
+
+330
+00:35:18,021 --> 00:35:26,159
+Rym: like I can log in any time and get detailed analytics on every time any of the thousands of MP3s was uploaded get downloaded and you know how often I log into that.
+
+331
+00:35:26,764 --> 00:35:28,498
+Rym: never about once a year.
+
+332
+00:35:29,105 --> 00:35:36,520
+Rym: update the billing info yeah to double check the billing info and then I look at the downloads and it's always trending upward like slowly and steadily.
+
+333
+00:35:36,641 --> 00:35:38,020
+Scott: but I thought it was trending downward.
+
+334
+00:35:38,908 --> 00:35:41,458
+Rym: I haven't logged in since at the end of last year.
+
+335
+00:35:42,164 --> 00:35:43,796
+Scott: I think it's been doing actually poorly.
+
+336
+00:35:44,502 --> 00:35:48,057
+Rym: actually I bet it would be doing poorly because we have spread out like now.
+
+337
+00:35:48,421 --> 00:35:55,936
+Rym: a lot of people subscribe on Patreon a lot of people just watch the YouTube stream but this is counting actual downloads of the MP3 files.
+
+338
+00:35:56,542 --> 00:35:59,900
+Rym: so and there's a lot of other ways to access.
+
+339
+00:36:00,162 --> 00:36:03,780
+Scott: yeah a lot of it just has to do with the number.
+
+340
+00:36:04,042 --> 00:36:05,516
+Scott: the more episodes we put out.
+
+341
+00:36:05,657 --> 00:36:07,819
+Scott: obviously there will be more downloads right total.
+
+342
+00:36:08,384 --> 00:36:15,416
+Scott: so you have to sort of look at the average downloads per episode and that'll sort of really tell you the long tail also matters.
+
+343
+00:36:15,436 --> 00:36:27,756
+Rym: because I remember one time I did a little analysis and I found specific individual episodes would get downloaded at least once a month even ones from like 2007-2008 but again didn't have more context into that.
+
+344
+00:36:27,877 --> 00:36:31,048
+Rym: but think about what's going on here.
+
+345
+00:36:31,372 --> 00:36:33,756
+Rym: we're not trying to make money from GeekNights.
+
+346
+00:36:33,817 --> 00:36:35,391
+Rym: like any money we make is a side effect.
+
+347
+00:36:35,412 --> 00:36:36,199
+Rym: we do this for fun.
+
+348
+00:36:36,765 --> 00:36:47,149
+Rym: so we don't have an incentive to prove to anyone how many people listen to GeekNights because I'm not trying to convince someone to give us money so they can advertise to you.
+
+349
+00:36:47,210 --> 00:36:49,734
+Rym: in fact I hate the idea of anyone advertising to you.
+
+350
+00:36:49,815 --> 00:36:50,199
+Rym: fuck them.
+
+351
+00:36:50,683 --> 00:36:52,925
+Rym: I'm gonna protect you from those ads as best I can.
+
+352
+00:36:53,510 --> 00:36:58,400
+Rym: so we also don't have an incentive to centralize our content onto one platform.
+
+353
+00:36:58,763 --> 00:37:03,229
+Rym: to make sure that number goes up as fast as possible I upload the Ben 3 3's all over the place.
+
+354
+00:37:03,472 --> 00:37:04,037
+Rym: who cares?
+
+355
+00:37:04,057 --> 00:37:07,114
+Rym: I don't care how people download them I just want them to be out there.
+
+356
+00:37:08,322 --> 00:37:09,613
+Scott: no the numbers are actually.
+
+357
+00:37:09,634 --> 00:37:19,870
+Scott: I don't know how Libsyn has changed their counting over time but the numbers are more than I thought we were getting like 500 downloads per episode here at minimum some of them are up to like a thousand.
+
+358
+00:37:21,846 --> 00:37:25,834
+Rym: I'm gonna look at the GeekNights stats right now for the YouTube channel.
+
+359
+00:37:26,258 --> 00:37:30,400
+Rym: so actually oh we have as of right now 9,000 YouTube tracks everything.
+
+360
+00:37:30,481 --> 00:37:31,369
+Scott: we can't really stop them.
+
+361
+00:37:31,369 --> 00:37:32,541
+Rym: 9,900.
+
+362
+00:37:32,541 --> 00:37:34,360
+Scott: and we can't serve the video ourselves either.
+
+363
+00:37:34,420 --> 00:37:37,631
+Rym: we have 9,997 subscribers.
+
+364
+00:37:37,692 --> 00:37:41,859
+Rym: we average 41 a month added just by default.
+
+365
+00:37:42,505 --> 00:37:43,151
+Rym: so we're gonna 10,000 soon.
+
+366
+00:37:43,192 --> 00:37:48,500
+Rym: cute not that that means anything but you know we had to get a hundred thousand to get that plaque or whatever.
+
+367
+00:37:49,126 --> 00:38:07,780
+Rym: and if I look at the detailed analytics the most watched video in this last month was Practical Game Theory from 2010. the second most watched video Designing Game Rules from PacSouth 2016. the fifth most watched episode a 21 second video I uploaded titled The Death of Twilight Sparkle.
+
+368
+00:38:08,282 --> 00:38:15,199
+Rym: and the sixth most watched video the video where we talked about how shitty and fake race walking is probably because of the Olympics.
+
+369
+00:38:17,860 --> 00:38:23,411
+Scott: I'm questioning these numbers here because it's like I'm looking at just a random episode.
+
+370
+00:38:23,976 --> 00:38:32,176
+Scott: we're getting way off topic but like 108 downloads from Podcast Addict and that's the number one user agent it's like.
+
+371
+00:38:33,286 --> 00:38:35,005
+Scott: that feels like one person downloading it 108 times.
+
+372
+00:38:36,200 --> 00:38:38,100
+Scott: Is Podcast Addict that popular?
+
+373
+00:38:38,380 --> 00:38:40,040
+Rym: But I guess this is the difference.
+
+374
+00:38:40,564 --> 00:38:44,380
+Rym: this is why I am increasingly adversarial toward this kind of data collection.
+
+375
+00:38:45,410 --> 00:38:53,935
+Rym: I when I was younger early GeekNights I would often focus on like what is the difference between this at a small scale and this at a large scale?
+
+376
+00:38:53,955 --> 00:38:59,980
+Rym: the example you and I used a lot around 2007 2008 was is Google Street View a problem?
+
+377
+00:39:00,620 --> 00:39:09,652
+Rym: How is that different than me walking down the street and taking a perfectly legal picture of every house on the street in my neighborhood and uploading them all with geotags?
+
+378
+00:39:09,672 --> 00:39:12,900
+Rym: and there isn't a fundamental difference between those concepts.
+
+379
+00:39:13,223 --> 00:39:16,960
+Rym: but the scale of it could present a problem.
+
+380
+00:39:17,425 --> 00:39:20,340
+Rym: but I'd argue that the scale of something like that alone didn't cause a problem.
+
+381
+00:39:20,724 --> 00:39:29,003
+Rym: it's the scale of that plus the adversarial need to use that data to drive an advertising ecosystem to make money.
+
+382
+00:39:29,024 --> 00:39:31,873
+Rym: Google Map every problem with Google Maps is because of ads.
+
+383
+00:39:32,196 --> 00:39:33,832
+Rym: every problem with Google is because of ads.
+
+384
+00:39:34,175 --> 00:39:36,033
+Rym: almost every problem on the internet is because of ads.
+
+385
+00:39:37,966 --> 00:39:38,292
+Scott: Alright.
+
+386
+00:39:38,313 --> 00:39:42,942
+Scott: so let's talk about the different methods of tracking and how you can or cannot avoid them right?
+
+387
+00:39:42,962 --> 00:39:50,060
+Scott: so the first and most basic method that's been employed since 1990X or even earlier is that your web server has logs.
+
+388
+00:39:51,024 --> 00:39:53,487
+Scott: so is nothing you can fucking do about this.
+
+389
+00:39:53,729 --> 00:40:12,814
+Scott: really a VPN might help a little bit because basically when you make a request to a web server running Apache or Nginx or whatever it's running you're sending an HTTP request and that HTTP request must contain some information that in order for it to work you have to at least include the IP address of where the response should be sent to.
+
+390
+00:40:13,885 --> 00:40:18,624
+Scott: so they know you're making a TCP IP connection from one server to their server.
+
+391
+00:40:19,311 --> 00:40:23,149
+Scott: they know which IP address that TCP connection originated from.
+
+392
+00:40:23,170 --> 00:40:35,640
+Scott: they're going to know that you can use a VPN and now that connection will originate from a different IP and that might conceal your identity but it still reveals that someone using that VPN has requested.
+
+393
+00:40:35,660 --> 00:40:49,820
+Rym: Now the funny thing is back in the 90s most people when they got an ISP that wasn't dial up they had an IP address and there wasn't really a lot of netting and routers and even switches weren't common in people's houses.
+
+394
+00:40:50,286 --> 00:40:51,179
+Scott: I mean even today.
+
+395
+00:40:52,663 --> 00:41:05,419
+Scott: it's like even if you have an ISP I know for example our ISP Fios you get an IP and you're sort of stuck with that IP but if you reboot your router then you might get a different one or if Fios goes down it comes up again because they had an outage.
+
+396
+00:41:05,581 --> 00:41:09,011
+Rym: I just googled what IP I'm coming from the what is my IP?
+
+397
+00:41:09,031 --> 00:41:10,319
+Rym: there's a lot of ways to look this up.
+
+398
+00:41:10,582 --> 00:41:13,068
+Rym: yeah I can zoom in almost all the way to my home address.
+
+399
+00:41:13,271 --> 00:41:13,939
+Rym: it's real close.
+
+400
+00:41:14,545 --> 00:41:22,300
+Scott: the point is that the IP if Fios doesn't have an outage I don't reboot the router I don't do a DHCP release/renew.
+
+401
+00:41:22,441 --> 00:41:30,060
+Scott: I have basically the same IP for an extended period of time and so all of the traffic can be trafficked.
+
+402
+00:41:30,060 --> 00:41:41,193
+Rym: I argue that anyone who runs any service on the internet is 100% within their rights to log and analyze the IP addresses that connect to them.
+
+403
+00:41:41,274 --> 00:41:43,379
+Rym: that feels protocol level basic.
+
+404
+00:41:44,082 --> 00:41:45,779
+Scott: I mean you can't stop them from doing it.
+
+405
+00:41:45,981 --> 00:41:57,028
+Scott: there's nothing you can do if you're worried about this a VPN or some sort of onion router something like that to where you're proxying the requests to some other IP.
+
+406
+00:41:57,452 --> 00:42:01,679
+Scott: but even then the VPN itself could be monitoring what's going on.
+
+407
+00:42:01,780 --> 00:42:02,485
+Scott: they say they don't.
+
+408
+00:42:04,820 --> 00:42:07,377
+Scott: they probably are telling the truth but they could.
+
+409
+00:42:09,931 --> 00:42:14,778
+Scott: so any of those hops along the way of you protecting yourself could be the bad guy.
+
+410
+00:42:15,994 --> 00:42:19,418
+Scott: so the next thing that people do is of course everyone's favorite the cookie.
+
+411
+00:42:20,411 --> 00:42:49,440
+Scott: you visit a website and the website in the response will send a cookie and your browser if you've if it's you know has instructions on whether to keep the cookie or not and basically if it keeps the cookie it'll write down the content of the cookie somewhere in your computer's memory and then anytime you make a request to that same domain depending on the domain of the cookie the browser will send the contents of the cookie back to the website.
+
+412
+00:42:50,025 --> 00:42:55,219
+Scott: so you could visit geek front recruit.com and I could send you a cookie that says hello.
+
+413
+00:42:55,962 --> 00:42:57,860
+Scott: and then you know my name is Rym.
+
+414
+00:42:58,122 --> 00:43:01,537
+Scott: and then you visit front recruit.com again and I receive hello.
+
+415
+00:43:01,577 --> 00:43:10,123
+Scott: my name is Rym and I know aha that person who just visited even if all this other information is different they're the only person that I sent a hello.
+
+416
+00:43:10,163 --> 00:43:12,024
+Scott: my name is Rym cookie to I said hello.
+
+417
+00:43:12,064 --> 00:43:13,579
+Scott: my name is something else to everyone else.
+
+418
+00:43:14,064 --> 00:43:21,618
+Scott: so I know that the person making this request even though they turned their VPN on just now is that same person again now.
+
+419
+00:43:21,678 --> 00:43:34,102
+Rym: this is why a long time ago we all agreed that browsers shouldn't give any random website any cookie that that website didn't place with some caveats and nuances to that basic idea right.
+
+420
+00:43:34,405 --> 00:43:47,534
+Scott: so the issue was that in the past we had third party cookie where basically you would visit my website I'd put a cookie then you'd visit google.com and google would be able to see the cookie even though they're not the same website.
+
+421
+00:43:47,574 --> 00:43:53,033
+Scott: there were shenanigans going on even as late as RIT in my security class.
+
+422
+00:43:53,094 --> 00:44:03,138
+Rym: some of the hacks I used like in that red team blue team class were things like literally just injecting a cookie and using that to steal someone's sign on because technology was really weak back then.
+
+423
+00:44:04,005 --> 00:44:09,860
+Scott: yeah largely this has been stopped these days especially if you turn up your browser's security level it shouldn't?
+
+424
+00:44:09,900 --> 00:44:10,082
+Scott: you know?
+
+425
+00:44:10,122 --> 00:44:14,225
+Scott: third party cookies are kind of mostly dead but not entirely.
+
+426
+00:44:14,265 --> 00:44:17,134
+Scott: you could do them if you really wanted to be.
+
+427
+00:44:17,234 --> 00:44:32,771
+Scott: not private I can for some reason but you still there are legitimate uses of cookies like I want to stay logged into this website and I don't want to get logged out or I told this website that no I really you know reject all right don't use cookies.
+
+428
+00:44:33,197 --> 00:44:44,657
+Scott: well they have to set a cookie to remember the reject all right or don't remember it and ask you every fucking time you come to the website if you want to use cookies or not.
+
+429
+00:44:46,397 --> 00:44:54,639
+Scott: so that's that's how the cookies work yeah and then all the methods beyond that are basically what's known as like fingerprinting.
+
+430
+00:44:54,881 --> 00:44:56,720
+Scott: right these are the most common things you have to worry about.
+
+431
+00:44:56,841 --> 00:44:58,559
+Scott: and so what this is?
+
+432
+00:44:59,408 --> 00:45:04,093
+Scott: someone visits your website and it's like okay we know that somebody visited the website.
+
+433
+00:45:04,497 --> 00:45:11,709
+Scott: you know maybe we have some some JavaScript in the page or some images in the page and send off extra requests to other domains.
+
+434
+00:45:11,830 --> 00:45:13,748
+Scott: and now right we're sort of tracking.
+
+435
+00:45:13,768 --> 00:45:16,619
+Scott: we know that someone visited but it's like who are they?
+
+436
+00:45:17,184 --> 00:45:22,253
+Scott: is this the same person you know who visited that other web page on this other website?
+
+437
+00:45:22,414 --> 00:45:22,899
+Scott: who is this?
+
+438
+00:45:23,485 --> 00:45:25,707
+Scott: and we want to find a unique way to identify them.
+
+439
+00:45:25,788 --> 00:45:29,668
+Scott: well it's like if it's an iPhone 15 with Safari.
+
+440
+00:45:29,688 --> 00:45:32,335
+Scott: it's like that could be fucking anybody.
+
+441
+00:45:32,618 --> 00:45:32,840
+Scott: right.
+
+442
+00:45:33,224 --> 00:45:34,416
+Scott: how the hell do we know who?
+
+443
+00:45:34,456 --> 00:45:35,873
+Scott: this is the number one way to know who.
+
+444
+00:45:35,893 --> 00:45:38,214
+Scott: that is make people log into shit.
+
+445
+00:45:38,638 --> 00:45:40,193
+Scott: if you're logged in then they know who you are.
+
+446
+00:45:40,214 --> 00:45:46,657
+Rym: yep and once you log in then they can collect whatever version they can and then look for patterns to see.
+
+447
+00:45:46,718 --> 00:45:58,355
+Rym: wait the person who logged into fluffybunnies.com has a very similar internet fingerprint to the person who logged into name of evil right wing Nazi website.com.
+
+448
+00:45:59,724 --> 00:46:00,088
+Scott: okay.
+
+449
+00:46:00,129 --> 00:46:03,545
+Scott: so let's say you use every time you you don't stay logged into anything.
+
+450
+00:46:03,566 --> 00:46:08,536
+Scott: you always keep using private browsing windows and logging out of things all the time and delete all the cookies right?
+
+451
+00:46:08,556 --> 00:46:10,555
+Scott: so every visit you make is a brand new visit.
+
+452
+00:46:10,939 --> 00:46:21,711
+Scott: how can they possibly know who you are right and figure out that this is the same person who also you know who's visiting now was just on Amazon two seconds ago trying to buy a book?
+
+453
+00:46:21,892 --> 00:46:22,418
+Scott: how do we know?
+
+454
+00:46:23,906 --> 00:46:31,364
+Scott: one fingerprint method is to basically look at fonts and see ah what fonts do they have installed on this computer?
+
+455
+00:46:31,647 --> 00:46:38,072
+Scott: right it's very unlikely the two different computers will have the exact same setup of fonts available.
+
+456
+00:46:38,233 --> 00:46:38,516
+Scott: right?
+
+457
+00:46:38,799 --> 00:46:42,798
+Scott: you probably installed a weird font from fonts.com or something or who knows.
+
+458
+00:46:43,385 --> 00:46:56,719
+Scott: or maybe you installed a particular program that like Adobe Photoshop and that brings in a bunch of fonts and now that separates you from all these other people and so by you know looking at that it's like you can really narrow down.
+
+459
+00:46:57,225 --> 00:47:05,752
+Scott: you know who that is maybe even nearly uniquely or quite uniquely and so let's mix in some other information that we can gather.
+
+460
+00:47:05,934 --> 00:47:09,425
+Scott: one method is they use a thing called canvas fingerprinting.
+
+461
+00:47:09,768 --> 00:47:12,660
+Scott: there's a feature in JavaScript called the canvas.
+
+462
+00:47:12,761 --> 00:47:20,620
+Scott: you basically make a canvas on a web page and then you can just draw to it like it's MS Paint right with JavaScript code and you can make a lot of fun apps.
+
+463
+00:47:20,721 --> 00:47:23,103
+Scott: most JavaScript web games use this right.
+
+464
+00:47:23,608 --> 00:47:33,487
+Scott: but what if you made a canvas that the user didn't see that was in the background somewhere and you draw on it and then you get rid of it quickly right and so they never see that this is happening.
+
+465
+00:47:33,992 --> 00:47:38,052
+Scott: it's just some JavaScript code that runs on their CPU for like a fraction of a second.
+
+466
+00:47:38,639 --> 00:47:44,159
+Scott: but you look at that image that was drawn and you say alright let's look at this image for a second.
+
+467
+00:47:44,760 --> 00:47:46,820
+Scott: alright alright I see the image they drew.
+
+468
+00:47:47,365 --> 00:47:57,080
+Scott: and then you look at someone else with a different device with different hardware with a different GPU with different software installed a different operating system a different web browser a different JavaScript engine.
+
+469
+00:47:57,909 --> 00:48:04,009
+Scott: right it's gonna be drawn different monitor at a different resolution at a right with different color settings.
+
+470
+00:48:04,616 --> 00:48:08,476
+Scott: it's gonna be drawn differently the drawing will be different.
+
+471
+00:48:08,496 --> 00:48:33,320
+Scott: so by making the computer draw a picture and looking at the picture you can pretty uniquely identify at least you don't know who that is but you if they come back again and they draw the picture the same way I know it's the same guy or at least the same computer or the same device probably that is visiting again and then you visit a different website and they make you draw the picture and it's the same picture again.
+
+472
+00:48:33,421 --> 00:48:34,512
+Scott: they gotcha right.
+
+473
+00:48:34,957 --> 00:48:52,814
+Scott: so it's a lot like when you meet a person in real life you look at their face you recognize their mannerisms their gait or any characteristic about them that you can detect and if you can combine enough characteristics together you can identify the person without you know just their name or their social security card or their driver's license
+
+474
+00:48:52,834 --> 00:48:55,200
+Rym: and thus the danger because this gets into that scale.
+
+475
+00:48:55,362 --> 00:49:12,780
+Rym: once you can identify the person you can start to collate information about them that is public from a lot of other sources and then eventually you can build a picture that is more complete than you could have before without actually necessarily needing to steal any information at any point.
+
+476
+00:49:13,527 --> 00:49:15,023
+Scott: it's a lot like playing the old board game.
+
+477
+00:49:15,063 --> 00:49:16,120
+Scott: guess who right?
+
+478
+00:49:16,687 --> 00:49:17,558
+Scott: they got glasses.
+
+479
+00:49:17,801 --> 00:49:18,406
+Rym: are they old?
+
+480
+00:49:21,203 --> 00:49:22,299
+Rym: the answer to got.
+
+481
+00:49:22,723 --> 00:49:25,610
+Rym: the answer to got glasses was either no or fuck.
+
+482
+00:49:25,650 --> 00:49:27,579
+Rym: let's play again that's right?
+
+483
+00:49:29,023 --> 00:49:30,659
+Scott: does their name start with the letter r?
+
+484
+00:49:30,802 --> 00:49:30,931
+Rym: right?
+
+485
+00:49:32,822 --> 00:49:34,700
+Scott: yeah that's that's what's happening right?
+
+486
+00:49:34,700 --> 00:49:36,860
+Scott: and there's many other fingerprinting methods.
+
+487
+00:49:36,981 --> 00:49:37,163
+Scott: you know.
+
+488
+00:49:37,204 --> 00:49:38,780
+Scott: you can look up what they are online.
+
+489
+00:49:39,486 --> 00:49:49,913
+Scott: um but you know you there's various ways to try to avoid them but really the best thing you can do is just sort of block right and i think this is where i get into.
+
+490
+00:49:49,933 --> 00:49:52,234
+Rym: well i guess one third thing that's out there.
+
+491
+00:49:52,315 --> 00:50:00,239
+Rym: this is a more visible kind of tracking but it's more around referrals and trying to track who is sharing a url where and where they got it from.
+
+492
+00:50:01,043 --> 00:50:05,386
+Rym: the name for these that i think i like the most i saw is url barnacles.
+
+493
+00:50:06,073 --> 00:50:09,569
+Rym: so you got a url that takes you to a website like something something something.com.
+
+494
+00:50:09,609 --> 00:50:26,290
+Rym: and then there's a little question mark like if you go to a website you see a normal url and you hit the share button and you want to paste it into your discord to show your friends you ever notice how you see the normal url and then a question mark and it'll say like utm source equals joey jojo.
+
+495
+00:50:26,432 --> 00:50:28,958
+Rym: utm medium equals phone utm.
+
+496
+00:50:29,281 --> 00:50:36,260
+Rym: it's all these this string of nonsense and some websites will get ridiculous just hundreds and hundreds and hundreds of characters of bullshit.
+
+497
+00:50:37,562 --> 00:50:40,394
+Scott: utm stands for urchin tracking module.
+
+498
+00:50:40,495 --> 00:50:59,227
+Rym: it's actually a google analytics feature yup and none of that is ever necessary to access a real website that is just there to trick you into when you paste the url telling the people who own the url how the people you gave it to got it right.
+
+499
+00:50:59,267 --> 00:51:04,316
+Scott: it's like aha this person is someone came to our website but we look look at the url.
+
+500
+00:51:04,558 --> 00:51:07,812
+Scott: this person came from a link.
+
+501
+00:51:07,832 --> 00:51:18,253
+Scott: they were on youtube they clicked the share button they copied the link and they pasted it on facebook and then someone else clicked on it and that person visiting is the someone else.
+
+502
+00:51:18,516 --> 00:51:30,516
+Scott: and we know now that some that person b who clicked the link right uh is saw this post from person a who clicked share and there's a connection between those two people and they can learn right.
+
+503
+00:51:30,556 --> 00:51:38,133
+Scott: and so yeah ut because urchin was basically a product that was on its own that was purchased by google and became google analytics and that's why it's utm.
+
+504
+00:51:39,043 --> 00:51:46,719
+Scott: um and so if you look at urls those query parameters sometimes are legitimate part of the url like google.com.
+
+505
+00:51:47,022 --> 00:51:52,295
+Scott: question mark q equals search query right or youtube.com slash watch.
+
+506
+00:51:52,355 --> 00:51:54,238
+Scott: question mark v equals video id.
+
+507
+00:51:54,922 --> 00:52:16,419
+Scott: if you delete that part then it's a different url but you you should be able to tell by looking at it which parts are the parts that are necessary and which parts are just tracking parts and you should be using some sort of tool so that when you share urls with people and paste them in discords or emails or messages or dms that you remove all that garbage.
+
+508
+00:52:16,519 --> 00:52:25,248
+Scott: or the garbage wasn't there because your browser removed it and you copied it from your browsers url bar and so you're not sharing that garbage with other people to click on.
+
+509
+00:52:25,268 --> 00:52:32,297
+Scott: they're always just clicking on the most minimal least information url available that goes to the right place the sort of the final.
+
+510
+00:52:32,378 --> 00:52:36,094
+Rym: i guess lesson we've got here is what i would i think we'd both advise.
+
+511
+00:52:36,216 --> 00:52:38,699
+Rym: all everyone out there to do is listening to this one.
+
+512
+00:52:40,067 --> 00:52:43,286
+Rym: these trackers are not doing anything good for society or for you.
+
+513
+00:52:43,468 --> 00:52:47,933
+Scott: so as much as possible you're not losing anything by by avoiding this.
+
+514
+00:52:48,297 --> 00:52:51,609
+Rym: so run ad blockers like leave.
+
+515
+00:52:51,871 --> 00:52:56,497
+Rym: if a website says hey you should reduce your privacy protections or our website doesn't work.
+
+516
+00:52:56,558 --> 00:52:58,279
+Rym: don't fucking go to that website like.
+
+517
+00:52:59,127 --> 00:53:04,012
+Rym: avoid places that you can't access as privately and securely as you can.
+
+518
+00:53:04,032 --> 00:53:10,375
+Rym: when you see things that are obviously trackers like in urls cut them off remove them even if you do it manually.
+
+519
+00:53:10,415 --> 00:53:14,699
+Rym: if you paste a url into a discord and then you see oh shit there's a bunch of barnacles there.
+
+520
+00:53:15,164 --> 00:53:25,020
+Rym: edit that url and take them out because if we all do our part the more we starve this ridiculous analytics driven ad hell world of data.
+
+521
+00:53:25,850 --> 00:53:30,638
+Rym: in the very least it'll go after the people it has data about and leave us alone.
+
+522
+00:53:31,607 --> 00:53:44,780
+Scott: yeah there is a website privacy guides.org which is a legit website and they'll tell you basically for every kind of thing out there the steps that you can take to like configure different software to minimize or eliminate tracking.
+
+523
+00:53:45,704 --> 00:53:54,129
+Scott: the one thing though is like it's easy to follow some instructions to be like okay I'll change I'll reconfigure all the settings in firefox to be way more private and less tracking.
+
+524
+00:53:54,210 --> 00:54:02,939
+Scott: sure congrats but a lot of times you know you got an app on your phone and I think this is part of the reason why companies really want you to use their app.
+
+525
+00:54:03,363 --> 00:54:13,546
+Scott: because when you use their app well you don't really have any control too much control over it and the app can send over all sorts of data to them and you can't stop it and so one.
+
+526
+00:54:13,586 --> 00:54:33,306
+Scott: this is why I think the biggest reason I have the pie hole going on not just for its ad blocking capabilities but because when you're using things of that nature that you don't have control over right the tracking that they're doing is usually going to like a specific domain or that url that was set up for the tracking.
+
+527
+00:54:33,488 --> 00:54:33,711
+Scott: right.
+
+528
+00:54:33,731 --> 00:54:37,809
+Scott: like if you you know go to I don't know what's a what's an app?
+
+529
+00:54:38,678 --> 00:54:40,175
+Scott: well example marvel snap.
+
+530
+00:54:40,378 --> 00:54:46,477
+Scott: right marvel snap in the game right the game is trying to for is trying to track user behavior.
+
+531
+00:54:46,619 --> 00:54:50,195
+Scott: right for various legitimate and maybe illegitimate reasons.
+
+532
+00:54:50,236 --> 00:54:59,811
+Scott: right they want to optimize the ui of their app so they collect user information that those requests are not going to marvel snap.com.
+
+533
+00:55:00,257 --> 00:55:16,842
+Scott: right those requests are going to some third party product right that the marvel snap people pay for and set up and they include they use that product it's some cloud hosted tracking software and they paste links from that software and they use those URLs in the app.
+
+534
+00:55:16,863 --> 00:55:25,955
+Scott: so it's like ah when someone clicks you know the shop button send a request to this url and now we'll have data over who clicked the shop button how many times.
+
+535
+00:55:26,359 --> 00:55:31,185
+Scott: but because it's on this special domain of like a tracking app it's not marvel snap dot com.
+
+536
+00:55:31,205 --> 00:55:43,590
+Scott: if you have a piehole on your network any dns request for that domain is going to return nothing and so those requests will all fail and that that might actually cause the app to break.
+
+537
+00:55:43,712 --> 00:55:47,879
+Scott: in some cases if the app aren't isn't prepared for those requests to fail.
+
+538
+00:55:48,822 --> 00:55:55,308
+Scott: but in other cases the app just works and you just don't get tracked which is a good result right so
+
+539
+00:55:55,610 --> 00:56:12,315
+Rym: and this leads to you know marvel snaps another good example because you there you could see a game in older monetization models where people buy the game for money and then have the game where collecting some telemetry on how people engage with the game can help you improve the game and make the game better.
+
+540
+00:56:12,599 --> 00:56:16,618
+Rym: but marvel snap they're not necessarily directly trying to improve the game.
+
+541
+00:56:16,659 --> 00:56:18,799
+Rym: if they they might improve the game along the way.
+
+542
+00:56:19,305 --> 00:56:26,740
+Rym: but their ultimate goal is to drive kids to spend money on gold in game and to engage with the store in game.
+
+543
+00:56:26,740 --> 00:56:33,548
+Rym: so they're going to use that data to drive that motive as opposed to directly the motive of make game better.
+
+544
+00:56:33,669 --> 00:56:36,699
+Rym: the metric they're tracking is did kids spend money on store?
+
+545
+00:56:37,103 --> 00:56:38,336
+Rym: did kid engage with store?
+
+546
+00:56:38,619 --> 00:56:40,497
+Rym: get them to come to the store at least three times a day.
+
+547
+00:56:40,537 --> 00:56:41,250
+Rym: that's a better game.
+
+548
+00:56:43,877 --> 00:56:56,200
+Rym: and i think more broadly the dark pattern you can see with deep analytics on user behavior and websites and apps is that if the goal is primarily advertising or engagement or those kinds of things.
+
+549
+00:56:56,603 --> 00:57:10,140
+Rym: people will almost over analyze the raw data and come to conclusions that drive some dark metric up like yeah we keep making these changes and the tracker shows that people click like crazy on our website.
+
+550
+00:57:10,641 --> 00:57:19,529
+Rym: but maybe the reason they're clicking like crazy is because your code somehow is releasing bees into their house and they're being stung by bees and that's why they're clicking like these.
+
+551
+00:57:19,549 --> 00:57:28,879
+Rym: dark patterns emerge when you hyper optimize for these nefarious purposes like getting someone to eventually click on an ad also denying this data.
+
+552
+00:57:29,142 --> 00:57:33,467
+Scott: the data first of all has more value than you realize because it's not costing you anything.
+
+553
+00:57:33,487 --> 00:57:39,658
+Scott: you don't notice it's being collected but the value of it to the companies is quite large in terms of money.
+
+554
+00:57:41,125 --> 00:57:51,039
+Scott: but also if you deny it to them if they don't get this information that actually hinders their ability to modify their apps in the most evil and efficient manner.
+
+555
+00:57:51,648 --> 00:58:10,840
+Scott: and so by doing that you'll actually might as a consequence in some ways improve and in some ways unimprove the quality and features of the apps and websites that you use that are making decisions based on this data.
+
+556
+00:58:11,183 --> 00:58:14,898
+Scott: you have now influenced the data by removing yourself from it or faking it.
+
+557
+00:58:15,201 --> 00:58:22,518
+Rym: you've got software that removes is wherever you have the ability to do so poisoning this data as much as you can.
+
+558
+00:58:22,781 --> 00:58:38,600
+Scott: but companies will use that data to make decisions so you can actually alter their decisions in some way by poisoning or removing yourself from the data making the data less accurate less useful than their decision is altered based on that.
+
+559
+00:58:39,407 --> 00:58:50,580
+Rym: now there are some cases where I do let the full on debugging telemetry go through but usually those are apps I use a lot that I trust and that I pay money for that I use like Strava.
+
+560
+00:58:51,003 --> 00:58:53,569
+Rym: I don't mind them mining my data because that's like.
+
+561
+00:58:53,609 --> 00:58:56,962
+Rym: I pay them to track that data for me and I want to have to get that.
+
+562
+00:58:56,982 --> 00:58:58,700
+Scott: a good example would be like vs code.
+
+563
+00:58:58,821 --> 00:59:05,528
+Scott: vs code has optional opt-in telemetry and they use that to try to improve vs code and it's like.
+
+564
+00:59:05,993 --> 00:59:08,235
+Scott: I turned it off but you know what if I turned it on?
+
+565
+00:59:08,255 --> 00:59:16,337
+Scott: you know there's a lot especially all the tech since it's a product that tech people use right and it's a people are very sus about it.
+
+566
+00:59:16,438 --> 00:59:18,580
+Scott: right they're like but I'm like.
+
+567
+00:59:18,924 --> 00:59:23,143
+Scott: I turned it off but if I turned it on it wouldn't really be that big a deal right?
+
+568
+00:59:23,163 --> 00:59:26,011
+Scott: it seems that they're really.
+
+569
+00:59:26,233 --> 00:59:34,802
+Scott: there's no ads in vs code right they're using it to improve vs code figuring out which features people are using which settings people are changing right.
+
+570
+00:59:35,306 --> 00:59:40,076
+Scott: if they if they notice like that almost everyone is changing this setting they can make that the new default setting.
+
+571
+00:59:40,157 --> 00:59:41,311
+Scott: things like that.
+
+572
+00:59:41,332 --> 00:59:42,909
+Rym: well like Adobe I let Adobe.
+
+573
+00:59:42,929 --> 00:59:43,656
+Rym: do I let it?
+
+574
+00:59:43,697 --> 00:59:51,918
+Rym: I actually do opt into Adobe getting my like process workflow because I want them to improve the parts of their applications that I personally click on the most.
+
+575
+00:59:52,848 --> 00:59:58,079
+Scott: yeah so you know yeah point is think about it.
+
+576
+00:59:58,221 --> 01:00:06,525
+Scott: and and if you haven't thought about it you know you basically want to block everything by default at minimum using the techniques that you you know are appropriate.
+
+577
+01:00:06,909 --> 01:00:11,719
+Scott: and then if you're going to allow any allow it intentionally and minimally.
+
+578
+01:00:11,941 --> 01:00:21,959
+Rym: yup just like your house don't let everyone into your house with the door unlocked and a sign saying come right in close your door and invite specific people into your house.
+
+579
+01:00:27,525 --> 01:00:29,868
+Rym: this has been GeekNights with Rym and Scott.
+
+580
+01:00:29,929 --> 01:00:32,492
+Rym: special thanks to DJ Pretzel for the opening theme.
+
+581
+01:00:32,654 --> 01:00:38,659
+Scott: be sure to visit our website at frontrowclue.com for show notes discussion links and more.
+
+582
+01:00:39,143 --> 01:00:41,828
+Rym: remember GeekNights is not one but four different shows.
+
+583
+01:00:42,131 --> 01:00:43,788
+Rym: Mondays are science and technology.
+
+584
+01:00:43,828 --> 01:00:45,565
+Rym: Tuesdays gaming and games.
+
+585
+01:00:45,706 --> 01:00:47,504
+Rym: Wednesdays are animation and comics.
+
+586
+01:00:47,847 --> 01:00:50,338
+Rym: Thursdays are arbitrary and indiscriminate.
+
+587
+01:00:50,962 --> 01:00:55,948
+Rym: GeekNights is distributed under a creative comments attribution 4.0 international license.
+
+588
+01:00:56,354 --> 01:01:04,660
+Scott: GeekNights is recorded live with no studio and no audience but unlike those other late shows it's actually recorded at night
+
+589
+01:01:05,204 --> 01:01:28,958
+Rym: and the Patreon patrons for this episode of GeekNights are Alan Joyce, Lincoln G, Trent Lillie, Tender Breaky, History Makes Music, Chris Nock, Christopher Rourke, Clinton, Walton, Finn, Joel Hayes, Penny Rymer, Rebecca Dunst, Sam Erickson, Shervin Van Horn, and a bunch of people who do not want me to say their names 50/50 if there's a show on Wednesday because I have to actually give a talk at Amazon's offices for work.
+
+590
+01:01:29,342 --> 01:01:32,169
+Rym: so tonight I only leave you with.
+
+591
+01:01:33,332 --> 01:01:34,708
+Rym: we'll see if you even know what this is from.
+
+592
+01:01:35,574 --> 01:01:36,349
+Rym: no no you're right.
+
+593
+01:01:36,612 --> 01:01:36,915
+Scott: you're right.
+
+594
+01:01:37,076 --> 01:01:37,399
+Rym: I am.
+
+595
+01:01:37,500 --> 01:01:47,499
+Rym: in fact I'm going to retire my character right now because my fantasy is to play a dragon inside a Gundam piloting a bigger Gundam.
+
+596
+01:01:47,519 --> 01:01:53,114
+Rym: now after Barry's balanced combat for my Gundam Gundam Dragon your characters which you've nurtured through their lower levels
+
+597
+01:01:53,800 --> 01:01:54,465
+Scott: through cunning,
+
+598
+01:01:54,506 --> 01:01:54,990
+Rym: politeness,
+
+599
+01:01:55,170 --> 01:01:55,555
+Scott: nail-biting
+
+600
+01:01:55,596 --> 01:02:06,810
+Rym: adventure after nail-biting adventures for months fucking intricate backstories and genealogies stretching into Barry's lore those characters will just be background extras badly noticeable collateral
+
+601
+01:02:06,933 --> 01:02:07,690
+Scott: damage screaming
+
+602
+01:02:07,690 --> 01:02:13,885
+Rym: 1000 feet from the camera in our new game Gundam Gundam Dragon vs.
+
+603
+01:02:13,925 --> 01:02:14,650
+Rym: the Tarrasque.
+
+604
+01:02:15,276 --> 01:02:22,990
+Rym: either that or Barry won't balance for Gundam Gundam Dragon and I'll be Emperor Gundam Gundam Dragon by the end of the week.
+

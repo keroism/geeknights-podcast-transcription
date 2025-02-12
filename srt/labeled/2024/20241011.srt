@@ -1,0 +1,2312 @@
+1
+00:00:08,460 --> 00:00:11,698
+Rym: It's Wednesday October 9th 2024.
+
+2
+00:00:11,698 --> 00:00:15,867
+Rym: I'm Rym I'm Scott and this is GeekNights tonight.
+
+3
+00:00:15,948 --> 00:00:24,970
+Rym: We're reviewing the 2024 animated film look back based on the manga by the guy, you know is the guy who made chainsaw man.
+
+4
+00:00:26,653 --> 00:00:27,667
+Scott: Let's do this.
+
+5
+00:00:28,752 --> 00:00:29,976
+Rym: So, uh, we're just right.
+
+6
+00:00:30,036 --> 00:00:37,802
+Rym: before did the show talk a little bit about the Mets the New York Mets the the bases ball Team and I got to say there's.
+
+7
+00:00:37,963 --> 00:00:46,295
+Rym: there's a certain energy in the city Like when the Yankees are doing well doing poorly like there's kind of this consistent baseline Yankees energy in Manhattan where my office is.
+
+8
+00:00:46,415 --> 00:00:52,158
+Rym: but when the Mets are doing well in the playoffs It's like magic.
+
+9
+00:00:52,319 --> 00:00:59,603
+Rym: all these people who I have never seen Display any piece of Mets merchandise who have never mentioned baseball.
+
+10
+00:00:59,624 --> 00:01:00,566
+Rym: They don't mention the Mets.
+
+11
+00:01:00,626 --> 00:01:02,010
+Rym: It doesn't come up suddenly.
+
+12
+00:01:02,050 --> 00:01:03,020
+Rym: They're all wearing Mets hats.
+
+13
+00:01:03,040 --> 00:01:03,990
+Rym: They're all wearing Mets jerseys.
+
+14
+00:01:04,312 --> 00:01:12,190
+Rym: I have seen more Mets jerseys in the last two days Going to work from work or being at work that I saw in the rest of this year combined.
+
+15
+00:01:12,892 --> 00:01:15,220
+Scott: Yeah, I mean the thing with baseball right.
+
+16
+00:01:15,360 --> 00:01:18,470
+Scott: is that even if you don't hate it or whatever right?
+
+17
+00:01:18,750 --> 00:01:19,714
+Scott: Is that it's?
+
+18
+00:01:19,855 --> 00:01:23,350
+Scott: the season is so long this games every frickin day, right?
+
+19
+00:01:23,571 --> 00:01:27,290
+Scott: So people like a baseball they'll go to a Mets game, right?
+
+20
+00:01:27,672 --> 00:01:29,381
+Scott: It's like that stadium out there.
+
+21
+00:01:29,421 --> 00:01:32,870
+Scott: City Field is way bigger than MSG Even if it doesn't sell out.
+
+22
+00:01:32,930 --> 00:01:40,108
+Scott: There's more people there on for a regular season game than there is at MSG for a playoff game for the Knicks or Rangers Just because there's more seats.
+
+23
+00:01:40,391 --> 00:01:45,789
+Scott: yeah, but also they can actually fill most of those seats right even even way high up seats where you could barely see anything.
+
+24
+00:01:45,809 --> 00:02:02,199
+Scott: and You know if you like baseball But you don't like it so much to where it's your thing Right and your way into it, and you're paying attention to all the frickin games all summer long You know when they're actually in the playoffs.
+
+25
+00:02:02,600 --> 00:02:04,988
+Scott: It's so rare right and suddenly.
+
+26
+00:02:05,048 --> 00:02:07,097
+Scott: now Okay, I can paint.
+
+27
+00:02:07,238 --> 00:02:13,020
+Scott: I like I don't like baseball enough to pay that much attention But I but I that's still my team.
+
+28
+00:02:13,040 --> 00:02:15,569
+Scott: Yeah, I didn't change and now they're in the.
+
+29
+00:02:15,629 --> 00:02:18,929
+Rym: oh now We're really gonna pay attention that my zip codes got a lot of ones in it.
+
+30
+00:02:19,151 --> 00:02:23,538
+Scott: Yeah, and You know the Mets in particular this season.
+
+31
+00:02:23,559 --> 00:02:25,605
+Scott: You know winning or losing.
+
+32
+00:02:25,625 --> 00:02:26,688
+Scott: They're still doing plenty of.
+
+33
+00:02:27,049 --> 00:02:28,656
+Scott: you know They haven't lost completely yet.
+
+34
+00:02:28,676 --> 00:02:42,441
+Scott: They're still playing right at this very moment as we record but They have some sort of you know mythologies and lore is happening this season that you know are making for great drama regardless of the result.
+
+35
+00:02:42,521 --> 00:02:44,916
+Scott: so Yeah, it's bringing.
+
+36
+00:02:44,936 --> 00:02:45,940
+Scott: it's bringing people in.
+
+37
+00:02:46,402 --> 00:02:57,677
+Rym: but so I got a. you know we're gonna have a geek not say it is during the presidential election cuz they'd be in London for a thing and then I'm gonna be in Singapore the week after that for another thing and I was booking the other day.
+
+38
+00:02:57,858 --> 00:03:23,457
+Rym: Just just recently I was booking my flight back from Singapore and Singapore to New York is a. it's a very long distance, so I'm booking it, and I don't think much about it, and then I look and I realize that what got booked through the work thing is Like a flight number that I didn't recognize like It's a. it's definitely a finance brew thing and a rich person thing where you like you know specific flight numbers Like just off the top you're like.
+
+39
+00:03:23,498 --> 00:03:31,110
+Rym: Oh, that's a good flight to London like I. that's a thing I've encountered in my career, but yeah, I mean if you fly frequently eventually you'd memorize like you know.
+
+40
+00:03:31,230 --> 00:03:34,359
+Scott: Oh, yeah, the flight that I use to go to London every week.
+
+41
+00:03:34,540 --> 00:03:36,285
+Scott: Yeah is you know this?
+
+42
+00:03:36,545 --> 00:03:38,150
+Scott: D. Whatever whatever?
+
+43
+00:03:38,150 --> 00:03:47,495
+Rym: 300 just like using the Metro North like oh yeah gate 17 is where like track 17 is where my train that I usually take is usually at Right, but they don't.
+
+44
+00:03:47,535 --> 00:03:50,465
+Scott: I don't know if the train if the train runs have numbers.
+
+45
+00:03:50,485 --> 00:03:51,970
+Scott: They don't show them they do.
+
+46
+00:03:52,674 --> 00:03:54,101
+Rym: They're available, but they don't matter.
+
+47
+00:03:54,182 --> 00:03:55,650
+Rym: like every Metro North train is the same.
+
+48
+00:03:55,711 --> 00:03:56,162
+Rym: It's not like.
+
+49
+00:03:56,387 --> 00:03:58,255
+Rym: well That's the better Metro North train.
+
+50
+00:03:58,416 --> 00:03:59,379
+Scott: right but like like.
+
+51
+00:03:59,439 --> 00:04:04,101
+Scott: if there's two flights from New York to Boston every day You know it's gonna be like.
+
+52
+00:04:04,141 --> 00:04:07,683
+Scott: you know Nb1 and nb2 or I don't know.
+
+53
+00:04:08,025 --> 00:04:09,292
+Scott: that's not the number it wouldn't.
+
+54
+00:04:09,312 --> 00:04:10,757
+Scott: you know, but get the idea.
+
+55
+00:04:11,058 --> 00:04:11,299
+Rym: so what?
+
+56
+00:04:11,319 --> 00:04:11,560
+Rym: but I?
+
+57
+00:04:11,600 --> 00:04:25,169
+Rym: but then I noticed it says the flight is 18 hours and that's Shorter than I remember that trip being because I haven't been to Singapore in a while, so I Google the flight number because I just want to see like.
+
+58
+00:04:25,189 --> 00:04:29,390
+Rym: hey Is it a new plane like maybe like look like where maybe maybe the the?
+
+59
+00:04:29,690 --> 00:04:32,382
+Rym: Landing to refuel and take off is like in a. it's gonna.
+
+60
+00:04:32,503 --> 00:04:36,612
+Scott: It's gonna do a sky refueling It's it's yeah Right.
+
+61
+00:04:36,954 --> 00:04:39,590
+Rym: so I google it and I see it's like it's a nice plane.
+
+62
+00:04:39,691 --> 00:04:42,650
+Rym: It's like an a 350 900 like a super fancy thing.
+
+63
+00:04:42,730 --> 00:04:45,048
+Rym: So I'm gonna have a nice little like sleeping cubicle in it.
+
+64
+00:04:45,592 --> 00:04:54,549
+Rym: But then I see a little bit down on the fold in the Google search There's a Wikipedia page for this flight specifically like its own page.
+
+65
+00:04:55,095 --> 00:04:56,210
+Rym: Which okay now?
+
+66
+00:04:56,390 --> 00:04:57,333
+Rym: I've seen that before.
+
+67
+00:04:57,454 --> 00:04:58,758
+Rym: so I'm like what.
+
+68
+00:04:59,280 --> 00:05:01,507
+Rym: so I click on it, and there is indeed a.
+
+69
+00:05:01,527 --> 00:05:02,510
+Scott: what's the number?
+
+70
+00:05:03,410 --> 00:05:11,372
+Rym: SQ 24 and the Wikipedia page is Singapore Airlines flights 23 and 24.
+
+71
+00:05:11,372 --> 00:05:14,040
+Rym: This is the longest flight in the world.
+
+72
+00:05:15,003 --> 00:05:19,376
+Rym: I see that I did not know that I've never done this direct flight before.
+
+73
+00:05:19,417 --> 00:05:20,500
+Rym: I always transferred in.
+
+74
+00:05:20,560 --> 00:05:22,245
+Scott: it only started on November 9th.
+
+75
+00:05:22,245 --> 00:05:23,549
+Scott: 2020 hasn't been around.
+
+76
+00:05:23,629 --> 00:05:29,000
+Rym: yeah There used to be one I knew went to Newark And I never did it because I'm not going to do work.
+
+77
+00:05:29,462 --> 00:05:31,911
+Rym: the time it takes to get to Newark from here is like a Nightmare.
+
+78
+00:05:32,312 --> 00:05:36,924
+Scott: so they're the longest regularly scheduled non-stop flights in the world.
+
+79
+00:05:36,964 --> 00:05:44,650
+Rym: Yeah, well, I mean a United States B2 stealth bomber can literally circumnavigate the globe without landing.
+
+80
+00:05:45,112 --> 00:05:49,610
+Scott: I think the longest flight in the world would be go to outer space go around a whole bunch and then come right.
+
+81
+00:05:49,730 --> 00:05:50,694
+Scott: That's like the longest.
+
+82
+00:05:50,855 --> 00:05:52,300
+Rym: Are you still lying if there's no air?
+
+83
+00:05:52,983 --> 00:05:53,224
+Scott: Yes.
+
+84
+00:05:53,264 --> 00:05:54,027
+Scott: It's aerospace.
+
+85
+00:05:54,107 --> 00:05:54,689
+Scott: It's all the same.
+
+86
+00:05:55,373 --> 00:05:56,319
+Rym: There's no air up there.
+
+87
+00:05:56,339 --> 00:06:04,562
+Rym: You're not using Bernoulli's principle anymore but so yeah, I I'm going to be in a plane coming home.
+
+88
+00:06:04,623 --> 00:06:05,908
+Rym: I'm gonna leave Singapore at 6 a.m.
+
+89
+00:06:06,970 --> 00:06:07,412
+Rym: Saturday.
+
+90
+00:06:07,432 --> 00:06:12,266
+Rym: I'm gonna land at JFK without without touching ground in between at 5 p.m.
+
+91
+00:06:13,972 --> 00:06:21,210
+Rym: the same day Spending 18 and a half hours on a plane in a little cubicle with a private seat and a bed.
+
+92
+00:06:21,512 --> 00:06:22,821
+Rym: But this flight is long enough.
+
+93
+00:06:22,861 --> 00:06:33,386
+Rym: that means I'm gonna Literally get on this plane have a whole day of watching movies And playing video games on my laptop and the switch eating breakfast lunch and dinner.
+
+94
+00:06:33,527 --> 00:06:41,589
+Rym: I'm gonna go to sleep I'm gonna wake up and then I'm gonna have at least two more meals and watch like three more movies before I land.
+
+95
+00:06:42,634 --> 00:06:43,659
+Scott: The meds started fucking up.
+
+96
+00:06:43,941 --> 00:06:44,564
+Rym: Of course, they did.
+
+97
+00:06:45,268 --> 00:06:55,190
+Rym: Yep and the scorpion not but staying I. I never appreciated what it's like to be a New York sports fan till I lived here long enough.
+
+98
+00:06:55,653 --> 00:07:00,110
+Rym: I always thought you were overly pessimistic But I realized I came from a land of plenty.
+
+99
+00:07:00,251 --> 00:07:03,250
+Rym: I came from a land of the Tigers where I haven't been good in my lifetime.
+
+100
+00:07:03,330 --> 00:07:03,953
+Rym: So who cares?
+
+101
+00:07:04,314 --> 00:07:05,620
+Rym: and the Lions are always terrible.
+
+102
+00:07:05,660 --> 00:07:06,263
+Rym: So who cares?
+
+103
+00:07:06,524 --> 00:07:07,990
+Rym: and the Red Wings are always in the playoffs.
+
+104
+00:07:08,030 --> 00:07:08,453
+Rym: What do you mean?
+
+105
+00:07:08,734 --> 00:07:10,665
+Rym: hockey teams don't always make the playoffs?
+
+106
+00:07:10,685 --> 00:07:12,914
+Scott: That's a thing Half of them do.
+
+107
+00:07:13,377 --> 00:07:20,890
+Rym: yeah, because the Red Wings were in the playoffs 32 They were 30 times over 32 years basically coinciding with my entire childhood.
+
+108
+00:07:22,351 --> 00:07:23,296
+Rym: So, uh, yeah.
+
+109
+00:07:23,457 --> 00:07:25,065
+Rym: Anyway got some news.
+
+110
+00:07:25,266 --> 00:07:25,950
+Rym: What's your news?
+
+111
+00:07:27,160 --> 00:07:31,784
+Scott: So Space battleship Yamato right is as of October 6th.
+
+112
+00:07:32,005 --> 00:07:39,876
+Scott: So three days ago is 50 years old since the very first episode appeared on Television, right?
+
+113
+00:07:39,936 --> 00:07:41,342
+Scott: I think that came before the manga.
+
+114
+00:07:41,442 --> 00:07:45,356
+Rym: I feel like that that made someone else Turn to dust just now.
+
+115
+00:07:45,697 --> 00:08:03,651
+Scott: Yeah, I mean it's only like 10 years less than 10 years older than us It's not you know, it's like when we were born it wasn't that old and now it's you know anyway, so of course, there's all sorts of anniversary celebrations and they're constantly making new Yamato movies and remakes all the Time.
+
+116
+00:08:03,691 --> 00:08:03,972
+Scott: there's like.
+
+117
+00:08:04,072 --> 00:08:17,930
+Scott: there's like a some 31 99 remake movie series going on and it's like, you know If you just want to see that story again with CG or higher resolution or new animation or whatever they're doing I don't even pay attention because it's like I seen the original.
+
+118
+00:08:18,272 --> 00:08:20,826
+Scott: Why do I need to watch remakes and retellings?
+
+119
+00:08:20,906 --> 00:08:21,509
+Scott: and it's like.
+
+120
+00:08:21,529 --> 00:08:30,130
+Rym: well The first two words of this article are the kind of situation where I at least think Maybe I should see this remake.
+
+121
+00:08:30,993 --> 00:08:48,709
+Scott: Yeah, but as part of this whole anniversary thing they have announced that Your old pal Hideaki Anno and his studio Cara which is the real guy next, you know The the people own the name guy next are gone, but you know Cara everyone knows is the real guy.
+
+122
+00:08:48,729 --> 00:08:55,115
+Scott: next They're gonna make a Yamato of some kind and so That seems like that's good.
+
+123
+00:08:55,155 --> 00:08:56,379
+Scott: That's that's not like.
+
+124
+00:08:56,460 --> 00:08:59,310
+Scott: that's not just gonna be a remake or retelling or whatever, right?
+
+125
+00:08:59,410 --> 00:09:07,147
+Scott: This is gonna be like you have to assume That going in line with how they do it's gonna be like a shin Yamato kind of deal of some.
+
+126
+00:09:07,187 --> 00:09:07,909
+Rym: gotta be right.
+
+127
+00:09:08,531 --> 00:09:10,778
+Scott: So whatever it is, it's gonna be good.
+
+128
+00:09:10,918 --> 00:09:15,050
+Rym: He killed off the concept of Evangelion's so he's got to do something.
+
+129
+00:09:15,716 --> 00:09:20,779
+Scott: Yeah, I mean, you know This should be a good good for us nerds.
+
+130
+00:09:21,321 --> 00:09:22,545
+Scott: we will enjoy that.
+
+131
+00:09:22,805 --> 00:09:26,280
+Rym: if I mean good or bad I I think we're all gonna watch it.
+
+132
+00:09:27,084 --> 00:09:32,140
+Scott: I should also mention that I think it was a news on an episode some time ago.
+
+133
+00:09:32,220 --> 00:09:34,528
+Scott: There was that they're making that Rosa Versailles movie.
+
+134
+00:09:34,909 --> 00:09:39,263
+Scott: Oh, yeah They have announced that it's coming out on January 31st.
+
+135
+00:09:39,324 --> 00:09:41,170
+Scott: So basically very soon.
+
+136
+00:09:42,947 --> 00:09:46,630
+Scott: So There will be opportunities for people around the world to to watch it.
+
+137
+00:09:46,730 --> 00:09:51,033
+Rym: they've said this a lot on GeekNights over the last just few years, but we're.
+
+138
+00:09:51,113 --> 00:09:57,114
+Rym: we do live despite capitalist hell world in a like super double platinum diamond age of Animation.
+
+139
+00:09:57,475 --> 00:09:58,680
+Rym: like our cup overflow it.
+
+140
+00:09:58,921 --> 00:10:04,627
+Rym: there are like a tier anime I haven't even watched one episode of that have come out in the last two years.
+
+141
+00:10:04,647 --> 00:10:11,050
+Scott: Yeah Well, you know our old anime world order pals from back in the podcast days on their discord.
+
+142
+00:10:11,170 --> 00:10:13,036
+Scott: They do these things where they all get.
+
+143
+00:10:13,377 --> 00:10:20,642
+Scott: they get they turn on the discord in the in the voice chat and they stay watch Every trailer for the new season and I just sort of keep.
+
+144
+00:10:20,783 --> 00:10:22,550
+Scott: if I'm home I get a notification.
+
+145
+00:10:22,671 --> 00:10:26,981
+Scott: I keep that shit open on the side And I got I'm right down like it.
+
+146
+00:10:27,001 --> 00:10:32,890
+Scott: There's a show that like mm-hmm I write I write it down like yeah, I make like a little list and it's like there's like eight to ten.
+
+147
+00:10:32,991 --> 00:10:43,210
+Scott: You know most of its garbage Absolute trash, but they're like eight to ten shows where it's like, oh, you know something's going on there Something special maybe worth even some of them like oh, yeah, I want to see that one.
+
+148
+00:10:43,230 --> 00:10:43,813
+Scott: That's real hot.
+
+149
+00:10:44,315 --> 00:10:45,400
+Scott: And then how many do I watch?
+
+150
+00:10:45,501 --> 00:10:46,927
+Scott: like one if we're lucky?
+
+151
+00:10:47,068 --> 00:10:48,848
+Scott: Yep maybe two.
+
+152
+00:10:50,092 --> 00:10:54,229
+Rym: So speaking of one that I haven't actually like my god engaged with yet.
+
+153
+00:10:54,752 --> 00:10:58,770
+Rym: So if you don't remember Junji ito's ito's Uzumaki.
+
+154
+00:10:58,910 --> 00:11:05,210
+Rym: Nope has an anime and that was I think my personal machine for that was maxed out.
+
+155
+00:11:05,391 --> 00:11:06,850
+Rym: You have to say and even then I didn't like engage.
+
+156
+00:11:07,031 --> 00:11:12,328
+Scott: I mean the trail the trailer is gonna max out your hype machine just based on the fact that it looks like manga.
+
+157
+00:11:12,348 --> 00:11:13,147
+Scott: that's moving Yep.
+
+158
+00:11:14,313 --> 00:11:22,450
+Rym: So there is actually some Ridiculous drama that has unfolded around this and we don't really know all the details.
+
+159
+00:11:23,110 --> 00:11:31,592
+Rym: supposedly after like two episodes the animation quality like drops off to embarrassingly fucking bad Really?
+
+160
+00:11:31,612 --> 00:11:36,393
+Scott: Yeah, I know that because I you know, this is supposed to only be a few episodes Like.
+
+161
+00:11:36,453 --> 00:11:37,669
+Scott: it's not that many episodes.
+
+162
+00:11:37,879 --> 00:11:40,219
+Scott: Yeah This is a story that I saw.
+
+163
+00:11:40,340 --> 00:11:54,510
+Scott: I saw the live-action movie from I think like the year 2000 of Uzumaki right and I think I've read the manga also, so producer the point is the story fits into a single movie basically in its entirety and it's not like rushed or anything.
+
+164
+00:11:54,590 --> 00:11:55,575
+Scott: It's not a long story.
+
+165
+00:11:55,595 --> 00:11:56,801
+Scott: So it's only a few episodes.
+
+166
+00:11:57,163 --> 00:11:58,469
+Scott: Why wouldn't they all be?
+
+167
+00:11:59,650 --> 00:12:03,510
+Scott: You know, it's not like you had to spread your efforts out over 26 episodes or anything.
+
+168
+00:12:03,530 --> 00:12:05,421
+Scott: You're only making four or six over many.
+
+169
+00:12:05,461 --> 00:12:08,769
+Scott: It was I don't know So they should all be equally good.
+
+170
+00:12:09,091 --> 00:12:09,736
+Rym: So I learned this.
+
+171
+00:12:09,796 --> 00:12:11,810
+Rym: I haven't watched it like I haven't engaged with this at all.
+
+172
+00:12:11,850 --> 00:12:14,190
+Scott: It's also this is a Cartoon Network deal, right?
+
+173
+00:12:14,290 --> 00:12:17,240
+Scott: This is like airing on Adult Swim like first.
+
+174
+00:12:17,441 --> 00:12:18,885
+Scott: like this is from what I heard.
+
+175
+00:12:18,946 --> 00:12:21,315
+Scott: if I'm not if I'm not wrong Could be wrong.
+
+176
+00:12:21,496 --> 00:12:23,466
+Rym: So, uh, but it's the producer.
+
+177
+00:12:23,546 --> 00:12:41,317
+Rym: Jason DeMarco Made some blue sky posts Basically saying we got fucked over on this anime and like everything went to shit and I can't say who's at fault But somebody's at fault like brah and then a little while later Deleted all of those.
+
+178
+00:12:41,337 --> 00:12:55,889
+Rym: Yeah, people seem to keep doing that these days which you know is a good way If you want to make sure someone investigative Lee journalists something But at the same time you don't want to lose your whole career over it.
+
+179
+00:12:56,331 --> 00:13:07,510
+Rym: That is a way to get it out there, but then do the right thing take it down and apologize, but also Someone is going to have seen those posts and write an article like this and people are gonna start digging.
+
+180
+00:13:08,971 --> 00:13:16,261
+Rym: But to quote the article because I o9 that also reached out to them like journalists are trying to figure out I'm gonna read this quote.
+
+181
+00:13:16,908 --> 00:13:36,570
+Rym: I O9 reached out to Adult Swim to inquire about why the show experienced such a perplexing dip in quality And that there seems to be something happened related to the production and Adult Swim got screwed over and no one will reveal the name of the person.
+
+182
+00:13:37,011 --> 00:13:44,880
+Rym: but it's very clear from all the chatter and all the investigation so far there is a name that is responsible and That's all we know.
+
+183
+00:13:44,900 --> 00:13:48,214
+Rym: so You can read this article.
+
+184
+00:13:48,576 --> 00:13:58,985
+Rym: and this article is the extent of what we know at this time and I haven't watched The show so I don't know how much of a drop-off this is but I don't know.
+
+185
+00:13:59,005 --> 00:14:03,364
+Rym: if I watch the show and the animation looks Fine in episode 3 then I'm gonna definitely do a follow-up.
+
+186
+00:14:06,910 --> 00:14:12,809
+Rym: But anyway Things of the day, what do you got?
+
+187
+00:14:14,491 --> 00:14:15,897
+Scott: What do I have?
+
+188
+00:14:16,179 --> 00:14:32,000
+Scott: it was Yeah Yeah, yes indeed Let us say that you are in the business of making videos Making a music making a podcast making anything that has sound in it audio dramas, right?
+
+189
+00:14:33,963 --> 00:14:35,379
+Scott: No, we're in trouble.
+
+190
+00:14:36,862 --> 00:14:44,460
+Scott: The BBC has made their vast archive of sound effects available on their website.
+
+191
+00:14:45,064 --> 00:14:45,688
+Scott: There's a set.
+
+192
+00:14:46,352 --> 00:14:48,905
+Scott: there is a sound effects Archive.
+
+193
+00:14:49,327 --> 00:14:52,240
+Scott: you could maybe find something in there to use as you know your discord.
+
+194
+00:14:52,641 --> 00:15:09,160
+Scott: Uh, you know sound board or anything like that the license for these sound effects because obviously that's the thing You're gonna write is there is a special BBC content license for Remark, right The rules for using this content, right?
+
+195
+00:15:10,581 --> 00:15:12,127
+Scott: Don't mess with our content.
+
+196
+00:15:12,167 --> 00:15:16,582
+Scott: you cannot remove the BBC logos and copyright notices Etc.
+
+197
+00:15:16,662 --> 00:15:20,760
+Scott: All right, you cannot use their content for harmful or offensive purposes.
+
+198
+00:15:21,082 --> 00:15:23,479
+Scott: I not make it look like their content costs money.
+
+199
+00:15:24,162 --> 00:15:29,880
+Scott: You cannot make their content more prominent than non BBC content.
+
+200
+00:15:30,021 --> 00:15:32,251
+Scott: Right because like it might you might look like that.
+
+201
+00:15:32,311 --> 00:15:33,195
+Scott: You are the BBC.
+
+202
+00:15:33,236 --> 00:15:37,940
+Scott: if you did that, you know Right, so you have to make it obvious that you're the content.
+
+203
+00:15:38,040 --> 00:15:41,012
+Scott: It's GeekNights and this part this piece is from the BBC.
+
+204
+00:15:41,072 --> 00:15:42,859
+Scott: this sound effect right not BBC.
+
+205
+00:15:45,581 --> 00:15:48,368
+Scott: You can't exaggerate your relationship with the BBC.
+
+206
+00:15:49,150 --> 00:15:53,040
+Scott: you can't associate their content with advertising or sponsorship, right?
+
+207
+00:15:54,064 --> 00:15:58,492
+Scott: You cannot be Be misleading about where the content came from.
+
+208
+00:15:58,813 --> 00:16:00,420
+Scott: you can't pretend to be the BBC.
+
+209
+00:16:02,202 --> 00:16:07,031
+Scott: And that's you know, there's some other ones but basically it's pretty permissive license It's not?
+
+210
+00:16:07,071 --> 00:16:11,752
+Rym: you know Commons license is actually the most restrictive part and I'm all for that.
+
+211
+00:16:12,394 --> 00:16:13,878
+Scott: Well the details on that.
+
+212
+00:16:13,938 --> 00:16:14,600
+Scott: so you cannot.
+
+213
+00:16:15,721 --> 00:16:20,720
+Scott: That means you cannot put any other content between the link to our content and the content itself.
+
+214
+00:16:20,941 --> 00:16:27,557
+Scott: So you can't have like, you know people wait through an ad Make money and then they end up at a BBC sound effect.
+
+215
+00:16:27,577 --> 00:16:31,220
+Scott: Yeah, right You can't put ads next to or over their content.
+
+216
+00:16:31,662 --> 00:16:36,220
+Scott: You can't put ads in a web page or app that contain mostly our content.
+
+217
+00:16:36,260 --> 00:16:36,902
+Scott: So you can't be like.
+
+218
+00:16:37,203 --> 00:16:42,739
+Scott: here's my better user interface for browsing the BBC sound effects archive ads ads ads.
+
+219
+00:16:42,779 --> 00:16:48,640
+Scott: Yeah But you could have a web page that happens to have like a BBC sound effect on it.
+
+220
+00:16:48,720 --> 00:16:51,098
+Scott: That also has a banner ad and that's probably fine.
+
+221
+00:16:52,782 --> 00:16:57,180
+Scott: And you cannot put ads related to their subject alongside our content.
+
+222
+00:16:57,786 --> 00:17:04,858
+Scott: So you can't for example Take a sound effect of a horse like Rym used and put it next to and put it next to.
+
+223
+00:17:04,897 --> 00:17:05,098
+Scott: horse.
+
+224
+00:17:05,239 --> 00:17:07,031
+Scott: ads Can't do that.
+
+225
+00:17:09,481 --> 00:17:11,851
+Scott: And it says you also can't add extra content.
+
+226
+00:17:11,871 --> 00:17:14,180
+Scott: that means you'd earn money from our content.
+
+227
+00:17:15,461 --> 00:17:21,700
+Scott: Okay, I'm not gonna do any of those things But if you want to just use these sound effects in a podcast or some a song or something you give them credit.
+
+228
+00:17:21,740 --> 00:17:22,608
+Scott: You're probably gonna be fine.
+
+229
+00:17:22,630 --> 00:17:23,559
+Rym: It's cool stuff.
+
+230
+00:17:24,161 --> 00:17:30,137
+Rym: So, uh, I think of the day is so if you don't ski or snowboard then you'll live longer.
+
+231
+00:17:30,698 --> 00:17:36,560
+Rym: actually the Statistic, I mean it's coming into trees is less dangerous than bicycling.
+
+232
+00:17:37,481 --> 00:17:38,819
+Scott: Yeah, it looks like I hit the tree.
+
+233
+00:17:40,320 --> 00:17:43,814
+Rym: But you might imagine like you have this vision of like what it's like.
+
+234
+00:17:43,854 --> 00:17:44,778
+Rym: and what are the visions you have?
+
+235
+00:17:44,818 --> 00:17:49,920
+Rym: is there's a ski Lift and yeah, you ski up in front of a little chair and then the chair hits your butt and takes you up the mountains.
+
+236
+00:17:49,981 --> 00:17:51,699
+Rym: You don't have to like climb the mountain.
+
+237
+00:17:53,282 --> 00:18:05,076
+Rym: There are many other ways to get up the mountain other than chairs or big gondolas that are just like buses on cables that carry you up the mountain and Most of those other ways to get up the mountain are perfectly fine.
+
+238
+00:18:05,136 --> 00:18:07,807
+Rym: Like I want to be clear I'm a I'm an expert skier.
+
+239
+00:18:08,308 --> 00:18:09,171
+Rym: I've skied a lot.
+
+240
+00:18:09,773 --> 00:18:11,760
+Rym: These things are not actually hard to use.
+
+241
+00:18:12,161 --> 00:18:15,673
+Rym: However, they have a reputation for being very hard to use.
+
+242
+00:18:15,974 --> 00:18:23,440
+Rym: things like t-bars button lifts J bars, these are all magic carpets.
+
+243
+00:18:23,460 --> 00:18:31,300
+Rym: They're all just various contraptions that are not a chair That will get you up the mountain and the thing about them is they're not actually hard to use
+
+244
+00:18:31,942 --> 00:18:32,243
+Scott: But
+
+245
+00:18:32,986 --> 00:18:36,660
+Rym: it is not shall we say even remotely obvious
+
+246
+00:18:37,422 --> 00:18:37,984
+Scott: How to
+
+247
+00:18:38,164 --> 00:18:43,461
+Rym: use them unless you are instructed in their use like there is no intuitive way Like.
+
+248
+00:18:43,582 --> 00:18:47,320
+Rym: I will not blame someone for fucking these things up if they have never encountered them before.
+
+249
+00:18:47,682 --> 00:18:49,050
+Rym: Like you look at some of these things.
+
+250
+00:18:49,090 --> 00:18:50,759
+Rym: they're like, what do I just sit on it?
+
+251
+00:18:50,900 --> 00:18:53,014
+Rym: And if you sit on it, you're gonna be in a YouTube video.
+
+252
+00:18:53,075 --> 00:18:53,840
+Rym: It's gonna be great.
+
+253
+00:18:54,741 --> 00:18:56,653
+Rym: Some of these you're like, oh do I just hold on to it?
+
+254
+00:18:56,955 --> 00:18:57,720
+Rym: Don't hold on to it.
+
+255
+00:18:57,760 --> 00:19:02,160
+Rym: It's gonna pull you up into the air and you're gonna hang there for like 20 minutes before you get to the top.
+
+256
+00:19:02,461 --> 00:19:03,627
+Rym: Don't let go you'll you'll.
+
+257
+00:19:03,687 --> 00:19:06,399
+Rym: I think you'll drop instead and then you're gonna be in a YouTube video.
+
+258
+00:19:06,942 --> 00:19:19,440
+Rym: So this video is five minutes and 23 seconds of people failing at the more Interesting ways to get up a mountain and the first one this snowboarder is like.
+
+259
+00:19:20,701 --> 00:19:29,075
+Rym: It's so perfectly comedic the nature of the increasing failures that this person goes through That this is poetry.
+
+260
+00:19:29,236 --> 00:19:32,207
+Scott: this video Yeah I mean I I don't ski obviously and I won't.
+
+261
+00:19:32,348 --> 00:19:39,635
+Scott: but if I had to go use a ski lift one of the various ski lift mechanisms I would just obviously watch other people do it.
+
+262
+00:19:40,579 --> 00:19:43,065
+Rym: and There's Front of you.
+
+263
+00:19:43,246 --> 00:19:48,049
+Rym: if you're at a ski resort and there's nobody in front of you Well one you can just ask the guy standing there.
+
+264
+00:19:48,069 --> 00:19:56,300
+Scott: Yeah, I would ask someone I would wait I would not attempt to use it until I knew how and then I might fail at the execution.
+
+265
+00:19:56,482 --> 00:20:03,882
+Scott: Yeah, if there is an execution element I might like try to grab if it's supposed to be grabbed on to I might try to grab on and fail to do so Which
+
+266
+00:20:04,043 --> 00:20:04,447
+Rym: I thought
+
+267
+00:20:04,568 --> 00:20:11,560
+Scott: I would at least be Attempting the proper technique, even if I fail to execute the proper technique and I could still end up in YouTube.
+
+268
+00:20:11,822 --> 00:20:19,360
+Scott: Yeah, but it wouldn't be the kind of YouTube I'm guessing is in your video of people not even doing it remotely close to correct the worst part about this.
+
+269
+00:20:19,440 --> 00:20:21,109
+Rym: I think this video is happening.
+
+270
+00:20:21,129 --> 00:20:26,274
+Rym: It looks like Finland is my guess and They even have a little at one point.
+
+271
+00:20:26,314 --> 00:20:34,580
+Rym: The guy is holding Like the mechanism because he just has one laying around and he walks over and demonstrates how to use it on himself.
+
+272
+00:20:34,941 --> 00:20:47,989
+Rym: Then he hands it to the person and like makes them show him the motion and then he says all right now Try the mechanism and they still fuck it up like Catastrophically, I mean sometimes people are just.
+
+273
+00:20:48,913 --> 00:20:50,840
+Rym: I mean it is a snowboarder to be fair.
+
+274
+00:20:53,864 --> 00:20:55,290
+Rym: All right, let's get right into it.
+
+275
+00:20:55,310 --> 00:20:56,195
+Rym: cuz I got a thing.
+
+276
+00:20:56,255 --> 00:20:57,320
+Scott: no no metamoment.
+
+277
+00:20:57,320 --> 00:20:59,148
+Rym: Oh, yeah metamoment really impacts unplugged.
+
+278
+00:20:59,168 --> 00:21:00,936
+Rym: It's coming up pretty soon.
+
+279
+00:21:00,956 --> 00:21:01,700
+Rym: What are the things?
+
+280
+00:21:02,262 --> 00:21:05,672
+Rym: I got a. I know I got a little something PAX Unplugged.
+
+281
+00:21:05,712 --> 00:21:06,475
+Rym: We were gonna be there.
+
+282
+00:21:06,836 --> 00:21:07,097
+Scott: do it.
+
+283
+00:21:07,117 --> 00:21:08,080
+Scott: Did I buy the train ticket?
+
+284
+00:21:08,240 --> 00:21:08,585
+Scott: Yeah, I got it.
+
+285
+00:21:09,378 --> 00:21:11,026
+Rym: I Think I bought the train ticket.
+
+286
+00:21:11,408 --> 00:21:11,769
+Scott: pretty sure.
+
+287
+00:21:11,809 --> 00:21:13,898
+Scott: if I didn't I'm gonna do that today.
+
+288
+00:21:13,918 --> 00:21:16,770
+Rym: Yep I mean Philly is like an hour away from here.
+
+289
+00:21:16,810 --> 00:21:18,918
+Rym: So this is talking number six through eight.
+
+290
+00:21:19,199 --> 00:21:25,670
+Rym: Yep 2024 in Philadelphia PAX Unplugged is gonna be Pretty lit and crowded.
+
+291
+00:21:25,791 --> 00:21:26,757
+Rym: is my expectation?
+
+292
+00:21:26,797 --> 00:21:35,854
+Rym: based on Past performance based on demand based on how other PAX have gone this year I feel like this is gonna be the the hardest going.
+
+293
+00:21:35,914 --> 00:21:38,542
+Rym: PAX Unplugged that's ever unplugged Mm-hmm.
+
+294
+00:21:38,923 --> 00:21:46,339
+Rym: And if you want to see us there on Friday, we're gonna be doing a panel and updated To a degree version of take your fucking turn.
+
+295
+00:21:47,281 --> 00:21:52,380
+Rym: We were convinced to do that one over new more academic content partly just because they got to fill rooms.
+
+296
+00:21:52,420 --> 00:21:53,509
+Rym: They got to get people out of the hall.
+
+297
+00:21:53,530 --> 00:22:08,973
+Rym: Like it's gonna be a crowded convention We were asked to do something that will draw a crowd from the title alone - we're going to be doing a learn and play of a game that I still can't say Because the embargo is still in place until the schedule is live.
+
+298
+00:22:09,435 --> 00:22:10,800
+Rym: and the schedule is still not live.
+
+299
+00:22:10,881 --> 00:22:12,191
+Scott: It's a game you could just buy.
+
+300
+00:22:12,251 --> 00:22:13,279
+Scott: why would there be an embargo?
+
+301
+00:22:13,620 --> 00:22:16,995
+Rym: Well, the embargoes on announcing the schedule for learn and plays and what the?
+
+302
+00:22:17,216 --> 00:22:20,116
+Scott: oh, okay I was gonna say cuz look you can just buy this game.
+
+303
+00:22:20,156 --> 00:22:26,520
+Rym: right now We can announce our panel but thus but the schedule and the names of the learn and plays are still under wraps.
+
+304
+00:22:27,102 --> 00:22:29,894
+Rym: I can imagine why because one thing I love tabletop.
+
+305
+00:22:30,617 --> 00:22:31,200
+Rym: I love PAX.
+
+306
+00:22:32,183 --> 00:22:56,942
+Rym: there are certain tabletop people who are good human beings, but there is a an unrelated and separate culture of tabletop people who are extremely Problematic when it comes to Scheduling when they're gonna play a game and the rules of how they confirm that they will be the one to be able to sit at the table and play a Specific game.
+
+307
+00:22:57,404 --> 00:23:05,470
+Rym: and I feel like they need the schedule to go up so that people don't feel like anyone else had an unfair Advanced knowledge because nerds are just like that in tabletop.
+
+308
+00:23:05,811 --> 00:23:06,473
+Rym: That's my guess.
+
+309
+00:23:07,356 --> 00:23:14,940
+Rym: I don't know but Don't expect to see us much other than during those two panels because as much as we want to hang out with everybody.
+
+310
+00:23:15,582 --> 00:23:20,520
+Rym: We're also gonna be enforcing the night shift because this PAX is gonna be huge and definitely need some help.
+
+311
+00:23:20,983 --> 00:23:25,978
+Rym: So this is gonna be mostly a work in PAX for us But if you want to try to find us, there's a good chance.
+
+312
+00:23:26,018 --> 00:23:27,885
+Rym: anytime We're not enforcing or doing content.
+
+313
+00:23:28,206 --> 00:23:29,430
+Rym: We're probably gonna be in first.
+
+314
+00:23:29,470 --> 00:23:30,553
+Rym: look as my guess.
+
+315
+00:23:32,640 --> 00:23:35,191
+Scott: I Did not buy a train ticket yet.
+
+316
+00:23:35,412 --> 00:23:38,546
+Rym: Oh, I will tell you what I will do So right after.
+
+317
+00:23:39,208 --> 00:23:42,039
+Rym: I will tell you which trains I am on right after the show.
+
+318
+00:23:42,942 --> 00:23:44,366
+Rym: Okay, all right.
+
+319
+00:23:44,426 --> 00:23:45,550
+Rym: also magfest is coming up.
+
+320
+00:23:45,590 --> 00:23:47,255
+Rym: we're definitely gonna be there as well.
+
+321
+00:23:47,335 --> 00:23:47,716
+Rym: details.
+
+322
+00:23:47,756 --> 00:23:48,197
+Rym: TBD.
+
+323
+00:23:48,217 --> 00:23:54,131
+Rym: so look back Was a manga and we'll get back to the manga a little bit.
+
+324
+00:23:54,331 --> 00:24:08,260
+Rym: I didn't really notice it But you may know that the mangaka the writer Tatsuki Fujimoto did chainsaw man Which is excellent and also dude is basically busted onto the scene big time, right?
+
+325
+00:24:08,260 --> 00:24:15,729
+Scott: It's like chainsaw man was just such a success out of someone who had done some mangas in the past like fire punch Which yep, not as good as chainsaw man.
+
+326
+00:24:15,749 --> 00:24:18,000
+Scott: I read fire punch, right just to see what the deal was.
+
+327
+00:24:18,160 --> 00:24:28,119
+Scott: Yeah, but because their manga was such a big success with chainsaw man All the other things that they've worked on have now gotten, you know renewed interest and have been published.
+
+328
+00:24:28,640 --> 00:24:30,929
+Scott: So we talked about was it sayonara?
+
+329
+00:24:30,949 --> 00:24:31,612
+Rym: Goodbye airy.
+
+330
+00:24:32,154 --> 00:24:35,496
+Rym: Goodbye airy, which is I'll link to our review of it.
+
+331
+00:24:36,821 --> 00:24:39,610
+Rym: Go read goodbye airy don't learn anything about it.
+
+332
+00:24:39,650 --> 00:24:41,195
+Rym: Just read it with no context.
+
+333
+00:24:41,416 --> 00:24:42,620
+Rym: It is it is great.
+
+334
+00:24:42,861 --> 00:24:50,559
+Rym: Like I did I feel really dumb for not Forts for telling what was going to be on that last page.
+
+335
+00:24:51,605 --> 00:24:54,280
+Rym: Yeah, like I felt really dumb for not seeing that coming.
+
+336
+00:24:54,721 --> 00:24:55,825
+Rym: But now we have.
+
+337
+00:24:55,885 --> 00:24:58,735
+Rym: we have consumed three manga from this person.
+
+338
+00:24:59,076 --> 00:25:02,259
+Rym: They haven't done that many They're basically all hits.
+
+339
+00:25:02,400 --> 00:25:17,299
+Rym: But what I think what's notable is that the one we're talking about now, which is the anime we watch goodbye airy and chainsaw man cover a Shockingly broad range considering the quality of each of these works in a vacuum.
+
+340
+00:25:18,081 --> 00:25:25,140
+Scott: Yeah, usually you see, you know manga creators who do some manga people are you know, they do one thing mostly, right?
+
+341
+00:25:25,320 --> 00:25:27,752
+Scott: It's like the one piece guy right Oda, right?
+
+342
+00:25:27,792 --> 00:25:28,255
+Scott: It's his name.
+
+343
+00:25:28,335 --> 00:25:29,099
+Scott: Yeah, I can't believe.
+
+344
+00:25:29,119 --> 00:25:29,685
+Scott: you know I can't believe.
+
+345
+00:25:29,705 --> 00:25:30,393
+Scott: I don't know the name.
+
+346
+00:25:30,413 --> 00:25:30,960
+Scott: I can't remember.
+
+347
+00:25:30,960 --> 00:25:31,423
+Rym: It is H or Oda.
+
+348
+00:25:31,564 --> 00:25:32,087
+Rym: I knew his name.
+
+349
+00:25:34,267 --> 00:25:40,360
+Scott: Okay The key the movie I guess you could fairly say the number one comic creator in all of human history.
+
+350
+00:25:40,380 --> 00:25:43,613
+Scott: I mean the one piece guy Oda he makes one piece.
+
+351
+00:25:44,115 --> 00:25:45,220
+Scott: What else is he frickin made?
+
+352
+00:25:45,320 --> 00:25:46,886
+Scott: I'm sure he has made something else.
+
+353
+00:25:46,946 --> 00:25:48,090
+Scott: It can't be the only manga.
+
+354
+00:25:48,131 --> 00:25:51,912
+Scott: He's drawn in his life, but relatively speaking It's one.
+
+355
+00:25:51,953 --> 00:26:01,940
+Rym: Yeah You got other like old famous manga cow that even if they have some great great great works They also got a bunch of stinkers hanging around in there.
+
+356
+00:26:01,960 --> 00:26:17,475
+Scott: Yeah, and you've got and people who've done a lot of manga say, you know that are various like, uh, you know Urasawa right has done lots of manga right, but all of those manga are distinctly Urasawa manga Yeah, though they might be different stories with different characters, right?
+
+357
+00:26:17,777 --> 00:26:25,018
+Scott: or you know Rumiko Takahashi so many different manga, but you can tell that they're all still sort of the same.
+
+358
+00:26:25,078 --> 00:26:40,480
+Rym: in a way Panels from a bunch of Rumiko Takahashi's from that are unrelated to each other into a book and I don't think I'd notice right away right, but Fujimoto's seems to actually make You know different manga, right?
+
+359
+00:26:40,680 --> 00:26:43,450
+Scott: like you would not know that look at the creator of.
+
+360
+00:26:43,490 --> 00:26:54,250
+Scott: look back was the good was the creator of chainsaw man and if nobody told you right there isn't sort of like a style or Or anything like about it.
+
+361
+00:26:54,290 --> 00:26:56,780
+Scott: that sort of you know is like a signature.
+
+362
+00:26:58,380 --> 00:27:03,707
+Scott: You know, I don't know style of any kind right at least not that I can see.
+
+363
+00:27:04,028 --> 00:27:11,238
+Scott: maybe someone else who's better at art Would know but like I can't I wouldn't know if no one told me.
+
+364
+00:27:11,459 --> 00:27:17,099
+Rym: yep So we're gonna review it first because it's short like this is an animated movie, but it's only an hour long.
+
+365
+00:27:17,902 --> 00:27:21,831
+Rym: Yep, it's in theaters now like g-kids like there's a lot of did.
+
+366
+00:27:21,871 --> 00:27:25,059
+Scott: well enough that they're gonna add more screenings possibly near you.
+
+367
+00:27:25,825 --> 00:27:27,479
+Rym: Yep, I see screening missed over the place.
+
+368
+00:27:27,902 --> 00:27:36,500
+Scott: It's if you missed it on October 6 and 7th You might be able to still see it and if not, I'm sure it's going to be available for legal home viewing in the near future.
+
+369
+00:27:36,841 --> 00:27:39,291
+Rym: Yep, it is absolutely worth watching.
+
+370
+00:27:39,372 --> 00:27:40,014
+Rym: It's 58 minutes long.
+
+371
+00:27:40,035 --> 00:28:03,947
+Rym: It is Very good and very intense from start to finish And basically it's a. it's a really zoomed in story basically just about these two girls who draw manga in school and one of them is kind of a shut-in and the other one's a gregarious type and It's just both of them Interacting with the world of.
+
+372
+00:28:04,268 --> 00:28:06,819
+Rym: so you want to draw manga you want to be in us?
+
+373
+00:28:07,482 --> 00:28:17,094
+Scott: I think that a lot of the you know, that's an old trope of the you know, the movie about making movies Right and the the manga, you know, we've already had the manga about making manga.
+
+374
+00:28:17,134 --> 00:28:21,679
+Scott: It's called bakuman and You know, but those really?
+
+375
+00:28:22,480 --> 00:28:28,049
+Scott: Often will I get in the weeds and really be about that's the specifics right?
+
+376
+00:28:28,129 --> 00:28:40,700
+Scott: This is not about Manga, it's about you know, like being just an artist About the work the work of an artist the effort an artist puts in to their work, right?
+
+377
+00:28:40,781 --> 00:28:43,080
+Scott: Why does the artist be an artist?
+
+378
+00:28:43,640 --> 00:28:45,829
+Rym: Where does the rotation come from?
+
+379
+00:28:45,989 --> 00:28:47,776
+Rym: like what drives you to try?
+
+380
+00:28:47,877 --> 00:28:48,760
+Rym: when do you take breaks?
+
+381
+00:28:49,160 --> 00:28:51,119
+Rym: Like what is it like to be like exactly as that is?
+
+382
+00:28:51,400 --> 00:28:53,127
+Rym: What is it like to be an artist?
+
+383
+00:28:53,569 --> 00:28:56,160
+Rym: all the parts that people who just consume art often don't see.
+
+384
+00:28:57,043 --> 00:29:11,131
+Scott: It happens to be a. you know, manga as the medium of art that they are Grading, but it could really have been about any medium of art And it would still be the same movie basically and the manga.
+
+385
+00:29:11,212 --> 00:29:13,057
+Rym: it seems like it's with a few liberties.
+
+386
+00:29:13,077 --> 00:29:18,760
+Rym: a very direct Interpretation of the manga was directed by a kiyotaka, oshiyama.
+
+387
+00:29:19,101 --> 00:29:23,899
+Rym: I actually don't know from anything else and there's no link on his name in Wikipedia, too.
+
+388
+00:29:24,040 --> 00:29:27,280
+Scott: But we saw we saw a commentary of him, right?
+
+389
+00:29:27,380 --> 00:29:32,100
+Scott: They added a commentary at the end of the movie and you stay after the credits and we heard him speak.
+
+390
+00:29:32,302 --> 00:29:33,780
+Scott: And we also heard some voice actors.
+
+391
+00:29:34,763 --> 00:29:40,350
+Scott: You know discuss, you know what it was like working on on the movie But I would say it is extremely good.
+
+392
+00:29:40,431 --> 00:29:42,379
+Rym: Like this is really worth watching it.
+
+393
+00:29:43,545 --> 00:29:49,114
+Rym: I wouldn't say it has a twist but it has a a Moment where it shifts into its second act.
+
+394
+00:29:49,275 --> 00:29:54,180
+Rym: that is extremely Shocking and sudden and I think it works really well.
+
+395
+00:29:54,702 --> 00:29:57,591
+Rym: I think the best scene in the entire movie.
+
+396
+00:29:58,053 --> 00:30:11,294
+Rym: there is a scene where one of the characters learns something about the other character and proceeds to walk down a path in the rain dancing to themselves and like even watching it.
+
+397
+00:30:11,735 --> 00:30:17,772
+Scott: it was apparent like this was Such a good some kind of yeah, some kind of special scene, right.
+
+398
+00:30:18,033 --> 00:30:25,220
+Rym: and then the interview the directors like yeah So, you know why animate something that's basically just a static thing of like people sitting there drawing.
+
+399
+00:30:25,501 --> 00:30:27,810
+Rym: Well, we went ham on this one scene.
+
+400
+00:30:28,192 --> 00:30:30,300
+Rym: It was the scene when it was that scene like he talked.
+
+401
+00:30:30,963 --> 00:30:48,980
+Scott: Right, we already knew that that was the scene that he was talking about because it's just so odd like you don't see that just like like it must have been a minute of like an of a short movie at least a minute right of Just somebody walking Skipping actually skipping down in the rain down a dirt path alone, right?
+
+402
+00:30:49,560 --> 00:30:56,860
+Scott: You know in having different, you know human expressions of face and body and with no dialogue or anything, right?
+
+403
+00:30:56,880 --> 00:30:59,317
+Scott: It's like that's the kind of stuff that you know.
+
+404
+00:30:59,982 --> 00:31:01,798
+Scott: Anime does that that movies do?
+
+405
+00:31:02,481 --> 00:31:03,393
+Scott: Television doesn't do.
+
+406
+00:31:03,677 --> 00:31:04,722
+Rym: yep It was.
+
+407
+00:31:05,103 --> 00:31:08,251
+Rym: it is a sublime piece of animation and it is.
+
+408
+00:31:08,351 --> 00:31:11,519
+Rym: it is like one of the cornerstones of this movie.
+
+409
+00:31:12,984 --> 00:31:14,614
+Rym: the other thing I think is worth knowing.
+
+410
+00:31:14,634 --> 00:31:28,440
+Rym: so This was written the manga that is based on as a direct response to the Kyoto arson attack Which we talked about on geek night, which I didn't realize until much later, but now it makes much more sense.
+
+411
+00:31:29,023 --> 00:31:31,360
+Scott: Yep, like I knew about the arson attack, right?
+
+412
+00:31:31,420 --> 00:31:36,780
+Scott: We talked about on the show when it happened, but I didn't realize that this manga was related to that.
+
+413
+00:31:36,860 --> 00:31:40,340
+Scott: But now that someone's it's like I've become so obvious, right?
+
+414
+00:31:41,740 --> 00:31:57,199
+Scott: And I think oh if you so you have to if you go in with that context It'll make a lot more sense and be a lot less I think out of nowhere When stuff happens, yep, and It be ready to cry a little bit.
+
+415
+00:31:57,362 --> 00:32:01,852
+Rym: It's a it's a good movie But the crowd reacted very strongly to the entire movie.
+
+416
+00:32:02,072 --> 00:32:04,380
+Rym: that theater was packed too, which I was very happy about.
+
+417
+00:32:04,541 --> 00:32:06,440
+Scott: Well, we live in a very nerdy neighborhood.
+
+418
+00:32:06,602 --> 00:32:07,940
+Rym: We do as we see the same.
+
+419
+00:32:08,000 --> 00:32:13,841
+Rym: There's like a few hundred people and I see like the same rotation of them and almost every animated movie that we go see in The theater.
+
+420
+00:32:14,423 --> 00:32:21,404
+Scott: Yeah, but you know one of the carrot one of the two characters is named kyomoto who is obviously that's named after Kyoto animation.
+
+421
+00:32:21,464 --> 00:32:22,106
+Scott: it's like that was.
+
+422
+00:32:22,286 --> 00:32:24,232
+Scott: it's like oh, it's it's really.
+
+423
+00:32:24,894 --> 00:32:26,960
+Scott: if you had watched this I get or read the manga.
+
+424
+00:32:27,100 --> 00:32:33,120
+Scott: I guess at the time the manga came out you wouldn't have had to have you know, maybe been told about that connection.
+
+425
+00:32:33,281 --> 00:32:35,620
+Scott: Yeah, you know and it would just be really I you know.
+
+426
+00:32:35,740 --> 00:32:37,888
+Scott: But now because it we're watching this anime.
+
+427
+00:32:38,330 --> 00:32:45,580
+Scott: so far after the fact and you know, we're not Japanese You may have forgotten about it or might not be you know, such an anime fan that you know about it, right?
+
+428
+00:32:45,680 --> 00:32:49,256
+Scott: How many people outside of Japan and outside of anime fandom know about that happen?
+
+429
+00:32:49,357 --> 00:32:50,000
+Scott: Probably not many.
+
+430
+00:32:51,125 --> 00:32:53,703
+Scott: My mom doesn't know that that happened right but you know so
+
+431
+00:32:53,843 --> 00:33:09,860
+Rym: and I think it is as an element of also interrogating the relationship between artists and creators and society and the pressures that society puts on them and also just the dangers of society to Creators which is an increasing thing in this world.
+
+432
+00:33:09,960 --> 00:33:18,773
+Rym: Like a lot of creators have to hide from their own fans kind of legitimately because a lot of fans of media Get obsessed and dangerous in the real world.
+
+433
+00:33:18,813 --> 00:33:31,840
+Rym: and this is interrogates that alongside interrogating every other aspect of what it means to be a creator like this is a. it's not a new concern like People were sending creepy letters to authors for as long as there have been works of art.
+
+434
+00:33:31,960 --> 00:33:41,669
+Rym: But the level of access is so much higher that I think this is something that young creators think about a lot in this world Especially people who are directly publishing.
+
+435
+00:33:41,690 --> 00:33:50,600
+Rym: I don't have a company in between them in the public But even here the Kyoto animation studio attack was like there was a company like this was a company that was attacked.
+
+436
+00:33:50,701 --> 00:33:52,960
+Rym: It wasn't like someone doing their webcomic.
+
+437
+00:33:54,926 --> 00:34:01,220
+Rym: yep, so At this point do a little bit of a little bit of spoiler because I just want to react to a few bits of this.
+
+438
+00:34:01,300 --> 00:34:02,838
+Rym: But we're not gonna just step through the whole plot.
+
+439
+00:34:03,644 --> 00:34:06,138
+Rym: What got me about the scene where she is?
+
+440
+00:34:06,680 --> 00:34:08,103
+Rym: Dancing in the rain?
+
+441
+00:34:08,585 --> 00:34:13,077
+Rym: the beauty of it was the the sheer sense of victory.
+
+442
+00:34:13,157 --> 00:34:20,117
+Rym: like she's so obsessed that this other mystery person is a better artist than her that she like has dedicated her life to surpassing her.
+
+443
+00:34:20,478 --> 00:34:30,456
+Rym: and then she finds out that the other girl is actually a fan of her and that she has basically Quote one and just that look on her face when she starts stomping into the like.
+
+444
+00:34:30,496 --> 00:34:31,400
+Rym: it's very much a fuck.
+
+445
+00:34:31,500 --> 00:34:32,606
+Rym: Yeah, she's thinking fuck.
+
+446
+00:34:32,626 --> 00:34:46,260
+Scott: Yeah over and over again that entire scene Right, but I mean the other thing is that even though you know you sort of the movie gives you the impression that You know kiyomoto is like a better artist, right?
+
+447
+00:34:46,621 --> 00:34:49,009
+Scott: It's like it's real motto is draws.
+
+448
+00:34:49,130 --> 00:34:50,414
+Scott: You know they make they start to.
+
+449
+00:34:50,534 --> 00:34:52,040
+Scott: it's like oh she draws slowly.
+
+450
+00:34:52,400 --> 00:34:57,636
+Scott: She draws backgrounds like she can't draw characters and tell stories and or write or have I?
+
+451
+00:34:57,656 --> 00:35:00,445
+Scott: she's not that kind of artist And is not you know this?
+
+452
+00:35:00,546 --> 00:35:08,439
+Scott: even so even though you know the characters that the main character Fujino draws at least in their youth are more simple.
+
+453
+00:35:08,780 --> 00:35:14,820
+Rym: But Fujino has more like total creative output on the stories the characters like what's happening.
+
+454
+00:35:15,362 --> 00:35:25,475
+Scott: But it's like she can't tell us to be able to draw right to draw manga that tells a story that makes the whole class laugh and entertains even though it might not be some amazing background.
+
+455
+00:35:25,675 --> 00:35:28,586
+Scott: draftsmanship right is Just as good.
+
+456
+00:35:28,706 --> 00:35:32,220
+Scott: even if it's not the result isn't as visually impressive.
+
+457
+00:35:33,041 --> 00:35:38,339
+Scott: About like an xkcd is like better than a lot of things that are much more well drawn than xkcd.
+
+458
+00:35:39,802 --> 00:35:42,494
+Rym: But then also now it and then it follows from there to like.
+
+459
+00:35:43,137 --> 00:35:45,945
+Rym: that is how Larger works of art get made.
+
+460
+00:35:45,965 --> 00:35:56,040
+Rym: you've got different people with different kinds of skills collaborating and this movie really Really dives into the creative partnership, but also the friendship that happens in those cases.
+
+461
+00:35:57,163 --> 00:35:58,333
+Rym: Mm-hmm.
+
+462
+00:35:58,373 --> 00:36:20,914
+Rym: the other thing that stood out I think really strongly is and I get the impression part of what it's interrogating is I've heard other artists express this before oh There's a specific weird kind of guilt that some creative Workers feel when they draw inspiration from tragedy when they draw inspiration from things that feel like they you shouldn't draw inspiration from.
+
+463
+00:36:20,934 --> 00:36:28,840
+Rym: and I think that scene at the end with the You know her alternative idea that leads to a for commie and the little sickle.
+
+464
+00:36:29,201 --> 00:36:35,900
+Rym: I think that was I think that was very specifically addressing that just the nature of inspiration is also really complex for artists.
+
+465
+00:36:36,622 --> 00:36:40,497
+Scott: Yeah, I mean, you know people have you know forever been being like too soon.
+
+466
+00:36:40,577 --> 00:36:42,350
+Scott: Yep, right It's like when it looks like.
+
+467
+00:36:42,410 --> 00:36:43,399
+Scott: when is it too soon?
+
+468
+00:36:43,560 --> 00:36:44,082
+Scott: You know, it's like.
+
+469
+00:36:44,122 --> 00:36:47,993
+Scott: I don't think it's healthy for you know, humanity to just ignore,
+
+470
+00:36:48,013 --> 00:36:48,074
+Rym: you
+
+471
+00:36:48,675 --> 00:37:03,383
+Scott: know and not you know Recount heart, you know the horrible things in in human society and our world, you know Should we only make art of the of the good things that some aliens will come and think wow these people they're all histories It's like.
+
+472
+00:37:03,423 --> 00:37:05,231
+Scott: but then they look around and everything's fucking sucks.
+
+473
+00:37:05,694 --> 00:37:06,980
+Scott: What what's going on here?
+
+474
+00:37:07,120 --> 00:37:08,565
+Scott: They're just lying to each other all the time.
+
+475
+00:37:08,625 --> 00:37:12,660
+Scott: It's like, you know, it's like no we think about some like the greatest.
+
+476
+00:37:12,860 --> 00:37:14,164
+Scott: You know novels and things.
+
+477
+00:37:14,184 --> 00:37:16,532
+Scott: and then we got you know movies and all artworks.
+
+478
+00:37:16,612 --> 00:37:19,260
+Scott: and it's like yeah all these amazing war movies.
+
+479
+00:37:19,661 --> 00:37:22,811
+Scott: It's like oh, yeah, it's amazing World War 2 movie.
+
+480
+00:37:23,031 --> 00:37:24,375
+Scott: It's like one of the greatest there is.
+
+481
+00:37:24,436 --> 00:37:31,896
+Scott: it's like, oh, you know It's like yeah at some point You have to be able to make art of tragic things and it's not.
+
+482
+00:37:31,916 --> 00:37:49,163
+Scott: there's no Guilt in that as long as you're doing it in a in an appropriate way Yep, or the very least in an earnest good faith way because you know lying or attempting to change people's memories of what happened or Like.
+
+483
+00:37:49,203 --> 00:37:50,848
+Rym: I think it was really important.
+
+484
+00:37:51,369 --> 00:37:54,920
+Rym: at the end the little comic she drew was a four-panel joke.
+
+485
+00:37:56,722 --> 00:37:58,469
+Rym: Yep, I think it also really really like.
+
+486
+00:37:58,529 --> 00:38:01,200
+Rym: it sort of landed on the idea that like do you regret?
+
+487
+00:38:02,340 --> 00:38:08,217
+Rym: Bringing your work into the world knowing that a tragedy happened kind of directly because of it being in the world?
+
+488
+00:38:08,237 --> 00:38:09,120
+Scott: sort of yeah.
+
+489
+00:38:09,200 --> 00:38:11,849
+Rym: But I think the answer is you still have to create.
+
+490
+00:38:11,889 --> 00:38:13,534
+Rym: you still should create like.
+
+491
+00:38:13,614 --> 00:38:15,440
+Rym: you can't just be the hikikomori.
+
+492
+00:38:16,181 --> 00:38:24,407
+Scott: Right, right, so, you know the question it you know the character Fujimoto is like, oh if I hadn't have brought kyomoto out of her room She wouldn't have died, but then it's like.
+
+493
+00:38:24,427 --> 00:38:28,377
+Scott: the obvious answer is like well if you didn't bring her out of her room Would she have lived?
+
+494
+00:38:29,582 --> 00:38:31,051
+Scott: She would have just stayed in the room there.
+
+495
+00:38:31,072 --> 00:38:32,360
+Scott: Yeah, so it's like.
+
+496
+00:38:33,422 --> 00:38:37,400
+Scott: You know, hey, would you rather go out in your life and and do something?
+
+497
+00:38:38,161 --> 00:38:43,198
+Scott: you know meaningful and short because you're some artist who died early.
+
+498
+00:38:43,218 --> 00:38:47,892
+Scott: or Would you rather just do be live long and do nothing.
+
+499
+00:38:48,052 --> 00:38:50,800
+Rym: Yeah, but sometimes that like sometimes the bad end happens.
+
+500
+00:38:50,902 --> 00:39:00,940
+Rym: just the idea that She was literally in the fiction of the story afraid of people and was Convinced to come out and live in society and work with people and her life was better for it.
+
+501
+00:39:01,341 --> 00:39:11,599
+Rym: And then the thing she was directly afraid of murdered her like the exact problem She was fearing her whole life and shutting out was out there was real and did come.
+
+502
+00:39:12,412 --> 00:39:18,800
+Scott: Yep Is this you know, it's also people got to stop blaming themselves with things that aren't actually their fault, right?
+
+503
+00:39:18,860 --> 00:39:30,393
+Scott: It's like yeah, you know, there's the interpretation of it being your fault because yes an action you took You know was in the causal chain leading up to a negative event.
+
+504
+00:39:30,613 --> 00:39:34,568
+Scott: and if you hadn't taken that action, perhaps history wouldn't have been different.
+
+505
+00:39:34,648 --> 00:39:39,819
+Scott: but if you could not have foreseen it and There's no possible way you could have meant it.
+
+506
+00:39:40,000 --> 00:39:42,091
+Scott: You know, in fact, you very much meant the opposite.
+
+507
+00:39:42,694 --> 00:39:50,067
+Scott: and it's like, you know You you can't even if a butterfly flapping its wings causes a tornado The but there's no way for the butterfly to know that.
+
+508
+00:39:50,288 --> 00:39:52,575
+Scott: that that you know, that wing flap was gonna do it.
+
+509
+00:39:52,816 --> 00:39:53,096
+Scott: Yeah.
+
+510
+00:39:53,417 --> 00:40:01,873
+Scott: Mm-hmm But you know if somebody's I don't know If I hit you in the head with it with a heavy object.
+
+511
+00:40:01,993 --> 00:40:03,500
+Scott: it's like well, yeah, that's completely different.
+
+512
+00:40:03,963 --> 00:40:05,940
+Scott: It's like yeah, you know what that was gonna happen?
+
+513
+00:40:06,020 --> 00:40:18,100
+Rym: Well, that's a humans that humans are good at pattern recognition, but it also means we're bad at interpreting The true nature of patterns and we also internalize like cute.
+
+514
+00:40:18,301 --> 00:40:29,872
+Rym: we always look for a reason and I think this is something that was very important about this that Effectively there was no reason like the reason the crazy guy murdered her had No basis in reality.
+
+515
+00:40:30,033 --> 00:40:33,103
+Rym: There was no actual Normal causal chain.
+
+516
+00:40:33,143 --> 00:40:35,330
+Rym: unless you step back to society of a whole.
+
+517
+00:40:35,410 --> 00:40:42,997
+Rym: How is this person even out there free being so dangerous Which is a different kind of conversation, but that's not your you know, that's not your fault.
+
+518
+00:40:43,198 --> 00:40:45,423
+Rym: Yep, and That's just.
+
+519
+00:40:45,503 --> 00:40:46,166
+Scott: it's like oh no.
+
+520
+00:40:46,307 --> 00:40:48,820
+Scott: It's like what if the person got struck by lightning instead?
+
+521
+00:40:49,101 --> 00:40:53,340
+Scott: It's like if I wouldn't if I didn't take them out of their house, they might they wouldn't have been struck by lightning.
+
+522
+00:40:53,340 --> 00:40:55,651
+Scott: It's like well, it's the lightning your fault.
+
+523
+00:40:55,711 --> 00:40:57,660
+Scott: It's how could you have known and I think we talked about this.
+
+524
+00:40:57,720 --> 00:41:02,494
+Rym: Well, we're having dinner and watching the Mets Mets after the movie, but oh, they're Mets in again.
+
+525
+00:41:02,634 --> 00:41:03,116
+Rym: Oh crap.
+
+526
+00:41:03,577 --> 00:41:05,848
+Rym: It's uh, I'm shocked.
+
+527
+00:41:06,632 --> 00:41:11,260
+Rym: I'm absolutely shocked But oh god, I got distracted by the net, right?
+
+528
+00:41:11,560 --> 00:41:25,506
+Rym: So the the fact that it came out of nowhere as we were talking about while we watched the Mets Mets was I think very important because of everything we just talked about now and that's something that a lot of American and Western media tend to avoid.
+
+529
+00:41:25,546 --> 00:41:32,334
+Rym: like people get mad if a story has a sudden tragedy Think back to out my girl.
+
+530
+00:41:32,414 --> 00:41:38,980
+Rym: the movie Traumatizing a generation because kids like nobody expected that swerve in that movie.
+
+531
+00:41:39,541 --> 00:41:56,240
+Rym: American and Western audiences often just really want everything in a story to be intentional and to be like foreshadowed in some way and I think this did a very good job of it does come out of nowhere because that's how tragedy really happens in the real world.
+
+532
+00:41:56,683 --> 00:42:04,480
+Rym: Very rarely does the car that hits somebody Have this long causal chain that ties back to an instant in the past of one of the people who was hit.
+
+533
+00:42:04,801 --> 00:42:05,948
+Rym: It's just a random drunk guy.
+
+534
+00:42:05,968 --> 00:42:08,260
+Scott: Yeah, it's like when you watch a movie, right?
+
+535
+00:42:08,360 --> 00:42:11,669
+Scott: If someone's gonna get hit by a car You'll see like they'll shut.
+
+536
+00:42:11,709 --> 00:42:18,720
+Scott: they'll show the people walking and then they'll show Someone driving with the cell phone and then they'll show the people walking and get to the crosswalk.
+
+537
+00:42:18,941 --> 00:42:25,951
+Scott: And then they'll show the the person, you know dropping a doughnut and having to bend over in their car to pick up the doughnut.
+
+538
+00:42:26,232 --> 00:42:29,506
+Scott: and then they'll show this the the light changing and Them start to walk.
+
+539
+00:42:29,587 --> 00:42:45,120
+Scott: and then a day and then they'll you know They'll cut to like some pet someone on the street an onlooker and hit play a screeching noise and end up play a smashing noise Yeah, and then they'll show, you know some blood on the pavement and you'll hear ambulance noises, right?
+
+540
+00:42:45,180 --> 00:42:57,433
+Scott: And so it's like you can see the whole thing unfold in a normal shooting of a movie or a TV show All right, but in real life You only see one perspective of walking walking walking walking BAM.
+
+541
+00:42:57,653 --> 00:42:59,117
+Scott: Yeah, right hit by a car.
+
+542
+00:42:59,137 --> 00:42:59,960
+Scott: You didn't see the end.
+
+543
+00:43:01,981 --> 00:43:08,451
+Rym: So, yeah, if you listen to all this and we spoiled it for you like whatever this this is a beautiful piece It doesn't it doesn't matter.
+
+544
+00:43:08,592 --> 00:43:19,749
+Rym: Yeah one hour best one hour of animation in Maybe I could say this is this is S tier.
+
+545
+00:43:19,809 --> 00:43:29,640
+Rym: I'll at least say that this is S tier a plus tier If we count on the the fun economy at the engagement economy because it's short.
+
+546
+00:43:31,381 --> 00:43:32,949
+Scott: Hmm, I mean I wouldn't like.
+
+547
+00:43:33,411 --> 00:43:35,160
+Scott: I think the reason it keeps it out of S tier.
+
+548
+00:43:35,301 --> 00:43:39,020
+Scott: Is this not something I'm gonna like a rewatch over and over again for my life, right?
+
+549
+00:43:39,622 --> 00:43:42,877
+Rym: That's that's the S tier true, I mean how many times?
+
+550
+00:43:42,897 --> 00:43:49,479
+Rym: well I've watched Evangelion Five times not counting the remakes just over the course of my life.
+
+551
+00:43:51,772 --> 00:43:55,523
+Scott: Yeah, I did best anime of 2024 so far that I remember.
+
+552
+00:43:55,543 --> 00:43:57,790
+Rym: All right, there's not much time left for something to beat it.
+
+553
+00:43:58,811 --> 00:43:59,475
+Scott: Yeah, I mean what.
+
+554
+00:43:59,656 --> 00:44:02,010
+Scott: what anime movie do we see in the summer?
+
+555
+00:44:07,791 --> 00:44:10,542
+Rym: This has been GeekNights with Rym and Scott special.
+
+556
+00:44:10,582 --> 00:44:12,730
+Rym: Thanks to DJ pretzel for the opening theme.
+
+557
+00:44:12,910 --> 00:44:18,930
+Scott: Be sure to visit our website at front row crew comm for show notes discussion links and more.
+
+558
+00:44:19,432 --> 00:44:30,633
+Rym: Remember GeekNights is not one but four different shows Monday's or science and technology Tuesday's gaming and games Wednesday's or animation and comics Thursday's are arbitrary and Indiscriminate.
+
+559
+00:44:31,236 --> 00:44:36,214
+Rym: GeekNights is distributed under a Creative Commons attribution 4.0 International license.
+
+560
+00:44:36,636 --> 00:44:44,956
+Scott: GeekNights is recorded live with no studio and no audience But unlike those other late shows It's actually recorded at night.
+
+561
+00:44:45,377 --> 00:44:49,008
+Rym: and the patreon patrons for this particular episode of the GeekNights podcast.
+
+562
+00:44:49,329 --> 00:44:52,588
+Rym: Ah Ellen Joyce on kijiji red lily tennenberry case care makes music.
+
+563
+00:44:52,609 --> 00:44:52,709
+Rym: mr.
+
+564
+00:44:52,870 --> 00:45:00,092
+Rym: Doris for Clinton Walton finjol his penny rhymer Rebecca don't Santa Erikson's Erickson shrivet whole and a bunch of people whose names I will not Say.
+
+565
+00:45:00,112 --> 00:45:01,903
+Rym: I tried to do that in one breath.
+
+566
+00:45:01,923 --> 00:45:02,769
+Rym: I haven't done that in a while.
+
+567
+00:45:03,732 --> 00:45:04,515
+Rym: Yeah, everyone else.
+
+568
+00:45:04,816 --> 00:45:09,169
+Rym: I don't say your names because you've specifically said not to or you're given like a dollar or something.
+
+569
+00:45:09,289 --> 00:45:11,757
+Rym: So We'll keep it that way.
+
+570
+00:45:11,797 --> 00:45:20,190
+Rym: There's actually a lot of you down there, but Remember units is free and I'm not making any posts in the patreon that aren't public.
+
+571
+00:45:21,452 --> 00:45:25,493
+Rym: So don't feel like you got to give that dollar unless you really want to but it is Appreciated.
+
+572
+00:45:26,055 --> 00:45:39,350
+Rym: all money that goes into the patreon does go into various GeekNights investments In fact, I will tell all of you since I feel like you might be the people who listen to the scroll at the end The new website all the development work we paid for like the new logos all that stuff.
+
+573
+00:45:39,411 --> 00:45:40,990
+Rym: We did all that with the patreon money.
+
+574
+00:45:42,375 --> 00:45:53,267
+Rym: but anyway tonight I'll leave you with hmm pressure dropping humidity rising over 80% increasing wind.
+
+575
+00:45:55,973 --> 00:45:58,644
+Rym: Here we are chapter 2.
+
+576
+00:45:58,644 --> 00:46:00,250
+Rym: So your pressure is dropping.
+
+577
+00:46:09,350 --> 00:46:14,290
+Scott: Oh Lisa there's no record of a hurricane ever hitting Springfield.
+
+578
+00:46:14,651 --> 00:46:20,110
+Scott: Yes, but the records only go back to 1978 when the Hall of Records was mysteriously blown away.
+

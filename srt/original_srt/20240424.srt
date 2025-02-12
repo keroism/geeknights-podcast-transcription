@@ -1,0 +1,2176 @@
+﻿1
+00:00:08,140 --> 00:00:09,877
+Speaker 1: It's Wednesday, April 24th, 2024.
+
+2
+00:00:09,877 --> 00:00:10,138
+Speaker 1: I'm Rym.
+
+3
+00:00:13,414 --> 00:00:13,850
+Speaker 0: I'm Scott.
+
+4
+00:00:14,050 --> 00:00:15,375
+Speaker 1: And this is Geek Nights.
+
+5
+00:00:15,415 --> 00:00:20,070
+Speaker 1: Tonight, we are reviewing the charming Pokemon Concierge.
+
+6
+00:00:20,630 --> 00:00:21,588
+Speaker 0: Let's do this.
+
+7
+00:00:22,870 --> 00:00:31,350
+Speaker 1: I'm gonna try to not make the Stanley Cup playoffs the opening bit to literally every show for the next several weeks, but it's gonna be really hard to not- You mean two months?
+
+8
+00:00:31,610 --> 00:00:31,808
+Speaker 1: Yeah.
+
+9
+00:00:32,491 --> 00:00:33,598
+Speaker 0: It would help if we lost.
+
+10
+00:00:33,759 --> 00:00:35,330
+Speaker 0: It would be much easier to stop talking.
+
+11
+00:00:35,372 --> 00:00:35,690
+Speaker 0: Yeah.
+
+12
+00:00:37,992 --> 00:00:39,140
+Speaker 1: But it's going well.
+
+13
+00:00:39,260 --> 00:00:39,965
+Speaker 1: That's all I'll say.
+
+14
+00:00:40,046 --> 00:00:40,589
+Speaker 1: It's going well.
+
+15
+00:00:42,010 --> 00:00:44,449
+Speaker 0: Yeah, you know, it's about as good a start as it could have.
+
+16
+00:00:45,970 --> 00:00:48,534
+Speaker 1: This is how New York sports fans talk about their teams.
+
+17
+00:00:48,914 --> 00:01:01,810
+Speaker 1: I've learned this over the years of living here, that I can't talk about the Rangers the way I would have talked about the Red Wings in similar circumstances as a child for various cursed reasons that I have come to respect over time.
+
+18
+00:01:04,491 --> 00:01:07,241
+Speaker 1: It's amazing how New York sports is like.
+
+19
+00:01:07,562 --> 00:01:09,509
+Speaker 1: There's really no other place like this, I think.
+
+20
+00:01:10,410 --> 00:01:13,010
+Speaker 0: Yeah, we share some things in common with other places.
+
+21
+00:01:13,610 --> 00:01:13,710
+Speaker 1: Yeah.
+
+22
+00:01:14,373 --> 00:01:15,597
+Speaker 1: At least we don't live in Toronto.
+
+23
+00:01:16,079 --> 00:01:17,443
+Speaker 1: Good Lord, are they gonna just-?
+
+24
+00:01:17,624 --> 00:01:19,209
+Speaker 1: I don't know how they're gonna handle this series.
+
+25
+00:01:21,031 --> 00:01:29,966
+Speaker 1: But I saw something noteworthy, because I've never seen something like this before, on my bike home from work today, and I was not involved in this altercation.
+
+26
+00:01:30,367 --> 00:01:31,890
+Speaker 1: This was a long-.
+
+27
+00:01:31,970 --> 00:01:33,380
+Speaker 0: All you see is altercations.
+
+28
+00:01:33,602 --> 00:01:34,790
+Speaker 0: Don't you see anything nice?
+
+29
+00:01:35,951 --> 00:01:40,917
+Speaker 1: This is the first altercation I've seen in the year 2024 biking home.
+
+30
+00:01:42,178 --> 00:01:43,379
+Speaker 1: But it was a crazy one.
+
+31
+00:01:44,160 --> 00:01:52,970
+Speaker 1: So, biking home, I'm on an e-bike, one of those white ones, because now they have like a hundred of them next to Grand Central, and it's cheaper and faster than taking the subway home to take one of those home.
+
+32
+00:01:53,591 --> 00:01:55,533
+Speaker 1: So I'm riding against the Queensboro Bridge like normal.
+
+33
+00:01:55,693 --> 00:01:56,314
+Speaker 1: Everything's fine.
+
+34
+00:01:57,074 --> 00:02:01,159
+Speaker 1: And ahead of me are two kids who are also on the white e-bikes.
+
+35
+00:02:02,420 --> 00:02:03,802
+Speaker 1: They all go the same speed.
+
+36
+00:02:03,882 --> 00:02:05,063
+Speaker 1: Like, I can't overtake them.
+
+37
+00:02:05,664 --> 00:02:08,586
+Speaker 1: They couldn't get away from me if I were like chasing them or something.
+
+38
+00:02:08,866 --> 00:02:11,370
+Speaker 1: Those things go pretty much the same speed if you're pedaling.
+
+39
+00:02:13,090 --> 00:02:16,975
+Speaker 1: And I was biking up, and there's someone coming in the opposite direction.
+
+40
+00:02:17,556 --> 00:02:27,530
+Speaker 1: And as soon as he gets close to us, these two kids swerve out at him to try to run him off the trail like super aggressively, and he like swerves out of the way and falls over.
+
+41
+00:02:28,191 --> 00:02:29,972
+Speaker 1: And then they laugh and get back out of the bike lane.
+
+42
+00:02:30,413 --> 00:02:33,295
+Speaker 1: And then someone else is coming along the way, and they do the same thing to them.
+
+43
+00:02:33,676 --> 00:02:36,098
+Speaker 1: And then they swerve and like smack a pedestrian.
+
+44
+00:02:36,558 --> 00:02:49,250
+Speaker 1: And they basically just play chicken with every single person, bike, scooter, or pedestrian, who's coming the opposite direction, like yelling and slapping people, and like they cause a bunch of crashes along the way.
+
+45
+00:02:49,811 --> 00:02:53,338
+Speaker 1: And I'm like 50 feet behind them, and there's really nothing I can do.
+
+46
+00:02:53,578 --> 00:02:59,330
+Speaker 1: I just see this horrific tail play out, and then I get to the bottom of the bridge, and they head off down the road, and that's the end of that.
+
+47
+00:03:01,230 --> 00:03:01,832
+Speaker 0: I'm surprised.
+
+48
+00:03:01,852 --> 00:03:09,669
+Speaker 0: Like, if someone played chicken with me, and I could tell that it was on purpose and not just like, "Whoa, what's
+
+49
+00:03:09,829 --> 00:03:09,910
+Speaker 0: up?".
+
+50
+00:03:10,250 --> 00:03:18,710
+Speaker 1: There's definitely, for someone who's a skilled cyclist, if someone did that to me, and I believe you could do the same, I could ensure that they hit me in a way that harms them, but not me.
+
+51
+00:03:20,790 --> 00:03:31,468
+Speaker 0: Sure, but like, in that case, I would be like, you know, especially if it's a kid, it's like, yeah, I would probably violently assault them and say it was self-defense.
+
+52
+00:03:31,488 --> 00:03:32,149
+Speaker 1: They tried to kill me.
+
+53
+00:03:33,130 --> 00:03:39,530
+Speaker 1: People did yell and chase and try to go after them, but they couldn't catch them because they were on e-bikes, and they forced everyone off the road along the way.
+
+54
+00:03:42,451 --> 00:03:49,689
+Speaker 0: I guess I'd have to... I can't really picture exactly how this went down, that they played chicken with someone, but then kept going and didn't actually have to stop.
+
+55
+00:03:50,570 --> 00:03:58,510
+Speaker 1: Everyone either crashed, fell off their bike, swerved out of the way desperately to avoid them, and no one had the time to turn around.
+
+56
+00:03:58,630 --> 00:04:01,850
+Speaker 0: Oh, so they played chicken with them, and then at the last second, the kids pulled out of the way.
+
+57
+00:04:01,850 --> 00:04:02,954
+Speaker 1: No, the kids didn't pull out.
+
+58
+00:04:03,154 --> 00:04:07,489
+Speaker 1: Everyone else either swerved or got hit by them and fell over.
+
+59
+00:04:08,399 --> 00:04:08,523
+Speaker 0: I see.
+
+60
+00:04:08,992 --> 00:04:11,210
+Speaker 1: Yeah, like they knocked a bunch of people off their bikes.
+
+61
+00:04:11,910 --> 00:04:18,730
+Speaker 0: I see, so if it's clearly intentional, right, I'm just going to look... You know actually what I would do if I had enough time?
+
+62
+00:04:18,790 --> 00:04:26,850
+Speaker 1: Because I thought if I had been on my bike, I think I would have actually caught up to them and knocked one of them over just so consequences could happen.
+
+63
+00:04:26,950 --> 00:04:30,105
+Speaker 1: But I was on an e-bike that literally cannot go faster than that.
+
+64
+00:04:30,346 --> 00:04:31,170
+Speaker 1: All I could do was watch.
+
+65
+00:04:32,191 --> 00:04:38,590
+Speaker 0: I think, I don't know, I guess if someone's playing chicken with me, and I can tell, but it's not that they don't see me.
+
+66
+00:04:38,750 --> 00:04:44,170
+Speaker 0: That they're like trying to play chicken like an idiot, and they still refuse to get out of the way.
+
+67
+00:04:44,890 --> 00:04:49,030
+Speaker 0: It's like, you know, once they're past me, my chances is going to be gone.
+
+68
+00:04:50,731 --> 00:04:56,010
+Speaker 0: If I have enough time, I think I could like hop off, and then give them, and then shove them down.
+
+69
+00:04:56,550 --> 00:04:58,009
+Speaker 1: So there was a moment, there was a jogger.
+
+70
+00:04:58,190 --> 00:05:03,310
+Speaker 0: So I could hop off before they hit me, and then just like, you know, take them out.
+
+71
+00:05:03,570 --> 00:05:07,369
+Speaker 1: The jogger guy, they like, the one kid like hit him hard enough to knock him over.
+
+72
+00:05:09,435 --> 00:05:10,490
+Speaker 1: And they like, they slowed down.
+
+73
+00:05:10,711 --> 00:05:12,137
+Speaker 0: Wait, so the guy was jogging.
+
+74
+00:05:12,217 --> 00:05:15,010
+Speaker 0: If he's jogging, yeah, he definitely could have pushed the kid over.
+
+75
+00:05:15,290 --> 00:05:17,969
+Speaker 1: I don't think he thought the kid was actually going to ram him.
+
+76
+00:05:18,290 --> 00:05:19,910
+Speaker 0: Yeah, he didn't realize what was happening.
+
+77
+00:05:20,110 --> 00:05:25,570
+Speaker 0: Because I would not assume that a kid would... In your position, you could have yelled at the people coming the other way.
+
+78
+00:05:25,630 --> 00:05:30,010
+Speaker 1: No, I was trying to warn everyone along the way, but no one... Think about it, think about New Yorkers.
+
+79
+00:05:30,852 --> 00:05:32,569
+Speaker 1: If someone's yelling, you kind of just ignore them.
+
+80
+00:05:33,810 --> 00:05:39,230
+Speaker 0: I guess, but it's like, you know, that kid's going to hit you with his bike, attack him, stop him, right?
+
+81
+00:05:39,372 --> 00:05:40,370
+Speaker 0: I'd be like, oh shit.
+
+82
+00:05:40,730 --> 00:05:44,030
+Speaker 1: Yeah, but imagine you're doing your thing, and someone yells, attack that kid.
+
+83
+00:05:46,572 --> 00:05:51,571
+Speaker 0: I guess you could have yelled something like, I guess, you know, hindsight is 20/20.
+
+84
+00:05:51,571 --> 00:05:54,210
+Speaker 1: I couldn't yell much else other than watch out, out of the way.
+
+85
+00:05:55,012 --> 00:05:57,249
+Speaker 0: You could be like, he stole my phone, stop him, right?
+
+86
+00:05:58,555 --> 00:06:00,230
+Speaker 0: And people would if you did that, right?
+
+87
+00:06:00,511 --> 00:06:06,710
+Speaker 0: In New York, if you're like, that guy stole that lady's purse, everyone around would be like, you know, get him, right?
+
+88
+00:06:06,870 --> 00:06:06,966
+Speaker 1: Yeah.
+
+89
+00:06:08,112 --> 00:06:10,810
+Speaker 0: They wouldn't do it if it was like, that guy's shoplifting, who gives a shit?
+
+90
+00:06:10,870 --> 00:06:13,550
+Speaker 0: But it's like, that guy stole someone's phone, he's got someone's purse, stop him.
+
+91
+00:06:13,550 --> 00:06:19,390
+Speaker 1: I mean, one time, years ago, I was walking down toward the 7 train, and a kid like slams into me.
+
+92
+00:06:19,450 --> 00:06:23,829
+Speaker 1: This kid was like 13 or 14, he slams into me, and I was like, before I could even react, he runs off.
+
+93
+00:06:24,332 --> 00:06:28,149
+Speaker 1: And then like 10 seconds later, two cops come running, and they yell, where'd he go?
+
+94
+00:06:28,712 --> 00:06:31,030
+Speaker 1: And I didn't say shit, and neither did anyone else.
+
+95
+00:06:32,592 --> 00:06:34,710
+Speaker 0: Yeah, that's a totally different situation, right?
+
+96
+00:06:34,770 --> 00:06:40,170
+Speaker 0: Because if New Yorker, like if someone steals a phone, and New Yorkers stop him, right?
+
+97
+00:06:40,337 --> 00:06:40,490
+Speaker 0: Yeah.
+
+98
+00:06:40,790 --> 00:06:46,330
+Speaker 0: It's going to be like, take the phone back, give it back to the person it belongs to, and then get the fuck out of here, asshole, right?
+
+99
+00:06:47,151 --> 00:06:49,250
+Speaker 0: Right, that's the right solution, and you know what?
+
+100
+00:06:49,330 --> 00:06:51,104
+Speaker 0: That's what police should fucking do, right?
+
+101
+00:06:51,910 --> 00:07:01,350
+Speaker 0: You don't need to arrest someone who's clearly, like, their life is ruined, and if you arrest them and go through all the justice system, you're just costing us and them a lot of pain and hassle.
+
+102
+00:07:01,550 --> 00:07:03,562
+Speaker 0: All we want is the fucking phone back, right?
+
+103
+00:07:03,642 --> 00:07:04,950
+Speaker 0: Repair the damage, right?
+
+104
+00:07:05,591 --> 00:07:07,368
+Speaker 0: That's what you gotta do, right?
+
+105
+00:07:08,872 --> 00:07:12,069
+Speaker 0: So it's like, did we need these kids to go to jail, or, right?
+
+106
+00:07:12,390 --> 00:07:14,510
+Speaker 0: No, we just need them to learn their fucking lesson, right?
+
+107
+00:07:14,635 --> 00:07:14,702
+Speaker 0: Yep.
+
+108
+00:07:14,770 --> 00:07:18,410
+Speaker 0: Someone pushes them over one time, they won't do that shit again, right?
+
+109
+00:07:19,450 --> 00:07:23,890
+Speaker 0: I bet you all those stupid kids doing the subway surfing, right?
+
+110
+00:07:24,350 --> 00:07:29,190
+Speaker 0: Yeah, there are kids out there probably still doing the subway surfing, but not the ones who saw a friend die.
+
+111
+00:07:30,310 --> 00:07:31,550
+Speaker 1: Yep, or maybe they are.
+
+112
+00:07:31,550 --> 00:07:36,450
+Speaker 0: If you saw your friend die subway surfing, and you're still doing it, you should be allowed to do it, because you don't have a job.
+
+113
+00:07:36,470 --> 00:07:41,827
+Speaker 1: Yeah, and if you fully understand the consequences, and it's a thing that won't hurt someone else...
+
+114
+00:07:42,991 --> 00:07:45,609
+Speaker 0: Right, well just leave your corpse on the tracks, you know?
+
+115
+00:07:46,433 --> 00:07:46,968
+Speaker 0: Okay, bro.
+
+116
+00:07:47,991 --> 00:07:54,470
+Speaker 1: So yeah, I'm not gonna just tell random bike anecdotes anymore, because I think I've covered every possible thing, but this was a new one for me.
+
+117
+00:07:55,431 --> 00:08:00,330
+Speaker 1: And it doesn't take that long to get over that bridge, so it wasn't like there was a long time to interact with this situation.
+
+118
+00:08:01,270 --> 00:08:02,703
+Speaker 0: Yeah, I don't know.
+
+119
+00:08:02,763 --> 00:08:03,349
+Speaker 0: It's a new one.
+
+120
+00:08:03,950 --> 00:08:13,490
+Speaker 0: But at least, you know, now that we had the zebra storyteller tell us about this, if it happens again, we'll be slightly more prepared.
+
+121
+00:08:13,732 --> 00:08:15,826
+Speaker 1: Yep, now I've considered what would I do.
+
+122
+00:08:17,130 --> 00:08:24,110
+Speaker 1: So, in a little bit of news, real quick update, so I am continuing to watch Dungeon Meishi as it continues.
+
+123
+00:08:25,451 --> 00:08:26,936
+Speaker 0: I'll watch it, you know, here and there.
+
+124
+00:08:27,097 --> 00:08:30,770
+Speaker 0: I'm not like religiously gotta watch every episode as soon as it comes out.
+
+125
+00:08:30,950 --> 00:08:32,575
+Speaker 1: Yeah, it's a solid show.
+
+126
+00:08:32,595 --> 00:08:34,701
+Speaker 1: I'm still saying it feels like an A- tier.
+
+127
+00:08:34,721 --> 00:08:35,583
+Speaker 1: Like, it's not S-tier.
+
+128
+00:08:35,604 --> 00:08:37,490
+Speaker 1: This ain't no Evangelion bebop.
+
+129
+00:08:38,071 --> 00:08:38,388
+Speaker 1: Obviously.
+
+130
+00:08:39,231 --> 00:08:49,550
+Speaker 1: But it's better than I expected, because it is definitely pretty rapidly, after it gets past its first main plot point, shifts tone.
+
+131
+00:08:50,070 --> 00:08:55,418
+Speaker 1: And while it remains a cooking show, it is way more a fantasy show.
+
+132
+00:08:55,518 --> 00:09:01,067
+Speaker 1: that I would say is like 60% Full Metal Alchemist, 30% Slayers, 10% Cooking Show now.
+
+133
+00:09:03,091 --> 00:09:04,778
+Speaker 0: It's obviously mostly, right?
+
+134
+00:09:04,979 --> 00:09:06,566
+Speaker 0: You can't just stick with the cooking forever.
+
+135
+00:09:06,587 --> 00:09:07,350
+Speaker 0: It wouldn't work, right?
+
+136
+00:09:08,292 --> 00:09:13,670
+Speaker 0: You know all along that it's gonna go into the mystery of what the fuck the dungeon is all about, right?
+
+137
+00:09:14,150 --> 00:09:14,291
+Speaker 1: Yep.
+
+138
+00:09:14,331 --> 00:09:24,550
+Speaker 1: But it is basically after a moment that's happened a few episodes ago, it just turns to the side and starts heading straight toward that plot as hard as possible.
+
+139
+00:09:25,071 --> 00:09:31,247
+Speaker 0: So people should also know that in the United States at least, volume 14 of the manga is the final volume.
+
+140
+00:09:31,267 --> 00:09:32,250
+Speaker 0: That's the end of the whole thing.
+
+141
+00:09:33,110 --> 00:09:35,750
+Speaker 0: And it comes out in like a few couple months, I wanna say.
+
+142
+00:09:35,790 --> 00:09:41,022
+Speaker 1: I'm glad I didn't read the manga yet, because the manga has been running between 2014 and 2023 in Japan.
+
+143
+00:09:45,251 --> 00:09:48,250
+Speaker 1: And I do not have the patience to follow something that long anymore.
+
+144
+00:09:48,991 --> 00:09:50,959
+Speaker 0: Volume 14 comes out in July.
+
+145
+00:09:50,979 --> 00:09:53,530
+Speaker 0: It is the final volume of the manga.
+
+146
+00:09:53,811 --> 00:09:54,032
+Speaker 0: Yep.
+
+147
+00:09:54,493 --> 00:09:59,130
+Speaker 1: So you can be confident that the anime will never need filler episodes.
+
+148
+00:10:00,851 --> 00:10:00,993
+Speaker 0: Mhm.
+
+149
+00:10:01,544 --> 00:10:01,849
+Speaker 0: That's true.
+
+150
+00:10:02,270 --> 00:10:02,392
+Speaker 1: Yeah.
+
+151
+00:10:02,698 --> 00:10:03,268
+Speaker 1: So you got any news?
+
+152
+00:10:04,730 --> 00:10:05,231
+Speaker 0: I don't know.
+
+153
+00:10:05,793 --> 00:10:07,075
+Speaker 0: News, thing of the day, whatever.
+
+154
+00:10:07,135 --> 00:10:08,298
+Speaker 0: But basically this is movie.
+
+155
+00:10:08,939 --> 00:10:12,947
+Speaker 0: It's an independent Chinese animated film called Art College 1994.
+
+156
+00:10:12,947 --> 00:10:14,210
+Speaker 0: You can watch the trailer.
+
+157
+00:10:15,111 --> 00:10:18,744
+Speaker 0: And if you watch the trailer, it's actually a good movie trailer.
+
+158
+00:10:18,824 --> 00:10:20,310
+Speaker 0: You don't see those too often these days.
+
+159
+00:10:20,430 --> 00:10:28,070
+Speaker 0: And I think that's actually because, not just because they're good at making a trailer, but again, you know, my hobby horse, one of my horses.
+
+160
+00:10:29,170 --> 00:10:38,130
+Speaker 0: Is that there's too many movies and, you know, mostly TV, but also now even some movies, only ask the audience the question what happens next.
+
+161
+00:10:38,290 --> 00:10:42,039
+Speaker 0: And so the trailers have nothing to show except for what happens.
+
+162
+00:10:42,400 --> 00:10:46,510
+Speaker 0: Whereas this is the kind of movie that's not about what happens.
+
+163
+00:10:47,091 --> 00:10:53,610
+Speaker 0: So therefore the trailer doesn't, can't spoil, even if you believe in spoilers, because it's not about what happens, right?
+
+164
+00:10:53,670 --> 00:11:03,910
+Speaker 0: It's about clearly the atmosphere of life in an art school for poor art students in China, right?
+
+165
+00:11:05,611 --> 00:11:08,677
+Speaker 0: And, you know, the difficulties of that life, right?
+
+166
+00:11:08,937 --> 00:11:16,890
+Speaker 0: You know, not just the normal art school life that you would have if you would say art school US 1994.
+
+167
+00:11:16,890 --> 00:11:17,847
+Speaker 0: I know what that looks like.
+
+168
+00:11:18,350 --> 00:11:22,316
+Speaker 0: Right, but so take that and add in China 1994, right?
+
+169
+00:11:22,957 --> 00:11:30,950
+Speaker 0: And, you know, hey, it's going to be in theaters starting Friday and I guess at least next week in New York City.
+
+170
+00:11:31,010 --> 00:11:32,833
+Speaker 0: I don't know about where you live.
+
+171
+00:11:33,915 --> 00:11:35,738
+Speaker 0: It's probably, you know, it's a super indie film.
+
+172
+00:11:35,818 --> 00:11:37,480
+Speaker 0: It's not only indie, it's foreign also.
+
+173
+00:11:37,540 --> 00:11:43,590
+Speaker 0: The double whammy of unlikely to screen at the Regal AMC big theater chain.
+
+174
+00:11:45,592 --> 00:11:47,176
+Speaker 1: I don't know if it's because I'm getting older.
+
+175
+00:11:47,196 --> 00:11:52,350
+Speaker 1: Like there's a certain kind of person when they hit a certain age, they just start watching a lot of Civil War documentaries.
+
+176
+00:11:52,490 --> 00:12:00,483
+Speaker 1: But for me, the thing that I'm starting to be more and more interested in and seeking out are period pieces for any period.
+
+177
+00:12:00,583 --> 00:12:04,790
+Speaker 1: I like things that are set in a time and a place, not just a place or a plot.
+
+178
+00:12:05,930 --> 00:12:08,413
+Speaker 0: I do like a period piece and you know what?
+
+179
+00:12:08,814 --> 00:12:21,029
+Speaker 0: There is a, I don't want to say large or even significant, but that the Fantastic Four movie that's coming, you know, Fantastic Four is not my favorite superhero.
+
+180
+00:12:21,049 --> 00:12:21,670
+Speaker 0: They're okay.
+
+181
+00:12:24,514 --> 00:12:29,007
+Speaker 0: And, you know, I haven't seen any superhero movie since fucking forever, right?
+
+182
+00:12:29,087 --> 00:12:30,090
+Speaker 0: None of this Marvel.
+
+183
+00:12:30,392 --> 00:12:32,230
+Speaker 1: Other than spider versus, but those are special.
+
+184
+00:12:33,450 --> 00:12:39,119
+Speaker 0: But they're making that shit apparently a sixties period piece by all indications.
+
+185
+00:12:39,199 --> 00:12:45,530
+Speaker 0: And that's like, you know, as opposed to, as opposed to some, you know, universe, I'm sure it'll have universe stuff, right?
+
+186
+00:12:45,610 --> 00:12:56,566
+Speaker 0: But it's like, Oh, maybe that will be something that should be watched as opposed to all this other, you know, Avengers garbage shit about.
+
+187
+00:12:56,606 --> 00:12:56,786
+Speaker 0: Right.
+
+188
+00:12:57,267 --> 00:12:59,070
+Speaker 0: So there you go.
+
+189
+00:12:59,430 --> 00:13:07,820
+Speaker 1: I feel like I sent me down this road with specifically, you know, Fargo, the movie, which is like S tier movie, but the TV show is an S tier TV show.
+
+190
+00:13:07,841 --> 00:13:15,650
+Speaker 1: Like it shocked me how good it is, but every season of it is also a period piece because they are set in very specific times and it matters a lot.
+
+191
+00:13:15,830 --> 00:13:17,134
+Speaker 0: It's just very, that's how they do it.
+
+192
+00:13:17,174 --> 00:13:23,210
+Speaker 1: So it's all in Fargo, but it's all like the same place, but different times like, and it matters.
+
+193
+00:13:23,391 --> 00:13:30,210
+Speaker 0: So it's like, so it's like episode, it's like season one, grandpa, season two, grandkids, season three, even more grandchild.
+
+194
+00:13:31,671 --> 00:13:36,759
+Speaker 1: But they're so well done that it doesn't matter what order you watch the seasons in either because they're all completely standalone.
+
+195
+00:13:37,119 --> 00:13:43,249
+Speaker 1: They just happen to all be tied together by the thread of, uh, not to get into Fargo, but yeah, it's, it's a good show.
+
+196
+00:13:43,289 --> 00:13:43,890
+Speaker 1: It's worth watching.
+
+197
+00:13:44,010 --> 00:13:44,952
+Speaker 0: Oh, there's that building.
+
+198
+00:13:45,072 --> 00:13:48,037
+Speaker 0: Oh, now you can see the building all run down in the next season.
+
+199
+00:13:48,218 --> 00:13:52,004
+Speaker 1: And the third season, those two guys who did that thing, they were part of the mob.
+
+200
+00:13:52,044 --> 00:13:53,707
+Speaker 1: That was the end of the plot of that other season.
+
+201
+00:13:53,767 --> 00:13:54,048
+Speaker 1: Okay.
+
+202
+00:13:54,088 --> 00:13:55,130
+Speaker 1: I see how this fits together.
+
+203
+00:13:57,032 --> 00:14:00,638
+Speaker 1: Uh, so anyway, a little, little news, uh, this trailer dropped.
+
+204
+00:14:01,059 --> 00:14:02,101
+Speaker 1: I don't know anything about the show.
+
+205
+00:14:02,922 --> 00:14:07,210
+Speaker 1: This is like the laziest news, but the trailer is for a show.
+
+206
+00:14:08,290 --> 00:14:12,998
+Speaker 1: Uh, Tanari no Yokai-san, that Crunchyroll dropped the Japanese trailer about three weeks ago.
+
+207
+00:14:14,020 --> 00:14:19,810
+Speaker 0: And, uh, I don't know if there's in the, in the thumbnail, which is the only thing I've seen besides the title.
+
+208
+00:14:19,890 --> 00:14:21,695
+Speaker 1: It's like a Makoto Shinkai type of thing, doesn't it?
+
+209
+00:14:22,296 --> 00:14:27,610
+Speaker 0: There is a cat of some kind, animal thing that is wearing Monkey D. Luffy's hat.
+
+210
+00:14:27,950 --> 00:14:34,596
+Speaker 1: Uh, if you start the video, it starts with Makoto Shinkai looking clouds coming over, uh, an environment.
+
+211
+00:14:35,056 --> 00:14:36,017
+Speaker 1: But what it, it looks like.
+
+212
+00:14:36,037 --> 00:14:51,310
+Speaker 1: the translation of the show in English is my cat is turning into a Nekomata and it looks like it is one of those magical realism, semi fantastical Japan shows where creatures like Nekomata are kind of normal.
+
+213
+00:14:51,911 --> 00:14:54,475
+Speaker 1: And it's about a family where their cat is acting weird.
+
+214
+00:14:54,495 --> 00:14:57,120
+Speaker 1: And then they're like, I think the cat's turning into a Nekomata.
+
+215
+00:14:57,140 --> 00:14:58,983
+Speaker 1: And then the cat's like, yes, I am.
+
+216
+00:14:59,263 --> 00:15:01,207
+Speaker 1: And I'm shy and embarrassed about it.
+
+217
+00:15:01,427 --> 00:15:02,789
+Speaker 1: And how do we, what are we going to do?
+
+218
+00:15:04,490 --> 00:15:06,091
+Speaker 1: And it just looks really cute.
+
+219
+00:15:13,573 --> 00:15:16,674
+Speaker 1: But anyway, things of the day.
+
+220
+00:15:17,154 --> 00:15:36,319
+Speaker 1: So in the opposite side, there's a show that I think I heard of from like Daryl Surratt once, uh, that's about this cowboy who brings his horse to Northern Japan, uh, in a vaguely fake Wild West setting and also becomes a Sentai hero.
+
+221
+00:15:36,359 --> 00:15:38,680
+Speaker 1: Some old, probably bad anime.
+
+222
+00:15:39,541 --> 00:15:40,663
+Speaker 1: But what I did not realize?
+
+223
+00:15:40,703 --> 00:15:45,210
+Speaker 1: that this anime includes a character that is just a regular horse.
+
+224
+00:15:46,231 --> 00:15:52,180
+Speaker 1: And this is a 10 minute compilation of lots of scenes with just this horse.
+
+225
+00:15:53,800 --> 00:16:03,090
+Speaker 1: And this is, this is the kind of thing you would take selections from and show at an anime hell at 11 o'clock at night at like an Otakon or an anime Boston with no context.
+
+226
+00:16:03,370 --> 00:16:05,272
+Speaker 1: And the crowd would lose their minds.
+
+227
+00:16:05,752 --> 00:16:11,398
+Speaker 1: So if you want 10 minutes of a weird horse from an anime from 1985, this is that.
+
+228
+00:16:11,799 --> 00:16:12,539
+Speaker 1: that's what this is.
+
+229
+00:16:15,411 --> 00:16:21,621
+Speaker 0: So he got, all right, so it could be a gaming news or a tech news, but you know, we're geek nights.
+
+230
+00:16:21,641 --> 00:16:22,422
+Speaker 0: We can do all three.
+
+231
+00:16:23,885 --> 00:16:25,968
+Speaker 0: It's also about Gundam and no one's listening.
+
+232
+00:16:26,008 --> 00:16:27,010
+Speaker 0: The listener isn't listening.
+
+233
+00:16:27,310 --> 00:16:32,249
+Speaker 1: Total aside, our friends are watching Gundam seed and I'm vicariously remembering Gundam seed through them.
+
+234
+00:16:33,030 --> 00:16:33,271
+Speaker 0: Yeah.
+
+235
+00:16:33,331 --> 00:16:41,178
+Speaker 0: So there was that Gundam, uh, FPS game that we played for free for two seconds and it was complete garbage.
+
+236
+00:16:42,259 --> 00:16:52,268
+Speaker 0: Uh, and yeah, uh, that game died, uh, quickly, mercifully, uh, you know, expectedly, uh, called, you know, Gundam, whatever.
+
+237
+00:16:52,288 --> 00:16:54,910
+Speaker 0: it was a Gundam evolution, something right.
+
+238
+00:16:55,571 --> 00:17:05,430
+Speaker 0: But anyway, that game is gone, but people with technological abilities were able to get the software for the server.
+
+239
+00:17:08,272 --> 00:17:15,210
+Speaker 0: So now this complete garbage game that was paid a win, whatever they're setting up or have already set up servers.
+
+240
+00:17:15,230 --> 00:17:32,750
+Speaker 0: Uh, and so now this game can be played, you know, for free without any company involvement, uh, without any paying of monies to win, I guess, because someone's paying to host the server somewhere, but, uh, or you can maybe even run your own server.
+
+241
+00:17:33,351 --> 00:17:38,838
+Speaker 0: I don't know if you can read the instructions or they got a discord at discord.gg/side7.
+
+242
+00:17:39,319 --> 00:17:48,010
+Speaker 0: So yeah, if this could be, if they can figure out how to modify the game, uh, which, you know, it wasn't a game made to support mods, right?
+
+243
+00:17:48,871 --> 00:17:54,141
+Speaker 0: It was a live service game, but there had to be a way for the people running the game to sort of update it.
+
+244
+00:17:54,341 --> 00:17:59,410
+Speaker 0: So there must be a mechanism by which they could, you know, push things into the server.
+
+245
+00:18:00,151 --> 00:18:10,890
+Speaker 0: Um, so if they get some game development resources, this could obviously not now, now you'd just be playing the garbage game with other people who are technologically savvy enough to make it work.
+
+246
+00:18:12,571 --> 00:18:21,104
+Speaker 0: But this does have potential to evolve Gundam Evolution into something worthwhile, right?
+
+247
+00:18:21,164 --> 00:18:25,610
+Speaker 0: A Gundam FPS that, uh, doesn't suck and has servers that you can run yourself.
+
+248
+00:18:25,710 --> 00:18:28,418
+Speaker 0: Like it's the olden days and no pay to wins.
+
+249
+00:18:29,040 --> 00:18:30,965
+Speaker 0: Uh, yeah, I'm feeling it.
+
+250
+00:18:31,065 --> 00:18:32,590
+Speaker 0: Exciting, possibly exciting.
+
+251
+00:18:33,931 --> 00:18:40,530
+Speaker 1: In the meta moment of other than like PAX Unplugged and PAX West and then Magfest, not a lot of conventions in our horizon.
+
+252
+00:18:41,451 --> 00:18:43,658
+Speaker 1: Uh, but the book club book remains.
+
+253
+00:18:43,719 --> 00:18:44,321
+Speaker 1: the night is short.
+
+254
+00:18:44,361 --> 00:18:45,966
+Speaker 1: walk on girl within a few weeks.
+
+255
+00:18:45,986 --> 00:18:47,090
+Speaker 1: We're definitely doing that show.
+
+256
+00:18:47,851 --> 00:18:50,257
+Speaker 1: I have taken a lot from this book.
+
+257
+00:18:50,838 --> 00:18:54,626
+Speaker 1: that diverges from things I took away from the movie.
+
+258
+00:18:54,907 --> 00:18:56,370
+Speaker 1: They compliment each other very well.
+
+259
+00:18:56,690 --> 00:19:05,986
+Speaker 1: But as is always the case, if there's a movie based on a book, usually reading the book is a good idea, even if you really liked the movie.
+
+260
+00:19:06,306 --> 00:19:08,450
+Speaker 1: And this is like a case study in that.
+
+261
+00:19:11,402 --> 00:19:11,904
+Speaker 1: Uh, what else?
+
+262
+00:19:11,964 --> 00:19:12,868
+Speaker 1: I mean, the website's done.
+
+263
+00:19:12,888 --> 00:19:14,374
+Speaker 1: I feel like we talked about that for so long.
+
+264
+00:19:14,394 --> 00:19:15,799
+Speaker 1: I always feel like I need to talk about it.
+
+265
+00:19:17,082 --> 00:19:19,166
+Speaker 0: I mean, you know, who uses websites anymore?
+
+266
+00:19:19,667 --> 00:19:24,998
+Speaker 0: Um, you know, I'm working on some other additional, there's a bunch of bug fixes.
+
+267
+00:19:25,018 --> 00:19:26,040
+Speaker 0: We got to make this whole list.
+
+268
+00:19:26,200 --> 00:19:29,265
+Speaker 0: If it's an open source website, if you want to come help me out, you can.
+
+269
+00:19:29,646 --> 00:19:33,292
+Speaker 0: Um, uh, there's some other features I want to work on.
+
+270
+00:19:33,312 --> 00:19:37,660
+Speaker 0: Uh, you know, getting some activity pub action, uh, things like that.
+
+271
+00:19:37,940 --> 00:19:38,220
+Speaker 0: Yep.
+
+272
+00:19:38,581 --> 00:19:42,044
+Speaker 1: I'm mostly working on completely unrelated side projects of, cause you know, I've run into my,
+
+273
+00:19:42,885 --> 00:19:45,808
+Speaker 0: I'm mostly working, I'm mostly working on my own personal is
+
+274
+00:19:46,048 --> 00:19:51,754
+Speaker 1: I'm working on a thing I won't talk about on geek nights, but I'm also, I've got, you know, I've got my Mastodon server, but it's just me.
+
+275
+00:19:51,874 --> 00:19:58,140
+Speaker 0: Like it's, it's, it's rim at like, I just don't want to use, you know, it's like, I'm fine with activity pub.
+
+276
+00:19:58,220 --> 00:20:00,408
+Speaker 0: I just don't want to use Mastodon the software.
+
+277
+00:20:00,428 --> 00:20:03,780
+Speaker 0: So I want to like make, I haven't found one that I like, so I kind of want to make one.
+
+278
+00:20:04,020 --> 00:20:08,046
+Speaker 1: So as a user of Mastodon, I also have not found one that I like.
+
+279
+00:20:08,787 --> 00:20:09,087
+Speaker 0: Yeah.
+
+280
+00:20:09,448 --> 00:20:17,820
+Speaker 1: So the vanilla Mastodon software is meh is my formal official review of that software.
+
+281
+00:20:18,961 --> 00:20:20,698
+Speaker 1: Solid C software right there.
+
+282
+00:20:22,780 --> 00:20:25,183
+Speaker 0: Ideally you would have this sort of server that you run.
+
+283
+00:20:25,203 --> 00:20:33,432
+Speaker 0: that is a lot more like an email server that has your, you know, cause it's the way that the activity pub protocol works is you have an inbox and an outbox and whatnot.
+
+284
+00:20:33,492 --> 00:20:33,693
+Speaker 0: Right.
+
+285
+00:20:33,753 --> 00:20:39,980
+Speaker 0: So you should have this server that you just sort of run and configure, but you don't, doesn't have like a webpage or anything.
+
+286
+00:20:40,601 --> 00:20:50,960
+Speaker 1: And then, um, or as you know, only some amount of web stuff, cause that's the protocol is HTTP, but it's more like when you, in the old days when you'd like run a mail server for yourself on your domain.
+
+287
+00:20:51,680 --> 00:20:51,901
+Speaker 0: Right.
+
+288
+00:20:51,961 --> 00:20:58,595
+Speaker 0: And then you would open up your web, your email client, and then that would give you all your messages and things for the client side.
+
+289
+00:20:58,635 --> 00:21:01,200
+Speaker 0: And then it just needs to be able to talk on the other side.
+
+290
+00:21:01,741 --> 00:21:16,100
+Speaker 0: And then there's some other things you have to do, you know, if you want to support certain features, like if you want to be able to, you know, post an image, it's like, well, the image has yet to, you know, you could, you could do entirely separate image hosting, like host your own imager or something, and then just put links to the images.
+
+291
+00:21:16,220 --> 00:21:25,579
+Speaker 0: But you had to, those are the things that are sort of not entirely in the protocol sort of, you know, that Mastodon takes care of that you had to like do.
+
+292
+00:21:26,000 --> 00:21:26,220
+Speaker 0: Right.
+
+293
+00:21:26,400 --> 00:21:33,596
+Speaker 0: It's like, if you think about it, like if you, if I send you an email and I want to put images in it, email doesn't have image hosting.
+
+294
+00:21:33,636 --> 00:21:35,079
+Speaker 0: I can attach some JPEGs.
+
+295
+00:21:35,520 --> 00:21:35,841
+Speaker 1: Yeah.
+
+296
+00:21:36,081 --> 00:21:42,872
+Speaker 0: But I'd have to basically make a web server with images on them and then put IMG SRC equals point it at the web server.
+
+297
+00:21:43,173 --> 00:21:44,855
+Speaker 0: And that's how you get an image in an email.
+
+298
+00:21:45,336 --> 00:21:47,580
+Speaker 0: So you had to do sort of the same sort of concepts.
+
+299
+00:21:48,540 --> 00:21:48,741
+Speaker 1: Yeah.
+
+300
+00:21:48,761 --> 00:21:57,333
+Speaker 1: That's why I'm also playing with a microblog and I'm, I'm trying out a bunch of stuff, but I'm not being too precious about where I publish thoughts or whatever it is that I do.
+
+301
+00:21:57,373 --> 00:22:02,640
+Speaker 1: I'm kind of just throwing everything out everywhere and seeing what happens and not worrying about if anyone else sees it.
+
+302
+00:22:03,320 --> 00:22:09,034
+Speaker 0: I'm just doing nothing until I, you know, can build a place to, to last the rest of my life.
+
+303
+00:22:10,397 --> 00:22:11,440
+Speaker 0: I haven't really missed out.
+
+304
+00:22:11,780 --> 00:22:14,499
+Speaker 1: You might spend the rest of your life building a place.
+
+305
+00:22:15,023 --> 00:22:15,647
+Speaker 0: That's fine.
+
+306
+00:22:15,868 --> 00:22:17,640
+Speaker 0: That's actually, that's, that would be great actually.
+
+307
+00:22:18,080 --> 00:22:18,241
+Speaker 1: Yeah.
+
+308
+00:22:18,261 --> 00:22:28,120
+Speaker 1: Cause honestly the, like geek nights is just this and the fact that we have a website and are all, those are just ways we publish it out there that they're not really intrinsic to what geek nights is.
+
+309
+00:22:28,680 --> 00:22:30,488
+Speaker 0: A lot of podcasts don't even have websites.
+
+310
+00:22:30,528 --> 00:22:33,500
+Speaker 0: They just like, yeah, you find us on Spotify, Apple music.
+
+311
+00:22:33,500 --> 00:22:42,069
+Speaker 1: Geek nights used to be an experience you could only have if you slept over at a specific apartment in a, that is now burned to the ground and buried in rubble and replaced.
+
+312
+00:22:42,470 --> 00:22:49,177
+Speaker 1: If you were in that particular apartment laying on the floor between our two beds in the year 2003, you could have experienced geek nights.
+
+313
+00:22:49,237 --> 00:22:51,500
+Speaker 1: So someday it might go back to that in the retirement home.
+
+314
+00:22:52,721 --> 00:22:52,983
+Speaker 0: Maybe.
+
+315
+00:22:53,003 --> 00:22:55,120
+Speaker 0: We should be able to podcast from the retirement home.
+
+316
+00:22:55,260 --> 00:23:01,220
+Speaker 1: I feel like we'll be able to podcast from the retirement home, but the other thing we have to do in the retirement home, we got to be able to play King Arthur Pendragon.
+
+317
+00:23:01,931 --> 00:23:02,460
+Speaker 0: We should.
+
+318
+00:23:03,160 --> 00:23:03,961
+Speaker 1: Let's just dive right into it.
+
+319
+00:23:04,001 --> 00:23:09,890
+Speaker 1: This is, this is a really short show, but it's definitely worth talking about despite how short it is.
+
+320
+00:23:10,170 --> 00:23:12,173
+Speaker 1: This is Pokemon Concierge.
+
+321
+00:23:12,233 --> 00:23:17,260
+Speaker 1: I want to come in way ahead of the fact that when I watched the first episode of this, I thought it was delightful.
+
+322
+00:23:18,241 --> 00:23:24,025
+Speaker 1: I also thought just not knowing anything that it was done in CG
+
+323
+00:23:24,606 --> 00:23:25,467
+Speaker 0: because you didn't know
+
+324
+00:23:25,747 --> 00:23:41,840
+Speaker 1: because it looked fantastic and it looked like fantastic stop motion, but I did not realize immediately that it was actually stop motion until I went to watch episode two and then I saw a documentary and I was like, oh, it's, it's full on for real stop motion.
+
+325
+00:23:41,880 --> 00:23:42,300
+Speaker 1: God damn.
+
+326
+00:23:43,020 --> 00:23:43,241
+Speaker 0: Yeah.
+
+327
+00:23:43,261 --> 00:23:47,524
+Speaker 0: So basically what happened is there was the Pinocchio from Netflix.
+
+328
+00:23:47,904 --> 00:23:48,164
+Speaker 0: Yeah.
+
+329
+00:23:48,204 --> 00:23:48,424
+Speaker 0: Right.
+
+330
+00:23:49,545 --> 00:23:51,267
+Speaker 0: Uh, if you haven't seen that, you should.
+
+331
+00:23:52,107 --> 00:23:58,532
+Speaker 0: Um, and so I think the company is some Netflix thing was a dwarf studio.
+
+332
+00:23:58,652 --> 00:24:00,313
+Speaker 0: Is it that dwarf studio?
+
+333
+00:24:01,174 --> 00:24:01,414
+Speaker 0: Right.
+
+334
+00:24:02,034 --> 00:24:08,299
+Speaker 0: So the dwarf studio, uh, in combination with Netflix, did they do the Pinocchio one also?
+
+335
+00:24:08,319 --> 00:24:08,739
+Speaker 0: I think they did.
+
+336
+00:24:10,580 --> 00:24:18,153
+Speaker 0: I don't know if they did, to be honest, because the Pinocchio was Guillermo Del Toro.
+
+337
+00:24:18,173 --> 00:24:22,600
+Speaker 1: Because the Leica is the other big studio people might recognize that still does stop motion.
+
+338
+00:24:23,700 --> 00:24:23,900
+Speaker 0: Mmm.
+
+339
+00:24:25,142 --> 00:24:27,884
+Speaker 0: Uh, but anyway, the point is, uh, okay.
+
+340
+00:24:27,924 --> 00:24:38,075
+Speaker 0: So yeah, the, the, the Del Toro Pinocchio one was production companies, Netflix double dare you shadow machine, Jim Henson, taller day Chucho.
+
+341
+00:24:38,135 --> 00:24:38,976
+Speaker 0: I don't know what that one is.
+
+342
+00:24:39,537 --> 00:24:42,720
+Speaker 0: Um, but yeah, it must be Del Toro's company.
+
+343
+00:24:44,240 --> 00:24:48,264
+Speaker 0: But these are both Netflix stop motion, animated films.
+
+344
+00:24:48,324 --> 00:24:48,564
+Speaker 0: Right.
+
+345
+00:24:48,604 --> 00:25:00,173
+Speaker 0: And so the Pinocchio one I saw actually went to the MoMA, uh, the museum of modern art, not to be confused with the met or the mommy.
+
+346
+00:25:01,433 --> 00:25:10,000
+Speaker 0: Um, and I went there and they had an exhibit about Pinocchio and they had all the production artifacts there and the models and the puppets and the sets and the right.
+
+347
+00:25:10,561 --> 00:25:16,410
+Speaker 0: And what I basically learned there was that a stop motion animation is still a huge pain in the ass.
+
+348
+00:25:16,550 --> 00:25:16,831
+Speaker 0: Oh yeah.
+
+349
+00:25:17,051 --> 00:25:17,913
+Speaker 0: Yeah, of course.
+
+350
+00:25:18,153 --> 00:25:22,360
+Speaker 0: Obviously you're moving something a tiny bit, taking a picture, moving in a tiny bit, taking a picture, right?
+
+351
+00:25:23,100 --> 00:25:25,163
+Speaker 0: It's still what they're doing to make these things.
+
+352
+00:25:25,223 --> 00:25:28,548
+Speaker 0: And it's still incredibly time consuming, resource intensive.
+
+353
+00:25:28,829 --> 00:25:30,752
+Speaker 0: Not a lot of people have the skills necessary.
+
+354
+00:25:30,792 --> 00:25:35,840
+Speaker 0: There are some people who are just masters of it, who are the people doing this, um, et cetera.
+
+355
+00:25:36,340 --> 00:25:41,508
+Speaker 0: But there are two technologies that have caused a significant advancement in this area.
+
+356
+00:25:41,628 --> 00:25:46,636
+Speaker 0: One of them obviously being the digital camera back in the day to do stop motion with an analog camera.
+
+357
+00:25:46,896 --> 00:25:49,000
+Speaker 0: You would take the picture, you couldn't look at it right away.
+
+358
+00:25:49,761 --> 00:25:56,293
+Speaker 0: You would advance your film one frame, take another picture, and then you would have to like, I don't know, keep notes on like.
+
+359
+00:25:56,353 --> 00:26:00,380
+Speaker 0: if you wanted to redo a frame, you had to remember to go cut it with a scissor later to remove it.
+
+360
+00:26:00,400 --> 00:26:09,479
+Speaker 1: I used to try to do very short stop motion when I was a kid because I had a, an eight millimeter video couple video film camera, but like it was like a camera.
+
+361
+00:26:10,040 --> 00:26:18,450
+Speaker 1: It had a single frame advantage option that was kind of like a trigger and you could trigger it like a gun or you could mount it somewhere.
+
+362
+00:26:18,731 --> 00:26:21,194
+Speaker 1: And then there was a little remote control on a wire you could hit.
+
+363
+00:26:21,474 --> 00:26:22,716
+Speaker 1: that was like physical.
+
+364
+00:26:22,736 --> 00:26:24,318
+Speaker 1: I think it was pneumatic actually.
+
+365
+00:26:24,598 --> 00:26:26,040
+Speaker 1: And that would advance the frame as well.
+
+366
+00:26:28,262 --> 00:26:30,244
+Speaker 0: Uh, but yeah, do you have a digital camera?
+
+367
+00:26:30,344 --> 00:26:33,809
+Speaker 0: So even my digital camera has special stop motion features on it, right?
+
+368
+00:26:33,849 --> 00:26:42,480
+Speaker 0: So this means you can take a shot, look at it, see if it's right, delete it if you don't like it, you know, mark it, do whatever you got to do.
+
+369
+00:26:42,620 --> 00:26:43,282
+Speaker 0: You can hook it up.
+
+370
+00:26:43,342 --> 00:26:48,672
+Speaker 0: You can tether to a computer to see it on a screen to manage every frame as you're going, right?
+
+371
+00:26:49,193 --> 00:26:50,917
+Speaker 0: Retake, roll back for it.
+
+372
+00:26:51,258 --> 00:26:52,380
+Speaker 0: Obviously that's way easier.
+
+373
+00:26:52,901 --> 00:27:09,880
+Speaker 0: And the second thing that is significantly advanced, the stop motion animation technology is 3d printing because you can, instead of having to sit there with like sculptors, making everything out of clay constantly with their hands or crafting, you know, foot puppets by hand all the time.
+
+374
+00:27:10,381 --> 00:27:21,060
+Speaker 0: You can 3d model everything, print them out and then do some sanding and some painting and you can make like a head with like a thousand sets of eyes and a hundred teeth.
+
+375
+00:27:21,901 --> 00:27:22,041
+Speaker 0: Right.
+
+376
+00:27:22,401 --> 00:27:39,320
+Speaker 0: And so if the Pinocchio and also the Pokemon concierge have both made extensive use of 3d printing, lots and lots of things, um, that are, you know, in the models and also the sets, uh, and it's terrific actually.
+
+377
+00:27:39,801 --> 00:27:39,981
+Speaker 1: Yep.
+
+378
+00:27:40,181 --> 00:27:52,220
+Speaker 1: And, um, partly I'm glad that there's a small number of studios that are just keeping this art alive, but also based from what you just said, evolving the art while maintaining the core of what it fundamentally is.
+
+379
+00:27:53,140 --> 00:27:53,200
+Speaker 0: Yep.
+
+380
+00:27:53,581 --> 00:28:03,060
+Speaker 0: But you can also like the fact that the way they're doing the 3d printing, you can, it's almost like there's a certain, it's like a, you know how certain video games have the same shader and they look alike.
+
+381
+00:28:03,280 --> 00:28:03,501
+Speaker 0: Yeah.
+
+382
+00:28:03,681 --> 00:28:04,422
+Speaker 0: It's sort of like that.
+
+383
+00:28:04,502 --> 00:28:14,940
+Speaker 0: Like you can see the visual commonalities between the Pinocchio and the Pokemon concierge where you can sort of tell that it's the, you know, even though they couldn't be further apart, the Pinocchio is sort of dark.
+
+384
+00:28:15,480 --> 00:28:15,801
+Speaker 0: Right.
+
+385
+00:28:15,901 --> 00:28:29,060
+Speaker 0: Whereas the, and the Pokemon couldn't be more bright and colorful, but in terms of the shapes of things and the way they move and whatnot, it's just, there's just so much similarity there, um, with the production techniques and methods going on.
+
+386
+00:28:29,560 --> 00:28:37,028
+Speaker 0: And, but yeah, you can still tell that, uh, despite those advancements, stop motion animation is still, well, still looks amazing.
+
+387
+00:28:37,228 --> 00:28:48,080
+Speaker 0: It always has, but even back in the Harryhausen days, but, uh, it's still a huge pain in the ass and the, and is expensive and time consuming, which is why Pokemon concierge is so short.
+
+388
+00:28:48,401 --> 00:28:49,224
+Speaker 1: Yep.
+
+389
+00:28:49,224 --> 00:28:50,891
+Speaker 1: 15 to 20 minutes is the running time for this thing.
+
+390
+00:28:50,911 --> 00:28:52,699
+Speaker 1: There's only four episodes of the first season.
+
+391
+00:28:53,281 --> 00:28:53,401
+Speaker 0: Right.
+
+392
+00:28:53,421 --> 00:29:03,038
+Speaker 0: And the Pokemon and the Pinocchio, which is just one movie, uh, was, you know, very expensive, but, uh, if I had to say the most like in terms of only 117 minutes.
+
+393
+00:29:04,300 --> 00:29:09,847
+Speaker 1: So the thing about Pokemon concierge that they got, they like 100% right is?
+
+394
+00:29:10,187 --> 00:29:12,971
+Speaker 1: it centers the Pokemon and the Pokemon.
+
+395
+00:29:13,211 --> 00:29:18,277
+Speaker 1: Like this is just an excuse to see amazing stop motion of Pokemon that you like.
+
+396
+00:29:18,498 --> 00:29:20,280
+Speaker 1: Like the Pokemon are so good.
+
+397
+00:29:20,941 --> 00:29:22,002
+Speaker 0: I think it's different than that.
+
+398
+00:29:22,082 --> 00:29:28,588
+Speaker 0: I think it's an excuse to make you like Pokemon for the audience.
+
+399
+00:29:28,708 --> 00:29:28,948
+Speaker 0: Right?
+
+400
+00:29:28,988 --> 00:29:33,893
+Speaker 0: So it's like, even if you don't know about Pokemon or care about Pokemon, right?
+
+401
+00:29:33,953 --> 00:29:37,216
+Speaker 0: It's about basically this Island resort, right?
+
+402
+00:29:37,356 --> 00:29:40,940
+Speaker 0: Where Pokemon go on vacation, not people.
+
+403
+00:29:41,260 --> 00:29:41,461
+Speaker 1: Yep.
+
+404
+00:29:42,021 --> 00:29:46,387
+Speaker 0: And there are both people and Pokemon that work there taking care of the Pokemon.
+
+405
+00:29:47,248 --> 00:29:56,820
+Speaker 0: And this one person is escaping their boring corporate life of overwork, uh, to go become a concierge at this resort.
+
+406
+00:29:57,541 --> 00:30:00,843
+Speaker 1: You know, if that were an option, uh, I'd be there right now.
+
+407
+00:30:01,463 --> 00:30:01,784
+Speaker 0: Of course.
+
+408
+00:30:01,804 --> 00:30:01,984
+Speaker 0: Right.
+
+409
+00:30:02,024 --> 00:30:02,825
+Speaker 0: So you'd be fighting.
+
+410
+00:30:02,845 --> 00:30:04,446
+Speaker 0: That would be the hardest job in the world to get.
+
+411
+00:30:05,246 --> 00:30:09,650
+Speaker 0: But, uh, them getting the job right.
+
+412
+00:30:09,770 --> 00:30:12,332
+Speaker 0: And, and having their life refreshed, right.
+
+413
+00:30:12,612 --> 00:30:15,334
+Speaker 0: Is sort of what the show does for the audience, right?
+
+414
+00:30:15,394 --> 00:30:23,300
+Speaker 0: Is you escape from your daily drudgery to the magical Pokemon Island where Pokemon are just chilling and having a good time.
+
+415
+00:30:23,440 --> 00:30:29,750
+Speaker 1: I mean, it's pretty on the nose when there's a moment in the show where she's like, she sees a Pokemon evolve, which it's a good episode.
+
+416
+00:30:29,771 --> 00:30:30,351
+Speaker 1: I mean, they're all good.
+
+417
+00:30:30,372 --> 00:30:33,497
+Speaker 1: There's only four, but she's like, man, I wish I could evolve.
+
+418
+00:30:33,777 --> 00:30:34,378
+Speaker 1: I wish I could.
+
+419
+00:30:34,418 --> 00:30:35,500
+Speaker 0: You literally just did.
+
+420
+00:30:35,620 --> 00:30:35,920
+Speaker 1: Yup.
+
+421
+00:30:37,702 --> 00:30:57,200
+Speaker 0: Um, but it's like, yeah, even if your favorite Pokemon doesn't appear in this show, even if you hate all the Pokemon that are in the show, it's like you sort of, you know, it's just animals having a good time interacting and, you know, bringing joy to the characters around them, but also to the audience watching.
+
+422
+00:30:57,260 --> 00:30:57,440
+Speaker 0: Right.
+
+423
+00:30:57,460 --> 00:31:00,684
+Speaker 1: I mean, animals having a good time is a genre of internet content.
+
+424
+00:31:01,365 --> 00:31:01,526
+Speaker 0: Right.
+
+425
+00:31:01,546 --> 00:31:04,169
+Speaker 0: It's like, you think about it, like people just go watch cat videos.
+
+426
+00:31:04,189 --> 00:31:11,219
+Speaker 0: This is like someone making cat video, except it's Psyduck video instead on purpose.
+
+427
+00:31:11,680 --> 00:31:11,840
+Speaker 0: Right.
+
+428
+00:31:12,601 --> 00:31:19,428
+Speaker 1: And I think they understood the mission in that the voice cast is four people because it's pretty much all Pokemon.
+
+429
+00:31:20,449 --> 00:31:20,849
+Speaker 0: Pretty much.
+
+430
+00:31:22,010 --> 00:31:29,638
+Speaker 0: Um, but yeah, it's like, it's funny how the main Pokemon in the show, which is Psyduck, uh, which you should, I imagine you know that already.
+
+431
+00:31:29,678 --> 00:31:31,420
+Speaker 1: Top tier Pokemon that Psyduck.
+
+432
+00:31:31,500 --> 00:31:31,700
+Speaker 1: Right.
+
+433
+00:31:32,101 --> 00:31:36,285
+Speaker 0: It's a Pokemon that it's like, you know, Psyduck, but do I care about that?
+
+434
+00:31:36,326 --> 00:31:36,766
+Speaker 0: Not really.
+
+435
+00:31:36,786 --> 00:31:38,428
+Speaker 0: I would never had a Psyduck in my team.
+
+436
+00:31:38,808 --> 00:31:39,910
+Speaker 0: I never cared about him.
+
+437
+00:31:40,050 --> 00:31:44,074
+Speaker 1: I only like Psyduck because of Psyducks side plots in the original cartoon.
+
+438
+00:31:44,735 --> 00:31:44,935
+Speaker 0: Right.
+
+439
+00:31:45,276 --> 00:31:48,820
+Speaker 0: But here, this show, like it makes you like the Psyduck.
+
+440
+00:31:51,100 --> 00:31:56,946
+Speaker 0: Um, you know, it's like, they don't need to do a fan service of giving you what you want.
+
+441
+00:31:57,006 --> 00:32:05,615
+Speaker 0: It's like they, it's, it's so, uh, endearing that they can, you know, make you like what they want you to like and then give you that.
+
+442
+00:32:05,856 --> 00:32:05,976
+Speaker 0: Right.
+
+443
+00:32:06,036 --> 00:32:09,740
+Speaker 0: It's like they can change your taste and then give you the food they just made you like.
+
+444
+00:32:11,040 --> 00:32:14,483
+Speaker 0: Rather, rather than trying to figure out the food you like and trying to find it.
+
+445
+00:32:14,823 --> 00:32:18,886
+Speaker 1: But I think that's also a big key because this is the kind of show where someone's never heard of Pokemon.
+
+446
+00:32:18,906 --> 00:32:20,507
+Speaker 1: They'll probably find it delightful.
+
+447
+00:32:20,827 --> 00:32:25,490
+Speaker 1: If someone's a mega Pokemon fan, they're going to love it for a lot of other reasons.
+
+448
+00:32:25,670 --> 00:32:30,033
+Speaker 1: Like I can't imagine who would not enjoy the show, especially considering how short it is.
+
+449
+00:32:30,874 --> 00:32:33,736
+Speaker 0: A cold, dark and evil human being.
+
+450
+00:32:33,776 --> 00:32:35,497
+Speaker 1: I don't think many Republicans would like this show.
+
+451
+00:32:36,118 --> 00:32:39,540
+Speaker 0: I don't know, but even they might, you know, might like it.
+
+452
+00:32:39,660 --> 00:32:40,161
+Speaker 1: I hope so.
+
+453
+00:32:40,381 --> 00:32:42,503
+Speaker 0: That's, that's how you turn someone from the path of evil.
+
+454
+00:32:43,063 --> 00:32:45,946
+Speaker 0: What do they find in here that is not to like?
+
+455
+00:32:47,748 --> 00:32:51,551
+Speaker 0: It's literally just people going to an island and having a good time.
+
+456
+00:32:51,852 --> 00:32:52,132
+Speaker 0: Right.
+
+457
+00:32:52,152 --> 00:32:56,316
+Speaker 0: Doing everyday in somewhat not everyday stuff with Pokemon involved.
+
+458
+00:32:57,517 --> 00:33:00,320
+Speaker 1: It's very, it's everyday stuff for the Pokemon universe, I would say.
+
+459
+00:33:01,240 --> 00:33:01,440
+Speaker 0: Yeah.
+
+460
+00:33:01,821 --> 00:33:02,221
+Speaker 0: Yeah.
+
+461
+00:33:02,422 --> 00:33:08,549
+Speaker 0: Try it on clothes, exercising, dancing, swimming, flying.
+
+462
+00:33:08,909 --> 00:33:09,109
+Speaker 1: Yep.
+
+463
+00:33:09,630 --> 00:33:10,831
+Speaker 1: And there is good news.
+
+464
+00:33:10,931 --> 00:33:18,540
+Speaker 1: if you, cause like if you're a geek, if you listen to geek nights, there's no reason not to watch this unless you don't have Netflix and you don't have Netflix either.
+
+465
+00:33:18,780 --> 00:33:19,661
+Speaker 1: Yarr!
+
+466
+00:33:19,841 --> 00:33:25,646
+Speaker 1: Either Yarr or whenever you rotate Netflix in to catch up on shows, this is just four episodes.
+
+467
+00:33:25,726 --> 00:33:29,630
+Speaker 1: And while there is a new season that has been ordered, that is official.
+
+468
+00:33:29,650 --> 00:33:31,251
+Speaker 0: It's going to take a while.
+
+469
+00:33:31,371 --> 00:33:32,552
+Speaker 1: It's going to take a while.
+
+470
+00:33:32,612 --> 00:33:35,075
+Speaker 1: They only announced it a couple months ago that it was coming.
+
+471
+00:33:35,535 --> 00:33:41,240
+Speaker 1: And I can't imagine they're going to make more than like four or five more episodes at a time considering.
+
+472
+00:33:41,881 --> 00:33:45,504
+Speaker 1: So everyone should watch this.
+
+473
+00:33:45,904 --> 00:33:55,132
+Speaker 1: And especially if you're stressed about the world right now, I can think of at least seven things that it is perfectly normal to be stressed about right now in the real world.
+
+474
+00:33:55,172 --> 00:33:58,015
+Speaker 1: Just off the top of my head that are extremely worrying.
+
+475
+00:33:58,716 --> 00:34:03,600
+Speaker 1: This is a show that I think you could enjoy and maybe stop thinking about those things for a little while.
+
+476
+00:34:04,141 --> 00:34:09,467
+Speaker 0: And you can also, I think another thing is that because it's so short, this is the kind of thing you can go back to.
+
+477
+00:34:09,708 --> 00:34:10,047
+Speaker 1: Oh yeah.
+
+478
+00:34:10,549 --> 00:34:13,933
+Speaker 0: You know, even though it's short, right, you think, ah, I finished it already.
+
+479
+00:34:14,353 --> 00:34:15,534
+Speaker 0: Why not watch it again?
+
+480
+00:34:15,554 --> 00:34:19,120
+Speaker 0: It's like, it'll only take you, you know, an hour.
+
+481
+00:34:20,600 --> 00:34:30,034
+Speaker 1: This is the kind of show where like if we're hanging out with some friends at a place like at their apartment or at a convention and someone's like, oh, I haven't seen Pokemon Casio.
+
+482
+00:34:30,054 --> 00:34:33,239
+Speaker 1: The kind of show you're like, all right, just pull up an episode and watch it all together.
+
+483
+00:34:33,719 --> 00:34:38,647
+Speaker 0: Because even if you're the, again, the kind of person who believes in spoilers and wants to know what happens, right?
+
+484
+00:34:38,947 --> 00:34:40,590
+Speaker 0: This is not about what happens.
+
+485
+00:34:40,690 --> 00:34:47,500
+Speaker 0: This is about you're in this mood of the joyful Pokemon island for the duration of watching the show.
+
+486
+00:34:47,739 --> 00:34:48,922
+Speaker 0: That is what it is, right?
+
+487
+00:34:49,063 --> 00:34:58,120
+Speaker 0: It's, it's almost like a seasoning on, you know, the life being lived by those who are in its, in its glow of whatever television it is on.
+
+488
+00:34:58,320 --> 00:35:09,140
+Speaker 1: You know, you gave me a side idea because I know you've never heard this audio, but at the end of every Geek Nights episode, after the credits, I usually, I say the names of the patrons who still give us money for some reason, even though everything's free.
+
+489
+00:35:09,840 --> 00:35:12,000
+Speaker 0: It's because they subscribed and then forgot to turn it off.
+
+490
+00:35:12,020 --> 00:35:14,839
+Speaker 1: A few of them probably, but some new people have come in.
+
+491
+00:35:16,162 --> 00:35:18,999
+Speaker 0: I went, I went and cleared out my patreons a while ago.
+
+492
+00:35:19,300 --> 00:35:20,937
+Speaker 1: I went and cleared mine out recently too.
+
+493
+00:35:21,580 --> 00:35:31,360
+Speaker 1: But mostly, mostly the people who never do anything, but gave me an idea because, you know, I always say something at the end and then I play some something weird after that.
+
+494
+00:35:31,901 --> 00:35:42,500
+Speaker 1: But in the last several Geek Nights episodes, a theme emerged kind of like, uh, kind of like, uh, the Graybles from Adventure Time by the end of the episode.
+
+495
+00:35:42,660 --> 00:35:53,500
+Speaker 1: Like in this episode, I've had, we had, the theme, a theme that emerged from multiple things we talked about was around caring about what happens versus something else in media.
+
+496
+00:35:54,422 --> 00:35:58,279
+Speaker 0: Yeah, that's the thing I've been on for a year or a few.
+
+497
+00:35:59,781 --> 00:36:07,840
+Speaker 0: I like abstract, I realized, you know, some time ago, it's like, I like abstract arts a lot more than non-abstract arts.
+
+498
+00:36:10,124 --> 00:36:16,360
+Speaker 0: And yet the mass media in our society seems to mostly be concentrating on the exact opposite of abstract arts.
+
+499
+00:36:16,640 --> 00:36:16,700
+Speaker 1: Yup.
+
+500
+00:36:17,061 --> 00:36:25,620
+Speaker 1: I mean, case in point, what's better, a giant space baby and then question mark or here's how the guy got back from Mars in full detail credits.
+
+501
+00:36:26,423 --> 00:36:26,663
+Speaker 0: Yup.
+
+502
+00:36:28,409 --> 00:36:28,891
+Speaker 0: The first one.
+
+503
+00:36:29,854 --> 00:36:30,637
+Speaker 0: By a lot.
+
+504
+00:36:31,178 --> 00:36:31,640
+Speaker 0: Landside.
+
+505
+00:36:36,180 --> 00:36:38,550
+Speaker 1: This has been Geek Nights with Rim and Scott.
+
+506
+00:36:38,610 --> 00:36:41,120
+Speaker 1: Special thanks to DJ Pretzel for the opening theme.
+
+507
+00:36:41,320 --> 00:36:47,320
+Speaker 0: Be sure to visit our website at frontrowclue.com for show notes, discussion, links, and more.
+
+508
+00:36:47,820 --> 00:36:50,505
+Speaker 1: Remember, Geek Nights is not one, but four different shows.
+
+509
+00:36:50,806 --> 00:36:52,449
+Speaker 1: Mondays are science and technology.
+
+510
+00:36:52,509 --> 00:36:54,252
+Speaker 1: Tuesdays, gaming and games.
+
+511
+00:36:54,372 --> 00:36:56,196
+Speaker 1: Wednesdays are animation and comics.
+
+512
+00:36:56,516 --> 00:36:58,400
+Speaker 1: Thursdays are arbitrary and indiscriminate.
+
+513
+00:36:59,621 --> 00:37:04,580
+Speaker 1: Geek Nights is distributed under a Creative Commons Attribution 4.0 international license.
+
+514
+00:37:05,080 --> 00:37:09,370
+Speaker 0: Geek Nights is recorded live with no studio and no audience.
+
+515
+00:37:09,852 --> 00:37:13,320
+Speaker 0: But unlike those other late shows, it's actually recorded at night.
+
+516
+00:37:13,780 --> 00:37:28,380
+Speaker 1: And the Patreon patrons for this episode of Geek Nights are Alan Joyce, Linki G, Dreville, Intenipre, Case, Care, Mixmusic, Chris, The Dot, Christopher, Orr, Clinton, Walton, Finn, Joel Hayes, Penny Reimer, Rebecca Dunn, Sam Erickson, Shervin Von Hurl, and tons of people whose names I will never forget.
+
+517
+00:37:28,380 --> 00:37:43,000
+Speaker 1: It seems like the theme that emerged from this episode is that Scott and I, and maybe you, ball like media where what happens is the least important aspect of the media.
+
+518
+00:37:43,880 --> 00:37:53,060
+Speaker 1: And now I leave you, now that I'm going to try to come up with whatever the theme of the episode was for every episode going forward right here in the stinger, before I leave you with some nonsense, here's some nonsense.
+
+519
+00:37:53,481 --> 00:37:55,028
+Speaker 0: Ariel, me a steady triton.
+
+520
+00:37:55,068 --> 00:37:55,531
+Speaker 0: Don't call me that.
+
+521
+00:37:55,571 --> 00:37:57,440
+Speaker 0: I need you to stop with this obsession with the humans.
+
+522
+00:37:57,701 --> 00:37:59,408
+Speaker 0: Why have you not seen my collection?
+
+523
+00:37:59,448 --> 00:38:00,673
+Speaker 0: The one with the severed feet?
+
+524
+00:38:00,854 --> 00:38:01,878
+Speaker 0: Yes, it's sick.
+
+525
+00:38:01,998 --> 00:38:02,480
+Speaker 0: You're sick.
+
+526
+00:38:02,820 --> 00:38:03,805
+Speaker 0: Whoa, I don't kill them.
+
+527
+00:38:03,865 --> 00:38:06,980
+Speaker 1: They just fall overboard and I watch them drown and then I just collect.
+
+528
+00:38:07,400 --> 00:38:08,519
+Speaker 1: That is also not good.
+
+529
+00:38:09,140 --> 00:38:10,277
+Speaker 1: Hey, look, there's one right now.
+
+530
+00:38:11,140 --> 00:38:11,563
+Speaker 1: Ariel, no.
+
+531
+00:38:11,623 --> 00:38:13,172
+Speaker 0: You're going to save this guy this time.
+
+532
+00:38:13,233 --> 00:38:13,836
+Speaker 0: Go save him.
+
+533
+00:38:13,877 --> 00:38:14,380
+Speaker 0: That's an order.
+
+534
+00:38:19,705 --> 00:38:20,399
+Speaker 0: Who saved me?
+
+535
+00:38:20,700 --> 00:38:21,719
+Speaker 0: Hello, little feet.
+
+536
+00:38:22,781 --> 00:38:24,958
+Speaker 1: I want to be one of the feet.
+
+537
+00:38:25,322 --> 00:38:26,000
+Speaker 1: Ariel, please.
+
+538
+00:38:26,341 --> 00:38:27,003
+Speaker 1: Ariel, listen.
+
+539
+00:38:27,224 --> 00:38:30,715
+Speaker 1: You're scaring the mer-children and frankly also me and Ursula.
+
+540
+00:38:30,936 --> 00:38:32,100
+Speaker 1: We want you to go live on land.
+
+541
+00:38:32,600 --> 00:38:35,774
+Speaker 1: Ursula prepared the contract for you to sign, so you get your legs.
+
+542
+00:38:35,814 --> 00:38:37,140
+Speaker 1: You don't have to give us anything.
+
+543
+00:38:38,220 --> 00:38:40,879
+Speaker 1: You'll just have to sign a contract and you'll be on your merry way.
+
+544
+00:38:41,701 --> 00:38:42,799
+Speaker 1: You'll get your own feet.
+

@@ -1,0 +1,3468 @@
+1
+00:00:08,140 --> 00:00:09,919
+Rym: It's Tuesday, February 6th, 2024.
+
+2
+00:00:09,919 --> 00:00:10,180
+Rym: I'm Rym.
+
+3
+00:00:13,490 --> 00:00:14,230
+Scott: And I'm Scott.
+
+4
+00:00:14,490 --> 00:00:15,754
+Rym: And this is GeekNights.
+
+5
+00:00:15,814 --> 00:00:20,949
+Rym: Tonight, we are talking about how every game is kind of just the same game, sort of.
+
+6
+00:00:21,790 --> 00:00:22,808
+Scott: Let's do this.
+
+7
+00:00:24,071 --> 00:00:31,710
+Rym: So, there's no GeekNights last week, primarily because Emily and I and some of our friends were off in Colorado, skiing for the week.
+
+8
+00:00:32,652 --> 00:00:34,155
+Rym: And we picked that.
+
+9
+00:00:34,195 --> 00:00:41,590
+Rym: the reason we can afford to ski at Vail is mostly because I booked this place, like, seven months before we go.
+
+10
+00:00:42,210 --> 00:00:47,750
+Rym: So it comes down to it's a lot cheaper, but we don't know what the weather is going to be like.
+
+11
+00:00:47,830 --> 00:00:51,770
+Rym: I'm just kind of banking on late January, early February being a good time.
+
+12
+00:00:52,491 --> 00:00:59,730
+Rym: Last year, we ended up being at Vail during one of the best weeks of powder snow they have ever had in recent history.
+
+13
+00:01:00,312 --> 00:01:05,590
+Rym: And this year, we were there during what might have been the worst possible week.
+
+14
+00:01:05,852 --> 00:01:07,650
+Rym: Because the previous week, there was tons of new snow.
+
+15
+00:01:08,152 --> 00:01:12,050
+Rym: And there was a giant blizzard that dumped, like, eight inches of snow the day we left.
+
+16
+00:01:12,450 --> 00:01:17,370
+Rym: And while we were there, it was 50 degrees in the fucking mountains of Colorado the whole week.
+
+17
+00:01:19,011 --> 00:01:31,570
+Rym: But, you know, despite the conditions being bad by, like, fancy, rich person, West Coast skier sensibilities, in terms of being someone from the East Coast, I have now determined that it's not a joke.
+
+18
+00:01:31,810 --> 00:01:32,712
+Rym: In fact, it's true.
+
+19
+00:01:33,675 --> 00:01:40,110
+Rym: The worst day at Vail is better than the best day at any East Coast mountain that I have ever skied.
+
+20
+00:01:40,390 --> 00:01:41,618
+Rym: That was perfectly fine.
+
+21
+00:01:42,061 --> 00:01:43,329
+Rym: And the mountain was empty.
+
+22
+00:01:43,470 --> 00:01:44,533
+Scott: And much higher up, of course.
+
+23
+00:01:44,593 --> 00:01:50,110
+Scott: If there was a mountain over here that was that tall, then, you know, it just isn't.
+
+24
+00:01:50,370 --> 00:01:51,457
+Scott: It's not that tall over here.
+
+25
+00:01:51,497 --> 00:01:53,609
+Scott: The Appalachians are way old and got worn out.
+
+26
+00:01:54,172 --> 00:01:56,090
+Scott: Like the Rockies, which are much younger and taller.
+
+27
+00:01:56,150 --> 00:01:58,638
+Rym: Yeah, these punk kid mountains with their rocks everywhere.
+
+28
+00:01:58,678 --> 00:02:02,410
+Rym: The Appalachians are just like grass-covered, rolling nonsense because they're so ancient.
+
+29
+00:02:04,710 --> 00:02:11,730
+Rym: But there's always, you know, every year when we do these trips, two years in a row now, everyone on the trip is like, "Oh, you got to pace yourself.
+
+30
+00:02:12,630 --> 00:02:13,799
+Rym: You're skiing too much.
+
+31
+00:02:13,820 --> 00:02:14,807
+Rym: You got to tire yourself
+
+32
+00:02:14,968 --> 00:02:15,049
+Rym: out.".
+
+33
+00:02:15,773 --> 00:02:19,330
+Rym: And for two years in a row, every day I ski more and I feel better.
+
+34
+00:02:19,751 --> 00:02:21,455
+Rym: My power is unlimited.
+
+35
+00:02:21,535 --> 00:02:24,983
+Rym: And I skied, over the course of four days, 146 miles.
+
+36
+00:02:29,730 --> 00:02:30,515
+Rym: It's a double down.
+
+37
+00:02:30,535 --> 00:02:32,206
+Scott: You're not sideways or up skiing.
+
+38
+00:02:32,226 --> 00:02:32,910
+Scott: You're down skiing.
+
+39
+00:02:32,990 --> 00:02:34,930
+Rym: There's some sideways, like taking the catwalks around.
+
+40
+00:02:35,412 --> 00:02:37,746
+Scott: And the hardest work is being done by the lift machine.
+
+41
+00:02:37,786 --> 00:02:38,530
+Scott: Let's pick it full.
+
+42
+00:02:40,451 --> 00:02:44,890
+Scott: It's like, if you skied up that much, you would be the greatest athlete in the history of the universe.
+
+43
+00:02:45,776 --> 00:02:47,526
+Rym: There are people who are like, "You got to earn your
+
+44
+00:02:47,546 --> 00:02:47,848
+Rym: turns.".
+
+45
+00:02:48,110 --> 00:02:52,810
+Rym: And because a lot of ski resorts, you can ski down for free if you get up without using the lift.
+
+46
+00:02:52,890 --> 00:02:58,527
+Rym: And there are people who will spend like all day hiking up a mountain to ski down at once.
+
+47
+00:02:58,568 --> 00:02:59,290
+Rym: And that was their whole day.
+
+48
+00:03:00,270 --> 00:03:06,210
+Scott: But I mean, if you enjoy the up part, then you're really just getting, you know, it's like going to a park, basically.
+
+49
+00:03:06,510 --> 00:03:07,470
+Rym: And I do enjoy the up part.
+
+50
+00:03:07,710 --> 00:03:10,085
+Scott: But if you only enjoy going down, well...
+
+51
+00:03:11,071 --> 00:03:12,836
+Rym: I do really enjoy going down.
+
+52
+00:03:13,217 --> 00:03:17,450
+Rym: But it was some fantastic skiing, despite the bad conditions, per West Coast standards.
+
+53
+00:03:18,431 --> 00:03:19,874
+Scott: I like going up more than down.
+
+54
+00:03:19,934 --> 00:03:27,170
+Scott: I can't climb with my hands, but if it's just feet only, like just walk up or bike up.
+
+55
+00:03:27,550 --> 00:03:29,956
+Scott: I'd like to bike up and then take the lift down.
+
+56
+00:03:30,057 --> 00:03:31,982
+Scott: Take the gondola down.
+
+57
+00:03:35,590 --> 00:03:36,155
+Scott: Be like, "Oh, good.
+
+58
+00:03:36,175 --> 00:03:37,205
+Scott: I don't have to do the dangerous
+
+59
+00:03:37,245 --> 00:03:37,407
+Scott: part.".
+
+60
+00:03:37,790 --> 00:03:38,412
+Rym: See, I like both.
+
+61
+00:03:38,432 --> 00:03:41,222
+Rym: You know, you've seen me when we biked together on a downhill.
+
+62
+00:03:41,483 --> 00:03:43,430
+Rym: I just don't touch my brakes.
+
+63
+00:03:43,990 --> 00:03:45,690
+Rym: The faster I can go, the better on a downhill.
+
+64
+00:03:46,430 --> 00:03:50,570
+Scott: Well, if you bike down too steep a downhill, you might hit the brakes.
+
+65
+00:03:51,050 --> 00:03:51,170
+Rym: Yeah.
+
+66
+00:03:51,251 --> 00:03:58,790
+Rym: Well, mountain biking often hit the great brakes, but not so much because of speed, but because there's something dicey in front of me and I don't want to hit it and have a problem.
+
+67
+00:03:59,991 --> 00:04:07,930
+Rym: But the fastest I got skiing this time was 44.7 miles per hour, which is not the fastest I've ever skied, but it's up there.
+
+68
+00:04:08,170 --> 00:04:09,510
+Scott: The gravity's doing most of the work, though.
+
+69
+00:04:09,770 --> 00:04:11,134
+Rym: Yeah, but you've got to stay in control.
+
+70
+00:04:12,298 --> 00:04:15,890
+Rym: If you just try to go straight down, you'll hit a speed higher than that.
+
+71
+00:04:16,390 --> 00:04:19,297
+Rym: You'll probably die because you're not actually carving or steering.
+
+72
+00:04:19,798 --> 00:04:20,519
+Rym: There's even signs.
+
+73
+00:04:20,539 --> 00:04:25,150
+Rym: It's against the rules to straight line on big mountains because you'll just die.
+
+74
+00:04:26,270 --> 00:04:28,469
+Rym: Snowboarders try to do it all the time and they get kicked out for it.
+
+75
+00:04:30,033 --> 00:04:32,390
+Scott: So you're not allowed to just ski in a straight line?
+
+76
+00:04:32,450 --> 00:04:33,470
+Rym: No, not straight down the mountain.
+
+77
+00:04:35,013 --> 00:04:36,590
+Scott: What if it's big and wide open?
+
+78
+00:04:37,731 --> 00:04:40,175
+Rym: The way skiing works, it's not like a sled.
+
+79
+00:04:40,515 --> 00:04:42,038
+Rym: You're actually always carving.
+
+80
+00:04:42,278 --> 00:04:49,490
+Rym: You're always either doing a special kind of slide maneuver or the edges of your skis are sort of carving like a rail through the snow.
+
+81
+00:04:49,530 --> 00:04:56,970
+Scott: Yeah, but you watch Olympic downhill skiing and it's like they turn only when there's the ropes or the flags to make them stay on course.
+
+82
+00:04:57,090 --> 00:05:04,430
+Rym: Watch them in slow motion and what you'll see is they always have an edge engage and when they don't, it's only in the brief period when they're transitioning from one edge to another.
+
+83
+00:05:05,930 --> 00:05:12,750
+Scott: Yeah, but it's like if you said downhill skiing race and there wasn't any flags or ropes, it was just open, they would just go in a straight line.
+
+84
+00:05:13,050 --> 00:05:19,542
+Rym: Well, you can actually get faster by edging even if it's in a straight line and that's not considered a straight line.
+
+85
+00:05:19,562 --> 00:05:23,109
+Rym: Straight lining is people who go straight down without an edge engage the whole time.
+
+86
+00:05:25,311 --> 00:05:26,954
+Rym: It's hard to explain unless you're a skier.
+
+87
+00:05:27,015 --> 00:05:27,696
+Rym: You've never skied.
+
+88
+00:05:27,736 --> 00:05:34,890
+Rym: so I don't think you really could feel the concept of what an edge means in skiing or snowboarding and it doesn't really have an analogy.
+
+89
+00:05:35,450 --> 00:05:38,210
+Scott: You put the edge of the ski into the snow versus just not?
+
+90
+00:05:38,510 --> 00:05:41,578
+Rym: Well, but it digs in and that's sort of part of the mechanics of skiing.
+
+91
+00:05:41,598 --> 00:05:46,630
+Rym: and when you're going straight down, what you're actually doing is really quickly alternating between your two edges.
+
+92
+00:05:47,612 --> 00:05:51,150
+Rym: It's like making hundreds and hundreds of tiny turns while you're going down.
+
+93
+00:05:51,871 --> 00:05:56,270
+Scott: So if you don't do that, if you just stand and gravity just pulls you down.
+
+94
+00:05:56,510 --> 00:06:02,338
+Rym: Yep, you'll actually have more of the ski touching the snow and you'll hit a lower maximum speed.
+
+95
+00:06:02,599 --> 00:06:04,462
+Rym: You'll also not have an edge.
+
+96
+00:06:04,502 --> 00:06:04,902
+Rym: engage.
+
+97
+00:06:04,942 --> 00:06:10,270
+Rym: so if you do need to suddenly stop or turn, you can't quickly and if you try to engage too quickly, you might just fall over and die.
+
+98
+00:06:12,733 --> 00:06:14,830
+Scott: I mean when they do the ski jump, they're just going straight.
+
+99
+00:06:15,051 --> 00:06:19,184
+Rym: Well, the ski jump, they have one at Vail you can just do.
+
+100
+00:06:19,565 --> 00:06:20,367
+Rym: Of course, I'm not crazy.
+
+101
+00:06:20,468 --> 00:06:21,110
+Rym: I'm not doing that.
+
+102
+00:06:21,730 --> 00:06:22,347
+Scott: You're not doing it?
+
+103
+00:06:22,571 --> 00:06:23,250
+Scott: I'm not doing that.
+
+104
+00:06:23,450 --> 00:06:25,750
+Scott: Do they have a baby's first ski jump?
+
+105
+00:06:26,691 --> 00:06:27,011
+Rym: They do.
+
+106
+00:06:27,332 --> 00:06:31,583
+Rym: They have a whole bunch of beginner and intermediate big jumps and bowls and things.
+
+107
+00:06:31,923 --> 00:06:34,269
+Rym: I'm actually really bad at jumping for all the other stuff I'm good at.
+
+108
+00:06:35,230 --> 00:06:41,266
+Scott: I remember at Lake Placid, you could see the ski jumps from the Olympics and they're old and sad and no one uses those.
+
+109
+00:06:43,511 --> 00:06:47,696
+Rym: But the way those work, those you do just go straight down.
+
+110
+00:06:47,977 --> 00:06:52,582
+Rym: They kind of just lock you in like your two skis are almost like side rails.
+
+111
+00:06:52,782 --> 00:06:58,930
+Rym: They just hold you straight because the only thing you're being judged on is your form once you hit the jump.
+
+112
+00:06:59,530 --> 00:07:01,534
+Rym: So the slope is not normal skiing.
+
+113
+00:07:01,614 --> 00:07:09,328
+Rym: It's just a mechanism to make sure everybody jumps at the exact same point the exact same way and then they judge you on how well you do it after you take off.
+
+114
+00:07:12,832 --> 00:07:18,446
+Scott: You could see the Lake Placid Olympic jumping complex on Google Maps.
+
+115
+00:07:21,110 --> 00:07:22,036
+Rym: I hiked past it once.
+
+116
+00:07:22,056 --> 00:07:24,128
+Rym: That was a long time ago.
+
+117
+00:07:24,931 --> 00:07:38,150
+Rym: But anyway, in a little bit of news, like a little bit of review, the wired gaming headset that was not even USB that just plugs into the sound card of my computer that I've had forever just died randomly like right before the ski trip.
+
+118
+00:07:38,670 --> 00:07:42,950
+Rym: Like in the middle of an Overwatch match, I was talking to someone and they responded.
+
+119
+00:07:43,470 --> 00:07:44,535
+Scott: It's not even a USB one.
+
+120
+00:07:44,576 --> 00:07:45,762
+Scott: It's got to be even easier to fix.
+
+121
+00:07:45,822 --> 00:07:47,430
+Scott: It's just like two headphone cables.
+
+122
+00:07:47,630 --> 00:07:48,853
+Rym: Yeah, so the headphone worked.
+
+123
+00:07:49,214 --> 00:07:56,830
+Rym: The microphone just stopped working and I investigated it a little bit and whatever broke was like inside of a non accessible part.
+
+124
+00:07:56,930 --> 00:07:57,851
+Rym: Like it wasn't just the cables.
+
+125
+00:07:57,911 --> 00:08:00,896
+Rym: It was something inside of the mechanism because it has.
+
+126
+00:08:00,976 --> 00:08:10,050
+Rym: it has a mechanism where when you pull the microphone down inside of the headset, there's a switch that is the mute switch and that whole thing just broke inside out of nowhere.
+
+127
+00:08:10,811 --> 00:08:22,730
+Rym: But it was so old and wired, I figured it was time to just get a nice wireless headset so I can now review the Logitech G Pro X wireless light speed gaming headset.
+
+128
+00:08:23,710 --> 00:08:24,131
+Rym: And you know what?
+
+129
+00:08:24,351 --> 00:08:24,872
+Rym: It's fine.
+
+130
+00:08:25,733 --> 00:08:32,301
+Rym: It works the same as anything except it actually has a better microphone than any gaming headset I've ever used.
+
+131
+00:08:32,341 --> 00:08:38,870
+Rym: because even expensive gaming headsets often kind of just sound like shit in the microphone and it just doesn't really matter that much.
+
+132
+00:08:39,552 --> 00:08:43,241
+Rym: But this one actually has a pretty good directional microphone in it.
+
+133
+00:08:43,303 --> 00:08:45,389
+Rym: Like it actually sounds pretty good.
+
+134
+00:08:47,211 --> 00:08:52,179
+Scott: I mean the thing is with the gaming headsets is that like the pricing on them is the problem, right?
+
+135
+00:08:52,200 --> 00:08:57,028
+Scott: It's like for the same price you could just get something that's not labeled and marketed at gamers.
+
+136
+00:08:57,268 --> 00:08:58,030
+Scott: that's just better.
+
+137
+00:09:00,371 --> 00:09:03,395
+Rym: And if you get a non wireless one, they're way cheap too.
+
+138
+00:09:03,715 --> 00:09:15,510
+Rym: Like the wireless ones are way overpriced for how good they are, but the wireless ones I found that are not marketed at gamers tend to be plantronics like things that are not comfortable from what I've tried on.
+
+139
+00:09:16,611 --> 00:09:23,750
+Scott: I mean this audio interface basically is like, you know, I don't need any kind of headset or anything now, right?
+
+140
+00:09:24,713 --> 00:09:25,618
+Rym: I do use them separately.
+
+141
+00:09:25,658 --> 00:09:27,288
+Rym: Like I don't like to have to turn on...
+
+142
+00:09:27,570 --> 00:09:28,490
+Scott: Headphone, microphone.
+
+143
+00:09:28,990 --> 00:09:32,150
+Rym: Yeah, I don't like to have the boom in front of me and the phantom power.
+
+144
+00:09:32,150 --> 00:09:33,329
+Scott: It's not obstructing my view.
+
+145
+00:09:33,930 --> 00:09:36,864
+Rym: Yeah, it's in the way compared to I can walk around while I'm talking.
+
+146
+00:09:36,904 --> 00:09:38,190
+Rym: I can't really do that when we do the podcast.
+
+147
+00:09:38,430 --> 00:09:50,450
+Scott: If I really needed to not have this in the way for some reason, my iPhone is a webcam, which has a microphone in it, and then my computer has a microphone in it, and it's like, you know.
+
+148
+00:09:52,611 --> 00:09:57,521
+Rym: But the biggest advantage is one that only applies to me and probably very few other people.
+
+149
+00:09:58,163 --> 00:10:01,630
+Rym: I have wired headphones for doing GeekNights because they plug into the audio interface.
+
+150
+00:10:01,950 --> 00:10:15,730
+Rym: And then I have a wireless USB Logitech for everything else because in the past I had two headsets hanging on hooks by my desk and occasionally the cables would touch each other and do the Christmas tree, the Christmas lights thing, and I have to untangle them.
+
+151
+00:10:15,810 --> 00:10:15,991
+Scott: Oh, I see.
+
+152
+00:10:16,412 --> 00:10:21,539
+Scott: Yeah, my second, my wireless is AirPods, so I don't... Yeah.
+
+153
+00:10:21,559 --> 00:10:21,970
+Scott: So, yeah.
+
+154
+00:10:22,311 --> 00:10:24,709
+Scott: They're not going to have a problem like this.
+
+155
+00:10:26,711 --> 00:10:31,725
+Rym: But these things do just work, and I'm pretty happy with them, and I hope they will last forever.
+
+156
+00:10:31,745 --> 00:10:32,688
+Rym: This is now...
+
+157
+00:10:33,310 --> 00:10:34,150
+Scott: That seems unlikely.
+
+158
+00:10:34,891 --> 00:10:40,586
+Rym: Well, I bought like three gaming headsets in my life, and one of the older ones Emily's actually still using.
+
+159
+00:10:40,646 --> 00:10:41,408
+Rym: Like, it's still fine.
+
+160
+00:10:41,428 --> 00:10:42,230
+Rym: It's just really old.
+
+161
+00:10:42,270 --> 00:10:44,989
+Scott: What I found is that the, you know, I remember I had, what, the rig one?
+
+162
+00:10:45,310 --> 00:10:49,570
+Rym: Yeah, the rig, like, actually really disappointed me in how un-durable it ended up being.
+
+163
+00:10:49,831 --> 00:10:52,469
+Scott: It was pretty cool with the features in the little hub it had.
+
+164
+00:10:53,451 --> 00:11:00,229
+Rym: Well, especially because back then, unless you had a professional audio interface, there really wasn't a way to do that kind of multiplexing.
+
+165
+00:11:01,090 --> 00:11:07,346
+Scott: Well, also, you know, before, that was like much earlier phone situations, like the ability to plug your phone into.
+
+166
+00:11:07,407 --> 00:11:08,710
+Scott: it was kind of interesting.
+
+167
+00:11:08,930 --> 00:11:08,990
+Rym: Yep.
+
+168
+00:11:09,150 --> 00:11:19,870
+Rym: I remember sometimes on that old rig, I would like be having a conversation on my phone in my headset while simultaneously I'm playing a video game, which I'm also hearing through the same headset.
+
+169
+00:11:19,990 --> 00:11:31,487
+Scott: It made sense when phones still had headphone holes that took TRRS, and you could control the phone that way, and you weren't so much using Bluetooth.
+
+170
+00:11:31,647 --> 00:11:33,630
+Scott: Even though Bluetooth existed, it wasn't any good.
+
+171
+00:11:34,250 --> 00:11:38,209
+Scott: Now, that thing makes no sense, and its durability was garbage.
+
+172
+00:11:38,830 --> 00:11:43,149
+Rym: Yeah, it was way less durable than the company implied that it would be.
+
+173
+00:11:44,310 --> 00:11:47,365
+Scott: Well, I mean, no one's gonna say, "Yeah, our products are a piece of shit that fall
+
+174
+00:11:47,405 --> 00:11:47,687
+Scott: apart."
+
+175
+00:11:48,471 --> 00:11:49,628
+Scott: Except Spirit Airlines, I guess.
+
+176
+00:11:51,890 --> 00:11:55,916
+Rym: So, there is some news, and it's one non-gaming news, but it's actually kind of important.
+
+177
+00:11:56,277 --> 00:12:02,746
+Rym: We're not gonna dwell on it, but you don't know, the former president of the United States tried to stage a coup and steal the election.
+
+178
+00:12:03,167 --> 00:12:04,429
+Rym: There's a whole thing on January 6th.
+
+179
+00:12:05,510 --> 00:12:21,870
+Rym: And there was a lawsuit in the United States that went up all the way up to the federal courts and then was appealed, so this was an appeal in the US federal court, one or two, depending on how things proceed, levels below our Supreme Court.
+
+180
+00:12:22,550 --> 00:12:34,029
+Rym: And the question at issue is basically, "Is a president of the United States permanently immune to all prosecution for all crimes under all circumstances or
+
+181
+00:12:34,110 --> 00:12:34,310
+Rym: not?".
+
+182
+00:12:34,671 --> 00:12:40,170
+Rym: And if that sounds ridiculous, well, welcome to America and our ridiculous Constitution.
+
+183
+00:12:41,490 --> 00:12:42,873
+Rym: So, that's what's at stake.
+
+184
+00:12:42,993 --> 00:12:50,248
+Rym: Literally, the question is, "Is a president of the United States permanently immune to all prosecution for all crimes forever, no matter
+
+185
+00:12:50,348 --> 00:12:50,508
+Rym: what?".
+
+186
+00:12:51,513 --> 00:12:52,649
+Scott: That they did while they were president.
+
+187
+00:12:54,031 --> 00:12:54,973
+Scott: We're not counting crime.
+
+188
+00:12:55,093 --> 00:13:01,710
+Scott: Obviously, no one's disputing if you did a crime when you weren't president, even if you became president or previously were president.
+
+189
+00:13:01,910 --> 00:13:05,430
+Scott: If Obama right now shot someone, he would be arrested, right?
+
+190
+00:13:06,351 --> 00:13:10,205
+Scott: The question is, "What if Obama shot someone immediately after being
+
+191
+00:13:10,245 --> 00:13:10,848
+Scott: inaugurated?"?
+
+192
+00:13:10,888 --> 00:13:11,490
+Scott: That's the question.
+
+193
+00:13:11,610 --> 00:13:19,230
+Rym: Well, there is another case that effectively is a crime that was committed after the presidency, where there's a similar debate, but it's lower down in the courts right now.
+
+194
+00:13:19,671 --> 00:13:21,617
+Rym: There's so many, no one can keep track.
+
+195
+00:13:21,677 --> 00:13:26,110
+Rym: There's like 96 different charges across America just on this one guy.
+
+196
+00:13:26,310 --> 00:13:34,550
+Rym: But anyway, the federal court has in fact ruled that presidents are not immune to criminal prostitution.
+
+197
+00:13:34,790 --> 00:13:35,076
+Scott: Oh, damn.
+
+198
+00:13:35,096 --> 00:13:35,850
+Scott: That's disappointing.
+
+199
+00:13:36,530 --> 00:13:46,768
+Rym: Yeah, considering that had they ruled that presidents are immune, then the current president could legally steal the election, or legally punch the former president in the nuts.
+
+200
+00:13:47,409 --> 00:13:48,190
+Rym: Just fully legally.
+
+201
+00:13:49,012 --> 00:13:58,270
+Scott: I mean, effectively, if you say that the president is immune from being prosecuted for any crimes, you're basically saying it's not a democracy, right?
+
+202
+00:13:58,470 --> 00:14:06,269
+Scott: Because you're effectively an autocrat because you can just, right, it's like if people won't do what you say, well you can just shoot them.
+
+203
+00:14:07,532 --> 00:14:11,910
+Scott: But if they shoot you, that's the highest possible crime there is, so they wouldn't do that.
+
+204
+00:14:12,190 --> 00:14:26,390
+Rym: So this decision wasn't just like the obvious decision, but this appeals court in the United States, they wrote the most watertight, intense ruling that I've ever read cover to cover.
+
+205
+00:14:26,610 --> 00:14:30,496
+Rym: It basically is like, there is absolutely no way to overturn this.
+
+206
+00:14:30,836 --> 00:14:39,890
+Rym: Here is the ridiculous list of insane consequences if we ruled the other way, and here is mountains of evidence as to why this is an absolutely stupid claim.
+
+207
+00:14:40,770 --> 00:14:41,188
+Scott: That's right.
+
+208
+00:14:43,234 --> 00:14:45,069
+Scott: Stupid common sense, taking away all our fun.
+
+209
+00:14:45,470 --> 00:14:45,610
+Scott: Yep.
+
+210
+00:14:46,691 --> 00:15:02,990
+Rym: So now what's going to be really interesting is either the former president of the United States who tried to stage a coup can appeal this to a larger federal court, which will almost definitely rule the exact same way, or he can appeal it to the Supreme Court.
+
+211
+00:15:04,550 --> 00:15:16,370
+Rym: And it is hard, considering the way this decision was written, to imagine any universe where even the most corrupt Supreme Court would take this case up and overturn it.
+
+212
+00:15:16,490 --> 00:15:32,090
+Rym: Because if they did that, it would require them to basically say, we don't give a shit, and we're just going to arbitrarily rule and ignore everything that the rest of the court system said, which would probably lead to one of the first crises of the courts that the United States has ever had.
+
+213
+00:15:32,891 --> 00:15:49,610
+Scott: Well, it would also, like we said, mean that Joe Biden is a dictator, and can just, can have those, they'd basically be saying, yes, if Joe Biden sends assassins to kill us and burn our houses down and et cetera, et cetera, no one could do anything about it.
+
+214
+00:15:49,650 --> 00:15:55,090
+Scott: And I don't think anyone would say that if they weren't his friend, and some of them are not.
+
+215
+00:15:55,290 --> 00:15:55,992
+Rym: So, yep.
+
+216
+00:15:56,092 --> 00:16:02,730
+Rym: Now, I think there are three of them who would say that, but they qualify that only if it's a Republican president.
+
+217
+00:16:04,772 --> 00:16:10,250
+Scott: But he's not a Republican president right now, and they have to decide before it has a chance to be.
+
+218
+00:16:11,251 --> 00:16:12,354
+Rym: So I'm going to make a prediction.
+
+219
+00:16:12,374 --> 00:16:18,070
+Rym: I think our cowardly Supreme Court is just going to refuse to take this case up.
+
+220
+00:16:18,574 --> 00:16:19,709
+Scott: Yeah, that's what they do most of the time.
+
+221
+00:16:19,770 --> 00:16:28,450
+Rym: Yep, because then in American law, the lower court's ruling stands, but it does not set a precedent except in the jurisdiction of that appeals court.
+
+222
+00:16:28,910 --> 00:16:43,070
+Rym: So it lets the Supreme Court, which is super corrupt and has basically zero faith in America right now, dodge this and try to not get involved, even though it's kind of a moment where you really need the highest court in the land to also say the common sense thing.
+
+223
+00:16:43,550 --> 00:16:47,470
+Scott: That's fine, because it means he's not immune and he'll get in trouble for all his crimes.
+
+224
+00:16:47,610 --> 00:16:48,272
+Rym: Exactly.
+
+225
+00:16:48,813 --> 00:16:50,738
+Rym: So this is good news.
+
+226
+00:16:50,918 --> 00:16:55,570
+Rym: The process somehow is slowly, possibly working.
+
+227
+00:16:57,785 --> 00:16:57,930
+Scott: Anyway.
+
+228
+00:16:58,230 --> 00:17:01,790
+Rym: Yeah, anyway, in some other news, you got some news?
+
+229
+00:17:03,132 --> 00:17:04,002
+Scott: I did have a news.
+
+230
+00:17:04,123 --> 00:17:04,690
+Scott: What was it?
+
+231
+00:17:04,869 --> 00:17:05,869
+Rym: The translation model?
+
+232
+00:17:06,731 --> 00:17:07,131
+Scott: Oh, yeah.
+
+233
+00:17:07,151 --> 00:17:16,310
+Scott: So Roblox, which is a child labor machine that you should not get involved with, has been the first to do a thing that's sort of obvious.
+
+234
+00:17:16,892 --> 00:17:17,132
+Scott: Right.
+
+235
+00:17:17,473 --> 00:17:18,135
+Scott: But you know what?
+
+236
+00:17:18,676 --> 00:17:22,990
+Scott: Doing an obvious thing first is still pretty meaningful.
+
+237
+00:17:23,571 --> 00:17:28,109
+Scott: And what they've done is they've taken a machine learning translator model.
+
+238
+00:17:28,451 --> 00:17:28,733
+Scott: Right.
+
+239
+00:17:29,295 --> 00:17:32,530
+Scott: Which there are many of them, you know, Duolingo's got one.
+
+240
+00:17:33,272 --> 00:17:41,350
+Scott: Plenty of people got one and they've gotten the performance of it and the accuracy of it high enough to where they find it acceptable.
+
+241
+00:17:42,212 --> 00:17:47,430
+Scott: And they're allowing you to apply it to just live the live chat in Roblox.
+
+242
+00:17:48,090 --> 00:18:04,570
+Scott: So if you're on a Roblox game server, whatever, and you're in there with some Russians and some Chinese people and some Koreans and some Americans and some French people and some Guyanese people and some Argentinian people, you can all chat.
+
+243
+00:18:05,190 --> 00:18:19,710
+Scott: And in the text box, all the chat, 100 percent of it will be in your native language of choice, even though all the participants in the chat are from around the world in near-ish real chat time, at least.
+
+244
+00:18:20,030 --> 00:18:23,010
+Scott: You know, not that IRC chat is real time, but fast enough.
+
+245
+00:18:24,411 --> 00:18:29,990
+Scott: And thus provide, you know, the connection across the world we've all been seeking.
+
+246
+00:18:31,932 --> 00:18:35,590
+Scott: And it's like, hey, good job doing that first.
+
+247
+00:18:35,790 --> 00:18:37,410
+Scott: Everyone else is going to do it eventually.
+
+248
+00:18:37,830 --> 00:18:41,129
+Rym: I think it's nothing but good news, because even if you wanted it.
+
+249
+00:18:41,350 --> 00:18:46,710
+Rym: So if you want to make an argument that AI will take away jobs, well, human translators could not do this.
+
+250
+00:18:47,252 --> 00:18:49,368
+Rym: No number of human translators could do this.
+
+251
+00:18:50,172 --> 00:18:51,176
+Scott: No.
+
+252
+00:18:51,317 --> 00:18:54,810
+Scott: And it's, you know, it's not going to be as good, clearly, as human translators.
+
+253
+00:18:55,071 --> 00:18:57,890
+Scott: And when you need good, you're going to still get a human translator.
+
+254
+00:18:58,270 --> 00:19:01,970
+Rym: The United Nations is going to use human translators for the foreseeable future.
+
+255
+00:19:03,850 --> 00:19:04,011
+Scott: Right.
+
+256
+00:19:04,432 --> 00:19:08,890
+Scott: But, you know, hey, this, you know, hopefully other apps apply it.
+
+257
+00:19:09,112 --> 00:19:10,469
+Scott: But if they don't, you know what?
+
+258
+00:19:10,831 --> 00:19:18,010
+Scott: It could be worth it to install Roblox, not to do any Roblox or to engage in child labor or to buy any skins or get Robux.
+
+259
+00:19:18,050 --> 00:19:20,430
+Rym: Just to use the Star Trek style universal translator.
+
+260
+00:19:20,951 --> 00:19:23,810
+Scott: Just to go in the chat room and talk to people.
+
+261
+00:19:24,010 --> 00:19:35,970
+Scott: It's like, you know, wait, what if you got to, you know, you're working on some open source project and someone else is, you know, tries to get in your GitHub issues and they're talking to you.
+
+262
+00:19:36,430 --> 00:19:37,112
+Scott: But they're tight.
+
+263
+00:19:37,133 --> 00:19:41,950
+Scott: You know, they clearly English is not their first language or your native language is not their first language.
+
+264
+00:19:41,990 --> 00:19:44,422
+Scott: Be like, hey, meet me and meet me in Roblox.
+
+265
+00:19:45,126 --> 00:19:45,870
+Scott: Let's chat there.
+
+266
+00:19:46,351 --> 00:19:52,990
+Scott: And, you know, it'll be a lot just the fact that you could just copy paste to Google Translate or use all kinds of other mechanisms.
+
+267
+00:19:53,210 --> 00:19:57,110
+Rym: I've done that before, but it's tedious and slow and it really messes up.
+
+268
+00:19:57,290 --> 00:20:03,469
+Scott: But just having the chat room automatically do it just, you know, makes the UX of it.
+
+269
+00:20:04,452 --> 00:20:05,630
+Scott: It's a dramatic difference.
+
+270
+00:20:06,115 --> 00:20:07,149
+Scott: It's an obvious idea.
+
+271
+00:20:08,672 --> 00:20:10,790
+Scott: Everyone knew this was coming from somebody.
+
+272
+00:20:11,310 --> 00:20:14,409
+Scott: But Roblox can say they were the first big one to do it, at least.
+
+273
+00:20:15,331 --> 00:20:16,687
+Scott: And I hope Discord does it.
+
+274
+00:20:17,550 --> 00:20:21,369
+Scott: And Slack and an IRC plug in.
+
+275
+00:20:22,631 --> 00:20:29,510
+Rym: And yeah, because even if it's clearly not perfect and there's, we'll need more time for this kind of machine.
+
+276
+00:20:29,990 --> 00:20:30,910
+Scott: It doesn't have to be perfect.
+
+277
+00:20:30,991 --> 00:20:32,190
+Scott: It has to be good enough, right?
+
+278
+00:20:33,673 --> 00:20:38,382
+Scott: A lot of people out there keep, you know, thinking about like, you know, the old U.M.
+
+279
+00:20:38,402 --> 00:20:41,968
+Scott: play God sci fi stories of like, you know, the robot.
+
+280
+00:20:43,978 --> 00:20:44,669
+Scott: It did it wrong.
+
+281
+00:20:45,290 --> 00:20:46,510
+Scott: That's why we can't trust robot.
+
+282
+00:20:47,332 --> 00:20:52,370
+Scott: But it's like, you know, I say the same thing about cars that drive on their own, but no human drivers.
+
+283
+00:20:52,650 --> 00:20:54,870
+Scott: It's like, look, the standard isn't perfect.
+
+284
+00:20:55,050 --> 00:20:59,889
+Scott: We don't need a car that drives itself that never hits anyone as nice as that would be.
+
+285
+00:21:00,351 --> 00:21:04,590
+Scott: It just has to hit as many or fewer people than humans do.
+
+286
+00:21:04,750 --> 00:21:06,070
+Scott: And then it will save lives.
+
+287
+00:21:06,654 --> 00:21:08,490
+Scott: And you should do it even if it's not perfect.
+
+288
+00:21:08,991 --> 00:21:22,030
+Scott: If the translating chat room is good enough to where people who do not share a common spoken language can communicate with each other meaningfully and bring together humanity in some small way.
+
+289
+00:21:22,413 --> 00:21:23,789
+Scott: It's good enough to start using it.
+
+290
+00:21:23,890 --> 00:21:24,231
+Scott: Yeah.
+
+291
+00:21:24,331 --> 00:21:32,430
+Rym: Think about the cultural exchange that's about to happen among all the kids in Roblox around the world over the next year like that.
+
+292
+00:21:32,710 --> 00:21:40,070
+Scott: I just don't know how popular the Roblox is in the other parts of the world, but it must be popular at least more than one part of the world if they're bothering to put this in.
+
+293
+00:21:40,350 --> 00:21:46,390
+Rym: Based on my limited looking into Roblox, it seems like it is popular in many, many countries.
+
+294
+00:21:47,110 --> 00:21:47,372
+Scott: I'm sure.
+
+295
+00:21:47,412 --> 00:21:50,470
+Scott: I just wonder, you know, there's probably some countries where it's not so popular.
+
+296
+00:21:52,796 --> 00:21:53,849
+Scott: It's not every country.
+
+297
+00:21:56,591 --> 00:21:59,430
+Scott: A lot of countries I imagine don't allow child labor.
+
+298
+00:21:59,610 --> 00:22:04,770
+Rym: Before long, we're going to have this in near real time for spoken word where you don't even hear the other person's voice.
+
+299
+00:22:05,450 --> 00:22:15,430
+Scott: The only question is, right, is that these sorts of, you know, the current paradigm of machine learning from a computing perspective is very, you know, resource intensive.
+
+300
+00:22:16,032 --> 00:22:17,958
+Scott: And so who is paying for this?
+
+301
+00:22:18,219 --> 00:22:19,563
+Scott: and, you know, the energy cost?
+
+302
+00:22:19,623 --> 00:22:21,610
+Scott: It's not near the energy cost of coins.
+
+303
+00:22:23,191 --> 00:22:31,505
+Scott: But it's like, is Roblox going to cost the money to run this thing and will they make that money back or will they say, "Ah, this is too expensive.
+
+304
+00:22:31,545 --> 00:22:34,129
+Scott: We can't, you know, be paying for
+
+305
+00:22:34,169 --> 00:22:34,310
+Scott: this.".
+
+306
+00:22:34,470 --> 00:22:34,731
+Rym: Yeah.
+
+307
+00:22:35,032 --> 00:22:39,290
+Rym: Of course, this kind of model is the kind of model that could become very efficient over time.
+
+308
+00:22:40,812 --> 00:22:43,570
+Rym: But I guess I think that's the conversation for another day, but this is big news.
+
+309
+00:22:43,610 --> 00:22:47,044
+Scott: I think it could work well as if it's like a paid plugin, right?
+
+310
+00:22:47,064 --> 00:22:47,747
+Scott: Like, you know.
+
+311
+00:22:49,530 --> 00:22:55,167
+Scott: Like, yeah, Discord, you can use it if your server is all boosted and full of nitros and boosts and whatnot, right?
+
+312
+00:22:55,508 --> 00:22:56,049
+Scott: But otherwise, no.
+
+313
+00:23:02,470 --> 00:23:05,634
+Rym: But anyway, things of the day.
+
+314
+00:23:05,735 --> 00:23:17,730
+Rym: So I haven't linked to SciShow in a long time and I'm linking to it now only because there are two kinds of arguments around keyboards that come up kind of often in my life across many social circles.
+
+315
+00:23:18,230 --> 00:23:21,504
+Scott: That's just because you argue with people when they talk about keyboards.
+
+316
+00:23:22,047 --> 00:23:22,770
+Scott: Stop doing that.
+
+317
+00:23:23,190 --> 00:23:24,714
+Rym: I like arguing with people about keyboards.
+
+318
+00:23:25,476 --> 00:23:31,010
+Rym: But there's the argument around, are there keyboard layouts that are better than other keyboard layouts?
+
+319
+00:23:31,230 --> 00:23:36,850
+Rym: Which kind of stupid argument, partly because we do have a lot of data on it and QWERTY is not the best.
+
+320
+00:23:37,371 --> 00:23:43,710
+Rym: But of the ones that are commonly used for people who type in English, it's the fastest and it's kind of naturally good.
+
+321
+00:23:43,830 --> 00:23:44,975
+Scott: Don't care if it's the best.
+
+322
+00:23:45,096 --> 00:23:46,763
+Scott: That's what you're going to encounter.
+
+323
+00:23:46,824 --> 00:23:47,748
+Scott: So that's how you should learn.
+
+324
+00:23:47,788 --> 00:23:48,230
+Scott: Deal with it.
+
+325
+00:23:48,270 --> 00:23:52,510
+Rym: Like learning Dvorak is literally just a waste of your time and it's just going to fuck up your life.
+
+326
+00:23:53,450 --> 00:23:59,590
+Rym: But the other one is people who love mechanical keyboards versus people who weirdly hate mechanical keyboards.
+
+327
+00:24:00,030 --> 00:24:02,374
+Scott: I haven't met too many people who hate the mechanical keyboards.
+
+328
+00:24:02,435 --> 00:24:10,570
+Scott: It's really people who care about keyboards and thus get crazy with the mechanical keyboards and then people who just really don't give a shit or don't even type.
+
+329
+00:24:10,811 --> 00:24:12,014
+Rym: So that was what was fascinating.
+
+330
+00:24:12,034 --> 00:24:17,770
+Scott: I haven't seen many people who type, care about typing and hate mechanical keyboards and really like membranes.
+
+331
+00:24:18,430 --> 00:24:20,113
+Rym: So that was what was fascinating.
+
+332
+00:24:20,414 --> 00:24:29,250
+Rym: In this study, the one thing that came out that was not expected was that most people don't really have opinions on keyboards of any type.
+
+333
+00:24:29,370 --> 00:24:31,234
+Scott: Yeah, because they're not thinking about it.
+
+334
+00:24:31,254 --> 00:24:31,314
+Rym: Yep.
+
+335
+00:24:31,334 --> 00:24:38,130
+Rym: But if you ask anyone about their opinion on mechanical keyboards, almost nobody asked has no opinion.
+
+336
+00:24:38,652 --> 00:24:44,330
+Rym: People cluster into extreme like and extreme dislike and almost nothing in the middle, even regular basic people.
+
+337
+00:24:44,350 --> 00:24:46,676
+Scott: Do the people who dislike even know what the hell you were talking about?
+
+338
+00:24:46,757 --> 00:24:51,530
+Rym: They identify them as the loud keyboard that my annoying coworker uses.
+
+339
+00:24:51,910 --> 00:24:52,471
+Scott: Yeah, but they're right.
+
+340
+00:24:52,511 --> 00:24:53,013
+Scott: But they don't.
+
+341
+00:24:53,053 --> 00:24:53,233
+Scott: Right.
+
+342
+00:24:53,273 --> 00:24:56,180
+Scott: So obviously, I also hate the noise of a mechanical keyboard.
+
+343
+00:24:56,200 --> 00:24:56,401
+Scott: Right.
+
+344
+00:24:56,441 --> 00:25:00,270
+Scott: But it's like so that person is a person who heard their neighbor's annoying keyboard.
+
+345
+00:25:01,790 --> 00:25:10,510
+Scott: Rightly was annoyed by it and thus never considered using one or being a person who uses one because they don't even think about why, you know, the feel of it or anything.
+
+346
+00:25:10,630 --> 00:25:12,896
+Scott: They're just like, don't want to be that annoying, noisy guy.
+
+347
+00:25:13,237 --> 00:25:15,684
+Rym: So there are three, I think, key takeaways from the study.
+
+348
+00:25:15,724 --> 00:25:17,750
+Rym: You can watch the video for the rest, but it's pretty good.
+
+349
+00:25:18,231 --> 00:25:26,582
+Rym: Takeaway number one is, yes, mechanical keyboards with the two stages of pressure just do make you type faster.
+
+350
+00:25:26,742 --> 00:25:31,669
+Rym: There's strong evidence you will just type faster on a mechanical keyboard with fewer errors.
+
+351
+00:25:31,969 --> 00:25:32,470
+Rym: Full stop.
+
+352
+00:25:32,931 --> 00:25:34,312
+Rym: Like that is repeatable science.
+
+353
+00:25:34,853 --> 00:25:35,274
+Rym: So sure.
+
+354
+00:25:35,594 --> 00:25:47,370
+Rym: Two, membrane keyboards and tablets seem to be much more likely to cause carpal tunnel and other issues because they provide less travel.
+
+355
+00:25:47,550 --> 00:25:49,694
+Rym: And that travel does appear to be necessary.
+
+356
+00:25:49,774 --> 00:25:51,878
+Scott: Is this paid for by big keyboard switch?
+
+357
+00:25:52,119 --> 00:25:54,043
+Scott: No, it's a pretty independent study.
+
+358
+00:25:54,524 --> 00:25:55,686
+Rym: Gatorade ran this study.
+
+359
+00:25:58,311 --> 00:26:00,474
+Rym: But the third takeaway was fascinating.
+
+360
+00:26:00,875 --> 00:26:09,930
+Rym: The third takeaway was that the sound is in no way related to the typing accuracy and speed increases in mechanical keyboards.
+
+361
+00:26:10,290 --> 00:26:10,932
+Scott: Of course not.
+
+362
+00:26:10,952 --> 00:26:13,157
+Scott: It's just annoying to make annoying noises.
+
+363
+00:26:13,237 --> 00:26:15,663
+Rym: I actually wish my mechanical keyboard was silent.
+
+364
+00:26:15,703 --> 00:26:16,245
+Rym: It's just not an option.
+
+365
+00:26:16,265 --> 00:26:18,310
+Scott: You could have gotten different keys that are silent.
+
+366
+00:26:18,370 --> 00:26:18,711
+Rym: No, no.
+
+367
+00:26:18,951 --> 00:26:28,650
+Rym: So the ones that are the style of the Cherry MX Blue, all the ones that have the two, like that particular power curve or a similar one, those are the fastest ones for typing.
+
+368
+00:26:29,670 --> 00:26:40,544
+Rym: But if you make that same feeling with no sound somehow, which is very hard to do apparently, then you get like almost the same increase.
+
+369
+00:26:40,804 --> 00:26:49,175
+Rym: But meanwhile, if you have a keyboard that has the same travel but doesn't have that pressure gulf, no matter what sound it makes, it doesn't make you faster.
+
+370
+00:26:50,617 --> 00:26:57,128
+Scott: There are several keyboard switches you can get from like the Boba ones and the Kaai.
+
+371
+00:26:57,188 --> 00:26:58,150
+Scott: I don't know how to pronounce it.
+
+372
+00:26:58,190 --> 00:27:02,362
+Rym: Honestly, the only reason I have Cherry MX Blues is that I bought this keyboard so long ago.
+
+373
+00:27:02,402 --> 00:27:04,307
+Rym: That was really the only one that had that feeling.
+
+374
+00:27:04,327 --> 00:27:05,150
+Rym: There's a bunch more now.
+
+375
+00:27:05,932 --> 00:27:07,618
+Scott: Box Mute Jade or something.
+
+376
+00:27:07,638 --> 00:27:10,830
+Scott: There's all these other keyboard switch brands out there nowadays.
+
+377
+00:27:11,970 --> 00:27:19,210
+Rym: If this keyboard ever dies, I am definitely going to try to find the best mechanical feel with the least possible sound.
+
+378
+00:27:19,750 --> 00:27:21,996
+Scott: So the keyboard that I got, I upgraded my keyboard.
+
+379
+00:27:22,557 --> 00:27:26,267
+Scott: I didn't want to because my other keyboard was working absolutely perfectly.
+
+380
+00:27:26,307 --> 00:27:27,210
+Scott: There was nothing wrong with it.
+
+381
+00:27:27,530 --> 00:27:31,136
+Scott: But I was solving two problems with this new keyboard.
+
+382
+00:27:32,818 --> 00:27:34,541
+Scott: One, wireless, which is nice.
+
+383
+00:27:34,721 --> 00:27:40,390
+Scott: And two, because it's wireless, I can press a key to switch between three different Bluetooth devices.
+
+384
+00:27:41,951 --> 00:27:43,174
+Scott: It's sort of like a KVM.
+
+385
+00:27:43,855 --> 00:27:46,862
+Scott: And I can switch between Mac and PC with one switch on the back.
+
+386
+00:27:47,424 --> 00:27:50,070
+Scott: So that's why I got a new keyboard.
+
+387
+00:27:50,210 --> 00:27:53,977
+Scott: But this new keyboard actually has hot sloppable switches.
+
+388
+00:27:54,398 --> 00:27:58,606
+Scott: So I can go and buy a sack of switches and just pop them in and out.
+
+389
+00:27:58,667 --> 00:28:00,350
+Scott: I can have different switches and different keys.
+
+390
+00:28:02,752 --> 00:28:08,447
+Scott: So I'm considering actually doing that because even though I had, you know, my previous keyboard, I couldn't take the switches out.
+
+391
+00:28:08,488 --> 00:28:09,330
+Scott: They were soldered in.
+
+392
+00:28:10,751 --> 00:28:19,327
+Scott: And that one had Cherry MX Browns and this one has Keychron K Browns, which is supposed to be the same, but I don't think they're the same.
+
+393
+00:28:19,367 --> 00:28:19,988
+Scott: They're kind of eh.
+
+394
+00:28:21,190 --> 00:28:24,870
+Rym: Because I got the Browns at work and they feel like 90 percent as good as the Blues.
+
+395
+00:28:25,850 --> 00:28:26,572
+Scott: Yeah, no.
+
+396
+00:28:26,632 --> 00:28:28,795
+Scott: I've been all in on Brown for a while.
+
+397
+00:28:28,815 --> 00:28:30,819
+Scott: It's the most popular one.
+
+398
+00:28:31,781 --> 00:28:34,586
+Scott: But I might, you know, swap it.
+
+399
+00:28:36,709 --> 00:28:37,030
+Scott: We'll see.
+
+400
+00:28:37,210 --> 00:28:37,431
+Scott: Yeah.
+
+401
+00:28:37,451 --> 00:28:43,730
+Rym: It's hard for me to justify because I don't have that switching use case and my DOS keyboard seems to be literally invulnerable.
+
+402
+00:28:44,830 --> 00:28:44,910
+Scott: Yeah.
+
+403
+00:28:44,931 --> 00:28:48,649
+Scott: I mean, if you don't know, the switching use case is really the thing, right?
+
+404
+00:28:48,910 --> 00:28:49,110
+Rym: Yeah.
+
+405
+00:28:50,013 --> 00:28:56,930
+Rym: If I had that capability, though, I could definitely see putting higher pressure on like enter and a couple other things.
+
+406
+00:28:58,294 --> 00:29:00,089
+Rym: Though I do have blacks on the spacebar.
+
+407
+00:29:02,931 --> 00:29:08,370
+Scott: Anyway, a lot of times keyboard people put different, you know, switches on the spacebar and such.
+
+408
+00:29:08,610 --> 00:29:08,691
+Rym: Yeah.
+
+409
+00:29:08,711 --> 00:29:11,470
+Rym: Well, because you're hitting the spacebar a lot and you're hitting it hard.
+
+410
+00:29:12,213 --> 00:29:12,354
+Scott: Yeah.
+
+411
+00:29:12,374 --> 00:29:13,566
+Scott: And it's different shape.
+
+412
+00:29:13,606 --> 00:29:13,950
+Scott: It's weird.
+
+413
+00:29:15,030 --> 00:29:16,189
+Rym: So anyway, you got a thing of the day?
+
+414
+00:29:17,091 --> 00:29:17,452
+Scott: I do.
+
+415
+00:29:17,552 --> 00:29:19,897
+Scott: So it is Black History Month.
+
+416
+00:29:19,937 --> 00:29:21,100
+Scott: Well, it's the.
+
+417
+00:29:21,280 --> 00:29:25,410
+Scott: every month is the Black History Month, but this is the very Black History Month February.
+
+418
+00:29:26,392 --> 00:29:28,510
+Scott: It's like one of the only good things going on in February.
+
+419
+00:29:30,932 --> 00:29:34,810
+Scott: And so someone posted a very interesting thing on Board Game Geek.
+
+420
+00:29:35,210 --> 00:29:36,839
+Scott: It's not very it's not very big.
+
+421
+00:29:37,040 --> 00:29:38,809
+Scott: It's just a little a little a little post.
+
+422
+00:29:40,311 --> 00:29:43,424
+Scott: And I was like, oh, I wish I would have thought of that.
+
+423
+00:29:43,484 --> 00:29:44,930
+Scott: Thanks for making me think of that.
+
+424
+00:29:45,050 --> 00:29:50,310
+Scott: Which is, you know, in my life and my family, there were some card games that we played.
+
+425
+00:29:50,590 --> 00:29:53,070
+Scott: Yeah, we played a Rummy, you know, five card draw.
+
+426
+00:29:53,512 --> 00:29:53,774
+Rym: Right.
+
+427
+00:29:53,894 --> 00:29:54,739
+Rym: We played mostly.
+
+428
+00:29:54,759 --> 00:29:55,584
+Rym: you play hearts.
+
+429
+00:29:55,765 --> 00:29:56,509
+Scott: You played a Euchre.
+
+430
+00:29:56,830 --> 00:29:57,111
+Scott: Right.
+
+431
+00:29:57,673 --> 00:30:04,790
+Scott: And it's like, yeah, of course, every different kind of person in every different kind of culture around the world has some kind of game.
+
+432
+00:30:04,910 --> 00:30:05,996
+Scott: They're playing with their family.
+
+433
+00:30:06,036 --> 00:30:06,920
+Scott: We know the Japanese.
+
+434
+00:30:06,960 --> 00:30:09,010
+Scott: They're playing the Hanafuda because we watch summer wars.
+
+435
+00:30:09,431 --> 00:30:09,673
+Scott: Right.
+
+436
+00:30:10,196 --> 00:30:11,242
+Scott: And we know about Nintendo.
+
+437
+00:30:11,885 --> 00:30:12,469
+Scott: But you know what?
+
+438
+00:30:13,591 --> 00:30:15,863
+Scott: What were the black people playing in their families?
+
+439
+00:30:15,924 --> 00:30:17,110
+Scott: What card games are they playing?
+
+440
+00:30:17,250 --> 00:30:17,774
+Scott: And you know what?
+
+441
+00:30:18,277 --> 00:30:20,049
+Scott: I'm sure all the black people all know.
+
+442
+00:30:20,632 --> 00:30:22,298
+Scott: And us white people, we don't know.
+
+443
+00:30:22,559 --> 00:30:22,840
+Scott: Right.
+
+444
+00:30:23,764 --> 00:30:25,350
+Scott: We don't know what card games they were playing.
+
+445
+00:30:25,550 --> 00:30:28,117
+Scott: And this person just posted a board game geek, Grayfax.
+
+446
+00:30:28,258 --> 00:30:32,430
+Scott: And they're like, hey, these are the card games that our black family played.
+
+447
+00:30:32,590 --> 00:30:35,499
+Scott: We played a game called Tonk, which is Rummy ish.
+
+448
+00:30:36,261 --> 00:30:37,164
+Scott: They played with.
+
+449
+00:30:37,204 --> 00:30:39,110
+Scott: they played bridge and spades, which we know.
+
+450
+00:30:39,792 --> 00:30:40,776
+Scott: And they played bit.
+
+451
+00:30:40,836 --> 00:30:42,322
+Scott: They played whist with bidding.
+
+452
+00:30:42,342 --> 00:30:43,185
+Rym: Oh, yeah.
+
+453
+00:30:44,511 --> 00:30:50,125
+Scott: So it was interesting to read about the games they played, especially this talk game.
+
+454
+00:30:50,145 --> 00:30:51,890
+Scott: that was new to me.
+
+455
+00:30:52,191 --> 00:30:54,277
+Scott: The other ones were most, you know, not so new to me.
+
+456
+00:30:54,357 --> 00:30:58,350
+Scott: But I was like, oh, I guess that's the games that are popular with their family.
+
+457
+00:30:58,911 --> 00:31:01,400
+Scott: And I think that gives you, you know, good insight.
+
+458
+00:31:01,420 --> 00:31:04,170
+Scott: That's like that's like real insight into what someone's culture is.
+
+459
+00:31:04,250 --> 00:31:04,431
+Scott: Right.
+
+460
+00:31:04,491 --> 00:31:08,730
+Scott: Not the you know, people when they think about other cultures, it's like, what kind of food do they make?
+
+461
+00:31:08,870 --> 00:31:09,834
+Scott: What's their fashion?
+
+462
+00:31:09,895 --> 00:31:10,618
+Scott: What's their music?
+
+463
+00:31:10,678 --> 00:31:11,803
+Scott: What's their dancing?
+
+464
+00:31:11,863 --> 00:31:12,044
+Scott: Right.
+
+465
+00:31:12,084 --> 00:31:13,310
+Scott: It's all these big things.
+
+466
+00:31:13,531 --> 00:31:14,072
+Scott: You can see.
+
+467
+00:31:14,434 --> 00:31:18,206
+Scott: But those are things that people are doing it like holidays and festivals.
+
+468
+00:31:18,427 --> 00:31:18,548
+Scott: Right.
+
+469
+00:31:18,568 --> 00:31:19,250
+Scott: And those are rare.
+
+470
+00:31:19,390 --> 00:31:22,021
+Rym: What are what is the family doing together on a Tuesday?
+
+471
+00:31:22,703 --> 00:31:22,864
+Scott: Right.
+
+472
+00:31:22,924 --> 00:31:24,330
+Scott: It's like the everyday stuff.
+
+473
+00:31:24,410 --> 00:31:24,852
+Scott: It's like that.
+
+474
+00:31:24,892 --> 00:31:30,550
+Scott: I feel like that tells you more about what's, you know, someone's culture and you feel closer to them.
+
+475
+00:31:30,670 --> 00:31:36,790
+Scott: So I just love to hear this, even though it was just a little tiny blog post on a board game geek forum.
+
+476
+00:31:38,351 --> 00:31:40,964
+Rym: In the meta moment, the GeekNights book club book is.
+
+477
+00:31:41,286 --> 00:31:42,150
+Rym: the night is short.
+
+478
+00:31:42,570 --> 00:31:43,594
+Rym: Walk on, girl.
+
+479
+00:31:43,936 --> 00:31:45,764
+Rym: The novel that inspired the movie.
+
+480
+00:31:45,804 --> 00:31:46,447
+Rym: The night is short.
+
+481
+00:31:46,527 --> 00:31:47,150
+Rym: Walk on, girl.
+
+482
+00:31:47,310 --> 00:31:48,554
+Rym: I've read about a third of it.
+
+483
+00:31:49,297 --> 00:31:50,762
+Rym: It moves pretty quick.
+
+484
+00:31:51,063 --> 00:31:52,949
+Scott: I read until the first part.
+
+485
+00:31:53,350 --> 00:31:54,635
+Scott: It's like, ah, end of part one.
+
+486
+00:31:54,656 --> 00:31:55,399
+Scott: And I have to go back.
+
+487
+00:31:56,483 --> 00:31:57,307
+Rym: I am enjoying it.
+
+488
+00:31:57,367 --> 00:31:58,010
+Rym: It's a short read.
+
+489
+00:31:58,170 --> 00:31:59,055
+Rym: I think it's worth reading.
+
+490
+00:31:59,155 --> 00:32:02,030
+Rym: If any of you, for whatever reason, aren't reading it yet.
+
+491
+00:32:02,271 --> 00:32:05,790
+Rym: Well, remember, we just did an episode on the murder about diaries.
+
+492
+00:32:06,171 --> 00:32:11,950
+Rym: And those are some of the fastest reads you're going to find in like modern popular science fiction.
+
+493
+00:32:13,710 --> 00:32:20,930
+Rym: Otherwise, we are going to be live at PAX East with a brand new panel, which we are still currently writing.
+
+494
+00:32:21,230 --> 00:32:22,775
+Rym: And in fact, this episode is us.
+
+495
+00:32:22,815 --> 00:32:27,870
+Rym: We're going to start to riff a little bit on some of the aspects that may be included in this panel.
+
+496
+00:32:28,231 --> 00:32:30,859
+Rym: But every game is the same game.
+
+497
+00:32:31,119 --> 00:32:34,610
+Rym: I'll post the schedule once they finalize it, but it'll be at PAX East.
+
+498
+00:32:35,350 --> 00:32:38,970
+Rym: Otherwise, we're just going to be at PAX East for the whole time, hanging out, playing games.
+
+499
+00:32:39,090 --> 00:32:46,590
+Rym: If you're there, there's a chance we might see you briefly as we pass in the wind in the probably extremely crowded tabletop because I have a prediction.
+
+500
+00:32:47,770 --> 00:32:52,870
+Rym: MAGFest and PAX Unplugged were fully realized this time around.
+
+501
+00:32:53,191 --> 00:32:58,050
+Rym: And PAX Unplugged was like way overcrowded as people return from the dark times.
+
+502
+00:32:58,770 --> 00:33:02,009
+Rym: I think this PAX East is going to be the most crowded PAX East we've seen.
+
+503
+00:33:02,850 --> 00:33:08,410
+Scott: So, I agree that PAX East attendee-wise is going to be off the hook, right?
+
+504
+00:33:08,993 --> 00:33:10,809
+Scott: There's going to be so many attendees there.
+
+505
+00:33:11,291 --> 00:33:17,030
+Scott: However, I believe that the industry, they'll be there for sure.
+
+506
+00:33:17,492 --> 00:33:18,830
+Rym: I agree with what you're saying.
+
+507
+00:33:19,570 --> 00:33:28,050
+Scott: The industry will not be back to its peak level that it was at in terms of convention presence, and I don't know if it ever will be.
+
+508
+00:33:28,431 --> 00:33:31,680
+Scott: E3 died, and I don't think they're looking to replace E3.
+
+509
+00:33:31,780 --> 00:33:34,227
+Scott: I think they're just saying, "We don't need something like
+
+510
+00:33:34,267 --> 00:33:34,428
+Scott: that.".
+
+511
+00:33:36,752 --> 00:33:41,090
+Scott: Apple has been very happy to not have people come to their auditorium and just do videos.
+
+512
+00:33:41,570 --> 00:33:43,710
+Scott: Nintendo has been very happy to do Nintendo Direct.
+
+513
+00:33:44,751 --> 00:33:45,393
+Scott: And you know what?
+
+514
+00:33:45,474 --> 00:33:47,521
+Rym: I think this is good for video games.
+
+515
+00:33:48,344 --> 00:33:49,629
+Rym: We've had waves of...
+
+516
+00:33:49,971 --> 00:33:52,870
+Scott: And every industry that has in-person trade shows.
+
+517
+00:33:53,910 --> 00:34:00,464
+Rym: I think it'll be good because over time, what we could see is the conventions start to return to the roots of.
+
+518
+00:34:00,805 --> 00:34:03,350
+Rym: players are there to interact primarily with each other.
+
+519
+00:34:03,730 --> 00:34:12,909
+Rym: Maybe to interact with some indie devs, but they're not there to see the spectacle of the six-figure Nintendo booth that is basically just a tiny attraction/ad.
+
+520
+00:34:15,210 --> 00:34:28,290
+Scott: I think that industry in general, if you look at other shows that have survived, like CES or various photo shows, it's like they really are what E3 was originally supposed to be, which is, yeah.
+
+521
+00:34:28,409 --> 00:34:37,690
+Scott: The only people that come here are people in the media, reviewers, press, other industry people, and it's totally insider event.
+
+522
+00:34:37,770 --> 00:34:43,330
+Scott: And even though some nerds might really want to go to look at all the new whatever, they don't, right?
+
+523
+00:34:43,552 --> 00:34:45,250
+Scott: Because that's just not how it works.
+
+524
+00:34:45,431 --> 00:34:49,550
+Rym: It's funny, there was just an article on Kotaku that I didn't read yet, but it's in an open tab.
+
+525
+00:34:49,750 --> 00:35:02,270
+Rym: And it's a whole bunch of documentary photos and descriptions of the absolutely unhinged early 2000s era video game convention and video game event marketing.
+
+526
+00:35:03,831 --> 00:35:09,830
+Rym: Which was an order of magnitude more insane than what we saw at PAX's up until the dark times.
+
+527
+00:35:12,912 --> 00:35:21,150
+Rym: So yeah, otherwise, beyond PAX East, I think we got nothing big until PAX West, and then PAX Unplugged again, and then MagFest again.
+
+528
+00:35:22,451 --> 00:35:25,650
+Scott: Maybe we'll find another thing to do somewhere along the way.
+
+529
+00:35:28,152 --> 00:35:32,164
+Scott: In a minor news, I've ordered the Geeknight sticker.
+
+530
+00:35:32,184 --> 00:35:34,110
+Scott: The stickers, they're coming.
+
+531
+00:35:35,311 --> 00:35:40,062
+Scott: Apparently they had a delay because they were moving their printers, and I'm like, "I really don't care.
+
+532
+00:35:40,663 --> 00:35:42,808
+Scott: I just want to make sure I didn't get forgotten because I paid
+
+533
+00:35:42,849 --> 00:35:43,049
+Scott: money.".
+
+534
+00:35:44,075 --> 00:35:46,050
+Scott: I'm not in a hurry, it's not for business or anything.
+
+535
+00:35:46,810 --> 00:35:54,150
+Scott: And so those stickers are currently being QA inspected by whoever, and they'll come to my house.
+
+536
+00:35:54,850 --> 00:36:01,469
+Scott: And so I guess if you want a Geeknight sticker, I guess I'll post a photo of it at some point so you can see if you want it.
+
+537
+00:36:02,272 --> 00:36:07,390
+Scott: And then you can, you know, come to our communities and ask for one, I guess.
+
+538
+00:36:07,790 --> 00:36:10,526
+Rym: Maybe first, find us at PAX East and...
+
+539
+00:36:11,371 --> 00:36:13,263
+Scott: Yeah, there was 100% chance.
+
+540
+00:36:13,303 --> 00:36:14,390
+Scott: I'm going to have them at PAX East.
+
+541
+00:36:14,810 --> 00:36:16,470
+Rym: If you find us at PAX East and you have a sticker...
+
+542
+00:36:16,610 --> 00:36:23,750
+Scott: But remember, one of the rules of PAX East, there's literally only less than 10 rules, and one of them is don't put stickers on shit that isn't yours.
+
+543
+00:36:24,390 --> 00:36:30,570
+Rym: If I see a fucking Geeknight sticker stuck somewhere it shouldn't be at PAX, I'm going to try to track you down and get you in trouble.
+
+544
+00:36:31,395 --> 00:36:31,849
+Scott: That's right.
+
+545
+00:36:33,190 --> 00:36:39,729
+Rym: Like, I don't think we'll find that many of you, so if we give away five stickers and I see a sticker stuck somewhere, it's one of you five, and we're coming.
+
+546
+00:36:41,296 --> 00:36:41,547
+Rym: That's right.
+
+547
+00:36:43,052 --> 00:36:45,590
+Scott: As long as you can stick it outside of PAX, though.
+
+548
+00:36:46,010 --> 00:36:51,250
+Rym: As long as PAX does not get in trouble, we do not get in trouble, I could not care less what you do with our stickers.
+
+549
+00:36:51,390 --> 00:36:53,585
+Scott: Right, if you stick that sticker out on the streets of Boston, sure.
+
+550
+00:36:54,430 --> 00:36:54,770
+Scott: Godspeed.
+
+551
+00:36:56,856 --> 00:36:58,430
+Scott: On your own ass, that's yours.
+
+552
+00:36:58,450 --> 00:36:59,768
+Scott: Just don't mess up PAX.
+
+553
+00:37:00,730 --> 00:37:04,250
+Scott: Right, on the convention center, on someone's booth, no, not acceptable.
+
+554
+00:37:05,770 --> 00:37:13,130
+Rym: Alright, so our panel, the one we're going to do at PAX East, is broadly around the idea that all games are the same game.
+
+555
+00:37:13,250 --> 00:37:27,010
+Rym: Scott had this idea, we kind of riffed on it a little bit, and there's a lot we could cover, but one of the things we were kind of discussing is the idea that you can take any game and start to distill it into combinations of other games.
+
+556
+00:37:28,434 --> 00:37:33,250
+Scott: I love a very reductionist approach to everything.
+
+557
+00:37:33,670 --> 00:37:43,610
+Rym: Yeah, we spent 20 minutes being as reductionist as possible on what is a game mechanic in our last panel, so of course, here, what we're going to get down to is physics a game mechanic.
+
+558
+00:37:44,430 --> 00:37:48,961
+Scott: Right, so obviously not every game is the same game, right?
+
+559
+00:37:49,001 --> 00:37:52,510
+Scott: In fact, how many times do we say the exact opposite?
+
+560
+00:37:52,590 --> 00:37:57,970
+Scott: We're like, oh, you changed one rule in baseball, it's a different game now, it's not the same game anymore, right?
+
+561
+00:37:58,090 --> 00:38:00,317
+Rym: I stand by both of those ideas, too.
+
+562
+00:38:00,960 --> 00:38:04,090
+Rym: Cognitive dissonance, I don't care, I'm a human, I can do whatever I want in my brain.
+
+563
+00:38:04,290 --> 00:38:09,438
+Scott: But, you know, you can take any game, though, and break it into its component games, right?
+
+564
+00:38:09,478 --> 00:38:17,350
+Scott: In some cases, it's really obvious, like Mario Party, it's like, okay, there's the board part, but then there's these mini games that are obviously separate games.
+
+565
+00:38:17,490 --> 00:38:25,642
+Scott: But if you break apart baseball, it's like, okay, well, there's the game of, can you throw the ball so that the other guy can't hit it?
+
+566
+00:38:26,123 --> 00:38:30,890
+Scott: Can you hit the ball that is going so fast that someone's trying to not let you hit it?
+
+567
+00:38:31,150 --> 00:38:33,047
+Rym: There's the base running game, there's the outfield game.
+
+568
+00:38:33,490 --> 00:38:35,833
+Scott: It's like, can you run fast?
+
+569
+00:38:35,934 --> 00:38:44,886
+Scott: It's like, okay, so it's this hitting game, throwing game, plus running game, plus somewhat strategy game, right?
+
+570
+00:38:44,926 --> 00:38:47,330
+Scott: Where do you stand and stuff like that, where do you throw to?
+
+571
+00:38:49,091 --> 00:38:54,559
+Scott: It's like, there's all these, every different part of it is sort of its own mini game.
+
+572
+00:38:54,599 --> 00:39:00,990
+Scott: You could play just baseball without any base running, and it would still be, that's a game you could have, right?
+
+573
+00:39:01,593 --> 00:39:04,970
+Scott: You could play just base running with no balls and no bats.
+
+574
+00:39:05,450 --> 00:39:10,240
+Rym: Because sometimes there was only like two or three of us, so we couldn't play like baseball, baseball.
+
+575
+00:39:10,561 --> 00:39:13,066
+Rym: So we'd play a mini version where there wasn't really base running.
+
+576
+00:39:13,107 --> 00:39:14,670
+Rym: It was just pitching, throwing, and catching.
+
+577
+00:39:15,371 --> 00:39:18,135
+Scott: Yep, it's like you can play those, right?
+
+578
+00:39:18,195 --> 00:39:28,490
+Scott: So if you look at most video games especially, and board games that us nerds are playing, it's like they break apart pretty clearly into separate games.
+
+579
+00:39:28,650 --> 00:39:33,798
+Scott: It's like, ah yes, I can see here that, you know, Mario, right?
+
+580
+00:39:34,219 --> 00:39:40,850
+Scott: It's this sort of platformy thing, but there's also sort of a can you beat the monsters kind of thing going on, right?
+
+581
+00:39:40,850 --> 00:39:43,754
+Scott: And sometimes you get a puzzle level going on, right?
+
+582
+00:39:44,094 --> 00:39:45,476
+Scott: It's like, can you solve this?
+
+583
+00:39:45,496 --> 00:39:49,361
+Scott: You know, can you find the secret in this level?
+
+584
+00:39:49,682 --> 00:39:51,625
+Scott: Sometimes there's a time challenge.
+
+585
+00:39:52,065 --> 00:39:55,630
+Scott: Sometimes, you know, it's all kinds of different games going on.
+
+586
+00:39:55,710 --> 00:39:58,475
+Scott: Each level could be considered an entirely separate game.
+
+587
+00:40:00,037 --> 00:40:07,790
+Scott: But when you get right down to it, if you want to do ultra ultra reductionism, there are actually only a handful of games.
+
+588
+00:40:09,074 --> 00:40:13,270
+Scott: I haven't listed all of them because I don't feel like I've figured out all of them.
+
+589
+00:40:13,450 --> 00:40:17,529
+Rym: But I feel like your list already covers like every game I can think of.
+
+590
+00:40:18,450 --> 00:40:18,830
+Scott: Yeah, right?
+
+591
+00:40:18,891 --> 00:40:21,514
+Scott: It's like there's random game, right?
+
+592
+00:40:21,534 --> 00:40:27,481
+Scott: So, you know, the question here is, is War, coin toss, and candy land?
+
+593
+00:40:27,721 --> 00:40:29,183
+Scott: Those are clearly different games.
+
+594
+00:40:29,263 --> 00:40:30,124
+Scott: They have different rules.
+
+595
+00:40:30,745 --> 00:40:35,070
+Scott: But all of them boil down to, we randomly select a winner.
+
+596
+00:40:35,593 --> 00:40:35,774
+Rym: Yep.
+
+597
+00:40:36,298 --> 00:40:37,043
+Rym: There's nothing else.
+
+598
+00:40:38,990 --> 00:40:43,568
+Scott: If you're going to play randomly, if you're going to play Candy Land, why wouldn't you just play coin toss instead?
+
+599
+00:40:43,648 --> 00:40:44,170
+Scott: It's faster.
+
+600
+00:40:44,770 --> 00:40:46,995
+Rym: Now, there is actually a good answer to that.
+
+601
+00:40:47,135 --> 00:40:47,516
+Rym: why.
+
+602
+00:40:47,917 --> 00:40:54,430
+Rym: And that might be something you bring up in the panel because the answer to the why is, Candy Land teaches the concept of move your mice.
+
+603
+00:40:54,851 --> 00:40:56,815
+Rym: It teaches you concepts of colors and numbers.
+
+604
+00:40:57,196 --> 00:40:58,940
+Rym: It teaches you concepts of winning and losing.
+
+605
+00:40:59,300 --> 00:41:03,690
+Rym: And then for the smart kid, it teaches you that this game is bullshit and there's nothing I can do.
+
+606
+00:41:04,571 --> 00:41:08,376
+Scott: But mechanically, mathematically, Candy Land is no different.
+
+607
+00:41:08,396 --> 00:41:17,950
+Scott: Playing Candy Land by the rules in terms of the winning and the losing part, the ortho game part, is the same as coin toss, game wise.
+
+608
+00:41:18,830 --> 00:41:22,476
+Scott: And so the second game is, you know, rock, paper, scissors, right?
+
+609
+00:41:23,197 --> 00:41:26,842
+Scott: Is rock, paper, scissors any different from poison in the cup?
+
+610
+00:41:27,864 --> 00:41:32,070
+Scott: Or is it any different from, you know, three card Monty without cheating?
+
+611
+00:41:32,311 --> 00:41:41,550
+Rym: I feel like because we've often in older panels, we would talk about there's only three kinds of games and we called them random, arbitrary or predetermined.
+
+612
+00:41:42,531 --> 00:41:42,731
+Scott: Yeah.
+
+613
+00:41:44,416 --> 00:41:46,381
+Scott: So it's like what's, you know, it's like sort of like.
+
+614
+00:41:46,401 --> 00:41:49,730
+Scott: there's a whole bunch of games, you know, that are boiled down to rock, paper, scissors.
+
+615
+00:41:49,990 --> 00:41:51,092
+Scott: Yeah.
+
+616
+00:41:51,172 --> 00:41:59,226
+Scott: Or there are games that even if they don't boil down to rock, paper, scissors are, you know, a large components of them are rock, paper, scissors, fighting games, right?
+
+617
+00:41:59,266 --> 00:42:01,770
+Scott: When you choose characters, that's a rock, paper, scissors part.
+
+618
+00:42:02,231 --> 00:42:09,630
+Scott: And then in the fighting game itself, it's basically a series of rock, paper, scissors battles right over over an amount of time.
+
+619
+00:42:09,730 --> 00:42:12,097
+Rym: Or it's a series of rock, paper, scissors battles.
+
+620
+00:42:12,137 --> 00:42:16,490
+Rym: But there's also an interleaved series of dexterity challenges.
+
+621
+00:42:16,771 --> 00:42:17,113
+Rym: Yes.
+
+622
+00:42:17,374 --> 00:42:17,595
+Scott: Right.
+
+623
+00:42:17,615 --> 00:42:20,349
+Scott: But that's those are the components that make up a fighting game.
+
+624
+00:42:20,770 --> 00:42:21,332
+Rym: Exactly.
+
+625
+00:42:21,412 --> 00:42:24,361
+Scott: And this random game, rock, paper, scissors game, right?
+
+626
+00:42:24,843 --> 00:42:25,746
+Scott: Vote who wins game.
+
+627
+00:42:25,786 --> 00:42:27,070
+Scott: We've talked about that a whole bunch.
+
+628
+00:42:27,410 --> 00:42:27,572
+Rym: Yeah.
+
+629
+00:42:27,592 --> 00:42:28,929
+Rym: The Richard Garfield political game.
+
+630
+00:42:29,910 --> 00:42:29,990
+Scott: Yeah.
+
+631
+00:42:30,011 --> 00:42:30,794
+Scott: Vote who wins game.
+
+632
+00:42:31,737 --> 00:42:34,930
+Scott: Knowledge game, which is just do you know something?
+
+633
+00:42:35,510 --> 00:42:45,890
+Scott: And do you know something could be, you know, literally a trivia game, but it could also be something like, you know, Pokemon.
+
+634
+00:42:46,150 --> 00:42:48,773
+Scott: Clearly, Pokemon isn't 100 percent a knowledge game.
+
+635
+00:42:49,174 --> 00:43:01,890
+Scott: But if you know more about Pokemon and like what moves the Pokemon could possibly have and what's strong against what and what Pokemon exist and and all these sorts of things, you have a strong advantage in Pokemon.
+
+636
+00:43:02,451 --> 00:43:09,370
+Rym: So Pokemon, a large component of it is a trivia game because if someone does not have that knowledge, Sudowoodo is going to fucking trick you.
+
+637
+00:43:10,150 --> 00:43:10,471
+Scott: That's right.
+
+638
+00:43:10,531 --> 00:43:16,630
+Scott: It's like, you know, and if you play Magic the Gathering, it's just like knowing all the cards that your opponent could play.
+
+639
+00:43:16,931 --> 00:43:19,320
+Scott: You don't know what's in their deck, but you could have knowledge.
+
+640
+00:43:19,541 --> 00:43:21,910
+Scott: And if you have that knowledge, that would give you a strong advantage.
+
+641
+00:43:22,511 --> 00:43:24,077
+Scott: It's largely a knowledge game.
+
+642
+00:43:24,257 --> 00:43:24,418
+Scott: Right.
+
+643
+00:43:24,438 --> 00:43:27,570
+Scott: Do you know the rules and do you know all the things that could happen?
+
+644
+00:43:28,533 --> 00:43:34,130
+Rym: Now, knowledge might be a test of free time, preparation and or wealth.
+
+645
+00:43:34,971 --> 00:43:35,473
+Scott: It could be.
+
+646
+00:43:35,693 --> 00:43:35,934
+Scott: Right.
+
+647
+00:43:36,796 --> 00:43:37,378
+Scott: Indirectly.
+
+648
+00:43:37,619 --> 00:43:37,799
+Scott: Right.
+
+649
+00:43:37,819 --> 00:43:41,449
+Scott: But there are some games that could literally be a test of wealth.
+
+650
+00:43:41,549 --> 00:43:41,730
+Scott: Right.
+
+651
+00:43:42,771 --> 00:43:50,810
+Scott: If you look at horse racing from the perspective of like the owner, that could be like richest guy gets the best horses.
+
+652
+00:43:51,230 --> 00:43:56,450
+Rym: Or casino, having more money gives you better odds of coming out with more money than you came in with.
+
+653
+00:43:56,571 --> 00:43:59,389
+Scott: Having more money means you can own a casino instead of playing one.
+
+654
+00:44:02,672 --> 00:44:07,044
+Scott: You know, but there are some games that are literally whoever has the most resources wins.
+
+655
+00:44:07,124 --> 00:44:07,305
+Scott: Right.
+
+656
+00:44:07,345 --> 00:44:09,210
+Scott: Because, you know, I have better equipment.
+
+657
+00:44:09,510 --> 00:44:10,893
+Scott: I have better training.
+
+658
+00:44:11,214 --> 00:44:15,244
+Scott: You know, for race car racing, I just bought a better car than you do.
+
+659
+00:44:15,264 --> 00:44:17,690
+Scott: I raced my Ferrari against your Toyota.
+
+660
+00:44:17,810 --> 00:44:18,111
+Scott: I win.
+
+661
+00:44:18,131 --> 00:44:22,381
+Scott: You know, there are games like that.
+
+662
+00:44:22,882 --> 00:44:25,769
+Scott: There is the and I guess there's just sport.
+
+663
+00:44:26,170 --> 00:44:26,350
+Scott: Right.
+
+664
+00:44:26,450 --> 00:44:31,601
+Scott: Which is, you know, there's obviously a large variety within sport, but it's they're all.
+
+665
+00:44:31,882 --> 00:44:35,470
+Scott: if you are reductionist, simply testing the human body.
+
+666
+00:44:35,711 --> 00:44:44,650
+Scott: Is your human body better at a particular measurement than someone else's human body in this very particular way?
+
+667
+00:44:44,970 --> 00:44:48,205
+Scott: We're going to, you know, arm wrestle.
+
+668
+00:44:48,225 --> 00:44:49,390
+Scott: Who's got the best forearm?
+
+669
+00:44:49,730 --> 00:44:54,990
+Rym: One of our old panels where we talked about fast and frugal heuristics and how to take your turn and also how to win.
+
+670
+00:44:55,551 --> 00:45:00,450
+Rym: Then some of those tests are also testing brain, but they're not testing knowledge.
+
+671
+00:45:00,650 --> 00:45:05,782
+Rym: They're testing a similar concept of either reflexes or hockey.
+
+672
+00:45:05,822 --> 00:45:09,330
+Rym: sense is a term that comes up a lot lately in the commentary on hockey games.
+
+673
+00:45:10,511 --> 00:45:21,690
+Rym: Like we're testing that there's all these other like sub tests that eventually all boil down to which biological mechanical system of the human body are we testing?
+
+674
+00:45:22,491 --> 00:45:29,510
+Scott: We have created an arbitrary measuring stick and we will line up your human body against that measuring stick and take a reading.
+
+675
+00:45:29,932 --> 00:45:33,090
+Scott: And then we will take someone else's reading and see who's is higher.
+
+676
+00:45:33,410 --> 00:45:36,701
+Rym: Some of those things a human could take actions to get better at.
+
+677
+00:45:37,063 --> 00:45:39,130
+Rym: And some of those things, there's nothing you can do.
+
+678
+00:45:39,792 --> 00:45:42,942
+Scott: And some of those things vary by day and by the minute.
+
+679
+00:45:43,122 --> 00:45:45,530
+Scott: We can take a set of measurements over time.
+
+680
+00:45:46,111 --> 00:45:50,627
+Scott: Over the course of the next nine innings of this baseball game or the 60 minutes of this hockey game.
+
+681
+00:45:51,550 --> 00:45:52,889
+Scott: We're going to take readings constantly.
+
+682
+00:45:53,490 --> 00:45:58,430
+Rym: A pitcher's first pitch is definitely not going to be the same as their 15th pitch if they even get to that many pitches.
+
+683
+00:45:59,512 --> 00:46:01,129
+Scott: They get to 15 pitches, no problem.
+
+684
+00:46:02,731 --> 00:46:08,410
+Scott: And then the, you know, the, the, the, I guess the biggest kind of game is just strategy game.
+
+685
+00:46:08,791 --> 00:46:09,012
+Scott: Right.
+
+686
+00:46:09,072 --> 00:46:14,850
+Scott: Which is, you know, usually the perfect information kinds, you know, your chess is your checkers, your right go.
+
+687
+00:46:15,511 --> 00:46:22,910
+Scott: And it's like, sure, some of them have been solved like checkers, some of them not like chess, and some of them really not like go.
+
+688
+00:46:23,692 --> 00:46:25,138
+Scott: So they're different in that sense.
+
+689
+00:46:25,279 --> 00:46:27,730
+Scott: But in another sense, they're not different at all.
+
+690
+00:46:28,011 --> 00:46:30,387
+Scott: They're, they're just the same game in different shapes.
+
+691
+00:46:31,671 --> 00:46:40,850
+Scott: It's can you recognize the pattern right on this, this tree of possibilities and you can influence the path.
+
+692
+00:46:41,151 --> 00:46:44,707
+Scott: And can you influence the path to a winning path or not?
+
+693
+00:46:45,930 --> 00:46:56,850
+Rym: And it's interesting because many games that humans historically have seen across many cultures as long standing or important or culturally significant games.
+
+694
+00:46:57,211 --> 00:47:05,310
+Rym: Tend to either be completely random or tend to effectively be pattern recognition games of varying complexity like chess checkers and go.
+
+695
+00:47:06,410 --> 00:47:16,269
+Rym: But humans are both extremely specifically good at pattern recognition and extremely specifically bad at pattern recognition and that we do it too much.
+
+696
+00:47:18,550 --> 00:47:20,616
+Rym: And AIs are starting to do the same thing.
+
+697
+00:47:20,656 --> 00:47:25,650
+Rym: Like an AI hallucinating is not that different from a human seeing a face in a piece of toast.
+
+698
+00:47:27,951 --> 00:47:29,375
+Rym: So there's so much to cover here.
+
+699
+00:47:29,395 --> 00:47:35,130
+Rym: And another concept we were thinking about is the idea of, you know, in school, many of you, I assume, went to school.
+
+700
+00:47:35,631 --> 00:47:39,050
+Rym: If you're listening to peak nights, some sort of education, whatever form it took.
+
+701
+00:47:39,330 --> 00:47:47,590
+Rym: And you had to factorize an equation, meaning you take a complex equation and you start breaking it up into simpler components.
+
+702
+00:47:48,392 --> 00:47:48,653
+Scott: Yeah.
+
+703
+00:47:48,714 --> 00:47:51,509
+Scott: So we we hated doing that.
+
+704
+00:47:51,790 --> 00:47:56,790
+Scott: And so we we wrote a program in the basic language of the TI 86 calculator.
+
+705
+00:47:56,990 --> 00:48:00,338
+Rym: I think we both did the same thing despite not knowing each other yet.
+
+706
+00:48:00,358 --> 00:48:05,210
+Rym: And I feel like a high percentage of all the nerds with the other amongst the nerdy kids.
+
+707
+00:48:05,551 --> 00:48:11,490
+Scott: And then the teachers wanted to see that our calculator was erased before the test because we're allowed to use the calculator.
+
+708
+00:48:11,630 --> 00:48:17,450
+Rym: So we shared around the app that looks at an app that just printed the erase on the screen.
+
+709
+00:48:18,610 --> 00:48:20,861
+Scott: And it looked like it was erased, but it wasn't.
+
+710
+00:48:21,022 --> 00:48:22,510
+Scott: And then I used the app on the test.
+
+711
+00:48:24,230 --> 00:48:36,750
+Rym: But factorization, I want to say for complex equations, edges into like hard mathematical problem, because sometimes it can only be done by trial and error, depending on the complexity.
+
+712
+00:48:37,770 --> 00:48:53,950
+Rym: But the fundamental idea that we want to try to apply to games and maybe we'll do this to a couple of games as an example in the panel is just start arbitrarily breaking a game down and follow some of the threads to break all the way down to a handful of very simple mechanics.
+
+713
+00:48:54,831 --> 00:49:15,150
+Rym: So an example would be Cobalt Core, a game we reviewed recently, which we could easily say, if we simplify a little bit, is fundamentally a combination of FTL the game, Faster Than Light, crossed with Slay the Spire the game, and then plus a bunch of other small games that we're not going to worry about in our factorization.
+
+714
+00:49:15,230 --> 00:49:16,532
+Rym: But those are like the two main games.
+
+715
+00:49:17,113 --> 00:49:28,550
+Rym: But Slay the Spire can be broken down to effectively a deck builder crossed with a single player puzzle game, crossed with a roguelike, like a dungeon cross.
+
+716
+00:49:28,690 --> 00:49:34,003
+Scott: And it's also a knowledge game because, you know, you have to know all the possible enemies.
+
+717
+00:49:34,043 --> 00:49:36,870
+Scott: There's only a certain number of them and you need to know what cards are possible.
+
+718
+00:49:37,511 --> 00:49:46,303
+Rym: We could take Slay the Spire itself and break it down to Dominion, which was arguably the first deck builder.
+
+719
+00:49:46,323 --> 00:49:51,770
+Rym: I cannot think of a game that was even close to what we think of as a modern deck builder before Dominion.
+
+720
+00:49:51,770 --> 00:49:52,330
+Scott: First one that mattered.
+
+721
+00:49:53,052 --> 00:49:54,885
+Rym: Also still the best one, I think.
+
+722
+00:49:57,631 --> 00:50:01,077
+Scott: It's too hard to figure out these days who is really the first.
+
+723
+00:50:01,558 --> 00:50:07,990
+Scott: I do want to give credit to someone if they were really the first and they're not getting credit because someone stole their thing from them.
+
+724
+00:50:08,590 --> 00:50:12,428
+Scott: But on the other hand, there's also recognize the first one that mattered too.
+
+725
+00:50:13,250 --> 00:50:15,010
+Rym: Dominion was definitely the first one that mattered.
+
+726
+00:50:15,410 --> 00:50:19,440
+Scott: It's like, yeah, Thomas Edison fucking sucks.
+
+727
+00:50:19,480 --> 00:50:20,944
+Scott: Did he really invent the light bulb?
+
+728
+00:50:21,285 --> 00:50:21,686
+Scott: Whatever.
+
+729
+00:50:21,866 --> 00:50:23,390
+Scott: But it was the one that mattered.
+
+730
+00:50:23,510 --> 00:50:34,150
+Rym: So even if Boss was technically the first worker placement game we know of, Kalis is the first one that mattered because Kalis is when the whole board gaming world started talking about worker placement as a concept.
+
+731
+00:50:35,870 --> 00:50:37,092
+Rym: But we could then.
+
+732
+00:50:37,292 --> 00:50:51,230
+Rym: so you can break complex games down into a collection of simpler games, but then you can break each one of those games down into a collection of mechanics and they can break those mechanics down to Scott's very short list.
+
+733
+00:50:53,211 --> 00:51:04,850
+Rym: And I have been idly starting to factorize Cobalt Core and you can go pretty deep and do a very long exercise if you do this.
+
+734
+00:51:06,571 --> 00:51:13,010
+Scott: It's like any game you think of is like, you know, and sometimes games really are like literally the same.
+
+735
+00:51:13,210 --> 00:51:19,042
+Scott: It's like you look at something like, you know, Civ 5 and Civ 6 and it's like, sure, it's.
+
+736
+00:51:19,363 --> 00:51:23,030
+Scott: it's like there are differences between them, right?
+
+737
+00:51:23,050 --> 00:51:24,073
+Scott: They're not the same game.
+
+738
+00:51:24,254 --> 00:51:24,895
+Scott: You don't right.
+
+739
+00:51:24,915 --> 00:51:25,256
+Scott: They're not.
+
+740
+00:51:25,718 --> 00:51:27,824
+Scott: it's not like, oh, yes, I would always play one.
+
+741
+00:51:27,864 --> 00:51:29,850
+Scott: The other one, there's no reason for it to exist anymore.
+
+742
+00:51:30,051 --> 00:51:31,535
+Scott: The rules are significantly different.
+
+743
+00:51:31,555 --> 00:51:32,718
+Scott: They are very different games.
+
+744
+00:51:33,180 --> 00:51:36,810
+Scott: But if you factorize them, it's like the same ingredients.
+
+745
+00:51:36,930 --> 00:51:37,151
+Scott: Yep.
+
+746
+00:51:37,411 --> 00:51:37,592
+Scott: Right.
+
+747
+00:51:37,872 --> 00:51:38,153
+Scott: It's like.
+
+748
+00:51:38,394 --> 00:51:45,670
+Scott: it's like you could take the same ingredients and make two recipes, but in different proportions of the ingredients and different preparations of them.
+
+749
+00:51:46,251 --> 00:51:47,414
+Scott: But the ingredients are the same.
+
+750
+00:51:48,316 --> 00:51:53,710
+Scott: And so basically what it's like what we're saying in the panel is that it's not that every game is the same.
+
+751
+00:51:53,790 --> 00:51:54,832
+Scott: It's the opposite of that.
+
+752
+00:51:54,952 --> 00:52:05,010
+Scott: It's that there is not that many ingredients in making games and all games are basically made from the same very short list of ingredients in different combinations and amounts and flavors.
+
+753
+00:52:05,110 --> 00:52:05,230
+Rym: Yep.
+
+754
+00:52:05,691 --> 00:52:29,970
+Rym: And I think it also means I have found trying to factorize Cobalt Core, there is a lot of value in thinking about games this way, even though I've definitely encountered a large number of game designers and developers over the years who get really mad when you describe their game as other game crossed with other other game, like they get really mad about that.
+
+755
+00:52:30,690 --> 00:52:38,230
+Scott: But I think, you know, if you're if you're trying to sell a game, you know, if you're making a work of art, right, you don't want to, you know, even outside of games.
+
+756
+00:52:38,511 --> 00:52:40,096
+Scott: But, you know, you don't want to be.
+
+757
+00:52:40,116 --> 00:52:44,270
+Scott: if you're making music, you don't want someone to say, oh, you're just Nirvana plus a little bit of that.
+
+758
+00:52:44,710 --> 00:52:44,871
+Scott: But at
+
+759
+00:52:44,891 --> 00:53:03,290
+Rym: the same time, people who study games and also people like us, if someone describes a game as these three games crossed together, that is usually way more useful, interesting and valuable to me than them trying to describe the game as its own like equation or its own like acting like it's a prime number.
+
+760
+00:53:03,911 --> 00:53:04,091
+Scott: Right.
+
+761
+00:53:04,131 --> 00:53:11,064
+Scott: But people don't want to be seen as, you know, unoriginal, uncreative, just copying or they also don't want.
+
+762
+00:53:11,425 --> 00:53:14,390
+Scott: And also the other thing people don't want is from a marketing perspective.
+
+763
+00:53:14,771 --> 00:53:14,951
+Scott: Right.
+
+764
+00:53:15,011 --> 00:53:24,270
+Scott: It's like if you say that my music is like, you know, Nirvana plus Queen, then people who don't like Nirvana or don't like Queen are going to not even look at my game.
+
+765
+00:53:24,410 --> 00:53:33,790
+Scott: Even though if you tell me your game and people who do like Nirvana and or Queen might come in with twisted expectations now and also bounce off.
+
+766
+00:53:33,910 --> 00:53:34,191
+Scott: True.
+
+767
+00:53:34,431 --> 00:53:44,290
+Rym: But simultaneously, if you tell me this game is World of Warcraft crossed with anything, as long as that statement is accurate, now I don't have to bounce off.
+
+768
+00:53:44,430 --> 00:53:45,339
+Rym: I know to avoid it.
+
+769
+00:53:46,681 --> 00:53:47,021
+Scott: Right.
+
+770
+00:53:47,382 --> 00:53:51,748
+Scott: It's it's good information if it's accurate for, you know, enjoyers of artwork.
+
+771
+00:53:51,808 --> 00:53:59,700
+Scott: But I'm saying creators of artwork from their perspective have very good reason to not like that kind of conversation out in the world.
+
+772
+00:54:00,561 --> 00:54:00,781
+Rym: Yep.
+
+773
+00:54:01,162 --> 00:54:10,580
+Rym: But Tycho and Penny Arcade recently wrote something, not going to pull the whole thing up, but he was talking about PAL World and the somewhat...
+
+774
+00:54:10,740 --> 00:54:14,080
+Scott: PAL World, which is literally just the salad of every game ever in one space.
+
+775
+00:54:14,100 --> 00:54:20,540
+Rym: But he was responding to the kind of extreme vitriol that's been growing from a subset of gamers about that game.
+
+776
+00:54:22,261 --> 00:54:43,340
+Rym: And to summarize what he said, that sort of like remix mashing together of existing popular things into something else is a very important function of gaming in that it is synthesis like that that leads to patterns and leads to memory and like the long term development of games.
+
+777
+00:54:44,701 --> 00:54:53,680
+Scott: Well, the point we're making with the panel is that whether you are trying to or not, games are always synthesis because there aren't that many ingredients.
+
+778
+00:54:53,920 --> 00:54:59,240
+Scott: It's not, you know, like I use the food analogy, but with food, there's so many ingredients.
+
+779
+00:54:59,360 --> 00:55:06,740
+Rym: Of course, there's so many ingredients that there's food, there's so many ingredients, but there's a. there is a limited number of atoms.
+
+780
+00:55:08,760 --> 00:55:10,520
+Rym: There's a limited number of types of atoms.
+
+781
+00:55:10,560 --> 00:55:10,881
+Rym: There aren't.
+
+782
+00:55:10,921 --> 00:55:17,360
+Scott: But the point is that with food, with atoms, there are hundreds of kinds of atoms, tens that are edible.
+
+783
+00:55:17,780 --> 00:55:22,560
+Rym: But those atoms break down because of the molecules and molecules change the flavor.
+
+784
+00:55:22,660 --> 00:55:26,731
+Scott: But the point is that with games, there aren't really.
+
+785
+00:55:26,792 --> 00:55:29,820
+Scott: it's like the periodic table of games is like one row.
+
+786
+00:55:30,069 --> 00:55:30,257
+Rym: Yep.
+
+787
+00:55:30,802 --> 00:55:31,367
+Scott: And that's it.
+
+788
+00:55:31,589 --> 00:55:32,900
+Scott: It's not like a whole table.
+
+789
+00:55:33,001 --> 00:55:33,485
+Scott: It's a row.
+
+790
+00:55:34,111 --> 00:55:34,918
+Scott: It's a little baggy.
+
+791
+00:55:37,043 --> 00:55:39,600
+Scott: There's not too many choices when it comes to game.
+
+792
+00:55:40,141 --> 00:55:49,820
+Rym: Though, to borrow some of your language, the same set of mechanics mixed together in different proportions and with different bonds and interactions between each other.
+
+793
+00:55:49,840 --> 00:55:50,820
+Scott: They get a different flavor.
+
+794
+00:55:51,000 --> 00:55:52,200
+Rym: They have a very different flavor.
+
+795
+00:55:52,420 --> 00:55:53,220
+Rym: It means that's right.
+
+796
+00:55:53,340 --> 00:55:57,340
+Rym: This is yet another panel where I get to use my favorite word brain feel.
+
+797
+00:56:00,341 --> 00:56:05,480
+Scott: It's like, yeah, you've only got like if you only had seven atoms to work with, how many molecules could you make?
+
+798
+00:56:05,900 --> 00:56:06,479
+Scott: Still infinity.
+
+799
+00:56:07,900 --> 00:56:08,381
+Scott: Because you can.
+
+800
+00:56:08,421 --> 00:56:17,260
+Scott: still it's like, yeah, six oxygens, seven oxygens, eight oxygens, nine oxygens in a row to benzene rings, three benzene ring.
+
+801
+00:56:17,440 --> 00:56:19,500
+Rym: It's like sort of because then you know instability.
+
+802
+00:56:19,622 --> 00:56:21,100
+Rym: But games had a similar instability.
+
+803
+00:56:21,401 --> 00:56:23,680
+Rym: Too many rules together turned into advanced squad leader.
+
+804
+00:56:24,222 --> 00:56:28,460
+Scott: And even with just one kind of, you know, Adam, it's like, OK, I just got water to work with.
+
+805
+00:56:28,803 --> 00:56:29,307
+Scott: I got ice.
+
+806
+00:56:29,327 --> 00:56:30,740
+Scott: I got water.
+
+807
+00:56:31,225 --> 00:56:32,200
+Scott: I got water vapor.
+
+808
+00:56:32,763 --> 00:56:35,120
+Scott: I got steam that's, you know, blasting.
+
+809
+00:56:35,440 --> 00:56:36,800
+Scott: I got, you know, plasma.
+
+810
+00:56:36,942 --> 00:56:38,159
+Scott: Theoretically, I don't fucking know.
+
+811
+00:56:38,360 --> 00:56:43,580
+Scott: You got at the same time with ice crystals and then the sort of fuzzy ice crystals.
+
+812
+00:56:44,220 --> 00:56:45,180
+Rym: Bog is standard.
+
+813
+00:56:45,360 --> 00:56:54,860
+Rym: Trick taking with the slightest of variations has led to hundreds and hundreds and hundreds of very unique games that are all fundamentally the same fucking game.
+
+814
+00:56:54,900 --> 00:56:56,980
+Rym: And yet they play so radically differently.
+
+815
+00:56:57,840 --> 00:56:57,965
+Scott: Mm hmm.
+
+816
+00:56:58,623 --> 00:56:59,919
+Scott: I feel like it's going to be a good panel of them.
+
+817
+00:57:00,220 --> 00:57:02,020
+Scott: Some of them fun and most of them not.
+
+818
+00:57:02,040 --> 00:57:02,148
+Scott: Yep.
+
+819
+00:57:05,046 --> 00:57:05,939
+Rym: Looking at you, Cribbage.
+
+820
+00:57:12,010 --> 00:57:14,310
+Rym: This has been GeekNights with Rym and Scott.
+
+821
+00:57:14,470 --> 00:57:16,970
+Rym: Special thanks to DJ Pretzel for the opening theme.
+
+822
+00:57:17,170 --> 00:57:23,170
+Scott: Be sure to visit our website at FrontRowCoup.com for show notes, discussion, links and more.
+
+823
+00:57:23,670 --> 00:57:26,310
+Rym: Remember, GeekNights is not one, but four different shows.
+
+824
+00:57:26,670 --> 00:57:28,189
+Rym: Mondays are science and technology.
+
+825
+00:57:28,370 --> 00:57:30,050
+Rym: Tuesdays, gaming and games.
+
+826
+00:57:30,250 --> 00:57:31,969
+Rym: Wednesdays are animation and comics.
+
+827
+00:57:32,410 --> 00:57:34,770
+Rym: Thursdays are arbitrary and indiscriminate.
+
+828
+00:57:34,830 --> 00:57:40,410
+Rym: GeekNights is distributed under a Creative Commons Attribution 4.0 International License.
+
+829
+00:57:40,930 --> 00:57:45,150
+Scott: GeekNights is recorded live with no studio and no audience.
+
+830
+00:57:45,710 --> 00:57:49,130
+Scott: But unlike those other late shows, it's actually recorded at night.
+
+831
+00:57:49,730 --> 00:58:04,929
+Rym: And the Patreon patrons for this episode of GeekNights are I will not say at their explicit request.
+
+832
+00:58:05,630 --> 00:58:09,250
+Rym: Tonight, back from skiing and got some hockey tomorrow.
+
+833
+00:58:11,273 --> 00:58:13,750
+Rym: Really no conventions or anything big until PAX East.
+
+834
+00:58:14,371 --> 00:58:21,569
+Rym: So I'm just going to leave you with... All Tom Hanks wanted was a quiet vacation at home.
+
+835
+00:58:21,770 --> 00:58:22,918
+Rym: This is what I need, Carol.
+
+836
+00:58:23,180 --> 00:58:24,469
+Rym: I need this.
+
+837
+00:58:26,272 --> 00:58:27,848
+Rym: Welcome to Mayfield Place.
+
+838
+00:58:30,542 --> 00:58:32,230
+Rym: A typical street in the 'burbs.
+
+839
+00:58:32,872 --> 00:58:33,508
+Rym: Morning, Walter!
+
+840
+00:58:34,111 --> 00:58:35,508
+Rym: Where nothing much ever happened.
+
+841
+00:58:35,910 --> 00:58:38,849
+Scott: Walter's dog just took a dump on Rumsfeld's lawn again.
+
+842
+00:58:39,991 --> 00:58:41,669
+Rym: Until the Clopex moved in.
+
+843
+00:58:41,891 --> 00:58:42,346
+Rym: Clopex?
+
+844
+00:58:42,690 --> 00:58:43,124
+Rym: Clopex.
+
+845
+00:58:43,491 --> 00:58:43,886
+Rym: Clopex.
+
+846
+00:58:44,370 --> 00:58:46,489
+Scott: No one goes in, no one comes out.
+
+847
+00:58:46,950 --> 00:58:47,769
+Scott: Neighbors from hell.
+
+848
+00:58:49,293 --> 00:58:50,609
+Rym: It was a nice place to live.
+
+849
+00:58:50,950 --> 00:58:54,890
+Scott: He said he thinks the Clopex are evil incarnate.
+
+850
+00:58:55,812 --> 00:58:58,430
+Scott: Well, you're much too smart to fall for that, aren't you, honey?
+
+851
+00:58:58,670 --> 00:58:59,577
+Rym: But now... Carol!
+
+852
+00:59:02,254 --> 00:59:03,568
+Rym: You wouldn't want to visit there.
+
+853
+00:59:04,635 --> 00:59:06,210
+Rym: Ray, this is Walter.
+
+854
+00:59:06,791 --> 00:59:06,834
+Rym: No!
+
+855
+00:59:10,623 --> 00:59:11,278
+Rym: The 'burbs.
+
+856
+00:59:11,620 --> 00:59:15,320
+Rym: I'm going over the fence, and I'm not coming back till I find a dead body.
+
+857
+00:59:17,948 --> 00:59:22,159
+Rym: Ray, do you want them to take your family, kidnap them, tear their livers out, and make some kind of satanic pate?
+
+858
+00:59:24,845 --> 00:59:25,677
+Rym: We found Walter!
+
+859
+00:59:26,083 --> 00:59:27,079
+Rym: We got a real problem.
+
+860
+00:59:27,441 --> 00:59:28,778
+Scott: I hit the gas line, I'd run!
+
+861
+00:59:31,171 --> 00:59:32,189
+Scott: God, I love this street.
+
+862
+00:59:32,570 --> 00:59:33,288
+Rym: Tom Hanks.
+
+863
+00:59:33,630 --> 00:59:34,370
+Rym: I think we are overreacting.
+
+864
+00:59:35,330 --> 00:59:35,400
+Scott: No.
+
+865
+00:59:35,990 --> 00:59:36,626
+Scott: The 'burbs.
+
+866
+00:59:37,190 --> 00:59:38,730
+Rym: It's one hell of a neighborhood.
+
+867
+00:59:39,350 --> 00:59:41,130
+Rym: Hey, honey, I think we should move.
+

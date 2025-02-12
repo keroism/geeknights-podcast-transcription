@@ -1,0 +1,3196 @@
+﻿1
+00:00:08,300 --> 00:00:11,009
+Speaker 1: It's Tuesday April 16th 2024.
+
+2
+00:00:11,009 --> 00:00:14,439
+Speaker 1: I'm rim I'm Scott and this is geek nights.
+
+3
+00:00:14,479 --> 00:00:19,256
+Speaker 1: tonight We are reviewing the tabletop sport kalask with a K.
+
+4
+00:00:20,346 --> 00:00:23,833
+Speaker 0: Let's do this Add an extra syllable there.
+
+5
+00:00:23,853 --> 00:00:27,686
+Speaker 0: Yeah, classic How many stuff like you're like?
+
+6
+00:00:27,767 --> 00:00:28,931
+Speaker 0: you're like kalask.
+
+7
+00:00:28,991 --> 00:00:30,035
+Speaker 0: It's a classic clap.
+
+8
+00:00:30,536 --> 00:00:33,971
+Speaker 0: No, it's class like flask one.
+
+9
+00:00:35,682 --> 00:00:37,514
+Speaker 1: Well, what if you just say it really slowly?
+
+10
+00:00:37,554 --> 00:00:44,484
+Speaker 1: for some reason class You don't have.
+
+11
+00:00:44,504 --> 00:00:46,132
+Speaker 0: you could you could minimize the.
+
+12
+00:00:46,333 --> 00:00:50,700
+Speaker 1: there is still a schwa You no matter how fast you say it because you have to move your tongue.
+
+13
+00:00:50,760 --> 00:00:57,432
+Speaker 1: There is still a schwa sound however brief between K and L because there's no way to transition between the two without Oh.
+
+14
+00:01:05,239 --> 00:01:16,270
+Speaker 1: Anyway, so, uh Sunday night Emily and I walking home from the Brooklyn we're wandering around and the beautiful summer summer day Well spring day having a nice dinner ring now, and it's gonna be cold again.
+
+15
+00:01:16,390 --> 00:01:18,115
+Speaker 0: Apparently it was.
+
+16
+00:01:18,215 --> 00:01:19,257
+Speaker 1: it was like what 79 yesterday.
+
+17
+00:01:21,043 --> 00:01:23,192
+Speaker 0: It's real nice right now, but I go back.
+
+18
+00:01:23,694 --> 00:01:30,180
+Speaker 1: It's gonna go back to man 50 60 and in fact, you know a lot of times at the start of the show what is it?
+
+19
+00:01:30,400 --> 00:01:30,823
+Speaker 1: The weather's nice.
+
+20
+00:01:31,205 --> 00:01:32,472
+Speaker 1: I'll talk about biking home for work.
+
+21
+00:01:32,512 --> 00:01:33,940
+Speaker 1: You know, there's always something crazy that happened.
+
+22
+00:01:33,980 --> 00:01:34,583
+Speaker 1: But today you know what?
+
+23
+00:01:35,026 --> 00:01:37,679
+Speaker 1: Nothing crazy happened as crowded as the bike lanes were.
+
+24
+00:01:38,380 --> 00:01:41,200
+Speaker 1: Everybody's just super chill like everyone's in a super good mood.
+
+25
+00:01:42,183 --> 00:01:51,266
+Speaker 1: There were more people biking Over the Queensborough Bridge than I have ever seen in my entire life except during the fiber a bike tour mmm.
+
+26
+00:01:52,223 --> 00:01:54,874
+Speaker 1: But so we're walking home and you don't live in New York.
+
+27
+00:01:55,014 --> 00:02:07,919
+Speaker 1: on the edge of Brooklyn and Queens There's a tiny bridge called the Pulaski not to be confused with another bridge also called the Pulaski that goes over What I will charitably describe as one of the more polluted places in all of New York City.
+
+28
+00:02:08,842 --> 00:02:10,433
+Speaker 0: It's not the Kiwanis Canal.
+
+29
+00:02:10,453 --> 00:02:11,400
+Speaker 0: No different canal.
+
+30
+00:02:11,400 --> 00:02:12,305
+Speaker 1: Yeah, I've one of.
+
+31
+00:02:12,466 --> 00:02:15,160
+Speaker 1: it is one of those little canals and it's a bad one.
+
+32
+00:02:15,180 --> 00:02:17,750
+Speaker 1: It's not the worst one, but it's not the best one.
+
+33
+00:02:17,851 --> 00:02:24,400
+Speaker 0: Let's say but you don't want to go in it You don't want it to touch you in any capacity, but I think it's actually what Newtown Creek?
+
+34
+00:02:24,581 --> 00:02:24,942
+Speaker 0: I believe it
+
+35
+00:02:25,002 --> 00:02:52,440
+Speaker 1: is Newtown Creek and that area sucks not only because of that Creek but because a long time ago there was a huge petrochemical spell and They're all still in the ground and to this day any time it rains the whole area smells vaguely of oil Which is fantastic because they just built a million apartment buildings there Mmm, but so rockin home and that bridge has like a long ramp a bike lane thing on either end of it.
+
+36
+00:02:52,540 --> 00:02:58,400
+Speaker 1: But right at the edge of this canal, there's stairs that go under the bridge up to the top.
+
+37
+00:02:58,520 --> 00:03:01,311
+Speaker 1: So there's a pretty quick path to go up these stairs.
+
+38
+00:03:01,371 --> 00:03:08,856
+Speaker 1: go across the bridge go down these stairs right back into Queens And increasingly used to be that place was really not sketchy in the way.
+
+39
+00:03:08,897 --> 00:03:12,469
+Speaker 1: people who don't live in cities You'll think of a sketchy neighborhood sketchy in that.
+
+40
+00:03:12,870 --> 00:03:15,900
+Speaker 1: It's just like this dirty industrial area full of debris.
+
+41
+00:03:16,584 --> 00:03:19,580
+Speaker 0: But it's not a place that you would go on purpose, right?
+
+42
+00:03:19,760 --> 00:03:20,564
+Speaker 0: It's like you.
+
+43
+00:03:20,585 --> 00:03:23,340
+Speaker 0: just you know, if you're going over the bridge you're going to the ends.
+
+44
+00:03:23,400 --> 00:03:25,280
+Speaker 0: You're not going down that middle staircase part.
+
+45
+00:03:25,340 --> 00:03:28,460
+Speaker 0: I've seen some people use it, but it was never really that common.
+
+46
+00:03:28,681 --> 00:03:29,383
+Speaker 0: I know it was.
+
+47
+00:03:29,403 --> 00:03:30,948
+Speaker 0: I think it was most.
+
+48
+00:03:31,269 --> 00:03:34,640
+Speaker 0: I figured it was mostly used by the bridge operator to get to the booth.
+
+49
+00:03:35,303 --> 00:03:36,448
+Speaker 0: It is a drawbridge.
+
+50
+00:03:36,588 --> 00:03:40,828
+Speaker 1: There are so many apartments over there and like breweries and things There's every time I'm over there.
+
+51
+00:03:40,868 --> 00:03:45,330
+Speaker 1: There are a lot of people walking up and down all those stairs Like they're like there's always people.
+
+52
+00:03:45,390 --> 00:03:46,093
+Speaker 1: it's a total chunk.
+
+53
+00:03:46,113 --> 00:03:46,716
+Speaker 0: Oh go ahead.
+
+54
+00:03:46,736 --> 00:03:47,780
+Speaker 0: Go ahead use the stairs.
+
+55
+00:03:47,800 --> 00:03:49,458
+Speaker 0: Yeah, maybe we get an elevator there, too.
+
+56
+00:03:49,781 --> 00:03:53,980
+Speaker 1: Yeah, so we use the stairs and as we're about to go up we see a pigeons in the middle of the stairs.
+
+57
+00:03:53,980 --> 00:03:57,400
+Speaker 1: It's no big deal But as we approach the pigeon the pigeon doesn't get out of the way at all.
+
+58
+00:03:57,480 --> 00:04:00,970
+Speaker 1: Then we realize the pigeon is in some distress.
+
+59
+00:04:01,411 --> 00:04:22,000
+Speaker 1: this pigeon very clearly as we determine later and after some googling I actually figured out exactly what the compound is must have landed on a roof That had just been covered with a very particular kind of cold Sealant tar that is commonly used in New York City specifically during the rainy season.
+
+60
+00:04:23,422 --> 00:04:26,351
+Speaker 1: All these factors matter because this shit is awful.
+
+61
+00:04:26,832 --> 00:04:33,510
+Speaker 1: It basically can't be cleaned off except via extremely complicated Procedures, which I spent a lot of time.
+
+62
+00:04:33,570 --> 00:04:41,035
+Speaker 0: not even dawn soap which they know I'm glad supposedly use that to clean the the seals they do so.
+
+63
+00:04:41,276 --> 00:04:42,560
+Speaker 1: I learned a lot about this.
+
+64
+00:04:42,640 --> 00:04:43,363
+Speaker 1: So what number one?
+
+65
+00:04:43,483 --> 00:04:52,355
+Speaker 1: if you use dawn soap to save an animal from most kinds of oils and tar type things If you put dawn and water on the animal, you're gonna make it worse.
+
+66
+00:04:52,716 --> 00:04:53,920
+Speaker 1: for counterintuitive reasons.
+
+67
+00:04:54,181 --> 00:05:00,080
+Speaker 1: You've got to put pure dawn directly and do a bunch of stuff and you only add water at the last minute.
+
+68
+00:05:00,481 --> 00:05:03,575
+Speaker 1: Otherwise, you're actually gonna make it like set more and make it harder to remove.
+
+69
+00:05:03,956 --> 00:05:06,036
+Speaker 1: and that's not obvious Unless you do a lot of googling.
+
+70
+00:05:07,301 --> 00:05:12,220
+Speaker 0: But I only know is that dawn is great for dishes and bite when I get bike grease on my hands.
+
+71
+00:05:12,280 --> 00:05:13,026
+Speaker 1: Yep, how dawn is.
+
+72
+00:05:13,067 --> 00:05:14,479
+Speaker 1: dawn is fantastic for the bike grease.
+
+73
+00:05:15,703 --> 00:05:16,529
+Speaker 0: Any other whatever.
+
+74
+00:05:16,590 --> 00:05:17,860
+Speaker 0: I get bike grease on the hand.
+
+75
+00:05:17,920 --> 00:05:22,477
+Speaker 0: So my hands are all black because I didn't wear gloves or the glove bro or something regular.
+
+76
+00:05:22,618 --> 00:05:24,247
+Speaker 0: any other soap I own does nothing.
+
+77
+00:05:24,327 --> 00:05:25,757
+Speaker 0: So but don't don't work.
+
+78
+00:05:25,797 --> 00:05:34,606
+Speaker 1: I would say 25% of the time when I get my hands covered in grease It's because I was wearing gloves and they broke and I laid one pair and I wasn't gonna go there back upstairs And I just dealt with it.
+
+79
+00:05:35,089 --> 00:05:41,938
+Speaker 1: the other 75% of the time I just forgot to bring gloves down and I'm just I don't care and I just do it and it's a mistake and I regret it every time.
+
+80
+00:05:43,061 --> 00:05:45,051
+Speaker 1: Or I think you know what how much grease.
+
+81
+00:05:45,111 --> 00:05:45,774
+Speaker 1: I'm gonna be careful.
+
+82
+00:05:45,834 --> 00:05:47,100
+Speaker 1: I won't get a ton of grease on my eyes.
+
+83
+00:05:47,100 --> 00:05:47,664
+Speaker 0: So you found it.
+
+84
+00:05:47,724 --> 00:05:49,457
+Speaker 0: you found a pigeon covered in tar.
+
+85
+00:05:49,477 --> 00:05:52,372
+Speaker 1: Yep So learned a bunch of things about this.
+
+86
+00:05:52,674 --> 00:05:56,349
+Speaker 1: the tar is hard to remove But we put the pigeon in a box.
+
+87
+00:05:56,450 --> 00:06:01,437
+Speaker 1: actually a local tells very kind to even help us get some gloves and everything That that fancy hotel that's right there.
+
+88
+00:06:02,622 --> 00:06:05,770
+Speaker 1: We got the pigeon home and we learned a couple things.
+
+89
+00:06:06,231 --> 00:06:21,748
+Speaker 1: if you find an injured squirrel Robin sparrow Pigeon starling or seagull New York City on three one It actually has a very specific Procedure and tell you very specific people to call and if you can drop the animal off they will absolutely help the animal out and they want.
+
+90
+00:06:21,828 --> 00:06:30,796
+Speaker 0: I find that really interesting because like you think of those as like the the Animals that like are sort of beneath caring about like they're just so, you know, it's.
+
+91
+00:06:30,977 --> 00:06:43,969
+Speaker 0: it's like oh, yes I found I found a suffering earthworm Squirrel isn't really or a pigeon or sorta and rat are like on the lowest level of like, you know It's not like you found an owl or an eagle.
+
+92
+00:06:43,989 --> 00:06:44,992
+Speaker 0: Yeah.
+
+93
+00:06:45,012 --> 00:06:56,085
+Speaker 0: Oh, there's a different section for if you find one of them yeah, something like an actual animal that peeps some human gives a shit about because it's rarer or bigger or smarter or Less common.
+
+94
+00:06:56,727 --> 00:06:58,814
+Speaker 0: I said rare already get what I understand.
+
+95
+00:06:59,196 --> 00:07:07,559
+Speaker 0: people, you know Classify animals into different levels because of human reasons when actually all animals are basically equal.
+
+96
+00:07:07,659 --> 00:07:09,225
+Speaker 1: Yeah I mean, what was that lecture?
+
+97
+00:07:09,266 --> 00:07:11,274
+Speaker 1: I keep I post a lot in all the discords.
+
+98
+00:07:11,314 --> 00:07:16,292
+Speaker 1: I'm in and talk about a lot But the one that talks about like what's the line of consciousness?
+
+99
+00:07:16,473 --> 00:07:18,720
+Speaker 1: and the answer was basically pretty much anything.
+
+100
+00:07:18,760 --> 00:07:24,348
+Speaker 1: This warm-blooded is definitely conscious to some degree and the difference food Is way smaller than humans act like.
+
+101
+00:07:24,609 --> 00:07:27,399
+Speaker 0: the point is people want to save the whales they don't want to save the squirrels.
+
+102
+00:07:27,580 --> 00:07:28,987
+Speaker 1: Yeah, so yeah, New York City, like.
+
+103
+00:07:29,007 --> 00:07:29,912
+Speaker 1: there's the thing you can do.
+
+104
+00:07:30,213 --> 00:07:33,345
+Speaker 1: but we even found a better one now They still need to change the name.
+
+105
+00:07:33,386 --> 00:07:38,020
+Speaker 1: There's an unrelated controversy where the Audubon Society is a fantastic organization.
+
+106
+00:07:38,100 --> 00:07:48,576
+Speaker 1: There's a lot of good for birds and conservation, but it's named after Audubon who wasn't just like problematic because it was old in times.
+
+107
+00:07:48,937 --> 00:07:52,045
+Speaker 1: He was like Actively on the wrong side of history.
+
+108
+00:07:52,085 --> 00:07:53,790
+Speaker 1: This dude wasn't just had slaves.
+
+109
+00:07:54,091 --> 00:07:57,200
+Speaker 1: This dude was like pro having slaves.
+
+110
+00:07:58,201 --> 00:07:58,884
+Speaker 0: Yeah, it's like didn't?
+
+111
+00:07:58,904 --> 00:08:01,454
+Speaker 0: the only good thing he do is draw a bunch of bird pictures.
+
+112
+00:08:01,635 --> 00:08:05,660
+Speaker 0: Yeah, and but otherwise He drew pictures of lots of birds, right?
+
+113
+00:08:05,940 --> 00:08:12,911
+Speaker 1: and then he got his name on the bird society and basically because the bird society has a lot of white people in it and Because they thought people either.
+
+114
+00:08:12,931 --> 00:08:29,491
+Speaker 1: for a lot of stupid reasons They won't change the name of the Audubon Society despite the fact that it's basically the guy who didn't just own slaves But fucking loved slavery and love to talk about it society but Name notwithstanding.
+
+115
+00:08:29,752 --> 00:08:32,825
+Speaker 1: They also have a Specific New York City thing.
+
+116
+00:08:33,145 --> 00:08:36,616
+Speaker 1: There's a. there's a place in Manhattan on Columbus Avenue.
+
+117
+00:08:36,635 --> 00:08:38,039
+Speaker 1: You don't even need to make appointment.
+
+118
+00:08:38,201 --> 00:08:39,390
+Speaker 0: He was good at drawing birds.
+
+119
+00:08:39,792 --> 00:08:39,994
+Speaker 1: Oh, yeah.
+
+120
+00:08:40,014 --> 00:08:40,799
+Speaker 1: He was real good at it.
+
+121
+00:08:41,522 --> 00:08:47,180
+Speaker 1: I mean Thomas Jefferson was real good at making stupid ideas sound smart regardless of his other problems.
+
+122
+00:08:48,741 --> 00:08:50,872
+Speaker 1: But the wild bird fund on Columbus Avenue.
+
+123
+00:08:50,892 --> 00:08:59,686
+Speaker 1: if you find any injured bird You could just show up there and they will totally help you out and any bird pretty much any bird They just do.
+
+124
+00:08:59,726 --> 00:09:01,135
+Speaker 1: if you've got an injured bird take it here.
+
+125
+00:09:01,216 --> 00:09:01,800
+Speaker 1: We'll try to help.
+
+126
+00:09:02,821 --> 00:09:05,130
+Speaker 0: Mmm, that was their capacity of bird except.
+
+127
+00:09:05,170 --> 00:09:07,660
+Speaker 0: Well, the problem is a lot of those places, right?
+
+128
+00:09:08,101 --> 00:09:14,040
+Speaker 0: Like they have limited, you know capacity resources and so they're in this place like New York City.
+
+129
+00:09:14,100 --> 00:09:17,132
+Speaker 0: They're usually inundated and they sort of had to be picky and choosy.
+
+130
+00:09:17,152 --> 00:09:24,493
+Speaker 1: Ah, so there is a Surprisingly extensive network of people kind of like how like we help with rabbit rescue.
+
+131
+00:09:24,513 --> 00:09:36,640
+Speaker 1: sometimes like there's people who dedicate themselves to like all Foster or all volunteer or like I'll accept an animal of a type that I am familiar with After a shelter has like done the hard part just to like get them back into the wild or do whatever.
+
+132
+00:09:37,162 --> 00:09:46,440
+Speaker 0: there is a substantial network of people who do this for pigeons in the city and So far like it's probably those same old people who are feeding the pigeons all the time cut that out old people.
+
+133
+00:09:48,621 --> 00:09:56,945
+Speaker 0: It's like it's a difference between you know, a pigeon that got like bit or something and but it's not dead yet and Feeding them bread.
+
+134
+00:09:57,086 --> 00:10:02,067
+Speaker 1: though as an aside we kind of owe pigeons a little bit because they were Domesticated and then we abandoned them.
+
+135
+00:10:02,108 --> 00:10:03,051
+Speaker 1: That's kind of why they're.
+
+136
+00:10:03,091 --> 00:10:04,035
+Speaker 0: so I didn't do that.
+
+137
+00:10:04,115 --> 00:10:06,620
+Speaker 1: Yeah, but people did Not my problem.
+
+138
+00:10:08,442 --> 00:10:09,747
+Speaker 1: But anyway, I'll put some links.
+
+139
+00:10:09,827 --> 00:10:19,239
+Speaker 1: if you if you live in New York City at least and you find a hurt pigeon There are lots of places that will bend over backward to help you help that pigeon out if you're willing to do so.
+
+140
+00:10:20,005 --> 00:10:20,166
+Speaker 0: I do.
+
+141
+00:10:20,207 --> 00:10:21,740
+Speaker 0: I say I was in just briefly.
+
+142
+00:10:21,941 --> 00:10:26,798
+Speaker 0: I was in Central Park over the weekend and you know, there were mad tourists there as you would expect.
+
+143
+00:10:26,938 --> 00:10:32,118
+Speaker 0: Oh, yeah, and It was funny to me How many tourists were like?
+
+144
+00:10:33,100 --> 00:10:34,266
+Speaker 0: Enjoying the squirrels.
+
+145
+00:10:34,789 --> 00:10:36,157
+Speaker 1: I enjoy squirrels to this day.
+
+146
+00:10:36,297 --> 00:10:38,365
+Speaker 0: I will stop But it's like.
+
+147
+00:10:38,666 --> 00:10:46,972
+Speaker 0: it's like I'm out there looking at like, you know fancy bird That you don't see every day, you know tree you don't see every day.
+
+148
+00:10:47,293 --> 00:10:49,037
+Speaker 0: I'm looking at terrorists also.
+
+149
+00:10:49,077 --> 00:10:52,506
+Speaker 0: We don't see every day But it's like bro.
+
+150
+00:10:53,047 --> 00:10:57,840
+Speaker 0: I grew up in a house for 18 years that just had squirrels around it at all times.
+
+151
+00:10:58,790 --> 00:11:02,519
+Speaker 0: Maybe not in the winter But basically any time it was warm enough for a squirrel to come out the tree.
+
+152
+00:11:03,182 --> 00:11:07,260
+Speaker 0: Look out the window and there was a squirrel always there at all times.
+
+153
+00:11:07,782 --> 00:11:11,260
+Speaker 0: Do these people come from countries that like don't have squirrel or something?
+
+154
+00:11:11,660 --> 00:11:15,673
+Speaker 0: Like I mean to be fair at least I never get at least a black squirrel.
+
+155
+00:11:15,713 --> 00:11:16,937
+Speaker 0: These are regular squirrels.
+
+156
+00:11:16,957 --> 00:11:18,020
+Speaker 0: They weren't even doing anything.
+
+157
+00:11:18,080 --> 00:11:26,220
+Speaker 1: I still like to just watch a regular squirrel because if you pick any squirrel that you can see and Watch it for long enough and something funny is gonna happen.
+
+158
+00:11:26,643 --> 00:11:29,869
+Speaker 0: Well, they weren't just sitting chilling and watching a squirrel They were like going up to.
+
+159
+00:11:29,910 --> 00:11:34,473
+Speaker 0: they were going up to the squirrel Like it was like it was a zoo and the squirrel was the attraction.
+
+160
+00:11:34,533 --> 00:11:34,995
+Speaker 0: I'm like, bro.
+
+161
+00:11:35,256 --> 00:11:36,220
+Speaker 0: The zoo is right there.
+
+162
+00:11:36,300 --> 00:11:37,445
+Speaker 0: Yeah, you can go see.
+
+163
+00:11:37,766 --> 00:11:40,035
+Speaker 0: you can go see all kinds of crazy shit in there.
+
+164
+00:11:40,075 --> 00:11:41,380
+Speaker 0: You think squirrels exciting?
+
+165
+00:11:41,901 --> 00:11:43,318
+Speaker 0: Where do you get a hold of this zoo?
+
+166
+00:11:45,161 --> 00:11:51,300
+Speaker 1: Of course think about in Australia like thus the cockatoos there are basically like squirrels here like they're just everywhere.
+
+167
+00:11:51,862 --> 00:12:04,031
+Speaker 1: But when I was like when we were there and I was there again several times I was really into like watching and interacting with the cockatoos and people who live there like probably thinking Why the fuck is this guy paying attention to the cockatoos?
+
+168
+00:12:04,092 --> 00:12:04,755
+Speaker 1: They're everywhere.
+
+169
+00:12:04,815 --> 00:12:05,900
+Speaker 1: Doesn't he have cockatoos at home?
+
+170
+00:12:09,190 --> 00:12:12,049
+Speaker 0: So I in some news in the Central Park Zoo have a grizzly bear.
+
+171
+00:12:12,431 --> 00:12:16,985
+Speaker 1: Wouldn't that be way better than I have not been to the Central Park Zoo in over a decade.
+
+172
+00:12:17,005 --> 00:12:18,149
+Speaker 0: I'm checking it.
+
+173
+00:12:18,169 --> 00:12:19,709
+Speaker 0: Hold on Okay, they got a snow leopard.
+
+174
+00:12:20,591 --> 00:12:21,574
+Speaker 0: They got sea lions.
+
+175
+00:12:21,594 --> 00:12:23,340
+Speaker 0: I think the New York Zoo's love sea lions.
+
+176
+00:12:23,380 --> 00:12:24,905
+Speaker 0: cuz Queens also has sea lion.
+
+177
+00:12:25,466 --> 00:12:26,490
+Speaker 0: They got a grizzly bear.
+
+178
+00:12:27,254 --> 00:12:28,260
+Speaker 0: They got some penguin.
+
+179
+00:12:28,280 --> 00:12:30,010
+Speaker 0: They got some red panda.
+
+180
+00:12:30,692 --> 00:12:35,265
+Speaker 0: They got some goat and they got tropical birds like a toucan and shit.
+
+181
+00:12:35,526 --> 00:12:39,243
+Speaker 0: Mmm lemur bat All kinds of stuff.
+
+182
+00:12:39,344 --> 00:12:45,438
+Speaker 0: So yeah Sorry, I know I started talking about all Animals are equal and whatnot.
+
+183
+00:12:45,478 --> 00:12:52,178
+Speaker 0: But like if I'm gonna go be entertained by an animal I'm not gonna need entertainment.
+
+184
+00:12:52,338 --> 00:12:55,850
+Speaker 0: I'm not saying I value the squirrels life less or more than the grizzly bear.
+
+185
+00:12:55,930 --> 00:12:57,902
+Speaker 0: I'm saying for my personal enjoyment.
+
+186
+00:12:57,963 --> 00:12:59,130
+Speaker 0: I would rather see grizzly.
+
+187
+00:13:01,372 --> 00:13:10,914
+Speaker 1: So, uh snow leopard in some news As of a hockey game that we just watched the last hockey game of the season to the New York Rangers Regular season.
+
+188
+00:13:10,995 --> 00:13:14,530
+Speaker 1: Yeah now there's a different kind of season but not the irregular season.
+
+189
+00:13:14,791 --> 00:13:26,909
+Speaker 1: Yep, the the best kind of hockey is about to happen the playoffs which if you're not a hockey fan the difference between Not just the vibe because you expect the vibe to be different in any sport between the playoffs and the regular game.
+
+190
+00:13:27,432 --> 00:13:34,249
+Speaker 1: But like the way the game is played is different Like it's such a different experience that playoff hockey is almost like its own thing.
+
+191
+00:13:34,973 --> 00:13:37,907
+Speaker 0: Well, the rules are slightly different and that the overtime is different.
+
+192
+00:13:37,927 --> 00:13:42,970
+Speaker 0: Yeah And also the way that the the structure around the games is different.
+
+193
+00:13:43,070 --> 00:13:56,755
+Speaker 0: It's sort of a tournament with sort of these best of sevens rather than a points accumulation round robin ish thing the fact that you play that a team plays one other team and it's just they Adapt to each other.
+
+194
+00:13:56,775 --> 00:14:01,151
+Speaker 1: you gave one of you is gonna move on and one of you is not and you're only playing against each Other.
+
+195
+00:14:01,211 --> 00:14:05,829
+Speaker 1: nothing matters, but can you beat this one team right now?
+
+196
+00:14:07,039 --> 00:14:15,189
+Speaker 0: and You know the players Care a lot more and they try a lot harder Yeah, and so the game is played differently than it is.
+
+197
+00:14:15,470 --> 00:14:22,605
+Speaker 0: Even though the most of the rules are the same they don't play it the same and then you know Everyone in the crowd is different.
+
+198
+00:14:23,008 --> 00:14:28,564
+Speaker 1: So You know, yep, so of the Rangers the last game was a shutout for mr.
+
+199
+00:14:28,624 --> 00:14:30,830
+Speaker 1: Egor Shostak and they won the president's trophy.
+
+200
+00:14:31,231 --> 00:14:32,675
+Speaker 1: They set a whole bunch of.
+
+201
+00:14:32,716 --> 00:14:35,464
+Speaker 0: that means if you don't know that means that they are literally.
+
+202
+00:14:35,484 --> 00:14:40,679
+Speaker 0: and if you look at only the regular Season they had the most points.
+
+203
+00:14:40,940 --> 00:14:44,030
+Speaker 0: So they were the best possible out of 32 hockey teams.
+
+204
+00:14:44,130 --> 00:14:46,497
+Speaker 0: They were number one the best hockey team.
+
+205
+00:14:46,998 --> 00:14:52,342
+Speaker 0: if you only look at the actual results and you don't care about how the games rack How did they get those points now?
+
+206
+00:14:52,362 --> 00:14:53,169
+Speaker 0: We're not thinking about that?
+
+207
+00:14:53,370 --> 00:14:57,390
+Speaker 1: Yeah, look at you caps with one like 16 OTL points or whatever, right?
+
+208
+00:14:57,690 --> 00:15:00,424
+Speaker 0: We're not caring about how the gate what happened in the games.
+
+209
+00:15:00,465 --> 00:15:01,309
+Speaker 0: Like did they right?
+
+210
+00:15:01,650 --> 00:15:03,768
+Speaker 0: It's like you could have a team that could get.
+
+211
+00:15:03,848 --> 00:15:21,761
+Speaker 0: let's see You know in the in the 82 games you could have a team that wins say like, you know 50 games right and like demolishes their opponents in 50 games and then and the other 32 games loses by like one right.
+
+212
+00:15:22,202 --> 00:15:24,430
+Speaker 0: and you got to think that's a pretty good team, right?
+
+213
+00:15:24,590 --> 00:15:27,739
+Speaker 0: They either dominated shitty teams or they lost.
+
+214
+00:15:27,799 --> 00:15:32,212
+Speaker 0: when they lost it was a close loss and they still got like a hundred and four Points.
+
+215
+00:15:32,252 --> 00:15:34,222
+Speaker 0: that's playoff numbers, right?
+
+216
+00:15:34,342 --> 00:15:35,850
+Speaker 0: That's a great team, right?
+
+217
+00:15:36,050 --> 00:15:43,910
+Speaker 0: You can have another team that has 60 wins and the 60 wins They like got by the skin of their teeth each and every one of those wins.
+
+218
+00:15:43,950 --> 00:15:48,986
+Speaker 0: They had a lot of overtime wins shootout wins and all the other games.
+
+219
+00:15:49,066 --> 00:15:51,092
+Speaker 0: the other 22 games They lost.
+
+220
+00:15:51,614 --> 00:15:56,870
+Speaker 0: they got demolished like and they lost to shitty teams and they got beat beat up by shitty teams.
+
+221
+00:15:57,331 --> 00:16:02,030
+Speaker 0: Now the second team is gonna have more points and is gonna win the president's trophy.
+
+222
+00:16:02,552 --> 00:16:08,961
+Speaker 0: But when you look at the games, you got to say the team that had eight fewer wins It's obviously the better team.
+
+223
+00:16:08,981 --> 00:16:15,618
+Speaker 0: You're more scared to play them Yeah And you're scared of the other team with more point But then you also get the paper rock-scissors of some teams.
+
+224
+00:16:15,679 --> 00:16:30,402
+Speaker 1: do things that other teams struggle with to where a team that's bad Worse in most hockey attributes than another team Might beat one very specific team in the playoffs because the thing they're good at is a thing That is like the counter to that other team's whole deal.
+
+225
+00:16:30,924 --> 00:16:31,648
+Speaker 0: No, you never know.
+
+226
+00:16:31,989 --> 00:16:38,116
+Speaker 1: Yeah Yeah, this is this is the best the Rangers have looked in the entire time I'm there.
+
+227
+00:16:38,137 --> 00:16:40,112
+Speaker 0: won the president's trophy in 2015?
+
+228
+00:16:40,112 --> 00:16:41,737
+Speaker 1: I think so.
+
+229
+00:16:41,757 --> 00:16:43,141
+Speaker 1: I was looking at the right.
+
+230
+00:16:43,162 --> 00:16:45,810
+Speaker 1: I think the Red Wings have the most presidents trophies with six.
+
+231
+00:16:46,870 --> 00:16:49,078
+Speaker 1: Hmm I gotta look at this trophy.
+
+232
+00:16:49,139 --> 00:16:49,701
+Speaker 0: isn't that old?
+
+233
+00:16:49,761 --> 00:16:52,150
+Speaker 0: it used to just be called the regular season champion.
+
+234
+00:16:52,210 --> 00:16:53,678
+Speaker 0: Yeah, so and you'd have to.
+
+235
+00:16:53,939 --> 00:16:55,890
+Speaker 0: you'd have to include those as well somehow.
+
+236
+00:16:56,072 --> 00:17:00,599
+Speaker 1: And while a lot of people like to talk about this There's the hockey fans like to talk about the curse like I have.
+
+237
+00:17:00,740 --> 00:17:03,770
+Speaker 0: winning the president's trophy means no, it's not actually cursed you.
+
+238
+00:17:04,530 --> 00:17:07,710
+Speaker 1: Statistically the teams that win it do very well in the playoffs.
+
+239
+00:17:07,931 --> 00:17:15,163
+Speaker 0: Historically, although last year the Boston Bruins won it and went out in the first round Do you want it and gotten swept out of the first round?
+
+240
+00:17:15,242 --> 00:17:18,275
+Speaker 1: teams have won it and won the cup Like it's all over the place.
+
+241
+00:17:18,454 --> 00:17:29,105
+Speaker 0: The only benefit of winning it means that no matter what every Game every series the Rangers play in this playoff, which could be between one and four.
+
+242
+00:17:29,125 --> 00:17:30,930
+Speaker 0: Yeah, they will have home ice advantage.
+
+243
+00:17:31,051 --> 00:17:37,902
+Speaker 0: So four of the seven games if you need all seven games Will take place at Madison Square Garden and not somewhere else.
+
+244
+00:17:38,183 --> 00:17:40,090
+Speaker 1: real great for us with our half-season tickets.
+
+245
+00:17:40,992 --> 00:17:44,189
+Speaker 0: Yes, that means we will have more chances to go.
+
+246
+00:17:45,772 --> 00:17:54,744
+Speaker 1: So in a little quickie news to add more sports on the Tuesday gaming day One of the NHL teams just up and left the coyote.
+
+247
+00:17:54,824 --> 00:17:56,670
+Speaker 0: Oh, well, it's it's been brewing.
+
+248
+00:17:56,791 --> 00:17:57,775
+Speaker 0: It's been brewing.
+
+249
+00:17:57,815 --> 00:17:59,442
+Speaker 0: But now they're in the brew.
+
+250
+00:17:59,643 --> 00:18:00,768
+Speaker 0: the brew is being poured now.
+
+251
+00:18:01,571 --> 00:18:06,466
+Speaker 1: Yeah, this is it's actually a really complicated deal to like so well.
+
+252
+00:18:06,787 --> 00:18:09,536
+Speaker 1: to summarize as best I can the coyote.
+
+253
+00:18:09,556 --> 00:18:12,646
+Speaker 1: so the coyotes are moving to Salt Lake City because they weren't like.
+
+254
+00:18:12,666 --> 00:18:13,850
+Speaker 1: there was some trouble with the team.
+
+255
+00:18:14,316 --> 00:18:15,210
+Speaker 1: I think they weren't making snow.
+
+256
+00:18:15,370 --> 00:18:21,850
+Speaker 0: So first of all, they had shitty attendance and the owner is the organization was it was a mess, right?
+
+257
+00:18:22,190 --> 00:18:22,652
+Speaker 0: Yeah, you know.
+
+258
+00:18:22,853 --> 00:18:27,090
+Speaker 0: and they fucked up in the arena and the arena kicked them out.
+
+259
+00:18:27,210 --> 00:18:28,435
+Speaker 0: So they didn't have anywhere to play.
+
+260
+00:18:28,977 --> 00:18:38,748
+Speaker 0: so they go ahead and they managed to get Arizona University to let them play in the college arena, which is a problem, right?
+
+261
+00:18:38,828 --> 00:18:41,276
+Speaker 0: It's it's not big It's you know, they were able to fill it.
+
+262
+00:18:41,657 --> 00:18:43,062
+Speaker 0: They actually had more attendance.
+
+263
+00:18:43,122 --> 00:18:48,180
+Speaker 1: I think at the bit maybe look I have filled this quarter teaspoon phrase.
+
+264
+00:18:48,200 --> 00:18:49,144
+Speaker 0: So there was some.
+
+265
+00:18:49,184 --> 00:18:51,334
+Speaker 0: there were some positives to it But it's like.
+
+266
+00:18:51,375 --> 00:18:56,240
+Speaker 0: you can't be having a professional Team in the best league playing in a college arena.
+
+267
+00:18:56,260 --> 00:18:59,190
+Speaker 0: that doesn't work right and and the players were upset with it.
+
+268
+00:18:59,270 --> 00:19:04,910
+Speaker 0: It was not sustainable and so there was a chance for them to get an arena going.
+
+269
+00:19:05,431 --> 00:19:06,013
+Speaker 0: But it was.
+
+270
+00:19:06,174 --> 00:19:10,246
+Speaker 0: it came down to democracy and the people in Arizona voted no.
+
+271
+00:19:10,266 --> 00:19:14,442
+Speaker 0: and when that happened Basically without making it public.
+
+272
+00:19:14,502 --> 00:19:16,028
+Speaker 0: They were like, alright, that's it, right?
+
+273
+00:19:17,290 --> 00:19:30,488
+Speaker 0: but even after that happened errors the Arizona team owner was still trying to make something else happen Even though he was basically ruined by the you know, the fact that people voted against him being able to build the arena.
+
+274
+00:19:30,508 --> 00:19:36,796
+Speaker 0: So He's trying to win this land auction and like, you know Which is coming up in June or July?
+
+275
+00:19:36,836 --> 00:19:40,870
+Speaker 0: or something to buy land and build a mega arena place or whatever.
+
+276
+00:19:41,772 --> 00:19:43,348
+Speaker 0: But that's too late for the NHL.
+
+277
+00:19:44,211 --> 00:19:57,242
+Speaker 0: Meanwhile, the owner of the Utah Jazz is a mega rich dude who is a lot, you know You know, we're not big fans of Utah or billionaires and whatnot, but that dude has his business shit together much more than the Arizona guy That's
+
+278
+00:19:57,302 --> 00:19:58,707
+Speaker 1: for sure reading this article here.
+
+279
+00:19:59,269 --> 00:20:13,364
+Speaker 0: Yeah, so the NHL is like, alright We gotta get the team away from the Arizona guy and give it to the Utah guy So that they can play in Utah where they can play where the Jazz play at least until who knows what it's a better place In the college arena,
+
+280
+00:20:13,484 --> 00:20:16,820
+Speaker 1: but he's not selling the name logos or trademarks, right?
+
+281
+00:20:16,860 --> 00:20:23,375
+Speaker 0: They need to do it in a way to where the Arizona guy won't sue them right.
+
+282
+00:20:23,535 --> 00:20:30,614
+Speaker 0: and also the NHL does Really want to have a team in Arizona like they believe in the Arizona market.
+
+283
+00:20:30,634 --> 00:20:32,380
+Speaker 0: There's a lot of people there, right?
+
+284
+00:20:32,420 --> 00:20:34,280
+Speaker 0: It's like they wanted to have a team there.
+
+285
+00:20:34,320 --> 00:20:38,820
+Speaker 0: That's why they did all this to me try to make it work right and take so long.
+
+286
+00:20:39,323 --> 00:20:41,540
+Speaker 0: It's because they want to have a team in Arizona.
+
+287
+00:20:41,661 --> 00:20:44,880
+Speaker 0: Then they're gonna go but like they want to go back there at some point.
+
+288
+00:20:45,462 --> 00:20:55,980
+Speaker 0: So, how do we at least temporarily get this team away from this guy and get you know and get it somewhere where there's a Arena to play in for next season and not get sued.
+
+289
+00:20:57,542 --> 00:21:03,669
+Speaker 0: And so you there is a way that they can like take someone's team away But that would be very difficult and lawyers would fight.
+
+290
+00:21:03,870 --> 00:21:04,954
+Speaker 0: Yeah, so they're like fine.
+
+291
+00:21:05,375 --> 00:21:06,840
+Speaker 0: We'll give this guy a shit ton of money.
+
+292
+00:21:07,241 --> 00:21:11,292
+Speaker 0: We'll let him keep the name and the rights and all and whatnot.
+
+293
+00:21:11,393 --> 00:21:17,378
+Speaker 0: and then the NHL team that's still in Arizona the Tucson runners, yep, we'll let him keep all kinds of stuff.
+
+294
+00:21:17,398 --> 00:21:27,800
+Speaker 0: and But we're going to take away Basically the hockey operations part all the players and the coaches and those hockey staff and move them to Salt Lake.
+
+295
+00:21:28,962 --> 00:21:35,123
+Speaker 0: And this new guy will basically buy, you know the team from us and then Arizona.
+
+296
+00:21:35,163 --> 00:21:44,839
+Speaker 0: guy if you get your shit together in the future, you can basically give us the billion dollars back right and We'll give you a new franchise deal.
+
+297
+00:21:45,321 --> 00:21:50,349
+Speaker 1: Yeah, then you could reuse which would then is trigger an expansion draft Which fine like the NHL has done.
+
+298
+00:21:50,369 --> 00:21:52,100
+Speaker 1: that was like thinking they figured out how to do those.
+
+299
+00:21:52,180 --> 00:22:03,853
+Speaker 1: Well, but also there's a five-year time limit And if at the end of five years no new team has triggered an expansion draft there Then he basically loses this right forever as far as I can tell.
+
+300
+00:22:04,135 --> 00:22:07,477
+Speaker 0: Yeah, they're basically like yeah They think that's what the NHL wants to happen.
+
+301
+00:22:07,517 --> 00:22:11,820
+Speaker 0: Yes They want him to fail so they can get someone else to do a team in Arizona.
+
+302
+00:22:11,981 --> 00:22:13,589
+Speaker 0: They don't they want to be in Arizona.
+
+303
+00:22:13,830 --> 00:22:26,938
+Speaker 1: They want to get away from this guy and Meanwhile this guy the only way to get this franchise expansion to happen for him He's got to build a what is targeted to be a three billion dollar entertainment center on some land.
+
+304
+00:22:26,978 --> 00:22:28,901
+Speaker 1: He doesn't own Yep.
+
+305
+00:22:29,363 --> 00:22:34,060
+Speaker 0: Now imagine like he spends money to try to build this thing and he's got it, right?
+
+306
+00:22:34,481 --> 00:22:38,376
+Speaker 0: And then he ends up missing the mark and not getting right.
+
+307
+00:22:38,777 --> 00:22:39,199
+Speaker 0: it's like he.
+
+308
+00:22:40,366 --> 00:22:55,251
+Speaker 0: You might just build another Xanadu Who knows but You know, but the people I feel you know There are people who really got fucked over by this which are all the staff Who have to suddenly move to Salt Lake or quit?
+
+309
+00:22:55,452 --> 00:22:58,283
+Speaker 1: Yeah, cuz NHL players get traded That's it.
+
+310
+00:22:58,344 --> 00:23:06,460
+Speaker 0: part of your expected that even it but even those players Suddenly are for being forced to move like that still sucks Yeah, but at least it's more part of the job.
+
+311
+00:23:06,500 --> 00:23:14,293
+Speaker 1: But if you just like work for a team and live in the city That team is and you have to move or quit your job.
+
+312
+00:23:14,534 --> 00:23:21,648
+Speaker 0: You're not making millions of dollars You're not low, but there are also people Who are not part of hockey operations, right?
+
+313
+00:23:21,688 --> 00:23:33,400
+Speaker 0: They're part of the other employees of the team, you know social marketing person I guess or ticket selling people or You know all kinds of other employees that are not related to the hockey part.
+
+314
+00:23:33,822 --> 00:23:39,065
+Speaker 0: Right, all those people just lost their jobs like whoop God You're game over.
+
+315
+00:23:39,488 --> 00:23:41,879
+Speaker 0: find a new job in Arizona somewhere or move.
+
+316
+00:23:42,724 --> 00:23:45,239
+Speaker 1: Yeah, you definitely don't want to move to Utah with the way.
+
+317
+00:23:46,022 --> 00:23:51,818
+Speaker 0: What's extra bad about it is not just that that happened because I mean companies fold then that happens, right?
+
+318
+00:23:52,239 --> 00:24:00,063
+Speaker 0: It's that The you know because they're trying to keep things hush-hush to the general public and they dragged this out So long.
+
+319
+00:24:00,083 --> 00:24:06,164
+Speaker 0: a lot of those people basically got surprised found out from a journalist tweeting Etc.
+
+320
+00:24:06,425 --> 00:24:12,753
+Speaker 0: Right as opposed to you could have told those people in advance But then the world would know earlier and you don't want that.
+
+321
+00:24:12,813 --> 00:24:14,420
+Speaker 0: but that's too bad, right?
+
+322
+00:24:15,121 --> 00:24:19,535
+Speaker 0: So just you know typical capitalism cruelty happening here.
+
+323
+00:24:19,776 --> 00:24:23,746
+Speaker 0: Yep, and of course You know less so but not non.
+
+324
+00:24:23,846 --> 00:24:28,840
+Speaker 0: so all the fans imagine if the team that you were a fan of just fucking moved away.
+
+325
+00:24:29,501 --> 00:24:33,099
+Speaker 1: Yeah, and it's happened over the years like in the olden time or disappeared like a team.
+
+326
+00:24:33,484 --> 00:24:34,640
+Speaker 1: Well, I forget the name of the team.
+
+327
+00:24:34,680 --> 00:24:36,307
+Speaker 1: I was reading about a team because I wanted to look up.
+
+328
+00:24:36,609 --> 00:24:39,441
+Speaker 1: how often has the NHL like had to deal with teams having a Problem?
+
+329
+00:24:39,802 --> 00:24:45,320
+Speaker 1: there have been teams that just like fucking went bankrupt and disappeared suddenly one time it happened in the middle of a season.
+
+330
+00:24:46,281 --> 00:24:51,516
+Speaker 0: Yeah, it's like, you know, my grandpa was a Brooklyn Dodgers fan and then they moved to LA.
+
+331
+00:24:51,696 --> 00:24:58,400
+Speaker 0: it's like, alright well now what Wait several years for the Mets to come into existence?
+
+332
+00:24:59,800 --> 00:25:07,118
+Speaker 1: Probably could Absorb having a Brooklyn team separate from the Queen's team in the mind the Yankees all today.
+
+333
+00:25:07,138 --> 00:25:08,363
+Speaker 1: I think so I think it could.
+
+334
+00:25:08,986 --> 00:25:10,774
+Speaker 0: no, we're not even selling out the stadiums.
+
+335
+00:25:10,815 --> 00:25:11,156
+Speaker 0: They have.
+
+336
+00:25:11,277 --> 00:25:16,798
+Speaker 1: well cuz the Mets I Assume the Yankees don't sell out.
+
+337
+00:25:18,002 --> 00:25:18,885
+Speaker 0: No, they don't you don't.
+
+338
+00:25:19,066 --> 00:25:22,057
+Speaker 0: baseball stadiums don't sell out unless it's like a big game or something.
+
+339
+00:25:22,920 --> 00:25:26,477
+Speaker 0: You know, it's it's it's it's not that frequent because they're so big.
+
+340
+00:25:26,497 --> 00:25:30,536
+Speaker 0: true It's really hard to sell out unless your team is like really crushing it.
+
+341
+00:25:30,757 --> 00:25:33,931
+Speaker 1: or you know All right, you got some some other news.
+
+342
+00:25:33,971 --> 00:25:35,319
+Speaker 1: That's also capitalism related.
+
+343
+00:25:36,745 --> 00:25:47,892
+Speaker 0: we might so Apple has done a good thing and they're like, hey, you know what we're gonna let you have Emulators for old-school game consoles in the App Store.
+
+344
+00:25:48,173 --> 00:25:49,859
+Speaker 0: Obviously no ROMs, right?
+
+345
+00:25:49,939 --> 00:25:50,160
+Speaker 0: Come on.
+
+346
+00:25:50,200 --> 00:25:53,660
+Speaker 0: It's like yeah, you can't be doing that unless Nintendo wants to sell ROMs.
+
+347
+00:25:53,721 --> 00:25:58,760
+Speaker 0: They can do that But you know or whoever the actual owner of the game can sell the ROMs.
+
+348
+00:25:58,880 --> 00:26:03,757
+Speaker 0: But no, you can't be selling ROMs in the app store, but it's legal to have.
+
+349
+00:26:03,837 --> 00:26:14,919
+Speaker 0: you know, nesticle I guess Apple wouldn't let a nesticle icon in there, but you know If you if you want to put an emulator in the App Store, they're gonna let you do it.
+
+350
+00:26:15,522 --> 00:26:25,220
+Speaker 0: but of course the first person to go and do so throws up a Game Boy emulator and It gets taken down and it's like hey, I thought you were gonna let in the emulators.
+
+351
+00:26:25,461 --> 00:26:31,100
+Speaker 1: That was my first reaction when I saw a headline about this on FARC until I actually clicked in and read the article.
+
+352
+00:26:31,926 --> 00:26:35,313
+Speaker 0: it's like Yeah, we're not taking it down because it's an emulator.
+
+353
+00:26:35,353 --> 00:26:36,840
+Speaker 0: we have a new rule allowing emulators.
+
+354
+00:26:36,941 --> 00:26:40,240
+Speaker 0: We're taking it down because that's an emulator that was just stolen.
+
+355
+00:26:40,381 --> 00:26:46,487
+Speaker 0: Someone just took the emulator from someone else's someone else's emulator code Built it for iOS and uploaded it.
+
+356
+00:26:46,547 --> 00:26:49,876
+Speaker 0: That's like if I took Photoshop and uploaded Scott shop.
+
+357
+00:26:50,036 --> 00:26:54,459
+Speaker 0: It's like, oh, yeah We're taking it down for a completely different reason.
+
+358
+00:26:56,021 --> 00:26:57,887
+Speaker 0: Some emulators did get into the store.
+
+359
+00:26:58,168 --> 00:27:03,284
+Speaker 0: if you're interested in emulating old consoles on your iOS devices Seek them out.
+
+360
+00:27:03,344 --> 00:27:07,960
+Speaker 0: I don't know which ones are good or even which ones made it past the Apple guardians.
+
+361
+00:27:08,301 --> 00:27:11,072
+Speaker 1: I might try a few out just so we can talk about them on the show.
+
+362
+00:27:11,313 --> 00:27:14,909
+Speaker 0: cuz I get your you're gonna have to get Your ROMs from somewhere else.
+
+363
+00:27:15,311 --> 00:27:19,830
+Speaker 0: if you want to only play legal things I would suggest going on to like itch.io.
+
+364
+00:27:19,891 --> 00:27:21,517
+Speaker 0: you can like buy some.
+
+365
+00:27:21,859 --> 00:27:26,800
+Speaker 0: you know NES games that someone made with like NES maker or Game Boy maker or something like that, right?
+
+366
+00:27:27,280 --> 00:27:32,040
+Speaker 0: Or you can just download every illegal ROM ever in a bit torrent if you are a criminal.
+
+367
+00:27:33,221 --> 00:27:35,147
+Speaker 1: The ROMs are not illegal.
+
+368
+00:27:35,768 --> 00:27:37,673
+Speaker 1: the transfer of them is illegal.
+
+369
+00:27:37,694 --> 00:27:38,636
+Speaker 1: They're not illegal ROMs.
+
+370
+00:27:38,656 --> 00:27:39,458
+Speaker 1: They're just ROMs.
+
+371
+00:27:39,518 --> 00:27:42,890
+Speaker 0: if you Move them somewhere you can back up your.
+
+372
+00:27:42,930 --> 00:27:45,620
+Speaker 0: you can buy a backup thing and back up your own cartridges.
+
+373
+00:27:45,741 --> 00:27:59,117
+Speaker 1: I guess all I'm gonna say is that every ROM of every NES game that was ever released in North America plus a Number of Japanese ones is a hundred and fifty five megabytes unzipped.
+
+374
+00:27:59,137 --> 00:28:08,423
+Speaker 0: Yeah, so Yeah, personally I have no interest actually because I have you know upgraded Game Boy You know DS's.
+
+375
+00:28:08,463 --> 00:28:13,197
+Speaker 0: I got all kinds of devices on which you know I just got the this retro tank that makes that.
+
+376
+00:28:13,257 --> 00:28:18,454
+Speaker 0: lets me convert Basically any kind of old video out to upscaled HDMI.
+
+377
+00:28:18,594 --> 00:28:19,236
+Speaker 1: Oh, yeah.
+
+378
+00:28:19,317 --> 00:28:20,099
+Speaker 1: Yeah, I saw you put it.
+
+379
+00:28:20,420 --> 00:28:21,486
+Speaker 1: It works pretty good plug.
+
+380
+00:28:21,747 --> 00:28:23,435
+Speaker 0: I plugged the Wii into it just now.
+
+381
+00:28:23,455 --> 00:28:24,340
+Speaker 0: it worked great.
+
+382
+00:28:24,762 --> 00:28:29,785
+Speaker 0: It actually worked great for a GameCube even better than we whoa And I could.
+
+383
+00:28:29,805 --> 00:28:31,331
+Speaker 0: you could plug NES into that you can even.
+
+384
+00:28:31,351 --> 00:28:35,450
+Speaker 0: it basically takes in SCART RCA Component as video.
+
+385
+00:28:35,611 --> 00:28:38,579
+Speaker 0: so basically all the old ones upscaled HDMI.
+
+386
+00:28:40,241 --> 00:28:44,000
+Speaker 0: So hopefully that'll just carry me forever because I don't think there's been any new devices.
+
+387
+00:28:44,241 --> 00:28:49,572
+Speaker 1: I would definitely have bought the exact device you bought except I went the opposite route and actually got rid of all my old consoles.
+
+388
+00:28:50,335 --> 00:28:58,760
+Speaker 0: Yeah, you know There may be an occasional need to have an old device and this makes it so you don't have to mod those devices anyway.
+
+389
+00:29:00,223 --> 00:29:03,020
+Speaker 0: The point is I don't need emulators because I have all that shit instead.
+
+390
+00:29:03,040 --> 00:29:04,926
+Speaker 1: Yep, one last little news.
+
+391
+00:29:04,986 --> 00:29:09,060
+Speaker 1: not to dwell on it, but you know visions of mana is coming out.
+
+392
+00:29:09,140 --> 00:29:12,454
+Speaker 1: It is a the second dead sets ooh game series.
+
+393
+00:29:12,514 --> 00:29:17,428
+Speaker 1: It's gonna be the latest one in that long running Incredibly iconic.
+
+394
+00:29:17,468 --> 00:29:31,700
+Speaker 0: Yeah incredibly long-running Iconic series where there was really only one mega iconic game the secret of mana And the other ones weren't so well the Gameboy ones were Super popular and widely played in both the US and and Japan.
+
+395
+00:29:31,881 --> 00:29:38,560
+Speaker 1: I did I do like the the game but in the US for those for anyone who listens to geek nights I'd be surprised if you'd be unaware of this specifically.
+
+396
+00:29:38,701 --> 00:29:43,320
+Speaker 1: But they were because that second second and said she was not a brand in the US.
+
+397
+00:29:43,722 --> 00:29:45,169
+Speaker 1: So they were branded wasn't it?
+
+398
+00:29:45,290 --> 00:29:46,979
+Speaker 0: wasn't it saga first?
+
+399
+00:29:48,641 --> 00:29:50,444
+Speaker 1: Yes That was.
+
+400
+00:29:50,484 --> 00:29:50,927
+Speaker 1: that was no.
+
+401
+00:29:50,987 --> 00:29:52,937
+Speaker 1: those saga was Final Fantasy legend.
+
+402
+00:29:52,977 --> 00:29:58,000
+Speaker 1: in the US They rebranded all this shit is Final Fantasy because that was the biggest brand in the US.
+
+403
+00:29:58,060 --> 00:30:00,799
+Speaker 1: I think saga was rebranded as Final Fantasy legend.
+
+404
+00:30:01,222 --> 00:30:02,046
+Speaker 1: so one two and three.
+
+405
+00:30:02,388 --> 00:30:14,026
+Speaker 1: but these games were rebranded and Reskinned to have characters that looked like Final Fantasy characters in the US as Final Fantasy adventure on the Gameboy Mm-hmm.
+
+406
+00:30:14,391 --> 00:30:22,523
+Speaker 1: But anyway Secret of Mana was like the biggest one I have memories of like you and Katsu just trying to beat it over the course of a week in Wildwood at one still have Still never beat it.
+
+407
+00:30:22,664 --> 00:30:23,306
+Speaker 1: I've never beaten it.
+
+408
+00:30:23,708 --> 00:30:25,996
+Speaker 1: Every time we've gotten a group together and tried we Peter out.
+
+409
+00:30:26,056 --> 00:30:27,040
+Speaker 1: after like eight hours.
+
+410
+00:30:27,907 --> 00:30:30,536
+Speaker 1: anyway The newest one is coming out.
+
+411
+00:30:31,721 --> 00:30:36,540
+Speaker 1: And three days ago the official Japanese trailer for this game was released.
+
+412
+00:30:36,801 --> 00:30:37,382
+Speaker 1: I'll link to it.
+
+413
+00:30:37,944 --> 00:30:46,412
+Speaker 1: The trailer is three minutes and eight seconds long and it shows I'm going to say Zero footage from visions of mana.
+
+414
+00:30:46,934 --> 00:30:59,956
+Speaker 1: and yet and yet it is Possibly what it is either the most full of itself and pretentious trailer of all time Or they're pulling a sort of cowboy bebop that you know.
+
+415
+00:30:59,976 --> 00:31:02,531
+Speaker 1: the show that was like Yeah, we made a new genre.
+
+416
+00:31:02,592 --> 00:31:03,940
+Speaker 1: eat it right in the beginning.
+
+417
+00:31:04,747 --> 00:31:09,430
+Speaker 1: This trailer is basically yeah We made one of the best fucking most popular games ever.
+
+418
+00:31:09,450 --> 00:31:12,620
+Speaker 1: that affected people in a big way and our entire marketing pitches.
+
+419
+00:31:13,002 --> 00:31:15,071
+Speaker 1: Remember mana games remember that shit.
+
+420
+00:31:15,313 --> 00:31:16,699
+Speaker 1: Well, here's the one.
+
+421
+00:31:18,462 --> 00:31:19,086
+Speaker 0: Yeah, they could it.
+
+422
+00:31:19,368 --> 00:31:21,580
+Speaker 0: who knows if this game is actually any fucking good, right?
+
+423
+00:31:21,640 --> 00:31:23,674
+Speaker 0: It's just they're just trying to be like nostalgia.
+
+424
+00:31:23,734 --> 00:31:24,479
+Speaker 0: Please buy this game.
+
+425
+00:31:24,841 --> 00:31:29,980
+Speaker 1: But they the way they predict this is a very well produced trailer.
+
+426
+00:31:30,040 --> 00:31:45,389
+Speaker 1: the other thing that's noteworthy this trailer is 95% live-action And nobody is in costumes, okay Anyway things of the day.
+
+427
+00:31:45,409 --> 00:31:48,540
+Speaker 1: I just found this channel randomly and it's super cute.
+
+428
+00:31:49,282 --> 00:31:54,739
+Speaker 1: SQ FT fish and this is a tiny little 30-second video and a little fish.
+
+429
+00:31:55,303 --> 00:32:02,060
+Speaker 1: I asks a little crab for a ride and A little bit of drama ensues in 29 seconds, and it's just super cute.
+
+430
+00:32:02,402 --> 00:32:05,319
+Speaker 1: And I learned something about that kind of crab and that kind of fish.
+
+431
+00:32:06,346 --> 00:32:22,340
+Speaker 0: Okay So Way back in the day There was a game called descent and then there was to set two and then there was the much lesser-known Descent three, but I bought descent three as soon as it came out on to CD roms.
+
+432
+00:32:22,440 --> 00:32:31,740
+Speaker 1: I know you still had those CD roms at RIT because you brought to say I saw I still have them now But you you brought to send up about as often as I brought up arrow biz back then.
+
+433
+00:32:32,302 --> 00:32:33,730
+Speaker 0: The point is I have descent three.
+
+434
+00:32:33,750 --> 00:32:34,654
+Speaker 0: I still have the discs.
+
+435
+00:32:34,755 --> 00:32:35,679
+Speaker 0: we could play it if you want.
+
+436
+00:32:36,965 --> 00:32:50,707
+Speaker 0: But somebody took the source code for descent three that has apparently been as somewhat recently patched and like actually worked on Windows and Mac OS like a few years ago.
+
+437
+00:32:50,727 --> 00:33:10,799
+Speaker 0: someone patched it and they only had to remove like a couple libraries from interplay That were obviously proprietary that allow you to play the cutscenes and he's like hey You know, maybe we could work on replacing that code so we can actually see the cutscenes and decode the videos because they have like a custom video format or something.
+
+438
+00:33:12,161 --> 00:33:16,014
+Speaker 0: But it's like actively being worked on by at least some people.
+
+439
+00:33:16,034 --> 00:33:27,125
+Speaker 0: to you know rather than like, you know, a lot of games will like make a new engine that you just load the data from the old game to play it or You know just emulate.
+
+440
+00:33:27,446 --> 00:33:38,199
+Speaker 0: it's like this is the action mostly the actual source code of the actual game Just like patching it to update it and rather than the quake model where the official company is doing it.
+
+441
+00:33:38,640 --> 00:33:42,754
+Speaker 0: This is some people just open source doing it, but same thing.
+
+442
+00:33:42,794 --> 00:33:44,700
+Speaker 1: There are like 32 commits today.
+
+443
+00:33:45,021 --> 00:33:46,506
+Speaker 1: This is this is picked up a little steam.
+
+444
+00:33:46,546 --> 00:33:54,511
+Speaker 0: I think well, it was uploaded like earlier today or yesterday like Super new is a super new like this just happened.
+
+445
+00:33:54,632 --> 00:33:55,454
+Speaker 0: It's super fresh.
+
+446
+00:33:55,514 --> 00:33:56,437
+Speaker 0: It's a thing of the day.
+
+447
+00:33:56,518 --> 00:34:11,172
+Speaker 0: literally I recommend I Trying to set one and two and if you enjoy then Descent three and you can get all these I think on gog.com for easily.
+
+448
+00:34:11,193 --> 00:34:13,260
+Speaker 1: pretty sure I got them on gog.
+
+449
+00:34:13,480 --> 00:34:15,406
+Speaker 1: I just never played them on a computer.
+
+450
+00:34:15,527 --> 00:34:19,158
+Speaker 0: if you have an account on gog, you probably have descent one two three.
+
+451
+00:34:19,438 --> 00:34:23,004
+Speaker 0: Yeah but Yeah, there really isn't?
+
+452
+00:34:23,405 --> 00:34:28,920
+Speaker 0: you know aren't games like descent, you know, there have been some people making a few but they are not.
+
+453
+00:34:29,882 --> 00:34:31,558
+Speaker 1: There's lots of games that are like doom.
+
+454
+00:34:31,821 --> 00:34:40,885
+Speaker 1: There's lots of games that are like quake and like like unreal tournament But there's a lot less that are like descent exactly to send which is there's a lot of uniqueness That's out of scope for things.
+
+455
+00:34:40,926 --> 00:34:47,344
+Speaker 1: the day and a show that's already running long because we got a show on descent In the meta moment.
+
+456
+00:34:47,425 --> 00:34:52,190
+Speaker 1: the king knows book club book walk on the night is short walk on girl Within a few weeks.
+
+457
+00:34:52,272 --> 00:34:52,657
+Speaker 1: We'll do it.
+
+458
+00:34:53,242 --> 00:34:57,020
+Speaker 1: No show this Thursday because I'm out of town to help my mom with me.
+
+459
+00:34:57,342 --> 00:34:59,940
+Speaker 1: So I'm flying out to Detroit on Thursday.
+
+460
+00:35:00,362 --> 00:35:00,924
+Speaker 1: I'll be back.
+
+461
+00:35:01,245 --> 00:35:05,020
+Speaker 0: I got plenty of time because now there's no hockey to eat up my evenings.
+
+462
+00:35:05,100 --> 00:35:11,220
+Speaker 0: Yeah until the playoffs start which will be probably probably don't know the schedule yet, but probably Sunday at the soonest.
+
+463
+00:35:11,361 --> 00:35:21,710
+Speaker 1: so yeah, and I got Two flights plus about eight hours of hanging out in a hospital waiting room for to be clear Like not a dire thing, but like a thing.
+
+464
+00:35:21,751 --> 00:35:22,696
+Speaker 1: that is the success story.
+
+465
+00:35:22,716 --> 00:35:25,559
+Speaker 1: that's going well But I get to sit in a hospital for a while to wait.
+
+466
+00:35:26,635 --> 00:35:30,360
+Speaker 0: No When you come back, I'll be back Sunday.
+
+467
+00:35:30,480 --> 00:35:40,200
+Speaker 1: So geek guys should resume as normal on Monday unless I'm somehow tired and burnout from the trip Which is unlikely in which case geek guys can resume on Wednesday, and I'll just have to run.
+
+468
+00:35:40,200 --> 00:35:43,956
+Speaker 0: I guess if there's a playoff game Sunday, you're not going if there is a playoff game Sunday.
+
+469
+00:35:44,117 --> 00:35:44,800
+Speaker 1: I am NOT going.
+
+470
+00:35:45,841 --> 00:35:46,324
+Speaker 0: That's a shame.
+
+471
+00:35:46,484 --> 00:35:47,851
+Speaker 1: Yeah, this is a shame Emily.
+
+472
+00:35:47,912 --> 00:35:52,838
+Speaker 1: I mean I will say right now Emily and I will it will not be difficult to find.
+
+473
+00:35:52,898 --> 00:35:56,069
+Speaker 1: so yeah We will go to any game that is available.
+
+474
+00:35:56,270 --> 00:35:59,259
+Speaker 1: if we are not like physically prevented from doing so.
+
+475
+00:36:01,578 --> 00:36:05,972
+Speaker 1: I Will even look to see if I could even get additional tickets potentially cuz.
+
+476
+00:36:06,614 --> 00:36:10,959
+Speaker 0: yeah, yeah, if you have money you can I'll pay you with what money.
+
+477
+00:36:14,043 --> 00:36:15,627
+Speaker 1: All right, let's just get right into the main bit.
+
+478
+00:36:15,708 --> 00:36:18,235
+Speaker 1: so we've this game appeared.
+
+479
+00:36:18,456 --> 00:36:21,891
+Speaker 1: we saw it first at Pax like a long time ago.
+
+480
+00:36:21,911 --> 00:36:30,228
+Speaker 0: I forget how many years ago I'm pretty sure it was like impacts West in like one of the little side rooms in the escalator area Yeah, and it was like or out in the hallway.
+
+481
+00:36:30,248 --> 00:36:33,780
+Speaker 0: I think in the escalator area, but basically all it was all by itself.
+
+482
+00:36:33,981 --> 00:36:41,755
+Speaker 0: it was either at the time brand new or It was new to the US because I think the game comes from your Denmark.
+
+483
+00:36:42,457 --> 00:36:42,718
+Speaker 0: Yes.
+
+484
+00:36:42,778 --> 00:36:43,460
+Speaker 0: It's a Dutch game.
+
+485
+00:36:43,621 --> 00:36:47,811
+Speaker 1: It's apparently a popular game in Denmark Mmm.
+
+486
+00:36:49,206 --> 00:36:53,928
+Speaker 1: But I'll admit when I first saw it for at least a couple of taxes I straight-up ignored it.
+
+487
+00:36:54,370 --> 00:37:02,220
+Speaker 1: cuz I I like air hockey I'm a huge fan of air hockey and I superficially looked at it and just thought that just looks like tiny air hockey.
+
+488
+00:37:02,421 --> 00:37:03,106
+Speaker 0: Oh, I didn't.
+
+489
+00:37:03,126 --> 00:37:03,892
+Speaker 0: I didn't ignore it.
+
+490
+00:37:03,973 --> 00:37:06,900
+Speaker 0: at the first time I saw it I sat down and demoed it and played it a bit.
+
+491
+00:37:06,980 --> 00:37:13,920
+Speaker 0: But and the only reason I never bought it was like I'm gonna I'm gonna carry this back on the plane with me really or where am I gonna put this?
+
+492
+00:37:14,140 --> 00:37:15,499
+Speaker 0: Am I really gonna play this thing?
+
+493
+00:37:15,903 --> 00:37:17,720
+Speaker 0: You know, all right, it's really cool.
+
+494
+00:37:17,860 --> 00:37:23,420
+Speaker 1: But what I remember is you mentioned that you played it and that it was actually good and I made a point.
+
+495
+00:37:23,583 --> 00:37:32,819
+Speaker 1: Oh, yeah, it was good Yeah, so the next time I was at a PAX I made a point of going over and actually playing it and that's when I learned What was good about it specifically which we'll talk about in a minute.
+
+496
+00:37:33,522 --> 00:37:35,972
+Speaker 1: But again, I had the same thoughts Scott did who.
+
+497
+00:37:36,032 --> 00:37:36,734
+Speaker 1: this is really fun.
+
+498
+00:37:36,915 --> 00:37:38,079
+Speaker 1: I could see myself playing this.
+
+499
+00:37:38,762 --> 00:37:40,470
+Speaker 1: I don't really want to put it in my suitcase.
+
+500
+00:37:40,490 --> 00:37:41,977
+Speaker 0: How often where?
+
+501
+00:37:41,997 --> 00:37:44,656
+Speaker 1: yeah So fast forward.
+
+502
+00:37:44,696 --> 00:37:57,427
+Speaker 1: further Every time I'm at a PAX from this point forward I'd play it a few times if like I was walking by with people and at the most recent pecs unplugged Emily and I and a bunch of our friends Sat or don't with the pecs West.
+
+503
+00:37:57,447 --> 00:37:57,868
+Speaker 1: we did this.
+
+504
+00:37:58,129 --> 00:38:11,160
+Speaker 1: we sat down on our own at the class area Because not the guy who invented class or like it owns the company But like the guy who as best we could tell runs the competitive scene in America for class.
+
+505
+00:38:11,823 --> 00:38:15,600
+Speaker 1: He was like running the table so he didn't just like let us play.
+
+506
+00:38:16,021 --> 00:38:22,400
+Speaker 1: He facilitated our play taught us techniques and just like hung out with us for about an hour and a half.
+
+507
+00:38:22,440 --> 00:38:24,600
+Speaker 1: Well, we all just played class over and over and over again.
+
+508
+00:38:26,021 --> 00:38:27,548
+Speaker 1: Emily is scarily good at class.
+
+509
+00:38:27,849 --> 00:38:32,808
+Speaker 1: She beats me reliably still but After that, I went from.
+
+510
+00:38:32,969 --> 00:38:35,640
+Speaker 1: I'd like to own this but I don't want to fly home with it, too.
+
+511
+00:38:36,182 --> 00:38:40,459
+Speaker 1: I really want to own this but I'm worried that it'll sit in my apartment and take up space
+
+512
+00:38:41,801 --> 00:38:42,423
+Speaker 0: Mm-hmm
+
+513
+00:38:42,443 --> 00:38:52,753
+Speaker 1: then but then coming into my lab was a couple hundred dollars worth of free money for millennium games and I saw class MSRP just sitting right there and I had a car.
+
+514
+00:38:53,174 --> 00:38:57,175
+Speaker 1: so I thought you know what fuck it And I got it and we played it a bunch already.
+
+515
+00:38:57,316 --> 00:38:58,020
+Speaker 1: I'm getting better.
+
+516
+00:38:58,040 --> 00:39:09,540
+Speaker 1: I've learned some things about it and I feel like Emily and I are Intentionally going to cause the air hockey problem for ourselves in this game the same way you and I did unintentionally for air hockey.
+
+517
+00:39:10,743 --> 00:39:12,494
+Speaker 0: Yeah, so the game of class.
+
+518
+00:39:12,574 --> 00:39:13,540
+Speaker 0: what is up with this game?
+
+519
+00:39:13,660 --> 00:39:26,469
+Speaker 0: So you have this little table and you actually put your hand underneath the table and in your hand you hold a magnet on a stick a Strong magnet like it's a pretty as busy man.
+
+520
+00:39:26,489 --> 00:39:27,192
+Speaker 0: It's pretty strong.
+
+521
+00:39:27,252 --> 00:39:29,020
+Speaker 0: It's not like neodymium, but it's pretty strong.
+
+522
+00:39:29,464 --> 00:39:29,767
+Speaker 0: It goes.
+
+523
+00:39:29,848 --> 00:39:42,176
+Speaker 0: it's strong enough to go through wood Yeah, and so on top of the table you have this sort of black pawn with a really tall hat And you attach your magnet to that and you can move it around.
+
+524
+00:39:42,577 --> 00:39:53,322
+Speaker 0: so it's like You know in air hockey or you know knock hockey It's sort of like your actual body has to go into the field your arm or at least and that sort of can interfere with The game.
+
+525
+00:39:53,342 --> 00:39:54,225
+Speaker 0: yeah, where's here?
+
+526
+00:39:54,365 --> 00:39:58,420
+Speaker 0: because you're controlling this sort of avatar like a little athlete guy.
+
+527
+00:39:58,881 --> 00:40:02,794
+Speaker 0: It's a little bit more like what's the one with the spinny soccer guys.
+
+528
+00:40:03,336 --> 00:40:04,440
+Speaker 1: Oh foosball foosball.
+
+529
+00:40:04,460 --> 00:40:05,712
+Speaker 0: It's a little bit more like foosball.
+
+530
+00:40:05,752 --> 00:40:10,894
+Speaker 0: where like or or What's it called a hockey with the studio with the sticks the bubble hockey?
+
+531
+00:40:11,335 --> 00:40:12,580
+Speaker 1: I've always just called that bubble hockey.
+
+532
+00:40:12,620 --> 00:40:12,902
+Speaker 1: I don't know.
+
+533
+00:40:12,943 --> 00:40:14,010
+Speaker 1: What is if slot hockey?
+
+534
+00:40:14,051 --> 00:40:14,736
+Speaker 1: I don't know what to do.
+
+535
+00:40:15,360 --> 00:40:24,666
+Speaker 0: Yeah, but it's a little bit more like that where you're sort of like remote controlling this guy You're and you're not interfering in any way And so you move this.
+
+536
+00:40:24,827 --> 00:40:28,460
+Speaker 0: that's all you can do to play the game is move your hand with this magnet.
+
+537
+00:40:28,560 --> 00:40:31,494
+Speaker 0: You can't interfere with it in any other way.
+
+538
+00:40:31,634 --> 00:40:32,820
+Speaker 0: It's all down allowed, right?
+
+539
+00:40:33,282 --> 00:40:35,069
+Speaker 0: And seems like it is called bubble hockey.
+
+540
+00:40:35,230 --> 00:40:38,322
+Speaker 1: slot hockey is not a common name for it All right.
+
+541
+00:40:38,342 --> 00:40:43,920
+Speaker 0: So in the playing field you have these basically a circular indentation, right?
+
+542
+00:40:44,141 --> 00:40:46,192
+Speaker 0: It's sort of like a almost like a golf hole.
+
+543
+00:40:46,353 --> 00:40:53,259
+Speaker 0: Yeah, it's not very shallow and there's a ball and If that ball the ball is not magnetic in any way.
+
+544
+00:40:53,761 --> 00:40:59,040
+Speaker 0: So it's just a plastic ball and you can knock that ball around using your little guy.
+
+545
+00:40:59,381 --> 00:41:09,147
+Speaker 0: Alright, so if you you move your guy quickly and he hits the ball You can hit the right and if you get the ball into the other person's indentation It's a lot like the indentation on a crocodile.
+
+546
+00:41:09,247 --> 00:41:12,177
+Speaker 0: Yeah, and then you get a point for doing that.
+
+547
+00:41:12,277 --> 00:41:16,845
+Speaker 0: And so you're playing basically a hockey game and Underneath the table.
+
+548
+00:41:17,186 --> 00:41:25,960
+Speaker 0: You don't even a rule for this because underneath the table there is a wooden barrier So you physically cannot get your guy past the halfway line?
+
+549
+00:41:26,121 --> 00:41:27,045
+Speaker 0: Your hand can't.
+
+550
+00:41:27,286 --> 00:41:28,813
+Speaker 0: your hand can't get through it.
+
+551
+00:41:28,833 --> 00:41:29,898
+Speaker 0: there's no way to get over there.
+
+552
+00:41:31,103 --> 00:41:35,280
+Speaker 1: Now before we even get into the other rules that alone is pretty air hockey adjacent.
+
+553
+00:41:35,461 --> 00:41:41,989
+Speaker 1: But even if there were no other rules this introduces Significant gameplay consequences that might not be obvious.
+
+554
+00:41:42,029 --> 00:41:45,459
+Speaker 1: So number one games like air hockey where your hands right in there.
+
+555
+00:41:46,202 --> 00:41:52,460
+Speaker 1: This also means your raw strength and power are directly applied to the game with no limits.
+
+556
+00:41:52,841 --> 00:42:02,480
+Speaker 1: So in air hockey one that can lead to injury like I've hurt myself pretty badly playing air hockey before But two it means if you're really strong or hyper-aggressive.
+
+557
+00:42:03,062 --> 00:42:09,268
+Speaker 1: That can be a dominant strategy against someone who isn't super strong or isn't hyper-aggressive With the magnet system.
+
+558
+00:42:09,369 --> 00:42:18,925
+Speaker 1: in a game like this if you try to be hyper-aggressive your magnet will disconnect itself with your violence from your little guy and You kind of screw yourself.
+
+559
+00:42:19,327 --> 00:42:22,480
+Speaker 0: or also the playing field is so small, right?
+
+560
+00:42:22,540 --> 00:42:24,410
+Speaker 0: It's not like a big air hockey table.
+
+561
+00:42:24,450 --> 00:42:25,557
+Speaker 0: We're like the power has.
+
+562
+00:42:25,597 --> 00:42:30,940
+Speaker 1: yeah when I do a It's like I'm swinging a sword as hard as I can with my whole body.
+
+563
+00:42:30,980 --> 00:42:33,147
+Speaker 0: I like what's the size of a class table?
+
+564
+00:42:33,188 --> 00:42:35,315
+Speaker 0: like a foot a little over a foot long.
+
+565
+00:42:35,716 --> 00:42:36,057
+Speaker 0: It's not.
+
+566
+00:42:36,238 --> 00:42:36,840
+Speaker 0: it's not that big.
+
+567
+00:42:36,961 --> 00:42:38,373
+Speaker 0: Yeah, less than two feet.
+
+568
+00:42:38,474 --> 00:42:41,940
+Speaker 0: I want to say And it's not very wide either.
+
+569
+00:42:41,960 --> 00:42:43,487
+Speaker 0: Maybe it's a foot wide by like.
+
+570
+00:42:43,507 --> 00:42:47,382
+Speaker 0: maybe it's a legal piece of paper a little bit bigger than that bigger than that Small like.
+
+571
+00:42:47,442 --> 00:42:48,787
+Speaker 1: it fits in.
+
+572
+00:42:48,927 --> 00:42:49,248
+Speaker 1: it fits.
+
+573
+00:42:49,328 --> 00:42:49,850
+Speaker 1: It's about this.
+
+574
+00:42:50,030 --> 00:42:52,839
+Speaker 1: It's smaller than our HDPC and it just fits next to it.
+
+575
+00:42:53,521 --> 00:42:54,143
+Speaker 0: Yeah, it's.
+
+576
+00:42:54,263 --> 00:42:55,146
+Speaker 0: it's not large.
+
+577
+00:42:55,286 --> 00:42:57,874
+Speaker 0: So you don't really have space to use that power.
+
+578
+00:42:58,275 --> 00:43:00,805
+Speaker 0: and even if you had more power How would it help you right?
+
+579
+00:43:00,825 --> 00:43:04,060
+Speaker 0: It's like the flick of a wrist is about max power in class.
+
+580
+00:43:04,141 --> 00:43:05,350
+Speaker 0: You don't need more than that.
+
+581
+00:43:05,693 --> 00:43:06,560
+Speaker 0: It would make no sense.
+
+582
+00:43:07,503 --> 00:43:11,407
+Speaker 1: It's an indentation Instead of a goal in air hockey.
+
+583
+00:43:11,688 --> 00:43:14,177
+Speaker 1: if you hit the goal it goes in no matter how fast it's going here.
+
+584
+00:43:14,519 --> 00:43:18,611
+Speaker 1: if you hit Superfast it's gonna bounce right out of that little hole and you don't score anything.
+
+585
+00:43:19,374 --> 00:43:19,554
+Speaker 0: Yep.
+
+586
+00:43:19,976 --> 00:43:20,357
+Speaker 1: That's true.
+
+587
+00:43:20,518 --> 00:43:21,080
+Speaker 1: So it's about it.
+
+588
+00:43:21,241 --> 00:43:24,784
+Speaker 1: I think it's about precision And already.
+
+589
+00:43:24,824 --> 00:43:27,736
+Speaker 1: so this is significant good gameplay.
+
+590
+00:43:27,776 --> 00:43:28,579
+Speaker 1: just from those rules.
+
+591
+00:43:28,620 --> 00:43:37,640
+Speaker 0: now There are additional significantly different from other games like it Yeah, and you're basically just play really simple like pong rules like first to six, right and that's that's it.
+
+592
+00:43:37,820 --> 00:43:39,278
+Speaker 0: So that's already a fun game.
+
+593
+00:43:39,781 --> 00:43:44,393
+Speaker 0: But then class goes to the next level and add something extra.
+
+594
+00:43:45,395 --> 00:43:53,680
+Speaker 0: in the middle of the field are These three evenly spaced white little knobbly's and those knobbly's have magnets in them.
+
+595
+00:43:53,800 --> 00:44:02,833
+Speaker 1: Well that but very importantly they have magnets on one side They start facing up on the top and the other side does not have a magnet.
+
+596
+00:44:02,853 --> 00:44:04,036
+Speaker 1: So they're asymmetrical.
+
+597
+00:44:04,076 --> 00:44:07,851
+Speaker 0: That is very important Yep, and so what's up with these?
+
+598
+00:44:07,951 --> 00:44:09,900
+Speaker 0: well, obviously they're obstacles.
+
+599
+00:44:10,081 --> 00:44:13,880
+Speaker 0: They can sort of get in the way of the ball and also get in the way of your guy.
+
+600
+00:44:14,101 --> 00:44:15,307
+Speaker 0: Yeah, right cuz they're.
+
+601
+00:44:15,508 --> 00:44:17,800
+Speaker 0: it's like you try to hit the ball straight at their goal.
+
+602
+00:44:18,101 --> 00:44:22,399
+Speaker 0: If you hit it right down the middle, well, one of the things starts in the middle, so that's not gonna work, right?
+
+603
+00:44:23,520 --> 00:44:35,635
+Speaker 0: but - There is a special rule which is that if two of those little magnet guys become attached to your guy Right you lose a point.
+
+604
+00:44:35,695 --> 00:44:38,500
+Speaker 0: the ball doesn't matter It's an alternate victory condition.
+
+605
+00:44:38,600 --> 00:44:47,652
+Speaker 0: If two out of three of those are stuck to you because remember you're holding a magnet your do your player is magnetic And if you get close to these things they start.
+
+606
+00:44:47,692 --> 00:44:54,956
+Speaker 1: you can see them like quivering in anticipation And then if you get a little closer, they will fly at your guy and stick to him so fast.
+
+607
+00:44:54,977 --> 00:44:55,819
+Speaker 1: You can't react to it.
+
+608
+00:44:56,642 --> 00:44:58,470
+Speaker 0: Yeah, I mean it's the speed of magnets.
+
+609
+00:44:58,510 --> 00:45:00,257
+Speaker 0: It's faster than the speed of human muscles.
+
+610
+00:45:00,618 --> 00:45:04,860
+Speaker 0: So Yeah, if two of them get stuck to you you're in trouble.
+
+611
+00:45:05,061 --> 00:45:23,180
+Speaker 0: So if you can send them into the other players play area away from their starting position The other players movement will become very restricted Like let's say you get them all on like the left side of the other players field and then you try to bounce the ball Off over into that area and try to bank it into the goal.
+
+612
+00:45:23,702 --> 00:45:25,187
+Speaker 0: How are they gonna go to defend?
+
+613
+00:45:25,548 --> 00:45:29,744
+Speaker 0: if they try to go to defend maybe they'll stop the ball from going in the goal Maybe they won't.
+
+614
+00:45:29,985 --> 00:45:33,319
+Speaker 0: but if two of those things get stuck to them, that's the same as scoring a goal.
+
+615
+00:45:33,640 --> 00:45:35,285
+Speaker 0: Yeah, so, what do you care right?
+
+616
+00:45:35,326 --> 00:45:40,040
+Speaker 0: You could put people in tough situations if you can knock those things to their side of the field.
+
+617
+00:45:41,501 --> 00:45:45,719
+Speaker 0: Let's say the other player is trying to play the ball right and they build up a shot.
+
+618
+00:45:46,322 --> 00:45:50,300
+Speaker 0: Just you know, meanwhile, these three things are sitting in the middle of the field just sitting there.
+
+619
+00:45:51,942 --> 00:46:22,679
+Speaker 0: the experts showed me that there is a technique where if you Quickly approach and then back away from these things in a certain way Due to magnetic fields being polarized you can actually get near them and hit them Right with enough, you know speed and back up so that the force with which you hit them Overpowers the initial magnetic attraction and you can actually send them and hit them at your opponent with some skill and technique.
+
+620
+00:46:22,719 --> 00:46:23,260
+Speaker 0: if you practice.
+
+621
+00:46:23,601 --> 00:46:33,059
+Speaker 1: I learned even more advanced technique from the guy that we couldn't execute but now having the game at home I can almost execute it where you don't even have to touch it.
+
+622
+00:46:33,782 --> 00:46:45,620
+Speaker 1: if you if it's sitting somewhere magnet up and you go laterally across it as At a certain speed then it will move towards you and it's like you shot it like a gun.
+
+623
+00:46:46,242 --> 00:46:50,700
+Speaker 1: So if it's in your zone, you can use that to shoot it at the other side.
+
+624
+00:46:51,221 --> 00:46:55,634
+Speaker 1: But that only applies if the little magnet remember said they're asymmetrical is face up.
+
+625
+00:46:56,336 --> 00:47:01,940
+Speaker 1: if the magnets face down They behave differently and they're kind of repulsed at first and you have to use a different technique.
+
+626
+00:47:02,281 --> 00:47:07,800
+Speaker 1: So there is a I guess this is a long way of saying there is an extreme and if they're on edge they roll around.
+
+627
+00:47:07,940 --> 00:47:18,360
+Speaker 1: yeah, so there is a very like surprisingly high skill cap of Advanced techniques around this game because of all these combinations of factors, right?
+
+628
+00:47:18,420 --> 00:47:20,107
+Speaker 0: So the ball is really easy right.
+
+629
+00:47:20,168 --> 00:47:25,500
+Speaker 0: anyone understands that because it's not magnetic you just sort of hit it Right, and that's it just obeys the laws of physics.
+
+630
+00:47:25,661 --> 00:47:29,072
+Speaker 0: But I guess the magnets also obey the laws of physics but different.
+
+631
+00:47:29,153 --> 00:47:29,333
+Speaker 0: right.
+
+632
+00:47:29,353 --> 00:47:33,078
+Speaker 0: the magnetic law is not the kinetic laws also the kinetic laws.
+
+633
+00:47:34,362 --> 00:47:41,419
+Speaker 0: And so if you're like sitting there like trying to line up a shot You're giving the other player a lot of times a mess with those things like send them at you.
+
+634
+00:47:41,721 --> 00:47:46,640
+Speaker 0: Right if they're skilled enough to use those techniques to send them at it's like a risk/reward, right?
+
+635
+00:47:46,660 --> 00:47:53,399
+Speaker 0: It's like you got to go near those things to be able to attack with them Which puts you at risk of getting them stuck to yourself?
+
+636
+00:47:54,120 --> 00:48:03,556
+Speaker 0: Oh, but if you're good if you're good at it the risk significantly reduces and yeah You can reliably just shoot them at the opponent the super good guy that we played with he.
+
+637
+00:48:04,178 --> 00:48:12,748
+Speaker 1: at one point He was like, alright, let's sit down I'm gonna show I'm gonna show you the full extent of my power and he was just like Directing them around like he was psychic.
+
+638
+00:48:12,828 --> 00:48:14,313
+Speaker 1: It was amazing to behold.
+
+639
+00:48:14,333 --> 00:48:14,734
+Speaker 1: Yep.
+
+640
+00:48:15,175 --> 00:48:16,620
+Speaker 0: And so this is perfect.
+
+641
+00:48:16,861 --> 00:48:22,200
+Speaker 0: Right, because if you think about it, there's a lot of games out there that have multiple victory conditions.
+
+642
+00:48:23,202 --> 00:48:26,035
+Speaker 0: You know, I think about magic the gathering.
+
+643
+00:48:26,075 --> 00:48:29,719
+Speaker 0: you can do 20 damage You can deck someone or you can poison someone.
+
+644
+00:48:30,821 --> 00:48:36,120
+Speaker 1: My whole life was dedicated in childhood - I don't know if that's still in the game or not.
+
+645
+00:48:37,185 --> 00:48:38,299
+Speaker 1: Magic as far as I'm aware.
+
+646
+00:48:39,002 --> 00:48:50,211
+Speaker 0: Okay, and some versions of magic the gathering this poison and there might be some other magic Boys was introduced in Way early like regardless, right?
+
+647
+00:48:50,231 --> 00:48:52,540
+Speaker 0: There's at least two victory conditions, right?
+
+648
+00:48:52,560 --> 00:49:03,220
+Speaker 0: you don't you can go for I but when you're in a game like Anyway, when you're when you're in a game like that, that is multiple victory conditions You sort of have to pick one and go all in on it.
+
+649
+00:49:03,284 --> 00:49:07,607
+Speaker 1: Yeah Think about a German style like euro point salad game You're picking one.
+
+650
+00:49:07,647 --> 00:49:08,412
+Speaker 1: if you pick more than one.
+
+651
+00:49:08,432 --> 00:49:09,780
+Speaker 1: that is literally how you lose, right?
+
+652
+00:49:10,041 --> 00:49:20,589
+Speaker 0: If you try to spread the wealth and go for both victory conditions at the same time You're dedicating not enough resources to either one And so neither ends up getting completed.
+
+653
+00:49:20,709 --> 00:49:29,119
+Speaker 0: someone else who dedicates their life solely to one victory condition Will achieve it and therefore win while you're still halfway to two different conditions.
+
+654
+00:49:29,139 --> 00:49:42,360
+Speaker 0: in Claske it's real time and it's sporty All right and so the victory condition of get the ball into the hole and the Victory condition of get two of these things attached to your opponent are happening simultaneously.
+
+655
+00:49:43,641 --> 00:49:55,940
+Speaker 0: And so if the ball is on the other opponent's side you can work on You know getting magnets over to their side and if the ball is over on your side You can try to score a goal with it while they're maybe working their magnets.
+
+656
+00:49:56,667 --> 00:49:57,900
+Speaker 1: I have tried to do it.
+
+657
+00:49:58,080 --> 00:50:01,251
+Speaker 0: If you're really skilled you can probably do all of those things all at once.
+
+658
+00:50:01,331 --> 00:50:12,820
+Speaker 1: so you're trying to go for all the victory conditions Simultaneously at all times and it ends up just being Effectively unlimited fun like I could see this not having a cap on my interest.
+
+659
+00:50:13,542 --> 00:50:32,979
+Speaker 0: Yeah, the key is not just that this, you know deep strategic depth to having two victory conditions and having to sort of juggle simultaneous offense and defense at all times But that it's fun for all players at all times because you are always doing something.
+
+660
+00:50:33,059 --> 00:50:42,186
+Speaker 0: and you know In air hockey, it's like yes, sometimes you have the puck and sometimes you don't right and when you don't you're just sort of Standing there waiting to defend.
+
+661
+00:50:42,548 --> 00:50:44,696
+Speaker 0: Yes, or like even in ping-pong.
+
+662
+00:50:44,776 --> 00:50:45,720
+Speaker 0: It's like more tennis.
+
+663
+00:50:45,820 --> 00:50:53,239
+Speaker 0: It's like you hit the ball and like yeah, you're looking where it's going It's gonna come back set up your position, but that's all you can set up.
+
+664
+00:50:53,683 --> 00:50:55,859
+Speaker 0: It's gonna come back to you pretty soon.
+
+665
+00:50:56,261 --> 00:51:01,478
+Speaker 0: But that's still a very few seconds of like this downtime where you're thinking or whatever.
+
+666
+00:51:01,538 --> 00:51:04,831
+Speaker 0: right in Claske there is zero downtime.
+
+667
+00:51:04,871 --> 00:51:05,193
+Speaker 0: you are.
+
+668
+00:51:05,474 --> 00:51:09,065
+Speaker 0: if you want to be good at it at least Downtime is just hurting you.
+
+669
+00:51:09,085 --> 00:51:17,533
+Speaker 0: there is like if you're not actively working the ball or the stones or both You're just falling behind position advanced.
+
+670
+00:51:17,594 --> 00:51:19,200
+Speaker 1: Yes, it like overwatch is a good example.
+
+671
+00:51:19,661 --> 00:51:24,640
+Speaker 1: APM if you're not constantly doing something, you're just a waste of space on your team, right?
+
+672
+00:51:25,141 --> 00:51:30,818
+Speaker 0: And so there really isn't you know another game that's like kind of like that with the with the.
+
+673
+00:51:31,018 --> 00:51:44,100
+Speaker 0: you know Constant action table sport doesn't actually require, you know big physical You know that it's all fingers wrist, you know and a little bit of arm action.
+
+674
+00:51:44,581 --> 00:51:59,251
+Speaker 1: But that's also what I think is the magic here that this game is not that big like it does not take up any space In our apartment, it's small and having bought one now instead of just using the ones that are out at a PAX It's super well constructed like it's the.
+
+675
+00:51:59,411 --> 00:52:01,738
+Speaker 1: this is not ginsi it's very late.
+
+676
+00:52:01,758 --> 00:52:03,745
+Speaker 1: if it's not level They make all it's not.
+
+677
+00:52:03,765 --> 00:52:05,453
+Speaker 0: you should make sure you buy.
+
+678
+00:52:05,473 --> 00:52:07,722
+Speaker 0: there might be bootleg clasks I don't know.
+
+679
+00:52:08,224 --> 00:52:12,860
+Speaker 0: make sure you buy a legitimate one because the construction of it is extremely important.
+
+680
+00:52:12,940 --> 00:52:14,827
+Speaker 0: It's made out of like a really solid wood.
+
+681
+00:52:14,847 --> 00:52:18,380
+Speaker 0: Yeah, you know, the pieces are very specific.
+
+682
+00:52:18,520 --> 00:52:26,491
+Speaker 0: so if you play with like some bootleg one like the weights could be off the magnetic strength could be off the size of the And the weight of the ball might be off right?
+
+683
+00:52:26,552 --> 00:52:29,902
+Speaker 0: You need to get a legit class Right.
+
+684
+00:52:30,203 --> 00:52:35,220
+Speaker 0: It's not like, you know a basketball where it's like, yeah, you don't actually need an NBA basketball.
+
+685
+00:52:35,280 --> 00:52:41,516
+Speaker 0: You'll be fine with a college basketball or a high school basketball But also like tumbling dice, which is not actually that good a game.
+
+686
+00:52:41,556 --> 00:52:42,139
+Speaker 1: We just like it.
+
+687
+00:52:42,541 --> 00:52:45,559
+Speaker 1: That's like the re-release of that is like a hundred bucks MSRP.
+
+688
+00:52:46,621 --> 00:52:51,421
+Speaker 1: Lots of physical games are very expensive for a lot of classic is 60 bucks Like.
+
+689
+00:52:51,562 --> 00:52:56,442
+Speaker 1: I've paid more for games that were just cardboard Yep.
+
+690
+00:52:56,843 --> 00:53:04,464
+Speaker 0: Now the other thing right is that not only is there class but some years ago they came out with Class for player.
+
+691
+00:53:04,484 --> 00:53:07,210
+Speaker 1: Yeah, I actually tried class for player.
+
+692
+00:53:07,231 --> 00:53:16,782
+Speaker 0: It is a circular arena instead of a rectangle And it has I think five of the Obstacle.
+
+693
+00:53:16,942 --> 00:53:29,719
+Speaker 1: there's five shaped like the D the five face of a d6 and the players are in a circle Opposing each other and everyone has their own goal, but they think there's still only one ball right only one ball.
+
+694
+00:53:30,382 --> 00:53:35,240
+Speaker 0: Yeah, so you I guess in that game if the ball goes in your hole, that's bad.
+
+695
+00:53:36,141 --> 00:53:39,840
+Speaker 0: I don't know the rules of like if a ball goes in your hole, but then oh, here we go.
+
+696
+00:53:40,822 --> 00:53:42,770
+Speaker 1: Everyone starts with five lives.
+
+697
+00:53:43,151 --> 00:53:46,645
+Speaker 1: the game is when one player reaches zero I see.
+
+698
+00:53:46,665 --> 00:53:47,929
+Speaker 0: so you could just die.
+
+699
+00:53:48,049 --> 00:53:49,273
+Speaker 0: and whenever anyone dies.
+
+700
+00:53:49,313 --> 00:53:51,220
+Speaker 0: Do you stop playing and sort of reset the board?
+
+701
+00:53:51,420 --> 00:53:53,300
+Speaker 1: Yep, looks like whoever died kicks off.
+
+702
+00:53:54,041 --> 00:53:54,542
+Speaker 0: What are you?
+
+703
+00:53:54,562 --> 00:53:55,024
+Speaker 0: what if like?
+
+704
+00:53:55,084 --> 00:54:02,050
+Speaker 0: what if the ball goes in your hole and a second magnet grabs on to me and it's somewhat Simultaneous and we don't have video.
+
+705
+00:54:02,110 --> 00:54:04,040
+Speaker 1: the rules from regular class.
+
+706
+00:54:04,562 --> 00:54:17,519
+Speaker 1: But what I saw in that section forgive me if I mischaracterize it because I'm just quoting from memory It said effectively if two actions that would cause a point to be scored occurs simultaneously Or undifferentiated bull redo it.
+
+707
+00:54:18,451 --> 00:54:21,040
+Speaker 0: Okay So it's okay to let it in your thing.
+
+708
+00:54:21,140 --> 00:54:27,619
+Speaker 0: If you're you know, if someone else dies at the same time as long as it is truly simultaneous I feel like it's a call on the table.
+
+709
+00:54:28,462 --> 00:54:30,440
+Speaker 0: Yeah, I would think so like in a pro tournament.
+
+710
+00:54:30,681 --> 00:54:35,040
+Speaker 0: Obviously, you're gonna have a they're gonna have video replay in a pro tournament and it's gonna be resolved, right?
+
+711
+00:54:35,120 --> 00:54:41,067
+Speaker 0: There are I would suggest if you go on YouTube or the internet and look for class pro play There's plenty of it to watch.
+
+712
+00:54:41,168 --> 00:54:43,680
+Speaker 0: right this game has grown and gotten serious.
+
+713
+00:54:43,821 --> 00:54:46,959
+Speaker 0: Like there are people who are like really playing this for real.
+
+714
+00:54:47,281 --> 00:54:55,279
+Speaker 1: That's kind of why why we got it to play it and get good at it because as much as I love air hockey When I go to PAX, there ain't gonna be an air hockey table there.
+
+715
+00:54:55,440 --> 00:55:01,160
+Speaker 0: Like I don't know if the four player class has too much serious competitive play because it can get political.
+
+716
+00:55:01,643 --> 00:55:10,419
+Speaker 0: But the two player class has like serious Tournaments that happen you can I think you can even win some prizes maybe if you become the best at class in the world.
+
+717
+00:55:11,301 --> 00:55:15,240
+Speaker 1: Can't be that big but but that's kind of why I got it at home much like having DDR at home.
+
+718
+00:55:15,301 --> 00:55:18,583
+Speaker 1: There's also DDR machine At least there used to be in the wild Class.
+
+719
+00:55:18,603 --> 00:55:26,885
+Speaker 1: get home means if I go to a PAX and there's a class I could join the tournament or play against someone who's really Good, there's a higher chance of that Than air hockey.
+
+720
+00:55:27,930 --> 00:55:37,179
+Speaker 0: I would also recommend if you buy a class Alright that they do sell a spare parts package that has extra balls magnets.
+
+721
+00:55:37,299 --> 00:55:43,400
+Speaker 0: Yes You're gonna want to buy just probably at least one of those because you're gonna lose a magnet.
+
+722
+00:55:43,761 --> 00:55:45,487
+Speaker 0: Yes, you're good at something's gonna happen.
+
+723
+00:55:45,507 --> 00:55:51,950
+Speaker 1: You know a piece will get worn out as a ball game does come with Two extra of the little biscuits.
+
+724
+00:55:52,091 --> 00:55:52,332
+Speaker 1: They're good.
+
+725
+00:55:52,352 --> 00:55:54,160
+Speaker 1: That's what they're called two balls.
+
+726
+00:55:55,443 --> 00:55:58,159
+Speaker 1: So yeah, you have an extra an extra ball and an extra biscuit.
+
+727
+00:55:58,761 --> 00:56:05,360
+Speaker 0: But if you're really gonna if you don't play class enough to burn through those spare parts and need more.
+
+728
+00:56:05,682 --> 00:56:14,563
+Speaker 1: You didn't play the class enough to be worth by Unless you live in a tiny New York apartment where it's kind of impossible to lose a biscuit because there's not that many square feet It could go into.
+
+729
+00:56:14,583 --> 00:56:18,400
+Speaker 1: I guess it wasn't like rolls under the molding into the wall, then it's gone forever.
+
+730
+00:56:19,146 --> 00:56:20,113
+Speaker 0: I suppose you get.
+
+731
+00:56:20,133 --> 00:56:37,540
+Speaker 0: the other thing is another good thing to have if you're playing class is an Extending magnet stick because if you drop pieces onto the ground other than the ball you can retrieve biscuits and things from From underneath the table with your extending magnet stick.
+
+732
+00:56:37,982 --> 00:56:39,951
+Speaker 0: That's a good idea and that can help you stay.
+
+733
+00:56:39,991 --> 00:56:41,900
+Speaker 0: that can help you stay seated while playing class.
+
+734
+00:56:42,281 --> 00:56:50,469
+Speaker 0: The other thing is that even if you don't permanently lose any of your pieces and need replacements Just having spare class parts next to you.
+
+735
+00:56:50,490 --> 00:56:54,160
+Speaker 0: It's like let's say you're playing a class and a biscuit goes flying into the kitchen.
+
+736
+00:56:54,709 --> 00:57:00,333
+Speaker 0: It's like alright You just grab a spare biscuit and you keep playing and you go later Collecting all the ones that went fly.
+
+737
+00:57:00,353 --> 00:57:03,912
+Speaker 1: like when you play ping-pong Usually unless you're playing in a super serious tournament.
+
+738
+00:57:04,334 --> 00:57:05,057
+Speaker 1: You're holding.
+
+739
+00:57:05,077 --> 00:57:11,379
+Speaker 1: if you're right-handed You're holding two or three extra balls just in your left hand So you can just serve right away and not have to wait to pick up all the balls every point.
+
+740
+00:57:11,981 --> 00:57:19,980
+Speaker 0: Yeah, if you're playing tennis this ball people around the edges of the court, right who grab and toss new balls to you And you know, yeah, you even keep some in your pocket anyway.
+
+741
+00:57:20,141 --> 00:57:27,399
+Speaker 1: But when I was playing one-on-one tennis like with my brother when we were kids a lot of times We both just be holding the ball in our off hand just to be able to quickly get back to play.
+
+742
+00:57:29,023 --> 00:57:33,590
+Speaker 0: Yep, so that's a. that's a good reason to buy a few extra class bits If you're going hard on the class.
+
+743
+00:57:33,670 --> 00:57:44,409
+Speaker 1: the last thing if you're going hard on the class I got to recommend you get is get a small pack of shims like furniture shims Just so that whatever tip whatever surface you put class gone You can level it appropriately.
+
+744
+00:57:44,469 --> 00:57:45,875
+Speaker 0: because the game I thought it came with it.
+
+745
+00:57:45,956 --> 00:57:46,880
+Speaker 0: I thought it came with a couple.
+
+746
+00:57:46,961 --> 00:57:48,273
+Speaker 1: It didn't come with any shims.
+
+747
+00:57:48,676 --> 00:57:49,060
+Speaker 1: it did go.
+
+748
+00:57:49,100 --> 00:57:53,576
+Speaker 1: Well, it comes with the rule book and the guy said oh, yeah, just use the rule book as a shim.
+
+749
+00:57:53,696 --> 00:57:54,258
+Speaker 1: Usually that'll.
+
+750
+00:57:54,419 --> 00:57:54,479
+Speaker 1: ah.
+
+751
+00:57:55,382 --> 00:57:58,429
+Speaker 0: But yeah the class you if you buy it a legit class.
+
+752
+00:57:58,489 --> 00:58:03,562
+Speaker 0: all the ones that I've seen have been very well leveled and Constructed.
+
+753
+00:58:03,923 --> 00:58:09,919
+Speaker 0: so if your table is level and smooth and your the building you're in is level and smooth and etc.
+
+754
+00:58:10,662 --> 00:58:15,580
+Speaker 0: You shouldn't need any kind of shimmage going on, but that is obviously not the case.
+
+755
+00:58:15,620 --> 00:58:17,126
+Speaker 0: You might bring your class somewhere.
+
+756
+00:58:17,427 --> 00:58:18,872
+Speaker 0: You might have a med table.
+
+757
+00:58:19,233 --> 00:58:20,538
+Speaker 0: who knows there might be an earthquake.
+
+758
+00:58:20,658 --> 00:58:20,980
+Speaker 0: I don't know.
+
+759
+00:58:22,575 --> 00:58:34,140
+Speaker 0: and Yeah, you're gonna want to somehow have some mechanism to level the class even by a really tiny little level Right and so that way you can check to make sure the class is flat when you set it up.
+
+760
+00:58:35,583 --> 00:58:37,340
+Speaker 1: Yeah, I don't think they've never used this in the omega.
+
+761
+00:58:37,461 --> 00:58:40,074
+Speaker 1: I feel like this would be a really good omega thon finale at some point.
+
+762
+00:58:40,134 --> 00:58:41,280
+Speaker 0: really it's never been omega.
+
+763
+00:58:41,300 --> 00:58:42,186
+Speaker 1: I don't think it has been.
+
+764
+00:58:42,206 --> 00:58:43,193
+Speaker 1: if it has I didn't see it.
+
+765
+00:58:43,878 --> 00:58:48,360
+Speaker 1: a listener Just asked and I my gut reaction was no because I feel like I remember every omega.
+
+766
+00:58:48,421 --> 00:58:50,339
+Speaker 0: It's been around like a long time.
+
+767
+00:58:50,742 --> 00:58:58,335
+Speaker 0: But I think it's worth talking about now not just because you bought it recently finally But because I've seen it gaining steam over the years.
+
+768
+00:58:58,415 --> 00:59:12,238
+Speaker 0: It's only gotten bigger Yeah Which is kind of surprising right that like you think that like this cute little game would be like sort of this novelty right rather than like a long-lasting thing and a scene built up around it and is is growing.
+
+769
+00:59:12,599 --> 00:59:20,123
+Speaker 0: so You know now it is like peak class, you know, even though it's at least Search is like getting.
+
+770
+00:59:20,504 --> 00:59:26,484
+Speaker 1: so I search for like just class omegathon final and Without saying.
+
+771
+00:59:26,624 --> 00:59:28,211
+Speaker 1: Oh, well class didn't appear in the search.
+
+772
+00:59:28,291 --> 00:59:29,094
+Speaker 1: it returned a video.
+
+773
+00:59:29,134 --> 00:59:30,500
+Speaker 1: That is the video of Black Emperor.
+
+774
+00:59:30,681 --> 00:59:31,162
+Speaker 1: Oh, thank you.
+
+775
+00:59:31,202 --> 00:59:33,369
+Speaker 0: Laska's class kiss from 2014.
+
+776
+00:59:33,369 --> 00:59:34,393
+Speaker 0: And so it's ten years old.
+
+777
+00:59:34,453 --> 00:59:36,680
+Speaker 0: another great reason to talk about class.
+
+778
+00:59:36,961 --> 00:59:38,648
+Speaker 0: Oh ten year anniversary of class.
+
+779
+00:59:39,150 --> 00:59:42,631
+Speaker 1: Yeah, so if any of you are out of packs and there's the class I'll play with you cuz.
+
+780
+00:59:42,994 --> 00:59:47,840
+Speaker 1: uh I want to show off that I'm gonna be slightly better than the average class care because I own it.
+
+781
+00:59:48,802 --> 00:59:54,355
+Speaker 1: Yep, this has been geek nights with rim and Scott special.
+
+782
+00:59:54,395 --> 00:59:56,540
+Speaker 1: Thanks to DJ pretzel for the opening theme.
+
+783
+00:59:56,720 --> 00:59:59,048
+Speaker 0: Be sure to visit our website at front row.
+
+784
+00:59:59,088 --> 01:00:02,740
+Speaker 0: clue calm for show notes discussion links and more.
+
+785
+01:00:03,221 --> 01:00:06,575
+Speaker 1: Remember geek nights is not one but four different shows Mondays.
+
+786
+01:00:06,655 --> 01:00:08,402
+Speaker 1: or science and technology Tuesdays.
+
+787
+01:00:08,522 --> 01:00:10,227
+Speaker 1: gaming and games Wednesdays.
+
+788
+01:00:10,267 --> 01:00:14,419
+Speaker 1: or animation and comics Thursdays are arbitrary and indiscriminate.
+
+789
+01:00:15,101 --> 01:00:20,024
+Speaker 1: Ignites is distributed under a Creative Commons attribution 4.0 International license.
+
+790
+01:00:20,426 --> 01:00:24,740
+Speaker 0: geek nights is recorded live with no studio and no audience.
+
+791
+01:00:25,261 --> 01:00:28,791
+Speaker 0: But unlike those other late shows it's actually recorded at night
+
+792
+01:00:29,352 --> 01:00:44,760
+Speaker 1: and the patreon patrons for this episode of geek nights are Alan Joyce, Link Iggi dread Lily Tenebrae case Karen makes music Krista Dodd Christopher Clinton Walton Finn Joel Hayes penny rhymer Rebecca Dunn Sam Erickson Trevor Von Erl in many people whose names I will not say at their request.
+
+793
+01:00:45,423 --> 01:00:46,590
+Speaker 1: Yeah, no show on Thursday.
+
+794
+01:00:46,972 --> 01:00:48,460
+Speaker 1: We'll see if the Red Wings win tonight.
+
+795
+01:00:49,022 --> 01:00:51,107
+Speaker 1: I'm gonna look at the score as soon as I turn off this recording.
+
+796
+01:00:51,208 --> 01:00:57,018
+Speaker 1: So for now tonight, I just leave you with oh boy free trading cards.
+
+797
+01:00:57,608 --> 01:01:08,702
+Speaker 1: Wow Joseph of Arimathea 26 conversions in AD 46.
+
+798
+01:01:08,702 --> 01:01:14,320
+Speaker 1: Well boys who'd have thought learning about religion could be fun religion worrying.
+
+799
+01:01:15,305 --> 01:01:17,740
+Speaker 1: Let's get out of here Hey.
+

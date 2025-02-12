@@ -1,0 +1,2916 @@
+﻿1
+00:00:08,300 --> 00:00:08,840
+Speaker 1: 
+
+2
+00:00:09,260 --> 00:00:11,667
+Speaker 0: It's Thursday, October 31st, 2024.
+
+3
+00:00:11,667 --> 00:00:11,947
+Speaker 0: I'm Rym.
+
+4
+00:00:17,486 --> 00:00:17,879
+Speaker 1: I'm Scott.
+
+5
+00:00:18,140 --> 00:00:19,203
+Speaker 0: And this is Deke Nides.
+
+6
+00:00:19,243 --> 00:00:25,000
+Speaker 0: Tonight on this Halloween, we are talking about the carving of pumpkins.
+
+7
+00:00:25,740 --> 00:00:26,738
+Speaker 1: Let's do this.
+
+8
+00:00:27,861 --> 00:00:33,796
+Speaker 0: It is, as you have pointed out, when you made this your news, but I think we can talk about it a little bit right away.
+
+9
+00:00:33,816 --> 00:00:35,160
+Speaker 0: There's no reason to have it an opening bit.
+
+10
+00:00:36,400 --> 00:00:49,620
+Speaker 0: This is, in fact, the 19th anniversary of when we started doing geek nights, and I think it is actually kind of shocking that we have kept it up with relatively the same level of quality.
+
+11
+00:00:49,860 --> 00:00:56,660
+Speaker 0: Like, it got better for a while, but then it hit a plateau and stayed there, but we have been, if nothing else, remarkably consistent for 19 years.
+
+12
+00:00:56,820 --> 00:00:57,728
+Speaker 1: Eh, not that consistent.
+
+13
+00:00:57,749 --> 00:00:58,940
+Speaker 1: We keep bailing all the time.
+
+14
+00:00:59,242 --> 00:00:59,879
+Speaker 1: Only recently.
+
+15
+00:01:00,984 --> 00:01:05,140
+Speaker 1: It has been a constant decrease in the quantity of episodes.
+
+16
+00:01:05,962 --> 00:01:06,062
+Speaker 0: Yep.
+
+17
+00:01:06,122 --> 00:01:07,729
+Speaker 0: We did, it was what, four years?
+
+18
+00:01:07,809 --> 00:01:10,460
+Speaker 0: We did four nights a week before we realized that was insane?
+
+19
+00:01:11,681 --> 00:01:12,749
+Speaker 1: Well, we had nothing else to do.
+
+20
+00:01:13,212 --> 00:01:14,280
+Speaker 1: We weren't in New York City.
+
+21
+00:01:14,680 --> 00:01:14,750
+Speaker 1: Yep.
+
+22
+00:01:16,162 --> 00:01:19,036
+Speaker 1: Came home on a train, and then it's like, "Okay, we ate dinner.
+
+23
+00:01:19,077 --> 00:01:19,217
+Speaker 1: Now
+
+24
+00:01:19,258 --> 00:01:19,438
+Speaker 1: what?".
+
+25
+00:01:20,421 --> 00:01:25,652
+Speaker 0: The world was so different when we started geek nights on October 31st, 2005.
+
+26
+00:01:25,652 --> 00:01:29,160
+Speaker 0: I'll link to this if anyone is somehow listening here and doesn't know our deal.
+
+27
+00:01:30,721 --> 00:01:32,808
+Speaker 0: The episode was titled "Arguing
+
+28
+00:01:32,888 --> 00:01:33,329
+Speaker 0: Science."
+
+29
+00:01:33,590 --> 00:01:37,060
+Speaker 0: It was the first public, published episode of Geek Nights.
+
+30
+00:01:37,540 --> 00:01:42,100
+Speaker 0: Tonight on Geek Nights, we argue about how difficult it is to argue about science.
+
+31
+00:01:42,620 --> 00:01:46,880
+Speaker 0: In the news, something about Pluto's moons and Samuel Alito.
+
+32
+00:01:48,161 --> 00:01:56,160
+Speaker 0: We had two things of the day, "spoil everything" and "thing," and 100% of the things we have linked to from this episode are gone from the internet.
+
+33
+00:01:58,462 --> 00:01:58,627
+Speaker 0: Mm-hmm.
+
+34
+00:01:59,921 --> 00:02:03,240
+Speaker 0: Of course, we know a high percentage of our things of the day are, in fact, gone.
+
+35
+00:02:04,002 --> 00:02:04,184
+Speaker 1: Yeah.
+
+36
+00:02:04,731 --> 00:02:05,500
+Speaker 1: That's to be expected.
+
+37
+00:02:05,740 --> 00:02:05,800
+Speaker 0: Yep.
+
+38
+00:02:05,820 --> 00:02:06,523
+Speaker 0: That's just how it goes.
+
+39
+00:02:07,125 --> 00:02:08,690
+Speaker 0: But, I don't know.
+
+40
+00:02:08,750 --> 00:02:09,874
+Speaker 0: I do enjoy doing Geek Nights.
+
+41
+00:02:09,913 --> 00:02:11,660
+Speaker 0: I'm hoping to do it for at least 20 more years.
+
+42
+00:02:12,861 --> 00:02:14,494
+Speaker 1: To survive for 20 more years.
+
+43
+00:02:14,514 --> 00:02:15,220
+Speaker 1: That's the challenge.
+
+44
+00:02:15,584 --> 00:02:15,680
+Speaker 1: Yep.
+
+45
+00:02:17,102 --> 00:02:29,540
+Speaker 1: But yeah, I was reading a thing the other day where it's like, yeah, you know, they were like, hey, how do I, you know, the usual, or how do I keep my stuff around when I'm gone?
+
+46
+00:02:29,800 --> 00:02:35,340
+Speaker 1: And it's like, yeah, pretty much no matter what you do, your domain will expire, right?
+
+47
+00:02:36,580 --> 00:02:37,403
+Speaker 1: So, eventually.
+
+48
+00:02:38,608 --> 00:02:41,800
+Speaker 1: Even if you renew it for a long time and keep the server up.
+
+49
+00:02:41,880 --> 00:02:48,460
+Speaker 1: It's like, there has to be, no matter what, if you want to keep your thing going, there has to be a human who cares.
+
+50
+00:02:48,820 --> 00:02:51,515
+Speaker 0: That's also the moral of the movie Coco.
+
+51
+00:02:53,420 --> 00:02:59,912
+Speaker 1: Yeah, it's like, you know, people are obsessed with like, you know, oh, I gotta, I can't get some cassette tape, that'll degrade.
+
+52
+00:02:59,952 --> 00:03:01,474
+Speaker 1: I can't get a CD, that'll degrade.
+
+53
+00:03:01,534 --> 00:03:04,640
+Speaker 1: I need to use like an M disc or a HD Rosetta.
+
+54
+00:03:04,800 --> 00:03:08,069
+Speaker 0: You gotta find a human brain that somehow decides.
+
+55
+00:03:08,109 --> 00:03:11,859
+Speaker 0: whatever you did was valuable enough to be remembered and passed on.
+
+56
+00:03:12,660 --> 00:03:15,043
+Speaker 1: It's like the Beatles don't have to release on M disc.
+
+57
+00:03:15,103 --> 00:03:17,226
+Speaker 1: They could release on the shittiest fucking thing.
+
+58
+00:03:17,266 --> 00:03:27,020
+Speaker 1: because no matter what piece of, you know, fragile medium they release on, it's gonna be copied 10 bajillion times on computers and things all over the world.
+
+59
+00:03:27,561 --> 00:03:33,815
+Speaker 1: And so, as long as society exists, their music will continue to exist and not be lost.
+
+60
+00:03:33,876 --> 00:03:35,740
+Speaker 1: because as long as people care, right?
+
+61
+00:03:36,060 --> 00:03:43,280
+Speaker 1: Whereas, it doesn't matter if you put it on an M disc in a sealed vault in some kind of fallout shelter, right?
+
+62
+00:03:43,320 --> 00:03:47,110
+Speaker 1: It's like, you know, that lasts a thousand years.
+
+63
+00:03:47,691 --> 00:03:50,940
+Speaker 1: It's like, if nobody cares, then that's it.
+
+64
+00:03:51,320 --> 00:03:51,721
+Speaker 1: There is
+
+65
+00:03:51,941 --> 00:04:10,720
+Speaker 0: another sci-fi adjacent style of that sort of data immortality, but that's where even if the stuff you made isn't preserved, if you convince enough people of some of the things you shared, some of your ideas, and maybe they alter their lives or spread similar ideas, that is actually one of the most important things you can do as a person.
+
+66
+00:04:12,483 --> 00:04:15,739
+Speaker 0: Unless you're a bad person, then I hope no one listens to you and nobody emulates you.
+
+67
+00:04:16,901 --> 00:04:26,539
+Speaker 1: Yep, so the question is, you know, how much, you know, Geek Nights, which has a very tiny audience of one person, how long can it go, right?
+
+68
+00:04:27,160 --> 00:04:31,739
+Speaker 1: We are currently the ones who are caring to keep it going because we made it.
+
+69
+00:04:33,220 --> 00:04:34,782
+Speaker 1: Well, I think we
+
+70
+00:04:34,822 --> 00:04:49,500
+Speaker 0: don't do this on Geek Nights, and we actually made a specific decision when we started doing Geek Nights to not do, like, the traditional, like, constant shout-outs to the audience because a lot of early podcasts did nothing but that, to the point that it was insufferable and tedious, and it really rubbed us the wrong way.
+
+71
+00:04:51,301 --> 00:04:54,768
+Speaker 0: So, one listener said, "Happy 20th," which you're off.
+
+72
+00:04:55,009 --> 00:04:57,534
+Speaker 0: I'll be playing the first Sims game while listening.
+
+73
+00:04:57,555 --> 00:04:59,940
+Speaker 0: I hope that the show goes well for you guys.
+
+74
+00:05:00,361 --> 00:05:03,895
+Speaker 0: Another listener, "I'm only three years older than Geek
+
+75
+00:05:03,935 --> 00:05:04,217
+Speaker 0: Nights.".
+
+76
+00:05:05,321 --> 00:05:07,887
+Speaker 1: Why did you start listening to some old people?
+
+77
+00:05:08,348 --> 00:05:12,860
+Speaker 1: Could find some podcasts by people your own age more relevant to your interests?
+
+78
+00:05:14,241 --> 00:05:24,779
+Speaker 0: Another person, "Almost 15 years since I randomly stumbled across you guys in your Late Night Losing Should Be Fun panel at the first PAX East while badly jet-lagged after flying over from
+
+79
+00:05:24,880 --> 00:05:25,060
+Speaker 0: Europe."
+
+80
+00:05:26,206 --> 00:05:26,560
+Speaker 0: Alright.
+
+81
+00:05:27,820 --> 00:05:28,641
+Speaker 0: That was a fun panel.
+
+82
+00:05:28,701 --> 00:05:29,863
+Speaker 0: We've come a long way.
+
+83
+00:05:29,883 --> 00:05:43,760
+Speaker 0: That old panel, a lot of those old panels, they feel like they were good panels, but there's not a lot of video of Geek Nights panels from some of those early days, and I have looked at slides from some of our old panels recently.
+
+84
+00:05:44,700 --> 00:05:50,140
+Speaker 0: We were not great at making slides compared to modern Geek Nights, is all I'm going to say there.
+
+85
+00:05:51,981 --> 00:06:09,360
+Speaker 0: But the other thing I'll link to, because it's out there, we actually did, and the oldest listener will remember this lore, we actually started recording Geek Nights in a beta format for Just Our Friends starting on October 20th, 2005, with a Logitech stick microphone.
+
+86
+00:06:10,161 --> 00:06:33,640
+Speaker 0: I did find all those recordings some years ago, and in 2016, back when Patreon was bigger, we did an incentive where if enough people backed us, then I pledged to go back, remaster the audio of every beta episode of Geek Nights, and publish them in a place people could see, instead of the weird place that only a handful of you ever found on your own, where they were just public, but no one knew about it.
+
+87
+00:06:34,502 --> 00:06:35,765
+Speaker 0: And I have this here.
+
+88
+00:06:36,086 --> 00:06:40,376
+Speaker 0: So the first ever recording of Geek Nights was titled "Beta Geek Nights
+
+89
+00:06:40,376 --> 00:06:43,501
+Speaker 0: 2005/10/20.".
+
+90
+00:06:43,501 --> 00:06:52,772
+Speaker 0: The description is, "Gen 2 on a Duron 900 plugged into an Ethernet hub while we review Phoenix Wright and Castlevania DS.
+
+91
+00:06:53,153 --> 00:06:54,374
+Speaker 0: What a time to be alive.
+
+92
+00:06:54,895 --> 00:06:58,840
+Speaker 0: Take particular note of Scott's Thing of the Day, which is a reversal of the typical
+
+93
+00:06:58,900 --> 00:06:59,120
+Speaker 0: trend.".
+
+94
+00:07:00,180 --> 00:07:10,041
+Speaker 0: Scott's Thing of the Day was a highly political thing, the kind of thing you'd expect Rym to bring as a Thing of the Day in the year 2024.
+
+95
+00:07:10,041 --> 00:07:13,406
+Speaker 0: But I feel like we'll do something special for the 20th anniversary.
+
+96
+00:07:13,426 --> 00:07:23,100
+Speaker 0: I'm hoping we'll still be around, and hopefully the presidency is not the wrong choice, and things continue apace in the world, but I think we'll do something special.
+
+97
+00:07:23,180 --> 00:07:28,960
+Speaker 0: I kind of want to do a live show kind of thing for the 20th anniversary of Geek Nights, even if no one shows up.
+
+98
+00:07:31,060 --> 00:07:32,931
+Speaker 0: Could rent a ballroom in Manhattan.
+
+99
+00:07:33,816 --> 00:07:34,520
+Speaker 1: Do a live show.
+
+100
+00:07:35,042 --> 00:07:36,020
+Speaker 1: No, that's too expensive.
+
+101
+00:07:36,261 --> 00:07:36,912
+Speaker 0: I'll just fund it.
+
+102
+00:07:36,932 --> 00:07:37,359
+Speaker 0: I got money.
+
+103
+00:07:38,401 --> 00:07:38,704
+Speaker 1: Okay.
+
+104
+00:07:38,724 --> 00:07:40,580
+Speaker 1: I think there's a better use of your money.
+
+105
+00:07:41,082 --> 00:07:41,958
+Speaker 0: It's not that much money.
+
+106
+00:07:44,261 --> 00:07:45,904
+Speaker 0: But yeah, 20 years of Geek Nights.
+
+107
+00:07:45,924 --> 00:07:49,951
+Speaker 0: We're going to keep doing it, because I enjoy doing this, especially after Twitter died.
+
+108
+00:07:50,031 --> 00:07:54,860
+Speaker 0: This is kind of one of the last social medias I actually use, broadcasting words out to people.
+
+109
+00:07:56,580 --> 00:07:57,782
+Speaker 0: There is some other news today.
+
+110
+00:07:58,123 --> 00:07:59,485
+Speaker 0: It's very Geek Nights news.
+
+111
+00:07:59,906 --> 00:08:08,260
+Speaker 0: If you don't know, jaywalking in the United States, but particularly in New York City, wasn't always a crime.
+
+112
+00:08:09,742 --> 00:08:15,220
+Speaker 0: And most of the reasons why it became a crime were, surprise, extremely racist.
+
+113
+00:08:16,280 --> 00:08:18,665
+Speaker 1: Yeah, well, I mean, cars didn't exist, right?
+
+114
+00:08:18,786 --> 00:08:21,211
+Speaker 1: But roads existed before cars.
+
+115
+00:08:21,532 --> 00:08:25,060
+Speaker 1: I don't know if people realize that, that roads predate cars.
+
+116
+00:08:25,680 --> 00:08:27,704
+Speaker 1: So, you know, even Romans had roads.
+
+117
+00:08:28,044 --> 00:08:28,846
+Speaker 1: They didn't have cars.
+
+118
+00:08:29,427 --> 00:08:36,220
+Speaker 1: And so when you're on a road, before cars existed, everything that could go on a road was relatively slow.
+
+119
+00:08:36,961 --> 00:08:46,460
+Speaker 1: And if you really wouldn't, if you had a horse, which is pretty much the fastest thing you could get, you wouldn't go quickly on a road with it unless, you know, especially in a crowded area.
+
+120
+00:08:46,700 --> 00:08:52,080
+Speaker 1: You know, maybe out in the woods, you know, to get from town to town, you might speed up a little bit, but also a horse is going to get tired.
+
+121
+00:08:53,041 --> 00:08:55,569
+Speaker 1: And if a horse, you know, sees a person in front of it, it's an animal.
+
+122
+00:08:55,589 --> 00:08:57,213
+Speaker 1: It's going to react on its own.
+
+123
+00:08:57,254 --> 00:08:59,340
+Speaker 1: You don't have to worry about the human reaction time necessarily.
+
+124
+00:08:59,580 --> 00:09:01,825
+Speaker 1: A horse could run a person over too.
+
+125
+00:09:01,845 --> 00:09:03,368
+Speaker 1: That can happen.
+
+126
+00:09:04,109 --> 00:09:09,360
+Speaker 1: But you didn't have horses running in the city, like at horse speed, like as the Kentucky Derby, right?
+
+127
+00:09:09,780 --> 00:09:26,500
+Speaker 0: Well, one time we did, in fact, President Grant was pulled over by a constable for recklessly riding his horse at speed through the streets of DC one day and issued a ticket by a cop who did not know he was the president.
+
+128
+00:09:27,963 --> 00:09:29,249
+Speaker 1: I mean, good.
+
+129
+00:09:29,852 --> 00:09:31,540
+Speaker 1: I would issue a ticket even if he was the president.
+
+130
+00:09:31,600 --> 00:09:35,239
+Speaker 0: From what I read, he paid it and was basically like, yeah, like, good on you.
+
+131
+00:09:37,421 --> 00:09:37,581
+Speaker 1: Yeah.
+
+132
+00:09:37,641 --> 00:09:44,094
+Speaker 1: But anyway, the roads before cars were just kind of a free for all because they kind of could be.
+
+133
+00:09:44,114 --> 00:09:47,160
+Speaker 1: It wasn't really a problem too much.
+
+134
+00:09:47,380 --> 00:09:49,004
+Speaker 1: I mean, you know, there were some problems.
+
+135
+00:09:49,265 --> 00:09:53,656
+Speaker 1: You know, it's not like nobody ever got run over by a wagon, but it wasn't a crazy problem.
+
+136
+00:09:55,360 --> 00:09:58,165
+Speaker 0: As cities got denser, it did become more and more of a crazy problem.
+
+137
+00:09:58,806 --> 00:10:07,320
+Speaker 0: There's a street in New York City that was referred to in the late 1800s as the Avenue of Death because of how many kids were crushed by horse carts and trains during that era.
+
+138
+00:10:08,002 --> 00:10:13,960
+Speaker 1: No, trains are a different, you know, but but like there wasn't any rules about what you could go on in the street, right?
+
+139
+00:10:14,060 --> 00:10:16,408
+Speaker 1: It's like kids could just go out in the street and start playing stickball.
+
+140
+00:10:16,448 --> 00:10:16,990
+Speaker 1: No problem.
+
+141
+00:10:17,150 --> 00:10:17,351
+Speaker 1: Right.
+
+142
+00:10:17,371 --> 00:10:17,732
+Speaker 1: It wasn't.
+
+143
+00:10:18,053 --> 00:10:19,036
+Speaker 1: you didn't need like a permit.
+
+144
+00:10:19,076 --> 00:10:20,180
+Speaker 1: You didn't close the road.
+
+145
+00:10:20,581 --> 00:10:26,956
+Speaker 1: You could go set up, you know, pretty much, you know, have your cart with your with your wares for sale just out in the street.
+
+146
+00:10:27,417 --> 00:10:28,560
+Speaker 1: And it was totally fine.
+
+147
+00:10:28,660 --> 00:10:34,620
+Speaker 0: Streets were part of the fabric of communal spaces in urban places in America.
+
+148
+00:10:35,001 --> 00:10:39,212
+Speaker 1: It was basically just a public place where everyone could come out and do, you know, it was.
+
+149
+00:10:39,252 --> 00:10:42,560
+Speaker 1: it was for transportation, but it was also a plaza at the same time.
+
+150
+00:10:42,660 --> 00:10:45,990
+Speaker 1: It was just the space that's, you know, shared between everybody.
+
+151
+00:10:46,031 --> 00:10:48,919
+Speaker 1: Come out and see people and then your space is in your house.
+
+152
+00:10:50,421 --> 00:10:56,910
+Speaker 1: And so when cars came about, cars had nowhere to drive except on the road and they just sort of was.
+
+153
+00:10:56,970 --> 00:11:03,220
+Speaker 1: there were lots of battles and then cars due to, you know, many evil reasons and money and whatnot.
+
+154
+00:11:05,001 --> 00:11:11,699
+Speaker 1: Just kind of won and just conquered the road and made the road only for transportation and storage of car.
+
+155
+00:11:12,720 --> 00:11:14,926
+Speaker 1: And everyone else had to just get out the way.
+
+156
+00:11:15,046 --> 00:11:17,733
+Speaker 1: And part of that was, you know, they made it up.
+
+157
+00:11:17,814 --> 00:11:19,017
+Speaker 1: They made up jaywalking.
+
+158
+00:11:19,037 --> 00:11:20,200
+Speaker 1: It was like an invented thing.
+
+159
+00:11:20,560 --> 00:11:24,819
+Speaker 0: The term jaywalking used to basically refer to actually read the etymology of this.
+
+160
+00:11:26,020 --> 00:11:32,280
+Speaker 0: Jay was a derogative term for country bumpkins who wander around a city and don't know what the fuck they're doing and get in everyone's way.
+
+161
+00:11:32,642 --> 00:11:36,240
+Speaker 0: So jaywalking was walking around like an idiot in the city.
+
+162
+00:11:37,861 --> 00:11:42,360
+Speaker 0: But jaywalking became the crime of daring to be in the way of the cars.
+
+163
+00:11:43,900 --> 00:11:47,406
+Speaker 1: And even worse, jaywalking became, you know, they sort of tilted the script, right?
+
+164
+00:11:47,426 --> 00:11:56,100
+Speaker 1: The original script was like, hey, this is the space for everybody and you're coming in with your car acting like this space that's for everybody is just for you to get where you're going.
+
+165
+00:11:56,220 --> 00:11:57,163
+Speaker 1: But it's not.
+
+166
+00:11:57,203 --> 00:11:58,988
+Speaker 1: That's only one of the uses of this space.
+
+167
+00:11:59,430 --> 00:12:01,736
+Speaker 1: And then cars said, no, this space belongs to us.
+
+168
+00:12:01,797 --> 00:12:02,940
+Speaker 1: And they won that battle.
+
+169
+00:12:04,161 --> 00:12:06,226
+Speaker 1: And then people stopped fighting it and took it for granted.
+
+170
+00:12:07,349 --> 00:12:11,520
+Speaker 1: And now we, you know, smart people have realized that, hey, that was wrong.
+
+171
+00:12:12,302 --> 00:12:13,627
+Speaker 1: And I'll give you a mistake.
+
+172
+00:12:13,908 --> 00:12:16,880
+Speaker 0: The reason we were able to do this in New York City, what just happened.
+
+173
+00:12:17,040 --> 00:12:18,385
+Speaker 0: Jaywalking is no longer a crime.
+
+174
+00:12:18,666 --> 00:12:20,332
+Speaker 0: It's not against the law in New York City.
+
+175
+00:12:20,573 --> 00:12:21,236
+Speaker 0: Full stop.
+
+176
+00:12:21,577 --> 00:12:22,320
+Speaker 0: Period at the end.
+
+177
+00:12:22,560 --> 00:12:25,405
+Speaker 0: You're legally allowed to cross the street anywhere you want.
+
+178
+00:12:25,666 --> 00:12:27,469
+Speaker 0: You don't have to walk in crosswalks.
+
+179
+00:12:27,689 --> 00:12:34,140
+Speaker 0: You can basically legally, legally is the important word here, cross the street anywhere.
+
+180
+00:12:35,060 --> 00:12:39,199
+Speaker 0: Practically, you should generally avoid the cars hitting you.
+
+181
+00:12:39,980 --> 00:12:40,121
+Speaker 1: Right.
+
+182
+00:12:40,141 --> 00:12:48,560
+Speaker 1: So the thing is, even though it was made a crime to be like a pro car thing, it was never really, you know, I don't think at any point in time was it super strictly enforced.
+
+183
+00:12:49,282 --> 00:12:50,928
+Speaker 0: Ah, that's why it was overturned.
+
+184
+00:12:51,028 --> 00:12:54,258
+Speaker 0: So it was being enforced in New York City.
+
+185
+00:12:54,900 --> 00:12:55,622
+Speaker 1: Yeah.
+
+186
+00:12:55,642 --> 00:13:05,420
+Speaker 1: It wasn't strictly enforced at like any point where it was like, it was never a case where like everyone who jaywalked was getting jaywalking tickets constantly and they were making sure they were trying to get people out of the road.
+
+187
+00:13:05,961 --> 00:13:10,800
+Speaker 0: It was always just feel like it is like it's weird being in a city where people don't jaywalk.
+
+188
+00:13:11,421 --> 00:13:22,260
+Speaker 1: But the point is that the law was mostly throughout its history only used by cops to harass people who they wanted to harass, right?
+
+189
+00:13:22,500 --> 00:13:27,508
+Speaker 1: Like if a rich white dude walked out into the road, you know, the cop wasn't going to do anything.
+
+190
+00:13:27,548 --> 00:13:34,820
+Speaker 1: But if he saw a black person walk out in the road, the cop could be like, aha, I now have an excuse to go fuck with you because I'm a racist piece of shit cop.
+
+191
+00:13:34,920 --> 00:13:39,160
+Speaker 1: And that's even today how that law was basically being used.
+
+192
+00:13:39,380 --> 00:13:39,601
+Speaker 0: Yep.
+
+193
+00:13:39,661 --> 00:13:49,220
+Speaker 0: So last year in twenty twenty three, more than 90 percent, 90 percent of all jaywalking tickets written in New York City were written to black and Latino people.
+
+194
+00:13:49,982 --> 00:13:55,040
+Speaker 1: Even though literally every single person who walks in New York City is jaywalking.
+
+195
+00:13:55,400 --> 00:13:58,453
+Speaker 0: I jaywalk on average more than 10 times a day.
+
+196
+00:13:58,514 --> 00:14:00,000
+Speaker 0: And that's probably a low estimate.
+
+197
+00:14:00,581 --> 00:14:00,762
+Speaker 1: Right.
+
+198
+00:14:00,802 --> 00:14:01,965
+Speaker 1: The cops were only.
+
+199
+00:14:01,985 --> 00:14:07,820
+Speaker 1: they weren't using this law on tourists who were walking when the crossing light was was red at the crosswalk.
+
+200
+00:14:08,340 --> 00:14:12,270
+Speaker 1: They weren't using it on, you know, people running across.
+
+201
+00:14:12,611 --> 00:14:12,812
+Speaker 1: Right.
+
+202
+00:14:12,852 --> 00:14:15,860
+Speaker 1: They were not using even though all those people were jaywalking.
+
+203
+00:14:16,841 --> 00:14:18,286
+Speaker 1: None of them were getting in trouble.
+
+204
+00:14:18,326 --> 00:14:22,320
+Speaker 1: The cops are using it on black and Latino people because they're racist.
+
+205
+00:14:22,480 --> 00:14:30,860
+Speaker 0: Mercedes Narcisse, our city council member from Brooklyn, who sponsored this, a Democrat, obviously, she has a great quote when asked for comment.
+
+206
+00:14:31,220 --> 00:14:31,903
+Speaker 0: Let's be real.
+
+207
+00:14:32,285 --> 00:14:33,731
+Speaker 0: Every New Yorker jaywalks.
+
+208
+00:14:33,972 --> 00:14:35,700
+Speaker 0: People are simply trying to get where they need to go.
+
+209
+00:14:36,080 --> 00:14:41,979
+Speaker 0: Laws that penalize common behaviors for everyday movement shouldn't exist, especially when they unfairly impact communities of color.
+
+210
+00:14:43,580 --> 00:14:51,360
+Speaker 0: So this is like kind of a big deal, but I think it's going to take a while for this to make things different in New York City because...
+
+211
+00:14:51,500 --> 00:14:51,861
+Speaker 1: I don't think.
+
+212
+00:14:52,082 --> 00:14:53,166
+Speaker 1: But the thing is, it doesn't.
+
+213
+00:14:53,226 --> 00:14:56,860
+Speaker 1: The real problem, right, is, you know, obviously the law was a problem.
+
+214
+00:14:57,080 --> 00:14:57,641
+Speaker 1: They should go away.
+
+215
+00:14:57,742 --> 00:15:05,260
+Speaker 1: But it's like, hey, maybe you should mention the fact that, like, you know, this law could have been used on white people.
+
+216
+00:15:05,581 --> 00:15:07,911
+Speaker 1: It's like the cops are still racist as fuck.
+
+217
+00:15:07,931 --> 00:15:09,156
+Speaker 1: And this does nothing to change that.
+
+218
+00:15:09,236 --> 00:15:09,999
+Speaker 1: That's the problem.
+
+219
+00:15:10,700 --> 00:15:11,507
+Speaker 0: That's a problem.
+
+220
+00:15:11,748 --> 00:15:13,180
+Speaker 0: Also, the problem that we've sacrificed.
+
+221
+00:15:13,420 --> 00:15:19,840
+Speaker 1: Why don't you go through and find every cop who wrote a jaywalking ticket and fire them and never allow them to be a cop again everywhere, anywhere.
+
+222
+00:15:20,843 --> 00:15:21,998
+Speaker 1: Because clearly they're racist.
+
+223
+00:15:23,020 --> 00:15:23,701
+Speaker 0: A hundred percent.
+
+224
+00:15:25,044 --> 00:15:34,040
+Speaker 0: But I think independent of that, over time, activists will be able to use this to increasingly reclaim streets.
+
+225
+00:15:34,520 --> 00:15:43,920
+Speaker 0: But it's going to be a slow roll because even if it is technically not against the law anymore, practically it's a lot like how in New York you can go outside without a shirt on.
+
+226
+00:15:44,120 --> 00:15:45,348
+Speaker 0: Man, woman, whatever, doesn't matter.
+
+227
+00:15:45,368 --> 00:15:46,495
+Speaker 0: Like, you're allowed to be shirtless.
+
+228
+00:15:46,515 --> 00:15:47,280
+Speaker 0: That's fully legal.
+
+229
+00:15:47,721 --> 00:15:55,400
+Speaker 0: But at the same time, if you, say, are female presenting and you go out without a shirt on, people are going to be a problem around you.
+
+230
+00:15:55,580 --> 00:16:00,079
+Speaker 0: Just like if you just walk out into the street, a car might just hit you.
+
+231
+00:16:00,600 --> 00:16:04,820
+Speaker 0: So this will require a critical mass of people actively knowing about this.
+
+232
+00:16:05,040 --> 00:16:20,140
+Speaker 0: And I think the short-term thing activists can do, especially biking activists and pedestrian activists, is spread the word about this and start to try to encourage, over time, people basically reclaiming streets by crossing en masse and getting in the way of the cars, especially in Manhattan.
+
+233
+00:16:23,589 --> 00:16:24,696
+Speaker 1: Well, it's gone now.
+
+234
+00:16:24,898 --> 00:16:25,220
+Speaker 1: Bye-bye.
+
+235
+00:16:26,689 --> 00:16:27,139
+Speaker 1: At least here.
+
+236
+00:16:28,466 --> 00:16:30,220
+Speaker 1: I don't know what the jaywalking laws are elsewhere.
+
+237
+00:16:30,840 --> 00:16:35,600
+Speaker 1: Is there somewhere else on earth where jaywalking is enforced?
+
+238
+00:16:36,627 --> 00:16:37,800
+Speaker 0: I don't jaywalk in Singapore.
+
+239
+00:16:39,521 --> 00:16:41,140
+Speaker 1: Is there cops on every corner?
+
+240
+00:16:42,103 --> 00:16:43,654
+Speaker 0: Uh, kinda.
+
+241
+00:16:43,815 --> 00:16:44,359
+Speaker 0: In the CVD.
+
+242
+00:16:45,502 --> 00:16:45,783
+Speaker 1: I don't know.
+
+243
+00:16:45,843 --> 00:16:48,960
+Speaker 1: It's like, no matter what, anyone who jaywalks will just get busted.
+
+244
+00:16:49,280 --> 00:16:53,900
+Speaker 0: I do not break any law, no matter how minor, when I'm in Singapore.
+
+245
+00:16:54,220 --> 00:16:55,209
+Speaker 1: What is their jaywalking?
+
+246
+00:16:55,310 --> 00:16:56,380
+Speaker 1: Do they have a jaywalking law?
+
+247
+00:16:56,440 --> 00:16:57,146
+Speaker 0: I can look it up.
+
+248
+00:16:57,448 --> 00:16:58,918
+Speaker 0: I'm pretty sure they do.
+
+249
+00:17:01,102 --> 00:17:03,538
+Speaker 0: I haven't been there in a while, but I'm going to be there.
+
+250
+00:17:04,500 --> 00:17:05,306
+Speaker 0: Is jaywalking enforced?
+
+251
+00:17:05,346 --> 00:17:05,426
+Speaker 0: Yes.
+
+252
+00:17:08,632 --> 00:17:08,819
+Speaker 0: Alright.
+
+253
+00:17:09,740 --> 00:17:15,630
+Speaker 0: It's selectively enforced, but it is enforced, et cetera.
+
+254
+00:17:15,951 --> 00:17:17,390
+Speaker 1: You don't see people jaywalking there?
+
+255
+00:17:17,589 --> 00:17:21,429
+Speaker 0: The fine for smoking outside is an order of magnitude higher than the fine for jaywalking.
+
+256
+00:17:21,711 --> 00:17:21,811
+Speaker 0: Good.
+
+257
+00:17:21,893 --> 00:17:22,826
+Speaker 1: Well, that should be it, right?
+
+258
+00:17:23,596 --> 00:17:24,047
+Speaker 0: It should be.
+
+259
+00:17:26,090 --> 00:17:31,070
+Speaker 1: If only we could enforce, you know, but that enforcement isn't even the answer for that, though.
+
+260
+00:17:31,170 --> 00:17:32,930
+Speaker 1: The answer is, stop selling.
+
+261
+00:17:34,996 --> 00:17:35,409
+Speaker 1: Stop asking.
+
+262
+00:17:37,031 --> 00:17:39,770
+Speaker 0: But anyway, things of the day.
+
+263
+00:17:40,851 --> 00:17:45,249
+Speaker 0: This thing of the day, I just bumped into it, and I think I have now hit the peak.
+
+264
+00:17:46,711 --> 00:17:49,389
+Speaker 0: Principal Skinner, Steamed Hands mashup.
+
+265
+00:17:50,730 --> 00:17:54,730
+Speaker 0: Meghalat Hamed, The Scroll of the Steamed Portions of Sham.
+
+266
+00:17:56,911 --> 00:17:58,055
+Speaker 0: Just click on it.
+
+267
+00:17:58,577 --> 00:18:01,690
+Speaker 0: If you are Jewish, or know Jewish people, you will get the joke.
+
+268
+00:18:02,973 --> 00:18:04,949
+Speaker 0: Or you'll at least recognize what's going on here.
+
+269
+00:18:06,371 --> 00:18:12,149
+Speaker 0: If you don't know what this is, I highly advise you to talk to one of your Jewish friends and ask them what they think of this.
+
+270
+00:18:12,950 --> 00:18:20,690
+Speaker 1: I'm the Jewish friend, so basically what's going on here is, you know, if you know the Hebrew language or not, they're obviously singing in Hebrew.
+
+271
+00:18:21,671 --> 00:18:28,489
+Speaker 1: If you go to any Jewish religious service, you know, especially on the high holidays, there's a person who's called the cantor.
+
+272
+00:18:29,612 --> 00:18:38,290
+Speaker 1: And if you know Latin, or it's like in Spanish, what's the word for the verb to sing is like cantar, right?
+
+273
+00:18:38,350 --> 00:18:40,238
+Speaker 1: It's the same root, generally.
+
+274
+00:18:40,258 --> 00:18:42,770
+Speaker 1: It's basically the singing person, right?
+
+275
+00:18:43,410 --> 00:18:49,028
+Speaker 1: Some places have, you know, big synagogues will have a permanent person who's their guy or girl, whatever.
+
+276
+00:18:50,833 --> 00:18:53,050
+Speaker 1: Other places will like hire one just for the holidays.
+
+277
+00:18:53,810 --> 00:18:58,650
+Speaker 1: And, you know, they come in because otherwise it's like just reading prayers is boring.
+
+278
+00:18:59,410 --> 00:19:02,389
+Speaker 0: Oh yeah, someone who grew up going to a Catholic church off and on, yeah.
+
+279
+00:19:03,871 --> 00:19:08,190
+Speaker 1: So, you know, they get someone in there to sing, right?
+
+280
+00:19:08,831 --> 00:19:25,410
+Speaker 1: And so they're singing basically what Skinner and Chalmers, you know, the lyrics, the script of the steamed hams, right, has been adapted into lyrics and translated to Hebrew.
+
+281
+00:19:25,910 --> 00:19:32,510
+Speaker 1: And then they are singing it in the style of a cantor at, you know, a Jewish religious service.
+
+282
+00:19:33,991 --> 00:19:37,420
+Speaker 1: I don't know if it's a particular song that they've got the tune to.
+
+283
+00:19:37,480 --> 00:19:41,230
+Speaker 1: It's not a song I'm familiar with, so there may be a deeper level that I don't know.
+
+284
+00:19:41,831 --> 00:19:45,430
+Speaker 1: But I do know quite a few of those songs, and this isn't one of the ones I know.
+
+285
+00:19:45,450 --> 00:19:47,436
+Speaker 0: This person appears to do this for works.
+
+286
+00:19:47,677 --> 00:19:48,881
+Speaker 0: It's kind of a thing they do.
+
+287
+00:19:49,984 --> 00:19:51,690
+Speaker 0: They seem to be very knowledgeable.
+
+288
+00:19:52,711 --> 00:19:56,830
+Speaker 0: But also, the YouTube comments are actually sublime.
+
+289
+00:19:58,050 --> 00:20:01,937
+Speaker 0: Translators note, the actual dish served in the scroll is unclear.
+
+290
+00:20:02,178 --> 00:20:08,850
+Speaker 0: Modern translators tend variously toward clams or hams, despite neither being acceptable under contemporary Jewish law.
+
+291
+00:20:09,530 --> 00:20:10,393
+Speaker 0: A pillar of flame?
+
+292
+00:20:10,413 --> 00:20:16,670
+Speaker 0: At this time of year, at this time of day, in this part of Canaan, localized entirely within the tabernacle?
+
+293
+00:20:19,071 --> 00:20:20,955
+Speaker 0: Every comment here is solid gold.
+
+294
+00:20:21,095 --> 00:20:22,618
+Speaker 0: I'm very happy about this.
+
+295
+00:20:22,638 --> 00:20:25,444
+Speaker 0: It's also nine minutes long, which is an impressive effort.
+
+296
+00:20:25,464 --> 00:20:28,310
+Speaker 0: So what do you got?
+
+297
+00:20:30,711 --> 00:20:38,810
+Speaker 1: So, you know, somebody asked the question, right, what is the first American graphic novel?
+
+298
+00:20:38,930 --> 00:20:42,120
+Speaker 1: Now, this is largely a semantic question, right?
+
+299
+00:20:42,160 --> 00:20:43,364
+Speaker 1: What counts as American?
+
+300
+00:20:43,925 --> 00:20:45,390
+Speaker 1: What counts as a graphic novel?
+
+301
+00:20:46,751 --> 00:20:50,958
+Speaker 1: First, I think we can agree on what first means, right?
+
+302
+00:20:51,198 --> 00:20:58,170
+Speaker 1: But even if you come down to first, it's like, well, does it count as first if it wasn't published by a big publisher?
+
+303
+00:20:58,370 --> 00:21:01,638
+Speaker 1: If it was just something someone scrawled, right?
+
+304
+00:21:01,679 --> 00:21:02,340
+Speaker 1: That kind of thing.
+
+305
+00:21:02,420 --> 00:21:06,110
+Speaker 1: So this person makes this semantic argument, and you know what?
+
+306
+00:21:06,170 --> 00:21:09,260
+Speaker 1: I don't really agree with their semantic argument very much at all.
+
+307
+00:21:10,243 --> 00:21:12,149
+Speaker 1: I don't like semantic arguments to begin with.
+
+308
+00:21:12,711 --> 00:21:19,910
+Speaker 1: But in this case, even though this person I disagree with rather somewhat strongly, it's okay.
+
+309
+00:21:20,411 --> 00:21:26,323
+Speaker 1: Because what they do is they go through every single one throughout history.
+
+310
+00:21:26,584 --> 00:21:28,888
+Speaker 1: that might count, right?
+
+311
+00:21:28,928 --> 00:21:29,650
+Speaker 1: Chronologically.
+
+312
+00:21:29,950 --> 00:21:36,530
+Speaker 1: And then you can just decide for yourself which one you think is a graphic novel, is American, and is first.
+
+313
+00:21:39,691 --> 00:21:41,312
+Speaker 1: Or whatever your criteria is.
+
+314
+00:21:41,373 --> 00:21:42,594
+Speaker 1: Or does that even matter, right?
+
+315
+00:21:42,614 --> 00:22:03,170
+Speaker 1: What matters, though, even if you don't pick a winner, so to say, or engage with the semantic argument at any level, you can still learn the history of, right, you know, illustrated graphic storytelling in the United States of America with this article going way back.
+
+316
+00:22:03,591 --> 00:22:12,870
+Speaker 1: And in that sense, this is a terrific article because they researched that aspect as well as I've seen anyone, you know, research it, right?
+
+317
+00:22:13,030 --> 00:22:18,970
+Speaker 0: I mean, I only like to engage in a semantic argument for fun or in the pursuit of specific academia.
+
+318
+00:22:21,291 --> 00:22:24,199
+Speaker 1: For, you know, sometimes you just can't communicate with a person.
+
+319
+00:22:24,239 --> 00:22:28,290
+Speaker 1: Like, they don't understand what you mean, and then you need to agree on what a word means.
+
+320
+00:22:29,171 --> 00:22:31,375
+Speaker 1: That's usually a problem we have at work.
+
+321
+00:22:32,897 --> 00:22:35,401
+Speaker 1: It's like the English doesn't have enough words.
+
+322
+00:22:35,621 --> 00:22:39,848
+Speaker 1: So we're like, okay, we got the config and we got the settings and we have the...
+
+323
+00:22:41,470 --> 00:22:48,410
+Speaker 0: Yeah, as a VR project I'm working on with Emily, what's a scene versus a shot versus a scenario versus a story?
+
+324
+00:22:49,551 --> 00:22:56,504
+Speaker 1: And you run out of words real fast and you start need to, you know, which one, which config are you talking about?
+
+325
+00:22:57,086 --> 00:22:58,368
+Speaker 1: That one, which one?
+
+326
+00:22:58,508 --> 00:22:58,849
+Speaker 1: Oh, that.
+
+327
+00:22:58,929 --> 00:22:59,230
+Speaker 1: Okay.
+
+328
+00:23:03,011 --> 00:23:09,230
+Speaker 0: In the meta moment, Geek Night will be live at PAX Unplugged, which is coming up in December.
+
+329
+00:23:09,731 --> 00:23:14,530
+Speaker 0: We're going to be there on Friday doing a learn and play of an expansion to Deep Sea Adventure.
+
+330
+00:23:14,630 --> 00:23:19,390
+Speaker 0: We're also going to be doing an updated version of an old panel titled Take Your Fucking Turn.
+
+331
+00:23:20,091 --> 00:23:25,170
+Speaker 0: I will say that if you are a fan of Geek Nights, you don't need to go to our panel because you're not going to learn anything new.
+
+332
+00:23:25,510 --> 00:23:40,870
+Speaker 0: That panel is specifically aimed at all the people at Unplugged who may not know who we are, or more importantly, trying to fill a panel room with people who will see a panel titled Take Your Fucking Turn at a board game convention and want to go see what the deal is, thus filling a panel room and getting them out of the crowd in the hallway.
+
+333
+00:23:42,731 --> 00:23:47,101
+Speaker 0: But the learn and play, like, if you've never played Deep Sea Adventure, we reviewed it on Geek Nights a while ago.
+
+334
+00:23:47,121 --> 00:23:48,444
+Speaker 0: It's real fun.
+
+335
+00:23:48,765 --> 00:23:50,810
+Speaker 0: It's a real good push your luck game for what it is.
+
+336
+00:23:51,451 --> 00:23:56,050
+Speaker 0: And this is an expansion that adds slightly more luck pushing to that game.
+
+337
+00:23:59,222 --> 00:24:02,553
+Speaker 0: Otherwise, no Geek Nights except maybe some Rim Specials for the next two weeks.
+
+338
+00:24:02,714 --> 00:24:04,420
+Speaker 0: I'm actually flying to London for a work thing.
+
+339
+00:24:05,840 --> 00:24:12,920
+Speaker 0: I'm just going to sidestep the fact that it's going to be real stressful and weird to not be in the country next week during the most painful election in my life.
+
+340
+00:24:13,340 --> 00:24:14,107
+Speaker 0: It may be safer.
+
+341
+00:24:14,127 --> 00:24:15,579
+Speaker 0: I don't think it'll be less stressful, though.
+
+342
+00:24:16,542 --> 00:24:16,827
+Speaker 1: Oh, no.
+
+343
+00:24:16,970 --> 00:24:17,378
+Speaker 1: Not at all.
+
+344
+00:24:18,941 --> 00:24:26,932
+Speaker 0: And then the following week, I'll be in Singapore, which, depending on how the previous week went, will either be jubilations or we'll see.
+
+345
+00:24:26,972 --> 00:24:30,337
+Speaker 0: We'll see what it's like to be in Singapore in the week after the election.
+
+346
+00:24:30,558 --> 00:24:31,859
+Speaker 0: That determines the fate of the next 40 years.
+
+347
+00:24:32,882 --> 00:24:33,539
+Speaker 1: Maybe stay there.
+
+348
+00:24:35,381 --> 00:24:40,470
+Speaker 0: I did get a request to interview for a job there recently, unrelatedly.
+
+349
+00:24:40,731 --> 00:24:43,856
+Speaker 0: They really like to hire people from the US to move to Singapore and take something over.
+
+350
+00:24:44,337 --> 00:24:45,800
+Speaker 0: Just generally, like all the companies there.
+
+351
+00:24:48,421 --> 00:24:51,269
+Speaker 1: My ancestors ran away from the country.
+
+352
+00:24:54,057 --> 00:24:55,180
+Speaker 1: It's not the worst strategy.
+
+353
+00:24:56,680 --> 00:24:57,691
+Speaker 1: You got to do what you got to do.
+
+354
+00:24:59,581 --> 00:25:05,712
+Speaker 0: The most important thing you can do in any bad situation as a human is survive and help the people you know survive.
+
+355
+00:25:06,172 --> 00:25:10,480
+Speaker 0: That's the basic stakes before you move on to solving other problems.
+
+356
+00:25:12,962 --> 00:25:16,289
+Speaker 0: So, yeah, probably no geek nights except a couple of rim specials for the next couple of weeks.
+
+357
+00:25:16,309 --> 00:25:18,413
+Speaker 0: And then we'll get back to hopefully business as usual.
+
+358
+00:25:18,434 --> 00:25:21,420
+Speaker 0: And I think we'll dive right into it because it's Halloween.
+
+359
+00:25:21,820 --> 00:25:23,688
+Speaker 1: Or business as very unusual.
+
+360
+00:25:24,994 --> 00:25:26,320
+Speaker 1: New harder business.
+
+361
+00:25:26,680 --> 00:25:27,001
+Speaker 0: Yeah.
+
+362
+00:25:27,401 --> 00:25:32,710
+Speaker 0: I don't think I need to tell anyone listening to this that you should vote for the Democrats and Kamala Harris.
+
+363
+00:25:32,931 --> 00:25:38,360
+Speaker 0: Like, if somehow that is not your plan, I don't know what to say at this point.
+
+364
+00:25:39,561 --> 00:25:43,128
+Speaker 1: Why are you listening to us or start listening to us?
+
+365
+00:25:45,693 --> 00:25:46,755
+Speaker 1: Who have you been listening to?
+
+366
+00:25:46,775 --> 00:25:49,360
+Speaker 1: Whoever you're listening to, stop.
+
+367
+00:25:49,841 --> 00:25:52,317
+Speaker 0: Stop listening to Joe Rogan or whatever it is you listen to.
+
+368
+00:25:54,031 --> 00:25:54,153
+Speaker 0: Yeah.
+
+369
+00:25:54,174 --> 00:25:54,419
+Speaker 0: Seriously.
+
+370
+00:25:55,882 --> 00:25:56,383
+Speaker 0: Yeah.
+
+371
+00:25:56,623 --> 00:25:57,224
+Speaker 0: But get right into it.
+
+372
+00:25:57,285 --> 00:25:59,469
+Speaker 0: It's Halloween.
+
+373
+00:25:59,469 --> 00:26:00,671
+Speaker 0: 19 years ago, we started Geek Nights.
+
+374
+00:26:01,032 --> 00:26:05,140
+Speaker 0: So, in 2019, we reviewed It's the Great Pumpkin Charlie Brown, which I'm going to link to.
+
+375
+00:26:05,160 --> 00:26:06,000
+Speaker 1: I watched it yesterday.
+
+376
+00:26:06,564 --> 00:26:08,860
+Speaker 0: I watched parts of it again recently a few days ago.
+
+377
+00:26:08,900 --> 00:26:10,760
+Speaker 1: You know what I realized about Great Pumpkin Charlie Brown?
+
+378
+00:26:10,940 --> 00:26:11,539
+Speaker 0: What'd you realize?
+
+379
+00:26:12,843 --> 00:26:14,859
+Speaker 1: I hadn't watched it in a very, very long time.
+
+380
+00:26:15,241 --> 00:26:17,700
+Speaker 0: We did a show on it in 2019.
+
+381
+00:26:17,700 --> 00:26:17,941
+Speaker 1: Yeah.
+
+382
+00:26:18,042 --> 00:26:18,805
+Speaker 1: I don't remember that.
+
+383
+00:26:19,508 --> 00:26:22,240
+Speaker 1: But maybe I said the same thing in 2019.
+
+384
+00:26:22,240 --> 00:26:27,880
+Speaker 0: I'm going to read the description of this episode then to you, because I think we talked about what you're about to say.
+
+385
+00:26:28,420 --> 00:26:31,975
+Speaker 0: Tonight on Geek Nights, we consider the 1996 Peanuts television special.
+
+386
+00:26:31,995 --> 00:26:33,120
+Speaker 0: It's the Great Pumpkin Charlie Brown.
+
+387
+00:26:33,480 --> 00:26:40,940
+Speaker 0: From an exploration of PTSD and the horrors of war to the inherent fanaticism of religion, it has some surprisingly nuanced elements.
+
+388
+00:26:41,620 --> 00:26:42,402
+Speaker 1: No, no, no, no.
+
+389
+00:26:42,462 --> 00:26:49,420
+Speaker 1: The thing that I was going to comment on has nothing to do with those things, which are very true, is the fact that, damn, it's really short.
+
+390
+00:26:50,034 --> 00:26:50,260
+Speaker 1: Oh, yeah.
+
+391
+00:26:50,881 --> 00:26:55,720
+Speaker 1: I thought it was longer, because when I was a kid, it was always full of ads, and they stretched it the fuck out.
+
+392
+00:26:55,960 --> 00:26:58,600
+Speaker 1: And if you just watch it without ads, it's real short.
+
+393
+00:26:58,940 --> 00:27:03,160
+Speaker 0: The Geek Nights episode about it, even if you cut out the news and the things of the day, is longer than it.
+
+394
+00:27:06,525 --> 00:27:07,078
+Speaker 1: It's like...anyway.
+
+395
+00:27:07,843 --> 00:27:09,660
+Speaker 0: It is dense with content as well.
+
+396
+00:27:10,241 --> 00:27:22,020
+Speaker 0: We also, in October 25th, 2006, in the second year of Geek Nights, we reviewed an anime that I'm sure 100% of you have forgotten, called Pumpkin Scissors.
+
+397
+00:27:22,560 --> 00:27:24,220
+Speaker 0: And I don't remember anything about that.
+
+398
+00:27:24,220 --> 00:27:26,720
+Speaker 1: I remember that there was an anime called Pumpkin Scissors.
+
+399
+00:27:26,780 --> 00:27:27,682
+Speaker 1: It was Gonzo.
+
+400
+00:27:28,944 --> 00:27:37,380
+Speaker 0: A lot of people compared it to Fullmetal Alchemist, but I'm just going to say it was pretty bad, because I never thought about it or talked about it again.
+
+401
+00:27:39,321 --> 00:27:46,180
+Speaker 0: But somehow, in all these years, we have never talked about carving pumpkins, which is a thing we have some opinions on and have engaged with.
+
+402
+00:27:46,180 --> 00:27:48,440
+Speaker 1: You didn't talk about it within a Halloween episode?
+
+403
+00:27:48,500 --> 00:27:49,524
+Speaker 0: Not that I can see.
+
+404
+00:27:49,544 --> 00:27:53,280
+Speaker 0: We talked about it adjacently in some Halloween episodes.
+
+405
+00:27:53,720 --> 00:28:03,020
+Speaker 1: Well, the first thing about carving pumpkins is that even though Halloween celebrations have spread worldwide, people may not realize pumpkins are not worldwide.
+
+406
+00:28:05,041 --> 00:28:09,653
+Speaker 1: You can't really grow a pumpkin if you're celebrating Halloween in, I don't know, Bermuda.
+
+407
+00:28:10,976 --> 00:28:12,099
+Speaker 1: Maybe you import a pumpkin?
+
+408
+00:28:12,179 --> 00:28:12,600
+Speaker 1: I don't know.
+
+409
+00:28:12,941 --> 00:28:15,020
+Speaker 0: I'm confident you can import a pumpkin by now.
+
+410
+00:28:15,680 --> 00:28:18,366
+Speaker 1: Maybe, but pumpkins don't grow everywhere.
+
+411
+00:28:18,426 --> 00:28:21,111
+Speaker 1: Whereas where we live, they grow like crazy.
+
+412
+00:28:21,152 --> 00:28:23,276
+Speaker 1: They're real easy to grow, as long as you've got land.
+
+413
+00:28:23,316 --> 00:28:25,120
+Speaker 1: If you've got land, you can grow pumpkins here.
+
+414
+00:28:26,325 --> 00:28:27,632
+Speaker 0: The U.S.
+
+415
+00:28:27,692 --> 00:28:29,240
+Speaker 0: is lousy with pumpkins.
+
+416
+00:28:30,982 --> 00:28:31,650
+Speaker 1: We've got way too many.
+
+417
+00:28:33,020 --> 00:28:40,360
+Speaker 0: In the modern world, one, two, three, four, five, six countries produce almost all the pumpkins that anyone uses in the world.
+
+418
+00:28:40,920 --> 00:28:41,248
+Speaker 1: Is U.S.
+
+419
+00:28:41,310 --> 00:28:41,720
+Speaker 1: number one?
+
+420
+00:28:41,880 --> 00:28:45,000
+Speaker 0: Number one is China, actually, by a huge margin.
+
+421
+00:28:45,220 --> 00:28:50,360
+Speaker 1: But are they growing the orange pumpkins for Halloween, or are they growing some other kind?
+
+422
+00:28:50,440 --> 00:28:51,306
+Speaker 0: Ah, it's Wikipedia.
+
+423
+00:28:51,346 --> 00:28:53,099
+Speaker 0: This includes squash and gourds.
+
+424
+00:28:53,960 --> 00:29:00,900
+Speaker 1: Yeah, I'm talking about specifically the orange pumpkin that you use on Halloween, not some other kind.
+
+425
+00:29:01,100 --> 00:29:11,680
+Speaker 0: Yeah, I don't know the name of the cultivar, but if you're not familiar with the American pumpkin that we're thinking of, it's big, it's orange, it tastes bad.
+
+426
+00:29:12,020 --> 00:29:15,460
+Speaker 1: I'm pretty sure they got them in Europe also, at least, and probably other places.
+
+427
+00:29:15,500 --> 00:29:23,000
+Speaker 0: It's not the kind of pumpkin, especially because we have cultivated them over the years to be big and large and suitable for decoration and carving.
+
+428
+00:29:23,260 --> 00:29:29,840
+Speaker 1: Oh yeah, well people try to grow, like they always had these competitions, like biggest pumpkin, because they've been breeding them so long to be that way.
+
+429
+00:29:29,880 --> 00:29:34,060
+Speaker 0: There are way better squash and way better pumpkins to eat than the ones that you carve.
+
+430
+00:29:34,700 --> 00:29:49,480
+Speaker 0: But, that said, a family tradition that I do miss and should do again at some point, when we were kids, we'd get pumpkins for carving, we'd scoop all the guts out, but then we'd take all the seeds, clean them, dry them, roast them in the oven, and then have pumpkin seeds for the next few months.
+
+431
+00:29:50,200 --> 00:29:51,620
+Speaker 1: Yeah, pumpkin seeds are, they're good.
+
+432
+00:29:54,007 --> 00:29:55,059
+Speaker 1: Get a little salt on there.
+
+433
+00:29:57,281 --> 00:30:06,440
+Speaker 0: But pumpkin carving loomed really large in my childhood life, I think just partly because holidays loom really large in your life as a kid, especially in America.
+
+434
+00:30:07,280 --> 00:30:17,420
+Speaker 1: Yeah, I can't remember average day of elementary school, but I can remember birthday, Halloween, holiday kind of things better, at least.
+
+435
+00:30:17,801 --> 00:30:21,669
+Speaker 0: And Halloween was, at least in my life, a really big deal.
+
+436
+00:30:21,689 --> 00:30:26,119
+Speaker 0: I think it's actually, for a lot of kids, for a lot of reasons, less of a big deal now than it used to be.
+
+437
+00:30:27,020 --> 00:30:37,296
+Speaker 0: But, like, every kid dressed up, a lot of the adults, the teachers would dress up, we'd go trick or treating all night, and it seemed like everyone was out.
+
+438
+00:30:37,336 --> 00:30:39,540
+Speaker 0: trick or treating, like trick or treating was a huge deal.
+
+439
+00:30:40,180 --> 00:30:43,788
+Speaker 0: Everyone had pumpkins, we'd all be talking about the pumpkins we carved.
+
+440
+00:30:44,028 --> 00:30:49,520
+Speaker 0: Some kids would, like, bring their pumpkin to school to show it off, like, it just was like a whole thing.
+
+441
+00:30:50,160 --> 00:30:56,675
+Speaker 0: And for as much as I cared about carving pumpkins, personally, I was dogshit at it.
+
+442
+00:30:56,775 --> 00:30:58,940
+Speaker 0: I was so bad at it, my pumpkins looked like crap.
+
+443
+00:30:59,740 --> 00:31:08,000
+Speaker 1: Well, I think we were not, you know, we didn't have any example to go on other than, you know, our neighbors, and it's not like people were sharing photos or anything.
+
+444
+00:31:08,441 --> 00:31:18,440
+Speaker 1: It's like, you didn't, I didn't even know what, like, my family, other, you know, like, close relatives who didn't live nearby, I didn't know what their pumpkins looked like because they were far away, right?
+
+445
+00:31:18,500 --> 00:31:20,122
+Speaker 1: I didn't go to them on Halloween.
+
+446
+00:31:20,142 --> 00:31:21,223
+Speaker 1: Halloween was a local deal.
+
+447
+00:31:21,243 --> 00:31:36,800
+Speaker 1: So you only knew what pumpkins looked like in your neighborhood, and you knew what they looked like on TV, and you could, I guess, who was smart enough to, like, go to the library and get a book on it, but would there even be such a thing, and what kind of information would it have about more advanced techniques?
+
+448
+00:31:37,301 --> 00:31:43,589
+Speaker 1: It's like, unless you were, like, a special, like, a harvest engraver or something, how would you know to do advanced pumpkin shit?
+
+449
+00:31:43,609 --> 00:31:47,053
+Speaker 1: So for a lot of our life, pumpkin carving was real simple.
+
+450
+00:31:47,113 --> 00:31:49,075
+Speaker 1: Triangle eyeball, right?
+
+451
+00:31:49,095 --> 00:31:52,740
+Speaker 1: You know, crescent mouth, maybe with a swaggle tooth or two in there, right?
+
+452
+00:31:53,101 --> 00:31:58,920
+Speaker 0: Usually I'd try to make the little square tooth coming out, but if I messed it up, I'd cut it off and put pumpkin seeds in there as teeth.
+
+453
+00:31:59,823 --> 00:32:00,719
+Speaker 1: Oh, that's a bad idea.
+
+454
+00:32:01,443 --> 00:32:02,240
+Speaker 0: That was the backup plan.
+
+455
+00:32:02,260 --> 00:32:10,418
+Speaker 1: I usually successfully got one or two square teeth on there in the crescent mouth, but generally it's just, yeah, you cut a hole in the top, all right?
+
+456
+00:32:10,498 --> 00:32:11,380
+Speaker 1: You take the stem off.
+
+457
+00:32:12,140 --> 00:32:17,870
+Speaker 1: Even though I've learned more recently that actually, thanks to the internet, right, the exact opposite of what I just told you, right?
+
+458
+00:32:17,910 --> 00:32:19,953
+Speaker 1: With the internet, I can learn more advanced techniques.
+
+459
+00:32:20,454 --> 00:32:23,980
+Speaker 1: I learned that it's probably better to cut a hole in the bottom, that a pumpkin will last longer that way.
+
+460
+00:32:25,421 --> 00:32:30,856
+Speaker 1: You cut the hole in the bottom, if you're smart and you've read the internet, you scoop out all the shit, right?
+
+461
+00:32:30,996 --> 00:32:32,160
+Speaker 1: Cause you got to put the candle in there.
+
+462
+00:32:33,322 --> 00:32:36,348
+Speaker 1: Or I guess nowadays you could put an LED light in there, probably be better.
+
+463
+00:32:36,448 --> 00:32:38,613
+Speaker 1: Get some color changing going on, right?
+
+464
+00:32:38,734 --> 00:32:39,676
+Speaker 1: Don't have to worry about fire.
+
+465
+00:32:39,696 --> 00:32:41,299
+Speaker 1: It stays on all the time.
+
+466
+00:32:43,060 --> 00:32:44,403
+Speaker 1: You get a few of them in there.
+
+467
+00:32:44,423 --> 00:32:51,360
+Speaker 1: You get different ones in the eyes or something, you know, and then you have the skills of an artist, you draw on the front of it.
+
+468
+00:32:52,281 --> 00:33:00,520
+Speaker 1: And then you take your special knife that you got from the pumpkin carving kit and you poke it in there and you saw out the area that you drew on.
+
+469
+00:33:01,241 --> 00:33:12,900
+Speaker 1: Or if you're even fancier, you could do an etching basically where you scrape away the pumpkin surface and then you scrape deeper in areas you want more light to shine through or even go all the way through.
+
+470
+00:33:13,923 --> 00:33:15,497
+Speaker 0: That's like the advanced technique.
+
+471
+00:33:15,980 --> 00:33:31,440
+Speaker 1: That's the most advanced technique and in other areas you only scrape away a little bit and then you can sort of have a scale of brightness of the light shining through and really get some high resolution artworks on there.
+
+472
+00:33:32,241 --> 00:33:33,563
+Speaker 0: Okay, I put it on the stream.
+
+473
+00:33:33,603 --> 00:33:37,948
+Speaker 0: I found a picture of the, there are way better pumpkin carving tools available today.
+
+474
+00:33:37,988 --> 00:33:45,498
+Speaker 0: When we were kids, you basically, if you even had a pumpkin carving kit, you probably had a poker, which is basically just a less sharp owl, AWL.
+
+475
+00:33:47,561 --> 00:33:58,935
+Speaker 0: You had the shittiest, like, dullest butter knife saw with ridges on both sides that you'd use to like cut the thing and then a scoop that broke immediately.
+
+476
+00:33:58,975 --> 00:34:03,360
+Speaker 0: and then you just use one of your parents' like kitchen scoops or kitchen spoons instead.
+
+477
+00:34:03,860 --> 00:34:11,998
+Speaker 0: And if you were real lucky, you also had a little thing you could stick into the bottom of the pumpkin to hold up the candles so it would be a little higher to get more light out.
+
+478
+00:34:13,741 --> 00:34:18,027
+Speaker 0: It was like this plastic kit that was on sale at every store and everyone I knew had the exact same kit.
+
+479
+00:34:18,047 --> 00:34:18,728
+Speaker 0: They were all red.
+
+480
+00:34:19,050 --> 00:34:25,179
+Speaker 0: Like they were red, the cheapest plastic, like we're talking Bakelite levels of crap plastic and they cost like a dollar.
+
+481
+00:34:28,420 --> 00:34:32,204
+Speaker 0: Yeah, our technique before the internet, like, I'm going to ignore modern pumpkin carving.
+
+482
+00:34:33,024 --> 00:34:41,431
+Speaker 0: As a kid, the technique our family used was basically just like the family had a, I don't know, communal passed down technique.
+
+483
+00:34:41,491 --> 00:34:42,992
+Speaker 0: Like the family kind of had a way.
+
+484
+00:34:43,052 --> 00:34:53,920
+Speaker 0: we did it, but we'd always put newspaper all over the floor in the kitchen and we'd have to lock the dogs outside because the dogs were a problem when the pumpkins were being carved for all the reasons you can imagine.
+
+485
+00:34:54,719 --> 00:35:08,573
+Speaker 0: And we'd make the biggest mess, but we'd basically carve the top out, scoop the guts out, and then we'd try to dry the pumpkin out a little bit under the idea that if we dried it out a little bit in the oven, like on low, that would make, that would have less moisture.
+
+486
+00:35:08,933 --> 00:35:14,038
+Speaker 0: So it'd be less likely to mold and get disgusting too early and thus would last longer.
+
+487
+00:35:14,498 --> 00:35:16,520
+Speaker 0: I don't think that actually worked, but that's what we did.
+
+488
+00:35:17,382 --> 00:35:21,520
+Speaker 1: I think the hole in the bottom instead of the top based on my readings would make it last longer.
+
+489
+00:35:21,921 --> 00:35:30,040
+Speaker 0: I remember I used a thing of the day years and years ago where someone did an experiment where they tried like soaking up one pumpkin in bleach and like doing all these different techniques.
+
+490
+00:35:30,260 --> 00:35:31,319
+Speaker 1: That seems like it's not going to work.
+
+491
+00:35:31,680 --> 00:35:32,103
+Speaker 0: Yeah.
+
+492
+00:35:32,123 --> 00:35:35,060
+Speaker 0: And the conclusion at the end was nothing saves a pumpkin.
+
+493
+00:35:35,940 --> 00:35:36,541
+Speaker 1: Yeah, of course not.
+
+494
+00:35:36,601 --> 00:35:38,644
+Speaker 1: nothing saves it.
+
+495
+00:35:38,905 --> 00:35:40,527
+Speaker 1: Every year I get a pumpkin these days.
+
+496
+00:35:40,547 --> 00:35:48,920
+Speaker 1: I usually buy a medium sized one and I put it out on the balcony in early October and then I forget to throw it away until March or so.
+
+497
+00:35:50,305 --> 00:35:50,919
+Speaker 0: That's the way.
+
+498
+00:35:51,780 --> 00:35:51,961
+Speaker 1: Yeah.
+
+499
+00:35:52,121 --> 00:35:55,006
+Speaker 1: And that pumpkin, that pumpkin, I don't cut it open.
+
+500
+00:35:55,026 --> 00:35:56,429
+Speaker 1: I don't carve it or anything.
+
+501
+00:35:56,489 --> 00:35:58,733
+Speaker 1: It's just a medium sized, you know, decorative guy.
+
+502
+00:35:58,753 --> 00:36:01,398
+Speaker 1: And it usually costs like a dollar or whatever.
+
+503
+00:36:01,758 --> 00:36:02,540
+Speaker 1: Five dollars maybe.
+
+504
+00:36:02,800 --> 00:36:12,220
+Speaker 0: We made a big deal about picking our pumpkins that we'd always go to an apple picking place, pick some apples, go through our corn maze because those were, those were every place on a corn maze.
+
+505
+00:36:12,681 --> 00:36:18,991
+Speaker 0: And then at the end of the day we would go and I am confident our parents hated this aspect.
+
+506
+00:36:19,772 --> 00:36:24,500
+Speaker 0: We would spend like over an hour trying to find the exact perfect pumpkins.
+
+507
+00:36:25,761 --> 00:36:29,840
+Speaker 1: I mean, we obviously just didn't take any old pumpkin, but it didn't take us that long.
+
+508
+00:36:30,261 --> 00:36:33,786
+Speaker 0: We were like weird about it, partly because like we both wanted to have the biggest one.
+
+509
+00:36:33,906 --> 00:36:35,769
+Speaker 0: I liked very tall pumpkins.
+
+510
+00:36:36,270 --> 00:36:43,120
+Speaker 0: Like I wanted a very Dan Aykroyd style pumpkin while my brother usually wanted a more like John Belushi, big wide pumpkin.
+
+511
+00:36:45,720 --> 00:36:45,981
+Speaker 1: Okay.
+
+512
+00:36:46,381 --> 00:36:58,140
+Speaker 1: Yeah, we just, you know, but I'm talking about nowadays I get the medium sized guy and I put him out there and even though it's not opened at all, it does, you know, go bad.
+
+513
+00:37:01,123 --> 00:37:05,300
+Speaker 1: So if you cut it open, oh yeah, you just cut the life of that by a ton.
+
+514
+00:37:06,220 --> 00:37:09,988
+Speaker 0: We'd also have the problem of we'd, we'd kinda, and other people in the neighborhood would do this too.
+
+515
+00:37:10,028 --> 00:37:15,580
+Speaker 0: A lot of families would leave the kids pumpkins out kind of as long as possible on the front stoop.
+
+516
+00:37:16,060 --> 00:37:19,189
+Speaker 0: Like it's almost like every kid was like, oh, my pumpkin made it the longest.
+
+517
+00:37:19,850 --> 00:37:23,420
+Speaker 0: And usually they got scootled when they started to turn into slime.
+
+518
+00:37:25,521 --> 00:37:32,940
+Speaker 0: I definitely had one turned into slime one year and insisted that my parents leave it out even after it turned into slime and then a bunch of squirrels ate it and it disappeared.
+
+519
+00:37:33,980 --> 00:37:34,080
+Speaker 1: Yeah.
+
+520
+00:37:34,100 --> 00:37:39,250
+Speaker 1: I mean, yeah, it was much, you know, nowadays it's like I said, the pumpkin sits on the balcony till March or whatever.
+
+521
+00:37:39,351 --> 00:37:44,120
+Speaker 1: And the reason is because to throw it out, I have to go out there in the cold, get it, bring it inside.
+
+522
+00:37:44,961 --> 00:37:47,387
+Speaker 1: It's like, it's like a little bit of work to go get rid of it.
+
+523
+00:37:47,788 --> 00:37:52,280
+Speaker 1: Whereas when we were in a house, it's like it was sitting on the porch.
+
+524
+00:37:53,520 --> 00:38:00,351
+Speaker 1: So it's like, so it's like, so it's like I go outside and if I see it there and it's November and it's getting, it's not looking good.
+
+525
+00:38:00,472 --> 00:38:02,295
+Speaker 1: I just did the trash cans right there.
+
+526
+00:38:02,355 --> 00:38:02,896
+Speaker 1: Just like, bye.
+
+527
+00:38:04,038 --> 00:38:05,520
+Speaker 1: So that was never an issue.
+
+528
+00:38:05,680 --> 00:38:06,641
+Speaker 0: The listener has a question.
+
+529
+00:38:06,701 --> 00:38:07,743
+Speaker 0: What about white pumpkins?
+
+530
+00:38:08,363 --> 00:38:09,885
+Speaker 0: I have an opinion about those.
+
+531
+00:38:10,686 --> 00:38:11,267
+Speaker 0: I was a kid.
+
+532
+00:38:11,867 --> 00:38:19,797
+Speaker 0: The only houses that had a white pumpkin that they carved were, and I'm going to characterize them broadly, but this was my perception as a kid and I think it holds up today.
+
+533
+00:38:20,397 --> 00:38:22,660
+Speaker 0: They were the extremely yuppie families.
+
+534
+00:38:23,760 --> 00:38:37,337
+Speaker 1: No, I mean, I never saw anyone make, there's no reason you couldn't make a jack-o-lantern out of another variety of pumpkin, but I never seen anyone not use the normal orange one because that's widely available.
+
+535
+00:38:37,357 --> 00:38:39,460
+Speaker 1: You'd have to really go out of your way to get something different.
+
+536
+00:38:39,720 --> 00:38:40,783
+Speaker 0: The orchards had the white pumpkins.
+
+537
+00:38:40,843 --> 00:38:44,615
+Speaker 1: I remember seeing them there, but yeah, but those are always in like the eating gourd section.
+
+538
+00:38:44,655 --> 00:38:46,240
+Speaker 1: They weren't in the carving gourd section.
+
+539
+00:38:51,801 --> 00:38:59,449
+Speaker 0: The houses that had the white pumpkins carved were the same houses that when they put up Christmas lights, they only put up white Christmas lights.
+
+540
+00:38:59,489 --> 00:39:02,512
+Speaker 0: They didn't put up like the multicolored mess that everyone else did.
+
+541
+00:39:02,552 --> 00:39:09,400
+Speaker 0: They'd have like all white meticulously designed and then their pumpkins were white and they usually had those synthetic non-green Christmas trees.
+
+542
+00:39:10,081 --> 00:39:16,132
+Speaker 1: Yeah, I mean, getting a different colored gourd, if possible, it could be good based on what you want to carve on there, right?
+
+543
+00:39:16,152 --> 00:39:20,580
+Speaker 1: Maybe you want to do something ghosty, a white one might be better and more suitable for your artwork.
+
+544
+00:39:22,661 --> 00:39:25,528
+Speaker 0: Yeah, I have no prejudice against non-orange pumpkins today.
+
+545
+00:39:25,649 --> 00:39:29,940
+Speaker 0: I'm just only talking from the perspective of like six-year-old rim living in Detroit.
+
+546
+00:39:30,940 --> 00:39:35,767
+Speaker 1: Yeah, I mean, you know, maybe someone could even get creative, get like, you know, some yellow squashes in there.
+
+547
+00:39:35,787 --> 00:39:41,374
+Speaker 1: I don't know how you're going to carve it, but there's not a lot of room in there for the candle, but maybe you could pull it off, right?
+
+548
+00:39:42,115 --> 00:39:43,517
+Speaker 1: There is a space inside.
+
+549
+00:39:45,039 --> 00:39:45,800
+Speaker 1: Good luck, I guess.
+
+550
+00:39:46,140 --> 00:39:47,900
+Speaker 0: I remember one year at RIT, I did buy...
+
+551
+00:39:48,760 --> 00:39:49,558
+Speaker 1: Probably better to eat it.
+
+552
+00:39:50,080 --> 00:39:55,100
+Speaker 0: I bought a mini pumpkin at Wegmans, like one of the little tiny ones, the little tiny orange one that's like four inches across.
+
+553
+00:39:55,782 --> 00:39:59,735
+Speaker 1: Yeah, you can't really carve those, you just put them somewhere.
+
+554
+00:39:59,755 --> 00:40:00,758
+Speaker 1: That's like a desk decoration.
+
+555
+00:40:01,980 --> 00:40:09,620
+Speaker 0: I got an X-Acto knife and a tiny little saw, and I tried to make a tiny little jack-o-lantern, and I basically destroyed the pumpkin and then I had to throw it away.
+
+556
+00:40:10,240 --> 00:40:13,780
+Speaker 1: Yeah, those don't really have a cavity in them to make a jack-o-lantern from.
+
+557
+00:40:13,860 --> 00:40:16,191
+Speaker 0: Yeah, it was a disaster.
+
+558
+00:40:16,211 --> 00:40:17,859
+Speaker 0: I remember being mad about it.
+
+559
+00:40:18,442 --> 00:40:22,079
+Speaker 1: What you got to do with those is something you see, you know, is you got to paint on it.
+
+560
+00:40:24,003 --> 00:40:32,440
+Speaker 1: A lot of people will do that where they'll just, you know, pumpkins of all sizes, but usually the smaller ones that you can't cut open, they will paint something on there.
+
+561
+00:40:32,500 --> 00:40:41,200
+Speaker 1: And of course, well, the world's your oyster if you're painting on there, and then you got to cover that paint up with some kind of top coat to really seal it in and protect it from the elements.
+
+562
+00:40:41,882 --> 00:40:48,899
+Speaker 1: And the only problem with these is, you know, the paintings can be whatever, they can even be amazing, they can be crappy, you know.
+
+563
+00:40:50,040 --> 00:40:56,680
+Speaker 1: But you got to have some sort of external light to shine onto them, otherwise people come to Trick or Treat and they can't see that shit.
+
+564
+00:40:58,963 --> 00:40:59,944
+Speaker 0: Ah, Trick or Treat.
+
+565
+00:40:59,984 --> 00:41:08,440
+Speaker 0: The thing is, what I miss about that era was that we'd go Trick or Treating and we'd see everyone else's pumpkins and kind of comment on them.
+
+566
+00:41:08,500 --> 00:41:10,971
+Speaker 0: And we'd always talk about, like, which house had the best pumpkin?
+
+567
+00:41:11,011 --> 00:41:13,040
+Speaker 0: What was the best pumpkin we saw on the way?
+
+568
+00:41:13,801 --> 00:41:20,380
+Speaker 0: And I just read an article this morning talking about how in a lot of Connecticut towns, kids really don't Trick or Treat at all anymore.
+
+569
+00:41:21,140 --> 00:41:23,559
+Speaker 1: No, Trick or Treating has gone down a whole bunch, I think.
+
+570
+00:41:23,800 --> 00:41:24,618
+Speaker 0: For a lot of reasons.
+
+571
+00:41:25,541 --> 00:41:29,655
+Speaker 1: Yeah, because, you know, parents are afraid of danger, right?
+
+572
+00:41:29,695 --> 00:41:31,200
+Speaker 1: Who am I to say I'm not a parent?
+
+573
+00:41:31,380 --> 00:41:36,590
+Speaker 1: But statistically, shit was way more dangerous in the 50s and the 60s.
+
+574
+00:41:36,630 --> 00:41:41,860
+Speaker 1: There were way more, if you look at crime stats, per capita and such and such.
+
+575
+00:41:42,720 --> 00:41:51,440
+Speaker 1: People in the 50s and 60s, all these boomers who are afraid now, maybe they are afraid because things were so dangerous when they were kids, but their parents let them roam free in that danger.
+
+576
+00:41:52,061 --> 00:41:54,785
+Speaker 1: And survivorship bias, they survived until now.
+
+577
+00:41:55,266 --> 00:42:03,380
+Speaker 1: And while the world is full of dangers, I just read, you know, it's like you can always turn on the evening news and find at least one story, right?
+
+578
+00:42:04,000 --> 00:42:07,668
+Speaker 1: But quantifiably, it's much safer now.
+
+579
+00:42:07,748 --> 00:42:13,380
+Speaker 1: You'd actually be better off letting your kids roam free today than statistically speaking.
+
+580
+00:42:13,480 --> 00:42:22,300
+Speaker 0: But not Trick or Treating, because actually the lead in that article was interesting and it ties back to my news earlier.
+
+581
+00:42:22,940 --> 00:42:25,464
+Speaker 0: The single biggest danger to kids Trick or Treating is getting hit by cars.
+
+582
+00:42:25,524 --> 00:42:32,636
+Speaker 0: And kids get hit by cars in such high quantity during Trick or Treating, that is the highest cited reason.
+
+583
+00:42:32,997 --> 00:42:34,840
+Speaker 0: parents have stopped taking their kids Trick or Treating.
+
+584
+00:42:35,160 --> 00:42:36,883
+Speaker 0: Not fear of poisoning the candy.
+
+585
+00:42:36,923 --> 00:42:39,106
+Speaker 0: That's only like the New York Post rag nonsense.
+
+586
+00:42:39,507 --> 00:42:41,009
+Speaker 0: Not like all those other reasons.
+
+587
+00:42:41,349 --> 00:42:44,314
+Speaker 0: A big part of it was kids got hit by cars all the time.
+
+588
+00:42:44,414 --> 00:42:45,275
+Speaker 0: It was a real danger.
+
+589
+00:42:45,295 --> 00:42:48,640
+Speaker 0: A lot of parents knew another parent who had a kid hit by a car.
+
+590
+00:42:49,643 --> 00:42:50,719
+Speaker 1: Yep, that's true.
+
+591
+00:42:51,160 --> 00:42:52,401
+Speaker 0: And think about it, it's a perfect storm.
+
+592
+00:42:52,662 --> 00:43:02,950
+Speaker 0: You've got kids going out at dusk, the most dangerous time to be around cars, in neighborhoods where there's basically no enforcement of traffic rules, especially subdivisions.
+
+593
+00:43:04,440 --> 00:43:08,686
+Speaker 0: And it's kids who are off roaming, running around in the street, wearing costumes, masks.
+
+594
+00:43:08,706 --> 00:43:09,928
+Speaker 0: they can't see out of that well.
+
+595
+00:43:10,349 --> 00:43:17,980
+Speaker 0: And also, statistically, Halloween is one of, it's not the highest, but it's in the top 10 drunk driving nights in America.
+
+596
+00:43:18,343 --> 00:43:20,640
+Speaker 0: More drunk drivers out on Halloween than many other nights.
+
+597
+00:43:20,880 --> 00:43:25,647
+Speaker 1: You'd hope though that the drunken people should be driving way later than the kids are Trick or Treating.
+
+598
+00:43:26,227 --> 00:43:29,652
+Speaker 1: If they're kids, they should be Trick or Treating like 6, 7, maybe 8.
+
+599
+00:43:29,652 --> 00:43:38,761
+Speaker 1: Whereas the drunken people you'd imagine are driving home 10, 11, 12, 1, 5.
+
+600
+00:43:38,761 --> 00:43:42,965
+Speaker 1: But yeah, it's like, you know, this is another reason to try to live in a place without cars.
+
+601
+00:43:43,505 --> 00:43:48,530
+Speaker 1: And then kids can, one of the many benefits is that kids can just go out Trick or Treating freely.
+
+602
+00:43:49,010 --> 00:43:59,580
+Speaker 1: Right now, in our neighborhood, right, the open street, which usually is only a weekend thing, on Halloween, they got the open street going on and there's all kinds of Halloween events happening there.
+
+603
+00:44:00,061 --> 00:44:04,267
+Speaker 1: Everyone bringing out their kids like, you know, we block off a space and we say no cars here.
+
+604
+00:44:04,828 --> 00:44:06,851
+Speaker 1: And then the Halloween happens in that space.
+
+605
+00:44:06,931 --> 00:44:12,360
+Speaker 0: Funny how every time you block off a street to cars, suddenly that street naturally fills with people doing things.
+
+606
+00:44:12,720 --> 00:44:25,839
+Speaker 1: I'm also happy I heard that there is a truck there with a haunted experience involving an alien and kids have, at least according to one report, are screaming and in tears after going in this truck.
+
+607
+00:44:25,859 --> 00:44:26,560
+Speaker 1: Oh that's fantastic.
+
+608
+00:44:27,401 --> 00:44:28,142
+Speaker 1: I love that shit.
+
+609
+00:44:28,602 --> 00:44:42,718
+Speaker 1: And also another thing that happens in our neighborhood, in the major city, is that kids will not Trick or Treat at houses very much because there aren't houses, there's apartment buildings and it's not like you can go in an apartment building.
+
+610
+00:44:42,738 --> 00:44:44,780
+Speaker 1: you don't live in and start knocking on all the apartments.
+
+611
+00:44:45,281 --> 00:44:46,983
+Speaker 1: But you can do it in your own building.
+
+612
+00:44:47,003 --> 00:44:50,888
+Speaker 1: If you live in an apartment building, very often kids will Trick or Treat in the building.
+
+613
+00:44:52,850 --> 00:45:00,200
+Speaker 1: But you can't really have a jack-o-lantern with a fire in the building at your door, but you can get one with the LEDs now.
+
+614
+00:45:00,541 --> 00:45:05,490
+Speaker 1: I saw some LED ones in the hallway.
+
+615
+00:45:06,552 --> 00:45:11,100
+Speaker 1: Back in the olden days, I guess people would just have fire in the hallway or not have jack-o-lanterns in the building.
+
+616
+00:45:11,301 --> 00:45:15,980
+Speaker 0: Back in the old days, people would have a Christmas tree covered with literal candles with actual fire.
+
+617
+00:45:17,060 --> 00:45:21,585
+Speaker 1: And they would have fire.
+
+618
+00:45:22,987 --> 00:45:25,209
+Speaker 1: Yeah, but that's how it is.
+
+619
+00:45:25,270 --> 00:45:25,790
+Speaker 1: Oh, that's right.
+
+620
+00:45:26,050 --> 00:45:34,600
+Speaker 1: The other thing kids do is they will go to a street that has a commercial street, like an avenue with a bunch of businesses, and they will Trick or Treat at the businesses.
+
+621
+00:45:34,760 --> 00:45:40,415
+Speaker 1: Because you never know what crazy you're going to find going up to a house or an apartment, but all the businesses, they're ready.
+
+622
+00:45:41,337 --> 00:45:42,460
+Speaker 1: They got candy for the children.
+
+623
+00:45:42,540 --> 00:45:43,826
+Speaker 1: Remember in case we did that one year?
+
+624
+00:45:43,866 --> 00:45:46,800
+Speaker 0: We went to Lakeside Mall, and the mall was open for Trick or Treat.
+
+625
+00:45:47,000 --> 00:45:49,165
+Speaker 1: Oh, I've seen Trick or Treating in malls before, yeah.
+
+626
+00:45:49,767 --> 00:45:52,152
+Speaker 1: But I just remember one time I was in a store.
+
+627
+00:45:52,453 --> 00:45:55,380
+Speaker 1: I was picking up a sandwich for dinner on Halloween or something.
+
+628
+00:45:55,880 --> 00:46:01,072
+Speaker 1: And some kid comes in and Trick or Treats while I'm waiting for my sandwich, and the dude gives an apple.
+
+629
+00:46:02,334 --> 00:46:04,820
+Speaker 1: And the kid was happy to get the apple.
+
+630
+00:46:05,680 --> 00:46:05,743
+Speaker 0: Wow.
+
+631
+00:46:07,561 --> 00:46:08,283
+Speaker 1: I'm like, "Damn.
+
+632
+00:46:08,584 --> 00:46:09,066
+Speaker 1: All right.
+
+633
+00:46:09,407 --> 00:46:09,748
+Speaker 1: How about
+
+634
+00:46:09,768 --> 00:46:10,049
+Speaker 1: that?".
+
+635
+00:46:11,353 --> 00:46:12,657
+Speaker 1: But also, "Dude, give it an
+
+636
+00:46:12,778 --> 00:46:13,039
+Speaker 1: apple.".
+
+637
+00:46:13,541 --> 00:46:15,060
+Speaker 0: There was one old lady in our neighborhood.
+
+638
+00:46:15,060 --> 00:46:17,940
+Speaker 1: Well, it's like I was waiting for Radish Skull to come in next.
+
+639
+00:46:18,240 --> 00:46:21,505
+Speaker 0: When we were kids, there was one old lady in our neighborhood who was super sweet.
+
+640
+00:46:21,986 --> 00:46:30,320
+Speaker 0: And on Halloween, she made traditional, old-school candied apples on the sticks for real.
+
+641
+00:46:31,121 --> 00:46:31,779
+Speaker 1: She made them.
+
+642
+00:46:32,563 --> 00:46:33,651
+Speaker 0: She made them.
+
+643
+00:46:33,771 --> 00:46:34,939
+Speaker 0: Hundreds of them.
+
+644
+00:46:37,241 --> 00:46:39,987
+Speaker 1: During Trick or Treating, I've never had anyone give anything that was made.
+
+645
+00:46:40,007 --> 00:46:45,700
+Speaker 1: It was always purchased food, candies, even if they were the shitty ones.
+
+646
+00:46:46,100 --> 00:46:48,386
+Speaker 0: Yeah.
+
+647
+00:46:48,887 --> 00:46:50,992
+Speaker 0: But I sadly didn't carve a pumpkin this year.
+
+648
+00:46:51,012 --> 00:46:51,994
+Speaker 0: I've probably just been too busy.
+
+649
+00:46:53,457 --> 00:46:57,973
+Speaker 1: This has been just generally- Where am I gonna put- If I carve a pumpkin, it's gonna sit on the balcony where no one will see it.
+
+650
+00:46:58,033 --> 00:46:59,920
+Speaker 1: So I just put the pumpkin out there uncarved.
+
+651
+00:46:59,960 --> 00:47:04,400
+Speaker 0: Well, our balcony faces basically a garden surrounded by all these other apartment buildings.
+
+652
+00:47:06,980 --> 00:47:10,249
+Speaker 1: Maybe somebody with binoculars or a telescope will see it from afar.
+
+653
+00:47:11,712 --> 00:47:13,717
+Speaker 1: Zoom in, like, "Oh, I see a pumpkin in the distance.
+
+654
+00:47:13,757 --> 00:47:14,259
+Speaker 1: Let me check it
+
+655
+00:47:14,399 --> 00:47:14,499
+Speaker 1: out.".
+
+656
+00:47:14,821 --> 00:47:16,097
+Speaker 0: I mean, those balconies are all close enough.
+
+657
+00:47:18,925 --> 00:47:20,520
+Speaker 1: Or a butthole or a goat's-y or something.
+
+658
+00:47:24,081 --> 00:47:26,427
+Speaker 0: I always enjoyed carving pumpkins, even though I was bad at it.
+
+659
+00:47:26,608 --> 00:47:31,160
+Speaker 0: That's the lesson I really take away from this, is that you don't have to be good at something to enjoy doing it.
+
+660
+00:47:31,260 --> 00:47:32,734
+Speaker 0: I mean, look, we're doing Geek Nights for 19 years.
+
+661
+00:47:34,221 --> 00:47:45,999
+Speaker 1: I think the lesson is that it's like, "Hey, we've managed to keep a tradition that requires people to do some kind of arts and crafts, even if they don't do that at any other point in their
+
+662
+00:47:46,039 --> 00:47:46,340
+Speaker 1: lives.".
+
+663
+00:47:47,740 --> 00:47:56,260
+Speaker 1: They've pushed arts and crafts out of their lives after they left school or summer camp or wherever the last time they did an art or a craft, if they're not a crafty person.
+
+664
+00:47:57,101 --> 00:48:07,080
+Speaker 1: And yet, if they have children or celebrate Halloween in some way, the arts and crafts still comes and gets them once a year.
+
+665
+00:48:08,660 --> 00:48:24,360
+Speaker 0: I mean, even walking out to get lunch today in midtown Manhattan, I walked past one apartment building that's obviously a rich person effectively house in midtown, and they had a little skeleton decoration, and they had a very well-carved traditional jack-o-lantern with a candle in it.
+
+666
+00:48:24,740 --> 00:48:26,059
+Speaker 1: They paid someone to do that.
+
+667
+00:48:26,360 --> 00:48:26,584
+Speaker 0: Maybe.
+
+668
+00:48:26,645 --> 00:48:27,520
+Speaker 0: Maybe they made it themselves.
+
+669
+00:48:28,901 --> 00:48:34,234
+Speaker 0: It's that place that had a bunch of climate change is real decorations a couple years ago.
+
+670
+00:48:34,254 --> 00:48:36,239
+Speaker 0: I think I took a picture of it.
+
+671
+00:48:39,341 --> 00:48:40,689
+Speaker 0: That's all I got.
+
+672
+00:48:40,689 --> 00:48:42,137
+Speaker 0: 19 years of Geek Nights.
+
+673
+00:48:42,358 --> 00:48:42,740
+Speaker 0: God damn.
+
+674
+00:48:45,822 --> 00:48:48,260
+Speaker 0: So give us two weeks for everything to happen.
+
+675
+00:48:49,581 --> 00:48:53,253
+Speaker 0: Make a plan to vote, even if you think, "Oh, I'll vote on election
+
+676
+00:48:53,273 --> 00:48:53,714
+Speaker 0: day.".
+
+677
+00:48:54,156 --> 00:48:55,360
+Speaker 0: Make a specific plan.
+
+678
+00:48:56,980 --> 00:48:58,184
+Speaker 1: The plan's not complicated.
+
+679
+00:48:58,244 --> 00:49:01,997
+Speaker 1: It's like, "I'm going to wake up and immediately go to the polling place.
+
+680
+00:49:02,017 --> 00:49:02,519
+Speaker 1: This is where it
+
+681
+00:49:02,619 --> 00:49:02,680
+Speaker 1: is.".
+
+682
+00:49:02,820 --> 00:49:03,408
+Speaker 0: Yep.
+
+683
+00:49:03,448 --> 00:49:04,219
+Speaker 0: There's real data.
+
+684
+00:49:04,840 --> 00:49:06,169
+Speaker 1: "I'm going to go after work.
+
+685
+00:49:06,310 --> 00:49:07,115
+Speaker 1: It's on my calendar.
+
+686
+00:49:07,135 --> 00:49:07,578
+Speaker 1: Go after
+
+687
+00:49:07,598 --> 00:49:07,820
+Speaker 1: work.".
+
+688
+00:49:07,860 --> 00:49:13,898
+Speaker 0: If you make a specific plan, you're more likely to actually do it and less likely for something to get in your way and prevent you from doing it.
+
+689
+00:49:16,340 --> 00:49:25,780
+Speaker 0: Otherwise, we'll see you in a couple weeks, hopefully get back out of our business, and mark my words, we're going to do something for the 20th anniversary episode of Geek Nights.
+
+690
+00:49:27,201 --> 00:49:32,657
+Speaker 0: I'm going to make a plan, even if it is us doing a live event at a venue that no one else comes to.
+
+691
+00:49:32,697 --> 00:49:33,720
+Speaker 0: That would be really funny.
+
+692
+00:49:34,420 --> 00:49:35,780
+Speaker 1: It could be a tiny, tiny venue.
+
+693
+00:49:35,900 --> 00:49:36,879
+Speaker 0: It could be a really tiny venue.
+
+694
+00:49:37,120 --> 00:49:38,780
+Speaker 1: There are some in the neighborhood we could use.
+
+695
+00:49:40,562 --> 00:49:43,296
+Speaker 0: The words I said were a venue.
+
+696
+00:49:43,417 --> 00:49:44,000
+Speaker 0: The word venue.
+
+697
+00:49:44,941 --> 00:49:46,142
+Speaker 1: I do know some venues.
+
+698
+00:49:46,162 --> 00:49:48,265
+Speaker 1: There's this Grove place and this QED place.
+
+699
+00:49:48,325 --> 00:49:50,988
+Speaker 1: I could go to them and be like, "Look, I got this podcast.
+
+700
+00:49:51,008 --> 00:49:53,490
+Speaker 1: We've got no listeners, but it's 20 years old.
+
+701
+00:49:53,530 --> 00:49:54,912
+Speaker 1: We've been doing this shit 20 years.
+
+702
+00:49:55,393 --> 00:49:56,674
+Speaker 1: We want to do one event.
+
+703
+00:49:56,694 --> 00:49:58,256
+Speaker 1: You've got a tiny little venue here.
+
+704
+00:49:59,077 --> 00:50:00,378
+Speaker 1: Let us just do this one
+
+705
+00:50:00,478 --> 00:50:00,598
+Speaker 1: thing.".
+
+706
+00:50:02,160 --> 00:50:03,404
+Speaker 1: It doesn't have to be on a Halloween.
+
+707
+00:50:03,424 --> 00:50:05,993
+Speaker 1: I know you've probably got something more important booked on Halloween.
+
+708
+00:50:06,013 --> 00:50:08,320
+Speaker 1: It could be day before, whatever.
+
+709
+00:50:09,942 --> 00:50:10,906
+Speaker 1: It might just be us two.
+
+710
+00:50:10,966 --> 00:50:11,889
+Speaker 1: We might not sell any tickets.
+
+711
+00:50:11,909 --> 00:50:12,832
+Speaker 0: Just let this happen.
+
+712
+00:50:20,580 --> 00:50:22,949
+Speaker 0: This has been Geek Nights with Rim and Scott.
+
+713
+00:50:23,010 --> 00:50:25,540
+Speaker 0: Special thanks to DJ Pretzel for the opening theme.
+
+714
+00:50:25,740 --> 00:50:31,760
+Speaker 1: Be sure to visit our website at FrontRowClue.com for show notes, discussion, links, and more.
+
+715
+00:50:32,280 --> 00:50:34,905
+Speaker 0: Remember, Geek Nights is not one, but four different shows.
+
+716
+00:50:35,205 --> 00:50:36,868
+Speaker 0: Mondays are science and technology.
+
+717
+00:50:36,908 --> 00:50:38,672
+Speaker 0: Tuesdays, gaming and games.
+
+718
+00:50:38,792 --> 00:50:40,595
+Speaker 0: Wednesdays are animation and comics.
+
+719
+00:50:40,916 --> 00:50:43,280
+Speaker 0: Thursdays are arbitrary and indiscriminate.
+
+720
+00:50:43,380 --> 00:50:48,980
+Speaker 0: Geek Nights is distributed under a Creative Commons Attribution 4.0 International License.
+
+721
+00:50:49,460 --> 00:50:53,790
+Speaker 1: Geek Nights is recorded live with no studio and no audience.
+
+722
+00:50:54,272 --> 00:50:57,740
+Speaker 1: But unlike those other late shows, it's actually recorded at night.
+
+723
+00:50:58,362 --> 00:51:20,960
+Speaker 0: And the patron patrons on the 19th anniversary episode of Geek Nights are... Alan Joyce, Lin Kiji, Dread Lily Tenebrae, Case Care Makes Music, Chris Addad, Christopher Orr, Clinton Walton, Finn, Joel Hays, Penny Rymer, Rebecca Dunn, Sam Erickson, Shervin Von Horl, and a bunch of people whose names I will not say.
+
+724
+00:51:22,241 --> 00:51:24,165
+Speaker 0: We will do something for the 20th year.
+
+725
+00:51:24,185 --> 00:51:27,131
+Speaker 0: I've actually got some venues in mind.
+
+726
+00:51:27,451 --> 00:51:31,620
+Speaker 0: Scott seems more interested in the idea than I expected, so watch out.
+
+727
+00:51:31,900 --> 00:51:38,040
+Speaker 0: But we're not going to announce anything about that until at least, like, August next year, so don't hold your breath.
+
+728
+00:51:38,180 --> 00:52:11,014
+Speaker 0: But anyway, tonight, before we disappear for two weeks, I leave you with... BOM BITCHY BITCHY BITCHY BOM BITCHY BITCHY BITCHY BOM BITCHY BITCHY BITCHY BOM BITCHY BITCHY BITCHY BITCHY BITCHY BOM BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY
+
+729
+00:52:11,054 --> 00:52:21,380
+Speaker 1: BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY BITCHY.
+

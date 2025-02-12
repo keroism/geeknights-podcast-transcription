@@ -1,0 +1,2040 @@
+﻿1
+00:00:08,060 --> 00:00:10,018
+Speaker 0: It's Wednesday, February 14th, 2024.
+
+2
+00:00:10,018 --> 00:00:10,279
+Speaker 0: I'm Rim.
+
+3
+00:00:13,330 --> 00:00:13,970
+Speaker 1: And I'm Scott.
+
+4
+00:00:14,190 --> 00:00:15,315
+Speaker 0: And this is Geek Nights.
+
+5
+00:00:15,375 --> 00:00:19,169
+Speaker 0: Tonight, we're talking about Castlevania Nocturne.
+
+6
+00:00:19,990 --> 00:00:20,988
+Speaker 1: Let's do this.
+
+7
+00:00:22,072 --> 00:00:23,309
+Speaker 0: So I had to buy some new clothes.
+
+8
+00:00:24,150 --> 00:00:35,530
+Speaker 0: I basically, right before the pandemic, like literally the week before that PAX East, which was the last thing we did before the shutdowns, I bought a whole bunch of new jeans, like I replaced all my pants.
+
+9
+00:00:36,891 --> 00:00:45,090
+Speaker 0: And then the lockdown happened, and I actually didn't wear several of those pairs of jeans until relatively recently, all things considered.
+
+10
+00:00:46,230 --> 00:01:05,669
+Speaker 0: But also, I had a lot of work shirts and dress shirts and things that were kind of on the edge, like kind of worn out, and I needed more, and I didn't really buy any clothes during the entire dark times for obvious reasons, like it didn't really matter if something fit well when I'm just in a Zoom all day and I don't wear those kinds of clothes in my normal life, I only wear them when I'm working.
+
+11
+00:01:06,610 --> 00:01:08,470
+Speaker 0: So I finally had to get new clothes.
+
+12
+00:01:09,950 --> 00:01:26,528
+Speaker 0: And what I discovered was that the places that I have previously bought clothes that fit me, because I have a very skinny waist but wide shoulders, and there aren't that many brands that will fit me, and my waist is really tiny compared to the length of my legs, so it's hard to get pants that fit me too.
+
+13
+00:01:28,211 --> 00:01:32,870
+Speaker 0: I used to go to Uniqlo, and I went to Uniqlo, and I tried on some stuff.
+
+14
+00:01:32,990 --> 00:01:58,149
+Speaker 0: I also went to Muji and tried on some stuff, and historically, when I went to those kinds of places, and I have many shirts and many pairs of jeans from those places currently that fit me great, they don't seem to make those sizes anymore, or at least don't have as many of them, and most of the clothing had the same proportionate sizes as all the American brands of stores that I used to stop going to because nothing fits.
+
+15
+00:02:00,151 --> 00:02:24,750
+Speaker 0: And then I also realized that most of the clothes I still have from those stores, I actually didn't buy in the U.S I bought in Singapore and Manila right before the pandemic when I went on a big work trip, so I guess in some intervening period over the last several years, the sizing at some of these stores went from being the Asian-style sizing to more conforming to American standards.
+
+16
+00:02:25,812 --> 00:02:31,689
+Speaker 0: So I ended up, of all the places where Emily and I went-- All those stores will tailor clothes you buy there.
+
+17
+00:02:32,450 --> 00:02:34,316
+Speaker 0: Within very extreme limits.
+
+18
+00:02:34,797 --> 00:02:44,050
+Speaker 0: They will shorten pants, but obviously you can't lengthen pants, there's nothing you can do there, but they didn't have any pants that were the length I needed and were the waist I needed.
+
+19
+00:02:45,171 --> 00:02:50,050
+Speaker 1: There are also stores that, especially for pants, they don't sell pants in different lengths.
+
+20
+00:02:50,251 --> 00:02:58,790
+Speaker 1: All their pants are basically extremely long, and you just buy the one that matches your waist, and then they tailor literally every single pair of pants that anyone buys.
+
+21
+00:02:58,810 --> 00:03:10,310
+Speaker 0: And I have a bunch of tailored clothes, I just don't wear all tailored clothes, because I got money, but I don't have money money, and the fully tailored clothes, even from the cheaper places, that is a lot more expensive than regular old off-the-rack.
+
+22
+00:03:11,611 --> 00:03:38,750
+Speaker 0: So I ended up going to, of all places, the Bonobos, and they have shirts that are tailored to my exact triangle shape of my top, and they have pants that are designed for, they call them the athletic fit, but it-- The guy explained it, what it means is, if you are skinny, but you have huge quads and/or a huge butt, these pants are tailored specifically for that situation.
+
+23
+00:03:39,711 --> 00:03:49,270
+Speaker 0: And I tried them on, and they fit as good as my tailored pants, and the shirts I got there fit as good as my-- Well, 90% as good as my tailored shirts.
+
+24
+00:03:50,510 --> 00:03:57,890
+Speaker 1: I basically stopped buying clothes, period, because I had a bunch of clothes in certain categories, and I just stopped wearing those clothes almost entirely.
+
+25
+00:03:57,990 --> 00:03:59,009
+Speaker 0: Well, because you don't really go to work.
+
+26
+00:04:00,033 --> 00:04:00,599
+Speaker 1: No, I don't.
+
+27
+00:04:00,639 --> 00:04:01,570
+Speaker 1: I don't go anywhere.
+
+28
+00:04:02,071 --> 00:04:06,750
+Speaker 1: So I pretty much need clothes for laying around the house.
+
+29
+00:04:06,871 --> 00:04:10,730
+Speaker 1: So now I just have a bunch of sweatpants, tracksuits, that sort of thing.
+
+30
+00:04:11,191 --> 00:04:26,769
+Speaker 1: And then I have just a few clothes for going outside on the occasions I need to go outside, which is for a social thing, or go to a hockey game, I guess, and then bicycling clothes, which I already have enough of.
+
+31
+00:04:27,511 --> 00:04:34,610
+Speaker 0: No, I have a huge variety of my external sports-type clothes that are highly specific to all the different sports I do.
+
+32
+00:04:37,110 --> 00:04:40,230
+Speaker 1: But I need weightless clothes, I'm probably gonna get rid of a pile of clothes.
+
+33
+00:04:40,792 --> 00:04:41,274
+Speaker 0: I just did.
+
+34
+00:04:41,294 --> 00:04:54,450
+Speaker 0: In fact, if anyone wants old PAX shirts like PAX08, PAX09 t-shirts, I'm getting rid of basically every PAX shirt that is not aesthetic and all of my Enforcer shirts, because I just don't need-- I have way too many shirts that I never wear.
+
+35
+00:04:54,990 --> 00:05:00,010
+Speaker 1: I'm gonna use-- I still think I can make a mega PAX quilt from all these PAX shirts.
+
+36
+00:05:00,030 --> 00:05:01,484
+Speaker 0: Do you want extra PAX shirts?
+
+37
+00:05:01,504 --> 00:05:02,110
+Speaker 0: Because I have a bunch.
+
+38
+00:05:02,130 --> 00:05:03,418
+Speaker 1: No, I don't need extra ones.
+
+39
+00:05:03,519 --> 00:05:05,250
+Speaker 1: I have way more than enough.
+
+40
+00:05:06,732 --> 00:05:14,350
+Speaker 0: I am only buying shirts at conventions like PAX if the aesthetic of the shirt is something I would wear regularly.
+
+41
+00:05:15,290 --> 00:05:16,089
+Speaker 1: That's probably wise.
+
+42
+00:05:18,233 --> 00:05:18,594
+Speaker 0: Yeah.
+
+43
+00:05:19,276 --> 00:05:23,108
+Speaker 0: I ripped that Band-Aid off about nine PAXes ago, and I don't regret it.
+
+44
+00:05:24,951 --> 00:05:31,368
+Speaker 0: But also, I am about to donate so many Enforcer shirts, the pile looks stupid.
+
+45
+00:05:31,608 --> 00:05:32,150
+Speaker 0: It's so big.
+
+46
+00:05:34,392 --> 00:05:41,449
+Speaker 0: I mean, think of how many times we've been forced-- me and Emily, so that's 2x for most of these, and PAX East gives you two per PAX.
+
+47
+00:05:42,230 --> 00:05:43,209
+Speaker 1: Yeah, we definitely don't need those.
+
+48
+00:05:43,930 --> 00:05:48,530
+Speaker 0: Yeah, I used to wear them for rock climbing, but I have so many that I only need one for rock climbing.
+
+49
+00:05:50,010 --> 00:05:54,179
+Speaker 0: So yeah, I bought a whole bunch of new clothes, and it was funny, because Emily was like, "You know, you got all new
+
+50
+00:05:54,199 --> 00:05:54,340
+Speaker 0: clothes.".
+
+51
+00:05:55,050 --> 00:05:59,830
+Speaker 0: She bet me that the first time I wear any of my new clothes to work, people will compliment them.
+
+52
+00:06:00,455 --> 00:06:02,170
+Speaker 0: And I didn't think anyone would notice.
+
+53
+00:06:02,610 --> 00:06:08,288
+Speaker 0: And actually, weirdly, so many people were like, "Oh hey, nice shirt.
+
+54
+00:06:08,409 --> 00:06:08,489
+Speaker 0: Oh
+
+55
+00:06:08,529 --> 00:06:08,730
+Speaker 0: hey.".
+
+56
+00:06:09,353 --> 00:06:10,198
+Speaker 0: It was weird.
+
+57
+00:06:11,285 --> 00:06:12,150
+Speaker 0: Like, actually weird.
+
+58
+00:06:15,655 --> 00:06:21,450
+Speaker 0: Yeah, so that was the most exciting thing that happened to me since the last Geek Nights episode in the news.
+
+59
+00:06:23,310 --> 00:06:44,990
+Speaker 0: So, PAXes, you know, Penny Arcade Expos, Twitter dying actually did hurt the aspect of PAXes that I had come to rely on in my life, which was, if you looked at the PAX hashtag on Twitter while you were at a PAX, there would be this sort of critical mass of, like, info, commentary, ideas about that PAX.
+
+60
+00:06:45,130 --> 00:06:50,415
+Speaker 0: Like, you'd see people talking about a panel, or talking about a meetup, or talking about a Pokémon thing, or, like, that kind of stuff.
+
+61
+00:06:50,918 --> 00:06:53,410
+Speaker 0: And that kind of disappeared with the death of Twitter.
+
+62
+00:06:54,450 --> 00:07:00,443
+Speaker 0: PAX has now made, and it is public, that's all announced, there is a Discord you can join.
+
+63
+00:07:00,523 --> 00:07:03,790
+Speaker 0: that is official and specific to PAXes.
+
+64
+00:07:04,410 --> 00:07:08,270
+Speaker 1: And based on the experiences I've had-- Not the Australian one, they have their own separate Discord.
+
+65
+00:07:08,370 --> 00:07:08,952
+Speaker 0: Yes, they do.
+
+66
+00:07:10,075 --> 00:07:13,846
+Speaker 0: Well, like, inside of enforcing, there's the enforcer one, and then there's actually a separate one.
+
+67
+00:07:13,886 --> 00:07:15,210
+Speaker 0: that's just for my department.
+
+68
+00:07:16,215 --> 00:07:16,550
+Speaker 1: Okay.
+
+69
+00:07:17,451 --> 00:07:33,630
+Speaker 0: But, uh, anyway, the PAX Discord was, in my personal opinion, having joined it before it went public, and seen it and interacted a little bit, and now seeing it as the masses are coming in, seems like it's gonna be a pretty good place.
+
+70
+00:07:34,454 --> 00:07:50,630
+Speaker 1: And if you-- Yeah, I mean, you know, Discord will go away someday, I'm sure, but in the meantime-- Yeah, I mean, Twitter went away, Beluga used to be-- And at least had a PAX section, I don't remember.
+
+71
+00:07:51,351 --> 00:08:02,530
+Speaker 1: But I think this will be very good, because, you know, a lot of the things that go on at PAX are these sort of community things that aren't official official things, right?
+
+72
+00:08:03,091 --> 00:08:08,290
+Speaker 1: But they really make PAX what it is, and people don't know about them.
+
+73
+00:08:08,530 --> 00:08:20,751
+Speaker 1: And so, at least now, the people who are really the PAX people, not just, you know, the common PAX person, but, you know, the person who takes PAX somewhat seriously, who is gonna maybe go to more than one of them, go repeatedly-- The kinds
+
+74
+00:08:20,811 --> 00:08:33,308
+Speaker 0: of people who would, in the old days, the majority of people who went to PAX were like this, because in the old days, PAX, however many days long it was, there was just a badge to come to the entire thing, and most people came to--.
+
+75
+00:08:33,650 --> 00:08:38,169
+Speaker 1: But also, in the old days, you wouldn't even know about PAX unless you knew what Penny Arcade was.
+
+76
+00:08:39,494 --> 00:08:42,068
+Speaker 0: Like, we had to be convinced to go to our first PAX.
+
+77
+00:08:42,890 --> 00:08:45,010
+Speaker 1: I didn't have to be convinced, I just didn't have enough fucking money.
+
+78
+00:08:45,171 --> 00:08:45,848
+Speaker 1: True, true.
+
+79
+00:08:46,430 --> 00:08:50,690
+Speaker 1: And time and whatnot, but, otherwise, I would have gone to all of them.
+
+80
+00:08:50,710 --> 00:08:52,790
+Speaker 0: I mean, I would have gone to NecroWamacon if I could have.
+
+81
+00:08:53,010 --> 00:08:53,912
+Speaker 1: Exactly, right?
+
+82
+00:08:54,132 --> 00:09:23,090
+Speaker 1: But anyway, so, the fact that there's a PAX Discord, now, all those organizations, the cosplay meetups, the Pokemon leagues, the drinking tournaments, which I do not condone, the, you know, all those sorts of things that go on, right, are now going to be able to have a place to, you know, communicate and organize, you know, pre-Pax, during-Pax, and as, you know, the other people who are PAX serious, at least, will find out about those sorts of things.
+
+83
+00:09:24,470 --> 00:09:27,830
+Speaker 1: You know, and it'll be, I think it'll enhance PAX overall.
+
+84
+00:09:27,950 --> 00:09:30,175
+Speaker 0: Well, I think it'll reconnect.
+
+85
+00:09:30,275 --> 00:09:37,188
+Speaker 0: The fact is, most PAXes have gotten to a sort of dichotomy where there's a smaller core of people who are there to do PAX.
+
+86
+00:09:38,090 --> 00:09:52,710
+Speaker 0: So, they're going to panels, they're in tabletop, they're in the console, like, they're in all these places in PAX, but there's a significant percentage of people who go with a single day badge, primarily, or in some cases solely, to walk through the expo hall.
+
+87
+00:09:53,094 --> 00:09:53,510
+Speaker 0: And then they leave.
+
+88
+00:09:53,552 --> 00:09:53,967
+Speaker 1: And then they leave.
+
+89
+00:09:54,732 --> 00:09:57,190
+Speaker 1: So, this will- Yeah, the Discord doesn't matter for them.
+
+90
+00:09:57,290 --> 00:09:57,431
+Speaker 1: Nope.
+
+91
+00:09:57,892 --> 00:10:03,450
+Speaker 0: So, now, all the people who are there for Sirius are going to be able to find each other more easily and coordinate that fun stuff.
+
+92
+00:10:03,831 --> 00:10:11,623
+Speaker 1: So, this, I encourage- The thing I want, you know, it's like, are there any other cons of significance that have an official Discord?
+
+93
+00:10:11,643 --> 00:10:15,110
+Speaker 1: Like, there are some that have official forums, but, like, they don't really get used, right?
+
+94
+00:10:15,190 --> 00:10:19,100
+Speaker 1: It's like, there's people in this, you know, how many, does it say how many people are in it?
+
+95
+00:10:19,140 --> 00:10:22,810
+Speaker 1: I guess I can click the member button in the welcome channel.
+
+96
+00:10:23,352 --> 00:10:28,370
+Speaker 0: All I know is, it went public, and the flood of people joining was pretty big already.
+
+97
+00:10:29,130 --> 00:10:35,990
+Speaker 1: There are 600+ people, basically about 600 people in there already, it's only going to grow, obviously.
+
+98
+00:10:36,890 --> 00:10:51,030
+Speaker 1: So, you know, it's like, yeah, there's over 10,000 people at PAX, we don't know exactly how many, because they won't tell you, but, you know, 600 people is still enough to be like a core of people that, you know, got their shit together.
+
+99
+00:10:51,151 --> 00:10:54,247
+Speaker 1: I'm sure a lot of those people are enforcers, too, I don't know what percentage it is, so.
+
+100
+00:10:55,932 --> 00:10:56,154
+Speaker 0: Yup.
+
+101
+00:10:56,901 --> 00:10:57,790
+Speaker 0: Which is its own community.
+
+102
+00:10:57,790 --> 00:11:09,470
+Speaker 1: It also could help, because there is a great need of recruiting enforcers, and it's like, well, anyone who's in that Discord who's not an enforcer already is someone who is so into PAX that they're in that Discord, active.
+
+103
+00:11:10,010 --> 00:11:13,530
+Speaker 1: That's where you can recruit some enforcers from, and that could be helpful as well.
+
+104
+00:11:13,610 --> 00:11:29,870
+Speaker 0: But it also might help, because MagFest kind of has this just because its community is different, and there's a lot of factors there, but I feel like the community of people who go to PAX is going to start to come together again, and PAX becomes more of the physical manifestations of that culture over time.
+
+105
+00:11:30,190 --> 00:11:38,790
+Speaker 0: Which is how Penny Arcade Expos were in the earliest days, they were the physical manifestation of the culture around this one weird webcomic made by these two guys.
+
+106
+00:11:39,850 --> 00:11:39,956
+Speaker 1: Mhm.
+
+107
+00:11:41,332 --> 00:11:41,948
+Speaker 0: So you got any news?
+
+108
+00:11:43,793 --> 00:11:48,290
+Speaker 1: Uh, yeah, so, there's the guy, the director, the Korean movie director.
+
+109
+00:11:48,691 --> 00:11:55,590
+Speaker 1: Bong Joon Ho, who is famous for Parasite, but also directed other things that were good, but, you know, Parasite was kind of a big deal.
+
+110
+00:11:56,011 --> 00:12:01,730
+Speaker 0: I mean, Parasite is an S-tier movie, and it is a rollercoaster from beginning to end.
+
+111
+00:12:02,651 --> 00:12:12,010
+Speaker 1: Anyway, so, he has been working on various things recently, including, supposedly, a Parasite TV show for HBO, I don't know about that.
+
+112
+00:12:12,270 --> 00:12:15,150
+Speaker 1: I like Parasite, but I don't like television, so who knows.
+
+113
+00:12:16,651 --> 00:12:28,250
+Speaker 1: But anyway, the thing that was just announced is that he is working on an animated film about deep sea creatures, and its budget is going to be like 50 million dollars or something.
+
+114
+00:12:28,410 --> 00:12:36,770
+Speaker 1: Which is not a lot for, when you look at some other animated films, but it's actually a lot for a Korean animated film, right?
+
+115
+00:12:38,312 --> 00:12:49,810
+Speaker 1: And the studio he's working with, right, I think he's worked with in the past for some things, but they've done other stuff like, maybe like, I think some of those live-action Harlock or something like that, right?
+
+116
+00:12:50,130 --> 00:12:52,210
+Speaker 1: They've done some things that, like, you know about.
+
+117
+00:12:52,490 --> 00:13:01,850
+Speaker 0: Yeah, well, before they have a note here in the article, Fourth Creative Party is a VFX company, and it worked on some of Bong's previous films, like Snowpiercer and Mother.
+
+118
+00:13:02,630 --> 00:13:12,730
+Speaker 1: Right, so it's similar to how like, you know, Gonzo, the anime studio, which I think is gone now, or renamed, I don't know what happened to them, but they started out doing like video game cutscenes and then eventually moved on to anime.
+
+119
+00:13:13,250 --> 00:13:21,270
+Speaker 1: This is like, alright, I've got a VFX company that's, alright, it's like, let's make a whole movie, you know, you guys can animate things, right?
+
+120
+00:13:21,811 --> 00:13:23,588
+Speaker 1: Let's see if you can animate the whole thing.
+
+121
+00:13:25,471 --> 00:13:27,557
+Speaker 1: But it'll be interesting to see how that goes, right?
+
+122
+00:13:27,597 --> 00:13:32,210
+Speaker 1: It's like, because he's directing it, you can sort of trust the story part, I guess, right?
+
+123
+00:13:32,330 --> 00:13:41,470
+Speaker 1: But, you know, we'll see how the animation part comes with the sort of mid-tier budget and the, you know, VFX studio.
+
+124
+00:13:41,850 --> 00:13:45,130
+Speaker 0: I mean, I'll definitely go see it, and I'm sure we'll do a GigaX episode on it.
+
+125
+00:13:45,150 --> 00:13:46,709
+Speaker 1: Yeah, it's just like, it's something to keep your eye on, but, you know.
+
+126
+00:13:46,970 --> 00:13:47,141
+Speaker 0: Yeah.
+
+127
+00:13:47,731 --> 00:13:57,449
+Speaker 1: But it's about under the relationship between humans and deep water sea creatures, it's like, like the abyss, but not aliens, or that one where the person fucks the sea creature.
+
+128
+00:13:58,170 --> 00:13:59,643
+Speaker 0: It could just be like the shape of water.
+
+129
+00:13:59,663 --> 00:14:00,429
+Speaker 0: Hot whale?
+
+130
+00:14:00,733 --> 00:14:02,110
+Speaker 1: That one, yeah, the sexy one.
+
+131
+00:14:02,170 --> 00:14:02,608
+Speaker 0: Yeah, hot whale.
+
+132
+00:14:05,876 --> 00:14:06,609
+Speaker 1: We'll see what it's like.
+
+133
+00:14:09,794 --> 00:14:12,629
+Speaker 0: But anyway, things of the day.
+
+134
+00:14:13,310 --> 00:14:25,710
+Speaker 0: So, quite some time ago, on a Russian television show, which did a bunch of like skit comedy basically, there was a puppet show in the year 2000.
+
+135
+00:14:25,710 --> 00:14:33,590
+Speaker 0: And the puppet show was based on, I guess, an old Russian story about, actually I'm going to read this, this is good.
+
+136
+00:14:34,091 --> 00:14:41,350
+Speaker 0: So there is an ugly child, Zaches, and is bewitched by a fairy so that the Philistines will see him as beautiful.
+
+137
+00:14:42,030 --> 00:14:48,790
+Speaker 0: All of his shameful and disgusting deeds will be attributed to others, while good traits of others will be ascribed to Zaches.
+
+138
+00:14:50,632 --> 00:14:54,230
+Speaker 0: The only people who can see through this enchantment are artists.
+
+139
+00:14:55,410 --> 00:15:03,130
+Speaker 0: So, artists can see that this guy is a piece of shit, but everyone else will just think he's absolutely amazing no matter what disgusting nonsense he does.
+
+140
+00:15:03,190 --> 00:15:04,770
+Speaker 0: It's like an old story in Russia.
+
+141
+00:15:05,730 --> 00:15:18,030
+Speaker 0: So this television network put on a performance of Zaches, except all the puppets are figures from Russian modern political history.
+
+142
+00:15:18,811 --> 00:15:21,950
+Speaker 0: And Zaches is a young Vladimir Putin.
+
+143
+00:15:23,630 --> 00:15:27,044
+Speaker 0: So it's pretty funny, it's well done, and I want to get to a part of it.
+
+144
+00:15:27,065 --> 00:15:28,410
+Speaker 0: that's shockingly well done.
+
+145
+00:15:28,410 --> 00:15:30,009
+Speaker 1: You could pick a lot of people for the part of Zaches.
+
+146
+00:15:30,431 --> 00:15:37,009
+Speaker 0: Oh yeah, oh yeah, this would be a very good play to do in the United States, right now.
+
+147
+00:15:38,130 --> 00:15:38,969
+Speaker 1: There are a lot of places.
+
+148
+00:15:39,650 --> 00:15:51,488
+Speaker 0: So obviously, you can go read about all the details, but yeah, that TV network got shut the fuck down, and people got disappeared, and all sorts of drama in the 24 years that followed.
+
+149
+00:15:53,490 --> 00:15:58,970
+Speaker 0: But, video of it with subtitles is available on YouTube, and you can watch this.
+
+150
+00:15:59,671 --> 00:16:07,130
+Speaker 0: The two things I want to point out, to skip all the political commentary on it, is that one, these puppets are fucking phenomenal.
+
+151
+00:16:07,590 --> 00:16:13,910
+Speaker 0: The faces look so good, they're like weird in-person caricatures, they're just great.
+
+152
+00:16:14,610 --> 00:16:19,330
+Speaker 0: And two, it's actually a pretty funny little play, and it doesn't overstay its welcome, it's only like ten minutes long.
+
+153
+00:16:19,630 --> 00:16:22,708
+Speaker 0: So, this is pretty cool, and I urge you to watch it.
+
+154
+00:16:23,795 --> 00:16:23,947
+Speaker 1: Okay.
+
+155
+00:16:26,251 --> 00:16:32,870
+Speaker 1: So I bought this device, the Teenage Engineering EP-133 Sampler Sequencer.
+
+156
+00:16:33,310 --> 00:16:36,406
+Speaker 0: Oh yeah, the device that, to quote you, a device R.I.M.
+
+157
+00:16:36,446 --> 00:16:37,190
+Speaker 0: must never have.
+
+158
+00:16:37,570 --> 00:16:38,273
+Speaker 1: Must never have.
+
+159
+00:16:38,354 --> 00:16:38,494
+Speaker 1: R.I.M.
+
+160
+00:16:38,555 --> 00:16:41,810
+Speaker 1: may not be allowed to own any noise-making equipment.
+
+161
+00:16:42,350 --> 00:16:45,150
+Speaker 1: I mean, it's basically a digital musical instrument, right?
+
+162
+00:16:45,230 --> 00:16:51,370
+Speaker 1: You basically assign WAV files to buttons, and then you push the buttons to play the WAV files.
+
+163
+00:16:51,950 --> 00:16:59,090
+Speaker 1: And then you can sequence them to play automatically, and modify them, pitch, scales, effects, all sorts of stuff.
+
+164
+00:17:00,993 --> 00:17:02,129
+Speaker 1: Yeah, much worse than that.
+
+165
+00:17:03,633 --> 00:17:05,369
+Speaker 1: And create, you know, music with it.
+
+166
+00:17:05,390 --> 00:17:09,730
+Speaker 1: It has limitations, but it also has advantages compared to other similar instruments.
+
+167
+00:17:10,050 --> 00:17:18,790
+Speaker 1: And, you know, I'm not an expert, it's my first, I think it's the first digital instrument I've ever had.
+
+168
+00:17:19,030 --> 00:17:25,550
+Speaker 1: I've never even owned, like, other than a computer, which obviously also contains a synthesizer, because it's a computer.
+
+169
+00:17:27,830 --> 00:17:30,830
+Speaker 0: Did you not, the Korg, the Korg DS cart we both had.
+
+170
+00:17:31,192 --> 00:17:33,248
+Speaker 1: That is technically software for a Nintendo DS.
+
+171
+00:17:34,213 --> 00:17:38,930
+Speaker 0: I did learn to use that thing to a moderate degree of aptitude.
+
+172
+00:17:40,371 --> 00:17:49,350
+Speaker 1: But anyway, so I've been looking on YouTube to see other people who are actually electronic musicians play this instrument, and see how they do.
+
+173
+00:17:50,450 --> 00:18:01,490
+Speaker 1: And I discovered someone who is basically, I think, like, already embodied the perfection of the kind of arts, not just music, but just, like, internet art in general.
+
+174
+00:18:02,031 --> 00:18:03,834
+Speaker 1: That, like, I would aspire to, right?
+
+175
+00:18:03,854 --> 00:18:12,430
+Speaker 1: So this person's name is Clark Jackson Motorbike, they're also on Spotify as well as YouTube, and I guess your other music streaming places, right?
+
+176
+00:18:13,210 --> 00:18:22,910
+Speaker 1: And on their YouTube channel, all their videos are basically, most of their videos, the vast majority, are these little story jams.
+
+177
+00:18:23,190 --> 00:18:41,410
+Speaker 1: So what they do is they have one or two tiny musical instruments, and as of late, the instruments that they're using are the one that I have, the 133, and also the Roland S-1, which is very appealing, but I'm not gonna spend $200 on something.
+
+178
+00:18:43,011 --> 00:18:49,548
+Speaker 1: But it makes all kinds of, you know, the exciting synthwave sounds that you wanna hear, that's why it makes me wanna buy it.
+
+179
+00:18:50,410 --> 00:18:57,630
+Speaker 1: But I'm like, no, I cannot spend $200 on a thing when I haven't even gotten my money's worth out of the first thing, right?
+
+180
+00:18:58,250 --> 00:19:08,170
+Speaker 1: But anyway, and in these videos, he plays a song, a very short song, on his electronic instruments, just a couple minutes long.
+
+181
+00:19:08,751 --> 00:19:15,326
+Speaker 1: And while the song is playing, you are watching him, his hands only, and the devices playing, right?
+
+182
+00:19:15,787 --> 00:19:16,870
+Speaker 1: So you can see what he's up to.
+
+183
+00:19:17,890 --> 00:19:34,290
+Speaker 1: And also, on the screen, he has applied subtitles, right, which are telling a story of some kind, and the timing of the subtitles goes with the music, so the music is sort of the theme music for the story as you're reading it, right?
+
+184
+00:19:34,470 --> 00:19:45,670
+Speaker 0: This echoes to me, via many iterations, a modern, highly stylized version of what is effectively Alice's Restaurant.
+
+185
+00:19:47,618 --> 00:19:49,070
+Speaker 1: I don't know what has to do with Alice's Restaurant.
+
+186
+00:19:49,911 --> 00:19:56,990
+Speaker 0: The combination of storytelling and music and medium into one thing, like this, seems cool.
+
+187
+00:19:58,371 --> 00:19:58,892
+Speaker 1: Not really.
+
+188
+00:19:58,912 --> 00:20:05,550
+Speaker 1: I guess I can kind of see what you're saying, but the stories are better than the Alice's Restaurant story.
+
+189
+00:20:05,590 --> 00:20:07,609
+Speaker 0: I'm not saying the Alice's Restaurant story is good.
+
+190
+00:20:07,750 --> 00:20:10,829
+Speaker 1: Maybe they're not as funny, but they're more, at least, you know.
+
+191
+00:20:11,130 --> 00:20:24,790
+Speaker 1: But yeah, I wanna do something like this, and I'm almost like, I'm simultaneously inspired, like, yes, that's how I wanna do, and also upset, like, ugh, can I do that without just copying this guy?
+
+192
+00:20:26,891 --> 00:20:29,259
+Speaker 1: I'm just gonna, everyone's gonna think I'm copying this dude now.
+
+193
+00:20:30,182 --> 00:20:31,126
+Speaker 1: That's what I wanna do.
+
+194
+00:20:31,306 --> 00:20:32,169
+Speaker 1: You're doing what I wanna do.
+
+195
+00:20:32,930 --> 00:20:35,641
+Speaker 0: I mean, we heard about podcasting and just started podcasting.
+
+196
+00:20:35,661 --> 00:20:37,690
+Speaker 0: Were we copying all the other people who were podcasting?
+
+197
+00:20:38,030 --> 00:20:44,110
+Speaker 1: No, because we didn't listen to their podcasts, and we weren't podcasting in the style of a specific person or anything, you know.
+
+198
+00:20:44,130 --> 00:20:44,390
+Speaker 1: True.
+
+199
+00:20:45,392 --> 00:20:46,735
+Speaker 0: You could do a slightly different style.
+
+200
+00:20:46,855 --> 00:20:47,917
+Speaker 0: Just do whatever you could do.
+
+201
+00:20:47,977 --> 00:21:00,576
+Speaker 0: What kind of- [laughs] In the meta moment, the Geek Nights Book Club book is.
+
+202
+00:21:00,636 --> 00:21:01,538
+Speaker 0: The Night Is Short.
+
+203
+00:21:01,679 --> 00:21:03,062
+Speaker 0: Walk on, girl.
+
+204
+00:21:04,025 --> 00:21:06,130
+Speaker 0: Have you read any of it since we last talked?
+
+205
+00:21:06,691 --> 00:21:08,002
+Speaker 1: I still am where I was before.
+
+206
+00:21:08,022 --> 00:21:09,030
+Speaker 1: I read the whole first part.
+
+207
+00:21:09,370 --> 00:21:09,692
+Speaker 0: Okay.
+
+208
+00:21:10,055 --> 00:21:11,282
+Speaker 0: I'm a little under half.
+
+209
+00:21:11,323 --> 00:21:11,766
+Speaker 0: I'm like 40% through.
+
+210
+00:21:13,811 --> 00:21:14,012
+Speaker 1: Hmm.
+
+211
+00:21:14,032 --> 00:21:14,996
+Speaker 1: I'll read the second part.
+
+212
+00:21:15,037 --> 00:21:16,904
+Speaker 1: First part, really, did not take me long at all.
+
+213
+00:21:16,944 --> 00:21:18,190
+Speaker 1: I don't know how many parts there are.
+
+214
+00:21:18,391 --> 00:21:18,716
+Speaker 1: Not many.
+
+215
+00:21:18,737 --> 00:21:19,449
+Speaker 1: It's not long.
+
+216
+00:21:20,171 --> 00:21:22,590
+Speaker 1: Yeah, but I'll read the second part soon.
+
+217
+00:21:22,951 --> 00:21:28,250
+Speaker 0: Alright, then I will continue reading, because I paused until you started- basically, I'll pause until you start reading again.
+
+218
+00:21:28,370 --> 00:21:32,570
+Speaker 0: And then I will read, and we'll probably finish it pretty quick, and then we'll do the show sometime before PAX East.
+
+219
+00:21:33,070 --> 00:21:42,030
+Speaker 0: Which, speaking of, the Penny Arcade Expo East, we will have not one, but for now, two panels at PAX East.
+
+220
+00:21:43,571 --> 00:21:52,930
+Speaker 0: One of which is 100% brand new, and the other of which is a new version with mostly new content of a format we have done before.
+
+221
+00:21:53,390 --> 00:22:03,030
+Speaker 0: So we will be doing every game is the same game, all new content, like super new, and we will be doing the 39 tabletop games you should play.
+
+222
+00:22:04,831 --> 00:22:11,090
+Speaker 0: Alright, so we've been watching a bunch of stuff, and we'll probably be doing shows on, like, all the animated shows we've been watching lately.
+
+223
+00:22:11,130 --> 00:22:15,890
+Speaker 0: Like, I've been watching Dungeon Meshie, which is pretty funny and just seems to follow the manga exactly.
+
+224
+00:22:17,670 --> 00:22:22,990
+Speaker 0: Pokemon Concierge, which I assumed was CG until I saw a documentary of how they made it with this actual stop motion.
+
+225
+00:22:24,411 --> 00:22:34,830
+Speaker 0: But, one thing that we have both watched, at least I've watched all of, and Scott's watched enough of, is the second new Castlevania, Castlevania Nocturne.
+
+226
+00:22:35,070 --> 00:22:36,394
+Speaker 0: So we're going to talk about that a little bit.
+
+227
+00:22:36,414 --> 00:22:41,230
+Speaker 0: We'll avoid spoilers, obviously, but season one is only eight episodes.
+
+228
+00:22:41,550 --> 00:22:44,287
+Speaker 0: Like, it's not that long, so probably just go watch it.
+
+229
+00:22:47,091 --> 00:22:56,150
+Speaker 0: So yeah, if you didn't watch the original Castlevania Netflix, it's basically, they're kind of doing the same thing that the Castlevania video games have done.
+
+230
+00:22:56,270 --> 00:23:05,830
+Speaker 0: Where every Castlevania video game, after the first few, ended up being kind of in its own part of the timeline, with its own deal, its own characters.
+
+231
+00:23:06,291 --> 00:23:14,410
+Speaker 0: Occasionally, a callback to an older character, or a character that is very long lived, like Alucard just shows up in half the games Wolverine style.
+
+232
+00:23:15,110 --> 00:23:23,830
+Speaker 0: But, they basically can each have their own different style, and be very different games, as long as they adhere to these sort of fundamental core elements.
+
+233
+00:23:24,470 --> 00:23:39,797
+Speaker 1: And it does seem like- You know, the stories over again, or in different ways.
+
+234
+00:23:39,857 --> 00:23:45,650
+Speaker 1: And what Castlevania does, is like, look, there really is one storyline in a straight line, mostly.
+
+235
+00:23:47,011 --> 00:23:50,262
+Speaker 1: But, we're just going to go through different periods of time, right?
+
+236
+00:23:50,363 --> 00:23:50,885
+Speaker 1: Look, right?
+
+237
+00:23:50,925 --> 00:23:52,370
+Speaker 1: And it's like, it's about vampires.
+
+238
+00:23:52,610 --> 00:23:58,290
+Speaker 1: So the same vampires, if they don't die, are there, or they keep coming back all the time.
+
+239
+00:23:58,811 --> 00:24:03,402
+Speaker 1: But, whenever they come back, well obviously it is different if they come back in 1800, or 1700, or 700, or 2000, or whenever.
+
+240
+00:24:07,571 --> 00:24:12,487
+Speaker 1: Or in a different place on Earth, there's different humans there at the time, right?
+
+241
+00:24:13,470 --> 00:24:19,904
+Speaker 1: And so, we can just keep telling different Castlevania stories, which are basically different times.
+
+242
+00:24:19,964 --> 00:24:22,530
+Speaker 1: that, you know, vampires and humans had to fight each other.
+
+243
+00:24:22,951 --> 00:24:32,210
+Speaker 1: And, because it's in different periods of time, different members in the generations of the same vampire-hunting family will be there.
+
+244
+00:24:32,850 --> 00:24:35,921
+Speaker 1: And so, you know, in the other one, we had Trevor, right?
+
+245
+00:24:35,941 --> 00:24:36,845
+Speaker 0: And now we got Richter.
+
+246
+00:24:39,130 --> 00:24:45,710
+Speaker 0: So, the cool thing about that too, because I don't know if you've never really watched Star Trek, that's actually how Star Trek operates too.
+
+247
+00:24:46,151 --> 00:24:54,070
+Speaker 0: It's one just line in time, and every Star Trek series, which can have a radically different style, is just set in some part of that timeline.
+
+248
+00:24:54,551 --> 00:24:57,729
+Speaker 0: And they tend, they don't let them overlap too much, so they can all be their own thing.
+
+249
+00:24:59,832 --> 00:25:03,130
+Speaker 0: So, the other, the cool part about this is, now we have a pattern.
+
+250
+00:25:03,210 --> 00:25:10,370
+Speaker 0: We assumed they would do this, because the first Netflix Castlevania was basically just Castlevania 3, but highly adapted.
+
+251
+00:25:10,811 --> 00:25:22,790
+Speaker 0: They took the proper nouns, the basic beats of what little story we get out of an NES game from that era, and they expanded upon them and adapted them to kind of fill out the world.
+
+252
+00:25:23,270 --> 00:25:33,190
+Speaker 0: And now they're doing the same thing, so it's got a bunch of names of characters from the Richter Castlevanias, but, once again, they're mixing the characters up, giving them different backstories.
+
+253
+00:25:33,591 --> 00:25:38,970
+Speaker 0: Some characters that, in the video games, are literally just a side boss, are now, like, a main character.
+
+254
+00:25:39,750 --> 00:25:43,810
+Speaker 0: And, it's kind of an aside, because Emily and I have talked about this a lot over the years.
+
+255
+00:25:44,390 --> 00:25:52,310
+Speaker 0: In general, properties that don't have great stories are some of the best properties to adapt into animation or film, in my opinion.
+
+256
+00:25:52,991 --> 00:26:06,910
+Speaker 0: Partly because, if the source material is either not that great or not that tight, you kind of have freedom to just take the good parts and completely redo the parts that don't fit, and make a really loose adaptation that tends to be better.
+
+257
+00:26:07,511 --> 00:26:15,370
+Speaker 1: Yeah, it's like, you look at Castlevania, and it's like, you know, there are plots, and they do flesh them out a bit in the games, but it's like, not really.
+
+258
+00:26:15,610 --> 00:26:19,333
+Speaker 1: It's like, most of it is like, "Okay, there was a guy named Simon Belmont.
+
+259
+00:26:19,774 --> 00:26:21,335
+Speaker 1: He had a curse.
+
+260
+00:26:21,816 --> 00:26:23,718
+Speaker 1: He went and he fought bad
+
+261
+00:26:24,078 --> 00:26:24,278
+Speaker 1: guys.".
+
+262
+00:26:37,071 --> 00:26:41,310
+Speaker 0: Two other people, well, three other people, spoilers, are also trying to kill Dracula.
+
+263
+00:26:42,490 --> 00:26:44,489
+Speaker 1: Castlevania IV killed Dracula yet again.
+
+264
+00:26:44,931 --> 00:26:46,119
+Speaker 0: Yeah, Symphony of the Night.
+
+265
+00:26:46,300 --> 00:26:47,910
+Speaker 0: Alucard's gonna go kill Dracula.
+
+266
+00:26:48,710 --> 00:26:54,630
+Speaker 1: Right, it's like, and to end this, meet some people in the castle a little bit, and also death is there, I guess, and there's some things going on.
+
+267
+00:26:54,630 --> 00:26:55,467
+Speaker 0: That's about most of them.
+
+268
+00:26:56,450 --> 00:27:00,470
+Speaker 1: Right, but it's like, you know, there's a lot of blanks to fill in there.
+
+269
+00:27:02,654 --> 00:27:09,890
+Speaker 1: And so, this Castlevania Nocturne series is basically, you know, going with the Richter situation.
+
+270
+00:27:12,090 --> 00:27:15,810
+Speaker 1: Richter was in mostly Rondo of Blood, Dracula X kind of games.
+
+271
+00:27:16,373 --> 00:27:18,250
+Speaker 0: The ones I have, full disclosure, never played.
+
+272
+00:27:19,251 --> 00:27:20,502
+Speaker 1: Yeah, I mean, I played them a little bit.
+
+273
+00:27:20,522 --> 00:27:20,845
+Speaker 1: They're hard.
+
+274
+00:27:20,885 --> 00:27:21,370
+Speaker 1: I didn't beat them.
+
+275
+00:27:21,770 --> 00:27:23,080
+Speaker 0: I never even beat Castlevania III.
+
+276
+00:27:23,100 --> 00:27:24,370
+Speaker 0: That game's so freaking hard.
+
+277
+00:27:25,012 --> 00:27:32,390
+Speaker 1: Right, and then, you know, I guess, I don't know the full plot, but it's like, you know, Richter is in Symphony of the Night, right?
+
+278
+00:27:32,470 --> 00:27:34,380
+Speaker 1: It's like you start as him, right?
+
+279
+00:27:34,682 --> 00:27:35,687
+Speaker 1: And then he's like, "Ha ha
+
+280
+00:27:35,747 --> 00:27:36,029
+Speaker 1: ha.".
+
+281
+00:27:36,250 --> 00:27:36,570
+Speaker 0: Yeah.
+
+282
+00:27:37,531 --> 00:27:50,290
+Speaker 1: And then you switch over to Alucard, so it could be that that's what, like, I would suspect, right, knowing that Symphony of the Night is the biggest, most popular one, that what they're going for is, like, that kind of ending.
+
+283
+00:27:51,053 --> 00:27:52,130
+Speaker 1: 'Cause, spoilers.
+
+284
+00:27:53,912 --> 00:28:02,010
+Speaker 0: I would bet significant money that if there is a next Castlevania series from Netflix, it's going to be just fucking Symphony of the Night.
+
+285
+00:28:02,491 --> 00:28:04,410
+Speaker 0: It's gonna be called Symphony of the Night.
+
+286
+00:28:04,650 --> 00:28:08,330
+Speaker 1: I've only seen four episodes out of eight, so this could already be happening in episode eight.
+
+287
+00:28:08,390 --> 00:28:10,964
+Speaker 0: Oh, what do you think happens at the end of season one of this?
+
+288
+00:28:11,025 --> 00:28:11,950
+Speaker 0: 'Cause I bet you're right.
+
+289
+00:28:13,412 --> 00:28:14,789
+Speaker 1: I mean, Dracula up here?
+
+290
+00:28:15,633 --> 00:28:17,007
+Speaker 0: Not while Alucard shows up.
+
+291
+00:28:17,898 --> 00:28:18,710
+Speaker 1: Oh, okay, yeah.
+
+292
+00:28:19,211 --> 00:28:24,284
+Speaker 0: The very end of the season is basically Alucard's like, "What the fuck is going on in
+
+293
+00:28:24,324 --> 00:28:24,585
+Speaker 0: here?".
+
+294
+00:28:24,746 --> 00:28:25,247
+Speaker 0: Also, "Hi,
+
+295
+00:28:25,307 --> 00:28:25,728
+Speaker 0: everybody."
+
+296
+00:28:26,530 --> 00:28:26,871
+Speaker 0: Yeah.
+
+297
+00:28:27,212 --> 00:28:33,049
+Speaker 1: So, I mean, if you think about it, right, so in the start of Symphony of the Night, Richter goes in and Dracula's like, "What is a
+
+298
+00:28:33,109 --> 00:28:33,390
+Speaker 1: man?"
+
+299
+00:28:34,798 --> 00:28:34,950
+Speaker 1: Right?
+
+300
+00:28:36,911 --> 00:28:41,320
+Speaker 1: And then, you know, so it's like you have this Richter story, right, going on.
+
+301
+00:28:41,360 --> 00:28:46,530
+Speaker 1: that's basically a completely all-new story where there's, like, some other vampires causing trouble during the French Revolution.
+
+302
+00:28:47,114 --> 00:28:47,409
+Speaker 1: Yup.
+
+303
+00:28:48,890 --> 00:28:51,681
+Speaker 1: And whatnot, and night creatures, and the church being evil again.
+
+304
+00:28:51,841 --> 00:28:54,270
+Speaker 1: Usual Castlevania shit going on, right?
+
+305
+00:28:55,671 --> 00:28:59,779
+Speaker 1: And then you can see, well, it's like, well, Dracula's not around, and Alucard's not around.
+
+306
+00:28:59,860 --> 00:29:02,425
+Speaker 1: All the other people who aren't around, we know why they're not around.
+
+307
+00:29:02,445 --> 00:29:04,770
+Speaker 1: They're long since dead 'cause they're human, right?
+
+308
+00:29:05,071 --> 00:29:09,890
+Speaker 1: But the vampires, they should still be around, but I don't see them, and it wouldn't be Castlevania without them.
+
+309
+00:29:10,871 --> 00:29:17,428
+Speaker 1: And so, you gotta assume, like, the end of this show would have to be, right, "Ha, ha, ha, what is a
+
+310
+00:29:17,468 --> 00:29:17,789
+Speaker 1: man?".
+
+311
+00:29:21,254 --> 00:29:22,228
+Speaker 0: I'd be here for that, too.
+
+312
+00:29:23,070 --> 00:29:25,955
+Speaker 1: And so, like, actually, you know, oh, yeah, for sure, right?
+
+313
+00:29:25,995 --> 00:29:34,810
+Speaker 1: It's like, give me at least some, 'cause there is, when you don't have a lot to go on like that, it's like you actually can't fan service even if you wanted to, right?
+
+314
+00:29:35,570 --> 00:29:37,889
+Speaker 1: It's like, what fan service could they do?
+
+315
+00:29:38,412 --> 00:29:39,114
+Speaker 1: This is, right?
+
+316
+00:29:39,175 --> 00:29:43,090
+Speaker 1: It's like, literally, there's only, like, one moment they can fan service, and that's the one.
+
+317
+00:29:43,390 --> 00:29:45,333
+Speaker 0: Yeah, well, think about the first Netflix Castlevania.
+
+318
+00:29:45,373 --> 00:29:58,810
+Speaker 0: What were the fan service moments in that, other than things like when a big fight happens, like, a Castlevania song starts playing from the game directly, and monsters that are in the game that has that song are in that fight.
+
+319
+00:29:59,191 --> 00:30:02,039
+Speaker 0: And if you've played those games, you're like, "That's that monster.
+
+320
+00:30:02,139 --> 00:30:03,663
+Speaker 0: I recognize that specifically,".
+
+321
+00:30:03,723 --> 00:30:05,247
+Speaker 0: and they're playing the song, and you go,
+
+322
+00:30:05,287 --> 00:30:05,368
+Speaker 0: "Woo.".
+
+323
+00:30:07,511 --> 00:30:10,401
+Speaker 0: But here, what's it gonna be when Alucard shows up?
+
+324
+00:30:10,481 --> 00:30:13,150
+Speaker 0: Dracula, Death, you know, all the standbys.
+
+325
+00:30:14,310 --> 00:30:20,603
+Speaker 1: They've also carried over a lot of the lore that they established in the first TV series, which was four seasons, by the way.
+
+326
+00:30:20,683 --> 00:30:23,067
+Speaker 1: Like, I didn't realize, or was it five?
+
+327
+00:30:23,188 --> 00:30:24,410
+Speaker 1: How many seasons was the first one?
+
+328
+00:30:24,730 --> 00:30:25,794
+Speaker 0: Was it four?
+
+329
+00:30:25,874 --> 00:30:29,507
+Speaker 0: 'Cause it had one, really, it was four seasons, but the first season was a few episodes.
+
+330
+00:30:29,547 --> 00:30:30,410
+Speaker 0: It was basically a pilot.
+
+331
+00:30:31,270 --> 00:30:51,870
+Speaker 1: Yeah, but it's like, that first series that we watched all of, it's like, they established a few things that, like, if those things that they established weren't in a Castlevania game, like, I had never seen them in a Castlevania game, for things like, "Ah, yes, all these monsters that aren't vampires, that's 'cause there's a Forgemaster who forges them from dead human bodies and souls from
+
+332
+00:30:51,910 --> 00:30:52,150
+Speaker 1: hell.".
+
+333
+00:30:52,430 --> 00:30:59,010
+Speaker 0: I'd never heard of a Forgemaster in any Castlevania game I played, though I do kinda just skip through most of the text in Castlevania games, so...
+
+334
+00:30:59,090 --> 00:31:06,700
+Speaker 1: Yeah, so, like, if that was in a Castlevania game, I missed it, but it was established in that series, regardless, right?
+
+335
+00:31:07,321 --> 00:31:13,710
+Speaker 1: And, you know, things of that nature, you know, the church is bad, and, you know, all this sort of, you know, established lore.
+
+336
+00:31:13,870 --> 00:31:17,150
+Speaker 0: The Belmont Clan is very important and mostly good.
+
+337
+00:31:17,850 --> 00:31:25,724
+Speaker 1: Right, there are these people called, what are they, the Seekers or whatever, they're like wizards who, you know, they live around in places and are good, right?
+
+338
+00:31:28,950 --> 00:31:32,269
+Speaker 0: Like, vampire might just be one step along the way of what those things are.
+
+339
+00:31:33,030 --> 00:31:33,210
+Speaker 1: Right.
+
+340
+00:31:33,751 --> 00:31:38,299
+Speaker 1: So, those things, they've carried all those things over to the new series.
+
+341
+00:31:38,339 --> 00:31:44,288
+Speaker 1: There's still Forgemasters, Night Creatures, Seekers, all those things, even though it's a completely different time period.
+
+342
+00:31:44,729 --> 00:31:45,410
+Speaker 1: Still in Europe, though.
+
+343
+00:31:45,590 --> 00:31:45,790
+Speaker 1: Yeah.
+
+344
+00:31:47,454 --> 00:31:54,166
+Speaker 0: So, other, like, I guess to compare it, because if you didn't watch the first Castlevania, there's no point in watching this one.
+
+345
+00:31:54,186 --> 00:31:55,970
+Speaker 0: Like, Castlevania is definitely something...
+
+346
+00:31:56,271 --> 00:31:58,989
+Speaker 1: Um, I mean, it doesn't, you don't really need it.
+
+347
+00:31:59,250 --> 00:31:59,715
+Speaker 0: You don't need it.
+
+348
+00:31:59,795 --> 00:32:01,270
+Speaker 0: You could watch it just fine?
+
+349
+00:32:01,790 --> 00:32:06,057
+Speaker 1: There's, like, no dependency on the other one, but also, like, why?
+
+350
+00:32:06,137 --> 00:32:13,550
+Speaker 1: It's like, the only place you can watch these legally is Netflix, so it's like, if you've got one, you've got them all, so why would you start with the second one?
+
+351
+00:32:13,570 --> 00:32:16,793
+Speaker 0: And also, if you like one, I think you'll like two?
+
+352
+00:32:17,033 --> 00:32:38,610
+Speaker 0: Like, so to compare and contrast, the main differences I would point to between one and two is that one, the dialogue, which I really like, but I want to point this out, is very much like dialogue from a comic in that there's a lot, some of the best scenes in the first Castlevania are two characters just have a very long conversation.
+
+353
+00:32:39,350 --> 00:32:50,810
+Speaker 1: Yeah, the one thing that's bothered me about the old one and the current one is just sort of the dialogue has a slightly, like, extremely slightly uncanny valley, like, stiltedness.
+
+354
+00:32:51,450 --> 00:32:56,070
+Speaker 0: What is a man is a kind of conversation people have over and over again.
+
+355
+00:32:56,110 --> 00:32:57,693
+Speaker 1: Right, from all the characters.
+
+356
+00:32:57,753 --> 00:33:00,157
+Speaker 1: It's not like I'm picking on one of the voice actors or anything.
+
+357
+00:33:00,237 --> 00:33:07,670
+Speaker 1: It's just, like, all of them, they talk to each other, like, something, something, pause, that's like a half a second too long, something, something, something.
+
+358
+00:33:07,770 --> 00:33:09,572
+Speaker 0: I would say, you know what it sounds like to me?
+
+359
+00:33:09,813 --> 00:33:20,027
+Speaker 0: The voice acting in both of these sounds like a stage play, where you're talking to the audience while looking at the character you're interacting with.
+
+360
+00:33:20,087 --> 00:33:21,068
+Speaker 0: It feels like that.
+
+361
+00:33:21,408 --> 00:33:22,430
+Speaker 0: Everyone's giving speeches.
+
+362
+00:33:23,635 --> 00:33:24,290
+Speaker 1: Yep, pretty much.
+
+363
+00:33:24,370 --> 00:33:27,736
+Speaker 0: Which I'm here for, like, I kind of like that, but it is, like, it is there.
+
+364
+00:33:27,876 --> 00:33:29,980
+Speaker 0: Like, it's not, I'm not saying that that is not there.
+
+365
+00:33:30,621 --> 00:33:33,286
+Speaker 0: The dialogue is sort of stilted, scripted.
+
+366
+00:33:33,346 --> 00:33:35,470
+Speaker 0: It is the opposite of naturalistic dialogue.
+
+367
+00:33:36,931 --> 00:33:49,790
+Speaker 0: The second Castlevania has a lot more dynamic conversations, where things are happening on screen and people are talking, where the first one has a lot of Godran and someone else are having a conversation and nothing happens until the conversation ends.
+
+368
+00:33:50,790 --> 00:33:54,817
+Speaker 0: A second difference, in the first one, the night creatures are mostly ugly and horrifying.
+
+369
+00:33:55,819 --> 00:34:02,450
+Speaker 0: The night creatures are all kind of cool and very distinct and more like the monsters in later Castlevanias.
+
+370
+00:34:03,091 --> 00:34:06,816
+Speaker 1: And there's fewer of them and they're more significant, right?
+
+371
+00:34:06,836 --> 00:34:11,203
+Speaker 1: Because like in the first one, you had like armies of night creatures that were just sort of like getting mowed down.
+
+372
+00:34:11,583 --> 00:34:14,107
+Speaker 1: Here, it's like there's a handful of night creatures.
+
+373
+00:34:14,147 --> 00:34:15,909
+Speaker 1: They're not mass manufacturing them yet.
+
+374
+00:34:16,351 --> 00:34:24,603
+Speaker 1: And so there's only a few and with distinct designs and the ones that don't die in one encounter, they come back in the next encounter.
+
+375
+00:34:24,643 --> 00:34:28,790
+Speaker 1: It's like the same night creatures getting reused because there's only so many so far, at least.
+
+376
+00:34:28,850 --> 00:34:33,397
+Speaker 0: Oh, there's one who comes back a few times who is not the one you're thinking of, who's kind of just there.
+
+377
+00:34:33,456 --> 00:34:41,949
+Speaker 0: Like he's basically a guard in the jail and he is clearly thinking about how to deal with the situations as they keep evolving, but he hasn't made a decision yet.
+
+378
+00:34:43,050 --> 00:34:45,659
+Speaker 1: They're definitely trying to make more of a plot around.
+
+379
+00:34:45,719 --> 00:34:46,724
+Speaker 1: what are the night creatures?
+
+380
+00:34:46,784 --> 00:34:47,487
+Speaker 1: How do they work?
+
+381
+00:34:47,527 --> 00:34:48,230
+Speaker 1: What's their deal?
+
+382
+00:34:48,510 --> 00:34:54,788
+Speaker 0: But also the designs went from just being gross and bitey and weird to ranging from cool to hot.
+
+383
+00:34:55,049 --> 00:34:55,570
+Speaker 0: And I like that.
+
+384
+00:34:56,391 --> 00:34:56,551
+Speaker 1: Right.
+
+385
+00:34:56,571 --> 00:34:59,476
+Speaker 1: I think it's like if you're going to be reusing them so often, right?
+
+386
+00:34:59,516 --> 00:35:07,710
+Speaker 1: They put more effort into designing them to make them cooler, which is important because a lot of the show is fighting night creatures.
+
+387
+00:35:09,450 --> 00:35:15,659
+Speaker 0: The fight scenes are choreographed a bit differently and are way more over the top than the first Castlevania.
+
+388
+00:35:15,999 --> 00:35:23,890
+Speaker 0: And if you think that sounds difficult to achieve because you've seen the first Castlevania, yeah, the fight, the animation and the fight scenes in this one is pretty fucking great.
+
+389
+00:35:25,871 --> 00:35:30,870
+Speaker 0: But there are very long fight scenes that edge into anime length territory.
+
+390
+00:35:31,970 --> 00:35:36,199
+Speaker 1: And of course, you know, there's the characters that they have to include, which is pretty much Richter.
+
+391
+00:35:36,560 --> 00:35:38,704
+Speaker 1: And that's it.
+
+392
+00:35:38,845 --> 00:35:41,350
+Speaker 1: And so all the other characters, Richter and Maria.
+
+393
+00:35:42,031 --> 00:35:42,271
+Speaker 1: Sure.
+
+394
+00:35:42,531 --> 00:35:44,653
+Speaker 1: But all the other characters, they can basically just make up.
+
+395
+00:35:45,834 --> 00:35:51,080
+Speaker 1: And so the characters that they chose to make up are all pretty mostly pretty good.
+
+396
+00:35:51,140 --> 00:35:51,380
+Speaker 1: Right.
+
+397
+00:35:51,420 --> 00:35:54,323
+Speaker 1: So you've got, you know, opera singing dude.
+
+398
+00:35:54,403 --> 00:35:55,304
+Speaker 1: Awesome, dude.
+
+399
+00:35:55,324 --> 00:35:55,604
+Speaker 1: Right.
+
+400
+00:35:55,624 --> 00:35:56,425
+Speaker 1: Really interesting.
+
+401
+00:35:56,505 --> 00:35:59,228
+Speaker 1: You know, you got his friend, revolutionary lady.
+
+402
+00:35:59,368 --> 00:35:59,728
+Speaker 1: Awesome.
+
+403
+00:35:59,809 --> 00:36:00,449
+Speaker 1: She's the best.
+
+404
+00:36:01,010 --> 00:36:01,270
+Speaker 1: Yeah.
+
+405
+00:36:03,030 --> 00:36:06,916
+Speaker 1: Church Abbot is just sort of like a stereotypical evil Abbot.
+
+406
+00:36:06,936 --> 00:36:07,738
+Speaker 1: It's kind of boring.
+
+407
+00:36:07,958 --> 00:36:10,782
+Speaker 0: He's boring because he's a little bumbling in his evil, too.
+
+408
+00:36:11,043 --> 00:36:11,463
+Speaker 0: Yeah.
+
+409
+00:36:11,744 --> 00:36:15,530
+Speaker 1: But his top guard paladin guy is way cool.
+
+410
+00:36:15,930 --> 00:36:16,271
+Speaker 0: Oh, yeah.
+
+411
+00:36:16,471 --> 00:36:33,270
+Speaker 0: Especially because he has the, let's say, extreme sexual tension with Olrox, who was elevated from like minor optional boss in the Castlevania game to possibly one of the most main characters who may or may not be a villain.
+
+412
+00:36:33,390 --> 00:36:37,196
+Speaker 1: They like picked one of the bosses from Castlevania games, Olrox.
+
+413
+00:36:37,376 --> 00:36:37,617
+Speaker 1: Right.
+
+414
+00:36:37,677 --> 00:36:42,164
+Speaker 1: And they said, aha, let us take Olrox, like we'll pick one of the boss names.
+
+415
+00:36:42,644 --> 00:36:42,925
+Speaker 1: Right.
+
+416
+00:36:43,305 --> 00:36:46,250
+Speaker 1: And we'll make a character with that name who's a vampire.
+
+417
+00:36:46,871 --> 00:36:54,706
+Speaker 0: And now he's an awesome dragon vampire with both good and evil aspects and is definitely not just a villain.
+
+418
+00:36:54,746 --> 00:36:55,808
+Speaker 0: And there's stuff going on.
+
+419
+00:36:55,828 --> 00:36:56,770
+Speaker 0: Yep.
+
+420
+00:36:58,490 --> 00:37:00,933
+Speaker 1: Uh, the one, that's right.
+
+421
+00:37:00,953 --> 00:37:04,536
+Speaker 1: Cause when you play in a symphony of night, there's like all rocks is quarters.
+
+422
+00:37:04,576 --> 00:37:05,998
+Speaker 1: It's like areas in the game.
+
+423
+00:37:06,038 --> 00:37:06,278
+Speaker 1: Right.
+
+424
+00:37:07,139 --> 00:37:18,110
+Speaker 0: But, uh, one thing, the only thing that annoyed me about this Castlevania, but it did annoy me was that the main characters on a couple of occasions, and this is not a thing that happened in the first Castlevania.
+
+425
+00:37:19,450 --> 00:37:27,263
+Speaker 0: They skip from a complex, dangerous situation to basically just walking up to where the bad guys are.
+
+426
+00:37:27,343 --> 00:37:29,547
+Speaker 0: And then it goes badly because they didn't have any sort of plan.
+
+427
+00:37:29,908 --> 00:37:31,150
+Speaker 0: And that happens multiple times.
+
+428
+00:37:32,650 --> 00:37:43,940
+Speaker 0: Like it's just, it's a weird plot beat to have such a intrigue style, like set up and then it cuts to, they just fucking walk up to the mansion full of vampires.
+
+429
+00:37:44,380 --> 00:37:46,282
+Speaker 0: And then of course they get caught by security right away.
+
+430
+00:37:46,302 --> 00:37:47,162
+Speaker 0: And then one of them dies.
+
+431
+00:37:47,322 --> 00:37:52,607
+Speaker 0: Like that just didn't feel like a well timed plot beat.
+
+432
+00:37:52,907 --> 00:37:56,350
+Speaker 0: And it stood out compared to the rest of the writing of the plot.
+
+433
+00:37:58,370 --> 00:37:59,811
+Speaker 0: That's my only main complaint.
+
+434
+00:37:59,831 --> 00:38:00,932
+Speaker 0: Otherwise I'm enjoying it.
+
+435
+00:38:01,673 --> 00:38:01,873
+Speaker 1: Yeah.
+
+436
+00:38:01,933 --> 00:38:05,195
+Speaker 1: This is written by, um, not, what was it?
+
+437
+00:38:05,235 --> 00:38:06,296
+Speaker 1: Who wrote the first one?
+
+438
+00:38:06,616 --> 00:38:07,517
+Speaker 1: What's his name?
+
+439
+00:38:07,837 --> 00:38:10,599
+Speaker 0: Oh, the first one was Warren Ellis.
+
+440
+00:38:10,639 --> 00:38:11,219
+Speaker 1: Yeah.
+
+441
+00:38:11,259 --> 00:38:11,700
+Speaker 1: Warren Ellis.
+
+442
+00:38:11,720 --> 00:38:13,461
+Speaker 1: So this is not written by Warren Ellis.
+
+443
+00:38:13,481 --> 00:38:14,982
+Speaker 1: This is written by different people.
+
+444
+00:38:15,042 --> 00:38:19,385
+Speaker 1: So it's like some of the creative team is the same and some is not the same.
+
+445
+00:38:19,465 --> 00:38:23,628
+Speaker 1: Cause I mean, I guess it could be that they've changed the animation studio.
+
+446
+00:38:23,688 --> 00:38:25,930
+Speaker 1: I don't think they did because it looks the same.
+
+447
+00:38:26,530 --> 00:38:27,451
+Speaker 1: But I guess it's possible.
+
+448
+00:38:27,471 --> 00:38:37,559
+Speaker 1: I didn't look at the actual credits, but I know that the writers, like the top name, the top building craters have changed because they put their names right at the, you know, screen.
+
+449
+00:38:38,259 --> 00:38:51,650
+Speaker 1: So that at least is different, but the tone of the show hasn't really, you know, despite different characters, different era, you know, it's like, you could have told me that Warren Ellis wrote this and I wouldn't know.
+
+450
+00:38:52,871 --> 00:38:56,815
+Speaker 0: It feels like an app sequel and I think it's worth watching.
+
+451
+00:38:56,835 --> 00:38:58,577
+Speaker 0: If you like the first one, you like the second one.
+
+452
+00:38:59,017 --> 00:39:08,268
+Speaker 0: If you want to see ultra violent, high intensity, sexual tension filled humans and vampires and wizards having big fights and dramatic speeches at each other.
+
+453
+00:39:08,288 --> 00:39:09,029
+Speaker 0: These shows are great.
+
+454
+00:39:09,149 --> 00:39:10,190
+Speaker 0: Like they're right up your alley.
+
+455
+00:39:11,210 --> 00:39:11,991
+Speaker 1: I just think it's nice.
+
+456
+00:39:12,091 --> 00:39:21,023
+Speaker 1: You know, there's been a lot of shows, you know, I don't like watch a lot of television in general, but a lot of the shows I do watch, it's like you look at something like, you know, a dragon prince or whatever.
+
+457
+00:39:21,043 --> 00:39:24,087
+Speaker 1: It's like shows have a lot of seasons and they go downhill.
+
+458
+00:39:24,487 --> 00:39:26,690
+Speaker 1: shows get going good and then they get canceled.
+
+459
+00:39:27,170 --> 00:39:28,532
+Speaker 1: Shows aren't good to begin with.
+
+460
+00:39:28,932 --> 00:39:33,336
+Speaker 1: It's pretty rare that there's a show that they keep going with it, right?
+
+461
+00:39:33,376 --> 00:39:33,577
+Speaker 1: There's.
+
+462
+00:39:33,857 --> 00:39:34,798
+Speaker 1: they haven't canceled it.
+
+463
+00:39:34,898 --> 00:39:44,807
+Speaker 1: There's going to keep going and keep going and so far have yet to, you know, and it's not like S tier or anything, but it's like, oh, you're still doing a good job.
+
+464
+00:39:44,847 --> 00:39:47,510
+Speaker 1: This is still worth my time to watch this show.
+
+465
+00:39:48,411 --> 00:39:49,473
+Speaker 0: It's it's a show.
+
+466
+00:39:49,513 --> 00:39:51,036
+Speaker 0: that's above my line of.
+
+467
+00:39:51,557 --> 00:39:59,249
+Speaker 0: if a new episode appears, I will watch it at the first reasonable opportunity and I would defer others things I could watch to watch it.
+
+468
+00:39:59,970 --> 00:40:02,915
+Speaker 1: What I pay for Netflix just to watch this show is the question.
+
+469
+00:40:03,015 --> 00:40:11,248
+Speaker 1: And here's the thing is, if you've already seen right all the like existing seasons, it's like it was a cost a month.
+
+470
+00:40:11,268 --> 00:40:12,109
+Speaker 1: The Netflix is 15 bucks.
+
+471
+00:40:12,890 --> 00:40:14,633
+Speaker 0: Wait for season two of this to come out.
+
+472
+00:40:14,693 --> 00:40:17,356
+Speaker 0: Subscribe to Netflix and watch two seasons in one go.
+
+473
+00:40:17,376 --> 00:40:27,570
+Speaker 1: It's like there has to be enough in to pay for one month of Netflix and there has to be enough stuff that you'll watch to squeeze all the juice out of that one month and then cancel.
+
+474
+00:40:28,070 --> 00:40:34,130
+Speaker 1: So it's like if you haven't seen any of the Castlevania, it's like just that alone is worth one month of Netflix.
+
+475
+00:40:34,571 --> 00:40:36,233
+Speaker 0: A month of vampires.
+
+476
+00:40:36,513 --> 00:40:41,220
+Speaker 1: If you if you want to get a whole box set for 15 bucks, that's a good deal.
+
+477
+00:40:41,240 --> 00:40:48,730
+Speaker 0: There are 32 episodes plus there are 40 episodes of hot vampire drama that you could just watch.
+
+478
+00:40:49,311 --> 00:40:51,554
+Speaker 0: But 40 episodes is an ambitious month.
+
+479
+00:40:52,215 --> 00:41:00,870
+Speaker 1: But if there's nothing else that you want to watch, OK, maybe, you know, wait a bit for there to be like make a list of all the things you're going to watch on Netflix if you pay for it.
+
+480
+00:41:01,311 --> 00:41:06,262
+Speaker 1: And when you've got a month's worth of things on your list, buy one month, watch them all cancel.
+
+481
+00:41:06,923 --> 00:41:07,124
+Speaker 1: Right.
+
+482
+00:41:07,164 --> 00:41:08,587
+Speaker 1: And then start working on your list again.
+
+483
+00:41:08,687 --> 00:41:09,629
+Speaker 1: Yeah, that's how you can.
+
+484
+00:41:11,332 --> 00:41:13,842
+Speaker 1: But this is a substantial portion of enough.
+
+485
+00:41:14,485 --> 00:41:14,686
+Speaker 1: Right.
+
+486
+00:41:14,766 --> 00:41:15,650
+Speaker 1: It's like almost half.
+
+487
+00:41:21,440 --> 00:41:23,709
+Speaker 0: This has been Geek Nights with Rim and Scott.
+
+488
+00:41:23,770 --> 00:41:26,280
+Speaker 0: Special thanks to DJ Pretzel for the opening theme.
+
+489
+00:41:26,480 --> 00:41:32,500
+Speaker 1: Be sure to visit our website at frontrowclue.com for show notes, discussion links and more.
+
+490
+00:41:32,981 --> 00:41:35,665
+Speaker 0: Remember, Geek Nights is not one, but four different shows.
+
+491
+00:41:35,966 --> 00:41:37,629
+Speaker 0: Mondays are science and technology.
+
+492
+00:41:37,669 --> 00:41:39,412
+Speaker 0: Tuesdays, gaming and games.
+
+493
+00:41:39,532 --> 00:41:41,355
+Speaker 0: Wednesdays are animation and comics.
+
+494
+00:41:41,676 --> 00:41:44,160
+Speaker 0: Thursdays are arbitrary and indiscriminate.
+
+495
+00:41:44,840 --> 00:41:49,700
+Speaker 0: Geek Nights is distributed under a Creative Commons Attribution 4.0 international license.
+
+496
+00:41:50,300 --> 00:41:54,510
+Speaker 1: Geek Nights is recorded live with no studio and no audience.
+
+497
+00:41:55,012 --> 00:41:58,460
+Speaker 1: But unlike those other late shows, it's actually recorded at night.
+
+498
+00:41:58,821 --> 00:42:11,660
+Speaker 0: And the patreons and patreons for this episode of Geek Nights are Alan Joyce, Lin Kije, Jared Looney, Tenderberry, Kate Skier, Makes of Music, Chris Sadada, Chris Ford, Clinton, Walton, Finn, Joel Hayes, Penny Reimer, Rebecca, Don Sam, Erickson, Jeremy Van Horl, and a bunch of people whose names I will not say.
+
+499
+00:42:12,520 --> 00:42:19,941
+Speaker 0: Tonight, I just leave you with... Don't touch me!
+
+500
+00:42:19,961 --> 00:42:20,741
+Speaker 0: Don't touch me!
+
+501
+00:42:21,282 --> 00:42:22,923
+Speaker 0: I'm hysterical!
+
+502
+00:42:23,043 --> 00:42:24,304
+Speaker 0: I'm hysterical!
+
+503
+00:42:24,384 --> 00:42:25,105
+Speaker 0: I'm wet!
+
+504
+00:42:25,606 --> 00:42:26,146
+Speaker 0: I'm wet!
+
+505
+00:42:26,286 --> 00:42:27,887
+Speaker 0: I'm hysterical and I'm wet!
+
+506
+00:42:44,220 --> 00:42:45,363
+Speaker 0: I'm in pain!
+
+507
+00:42:46,345 --> 00:42:47,126
+Speaker 0: And I'm wet!
+
+508
+00:42:48,630 --> 00:42:49,932
+Speaker 0: And I'm still hysterical!
+
+509
+00:42:49,952 --> 00:42:51,516
+Speaker 0: No, no, don't hit it, don't hit it.
+
+510
+00:42:51,556 --> 00:42:53,480
+Speaker 0: It doesn't help, but it only increases my sense of danger.
+

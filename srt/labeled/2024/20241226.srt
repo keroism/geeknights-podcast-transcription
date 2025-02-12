@@ -1,0 +1,3204 @@
+1
+00:00:06,940 --> 00:00:08,508
+Rym: It's Thursday, December 26th, 2024.
+
+2
+00:00:08,508 --> 00:00:08,709
+Rym: I'm Rym.
+
+3
+00:00:12,182 --> 00:00:12,620
+Scott: I'm Scott.
+
+4
+00:00:12,940 --> 00:00:14,186
+Rym: And this is GeekNights.
+
+5
+00:00:14,227 --> 00:00:16,960
+Rym: Tonight we are talking about fear.
+
+6
+00:00:18,380 --> 00:00:19,378
+Scott: Let's do this.
+
+7
+00:00:20,360 --> 00:00:23,940
+Rym: So we're hanging out and having a dinner party at Scott's place last night with the latkes.
+
+8
+00:00:24,601 --> 00:00:26,839
+Rym: Scott made some pretty good skakas, I would say.
+
+9
+00:00:28,300 --> 00:00:28,393
+Scott: Okay.
+
+10
+00:00:29,061 --> 00:00:31,740
+Scott: It's called the recipe from, you know, the internet.
+
+11
+00:00:32,101 --> 00:00:36,980
+Rym: Yeah, I'm just, I, uh, the last few times I've tried to make latkes, it has not gone well.
+
+12
+00:00:37,341 --> 00:00:37,999
+Rym: But I think it's hard.
+
+13
+00:00:38,280 --> 00:00:39,079
+Scott: It's not that hard.
+
+14
+00:00:39,861 --> 00:00:44,360
+Rym: I think the hardest part is the oil just has to actually be the right temperature.
+
+15
+00:00:45,560 --> 00:00:54,019
+Scott: I mean, what you do is you take one little potato piece and you put it in the oil and you wait and when that potato piece is going fizzle, fizzle, fizzle, then the oil's hot enough.
+
+16
+00:00:55,401 --> 00:01:01,720
+Scott: But you should also try to use a, if you can use a cast iron pan because that will retain heat.
+
+17
+00:01:01,841 --> 00:01:05,280
+Scott: So when you add latkes, the oil temperature doesn't like suddenly drop, right?
+
+18
+00:01:05,340 --> 00:01:06,157
+Scott: It'll, it'll stay.
+
+19
+00:01:06,880 --> 00:01:15,460
+Rym: It's something I would, you know, it's the kind of thing like I don't like frying stuff in our apartment partly because unlike you, our fume hood just goes through filters and right back into the apartment.
+
+20
+00:01:15,600 --> 00:01:18,519
+Rym: We don't have an exterior venting fume hood in our kitchen.
+
+21
+00:01:20,201 --> 00:01:21,900
+Rym: So frying stuff puts oil everywhere.
+
+22
+00:01:21,900 --> 00:01:31,739
+Rym: We don't fry things that often, but I will say if I had the dream home where I could set everything up right, I would probably actually have a dedicated for real fryer, a small one.
+
+23
+00:01:32,560 --> 00:01:33,259
+Rym: Cause we had one as a kid.
+
+24
+00:01:33,320 --> 00:01:35,760
+Rym: When I was a kid, we had a deep fryer that we actually used a lot.
+
+25
+00:01:37,020 --> 00:01:50,980
+Scott: I mean, I, if I, if the ideal situation right, would be that I would have an outdoor cooking area for anything that was smoky or noxious or involved real fire and indoors.
+
+26
+00:01:51,481 --> 00:01:59,880
+Scott: We would only use, you know, uh, induction and nothing that could really, you know, pollute the air in the home.
+
+27
+00:02:01,405 --> 00:02:01,518
+Rym: Yup.
+
+28
+00:02:01,981 --> 00:02:02,776
+Rym: But is what it is.
+
+29
+00:02:03,360 --> 00:02:06,140
+Rym: So, uh, over dinner, we were, we were talking about things.
+
+30
+00:02:06,200 --> 00:02:11,980
+Rym: And of course, like you do in our crowd, a topic that came up were relics of saints.
+
+31
+00:02:12,180 --> 00:02:21,457
+Rym: Cause you know, I went to a Catholic school and that had a relic and that just something I, you know, elementary school kid, like, Hey, here's the knuckle bone of Saint what's his fuck?
+
+32
+00:02:21,477 --> 00:02:22,260
+Rym: and it's magic.
+
+33
+00:02:22,440 --> 00:02:22,681
+Rym: I thought,
+
+34
+00:02:23,083 --> 00:02:37,820
+Scott: I thought that relic just meant like, you know, old artifact until, you know, at some point I learned that it actually meant literally piece of a Saint, uh, like, you know, Vecna's eyeball or whatever, but, uh, there was a long period where I didn't know that with the real, what relic actually meant.
+
+35
+00:02:38,381 --> 00:02:44,979
+Scott: Um, I only knew the more colloquial definition where you'd say like, you know, ah, ah, that old relic.
+
+36
+00:02:45,200 --> 00:02:45,307
+Scott: Right.
+
+37
+00:02:46,723 --> 00:02:54,120
+Rym: But see, that is funny because the old, like I, this is something that was drilled into me from a young age because of going to a Catholic school.
+
+38
+00:02:54,420 --> 00:03:21,478
+Rym: Like the word relic was a capitalized word that meant like crazy magic stuff, which is why when we did our old, uh, short lived, but surprisingly popular, uh, radio free equestria, uh, you may recall that we were deeply convinced and made a strong argument that hearts, the relic in the crystal pony, whatever was an actual relic of that other old, I don't remember the names, any of those ponies, but the evil pony that used to live there.
+
+39
+00:03:22,128 --> 00:03:22,600
+Scott: Yeah, probably.
+
+40
+00:03:23,320 --> 00:03:31,620
+Rym: But, uh, so anyway, uh, you know, I went to a Catholic school that had a, had a relic, we had a piece of a Saint and we were talking about the aspect of the Saint.
+
+41
+00:03:31,882 --> 00:04:01,480
+Rym: And I was explaining to a bunch of our friends, a terrifying concept that I learned in elementary school, uh, described as the odor of sanctity, which if you're not familiar and you can imagine how this came to be, uh, the odor of sanctity was on one hand, an ontological state of being for a Saint being in a state of grace, like using the word odor, like an air of grace or an odor of grace.
+
+42
+00:04:01,561 --> 00:04:03,559
+Rym: And that's probably the origin of the term.
+
+43
+00:04:04,244 --> 00:04:09,619
+Rym: But, uh, to Catholics, it also means a literal smell that Saints smell like.
+
+44
+00:04:10,384 --> 00:04:12,558
+Rym: Uh, and it's supposed to be vaguely floral.
+
+45
+00:04:13,421 --> 00:04:19,103
+Rym: There were samples of it that we were supposed to smell and oil that smelled kind of like roses in our school, like.
+
+46
+00:04:19,144 --> 00:04:20,159
+Rym: that's just how Catholics were.
+
+47
+00:04:20,700 --> 00:04:30,560
+Rym: So the odor of sanctity is, to many Catholics, an actual smell that comes out of real Saints, usually after they die or if you're futzing with their corpse.
+
+48
+00:04:31,721 --> 00:04:53,060
+Rym: Uh, what I did not know until I looked up the Wikipedia article on the odor of sanctity last night, uh, to find some corroborating evidence was that Saints that exude this aura are a special kind of Saint that are called Mirablights, which sounds surprisingly familiar to Cenobites.
+
+49
+00:04:53,540 --> 00:04:58,060
+Rym: So now I'm imagining that, uh, Event Horizon is in the same timeline as the Catholic Church.
+
+50
+00:04:58,688 --> 00:04:59,260
+Rym: But I digress.
+
+51
+00:04:59,640 --> 00:05:01,159
+Scott: Isn't Cenobite the Hellraiser thing?
+
+52
+00:05:01,481 --> 00:05:03,439
+Rym: Oh yeah, the Hellraiser, which is adjacent.
+
+53
+00:05:04,322 --> 00:05:09,719
+Rym: Yeah, that's the, that's the race of weirdos that pop out and torture you if you solve the puzzle box.
+
+54
+00:05:10,101 --> 00:05:10,490
+Scott: Are they?
+
+55
+00:05:10,551 --> 00:05:10,898
+Scott: Hold on.
+
+56
+00:05:11,120 --> 00:05:11,432
+Scott: Yeah, Cenobite.
+
+57
+00:05:12,020 --> 00:05:12,553
+Scott: Yeah, Cenobite.
+
+58
+00:05:12,635 --> 00:05:12,840
+Scott: Okay.
+
+59
+00:05:13,040 --> 00:05:13,586
+Scott: Yeah.
+
+60
+00:05:13,687 --> 00:05:13,930
+Scott: Okay.
+
+61
+00:05:13,970 --> 00:05:14,900
+Scott: I knew something correctly.
+
+62
+00:05:15,240 --> 00:05:15,340
+Scott: Yeah.
+
+63
+00:05:15,841 --> 00:05:16,480
+Rym: So, Mirablight.
+
+64
+00:05:16,480 --> 00:05:18,720
+Scott: What was the other thing you said, the Event Horizon?
+
+65
+00:05:19,060 --> 00:05:20,198
+Rym: You ever watched the movie Event Horizon?
+
+66
+00:05:21,321 --> 00:05:25,979
+Scott: Uh, I think I know there's a movie called Event Horizon, but I don't think there's any Cenobites in it.
+
+67
+00:05:26,440 --> 00:05:27,557
+Scott: Uh, arguably.
+
+68
+00:05:29,643 --> 00:05:33,480
+Rym: So, what happens in Event Horizon is very Cenobite adjacent.
+
+69
+00:05:34,263 --> 00:05:36,180
+Rym: Uh, there's some movies you should watch if you've never seen them.
+
+70
+00:05:36,220 --> 00:05:44,120
+Scott: I went, I mean, but still, I went to the webpage, the Wikipedia page for the film, and it has absolutely no connection to Hellraiser or Cenobites.
+
+71
+00:05:44,340 --> 00:05:53,659
+Rym: I mean, not canonically, but the movie is about a ship that basically encounters scary torture hell nonsense and it makes the crew all go insane.
+
+72
+00:05:54,420 --> 00:05:58,540
+Scott: Alright, but I'm saying it's not, you know, none of the people aren't the same.
+
+73
+00:05:58,982 --> 00:05:59,920
+Scott: It's not in the same universe.
+
+74
+00:06:00,402 --> 00:06:01,178
+Rym: No, absolutely not.
+
+75
+00:06:01,501 --> 00:06:10,920
+Rym: But weird sex-adjacent torture hell from space is the connecting theme between all of these, if that's the great one.
+
+76
+00:06:10,940 --> 00:06:13,900
+Scott: Are the Cenobites in Hellraiser from space or just another dimension?
+
+77
+00:06:14,341 --> 00:06:16,761
+Rym: I don't actually know, because I've only ever seen Hellraiser 1.
+
+78
+00:06:16,761 --> 00:06:21,660
+Scott: And there's so much lore involving them, but, like, you don't get any of that lore in the movie.
+
+79
+00:06:21,940 --> 00:06:25,600
+Scott: No, the movie is just-- I've only seen the first one.
+
+80
+00:06:25,740 --> 00:06:28,639
+Rym: I have also only seen the first one, and I only saw it once as a kid.
+
+81
+00:06:29,255 --> 00:06:29,439
+Scott: Yeah.
+
+82
+00:06:30,300 --> 00:06:41,140
+Rym: But, uh, so anyway, there is a certain kind of saint in Christianity, mostly Catholicism and Orthodox Christians, who are called Mirablites because they exude this stuff.
+
+83
+00:06:41,723 --> 00:06:43,220
+Rym: So I went down a little bit of a rabbit hole.
+
+84
+00:06:43,640 --> 00:06:45,940
+Rym: There aren't that many Mirablites.
+
+85
+00:06:46,621 --> 00:06:52,500
+Rym: However, this is taken to be extremely and terrifyingly literal.
+
+86
+00:06:52,841 --> 00:06:59,439
+Rym: So, for example, one of the Mirabyte saints is Nihilus, the Mur streamer.
+
+87
+00:07:00,241 --> 00:07:09,598
+Rym: And from everything that I read about this guy, Mur, or at least something that they said was Mur, just kind of poured out of his body, and it was a thing.
+
+88
+00:07:10,340 --> 00:07:11,378
+Scott: Probably some kind of pus?
+
+89
+00:07:11,984 --> 00:07:12,599
+Rym: I imagine.
+
+90
+00:07:13,440 --> 00:07:14,024
+Rym: A fungus?
+
+91
+00:07:14,044 --> 00:07:14,749
+Rym: I don't know.
+
+92
+00:07:15,462 --> 00:07:18,060
+Rym: So then I looked up-- A festering something?
+
+93
+00:07:18,221 --> 00:07:22,620
+Rym: One of these saints on the list of Mirablite saints was named Nicholas.
+
+94
+00:07:24,466 --> 00:07:25,600
+Rym: And I'm like, "Wait a minute.
+
+95
+00:07:26,200 --> 00:07:26,535
+Rym: "Nicholas?".
+
+96
+00:07:26,640 --> 00:07:27,460
+Rym: And Emily's like, "Wait.
+
+97
+00:07:28,181 --> 00:07:30,555
+Rym: "Nicholas as in Saint Nicholas as in Santa
+
+98
+00:07:30,575 --> 00:07:30,877
+Rym: Claus?".
+
+99
+00:07:31,542 --> 00:07:33,080
+Scott: And I assume-- He said, "Toys.
+
+100
+00:07:33,220 --> 00:07:33,832
+Scott: "Toys were oozing
+
+101
+00:07:33,852 --> 00:07:33,913
+Scott: out.".
+
+102
+00:07:34,280 --> 00:07:39,619
+Rym: Now, I assume-- That there is more than one Saint Nicholas and that the Christmas-- Peppermint.
+
+103
+00:07:39,881 --> 00:07:45,351
+Rym: That Christmas Santa Claus Sincer Nicholas is not the same saint as the Mirablite, Pretty sure.
+
+104
+00:07:45,372 --> 00:07:48,379
+Scott: it's only-- You know, it would be a different-- It wouldn't have the same name.
+
+105
+00:07:49,001 --> 00:07:49,529
+Scott: They don't reuse names.
+
+106
+00:07:50,380 --> 00:07:55,659
+Scott: I mean, they could because, one, Orthodox-- They always do-- When they reuse pope names, they're always like the second, the third--.
+
+107
+00:07:55,760 --> 00:08:01,439
+Rym: Ah, that's different though because pope names are following the same rules as royalty for confusing reasons.
+
+108
+00:08:02,600 --> 00:08:03,599
+Rym: You take a pope's name.
+
+109
+00:08:04,100 --> 00:08:05,980
+Rym: Saints don't take a name.
+
+110
+00:08:06,060 --> 00:08:06,855
+Rym: They just are named.
+
+111
+00:08:06,875 --> 00:08:08,000
+Rym: that, but it gets complicated.
+
+112
+00:08:09,140 --> 00:08:23,320
+Rym: But anyway, the long story short, we determined that it is in fact true that Santa Claus is one of the few Mirablite saints that oozes-- Where is the relic of Santa Claus?
+
+113
+00:08:23,442 --> 00:08:25,040
+Scott: and what's it-- Is that at the North Pole?
+
+114
+00:08:25,140 --> 00:08:25,678
+Scott: Where do they put it?
+
+115
+00:08:26,260 --> 00:08:27,059
+Scott: Can I see the ooze?
+
+116
+00:08:27,401 --> 00:08:29,579
+Rym: So I don't know where the relics are.
+
+117
+00:08:29,880 --> 00:08:36,431
+Rym: The relics continued to produce myrrh when they were brought to, I guess, the city of Bari in the 1100s.
+
+118
+00:08:38,520 --> 00:08:39,499
+Scott: Where is that?
+
+119
+00:08:39,900 --> 00:08:48,120
+Rym: In 1966, a vault in the crypt underneath the Basilica de Saint Nicholas was dedicated to an Orthodox chapel with an iconostasis.
+
+120
+00:08:48,842 --> 00:08:49,499
+Rym: I don't know what that is.
+
+121
+00:08:49,560 --> 00:08:50,318
+Rym: I'm not going to click on that.
+
+122
+00:08:50,643 --> 00:08:59,285
+Rym: In commemoration of the recent lifting of the anathemas, I don't understand that, the Roman Catholic nation church, blah, blah, blah, blah, blah, Schism 1054.
+
+123
+00:08:59,285 --> 00:09:01,732
+Rym: I thought that sentence was going to explain this, but it didn't.
+
+124
+00:09:02,783 --> 00:09:03,580
+Rym: It keeps going.
+
+125
+00:09:03,720 --> 00:09:04,257
+Rym: I have no idea.
+
+126
+00:09:04,902 --> 00:09:10,379
+Rym: Anyway, Saint Nicholas, Santa Claus, is an oozing saint canonically.
+
+127
+00:09:10,822 --> 00:09:11,900
+Rym: That is what we have determined.
+
+128
+00:09:12,360 --> 00:09:18,439
+Rym: What he oozed was apparently myrrh, and beyond that, read the Wikipedia because-- They really love that myrrh.
+
+129
+00:09:18,580 --> 00:09:22,338
+Rym: They really do, which Penny Arcade was talking about recently as well.
+
+130
+00:09:22,843 --> 00:09:24,359
+Scott: We should hoard all the myrrh.
+
+131
+00:09:24,742 --> 00:09:28,976
+Scott: There's a myrrh shortage where the Catholics freak out, and could we overcharge them for the myrrh?
+
+132
+00:09:30,846 --> 00:09:33,820
+Scott: They keep the myrrh like De Beers keeps diamonds, like a big myrrh vault.
+
+133
+00:09:35,005 --> 00:09:36,213
+Scott: No one else can grow any myrrh.
+
+134
+00:09:36,821 --> 00:09:37,540
+Rym: Myrrh, but what about frankincense?
+
+135
+00:09:37,540 --> 00:09:39,080
+Scott: We got to lock on the myrrh production.
+
+136
+00:09:40,961 --> 00:09:41,395
+Rym: So, yeah.
+
+137
+00:09:42,742 --> 00:09:48,033
+Rym: Santa Claus is a myrrh blight, and that's a little tidbit you can drop on your family the next time you hang out with them.
+
+138
+00:09:49,283 --> 00:09:50,278
+Rym: Anyway, got any news?
+
+139
+00:09:51,141 --> 00:09:52,858
+Scott: I'm just looking at what myrrh actually is.
+
+140
+00:09:55,085 --> 00:09:57,337
+Scott: It's a resin that comes from a thorny tree.
+
+141
+00:09:58,102 --> 00:09:59,559
+Rym: Or a saint, I guess.
+
+142
+00:10:00,480 --> 00:10:01,359
+Scott: Yeah, alright.
+
+143
+00:10:03,766 --> 00:10:04,540
+Scott: Do I have a news?
+
+144
+00:10:04,600 --> 00:10:05,100
+Scott: What was the news?
+
+145
+00:10:05,200 --> 00:10:19,006
+Scott: Alright, so today ChatGBT, which I don't use anyway, was down for quite a while, and the cause of that was supposedly some kind of power outage at the data center, and it's like, "Bro, what kind of data center is
+
+146
+00:10:19,068 --> 00:10:19,255
+Scott: that?".
+
+147
+00:10:19,400 --> 00:10:26,497
+Scott: It's like other data centers have, you know, multi-region capacity, they got generators, you know.
+
+148
+00:10:26,860 --> 00:10:44,755
+Rym: Well, not even that, but like, I've been doing serious enterprise IT for almost 20 years, and other than the great Northeast power outage and the hurricane that took down all the data centers in New York, I have never had a power outage cause an outage.
+
+149
+00:10:44,857 --> 00:10:50,886
+Rym: outage in my entire career, because that's like, "Babies first, don't fuck that up unless you're so small it doesn't
+
+150
+00:10:50,967 --> 00:10:51,271
+Rym: matter.".
+
+151
+00:10:52,565 --> 00:10:55,837
+Rym: I don't have a lot of confidence in ChatGBT if that is what caused the outage.
+
+152
+00:10:56,680 --> 00:11:04,019
+Scott: Yeah, I mean, you look at some other things, and it's like, yeah, there's outages for other reasons that happen, even at the biggest places, right?
+
+153
+00:11:04,762 --> 00:11:07,278
+Scott: And there are outages at places like Reddit is down.
+
+154
+00:11:07,686 --> 00:11:12,678
+Scott: basically, like, a lot, just cause, and they've always been that way, I don't know what the hell's wrong with them, but they just suck.
+
+155
+00:11:13,122 --> 00:11:14,560
+Scott: I can stand up and whatever.
+
+156
+00:11:15,909 --> 00:11:20,319
+Scott: But it's pretty rare to see one that goes down for a power outage.
+
+157
+00:11:20,763 --> 00:11:34,359
+Scott: that's a major place, But not just a major place, but regardless of what, you know, how I feel about it, or if I'm gonna use it or whatever, many other people are building technology on top of ChatGPT.
+
+158
+00:11:34,640 --> 00:11:37,358
+Scott: So if ChatGPT is down, they're down.
+
+159
+00:11:37,800 --> 00:11:40,999
+Scott: And so, or at least partially down to some extent.
+
+160
+00:11:41,923 --> 00:11:51,959
+Scott: Uh, and so if you're gonna build something on top of something else, you need the something else to be a strong foundation and not people who have an outage.
+
+161
+00:11:52,501 --> 00:11:58,398
+Rym: I mean, ChatGPT is not a good foundation to build anything out even if it never goes down.
+
+162
+00:11:59,941 --> 00:12:15,420
+Rym: Uh, it's also, you know, while I hate to say AI, because it isn't, uh, Well, it is by all modern definitions of AI, but, it's only not AI by the colloquial use most people make of the term artificial intelligence.
+
+163
+00:12:17,941 --> 00:12:28,340
+Scott: the point is that, uh, the matrix is really prescient in showing that, you know, the, the Skynet or whatever is gonna really need power somehow.
+
+164
+00:12:28,504 --> 00:12:40,059
+Scott: and if humans uh, right, aren't, you know, keeping their power plants up, uh, there's nothing that ChatGP2 can do about it that ChatGPT can do about.
+
+165
+00:12:40,384 --> 00:12:43,200
+Scott: if we fuck up the electricity it's off, right?
+
+166
+00:12:43,565 --> 00:12:50,198
+Scott: So, if anyone has fears of, you know, a Skynet soon, don't worry, pulling the plug is still gonna work just great.
+
+167
+00:12:50,320 --> 00:12:54,139
+Rym: Yeah, like a squirrel could take Skynet down in our actual world.
+
+168
+00:12:54,600 --> 00:12:55,898
+Rym: Squirrels often take things down.
+
+169
+00:12:56,220 --> 00:12:57,800
+Scott: Squirrels cause a lot of power outages.
+
+170
+00:12:58,020 --> 00:12:58,082
+Rym: so
+
+171
+00:12:58,103 --> 00:13:17,120
+Scott: we don't have to worry until, right, the matrix situation happens where it can somehow power itself, right, by running a power plant and maintaining a power plant and getting fuel for the power plant and doing all those things without any humans whatsoever, um, don't worry, we can just pull the plugs.
+
+172
+00:13:17,600 --> 00:13:17,815
+Scott: We're good.
+
+173
+00:13:18,204 --> 00:13:18,517
+Scott: We're good.
+
+174
+00:13:18,900 --> 00:13:25,918
+Rym: Uh, I'm gonna toss, uh, toss, uh, a short, uh, verse from the chat on the GeekNights episode right now.
+
+175
+00:13:26,347 --> 00:13:28,258
+Rym: take a lick from old Saint Nick.
+
+176
+00:13:31,123 --> 00:13:31,519
+Scott: Tasty.
+
+177
+00:13:32,293 --> 00:13:33,437
+Scott: I wonder what myrrh tastes like.
+
+178
+00:13:34,147 --> 00:13:37,179
+Rym: Uh, I'm actually a little curious, cause I like pine sap.
+
+179
+00:13:37,660 --> 00:13:39,219
+Scott: I'm reading, I'm reading about myrrh.
+
+180
+00:13:39,360 --> 00:13:43,898
+Scott: It says it's been used for, you know, medicine and perfumery and incense.
+
+181
+00:13:44,664 --> 00:13:46,319
+Scott: So it must smell good to somebody.
+
+182
+00:13:46,620 --> 00:13:49,560
+Rym: Yeah, some myrrh, get some, uh, precious hamburgers.
+
+183
+00:13:49,580 --> 00:13:53,358
+Scott: And they mixed it, they mixed it with posca, I don't know what that is, or wine.
+
+184
+00:13:55,341 --> 00:13:58,819
+Scott: to use it as to produce pleasurable feelings.
+
+185
+00:13:58,941 --> 00:14:00,257
+Scott: I wonder how much of that was the wine.
+
+186
+00:14:01,440 --> 00:14:06,117
+Scott: And as an anti-inflammatory and analgesic, I wonder how well it worked at that.
+
+187
+00:14:06,586 --> 00:14:06,820
+Rym: Yeah.
+
+188
+00:14:07,788 --> 00:14:08,879
+Scott: I wouldn't recommend it today.
+
+189
+00:14:09,000 --> 00:14:10,919
+Scott: I would recommend evidence-based medicine.
+
+190
+00:14:12,060 --> 00:14:14,148
+Scott: But maybe there is a real medicine they make with myrrh.
+
+191
+00:14:14,420 --> 00:14:14,676
+Scott: I don't know.
+
+192
+00:14:15,000 --> 00:14:15,294
+Rym: Could be.
+
+193
+00:14:15,666 --> 00:14:19,717
+Rym: Well, you know, it's a total aside, but there, there's fomiopathy, which is just fake.
+
+194
+00:14:20,300 --> 00:14:29,831
+Rym: But herbalism is almost worse in that some of it is just fake and things don't do anything, but some of it is, yes, there's a chemical in that herb and you shouldn't be taking random doses of it.
+
+195
+00:14:31,180 --> 00:14:34,720
+Scott: I mean, you know, I always say like, hey, you know, penicillin comes from a mold, right?
+
+196
+00:14:35,240 --> 00:14:45,499
+Scott: If you are trapped in the woods alone and you have a bacterial infection and you can, you know, with your modern knowledge that that's the right mold that has the penicillin, okay.
+
+197
+00:14:46,087 --> 00:14:46,260
+Scott: Right.
+
+198
+00:14:46,683 --> 00:15:05,258
+Scott: But if you're in society that can take the mold, extract the penicillin, get rid of the rest of the mold that you don't want to eat, right, and accurately dose the penicillin to the correct amounts and such and such, don't go fucking with mold, So it's the same thing.
+
+199
+00:15:05,722 --> 00:15:13,538
+Scott: If myrrh somehow contains some chemicals that are medically useful, then you still shouldn't be fucking with myrrh.
+
+200
+00:15:13,904 --> 00:15:25,334
+Scott: You should be waiting for some pharmaceutical company to take myrrh and process it and create medicine of accurate dosage and safety with whatever was in the myrrh, right?
+
+201
+00:15:25,480 --> 00:15:28,611
+Scott: Don't go fucking with the myrrh itself unless you're.
+
+202
+00:15:30,067 --> 00:15:30,775
+Scott: you need the myrrh.
+
+203
+00:15:30,980 --> 00:15:33,856
+Scott: You need an analgesic and it's gonna, right, that's not happening.
+
+204
+00:15:34,982 --> 00:15:40,497
+Rym: So in some news, it happened again and it's kind of a big deal.
+
+205
+00:15:40,741 --> 00:15:42,020
+Rym: I do want to talk about it a little bit.
+
+206
+00:15:42,600 --> 00:15:44,456
+Rym: So Russia shot down an airliner again.
+
+207
+00:15:45,841 --> 00:15:46,416
+Scott: We think so.
+
+208
+00:15:47,060 --> 00:15:47,780
+Rym: So probably.
+
+209
+00:15:48,380 --> 00:15:53,379
+Rym: Reporting just in the last hour, it's pretty likely Russia shot it down.
+
+210
+00:15:53,502 --> 00:16:00,312
+Rym: And if Russia didn't shoot it down, then someone else like Chechnya and rebels shot it down because it was definitely shot down.
+
+211
+00:16:00,960 --> 00:16:03,620
+Scott: It doesn't seem like it crashed by accident.
+
+212
+00:16:04,344 --> 00:16:13,116
+Rym: Russia also just now released a statement saying that nobody should speculate that Russia shot it down and that there will be consequences if anyone does.
+
+213
+00:16:13,962 --> 00:16:15,447
+Scott: they didn't do it on purpose.
+
+214
+00:16:17,220 --> 00:16:18,774
+Rym: I'm confident they didn't do it on purpose.
+
+215
+00:16:19,548 --> 00:16:21,774
+Scott: There was no reason for them to do this.
+
+216
+00:16:22,202 --> 00:16:31,480
+Scott: Even the evil people, it's like you don't just, you know they just don't want to shoot planes down randomly of non-enemies and cause trouble for themselves.
+
+217
+00:16:31,901 --> 00:16:41,559
+Rym: shot down several airliners through over history and one of them that they shot down during the earlier part of the Cold War was kind of on purpose.
+
+218
+00:16:42,260 --> 00:16:43,453
+Scott: Yes, but we're talking about this one.
+
+219
+00:16:43,621 --> 00:16:49,177
+Scott: This one, it would be really wild if it was on purpose because why?
+
+220
+00:16:49,423 --> 00:16:51,840
+Scott: Maybe there was an important person they didn't like on.
+
+221
+00:16:51,840 --> 00:16:59,440
+Rym: I was about to say the only plausible reason Russia would shoot it down on purpose was if it was a just very coarse assassination.
+
+222
+00:17:00,242 --> 00:17:01,537
+Scott: But I don't think there was.
+
+223
+00:17:02,481 --> 00:17:04,039
+Scott: There's no evidence to suggest that.
+
+224
+00:17:04,099 --> 00:17:20,837
+Rym: What seems to have happened, I was reading a lot about this today, it looks like Russia has for a while now been pretty regularly shutting down all their airports and activating their air defenses because of you know, defending themselves from Ukrainian drones, which is a thing.
+
+225
+00:17:21,663 --> 00:17:23,958
+Rym: They're being attacked rightly for their war.
+
+226
+00:17:24,865 --> 00:17:32,380
+Rym: And we live in the US, which is a country that doesn't really have that kind of air defenses because we don't really have any hostile neighbors.
+
+227
+00:17:32,985 --> 00:17:38,959
+Rym: But like Russia is a country that has anti-aircraft systems all the fuck over the place.
+
+228
+00:17:39,781 --> 00:17:49,380
+Rym: So what they will do summarizing is when Russia believes it's under attack, they will basically order all the airports closed like suddenly.
+
+229
+00:17:49,621 --> 00:17:59,580
+Rym: So planes have to divert and then all the air defenses activate and may target anything that continues to approach the airports or Russian airspace.
+
+230
+00:18:00,604 --> 00:18:06,875
+Rym: So it looks like Russia declared one of those emergencies right around the time this plane got shot down.
+
+231
+00:18:07,525 --> 00:18:11,159
+Rym: So it's pretty likely their air defenses were active.
+
+232
+00:18:11,646 --> 00:18:14,500
+Rym: This plane was in the area and thus the plane just got targeted.
+
+233
+00:18:17,669 --> 00:18:20,133
+Scott: I guess they don't have a human sitting there to be like.
+
+234
+00:18:21,284 --> 00:18:22,138
+Scott: don't shoot that one.
+
+235
+00:18:22,500 --> 00:18:24,159
+Scott: It's like it just automatically shoots.
+
+236
+00:18:24,762 --> 00:18:25,219
+Rym: So it depends.
+
+237
+00:18:25,321 --> 00:18:29,558
+Rym: There's lots of kinds of air defense systems and I'm not an expert on this stuff.
+
+238
+00:18:29,840 --> 00:18:30,191
+Scott: I don't know.
+
+239
+00:18:31,520 --> 00:18:31,839
+Scott: What do I know?
+
+240
+00:18:31,860 --> 00:18:46,695
+Rym: If you want to look it up, the chatter is that the surface-to-air missile that was most likely used was a Pantier or a Pantsier S-1 which is kind of an old I guess like debris of the missile like on the ground that they yeah.
+
+241
+00:18:46,960 --> 00:18:59,572
+Rym: Well no so the reason they know is partly because of the state of the plane because the plane landed like pretty well intact and you can see the shrapnel damage to the rear fin and to a couple other parts of the plane.
+
+242
+00:19:01,163 --> 00:19:09,118
+Rym: So anyway I would advise not getting on a commercial airliner that goes anywhere near Russia anytime soon.
+
+243
+00:19:09,840 --> 00:19:12,919
+Scott: I imagine the commercial airlines are going to fly.
+
+244
+00:19:13,041 --> 00:19:16,180
+Rym: very few commercial airlines actually do fly in that airspace.
+
+245
+00:19:16,420 --> 00:19:25,154
+Rym: It's mostly Middle Eastern Airlines and Russian Airlines and Russian Ally Airlines and like Delta doesn't have flights that go anywhere near these places.
+
+246
+00:19:25,196 --> 00:19:25,320
+Rym: right.
+
+247
+00:19:25,481 --> 00:19:25,977
+Scott: You don't say.
+
+248
+00:19:26,323 --> 00:19:26,540
+Rym: Yeah.
+
+249
+00:19:28,007 --> 00:19:49,998
+Rym: But in some other news you might have noticed there's been a lot of cable and internet outages over the last year and a half in the Black Sea and in areas around Russia also related to the war and a lot of those outages have been blamed on basically ships "accidentally" dropping their anchors and just fucking up cables.
+
+250
+00:19:50,740 --> 00:19:55,149
+Scott: Well Russia right you know there's a lot of sanctions on them and they need money.
+
+251
+00:19:55,696 --> 00:19:59,060
+Scott: and so they got to sell the oil that they drill up right.
+
+252
+00:19:59,161 --> 00:20:03,052
+Scott: and so what they do is I mean every country even the US does this right is?
+
+253
+00:20:03,072 --> 00:20:10,111
+Scott: you get a whole bunch of boats and those boats have a flag on them from some other country some African country right like.
+
+254
+00:20:10,152 --> 00:20:12,660
+Scott: I think a lot of the boats the US has are like from Liberia.
+
+255
+00:20:13,582 --> 00:20:15,800
+Rym: Russia uses Cook Islands often.
+
+256
+00:20:15,940 --> 00:20:20,666
+Scott: Yeah Russia Gabon is one that gets used a lot right but basically it's it's weird.
+
+257
+00:20:20,707 --> 00:20:21,200
+Scott: it's like you know.
+
+258
+00:20:21,200 --> 00:20:31,640
+Scott: you think you the only ship like most of the ships that have US flags on them are either the actual US Navy or US civilians like recreational vehicles.
+
+259
+00:20:31,840 --> 00:20:33,980
+Rym: Now see I would say commercial vehicle.
+
+260
+00:20:34,182 --> 00:20:37,280
+Scott: commercial boats rarely have like US flags.
+
+261
+00:20:37,740 --> 00:20:42,113
+Rym: Now this is obviously a stupid loophole like if I were in charge of the United States.
+
+262
+00:20:42,215 --> 00:20:43,218
+Rym: not that that's going to happen.
+
+263
+00:20:44,040 --> 00:20:53,219
+Rym: If you like if you're a cruise ship with Americans on it and you're a US company you're having a fucking US flag on your cruise ship and you're paying taxes in the United States.
+
+264
+00:20:53,540 --> 00:20:59,179
+Scott: Right the point is Russia if it had a Russian flag on it the people wouldn't let it deliver oil.
+
+265
+00:20:59,881 --> 00:21:03,642
+Scott: So it's some Gabon ship right that's not.
+
+266
+00:21:03,704 --> 00:21:07,104
+Scott: it's really a Russian ship and it's delivering oil and getting money for Russia.
+
+267
+00:21:07,550 --> 00:21:17,005
+Scott: but it's like well while I'm delivering oil might as well drag my anchor where these undersea cables of our enemies happen to be just to harass them and be an asshole.
+
+268
+00:21:17,592 --> 00:21:18,974
+Scott: and that seems to be what they do.
+
+269
+00:21:19,760 --> 00:21:23,520
+Rym: So things have now escalated as of today.
+
+270
+00:21:24,300 --> 00:21:25,038
+Scott: And we could deny it.
+
+271
+00:21:25,200 --> 00:21:26,039
+Scott: It's like we didn't do it.
+
+272
+00:21:26,242 --> 00:21:27,500
+Scott: Gabon did it by accident.
+
+273
+00:21:27,820 --> 00:21:28,276
+Scott: It wasn't us.
+
+274
+00:21:28,560 --> 00:21:30,579
+Rym: Like this ship is just shitty sorry.
+
+275
+00:21:32,721 --> 00:21:35,371
+Rym: Which to be fair does happen.
+
+276
+00:21:35,432 --> 00:21:39,760
+Rym: like shitty ships just cause problems all the time all over the world.
+
+277
+00:21:39,780 --> 00:21:46,980
+Scott: And you know the seas that are far away from land are very quite lawless as advertised.
+
+278
+00:21:47,260 --> 00:21:50,797
+Scott: That's not some joke of like you know international waters like no that's just real.
+
+279
+00:21:51,320 --> 00:21:58,680
+Rym: And also like even in the year two thousand and twenty four like sailing a giant ship across the ocean is not a trivial endeavor.
+
+280
+00:21:59,600 --> 00:22:00,137
+Scott: No it's not.
+
+281
+00:22:00,800 --> 00:22:07,459
+Rym: So the escalation what's happening now is that Finland seized one of these ships today.
+
+282
+00:22:08,521 --> 00:22:20,480
+Rym: The ship appears to have caused some of those outages and rather than just like letting it go and like lodging a complaint and Finland's military boarded it took it back to Finland.
+
+283
+00:22:20,860 --> 00:22:21,348
+Rym: And right now.
+
+284
+00:22:21,450 --> 00:22:29,380
+Rym: Finland and Estonia have apparently arrested the crew are interrogating them are investigating the ship are considering sabotage.
+
+285
+00:22:30,281 --> 00:22:36,196
+Rym: And yeah it's a huge escalation in the shadow fleet war that's been happening for the last few years.
+
+286
+00:22:36,840 --> 00:22:36,964
+Scott: Yeah.
+
+287
+00:22:37,005 --> 00:22:37,459
+Scott: Go right ahead.
+
+288
+00:22:37,580 --> 00:22:37,744
+Scott: Good.
+
+289
+00:22:38,256 --> 00:22:38,420
+Rym: Yeah.
+
+290
+00:22:38,725 --> 00:22:39,874
+Rym: I think this is the right thing to do.
+
+291
+00:22:40,480 --> 00:22:40,909
+Rym: There shouldn't be.
+
+292
+00:22:41,134 --> 00:22:50,080
+Rym: if we I mean if the bar is ships are registered in like Liberia because people don't want to pay taxes or have insurance.
+
+293
+00:22:50,700 --> 00:23:01,266
+Rym: If that's the bar then I feel like as a world we should be rounding up ships that are somehow still below that bar like they're a danger to everyone.
+
+294
+00:23:01,286 --> 00:23:11,019
+Rym: because even if there wasn't a war let's say like it wasn't this crazy war situation with Russia even if it was just shady people trying to sell oil and dodge sanctions.
+
+295
+00:23:11,920 --> 00:23:18,099
+Rym: I don't want extremely shady barely maintained oil tankers full of oil anywhere on the ocean.
+
+296
+00:23:23,230 --> 00:23:25,930
+Rym: But anyway things of the day.
+
+297
+00:23:26,370 --> 00:23:48,325
+Rym: So last night other than talking about the oozing saints we started talking about Catalan poop related Christmas traditions and we discovered that two people in our group knew of two different poop related traditions and we got the wires crossed.
+
+298
+00:23:48,790 --> 00:23:50,669
+Scott: The people in Catalonia really love poop.
+
+299
+00:23:51,010 --> 00:23:51,424
+Rym: They seem to.
+
+300
+00:23:52,070 --> 00:24:06,849
+Rym: So we learned about both of them last night and my thing of the day is a video from Extra History which explains the Cagatillo which is actually a really cute tradition that I'm glad I know about.
+
+301
+00:24:07,514 --> 00:24:08,810
+Rym: It's absolutely adorable.
+
+302
+00:24:08,931 --> 00:24:27,646
+Rym: I think it's a fun thing and I like the point the video makes at the end noting that sometimes cultural traditions like Santa Claus or the Poop Log don't have a strong reason to continue or some deep meaning other than it's kind of fun and people like doing it.
+
+303
+00:24:28,571 --> 00:24:30,861
+Scott: Listen I mean that's the best kind of tradition.
+
+304
+00:24:31,023 --> 00:24:32,075
+Scott: slash ritual right.
+
+305
+00:24:32,136 --> 00:24:34,486
+Scott: It's like you don't need to have you know lore.
+
+306
+00:24:34,931 --> 00:24:36,690
+Scott: we talked about your saints or whatever.
+
+307
+00:24:36,690 --> 00:24:36,919
+Scott: Right.
+
+308
+00:24:37,950 --> 00:24:42,600
+Scott: Lore makes people feel you know like you know somehow connected right.
+
+309
+00:24:42,741 --> 00:24:43,630
+Scott: It has a function.
+
+310
+00:24:44,255 --> 00:24:46,780
+Scott: but it's like you don't actually need lore right.
+
+311
+00:24:46,840 --> 00:24:49,309
+Scott: It's like you can just perform a ritual.
+
+312
+00:24:49,410 --> 00:24:53,670
+Scott: right because you enjoy performing the ritual.
+
+313
+00:24:54,991 --> 00:24:56,306
+Scott: It's like oh you better.
+
+314
+00:24:56,346 --> 00:24:58,975
+Scott: you better sing this prayer song you know.
+
+315
+00:24:59,278 --> 00:25:05,013
+Scott: so God doesn't smite you or what if I just sing that song because I like singing that song and it's a nice song.
+
+316
+00:25:05,053 --> 00:25:08,770
+Scott: I don't give a crap right about any believe in any whatever right.
+
+317
+00:25:08,770 --> 00:25:09,720
+Scott: it's like you can do that.
+
+318
+00:25:10,124 --> 00:25:11,094
+Scott: it's a thing you can do.
+
+319
+00:25:11,155 --> 00:25:12,329
+Scott: you don't have to avoid.
+
+320
+00:25:12,935 --> 00:25:18,892
+Scott: you know rituals and other things because there's no backing or reason for them.
+
+321
+00:25:19,296 --> 00:25:22,327
+Scott: you know you don't need a reason for the other things you do in your life.
+
+322
+00:25:22,408 --> 00:25:24,308
+Scott: it's like why did you play that video game?
+
+323
+00:25:24,631 --> 00:25:26,730
+Scott: there's no there's no reason for it.
+
+324
+00:25:26,790 --> 00:25:27,659
+Scott: you just like doing it.
+
+325
+00:25:27,679 --> 00:25:29,883
+Scott: it's like well yes it's why I hit this log with a stick.
+
+326
+00:25:30,025 --> 00:25:30,389
+Scott: same deal.
+
+327
+00:25:31,132 --> 00:25:36,588
+Rym: Yeah so this video will teach you about both the pooping log and the pooping guy both of which are just great.
+
+328
+00:25:37,658 --> 00:25:41,233
+Rym: no one even has like a recorded like.
+
+329
+00:25:41,576 --> 00:25:43,617
+Rym: no we don't know where the pooping guy even came from.
+
+330
+00:25:43,798 --> 00:25:45,259
+Rym: it's just kind of always been there.
+
+331
+00:25:47,073 --> 00:25:51,415
+Rym: But the YouTube comments are great too because the first comment appears to be a Catalan person.
+
+332
+00:25:51,798 --> 00:25:53,717
+Rym: quote you nailed the song.
+
+333
+00:25:53,758 --> 00:25:57,859
+Rym: Catalan is not easy to pronounce and yes we Catalans are a very scatological people.
+
+334
+00:25:57,879 --> 00:25:59,577
+Scott: Are you sure it's pronounced Catalan?
+
+335
+00:25:59,598 --> 00:26:00,790
+Scott: I'm pretty sure it's Catalan.
+
+336
+00:26:00,972 --> 00:26:03,050
+Rym: I've actually heard both pretty equally.
+
+337
+00:26:03,394 --> 00:26:09,781
+Scott: so forgive me but I know how to say the word Catalonia but I don't know if you the singular like.
+
+338
+00:26:10,165 --> 00:26:11,861
+Scott: is it a a Catalan?
+
+339
+00:26:11,881 --> 00:26:14,107
+Scott: I don't think Catalan is right.
+
+340
+00:26:15,175 --> 00:26:19,982
+Rym: But the other comment Tio de Nadal only brings small presence.
+
+341
+00:26:20,386 --> 00:26:20,690
+Rym: quote.
+
+342
+00:26:21,274 --> 00:26:23,268
+Rym: oh thank god Tio de Nadal.
+
+343
+00:26:25,881 --> 00:26:34,039
+Scott: The thing I like the most about the Tio de Nadal is that the presence he poops out are always communal presence.
+
+344
+00:26:34,079 --> 00:26:35,796
+Scott: He's not pooping out for just one you know.
+
+345
+00:26:35,877 --> 00:26:36,241
+Scott: it's not like.
+
+346
+00:26:36,321 --> 00:26:40,285
+Scott: it's not like stockings where each person gets their own and it's very individualistic.
+
+347
+00:26:40,345 --> 00:26:48,729
+Scott: it's like no no we got one log and whatever he poops everybody right gets to share amongst eating up the poop.
+
+348
+00:26:50,030 --> 00:26:50,829
+Rym: So you got a thing of the day?
+
+349
+00:26:51,770 --> 00:27:00,584
+Scott: Yeah so you've probably seen this because the guy uploaded this video and it blew up all over the internet and most people seen it by now.
+
+350
+00:27:00,645 --> 00:27:15,669
+Scott: but basically CRT TVs which are large and a pain in the ass and no longer manufactured mostly pretty much are still in demand for people who mostly play Smash Brothers because.
+
+351
+00:27:19,202 --> 00:27:29,596
+Scott: but people who want to play old video games and have them look correct and run at correct frame rates and the way you know light gun games and GSE 60 FPS yeah.
+
+352
+00:27:30,126 --> 00:27:38,063
+Scott: and people who you know want to preserve you know old right you know video technology which is you know good right.
+
+353
+00:27:38,103 --> 00:27:46,729
+Scott: so it seems like everyone who's interested in CRTs is interested in for the right reasons and thus CRTs are going to be well preserved as long as those people exist.
+
+354
+00:27:47,295 --> 00:27:54,425
+Scott: but CRTs due to the nature of the technology never got that big right.
+
+355
+00:27:54,526 --> 00:28:04,142
+Rym: it's like you know like a 27 inch CRT was fucking huge relative to what normal people would have for a very long time.
+
+356
+00:28:04,162 --> 00:28:04,263
+Rym: right?
+
+357
+00:28:04,931 --> 00:28:07,374
+Scott: just you know just because they were there were two reasons.
+
+358
+00:28:07,697 --> 00:28:11,232
+Scott: one I knew is just like yeah they get really big and heavy and are hard to make.
+
+359
+00:28:11,677 --> 00:28:16,508
+Scott: but another reason I learned from the video is that when they get so big you know there's a vacuum inside there.
+
+360
+00:28:17,735 --> 00:28:18,282
+Scott: so you have to.
+
+361
+00:28:18,343 --> 00:28:23,249
+Scott: that vacuum is basically the outside of the TV has air that is exerting pressure on it.
+
+362
+00:28:23,694 --> 00:28:25,010
+Scott: there's a vacuum inside.
+
+363
+00:28:25,393 --> 00:28:30,018
+Scott: so you need it needs to be really really strong to not just get crushed and implode.
+
+364
+00:28:30,038 --> 00:28:31,716
+Rym: I also learned that from the video.
+
+365
+00:28:31,736 --> 00:28:42,362
+Rym: like I knew they were heavy but I didn't quite really internalize that idea that as this tube gets bigger the CRT itself gets bigger the forces on it get bigger exponentially.
+
+366
+00:28:42,483 --> 00:28:47,370
+Scott: right because you have a bigger space a vacant space on the inside as more of a vacuum.
+
+367
+00:28:47,814 --> 00:28:55,150
+Scott: and now there's also more surface area for the air to press on to and the piece of glass at the front is heavier and bigger.
+
+368
+00:28:55,614 --> 00:28:58,643
+Scott: so CRTs never got much bigger than 40 inches.
+
+369
+00:28:58,745 --> 00:29:04,220
+Scott: apparently the biggest was this Sony which is 42 43 inches something like that as far as we like.
+
+370
+00:29:04,240 --> 00:29:10,181
+Rym: the price difference between a 42 inch which is this monster and a 40 inch is enormous.
+
+371
+00:29:10,766 --> 00:29:18,890
+Scott: well this thing is also from 1989 which is like you know a lot of the 40 inches that like people may have had or 36 inches that people may have had.
+
+372
+00:29:18,910 --> 00:29:26,442
+Scott: yeah you know this is 1989 and it was the biggest there ever was and Sony made it just to be like hell.
+
+373
+00:29:26,482 --> 00:29:27,593
+Scott: yeah that's who we are.
+
+374
+00:29:27,613 --> 00:29:28,179
+Scott: we're Sony.
+
+375
+00:29:28,199 --> 00:29:33,877
+Scott: right at the time when they were Sony and so this TV people knew what existed.
+
+376
+00:29:33,937 --> 00:29:35,130
+Scott: they had you know the manuals.
+
+377
+00:29:35,392 --> 00:29:38,909
+Scott: they had seen pictures of it but no one actually like had one right.
+
+378
+00:29:39,475 --> 00:29:40,949
+Scott: and these nerds really wanted one.
+
+379
+00:29:41,535 --> 00:29:48,019
+Scott: and this dude by some miraculous circumstances found one of the ones that they had a photo of.
+
+380
+00:29:48,039 --> 00:29:49,516
+Scott: there's a whole story behind it.
+
+381
+00:29:49,556 --> 00:29:50,669
+Scott: you can watch it in the video.
+
+382
+00:29:51,274 --> 00:29:52,303
+Scott: he did get it.
+
+383
+00:29:52,565 --> 00:29:53,534
+Scott: it says I found it.
+
+384
+00:29:53,716 --> 00:29:54,565
+Scott: it's not clickbait.
+
+385
+00:29:54,605 --> 00:29:55,615
+Scott: he got the TV.
+
+386
+00:29:56,242 --> 00:29:56,343
+Scott: it.
+
+387
+00:29:56,667 --> 00:29:58,606
+Scott: uh it's everything you know.
+
+388
+00:29:58,868 --> 00:30:00,624
+Scott: it's cracked up to be operation.
+
+389
+00:30:00,665 --> 00:30:02,317
+Rym: big boy yeah.
+
+390
+00:30:02,337 --> 00:30:05,010
+Scott: but you know there's this 30 minute video.
+
+391
+00:30:05,393 --> 00:30:07,777
+Scott: but usually I hate long YouTube videos.
+
+392
+00:30:07,837 --> 00:30:09,292
+Scott: you could speed this one up a little bit.
+
+393
+00:30:09,332 --> 00:30:11,837
+Scott: play it at 1.5x if you're you know bored.
+
+394
+00:30:12,282 --> 00:30:14,543
+Scott: but none of the video is repetitive.
+
+395
+00:30:15,089 --> 00:30:17,797
+Scott: none of the video is like wasting time with nonsense.
+
+396
+00:30:18,019 --> 00:30:22,710
+Scott: right he's telling the whole story with all of the pertinent details covering everything.
+
+397
+00:30:22,871 --> 00:30:28,121
+Scott: he's not click baiting or whatever and it's a great story of the.
+
+398
+00:30:28,303 --> 00:30:38,729
+Rym: the giant part that was hard to watch were the explanations of like tube technology as this ancient crazy way to make video.
+
+399
+00:30:39,354 --> 00:30:42,726
+Scott: just I think most people watching wouldn't know these.
+
+400
+00:30:42,867 --> 00:30:43,090
+Scott: we know.
+
+401
+00:30:43,130 --> 00:30:44,261
+Scott: yeah I mean it's a geek.
+
+402
+00:30:44,301 --> 00:30:46,199
+Scott: nights listeners also probably know those things.
+
+403
+00:30:46,240 --> 00:30:47,330
+Scott: but that's the start of the videos.
+
+404
+00:30:47,371 --> 00:30:50,081
+Scott: you can yeah right but this is.
+
+405
+00:30:50,404 --> 00:31:01,170
+Rym: this is probably how grandpa felt when like we would always like play with the one rotary phone that existed in our family that still worked and like it's this ancient crazy thing.
+
+406
+00:31:01,271 --> 00:31:09,898
+Rym: and grandpa's probably just like god dammit in the moment we're gonna be live at magfest with between three and six panels.
+
+407
+00:31:09,958 --> 00:31:11,899
+Rym: that's a big variance there.
+
+408
+00:31:11,919 --> 00:31:12,989
+Scott: you want to figure that out?
+
+409
+00:31:13,191 --> 00:31:16,927
+Rym: yep well so there are three confirmed plus a fourth one.
+
+410
+00:31:16,948 --> 00:31:17,676
+Rym: that's me and emily.
+
+411
+00:31:17,716 --> 00:31:22,219
+Rym: instead of me and scott one person sent me an email saying I should expect more.
+
+412
+00:31:22,441 --> 00:31:23,349
+Rym: so tbd on that.
+
+413
+00:31:23,834 --> 00:31:26,056
+Rym: but otherwise magfest is coming.
+
+414
+00:31:26,076 --> 00:31:27,836
+Rym: if you don't have a hotel.
+
+415
+00:31:28,221 --> 00:31:29,009
+Rym: well good luck.
+
+416
+00:31:29,514 --> 00:31:34,563
+Rym: like magfest is really hard to stay anywhere near and I'm pretty sure everything's hella sold out.
+
+417
+00:31:34,604 --> 00:31:39,007
+Scott: I mean it's really easy to stay somewhere that's not in national harbor and go to magfest.
+
+418
+00:31:39,088 --> 00:31:40,562
+Scott: but the problem there is.
+
+419
+00:31:40,602 --> 00:31:45,471
+Scott: you know your magfest experience is diminished with lots of travel times and you know it's a 24 7 thing.
+
+420
+00:31:45,492 --> 00:31:51,088
+Scott: so being there really amplifies how much you get for the same ticket price.
+
+421
+00:31:51,128 --> 00:31:54,542
+Scott: and the ticket price is 145 dollars.
+
+422
+00:31:54,562 --> 00:31:56,566
+Rym: I think right now you know what I was like.
+
+423
+00:31:57,516 --> 00:32:00,925
+Rym: uh we have the privilege of being the talent.
+
+424
+00:32:01,228 --> 00:32:03,029
+Rym: I've never bought a magfest badge.
+
+425
+00:32:03,534 --> 00:32:07,432
+Scott: it's it's 145 dollars and then starting on january 1st it'll be 155 dollars.
+
+426
+00:32:07,452 --> 00:32:13,070
+Scott: you know what magfest is absolutely worth that it's cheaper than pecs.
+
+427
+00:32:13,231 --> 00:32:19,451
+Rym: yeah especially divide 150 bucks by 4 days going pretty much 24/7.
+
+428
+00:32:19,451 --> 00:32:28,343
+Scott: yeah if you had pre registered as early as possible you it would be 125. so basically they inch it up by 10 dollars 3 times.
+
+429
+00:32:29,052 --> 00:32:31,490
+Rym: yeah but magfest is coming.
+
+430
+00:32:31,632 --> 00:32:34,743
+Rym: otherwise uh pecs east will probably be at uh zenk icon.
+
+431
+00:32:34,804 --> 00:32:39,410
+Rym: I'll be doing a few panels at uh and I have to choose a book club book.
+
+432
+00:32:39,531 --> 00:32:42,764
+Rym: I'm gonna shift away from the Moomins because Scott's.
+
+433
+00:32:43,006 --> 00:32:44,097
+Scott: uh you don't you don't have to.
+
+434
+00:32:44,238 --> 00:32:45,389
+Scott: I didn't tell you you had to do that.
+
+435
+00:32:45,531 --> 00:32:46,057
+Rym: you were just.
+
+436
+00:32:46,077 --> 00:32:46,563
+Rym: you were like.
+
+437
+00:32:46,583 --> 00:32:47,068
+Scott: you just didn't do it.
+
+438
+00:32:47,210 --> 00:32:56,176
+Rym: you were so uninterested in reading the books so that doesn't fight their cultural uh importance.
+
+439
+00:32:57,328 --> 00:33:05,169
+Scott: I mean you know despite their melancholy it's still your pick you know but you gave up on your own book club selection after so many months.
+
+440
+00:33:05,391 --> 00:33:08,784
+Scott: you could have just if you had just picked some and we could have read them.
+
+441
+00:33:08,845 --> 00:33:09,735
+Scott: it would have taken 2 seconds.
+
+442
+00:33:09,836 --> 00:33:10,645
+Scott: I didn't have time to read.
+
+443
+00:33:10,685 --> 00:33:13,150
+Rym: I was working on all this stuff going on but things are calming down.
+
+444
+00:33:13,452 --> 00:33:14,744
+Rym: so I have a new selection.
+
+445
+00:33:14,785 --> 00:33:16,947
+Rym: I'm gonna pose in the next GeekNights episode for Scott.
+
+446
+00:33:16,967 --> 00:33:17,633
+Rym: I've chosen one.
+
+447
+00:33:17,654 --> 00:33:19,067
+Rym: I gotta narrow down my second book.
+
+448
+00:33:19,087 --> 00:33:29,027
+Rym: you can choose one of the two and my new problem is to you neither of these books is non-fiction and neither of these books is written by Foucault.
+
+449
+00:33:29,839 --> 00:33:30,328
+Scott: okay I think.
+
+450
+00:33:31,778 --> 00:33:37,410
+Scott: I think the reason that you really failed with your Moomin selection is not have anything to do with my reaction to it.
+
+451
+00:33:37,491 --> 00:33:41,127
+Scott: I think the problem was is that you didn't pick a specific book.
+
+452
+00:33:41,167 --> 00:33:45,349
+Scott: you were just like Moomin books in general and then you never bothered to actually pick specific book.
+
+453
+00:33:45,410 --> 00:33:48,177
+Scott: if you had picked specific book it doesn't matter.
+
+454
+00:33:48,197 --> 00:33:59,929
+Scott: you had to have the specific actual volume or volumes pre-selected not just this general idea like you can't come in and be like next book club selection Wheel of Time books.
+
+455
+00:34:00,194 --> 00:34:00,950
+Scott: it's like that doesn't work.
+
+456
+00:34:00,990 --> 00:34:06,053
+Scott: if you had picked the specific volumes I would have read them a long time ago.
+
+457
+00:34:06,073 --> 00:34:08,960
+Scott: so it's like from now on.
+
+458
+00:34:09,002 --> 00:34:15,750
+Scott: I think we need a rule is that you must have like ISBN numbers in hand when you make the selection.
+
+459
+00:34:15,831 --> 00:34:19,170
+Scott: you can't just make some sort of general hand wavy.
+
+460
+00:34:19,291 --> 00:34:22,699
+Rym: but I also point it wouldn't have mattered because your reaction would have been the same regardless.
+
+461
+00:34:23,184 --> 00:34:25,588
+Scott: I would have read the books already months and months ago.
+
+462
+00:34:26,415 --> 00:34:28,369
+Scott: I'm not saying the episode would have been done already.
+
+463
+00:34:28,632 --> 00:34:29,867
+Rym: I'm saying the episode wouldn't have been good.
+
+464
+00:34:30,840 --> 00:34:31,469
+Scott: that doesn't matter.
+
+465
+00:34:32,014 --> 00:34:32,880
+Rym: I think that does matter.
+
+466
+00:34:32,922 --> 00:34:33,748
+Rym: I want the episode to be good.
+
+467
+00:34:36,338 --> 00:34:46,820
+Rym: so fear I will admit and I've talked about this a long time ago on GeekNights but of all the things I'm afraid of in the world death is actually not one of them.
+
+468
+00:34:46,880 --> 00:34:51,266
+Rym: like I am like freakishly unafraid of death like it does not.
+
+469
+00:34:51,833 --> 00:34:55,550
+Rym: it does not intersect with my worries in any way.
+
+470
+00:34:55,610 --> 00:34:58,010
+Scott: yeah that's why you do all kinds of stupid skiing type shit.
+
+471
+00:34:58,293 --> 00:35:01,308
+Scott: skiing is safer than what dying is the thing to be most afraid of.
+
+472
+00:35:01,591 --> 00:35:04,110
+Scott: at least until I'm old then I won't be afraid.
+
+473
+00:35:04,171 --> 00:35:08,050
+Rym: but I point out skiing is much safer than riding in a car or biking anywhere.
+
+474
+00:35:08,151 --> 00:35:10,550
+Scott: yeah I'm super scared of riding in a car.
+
+475
+00:35:10,934 --> 00:35:18,225
+Scott: cars are dangerous AF yeah but you cycle on a regular basis very carefully way more carefully than everyone else.
+
+476
+00:35:20,133 --> 00:35:22,700
+Rym: but yeah like I'm dead serious about this.
+
+477
+00:35:22,801 --> 00:35:25,246
+Rym: like I am not at all afraid of death.
+
+478
+00:35:25,428 --> 00:35:27,870
+Rym: but there's a very important nuance here.
+
+479
+00:35:27,992 --> 00:35:34,456
+Rym: there's a difference between being afraid of something and not wanting something to happen.
+
+480
+00:35:34,860 --> 00:35:36,233
+Rym: I don't want to die.
+
+481
+00:35:36,253 --> 00:35:43,465
+Rym: I will do well I will take extreme measures to avoid dying but I'm not afraid of dying like.
+
+482
+00:35:43,566 --> 00:35:46,355
+Rym: it's not something that like I don't feel of.
+
+483
+00:35:46,456 --> 00:35:49,264
+Rym: like my heart rate doesn't quicken I don't feel anything about it.
+
+484
+00:35:49,446 --> 00:35:51,970
+Scott: what if I was in imminent danger of dying?
+
+485
+00:35:52,535 --> 00:35:53,201
+Rym: yeah I don't know.
+
+486
+00:35:53,363 --> 00:36:00,010
+Rym: every time I've been in relatively mortal peril like a serious situation it's always the same.
+
+487
+00:36:00,131 --> 00:36:03,001
+Rym: it goes down the same way every time and I've been in these situations a few times.
+
+488
+00:36:03,567 --> 00:36:09,750
+Rym: it's like time slows down and I am trying to avoid the bad outcome.
+
+489
+00:36:10,234 --> 00:36:13,404
+Rym: but I'm also kind of resigned to the fact that if this doesn't go well that's it.
+
+490
+00:36:13,525 --> 00:36:17,589
+Rym: and oh well whatever I've just very much.
+
+491
+00:36:17,831 --> 00:36:22,781
+Rym: I mean everything was correct until the resigned part but the resigned part is if it happens it happens.
+
+492
+00:36:23,024 --> 00:36:27,043
+Rym: like you know one time I remember very specifically was when I had Lyme disease.
+
+493
+00:36:27,164 --> 00:36:28,255
+Rym: but I didn't know it was Lyme disease.
+
+494
+00:36:28,295 --> 00:36:29,850
+Rym: yet I'd gone to a hospital.
+
+495
+00:36:30,295 --> 00:36:36,094
+Rym: they at first told me they thought it was a brain tumor which was stupid and it clearly wasn't.
+
+496
+00:36:36,195 --> 00:36:39,185
+Rym: and like the scans showed nothing and I went back home.
+
+497
+00:36:39,226 --> 00:36:41,993
+Rym: and then I woke up in the middle of the night with like a 103.9 fever.
+
+498
+00:36:43,770 --> 00:36:45,205
+Rym: and I was delirious.
+
+499
+00:36:45,548 --> 00:36:53,409
+Rym: and I was so delirious that instead of going to the hospital or calling 911 I remember thinking I think I'm dying.
+
+500
+00:36:54,136 --> 00:36:57,749
+Rym: well I had a good run and I just went back to bed.
+
+501
+00:36:58,614 --> 00:37:01,568
+Rym: but then I woke up again like an hour later like wow what the fuck.
+
+502
+00:37:01,588 --> 00:37:03,287
+Rym: and I drove myself straight to the hospital.
+
+503
+00:37:04,996 --> 00:37:08,466
+Rym: but like I had this moment where I just resigned myself to like well that's the end of me.
+
+504
+00:37:09,673 --> 00:37:13,670
+Scott: yeah no if I'm if I'm ill I'm just like ah shit I'm sick this sucks.
+
+505
+00:37:13,831 --> 00:37:18,479
+Scott: and then if I somehow think I'm ill enough to die that I'll immediately.
+
+506
+00:37:18,499 --> 00:37:20,195
+Scott: it immediately makes it way worse.
+
+507
+00:37:20,700 --> 00:37:22,560
+Scott: whether it's true obviously it hasn't been true yet.
+
+508
+00:37:22,661 --> 00:37:33,890
+Scott: but if it was if I get that idea and it's somehow believable suddenly it's way worse it's like it's like oh shit yeah but I guess like I'm kind of I got shit to do.
+
+509
+00:37:34,031 --> 00:37:37,102
+Rym: I can't die yet yep but I like it's hard.
+
+510
+00:37:37,122 --> 00:37:47,021
+Rym: I almost have to define fear because I there are things I don't want to happen but the things I'm actually afraid of are abstract and have very little to do with me.
+
+511
+00:37:47,162 --> 00:37:54,153
+Rym: like I'm mostly afraid of things like societies collapsing but I'm not afraid of like things that can happen to me personally.
+
+512
+00:37:54,173 --> 00:37:54,476
+Scott: I mean like.
+
+513
+00:37:54,516 --> 00:38:08,699
+Scott: I try not to be a selfish person but my fear is in line mostly with you know selfishness right of you know harm is you know I'm afraid of you know I mean when I was it wasn't always this way right and I it's not.
+
+514
+00:38:08,820 --> 00:38:16,721
+Scott: it's still not entirely this way but I try to have my fear in a lie an alignment with reality right.
+
+515
+00:38:16,802 --> 00:38:17,749
+Scott: it's like you know.
+
+516
+00:38:18,214 --> 00:38:28,394
+Scott: a lot of people I think are afraid of things that aren't actually likely to hurt them like they're afraid of crazy guy in the subway right and it's like am I zero afraid of crazy guy in the subway?
+
+517
+00:38:28,555 --> 00:38:37,749
+Scott: not zero but it's like a less than a sliver right because like I've seen so many crazy guy in the subway and it's so rare.
+
+518
+00:38:38,133 --> 00:38:45,707
+Scott: you know that anything's gonna happen right but I am like other people get in their car and drive with like a cell phone like ah nothing's gonna happen.
+
+519
+00:38:45,788 --> 00:38:55,162
+Scott: and I'm like every time I'm looking in a car I'm like ah shit that's right because it's likely to cause harm to me and people I care about.
+
+520
+00:38:55,284 --> 00:38:57,183
+Scott: and that is what makes it scary.
+
+521
+00:38:57,203 --> 00:38:58,436
+Rym: and I guess that's where this may.
+
+522
+00:38:58,517 --> 00:39:03,201
+Rym: it becomes sort of a complicated aspect in that there's the visceral sense of fear.
+
+523
+00:39:03,525 --> 00:39:08,393
+Rym: like heart raised heart rate raises like you are afraid you feel that fear.
+
+524
+00:39:08,938 --> 00:39:17,549
+Rym: but then there's also the idea of are you aware of a danger to the degree that you make specific preparations for it?
+
+525
+00:39:18,397 --> 00:39:25,129
+Rym: and are those preparations proportional to the likelihood of the thing you're prepared for happening?
+
+526
+00:39:26,012 --> 00:39:28,596
+Rym: and that's actually the area I think we can focus on the most.
+
+527
+00:39:29,525 --> 00:39:30,938
+Rym: for example I have a bug.
+
+528
+00:39:30,959 --> 00:39:43,890
+Rym: we have a bug out bags like we are prepared for minor emergencies not like there is a bag at the door ready to grab and run out the door two seconds later but like if there was a hurricane warning.
+
+529
+00:39:44,597 --> 00:39:47,709
+Rym: we could get our stuff together and be out the door within an hour.
+
+530
+00:39:48,133 --> 00:39:48,778
+Rym: if we needed to.
+
+531
+00:39:48,799 --> 00:39:50,514
+Scott: yeah I could get out there.
+
+532
+00:39:50,635 --> 00:40:01,910
+Rym: yeah like it we I prepare for things that are dangerous I believe relatively proportional to the likelihood of those dangers coming to reality.
+
+533
+00:40:02,031 --> 00:40:07,041
+Scott: yeah but but prepping doesn't have too much to do with fear that's just being reasonable.
+
+534
+00:40:07,243 --> 00:40:09,020
+Rym: yeah but I guess that's where I like.
+
+535
+00:40:09,060 --> 00:40:13,489
+Rym: I'm not really afraid of things and maybe that's just me being super weird.
+
+536
+00:40:14,970 --> 00:40:22,778
+Scott: uh I mean one thing I think is that a lot of people out there are uh they they call things fear.
+
+537
+00:40:22,939 --> 00:40:30,394
+Scott: that aren't specifically like when you see a scary movie right and something jumps out and goes boo with a little little jump scare.
+
+538
+00:40:30,617 --> 00:40:31,749
+Scott: right and it's like.
+
+539
+00:40:32,031 --> 00:40:37,181
+Scott: a jump scare is not a scare it's a surprise it's like can I be gotten with a jump scare?
+
+540
+00:40:37,201 --> 00:40:57,630
+Scott: yes right anyone most people can be right because if it's timed really well a really well-timed expertly executed jump scare is able to get someone on repeat goes because the timing is just so unpredictable and off that it's like here it comes.
+
+541
+00:40:57,771 --> 00:41:03,570
+Scott: uh oh I was half a second off in my preparation for it and it got me again right because it's such a good one.
+
+542
+00:41:03,610 --> 00:41:08,038
+Rym: you know a good example of that and even though remember I got to make it clear that that's not a that's not a.
+
+543
+00:41:08,340 --> 00:41:11,483
+Scott: jumping out is not scaring.
+
+544
+00:41:11,503 --> 00:41:16,176
+Rym: so the guy who made Five Nights at Freddy's is a super shitty person like I. want to be clear.
+
+545
+00:41:16,581 --> 00:41:25,609
+Rym: but the game had one of those kinds of jump scares where when you lose the game like the power would go out and then you'd hear music and then the jump scare would happen.
+
+546
+00:41:26,134 --> 00:41:31,750
+Rym: but occasionally like the time between the lights going out and the jump scare happening would vary.
+
+547
+00:41:32,436 --> 00:41:49,329
+Rym: and when I was recording myself playing the game to make that video essay I made about the game a long time ago there's a video of me where the music happens the lights go out and I you see me like lean back from the screen because I know the jump's coming and it doesn't happen.
+
+548
+00:41:50,096 --> 00:41:55,102
+Scott: and it doesn't happen yeah but doing it randomly is sort of like a hack right a movie can do.
+
+549
+00:41:55,142 --> 00:41:59,650
+Scott: it's possible to make a movie with a really good one that works many times right.
+
+550
+00:42:01,101 --> 00:42:05,650
+Scott: you know an example of one that doesn't work that many times is like in Independence Day.
+
+551
+00:42:05,670 --> 00:42:12,154
+Scott: I always remember that one where the alien slams the dude up against the glass and he's like peace no peace right and it's like that.
+
+552
+00:42:12,255 --> 00:42:17,871
+Scott: one got me exactly one time because it wasn't done that well how it didn't get me.
+
+553
+00:42:17,952 --> 00:42:29,140
+Scott: and I noticed that it didn't get me again because like I got it in the movie theater it got me and then every time I watched the VHS I would always remember here it comes and there it is like Resident Evil games.
+
+554
+00:42:29,181 --> 00:42:35,969
+Rym: you see some windows and if the windows are big enough you assume a dog like thing is going to jump through those windows and attack me at some point.
+
+555
+00:42:36,817 --> 00:42:56,490
+Scott: but if a scary movie is actually scary if it's actually fear inducing then after the movie you're going to be like going about your business and it's going to be like the ideas or whatever it was that you saw there is going to be like haunting you and you're going to be like maybe it was a movie about a monster under the bed.
+
+556
+00:42:56,571 --> 00:43:04,510
+Scott: and you're like if you check under your bed before you go to bed because you just watched a movie about a monster under the bed you have been scared.
+
+557
+00:43:04,551 --> 00:43:15,809
+Rym: well when I was a little kid if we'd watch an Unsolved Mysteries before we went to bed I might go around and make sure the side door is actually locked before I go to sleep which I wouldn't do normally.
+
+558
+00:43:17,478 --> 00:43:17,888
+Scott: so there is.
+
+559
+00:43:18,233 --> 00:43:21,121
+Scott: there is a tie there to the preparation aspect.
+
+560
+00:43:21,161 --> 00:43:38,404
+Scott: but it's like if you are now feeling worried about a thing whether it's proportional to reality or not because you know you could be scared just proportional to reality you're still scared.
+
+561
+00:43:41,436 --> 00:43:45,188
+Scott: then that's there's a worry that has built up.
+
+562
+00:43:46,680 --> 00:43:49,150
+Rym: when I was very young that was a lot more common.
+
+563
+00:43:49,574 --> 00:43:57,921
+Rym: but things I was afraid of when I was young the UFOs that might be real that I saw on TV I wasn't afraid of those.
+
+564
+00:43:57,981 --> 00:44:03,685
+Rym: I was like ooh I was afraid of the government agents that would always come and destroy the evidence.
+
+565
+00:44:05,154 --> 00:44:06,003
+Scott: I wasn't afraid of them.
+
+566
+00:44:06,044 --> 00:44:09,707
+Scott: I was just like curses damn you.
+
+567
+00:44:10,334 --> 00:44:14,529
+Rym: and I was afraid vaguely of skeletons and dark places when I was really young.
+
+568
+00:44:15,970 --> 00:44:18,489
+Scott: uh I don't know if I was.
+
+569
+00:44:18,550 --> 00:44:19,323
+Scott: I mean I was.
+
+570
+00:44:19,344 --> 00:44:26,833
+Scott: you know I guess I was afraid to the dark at some extent as a very young age but mostly it was about you know something being in the dark.
+
+571
+00:44:26,894 --> 00:44:28,150
+Scott: right it wasn't anything specific.
+
+572
+00:44:28,332 --> 00:44:29,909
+Scott: it was just like when it was dark.
+
+573
+00:44:30,471 --> 00:44:32,165
+Scott: you know you just sort of had like this feeling.
+
+574
+00:44:32,185 --> 00:44:34,509
+Scott: that was something something there I had to and I could see.
+
+575
+00:44:34,691 --> 00:44:36,227
+Scott: it's like ah I can see that there's nothing there.
+
+576
+00:44:36,288 --> 00:44:39,581
+Scott: okay cool there wasn't even though it wasn't a specific thing.
+
+577
+00:44:39,621 --> 00:44:42,955
+Scott: it wasn't like oh it was this monster that was there or a vampire or a skeleton?
+
+578
+00:44:42,995 --> 00:44:44,877
+Scott: it was just like something.
+
+579
+00:44:44,898 --> 00:44:47,078
+Scott: okay nothing good.
+
+580
+00:44:47,179 --> 00:44:47,765
+Scott: alright we're good.
+
+581
+00:44:49,057 --> 00:45:05,421
+Rym: but so in terms of like if we side step the whole visceral fear versus like worrying about an outcome things I actually worry about right now in the year 2024 like for one and again I'm not saying the odds are high the odds are still extremely low.
+
+582
+00:45:05,441 --> 00:45:15,220
+Rym: it's not something I like make specific preparations for but I would be worried that humans might use the nuke again at some point like we're closer to that than we've been in a long time.
+
+583
+00:45:15,301 --> 00:45:19,529
+Scott: it's something that I think the people who run that little countdown thingy are worried also.
+
+584
+00:45:20,216 --> 00:45:21,710
+Scott: they haven't moved it in the other direction.
+
+585
+00:45:21,831 --> 00:45:23,629
+Scott: they only move it in the worst direction like that.
+
+586
+00:45:23,771 --> 00:45:26,210
+Scott: it's like they know better than anybody.
+
+587
+00:45:26,979 --> 00:45:34,230
+Rym: it's a thing that kind of should be afraid of but you shouldn't necessarily be altering your life around.
+
+588
+00:45:34,674 --> 00:45:36,089
+Scott: well what the hell are you gonna do about it?
+
+589
+00:45:36,190 --> 00:45:38,250
+Scott: are you gonna get disintegrated or are you not?
+
+590
+00:45:38,621 --> 00:45:43,163
+Rym: yup there's nothing with nuclear war.
+
+591
+00:45:43,264 --> 00:45:47,785
+Rym: there's basically like the escalation ramp is escalation.
+
+592
+00:45:47,966 --> 00:46:00,654
+Rym: one is one tactical weapon gets used somewhere once and then the whole world freaks out but probably no more get used and unless you're right under where it went off you're gonna be fine or at least the nuke is not the problem that's gonna get you.
+
+593
+00:46:00,674 --> 00:46:07,828
+Rym: but the escalation beyond that is like full nuclear nukes everywhere war in which case there's nothing you can do.
+
+594
+00:46:08,551 --> 00:46:34,266
+Rym: which leads to my general disaster preparedness idea of I am unwilling to prepare at all for any disaster that I could not get away from safely within a days worth of walking from where I live like if I walked for an entire day from where I am now if I couldn't get somewhere that was safe from that problem then there was nothing I could have done about that problem in the first place.
+
+595
+00:46:35,202 --> 00:46:50,210
+Scott: hmm but the point is I think is that you know even if something like that becomes likely right is like if you in your body right are like staying awake at night because you're thinking about like oh shit what if that happens?
+
+596
+00:46:50,270 --> 00:46:52,590
+Scott: that's counter productive right that's not.
+
+597
+00:46:52,852 --> 00:46:54,187
+Scott: that's not good right.
+
+598
+00:46:54,267 --> 00:46:56,025
+Scott: it's like so even if the like you know.
+
+599
+00:46:56,046 --> 00:47:07,296
+Scott: so it's like you should have those feelings proportional to likelihood right but also measured against the your ability to do anything.
+
+600
+00:47:07,660 --> 00:47:13,802
+Scott: it's like it's like you know if a comet is gonna come and smash into the earth and by the way it's gonna land on your house.
+
+601
+00:47:13,822 --> 00:47:17,923
+Scott: it's like it's like oh god no right.
+
+602
+00:47:18,024 --> 00:47:20,809
+Scott: and it's like oh we didn't find out about it till the last second.
+
+603
+00:47:21,396 --> 00:47:24,387
+Scott: uh it's like what what you know.
+
+604
+00:47:24,509 --> 00:47:31,443
+Scott: it's like yeah the bad outcome is happening but yep but it's like oh it's you know.
+
+605
+00:47:32,723 --> 00:47:45,808
+Scott: oh if we haven't heard a specific report of a comet coming to hit your house or the earth right staying awake at night thinking about that because you just watched some movie like Armageddon or whatever I think that's a good point.
+
+606
+00:47:45,828 --> 00:47:55,201
+Rym: the worst thing you can do is nonproductively worry about something you literally could not do anything about because that hurts you.
+
+607
+00:47:55,221 --> 00:47:59,338
+Rym: it also probably hurts the people around you because you're freaked out by it.
+
+608
+00:47:59,701 --> 00:48:03,688
+Rym: but at the same time worrying harder doesn't change anything that could happen.
+
+609
+00:48:04,795 --> 00:48:05,989
+Rym: it only makes your life worse.
+
+610
+00:48:06,595 --> 00:48:18,714
+Scott: right now I think the ideal kind of fear right that you wanna especially in arts and entertainment that you wanna get right is I think about like Zelda 1 right and you play the lat.
+
+611
+00:48:18,734 --> 00:48:21,950
+Scott: you get to the last dungeon in Zelda 1 at least when I was a kid.
+
+612
+00:48:22,435 --> 00:48:23,990
+Scott: right and the music is different.
+
+613
+00:48:24,338 --> 00:48:28,657
+Scott: it's like right and it's like.
+
+614
+00:48:28,899 --> 00:48:31,344
+Scott: was I awake at night worried that Ganon was gonna get me.
+
+615
+00:48:32,854 --> 00:48:34,169
+Scott: it's like but now I got.
+
+616
+00:48:34,230 --> 00:48:37,670
+Rym: the first time I heard that song I got a little chill but I remember.
+
+617
+00:48:37,791 --> 00:48:38,053
+Scott: right.
+
+618
+00:48:38,476 --> 00:48:38,980
+Scott: and it's like.
+
+619
+00:48:39,364 --> 00:48:45,102
+Scott: and in that level there's enemies that aren't in any other level right and it's like it's all it's.
+
+620
+00:48:45,566 --> 00:48:48,173
+Scott: and the level is structured differently like a skull right.
+
+621
+00:48:48,213 --> 00:48:57,565
+Scott: and it's like you just created this sort of aura and this sort of feeling of spookiness not quite anticipation I'd say.
+
+622
+00:48:57,585 --> 00:48:59,450
+Rym: the word we're looking for here is trepidation.
+
+623
+00:49:00,001 --> 00:49:01,046
+Scott: yeah you're not really.
+
+624
+00:49:01,387 --> 00:49:05,890
+Scott: you're not afraid of a specific thing happening you're not lying awake at night.
+
+625
+00:49:06,233 --> 00:49:08,210
+Scott: there's no real danger.
+
+626
+00:49:08,655 --> 00:49:11,396
+Scott: it's not a jump out and go boo surprise.
+
+627
+00:49:11,456 --> 00:49:33,163
+Scott: right it is this sort of aura of fear that you're experiencing right but it's not a real fear of any kind that's causing a problem or anything like that and when it's over it goes away right it's only there for the duration of the movie for the duration of the haunted house like.
+
+628
+00:49:33,285 --> 00:49:49,098
+Rym: similarly when you watch or read like for example a science fiction that causes you to think about a future path that is bad in a way that you have to think about it like it gets stuck in your brain is like well what if?
+
+629
+00:49:49,624 --> 00:49:50,008
+Rym: what if?
+
+630
+00:49:50,634 --> 00:49:51,360
+Rym: I don't know.
+
+631
+00:49:51,663 --> 00:50:00,290
+Rym: ghost dubbing ghost in the shell something like you encounter a concept you haven't thought about and now you gotta mull it over and think about like what are your feelings on it?
+
+632
+00:50:00,492 --> 00:50:16,350
+Rym: and when it's something novel that's sometimes not trivial like that edges into existential philosophy and that's a really like laying awake at night before you go to bed the night after you watch ghost in the shell for the first time thinking about what if you could copy a ghost what the fuck?
+
+633
+00:50:16,613 --> 00:50:18,090
+Rym: how do I approach that as a concept?
+
+634
+00:50:18,130 --> 00:50:20,499
+Scott: no it's not scary though but there are scary.
+
+635
+00:50:22,091 --> 00:50:28,389
+Rym: you can unearth fears you didn't know you would have when encountering a possible future.
+
+636
+00:50:29,299 --> 00:50:30,996
+Scott: but I think the thing is all of these.
+
+637
+00:50:31,016 --> 00:50:39,943
+Scott: you can contain those within the fictional context right it's like I could like be reading a book of a character who's in like grave danger.
+
+638
+00:50:39,964 --> 00:50:49,969
+Scott: right and I'll be afraid even though I'm just reading a book right because like my mind is in this degenerated world or a video game same thing.
+
+639
+00:50:50,211 --> 00:50:53,709
+Rym: Matt's got that dagger and they haven't even talked about it for like five chapters.
+
+640
+00:50:54,375 --> 00:51:03,624
+Scott: it's like when I'm in this world that I've concocted or that I'm experiencing because of someone's artwork or you're playing an RPG with your friend or whatever right.
+
+641
+00:51:03,907 --> 00:51:18,123
+Scott: it's like I'm afraid within this fictional context that world that has been built that I'm currently temporarily inhabiting in my mind and then as soon as I exit that world that is gone right and you can sort of you know it's like.
+
+642
+00:51:18,163 --> 00:51:18,810
+Scott: are you afraid?
+
+643
+00:51:18,971 --> 00:51:30,970
+Scott: it's like yeah my body is feeling afraid because I'm you know in my mind I'm in this other scary ass place but when I'm not in that scary ass place no problem now I'd say in the real world.
+
+644
+00:51:32,161 --> 00:51:46,513
+Rym: a useful technique and I have expressed this to friends of ours who have had extreme anxieties over things over the years is that if you're afraid of something and it is impacting your life like that fear get help.
+
+645
+00:51:47,571 --> 00:51:51,558
+Rym: therapy is really really powerful.
+
+646
+00:51:51,578 --> 00:51:55,029
+Scott: if you have any kind of phobia you should seek a professional assistance.
+
+647
+00:51:55,292 --> 00:52:04,729
+Scott: if it's really impacting your life in a negative way right like if you have an arachnophobia and there aren't spiders everywhere it's probably not a problem like do you really need to get it treated?
+
+648
+00:52:05,234 --> 00:52:10,588
+Scott: you know considering at least in the US for the cost of healthcare it's like how many spiders are you running into?
+
+649
+00:52:10,629 --> 00:52:10,750
+Scott: right?
+
+650
+00:52:10,770 --> 00:52:12,105
+Scott: and when you do what do you do you run away.
+
+651
+00:52:12,166 --> 00:52:23,295
+Scott: it's not a right but it's like if you work in a place a barn and there's spiders all the time and you can't get your work done in the barn cause and you can't get rid of all the spiders either.
+
+652
+00:52:23,315 --> 00:52:29,110
+Scott: now you should maybe do something especially if it's causing a severe like panic reaction.
+
+653
+00:52:29,534 --> 00:52:31,313
+Scott: right that's like debilitating you.
+
+654
+00:52:31,596 --> 00:52:58,629
+Rym: if it's not a phobia or a mental illness problem and the thing you're afraid of is a real danger like a real thing then I think like the best advice I have and this is very like strong advice from me think about it a lot for a while but your goal is to decide how relevant and likely is the threat to me in my life like how real is it?
+
+655
+00:52:59,195 --> 00:53:06,309
+Rym: and then is there anything I could do that is reasonable to prepare for it.
+
+656
+00:53:07,278 --> 00:53:13,945
+Rym: and if the answer is yes and it's really reasonable maybe do those things or think about those things.
+
+657
+00:53:14,248 --> 00:53:26,509
+Rym: but if there's nothing you could do about it or the things you could do about it are unreasonable you have to make the conscious decision to not prepare for the thing because there's no point in preparing for the thing
+
+658
+00:53:27,459 --> 00:53:31,530
+Scott: or dedicate your life to preparing for the thing in the unreasonable fashion.
+
+659
+00:53:31,671 --> 00:53:40,715
+Rym: for example if you are afraid of global thermonuclear war to the point that you and that is a rational thing to be worried about.
+
+660
+00:53:41,263 --> 00:53:43,019
+Rym: that's something humans might do.
+
+661
+00:53:43,141 --> 00:53:49,810
+Rym: the fact that we haven't is kind of amazing and I'm glad I hope we continue on this trajectory of having never used a thermonuclear device in anger.
+
+662
+00:53:50,636 --> 00:53:52,702
+Rym: that is a. we did it at least sometimes.
+
+663
+00:53:53,831 --> 00:53:55,809
+Rym: we've never used a thermonuclear device.
+
+664
+00:53:56,155 --> 00:53:59,041
+Scott: oh okay sure Mr.
+
+665
+00:53:59,062 --> 00:54:00,289
+Scott: Technicality nobody cares.
+
+666
+00:54:01,190 --> 00:54:02,370
+Scott: that's not the point.
+
+667
+00:54:03,879 --> 00:54:13,369
+Rym: the point is yes they used them one time two times well in one conflict in a short span of time.
+
+668
+00:54:13,922 --> 00:54:20,182
+Rym: but we developed since then weapons that are orders of magnitude more catastrophic and we've never used those.
+
+669
+00:54:20,646 --> 00:54:25,538
+Rym: but if your fear is that humans will use them at scale you could.
+
+670
+00:54:25,579 --> 00:54:33,769
+Rym: if you want to dedicate your life to trying to stop that there are organizations dedicated to trying to prevent that from happening like the doomsday clock.
+
+671
+00:54:34,213 --> 00:54:35,162
+Rym: that's a real thing.
+
+672
+00:54:35,444 --> 00:54:37,123
+Scott: you can be one of those clock setting people.
+
+673
+00:54:37,387 --> 00:54:38,759
+Rym: yeah you could like that's.
+
+674
+00:54:38,840 --> 00:54:40,576
+Rym: that's a good reason to get into politics.
+
+675
+00:54:40,859 --> 00:54:45,929
+Rym: that's a good reason to write letters to prominent officials in the world urging them to take steps toward.
+
+676
+00:54:46,192 --> 00:54:46,696
+Rym: you could work.
+
+677
+00:54:46,817 --> 00:54:48,999
+Scott: you could work at a as you could.
+
+678
+00:54:49,019 --> 00:55:05,350
+Rym: you can go into being a scientist and try to develop the jammer part of the jammer counselor but one of the reasons humans have not used a thermonuclear device for real is because there are people dedicating their lives to trying to prevent that from happening.
+
+679
+00:55:05,875 --> 00:55:11,769
+Scott: so you could be one of those nuclear weapons inspectors for the un who goes to places to make sure people aren't you know up to no good.
+
+680
+00:55:12,072 --> 00:55:13,143
+Scott: yeah that could be you.
+
+681
+00:55:13,163 --> 00:55:17,345
+Scott: if you're afraid of that is somebody that is a human being who does that job.
+
+682
+00:55:17,366 --> 00:55:18,133
+Scott: that's a real job.
+
+683
+00:55:18,334 --> 00:55:22,410
+Rym: norman bar log was afraid of famine on the earth.
+
+684
+00:55:22,511 --> 00:55:28,895
+Rym: killing people like that was something that kept him up at night and he dedicated his life to trying to end famine and you know what.
+
+685
+00:55:29,520 --> 00:55:33,037
+Rym: he got pretty far him and his and the organizations he worked with.
+
+686
+00:55:33,380 --> 00:55:33,623
+Rym: like.
+
+687
+00:55:33,987 --> 00:55:37,241
+Rym: if you're really afraid of something real you have to choose.
+
+688
+00:55:37,261 --> 00:55:59,483
+Rym: if you want to dedicate your life to preventing it you can and if you're not going to dedicate your life to preventing it or if it's an insurmountable task to prevent it then you have to make your peace with the level of risk you're willing to accept as a person if you keep worrying about it but you don't make a decision and you don't do anything about it all you're doing is making yourself unhappy for no reason.
+
+689
+00:56:03,249 --> 00:56:09,212
+Scott: you're also you know the fee i guess you know also being worried all the time actually you know decreases your.
+
+690
+00:56:10,243 --> 00:56:16,930
+Scott: it's almost sometimes a self-fulfilling prophecy and sometimes it just you know makes everything worse right.
+
+691
+00:56:16,950 --> 00:56:22,607
+Scott: you're afraid of making things worse and therefore they are worse like the simplest example being like people have stage fright.
+
+692
+00:56:23,152 --> 00:56:41,779
+Scott: it's like you're afraid of going up on the stage and because you're afraid you go up there and you're all nervous and you're stammering and now it's as bad as you were worried it would be whereas if you weren't afraid in the first place then you would go up there and because you aren't feeling afraid you're now going to perform significantly better.
+
+693
+00:56:42,244 --> 00:56:56,640
+Scott: right then if you were worried about it the worry caused the problem that you were worrying about and so just worrying less even if the worrying is founded right can actually improve the outcome.
+
+694
+00:56:56,984 --> 00:56:59,188
+Rym: yup well like imagine if you're depending
+
+695
+00:56:59,229 --> 00:57:00,137
+Scott: on the situation if
+
+696
+00:57:00,177 --> 00:57:14,400
+Rym: you're terrified of cycling in the city like on a bicycle for example if you are absolutely terrified every time you bike then it is harder to concentrate on biking safely
+
+697
+00:57:15,925 --> 00:57:16,671
+Scott: and thus you're likely
+
+698
+00:57:17,760 --> 00:57:25,965
+Rym: you're more likely to get hurt than if you were chiller about it and reacting to the situation appropriately and taking road
+
+699
+00:57:26,127 --> 00:57:26,431
+Scott: ragey.
+
+700
+00:57:27,302 --> 00:57:31,096
+Scott: road ragey people are the ones who and all the problems right.
+
+701
+00:57:31,378 --> 00:57:40,571
+Scott: whereas if you drive your car and you're just chilling like oh just driving ok guys going slow ok right just paying attention not hitting anything.
+
+702
+00:57:40,612 --> 00:57:41,240
+Scott: don't hit anything.
+
+703
+00:57:41,421 --> 00:57:42,127
+Scott: don't hit anything.
+
+704
+00:57:42,571 --> 00:57:43,297
+Scott: don't hit anything.
+
+705
+00:57:43,337 --> 00:57:45,840
+Scott: guess what you're less likely to hit things yup than if you're going.
+
+706
+00:57:46,286 --> 00:57:47,199
+Scott: oh this fucking guy.
+
+707
+00:57:47,683 --> 00:57:49,880
+Scott: oops I was mad about the guy and I hit something.
+
+708
+00:57:49,941 --> 00:57:55,840
+Rym: but on the other hand a certain amount of fear or at least appreciation of danger is important.
+
+709
+00:57:56,548 --> 00:58:08,527
+Rym: if like skiing is a good example almost everyone who gets hurt skiing are people who ski without adequate instruction and without facing the dangers that are real about skiing.
+
+710
+00:58:09,072 --> 00:58:13,400
+Rym: almost everyone who gets hurt skiing is skiing blue trails but they are not.
+
+711
+00:58:13,501 --> 00:58:19,865
+Rym: they are only skilled enough to ski green trails and they end up going too fast and going off trail and hitting a tree.
+
+712
+00:58:20,228 --> 00:58:25,983
+Rym: that almost everyone who dies skiing who didn't fall off a ski lift dies because of that specific thing.
+
+713
+00:58:26,024 --> 00:58:36,934
+Rym: they're on a trail that's too steep for them because they don't appreciate the actual danger of that slope and do not take appropriate precautions and learn the skills necessary before they ski there.
+
+714
+00:58:37,318 --> 00:58:38,631
+Rym: if you are there also people.
+
+715
+00:58:38,772 --> 00:58:40,819
+Rym: it's almost impossible to hurt yourself on a blue slope.
+
+716
+00:58:41,501 --> 00:58:57,660
+Scott: well on a blue slope sure but there are people who are who may appreciate the dangers of something and take necessary precautions right but are so fearless and daredevil-y that they do extremely high risk things frequently.
+
+717
+00:58:58,165 --> 00:59:06,671
+Scott: and even though they take necessary precautions to some extent right because they're also knowledgeable and practiced they still eventually right.
+
+718
+00:59:06,711 --> 00:59:06,953
+Scott: like that.
+
+719
+00:59:06,994 --> 00:59:11,578
+Scott: you know some rock climber you climb free climbs all these mountains and it's like yeah he did it like 30 times.
+
+720
+00:59:11,599 --> 00:59:19,256
+Scott: the 31st time fell to his death right oh this base jumping guy base jumped all these places you know and was really good at base jumping and did.
+
+721
+00:59:19,397 --> 00:59:21,336
+Scott: but then oh that was the last thing.
+
+722
+00:59:21,437 --> 00:59:26,020
+Scott: one time happened to be the last time because it's an incredibly dangerous thing regardless.
+
+723
+00:59:26,324 --> 00:59:33,134
+Scott: and they were so fearless right and so daredevil-y that you know evil can evil he was he was.
+
+724
+00:59:33,296 --> 00:59:35,700
+Scott: how afraid was he to jump over shit with his motorcycle?
+
+725
+00:59:35,841 --> 00:59:38,612
+Scott: but yeah listen it didn't work out too well.
+
+726
+00:59:38,673 --> 00:59:54,184
+Rym: so and like as much as I've progressed skiing like I ski for real double black diamonds at actual for real resorts and I'm a very skilled skier but you know what I don't need to push the envelope forever like I've got like jumping out of the helicopter ski.
+
+727
+00:59:54,467 --> 00:59:58,185
+Rym: well helicopter skiing is actually pretty safe and like.
+
+728
+00:59:58,205 --> 01:00:02,104
+Rym: honestly yeah if you have the skills big mountain skiing like that and that kind of snow.
+
+729
+01:00:02,591 --> 01:00:16,573
+Rym: the danger for that kind of skiing if you want to talk about something specific is if you do it not knowing the route and not taking appropriate like planning steps like you have to have planned it like a military operation.
+
+730
+01:00:16,633 --> 01:00:19,240
+Rym: like I'm dropped here I go in this direction.
+
+731
+01:00:19,725 --> 01:00:21,260
+Rym: I follow this exact route.
+
+732
+01:00:21,664 --> 01:00:22,674
+Rym: I do not deviate.
+
+733
+01:00:22,978 --> 01:00:25,906
+Rym: we have inspected this route several times via the helicopter.
+
+734
+01:00:26,189 --> 01:00:33,603
+Rym: we know exactly what happens that famous video of the guy who did the lot the highest ski jump in history because he took the wrong route.
+
+735
+01:00:33,866 --> 01:00:35,060
+Rym: he survived because he got lucky.
+
+736
+01:00:35,867 --> 01:00:39,179
+Rym: if you take the wrong route in that kind of skiing you might just get off a cliff and die.
+
+737
+01:00:39,886 --> 01:00:45,644
+Rym: but yeah if you follow the route you planned it is actually pretty hard to hurt yourself because that's actually kind of.
+
+738
+01:00:46,714 --> 01:00:50,719
+Rym: it's surprisingly easy to ski that kind of snow compared to other kinds of skiing.
+
+739
+01:00:51,720 --> 01:00:54,674
+Scott: regardless it's a. it's a lot more dangerous than sitting on your couch.
+
+740
+01:00:54,896 --> 01:01:02,530
+Scott: it is which is you don't need to go take it too far right but like rock climb like bouldering and rock climbing is another good example of.
+
+741
+01:01:02,571 --> 01:01:07,440
+Rym: there's a certain kind of person who gets tricked into this idea of you always have to be progressing.
+
+742
+01:01:07,865 --> 01:01:10,614
+Rym: you climb to V9 you start working on your V10s.
+
+743
+01:01:11,281 --> 01:01:17,260
+Rym: it's totally okay to get good enough to climb V5s and just keep climbing V5s because they're really fun for the rest of your life.
+
+744
+01:01:17,542 --> 01:01:20,005
+Scott: I don't think it's always a need to progress.
+
+745
+01:01:20,066 --> 01:01:22,915
+Scott: I think some people are just adrenaline junkies right and they're not.
+
+746
+01:01:23,137 --> 01:01:27,300
+Scott: it's like they do the level 5 and then there's like level 5 ain't fun anymore.
+
+747
+01:01:27,744 --> 01:01:29,864
+Scott: it's not because they need to progress.
+
+748
+01:01:29,925 --> 01:01:35,764
+Scott: it's because like they're not getting the rush and they're addicted and they need so that they had to go push it further into a risk.
+
+749
+01:01:35,824 --> 01:01:42,770
+Scott: and pushing it further is almost with any sort of those kind of things is necessarily a riskier activity.
+
+750
+01:01:42,811 --> 01:01:44,555
+Rym: well because you what you said is seeking the rush.
+
+751
+01:01:44,738 --> 01:01:48,372
+Rym: like people who do well in those kinds of sports there's not enough fear involved.
+
+752
+01:01:48,393 --> 01:01:49,726
+Scott: well they seek flow state.
+
+753
+01:01:49,746 --> 01:01:49,867
+Rym: like.
+
+754
+01:01:50,008 --> 01:01:52,410
+Rym: I actually am not seeking a rush I'm seeking flow state.
+
+755
+01:01:52,632 --> 01:02:01,686
+Rym: I like the fact that I can go to a double black diamond glade through the woods and I'm not feeling a rush because I'm competent and I'm just skiing through it in a flow state when
+
+756
+01:02:01,747 --> 01:02:03,340
+Scott: I feel a rush other people are seeking a rush
+
+757
+01:02:03,622 --> 01:02:11,479
+Rym: exactly and if I were seeking a rush I would have to do things at this point that are above the level of what I would consider acceptable risk.
+
+758
+01:02:12,410 --> 01:02:13,726
+Scott: yeah that's what I'm saying.
+
+759
+01:02:13,827 --> 01:02:14,939
+Scott: is you know you gotta have.
+
+760
+01:02:15,766 --> 01:02:20,229
+Scott: in some ways the rush comes from some kind of fear.
+
+761
+01:02:20,491 --> 01:02:26,779
+Scott: right because if you didn't feel like it was dangerous the rush wouldn't happen to begin with.
+
+762
+01:02:27,404 --> 01:02:30,979
+Scott: right and so you know.
+
+763
+01:02:31,061 --> 01:02:36,418
+Scott: but if you had a little bit more fear or a different kind of fear you wouldn't be doing that stupid shit to begin with.
+
+764
+01:02:37,827 --> 01:02:38,480
+Scott: it's too dangerous.
+
+765
+01:02:38,683 --> 01:02:51,380
+Rym: the last time I felt a rush of any kind on a bicycle was the second to last time I went mountain biking and the rush wasn't because I was doing a really technical trail and it was difficult.
+
+766
+01:02:51,764 --> 01:03:00,958
+Rym: the rush was because I made a miscalculation and jumped off the trail and I was in the air looking down at the scrub field I was about to land on.
+
+767
+01:03:01,463 --> 01:03:08,626
+Scott: so that's the thing is you come out and you're like oh yeah if you just follow the trail when you jump out of the helicopter you'll be fine but it's like miscalculations.
+
+768
+01:03:08,687 --> 01:03:09,559
+Scott: that's part of the risk.
+
+769
+01:03:09,701 --> 01:03:16,249
+Rym: yeah the risk of heli-skiing is if you don't follow the path that you planned and you might you might not.
+
+770
+01:03:16,350 --> 01:03:18,753
+Scott: even if you did everything right that could happen.
+
+771
+01:03:18,874 --> 01:03:20,440
+Scott: you know it's a very risky behavior.
+
+772
+01:03:21,786 --> 01:03:22,819
+Scott: so I'm not gonna do that shit.
+
+773
+01:03:22,981 --> 01:03:30,430
+Scott: if I die if I'm an old man I'm not gonna be laying there like ah I'm 90.
+
+774
+01:03:30,430 --> 01:03:33,297
+Scott: I lived to 90 and I never did the heli-skiing.
+
+775
+01:03:33,338 --> 01:03:33,987
+Scott: that was a mistake.
+
+776
+01:03:34,007 --> 01:03:34,760
+Scott: that's not gonna happen.
+
+777
+01:03:34,901 --> 01:03:37,180
+Rym: I'm definitely doing heli-skiing.
+
+778
+01:03:37,846 --> 01:03:38,815
+Rym: mostly I gotta plan it.
+
+779
+01:03:39,703 --> 01:03:42,108
+Scott: let me know when you plan that so I know when.
+
+780
+01:03:42,129 --> 01:03:42,698
+Scott: to end geek night.
+
+781
+01:03:44,647 --> 01:03:49,075
+Rym: there are some fairly easy well known heli-skiing routes that you can just do and there's even guides.
+
+782
+01:03:49,095 --> 01:03:57,718
+Scott: you just follow the guy a tiny little helicopter that brings you to the top of like you know a hill in central park the worlds tiniest helicopter.
+
+783
+01:03:57,960 --> 01:03:59,855
+Scott: it's like a guy pedaling dude.
+
+784
+01:04:07,155 --> 01:04:09,523
+Rym: this has been GeekNights with Rym and Scott.
+
+785
+01:04:09,584 --> 01:04:12,089
+Rym: special thanks to DJ Pretzel for the opening theme.
+
+786
+01:04:12,271 --> 01:04:18,309
+Scott: be sure to visit our website at FrontRowClue.com for show notes, discussion, links and more.
+
+787
+01:04:18,795 --> 01:04:21,429
+Rym: remember GeekNights is not one but four different shows.
+
+788
+01:04:21,753 --> 01:04:23,350
+Rym: Mondays are science and technology.
+
+789
+01:04:23,471 --> 01:04:25,169
+Rym: Tuesdays gaming and games.
+
+790
+01:04:25,331 --> 01:04:27,150
+Rym: Wednesdays are animation and comics.
+
+791
+01:04:27,472 --> 01:04:29,969
+Rym: Thursdays are arbitrary and indiscriminate.
+
+792
+01:04:30,615 --> 01:04:35,528
+Rym: GeekNights is distributed under a creative comments attribution 4.0 international license.
+
+793
+01:04:35,993 --> 01:04:44,289
+Scott: GeekNights is recorded live with no studio and no audience but unlike those other late shows it's actually recorded at night
+
+794
+01:04:44,856 --> 01:05:00,464
+Rym: and the Patreon patrons for this episode of GeekNights are [unintelligible] I am not to say because they are below the line above which I say the names.
+
+795
+01:05:00,524 --> 01:05:03,069
+Rym: and tonight I leave you with Mo Sislak.
+
+796
+01:05:04,073 --> 01:05:12,317
+Rym: fellow citizens when I learned about the impending crisis I caught the very next plane to Springfield field.
+
+797
+01:05:12,337 --> 01:05:16,620
+Rym: first of all yes there is a comet in the sky and yes it is going to hit Springfield.
+
+798
+01:05:18,913 --> 01:05:20,179
+Rym: you don't need to applaud that.
+
+799
+01:05:20,462 --> 01:05:23,048
+Rym: now here's what we think the impact might look like.
+
+800
+01:05:23,411 --> 01:05:23,997
+Rym: show them Jerry.
+
+801
+01:05:29,866 --> 01:05:31,259
+Rym: oh dear god no.
+

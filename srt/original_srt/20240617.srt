@@ -1,0 +1,3612 @@
+﻿1
+00:00:08,220 --> 00:00:11,648
+Speaker 1: It's Monday, June 17th, 2024.
+
+2
+00:00:11,648 --> 00:00:17,500
+Speaker 1: I'm Rim, and tonight, we are doing the Tech News Roundup.
+
+3
+00:00:18,882 --> 00:00:19,878
+Speaker 0: Let's do this.
+
+4
+00:00:23,250 --> 00:00:52,030
+Speaker 1: People who aren't nerdy enough who work in Midtown, in any industry, it's like no matter how savvy they are about living in New York and every other aspect of their lives, they are incapable of understanding that all the bars and all the restaurants in Midtown, especially on a weekday after work, are either insanely crowded and loud with terrible service, or if they're not insanely loud and crowded with terrible service, that's because they are shockingly expensive and that's the only reason they aren't crowded.
+
+5
+00:00:52,530 --> 00:01:01,569
+Speaker 1: These people will reliably want to go to the worst bar to the point that they can't even get a drink and they give up after 20 minutes, and they're shocked every time that this happens.
+
+6
+00:01:03,354 --> 00:01:03,586
+Speaker 0: Okay.
+
+7
+00:01:05,251 --> 00:01:13,187
+Speaker 1: But the other day, coworkers in town, someone I wanted to hang out with, and a few of us, we hadn't gotten together in a while, so everyone's like, "Yeah, let's actually get together and hang
+
+8
+00:01:13,307 --> 00:01:13,408
+Speaker 1: out.".
+
+9
+00:01:13,950 --> 00:01:22,730
+Speaker 1: And one guy who was working from home wanted to hang out enough that he actually took the train in after work to meet us in Midtown to hang out and catch up.
+
+10
+00:01:23,290 --> 00:01:27,285
+Speaker 1: And then all the people who instigated this ended up having other things to do and bailed.
+
+11
+00:01:27,666 --> 00:01:28,730
+Speaker 1: He was so mad.
+
+12
+00:01:30,875 --> 00:01:32,609
+Speaker 1: And I just left and biked home and that was the end of that.
+
+13
+00:01:33,470 --> 00:01:36,730
+Speaker 0: Yeah, so I'm going to be going in September after PAX West.
+
+14
+00:01:38,335 --> 00:01:40,090
+Speaker 1: I keep forgetting you're not coming home after PAX.
+
+15
+00:01:40,450 --> 00:01:51,350
+Speaker 0: Yeah, my company has decided that since everyone's remote and around the entire world in all sorts of different regions, like the whole world, we got people in Europe, we got people in Asia, we got people all over the place.
+
+16
+00:01:52,631 --> 00:02:00,990
+Speaker 0: They've decided starting last year, but again this year, to just have everyone come to one place for some days and then everyone go back home.
+
+17
+00:02:02,111 --> 00:02:07,110
+Speaker 0: And so I'm going to be in Seattle and the meeting place this time is not New York.
+
+18
+00:02:08,551 --> 00:02:10,122
+Speaker 0: Last time it was New York, which is great.
+
+19
+00:02:10,264 --> 00:02:11,110
+Speaker 0: This time not.
+
+20
+00:02:11,952 --> 00:02:14,370
+Speaker 0: But it is in Santa Barbara, California.
+
+21
+00:02:15,070 --> 00:02:29,910
+Speaker 0: And so what I'm going to do is after PAX, I'm going to take the train to Portland, Oregon, where I've never been, and that happens to be a place where many, not that many, but the CEO and several co-workers are located there.
+
+22
+00:02:30,070 --> 00:02:32,630
+Speaker 0: And they even have a little co-worky renty space.
+
+23
+00:02:33,751 --> 00:02:40,109
+Speaker 0: So I can basically avoid flying back and forth across the country, reduce carbon emissions, etc.
+
+24
+00:02:41,750 --> 00:02:48,450
+Speaker 0: Take the train from Seattle to Portland and then fly to Santa Barbara with co-workers from Portland and then fly home.
+
+25
+00:02:48,851 --> 00:02:54,650
+Speaker 1: I had a lot of fun the one time I took that train and I got to spend like two days in Portland before I flew home when I was lecturing at that thing.
+
+26
+00:02:55,010 --> 00:03:01,410
+Speaker 0: But the point is that your story is I'm going to be that guy from London who's trying to get co-workers to do something in Portland.
+
+27
+00:03:01,930 --> 00:03:07,549
+Speaker 0: At least once, you know, I think I'll probably have to just find something for myself to do there most days.
+
+28
+00:03:08,510 --> 00:03:13,928
+Speaker 1: The problem is I'm looking at all the things I put pins in when I was there and most of it is places to run to or run to.
+
+29
+00:03:14,650 --> 00:03:26,390
+Speaker 0: One thing that I found in Portland that I'm going to try to do, it might not be successful, but I'll know in advance, is apparently there is a Thai restaurant in Portland that is like, that may be just like the best Thai restaurant in the country.
+
+30
+00:03:27,290 --> 00:03:32,150
+Speaker 0: It's like, it's like, like some S-tier godlike impossible to get reservation restaurant.
+
+31
+00:03:32,871 --> 00:03:41,370
+Speaker 0: And what the way their reservation system works is on, I think it's some day of the month, the 15th, I forgot what number of the month, I put a reminder on my calendar.
+
+32
+00:03:42,031 --> 00:03:45,055
+Speaker 0: They open up reservations for the entire next month.
+
+33
+00:03:45,275 --> 00:03:56,210
+Speaker 0: So in August, on the right day in August, I have to go to their website and try to get a reservation for the few days that overlap with when they're open and when I'll be in Portland.
+
+34
+00:03:57,570 --> 00:03:57,690
+Speaker 0: Right.
+
+35
+00:03:57,891 --> 00:04:06,970
+Speaker 0: And then if I get the reservation, I assume I won't have trouble finding someone to sit with me at the incredibly fancy restaurant.
+
+36
+00:04:08,833 --> 00:04:10,040
+Speaker 0: I didn't even know it was that fancy.
+
+37
+00:04:10,101 --> 00:04:11,570
+Speaker 0: It's just very good.
+
+38
+00:04:11,990 --> 00:04:22,290
+Speaker 1: I mean, I would, if I were a coworker and I didn't know you that well, and you were, you said what you just said to me, I would be like, I'm absolutely sure the coworkers in Portland know the restaurant.
+
+39
+00:04:22,750 --> 00:04:26,370
+Speaker 0: It would be weird if it's that big a deal that I found out about it.
+
+40
+00:04:26,631 --> 00:04:30,390
+Speaker 1: So most of my coworkers have never been to Queens.
+
+41
+00:04:31,651 --> 00:04:31,892
+Speaker 0: Yeah.
+
+42
+00:04:31,972 --> 00:04:36,030
+Speaker 0: If you don't live in Queens, why would you come here unless you were going to Mets game or something?
+
+43
+00:04:36,672 --> 00:04:42,690
+Speaker 1: I can never even convince any of them to take the subway one stop closer than the places they go in Manhattan.
+
+44
+00:04:43,710 --> 00:04:43,910
+Speaker 0: Yeah.
+
+45
+00:04:43,930 --> 00:04:48,999
+Speaker 0: People don't have the, you know, they imagine Queens is like this far away place.
+
+46
+00:04:49,079 --> 00:04:54,648
+Speaker 0: if they're not, you know, so every time people it's like, oh, it's like there's only a river in the way.
+
+47
+00:04:54,668 --> 00:04:55,670
+Speaker 0: it's not, it's not wide.
+
+48
+00:04:56,051 --> 00:05:01,870
+Speaker 1: The last time I convinced one of them to come to Queens, the half the time was him walking, I spent going, this is right here.
+
+49
+00:05:02,550 --> 00:05:03,917
+Speaker 1: Why I didn't know this existed.
+
+50
+00:05:04,198 --> 00:05:05,163
+Speaker 1: What are all these buildings?
+
+51
+00:05:05,203 --> 00:05:06,450
+Speaker 1: This is just like a mini Manhattan.
+
+52
+00:05:07,290 --> 00:05:09,969
+Speaker 1: And I'm like, this is the edge of Queens, my dude.
+
+53
+00:05:14,352 --> 00:05:18,550
+Speaker 1: But anyway, we're not going to do any regular news because it's a very special episode of gig nights.
+
+54
+00:05:24,842 --> 00:05:28,179
+Speaker 1: So things of the day, got a thing of the day.
+
+55
+00:05:29,020 --> 00:05:29,402
+Speaker 0: Let's see.
+
+56
+00:05:29,442 --> 00:05:30,867
+Speaker 0: What was my thing of the day?
+
+57
+00:05:31,007 --> 00:05:31,348
+Speaker 0: All right.
+
+58
+00:05:31,469 --> 00:05:31,890
+Speaker 0: Terminal.
+
+59
+00:05:31,930 --> 00:05:34,680
+Speaker 0: So I found out about this thing called terminal text effects.
+
+60
+00:05:34,861 --> 00:05:40,340
+Speaker 0: It's just some Python library, but you can just run it from the CLI after you install it, this, you know, figure it out.
+
+61
+00:05:40,821 --> 00:05:44,532
+Speaker 0: But what you want to look at is the, uh, the effects showroom.
+
+62
+00:05:44,572 --> 00:05:44,773
+Speaker 0: Right.
+
+63
+00:05:44,813 --> 00:05:47,000
+Speaker 0: And that'll, that'll quickly explain what this is.
+
+64
+00:05:47,280 --> 00:05:55,440
+Speaker 0: So the way it works is in your terminal, whatever kind of terminal you got on whatever operating system, I'm sure it's going to work just fine in all modern terminals.
+
+65
+00:05:56,383 --> 00:06:00,777
+Speaker 0: Um, you take some texts that you just text, get any, get text from somewhere.
+
+66
+00:06:00,817 --> 00:06:01,640
+Speaker 0: It could be your logs.
+
+67
+00:06:02,161 --> 00:06:04,085
+Speaker 0: It could be your message of the day.
+
+68
+00:06:04,545 --> 00:06:12,080
+Speaker 0: It could be SSH, I don't know, something, any text and pipe it into the terminal text effects and tell it which effect you want.
+
+69
+00:06:12,801 --> 00:06:18,960
+Speaker 0: And then it will animate and colorize that text in a way that is incredibly impressive inside the terminal.
+
+70
+00:06:19,220 --> 00:06:20,623
+Speaker 0: Like, wow.
+
+71
+00:06:20,723 --> 00:06:29,060
+Speaker 0: So they figured out how to get your terminal to do that reliably, uh, without standard terminal stuff too.
+
+72
+00:06:29,200 --> 00:06:31,228
+Speaker 1: Like it's constrained to what terminals can do.
+
+73
+00:06:31,248 --> 00:06:32,051
+Speaker 1: Yeah.
+
+74
+00:06:32,131 --> 00:06:33,838
+Speaker 0: It's fancy and fun.
+
+75
+00:06:33,998 --> 00:06:34,480
+Speaker 0: And it's good.
+
+76
+00:06:34,560 --> 00:06:44,340
+Speaker 0: If you have to do say like presentations or you're going to do a demo of some software in the terminal and you know, you could do, you know, it could be very useful for, uh, for a lot of things.
+
+77
+00:06:44,420 --> 00:06:49,360
+Speaker 0: It's not just for, you know, demo scene showing off, although it is for that as well.
+
+78
+00:06:49,740 --> 00:06:58,760
+Speaker 1: I mean, I feel like the place I would use this is if I was ever in a position where I was making a movie or a TV show or anything that portrayed a computer in any way, this is the shit that would be on the screen.
+
+79
+00:06:59,240 --> 00:06:59,320
+Speaker 0: Yeah.
+
+80
+00:06:59,340 --> 00:07:01,323
+Speaker 0: I just think it'd also be fun for the message of the day.
+
+81
+00:07:01,363 --> 00:07:11,220
+Speaker 1: Like every time you open your terminal, it just was like, I mean, think about how excited everyone got about Mario Paint's different deleting options.
+
+82
+00:07:12,041 --> 00:07:12,682
+Speaker 0: Hmm.
+
+83
+00:07:13,043 --> 00:07:14,024
+Speaker 0: That's basically what this is.
+
+84
+00:07:14,184 --> 00:07:14,385
+Speaker 0: Yep.
+
+85
+00:07:15,346 --> 00:07:24,160
+Speaker 1: So this tiny little short, but it's relevant mostly to the fact that Poseidon comes up in conversations around me and my friends more often than you think.
+
+86
+00:07:24,980 --> 00:07:27,944
+Speaker 0: And I mean, most of the world is water.
+
+87
+00:07:28,264 --> 00:07:28,865
+Speaker 1: That is true.
+
+88
+00:07:28,885 --> 00:07:34,472
+Speaker 0: And so the odds of any person interacting with water and their lives is high at some point.
+
+89
+00:07:34,832 --> 00:07:38,857
+Speaker 0: And so, you know, I mean the God of water.
+
+90
+00:07:39,338 --> 00:07:41,280
+Speaker 1: that could imply that he has some control over.
+
+91
+00:07:41,380 --> 00:07:42,301
+Speaker 1: Ice hockey for one.
+
+92
+00:07:43,423 --> 00:07:43,723
+Speaker 0: Sure.
+
+93
+00:07:44,444 --> 00:07:45,806
+Speaker 1: But two, he's not just the God of water.
+
+94
+00:07:45,826 --> 00:07:53,235
+Speaker 1: Do you know the other two primary parts of his portfolio as a deity other than water?
+
+95
+00:07:54,176 --> 00:07:55,117
+Speaker 0: Bad attitudes.
+
+96
+00:07:55,537 --> 00:07:57,420
+Speaker 1: I mean, he's pretty much the king of that.
+
+97
+00:07:57,980 --> 00:08:01,044
+Speaker 0: Yeah, no offense.
+
+98
+00:08:01,064 --> 00:08:08,674
+Speaker 0: I guess, you know, uh, the other ocean related activities like storms, fish, horses, horses.
+
+99
+00:08:08,754 --> 00:08:09,115
+Speaker 0: All right.
+
+100
+00:08:09,835 --> 00:08:10,576
+Speaker 1: And earthquakes.
+
+101
+00:08:11,778 --> 00:08:12,038
+Speaker 0: Right.
+
+102
+00:08:12,078 --> 00:08:13,260
+Speaker 0: That's somewhat water related.
+
+103
+00:08:14,281 --> 00:08:18,727
+Speaker 1: I mean, I'm marginally, but yeah, water wasn't lubricating the earth.
+
+104
+00:08:18,747 --> 00:08:19,488
+Speaker 0: It wouldn't shake.
+
+105
+00:08:20,469 --> 00:08:28,340
+Speaker 1: So this is a tiny 16 seconds skit of Zeus handing out portfolios to the Greek gods.
+
+106
+00:08:28,901 --> 00:08:34,836
+Speaker 1: It was the funniest thing I saw in the last seven hours that I saw when I scrolled in my YouTube likes because I didn't try that hard.
+
+107
+00:08:35,438 --> 00:08:36,260
+Speaker 1: It's been a while.
+
+108
+00:08:36,681 --> 00:08:39,808
+Speaker 1: I love doing the tech news roundup because I don't have to come up with a topic.
+
+109
+00:08:40,149 --> 00:08:45,220
+Speaker 1: All I have to do is react to stories and events and text that appears in front of me.
+
+110
+00:08:45,861 --> 00:08:53,240
+Speaker 0: But we can't do it too often lest we become a completely different podcast, many of which already exist that do this exact thing.
+
+111
+00:08:53,521 --> 00:08:53,922
+Speaker 1: Yeah.
+
+112
+00:08:54,082 --> 00:09:00,440
+Speaker 1: But I remember someone who listens to this isn't, isn't coming to, I hope you're not coming here to get this as news because none of these things should be new to you.
+
+113
+00:09:00,881 --> 00:09:06,220
+Speaker 1: You're coming here because you want to hear what we have to say about it, which also possibly inadvisable, but that's a different problem.
+
+114
+00:09:07,400 --> 00:09:11,330
+Speaker 0: Well, I mean, you know, if you look right, basically it's like we don't make the news.
+
+115
+00:09:11,370 --> 00:09:15,540
+Speaker 0: or if you go to tech news sites, that's where we're getting the news from as well.
+
+116
+00:09:15,660 --> 00:09:19,287
+Speaker 0: But we're basically the comment section, right?
+
+117
+00:09:19,467 --> 00:09:26,300
+Speaker 0: But if you look at the comment section on any of those sites, the things that I often have to say are usually not said by anyone else.
+
+118
+00:09:26,420 --> 00:09:39,620
+Speaker 0: Now that could be because I'm just so genius and insightful that I, and I've been doing this so long, uh, that I know things that other people don't know, or it could be because we're completely full of shit and that's why we're so off base.
+
+119
+00:09:41,541 --> 00:09:47,379
+Speaker 1: Well, either way, we're in a, we're in our own niche to do what we will.
+
+120
+00:09:48,589 --> 00:09:48,737
+Speaker 0: Sure.
+
+121
+00:09:49,660 --> 00:09:52,347
+Speaker 1: So let's go through these whole bunch of news and stuff to talk about.
+
+122
+00:09:52,387 --> 00:09:57,700
+Speaker 1: I want to start with this one because I know some people who use this technology and it is technically technology.
+
+123
+00:09:58,840 --> 00:10:12,860
+Speaker 1: Wells Fargo recently disclosed because they had to, that they had fired more than a dozen employees, quote, after an investigation revealed that they were using devices or apps to simulate productivity on their computers.
+
+124
+00:10:13,160 --> 00:10:14,639
+Speaker 1: Basically they had those things.
+
+125
+00:10:15,120 --> 00:10:18,528
+Speaker 0: Oh, it was, well, I knew I saw the story, but I didn't see that that was Wells Fargo.
+
+126
+00:10:18,628 --> 00:10:23,700
+Speaker 0: And I was like, oh, I know that makes perfect sense because Wells Fargo is notoriously that kind of place.
+
+127
+00:10:23,980 --> 00:10:24,050
+Speaker 0: Yep.
+
+128
+00:10:25,002 --> 00:10:33,200
+Speaker 0: Uh, and they're like the, in terms of the culture of a company, like they are way on like the extreme shitty list of bad cultures.
+
+129
+00:10:34,420 --> 00:10:43,209
+Speaker 1: And, uh, there's a lot to unpack here in this news because for one, uh, these mouse jigglers are shockingly widely used and popular.
+
+130
+00:10:43,289 --> 00:10:54,460
+Speaker 1: Like if you don't work in like deep tech circles and you have a more normal, but still like remote or remotest job, like half the people you work with are probably using these things.
+
+131
+00:10:55,021 --> 00:11:03,180
+Speaker 0: I went on Amazon and I searched for a mouse jiggler and there are several of them and the top one, 9,000 of them were bought this past month.
+
+132
+00:11:04,740 --> 00:11:05,359
+Speaker 1: So a lot to unpack here.
+
+133
+00:11:05,420 --> 00:11:08,860
+Speaker 0: There are other ones that were also had thousands of them bought per month.
+
+134
+00:11:09,760 --> 00:11:12,784
+Speaker 1: So one, what possible use could these have?
+
+135
+00:11:12,824 --> 00:11:21,073
+Speaker 1: And the answer is they have no use in the year 2024 unless you're having to deal with a company that is so poorly run that they are conflating.
+
+136
+00:11:21,654 --> 00:11:25,238
+Speaker 1: person is trapped at their desk continuously inputting with.
+
+137
+00:11:25,678 --> 00:11:26,980
+Speaker 1: this person is doing a job.
+
+138
+00:11:28,020 --> 00:11:28,181
+Speaker 0: Right.
+
+139
+00:11:28,201 --> 00:11:30,464
+Speaker 0: Well, there are two valid uses of it.
+
+140
+00:11:30,564 --> 00:11:32,107
+Speaker 0: The first one you already explained.
+
+141
+00:11:32,447 --> 00:11:39,939
+Speaker 0: The second one is, uh, for my company is included, is that, you know, we have a security guy who handles all like the sock compliance stuff.
+
+142
+00:11:40,159 --> 00:11:40,440
+Speaker 1: Oh yeah.
+
+143
+00:11:41,240 --> 00:11:43,905
+Speaker 0: And one of the things it's like, he doesn't make up the rules.
+
+144
+00:11:43,945 --> 00:11:46,670
+Speaker 0: We're not, we're not the ones who get to decide what the rules are, right?
+
+145
+00:11:46,710 --> 00:11:51,699
+Speaker 1: The rules of the compliance are the what should be locked out aggressively when someone steps away from them.
+
+146
+00:11:51,719 --> 00:11:52,300
+Speaker 1: And that is good.
+
+147
+00:11:53,040 --> 00:11:53,540
+Speaker 0: Precisely.
+
+148
+00:11:53,661 --> 00:11:54,081
+Speaker 0: I agree.
+
+149
+00:11:54,101 --> 00:11:56,623
+Speaker 0: Uh, but some people do not like this.
+
+150
+00:11:56,844 --> 00:12:14,260
+Speaker 0: And so they get the mouse jiggler to keep the screensaver and the lock screen from starting, uh, and while you will still be compliant with, you know, whatever the security compliance is because they're just verifying that your settings are what they should be, which is not.
+
+151
+00:12:15,181 --> 00:12:23,840
+Speaker 1: So as someone who is professionally involved in audits and still does this, and I've been doing this for much of my career, that does not make you compliant with anything.
+
+152
+00:12:26,341 --> 00:12:28,483
+Speaker 1: It could make you at most potentially.
+
+153
+00:12:28,503 --> 00:12:41,360
+Speaker 0: According to the security guy, we have to have those settings on our computer set that way according to the, with the timings that they say, and then there is software on our computer that checks to verify that we have those settings.
+
+154
+00:12:41,420 --> 00:12:41,660
+Speaker 1: Yes.
+
+155
+00:12:41,700 --> 00:12:50,492
+Speaker 1: Because what that is is a control and they have, they have a tested, we comply with whatever rules we're complying with for security via one or more controls.
+
+156
+00:12:50,632 --> 00:12:56,560
+Speaker 1: One control being we verified that the settings on the screensavers of the desktops are all uniform and are all set to this specifically.
+
+157
+00:12:57,221 --> 00:13:01,668
+Speaker 1: So when an auditor comes and they see that a computer isn't set that way, they can fuck you over.
+
+158
+00:13:01,969 --> 00:13:08,560
+Speaker 1: But also if an auditor comes and finds a mouse jiggler plugged into a computer that is just as non-compliance.
+
+159
+00:13:09,062 --> 00:13:14,000
+Speaker 0: But the mouse jiggle, the auditor is not going to find the mouse jiggler because we're all remote employees.
+
+160
+00:13:15,301 --> 00:13:16,422
+Speaker 1: Which leads to the other thing.
+
+161
+00:13:16,442 --> 00:13:28,720
+Speaker 1: Uh, most of the people I've encountered who use this kind of stuff are using it because their company basically has a system to show if they're active at their desk clicking at any given time.
+
+162
+00:13:29,081 --> 00:13:36,460
+Speaker 1: And they seem to be literally punished for not being at their desk clicking the entirety of whatever their eight or nine hour workday is.
+
+163
+00:13:37,000 --> 00:13:37,201
+Speaker 0: Yeah.
+
+164
+00:13:37,381 --> 00:13:40,764
+Speaker 0: I mean, you know, this is standard business capitalism stuff, right?
+
+165
+00:13:40,804 --> 00:13:58,680
+Speaker 0: Is that when people aren't working on an assembly line and producing work in like a easily quantifiable way, you know, bad managers, bad, you know, directors, whatever supervisors have no way to know which employees are doing a better job than others because they themselves are incompetent.
+
+166
+00:13:58,900 --> 00:14:01,805
+Speaker 0: And, you know, for them to figure that out would be work.
+
+167
+00:14:02,006 --> 00:14:09,018
+Speaker 0: The same kind of work, like for teachers grading papers, like you'd actually have to look at what your employees work and evaluate it with your brain.
+
+168
+00:14:09,058 --> 00:14:10,060
+Speaker 0: And they're never going to do that.
+
+169
+00:14:10,541 --> 00:14:16,291
+Speaker 0: And also they might not even be capable of doing that because they would have to know more about the work than the employees.
+
+170
+00:14:16,332 --> 00:14:20,740
+Speaker 0: They might not even be qualified to judge whether their own employees are doing good work or not.
+
+171
+00:14:20,920 --> 00:14:24,672
+Speaker 1: On the one hand, middle management in big companies is often bloated and that's the whole thing.
+
+172
+00:14:24,692 --> 00:14:27,280
+Speaker 1: Like, don't think I'm defending the bloat of bureaucracy.
+
+173
+00:14:27,760 --> 00:14:38,490
+Speaker 1: But on the other hand, middle management has been thinned out in most companies to the point that nobody at that level has time or space to actually do what middle managers were originally designed to do.
+
+174
+00:14:50,521 --> 00:14:51,625
+Speaker 0: Some of them, right?
+
+175
+00:14:51,705 --> 00:14:54,234
+Speaker 0: There is bloat, but it's, you know, it's both things are true at once.
+
+176
+00:14:54,274 --> 00:14:55,980
+Speaker 0: You can't get too small, you can't get too big.
+
+177
+00:14:57,580 --> 00:15:09,340
+Speaker 0: But anyway, the point is, is that when in that situation, companies often will judge their employee, you know, find ways to figure out who's working and to try to hold employees accountable.
+
+178
+00:15:09,480 --> 00:15:12,446
+Speaker 0: Like if someone, you know, it's like they think someone's sitting in the office, right?
+
+179
+00:15:12,466 --> 00:15:12,947
+Speaker 0: That's right.
+
+180
+00:15:13,268 --> 00:15:18,960
+Speaker 0: Return to office, sit here for eight hours and I believe that you're working even if you do nothing but watch YouTube all day.
+
+181
+00:15:19,913 --> 00:15:20,199
+Speaker 0: You know?
+
+182
+00:15:21,801 --> 00:15:22,061
+Speaker 1: Yeah.
+
+183
+00:15:22,582 --> 00:15:24,445
+Speaker 1: And I think it's only going to get worse.
+
+184
+00:15:24,465 --> 00:15:32,600
+Speaker 1: There's this, anti-work is starting to grow as a movement partly because jobs are getting so intolerable for so many people.
+
+185
+00:15:32,900 --> 00:15:36,258
+Speaker 1: Like we're very lucky to have the kinds of jobs we have in this environment, you and I.
+
+186
+00:15:37,661 --> 00:15:41,940
+Speaker 0: You know, the pan doodle really accelerated if there was any silver lining.
+
+187
+00:15:42,781 --> 00:15:53,540
+Speaker 1: Well, the, the worst part is the pan doodle briefly showed us a vision of a better America because there was a brief time where I could work from home and it was fine and just worked and was reasonable.
+
+188
+00:15:53,820 --> 00:15:59,030
+Speaker 1: While simultaneously I could just go to a government website, click, I would like a vaccine.
+
+189
+00:15:59,331 --> 00:16:04,400
+Speaker 1: And then they would say, go to this place and you'll just get a vaccine, no paperwork, no insurance, no nothing.
+
+190
+00:16:05,521 --> 00:16:07,006
+Speaker 1: And all that's, both of those are gone.
+
+191
+00:16:07,327 --> 00:16:07,869
+Speaker 1: Everything's gone.
+
+192
+00:16:07,889 --> 00:16:11,180
+Speaker 1: We lost, we lost everything we even gained during the pandemic.
+
+193
+00:16:12,522 --> 00:16:14,780
+Speaker 0: Except for the attitude of people not wanting to work.
+
+194
+00:16:15,240 --> 00:16:15,521
+Speaker 1: Oh yeah.
+
+195
+00:16:17,364 --> 00:16:26,120
+Speaker 1: I think that attitude is due to partly a fraying at the edges of society that's starting to intrude into what's left of the middle class, but that's a little bit beyond a tech news roundup.
+
+196
+00:16:26,361 --> 00:16:31,600
+Speaker 1: So, uh, in other news, uh, this is actually kind of a fascinating one.
+
+197
+00:16:32,000 --> 00:16:44,180
+Speaker 1: The US Surgeon General has stated that social media as a concept, like social media apps and websites should have warnings, just like cigarettes and alcohol have warnings about potential effects.
+
+198
+00:16:44,940 --> 00:16:45,806
+Speaker 1: I don't disagree.
+
+199
+00:16:45,826 --> 00:16:55,060
+Speaker 0: I think information has- There are many studies showing that, you know, people who use it too much, especially children, uh, you know, it fucks them up psychologically, right?
+
+200
+00:16:56,521 --> 00:16:59,006
+Speaker 0: Um, there's also lots of anecdotal evidence, right?
+
+201
+00:16:59,287 --> 00:17:05,339
+Speaker 0: I read a story the other day, obviously just an anecdote, but some parent, right, had a kid.
+
+202
+00:17:06,020 --> 00:17:13,619
+Speaker 0: And when the kid, you know, was doing too much social media, they were really going down some dark, dark paths, right?
+
+203
+00:17:13,980 --> 00:17:21,140
+Speaker 0: And when the dad successfully took away the phone, the kid, he noticed like a notable improvement in the kid's life, right?
+
+204
+00:17:21,621 --> 00:17:27,640
+Speaker 0: And then when the kid was secretly hiding, you know, then the kid took a downturn, secretly hiding a phone somewhere, you know?
+
+205
+00:17:28,099 --> 00:17:40,080
+Speaker 0: So it's like, you know, she was concentrating more on, you know, gaining the approval of peers and focusing all her time and energy on that instead of studying and what you're supposed to be doing when you're a kid.
+
+206
+00:17:40,981 --> 00:17:52,920
+Speaker 1: Yeah, but I think what's pernicious about it is that a lot, like kind of like with the total unrestricted internet, the internet, there's a lot of kids who are just totally fine as long as they have a decent upbringing and are reasonably intelligent and other factors aren't at play.
+
+207
+00:17:53,460 --> 00:18:03,580
+Speaker 1: Like they're just fine, but a subset of the population for a variety of reasons just gets absolutely wrecked by this kind of connectivity.
+
+208
+00:18:03,700 --> 00:18:13,920
+Speaker 1: And I think it's getting exacerbated specifically and almost solely by the algorithmic engagement drives and the fact that these are increasingly also becoming platforms for state-sponsored propaganda.
+
+209
+00:18:15,681 --> 00:18:18,385
+Speaker 0: The state-sponsored propaganda is causing the teen suicides.
+
+210
+00:18:19,067 --> 00:18:26,580
+Speaker 0: I'm pretty sure it's the cyberbullying and the, you know, the messaging each other and, you know, right?
+
+211
+00:18:27,040 --> 00:18:29,960
+Speaker 0: All your friends posting things and whatnot.
+
+212
+00:18:30,542 --> 00:18:36,120
+Speaker 1: Well, but there's also, there's the recruitment wing into basically right wing circles of primarily bullying kids.
+
+213
+00:18:36,160 --> 00:18:40,367
+Speaker 0: That is a thing that exists, but that is not the, that is not the reason the Surgeon General cares.
+
+214
+00:18:40,407 --> 00:18:48,220
+Speaker 0: The Surgeon General cares is because there are studies showing that, yeah, teens get higher rates of anxiety, depression and suicide when they're on social media too much.
+
+215
+00:18:49,360 --> 00:18:52,920
+Speaker 0: And it has nothing to do with the state-sponsored propaganda.
+
+216
+00:18:53,621 --> 00:18:59,500
+Speaker 1: But I feel like the social media itself is tailored to a bunch of different outcomes that aren't designed with kids in mind.
+
+217
+00:19:00,341 --> 00:19:11,360
+Speaker 0: The one that is the concern of the Surgeon General is not the Chinese trying to convince people who to vote for, especially teens who cannot vote yet.
+
+218
+00:19:11,920 --> 00:19:20,340
+Speaker 1: What's tricky though is that we could argue these exact same effects come from advertising and we don't put warnings on advertising.
+
+219
+00:19:21,921 --> 00:19:30,700
+Speaker 0: Speaking of which, very small news story, you know, I keep saying this a lot and it's like, there's a place in the world called Scotland.
+
+220
+00:19:31,681 --> 00:19:39,520
+Speaker 0: And it was haha funny because my name was Scott and then it was haha because that's where, you know, Scrooge McDuck is from.
+
+221
+00:19:40,601 --> 00:19:42,639
+Speaker 0: And they have the kilts and the haggis, right?
+
+222
+00:19:43,081 --> 00:19:50,760
+Speaker 0: But later in life, everyone I met from Scotland, right, was just, I don't, just like the awesomest person, right?
+
+223
+00:19:51,041 --> 00:19:58,940
+Speaker 0: And I started to get this impression that like, wow, Scotland must actually be like a kick-ass kind of place because everyone I know from there is kind of cool, right?
+
+224
+00:19:59,241 --> 00:20:01,292
+Speaker 0: I've never met like a bad Scottish person.
+
+225
+00:20:01,312 --> 00:20:02,760
+Speaker 0: They were always like, great.
+
+226
+00:20:03,361 --> 00:20:12,080
+Speaker 0: And then when you see, when you learn every time Scotland comes up, it's always like, oh, that guy who came to the, to the New York Rangers read it by accident.
+
+227
+00:20:12,400 --> 00:20:16,728
+Speaker 0: It was the soccer team, the Rangers from Scotland, right?
+
+228
+00:20:16,748 --> 00:20:22,218
+Speaker 0: Or, uh, you know, them chanting at the soccer game, uh, Lizzie's in a box, right?
+
+229
+00:20:22,238 --> 00:20:23,340
+Speaker 0: That was funny, right?
+
+230
+00:20:23,581 --> 00:20:26,549
+Speaker 0: It's like, I just never see anything bad about Scotland.
+
+231
+00:20:26,609 --> 00:20:28,535
+Speaker 0: and you know what Scott Edinburgh, right?
+
+232
+00:20:28,856 --> 00:20:30,420
+Speaker 0: I hope I'm pronouncing it close to correctly.
+
+233
+00:20:30,460 --> 00:20:30,701
+Speaker 0: Edinburgh?
+
+234
+00:20:31,343 --> 00:20:33,852
+Speaker 0: I know it's, it's not Edin, you don't say Edinburgh.
+
+235
+00:20:33,912 --> 00:20:36,199
+Speaker 0: I know that it's like Edinburgh or something like that.
+
+236
+00:20:36,921 --> 00:20:39,512
+Speaker 0: Uh, sorry, amazing Scottish people, right?
+
+237
+00:20:39,613 --> 00:20:40,336
+Speaker 0: I just hyped you up.
+
+238
+00:20:40,376 --> 00:20:41,059
+Speaker 0: Don't be mad at me.
+
+239
+00:20:42,902 --> 00:20:51,260
+Speaker 0: Uh, that city that is difficult to pronounce with, uh, my tongue, uh, they just banned ads for SUVs among other things.
+
+240
+00:20:53,121 --> 00:20:53,664
+Speaker 0: How about that?
+
+241
+00:20:54,085 --> 00:20:57,860
+Speaker 0: I mean, you're not allowed to advertise SUVs in that city.
+
+242
+00:20:58,061 --> 00:21:02,695
+Speaker 1: A big part of reducing smoking in America wasn't warning labels or any of that stuff.
+
+243
+00:21:02,735 --> 00:21:04,280
+Speaker 1: It was just banning cigarette ads on TV.
+
+244
+00:21:04,820 --> 00:21:06,106
+Speaker 0: Banning cigarette ads is huge.
+
+245
+00:21:06,287 --> 00:21:07,514
+Speaker 0: We should ban alcohol ads.
+
+246
+00:21:07,674 --> 00:21:08,720
+Speaker 0: We should ban car ads.
+
+247
+00:21:09,862 --> 00:21:12,231
+Speaker 0: We should ban ads for pretty much anything that that's harmful.
+
+248
+00:21:12,251 --> 00:21:14,400
+Speaker 0: Pharmacy, uh, you know, pharmaceutical drugs.
+
+249
+00:21:15,620 --> 00:21:19,310
+Speaker 1: I mean, pharmaceutical drugs weren't like, they were banned.
+
+250
+00:21:19,330 --> 00:21:23,040
+Speaker 1: They were unbanned while we were alive and we watched everything get worse.
+
+251
+00:21:23,741 --> 00:21:31,860
+Speaker 1: But, uh, but the other thing that stands out to me is that this is a fundamentally new frontier because when we were kids, there was internet, but only for special kids.
+
+252
+00:21:32,282 --> 00:21:34,189
+Speaker 1: And there wasn't social media yet.
+
+253
+00:21:34,209 --> 00:21:36,860
+Speaker 1: Like Orkut appeared when we were already in college.
+
+254
+00:21:37,401 --> 00:21:47,420
+Speaker 1: So when I was in high school, like in middle school, the peak time of bullying and body shaming and all the stuff that's being rapidly accelerated by modern social media.
+
+255
+00:21:49,480 --> 00:21:54,995
+Speaker 1: The means of communicating on the internet was like this invisible secret world that only the cool kids were on.
+
+256
+00:21:55,035 --> 00:21:56,900
+Speaker 1: It was almost like an escape from reality.
+
+257
+00:21:57,500 --> 00:22:04,200
+Speaker 0: And I think everyone, most people in my high school had AOL or could instant message that by that means.
+
+258
+00:22:05,020 --> 00:22:08,539
+Speaker 1: I would say only about half the kids at my high school actually had AIM and used it.
+
+259
+00:22:09,361 --> 00:22:11,580
+Speaker 0: I guess, you know, it was some significant number though.
+
+260
+00:22:11,720 --> 00:22:14,199
+Speaker 1: And the kids that were on IRC was like only the D&D nerds.
+
+261
+00:22:14,580 --> 00:22:15,342
+Speaker 0: Oh, no one was on.
+
+262
+00:22:15,442 --> 00:22:16,264
+Speaker 0: Oh no, forget that.
+
+263
+00:22:16,325 --> 00:22:22,780
+Speaker 0: No, but you know, there were kids who were not nerdy kids who I was able to like dial up command and conquer with.
+
+264
+00:22:23,942 --> 00:22:27,432
+Speaker 1: But not that many, like the internet communication was largely separate.
+
+265
+00:22:27,693 --> 00:22:30,060
+Speaker 1: There wasn't just like, you only had the contacts of like specific people.
+
+266
+00:22:30,060 --> 00:22:34,798
+Speaker 0: There wasn't a social media feed that was in your phone that you could use all the time, every day for free.
+
+267
+00:22:35,660 --> 00:22:37,064
+Speaker 1: And none of it was public.
+
+268
+00:22:37,104 --> 00:22:43,260
+Speaker 1: It was always with photos, you know, it was always just basically direct messaging or occasionally group chats.
+
+269
+00:22:43,401 --> 00:22:45,920
+Speaker 1: Like it was just a fundamentally different environment.
+
+270
+00:22:46,341 --> 00:23:00,140
+Speaker 1: And one sentiment that I've seen in a lot of these articles related to this topic with teens specifically is that social media has made it to where, whereas before that they'd go to school, they'd get bullied because bullying has always been a problem in American schools.
+
+271
+00:23:00,582 --> 00:23:04,360
+Speaker 1: They go home, they're safe and free until they go back to the school.
+
+272
+00:23:04,981 --> 00:23:08,210
+Speaker 1: But now it follows them home on social media.
+
+273
+00:23:08,331 --> 00:23:11,320
+Speaker 1: and social media is how they interact with all their real friends and they're kind of just stuck.
+
+274
+00:23:12,381 --> 00:23:13,784
+Speaker 1: Like it's very hard to escape that.
+
+275
+00:23:14,105 --> 00:23:19,318
+Speaker 1: And if they stop using it, then they lose all their social contact and it's almost just as bad in a different direction.
+
+276
+00:23:19,338 --> 00:23:20,000
+Speaker 1: They get isolated.
+
+277
+00:23:21,441 --> 00:23:22,462
+Speaker 1: I don't know what to do about it.
+
+278
+00:23:23,765 --> 00:23:36,446
+Speaker 1: I don't think the warning labels will do anything, but I think they're still important because the warning labels on cigarettes and the warning labels on alcohol and like these kinds of things, they're a signal where society at least agrees.
+
+279
+00:23:36,887 --> 00:23:38,670
+Speaker 1: We agree that this is a problem.
+
+280
+00:23:39,491 --> 00:23:44,620
+Speaker 1: Even if we don't agree on the specific nature of the problem or what to do about it, we at least agree there's a problem here.
+
+281
+00:23:44,980 --> 00:23:51,280
+Speaker 1: Like it's not a leading indicator, but it's a trailing indicator of people are paying more attention to this.
+
+282
+00:23:52,821 --> 00:23:53,101
+Speaker 0: Yeah.
+
+283
+00:23:53,141 --> 00:24:05,580
+Speaker 0: You know, it's sort of like the, uh, you know, the ESRB ratings on the video games rated R and the movies and the, you know, it's like, you know, I think those things haven't been proven to be harmful.
+
+284
+00:24:06,260 --> 00:24:06,541
+Speaker 0: Right.
+
+285
+00:24:06,601 --> 00:24:12,589
+Speaker 0: So it's a little bit different, but it's, it's sort of just like, Hey, more information can't hurt, especially if it's true.
+
+286
+00:24:12,609 --> 00:24:19,700
+Speaker 0: Um, and it might take, you know, make someone at least think twice or, you know, be like, Hey, what?
+
+287
+00:24:19,961 --> 00:24:20,342
+Speaker 0: Yeah.
+
+288
+00:24:20,885 --> 00:24:24,119
+Speaker 0: Whereas before they didn't think anything of it and now they might think something of it.
+
+289
+00:24:24,540 --> 00:24:24,600
+Speaker 1: Yup.
+
+290
+00:24:24,941 --> 00:24:29,648
+Speaker 1: And it's easy for like, I don't want to disregard the danger of modern social media for kids.
+
+291
+00:24:29,668 --> 00:24:32,273
+Speaker 1: Cause again, that didn't exist when we were kids.
+
+292
+00:24:32,333 --> 00:24:36,420
+Speaker 1: Like the internet was a very different place when we were like using the internet as teens.
+
+293
+00:24:38,561 --> 00:24:41,665
+Speaker 1: So in some other news, uh, I was unaware of this cause.
+
+294
+00:24:41,706 --> 00:24:42,487
+Speaker 1: it's not affecting me.
+
+295
+00:24:42,587 --> 00:24:47,374
+Speaker 1: Apparently 13th and 14th gen, uh, Intel i9s.
+
+296
+00:24:47,875 --> 00:24:50,719
+Speaker 1: So Raptor Lake and Raptor Lake S like them, like I have one of those.
+
+297
+00:24:50,739 --> 00:24:51,059
+Speaker 1: I have an i9.
+
+298
+00:24:52,361 --> 00:24:56,730
+Speaker 1: Uh, people are, there's, there are instability issues and crashes that people are experiencing.
+
+299
+00:24:57,391 --> 00:24:59,075
+Speaker 1: And this has been going on for months.
+
+300
+00:24:59,235 --> 00:25:01,360
+Speaker 1: I only learned about it, uh, from this article.
+
+301
+00:25:02,381 --> 00:25:15,320
+Speaker 1: Uh, and the funniest thing about this entire situation is that while there is no official statement on the root cause, uh, it has to do with some algorithms, uh, that Intel says they might make a fix about.
+
+302
+00:25:15,740 --> 00:25:29,340
+Speaker 1: But it seems like the only people who experienced this ever are people who have increased the voltage they're sending to their CPU above spec, meaning anyone who turns on that automatic overclocking bullshit in their motherboard.
+
+303
+00:25:30,081 --> 00:25:31,402
+Speaker 0: Well, here's the thing though, right?
+
+304
+00:25:31,863 --> 00:25:36,568
+Speaker 0: If you're not going to turn on the overclocking or whatever, right?
+
+305
+00:25:37,008 --> 00:25:39,972
+Speaker 0: Cause as far as I know, I could be wrong on this, right?
+
+306
+00:25:40,432 --> 00:25:47,420
+Speaker 0: But as far as I'm aware, uh, an i9 and i7 are like nearly the same thing, right?
+
+307
+00:25:47,500 --> 00:25:53,648
+Speaker 0: I think there's like a few more cores and more threads on the i9 and like a little less gigahertz.
+
+308
+00:25:54,169 --> 00:26:02,159
+Speaker 0: And actually like in, if you look at like benchmark websites, like i9 is like 1% effective speed faster than the i7, right?
+
+309
+00:26:03,280 --> 00:26:06,085
+Speaker 0: Yet it costs like $160 more, which is like, you know, like 50% more money.
+
+310
+00:26:06,145 --> 00:26:09,410
+Speaker 0: So you're paying 50% more money for an i9 over an i7 and getting 1% overall benefit from that.
+
+311
+00:26:15,880 --> 00:26:18,208
+Speaker 0: It's really not a good value to buy an i9.
+
+312
+00:26:18,268 --> 00:26:22,000
+Speaker 0: It's, it's a, it's just people who have to have the biggest number.
+
+313
+00:26:22,281 --> 00:26:24,939
+Speaker 1: Well, it's actually even more specific because...
+
+314
+00:26:25,120 --> 00:26:32,391
+Speaker 0: But the thing is with the i9 is that if you do, right, do some big time overclocking, right?
+
+315
+00:26:32,511 --> 00:26:38,260
+Speaker 0: Like you said, the i9 is theoretically supposed to be able to withstand the overclocking.
+
+316
+00:26:38,461 --> 00:26:38,682
+Speaker 1: Yes.
+
+317
+00:26:38,742 --> 00:26:42,239
+Speaker 1: If you do big time, like I'm going to overclock, then it's fine.
+
+318
+00:26:43,160 --> 00:26:43,280
+Speaker 0: Right.
+
+319
+00:26:43,300 --> 00:26:52,094
+Speaker 0: That's the only way to get the benefit of your extra, you know, $160 or whatever it is extra is to overclock the i9.
+
+320
+00:26:52,194 --> 00:26:54,858
+Speaker 0: If you're not going to overclock it, you might as well get an i7.
+
+321
+00:26:54,898 --> 00:26:56,200
+Speaker 0: You're just wasting money if you don't.
+
+322
+00:26:56,960 --> 00:27:07,740
+Speaker 1: But the narrow issue here seems to be around the fact that the core, the i9 will throttle its turbo speed down once it hits critical temperatures.
+
+323
+00:27:08,081 --> 00:27:12,119
+Speaker 1: So you'll get insane bursts of speed until you hit a critical temperature and then it backs off.
+
+324
+00:27:13,180 --> 00:27:28,700
+Speaker 1: And basically people who override that to make it throttle back less cause elevated temperatures repeatedly, which the cause due to cumulative exposure to elevated core voltages cause the problem in the algorithm and cause the thing to crash.
+
+325
+00:27:29,681 --> 00:27:31,848
+Speaker 1: So people who fully overclock are not having the problem.
+
+326
+00:27:32,390 --> 00:27:35,080
+Speaker 1: It's people who don't do anything weird are not having the problem.
+
+327
+00:27:35,421 --> 00:27:39,694
+Speaker 1: It's people who use their motherboard bullshit, but don't know what they're doing and just click on the button.
+
+328
+00:27:39,734 --> 00:27:41,560
+Speaker 1: That's like, yeah, make my thing faster.
+
+329
+00:27:42,601 --> 00:27:46,929
+Speaker 0: Well, I think the, you know, the problem there is that, you know, the overclocking.
+
+330
+00:27:46,969 --> 00:27:52,200
+Speaker 0: basically you shouldn't be able to override the, you know, the, the protection mechanism.
+
+331
+00:27:52,260 --> 00:27:52,420
+Speaker 0: Right.
+
+332
+00:27:52,520 --> 00:28:00,920
+Speaker 0: It's like there's, and in fact, that's another question is like, why do you even need to like expose these settings at all?
+
+333
+00:28:00,980 --> 00:28:01,100
+Speaker 0: Right.
+
+334
+00:28:01,200 --> 00:28:18,320
+Speaker 0: Why can't it just intelligently, you know, check its temperature, which it knows, and then just keep increasing its own voltage and, and clock to whatever it can until it detects like, okay, this is as fast as I can go without causing it might without killing myself.
+
+335
+00:28:18,661 --> 00:28:24,777
+Speaker 0: And if you add more cooling, you know, and you put like a dry ice near it or something, it'll just be like, oh, I can go whee.
+
+336
+00:28:24,797 --> 00:28:25,198
+Speaker 0: Right.
+
+337
+00:28:25,940 --> 00:28:27,923
+Speaker 0: And you don't, you shouldn't have to do any settings.
+
+338
+00:28:27,983 --> 00:28:39,440
+Speaker 0: It should all be intelligent and automatic and there shouldn't be a manual way to even improve the settings because the automatic way should in theory, just always do better than you could do with manual settings.
+
+339
+00:28:39,440 --> 00:28:41,626
+Speaker 1: Think about old Intel chips.
+
+340
+00:28:41,646 --> 00:28:45,638
+Speaker 1: Remember all the nerds are always mad that Intel was like locked, like you can't change the multipliers.
+
+341
+00:28:45,698 --> 00:28:46,300
+Speaker 1: You can't configure.
+
+342
+00:28:46,340 --> 00:28:47,665
+Speaker 0: Some of them you could, some of them you couldn't.
+
+343
+00:28:47,685 --> 00:28:48,749
+Speaker 1: Most of them you couldn't back in the day.
+
+344
+00:28:48,769 --> 00:28:51,640
+Speaker 1: I'm talking like Pentium one, Pentium two, Pentium three.
+
+345
+00:28:52,440 --> 00:28:58,748
+Speaker 1: And then when Intel started allowing this, people would pry their piece, like the overclocking world got kind of easy.
+
+346
+00:28:58,788 --> 00:29:08,160
+Speaker 1: And then a lot of people made a lot of mistakes, but I think Intel originally people would overclock because Intel would be bidding chips and then locking them.
+
+347
+00:29:08,581 --> 00:29:13,452
+Speaker 1: But you might get lucky and have a chip that says it's 400 megahertz, but could really go 600 megahertz.
+
+348
+00:29:13,913 --> 00:29:16,920
+Speaker 1: But that's not the situation with modern overclocking.
+
+349
+00:29:17,180 --> 00:29:18,843
+Speaker 1: It's a much more nuanced thing.
+
+350
+00:29:18,863 --> 00:29:24,415
+Speaker 1: And I don't feel like the average consumer understands anything about those voltages enough to do anything with them.
+
+351
+00:29:24,675 --> 00:29:26,820
+Speaker 1: And they're kind of just playing around trial and error.
+
+352
+00:29:27,441 --> 00:29:41,820
+Speaker 0: Well, I think that also is that the vast majority of people who are buying these sort of ridiculous high end, but still consumer available hardware are people who are just playing with their computer and not actually using their computer.
+
+353
+00:29:42,180 --> 00:29:42,300
+Speaker 0: Right.
+
+354
+00:29:42,621 --> 00:29:50,120
+Speaker 0: It's like those people who are like, you know, have a knife collection and sharpen all their knives and it, you know, that has value, I guess, but they don't cook anything.
+
+355
+00:29:50,681 --> 00:29:50,881
+Speaker 0: Right.
+
+356
+00:29:51,222 --> 00:29:58,216
+Speaker 0: And it's like these people, it's like their hobby is fuck around with computer and not actually use computer to do anything.
+
+357
+00:29:58,416 --> 00:29:58,597
+Speaker 0: Right.
+
+358
+00:29:58,697 --> 00:30:00,380
+Speaker 0: Other than maybe play a video game.
+
+359
+00:30:00,440 --> 00:30:06,639
+Speaker 0: But maybe when they play a video game, most of the time they're just looking at the frame rate and not actually playing the video game, even with ridiculous.
+
+360
+00:30:07,420 --> 00:30:10,005
+Speaker 0: So the fact that there are settings to change.
+
+361
+00:30:10,386 --> 00:30:10,566
+Speaker 0: Right.
+
+362
+00:30:10,606 --> 00:30:14,254
+Speaker 0: The fact that there are settings to change like that is the thing.
+
+363
+00:30:14,314 --> 00:30:15,276
+Speaker 0: It's like they just want they.
+
+364
+00:30:15,596 --> 00:30:17,500
+Speaker 0: they enjoy the changing of settings.
+
+365
+00:30:17,600 --> 00:30:29,500
+Speaker 0: If you did, if you made an automatic thing that just did it better than they could and there was no settings to change, then you wouldn't sell to those people because they'd be like, you know, that would take there'd be no nothing for them to enjoy.
+
+366
+00:30:29,760 --> 00:30:33,852
+Speaker 0: They just like, oh, I bought the best computer and it's automatically as fast as it can possibly be.
+
+367
+00:30:33,872 --> 00:30:34,775
+Speaker 0: And I can't do any better.
+
+368
+00:30:35,056 --> 00:30:36,440
+Speaker 0: And there's no settings necessary.
+
+369
+00:30:37,481 --> 00:30:42,958
+Speaker 0: And then they sit there and they benchmark it and they say, OK, and then what do they do?
+
+370
+00:30:43,821 --> 00:30:46,766
+Speaker 0: It's like they had to use the computer to do something, but they don't do that.
+
+371
+00:30:47,026 --> 00:30:48,829
+Speaker 0: That's why benchmarking is their hobby.
+
+372
+00:30:48,869 --> 00:30:51,394
+Speaker 1: I've never run a benchmark on this workstation because I don't care.
+
+373
+00:30:51,434 --> 00:30:54,900
+Speaker 1: You know, my benchmark was I edited a premiere thing and I exported it.
+
+374
+00:30:55,000 --> 00:30:55,963
+Speaker 1: And was it fast enough?
+
+375
+00:30:55,983 --> 00:30:57,668
+Speaker 1: And the answer was, oh, my God, it was fast enough.
+
+376
+00:30:58,390 --> 00:30:58,591
+Speaker 0: Yeah.
+
+377
+00:30:58,811 --> 00:31:01,600
+Speaker 1: Basically, it was so fast, though.
+
+378
+00:31:03,300 --> 00:31:08,808
+Speaker 1: So Adobe got into some trouble and we're not talking about their their contract change.
+
+379
+00:31:08,889 --> 00:31:15,058
+Speaker 1: that weirdly happened in February and the nerds only got mad about it recently for some reason, because they put the information in a place.
+
+380
+00:31:15,098 --> 00:31:16,460
+Speaker 0: people could see it more recently.
+
+381
+00:31:17,300 --> 00:31:19,268
+Speaker 1: But also people really misinterpreted that.
+
+382
+00:31:19,288 --> 00:31:22,040
+Speaker 1: But now this is a different one about cancellation fees.
+
+383
+00:31:25,220 --> 00:31:25,501
+Speaker 0: Yeah.
+
+384
+00:31:25,541 --> 00:31:30,430
+Speaker 0: So if you don't know, you sign up for the Adobe Creative Cloud, whatever any of their plans.
+
+385
+00:31:30,630 --> 00:31:30,751
+Speaker 0: Right.
+
+386
+00:31:30,771 --> 00:31:35,479
+Speaker 0: You can go monthly and pay every month or you can go with an annual one where you save some money.
+
+387
+00:31:35,499 --> 00:31:35,900
+Speaker 0: Right.
+
+388
+00:31:35,920 --> 00:31:42,518
+Speaker 1: You pay a bunch of money, I guess, you know, once I buy a new one because I use the hell like I'm not going to cancel this until I die.
+
+389
+00:31:42,538 --> 00:31:42,638
+Speaker 1: Right.
+
+390
+00:31:43,380 --> 00:31:47,228
+Speaker 0: But you could also like commit to the annual one and not pay all at once.
+
+391
+00:31:47,469 --> 00:31:49,934
+Speaker 0: But you're committed for the year and you pay monthly.
+
+392
+00:31:50,275 --> 00:31:50,996
+Speaker 0: But you're you're.
+
+393
+00:31:51,197 --> 00:31:52,339
+Speaker 0: you're locked in for the year.
+
+394
+00:31:52,359 --> 00:31:52,780
+Speaker 0: Right.
+
+395
+00:31:53,721 --> 00:31:56,605
+Speaker 0: Sort of like the old annual contracts for phones used to have.
+
+396
+00:31:56,645 --> 00:31:57,046
+Speaker 0: Yeah.
+
+397
+00:31:57,066 --> 00:31:58,128
+Speaker 0: I guess sometimes still do.
+
+398
+00:31:58,208 --> 00:31:58,548
+Speaker 0: I don't know.
+
+399
+00:31:59,129 --> 00:32:05,559
+Speaker 0: But if you tried to get out in the middle of the year, there would be, you know, it's a hassle.
+
+400
+00:32:06,141 --> 00:32:08,667
+Speaker 0: And there were cancellation fees for doing this.
+
+401
+00:32:09,990 --> 00:32:11,353
+Speaker 0: And that's kind of bullshit.
+
+402
+00:32:12,115 --> 00:32:14,260
+Speaker 0: There's no question about that.
+
+403
+00:32:14,500 --> 00:32:16,244
+Speaker 0: But again, you did.
+
+404
+00:32:16,584 --> 00:32:18,448
+Speaker 0: On the one hand, you committed for the year.
+
+405
+00:32:18,488 --> 00:32:19,510
+Speaker 0: You knew that in advance.
+
+406
+00:32:19,570 --> 00:32:22,255
+Speaker 0: But on the other hand, like what's the fee for?
+
+407
+00:32:22,315 --> 00:32:24,660
+Speaker 0: it doesn't cost you anything to cancel someone's account.
+
+408
+00:32:24,840 --> 00:32:34,040
+Speaker 1: Well, so there is an argument here and I'm not defending Adobe necessarily, but there is an argument here is the same reason why ticket checking on Metro North trains works the way it does.
+
+409
+00:32:34,961 --> 00:32:42,160
+Speaker 1: It's not if you don't have a ticket, they charge you way more to buy a ticket from the conductor than you could have gotten at a machine.
+
+410
+00:32:42,720 --> 00:32:51,860
+Speaker 1: The reason they do that is because if it costs the same on the train as at the machine or online, there's no reason to ever buy a ticket until you're on the train.
+
+411
+00:32:52,260 --> 00:32:52,461
+Speaker 1: Right.
+
+412
+00:32:52,561 --> 00:32:57,460
+Speaker 0: And then the conductor would have to walk then the conductor would have to walk down buying tickets, selling tickets to everybody.
+
+413
+00:32:57,500 --> 00:32:58,921
+Speaker 1: And if they miss you, hey, free.
+
+414
+00:32:59,022 --> 00:32:59,482
+Speaker 1: Good job.
+
+415
+00:32:59,882 --> 00:33:17,560
+Speaker 1: So Adobe here basically with this kind of thing, if my options are pay N dollars a month for as long as I want or pay N minus X dollars a month, but I'm committed for 12 months, you're getting a benefit from having committed longer in a lower price.
+
+416
+00:33:17,921 --> 00:33:25,900
+Speaker 0: So I think the thing is most other services these days that do the annual plan, they take the whole year's worth of money immediately.
+
+417
+00:33:26,880 --> 00:33:27,341
+Speaker 0: Right.
+
+418
+00:33:27,382 --> 00:33:31,052
+Speaker 0: And so in that case, it's like you've got it for the year if you cancel.
+
+419
+00:33:31,474 --> 00:33:31,694
+Speaker 0: Yeah.
+
+420
+00:33:31,895 --> 00:33:32,136
+Speaker 0: Okay.
+
+421
+00:33:32,216 --> 00:33:33,580
+Speaker 0: You have it until the end of the year.
+
+422
+00:33:33,760 --> 00:33:38,650
+Speaker 0: We're not taking you won't renew, but you just have the service for the rest of the year.
+
+423
+00:33:38,670 --> 00:33:39,532
+Speaker 0: There's no refund.
+
+424
+00:33:39,993 --> 00:33:40,213
+Speaker 0: Right.
+
+425
+00:33:40,674 --> 00:33:43,280
+Speaker 0: And so that's the sort of mistake here.
+
+426
+00:33:43,701 --> 00:33:43,901
+Speaker 0: Right.
+
+427
+00:33:44,102 --> 00:33:50,776
+Speaker 1: The only reason that there seems to be action happening is because Adobe preselected annual paid monthly as the plan.
+
+428
+00:33:50,876 --> 00:33:52,460
+Speaker 1: when you click through, if you're clicking quickly.
+
+429
+00:33:53,201 --> 00:33:53,421
+Speaker 0: Yes.
+
+430
+00:33:53,461 --> 00:33:54,483
+Speaker 0: That's also the case.
+
+431
+00:33:54,543 --> 00:33:54,763
+Speaker 0: Right.
+
+432
+00:33:54,783 --> 00:33:59,271
+Speaker 0: It's like it's, you know, to not the annual is sort of the default.
+
+433
+00:33:59,311 --> 00:33:59,511
+Speaker 0: Right.
+
+434
+00:33:59,552 --> 00:34:04,340
+Speaker 0: And people might not realize because when you go to the website, everything is advertised as dollars per month.
+
+435
+00:34:04,921 --> 00:34:05,443
+Speaker 0: No matter what.
+
+436
+00:34:05,523 --> 00:34:05,844
+Speaker 0: Yeah.
+
+437
+00:34:05,864 --> 00:34:11,739
+Speaker 0: If you look through any of their plans on their website and any of the categories, it's always advertised as dollars per month.
+
+438
+00:34:12,281 --> 00:34:22,853
+Speaker 0: And it's not entirely obvious that you're going in for an annual one, because like I said, most other people who do annual ones would say, you know, oh, you know, $10 a month or $100 annually, a $20 savings.
+
+439
+00:34:27,139 --> 00:34:27,340
+Speaker 0: Yep.
+
+440
+00:34:27,420 --> 00:34:42,520
+Speaker 1: And that is why I'm not defending Adobe, because while the practice of charging someone money for a cancellation of something they committed to annually, I'm ideologically OK with Adobe was being sneaky and people were getting an annual plan, they didn't realize was an annual plan.
+
+441
+00:34:43,201 --> 00:34:49,659
+Speaker 0: OK, so there is actually if you click through, I haven't been to this website in a long time because it just auto renews and I looked at it.
+
+442
+00:34:50,900 --> 00:34:58,800
+Speaker 0: So, yeah, once you once you do click on a plan which are all advertised as dollars per month, once you select one, you do have three options.
+
+443
+00:34:58,900 --> 00:35:01,084
+Speaker 0: There's monthly cancel anytime, no fee.
+
+444
+00:35:01,245 --> 00:35:01,425
+Speaker 0: Yeah.
+
+445
+00:35:01,746 --> 00:35:03,769
+Speaker 0: Then there's annual paid monthly.
+
+446
+00:35:04,230 --> 00:35:06,014
+Speaker 0: And it says and it's much cheaper.
+
+447
+00:35:06,234 --> 00:35:09,340
+Speaker 0: Like, for example, Creative Cloud, all apps for a normal person.
+
+448
+00:35:10,141 --> 00:35:13,306
+Speaker 0: Ninety dollars a month cancel anytime, no fee.
+
+449
+00:35:14,148 --> 00:35:17,994
+Speaker 0: Sixty dollars a month, which is a tremendous savings of thirty dollars a month.
+
+450
+00:35:18,134 --> 00:35:21,920
+Speaker 0: But fee applies if you cancel after fourteen days.
+
+451
+00:35:22,020 --> 00:35:22,962
+Speaker 0: It says that right there.
+
+452
+00:35:23,342 --> 00:35:31,016
+Speaker 0: And then there is annual prepaid of six sixty per year, which is is that let me do some math.
+
+453
+00:35:31,777 --> 00:35:33,280
+Speaker 0: Sixty times twelve.
+
+454
+00:35:33,942 --> 00:35:35,385
+Speaker 0: That is actually a sixty.
+
+455
+00:35:35,446 --> 00:35:36,970
+Speaker 0: That's basically by eleven months.
+
+456
+00:35:37,010 --> 00:35:40,820
+Speaker 0: Get one month free if you pay the full amount of money at the start of the year.
+
+457
+00:35:41,420 --> 00:35:44,245
+Speaker 0: But no refund if you cancel after 14.
+
+458
+00:35:44,245 --> 00:35:52,320
+Speaker 1: I don't know what the screen looked like before, but looking at the screen right now, this could have changed because of these government actions.
+
+459
+00:35:52,520 --> 00:35:52,741
+Speaker 0: Right.
+
+460
+00:35:52,781 --> 00:35:53,102
+Speaker 0: Who knows?
+
+461
+00:35:53,122 --> 00:35:56,353
+Speaker 1: It did, though, default to annual paid monthly as highlighted.
+
+462
+00:35:56,473 --> 00:35:58,520
+Speaker 0: annual paid monthly is the default option.
+
+463
+00:35:58,560 --> 00:35:58,820
+Speaker 0: Yes.
+
+464
+00:35:58,881 --> 00:36:00,603
+Speaker 1: Which is one of the specific complaints.
+
+465
+00:36:01,284 --> 00:36:11,500
+Speaker 0: If you don't read closely and look, there is text right under it, but it's a italic, thin, you know, gray text, whereas the dollars per month is a big, bold text.
+
+466
+00:36:12,160 --> 00:36:19,480
+Speaker 1: So but it's so much cheaper that you have to be pretty dense to think, oh, I can I can click the cheaper one and still get it.
+
+467
+00:36:20,101 --> 00:36:21,866
+Speaker 1: It's like the kind of person who would book the.
+
+468
+00:36:21,886 --> 00:36:23,109
+Speaker 1: you know, there's also.
+
+469
+00:36:23,510 --> 00:36:26,900
+Speaker 0: it's also rather absurd that you're like ninety dollars a month.
+
+470
+00:36:27,562 --> 00:36:27,783
+Speaker 0: Right.
+
+471
+00:36:27,843 --> 00:36:32,257
+Speaker 0: But if you commit to a whole year, we'll let you have the same exact thing for sixty dollars a month.
+
+472
+00:36:32,297 --> 00:36:33,320
+Speaker 0: That's a huge difference.
+
+473
+00:36:33,541 --> 00:36:36,129
+Speaker 0: And it doesn't cost them any more or less.
+
+474
+00:36:36,571 --> 00:36:36,852
+Speaker 0: Right.
+
+475
+00:36:36,972 --> 00:36:38,999
+Speaker 0: It's like they're just trying to lock you in.
+
+476
+00:36:40,442 --> 00:36:40,884
+Speaker 1: They are.
+
+477
+00:36:40,984 --> 00:36:46,340
+Speaker 1: But it's partly because I see this in a lot of more professional software and even non software like anything.
+
+478
+00:36:46,880 --> 00:36:52,240
+Speaker 1: Generally, companies are will bend over backward to give discounts if someone will commit to a longer term.
+
+479
+00:36:52,300 --> 00:37:00,620
+Speaker 1: I had a vendor try to convince me at my actual job that a five year contract, they would give us like an insane discount if we committed for five years.
+
+480
+00:37:02,502 --> 00:37:05,512
+Speaker 1: It helps with the accounting in the books and it makes companies look more attractive.
+
+481
+00:37:05,532 --> 00:37:07,077
+Speaker 1: It is.
+
+482
+00:37:07,097 --> 00:37:07,840
+Speaker 1: it is absurd.
+
+483
+00:37:07,960 --> 00:37:10,929
+Speaker 1: Don't think I'm defending it, but it's a really, really, really common practice.
+
+484
+00:37:10,949 --> 00:37:14,220
+Speaker 0: Anyway, the government thinks it's absurd and they're they're coming after it.
+
+485
+00:37:14,320 --> 00:37:14,520
+Speaker 1: Yep.
+
+486
+00:37:15,022 --> 00:37:23,880
+Speaker 1: But again, I think if you were tricked by this, you're the kind of person who sees economy when you're booking a cheap flight.
+
+487
+00:37:24,280 --> 00:37:25,866
+Speaker 1: And then you see that thing to the left.
+
+488
+00:37:25,947 --> 00:37:29,580
+Speaker 1: that is a worse economy that has a million warnings and restrictions.
+
+489
+00:37:30,121 --> 00:37:31,327
+Speaker 1: And it's ten dollars cheaper.
+
+490
+00:37:31,427 --> 00:37:32,733
+Speaker 1: And you click on that on purpose.
+
+491
+00:37:33,375 --> 00:37:34,420
+Speaker 1: Like, it's cheaper for a reason.
+
+492
+00:37:34,460 --> 00:37:38,219
+Speaker 0: I'm going to try to figure out how I can pay the whole year and save sixty bucks a year.
+
+493
+00:37:38,460 --> 00:37:40,049
+Speaker 1: Yeah, I'm pretty sure I'm paying annual monthly.
+
+494
+00:37:40,090 --> 00:37:41,739
+Speaker 1: I set this up so long ago.
+
+495
+00:37:42,222 --> 00:37:45,340
+Speaker 0: Yeah, I don't think that pay the whole year at once option was there.
+
+496
+00:37:45,540 --> 00:37:47,739
+Speaker 1: I definitely wasn't, because if it was, I would have done it.
+
+497
+00:37:48,400 --> 00:37:50,760
+Speaker 0: Yeah, it's the cheapest option is to pay the whole year at once.
+
+498
+00:37:51,080 --> 00:37:53,760
+Speaker 1: Like I said, Creative Cloud is going to get canceled when I die, probably.
+
+499
+00:37:54,520 --> 00:37:54,825
+Speaker 0: Maybe.
+
+500
+00:37:54,926 --> 00:37:55,799
+Speaker 0: Who knows what will happen.
+
+501
+00:37:58,161 --> 00:37:58,624
+Speaker 1: All right.
+
+502
+00:37:58,704 --> 00:38:01,580
+Speaker 1: Continuing right along in a tech news round.
+
+503
+00:38:02,980 --> 00:38:07,080
+Speaker 1: So good news for the world ish, but bad news for America.
+
+504
+00:38:07,160 --> 00:38:12,680
+Speaker 1: Honda is developed and are now selling in Japan a tiny little car.
+
+505
+00:38:13,000 --> 00:38:14,447
+Speaker 1: And on one hand, fuck cars.
+
+506
+00:38:14,688 --> 00:38:17,340
+Speaker 1: Like, cars are a existential problem for humanity.
+
+507
+00:38:17,720 --> 00:38:18,883
+Speaker 1: Like, cannot stress that enough.
+
+508
+00:38:19,304 --> 00:38:26,800
+Speaker 1: But at the same time, the world is such that a transition from car to non-car is non-trivial.
+
+509
+00:38:27,460 --> 00:38:35,320
+Speaker 0: And we need to figure out- Listen, even if we ban car, right, it's like there is still always going to be a use for a four-wheeled vehicle of some kind.
+
+510
+00:38:35,380 --> 00:38:39,460
+Speaker 0: Yeah, but- And you should be riding for various tasks.
+
+511
+00:38:39,900 --> 00:38:52,620
+Speaker 1: But we should be doing things like banning large vehicles unless you have specific registered- Using vehicles only when truly necessary for moving people around without cargo.
+
+512
+00:38:52,940 --> 00:38:56,860
+Speaker 0: You should be using some sort of public transit, bus, train, et cetera.
+
+513
+00:38:56,960 --> 00:39:02,260
+Speaker 0: Or in the very least- And you should be using an appropriate vehicle and not driving your children to school in a tank.
+
+514
+00:39:02,721 --> 00:39:07,694
+Speaker 1: I would even take just smaller cars are required and bigger cars are banned.
+
+515
+00:39:07,735 --> 00:39:09,680
+Speaker 1: Like, that would be a major step forward.
+
+516
+00:39:10,080 --> 00:39:11,820
+Speaker 1: Like, I'm grasping the straws to make the world better.
+
+517
+00:39:11,840 --> 00:39:15,920
+Speaker 0: But also, purely electrifying cars and changing nothing else doesn't really help that much.
+
+518
+00:39:16,761 --> 00:39:19,659
+Speaker 0: We had to get, you know, a tinier car helps a lot more.
+
+519
+00:39:19,881 --> 00:39:20,164
+Speaker 0: Yep.
+
+520
+00:39:20,792 --> 00:39:22,999
+Speaker 0: So- Even if it's a fossil fuel car.
+
+521
+00:39:23,280 --> 00:39:29,840
+Speaker 1: This is an example of the kind of car we kind of have to force everyone to use in America if we want to actually make progress.
+
+522
+00:39:30,181 --> 00:39:40,100
+Speaker 1: The N-van is a pretty small van that has lots of seating and a really open format, so you could cram tons of shit in it if you needed to.
+
+523
+00:39:40,560 --> 00:39:45,120
+Speaker 0: Yeah, there are many vehicles out there like this, but this is just, you know, a newer one.
+
+524
+00:39:45,260 --> 00:39:46,264
+Speaker 1: This is the newest best one.
+
+525
+00:39:46,344 --> 00:39:50,800
+Speaker 1: It's like, it's full electric, it's got like a 185 mile range, it charges in a few hours.
+
+526
+00:39:51,201 --> 00:39:59,380
+Speaker 1: It's basically perfect for most people for most days in all of North America that they would ever use a car for anything.
+
+527
+00:40:00,461 --> 00:40:08,180
+Speaker 1: Like, you're not going to drive 300, 400 miles on a road trip with this, but that's a different problem and not every solution has to solve every problem to be viable.
+
+528
+00:40:08,800 --> 00:40:13,100
+Speaker 1: Hard mode, pretty sure this will not be street legal in the US because it's so light and small.
+
+529
+00:40:13,320 --> 00:40:14,418
+Speaker 0: Probably won't be sold in the US.
+
+530
+00:40:14,940 --> 00:40:15,100
+Speaker 1: Yep.
+
+531
+00:40:15,742 --> 00:40:23,040
+Speaker 1: Even if it were street legal in the US, they wouldn't sell it here because car companies have a vested interest in milking the giant car market.
+
+532
+00:40:23,180 --> 00:40:28,300
+Speaker 0: They'd probably block it with all kinds of tariffs and whatnot, so it wouldn't be cost effective to buy it in the US.
+
+533
+00:40:28,380 --> 00:40:28,601
+Speaker 0: Yep.
+
+534
+00:40:28,661 --> 00:40:38,460
+Speaker 1: In fact, even worse, didn't Australia just pass something that is going to basically give gas mileage exemptions to light trucks?
+
+535
+00:40:38,520 --> 00:40:42,720
+Speaker 1: Very similarly to what happened in the US right before SUVs took over our entire market.
+
+536
+00:40:43,520 --> 00:40:54,679
+Speaker 1: And car sellers in Australia seem to have been the primary people advocating for this because they want to force public opinion toward big cars and corner the market and ruin the roads there just like they ruined them here.
+
+537
+00:40:56,603 --> 00:40:58,260
+Speaker 1: This car is really cool.
+
+538
+00:40:59,121 --> 00:41:02,031
+Speaker 0: I don't know why they think they make more money selling a bigger car.
+
+539
+00:41:02,111 --> 00:41:04,660
+Speaker 0: It's like, as long as you sell a car, what does it matter?
+
+540
+00:41:05,300 --> 00:41:06,382
+Speaker 1: I don't know.
+
+541
+00:41:06,402 --> 00:41:15,980
+Speaker 1: I wonder if it's partly that the kind of person who's dumb enough to fall for that also buys into car culture fully, like car as identity.
+
+542
+00:41:16,281 --> 00:41:19,239
+Speaker 1: They see car ads and go, "Ooh," and they upgrade cars more often.
+
+543
+00:41:21,260 --> 00:41:25,108
+Speaker 0: Anyone who's spent, even if you're not a person who cares about cars, it's part of the car.
+
+544
+00:41:25,148 --> 00:41:31,060
+Speaker 0: problem is that you end up, if you live in a car place and you have a car, you spend so much of your life in the car.
+
+545
+00:41:31,240 --> 00:41:40,720
+Speaker 0: The car is so central to just everything in life that it's part of your identity and it's super important to you, even if it wouldn't be if you didn't live in such a place.
+
+546
+00:41:43,122 --> 00:41:50,340
+Speaker 1: In some other news, there have been a huge string of high-profile phishing attacks recently.
+
+547
+00:41:51,600 --> 00:41:57,729
+Speaker 1: Not even the Snowflake Octa, but just random hospitals and random schools and companies getting hit with malware via phishing.
+
+548
+00:42:05,861 --> 00:42:16,460
+Speaker 1: And these attacks are almost always super trivial and always just revolve around tricking someone into clicking on a bunch of wrong things and logging into a fake website and then you're screwed.
+
+549
+00:42:17,020 --> 00:42:32,560
+Speaker 1: But this one hit LA County's public health agency and at least 200,000 residents, full story, like medical records, social security numbers, everything, insurance information, all got leaked.
+
+550
+00:42:33,141 --> 00:42:43,900
+Speaker 1: And what I've noticed, just over the last couple of years, major media doesn't react to these really anymore and people like stock doesn't get hit by these anymore.
+
+551
+00:42:45,161 --> 00:42:57,780
+Speaker 1: It happens so often, kind of like mass shootings, that normal people kind of just assume there's nothing they can do and they're not wrong and companies just pay them that ransom because there's nothing they can do and no one cares anymore.
+
+552
+00:42:58,681 --> 00:43:09,140
+Speaker 1: And I feel like this is going to set the stage for, within a few years, a much bigger and way more damaging wave of phishing attacks because people just don't give a shit anymore.
+
+553
+00:43:09,780 --> 00:43:16,613
+Speaker 0: Well, I think the reason people don't give a shit so much is that you don't see, it's like your data is leaked on the internet, right?
+
+554
+00:43:16,633 --> 00:43:18,536
+Speaker 0: Like the Ticketmaster one happened recently.
+
+555
+00:43:18,777 --> 00:43:20,380
+Speaker 0: My data was probably in there, right?
+
+556
+00:43:20,440 --> 00:43:21,923
+Speaker 0: Because I have a Ticketmaster account.
+
+557
+00:43:22,023 --> 00:43:29,857
+Speaker 0: And so it's like, it's not really a change because like if someone wanted to know my name, phone number, address, whatever, it's like, it's findable.
+
+558
+00:43:30,838 --> 00:43:31,740
+Speaker 0: It just takes some effort.
+
+559
+00:43:32,320 --> 00:43:34,807
+Speaker 0: I'm not, you know, no one is that well hidden.
+
+560
+00:43:34,987 --> 00:43:39,660
+Speaker 0: There used to be white pages back in the day where you just look people up in a book that they handed out to everyone.
+
+561
+00:43:39,820 --> 00:43:44,019
+Speaker 1: I mean, remember when I was in college and my car got repoed, but it took them almost a year to even find me?
+
+562
+00:43:45,283 --> 00:43:46,280
+Speaker 0: Yeah, but they did eventually.
+
+563
+00:43:46,280 --> 00:43:47,379
+Speaker 0: They did eventually find me.
+
+564
+00:43:48,100 --> 00:43:48,320
+Speaker 0: Yeah.
+
+565
+00:43:48,761 --> 00:43:55,894
+Speaker 0: It's like, you know, so it's a matter of, you know, if the date when the data gets leaked, is there any immediate consequence?
+
+566
+00:43:55,914 --> 00:43:59,200
+Speaker 0: It's like, no, your life the next day is the same as it was the day before.
+
+567
+00:43:59,982 --> 00:44:02,000
+Speaker 0: So you don't really notice any harm.
+
+568
+00:44:02,240 --> 00:44:05,712
+Speaker 1: And then six months later, a credit card was opened in your name that you don't know about it.
+
+569
+00:44:05,772 --> 00:44:08,240
+Speaker 1: And then a year later you try to buy a house and your credit.
+
+570
+00:44:08,761 --> 00:44:16,940
+Speaker 0: But we have protections against, you know, it's like if someone tries to identity thief me, it's like I can do something about it as long as I'm paying attention and I notice it.
+
+571
+00:44:19,741 --> 00:44:23,190
+Speaker 1: But also like the consequences to people, like you forget those protections.
+
+572
+00:44:23,612 --> 00:44:26,800
+Speaker 1: They're so disentangled from the breaches because the breaches are so common.
+
+573
+00:44:27,221 --> 00:44:31,620
+Speaker 1: And it's usually third parties where you might not even know you were breached unless you're paying attention in the first place.
+
+574
+00:44:32,540 --> 00:44:43,740
+Speaker 1: And I feel like data breach, like the idea that any information you've ever given a company or a hospital or a school is private, people kind of just gave up on it because the reality is none of that stuff is safe.
+
+575
+00:44:44,481 --> 00:44:44,621
+Speaker 0: Yep.
+
+576
+00:44:45,101 --> 00:44:45,462
+Speaker 0: It's good.
+
+577
+00:44:45,522 --> 00:44:50,466
+Speaker 0: I think what it'll be is that one day, you know, perhaps, you know, I'm sure it's already happened.
+
+578
+00:44:50,486 --> 00:45:04,680
+Speaker 0: Someone can find a case, but there will be more widespread and higher profile cases of someone using data from these kinds of breaches to actually cause real harms to people whose data was breached.
+
+579
+00:45:04,760 --> 00:45:05,041
+Speaker 0: Yep.
+
+580
+00:45:05,622 --> 00:45:13,340
+Speaker 1: I'm thinking mostly in terms of blackmail, extortion, elaborate scams, like super elaborate focus.
+
+581
+00:45:13,500 --> 00:45:20,773
+Speaker 0: The black males and the extortions are actually less likely to be known about because they're black males and extortions.
+
+582
+00:45:20,833 --> 00:45:24,820
+Speaker 0: The whole point is that, you know, people don't come out and say that.
+
+583
+00:45:25,465 --> 00:45:26,039
+Speaker 1: That is true.
+
+584
+00:45:27,243 --> 00:45:29,039
+Speaker 0: But the other ones, right, you know.
+
+585
+00:45:33,041 --> 00:45:33,242
+Speaker 1: Yeah.
+
+586
+00:45:33,362 --> 00:45:41,632
+Speaker 1: Well, it's tough too, because people don't like, even if you're a person who cares a lot and you find out like, oh, Ticketmaster leaked my data.
+
+587
+00:45:41,893 --> 00:45:45,838
+Speaker 1: Well, in the market, in the free market, I won't bring them my business anymore.
+
+588
+00:45:45,878 --> 00:45:46,438
+Speaker 1: Well, good luck.
+
+589
+00:45:46,458 --> 00:45:47,720
+Speaker 1: Now you can't buy tickets to anything.
+
+590
+00:45:48,120 --> 00:45:50,083
+Speaker 1: Like, what are you gonna do?
+
+591
+00:45:50,103 --> 00:45:50,784
+Speaker 1: Gonna not fly?
+
+592
+00:45:50,824 --> 00:45:52,686
+Speaker 1: Gonna not go to your shitty local hospital?
+
+593
+00:45:53,007 --> 00:45:56,311
+Speaker 1: Like, it's not like people have options to not use these businesses.
+
+594
+00:45:56,371 --> 00:46:02,960
+Speaker 1: And I think that's trained the stock market to ignore data breaches because they don't actually matter to the bottom line directly.
+
+595
+00:46:03,802 --> 00:46:04,680
+Speaker 1: And I think that's unfortunate.
+
+596
+00:46:05,367 --> 00:46:05,940
+Speaker 1: Yeah, it's gonna.
+
+597
+00:46:08,942 --> 00:46:09,369
+Speaker 1: Let's see.
+
+598
+00:46:09,430 --> 00:46:09,998
+Speaker 1: Some other news.
+
+599
+00:46:10,960 --> 00:46:20,909
+Speaker 1: Wine version 9.1.1 is coming with 428 patches and they fixed a bug.
+
+600
+00:46:21,309 --> 00:46:24,672
+Speaker 1: I'm not sure if this is one of the ones I opened.
+
+601
+00:46:24,732 --> 00:46:25,333
+Speaker 1: I didn't look.
+
+602
+00:46:25,893 --> 00:46:33,380
+Speaker 1: But it's similar to the kinds of bugs I was opening around that time because I was using wine heavily at my job at IBM.
+
+603
+00:46:34,201 --> 00:46:35,143
+Speaker 1: And then Emerging Health.
+
+604
+00:46:35,223 --> 00:46:36,465
+Speaker 1: Like, I was the wine guy.
+
+605
+00:46:37,987 --> 00:46:45,280
+Speaker 1: One of my specialties was getting weird old busted shit to run in Linux so people could get rid of like old Citrix things.
+
+606
+00:46:46,502 --> 00:46:55,100
+Speaker 1: And this bug that they fixed was opened in April of 2007 and it was just randomly fixed by someone in the wine project.
+
+607
+00:46:55,781 --> 00:47:19,400
+Speaker 1: And it is such a narrow bug that seems to only affect one specific Windows application called S-Hoy that is used only in Germany by architects to manage estimates and billing and make sure that those estimates and billing follow German law.
+
+608
+00:47:21,021 --> 00:47:37,180
+Speaker 1: I guess no one ever made another application that does this and someone's relying on this ancient Windows, I assume like 95 or 97 app that wouldn't work in modern computers and wouldn't run on Linux and didn't work in wine and this very narrow bug was fixed.
+
+609
+00:47:38,100 --> 00:47:44,580
+Speaker 1: This is why we don't do a lot of tech news and we talk about things that are related to tech because that is actual technology news right there.
+
+610
+00:47:46,144 --> 00:47:46,597
+Speaker 0: How exciting.
+
+611
+00:47:46,801 --> 00:47:47,138
+Speaker 0: Bug was fixed.
+
+612
+00:47:47,660 --> 00:47:47,946
+Speaker 0: Bug was fixed.
+
+613
+00:47:48,780 --> 00:47:49,863
+Speaker 1: New Linux kernel is coming.
+
+614
+00:47:50,103 --> 00:47:51,666
+Speaker 1: Let's read through the changelog together.
+
+615
+00:47:51,687 --> 00:47:54,392
+Speaker 1: Let's see.
+
+616
+00:47:54,432 --> 00:47:55,755
+Speaker 1: We go do a few more.
+
+617
+00:47:55,775 --> 00:47:59,300
+Speaker 1: You want to talk to Pentax 17?
+
+618
+00:47:59,300 --> 00:48:11,176
+Speaker 0: Yeah, so Pentax has always sort of been, at least since the digital era, this sort of weird company where their cameras are basically just not as good as the other company's cameras.
+
+619
+00:48:15,661 --> 00:48:18,326
+Speaker 0: And it's like, they're just sort of weird and different.
+
+620
+00:48:18,386 --> 00:48:26,240
+Speaker 0: Even their film cameras, which were as good, you know, they didn't have quality, you know, in terms of the photos they captured were sort of weird and different.
+
+621
+00:48:26,380 --> 00:48:30,386
+Speaker 0: So it's sort of like, how's weird Pentax people over there, right?
+
+622
+00:48:30,886 --> 00:48:32,348
+Speaker 0: Sort of like, I don't know.
+
+623
+00:48:32,368 --> 00:48:41,100
+Speaker 0: I can't think of a comparison right now, but you know, those people who got to do things the weird and different way just to be weird.
+
+624
+00:48:41,200 --> 00:48:41,602
+Speaker 0: You know what?
+
+625
+00:48:41,682 --> 00:48:45,780
+Speaker 1: The people who tried to keep using warp on consumer PCs.
+
+626
+00:48:46,661 --> 00:48:47,740
+Speaker 0: Yeah, like OS/2 warp.
+
+627
+00:48:47,900 --> 00:48:48,748
+Speaker 1: The Amiga people.
+
+628
+00:48:49,010 --> 00:48:50,139
+Speaker 1: The Amiga people were like that.
+
+629
+00:48:50,740 --> 00:48:51,585
+Speaker 0: Exactly, right?
+
+630
+00:48:51,645 --> 00:48:52,832
+Speaker 0: It's not necessarily better.
+
+631
+00:48:52,852 --> 00:48:54,300
+Speaker 0: It's just over there somewhere.
+
+632
+00:48:55,383 --> 00:48:57,340
+Speaker 1: I've been guilty of that in some domains in my life.
+
+633
+00:48:57,540 --> 00:48:57,801
+Speaker 1: Yeah.
+
+634
+00:48:58,181 --> 00:49:03,729
+Speaker 0: But anyway, so there was news earlier that Pentax was going to make a film camera, right?
+
+635
+00:49:03,769 --> 00:49:11,420
+Speaker 0: And there are plenty of film cameras being made these days, but most of them are like, you know, special purpose, like toy plastic cameras, right?
+
+636
+00:49:12,040 --> 00:49:24,360
+Speaker 0: The only major one was Leica re-releasing the M6, putting that into production again, which is just almost an identical copy of a camera from back in the day, like the 90s or whatever.
+
+637
+00:49:25,041 --> 00:49:28,527
+Speaker 0: And so Pentax was like, no, we're going to make a new camera.
+
+638
+00:49:28,868 --> 00:49:32,054
+Speaker 0: that is a film camera though, even though it's the year 2024.
+
+639
+00:49:32,054 --> 00:49:35,540
+Speaker 0: And it's like, oh man, I was always saying that somebody should do that, right?
+
+640
+00:49:35,961 --> 00:49:42,220
+Speaker 0: If you use the modern technology, but you just made a camera that wasn't a digital camera, you could do something.
+
+641
+00:49:43,880 --> 00:49:44,041
+Speaker 0: Yeah.
+
+642
+00:49:44,121 --> 00:49:46,444
+Speaker 0: You could just make something really amazing, right?
+
+643
+00:49:46,785 --> 00:49:52,793
+Speaker 0: You could even like cheat, like you could throw like, you know, a sensor from like a phone camera on there, right?
+
+644
+00:49:53,014 --> 00:49:57,400
+Speaker 0: Just to help you get, you know, autofocus or, or all kinds of other, right?
+
+645
+00:49:57,861 --> 00:50:02,435
+Speaker 0: Even though that's not actually being used for film, you could use it for like the image preview.
+
+646
+00:50:02,455 --> 00:50:04,060
+Speaker 0: Um, if it's not an SLR.
+
+647
+00:50:04,241 --> 00:50:08,460
+Speaker 1: Yeah, film camera with image preview would, I got a little excited thinking about that.
+
+648
+00:50:08,460 --> 00:50:09,623
+Speaker 0: I mean, well, it's called the SLR.
+
+649
+00:50:10,225 --> 00:50:14,716
+Speaker 0: It has the best image preview ever that any camera could possibly have, right?
+
+650
+00:50:15,257 --> 00:50:16,240
+Speaker 0: Um, a mirror, right?
+
+651
+00:50:16,340 --> 00:50:18,424
+Speaker 0: But you know, you're still lots of things.
+
+652
+00:50:18,464 --> 00:50:23,873
+Speaker 0: If you combine modern technology, you could make something truly incredible that's never been seen before, right?
+
+653
+00:50:24,354 --> 00:50:27,960
+Speaker 0: Um, with features that no film camera has ever had, it would be incredible.
+
+654
+00:50:28,581 --> 00:50:31,264
+Speaker 0: They didn't do that, the bums, right?
+
+655
+00:50:31,785 --> 00:50:42,540
+Speaker 0: All they did is they made some weird janky $500 camera that looks cool to somebody, but not to me, I guess, but someone in, you know, appreciates this style, I guess.
+
+656
+00:50:43,101 --> 00:50:47,135
+Speaker 0: But it takes half frame photos, which is not that unusual.
+
+657
+00:50:47,155 --> 00:50:48,740
+Speaker 0: There are cameras that have done that in the past.
+
+658
+00:50:48,860 --> 00:50:52,260
+Speaker 1: Oh, scrolling down, they're really selling me on, yeah, half frame, check this biz out.
+
+659
+00:50:52,821 --> 00:50:52,962
+Speaker 0: Right.
+
+660
+00:50:53,002 --> 00:50:57,472
+Speaker 0: Well, half frame is good because the cost of development is high right now.
+
+661
+00:50:58,134 --> 00:51:00,580
+Speaker 0: Um, and it's only going to get higher and the cost of film is higher.
+
+662
+00:51:00,981 --> 00:51:03,466
+Speaker 0: So if you can get twice as many shots on a roll, that's good.
+
+663
+00:51:03,867 --> 00:51:10,520
+Speaker 0: And also the vertical aspect ratio really coincides with people taking photos on their phones, right?
+
+664
+00:51:11,522 --> 00:51:17,451
+Speaker 0: And the quality, even on half a frame is still going to be better than a lot of other cameras out there.
+
+665
+00:51:17,511 --> 00:51:20,055
+Speaker 0: So, but that the camera doesn't even change lenses.
+
+666
+00:51:20,456 --> 00:51:22,960
+Speaker 0: It's like you didn't make a film camera.
+
+667
+00:51:23,040 --> 00:51:26,386
+Speaker 0: That's better than it's like the door was wide open.
+
+668
+00:51:26,506 --> 00:51:29,771
+Speaker 0: Nobody's competing with you to make a modern film camera.
+
+669
+00:51:29,992 --> 00:51:34,880
+Speaker 0: You could have made a film camera that was the best film camera that anyone has ever made in history.
+
+670
+00:51:35,700 --> 00:51:38,464
+Speaker 0: And you just didn't, you'd made some weirdo thing.
+
+671
+00:51:38,484 --> 00:51:42,289
+Speaker 0: It's like, uh, yeah, big, big fail here.
+
+672
+00:51:42,309 --> 00:51:44,772
+Speaker 0: I mean, I guess, why would you pay $500 for this?
+
+673
+00:51:45,152 --> 00:51:48,356
+Speaker 0: You can go on, you can go on eBay and buy an old film camera listed for 549 euros.
+
+674
+00:51:52,281 --> 00:51:52,501
+Speaker 0: Yeah.
+
+675
+00:51:52,742 --> 00:51:56,806
+Speaker 0: You could go on eBay and buy an old film camera from the nineties for a hundred dollars.
+
+676
+00:51:57,067 --> 00:51:58,188
+Speaker 0: That's way better than this.
+
+677
+00:51:59,550 --> 00:52:01,432
+Speaker 0: So it makes no sense to me.
+
+678
+00:52:01,732 --> 00:52:08,460
+Speaker 0: Big disappointment, big fail, but not too surprising from the weirdos, I guess.
+
+679
+00:52:09,360 --> 00:52:16,000
+Speaker 1: So, uh, Apple, uh, is discontinuing something that I didn't know existed called Apple pay later.
+
+680
+00:52:16,781 --> 00:52:17,061
+Speaker 0: Yeah.
+
+681
+00:52:17,201 --> 00:52:25,928
+Speaker 0: So, you know, every, a lot of the people have this like PayPal and whatnot, where you're going to buy something expensive and you don't want to pay $3,000 right now.
+
+682
+00:52:26,589 --> 00:52:37,498
+Speaker 1: So you do pay over time with no interest, which it's weird to me because I've always seen that as usually a scam where they expect someone will forget to pay.
+
+683
+00:52:37,538 --> 00:52:40,400
+Speaker 1: And then they'll owe all those fees anyway, like laptops back in the day.
+
+684
+00:52:40,800 --> 00:52:41,001
+Speaker 0: Yeah.
+
+685
+00:52:41,101 --> 00:52:45,628
+Speaker 0: It's, you know, you're basically, you literally are getting a loan and then paying off the loan.
+
+686
+00:52:45,688 --> 00:52:47,291
+Speaker 0: It's just a zero interest loan.
+
+687
+00:52:47,431 --> 00:52:49,995
+Speaker 0: As long as you make every payment on time perfectly.
+
+688
+00:52:50,055 --> 00:52:53,260
+Speaker 0: But if you slip up, then there's going to be interest and problems.
+
+689
+00:52:53,560 --> 00:52:54,241
+Speaker 1: I feel like traps.
+
+690
+00:52:54,281 --> 00:53:03,040
+Speaker 1: That's why I usually did it because I was specifically making sure I would game the system and have more money available in my life and not fuck it up.
+
+691
+00:53:03,680 --> 00:53:09,925
+Speaker 0: Well, when I bought the iPhone seven, you know that I had bought an iPhone every two years from iPhone three to seven.
+
+692
+00:53:10,065 --> 00:53:12,947
+Speaker 0: And I said, all right, iPhone sevens out, they've got this upgrade plan.
+
+693
+00:53:13,407 --> 00:53:20,953
+Speaker 0: I'll get the iPhone upgrade plan, which basically means you're going to automatically get an upgraded iPhone and you just pay a monthly fee.
+
+694
+00:53:20,993 --> 00:53:27,997
+Speaker 0: But the way they actually implemented that was they gave you a loan to buy the iPhone and then you paid it off with no interest every month.
+
+695
+00:53:28,338 --> 00:53:31,440
+Speaker 0: And then when you went to get a new phone, you would get a new loan.
+
+696
+00:53:32,061 --> 00:53:37,290
+Speaker 0: And so once I, you know, I paid it off every, you know, well, I didn't really pay more for that.
+
+697
+00:53:37,390 --> 00:53:40,355
+Speaker 0: And also the Apple care lasted as long as you kept paying.
+
+698
+00:53:40,836 --> 00:53:43,400
+Speaker 0: So I kind of didn't really lose or save money.
+
+699
+00:53:43,880 --> 00:53:49,647
+Speaker 0: Um, but that ended up being the situation where that was when I stopped buying a new phone every two years.
+
+700
+00:53:49,667 --> 00:53:52,871
+Speaker 0: instead started keeping the phone as long as humanly possible.
+
+701
+00:53:53,211 --> 00:54:01,100
+Speaker 0: And so it no longer made sense, but it's like, yeah, it, it doesn't really hurt to do if you know, you're going to pay it all off.
+
+702
+00:54:01,480 --> 00:54:08,831
+Speaker 1: Um, but it also doesn't buy you anything unless you have some slight opportunity cost of being able to keep that money.
+
+703
+00:54:09,051 --> 00:54:15,560
+Speaker 1: only if you're going to do something with that money in lieu of having it have already paid for the thing that you bought.
+
+704
+00:54:16,420 --> 00:54:16,901
+Speaker 0: Exactly.
+
+705
+00:54:17,182 --> 00:54:25,000
+Speaker 0: So, you know, they're not, it's not a completely invalid, always scam thing, but it's like, it's not something you're going to use that often.
+
+706
+00:54:25,100 --> 00:54:25,600
+Speaker 0: Yeah.
+
+707
+00:54:26,161 --> 00:54:28,102
+Speaker 1: But, uh, they only launched it last year.
+
+708
+00:54:28,162 --> 00:54:28,763
+Speaker 1: This feature.
+
+709
+00:54:29,323 --> 00:54:29,543
+Speaker 0: Yeah.
+
+710
+00:54:29,623 --> 00:54:32,305
+Speaker 0: They basically added the feature to Apple pay.
+
+711
+00:54:32,365 --> 00:54:34,066
+Speaker 0: So you could Apple pay later.
+
+712
+00:54:34,527 --> 00:54:35,728
+Speaker 0: So you buy something.
+
+713
+00:54:36,168 --> 00:54:48,537
+Speaker 0: And even if the store you're buying it from doesn't have one of those, you know, loan setups, you could buy with your phone and choose Apple pay later and get, get a loan from Apple, right?
+
+714
+00:54:48,577 --> 00:54:53,020
+Speaker 0: Completely invisible to the merchant and pay off something over time, but no interest that way.
+
+715
+00:54:54,121 --> 00:54:55,885
+Speaker 0: And it's like, okay, sure.
+
+716
+00:54:55,905 --> 00:55:02,080
+Speaker 0: I guess there's no harm in offering that, but, uh, I guess nobody really cared or used it and they're getting rid of it.
+
+717
+00:55:02,640 --> 00:55:02,720
+Speaker 1: Yup.
+
+718
+00:55:02,740 --> 00:55:16,780
+Speaker 1: It looks like instead they're going to launch a feature where if you use Apple pay, you can directly access installment loans from whatever credit cards or debit cards or banks you've interacted with on Apple pay instead.
+
+719
+00:55:17,261 --> 00:55:21,010
+Speaker 1: So it sounds like Apple doesn't want to be in the business of making, of doing it.
+
+720
+00:55:21,351 --> 00:55:25,060
+Speaker 1: They'd rather be in the business of just providing APIs and facilitating other people doing it.
+
+721
+00:55:25,960 --> 00:55:26,201
+Speaker 0: Yeah.
+
+722
+00:55:26,221 --> 00:55:28,952
+Speaker 0: I think they tried to do all this stuff with like financial services.
+
+723
+00:55:28,992 --> 00:55:31,060
+Speaker 0: Like the original Apple card was like Goldman Sachs.
+
+724
+00:55:31,080 --> 00:55:31,882
+Speaker 0: Yeah.
+
+725
+00:55:31,902 --> 00:55:39,700
+Speaker 1: There's definitely, I've noticed in big tech, a bunch of big tech companies and I'm not naming names and I have to be careful about what I say because of the nature of my work.
+
+726
+00:55:40,601 --> 00:55:46,374
+Speaker 1: A lot of big tech companies thought they could disrupt capital markets and finance in various ways.
+
+727
+00:55:46,675 --> 00:55:48,800
+Speaker 1: And we're making big moves into that sector.
+
+728
+00:55:49,480 --> 00:55:58,020
+Speaker 1: And bit by bit, they're discovering that the people they're competing with kind of like Musk and his cars versus normal car companies do things the way they do them for a reason.
+
+729
+00:55:58,661 --> 00:56:02,992
+Speaker 1: And it's really expensive and difficult to run the kinds of things that they're trying to run.
+
+730
+00:56:03,072 --> 00:56:06,400
+Speaker 1: And bit by bit, they're backing away from all this shit because it's hard and it's risky.
+
+731
+00:56:07,300 --> 00:56:08,422
+Speaker 0: Yeah.
+
+732
+00:56:08,663 --> 00:56:08,943
+Speaker 0: I do.
+
+733
+00:56:09,043 --> 00:56:18,420
+Speaker 0: I think I heard somewhere that like, it's like, I think the Apple card is still, you know, according to the Apple website is still backed.
+
+734
+00:56:18,580 --> 00:56:28,760
+Speaker 0: You know, it's a Goldman Sachs credit card, the Apple card, but there are articles from like 2024, even as recent as March that are like Apple seeks to end its credit card and savings account partnership with Goldman Sachs.
+
+735
+00:56:29,500 --> 00:56:29,580
+Speaker 0: Yeah.
+
+736
+00:56:29,600 --> 00:56:29,761
+Speaker 0: Right.
+
+737
+00:56:30,562 --> 00:56:36,129
+Speaker 0: Um, you know, so it's like their, their financial services stuff in general, I think didn't, didn't work out.
+
+738
+00:56:36,570 --> 00:56:40,516
+Speaker 0: People just like the, it's the feature of pay with your phone is what matters.
+
+739
+00:56:40,556 --> 00:56:43,400
+Speaker 0: The trying to offer credit cards and whatnot.
+
+740
+00:56:45,121 --> 00:56:45,341
+Speaker 1: Yeah.
+
+741
+00:56:45,401 --> 00:56:46,202
+Speaker 1: Don't don't.
+
+742
+00:56:46,423 --> 00:56:47,464
+Speaker 1: companies are getting too big.
+
+743
+00:56:47,585 --> 00:56:49,708
+Speaker 1: Don't offer things that aren't your core competency.
+
+744
+00:56:49,748 --> 00:56:52,392
+Speaker 1: Your company has a core competency and that's the thing you're selling.
+
+745
+00:56:53,214 --> 00:56:57,140
+Speaker 1: Uh, don't reinvent the wheel of things that aren't actually that profit.
+
+746
+00:56:57,180 --> 00:57:11,016
+Speaker 0: They did announce a WWDC that the, uh, you know, the next iOS you're going to be able to like tap and basically every iPhone, at least that is new enough and it has the iOS updated will be basically a point of sale system.
+
+747
+00:57:11,036 --> 00:57:12,838
+Speaker 0: So people can like tap and pay you money.
+
+748
+00:57:13,498 --> 00:57:14,860
+Speaker 0: Um, which would be pretty cool.
+
+749
+00:57:15,160 --> 00:57:15,341
+Speaker 1: Yeah.
+
+750
+00:57:15,621 --> 00:57:23,340
+Speaker 1: I, uh, I could see myself using that and I could see also a lot of people in artists alleys around the world, uh, using it to avoid paying taxes.
+
+751
+00:57:23,821 --> 00:57:23,981
+Speaker 0: Yeah.
+
+752
+00:57:24,001 --> 00:57:30,270
+Speaker 0: Cause right now to use Apple pay, you know, to pay someone, you have to text them, which is like, Hey, you got to give someone your number.
+
+753
+00:57:31,031 --> 00:57:36,920
+Speaker 0: And so that's why people use a Venmo or a cash app or one of the other ones where they can just take a picture of a QR code.
+
+754
+00:57:37,000 --> 00:57:44,220
+Speaker 0: But it's like if a complete stranger can just tap iPhones with me and give me money or vice versa, that would be preferable.
+
+755
+00:57:45,980 --> 00:57:46,401
+Speaker 1: All right.
+
+756
+00:57:46,481 --> 00:57:53,167
+Speaker 1: Couple more little news is, uh, New York state is joining the world of digital drivers licenses.
+
+757
+00:57:53,187 --> 00:58:07,580
+Speaker 1: Uh, actually they, well, sort of, they joined, they, they launched this on June 11th and, uh, they're going to have an app that is a New York state app that will include your New York ID in it with a bunch of caveats.
+
+758
+00:58:09,301 --> 00:58:14,392
+Speaker 1: What's interesting is that it appears that they're specifically not supporting Google or wallets on phones.
+
+759
+00:58:14,813 --> 00:58:18,180
+Speaker 1: You have to use the app itself, which is all the app.
+
+760
+00:58:18,741 --> 00:58:22,311
+Speaker 0: It worked, but it's like, that sort of defeats the purpose, right?
+
+761
+00:58:22,411 --> 00:58:25,600
+Speaker 0: It's like, I have to go into this special app to find my driver's license.
+
+762
+00:58:25,920 --> 00:58:41,120
+Speaker 0: And so it's like, it may accomplish the goal of you don't need to carry your wallet around with you together if this ID is actually recognized by police, DSA and other organizations, bartenders, nightclubs, uh, concert venues.
+
+763
+00:58:41,420 --> 00:58:41,761
+Speaker 0: Right.
+
+764
+00:58:41,801 --> 00:58:46,029
+Speaker 0: But it's sort of like, Hey, why is it gotta be in this weird app?
+
+765
+00:58:46,069 --> 00:58:51,780
+Speaker 0: Why can't you do it in the wallets just due to the official way that Apple and Google have already provided?
+
+766
+00:58:52,301 --> 00:58:54,105
+Speaker 0: That would be very preferable.
+
+767
+00:58:54,125 --> 00:58:59,617
+Speaker 0: Um, you know, I got to do this weird thing instead, but it, I did it.
+
+768
+00:58:59,798 --> 00:59:00,159
+Speaker 0: It works.
+
+769
+00:59:00,219 --> 00:59:00,640
+Speaker 0: It's in there.
+
+770
+00:59:01,062 --> 00:59:02,999
+Speaker 1: I don't know who would recognize it or acknowledge it.
+
+771
+00:59:03,420 --> 00:59:06,767
+Speaker 1: To read a quote from this, the app is designed so that your phone remains in your possession at all times.
+
+772
+00:59:07,008 --> 00:59:12,880
+Speaker 1: You should never freely hand a device over to law enforcement and shows a QR code that can be scanned to verify your identity.
+
+773
+00:59:13,241 --> 00:59:18,269
+Speaker 1: So it's designed so that a cop shouldn't be able to say, give me your phone so I can look at your ID.
+
+774
+00:59:18,309 --> 00:59:19,651
+Speaker 1: They have to use the different process.
+
+775
+00:59:20,392 --> 00:59:25,260
+Speaker 1: I am 0% confident that cops will not just fucking rip your phone out of your hand as soon as you open the app.
+
+776
+00:59:26,640 --> 00:59:26,740
+Speaker 0: Yeah.
+
+777
+00:59:26,760 --> 00:59:36,640
+Speaker 0: I mean, theoretically, the way it should work is they should tap, you know, your phone should be locked and they should, you know, tap their device on your device, which would be possible if they used the app.
+
+778
+00:59:36,740 --> 00:59:46,459
+Speaker 0: I mean, I guess it's theoretically possible to do that with their app, but it's much easier and much more possible if it was integrated into the wallet.
+
+779
+00:59:47,540 --> 00:59:55,050
+Speaker 1: So the place we ski, the pass we get, they did introduce an app for phone passes and it is just always on without the app and it does just work.
+
+780
+00:59:56,232 --> 00:59:59,977
+Speaker 1: But, uh, the phones just don't get detected most of the time.
+
+781
+01:00:00,017 --> 01:00:02,320
+Speaker 1: So I ended up disabling the app and getting a physical card anyway.
+
+782
+01:00:02,941 --> 01:00:03,121
+Speaker 0: Yeah.
+
+783
+01:00:03,321 --> 01:00:10,410
+Speaker 0: Omni does it, you know, the way Omni works, the way the Apple transit works is like your phone can actually like have a dead battery on.
+
+784
+01:00:10,470 --> 01:00:19,060
+Speaker 0: like, you know, and it would still, you can, the phone could be off with a dead battery and you could tap Omni and it'll most likely still beep and let you through the turnstile.
+
+785
+01:00:19,741 --> 01:00:23,389
+Speaker 0: So there's no reason the ID function couldn't work the same way.
+
+786
+01:00:23,409 --> 01:00:26,676
+Speaker 0: Um, they just didn't do it that way in New York.
+
+787
+01:00:26,816 --> 01:00:28,360
+Speaker 0: Other States did it the official way.
+
+788
+01:00:28,620 --> 01:00:38,692
+Speaker 1: But, uh, this idea is fucking worthless because there is currently no requirement for law enforcement or any establishment to treat this as a real ID.
+
+789
+01:00:38,712 --> 01:00:40,073
+Speaker 1: There's no timeline for that.
+
+790
+01:00:40,334 --> 01:00:41,575
+Speaker 1: There's no deadline for that.
+
+791
+01:00:42,036 --> 01:00:45,700
+Speaker 1: acceptance, including by the police is quote voluntary.
+
+792
+01:00:46,820 --> 01:00:51,645
+Speaker 1: So I am, so you can't use, I still have to carry my driver's license if I'm in a car.
+
+793
+01:00:51,665 --> 01:00:54,308
+Speaker 0: Yeah, we can't get rid of our wallets just yet.
+
+794
+01:00:54,508 --> 01:00:58,452
+Speaker 1: Well, at some point I have found I do still need physical credit cards.
+
+795
+01:00:58,492 --> 01:01:04,979
+Speaker 1: There are a lot of restaurants I've been to recently that don't, they have to take your credit card back and swipe it.
+
+796
+01:01:05,019 --> 01:01:06,080
+Speaker 1: They don't have a way for you to tap.
+
+797
+01:01:07,001 --> 01:01:07,141
+Speaker 0: Yep.
+
+798
+01:01:07,421 --> 01:01:19,419
+Speaker 0: There are places like that, but it's, I think it's fewer because you know, any place that buys a new point of sale system will have, you know, they're not selling point of sale systems that don't tap anymore.
+
+799
+01:01:19,439 --> 01:01:19,860
+Speaker 0: Right?
+
+800
+01:01:20,240 --> 01:01:32,020
+Speaker 0: So you'd have to, if you want it to not take taps, you'd have to like simply just refuse even though you could because you're weird for some reason, uh, or buy like an old cash register on eBay.
+
+801
+01:01:32,020 --> 01:01:35,424
+Speaker 0: And it goes, ding, you know, something like that.
+
+802
+01:01:35,744 --> 01:01:43,774
+Speaker 0: But you know, it's mostly businesses that have already existed already have equipment and haven't upgraded it that are not taking any.
+
+803
+01:01:44,034 --> 01:01:48,700
+Speaker 0: And I guess the point at which their equipment stops working is when they'll buy something new.
+
+804
+01:01:50,240 --> 01:01:50,821
+Speaker 0: Yep.
+
+805
+01:01:51,002 --> 01:01:52,023
+Speaker 1: Or just go cash only.
+
+806
+01:01:53,546 --> 01:01:53,926
+Speaker 0: Who knows?
+
+807
+01:01:54,607 --> 01:01:54,948
+Speaker 1: All right.
+
+808
+01:01:55,008 --> 01:02:03,040
+Speaker 1: So, uh, last two little news is, uh, so you might, there was a little bit of a kerfuffle when Microsoft showed off, uh, windows recall.
+
+809
+01:02:03,840 --> 01:02:16,799
+Speaker 0: And so if you don't know, windows recall was basically the system that was going to record everything you do on your computer base, almost everything you do in your computer and then allow you to sort of roll back and undo like everything.
+
+810
+01:02:16,819 --> 01:02:17,260
+Speaker 0: Right?
+
+811
+01:02:17,440 --> 01:02:20,985
+Speaker 0: So it's sort of like, or see what you did in the past.
+
+812
+01:02:21,165 --> 01:02:23,348
+Speaker 0: It could be a really useful and powerful feature.
+
+813
+01:02:24,009 --> 01:02:32,660
+Speaker 0: Um, but it's also a dangerous feature because if someone accesses your computer, they could just scroll back and see some prod or whatever, who knows what, right.
+
+814
+01:02:33,020 --> 01:02:34,843
+Speaker 0: You know, um, not great.
+
+815
+01:02:35,304 --> 01:02:47,160
+Speaker 0: And so people were upset about this from a security standpoint because they're like, Hey, if someone breaks into your computer, it's like, now they got all this, you know, a mate, it's way more valuable to them to once they've got in.
+
+816
+01:02:47,240 --> 01:02:49,704
+Speaker 0: Because they can access all this recall stuff that's been recorded.
+
+817
+01:02:49,765 --> 01:02:55,114
+Speaker 0: And I'm like, listen, you know, if I'm going to complain about security, I'm complaining about the lock.
+
+818
+01:02:55,355 --> 01:02:58,360
+Speaker 0: I'm not complaining about how much treasure is in the chest, right?
+
+819
+01:02:58,660 --> 01:03:00,402
+Speaker 0: Adding more treasure to the chest.
+
+820
+01:03:00,763 --> 01:03:03,466
+Speaker 0: Doesn't make a security problem necessarily.
+
+821
+01:03:03,867 --> 01:03:05,349
+Speaker 0: If the lock is strong enough, right?
+
+822
+01:03:05,369 --> 01:03:10,536
+Speaker 0: You just have to have a lock that is proportional to the treasure, but the lock is what it's always been.
+
+823
+01:03:11,117 --> 01:03:13,500
+Speaker 0: Windows is as secured as, as it is.
+
+824
+01:03:13,861 --> 01:03:14,082
+Speaker 1: Yep.
+
+825
+01:03:14,644 --> 01:03:18,700
+Speaker 1: There's a reason my PC is not accessible directly over the internet and never will be.
+
+826
+01:03:19,380 --> 01:03:19,460
+Speaker 0: Yeah.
+
+827
+01:03:19,480 --> 01:03:26,410
+Speaker 0: It's like they just added more treasure without, and it's like, okay, you know, um, there is maybe something to be concerned about.
+
+828
+01:03:26,630 --> 01:03:34,040
+Speaker 0: And also they had the feature on by default, which is also, you know, a well, and the fact that people might not even realize that it's there.
+
+829
+01:03:34,260 --> 01:03:39,000
+Speaker 1: They were branding it heavily as part of Co-Pilot Plus and there's, it feels like...
+
+830
+01:03:39,020 --> 01:03:39,140
+Speaker 0: Right.
+
+831
+01:03:39,160 --> 01:03:39,721
+Speaker 0: Because what, right.
+
+832
+01:03:39,741 --> 01:03:42,968
+Speaker 0: Because basically the Co-Pilot AI would be looking at that.
+
+833
+01:03:43,028 --> 01:03:47,657
+Speaker 0: And when you asked it questions, it would have the context of all your computer history to help you.
+
+834
+01:03:47,697 --> 01:03:49,420
+Speaker 0: And that is a powerful feature.
+
+835
+01:03:49,700 --> 01:04:07,540
+Speaker 1: And I will note for everyone who's mad about machine learning, which is way beyond the scope of this episode, the safest possible machine learning is where you have generic models provided by companies, but they run locally against data that is not sent anywhere and are actually yours.
+
+836
+01:04:08,401 --> 01:04:08,561
+Speaker 0: Yep.
+
+837
+01:04:08,901 --> 01:04:21,095
+Speaker 0: I mean, that's what Apple announced at WWDC is that most of their machine Apple intelligence is going to be local, but some of it can't be local because your local isn't powerful enough.
+
+838
+01:04:21,195 --> 01:04:25,660
+Speaker 0: And in that case, yeah, if they, you have to give permission to send it to out.
+
+839
+01:04:26,180 --> 01:04:32,988
+Speaker 0: And if you do give it permission, the code that does the sending is public and everyone can see and verify that.
+
+840
+01:04:33,048 --> 01:04:38,453
+Speaker 0: it's impossible for Apple or anyone to actually learn anything about you.
+
+841
+01:04:38,693 --> 01:04:38,874
+Speaker 0: Right.
+
+842
+01:04:38,894 --> 01:04:44,940
+Speaker 0: You're just basically using their, you know, so theoretically, but you can always just say no and only use local too.
+
+843
+01:04:45,220 --> 01:04:45,421
+Speaker 1: Yeah.
+
+844
+01:04:45,441 --> 01:04:47,183
+Speaker 1: And the thing is local.
+
+845
+01:04:47,483 --> 01:04:51,569
+Speaker 1: machine learning is going to be something that could radically transform the world.
+
+846
+01:04:51,649 --> 01:04:57,437
+Speaker 1: But this is very difficult to do in an era where nobody has workstations anymore.
+
+847
+01:04:57,998 --> 01:04:59,500
+Speaker 1: And like everyone's device is a phone.
+
+848
+01:04:59,680 --> 01:05:00,999
+Speaker 0: You can't run a model on a phone.
+
+849
+01:05:01,901 --> 01:05:03,950
+Speaker 0: Your phone can do enough, right?
+
+850
+01:05:04,292 --> 01:05:05,959
+Speaker 0: It's a surprising amount the phone can do.
+
+851
+01:05:06,260 --> 01:05:08,320
+Speaker 1: Well, it depends on the scale of algorithm you want.
+
+852
+01:05:08,540 --> 01:05:13,660
+Speaker 0: And you look at Apple throwing more and more ridiculous processors into their phones and tablets.
+
+853
+01:05:14,421 --> 01:05:19,166
+Speaker 1: I do feel like we might, that the data cube or the processing cube will come back someday.
+
+854
+01:05:19,226 --> 01:05:31,320
+Speaker 1: I still think there'll be a future where people somewhere in their home have effectively a workstation that's just a black box that they plug in and forget about and all the devices use it as processing power and data link and whatever.
+
+855
+01:05:33,201 --> 01:05:37,811
+Speaker 0: I can't see a normal person just going and buying like this box.
+
+856
+01:05:37,992 --> 01:05:41,660
+Speaker 0: They just plug it in their house and setting it up and then like.
+
+857
+01:05:41,840 --> 01:05:49,294
+Speaker 1: Well, what if the box is sold as this box will spy on your family and all your devices until it learns you.
+
+858
+01:05:49,375 --> 01:05:52,000
+Speaker 1: And then it is a human sounding sentient.
+
+859
+01:05:53,101 --> 01:06:00,896
+Speaker 0: But it's like if it doesn't have its own interface, I don't think people see value in it as it just like, you know, in the way that it allows their phone to do something else.
+
+860
+01:06:01,036 --> 01:06:02,720
+Speaker 0: It's a really tough sell to normal people.
+
+861
+01:06:05,581 --> 01:06:07,066
+Speaker 1: Ah, so last little news.
+
+862
+01:06:08,490 --> 01:06:11,400
+Speaker 1: Voyager 1 started sending data back again.
+
+863
+01:06:12,280 --> 01:06:18,533
+Speaker 0: Yeah, those geniuses figure out somehow to make this old piece of junk keep working even though it's super far away.
+
+864
+01:06:19,014 --> 01:06:22,240
+Speaker 0: Man, the people who engineered that in the first place sure got a lot of things right.
+
+865
+01:06:23,002 --> 01:06:29,477
+Speaker 1: Yeah, 47 years it's been hurtling away from Earth as one of the fastest things that humans have ever made.
+
+866
+01:06:30,138 --> 01:06:30,960
+Speaker 1: And it's still going.
+
+867
+01:06:31,780 --> 01:06:32,442
+Speaker 0: It's still going.
+
+868
+01:06:32,562 --> 01:06:33,505
+Speaker 0: It's still functioning.
+
+869
+01:06:33,525 --> 01:06:38,919
+Speaker 0: They can still talk to it and get it to do things even though it's like way out there.
+
+870
+01:06:39,380 --> 01:06:54,660
+Speaker 1: Yup, like for all the fucked up nonsense that we just talked about in the tech news, I think we should end on Voyager 1 because every now and then us angry violent monkeys will somehow do something that's actually cool and good for everybody.
+
+871
+01:06:55,620 --> 01:06:59,720
+Speaker 0: It's basically just like a satellite dish and like some instruments holding on.
+
+872
+01:07:00,281 --> 01:07:02,448
+Speaker 1: Four instruments holding on, sending back.
+
+873
+01:07:03,089 --> 01:07:06,440
+Speaker 1: It is currently more than 15 billion miles away from Earth.
+
+874
+01:07:07,422 --> 01:07:08,329
+Speaker 0: Mhm, mhm.
+
+875
+01:07:09,115 --> 01:07:09,679
+Speaker 0: That's pretty far.
+
+876
+01:07:10,540 --> 01:07:12,910
+Speaker 1: This has been Geek Nights with Rim and Scott.
+
+877
+01:07:12,970 --> 01:07:15,480
+Speaker 1: Special thanks to DJ Pretzel for the opening theme.
+
+878
+01:07:15,680 --> 01:07:21,700
+Speaker 0: Be sure to visit our website at FrontRowClue.com for show notes, discussion, links and more.
+
+879
+01:07:22,180 --> 01:07:24,865
+Speaker 1: Remember, Geek Nights is not one but four different shows.
+
+880
+01:07:25,165 --> 01:07:26,808
+Speaker 1: Mondays are science and technology.
+
+881
+01:07:26,868 --> 01:07:28,612
+Speaker 1: Tuesdays, gaming and games.
+
+882
+01:07:28,752 --> 01:07:30,555
+Speaker 1: Wednesdays are animation and comics.
+
+883
+01:07:30,876 --> 01:07:33,320
+Speaker 1: Thursdays are arbitrary and indiscriminate.
+
+884
+01:07:33,380 --> 01:07:38,940
+Speaker 1: Geek Nights is distributed under a Creative Commons Attribution 4.0 International License.
+
+885
+01:07:39,400 --> 01:07:43,730
+Speaker 0: Geek Nights is recorded live with no studio and no audience.
+
+886
+01:07:44,212 --> 01:07:47,680
+Speaker 0: But unlike those other late shows, it's actually recorded at night.
+
+887
+01:07:48,222 --> 01:08:04,100
+Speaker 1: And the Patreon patrons for this Tech News Roundup episode of Geek Guides are... Alan Joyce, Linky G. Dread, Lily Tenebrae, Case Cara, Makes Music, Chris Hadad, Christopher Orr, Clinton Walton, Finn, Joel Haze, Penny Reimer, Rebecca Dunne, Sam Erickson, Sherwin Ronholland, a bunch of people whose names I will not say.
+
+888
+01:08:05,721 --> 01:08:06,123
+Speaker 1: Uh, yeah.
+
+889
+01:08:06,263 --> 01:08:09,794
+Speaker 1: I think on Wednesday we're going to do an animated show on Netflix.
+
+890
+01:08:09,935 --> 01:08:11,520
+Speaker 1: We're pretty much back on our normal schedule.
+
+891
+01:08:12,061 --> 01:08:15,147
+Speaker 1: We don't really have any conventions until PAX West.
+
+892
+01:08:15,607 --> 01:08:22,279
+Speaker 1: So tonight, on this fine hot Tuesday, Monday, Monday, I will simply leave you with...
+
+893
+01:08:23,001 --> 01:08:25,163
+Speaker 0: Sunday, Monday, happy days.
+
+894
+01:08:25,505 --> 01:08:27,667
+Speaker 0: Tuesday, Wednesday, happy days.
+
+895
+01:08:27,988 --> 01:08:30,171
+Speaker 1: Thursday, Friday, happy days.
+
+896
+01:08:30,453 --> 01:08:32,676
+Speaker 1: The weekend comes, my cycle hums.
+
+897
+01:08:33,077 --> 01:08:34,399
+Speaker 1: Ready to race to you.
+
+898
+01:08:35,899 --> 01:08:40,987
+Speaker 0: These days are on.
+
+899
+01:08:41,027 --> 01:08:43,450
+Speaker 0: These days are on.
+
+900
+01:08:43,511 --> 01:08:44,772
+Speaker 0: Show them to me.
+
+901
+01:08:44,832 --> 01:08:46,154
+Speaker 0: Oh baby, goodbye.
+
+902
+01:08:46,174 --> 01:08:47,676
+Speaker 0: gray sky, hello blue.
+
+903
+01:08:48,057 --> 01:08:50,180
+Speaker 0: There's nothing can hold me when I hold you.
+

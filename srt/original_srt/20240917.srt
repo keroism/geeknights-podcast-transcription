@@ -1,0 +1,2336 @@
+﻿1
+00:00:08,220 --> 00:00:10,069
+Speaker 0: It's Tuesday, September 17th, 2024.
+
+2
+00:00:10,069 --> 00:00:10,289
+Speaker 0: I'm Rem.
+
+3
+00:00:14,020 --> 00:00:14,484
+Speaker 1: - I'm Scott.
+
+4
+00:00:14,504 --> 00:00:16,460
+Speaker 0: - And this is Geek Nights Tonight!
+
+5
+00:00:16,801 --> 00:00:20,800
+Speaker 0: We are back, and we're talking about friends versus friends!
+
+6
+00:00:21,240 --> 00:00:22,238
+Speaker 1: Let's do this!
+
+7
+00:00:22,820 --> 00:00:31,700
+Speaker 0: We, uh... I'd say at least five different things happened in an order that, like, caused the longest hiatus we've ever had on Geek Nights.
+
+8
+00:00:32,521 --> 00:00:41,300
+Speaker 1: I mean, there was a continuous hiatus, but there was also, uh, you know, lots of sparseness of episodes due to continuous repeated events, right?
+
+9
+00:00:41,640 --> 00:00:41,841
+Speaker 0: Yep.
+
+10
+00:00:42,001 --> 00:00:47,820
+Speaker 0: But it was like, we had this, like, cadence of things just get coming up, and it was, like, alternating which one of us would get waylaid.
+
+11
+00:00:47,920 --> 00:00:57,960
+Speaker 0: Like, you got the COVID, but then we also get the COVID, but then, uh, we got a work trip, but then you got a work trip, and then I got to miss PAX, but you go to PAX, and it just, it kept happening.
+
+12
+00:00:58,100 --> 00:01:06,960
+Speaker 0: And then, a few nights in the middle of all that, we were like, "Yeah, we can do a show, but I'm going to a concert," or "You're going to a concert," and we're both going to different concerts.
+
+13
+00:01:09,020 --> 00:01:10,423
+Speaker 1: Uh, I'll just summarize that.
+
+14
+00:01:10,723 --> 00:01:22,200
+Speaker 1: I went to PAX West, and then I went, I didn't want to come back to New York, because I had to go to Santa Barbara for work, like, a week later, so I didn't want to go back to New York, and then back to Santa Barbara, and then back to New York.
+
+15
+00:01:22,320 --> 00:01:42,140
+Speaker 1: So, I tricked my work, and most of, I have the, the, my coworkers are worldwide, but the place on Earth with the most coworkers is Portland, Oregon, conveniently, so I tricked my work, and I got, basically, saved time and money, uh, by going to Portland for a few days, and then going to Santa Barbara, and then going to New York.
+
+16
+00:01:42,260 --> 00:01:48,170
+Speaker 1: So, instead of four flights, where I had to pay for two flights, it was two flights, and I had to pay for one flight.
+
+17
+00:01:48,410 --> 00:01:50,233
+Speaker 1: So, that was a good deal.
+
+18
+00:01:50,393 --> 00:01:54,620
+Speaker 1: The bad deal, I lost a lot of money on a PAX hotel room that Rym didn't stay in.
+
+19
+00:01:54,800 --> 00:01:55,096
+Speaker 0: Yup.
+
+20
+00:01:55,601 --> 00:01:56,880
+Speaker 1: That was real expensive.
+
+21
+00:01:57,840 --> 00:02:00,080
+Speaker 1: Uh, so there goes, there goes all the money I saved.
+
+22
+00:02:00,280 --> 00:02:07,640
+Speaker 0: Well, even worse, uh, my, my fear is, if I miss, miss one more PAX that you go to, we are tied again on PAXes, attended.
+
+23
+00:02:09,501 --> 00:02:13,708
+Speaker 1: I just, uh, I'll say it was, uh, the PAX was a good PAX.
+
+24
+00:02:13,828 --> 00:02:21,620
+Speaker 1: It was more busy than the previous West, but, uh, not as busy and crowded as, you know, the peak PAX.
+
+25
+00:02:22,240 --> 00:02:25,390
+Speaker 1: There was some excellentness, though, especially the birthday panel.
+
+26
+00:02:25,430 --> 00:02:28,520
+Speaker 1: I think you might be able to still watch that birthday panel somewhere.
+
+27
+00:02:29,162 --> 00:02:31,759
+Speaker 1: Uh, it was an excellent PAX 20th birthday party.
+
+28
+00:02:33,262 --> 00:02:40,880
+Speaker 1: Uh, Portland, Oregon, where I had never been before, is not too bad, but, you know, not that great either.
+
+29
+00:02:41,380 --> 00:02:51,918
+Speaker 0: Yeah, I mean, I gotta point out, you're a New Yorker, you live in New York, uh, pretty much every square inch of earth that is not a tropical beach, if a New Yorker goes there, we're gonna be like, "Eh, I mean, it's
+
+30
+00:02:51,999 --> 00:02:52,519
+Speaker 0: alright.".
+
+31
+00:02:53,301 --> 00:03:06,420
+Speaker 1: I'll just say that, you know, it's, uh, everything closes early there, and, at least in the area that I was in, which was just across the water from the downtown area, um, sort of like staying across the bridge from Magfest, sort of like that.
+
+32
+00:03:06,440 --> 00:03:07,699
+Speaker 0: Oh, I know where you were staying then.
+
+33
+00:03:08,100 --> 00:03:19,573
+Speaker 1: Yeah, it was sort of like that, uh, that area was very low on basic, uh, amenities, like, say, you know, convenience stores and laundromats.
+
+34
+00:03:19,593 --> 00:03:25,520
+Speaker 1: I had to use many public transportations to get to anything from the hotel area, or, you know.
+
+35
+00:03:26,781 --> 00:03:41,840
+Speaker 1: Uh, and yeah, you know how in, uh, cyberpunk novels, they'll always, like, especially, like, I always, you know, spider my 2099, right, where the rich people live uptown, which is literally up, like the Jetsons, and the poor people live downtown, which is literally down.
+
+36
+00:03:42,521 --> 00:03:42,721
+Speaker 1: Right?
+
+37
+00:03:43,001 --> 00:03:43,682
+Speaker 1: That's a lie.
+
+38
+00:03:44,242 --> 00:04:02,980
+Speaker 1: Portland, Oregon shows that it's just a checkerboard, right, where it's, like, literally, it's, like, fancy apartment building, leasing now, tent on the sidewalk, outside apartment building, next to abandoned lot, next to perfectly fine house, next to fancy apartment, but it's, like, it's just, it's, it's, that's how it is.
+
+39
+00:04:03,060 --> 00:04:11,640
+Speaker 1: It's like you're playing SimCity, and, like, one square of SimCity 2000 is, like, you know, looks like dirt, and the next one is green, and has, like, birds flying.
+
+40
+00:04:11,660 --> 00:04:11,980
+Speaker 1: I mean,
+
+41
+00:04:12,060 --> 00:04:28,480
+Speaker 0: uh, not for nothing, but, uh, not, I've spent a lot of time in Mumbai, and I remember the first time I went there, I was staying in a five-star luxury hotel, 'cause that's where the work event I was doing was at, and from my hotel window, I could see basically a favela that was, like, adjacent.
+
+42
+00:04:28,980 --> 00:04:31,706
+Speaker 1: But that's, like, a, a, a district that's a separation.
+
+43
+00:04:31,746 --> 00:04:38,440
+Speaker 1: This is, like, if it's literally on the same block, every other thing is, is wealthy, and every other thing is not wealthy.
+
+44
+00:04:39,380 --> 00:04:41,924
+Speaker 1: And, and it's, like, that, it was just, like, everywhere.
+
+45
+00:04:42,124 --> 00:04:54,120
+Speaker 1: Um, and that was Portland, and then Santa Barbara is actually, uh, kind of a nice beachy place that, I don't know why there weren't more tourists there, 'cause it was, like, wow, look at these beaches.
+
+46
+00:04:55,121 --> 00:05:05,580
+Speaker 1: Um, and also, look, everything in the town had, like, you know, nice architecture, and there was even one big mega street, state street, that was, like, a no-car street that had all the good stuff on it.
+
+47
+00:05:05,860 --> 00:05:05,929
+Speaker 1: Ooh.
+
+48
+00:05:06,463 --> 00:05:08,180
+Speaker 0: So, it's, like- I've never been to Santa Barbara.
+
+49
+00:05:08,901 --> 00:05:10,345
+Speaker 1: It's just, like, one town north of
+
+50
+00:05:10,566 --> 00:05:10,747
+Speaker 1: L.A.,
+
+51
+00:05:10,787 --> 00:05:14,560
+Speaker 1: and it's, like, hey, why, why aren't people here more?
+
+52
+00:05:14,920 --> 00:05:15,946
+Speaker 0: I've never been to L.A.
+
+53
+00:05:16,066 --> 00:05:18,720
+Speaker 0: either, except inside of the airport on my way to Australia.
+
+54
+00:05:18,720 --> 00:05:20,104
+Speaker 1: I was into, I was into L.A.
+
+55
+00:05:20,244 --> 00:05:23,453
+Speaker 1: once, which is late last year, but, so, that's Santa Barbara.
+
+56
+00:05:23,974 --> 00:05:26,060
+Speaker 1: Uh, not too bad, really, actually.
+
+57
+00:05:27,800 --> 00:05:29,544
+Speaker 0: Yeah, now we're back, doing Geek Nights.
+
+58
+00:05:29,744 --> 00:05:37,680
+Speaker 0: Uh, the listener is no longer subjected to, uh, small series of rim doing solo episodes, where I talk about something that's stuck in my craw.
+
+59
+00:05:38,020 --> 00:05:41,209
+Speaker 0: Though I am gonna turn that into a regular thing, like every other Friday.
+
+60
+00:05:41,229 --> 00:05:45,020
+Speaker 0: I actually made a queue of episodes to follow up on, 'cause it was kind of fun.
+
+61
+00:05:46,841 --> 00:05:55,380
+Speaker 0: So, yeah, I guess we should get right into it, because, uh, uh, whatever happened between the last Geek Nights episode and now is just gonna disappear from our minds forever.
+
+62
+00:05:55,601 --> 00:06:00,540
+Speaker 1: I may remember some things and go into greater detail about some things that happened.
+
+63
+00:06:01,180 --> 00:06:07,593
+Speaker 0: Uh, I, uh, played a lot of video games and, uh, saw some good shows, but, uh, in some news.
+
+64
+00:06:07,873 --> 00:06:11,120
+Speaker 0: So, of course, PAX Unplugged is coming up faster than you think.
+
+65
+00:06:11,301 --> 00:06:14,940
+Speaker 0: It is in December 6th through 8th in Philly.
+
+66
+00:06:14,960 --> 00:06:15,840
+Speaker 1: Is that for the meta moment?
+
+67
+00:06:16,480 --> 00:06:26,400
+Speaker 0: Uh, I'm just talking about news, because PAX Unplugged, which is happening on those dates, uh, they have announced their keynote speaker, and the keynote speaker looks like a good one.
+
+68
+00:06:26,520 --> 00:06:32,940
+Speaker 0: It's Elizabeth Hargrave, and if you don't know who that is, that is the designer of Wingspan, among other games.
+
+69
+00:06:33,700 --> 00:06:42,040
+Speaker 1: Yeah, uh, finally, an actual game designer doing the PAX Unplugged keynote and not CEO or marketing guy, or, it's like, come on.
+
+70
+00:06:42,160 --> 00:06:44,479
+Speaker 0: You're telling it, trying to sell populace to us again.
+
+71
+00:06:45,180 --> 00:06:52,419
+Speaker 1: Right, but it's like, I mean, at least, you know, yeah, he's, he's not very good, but at least he is a creator of games to some extent.
+
+72
+00:06:53,420 --> 00:07:04,040
+Speaker 1: It's like, you, you should not, you know, if you are going to have a conference, you should always have a person who is actually doing the work, right, of whatever the conference is.
+
+73
+00:07:04,140 --> 00:07:10,433
+Speaker 1: If it's a plumbing conference, you shouldn't have someone who owns a plumbing supply company as the keynote speaker.
+
+74
+00:07:10,473 --> 00:07:13,900
+Speaker 1: They might do a panel that might help educate about plumbing supply.
+
+75
+00:07:14,040 --> 00:07:15,419
+Speaker 0: The keynote should be like Mario.
+
+76
+00:07:16,220 --> 00:07:17,342
+Speaker 1: Right, but exactly.
+
+77
+00:07:17,423 --> 00:07:23,877
+Speaker 1: The keynote speaker should always be a plumber at the plumbing conference, unless it's the plumbing supply conference.
+
+78
+00:07:24,317 --> 00:07:25,440
+Speaker 1: That would be different, right?
+
+79
+00:07:25,720 --> 00:07:33,071
+Speaker 1: So if it's a gaming conference convention, the person doing the keynote should be a player of games, right?
+
+80
+00:07:33,111 --> 00:07:38,920
+Speaker 1: Like a, like a, you know, not just every, any old player of games, but like a professional player of games, right?
+
+81
+00:07:39,722 --> 00:07:41,457
+Speaker 0: Or at least a noteworthy one.
+
+82
+00:07:42,500 --> 00:07:49,840
+Speaker 1: Right, a noteworthy player of games or a noteworthy creator of games and not a boss of creators of games.
+
+83
+00:07:50,100 --> 00:07:53,500
+Speaker 0: That would be a good keynote for PAX, actually, because it's a game, LeBron.
+
+84
+00:07:54,626 --> 00:07:55,299
+Speaker 1: Yeah, it would.
+
+85
+00:07:56,100 --> 00:08:03,010
+Speaker 1: And I say this, right, I say this even as Reggie did the keynote a couple years ago, right?
+
+86
+00:08:03,130 --> 00:08:07,617
+Speaker 1: It's like, yeah, he was okay, but even so, Reggie is a seller of games.
+
+87
+00:08:09,960 --> 00:08:15,490
+Speaker 0: Yeah, I learned things from Reggie's keynote, but I did not learn anything about games from Reggie's keynote.
+
+88
+00:08:16,732 --> 00:08:21,300
+Speaker 0: I learned a lot about Panda Express and management.
+
+89
+00:08:22,001 --> 00:08:32,000
+Speaker 0: But yeah, PAX Unplugged is going to be great, but the one warning I'll give you all is that if you're going to PAX Unplugged, one, if you didn't get your hotel, like, good luck, because Philly doesn't have that many hotels near the con.
+
+90
+00:08:32,799 --> 00:08:41,159
+Speaker 0: And two, PAX Unplugged, at least last year, for a bunch of reasons, was I think the most crowded PAX I have ever been to.
+
+91
+00:08:43,039 --> 00:08:50,057
+Speaker 0: So, I don't know what PAX Unplugged will be like, but we'll be doing a ton of content added, details TBD that we'll talk about in the meta moment in the future.
+
+92
+00:08:50,377 --> 00:08:51,380
+Speaker 0: So, you got any news?
+
+93
+00:08:52,920 --> 00:09:05,180
+Speaker 1: Yeah, it's not really kind of a news, because, I mean, there's like ten, if you consider, hey, I saw this new game is coming out soon, there's 50 billion newses, I saw so many games, and I've played so many new games, it's just, oh my god.
+
+94
+00:09:06,201 --> 00:09:17,100
+Speaker 1: But, there was this article that came out, I guess, even before all these shenanigans, but in the big gap of no geek nights there.
+
+95
+00:09:17,780 --> 00:09:35,180
+Speaker 1: Ye old Richard Garfield, magic creator, who should do a PAX Unplugged keynote, he wrote this thing basically saying, hey, there's a stigma about, we've done episodes about, I think it was a very early Geek Nights episode about handicaps in games, right?
+
+96
+00:09:35,220 --> 00:09:48,520
+Speaker 1: Where it's like, yeah, the players, you have an air hockey problem, there's an imbalance between the player's skill levels in a mostly skill-based game, but you still want to play with these people together, what do you do?
+
+97
+00:09:49,260 --> 00:09:49,821
+Speaker 1: And it's like you.
+
+98
+00:09:49,861 --> 00:09:58,420
+Speaker 1: handicap, you know, golf, bowling are usually the ones that have it built in, but, you know, Go, you put some stones out to start with, right?
+
+99
+00:10:00,101 --> 00:10:09,131
+Speaker 1: And some people, I guess for pride or other psychological human emotional reasons, often don't like this, right?
+
+100
+00:10:10,012 --> 00:10:17,581
+Speaker 1: For various reasons, you know, I guess it makes you feel like you're inferior, or you're... I think it edges into
+
+101
+00:10:17,601 --> 00:10:32,740
+Speaker 0: the same thing we talk about with, like, in any matchmaking system that has, like, platinum, gold, whatever, there's always that second to last tier silver, the scrubs, the people who, like, get extra bent out of shape about their own perception of how good they are.
+
+102
+00:10:33,241 --> 00:10:34,203
+Speaker 0: Like, I think it's rare.
+
+103
+00:10:34,263 --> 00:10:42,320
+Speaker 0: the kind of gamer like us, who one, enjoys losing a lot, and two, like, make it hard for me, I really want to try as hard as possible in games.
+
+104
+00:10:43,141 --> 00:10:52,996
+Speaker 1: Yeah, but he wrote this whole thing where it's like, hey, listen, you know, it's not a handicap, it's not a, you know, shenanigans, right?
+
+105
+00:10:53,276 --> 00:10:55,960
+Speaker 1: You're playing on hard mode, that's what you're doing, right?
+
+106
+00:10:56,020 --> 00:10:58,904
+Speaker 1: It's the person who is very good, right?
+
+107
+00:11:00,466 --> 00:11:03,330
+Speaker 1: Or it might not even be that the person is very good.
+
+108
+00:11:03,690 --> 00:11:10,760
+Speaker 1: For example, you might remember Key Forge, a game with, you know, pluses and negatives, but in Key Forge, you couldn't really change your deck, right?
+
+109
+00:11:11,301 --> 00:11:19,400
+Speaker 1: And so you would know that you would eventually learn the deck that you own, and you would know, like, hey, that guy's deck is much stronger than my deck.
+
+110
+00:11:19,600 --> 00:11:30,760
+Speaker 1: And you had this sort of wagering bidding system at the start of the game, where you could sort of be like, yeah, you know, you'll go up some number of, I forget, seals or keys or whatever it was.
+
+111
+00:11:31,142 --> 00:11:31,920
+Speaker 0: Chains, I don't remember.
+
+112
+00:11:32,021 --> 00:11:33,279
+Speaker 1: Chains, that, it was the chain system.
+
+113
+00:11:33,700 --> 00:11:37,140
+Speaker 0: That game, that game, I kind of bounced off of it, I think I played it three times ever.
+
+114
+00:11:37,661 --> 00:11:55,000
+Speaker 1: I'm just saying, but it had that chain system, which is basically not handicapping the players, but giving a handicap or a boost to the deck that the players had already determined was a weaker deck to make it an even battle, even though, you know, the decks were out of balance, right?
+
+115
+00:11:55,060 --> 00:12:18,720
+Speaker 1: And so it doesn't always have to be about player skill, but he's like, yeah, look, it's if you just reframe it as the purse, you know, whichever side has is favored too heavily is going to instead play on hard mode to balance things out rather than changing the rules of the game, breaking the game, playing a different game, finding different players, et cetera.
+
+116
+00:12:19,300 --> 00:12:19,501
+Speaker 1: Right.
+
+117
+00:12:19,841 --> 00:12:20,963
+Speaker 1: You could do this instead.
+
+118
+00:12:20,983 --> 00:12:30,320
+Speaker 1: And if you think about it that way, you could avoid that sort of human emotional vergence to doing this in the first place.
+
+119
+00:12:30,320 --> 00:12:38,020
+Speaker 0: So I don't think we have video of this panel, but with this was an ancient gig nights panel we did, we did two different panels where we talked about Dance Dance Revolution a lot.
+
+120
+00:12:38,680 --> 00:12:44,100
+Speaker 0: Dance Dance Revolution does this really well because two people can play the same song next to each other.
+
+121
+00:12:44,721 --> 00:12:52,057
+Speaker 0: And if I pick maniac mode and our friend picks basic mode, we're playing the same song, we're getting the same scoring metrics.
+
+122
+00:12:52,257 --> 00:12:53,540
+Speaker 0: We can interact with each other.
+
+123
+00:12:53,660 --> 00:12:55,965
+Speaker 0: But yet I got way more arrows to hit.
+
+124
+00:12:56,045 --> 00:13:04,402
+Speaker 1: Like I'm playing on hard mode and that you don't really in or you don't really interact, but you can get like it's possible for both players to get S or F. Right.
+
+125
+00:13:04,462 --> 00:13:08,020
+Speaker 1: So even even on basic mode, you can hit everything, you can get S.
+
+126
+00:13:08,300 --> 00:13:10,900
+Speaker 0: You both get ranked and you get the side effect.
+
+127
+00:13:11,621 --> 00:13:18,838
+Speaker 0: Like the brilliant part of DDR was that, you know, in arcades, if you mess up the song, it stops and you lose your quarter.
+
+128
+00:13:18,898 --> 00:13:19,860
+Speaker 0: Like that's how the game works.
+
+129
+00:13:20,060 --> 00:13:22,620
+Speaker 0: You got to beat the song just like it's an arcade machine.
+
+130
+00:13:22,840 --> 00:13:24,100
+Speaker 1: Depends how the machine is configured.
+
+131
+00:13:24,440 --> 00:13:28,100
+Speaker 0: I feel like machines started to back away from that in later eras, but I digress.
+
+132
+00:13:28,100 --> 00:13:30,730
+Speaker 1: That is one of the config, I think it's just arcade owners.
+
+133
+00:13:30,790 --> 00:13:30,971
+Speaker 1: Right.
+
+134
+00:13:31,011 --> 00:13:33,400
+Speaker 1: But that is one of the configurations you can set.
+
+135
+00:13:34,041 --> 00:13:43,660
+Speaker 0: But in that scenario, the player who's playing on easier mode could be the one who keeps the song going and keeps the hard mode player alive.
+
+136
+00:13:44,100 --> 00:13:53,800
+Speaker 0: And I saw personally, I witnessed that feeling makes someone who's learning DDR, playing in basic mode, really enjoy themselves next to the expert.
+
+137
+00:13:53,961 --> 00:13:56,859
+Speaker 0: Like it's a it's a good game design calling it hard mode.
+
+138
+00:13:58,540 --> 00:13:59,341
+Speaker 1: So, uh, yeah.
+
+139
+00:13:59,822 --> 00:14:00,082
+Speaker 1: Yeah.
+
+140
+00:14:00,342 --> 00:14:06,369
+Speaker 1: So, uh, if I, if I, I think the lesson is that if I make a game, if that ever happens, build
+
+141
+00:14:06,409 --> 00:14:08,051
+Speaker 0: hard mode in in the rules,
+
+142
+00:14:08,111 --> 00:14:16,020
+Speaker 1: is that in your instruction book, if you're going to put in some sort of handicapping rules, you should instead, you should write the words hard mode, right?
+
+143
+00:14:16,020 --> 00:14:19,784
+Speaker 1: You shouldn't write the word handicap or anything else of that nature.
+
+144
+00:14:19,824 --> 00:14:33,320
+Speaker 1: Just write hard mode and be like, you know, if what and phrase it in such a way to be like, look, you know, if there is some sort of imbalance, then here is a system by which you can correct that.
+
+145
+00:14:33,700 --> 00:14:34,302
+Speaker 0: Exactly.
+
+146
+00:14:34,562 --> 00:14:41,340
+Speaker 1: And you can look, you know, for whatever flaws Keyforge has, go read the chains rules in Keyforge as a as a reference.
+
+147
+00:14:42,722 --> 00:14:43,866
+Speaker 0: So another little news.
+
+148
+00:14:44,147 --> 00:14:44,971
+Speaker 0: There's a bunch of them.
+
+149
+00:14:45,011 --> 00:14:47,239
+Speaker 0: I'm just going to link to one because it's a kind of big one.
+
+150
+00:14:48,000 --> 00:14:52,005
+Speaker 0: Microsoft laid off another 650 people from games.
+
+151
+00:14:52,786 --> 00:14:54,247
+Speaker 0: And I was looking at the stats.
+
+152
+00:14:54,267 --> 00:14:59,654
+Speaker 0: This total now, since Microsoft bought Activision Blizzard in 2023, they have laid off 2550 gaming staff.
+
+153
+00:15:06,362 --> 00:15:11,680
+Speaker 0: But the current round, it's interesting because they're not canceling projects, at least projects that have been publicly announced.
+
+154
+00:15:12,161 --> 00:15:14,747
+Speaker 0: They're just like laying off staff.
+
+155
+00:15:14,907 --> 00:15:19,920
+Speaker 0: And I haven't dug yet into like exactly what areas they're laying off.
+
+156
+00:15:21,081 --> 00:15:29,800
+Speaker 0: And based on this article, it's mostly corporate functions, support functions and things around the business itself of gaming.
+
+157
+00:15:30,605 --> 00:15:32,940
+Speaker 0: So they might be keeping some of the game developers and designers.
+
+158
+00:15:33,480 --> 00:15:45,020
+Speaker 0: But despite that statement in the gaming circles I'm in, in discords, all the people who said, hey, I got laid off were like primary game maker people and were not working in the corporate side.
+
+159
+00:15:45,401 --> 00:15:48,739
+Speaker 0: But that's a small sample size, so I can't necessarily extrapolate from it.
+
+160
+00:15:48,880 --> 00:15:57,516
+Speaker 0: But I think the broader story is that gaming, especially like AAA gaming, has now been healthy for like ever?
+
+161
+00:15:59,179 --> 00:15:59,660
+Speaker 0: At any point?
+
+162
+00:16:00,381 --> 00:16:03,797
+Speaker 1: I mean, we didn't talk about the Sony, the Concorde, did we?
+
+163
+00:16:03,957 --> 00:16:04,480
+Speaker 1: On Geek Nights?
+
+164
+00:16:04,880 --> 00:16:05,142
+Speaker 0: Oh, right.
+
+165
+00:16:05,243 --> 00:16:06,068
+Speaker 0: Sony Concorde.
+
+166
+00:16:06,109 --> 00:16:07,579
+Speaker 0: We took a whole episode on that.
+
+167
+00:16:08,501 --> 00:16:08,782
+Speaker 1: Right.
+
+168
+00:16:08,822 --> 00:16:13,670
+Speaker 1: So if you don't know, Sony spent many, many years, at least eight years.
+
+169
+00:16:13,691 --> 00:16:19,040
+Speaker 1: There's various reports, but many years and purportedly a lot of money.
+
+170
+00:16:19,341 --> 00:16:21,647
+Speaker 1: I've heard reports in the hundreds of millions of dollars.
+
+171
+00:16:21,667 --> 00:16:23,070
+Speaker 1: I've also heard people say billions.
+
+172
+00:16:23,131 --> 00:16:26,760
+Speaker 1: I don't know what the real number is, but hundreds of millions sounds right.
+
+173
+00:16:26,900 --> 00:16:28,104
+Speaker 1: At least one or two of those.
+
+174
+00:16:28,726 --> 00:16:33,640
+Speaker 1: And on this making this one game, which is basically a direct competitor to Overwatch.
+
+175
+00:16:34,181 --> 00:16:39,993
+Speaker 1: It was, you know, that kind of game exactly called Concorde.
+
+176
+00:16:40,013 --> 00:16:42,658
+Speaker 1: And they put it out and it bombed so hard.
+
+177
+00:16:44,100 --> 00:16:54,399
+Speaker 1: If people were pointing out that the terrible Lord of the Rings golem game, which is sort of like the worst game of the year, that was, you know, from a big studio, that this game did worse than that.
+
+178
+00:16:56,401 --> 00:17:05,615
+Speaker 1: And so what Sony did was, you know, days after the release, when they saw that it was bombing so hard, they're like, well, it's a multiplayer game.
+
+179
+00:17:05,655 --> 00:17:08,560
+Speaker 1: So if it bombs, there's no one to play it.
+
+180
+00:17:08,800 --> 00:17:17,740
+Speaker 1: So we'll just refund everyone's money and we'll try again, which means they're going to make it free to play and do some bullshit and it probably still won't work.
+
+181
+00:17:17,900 --> 00:17:18,080
+Speaker 0: Yeah.
+
+182
+00:17:18,121 --> 00:17:26,119
+Speaker 0: And there's so much to unpack about this that it would almost warrant a longer segment in a future episode as we see experts diving into all the gory details.
+
+183
+00:17:26,579 --> 00:17:30,304
+Speaker 0: The topics range from how do you even launch a new property?
+
+184
+00:17:30,665 --> 00:17:39,134
+Speaker 0: to what do you do when you start designing something new and another studio just literally beats you to the punch and releases something better before you finish your game to.
+
+185
+00:17:39,835 --> 00:17:44,460
+Speaker 0: can you sell games for money or is free to play the only way to make a multiplayer game go?
+
+186
+00:17:44,860 --> 00:17:51,569
+Speaker 0: There's a discourse on where and how a competitive scene can exist in a game that is mass popular like this.
+
+187
+00:17:51,850 --> 00:17:59,440
+Speaker 0: This hits a cross section of every hot fucked up topic in AAA multiplayer game design and game studios.
+
+188
+00:18:01,481 --> 00:18:09,439
+Speaker 0: Even just googling for right now in the little like generated thing on the side, it says about this game, 4% of people liked this video game.
+
+189
+00:18:11,201 --> 00:18:12,222
+Speaker 0: Yeah.
+
+190
+00:18:13,104 --> 00:18:23,100
+Speaker 1: I just, you know, always like to point out that like, hey, you know, Sony has made the PlayStation and it's obviously been wildly successful as a console over its history.
+
+191
+00:18:24,322 --> 00:18:33,920
+Speaker 1: But if you look, it's like, hey, what games has even, not even like developed, we're talking about like published by Sony, right?
+
+192
+00:18:33,980 --> 00:18:51,340
+Speaker 1: So the games that would be considered like first party Sony titles and it's like, there are some games out there that are first party PlayStation games that are actually, you know, quite unique and interesting and noteworthy.
+
+193
+00:18:51,921 --> 00:18:57,655
+Speaker 1: You know, I know that the uncharted and the last is of us are very popular, but I don't think that those are really unique.
+
+194
+00:18:57,675 --> 00:18:59,920
+Speaker 1: They're just popular game, right?
+
+195
+00:19:01,240 --> 00:19:03,992
+Speaker 1: You got your, I don't know, Spyro.
+
+196
+00:19:04,032 --> 00:19:05,960
+Speaker 1: the dragons might count possibly.
+
+197
+00:19:06,506 --> 00:19:06,677
+Speaker 1: I guess.
+
+198
+00:19:07,560 --> 00:19:11,760
+Speaker 1: The Jak and Daxter's and the crash bandicoots right of the world.
+
+199
+00:19:11,980 --> 00:19:20,880
+Speaker 0: I guess I don't, it's always been a long trend that I don't think of a lot of specific intellectual properties when I think about Sony's gaming console.
+
+200
+00:19:21,700 --> 00:19:22,161
+Speaker 1: Exactly.
+
+201
+00:19:22,241 --> 00:19:22,482
+Speaker 1: Right.
+
+202
+00:19:22,542 --> 00:19:29,080
+Speaker 1: And that's what I'm, Oh, there's the little big planets and the, um, the new Astro bot one are sort of in the same vein, right?
+
+203
+00:19:29,120 --> 00:19:38,320
+Speaker 1: Where it's like, I would play those if they were on a switch, but, um, you know, but the point is, is that like, it's not like, you know, even Sega had games that people, right?
+
+204
+00:19:38,320 --> 00:19:44,212
+Speaker 1: It's like, I feel like people buy PlayStations and they're never buying them for Sony games very rarely.
+
+205
+00:19:44,252 --> 00:19:48,500
+Speaker 1: They're always buying them for the strong third party titles.
+
+206
+00:19:48,680 --> 00:19:56,740
+Speaker 0: And I feel like that's a dangerous business to be in because eventually Microsoft just sort of makes the generic platforms and steam.
+
+207
+00:19:56,760 --> 00:19:59,449
+Speaker 1: Well, they tried to do, no, I don't think Microsoft doesn't worry.
+
+208
+00:19:59,469 --> 00:20:02,820
+Speaker 1: I think it's just that, you know, computers, right?
+
+209
+00:20:03,420 --> 00:20:15,498
+Speaker 1: It's like, um, you know, gaming computers are used to be that in other countries where consoles were hard to get or too expensive, the PCs were always dominant.
+
+210
+00:20:15,978 --> 00:20:16,960
+Speaker 1: and I don't have numbers.
+
+211
+00:20:17,400 --> 00:20:35,660
+Speaker 1: I'm pretty sure PlayStations are still selling wildly all over, especially they got that new PS5 pro thing going out, but there's, you see a lot more gaming people with, you know, gaming PCs going down in, you know, the U S and the console, the console dominant countries.
+
+212
+00:20:36,261 --> 00:20:45,500
+Speaker 0: And so, uh, part of that is there was a long era where the consoles were better suited to high quality games compared to the computers that most people had access to.
+
+213
+00:20:45,900 --> 00:20:47,303
+Speaker 0: But we're way past that point.
+
+214
+00:20:47,383 --> 00:20:57,480
+Speaker 0: Like you can build a gaming PC that'll work and play pretty much any game that's out there perfectly acceptably for like, well, well under a thousand dollars.
+
+215
+00:20:57,660 --> 00:21:07,159
+Speaker 1: If you are clever, like it's not, there's a lot of people out there who are just selling gaming PCs that are already put together and you know, selling better than they used to.
+
+216
+00:21:08,541 --> 00:21:16,831
+Speaker 1: Uh, but anyway, yeah, it's like, you know, and, and the other thing is Sony is itself is putting more of its games out on PC.
+
+217
+00:21:16,851 --> 00:21:23,920
+Speaker 1: You can go on steam and there's Sony games, you know, games that used to be PlayStation exclusives are now on there.
+
+218
+00:21:24,300 --> 00:21:28,853
+Speaker 0: Does that foretell the end of the PlayStation station console in the long run?
+
+219
+00:21:28,873 --> 00:21:31,160
+Speaker 0: If Sony just starts playing the games out.
+
+220
+00:21:31,220 --> 00:21:31,881
+Speaker 1: I don't think so.
+
+221
+00:21:31,981 --> 00:21:34,245
+Speaker 1: I think that it'll, it'll still sell.
+
+222
+00:21:34,446 --> 00:21:34,706
+Speaker 1: Right.
+
+223
+00:21:34,806 --> 00:21:42,760
+Speaker 1: But, um, I just think that like Sony, it's like in terms of making games has, has some issues.
+
+224
+00:21:45,260 --> 00:21:55,820
+Speaker 0: But anyway, things of the day, uh, I literally found this kind of randomly and it got stuck in my head and I'd find it really funny, but I got to preface it a little bit.
+
+225
+00:21:55,920 --> 00:22:00,210
+Speaker 0: So if you don't live in a place where these plants exist, uh, there's something called a cat tail.
+
+226
+00:22:00,932 --> 00:22:04,200
+Speaker 0: And if you go, they, they grow in like, it looks like a hot dog on a stick.
+
+227
+00:22:04,240 --> 00:22:04,400
+Speaker 1: Yeah.
+
+228
+00:22:04,440 --> 00:22:05,662
+Speaker 0: Like it looks like a corn dog.
+
+229
+00:22:05,722 --> 00:22:07,684
+Speaker 0: Like it just looks like a corn dog out in the wild.
+
+230
+00:22:07,784 --> 00:22:22,220
+Speaker 0: And when I was a kid in the Cub Scouts, a very common prank to play on kids who didn't know anything about the wilderness was to try to convince them that's where corn dogs come from or that they're edible in some way, uh, because they're not dangerous.
+
+231
+00:22:22,661 --> 00:22:26,706
+Speaker 0: But if you bite into a cat tail, one, do not do this.
+
+232
+00:22:27,227 --> 00:22:35,839
+Speaker 0: Two, they basically explode like a bomb of cotton that will fill your mouth and choke you so fast.
+
+233
+00:22:35,919 --> 00:22:36,600
+Speaker 0: It's hilarious.
+
+234
+00:22:37,260 --> 00:22:42,311
+Speaker 0: Like the violence with which they explode into this cotton puff is shocking.
+
+235
+00:22:42,372 --> 00:22:45,860
+Speaker 0: If you aren't familiar with cat tails, whatever you're thinking, it's more than that.
+
+236
+00:22:46,501 --> 00:22:58,180
+Speaker 0: So this video is a very short little song and I guess it's a little cute cobalt character singing about how cat tails should be edible and it sucks that they're not and I want to bite them and it's really cute.
+
+237
+00:22:59,480 --> 00:23:07,620
+Speaker 1: Now what you should do is get a hot dog on a stick and put it out amongst the cat tails and then you go and eat one and you offer one to your friend.
+
+238
+00:23:08,222 --> 00:23:09,159
+Speaker 0: That's, that's the pro move.
+
+239
+00:23:09,622 --> 00:23:11,119
+Speaker 1: That is not a hot dog.
+
+240
+00:23:11,861 --> 00:23:16,160
+Speaker 0: That's the equivalent of the one glass of wine that's not poisoned in the movie.
+
+241
+00:23:16,800 --> 00:23:20,728
+Speaker 1: Or if you're, you know, that kind of relative who's going to be silly, right?
+
+242
+00:23:20,748 --> 00:23:24,877
+Speaker 1: Like an old funny grandpa and kid asks, hey, where'd the hot dogs come from?
+
+243
+00:23:24,917 --> 00:23:26,480
+Speaker 1: You show them some cat tail photos.
+
+244
+00:23:28,563 --> 00:23:29,854
+Speaker 0: Like the famous, uh, what was it?
+
+245
+00:23:29,894 --> 00:23:30,480
+Speaker 0: National Geographic?
+
+246
+00:23:30,740 --> 00:23:33,140
+Speaker 1: Yes, they grow on the hot dog plants out in the swamp.
+
+247
+00:23:33,481 --> 00:23:36,348
+Speaker 0: Wasn't it National Geographic that did the April Fools one year.
+
+248
+00:23:36,368 --> 00:23:37,791
+Speaker 0: that was like the spaghetti trees?
+
+249
+00:23:38,032 --> 00:23:41,300
+Speaker 0: And, uh, to this day there are people who will cite that.
+
+250
+00:23:42,522 --> 00:23:44,580
+Speaker 1: I do not know about the spaghetti tree.
+
+251
+00:23:45,520 --> 00:23:47,106
+Speaker 0: Ah, the listener pointed out God of War.
+
+252
+00:23:47,126 --> 00:23:50,980
+Speaker 0: I know some people who buy PlayStation solely for God of War.
+
+253
+00:23:51,741 --> 00:23:52,002
+Speaker 1: Yeah.
+
+254
+00:23:52,384 --> 00:23:55,156
+Speaker 1: It's a single player game that you play once and then...
+
+255
+00:23:56,840 --> 00:23:57,519
+Speaker 0: So you got a thing of the day?
+
+256
+00:23:57,740 --> 00:23:59,178
+Speaker 1: And also aren't those coming out on PC now?
+
+257
+00:23:59,641 --> 00:24:00,165
+Speaker 0: I have no idea.
+
+258
+00:24:00,205 --> 00:24:02,218
+Speaker 0: I've never played a God of War because they're not my bag.
+
+259
+00:24:02,881 --> 00:24:07,340
+Speaker 1: It's that, it's that, it's that painted, the guy with the pant all over him who shops people up.
+
+260
+00:24:07,480 --> 00:24:09,424
+Speaker 0: I like competitive multiplayer games.
+
+261
+00:24:09,745 --> 00:24:16,560
+Speaker 0: I like civilization games and I like a hundred hour multiplayer co-op RPGs.
+
+262
+00:24:18,282 --> 00:24:19,869
+Speaker 1: I'm not opposed to playing a God of War.
+
+263
+00:24:19,909 --> 00:24:22,280
+Speaker 1: I'm just not going to go out of my way and spend money to play one.
+
+264
+00:24:22,761 --> 00:24:22,941
+Speaker 0: Yeah.
+
+265
+00:24:22,961 --> 00:24:23,723
+Speaker 0: Or you know what?
+
+266
+00:24:23,743 --> 00:24:29,840
+Speaker 0: The other way I'll put it, if I did not have a job and yet could live my life, I would play a lot of video games that I'm not playing today.
+
+267
+00:24:30,562 --> 00:24:31,144
+Speaker 1: Oh yeah, probably.
+
+268
+00:24:31,224 --> 00:24:31,445
+Speaker 1: All right.
+
+269
+00:24:31,465 --> 00:24:31,986
+Speaker 1: Thing of the day.
+
+270
+00:24:32,428 --> 00:24:51,500
+Speaker 1: So, you know, people, if you're not familiar with the demo scene, just really quickly, people take old low powered electronic devices, usually computers, and they find clever ways to write software for those computers, to make the computers do things that would be otherwise shockingly impossible for such low powered hardware.
+
+271
+00:24:52,420 --> 00:24:55,431
+Speaker 1: The demo scene was a big deal, but it's still a big deal.
+
+272
+00:24:55,491 --> 00:24:57,720
+Speaker 1: People are still doing demos even today.
+
+273
+00:24:58,201 --> 00:25:03,140
+Speaker 1: There's lots of conferences and there's, you know, competitions and all sorts of things.
+
+274
+00:25:03,360 --> 00:25:10,920
+Speaker 1: So two years ago, someone did a demo called Area 5150, which was maybe one of the best demos there I've seen.
+
+275
+00:25:12,300 --> 00:25:23,540
+Speaker 1: Maybe, I don't know what other, I haven't seen, I'm not that deep in the demo scene, so I don't feel confident in saying best ever, but of the ones I've seen, which is a large portion, this is one of the most impressive.
+
+276
+00:25:24,041 --> 00:25:30,372
+Speaker 1: They got an IBM 8080, so not a, what, not a zero, not a 186, 286, a 086, or not even six, the six isn't there yet.
+
+277
+00:25:35,422 --> 00:25:39,600
+Speaker 1: And then it has a CGA video card, not even VGA.
+
+278
+00:25:40,420 --> 00:25:44,940
+Speaker 0: CGA, my first computer, my first interaction with computers was at least VGA.
+
+279
+00:25:46,021 --> 00:25:47,104
+Speaker 1: Yeah.
+
+280
+00:25:47,244 --> 00:25:56,418
+Speaker 1: And so usually the kind of graphics that that can display are things like Commander Keen with a limited color palette, where it's just like yellow, pink, blue, white, black, and that's it.
+
+281
+00:25:58,082 --> 00:26:02,180
+Speaker 1: And so they took that computer with no other modifications, right?
+
+282
+00:26:02,761 --> 00:26:11,120
+Speaker 1: And they got it to do this, like 32, lots of colors at a time, way higher resolution than it has any business doing.
+
+283
+00:26:12,263 --> 00:26:18,700
+Speaker 1: You know, the overscan is like gone, even though that should be that border around the screen that you can't mess with because of overscan.
+
+284
+00:26:19,021 --> 00:26:22,220
+Speaker 1: They get rid of that and they draw things there and make stuff happen there.
+
+285
+00:26:22,782 --> 00:26:23,847
+Speaker 1: It's completely wild.
+
+286
+00:26:24,449 --> 00:26:26,640
+Speaker 1: But the thing of the day is not just the demo.
+
+287
+00:26:26,860 --> 00:26:50,140
+Speaker 1: It is this other video visiting Area 5150, investigating a PC demo, where this person goes over the demo and explains to you what the hell is going on, which is very necessary for you to get a full appreciation of what the limits are of the very weak ass computer they used and how they overcame them with very clever techniques.
+
+288
+00:26:51,600 --> 00:26:56,420
+Speaker 1: And I think, you know, that's sort of like the, you know, essential to appreciating any demo.
+
+289
+00:26:56,440 --> 00:27:06,453
+Speaker 1: Because if you just watch this demo and you don't fully understand how weak that computer is and what it normally does, it'll just be like, "Oh, who cares that the computer's doing this?
+
+290
+00:27:06,494 --> 00:27:07,076
+Speaker 1: That looks kind of
+
+291
+00:27:07,097 --> 00:27:07,338
+Speaker 1: crappy.".
+
+292
+00:27:07,800 --> 00:27:15,919
+Speaker 0: It would be like if a regular old Atari 2600 animated something that looked like a Pixar movie and you're just looking at it like...
+
+293
+00:27:16,560 --> 00:27:26,900
+Speaker 1: It would be like if somebody, right, pulled up on like a three-wheeled rusty tricycle to the Tour de France and they're not going to win, obviously, right?
+
+294
+00:27:27,141 --> 00:27:29,026
+Speaker 1: But they somehow finish the race.
+
+295
+00:27:30,611 --> 00:27:33,300
+Speaker 1: Like they cross the finish line, maybe even ahead of one person.
+
+296
+00:27:35,102 --> 00:27:38,180
+Speaker 0: It's like a Pine Boggs derby car that somehow it's 70 miles an hour.
+
+297
+00:27:38,862 --> 00:27:39,165
+Speaker 1: Right.
+
+298
+00:27:39,266 --> 00:27:40,398
+Speaker 1: It's like, that's what this is.
+
+299
+00:27:42,621 --> 00:27:46,109
+Speaker 0: So in the meta moment, we got to catch up on a lot of stuff.
+
+300
+00:27:46,189 --> 00:27:51,200
+Speaker 0: So I got to pick the selection of which pages of the collected movement drill works.
+
+301
+00:27:51,600 --> 00:27:53,839
+Speaker 0: We're going to read as our next book club book.
+
+302
+00:27:54,561 --> 00:28:02,360
+Speaker 1: I wish you would have told me, but when I was in Portland, because they have the bookstore there that is, I cannot deny, better than any bookstore I may have been to.
+
+303
+00:28:02,620 --> 00:28:03,423
+Speaker 0: Ooh, that's a good point.
+
+304
+00:28:03,463 --> 00:28:07,920
+Speaker 0: When I was in Portland, I spent a lot of time in... There was a lot of bookstores around.
+
+305
+00:28:08,220 --> 00:28:14,180
+Speaker 1: Specifically Powell's Books, which is like, it was the most crowded I've seen any bookstore, but also the best.
+
+306
+00:28:14,480 --> 00:28:15,355
+Speaker 0: More crowded than Trident?
+
+307
+00:28:16,581 --> 00:28:19,230
+Speaker 1: If you opened... Oh yeah, Trident's got nothing on it.
+
+308
+00:28:19,772 --> 00:28:20,836
+Speaker 1: Are you kidding me?
+
+309
+00:28:20,856 --> 00:28:22,000
+Speaker 1: It's not even close.
+
+310
+00:28:22,422 --> 00:28:23,045
+Speaker 0: All right.
+
+311
+00:28:24,433 --> 00:28:25,820
+Speaker 0: We're going to be at PAX Unplugged, of course.
+
+312
+00:28:27,881 --> 00:28:30,007
+Speaker 0: A listener already said they're going to be at PAX Unplugged.
+
+313
+00:28:30,288 --> 00:28:34,339
+Speaker 0: Try to find us, try to play a game, but I'll warn you, we will likely be doing a panel or two.
+
+314
+00:28:34,780 --> 00:28:39,160
+Speaker 0: We will likely be doing a learn and play or two, and there's a good chance we'll be enforcing.
+
+315
+00:28:40,980 --> 00:28:45,179
+Speaker 0: So Godspeed if you want to try to find us at PAX Unplugged, because it's only three days.
+
+316
+00:28:47,081 --> 00:28:50,600
+Speaker 0: Otherwise we're going to try to do the normal Geek Night schedule for the foreseeable future.
+
+317
+00:28:52,100 --> 00:28:53,024
+Speaker 0: Yeah, I don't know what else.
+
+318
+00:28:53,064 --> 00:28:56,880
+Speaker 0: we got to give us a week or so to get back into our normal cadence of things.
+
+319
+00:28:58,240 --> 00:29:01,697
+Speaker 1: Yeah, is there any other meta moments that I could think of?
+
+320
+00:29:01,758 --> 00:29:02,200
+Speaker 1: Not really.
+
+321
+00:29:02,740 --> 00:29:03,362
+Speaker 1: No.
+
+322
+00:29:03,762 --> 00:29:12,160
+Speaker 0: Just if you didn't listen to or watch any of the handful of episodes I did while Scott was gone, I'll do a little stinger bit at the end about those.
+
+323
+00:29:12,220 --> 00:29:15,210
+Speaker 0: But basically I did some solo episodes, and I'm going to keep these up.
+
+324
+00:29:15,691 --> 00:29:18,260
+Speaker 0: I want to do at least one or two a month, like on a Friday or something.
+
+325
+00:29:18,600 --> 00:29:24,740
+Speaker 0: But basically what I'm doing is I'm just going to pick something where I got some idea, and I'm just going to get my idea out there, like here's what I'm thinking.
+
+326
+00:29:25,341 --> 00:29:32,460
+Speaker 0: And my goal is I want the listener to tell me why my idea is stupid and where I'm wrong, or point me at how to learn this thing better.
+
+327
+00:29:33,181 --> 00:29:44,280
+Speaker 0: And just go from there and see if I can either get a working knowledge of a specific part of quantum mechanics I'm interested in, or just decide that Roger Penrose is right and I'm wrong and dumb and I should stop trying to be smarter than him.
+
+328
+00:29:44,680 --> 00:29:49,593
+Speaker 0: So let's get into it, because we have played a new game, and I like this game a lot.
+
+329
+00:29:49,633 --> 00:29:51,759
+Speaker 0: This game is called Friends vs.
+
+330
+00:29:51,799 --> 00:29:52,060
+Speaker 0: Friends.
+
+331
+00:29:52,880 --> 00:29:55,327
+Speaker 0: It came out in 2023.
+
+332
+00:29:55,327 --> 00:29:58,716
+Speaker 0: It came out of a little indie studio called Raw Fury.
+
+333
+00:29:58,756 --> 00:30:00,200
+Speaker 0: that's been around for about a decade.
+
+334
+00:30:00,900 --> 00:30:05,139
+Speaker 0: They actually made one of these small movement troll games that came out this year.
+
+335
+00:30:05,920 --> 00:30:10,436
+Speaker 0: Snufkin, Melody of Movement Valley, which is on my wishlist because I want to play it, and it's on the Switch.
+
+336
+00:30:10,456 --> 00:30:11,620
+Speaker 0: I just haven't played it yet.
+
+337
+00:30:11,640 --> 00:30:12,945
+Speaker 1: I saw Friends vs.
+
+338
+00:30:12,985 --> 00:30:17,200
+Speaker 1: Friends when it was being announced and when it first came out, and I added it to my wishlist.
+
+339
+00:30:17,540 --> 00:30:21,131
+Speaker 1: And it was very interesting because I was like, oh, it has things I like.
+
+340
+00:30:21,271 --> 00:30:24,240
+Speaker 1: It is an FPS, but it's only multiplayer.
+
+341
+00:30:25,901 --> 00:30:32,479
+Speaker 1: But it's got kinda retro-ish, but not totally retro-ish, really stylish graphics and characters going on.
+
+342
+00:30:33,462 --> 00:30:37,554
+Speaker 1: And you play it with very small numbers of people, like 1/1, 2/2, or 3/3, mostly
+
+343
+00:30:37,554 --> 00:30:41,085
+Speaker 1: 1/1. 2/2
+
+344
+00:30:41,085 --> 00:30:42,420
+Speaker 1: seems like the sweet spot.
+
+345
+00:30:43,000 --> 00:30:44,042
+Speaker 1: It does, yeah.
+
+346
+00:30:44,062 --> 00:30:46,428
+Speaker 1: And it involves cards, right?
+
+347
+00:30:46,448 --> 00:30:51,740
+Speaker 1: Because you have cards in your hand, and it's sort of like a deck builder as well as an FPS at the same time.
+
+348
+00:30:52,220 --> 00:30:54,345
+Speaker 1: I don't know of any other game that does that.
+
+349
+00:30:54,445 --> 00:31:00,198
+Speaker 1: It is unique in that regard, combining those two things, as far as I'm aware, and I know of many games.
+
+350
+00:31:01,521 --> 00:31:09,819
+Speaker 0: And that combination also leads to what I fundamentally like about it the most, but the last major attribute you should know.
+
+351
+00:31:10,640 --> 00:31:14,406
+Speaker 0: Until October 1st, this $10 game is on sale for $2.49 on Steam.
+
+352
+00:31:14,426 --> 00:31:17,091
+Speaker 0: I have spent more money on dropping money by accident.
+
+353
+00:31:24,862 --> 00:31:34,440
+Speaker 1: Yeah, so I wishlisted the game, and I said, "Yep, I wanna play that game, but I gotta follow my policy of only buy a game the moment I'm going to install and play
+
+354
+00:31:34,460 --> 00:31:34,500
+Speaker 1: it.".
+
+355
+00:31:34,580 --> 00:31:37,666
+Speaker 1: And then a friend was like, "Hey, I played this
+
+356
+00:31:37,706 --> 00:31:37,926
+Speaker 1: game.".
+
+357
+00:31:37,966 --> 00:31:39,409
+Speaker 1: And I'm like, "Oh, I remember that game.
+
+358
+00:31:39,509 --> 00:31:45,560
+Speaker 1: That was on my list of games that I want to play, but will not install and buy until the moment I am going to play them.
+
+359
+00:31:46,101 --> 00:31:47,925
+Speaker 1: Let us meet the
+
+360
+00:31:47,945 --> 00:31:48,245
+Speaker 1: moment.".
+
+361
+00:31:48,446 --> 00:31:51,091
+Speaker 1: And we met the moment, and I played Friends vs.
+
+362
+00:31:51,111 --> 00:31:54,578
+Speaker 1: Friends, and now, more friends have come to play Friends vs.
+
+363
+00:31:54,598 --> 00:31:55,660
+Speaker 1: Friends, and we're getting our money's worth.
+
+364
+00:31:55,940 --> 00:31:56,960
+Speaker 1: We're getting more than our money's worth.
+
+365
+00:31:57,000 --> 00:32:02,759
+Speaker 0: Yeah, well, because I saw you two talk about it on two non-king-secutive occasions, so I was like, "I'm gonna play it right
+
+366
+00:32:02,799 --> 00:32:02,960
+Speaker 0: now.".
+
+367
+00:32:03,140 --> 00:32:10,960
+Speaker 0: And I just played it, and then I got one of our other friends to play it, and now we've got enough people to get, like, a 3v3 going, no problem, just in, like, our one Discord.
+
+368
+00:32:11,702 --> 00:32:12,824
+Speaker 1: So here's how the game works.
+
+369
+00:32:13,044 --> 00:32:17,354
+Speaker 1: So you buy the game for a couple bucks, and you join a battle.
+
+370
+00:32:17,915 --> 00:32:19,017
+Speaker 1: Well, first you gotta make a deck.
+
+371
+00:32:19,057 --> 00:32:20,220
+Speaker 1: You get a deck to start with.
+
+372
+00:32:20,440 --> 00:32:27,712
+Speaker 1: And you can, as you play, you're gonna get more currency, and you can open packs, and all this stuff, but you can't spend any money to do this.
+
+373
+00:32:27,852 --> 00:32:29,235
+Speaker 1: It's pure grind.
+
+374
+00:32:29,956 --> 00:32:32,320
+Speaker 1: It's grind only to upgrade your deck.
+
+375
+00:32:32,700 --> 00:32:34,727
+Speaker 0: And it's fairly automatic grind.
+
+376
+00:32:34,807 --> 00:32:37,195
+Speaker 0: Just playing will get you everything over time.
+
+377
+00:32:37,235 --> 00:32:38,720
+Speaker 0: You can get it a little faster.
+
+378
+00:32:39,480 --> 00:32:46,000
+Speaker 1: So I mean, you are at somewhat of a disadvantage to people who've been playing longer, but you're at a skill disadvantage to them anyway.
+
+379
+00:32:46,861 --> 00:32:55,500
+Speaker 1: Because even if we swapped accounts, and I got an account that was mega old and had every card and fully leveled up, I would lose to someone with a brand new account who knew what the fuck they were doing.
+
+380
+00:32:55,520 --> 00:32:58,651
+Speaker 0: Yeah, no, Penny fucking steamrolled me.
+
+381
+00:32:59,393 --> 00:33:01,159
+Speaker 0: And it wasn't cards, it was headshots.
+
+382
+00:33:03,501 --> 00:33:03,846
+Speaker 1: Exactly.
+
+383
+00:33:04,129 --> 00:33:05,000
+Speaker 1: I'm bad at the headshots.
+
+384
+00:33:05,560 --> 00:33:10,140
+Speaker 0: I got better at the headshots, and it made me better at Overwatch headshots.
+
+385
+00:33:10,700 --> 00:33:14,792
+Speaker 1: Right, but you build a deck, and you spawn, and you have a weapon.
+
+386
+00:33:14,812 --> 00:33:17,500
+Speaker 1: There's melee weapons and ranged weapons of various kinds.
+
+387
+00:33:18,060 --> 00:33:22,732
+Speaker 1: And you can flip through the cards in your hand left or right, and then you can use cards.
+
+388
+00:33:23,313 --> 00:33:25,880
+Speaker 1: And you use a card, and the card does what it says.
+
+389
+00:33:26,241 --> 00:33:36,419
+Speaker 1: Some of the cards are boring, like, "Give me more health," or, "Temporarily put on some armor," or, "Make my head small for a little while so it's hard to hit me in the
+
+390
+00:33:36,459 --> 00:33:36,680
+Speaker 1: head.".
+
+391
+00:33:36,860 --> 00:33:39,546
+Speaker 1: Things of that nature that are kind of obvious for an FPS.
+
+392
+00:33:39,606 --> 00:33:45,800
+Speaker 1: Some cards drop this weapon on the ground, so I now have a different, better weapon than the one I came with.
+
+393
+00:33:45,820 --> 00:33:48,063
+Speaker 1: There's no weapons lying around the levels, right?
+
+394
+00:33:49,345 --> 00:33:51,627
+Speaker 1: But now you got the interesting cards.
+
+395
+00:33:51,768 --> 00:33:56,413
+Speaker 1: There's one that's like, "Alright, cover me in an invincible shield of ice.
+
+396
+00:33:56,794 --> 00:34:01,500
+Speaker 1: I can't move, I can see, I can't shoot, but at least I'll live a little longer.
+
+397
+00:34:01,860 --> 00:34:08,359
+Speaker 1: And so if a teammate comes or my opponent runs out of, has to reload or something, I'll get a chance, and I won't die right at this
+
+398
+00:34:08,418 --> 00:34:08,679
+Speaker 1: moment.".
+
+399
+00:34:08,940 --> 00:34:12,645
+Speaker 0: Or, "Drop a turret, and now you've just got a turret that's fighting with
+
+400
+00:34:12,665 --> 00:34:12,824
+Speaker 0: you.".
+
+401
+00:34:13,226 --> 00:34:15,248
+Speaker 0: Or, "Hot potato, play this
+
+402
+00:34:15,308 --> 00:34:15,649
+Speaker 0: card.".
+
+403
+00:34:15,829 --> 00:34:17,170
+Speaker 0: It appears in the other person's hand.
+
+404
+00:34:17,511 --> 00:34:24,520
+Speaker 0: If they don't play the card in the next five seconds, it blows up, and then they play it back to you, and then you've got five seconds, and this just goes on until someone bites you.
+
+405
+00:34:24,520 --> 00:34:27,004
+Speaker 1: But there's a card that's like, "Alright, use this card.
+
+406
+00:34:27,143 --> 00:34:29,288
+Speaker 1: Now, whenever you use a card, it throws a
+
+407
+00:34:29,328 --> 00:34:29,728
+Speaker 1: bomb.".
+
+408
+00:34:29,809 --> 00:34:33,554
+Speaker 1: And so you fill your hand, you got another card that's like a lottery card.
+
+409
+00:34:33,594 --> 00:34:36,760
+Speaker 1: that's like one in a zillion chance for something good to happen.
+
+410
+00:34:37,199 --> 00:34:42,150
+Speaker 1: But if something bad happens, your hand fills with garbage cards, and you have to use the garbage cards to get rid of them.
+
+411
+00:34:42,531 --> 00:34:47,159
+Speaker 1: But if you got the bomb card, all those garbage cards are now bombs that you can throw.
+
+412
+00:34:48,340 --> 00:34:59,990
+Speaker 0: The game's just natively fun, and the cards are natively fun, but you can make combos with the cards, and it's not 100% deterministic that you get to do what you wanted, because it's like magic.
+
+413
+00:35:00,030 --> 00:35:13,120
+Speaker 0: There's a minimum deck size, and there's also, what we called it when I was playing with other people while you were away, a maximum tonnage, like an old mech warrior, because you get to use a maximum number of points and a minimum number of cards.
+
+414
+00:35:13,541 --> 00:35:24,300
+Speaker 0: You can have more cards, but there's a limit on how powerful all the cards in your deck can be, and you draw the cards over the course of the match, so it's not like you're always gonna get your combo.
+
+415
+00:35:25,180 --> 00:35:27,905
+Speaker 1: In the first round, you draw a few cards randomly.
+
+416
+00:35:27,925 --> 00:35:32,733
+Speaker 1: You can't just pick which ones from your deck you're gonna get, so you only have access to the ones you've drawn.
+
+417
+00:35:33,154 --> 00:35:36,500
+Speaker 1: If you don't use some, you'll still have them in the next round.
+
+418
+00:35:37,141 --> 00:35:45,080
+Speaker 1: So you can try to get your combo that way, but if you've got one card in the combo, don't use it until you get the other card, and then you'll get a win during some round.
+
+419
+00:35:45,240 --> 00:35:48,185
+Speaker 0: Or you make the calculus of like, "Do I think I can win this one?
+
+420
+00:35:48,406 --> 00:35:51,511
+Speaker 0: Should I use another card to push it over the line, or am I fucked?
+
+421
+00:35:51,711 --> 00:35:56,199
+Speaker 0: Should I just save my cards, try to win if I can, and just win the next
+
+422
+00:35:56,259 --> 00:35:56,520
+Speaker 0: round?".
+
+423
+00:35:57,360 --> 00:35:57,881
+Speaker 1: Exactly.
+
+424
+00:35:57,961 --> 00:36:00,745
+Speaker 1: So, there's so many interesting things you can do.
+
+425
+00:36:00,785 --> 00:36:11,360
+Speaker 1: The most basic thing I did, which is just really straightforward and easy, was I had a card, I think you'll get it when you start the game, that's like, "Freeze your opponent's weapon for a limited
+
+426
+00:36:11,400 --> 00:36:11,500
+Speaker 1: time.".
+
+427
+00:36:11,500 --> 00:36:12,258
+Speaker 0: Oh, that one's so good.
+
+428
+00:36:12,960 --> 00:36:13,702
+Speaker 1: So they can't shoot.
+
+429
+00:36:14,143 --> 00:36:19,474
+Speaker 1: And it's like, "Oh, I'll just hide, and then when they get close, ah!
+
+430
+00:36:19,714 --> 00:36:19,935
+Speaker 1: I can
+
+431
+00:36:19,975 --> 00:36:20,376
+Speaker 1: freeze!".
+
+432
+00:36:20,516 --> 00:36:22,240
+Speaker 1: And it's like, I don't have to aim that shit.
+
+433
+00:36:22,821 --> 00:36:30,110
+Speaker 0: But then you combo that with another card, bullet time, slows everybody down, and for like six seconds, the game is just in super slow motion.
+
+434
+00:36:30,431 --> 00:36:37,360
+Speaker 0: So you do 'em both, now they can't shoot you, you can shoot them, and everyone's moving in slow motion, I hope you can click on that head.
+
+435
+00:36:38,221 --> 00:36:48,476
+Speaker 1: The other card that worked very well for me was the ninja log, which is basically, it's basically when the next attack hits you, it doesn't hit you.
+
+436
+00:36:48,576 --> 00:36:51,000
+Speaker 1: Instead, a log appears like fucking Naruto.
+
+437
+00:36:52,800 --> 00:37:02,557
+Speaker 1: And you didn't get hit by that first attack, so this really helps with my poor reaction time of old man hand, because someone shoots me first, and now, "Haha!
+
+438
+00:37:02,697 --> 00:37:03,979
+Speaker 1: I'm shooting at them and they're shooting at
+
+439
+00:37:04,020 --> 00:37:04,100
+Speaker 1: me!".
+
+440
+00:37:04,300 --> 00:37:10,769
+Speaker 1: And on sort of equal timing, because their advantage of seeing me first has now been eliminated.
+
+441
+00:37:12,030 --> 00:37:19,180
+Speaker 1: And now it's just gonna come down to, I guess, the accuracy of the following shots, rather than me losing because I got shot first.
+
+442
+00:37:19,443 --> 00:37:20,778
+Speaker 1: The ninja log protected me.
+
+443
+00:37:21,461 --> 00:37:25,640
+Speaker 0: The primary gameplay beyond the cards, because the cards are real fun, like they make the game.
+
+444
+00:37:25,820 --> 00:37:28,020
+Speaker 1: The cards are almost half the game.
+
+445
+00:37:28,260 --> 00:37:43,715
+Speaker 0: Yeah, but the game fundamentally is a competitive first person shooter, like duels, like best of five, best of three matches, where you're just trying to kill the other people, shoot 'em in the head, sneak it around the map, there's a bunch of different maps, the maps are all
+
+446
+00:37:44,296 --> 00:37:44,976
+Speaker 1: wildly
+
+447
+00:37:45,016 --> 00:37:48,640
+Speaker 0: different in what's going on, they all got fun stuff to interact with.
+
+448
+00:37:48,680 --> 00:37:58,280
+Speaker 0: Like every map, like one of them is a bunch of cars driving down the highway, one of them is a subway station, one of them is like a theater with a bunch of stuff in it.
+
+449
+00:37:59,641 --> 00:38:10,700
+Speaker 0: I really like the one that has the four colors, the reality one, like the maze with the four color areas, because if you look up, there's a jumbotron that shows a camera pointed at the other areas, so people can't hide from you that easily.
+
+450
+00:38:11,641 --> 00:38:15,819
+Speaker 1: I like the one with the swimming pools, because the water can do lots of fun, unexpected things.
+
+451
+00:38:17,060 --> 00:38:20,820
+Speaker 1: There's also the one that's just like a tiny island with a mountain in the middle of it, and that's it.
+
+452
+00:38:20,960 --> 00:38:23,440
+Speaker 0: I love to jump up on top of the mountain and just throw a bunch of turrets everywhere.
+
+453
+00:38:23,940 --> 00:38:24,040
+Speaker 0: Right,
+
+454
+00:38:24,100 --> 00:38:35,840
+Speaker 1: it's like do you get up on top of the mountain or do you go around the side, it's like the advantage of height, but then you can be seen from all sides, whereas if you're on only one side, they can only see you if they're at the top or on the same side as you.
+
+455
+00:38:36,660 --> 00:38:38,920
+Speaker 1: And you still have the water thing going on as well.
+
+456
+00:38:38,940 --> 00:38:49,720
+Speaker 0: Three times, like I thought it would have been fine, they play like, first she's got the, I move slower, and then she's moving faster, and then she's got like a katana, so I'm just fucked, like I can't get away.
+
+457
+00:38:52,461 --> 00:38:59,920
+Speaker 0: The matches are crazy quick, like a couple minutes unless it's like a really tense, long, sneaky standoff.
+
+458
+00:39:00,521 --> 00:39:15,000
+Speaker 1: So even when I go and play against randos online and just get completely slaughtered every single match, they're so fast that it really doesn't bother me so much, and as long as I do something, I'm still earning and upgrading my cards and my deck, and getting new cards.
+
+459
+00:39:15,360 --> 00:39:27,040
+Speaker 1: So it's like okay, I'm just sort of learning the game, practicing, losing a whole bunch, because I terrible, but I'm upgrading my deck and practicing, which hopefully I will improve slowly over time.
+
+460
+00:39:27,400 --> 00:39:34,070
+Speaker 0: So the game distills some of the FPS stuff too, that I appreciate, in that you're either running or crouching.
+
+461
+00:39:34,591 --> 00:39:36,514
+Speaker 0: If you're running, you make footstep noises.
+
+462
+00:39:36,914 --> 00:39:40,700
+Speaker 0: If you're crouching, you move a lot slower, and you don't make footstep noises.
+
+463
+00:39:40,760 --> 00:39:47,280
+Speaker 0: They just got rid of that like walk in the middle that a lot of FPSs have had forever because it doesn't add anything to the game.
+
+464
+00:39:47,621 --> 00:39:54,300
+Speaker 0: Like every aspect is distilled to you are playing a fast, dual FPS with cards with your friends.
+
+465
+00:39:55,861 --> 00:40:10,100
+Speaker 0: And what it evokes, the thing that I think I like about this game the most, is that it feels a lot like how it felt when I was in high school, and I would go to a weird Quake server with some of my friends, and we'd play weird mods against each other.
+
+466
+00:40:10,400 --> 00:40:11,843
+Speaker 0: Like it feels like that.
+
+467
+00:40:14,527 --> 00:40:21,900
+Speaker 0: And the cards sort of bring in the randomness of modding and nonsense, and it lets nonsense happen, so it isn't just a game of clicking on the heads.
+
+468
+00:40:22,240 --> 00:40:27,630
+Speaker 0: But at the same time, if you're better at FPSs, you will win a lot more often.
+
+469
+00:40:27,650 --> 00:40:33,540
+Speaker 0: FPS skills are 80% of the game, card management is 20% in terms of actually winning.
+
+470
+00:40:36,221 --> 00:40:41,120
+Speaker 1: So let's talk about some things other than that are in the game but aren't part of the game.
+
+471
+00:40:41,380 --> 00:40:46,300
+Speaker 1: So there's a lobby in the game, which disappointingly is only a solo lobby.
+
+472
+00:40:48,361 --> 00:40:48,922
+Speaker 1: It's basically like.
+
+473
+00:40:48,942 --> 00:40:59,120
+Speaker 1: you can just use the menus to customize your deck and do all that stuff, or you can walk around this little area which is sort of a strip mall with a laundromat and a diner and various businesses.
+
+474
+00:40:59,360 --> 00:41:01,980
+Speaker 0: A few little hidden things to find, like some characters.
+
+475
+00:41:02,822 --> 00:41:06,620
+Speaker 1: All the characters of the game are there, you can switch characters this way.
+
+476
+00:41:07,140 --> 00:41:09,686
+Speaker 1: And it's like this really fun environment to hang out in.
+
+477
+00:41:10,067 --> 00:41:15,300
+Speaker 1: They don't let you hang out in it with other people, even when you're on a team and you're going to queue together.
+
+478
+00:41:15,681 --> 00:41:16,865
+Speaker 1: That's really disappointing.
+
+479
+00:41:16,905 --> 00:41:19,415
+Speaker 1: It would be fun to hang out in their natural selection style.
+
+480
+00:41:19,977 --> 00:41:20,560
+Speaker 1: Really sad.
+
+481
+00:41:21,340 --> 00:41:27,780
+Speaker 1: Really opposite of sad is how amazing that environment is, but also some of the specific things they've put in there.
+
+482
+00:41:28,624 --> 00:41:31,320
+Speaker 1: The biggest one being the fan art gallery.
+
+483
+00:41:32,021 --> 00:41:32,445
+Speaker 0: Yes!
+
+484
+00:41:32,465 --> 00:41:32,687
+Speaker 0: Yes!
+
+485
+00:41:32,707 --> 00:41:33,595
+Speaker 0: The fan art gallery is brilliant.
+
+486
+00:41:35,280 --> 00:41:37,999
+Speaker 1: There is no beating around the bush, this is a furry game.
+
+487
+00:41:38,620 --> 00:41:41,219
+Speaker 1: All the characters are fur people, deal with it.
+
+488
+00:41:42,341 --> 00:41:51,740
+Speaker 1: In the basement of one of the buildings, in the game, in the lobby, they constructed a gallery of all these fan arts that they've gotten.
+
+489
+00:41:51,920 --> 00:41:54,871
+Speaker 1: And you can go down there and it's just in the game itself.
+
+490
+00:41:54,951 --> 00:41:57,520
+Speaker 1: It's not like on their website or on their social media.
+
+491
+00:41:58,461 --> 00:42:07,160
+Speaker 1: And if you send them fan arts, I've got to assume that they will expand that area and include more fan arts in the game itself.
+
+492
+00:42:08,020 --> 00:42:16,300
+Speaker 1: So you can go down there and it's actually quite amazing, you know, this gallery space that's built into the game.
+
+493
+00:42:17,220 --> 00:42:17,923
+Speaker 1: Fantastic.
+
+494
+00:42:17,943 --> 00:42:21,113
+Speaker 1: I've never seen other games do that to that extent.
+
+495
+00:42:22,659 --> 00:42:23,040
+Speaker 1: Incredible.
+
+496
+00:42:23,800 --> 00:42:29,400
+Speaker 0: The characters also add something to the game in that they all have very different cool designs.
+
+497
+00:42:30,200 --> 00:42:32,107
+Speaker 0: But each one of them has a default power.
+
+498
+00:42:32,127 --> 00:42:34,355
+Speaker 0: It's almost like a card they always have.
+
+499
+00:42:34,375 --> 00:42:35,720
+Speaker 0: that always gets played every round.
+
+500
+00:42:36,361 --> 00:42:39,220
+Speaker 0: So you can have a little bit of control over what you start with.
+
+501
+00:42:39,580 --> 00:42:42,050
+Speaker 0: I've been using the bird guy who always starts with the little machine gun.
+
+502
+00:42:42,070 --> 00:42:43,978
+Speaker 0: That's my main guy right now.
+
+503
+00:42:46,541 --> 00:42:52,780
+Speaker 0: But there's also a ton of cosmetic stuff you can do to the characters that I just haven't engaged with yet, but I feel like I will.
+
+504
+00:42:53,220 --> 00:42:55,859
+Speaker 0: And it seems like people are into this game really engaged with that.
+
+505
+00:42:58,040 --> 00:43:01,153
+Speaker 0: And there's one specific thing that stood out that I noticed.
+
+506
+00:43:01,173 --> 00:43:02,920
+Speaker 0: There's a few ways to do the multiplayer.
+
+507
+00:43:03,821 --> 00:43:05,027
+Speaker 0: It has a pretty good matchmaking.
+
+508
+00:43:05,048 --> 00:43:05,992
+Speaker 0: that just happens.
+
+509
+00:43:06,053 --> 00:43:07,460
+Speaker 0: You can just play with strangers.
+
+510
+00:43:08,022 --> 00:43:14,040
+Speaker 0: But if you want to make a password protected lobby, like in normal games, what do you do?
+
+511
+00:43:14,120 --> 00:43:14,924
+Speaker 0: You make the lobby.
+
+512
+00:43:14,944 --> 00:43:18,460
+Speaker 0: You either invite your friends directly through Steam or through the game.
+
+513
+00:43:19,041 --> 00:43:23,320
+Speaker 0: Or you put a password on your named lobby and tell your friends, like, come into it.
+
+514
+00:43:23,620 --> 00:43:27,418
+Speaker 0: The way this one works, I noticed the button just says "Join or Create
+
+515
+00:43:27,459 --> 00:43:27,720
+Speaker 0: Game."
+
+516
+00:43:28,284 --> 00:43:30,680
+Speaker 0: And you can type a string of at least six characters.
+
+517
+00:43:31,402 --> 00:43:32,524
+Speaker 0: You can type any string.
+
+518
+00:43:32,544 --> 00:43:39,120
+Speaker 0: And if no one is playing a game with that string, you make it.
+
+519
+00:43:41,440 --> 00:43:50,580
+Speaker 0: So if you type, I don't know, a really funny word, and someone else has also typed that really funny word, you're in a game together now.
+
+520
+00:43:52,181 --> 00:43:53,385
+Speaker 0: It's not quite a password.
+
+521
+00:43:53,426 --> 00:43:57,720
+Speaker 0: It's something new that I have not seen this pattern in online games before.
+
+522
+00:43:58,101 --> 00:43:59,644
+Speaker 0: And I think it's a really good pattern.
+
+523
+00:43:59,724 --> 00:44:06,500
+Speaker 0: And I hope there are people out there who are making lobbies on words just for fun or trying to find people.
+
+524
+00:44:07,641 --> 00:44:08,043
+Speaker 0: I don't know.
+
+525
+00:44:08,063 --> 00:44:12,360
+Speaker 0: I want to see the emergent behavior from this design pattern specifically.
+
+526
+00:44:18,181 --> 00:44:18,341
+Speaker 1: It's $2.49.
+
+527
+00:44:18,341 --> 00:44:22,014
+Speaker 0: If you listen to Geek Nights, buy this game.
+
+528
+00:44:24,061 --> 00:44:26,508
+Speaker 1: With a whole bunch of DLCs in a bundle.
+
+529
+00:44:27,250 --> 00:44:30,038
+Speaker 1: And the DLCs, I think, are just cosmetic, but who cares?
+
+530
+00:44:30,058 --> 00:44:30,640
+Speaker 1: They're so cheap.
+
+531
+00:44:31,901 --> 00:44:34,146
+Speaker 1: And they're never going to do any pay-to-wins, ever.
+
+532
+00:44:34,868 --> 00:44:38,397
+Speaker 1: It's just time grinding, and even not that much of that, really.
+
+533
+00:44:38,778 --> 00:44:39,720
+Speaker 1: It doesn't matter that much.
+
+534
+00:44:40,120 --> 00:44:58,700
+Speaker 1: So if you want to play something with a unique concept, with amazing arts and atmosphere to sort of make up for any suffering you have from losing a bunch, or maybe you want to really get good at it and have high skills in quick matches, or maybe you don't want high skills, but you have enough friends.
+
+535
+00:44:58,880 --> 00:45:00,023
+Speaker 1: You don't need that many friends.
+
+536
+00:45:00,063 --> 00:45:03,433
+Speaker 1: You just need one friend is enough to play this game.
+
+537
+00:45:03,453 --> 00:45:06,160
+Speaker 1: You can play 1v1, and that's a full experience.
+
+538
+00:45:06,641 --> 00:45:08,244
+Speaker 0: And they're really different.
+
+539
+00:45:08,485 --> 00:45:10,590
+Speaker 0: 1v1 is like a really tense duel.
+
+540
+00:45:10,610 --> 00:45:14,820
+Speaker 0: You know that feeling we used to get at RIT when you're playing old-school Counter-Strike?
+
+541
+00:45:15,201 --> 00:45:20,153
+Speaker 0: And there's just one person alive on each team, and that tense, sneaking-around standoff.
+
+542
+00:45:20,634 --> 00:45:23,020
+Speaker 0: You get that feeling a lot in this game.
+
+543
+00:45:23,660 --> 00:45:27,313
+Speaker 1: Normally, a 1v1 FPS is just like, "Who sees the other guy
+
+544
+00:45:27,353 --> 00:45:28,216
+Speaker 1: first?".
+
+545
+00:45:28,698 --> 00:45:29,220
+Speaker 1: And that's it.
+
+546
+00:45:29,500 --> 00:45:36,937
+Speaker 1: And so, by adding the cards, the 1v1 actually becomes this wild game of luck and strategy.
+
+547
+00:45:37,017 --> 00:45:38,260
+Speaker 1: and what cards did you bring.
+
+548
+00:45:38,480 --> 00:45:43,211
+Speaker 1: And you see how they're trying to play, what character they've chosen.
+
+549
+00:45:43,652 --> 00:45:47,340
+Speaker 1: Like, if they choose Tiger-Melee-Only-Katana-Guy, right?
+
+550
+00:45:47,420 --> 00:45:48,667
+Speaker 1: Yes, Tiger with a katana.
+
+551
+00:45:48,687 --> 00:45:50,357
+Speaker 1: If that doesn't sell the game, I don't know what will.
+
+552
+00:45:51,901 --> 00:45:56,733
+Speaker 1: If you know they're the Tiger with the katana, you can change your strategy.
+
+553
+00:45:57,394 --> 00:45:59,620
+Speaker 1: So they're probably doing things to disable your guns.
+
+554
+00:46:00,661 --> 00:46:07,419
+Speaker 1: You can do things to sort of keep them away from you, or to make yourself move faster, so they can't get within range to use the katana on you.
+
+555
+00:46:08,001 --> 00:46:09,587
+Speaker 1: And shoot them while you're running away.
+
+556
+00:46:09,607 --> 00:46:12,817
+Speaker 1: You have to think about that sort of thing in these matches.
+
+557
+00:46:16,262 --> 00:46:23,160
+Speaker 1: The FPS skill matters significantly enough that I suck, but it's not the only thing that matters.
+
+558
+00:46:23,280 --> 00:46:29,180
+Speaker 1: The other things will get you some kills here and there, and if you combine both, now you're ready for the big leagues.
+
+559
+00:46:34,690 --> 00:46:37,060
+Speaker 0: This has been Geek Nights with Rym and Scott.
+
+560
+00:46:37,120 --> 00:46:39,630
+Speaker 0: Special thanks to DJ Pretzel for the opening theme.
+
+561
+00:46:39,810 --> 00:46:45,850
+Speaker 1: Be sure to visit our website at FrontRowClue.com for show notes, discussion, links, and more.
+
+562
+00:46:46,330 --> 00:46:49,022
+Speaker 0: Remember, Geek Nights is not one, but four different shows.
+
+563
+00:46:49,323 --> 00:46:50,890
+Speaker 0: Mondays are science and technology.
+
+564
+00:46:51,030 --> 00:46:52,755
+Speaker 0: Tuesdays, gaming and games.
+
+565
+00:46:52,876 --> 00:46:54,701
+Speaker 0: Wednesdays are animation and comics.
+
+566
+00:46:55,022 --> 00:46:57,510
+Speaker 0: Thursdays are arbitrary and indiscriminate.
+
+567
+00:46:58,190 --> 00:47:03,030
+Speaker 0: Geek Nights is distributed under a Creative Commons Attribution 4.0 International License.
+
+568
+00:47:03,531 --> 00:47:07,881
+Speaker 1: Geek Nights is recorded live with no studio and no audience.
+
+569
+00:47:08,362 --> 00:47:11,830
+Speaker 1: But unlike those other late shows, it's actually recorded at night.
+
+570
+00:47:34,331 --> 00:47:35,394
+Speaker 0: So yeah, we're back.
+
+571
+00:47:35,855 --> 00:47:38,242
+Speaker 0: I'm going to continue that series, as I suggested.
+
+572
+00:47:38,262 --> 00:47:41,170
+Speaker 0: I'm trying to finish it for like two a month, I think.
+
+573
+00:47:41,590 --> 00:47:45,370
+Speaker 0: And I'll just pick whichever one of the previous topics got the most engagement and go a little deeper.
+
+574
+00:47:46,131 --> 00:47:47,413
+Speaker 0: And it'll be a fun little aside.
+
+575
+00:47:48,415 --> 00:47:56,674
+Speaker 0: Otherwise, tonight, on this September 17th, I leave you with... These aren't cattails.
+
+576
+00:47:58,298 --> 00:48:02,570
+Speaker 0: They're just fairly common water reads and they're not edible.
+
+577
+00:48:04,840 --> 00:48:07,445
+Speaker 0: But don't you think they ought to be?
+
+578
+00:48:07,465 --> 00:48:15,880
+Speaker 0: They've got stalks and these groupings of highly compressed seedlings that expand rapidly on impact.
+
+579
+00:48:16,562 --> 00:48:18,829
+Speaker 0: So they're not that good for eating.
+
+580
+00:48:21,056 --> 00:48:21,818
+Speaker 0: But even so...
+
+581
+00:48:23,900 --> 00:48:24,902
+Speaker 1: Me want bite.
+
+582
+00:48:24,922 --> 00:48:29,470
+Speaker 1: Me want plant, corn, dog, delight.
+
+583
+00:48:29,490 --> 00:48:31,533
+Speaker 0: Me want deep fried.
+
+584
+00:48:33,156 --> 00:48:35,580
+Speaker 0: Me think water, Twinkie, nice.
+

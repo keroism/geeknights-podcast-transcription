@@ -1,0 +1,3364 @@
+1
+00:00:08,300 --> 00:00:10,506
+Rym: It's Monday, January 13th, 2025.
+
+2
+00:00:10,506 --> 00:00:11,068
+Rym: I'm Rym.
+
+3
+00:00:11,188 --> 00:00:13,153
+Rym: I'm Scott and this is GeekNights.
+
+4
+00:00:13,173 --> 00:00:18,080
+Rym: tonight We're gonna talk about ways to sell software.
+
+5
+00:00:19,143 --> 00:00:31,640
+Rym: Let's do this Headed over to the New Jersey to see the PWHL game and the Toronto Septors Kind of unfairly lost to the sirens.
+
+6
+00:00:32,444 --> 00:00:35,459
+Scott: Well, I think the sirens played better in period one.
+
+7
+00:00:36,001 --> 00:00:38,869
+Scott: The Septors played better in period two.
+
+8
+00:00:38,930 --> 00:00:42,480
+Scott: period three was a little more even but probably still Septors better.
+
+9
+00:00:42,661 --> 00:00:44,400
+Rym: It went to overtime pretty legitimately.
+
+10
+00:00:45,242 --> 00:00:49,915
+Scott: Yeah, the Peter, you know, the the the sirens have the the great goalie that they had last year.
+
+11
+00:00:49,935 --> 00:00:50,336
+Scott: Schroeder.
+
+12
+00:00:50,356 --> 00:00:51,760
+Scott: Yeah, she's great.
+
+13
+00:00:52,083 --> 00:00:52,325
+Scott: She.
+
+14
+00:00:52,487 --> 00:00:53,658
+Scott: she saved that team's ass.
+
+15
+00:00:54,502 --> 00:00:58,353
+Scott: Then they got to OT and then an OT the.
+
+16
+00:00:58,433 --> 00:01:03,010
+Scott: she made some amazing saves and then The siren scored.
+
+17
+00:01:03,613 --> 00:01:06,364
+Scott: but it was kind of offsides Kind.
+
+18
+00:01:06,445 --> 00:01:08,220
+Rym: it was like it was like a foot offsides.
+
+19
+00:01:11,402 --> 00:01:15,354
+Rym: She is like so far past the blue line, it's comical.
+
+20
+00:01:15,775 --> 00:01:18,767
+Scott: it was not a close offsides It was it was offsides.
+
+21
+00:01:18,927 --> 00:01:21,480
+Scott: They should not have won at least not based on that goal.
+
+22
+00:01:21,647 --> 00:01:21,776
+Scott: Yeah.
+
+23
+00:01:22,061 --> 00:01:29,915
+Scott: But I guess the rules or whatever They don't do the review the same way the NHL does and I guess the refs they.
+
+24
+00:01:30,056 --> 00:01:32,204
+Scott: they talked about it and then the team Shook hands.
+
+25
+00:01:32,465 --> 00:01:33,028
+Scott: It's like, okay.
+
+26
+00:01:33,068 --> 00:01:39,360
+Rym: We'll take the W but it's because part of that You know, this is not a take you'd expect from a Rym of GeekNights.
+
+27
+00:01:39,560 --> 00:01:47,200
+Rym: But in both the NHL and the PWHL, I'm actually for all my complaints about offsides and football.
+
+28
+00:01:48,002 --> 00:01:59,623
+Rym: I'm pretty okay with Offside being an on ice call only in hockey because the intent of the outside rule is not to litigate a millimeter of space On an ice so
+
+29
+00:01:59,643 --> 00:02:06,419
+Scott: that you don't stand next to the other team's goalie and have someone pass it to you all the way down the ice yeah, and then you just score
+
+30
+00:02:07,562 --> 00:02:11,628
+Rym: can't have someone all the way on the other side waiting because The hockey used to be that way.
+
+31
+00:02:11,668 --> 00:02:12,493
+Rym: and guess what that's all.
+
+32
+00:02:12,513 --> 00:02:13,960
+Scott: little soccer has the same thing.
+
+33
+00:02:14,000 --> 00:02:14,202
+Scott: It's like.
+
+34
+00:02:14,242 --> 00:02:14,343
+Scott: it's.
+
+35
+00:02:14,404 --> 00:02:22,540
+Scott: you know any sport where there's like, you know Two nets to scoring things far away from each other if you don't have an offside rule of some kind.
+
+36
+00:02:22,700 --> 00:02:29,736
+Scott: But however, the rule is you somebody can just wait in the offensive zone Of course, you'll be down one defender.
+
+37
+00:02:29,978 --> 00:02:39,567
+Scott: Sure but the and that is just someone could just make one really long pass and then you have a scoring opportunity and now the game just Becomes kind of stupid.
+
+38
+00:02:40,010 --> 00:02:45,540
+Scott: the game should be about Advancing up and down the field of play, right?
+
+39
+00:02:46,523 --> 00:02:53,392
+Scott: And so, you know in US American football they let you do a long bomb if you want.
+
+40
+00:02:53,853 --> 00:02:57,757
+Scott: it's like but that's sort of a different, you know situation, right
+
+41
+00:02:59,341 --> 00:02:59,623
+Rym: Yeah, but
+
+42
+00:02:59,643 --> 00:03:12,439
+Scott: yeah, you need to have an offside rule, but the problem is it's like, okay well, we're gonna review all these offside rules and people are annoyed that the review a Takes away from the excitement of scoring a goal because it's like we scored did we?
+
+43
+00:03:13,823 --> 00:03:15,876
+Scott: And you get less excited when before
+
+44
+00:03:15,936 --> 00:03:29,540
+Rym: they had the capability to do this level of review because like in the old days the cameras were like not Good enough to do a review that close like the odds of even finding something to overturn and that blurry old footage kind of kind of zero.
+
+45
+00:03:29,981 --> 00:03:35,880
+Rym: But in the old days when that siren went off that meant a fucking goal, right?
+
+46
+00:03:36,061 --> 00:03:37,880
+Scott: But also we want to get it right.
+
+47
+00:03:37,980 --> 00:03:42,897
+Scott: We don't want someone to have a goal like this where you know, it was not really a should have been.
+
+48
+00:03:42,958 --> 00:03:43,640
+Scott: should not a pinnacle.
+
+49
+00:03:44,523 --> 00:03:45,754
+Scott: No way should have been a call.
+
+50
+00:03:45,774 --> 00:03:50,690
+Rym: So Compounding this officiating in this game was overall pretty squirrely.
+
+51
+00:03:51,112 --> 00:03:56,130
+Rym: One of the linesmen was just like in the way of the play Often enough to where it was a problem.
+
+52
+00:03:56,150 --> 00:03:56,170
+Rym: I
+
+53
+00:03:58,100 --> 00:03:58,847
+Scott: Mean it happens the
+
+54
+00:03:58,908 --> 00:04:04,659
+Rym: one guy in the left on the left side The tall guy was like always using the way and like bumped into players a bunch of times
+
+55
+00:04:05,941 --> 00:04:14,767
+Scott: You know, but I say, you know my crazy idea that nobody I can't even get people to like to discuss this idea in hockey Discords or reddits or whatever is like.
+
+56
+00:04:15,168 --> 00:04:19,619
+Scott: why don't you just get rid of review right entirely just have view?
+
+57
+00:04:20,161 --> 00:04:28,244
+Scott: No, but you should have like however many it takes 30 refs 40 refs 50 refs I don't care how many right.
+
+58
+00:04:28,304 --> 00:04:37,680
+Scott: a whole room of people at the arena with every fucking camera angle and these people have their eyes Glued and every camera all the fucking time every second of play.
+
+59
+00:04:38,043 --> 00:04:40,300
+Scott: Every player has a camera on them at all times.
+
+60
+00:04:40,420 --> 00:04:42,627
+Scott: The puck always has several angles on it.
+
+61
+00:04:42,868 --> 00:04:44,032
+Scott: the goals everything.
+
+62
+00:04:44,293 --> 00:04:49,600
+Scott: the people are just watching the game like a hawk Right and nothing escapes them at any moment.
+
+63
+00:04:49,720 --> 00:04:55,540
+Scott: Any one of them can instantly radio the on ice ref to raise their hand blow the whistle and they make calls.
+
+64
+00:04:55,660 --> 00:04:57,389
+Scott: They don't just sort of advise.
+
+65
+00:04:57,430 --> 00:04:59,380
+Scott: It's like they are making calls all of them.
+
+66
+00:04:59,440 --> 00:05:10,300
+Scott: They're all full-on refs who can make any call a missed some a missed penalty and they can correct any call So you don't need to like by the time a coach is even like deciding to do a coach's challenge.
+
+67
+00:05:10,481 --> 00:05:15,420
+Scott: No, the people in that video room will already have made the call and told the on ice ref what the call is.
+
+68
+00:05:15,460 --> 00:05:16,960
+Scott: There's no reviewing, right?
+
+69
+00:05:17,260 --> 00:05:20,099
+Scott: They are as faster even than the we see at home.
+
+70
+00:05:20,561 --> 00:05:25,820
+Scott: How many times you're watching at home and they show a replay and you go up its offsides and you already know.
+
+71
+00:05:26,141 --> 00:05:34,319
+Scott: But then you have to wait like a whole nother minute before like the situation room in Toronto Situations like he hit himself in the face with his own stick.
+
+72
+00:05:34,822 --> 00:05:35,544
+Scott: How is right?
+
+73
+00:05:35,585 --> 00:05:36,930
+Scott: and it's like and weak.
+
+74
+00:05:37,111 --> 00:05:39,360
+Scott: at home we can see that very quickly.
+
+75
+00:05:39,440 --> 00:05:43,460
+Scott: It only takes a few seconds and then the review takes way longer than that.
+
+76
+00:05:43,580 --> 00:05:43,922
+Rym: We're not.
+
+77
+00:05:43,982 --> 00:05:51,520
+Rym: it's like officiators and the only time we get it wrong is when we don't like fully understand Whatever obscure rule they're using to make the call.
+
+78
+00:05:51,660 --> 00:05:57,780
+Scott: The point is is that we can get the call right and just like five to ten seconds with our at-home footage.
+
+79
+00:05:57,981 --> 00:06:06,010
+Scott: So somebody watching the game from every angle in real time should be able to get every call exactly right in Less than that, right?
+
+80
+00:06:06,111 --> 00:06:07,560
+Scott: And so there won't be reviews.
+
+81
+00:06:07,921 --> 00:06:26,871
+Scott: They're just constantly reviewing everything all the time making all the calls Nothing escapes them and if this causes up this could cause another problem Which is that if you call everything in the game perfectly as perfectly as humans can because you put so many resources towards it There'll be too many stoppages because no one gets away with anything.
+
+82
+00:06:26,951 --> 00:06:28,257
+Scott: Yeah, it's like NFL.
+
+83
+00:06:28,277 --> 00:06:29,060
+Scott: football doesn't work.
+
+84
+00:06:29,160 --> 00:06:37,789
+Scott: If you actually call every holding penalty, they'll be holding on every bucking play Flags just like confetti after every single.
+
+85
+00:06:37,889 --> 00:06:41,560
+Scott: Yeah, if you did this for the NFL, it would just be constant yellow flags.
+
+86
+00:06:41,560 --> 00:06:47,525
+Scott: It's raining down from the sky, but they'd have to have like a yellow flag bazooka Every play.
+
+87
+00:06:47,545 --> 00:06:56,080
+Scott: they just shoot it off before they it's like, you know, but What you could then do is proceed to the next step which would be change the rules of the game.
+
+88
+00:06:56,341 --> 00:07:03,200
+Scott: It's like you or you put the resources forward so that you're going to call the game as perfectly as humanly possible as quickly as humanly possible.
+
+89
+00:07:04,000 --> 00:07:07,411
+Scott: Now change the rules to make the game good the one.
+
+90
+00:07:07,451 --> 00:07:11,560
+Rym: what I have the change I would actually make is for the offside rule in particular.
+
+91
+00:07:11,921 --> 00:07:28,515
+Rym: Considering its intent I would say you that is the one place where the call on the ice stands and If a review cannot immediately like a very limited time Goes by of is there any reason why that was wrong?
+
+92
+00:07:28,836 --> 00:07:35,660
+Rym: if it's too close to call It's never offside because and if it's too close to call it is definitely not part of the intent of the rule.
+
+93
+00:07:36,142 --> 00:07:50,214
+Rym: Kind of like how in that ride that the what Blackbeard's treasure game that we played a Treasure Island the board game the rule is if the guests is too close to tell if they're right or not They're automatically right game over.
+
+94
+00:07:51,101 --> 00:07:53,238
+Rym: Hmm, like if there's a debate you're right.
+
+95
+00:07:54,022 --> 00:07:58,780
+Scott: The other thing they could do is they could just make you know a less extreme solution, right?
+
+96
+00:07:58,861 --> 00:08:06,771
+Scott: It's just you know, you could do that but also just make the blue line a little thicker right and Change the rule so that it's only offsides.
+
+97
+00:08:07,072 --> 00:08:17,153
+Scott: if the player is 100% Over the blue line and the puck is a hundred percent not over the blue line like if you're over the blue line, but the puck is like touching the blue line, that's fine.
+
+98
+00:08:17,535 --> 00:08:25,929
+Scott: if you are Touching the blue line and the you know, it's like and the puck hasn't touched the blue line yet You're still not offsides yet, right?
+
+99
+00:08:25,950 --> 00:08:33,328
+Scott: You know just and if the blue line is thicker It's like there's gonna be a way less issues If you just decrease that margin.
+
+100
+00:08:33,347 --> 00:08:42,472
+Rym: because right now the blue line and then if you got called offside and you're close You're close on a two-foot wide blue line like that's on you buddy You were really too close to the edge of that line.
+
+101
+00:08:42,573 --> 00:08:42,995
+Rym: Calm down.
+
+102
+00:08:43,035 --> 00:08:43,740
+Rym: Yeah, exactly.
+
+103
+00:08:45,660 --> 00:08:49,019
+Rym: So, uh, anyway in some news, there's a bunch of tech news.
+
+104
+00:08:50,221 --> 00:08:54,260
+Scott: Yeah, CES happened at a time like right after a geek nice episode.
+
+105
+00:08:54,360 --> 00:08:55,503
+Scott: Yeah, it's been all.
+
+106
+00:08:55,543 --> 00:08:59,534
+Scott: the CES news was sitting around waiting for another GeekNights Monday to have.
+
+107
+00:08:59,774 --> 00:09:01,920
+Rym: I have looked at nothing from CES.
+
+108
+00:09:02,741 --> 00:09:04,425
+Scott: Okay, so here's what's going down.
+
+109
+00:09:04,445 --> 00:09:08,857
+Scott: is that the news is from CES that I give and more than zero shits about right.
+
+110
+00:09:09,299 --> 00:09:12,972
+Scott: so tons And tons of new displays from all kinds of companies.
+
+111
+00:09:13,153 --> 00:09:17,616
+Scott: the bit the big news in the displays Is that a lot of them are gonna be using AI?
+
+112
+00:09:18,860 --> 00:09:23,154
+Scott: Machine learning bullshit to try to enhance the image and I don't want that.
+
+113
+00:09:23,215 --> 00:09:28,679
+Scott: So I'm glad I bought the TV from last And I was turning off all that bullshit.
+
+114
+00:09:29,701 --> 00:09:33,873
+Rym: Emily asked the question that all smart people ask every time they interact with a modern TV.
+
+115
+00:09:34,414 --> 00:09:35,277
+Rym: who wants this.
+
+116
+00:09:35,397 --> 00:09:36,200
+Rym: Why is this here?
+
+117
+00:09:37,241 --> 00:09:39,980
+Scott: All that stuff is there for people who don't have any extra boxes.
+
+118
+00:09:40,181 --> 00:09:44,033
+Scott: They just plug their TV in and then they just use the TV remote only.
+
+119
+00:09:44,534 --> 00:09:49,329
+Rym: but even then like who wants like Interpolation to make like something 60 FPS.
+
+120
+00:09:49,569 --> 00:09:50,352
+Rym: It's just they don't.
+
+121
+00:09:50,432 --> 00:09:50,974
+Scott: they don't know.
+
+122
+00:09:51,376 --> 00:09:52,500
+Scott: they don't even know that it's happening.
+
+123
+00:09:52,560 --> 00:09:55,160
+Rym: But if you don't even know what's happening, why even waste time doing it?
+
+124
+00:09:55,881 --> 00:10:10,128
+Scott: Because when the TV because when the TV is Even though someone doesn't even know what interpolation is or that it's on or what it does if you put that on on TVs in a store, you know and it's on display It's more impressive.
+
+125
+00:10:10,510 --> 00:10:15,893
+Scott: and then TVs that don't do it TV in a store.
+
+126
+00:10:15,933 --> 00:10:18,085
+Rym: in the year of our Lord 25 you go online.
+
+127
+00:10:18,105 --> 00:10:18,988
+Scott: a lot of people do.
+
+128
+00:10:19,008 --> 00:10:23,251
+Scott: one of the biggest sections of the Costco is we walk right in it's all the TVs right up front.
+
+129
+00:10:23,272 --> 00:10:28,433
+Scott: Yep Alright, so the other thing is that Dell you know the displays.
+
+130
+00:10:28,473 --> 00:10:34,634
+Scott: they got new ultra sharps coming and the new ultra sharp At least the good one, you know the 24 inch 4k one.
+
+131
+00:10:34,654 --> 00:10:35,939
+Scott: That's the one that you're gonna buy.
+
+132
+00:10:37,184 --> 00:10:38,113
+Rym: these two ultra sharps.
+
+133
+00:10:39,000 --> 00:10:44,880
+Scott: Yeah, they have increased the refresh rate on it from the usual 60 to like a hundred something Hertz.
+
+134
+00:10:45,480 --> 00:10:46,284
+Scott: So that's pretty great.
+
+135
+00:10:46,364 --> 00:10:48,574
+Rym: Actually, I can cheat at Marvel overwatch now.
+
+136
+00:10:49,318 --> 00:10:52,367
+Scott: Yeah Other news.
+
+137
+00:10:52,548 --> 00:11:08,548
+Scott: so steam, you know, they got their steam deck Which is pretty popular these days even though I'm not into it and there's a lot of other companies like, you know Asus has like that rug whatever it is, you know, a lot of companies are making other steam deck competitors Right things that look like a Nintendo switch,
+
+138
+00:11:09,130 --> 00:11:11,760
+Rym: but there are things like that on the subway kind of often these days.
+
+139
+00:11:11,860 --> 00:11:13,758
+Rym: Yeah, they are pretty popular, right?
+
+140
+00:11:14,421 --> 00:11:16,536
+Scott: More of those than switches sure.
+
+141
+00:11:16,597 --> 00:11:31,146
+Scott: I mean, yeah Valve has announced that basically they're gonna let other companies Sell their devices that their other companies make but install steam OS on them the same way that like Dell would make a computer And sell it with Windows on it.
+
+142
+00:11:31,407 --> 00:11:31,709
+Scott: smart.
+
+143
+00:11:31,889 --> 00:11:32,532
+Scott: No vote is.
+
+144
+00:11:32,793 --> 00:11:34,240
+Scott: Lenovo is the first one.
+
+145
+00:11:34,360 --> 00:11:41,180
+Scott: They're gonna make one of these things the Lenovo whatever Legion some bullshit whatever and it's gonna come with steam OS installed.
+
+146
+00:11:42,644 --> 00:11:50,400
+Scott: I can see a world where Most nerdy people have like a Mac and they don't really have a gaming PC.
+
+147
+00:11:50,681 --> 00:11:58,236
+Scott: They just they or they do have a gaming PC, but it's just a computer that runs steam OS and not windows Yep, which by the way is Linux.
+
+148
+00:11:58,437 --> 00:12:02,462
+Scott: So That's something All right.
+
+149
+00:12:02,543 --> 00:12:04,028
+Scott: other news from CES.
+
+150
+00:12:04,349 --> 00:12:11,115
+Scott: for some reason VLC had money and made a booth there Like I guess it was the smallest size booth and they had you actively
+
+151
+00:12:11,235 --> 00:12:14,766
+Rym: the best Boot there and also
+
+152
+00:12:14,806 --> 00:12:16,611
+Scott: had a guy with a traffic cone head
+
+153
+00:12:16,992 --> 00:12:22,020
+Rym: wins the award for booth most on the right side of history at Any CES in history?
+
+154
+00:12:23,441 --> 00:12:33,100
+Scott: Yeah, but anyway At the booth the one of the things that they were touting was they have a gate a promotional VLC Gameboy game.
+
+155
+00:12:33,322 --> 00:12:34,719
+Scott: That's coming which is interesting.
+
+156
+00:12:36,182 --> 00:12:41,198
+Scott: And also they are gonna do some machine learning BS, which is like oh no, right?
+
+157
+00:12:41,238 --> 00:12:41,720
+Scott: Not again.
+
+158
+00:12:41,861 --> 00:12:42,832
+Scott: That's what everyone's doing.
+
+159
+00:12:42,852 --> 00:12:43,560
+Scott: We hate that shit.
+
+160
+00:12:43,640 --> 00:12:46,569
+Scott: But VLC what they got going on is it?
+
+161
+00:12:46,749 --> 00:12:52,288
+Scott: I think it's gonna use some open AI stuff, which is you know, whatever But it's gonna be entire.
+
+162
+00:12:52,328 --> 00:12:54,640
+Scott: they say it's gonna be entirely local on your computer.
+
+163
+00:12:54,760 --> 00:12:59,276
+Scott: So you're probably not gonna need you know an account with open AI to make this work, right?
+
+164
+00:12:59,336 --> 00:13:09,040
+Scott: It's just gonna work locally And it will be able to subtitle in real time any video you're watching in a crap-ton of languages.
+
+165
+00:13:09,621 --> 00:13:13,070
+Scott: Obviously not a hundred percent correctly because machine learning.
+
+166
+00:13:13,611 --> 00:13:18,544
+Scott: but if you got some footage that's in some other language You don't know and you're not.
+
+167
+00:13:18,684 --> 00:13:32,140
+Scott: it's not fansubbed and it's not doesn't have subtitles in your language because you speak an uncommon language or it's in an uncommon language or It's just really old and no one's ever gonna subtitle it or whatever.
+
+168
+00:13:33,301 --> 00:13:34,265
+Scott: Something's better than nothing.
+
+169
+00:13:34,888 --> 00:13:37,338
+Rym: And this is the kind entirely locally free.
+
+170
+00:13:37,398 --> 00:13:41,212
+Rym: It's like Embracing like this is this is a good use.
+
+171
+00:13:41,915 --> 00:13:46,675
+Scott: Yeah, it's just not bad I'm uh, you know, I'd rather have VLC that has that feature than than not.
+
+172
+00:13:46,775 --> 00:13:47,900
+Scott: Yeah, so cool.
+
+173
+00:13:49,541 --> 00:14:04,960
+Scott: And then the last one is as I have predicted for many years and video has finally made an all Nvidia computer Nvidia CPU and Nvidia GPU and it's a tiny little computer But it is not a computer that you were going to buy.
+
+174
+00:14:05,141 --> 00:14:07,999
+Scott: I was expecting them to make a gaming PC and you know what?
+
+175
+00:14:08,700 --> 00:14:14,057
+Scott: It could be not too long into the future that you could buy an all Nvidia computer with Steam OS installed.
+
+176
+00:14:14,098 --> 00:14:14,720
+Scott: that could happen.
+
+177
+00:14:15,021 --> 00:14:16,952
+Rym: You know what that there's a universe for.
+
+178
+00:14:17,033 --> 00:14:21,960
+Scott: I might have that in a MacBook As I might buy one of those depending on what it costs.
+
+179
+00:14:22,401 --> 00:14:31,070
+Scott: but the computer that they have announced right now is not a computer that you would buy unless you're a weirdo or a Professional who's working on something like this.
+
+180
+00:14:31,130 --> 00:14:31,612
+Scott: what it is it?
+
+181
+00:14:32,255 --> 00:14:32,536
+Scott: basically?
+
+182
+00:14:32,556 --> 00:14:51,920
+Scott: it's an ultra powerful But small computer that is focused on machine learning biz, of course and the idea being You're going to develop a machine learning Program or model or application of some kind that it will ultimately be run in production on Nvidia's cloud Platform because Nvidia I guess has a cloud.
+
+183
+00:14:52,000 --> 00:14:57,159
+Scott: that's just a bunch of GPUs somewhere that you can pay to use just like you can use Oz or Azure or whatever.
+
+184
+00:14:57,179 --> 00:15:10,742
+Scott: and The idea is that you would develop your application locally on one of these things Which is powerful enough to like really test and then you know, you have an easy path to deploying onto the Nvidia cloud situation.
+
+185
+00:15:10,782 --> 00:15:20,889
+Scott: so really niche device, but it is a computer with the Nvidia CPU and GPU and Well, it just start the ball rolling, right?
+
+186
+00:15:21,450 --> 00:15:21,832
+Scott: We'll see.
+
+187
+00:15:21,852 --> 00:15:22,373
+Scott: Mm-hmm.
+
+188
+00:15:23,235 --> 00:15:28,737
+Scott: And that is all the news from CES That I give any craps about this probably a ton more, but I don't care.
+
+189
+00:15:28,757 --> 00:15:29,179
+Scott: Yep.
+
+190
+00:15:30,022 --> 00:15:40,100
+Rym: So meanwhile in hell world, you know, the fascists take over in about a week and we've already had two Erodings of the internet that are kind of important to talk about.
+
+191
+00:15:40,241 --> 00:15:44,480
+Rym: So the first one and this article is from January 2nd, the Supreme Court didn't waste any time.
+
+192
+00:15:45,600 --> 00:15:49,315
+Rym: Basically net neutrality is fully officially finally dead.
+
+193
+00:15:49,335 --> 00:15:53,044
+Rym: There's no more Mandate for net neutrality.
+
+194
+00:15:53,385 --> 00:16:09,072
+Rym: the courts have basically ruled that net neutrality is not a thing unless Congress passes a specific law enshrining the full details of it and that the court no longer has to give deference to any interpretation the FCC makes related to this.
+
+195
+00:16:09,657 --> 00:16:11,878
+Rym: so It's a Wild West again.
+
+196
+00:16:12,382 --> 00:16:15,260
+Rym: ISPs can do whatever they want service providers do whatever they want.
+
+197
+00:16:15,681 --> 00:16:21,500
+Rym: We do not know what the ramifications will be, but they're probably not gonna be great for the internet.
+
+198
+00:16:21,620 --> 00:16:23,165
+Scott: I mean, it's not gonna be.
+
+199
+00:16:23,225 --> 00:16:24,870
+Scott: it's not like oh, it's like.
+
+200
+00:16:24,910 --> 00:16:29,604
+Scott: the best possible outcome is nobody does anything But that seems unlikely right?
+
+201
+00:16:29,824 --> 00:16:40,719
+Rym: So I might I predict the first thing we're gonna see happen is some telco or ISP is gonna try to extort a company like Netflix out of some money again.
+
+202
+00:16:41,728 --> 00:16:42,980
+Scott: It's something like that could happen.
+
+203
+00:16:43,020 --> 00:16:49,385
+Scott: We've seen that in South Korea right where they've tried to make the people on the other end of you know The the situation.
+
+204
+00:16:49,425 --> 00:16:51,195
+Scott: pay right like twitch has to pay.
+
+205
+00:16:51,295 --> 00:16:52,059
+Scott: that's what I pulled out.
+
+206
+00:16:53,441 --> 00:17:06,978
+Scott: I think it's more likely that I think what the people who will suffer are At least in the United States because of this are the people who live in rural low coverage, you know For all this bullshit.
+
+207
+00:17:07,621 --> 00:17:09,409
+Scott: Yeah, so they're gonna get what they voted for there.
+
+208
+00:17:09,751 --> 00:17:20,167
+Scott: You know all those people are gonna suffer the most because you know It's it's expensive to set up infrastructure out there and I think they just the ISPs just won't in a lot of cases.
+
+209
+00:17:20,188 --> 00:17:32,568
+Scott: or Those people have to use services with all kinds of data caps and they'll have their internet traffic shaped So that some services are faster summer slower, right, you know prioritized and whatnot.
+
+210
+00:17:34,777 --> 00:17:38,369
+Scott: and You know the people who just like have fiber like us.
+
+211
+00:17:39,233 --> 00:17:42,650
+Scott: You know, is it possible that you know Verizon will do some shady biz?
+
+212
+00:17:42,810 --> 00:17:45,158
+Scott: Of course, but I doesn't seem as likely.
+
+213
+00:17:45,178 --> 00:17:48,631
+Scott: you know, this is not too much benefit for them to do so.
+
+214
+00:17:48,731 --> 00:18:04,050
+Rym: but the sort of the the buried lead here is that this is Partly possible because of the same thing we talked about a while back on GeekNights of overturning the Chevron decision Broadly the US government is now in a position to where we're previously.
+
+215
+00:18:04,670 --> 00:18:20,009
+Rym: regulatory agencies like the FCC would have a mandate from Congress to regulate an area and they could basically craft the details of that regulation based on their own expertise and If Congress didn't like what they did Congress could constrain them.
+
+216
+00:18:20,471 --> 00:18:28,930
+Rym: But otherwise the FCC would get to decide how to interpret the laws Congress passed Which is the right thing to do because Congress cannot pass laws in that level of detail.
+
+217
+00:18:29,010 --> 00:18:29,532
+Rym: It's just literally.
+
+218
+00:18:29,592 --> 00:18:37,993
+Scott: I mean even it even if right even if you had a functioning Congress with like all good faith If I never said the word filibuster again Right.
+
+219
+00:18:38,093 --> 00:18:49,950
+Scott: It's like any government on earth, you know, but even if it's the best ideal democracy wonderful utopia You can't have a Congress that's full of like experts in all kinds of fields, right?
+
+220
+00:18:50,171 --> 00:18:55,947
+Scott: It's you know, it's people who might know something about a field right but not experts in every field.
+
+221
+00:18:55,987 --> 00:19:01,074
+Scott: not you can't have doctors You can't have you know, it's mostly lawyers In a Congress.
+
+222
+00:19:01,475 --> 00:19:08,176
+Scott: and so every basically every country on earth even the evil countries Like China and whatnot.
+
+223
+00:19:08,557 --> 00:19:12,770
+Scott: is you have government agencies where there are experts in fields, right?
+
+224
+00:19:13,110 --> 00:19:17,139
+Scott: you know, even your military is experts on war and defense.
+
+225
+00:19:17,159 --> 00:19:33,451
+Scott: and What you do is you have your government, you know give power to say, okay Listen, we are giving you power to decide you expert people how to handle these situations Because we are a few hundred lawmakers.
+
+226
+00:19:33,792 --> 00:19:36,020
+Scott: We can't get into that level of detail.
+
+227
+00:19:36,221 --> 00:19:48,133
+Scott: It is not humanly possible for us to make the specific rules about like, you know What is an appropriate amount of bandwidth for a tier 1 ISP?
+
+228
+00:19:48,514 --> 00:19:49,878
+Rym: or the soft look on Linden Springs?
+
+229
+00:19:51,320 --> 00:19:59,560
+Scott: Right, it's like we can make a big rule like we want more corn We want less corn or you know, we should protect corn farmers or we should screw them over.
+
+230
+00:19:59,921 --> 00:20:09,640
+Scott: But we can't make detailed rules like ah, yes this much corn Pesticide this one is safe and that one's not and you should use this much on this schedule.
+
+231
+00:20:10,022 --> 00:20:11,729
+Scott: Otherwise your food isn't fit for.
+
+232
+00:20:11,749 --> 00:20:20,717
+Rym: there's a great topical example, uh You are to try to prevent fires and mitigate the damage from fires.
+
+233
+00:20:20,938 --> 00:20:22,380
+Rym: Here is your budget All right.
+
+234
+00:20:22,420 --> 00:20:28,020
+Scott: So we have the forestry service and the Congress just says forestry service you have the power to deal with forest problems.
+
+235
+00:20:28,221 --> 00:20:28,803
+Scott: I'll go ahead.
+
+236
+00:20:29,244 --> 00:20:36,551
+Rym: but on the new court rulings the way America works now is Any regular any decision by any regulator.
+
+237
+00:20:36,973 --> 00:20:38,459
+Rym: if our Republican Party doesn't like it?
+
+238
+00:20:39,042 --> 00:20:39,786
+Rym: They'll just sue.
+
+239
+00:20:39,806 --> 00:20:42,380
+Rym: it'll basically automatically be overturned.
+
+240
+00:20:42,460 --> 00:20:42,761
+Rym: like there's.
+
+241
+00:20:42,902 --> 00:20:48,219
+Rym: these lawsuits because of the new president have no chance of not succeeding even in kind of extreme cases.
+
+242
+00:20:48,239 --> 00:20:54,075
+Rym: and The court's response is if you want to have a regulation put it in the law.
+
+243
+00:20:54,456 --> 00:21:02,139
+Rym: and they're doing this because they know It's impossible to put it in the law because the goal is to end regulation and this is the first step.
+
+244
+00:21:03,064 --> 00:21:03,668
+Scott: Well, you should start.
+
+245
+00:21:03,708 --> 00:21:09,520
+Scott: I think what we need to do is we should you know The way to fight back is to end the regulations that they want to keep right?
+
+246
+00:21:10,161 --> 00:21:15,319
+Scott: There's plenty of regulations that Republicans like and we should get rid of those like.
+
+247
+00:21:15,339 --> 00:21:18,340
+Scott: hey Oh, you know if you there's another news story going on right now.
+
+248
+00:21:18,400 --> 00:21:19,225
+Scott: We could do this as a whole.
+
+249
+00:21:19,245 --> 00:21:20,854
+Rym: the porno thing is that's my next one.
+
+250
+00:21:20,894 --> 00:21:21,840
+Rym: What exactly?
+
+251
+00:21:22,900 --> 00:21:24,047
+Rym: We're on the same line.
+
+252
+00:21:24,107 --> 00:21:30,938
+Rym: So speaking of which if you're not aware Pornhub is now blocked in the entire Confederacy.
+
+253
+00:21:30,938 --> 00:21:50,722
+Rym: 17 states have passed ridiculous overreaching laws requiring age checks that Introduce what I would characterize as extreme privacy risks and Pornhub very smartly has said well rather than comply with that We're just gonna block your entire state Right.
+
+254
+00:21:50,782 --> 00:21:51,123
+Scott: So what?
+
+255
+00:21:51,425 --> 00:21:51,665
+Scott: so?
+
+256
+00:21:52,127 --> 00:21:55,199
+Scott: the people here are well-meaning right is you?
+
+257
+00:21:55,279 --> 00:21:59,499
+Rym: well Some of the people here are well-meaning but a number of the people here.
+
+258
+00:21:59,539 --> 00:22:03,535
+Rym: Yes This is a gateway to specifically start trying to ban LGBT stuff.
+
+259
+00:22:03,676 --> 00:22:04,740
+Rym: This is like their foot in the door.
+
+260
+00:22:05,525 --> 00:22:22,177
+Scott: But there are well-meaning people who are like hey, listen, you got these free porn sites and you can go to them and just click I agree and you get in and Some of the porn on there is perfectly normal porn that is legitimate consulting adults doing perfectly normal activities that are okay for people to see.
+
+261
+00:22:23,521 --> 00:22:30,640
+Scott: But even those should children see them maybe right it depends which children what context etc.
+
+262
+00:22:31,504 --> 00:22:44,740
+Scott: Some of the porn on there, you know, even if it's not underage people right there may be some with non consenting people that goes out and then gets taken down or doesn't get taken down or trafficking victims.
+
+263
+00:22:47,702 --> 00:22:49,247
+Rym: What even is pornography?
+
+264
+00:22:49,288 --> 00:22:53,120
+Rym: because a lot of the right before these rules are against any form of nudity.
+
+265
+00:22:53,943 --> 00:23:02,613
+Scott: Of course, right, but regardless it's like nobody in their town Right that has like the sex shop is trying to like.
+
+266
+00:23:02,773 --> 00:23:04,639
+Scott: even the lefty is lefty isn't like?
+
+267
+00:23:04,679 --> 00:23:06,884
+Scott: hey Three year olds.
+
+268
+00:23:06,945 --> 00:23:07,326
+Scott: We need to.
+
+269
+00:23:07,427 --> 00:23:12,465
+Scott: we need to get rid of the rule that doesn't let 18 year olds and Children into the sex shop.
+
+270
+00:23:12,525 --> 00:23:14,532
+Scott: six 15 year olds need to be able to go in there.
+
+271
+00:23:14,733 --> 00:23:15,757
+Scott: Yeah, it's like.
+
+272
+00:23:16,017 --> 00:23:16,600
+Scott: that's okay.
+
+273
+00:23:17,061 --> 00:23:21,415
+Scott: The problem is is the reality of the internet is that you just can't?
+
+274
+00:23:21,937 --> 00:23:29,140
+Scott: it's like yeah If we could wave a magic wand and have a perfect technology that does this the right way Sure, I would be okay with that.
+
+275
+00:23:29,260 --> 00:23:29,963
+Rym: We don't have like.
+
+276
+00:23:29,983 --> 00:23:34,360
+Rym: the World Wide Web is just a protocol that lets people access websites, right?
+
+277
+00:23:34,580 --> 00:23:34,902
+Scott: You can.
+
+278
+00:23:35,002 --> 00:23:38,736
+Scott: it's like you can use a VPN to get around the geo blocking.
+
+279
+00:23:38,796 --> 00:23:43,196
+Scott: you can just you know Get a steal your parents ID and get into the porn site.
+
+280
+00:23:43,216 --> 00:23:44,080
+Scott: you can put it.
+
+281
+00:23:44,120 --> 00:23:47,351
+Scott: You know, there's so many ways around any kind of technology.
+
+282
+00:23:47,692 --> 00:23:49,980
+Scott: You won't actually protect the children.
+
+283
+00:23:50,224 --> 00:24:00,919
+Rym: Yeah, if you do Any way we could have to try to stop that access will in fact instead Deeply infringe on the rights of adults.
+
+284
+00:24:01,642 --> 00:24:15,604
+Scott: Yes, all the the people who are engaged in both sides of the trade right the sex selling business, you know industry They will suffer greatly if this sort of age verification of any technology is Implemented.
+
+285
+00:24:15,785 --> 00:24:18,460
+Scott: right you'll the people will be like identified.
+
+286
+00:24:18,560 --> 00:24:22,540
+Scott: There'll be a database somewhere of like who watched what prawn.
+
+287
+00:24:24,142 --> 00:24:24,402
+Scott: It's like.
+
+288
+00:24:24,623 --> 00:24:26,689
+Scott: that's a dangerous database to exist.
+
+289
+00:24:26,990 --> 00:24:33,369
+Scott: the database of who bought what on you know Various shopping sites already has gotten leaked.
+
+290
+00:24:33,730 --> 00:24:37,140
+Scott: It's like porn and it's like that database will get out.
+
+291
+00:24:40,464 --> 00:24:45,760
+Scott: In the past six months, yeah the date of the dating site where everyone cheats their database got leaked.
+
+292
+00:24:46,181 --> 00:24:53,940
+Scott: It's like we cannot have that database be created to have an illusion of security for children.
+
+293
+00:24:53,940 --> 00:24:55,967
+Scott: All right, that's not good.
+
+294
+00:24:56,428 --> 00:24:58,235
+Scott: So and you know, that's just.
+
+295
+00:24:58,355 --> 00:24:59,098
+Scott: that's just how it is.
+
+296
+00:24:59,459 --> 00:25:03,453
+Scott: But These bans are state laws.
+
+297
+00:25:04,137 --> 00:25:07,387
+Scott: They're not Federal agency regulations.
+
+298
+00:25:07,768 --> 00:25:10,698
+Scott: So the chevron II thing doesn't really apply.
+
+299
+00:25:10,718 --> 00:25:24,197
+Scott: Yeah but If someone did try to put in this kind of nonsense regulation that we don't like via government agency Right, you know then we could fight back with the same argument.
+
+300
+00:25:24,278 --> 00:25:31,600
+Rym: possibly good There is one big danger and I'm not saying this is definitely going to happen But I'm saying it is a real possibility.
+
+301
+00:25:31,680 --> 00:25:47,620
+Rym: We have to consider that the way the courts will interpret this will essentially be if Republicans like it They will uphold it and if Republicans don't like it They will accept the anti-chevron defense and they'll turn arbitrarily and there's nothing we can do Do something.
+
+302
+00:25:48,601 --> 00:25:51,028
+Rym: Yeah, just say that's that's something we might have to face.
+
+303
+00:25:51,309 --> 00:25:51,590
+Scott: Listen.
+
+304
+00:25:51,771 --> 00:25:53,536
+Scott: That's not the way it was right.
+
+305
+00:25:53,657 --> 00:25:56,507
+Scott: and then Republicans Did something to make it this way.
+
+306
+00:25:56,687 --> 00:26:01,246
+Scott: if they did something to make it this way do something to make it not this way Uh, yeah, there's.
+
+307
+00:26:01,367 --> 00:26:03,359
+Rym: well, there's nothing legal you can do to make it not this way.
+
+308
+00:26:04,442 --> 00:26:05,753
+Scott: They did it legally.
+
+309
+00:26:05,935 --> 00:26:08,588
+Rym: Well, they'd Sort of it's common.
+
+310
+00:26:08,608 --> 00:26:13,753
+Scott: Yeah, so hey, I'm just saying the problem is Government can be changed.
+
+311
+00:26:13,894 --> 00:26:14,619
+Scott: They changed it.
+
+312
+00:26:14,880 --> 00:26:16,887
+Scott: Well, they change it change it back.
+
+313
+00:26:17,088 --> 00:26:20,360
+Rym: part of the problem is they changed it by appointing Supreme Court justices.
+
+314
+00:26:21,224 --> 00:26:23,674
+Rym: Yeah, we don't have a way to appoint Supreme Court justices.
+
+315
+00:26:23,875 --> 00:26:24,377
+Rym: So that's it.
+
+316
+00:26:24,398 --> 00:26:24,839
+Scott: figure it out.
+
+317
+00:26:28,161 --> 00:26:31,596
+Rym: But anyway things of the day.
+
+318
+00:26:31,696 --> 00:26:32,500
+Rym: so what do you got?
+
+319
+00:26:34,442 --> 00:26:35,084
+Scott: Uh, what did I?
+
+320
+00:26:35,104 --> 00:26:36,808
+Rym: it's 21 minutes and 15 seconds.
+
+321
+00:26:37,570 --> 00:26:41,280
+Scott: All right, so this is actually what judge your memory.
+
+322
+00:26:42,440 --> 00:26:47,940
+Scott: Yeah, so this is quite old actually, but I didn't encounter it until recently.
+
+323
+00:26:48,843 --> 00:26:57,499
+Scott: We all know the movie Blade Runner the first one, even though the set the the sequel one is also good Legendary nerdy movie of all time.
+
+324
+00:26:57,769 --> 00:27:02,515
+Scott: Yeah And that movie has many cuts and it's very confusing to all the people.
+
+325
+00:27:02,796 --> 00:27:04,080
+Scott: right which cut do I watch?
+
+326
+00:27:04,500 --> 00:27:10,308
+Scott: One's got like a voiceover one's got different scenes But there's there's a lot of nuance.
+
+327
+00:27:10,991 --> 00:27:12,818
+Scott: Yeah, I I frankly I don't even under.
+
+328
+00:27:12,898 --> 00:27:13,360
+Scott: I don't even know.
+
+329
+00:27:13,983 --> 00:27:17,580
+Scott: I've seen the movie like a few times and I don't know which cuts I seen.
+
+330
+00:27:18,422 --> 00:27:19,666
+Scott: The differences are.
+
+331
+00:27:20,369 --> 00:27:25,885
+Scott: it's like maybe I should go and try one more time and study it and watch Whatever that is.
+
+332
+00:27:25,905 --> 00:27:26,848
+Scott: I can't even.
+
+333
+00:27:26,868 --> 00:27:36,940
+Rym: I've even tried to google it at least once and I couldn't find a good explainer Movie in like 15 years, I want to say I feel like I should watch it again.
+
+334
+00:27:37,120 --> 00:27:45,060
+Scott: I think the final cut is the one but regardless there's a cut called the you the electric unicorn fan release.
+
+335
+00:27:45,502 --> 00:27:50,839
+Scott: Yeah, and the electric unicorn fan release includes Deleted scenes.
+
+336
+00:27:51,725 --> 00:27:54,380
+Scott: That I guess these scenes have been available.
+
+337
+00:27:54,882 --> 00:27:59,320
+Scott: I guess maybe there was some behind-the-scenes thing or whatever that these scenes got out.
+
+338
+00:27:59,420 --> 00:28:01,048
+Scott: I don't know how people got a hands on them.
+
+339
+00:28:01,068 --> 00:28:12,640
+Scott: Maybe there were DVD extras or some shit, but Regardless here is YouTube video that contains the deleted scenes which are included in the electric unicorn fan release.
+
+340
+00:28:12,720 --> 00:28:13,523
+Scott: It's not the whole movie.
+
+341
+00:28:13,944 --> 00:28:25,020
+Scott: It's just the scenes that are in that release that are not in the normal movie Because they were deleted and so it's just like watching a bunch of deleted scenes with no context in order.
+
+342
+00:28:26,401 --> 00:28:28,710
+Rym: So, uh, I went down a rabbit hole.
+
+343
+00:28:28,770 --> 00:28:34,553
+Rym: the thing that I'm gonna link to is a video but in the car in the forum I'm gonna link to some other things because I learned about something.
+
+344
+00:28:34,573 --> 00:28:35,457
+Rym: I did not know about Scott.
+
+345
+00:28:35,477 --> 00:28:36,260
+Rym: Are you familiar with?
+
+346
+00:28:37,560 --> 00:28:39,247
+Rym: Rondo then eat Siano.
+
+347
+00:28:39,267 --> 00:28:49,927
+Scott: Well, I mean yes and no because you know I'd never heard that name before but the image that I'm shared with you in that one that you shared with The image that you shared with me in that video clip.
+
+348
+00:28:50,048 --> 00:28:56,438
+Rym: I have seen this and I just it is a short animation with a daft Punk adjacent robot.
+
+349
+00:28:56,458 --> 00:29:03,158
+Scott: I mean, it's you know, it's robot people which is You know, leji Matsumoto adjacent.
+
+350
+00:29:03,218 --> 00:29:06,831
+Scott: true Punk is also leji butts moto a J.
+
+351
+00:29:06,871 --> 00:29:09,000
+Rym: Well, it's more daft Punk adjacent than you might think.
+
+352
+00:29:09,120 --> 00:29:13,495
+Rym: So I stumbled upon this video and the description and it was great.
+
+353
+00:29:13,515 --> 00:29:18,298
+Rym: Like it's this I love this kind of shit And the description says I'm just gonna read it to you.
+
+354
+00:29:18,861 --> 00:29:30,164
+Rym: Apparently Italian TV used to show this excellent music video to fill schedule gaps in the early 80s And I was like, alright, that's cool What is this?
+
+355
+00:29:30,225 --> 00:29:33,335
+Rym: so I'd you know cuz I wanted to learn a little more and I dug a little deeper.
+
+356
+00:29:33,355 --> 00:29:39,336
+Rym: So, uh Rondo Viniciano is a band that is still active today.
+
+357
+00:29:39,356 --> 00:29:47,640
+Rym: They debuted in 1979 and their shtick Predate staff Punk they and I linked to a video of them performing live.
+
+358
+00:29:48,263 --> 00:29:53,142
+Rym: They wear robot suits and they play Baroque Rondo's.
+
+359
+00:29:53,543 --> 00:29:53,945
+Rym: that's it.
+
+360
+00:29:54,085 --> 00:29:57,680
+Rym: They play Baroque Rondo's like original blood.
+
+361
+00:30:00,262 --> 00:30:04,740
+Rym: So, I mean Rondo is a specific kind of music and that game is the window of swords.
+
+362
+00:30:05,649 --> 00:30:13,458
+Rym: but so They perform Baroque Rondo's both original and like covers of old Baroque Rondo's.
+
+363
+00:30:13,919 --> 00:30:34,556
+Rym: but they include Modern instruments, so you'll see like a Baroque Chamber Orchestra playing a Rondo Except there's also two electric guitars and a drum kit and all the performers are wearing daft Punk looking Robot suits while they perform mm-hmm and Everything that they have made is amazing.
+
+364
+00:30:35,682 --> 00:30:42,304
+Rym: They are like deeply consistent with their bit and what they do and This was all new to me.
+
+365
+00:30:42,324 --> 00:30:43,267
+Scott: Are they alive?
+
+366
+00:30:43,828 --> 00:30:45,052
+Rym: They are still performing.
+
+367
+00:30:45,112 --> 00:30:46,276
+Rym: They have toured recently.
+
+368
+00:30:46,296 --> 00:30:53,627
+Rym: Oh Well if they come to New York, oh, yeah, they're not touring currently But I am keeping an eye out if they to her.
+
+369
+00:30:53,928 --> 00:30:57,517
+Rym: I'm absolutely going to see the partial discography.
+
+370
+00:30:57,557 --> 00:31:09,519
+Scott: That is on Wikipedia Starts in 1980 with Rondo Veneziano and Ends at once upon a time in 2010, but it says partial so I don't know what they've done for the last 15 years.
+
+371
+00:31:10,060 --> 00:31:22,065
+Rym: So the other thing I learned is that in Italy and Germany and like specific parts of Europe They are fucking like a legendary and everybody knows about them All right.
+
+372
+00:31:22,166 --> 00:31:25,337
+Rym: I asked a co-worker and he was like Americans don't know about them.
+
+373
+00:31:25,638 --> 00:31:46,418
+Rym: So On Spotify they have Yeah, there aren't really things that are newer than yeah, they were number one on the Germano Rossido chart when they debuted Nice album covers and number three on the Musica e dicci chart and they hit 32 in Germany.
+
+374
+00:31:47,502 --> 00:31:52,606
+Rym: That was just their debut at the end of 1979 In the meta moment.
+
+375
+00:31:52,807 --> 00:31:56,020
+Rym: magfest is next week Thursday Friday Saturday Sunday.
+
+376
+00:31:57,570 --> 00:31:57,820
+Scott: Yeah.
+
+377
+00:31:58,841 --> 00:32:00,868
+Scott: So, you know that is the 23rd 24th 25th and 26th of January.
+
+378
+00:32:04,561 --> 00:32:04,862
+Rym: I don't know.
+
+379
+00:32:04,882 --> 00:32:08,639
+Rym: I'm gonna check if it is sold out yet because it was it is laying out.
+
+380
+00:32:09,542 --> 00:32:15,460
+Scott: I have been told by many people it is very close to selling out which means it's gonna be a madhouse in there.
+
+381
+00:32:15,700 --> 00:32:17,585
+Rym: Yep, actually it they.
+
+382
+00:32:17,605 --> 00:32:23,420
+Rym: if it doesn't sell out before the calm that's almost worse because people will definitely show up and not get a badge.
+
+383
+00:32:24,203 --> 00:32:35,040
+Scott: Yeah, I will say this the fact that they're selling out made me realize hey You know magfest doesn't have the badge line problems that other cons have even though they don't mail the badges.
+
+384
+00:32:35,100 --> 00:32:41,598
+Rym: It has the fact that the hotels within a reasonable distance of the convention can account for at most like 5% of the attendees.
+
+385
+00:32:43,102 --> 00:32:43,565
+Scott: Yeah, it's.
+
+386
+00:32:44,008 --> 00:32:49,318
+Scott: it's that they have this big registration room And all you really have to do is walk in scan a QR code and they hand you a badge.
+
+387
+00:32:49,358 --> 00:32:51,662
+Scott: Yeah and So.
+
+388
+00:32:51,802 --> 00:32:58,060
+Scott: and the fact is people trickle into magfest, especially on the Thursday, right and so that it's not like other cons.
+
+389
+00:32:58,080 --> 00:33:05,100
+Scott: So they start on Friday and like everyone's trying to get in right away immediately People trickle in to magfest and that eases that reg process.
+
+390
+00:33:05,321 --> 00:33:09,238
+Scott: They should still mail the badges if they don't want to mail their fancy special upgrade badge.
+
+391
+00:33:09,258 --> 00:33:12,109
+Scott: That's fine Yeah, but they should mail the regular ones.
+
+392
+00:33:12,189 --> 00:33:20,291
+Scott: because if the con is selling out That reg room like I said It works kind of well actually compared to other cons.
+
+393
+00:33:20,392 --> 00:33:26,380
+Scott: with a con reg because it's a big room That could be a content room that could be the night market.
+
+394
+00:33:27,143 --> 00:33:28,087
+Rym: It could be a lot of credit.
+
+395
+00:33:28,147 --> 00:33:29,352
+Rym: actually it could just be a fest.
+
+396
+00:33:29,392 --> 00:33:29,954
+Rym: is the night market?
+
+397
+00:33:29,995 --> 00:33:31,320
+Rym: cuz magfest doesn't fucking stop.
+
+398
+00:33:31,440 --> 00:33:35,859
+Scott: I'm just saying it could just be an expansion of existing magfest areas to take up more room.
+
+399
+00:33:36,322 --> 00:33:37,669
+Scott: But and those reg staff?
+
+400
+00:33:37,790 --> 00:33:39,620
+Scott: those are still got staff in there all the time.
+
+401
+00:33:39,841 --> 00:33:44,500
+Scott: Obviously the staff dwindles in that room starting set, you know for after Friday cuz a lot less.
+
+402
+00:33:45,100 --> 00:33:46,560
+Scott: Everyone's got the badge already, right?
+
+403
+00:33:46,920 --> 00:33:48,827
+Scott: But it's still some staff in there.
+
+404
+00:33:49,509 --> 00:33:52,720
+Scott: if they cleared out the reg room they could do something else with that space.
+
+405
+00:33:52,820 --> 00:33:54,264
+Scott: it's a big space.
+
+406
+00:33:54,305 --> 00:33:57,694
+Scott: think if it was will call only for people who didn't mail the badges.
+
+407
+00:33:57,755 --> 00:34:04,934
+Scott: the reg space could be way smaller and It would be big Matt and if you're selling out magfest you can't move it.
+
+408
+00:34:05,295 --> 00:34:06,720
+Scott: You can't really go somewhere bigger.
+
+409
+00:34:06,901 --> 00:34:09,036
+Scott: No place else is gonna work and still be magfest.
+
+410
+00:34:09,541 --> 00:34:14,840
+Rym: Also magfest has never sold out in the era where it was in the big building.
+
+411
+00:34:15,041 --> 00:34:20,638
+Rym: So this is exactly and last year's magfest was honestly the best magfest I've ever been to.
+
+412
+00:34:20,717 --> 00:34:22,351
+Rym: like this I'm just a jury.
+
+413
+00:34:22,716 --> 00:34:30,596
+Scott: mag fest It's time to mail the badges shrink the reg room get those staff Supporting that space doing some other function because you're selling out.
+
+414
+00:34:30,937 --> 00:34:34,748
+Scott: you need to do as much more content as you as you can.
+
+415
+00:34:35,371 --> 00:34:40,333
+Rym: so we will be there with three talks and So one on Thursday at 8 30 p.m.
+
+416
+00:34:41,581 --> 00:34:51,300
+Rym: Every game is the same game of new a new panel that we wrote That I've never been able to perform Because I had to skip some taxes because I got sick right before two of them and Scott was stuck doing it by himself.
+
+417
+00:34:51,681 --> 00:34:55,091
+Rym: I've really liked the content the gist of this panels.
+
+418
+00:34:55,130 --> 00:34:59,624
+Rym: I look forward to doing it - On Sunday at 1 p.m.
+
+419
+00:35:00,186 --> 00:35:08,534
+Rym: The 39 games you must play which I've also never presented for same for the same reason and Three on Saturday at 1 30 p.m.
+
+420
+00:35:09,280 --> 00:35:18,619
+Rym: And panel for me and Emily are giving a talk on post post modernism in games and game design that We're pretty proud of and excited to present to all of you.
+
+421
+00:35:20,463 --> 00:35:22,740
+Rym: Mmm, otherwise, let us know if you're gonna be a mag fest.
+
+422
+00:35:23,821 --> 00:35:34,040
+Rym: I would be more than happy to pick a time and a location for any of you who are hearing these words and Are interested in meeting us to meet up and hang out.
+
+423
+00:35:34,444 --> 00:35:44,088
+Rym: It's not gonna be a big event But we I'm willing to commit to a time and place where we will be present and if no one shows That's only gonna work if you announce the time and place.
+
+424
+00:35:44,309 --> 00:35:47,479
+Rym: Yes, so I am curious if anyone is interested in this.
+
+425
+00:35:48,262 --> 00:35:50,559
+Rym: But I am probably just going to pick a time and place.
+
+426
+00:35:50,781 --> 00:35:53,980
+Scott: Why don't we just do it like immediately following our panel or some shit?
+
+427
+00:35:54,220 --> 00:35:54,562
+Rym: We could.
+
+428
+00:35:54,582 --> 00:35:55,005
+Rym: I just got.
+
+429
+00:35:55,025 --> 00:35:57,679
+Rym: I got a look through the schedule because there's other things I might want to do.
+
+430
+00:35:58,061 --> 00:35:59,907
+Scott: You might run you might have to run from your pet.
+
+431
+00:36:00,068 --> 00:36:00,429
+Scott: I might.
+
+432
+00:36:00,550 --> 00:36:03,079
+Rym: if I mean mag fest, you know, I like Pax's.
+
+433
+00:36:03,641 --> 00:36:12,060
+Rym: Magfest is a con where I'll flip through the panel schedule and think oh shit I got to go to that like five or six times every time I flipped through the schedule.
+
+434
+00:36:12,920 --> 00:36:17,059
+Rym: hmm, just mag fest has content that you don't see in other cons in general.
+
+435
+00:36:17,079 --> 00:36:27,518
+Rym: and yeah, anyway, I'm gonna pick a place and a time very soon and post it other than these three panels and Otherwise mag fest is gonna be lit and I hope to see you there.
+
+436
+00:36:28,548 --> 00:36:29,580
+Rym: So, how do we sell software?
+
+437
+00:36:30,822 --> 00:36:37,300
+Scott: Well in the olden days there were really only two ways When people started trying to sell software for money, right?
+
+438
+00:36:37,860 --> 00:36:39,004
+Scott: There was really only two ways.
+
+439
+00:36:39,305 --> 00:36:41,794
+Scott: one was I got a copy of the software.
+
+440
+00:36:41,814 --> 00:36:42,536
+Scott: you give me money.
+
+441
+00:36:42,597 --> 00:36:43,460
+Scott: I gave you a copy.
+
+442
+00:36:44,461 --> 00:36:46,429
+Scott: They could just selling commercial software.
+
+443
+00:36:46,449 --> 00:36:48,979
+Scott: and the other way was here have a copy for free.
+
+444
+00:36:49,120 --> 00:36:49,673
+Rym: Yeah, that was it.
+
+445
+00:36:50,141 --> 00:36:51,184
+Scott: Those are the two ways.
+
+446
+00:36:51,285 --> 00:36:54,176
+Rym: and that second way kind of split into freeware which you're not selling.
+
+447
+00:36:54,196 --> 00:36:55,647
+Rym: so it's kind of out of the scope of this.
+
+448
+00:36:57,182 --> 00:36:57,504
+Rym: Show.
+
+449
+00:36:57,524 --> 00:37:08,921
+Rym: yeah or shareware which was basically Like shareware didn't last that long but shareware was a big deal because it was sort of a try before you buy Concept.
+
+450
+00:37:09,343 --> 00:37:10,868
+Rym: that was just super effective.
+
+451
+00:37:10,889 --> 00:37:15,385
+Rym: Like I bought a lot of shareware like pay five bucks I didn't fully.
+
+452
+00:37:15,786 --> 00:37:16,829
+Scott: I didn't fully understand.
+
+453
+00:37:16,890 --> 00:37:20,040
+Scott: I played a lot of shareware games and never bought the full game.
+
+454
+00:37:20,100 --> 00:37:21,105
+Scott: I just kept playing the share.
+
+455
+00:37:21,165 --> 00:37:24,459
+Rym: I mean I'm unconvinced that anyone bought scorched earth.
+
+456
+00:37:25,441 --> 00:37:27,590
+Scott: Yeah, it's like a raptor call the shadows.
+
+457
+00:37:27,650 --> 00:37:29,176
+Scott: I only played those beginning left.
+
+458
+00:37:29,196 --> 00:37:29,980
+Rym: cuz that was enough for me.
+
+459
+00:37:30,361 --> 00:37:30,902
+Rym: But I did.
+
+460
+00:37:31,022 --> 00:37:36,677
+Rym: I spent five bucks to buy the doom shareware and then it was so amazing.
+
+461
+00:37:36,737 --> 00:37:37,680
+Rym: I bought actual doom.
+
+462
+00:37:38,606 --> 00:37:40,360
+Scott: Oh, you had to actually pay for the doom shareware.
+
+463
+00:37:40,521 --> 00:37:42,571
+Scott: Okay, cuz usually share where was a lot of?
+
+464
+00:37:42,591 --> 00:37:50,460
+Scott: you get a free you get a free demo But the demo is only part of the full software and it'll be some limitation baked into it.
+
+465
+00:37:50,560 --> 00:37:54,740
+Scott: Right, like a game would only have the first level or a time limit.
+
+466
+00:37:54,900 --> 00:38:07,183
+Rym: Well, there are a lot of places that would sell share where really cheap basically to cover the cost of the disc in the box And the fact that they're like, oh sometimes yeah, I usually got a free CD or disc with a magazine But I did.
+
+467
+00:38:07,224 --> 00:38:10,620
+Rym: I paid five dollars to get doom on floppy.
+
+468
+00:38:11,723 --> 00:38:12,405
+Scott: Yeah, but there would.
+
+469
+00:38:12,626 --> 00:38:17,660
+Scott: there would be some kind of limitation office software that had a bunch of features removed other than basics.
+
+470
+00:38:18,062 --> 00:38:22,380
+Scott: Just something to get you hooked on the software so that you needed it.
+
+471
+00:38:22,420 --> 00:38:35,480
+Scott: You were saving files in their proprietary format or whatever it was and then that would get you to be like, okay I need this software fully featured and not bothering me with notices all the time and advertising at me and missing features.
+
+472
+00:38:35,985 --> 00:38:42,293
+Scott: Now I'll pay for it, right Whereas, you know if it was just either a binary of.
+
+473
+00:38:42,333 --> 00:38:45,000
+Scott: you can't even try the software or you can pay for it.
+
+474
+00:38:45,060 --> 00:38:47,491
+Scott: It's like I'm not paying 50 bucks for something.
+
+475
+00:38:47,511 --> 00:38:49,559
+Scott: I can't even try and I don't even know if I need it.
+
+476
+00:38:50,544 --> 00:38:53,175
+Scott: It's a share was successful in those days.
+
+477
+00:38:53,657 --> 00:39:12,620
+Rym: a big part of that I think was that it was a way for especially smaller software shops often just like one person could Basically directly sell and market without having to be a big company and outlay like the traditional Retail footprint of selling something.
+
+478
+00:39:13,041 --> 00:39:18,560
+Rym: It was an early access to that market to nerds who were good at software, but not good at everything else.
+
+479
+00:39:19,322 --> 00:39:25,200
+Scott: I think also even though plenty of software piracy was happening is that if you spread your shareware around?
+
+480
+00:39:25,820 --> 00:39:28,167
+Scott: It's like because it was legally being spread.
+
+481
+00:39:28,187 --> 00:39:30,855
+Scott: It was spreading more right down.
+
+482
+00:39:30,895 --> 00:39:32,740
+Scott: the pirated software was right.
+
+483
+00:39:32,740 --> 00:39:33,262
+Scott: It's sort of.
+
+484
+00:39:33,282 --> 00:39:37,820
+Scott: you know, there was a little bit of resistance to the pirated stuff spreading not much.
+
+485
+00:39:38,885 --> 00:39:41,720
+Scott: There was no resistance to the shareware spreading.
+
+486
+00:39:41,820 --> 00:39:42,182
+Scott: It was just.
+
+487
+00:39:42,202 --> 00:39:43,166
+Scott: it was like you couldn't?
+
+488
+00:39:43,186 --> 00:39:45,697
+Scott: it's like it was in the 90 in the early 90s mid 90s.
+
+489
+00:39:46,460 --> 00:39:50,100
+Scott: It's like it would be surprising if you didn't have just a bunch of sharewares on your computer.
+
+490
+00:39:50,100 --> 00:39:58,091
+Rym: Yeah You just pass shareware around and like I'd go to conventions like at Michigan There was a table that was just piles of floppy disk random shareware.
+
+491
+00:39:58,452 --> 00:40:01,339
+Rym: and the most crazy thing is that back then?
+
+492
+00:40:02,080 --> 00:40:06,460
+Rym: Zero of those things had malware because there was honor among thieves in ancient times.
+
+493
+00:40:07,022 --> 00:40:10,615
+Scott: Yeah, and it's like you would go to like two cows or download.com.
+
+494
+00:40:10,716 --> 00:40:14,540
+Scott: once the internet came around And if you're a normal person not even newsgroups, right?
+
+495
+00:40:14,600 --> 00:40:17,920
+Scott: But normal people download.com websites like that and you'd like shit.
+
+496
+00:40:18,020 --> 00:40:22,982
+Scott: I need a program that does this and you would download one and it would be like 7-zip or WinRar Shareware.
+
+497
+00:40:23,162 --> 00:40:32,389
+Rym: download like a dot exe and you'd run it on purpose on your computer and it trusted where it came from And it was honestly fine back then.
+
+498
+00:40:32,589 --> 00:40:35,746
+Scott: Yeah, some of them you got it from a good website yeah,
+
+499
+00:40:35,766 --> 00:40:45,593
+Rym: but even like malware that was malicious like modern malware was rare to the point of being effectively non-existent for a long time partly because
+
+500
+00:40:46,034 --> 00:40:51,012
+Scott: if you went to shady sites you would get it but Not if you went to these major download websites that what
+
+501
+00:40:51,052 --> 00:40:59,988
+Rym: in the line in the earlier floppy days There was basically no malware partly because the only malware you could make would fuck with someone But you couldn't make money off of it.
+
+502
+00:41:00,048 --> 00:41:02,135
+Rym: So there wasn't a profit motive to make malware.
+
+503
+00:41:02,436 --> 00:41:09,553
+Scott: before the modern internet It was also very common for you to just buy a computer and they'd just be a bunch of share Where's already installed on it?
+
+504
+00:41:09,613 --> 00:41:13,385
+Scott: Yeah Coming with it even if you reset the computer with.
+
+505
+00:41:13,405 --> 00:41:20,407
+Rym: a lot of people had there was like there's this list of 31 shareware games for Windows and Like everyone fucking had like Jez ball was in there.
+
+506
+00:41:20,427 --> 00:41:24,620
+Scott: Yeah, so shareware was a thing right and that was effective in its day.
+
+507
+00:41:26,163 --> 00:41:31,675
+Scott: But it wasn't that effective I guess Because it's not around anymore too much.
+
+508
+00:41:32,199 --> 00:41:37,119
+Rym: yeah Well capitalism and a lot changed since then like the internet came into existence for real.
+
+509
+00:41:37,982 --> 00:41:39,006
+Scott: Yeah, okay.
+
+510
+00:41:39,106 --> 00:41:43,220
+Scott: So I guess we didn't really spend any time talking about just selling software, right?
+
+511
+00:41:43,740 --> 00:41:46,051
+Scott: But just selling software is effective.
+
+512
+00:41:46,392 --> 00:41:48,020
+Scott: Yeah, it's like oh, you know, I have it.
+
+513
+00:41:48,260 --> 00:41:48,762
+Scott: Do you want it?
+
+514
+00:41:48,943 --> 00:41:58,276
+Scott: pay me right and as long as you have maybe you have a piracy protection system or maybe using keys Or maybe you're just trusting people or who knows what you've got to you to.
+
+515
+00:41:58,697 --> 00:42:03,671
+Scott: you know, I Mean even if you have it be pirated some people are still gonna pay anyway.
+
+516
+00:42:03,711 --> 00:42:10,779
+Rym: Yeah, like I remember I used to like I bought Microsoft works to install on a computer and it came in a box.
+
+517
+00:42:12,101 --> 00:42:17,617
+Scott: Yep, I bought Borland turbo c++ for $90 from a software etc.
+
+518
+00:42:17,637 --> 00:42:24,159
+Scott: I still have the floppies You know, it's like yeah, it's like that wasn't really easy to pirate in those days.
+
+519
+00:42:25,561 --> 00:42:36,212
+Scott: but You know the problem with just buying software is actually not really a problem for the customer If you know what software you want to buy and the price is reasonable.
+
+520
+00:42:36,232 --> 00:42:37,276
+Scott: It's like terrific, right?
+
+521
+00:42:37,296 --> 00:42:37,778
+Scott: You got it.
+
+522
+00:42:37,898 --> 00:42:38,300
+Scott: You're good.
+
+523
+00:42:38,802 --> 00:42:51,995
+Scott: it's that software means updates and It's like I buy it once you just and someone's gonna keep working Right forever to keep updating the software for free because I'm not paying them anymore.
+
+524
+00:42:52,035 --> 00:42:53,660
+Scott: I paid them once the end, right?
+
+525
+00:42:53,901 --> 00:42:59,680
+Scott: So how high would the price have to be for me to fund those people to keep patching and upgrading the software forever?
+
+526
+00:43:00,381 --> 00:43:05,681
+Rym: And a lot of people didn't worry about this a long time ago because saw the concept of software was relatively new to a lot Of them.
+
+527
+00:43:05,761 --> 00:43:11,660
+Rym: so like I bought campaign cartographer it did literally couldn't need an update.
+
+528
+00:43:11,760 --> 00:43:13,187
+Rym: It just did what it did and that was it.
+
+529
+00:43:13,248 --> 00:43:14,574
+Rym: like that was done.
+
+530
+00:43:14,594 --> 00:43:15,016
+Rym: I had it.
+
+531
+00:43:15,258 --> 00:43:15,740
+Rym: I had the song.
+
+532
+00:43:16,284 --> 00:43:18,100
+Rym: There would never be another version of that software.
+
+533
+00:43:18,683 --> 00:43:22,040
+Scott: And so what companies would do is they would have to be like they'd be like shit.
+
+534
+00:43:22,140 --> 00:43:23,265
+Scott: we sold all this software.
+
+535
+00:43:23,345 --> 00:43:26,619
+Scott: everyone who has it whoever everyone who needs it has it already.
+
+536
+00:43:26,639 --> 00:43:29,469
+Scott: and We you know, what do we do now?
+
+537
+00:43:29,891 --> 00:43:30,735
+Scott: Hey, we got our money.
+
+538
+00:43:30,755 --> 00:43:31,740
+Scott: Are we just gonna go out of business?
+
+539
+00:43:31,920 --> 00:43:36,094
+Scott: It's like what, you know, we made money where we profited but we're not.
+
+540
+00:43:36,315 --> 00:43:37,580
+Scott: we'd have any more cash flow now.
+
+541
+00:43:37,740 --> 00:43:41,600
+Rym: This is a fundamental problem with capitalism that is ruining us to this day.
+
+542
+00:43:41,620 --> 00:43:44,439
+Rym: It's the same reason the Phoebus cartel made light bulbs worse on purpose.
+
+543
+00:43:45,520 --> 00:43:52,940
+Rym: durable goods Do not appease capitalism because you can't make big returns on investments the same way.
+
+544
+00:43:53,442 --> 00:43:57,240
+Rym: Selling durable goods is not a sustainable business model in the modern world.
+
+545
+00:43:57,937 --> 00:44:06,631
+Scott: No so what they would inevitably do is they would start working on another version that had more features and Bug fixes and was better because technology was advancing.
+
+546
+00:44:06,671 --> 00:44:09,280
+Scott: they would write and technology is advancing rapidly.
+
+547
+00:44:09,421 --> 00:44:13,280
+Scott: So the new version would often be way better than the previous version.
+
+548
+00:44:14,182 --> 00:44:18,834
+Rym: There was a further release of campaign cartographer and it was another $70.
+
+549
+00:44:18,834 --> 00:44:23,979
+Rym: to get it you had to buy it all over again Exactly so much better than I bought it.
+
+550
+00:44:24,721 --> 00:44:26,145
+Scott: Right is that's what they would do?
+
+551
+00:44:26,265 --> 00:44:36,847
+Scott: is because things were advancing so rapidly that the new version was so much better so much different so much more useful and You upgraded your computer like Windows 3.1 to 95.
+
+552
+00:44:36,847 --> 00:44:42,784
+Scott: It's like you were running the Windows 3.1 version in like, you know Compatibility mode or whatever It's like.
+
+553
+00:44:42,824 --> 00:44:55,004
+Scott: you wanted that new version and so they could sell it to you again and again as long as things kept advancing rapidly, but after a certain point that rapid advancement really slowed down and People were just like.
+
+554
+00:44:55,024 --> 00:44:58,135
+Scott: well, I got this version and I'm what the new one?
+
+555
+00:44:58,256 --> 00:44:59,440
+Scott: how much better is the new one?
+
+556
+00:44:59,540 --> 00:44:59,982
+Scott: Really?
+
+557
+00:45:00,223 --> 00:45:01,449
+Scott: I'm kind of good with this one.
+
+558
+00:45:01,570 --> 00:45:03,660
+Rym: a more modern example from the GeekNights era.
+
+559
+00:45:04,721 --> 00:45:09,617
+Rym: The last just buy it versions of Adobe software like the for like the cs4 era.
+
+560
+00:45:10,841 --> 00:45:16,000
+Rym: you would just buy it and have it and you wouldn't get updates after a certain point and then there'd be a new version later.
+
+561
+00:45:16,020 --> 00:45:31,857
+Rym: the cost a lot of money and Tons of people bought that software and then when new versions of Adobe software came out they didn't upgrade but then they would complain Constantly about how their software was shitty and old and I didn't have any of the new features But we're unwilling to buy the new software
+
+562
+00:45:32,604 --> 00:45:33,793
+Scott: Because it cost a thousand.
+
+563
+00:45:34,015 --> 00:45:37,890
+Scott: Yes every Day, it's like would you rather it's like.
+
+564
+00:45:38,735 --> 00:45:39,740
+Scott: it's like people complain.
+
+565
+00:45:39,921 --> 00:45:42,851
+Scott: Oh, it was you didn't used to be a subscription and it's like.
+
+566
+00:45:43,272 --> 00:45:45,440
+Rym: well, it wasn't getting that much better either.
+
+567
+00:45:45,540 --> 00:45:51,199
+Scott: Yeah, but you but if you wanted to always update it then it was a thousand dollars a year.
+
+568
+00:45:52,541 --> 00:45:55,450
+Scott: So that was sort of a subscription and it's like.
+
+569
+00:45:55,891 --> 00:46:01,529
+Scott: and if you are somebody who doesn't need the new features You're satisfied just staying with like a really old version.
+
+570
+00:46:02,111 --> 00:46:03,415
+Scott: Are you really a professional?
+
+571
+00:46:03,476 --> 00:46:07,228
+Scott: and if you're not really a professional It's not worth it for you to spend any money.
+
+572
+00:46:07,348 --> 00:46:09,535
+Scott: use some free alternative thing instead.
+
+573
+00:46:09,596 --> 00:46:10,960
+Scott: that's gonna be almost as good.
+
+574
+00:46:11,162 --> 00:46:12,379
+Scott: That'll get the job done for you.
+
+575
+00:46:12,480 --> 00:46:18,340
+Rym: Yeah, and that was remember the era of open office was just as good as word because word wasn't that good back then.
+
+576
+00:46:19,301 --> 00:46:27,114
+Scott: Yep, but yeah, so the subscriptions came along and the subscription is yeah Just keep paying and we'll keep giving you updates.
+
+577
+00:46:27,174 --> 00:46:28,340
+Scott: We'll keep having cash flow.
+
+578
+00:46:28,400 --> 00:46:30,736
+Scott: We don't have to turn over our employees all the time, right?
+
+579
+00:46:31,702 --> 00:46:34,640
+Scott: We don't have to keep releasing new versions of selling it to you again.
+
+580
+00:46:35,142 --> 00:46:36,246
+Scott: It's like you just keep paying.
+
+581
+00:46:36,749 --> 00:46:37,894
+Scott: we keep updating.
+
+582
+00:46:38,315 --> 00:46:39,380
+Scott: you just have it forever.
+
+583
+00:46:39,500 --> 00:46:40,703
+Scott: You're good.
+
+584
+00:46:40,723 --> 00:46:40,944
+Scott: Now.
+
+585
+00:46:41,004 --> 00:46:41,806
+Scott: We're good.
+
+586
+00:46:41,866 --> 00:46:43,290
+Rym: the nature of software.
+
+587
+00:46:43,530 --> 00:46:52,820
+Rym: I do think this is just fundamentally a better way to go because Software does kind of need updates and bug fixes and security patches and advances.
+
+588
+00:46:52,920 --> 00:46:56,230
+Rym: There are very few kinds of software that hit a point of.
+
+589
+00:46:56,511 --> 00:46:58,577
+Rym: it's good enough forever like OBS version 1.8.
+
+590
+00:46:58,577 --> 00:46:58,818
+Rym: That's it.
+
+591
+00:46:59,720 --> 00:47:00,284
+Rym: We don't need it.
+
+592
+00:47:00,546 --> 00:47:04,002
+Rym: We don't need any more streaming advancements ever Hmm.
+
+593
+00:47:04,022 --> 00:47:14,620
+Scott: I do think though right there people do resent the subscription because it's like they don't truly own the software Right, and it's like if you stop paying not only do you not get the updates?
+
+594
+00:47:14,760 --> 00:47:17,442
+Scott: But it's like you lose everything that you've ever Right.
+
+595
+00:47:17,542 --> 00:47:37,067
+Scott: It's like if you've got a bunch of PSD files because you're like an artist and you've been photoshopping for 10 years and let's say You retire right or you know all the new features are things you don't need But you're still paying this 50 bucks of you know, whatever right however much it is for your Photoshop plan Depending on what your plan is like forever.
+
+596
+00:47:37,087 --> 00:47:47,156
+Scott: and if you stop paying now Photoshop stops working and you can't Check your old PSD files, but simultaneously access to all your arts and use the different analogy.
+
+597
+00:47:47,838 --> 00:47:48,580
+Rym: I bought my car.
+
+598
+00:47:48,681 --> 00:47:49,409
+Rym: It's paid off.
+
+599
+00:47:49,510 --> 00:47:52,459
+Rym: I own this car Never gonna get an oil change again.
+
+600
+00:47:53,544 --> 00:47:54,413
+Rym: Why would I ever change again?
+
+601
+00:47:55,922 --> 00:48:02,640
+Scott: It's not maintenance though, right is that if you stopped getting updates then your software would continue to work.
+
+602
+00:48:02,680 --> 00:48:04,667
+Scott: You'll be able to look at the PSD files.
+
+603
+00:48:04,687 --> 00:48:08,259
+Scott: You've already created no problem without oil changing true, right?
+
+604
+00:48:08,900 --> 00:48:11,031
+Scott: It's like so, you know, it's in turn.
+
+605
+00:48:11,071 --> 00:48:12,860
+Scott: you just wouldn't have access to the new features.
+
+606
+00:48:12,900 --> 00:48:24,066
+Scott: So I think if somebody was going to do a subscription and you wanted to do it in a more a less user hostile way You should simply say You pay for the software.
+
+607
+00:48:24,347 --> 00:48:32,830
+Scott: right you have it and if you stop paying then You know, maybe we disable your ability to make new things.
+
+608
+00:48:32,971 --> 00:48:35,257
+Scott: Maybe we disable your updates.
+
+609
+00:48:35,838 --> 00:48:36,420
+Scott: I go further.
+
+610
+00:48:36,602 --> 00:48:43,338
+Rym: I'd say what really you should regulation above a certain scale Software that interacts with certain file types.
+
+611
+00:48:44,062 --> 00:48:45,469
+Rym: Cut that a subscription base.
+
+612
+00:48:45,730 --> 00:48:50,960
+Rym: companies must be obligated to provide Downloadable local erodible tools to interact with files.
+
+613
+00:48:51,100 --> 00:48:54,591
+Scott: Just there should just be some way that they're not like locking you out.
+
+614
+00:48:54,671 --> 00:48:56,076
+Scott: Yeah, right and you're not ruined.
+
+615
+00:48:56,096 --> 00:48:57,400
+Scott: you could escape with your data.
+
+616
+00:48:57,500 --> 00:49:09,744
+Rym: Well, especially cuz here we're still talking about subscription to the software But like the files are local as opposed to say something like I don't know Miro where you're paying for the service itself Right.
+
+617
+00:49:09,764 --> 00:49:10,346
+Scott: So that's the.
+
+618
+00:49:10,447 --> 00:49:18,780
+Scott: the newer model that's everyone is software as a service Which is where you don't even install the software on your computer, which is in some ways really good.
+
+619
+00:49:18,880 --> 00:49:20,646
+Scott: You don't have to maintain the software.
+
+620
+00:49:20,666 --> 00:49:21,509
+Scott: You don't have to update it.
+
+621
+00:49:21,890 --> 00:49:24,699
+Scott: You don't have to you know, do any work at all.
+
+622
+00:49:25,221 --> 00:49:31,719
+Scott: It's just always running on someone else's computer and you pay to access it and now you can't really pirate it or anything.
+
+623
+00:49:33,341 --> 00:49:44,576
+Scott: But you also don't have to worry about like setting it up or you know At least you're not worrying about the security someone else is And That kind of works too.
+
+624
+00:49:46,144 --> 00:49:48,624
+Scott: But it has again Problems, right?
+
+625
+00:49:48,644 --> 00:49:50,248
+Rym: I stopped paying for my storage locker.
+
+626
+00:49:50,269 --> 00:49:54,180
+Rym: I don't get to go get all my stuff that's in my storage locker, right?
+
+627
+00:49:54,440 --> 00:49:57,489
+Scott: It's like if they go down you can't work.
+
+628
+00:49:58,191 --> 00:50:06,500
+Scott: It's like y'all just have to wait for someone else fucked up their computer that Thousands of people are using the same computer to do work and the people who own that computer fucked it up.
+
+629
+00:50:06,560 --> 00:50:09,659
+Scott: And now all these thousands of people just have to wait until they fix it.
+
+630
+00:50:09,760 --> 00:50:10,664
+Scott: You can't do anything about it.
+
+631
+00:50:11,246 --> 00:50:14,780
+Scott: Whereas if you were running it locally, you know, it would be on you to fix it.
+
+632
+00:50:14,922 --> 00:50:15,818
+Scott: Maybe it would be broken.
+
+633
+00:50:17,381 --> 00:50:20,695
+Scott: Still someone everyone wouldn't be hosed at the same time, right?
+
+634
+00:50:20,715 --> 00:50:26,149
+Scott: It would be piecemeal hosings But also more difficult technical support for the company.
+
+635
+00:50:26,189 --> 00:50:33,878
+Scott: that makes it to suddenly support to tech support for all these users as opposed To just have IT people that are supporting all the time.
+
+636
+00:50:35,141 --> 00:50:39,340
+Rym: Before you go further I do want to make an announcement because the website updated or I just didn't notice it.
+
+637
+00:50:39,360 --> 00:50:46,520
+Rym: There's a banner now at the top of the magfest site doodle Oh inventory badge sales will not be available on site full stop.
+
+638
+00:50:47,221 --> 00:50:53,479
+Rym: All right, you can still pre-register with the limited badges that are left, but there will be no badges sold at the door.
+
+639
+00:50:54,507 --> 00:51:00,390
+Scott: Okay, good That will say it frees up at least like one staff for it to do something else.
+
+640
+00:51:02,053 --> 00:51:08,710
+Scott: But yeah, it's obvious why software as a service especially with you know The cloud infrastructures and all these things has become really popular.
+
+641
+00:51:09,131 --> 00:51:18,526
+Scott: But the biggest problem with it, I think you know, is that those platforms and you know Unless they're a big mega platform and even if they are can die.
+
+642
+00:51:19,552 --> 00:51:21,505
+Rym: I mean it what envision die.
+
+643
+00:51:21,585 --> 00:51:22,310
+Rym: one of those died.
+
+644
+00:51:22,390 --> 00:51:27,390
+Scott: I forget which ones which because I'm using it's like, you know, even think of something huge like say Jira, right?
+
+645
+00:51:27,511 --> 00:51:31,250
+Scott: It's like you can host your own Jira, but the most people are using the Jira cloud version.
+
+646
+00:51:31,310 --> 00:51:33,202
+Scott: We're hosted on Atlassian servers.
+
+647
+00:51:33,745 --> 00:51:43,956
+Scott: if Atlassian dies That's gonna be a thing Just because they're enormous.
+
+648
+00:51:44,097 --> 00:51:45,862
+Scott: don't think that can't happen right?
+
+649
+00:51:46,585 --> 00:51:48,150
+Scott: and there's a lot of big companies like that.
+
+650
+00:51:48,190 --> 00:51:51,049
+Scott: You know Salesforce their cloud versions, right?
+
+651
+00:51:51,590 --> 00:51:52,848
+Scott: a lot of companies do.
+
+652
+00:51:53,490 --> 00:51:59,670
+Scott: No No, I mean and you're there's probably software service for normal people too that you're not even thinking about Duolingo, right?
+
+653
+00:52:00,110 --> 00:52:02,964
+Scott: Yeah, it's like Duolingo software as a service, right?
+
+654
+00:52:03,064 --> 00:52:09,049
+Scott: Even if you use the free version it's bronze on Duolingo's computer is the client you have is just a little client.
+
+655
+00:52:09,069 --> 00:52:11,756
+Scott: if You know you're paying for it and they shut down.
+
+656
+00:52:11,836 --> 00:52:19,325
+Scott: sure you'll stop paying but also you'll lose all your Duolingo nevermind Tons and tons of enterprise and professional software like.
+
+657
+00:52:19,365 --> 00:52:59,209
+Rym: remember I used to sell Software that you just buy and run with a license and software as a service and having in my previous company trying to sell software as a service to very large companies where that Software no longer being available would be a quote big fucking problem unquote for them in contracts we'd have to have agreements around rights to escrow of our source code or Right to hire our employees if we go out of business like they're free to poach our employees and like that kind of thing To assure them that they would be able to dig themselves out of the hole if we just went out of business.
+
+658
+00:53:00,333 --> 00:53:07,599
+Rym: But at the same time if you go out of business hard enough and fast enough None of those types of contract things mean anything.
+
+659
+00:53:07,619 --> 00:53:13,710
+Rym: and also in my actual professional experience Escrow source code is less than worthless.
+
+660
+00:53:14,513 --> 00:53:15,380
+Scott: Yeah, what are they gonna do?
+
+661
+00:53:15,400 --> 00:53:16,590
+Scott: they don't have anyone who understands.
+
+662
+00:53:17,272 --> 00:53:22,723
+Rym: Google goes under and Google sends one last email to you is like hey, sorry, we're gone.
+
+663
+00:53:23,145 --> 00:53:24,008
+Rym: Here's our source code.
+
+664
+00:53:24,269 --> 00:53:24,630
+Rym: Good luck.
+
+665
+00:53:24,811 --> 00:53:27,750
+Scott: Yeah, here's the is the mono repo with all the Google source code ever.
+
+666
+00:53:27,891 --> 00:53:28,635
+Scott: It's like the time.
+
+667
+00:53:28,655 --> 00:53:31,977
+Scott: it by the time it takes you to figure out all the source You could have made a new Google.
+
+668
+00:53:32,461 --> 00:53:36,310
+Scott: if you have Google employees Even the Google employees will understand the area they worked on.
+
+669
+00:53:36,410 --> 00:53:38,336
+Scott: Yeah, but they won't understand anything fucking else.
+
+670
+00:53:38,758 --> 00:53:46,069
+Scott: right and you can't recreate the Google infrastructure that runs that code Unless you buy it from unless you buy at the Google clearance sale.
+
+671
+00:53:46,912 --> 00:53:48,477
+Scott: It's like good luck.
+
+672
+00:53:48,677 --> 00:53:50,984
+Rym: and so far when all the direction all this is going.
+
+673
+00:53:51,044 --> 00:53:52,970
+Rym: is that paid software?
+
+674
+00:53:53,151 --> 00:54:01,670
+Rym: However, you access it in the current world Which there was an error where this wasn't really true and people would just buy software the way they bought other things.
+
+675
+00:54:02,392 --> 00:54:17,670
+Rym: You have to assume that any thing you use on your computer might disappear someday and always be ready to Do things differently to migrate to Recreate to change your pipeline to change your process to give up on everything and have to start over it.
+
+676
+00:54:17,730 --> 00:54:21,070
+Rym: If you can't be ready that you're gonna be screwed at some point by something
+
+677
+00:54:21,792 --> 00:54:34,818
+Scott: Right, even it whether if you're using software as a service or a subscription program or whatever You have to keep your data backed up and not just backed up but backed up in a format that is usable No matter what goes on, right?
+
+678
+00:54:34,838 --> 00:54:41,543
+Scott: It's like I got all my emails backed up, but they're backed up as emails So I can load them into pretty much anything.
+
+679
+00:54:41,563 --> 00:54:44,755
+Scott: That's email because SMTP It's fine.
+
+680
+00:54:44,795 --> 00:54:49,818
+Scott: If Gmail dies God's fine, but it's yeah, it's It's okay.
+
+681
+00:54:49,899 --> 00:54:50,966
+Scott: I can get away with it.
+
+682
+00:54:51,087 --> 00:55:01,849
+Rym: somehow I'll survive difficulty kind of like how the airbag will probably prevent me from dying in the ridiculous car crash But I'd rather it not go off and it's not gonna be great that it went off.
+
+683
+00:55:02,753 --> 00:55:03,837
+Scott: Yeah, all right.
+
+684
+00:55:03,857 --> 00:55:07,190
+Scott: Just some other ways to sell software that are out there.
+
+685
+00:55:07,270 --> 00:55:14,570
+Scott: Obviously, it's more gaming relevant, but also in other areas, which is where it's free to use free to play.
+
+686
+00:55:14,751 --> 00:55:18,242
+Scott: But then you sell all sorts of add-ons or other nonsense.
+
+687
+00:55:18,262 --> 00:55:20,890
+Rym: That's really common in enterprise software.
+
+688
+00:55:21,050 --> 00:55:23,117
+Rym: You'll see things that are like here.
+
+689
+00:55:23,217 --> 00:55:27,229
+Rym: This platform is free, but you want to integrate it with SAP.
+
+690
+00:55:27,289 --> 00:55:27,873
+Rym: That's $50,000 a year.
+
+691
+00:55:29,951 --> 00:55:34,403
+Scott: Yep, just all your charge for all the add-ons that add the real value.
+
+692
+00:55:34,463 --> 00:55:40,747
+Scott: and it's sort of a shareware model in a sense and it's also sort of like.
+
+693
+00:55:42,255 --> 00:55:44,967
+Scott: I guess, you know the whale aspect comes into it right where.
+
+694
+00:55:45,329 --> 00:55:49,869
+Scott: yeah There's a few people who really need these features and so we can milk them.
+
+695
+00:55:50,491 --> 00:55:54,322
+Scott: But we can also become a big household name and get lots of users.
+
+696
+00:55:54,723 --> 00:56:01,220
+Scott: that is sort of marketing in a way but also that can help us become an industry standard if everyone just starts using our stuff
+
+697
+00:56:01,862 --> 00:56:12,490
+Rym: a Licensing where it's free to use up to a certain level of revenue or scale or something after which now you're paying a licensing fee
+
+698
+00:56:13,631 --> 00:56:15,400
+Scott: Right, and it's like hey, you're out there.
+
+699
+00:56:15,440 --> 00:56:17,610
+Scott: You're a little dev you're choosing a game engine.
+
+700
+00:56:18,072 --> 00:56:21,229
+Scott: It's like you're not gonna choose the ones that cost money because you have no money.
+
+701
+00:56:21,390 --> 00:56:30,869
+Scott: Yeah So but the big companies like hmm if these people all start developing their games using like the love engine like Bellatro did We're not gonna add they'll just keep doing that forever.
+
+702
+00:56:31,713 --> 00:56:32,718
+Scott: We'll never make that will.
+
+703
+00:56:32,738 --> 00:56:35,430
+Scott: they'll never be a customer of unreal or unity, right?
+
+704
+00:56:35,610 --> 00:56:40,026
+Scott: They'll be satisfied with whatever, you know free thing Godot engine they're using and will.
+
+705
+00:56:40,166 --> 00:56:41,050
+Scott: that'll be the end of us.
+
+706
+00:56:41,613 --> 00:56:44,630
+Scott: So we need to make sure that they start with unreal engine.
+
+707
+00:56:45,031 --> 00:56:49,704
+Scott: Well, we got to have a free version of some kind just so that people learn our software.
+
+708
+00:56:49,805 --> 00:56:51,610
+Scott: it stays an industry standard.
+
+709
+00:56:51,710 --> 00:56:55,342
+Scott: There's employees for companies that use our software to hire right.
+
+710
+00:56:55,382 --> 00:57:02,488
+Scott: someone who's kid who's toying with you know Unreal Engine in college and high school can then get a job at somewhere that's using it.
+
+711
+00:57:03,671 --> 00:57:08,136
+Scott: And so it's even though it's not directly selling that free cheapy version.
+
+712
+00:57:08,156 --> 00:57:10,739
+Scott: It still is selling right?
+
+713
+00:57:10,839 --> 00:57:25,291
+Rym: It's not truly a benevolent free Like I free saw which leads to I don't know if this is on your list But like magento had this model and this was a sort of open source with the option of managed services or consultancy Services.
+
+714
+00:57:25,352 --> 00:57:27,478
+Rym: the idea being here is the software.
+
+715
+00:57:27,859 --> 00:57:31,550
+Rym: it is open source and well documented and you are you can host it.
+
+716
+00:57:31,831 --> 00:57:32,977
+Scott: You can host it yourself.
+
+717
+00:57:33,117 --> 00:57:36,373
+Scott: You can do everything for free by yourself Go ahead, but
+
+718
+00:57:37,036 --> 00:57:45,330
+Rym: by the way, all these people here who are experts at that software You can pay them to run it for you or pay them to set it up for you
+
+719
+00:57:46,972 --> 00:57:50,868
+Scott: Or pay them to just get help with it or they'll help you, you know.
+
+720
+00:57:52,611 --> 00:58:07,462
+Scott: Yeah, they'll help you with some plugins maybe to maybe even code a plug-in for you or help you because you're working on some Stuff with it, right or you need a custom doodad for your company or you know If you need any help with that at all We will help you for money, you know, what
+
+721
+00:58:07,482 --> 00:58:07,683
+Rym: happened?
+
+722
+00:58:07,945 --> 00:58:13,367
+Rym: not enterprise Linux not a terrible idea because at least the software is truly open source and out there.
+
+723
+00:58:13,387 --> 00:58:19,928
+Rym: and One of the problems of open source is how do you how do the people who contribute significantly to that software eat?
+
+724
+00:58:21,891 --> 00:58:25,950
+Scott: Yeah, I mean this is Red Hat was following basically this model for a long time.
+
+725
+00:58:26,130 --> 00:58:27,154
+Scott: I know they kind of still do.
+
+726
+00:58:27,215 --> 00:58:31,230
+Scott: I guess where it's like, you know, hey, you can run Red Hat Linux.
+
+727
+00:58:31,811 --> 00:58:32,875
+Scott: Go ahead, right?
+
+728
+00:58:33,196 --> 00:58:37,809
+Scott: But by the way, if you're a big company and you need, you know tech support for that shit.
+
+729
+00:58:38,871 --> 00:58:41,904
+Scott: If you pass for like a service contract, we're gonna help you out and it's like.
+
+730
+00:58:42,365 --> 00:58:46,143
+Scott: it seems a little scammy But it's like from the company's perspective.
+
+731
+00:58:46,203 --> 00:58:47,409
+Scott: This can make a lot of sense.
+
+732
+00:58:48,192 --> 00:58:52,750
+Scott: The thing the place it makes the most sense and is also the most scamming is with copy machines.
+
+733
+00:58:53,272 --> 00:58:56,725
+Scott: You got an office and you did a big fancy copier in there, right?
+
+734
+00:58:56,745 --> 00:58:59,153
+Scott: And it's like, okay What are you gonna do?
+
+735
+00:58:59,615 --> 00:59:02,242
+Scott: buy one of those things, you know much money they are right.
+
+736
+00:59:02,703 --> 00:59:04,449
+Scott: and it's like, okay you buy one.
+
+737
+00:59:04,669 --> 00:59:06,374
+Scott: now Anything happens to it.
+
+738
+00:59:06,435 --> 00:59:09,986
+Scott: Do you have an expert in maintaining that machine on your staff?
+
+739
+00:59:10,447 --> 00:59:12,254
+Scott: It's like no No, you don't.
+
+740
+00:59:12,274 --> 00:59:15,670
+Scott: you're a lawyer or some shit, right or well, who knows what business you do?
+
+741
+00:59:15,750 --> 00:59:17,317
+Scott: But it sure isn't copy machine repair.
+
+742
+00:59:17,337 --> 00:59:17,860
+Scott: Yes.
+
+743
+00:59:17,880 --> 00:59:20,050
+Scott: Now you got to call someone in like you call a plumber.
+
+744
+00:59:20,753 --> 00:59:23,505
+Scott: You've got to make sure they're an expert in that one specific machine.
+
+745
+00:59:23,566 --> 00:59:23,927
+Scott: Guess what?
+
+746
+00:59:23,967 --> 00:59:24,409
+Scott: They're not.
+
+747
+00:59:25,399 --> 00:59:30,837
+Scott: or Instead of doing all that and having a miserable time You don't buy the machine.
+
+748
+00:59:31,178 --> 00:59:34,630
+Scott: you buy a service contract with some company that will put machines.
+
+749
+00:59:34,750 --> 00:59:48,770
+Scott: You're basically kind of leasing them in your office and you pay them constantly but they also make sure the machines always work all the time and fix any problems with them all the time and they have the Service manuals to them and they're experts because they're fixing copy machines all goddamn day.
+
+750
+00:59:49,332 --> 00:59:55,366
+Scott: And so as a company if you're not in that business, it's a business equipment it makes sense to you to do it that way.
+
+751
+00:59:55,386 --> 01:00:04,082
+Scott: and they see that that you have no choice and they jack up the prices on you and kind of rip you off because if you Did buy the copy machine yourself and maintain it yourself.
+
+752
+01:00:04,102 --> 01:00:05,146
+Scott: You would save a lot of money.
+
+753
+01:00:05,167 --> 01:00:07,009
+Scott: Yeah in the long run.
+
+754
+01:00:08,135 --> 01:00:11,810
+Rym: then you're talking about the differences between Operational expenses versus capital.
+
+755
+01:00:13,196 --> 01:00:16,770
+Rym: All the stuff that I do is a job that so much going on there.
+
+756
+01:00:16,810 --> 01:00:19,197
+Scott: But the point is it that model makes sense.
+
+757
+01:00:19,778 --> 01:00:22,065
+Scott: and so it works and it exists.
+
+758
+01:00:22,165 --> 01:00:35,329
+Scott: and so it exists for software as well right, which is hey just pay us a Kind of a subscription, but really it's not a subscription for the software It's a subscription for the service because you don't have experts on this software, but you need to use it.
+
+759
+01:00:35,711 --> 01:00:42,113
+Scott: And so by paying us this this fee for our, you know service contract We will come and help you at any time.
+
+760
+01:00:42,153 --> 01:00:44,418
+Scott: You need we won't really be your employees.
+
+761
+01:00:44,458 --> 01:00:48,626
+Scott: We're own employees, but you know, it works out.
+
+762
+01:00:50,330 --> 01:01:01,209
+Scott: Oh The one the one last one last one is the last one which is you don't sell the software but Software only happens to work on this hardware that we sell.
+
+763
+01:01:02,951 --> 01:01:09,890
+Rym: I'm gonna go on a buy the last option of the unlimited bespoke time and materials consultancy to make you your software.
+
+764
+01:01:10,535 --> 01:01:12,428
+Scott: I mean, yeah, that's that's one way to do it.
+
+765
+01:01:13,312 --> 01:01:16,864
+Scott: But yeah, it's like yeah Mac OS Mac OS is basically free.
+
+766
+01:01:16,905 --> 01:01:19,912
+Scott: You can't buy Mac OS, but Good luck.
+
+767
+01:01:20,153 --> 01:01:21,457
+Scott: You have to buy an Apple computer.
+
+768
+01:01:21,858 --> 01:01:23,824
+Scott: The Mac OS is just a free.
+
+769
+01:01:23,904 --> 01:01:25,890
+Scott: all the pages all those Apple apps.
+
+770
+01:01:26,531 --> 01:01:31,383
+Scott: Yeah, they run on Mac computers or iPhones or whatever this they run on.
+
+771
+01:01:31,904 --> 01:01:38,050
+Scott: you have to buy this hardware to run that software And it's not always a. it's not just Apple, right?
+
+772
+01:01:38,490 --> 01:01:42,060
+Scott: There's lots of custom devices out there that have software included.
+
+773
+01:01:42,081 --> 01:01:44,728
+Scott: Yeah, and the software isn't like a separate thing.
+
+774
+01:01:44,788 --> 01:01:45,190
+Scott: you buy.
+
+775
+01:01:45,491 --> 01:01:49,310
+Scott: It's like you're sort of getting it for free or it's sort of part of the hardware.
+
+776
+01:01:49,631 --> 01:01:52,441
+Rym: Sometimes it's like the app you use to control your GoPro.
+
+777
+01:01:52,501 --> 01:01:54,770
+Rym: Sometimes it's the software running on your GoPro.
+
+778
+01:01:55,734 --> 01:01:56,597
+Scott: Right exactly right.
+
+779
+01:01:56,617 --> 01:01:57,481
+Scott: you buy a camera.
+
+780
+01:01:57,742 --> 01:01:59,549
+Scott: the camera has a firmware on it.
+
+781
+01:01:59,891 --> 01:02:02,399
+Scott: You can just get firmware updates from the web for free.
+
+782
+01:02:02,419 --> 01:02:05,970
+Scott: Yeah, right, but they're useless to you if you don't have the camera.
+
+783
+01:02:07,291 --> 01:02:09,659
+Scott: But that's still software that is being sold right.
+
+784
+01:02:09,699 --> 01:02:22,210
+Scott: someone at those companies is developing software on a regular basis and they are continuing to get cash flow because Hardware is being manufactured that runs that software and that hardware is constantly selling and getting up.
+
+785
+01:02:22,511 --> 01:02:25,023
+Rym: About the software that makes a modern car work.
+
+786
+01:02:25,184 --> 01:02:31,631
+Rym: not the entertainment system though That's also part of this but like the software that is making that car work Mm-hmm.
+
+787
+01:02:32,333 --> 01:02:34,680
+Scott: It's like yeah, you're kind of when you buy the car.
+
+788
+01:02:34,740 --> 01:02:36,224
+Scott: You're also buying that software.
+
+789
+01:02:36,485 --> 01:02:38,150
+Scott: Someone's job is to make that software.
+
+790
+01:02:38,995 --> 01:02:40,733
+Scott: It's being sold to you It's not.
+
+791
+01:02:40,753 --> 01:02:46,829
+Scott: you don't see it on the list of things as parts of the car on your invoice But it's in there somewhere baked in.
+
+792
+01:02:48,373 --> 01:03:01,530
+Rym: so yeah, there's a. There are Obviously different ways to get software made but we live in a capitalist society So most software needs to make money or else that software won't exist.
+
+793
+01:03:02,132 --> 01:03:09,516
+Rym: We're not at a point where our society will prioritize a certain kind of software existing even Software you might think of like OBS.
+
+794
+01:03:09,537 --> 01:03:13,068
+Rym: That's like very open source and seems to be great and constantly improving.
+
+795
+01:03:13,108 --> 01:03:13,609
+Rym: It just works.
+
+796
+01:03:14,352 --> 01:03:20,910
+Rym: OBS is only getting so much investment because a lot of companies make a lot of money using OBS Which is sustaining this ecosystem.
+
+797
+01:03:22,112 --> 01:03:29,102
+Scott: Yep, I mean, you know open source software usually typically isn't sold Although oftentimes it is legal to try to sell it if you wanted to.
+
+798
+01:03:29,122 --> 01:03:33,940
+Rym: that's why it was a big story with that a long Time ago, but it's like why is the Linux kernel?
+
+799
+01:03:34,181 --> 01:03:35,426
+Scott: have all this development on it?
+
+800
+01:03:35,526 --> 01:03:45,990
+Scott: because it's so important So many companies use it that if you look at the Linux kernel mailing list What email addresses do you see at Intel comm at Nvidia at IBM at Red Hat?
+
+801
+01:03:46,512 --> 01:03:55,543
+Scott: It's all these people work at these companies and those companies are hiring them to work on Linux to Modify Linux itself in ways that the company needs.
+
+802
+01:03:55,583 --> 01:04:00,116
+Scott: it work, you know to be worked on For the benefit of we.
+
+803
+01:04:01,040 --> 01:04:02,206
+Scott: you know, we also benefit.
+
+804
+01:04:02,427 --> 01:04:06,647
+Scott: but you know The companies are doing it because they're using that shit and they need it.
+
+805
+01:04:07,049 --> 01:04:08,134
+Scott: Yep They need it to work.
+
+806
+01:04:08,174 --> 01:04:10,506
+Rym: to paraphrase a lot of old detective do it on their own.
+
+807
+01:04:10,727 --> 01:04:11,350
+Rym: follow the money.
+
+808
+01:04:11,451 --> 01:04:12,528
+Rym: There's always a money trail.
+
+809
+01:04:14,667 --> 01:04:15,941
+Rym: So I'll just I'll end on.
+
+810
+01:04:15,981 --> 01:04:23,510
+Rym: not related to the show But in the chat the listener said two things that turned me to dust and I think it's where I need you to hear these.
+
+811
+01:04:24,051 --> 01:04:31,361
+Rym: Just checking in to say I was a kid listening to GeekNights on my PSP's RSS reader back in 2006 in middle school.
+
+812
+01:04:33,132 --> 01:04:35,199
+Scott: Okay, and I just probably shouldn't have.
+
+813
+01:04:35,781 --> 01:04:38,390
+Scott: there should have been some age verification so you couldn't listen to eat.
+
+814
+01:04:38,470 --> 01:04:39,370
+Rym: What the fuck.
+
+815
+01:04:41,914 --> 01:04:43,510
+Scott: Not nothing I agree with now.
+
+816
+01:04:44,992 --> 01:04:46,742
+Scott: Whatever I said back then I was wrong.
+
+817
+01:04:46,983 --> 01:04:52,783
+Rym: Also a big youtuber I've never heard of Jarvis Johnson around my age said on a podcast quote.
+
+818
+01:04:53,144 --> 01:04:58,474
+Rym: He used to listen to you guys as a kid Is a big youtuber.
+
+819
+01:04:58,594 --> 01:05:01,222
+Rym: I guess you'd how big bigger than us used.
+
+820
+01:05:01,242 --> 01:05:07,668
+Rym: to listen to you as a kid is a phrase I guess was inevitable, but still weird to hear it.
+
+821
+01:05:08,631 --> 01:05:15,429
+Scott: I mean big YouTube guy, maybe you're not bad if you listen to us, I hope you're not the wrong episodes.
+
+822
+01:05:16,912 --> 01:05:20,166
+Scott: I hope I hope you're one of the good youtubers and not the bad scummy ones.
+
+823
+01:05:20,186 --> 01:05:27,053
+Scott: Who's all yelly that I don't like but also I don't know.
+
+824
+01:05:27,194 --> 01:05:28,360
+Rym: We've been doing this a long time.
+
+825
+01:05:29,024 --> 01:05:33,528
+Scott: Good luck YouTube guy Unless you're the bad kind which case bad luck.
+
+826
+01:05:35,092 --> 01:05:35,835
+Rym: My favorite is.
+
+827
+01:05:35,855 --> 01:05:47,390
+Rym: what I'm mad at someone lately is I will sign the email ill regards Regards, I hope I hope lately I hope listening to some GeekNights in your youth turns you into good YouTube.
+
+828
+01:05:48,693 --> 01:05:49,477
+Scott: That then I could.
+
+829
+01:05:49,618 --> 01:05:51,770
+Scott: then I would know that it was all worth all the podcast.
+
+830
+01:05:53,373 --> 01:05:56,070
+Rym: This has been GeekNights with Rym and Scott special.
+
+831
+01:05:56,150 --> 01:05:58,356
+Rym: Thanks to DJ pretzel for the opening theme.
+
+832
+01:05:58,497 --> 01:06:00,823
+Scott: be sure to visit our website at front row.
+
+833
+01:06:00,863 --> 01:06:04,556
+Scott: clue calm for show notes discussion Links and more.
+
+834
+01:06:05,018 --> 01:06:07,670
+Rym: remember GeekNights is not one but four different shows.
+
+835
+01:06:07,991 --> 01:06:11,440
+Rym: Mondays are science and technology Tuesdays gaming and games.
+
+836
+01:06:11,560 --> 01:06:13,385
+Rym: Wednesdays are animation and comics.
+
+837
+01:06:13,706 --> 01:06:16,213
+Rym: Thursdays are arbitrary and Indiscriminate.
+
+838
+01:06:16,816 --> 01:06:21,814
+Rym: peak nights is distributed under a Creative Commons attribution 4.0 International license.
+
+839
+01:06:22,196 --> 01:06:26,510
+Scott: GeekNights is recorded live with no studio and no audience.
+
+840
+01:06:27,032 --> 01:06:30,543
+Scott: But unlike those other late shows it's actually recorded at night
+
+841
+01:06:30,984 --> 01:06:46,589
+Rym: and the patreon patrons for this episode of GeekNights Are Alan Joyce and the key G drill in the timber care Chris and I Christopher or Clinton Walton Fendrel Hey, it's been a rival Rebecca Dunn, Sam Erickson, Sherman Von Earl and a ton of people whose names I will not say because they do not want me to Tonight, of course, I'm gonna leave you with some.
+

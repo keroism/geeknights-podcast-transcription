@@ -1,0 +1,2832 @@
+﻿1
+00:00:08,140 --> 00:00:09,718
+Speaker 1: It's Tuesday, December 26th, 2023.
+
+2
+00:00:09,718 --> 00:00:09,919
+Speaker 1: I'm Rym.
+
+3
+00:00:13,274 --> 00:00:13,625
+Speaker 0: I'm Scott.
+
+4
+00:00:14,030 --> 00:00:15,296
+Speaker 1: And this is Geek Knights.
+
+5
+00:00:15,336 --> 00:00:18,430
+Speaker 1: Tonight we are talking about Lethal Company.
+
+6
+00:00:19,130 --> 00:00:20,048
+Speaker 0: Let's do this.
+
+7
+00:00:20,930 --> 00:00:28,110
+Speaker 1: So, as many of you know, I, uh, I, and a small contingent of people, am a Zelda 2 enjoyer.
+
+8
+00:00:28,250 --> 00:00:31,270
+Speaker 1: Now, I want to be clear, I'm not saying Zelda 2 is a perfect game.
+
+9
+00:00:31,530 --> 00:00:36,190
+Speaker 1: Like, Zelda 2 has a number of flaws, but I like Zelda 2 as a game.
+
+10
+00:00:36,493 --> 00:00:37,744
+Speaker 0: I like parts of Zelda 2.
+
+11
+00:00:37,744 --> 00:00:38,390
+Speaker 0: I like the dungeons.
+
+12
+00:00:38,750 --> 00:00:39,917
+Speaker 1: I've beaten it many times.
+
+13
+00:00:40,058 --> 00:00:42,070
+Speaker 1: Like, I know Zelda 2 very well.
+
+14
+00:00:42,250 --> 00:00:46,390
+Speaker 1: I can beat it in a pretty reasonable span of time with very few deaths.
+
+15
+00:00:46,630 --> 00:00:47,597
+Speaker 1: Like, I'm really good at it.
+
+16
+00:00:47,899 --> 00:00:49,250
+Speaker 1: Just a game I played a lot as a kid.
+
+17
+00:00:51,132 --> 00:00:58,210
+Speaker 1: Uh, and making the rounds on the internet recently was, people were calling it an HD remake, but it's not really that.
+
+18
+00:00:58,370 --> 00:01:09,009
+Speaker 1: Like, it's basically some fan, uh, at hoverbat.itch.io, and it looks like their name is Ziaol, Z-I-I-A-O-L.
+
+19
+00:01:10,250 --> 00:01:15,310
+Speaker 1: Made, it's not a remake, it's not an HD, it's more like a remix.
+
+20
+00:01:16,030 --> 00:01:22,430
+Speaker 1: Like, they took Zelda 2, and they just made a more Zelda 2 Zelda 2 with a lot more stuff in it.
+
+21
+00:01:22,851 --> 00:01:26,550
+Speaker 1: And a lot more mechanics, and better dungeons, and better graphics.
+
+22
+00:01:26,671 --> 00:01:27,738
+Speaker 1: They made it widescreen.
+
+23
+00:01:27,758 --> 00:01:28,583
+Speaker 1: It runs on the PC.
+
+24
+00:01:28,603 --> 00:01:29,609
+Speaker 1: Like, they added all this stuff.
+
+25
+00:01:30,531 --> 00:01:36,769
+Speaker 1: And I was very skeptical of that kind of project, but a few people I trust said some good things about it.
+
+26
+00:01:37,370 --> 00:01:40,300
+Speaker 0: Did they do the smart thing where it's like, you don't announce it, right?
+
+27
+00:01:40,340 --> 00:01:41,785
+Speaker 0: You just, until it's done, right?
+
+28
+00:01:43,570 --> 00:01:45,507
+Speaker 0: If Nintendo can't take this down, this exists forever.
+
+29
+00:01:45,990 --> 00:01:48,556
+Speaker 0: It's like, I've made something that Nintendo will shut down.
+
+30
+00:01:48,577 --> 00:01:53,709
+Speaker 0: I will wait until it is 100% done, then release it, and if they shut it down, people have it.
+
+31
+00:01:53,749 --> 00:01:54,050
+Speaker 0: We're good.
+
+32
+00:01:54,331 --> 00:01:54,531
+Speaker 1: Yep.
+
+33
+00:01:55,072 --> 00:02:04,350
+Speaker 1: So, this is an interesting case that I struggled with, because on one hand, it is really good.
+
+34
+00:02:05,491 --> 00:02:13,110
+Speaker 1: But on the other hand, it is so jankily implemented that I am unwilling to put forth the effort to play it.
+
+35
+00:02:13,912 --> 00:02:16,150
+Speaker 1: So, instead I watched a long play of someone playing it.
+
+36
+00:02:16,270 --> 00:02:18,350
+Speaker 0: How could it be good and jank at the same time?
+
+37
+00:02:18,550 --> 00:02:19,493
+Speaker 1: So, it's fascinating.
+
+38
+00:02:19,834 --> 00:02:25,550
+Speaker 1: The person who made this is an excellent game designer, in my opinion.
+
+39
+00:02:26,150 --> 00:02:36,470
+Speaker 1: They are also, they understood exactly how Zelda II worked to a fault in excruciating detail, because this wasn't just like a ROM hack.
+
+40
+00:02:36,890 --> 00:02:40,250
+Speaker 1: They remade it from scratch in fucking Game Maker.
+
+41
+00:02:40,930 --> 00:02:42,062
+Speaker 0: Well, that's why it's jank.
+
+42
+00:02:42,123 --> 00:02:42,749
+Speaker 0: It's a Game Maker.
+
+43
+00:02:42,890 --> 00:02:45,895
+Speaker 1: And yet, the game itself is not jank.
+
+44
+00:02:46,215 --> 00:02:47,116
+Speaker 1: It is perfect.
+
+45
+00:02:47,217 --> 00:02:55,910
+Speaker 1: I played enough of it in a, like I had to hack together some bullshit to make it work, but when I got it to work, it feels exactly like Zelda II.
+
+46
+00:02:56,410 --> 00:02:59,336
+Speaker 1: Like, if you told me it was a ROM, I would have believed you.
+
+47
+00:02:59,396 --> 00:03:05,928
+Speaker 1: I would have been impressed and surprised, and I would have thought it was impossible to do that with a ROM, but it feels 100% perfect.
+
+48
+00:03:07,050 --> 00:03:13,310
+Speaker 1: The timing, the way the jumping works, the way the enemies behave, every little detail of the gameplay is perfect.
+
+49
+00:03:13,710 --> 00:03:27,870
+Speaker 1: They got the rules of how Zelda II plays in effect absolutely perfect in Game Maker, which I think is, that is an impressive feat, my person who made this, because Game Maker is not known for making very precise games.
+
+50
+00:03:27,930 --> 00:03:34,730
+Speaker 1: Especially a game that someone who has played it a lot would notice even the slightest problem with the implementation.
+
+51
+00:03:35,592 --> 00:03:38,697
+Speaker 1: And the design of the game itself, the new dungeons, just better.
+
+52
+00:03:39,158 --> 00:03:40,401
+Speaker 1: The items, just better.
+
+53
+00:03:40,481 --> 00:03:45,390
+Speaker 1: The way the spells work, like, it is a better game in almost every conceivable way.
+
+54
+00:03:45,530 --> 00:03:46,578
+Speaker 1: It's not a tall order, though.
+
+55
+00:03:48,610 --> 00:04:03,570
+Speaker 1: No, but it's not just that they added quality of life stuff, like there's a subway that connects all the cities you visited and fast travel and stuff, but like, there's just better quests and the dungeons are way more complex, the aesthetic is better, like it's great.
+
+56
+00:04:04,390 --> 00:04:14,530
+Speaker 1: However, because it's Game Maker, if you want to play this thing, you have to download an .exe file from itch.io, and this .exe file has a few issues.
+
+57
+00:04:14,710 --> 00:04:18,444
+Speaker 1: So number one, Windows is going to tell you it's a virus, but I don't think it is.
+
+58
+00:04:18,464 --> 00:04:19,870
+Speaker 0: I did run it.
+
+59
+00:04:20,230 --> 00:04:22,570
+Speaker 0: It tells you literally any .exe you downloaded says it's a virus.
+
+60
+00:04:23,652 --> 00:04:23,752
+Speaker 1: Yup.
+
+61
+00:04:24,194 --> 00:04:30,269
+Speaker 1: I only trusted this on a computer that has some controls and containment in place, shall we say.
+
+62
+00:04:31,114 --> 00:04:31,850
+Speaker 0: I think it'll be fine.
+
+63
+00:04:32,090 --> 00:04:34,315
+Speaker 1: Two, the controls are hard-coded.
+
+64
+00:04:34,716 --> 00:04:41,910
+Speaker 1: You better have a legitimate real Xbox controller or something that the computer thinks is an Xbox controller plugged in.
+
+65
+00:04:42,954 --> 00:04:43,523
+Speaker 0: We all have those.
+
+66
+00:04:44,191 --> 00:04:44,719
+Speaker 1: I don't anymore.
+
+67
+00:04:44,740 --> 00:04:45,370
+Speaker 1: I got rid of them all.
+
+68
+00:04:45,990 --> 00:04:47,550
+Speaker 0: You got rid of every gamepad you own.
+
+69
+00:04:47,710 --> 00:04:49,369
+Speaker 1: I only have Nintendo Pro controllers now.
+
+70
+00:04:49,692 --> 00:04:50,289
+Speaker 0: You can use that.
+
+71
+00:04:50,913 --> 00:04:51,728
+Speaker 1: Ah, no you can't.
+
+72
+00:04:52,695 --> 00:04:53,008
+Speaker 0: Why not?
+
+73
+00:04:53,291 --> 00:04:55,350
+Speaker 1: I don't think you know how the Pro controller works on Windows.
+
+74
+00:04:56,270 --> 00:04:57,750
+Speaker 0: It works just like every other controller.
+
+75
+00:04:57,830 --> 00:04:58,955
+Speaker 1: No, it actually doesn't.
+
+76
+00:04:59,035 --> 00:05:02,028
+Speaker 1: It has some special nonsense, and this is the problem.
+
+77
+00:05:03,151 --> 00:05:11,330
+Speaker 1: It works if the game has implemented it properly, or you run the game through Steam, because Steam has a layer that makes the Pro controller work perfectly.
+
+78
+00:05:11,693 --> 00:05:12,628
+Speaker 1: It'll just work.
+
+79
+00:05:13,710 --> 00:05:24,810
+Speaker 1: But because of the way this game was implemented, it wants the raw input from the computer, and the raw input from Nintendo Pro controller has a lot of fun stuff that happens.
+
+80
+00:05:25,371 --> 00:05:34,790
+Speaker 1: So, if you launch this game, and you have a Nintendo Pro controller plugged into your computer, this game will flip the fuck out and crash.
+
+81
+00:05:35,551 --> 00:05:38,906
+Speaker 1: If you unplug the controller, it'll work fine.
+
+82
+00:05:38,946 --> 00:05:39,609
+Speaker 1: I got rid of that too.
+
+83
+00:05:40,450 --> 00:05:41,930
+Speaker 0: You just threw all your controllers in the garbage?
+
+84
+00:05:42,050 --> 00:05:43,256
+Speaker 1: Yeah, the Pro controller's all I need.
+
+85
+00:05:43,276 --> 00:05:45,990
+Speaker 1: It works for every game I play on the computer except this janky-ass game.
+
+86
+00:05:46,250 --> 00:05:46,653
+Speaker 0: Apparently not.
+
+87
+00:05:46,673 --> 00:05:49,190
+Speaker 0: This is why I have a little horde of various controllers.
+
+88
+00:05:49,411 --> 00:05:50,274
+Speaker 1: Only this game.
+
+89
+00:05:50,616 --> 00:05:54,130
+Speaker 1: This game has hard-coded, non-changeable controls.
+
+90
+00:05:56,914 --> 00:06:04,010
+Speaker 0: Also, every other Windows PC game that, I guess according to you, if the Pro controller only works through Steam, every single game that's not on Steam, it might download.
+
+91
+00:06:04,170 --> 00:06:09,325
+Speaker 1: No, through Steam, or if the developer implemented controllers the good way instead of the raw way.
+
+92
+00:06:09,726 --> 00:06:11,230
+Speaker 1: I did a lot of research on this.
+
+93
+00:06:11,370 --> 00:06:18,770
+Speaker 0: So, the entire history of PC games before Steam and before the Nintendo Switch Pro controller, you now cannot use your gamepad with.
+
+94
+00:06:18,931 --> 00:06:21,089
+Speaker 1: This is the only game I have that is impacted by that.
+
+95
+00:06:21,890 --> 00:06:24,130
+Speaker 0: Yeah, well, you know, you're not playing old games.
+
+96
+00:06:24,631 --> 00:06:25,073
+Speaker 1: Yeah, no I'm not.
+
+97
+00:06:25,134 --> 00:06:27,950
+Speaker 1: And actually, old games, I've gotten to work just fine with that controller as well.
+
+98
+00:06:28,030 --> 00:06:37,270
+Speaker 1: But this game, if a troll controller is plugged, even if you don't use it, if you have an Xbox controller, but you happen to have a Pro controller plugged into your computer, this game will just fucking flip out and crash.
+
+99
+00:06:40,151 --> 00:06:46,930
+Speaker 1: So, the installer that this EXE launches does not fully work.
+
+100
+00:06:47,910 --> 00:06:57,981
+Speaker 1: It says it'll make shortcuts that it doesn't, among other issues, but it does install the game to a hard-coded location on your computer.
+
+101
+00:06:58,001 --> 00:07:06,290
+Speaker 1: that is in a place that implies the person who made this game has no idea how Windows works and barely understands how file systems work.
+
+102
+00:07:06,771 --> 00:07:07,373
+Speaker 1: I am shocked.
+
+103
+00:07:07,694 --> 00:07:11,744
+Speaker 1: this game launched and the installer was able to put those files where it put them.
+
+104
+00:07:12,326 --> 00:07:13,830
+Speaker 1: And this is all non-configurable.
+
+105
+00:07:15,390 --> 00:07:20,823
+Speaker 1: There's also a million buttons you can press on the keyboard that do insane stuff that you kind of got to ignore.
+
+106
+00:07:21,184 --> 00:07:24,010
+Speaker 1: Make sure you don't accidentally hit one of them while you're playing or the game will get weird.
+
+107
+00:07:24,551 --> 00:07:28,030
+Speaker 1: But if you get past all that jank, the game is absolutely perfect.
+
+108
+00:07:29,333 --> 00:07:29,689
+Speaker 0: Okay.
+
+109
+00:07:30,830 --> 00:07:32,993
+Speaker 1: So, I was not willing to get through that.
+
+110
+00:07:33,034 --> 00:07:34,856
+Speaker 1: I watched a long play, and good job.
+
+111
+00:07:35,097 --> 00:07:37,501
+Speaker 1: This person is hopefully going somewhere.
+
+112
+00:07:37,741 --> 00:07:43,270
+Speaker 1: The only thing they're bad at is programming an application that I would trust.
+
+113
+00:07:43,670 --> 00:07:49,644
+Speaker 1: In terms of the game design and the implementation of the game itself, inside of that window, if you get it to launch, perfect.
+
+114
+00:07:50,025 --> 00:07:52,370
+Speaker 1: Absolutely S-tier implementation.
+
+115
+00:07:54,711 --> 00:07:55,278
+Speaker 1: Has he got any news?
+
+116
+00:07:57,781 --> 00:07:58,783
+Speaker 0: I mean, I guess so, right?
+
+117
+00:07:58,863 --> 00:08:10,399
+Speaker 0: So, it's been known for a while now that Nintendo was going to be turning off all the internet biz for the Wii U and the 3DS.
+
+118
+00:08:12,402 --> 00:08:22,860
+Speaker 0: So, they already turned off all the Wii stuff, and now they turned off some eShop stuff, but now they're going to be turning off the ability to play games online.
+
+119
+00:08:23,160 --> 00:08:32,059
+Speaker 0: So, for example, if you want to play Smash Brothers for the Wii U over the internet against other people, you won't be able to do that anymore once they turn it off.
+
+120
+00:08:32,861 --> 00:08:38,056
+Speaker 0: And it's like, okay, how many people are still playing multiplayer online games for 3DS or Wii U?
+
+121
+00:08:39,400 --> 00:08:41,139
+Speaker 1: How many people can find a different game to play?
+
+122
+00:08:42,361 --> 00:08:49,220
+Speaker 0: Right, and it's like, even if we preserve that, if they kept it online, no one would be using it, right?
+
+123
+00:08:49,520 --> 00:09:01,740
+Speaker 0: I feel like people have already figured out a lot of those protocols, and there are ways that you can spin up, basically, a clone server, if we really need to get that experience somehow again.
+
+124
+00:09:03,640 --> 00:09:27,920
+Speaker 0: But, there is one key factor here that makes this devastating, is that Mario Maker 1 is a 3DS Wii U game, and even if you're not doing some real-time multiplayer action, which I don't even know if it might have that, I don't remember, but all the levels are stored on Nintendo's servers.
+
+125
+00:09:30,460 --> 00:09:47,920
+Speaker 0: So that is, if those servers are turned off, and you try to play Mario Maker 1, you'll just be able to make and play levels locally, and any levels you've downloaded, but you won't be able to access all kinds of levels from the internet.
+
+126
+00:09:48,040 --> 00:09:50,540
+Speaker 0: Even if you have the level code, you won't be able to get the level.
+
+127
+00:09:50,660 --> 00:09:55,139
+Speaker 1: But I'm sure Nintendo has backed up all these levels and will make them available on site.
+
+128
+00:09:56,741 --> 00:10:15,580
+Speaker 0: Right, so there is a treasure trove of perhaps millions, who knows how many, clearly many thousands, easily if not millions, of crafted levels for a game, many of which are garbage, but are no less worthy of being saved for all human eternity.
+
+129
+00:10:15,720 --> 00:10:25,400
+Speaker 1: Especially because the total amount of storage and effort that would be necessary to keep these perturbed and available, that rounds down to zero.
+
+130
+00:10:26,600 --> 00:10:43,480
+Speaker 0: Right, so that would be a damn shame if we lost all the Mario Maker levels, and there's also a lot of like, people have figured out a lot of the Mario Maker APIs for those servers, also for Mario Maker 2, so there's websites you can go to and type in level codes and it'll show you the level.
+
+131
+00:10:45,441 --> 00:10:59,440
+Speaker 0: But yeah, we need to like, you know, whoever's doing that needs to step up the efforts, and basically I think they realize this, and back the hell up every Mario Maker level as much as we possibly can, so they're not lost to time and space.
+
+132
+00:10:59,900 --> 00:11:43,179
+Speaker 1: See, if I were a dictator, one of the things I would do, but this is low on the list, like there's other things to do, but this is on the list somewhere, is there should be a requirement that if any service like this is made available and gets above a certain size, or exists long enough, like make up some criteria and have some experts decide where the line is, then if the company does not archive them and make them available, the government will archive them and make them available, and if the government is unwilling or unable to for whatever reason, then that triggers something where all copyright rules disappear and any random ass person who wants to archive this stuff can use whatever means necessary to do so.
+
+133
+00:11:46,303 --> 00:11:48,780
+Speaker 1: It's a shame when we lose culture and we lose stuff like this.
+
+134
+00:11:48,820 --> 00:11:51,525
+Speaker 0: It would be a real shame if we lost all the Mario Maker 1 levels.
+
+135
+00:11:51,585 --> 00:11:56,413
+Speaker 0: However, you know, what's happened so far is they're not gone yet.
+
+136
+00:11:56,894 --> 00:12:00,140
+Speaker 0: What's happened is that technology stuff, right?
+
+137
+00:12:01,120 --> 00:12:09,569
+Speaker 0: They clearly have many servers that are hosting all this stuff, but sometimes when you turn on Mario Maker, it doesn't work, and sometimes you turn it on and it does.
+
+138
+00:12:10,030 --> 00:12:20,120
+Speaker 0: Their load balancer must have all the servers hard coded, but it seems like they've turned off all the servers except one, so you have to keep hitting the load balancer until you get routed to the one working server.
+
+139
+00:12:20,260 --> 00:12:28,860
+Speaker 1: That pattern of failure describes roughly 20% of all the major outages I've ever had to deal with in my life as a technology professional.
+
+140
+00:12:30,702 --> 00:12:36,617
+Speaker 0: Yeah, and Nintendo doesn't seem to care about changing what the hard coded list and the load balancer, right?
+
+141
+00:12:36,657 --> 00:12:37,860
+Speaker 0: They just turned off the servers.
+
+142
+00:12:37,860 --> 00:12:40,340
+Speaker 1: Well, because they're shutting the whole thing down in like April anyway.
+
+143
+00:12:42,721 --> 00:12:42,881
+Speaker 0: Yeah.
+
+144
+00:12:42,941 --> 00:12:53,596
+Speaker 0: But anyway, someone's really going to back up Mario Maker 1, but we also have to realize in some number of years this is going to happen to Mario Maker 2, right?
+
+145
+00:12:53,696 --> 00:12:54,477
+Speaker 0: You have to assume.
+
+146
+00:12:54,497 --> 00:12:55,839
+Speaker 0: We'll see.
+
+147
+00:12:57,460 --> 00:13:05,100
+Speaker 0: But there are some hints that Nintendo's current network infrastructure might be maintained for the next console cycle.
+
+148
+00:13:05,422 --> 00:13:13,160
+Speaker 0: I could see that considering this is the first... The people who don't go crazy when all this money they spent on Switch games suddenly evaporates.
+
+149
+00:13:13,521 --> 00:13:16,186
+Speaker 1: I was thinking about this recently for unrelated reasons.
+
+150
+00:13:16,727 --> 00:13:23,480
+Speaker 1: This generation, unlike the Wii U, which just didn't penetrate that deeply, the Switch is so pervasive.
+
+151
+00:13:24,200 --> 00:13:30,092
+Speaker 1: And it came at a time when the entire world shifted to almost exclusively buying games digitally.
+
+152
+00:13:30,112 --> 00:13:31,535
+Speaker 1: That was one of those ESA reports.
+
+153
+00:13:31,855 --> 00:13:34,180
+Speaker 1: Nobody wants physical cartridges, even on Nintendo anymore.
+
+154
+00:13:34,821 --> 00:13:44,118
+Speaker 1: So now we're at a point where there's a critical mass where this current generation of Nintendo server and online service stuff might have to be the baseline.
+
+155
+00:13:44,158 --> 00:13:45,100
+Speaker 1: that continues forever.
+
+156
+00:13:45,280 --> 00:13:48,840
+Speaker 1: Like whatever account you got now, whatever stuff's in it will be available for a very long time.
+
+157
+00:13:48,860 --> 00:13:53,174
+Speaker 0: They definitely said they're going to keep your accounts, but it's still a question of will you keep all the games?
+
+158
+00:13:53,214 --> 00:13:55,060
+Speaker 0: Will all those games run in the next console?
+
+159
+00:13:55,220 --> 00:14:04,500
+Speaker 0: And then it's another thing to say, okay, your games run the next console, but will the server with all the Mario Maker 2 levels continue to be on and running for how long?
+
+160
+00:14:06,041 --> 00:14:11,220
+Speaker 0: For as long as, you know, just because the console plays Mario Maker 2 and Mario Maker 3 came out, whatever.
+
+161
+00:14:11,721 --> 00:14:19,020
+Speaker 0: But Mario Maker 2, if Mario Maker 1 is like a pirate's treasure, Mario Maker 2 is like Smaug's treasure.
+
+162
+00:14:19,522 --> 00:14:24,040
+Speaker 0: It's like, you know, talking about the levels that are in on those servers.
+
+163
+00:14:24,660 --> 00:14:31,420
+Speaker 0: So we got to make sure that that's not lost if Nintendo decides they don't want to maintain those servers anymore.
+
+164
+00:14:31,780 --> 00:14:37,020
+Speaker 1: It's almost like we just did a panel talking about this exact topic at PAX West.
+
+165
+00:14:37,820 --> 00:14:42,760
+Speaker 0: I'm just saying it's, you know, it's a unique game in terms of games, period.
+
+166
+00:14:43,120 --> 00:14:44,140
+Speaker 1: I think it's an important game.
+
+167
+00:14:45,021 --> 00:14:52,180
+Speaker 0: It's a super important game that does not get... Basically, it's like there's people who pay a bunch of attention to it, and then there's people who pay no attention.
+
+168
+00:14:54,441 --> 00:15:03,080
+Speaker 1: So in some other news, this is... I'm going to start by saying that I approve of everything that happened here, and I wish more companies did this more aggressively.
+
+169
+00:15:04,140 --> 00:15:18,100
+Speaker 1: Valve did a thing with Dota 2, a game I don't play, where for Christmas, or as they call it, Frostavis, they did a thing where all the players are going to get a little gift-wrapped item, and when they open it, they get some special cosmetics or some stuff in the game.
+
+170
+00:15:18,940 --> 00:15:31,960
+Speaker 1: But, rolled into that gift, anyone that they had added to their "To Be Banned" list, who was not banned yet, they delivered all of the bans via this gift.
+
+171
+00:15:32,540 --> 00:15:51,140
+Speaker 1: So some many, many tens of thousands of people, based on this reporting, we don't have a specific number that they have announced, at least as far as I've found, when they opened their gift box expecting to get a skin, they got a lump of toxic coal, and then their account shut down and they were banned permanently.
+
+172
+00:15:51,701 --> 00:15:59,140
+Speaker 1: And this happened to at least one moderately popular live streamer, like live on stream, which is just icing on the cake.
+
+173
+00:15:59,880 --> 00:16:10,500
+Speaker 1: Now, the bans in particular here are interesting, because this was not bans related to cheating and other things, this was two specific kinds of bans.
+
+174
+00:16:11,142 --> 00:16:22,860
+Speaker 1: It was people who were sharing accounts between high-skill and low-skill players, like a pro player sharing an account with someone who was not in fact the pro, and it was people who were, by Valve's estimation, smurfing.
+
+175
+00:16:23,520 --> 00:16:32,000
+Speaker 1: They went after people who were causing quality of life issues for other players in the matchmaking, and just banning them en masse.
+
+176
+00:16:33,682 --> 00:16:56,187
+Speaker 0: I mean, these kinds of games always have people who are behaving poorly, because that's how they're designed to encourage that kind of behavior, and they have to do manual and some automatic moderation of people, but the cleverness of someone thinks they're opening a loot chest and it's like, "Haha, you're banned,".
+
+177
+00:16:56,288 --> 00:16:57,459
+Speaker 0: and they actually did that.
+
+178
+00:16:59,461 --> 00:17:07,680
+Speaker 1: That's the kind of thing that a lot of companies, I feel like they're afraid of doing, but one, I don't think they suffered any negative PR, because everyone who thinks this is funny- No, it's all positive.
+
+179
+00:17:07,839 --> 00:17:11,060
+Speaker 1: Yeah, everyone who thinks this is funny hates the kind of people who got banned.
+
+180
+00:17:11,339 --> 00:17:15,298
+Speaker 1: Those are the people who ruined games for you, and meanwhile, the people who got banned, fuck them.
+
+181
+00:17:17,181 --> 00:17:26,758
+Speaker 0: There was a video of some streamer, who I never heard of, but I assume that they're a popular Dota streamer, and someone in their chat asked them, "Hey, did you get the chest
+
+182
+00:17:26,819 --> 00:17:27,040
+Speaker 0: thing?".
+
+183
+00:17:27,099 --> 00:17:30,960
+Speaker 0: Because everyone got one, some people just had bans and some people had loot, right?
+
+184
+00:17:32,080 --> 00:17:33,449
+Speaker 0: And he's like, "Oh, let me go check on that,".
+
+185
+00:17:33,469 --> 00:17:35,179
+Speaker 0: and he goes and checks on it, there's a ban in there.
+
+186
+00:17:37,260 --> 00:17:43,780
+Speaker 0: And you could just tell, even before the ban, you could tell this streamer guy was a shitty kind of guy.
+
+187
+00:17:44,021 --> 00:17:48,597
+Speaker 0: Yeah, I don't want to stereotype people based on- I saw him for 10 seconds and I'm like, "That's a shitty
+
+188
+00:17:48,618 --> 00:17:48,859
+Speaker 0: dude.".
+
+189
+00:17:48,980 --> 00:17:57,162
+Speaker 1: Yeah, I mean, it is possible someone who acts and talks like that is not shitty, but that- Yeah, unlikely.
+
+190
+00:17:57,222 --> 00:18:04,020
+Speaker 1: That manner of talking is a red flag to me, just in general.
+
+191
+00:18:04,280 --> 00:18:11,860
+Speaker 1: Like, if I met someone on the street who talked that way, I would back away and assume that there's some terrible- If there was someone talking that way out of PAX, I would avoid that.
+
+192
+00:18:12,140 --> 00:18:12,641
+Speaker 1: Absolutely.
+
+193
+00:18:13,242 --> 00:18:28,929
+Speaker 1: Now, what's interesting is this comes at the same time as Valve has rolled out a whole bunch of changes to Dota 2 around giving players a behavior score, which is an aggregate representation of, quote, the quality- Oh, they got that technology from the Chinese government, I see.
+
+194
+00:18:29,610 --> 00:18:33,710
+Speaker 1: The quality of their in-game chat and speech interactions is the quote.
+
+195
+00:18:34,390 --> 00:18:37,257
+Speaker 1: And Overwatch has also been doing something similar.
+
+196
+00:18:37,337 --> 00:18:42,290
+Speaker 1: You can report people for gameplay stuff, you can report them for, like, racism, you know, like, the obvious things.
+
+197
+00:18:42,731 --> 00:18:54,490
+Speaker 1: You can also report people for just being pricks, and increasingly, major game companies are willing to ban people who aren't breaking any really hard rules and aren't cheating, but are just being dicks.
+
+198
+00:18:55,331 --> 00:18:56,577
+Speaker 1: And I actually approve of this.
+
+199
+00:18:56,718 --> 00:18:59,070
+Speaker 1: Like, throughout your community, you don't have a right to play a game.
+
+200
+00:19:00,030 --> 00:19:10,430
+Speaker 0: It's not just, you know, it's actually smart business, and if anyone disagrees with that, well, I mean, you can just look around and see that Twitter, once they decided to moderate less, has done worse.
+
+201
+00:19:10,951 --> 00:19:11,211
+Speaker 0: Right?
+
+202
+00:19:11,612 --> 00:19:23,810
+Speaker 0: It's like, basically, the way you have to think about this, as if you're an evil capitalist who runs a platform, right, where users interact with each other and moderating it, from a capitalist incentive perspective, right?
+
+203
+00:19:24,010 --> 00:19:26,336
+Speaker 0: All you're trying to do is get the most users and the most money.
+
+204
+00:19:26,557 --> 00:19:29,746
+Speaker 0: You don't actually care if people are hurt or emotionally distressed.
+
+205
+00:19:29,766 --> 00:19:31,290
+Speaker 0: You don't care about that because you're evil, right?
+
+206
+00:19:32,011 --> 00:19:40,910
+Speaker 0: Even if you're that person, you just want to make the most money, you run this platform, there is, spam is your number one enemy, because spam makes people not want to use it, right?
+
+207
+00:19:41,810 --> 00:19:45,782
+Speaker 0: If someone's text messages are as full as spam, they stop using text messages, right?
+
+208
+00:19:45,822 --> 00:19:48,610
+Speaker 0: Rather than try to clean up the spam, it's too much work, so you have to stop spam.
+
+209
+00:19:48,670 --> 00:19:53,570
+Speaker 1: I haven't answered a phone call from a number that wasn't in my contact list in, like, seven years.
+
+210
+00:19:53,951 --> 00:19:58,885
+Speaker 0: If you call me and you're not, or message me and you're not in my contact list, my phone doesn't ring, I don't see your message.
+
+211
+00:19:59,828 --> 00:20:00,470
+Speaker 0: It's that simple.
+
+212
+00:20:01,151 --> 00:20:07,259
+Speaker 0: But regardless, the second thing is obviously shitty people, right?
+
+213
+00:20:07,860 --> 00:20:14,910
+Speaker 0: Shitty peep to a normal person who's not shitty and doesn't like, you know, shittiness, right, and isn't a troll themselves.
+
+214
+00:20:14,910 --> 00:20:17,770
+Speaker 1: There are people who like shittiness and they hang out on the chance.
+
+215
+00:20:17,810 --> 00:20:21,277
+Speaker 0: Yes, the people watching that, there are people watching that streamer who is a shitty guy, right?
+
+216
+00:20:21,317 --> 00:20:28,190
+Speaker 0: Those people, like, you know, the people who would, like, you know, listen to the radio for, like, when there were prank call shows on the radio, right?
+
+217
+00:20:28,270 --> 00:20:28,971
+Speaker 0: That kind of people.
+
+218
+00:20:30,153 --> 00:20:32,017
+Speaker 0: You know, they like the suffering of others.
+
+219
+00:20:32,057 --> 00:20:34,341
+Speaker 0: They're all fellow bad humans, right?
+
+220
+00:20:34,641 --> 00:20:37,286
+Speaker 0: But most of your customers are not those people.
+
+221
+00:20:37,306 --> 00:20:39,210
+Speaker 0: Those people are a minority in the world.
+
+222
+00:20:40,270 --> 00:20:46,701
+Speaker 1: Well, think about it like, imagine you're at a house party and there's that one guy, that guy, and everyone at the party is trying to avoid them.
+
+223
+00:20:46,961 --> 00:20:48,023
+Speaker 1: They haven't done anything wrong.
+
+224
+00:20:48,043 --> 00:20:51,208
+Speaker 1: They're just really annoying and no one wants to be in the conversation they're in.
+
+225
+00:20:51,269 --> 00:20:52,030
+Speaker 1: Everyone avoids them.
+
+226
+00:20:52,631 --> 00:21:00,630
+Speaker 1: The party would be better if that person were not there, but usually no one is willing to kick that person out of the party just because they're annoying.
+
+227
+00:21:01,450 --> 00:21:05,297
+Speaker 0: Well, but also people ask, hey, the next party, hey, is that guy going to be there?
+
+228
+00:21:05,317 --> 00:21:06,739
+Speaker 0: Eh, I'm not coming, right?
+
+229
+00:21:07,060 --> 00:21:12,509
+Speaker 0: And so you lose if the longer your party goes on, and this is a 24/7 party we're talking about here with Dota, right?
+
+230
+00:21:13,231 --> 00:21:17,017
+Speaker 0: The longer that party goes on, the less people will be there as long as shitty guy is there.
+
+231
+00:21:17,118 --> 00:21:19,642
+Speaker 0: So, and then you get a reputation for being placed.
+
+232
+00:21:19,682 --> 00:21:22,307
+Speaker 0: shitty guy hangs out and then normal person doesn't hang out there.
+
+233
+00:21:22,708 --> 00:21:23,850
+Speaker 0: It's equivalent to spam.
+
+234
+00:21:24,170 --> 00:21:34,630
+Speaker 0: So moderating it away, fixing your reputation is the hardest part because even after you get rid of the shitty guys, the fact that they were there and you got the reputation, people just think that they're still there.
+
+235
+00:21:36,236 --> 00:21:37,190
+Speaker 0: So it's really hard.
+
+236
+00:21:37,510 --> 00:21:42,621
+Speaker 1: Yeah, there's your person who's like, yes, donkeynots69420 was banned and is never coming back.
+
+237
+00:21:42,922 --> 00:21:46,590
+Speaker 1: If you think he's joined our server again, tell us and we'll ban him again.
+
+238
+00:21:47,490 --> 00:21:47,850
+Speaker 0: That's right.
+
+239
+00:21:47,891 --> 00:21:53,398
+Speaker 0: But it's like people don't even want to be there for the person, you know, to be in the game for two seconds and then be banned.
+
+240
+00:21:53,858 --> 00:21:56,442
+Speaker 0: So there's a lot of other things that go into it.
+
+241
+00:21:56,482 --> 00:22:03,030
+Speaker 0: because of the way the game Dota works is very vulnerable to this bad behaviors of various kinds.
+
+242
+00:22:03,030 --> 00:22:04,588
+Speaker 1: That's a very diplomatic way to put that.
+
+243
+00:22:05,470 --> 00:22:05,645
+Speaker 0: Yeah.
+
+244
+00:22:06,511 --> 00:22:07,830
+Speaker 1: We don't play MOBAs for a reason.
+
+245
+00:22:08,130 --> 00:22:10,944
+Speaker 0: But if they ban all these people, they make more money.
+
+246
+00:22:11,647 --> 00:22:12,150
+Speaker 0: End of story.
+
+247
+00:22:12,390 --> 00:22:13,410
+Speaker 1: Yeah, it's better for everyone.
+
+248
+00:22:15,071 --> 00:22:18,490
+Speaker 0: Except the shitty guys who deserve it.
+
+249
+00:22:20,110 --> 00:22:22,875
+Speaker 1: But anyway, things of the day.
+
+250
+00:22:22,995 --> 00:22:24,598
+Speaker 1: So this account's tiny.
+
+251
+00:22:24,638 --> 00:22:26,080
+Speaker 1: It's got like 700 subscribers.
+
+252
+00:22:27,001 --> 00:22:27,963
+Speaker 1: These videos are pretty new.
+
+253
+00:22:28,023 --> 00:22:29,044
+Speaker 1: We bumped into them recently.
+
+254
+00:22:29,365 --> 00:22:32,390
+Speaker 1: They have a criminal small amount of views compared to how cool they are.
+
+255
+00:22:32,850 --> 00:22:39,376
+Speaker 1: But basically, it looks like it's a Ukrainian channel and they make pixel art.
+
+256
+00:22:39,416 --> 00:22:51,928
+Speaker 1: They focused on Disco Elysium, but they make some other things and they make really short Sierra style pixel animated videos to Disco Elysium and other games.
+
+257
+00:22:52,028 --> 00:22:54,550
+Speaker 1: They're like a minute long and they're just very high quality.
+
+258
+00:22:54,630 --> 00:22:58,401
+Speaker 1: And this spoke to me and I think this channel should get a little more attention than it has.
+
+259
+00:22:59,143 --> 00:23:00,126
+Speaker 1: Also, Slava Ukraine.
+
+260
+00:23:00,146 --> 00:23:01,410
+Speaker 1: So what do you got?
+
+261
+00:23:03,311 --> 00:23:14,164
+Speaker 0: So this dude named Kurt Block, who I've never heard of until recently when the New York Times wrote this article about him, was a Jew in Germany in the darkest times.
+
+262
+00:23:14,925 --> 00:23:15,565
+Speaker 0: And he escaped.
+
+263
+00:23:16,066 --> 00:23:16,767
+Speaker 0: His family didn't.
+
+264
+00:23:17,668 --> 00:23:18,149
+Speaker 0: Typical.
+
+265
+00:23:18,709 --> 00:23:19,350
+Speaker 0: That's what happened.
+
+266
+00:23:21,271 --> 00:23:24,056
+Speaker 0: But he escaped and some Dutch people kept him in the attic.
+
+267
+00:23:24,877 --> 00:23:25,999
+Speaker 0: That's what happened.
+
+268
+00:23:27,382 --> 00:23:32,330
+Speaker 0: But one thing was unique about him compared to all the other people hiding in other attics.
+
+269
+00:23:33,772 --> 00:23:48,890
+Speaker 0: And that thing was that while he was in the attic, the very heroic and amazing Dutch people who owned the house not only gave him food and water and what he needed to survive while hiding in a crawl space in their, you know, 20th century house.
+
+270
+00:23:50,411 --> 00:24:00,241
+Speaker 0: They also gave him paper and other materials with which to produce a magazine of which there seems to be only one copy of each issue.
+
+271
+00:24:00,762 --> 00:24:03,124
+Speaker 0: But there are 95 issues.
+
+272
+00:24:03,805 --> 00:24:08,690
+Speaker 0: So he basically made a zine while he was hiding from Nazis.
+
+273
+00:24:09,050 --> 00:24:13,610
+Speaker 1: That is the most underground and hardcore zine that has ever been made, I think.
+
+274
+00:24:14,051 --> 00:24:14,912
+Speaker 0: That is right.
+
+275
+00:24:14,952 --> 00:24:24,226
+Speaker 0: So that's like obviously not the hiding in the attic part, not the losing your family in a genocide part, but the make 95 issues of a zine part, right?
+
+276
+00:24:24,867 --> 00:24:26,670
+Speaker 0: An anti-fascist zine.
+
+277
+00:24:26,850 --> 00:24:29,753
+Speaker 1: I mean, you got to do what you can with the tools available to you.
+
+278
+00:24:44,631 --> 00:24:45,472
+Speaker 0: This guy made 95.
+
+279
+00:24:45,472 --> 00:24:48,778
+Speaker 0: I guess he didn't have anything else to do, but regardless.
+
+280
+00:24:49,499 --> 00:24:52,163
+Speaker 0: So what happened was the issues, the magazine, right?
+
+281
+00:24:52,224 --> 00:24:54,547
+Speaker 0: If there are one copy of each, they weren't like distributed.
+
+282
+00:24:54,628 --> 00:24:55,970
+Speaker 0: How did, how did this come to be?
+
+283
+00:24:56,090 --> 00:25:00,274
+Speaker 0: Well, uh, the man's daughter in the United States, right?
+
+284
+00:25:00,995 --> 00:25:04,778
+Speaker 0: Um, didn't really, you know, care too much, right?
+
+285
+00:25:05,178 --> 00:25:07,581
+Speaker 0: She was a different kind of person, right?
+
+286
+00:25:07,621 --> 00:25:10,744
+Speaker 0: And they were just there with all of, you know, dad stuff, right?
+
+287
+00:25:10,844 --> 00:25:17,670
+Speaker 0: In the, in the family history section of the house, kind of ignored with all the other family garbage, right?
+
+288
+00:25:18,471 --> 00:25:28,725
+Speaker 0: Um, the photo albums or whatever, but of course the awesome granddaughter of Kurt block, uh, is like, Hey, what's grandpa's what's, let me look at grandpa's stuff.
+
+289
+00:25:28,885 --> 00:25:31,669
+Speaker 0: I'm, I'm bored and interested in, in my family, right?
+
+290
+00:25:33,370 --> 00:25:34,452
+Speaker 0: What's this?
+
+291
+00:25:34,452 --> 00:25:38,620
+Speaker 0: 95 issues of an anti-fascist zine that grandpa never talked about.
+
+292
+00:25:38,760 --> 00:25:44,050
+Speaker 0: And while he was hiding in an attic in Denmark, what's up with that?
+
+293
+00:25:44,430 --> 00:25:51,319
+Speaker 0: Oh, I've looked at it and therefore I have easily obtained a research grant to go to Europe.
+
+294
+00:25:51,339 --> 00:26:00,310
+Speaker 0: Oh, we have now been covered by the New York times and we'll be getting someone to scan this and put this on a website, uh, in several languages, English, Dutch, and German.
+
+295
+00:26:00,430 --> 00:26:05,174
+Speaker 1: It's pretty, it's pretty timely to have this out considering what's going on right now in the world.
+
+296
+00:26:05,194 --> 00:26:14,303
+Speaker 0: I understand the website is, you know, right now blank under construction website like 1990 something, but I am confident that at some point they will do the scanning.
+
+297
+00:26:14,783 --> 00:26:17,906
+Speaker 0: Um, as long as nothing happens to the awesome granddaughter.
+
+298
+00:26:17,926 --> 00:26:21,850
+Speaker 1: So we'll definitely talk about this again once we can read it.
+
+299
+00:26:23,630 --> 00:26:32,964
+Speaker 1: If I'm ever trapped in an attic, zines, anti-fascist zines, cause fascism is 99% of the reasons we, either of us might get trapped in an attic at any point.
+
+300
+00:26:32,984 --> 00:26:37,410
+Speaker 0: There's nothing more anti-Nazi than a, than a comic book or a zine, which are basically the same thing.
+
+301
+00:26:39,650 --> 00:26:41,793
+Speaker 0: Every comic, you know, there's the Simpsons bit.
+
+302
+00:26:41,833 --> 00:26:43,496
+Speaker 0: I keep, I've said this a lot, right?
+
+303
+00:26:43,516 --> 00:26:51,467
+Speaker 0: But there's, there's an old Simpsons bit where Marge is in the hair salon next to an old lady and Marge is, you know, Bart's going to buy a comic book, right?
+
+304
+00:26:51,527 --> 00:26:53,470
+Speaker 0: And Marge, the radioactive man, right?
+
+305
+00:26:54,012 --> 00:26:56,701
+Speaker 0: And Marge is like, Oh yeah, he's trying to buy this comic book.
+
+306
+00:26:56,741 --> 00:26:58,466
+Speaker 0: And the old lady's like, Oh, which one?
+
+307
+00:26:58,607 --> 00:26:59,490
+Speaker 0: Nazi Smasher?
+
+308
+00:27:01,393 --> 00:27:03,443
+Speaker 0: And the joke is, haha, she's an old lady.
+
+309
+00:27:03,503 --> 00:27:05,090
+Speaker 0: She thinks all comic books are Nazi.
+
+310
+00:27:05,232 --> 00:27:06,325
+Speaker 0: But there's a second joke.
+
+311
+00:27:07,010 --> 00:27:19,830
+Speaker 0: The real joke is that no, all comic books in the world in all of all, except for the ones that are the comic books, except for Nazi comics, basically every comic book that has ever been created is Nazi smash.
+
+312
+00:27:21,061 --> 00:27:24,544
+Speaker 0: That furry comic at the indie show, that's Nazi Smasher.
+
+313
+00:27:24,624 --> 00:27:26,266
+Speaker 0: Spider-Man, Nazi Smasher.
+
+314
+00:27:26,306 --> 00:27:28,728
+Speaker 0: Batman, Batman's also Nazi Smasher.
+
+315
+00:27:28,768 --> 00:27:30,290
+Speaker 1: They're literally all Nazi Smasher.
+
+316
+00:27:30,430 --> 00:27:34,750
+Speaker 1: There was something like every smile, every laugh, every piece of music, they're all anti-fascist.
+
+317
+00:27:35,550 --> 00:27:35,691
+Speaker 0: Right.
+
+318
+00:27:35,872 --> 00:27:38,610
+Speaker 0: It's like Captain America is literally Nazi Smasher.
+
+319
+00:27:39,531 --> 00:27:39,890
+Speaker 1: Like directly.
+
+320
+00:27:41,272 --> 00:27:41,493
+Speaker 0: Right.
+
+321
+00:27:41,533 --> 00:27:50,950
+Speaker 0: But even Akira is Nazi Smasher or even, uh, you know, that manga with, with, with boobs that are way too big, that's still Nazi Smasher, right?
+
+322
+00:27:52,271 --> 00:27:55,348
+Speaker 0: So Delicious in Dungeon, Nazi Smasher, all of them.
+
+323
+00:27:56,610 --> 00:28:01,410
+Speaker 1: In the meta moment, the Book Club book is The Night is Short, Walk on Girl, the novel.
+
+324
+00:28:01,430 --> 00:28:02,168
+Speaker 1: I started reading it.
+
+325
+00:28:02,612 --> 00:28:04,001
+Speaker 1: I will start reading it imminently.
+
+326
+00:28:04,021 --> 00:28:05,109
+Speaker 1: I have purchased it.
+
+327
+00:28:05,752 --> 00:28:09,149
+Speaker 1: So, uh, yeah, we did a show on the movie, uh, quite some time ago.
+
+328
+00:28:09,691 --> 00:28:12,702
+Speaker 1: The movie is something we liked quite a bit.
+
+329
+00:28:13,084 --> 00:28:14,670
+Speaker 1: Uh, I expect to like the book as well.
+
+330
+00:28:15,572 --> 00:28:16,035
+Speaker 1: And we'll see.
+
+331
+00:28:16,055 --> 00:28:18,370
+Speaker 1: I don't have anything to say yet because I haven't actually started reading it.
+
+332
+00:28:18,450 --> 00:28:22,122
+Speaker 0: I mean, you could actually, you know, I haven't, I've only read one chapter.
+
+333
+00:28:22,142 --> 00:28:24,850
+Speaker 0: I don't think there's that, I don't know how many chapters there are, right?
+
+334
+00:28:25,190 --> 00:28:28,259
+Speaker 0: Uh, it's following the movie relatively closely, actually.
+
+335
+00:28:28,319 --> 00:28:32,270
+Speaker 0: The movie is a closer adaptation than I imagined given the material.
+
+336
+00:28:32,310 --> 00:28:34,755
+Speaker 0: Uh, but all I can say about it is this.
+
+337
+00:28:34,795 --> 00:28:41,770
+Speaker 0: You know how when all of the Masaaki Yuasa works based on, uh, what's the author's name again?
+
+338
+00:28:42,610 --> 00:28:43,388
+Speaker 1: Oh, uh, Marimi.
+
+339
+00:28:44,450 --> 00:28:45,412
+Speaker 0: Marimi, right?
+
+340
+00:28:45,772 --> 00:28:56,350
+Speaker 0: All of Marimi's works that were adapted by Yuasa have either, like, a narrator or the main character or some of the characters narrating out loud.
+
+341
+00:28:57,050 --> 00:29:10,350
+Speaker 0: And sort of, like, this fast talking voice, like, you know, in, in Walk on Girl, you talk, oh no, in Tatami Galaxy, he's talking about, like, he's trying, he's like, uh, I gotta achieve my wonderful campus life or whatever, right, all the time, right?
+
+342
+00:29:10,951 --> 00:29:18,549
+Speaker 0: And that voice that is doing that narration, when you read the book, that's the whole thing, all the way through, is that voice.
+
+343
+00:29:19,590 --> 00:29:21,305
+Speaker 0: That voice is the whole book, right?
+
+344
+00:29:21,345 --> 00:29:21,890
+Speaker 0: Constantly.
+
+345
+00:29:22,690 --> 00:29:24,333
+Speaker 0: Um, and so that's where that comes from.
+
+346
+00:29:24,353 --> 00:29:26,857
+Speaker 0: It doesn't come from the people who made the anime.
+
+347
+00:29:26,877 --> 00:29:29,100
+Speaker 0: That's the voice of how these things are written.
+
+348
+00:29:29,841 --> 00:29:35,490
+Speaker 0: is that fast talking, you know, wild analogies going on sort of stuff.
+
+349
+00:29:36,431 --> 00:29:37,309
+Speaker 1: That's my kind of stuff.
+
+350
+00:29:38,292 --> 00:29:38,535
+Speaker 0: Alright.
+
+351
+00:29:38,797 --> 00:29:39,989
+Speaker 0: That's, the whole book is like that.
+
+352
+00:29:40,259 --> 00:29:40,510
+Speaker 0: Alright.
+
+353
+00:29:40,710 --> 00:29:40,843
+Speaker 0: So far.
+
+354
+00:29:42,130 --> 00:29:51,790
+Speaker 1: So, this game, Lethal Company, very recent game, like, it came out in October, October 23rd of this year in early access, this very early.
+
+355
+00:29:52,670 --> 00:30:01,630
+Speaker 1: Uh, it made the rounds in, like, what's left of social media to the point that I kept seeing people talking about it in a bunch of unrelated social circles.
+
+356
+00:30:03,352 --> 00:30:09,110
+Speaker 1: Uh, and when I was like, we should play it enough to do a show on it, the fact that even Scott was like, yes, we should see what the deal is.
+
+357
+00:30:09,150 --> 00:30:10,333
+Speaker 0: It was a game on Steam.
+
+358
+00:30:11,015 --> 00:30:11,636
+Speaker 0: It was cheap.
+
+359
+00:30:12,478 --> 00:30:13,160
+Speaker 0: Inexpensive.
+
+360
+00:30:13,701 --> 00:30:14,884
+Speaker 0: Uh, it was getting some hype.
+
+361
+00:30:15,366 --> 00:30:16,930
+Speaker 0: I could see what kind of game it was.
+
+362
+00:30:17,410 --> 00:30:20,217
+Speaker 1: And we had, like, radically different corners of the internet.
+
+363
+00:30:20,237 --> 00:30:25,170
+Speaker 1: Like, the people I know who are, like, industry insiders were like, oh, you gotta check out Lethal Company.
+
+364
+00:30:25,731 --> 00:30:27,819
+Speaker 1: The live stream people are all live streaming it.
+
+365
+00:30:28,060 --> 00:30:29,626
+Speaker 1: Like, the kids are all playing it.
+
+366
+00:30:29,686 --> 00:30:30,409
+Speaker 1: Like, it's everywhere.
+
+367
+00:30:30,650 --> 00:30:40,470
+Speaker 0: We had a critical mass of people willing to play it, so I was able to follow my policy of buy, install, play immediately, so I wasn't, you know, wasting, throwing money down a fire or something.
+
+368
+00:30:40,550 --> 00:30:50,250
+Speaker 1: I think it's noteworthy that when you and I were like, hey, let's get a group together and play it, more people than we needed of our friend group also bought the game and immediately were willing to play it.
+
+369
+00:30:50,771 --> 00:30:56,630
+Speaker 0: Well, I think it's just because it's a, the kind of game it is, is a very co-op, accessible, friendly kind of game, right?
+
+370
+00:30:56,770 --> 00:31:08,170
+Speaker 0: It's, it's a left for dead kind of deal where you get four people together, um, you know, and you're FPS co-oping, but you're not against, uh, any other humans, right?
+
+371
+00:31:08,290 --> 00:31:22,810
+Speaker 0: It's PvE, which is, you know, makes a lot of people come out of the woodwork because they can play together with people they know and like, but not against anybody, which turns off the anti-competitive type of people.
+
+372
+00:31:23,631 --> 00:31:28,177
+Speaker 0: Um, and while I welcome competition, I don't require competition.
+
+373
+00:31:28,197 --> 00:31:38,050
+Speaker 0: Um, but many people are anti-con, I know, I know people who are my friends who will refuse, they will not play absolutely no matter what game it is, even if it's their favorite game in the world.
+
+374
+00:31:38,591 --> 00:31:47,430
+Speaker 0: If it's online against any, even one human, they don't know, even if that other human can't talk to them or communicate in any way, they won't play that game.
+
+375
+00:31:47,570 --> 00:31:49,212
+Speaker 1: They just refuse, right?
+
+376
+00:31:49,572 --> 00:31:51,214
+Speaker 0: So here you go.
+
+377
+00:31:51,354 --> 00:32:01,225
+Speaker 0: Here's a game you only play with your friends against the environment only, uh, and has humorous aspects and is relatively accessible.
+
+378
+00:32:01,425 --> 00:32:05,169
+Speaker 0: and failure isn't punishing because failure is hilarious, right?
+
+379
+00:32:05,249 --> 00:32:05,950
+Speaker 0: Losing is fun.
+
+380
+00:32:06,293 --> 00:32:07,930
+Speaker 1: That's an important aspect.
+
+381
+00:32:08,211 --> 00:32:08,830
+Speaker 0: At least sometimes.
+
+382
+00:32:09,750 --> 00:32:22,410
+Speaker 1: Yeah, well, that's where I want to say, cause I want to start with the positive first because this game, to be clear and fair, has deep and possibly irredeemable flaws.
+
+383
+00:32:23,171 --> 00:32:26,978
+Speaker 0: I think it, I think it's, I don't think it's any of it's irredeemable.
+
+384
+00:32:27,078 --> 00:32:33,910
+Speaker 0: I think it's just, you would have to polish this for like a long ass time to get to fix the flaws.
+
+385
+00:32:35,690 --> 00:32:43,550
+Speaker 1: I, to do what this game is doing justice, it would have to be re implemented from scratch, but maybe, I think so.
+
+386
+00:32:44,030 --> 00:32:53,150
+Speaker 1: But anyway, I want to focus on the positive first because while this game has a lot of jank and a lot of problems, it's done a few things like shockingly well.
+
+387
+00:32:54,055 --> 00:32:56,770
+Speaker 1: And there's a reason why it's getting so much buzz.
+
+388
+00:32:57,170 --> 00:33:16,050
+Speaker 1: The, if I have to, the game loop that has been presented here is this perfect blend of absurdity, paranoia, the RPG, like style humor, uh, rules not being explained to you and it's actually better and funnier that you don't know how it works.
+
+389
+00:33:16,591 --> 00:33:30,150
+Speaker 1: Like the game loop is just really compelling and fun coupled with, this is the first game I have ever played where proximity audio works really well, is fun, is necessary, like this is the model.
+
+390
+00:33:30,511 --> 00:33:35,490
+Speaker 1: Any game you ever make that does proximity audio, fucking do it the way they did it here, uh, and whatever.
+
+391
+00:33:35,670 --> 00:33:37,276
+Speaker 0: I don't know why more games haven't done it.
+
+392
+00:33:37,296 --> 00:33:41,190
+Speaker 0: It's taken this long and we've been talking about it since like, you know, the year 2000.
+
+393
+00:33:41,190 --> 00:33:42,555
+Speaker 0: No game has done it well.
+
+394
+00:33:42,655 --> 00:33:43,578
+Speaker 1: It always sucks.
+
+395
+00:33:43,678 --> 00:33:46,086
+Speaker 1: And yet this game has it perfect.
+
+396
+00:33:46,186 --> 00:33:47,370
+Speaker 1: It is so good.
+
+397
+00:33:48,030 --> 00:33:52,730
+Speaker 0: If the people who made this game can do it, the people who spend millions of dollars on a game can do it, right?
+
+398
+00:33:53,270 --> 00:33:53,410
+Speaker 1: Exactly.
+
+399
+00:33:53,491 --> 00:33:54,312
+Speaker 1: But yet they don't.
+
+400
+00:33:54,393 --> 00:33:58,282
+Speaker 1: I've never, ever, even VR chat barely gets it to work.
+
+401
+00:33:58,302 --> 00:34:00,467
+Speaker 1: And that's not even a, that's not a game in this sense.
+
+402
+00:34:00,487 --> 00:34:01,470
+Speaker 1: That's a different kind of game.
+
+403
+00:34:02,171 --> 00:34:06,000
+Speaker 1: But, uh, so let's talk about what's good about this first, this game, the way it works.
+
+404
+00:34:06,963 --> 00:34:10,010
+Speaker 1: Uh, there's no documentation unless you read a Wiki.
+
+405
+00:34:10,650 --> 00:34:13,810
+Speaker 0: There's a tutorial in the game that gets you enough information.
+
+406
+00:34:14,010 --> 00:34:14,130
+Speaker 0: Yep.
+
+407
+00:34:14,672 --> 00:34:16,797
+Speaker 1: And you kind of just roll with it.
+
+408
+00:34:16,837 --> 00:34:22,389
+Speaker 1: You're a bunch of dipshits in a corporate dystopia on a dipshitty ship that sucks.
+
+409
+00:34:23,051 --> 00:34:26,056
+Speaker 1: And there's a computer you can type into to figure out what's going on.
+
+410
+00:34:26,496 --> 00:34:33,429
+Speaker 1: You basically just got to go planet to planet where various failed industrial projects have happened.
+
+411
+00:34:34,130 --> 00:34:41,406
+Speaker 1: And find as much garbage as you can to sell to mysterious aliens so they don't kill you and you can slowly upgrade your shit.
+
+412
+00:34:41,907 --> 00:34:43,429
+Speaker 1: And that's kind of the whole game.
+
+413
+00:34:44,331 --> 00:34:46,313
+Speaker 0: And it's basically, it's a roguelike, right?
+
+414
+00:34:46,373 --> 00:34:51,762
+Speaker 0: It's like you go out with your team and you go to a planet, you have to meet quota, right?
+
+415
+00:34:51,862 --> 00:34:56,590
+Speaker 0: And then you go back and sell, you go out again, you meet quota, you sell the quota keeps going up.
+
+416
+00:34:57,110 --> 00:34:58,953
+Speaker 0: And then when you fail, you're back to square one.
+
+417
+00:34:59,353 --> 00:35:14,573
+Speaker 0: So I don't know if there's some sort of end game, like you've reached the highest quota and there's a congratulations you completed, but it's like, as long as you don't completely fuck up and everyone dies and it's the end, or you don't fail to meet quota,
+
+418
+00:35:14,593 --> 00:35:15,274
+Speaker 1: you
+
+419
+00:35:15,675 --> 00:35:24,086
+Speaker 0: just keep going and you carry all the stuff that you had, you still have all your equipment that you didn't lose, all the, you know, everything, right?
+
+420
+00:35:24,527 --> 00:35:26,590
+Speaker 0: All the upgrades you've made to your ship or whatever.
+
+421
+00:35:27,111 --> 00:35:33,008
+Speaker 0: It just carries forward and it's stateful in your save game until you fail, then that's it.
+
+422
+00:35:33,088 --> 00:35:33,590
+Speaker 0: It's all gone.
+
+423
+00:35:34,191 --> 00:35:49,490
+Speaker 1: And it's a very good example of a certain kind of game design and gameplay that centers around, you'll encounter a thing, whatever it is, could be a mechanic, could be an object in a game, like whatever it is, and the game doesn't tell you how it works.
+
+424
+00:35:49,910 --> 00:35:52,074
+Speaker 1: And you kind of just got to poke at it and see how it goes.
+
+425
+00:35:52,475 --> 00:35:55,702
+Speaker 1: And that discovery aspect is really fun.
+
+426
+00:35:56,143 --> 00:35:57,345
+Speaker 1: Like this game does it well.
+
+427
+00:35:57,806 --> 00:35:59,430
+Speaker 1: Like there's landmines, spoilers, I guess.
+
+428
+00:35:59,951 --> 00:36:03,580
+Speaker 1: At one point we see a thing on the ground and it's got a little red light and it beeps.
+
+429
+00:36:03,640 --> 00:36:04,562
+Speaker 1: if any way it's close to it.
+
+430
+00:36:05,124 --> 00:36:07,008
+Speaker 1: Now the game has not told us what the fuck this is.
+
+431
+00:36:07,028 --> 00:36:07,770
+Speaker 1: We're just going to look at it.
+
+432
+00:36:08,271 --> 00:36:17,065
+Speaker 0: You have a scanner that basically this scanner, you're jamming the button for the scanner all the time because it identifies all the interactable objects within distance.
+
+433
+00:36:18,427 --> 00:36:20,250
+Speaker 0: And it'll tell you that's a landmine.
+
+434
+00:36:20,310 --> 00:36:20,510
+Speaker 0: Yep.
+
+435
+00:36:20,530 --> 00:36:23,597
+Speaker 1: So the scanner's like landmine, but all right, so how do I interact with this?
+
+436
+00:36:23,637 --> 00:36:26,222
+Speaker 1: Can I, how close can I get to it before it blows up?
+
+437
+00:36:26,543 --> 00:36:27,845
+Speaker 1: There's only one way to find out.
+
+438
+00:36:27,925 --> 00:36:29,649
+Speaker 1: And it usually involves someone blowing up.
+
+439
+00:36:31,011 --> 00:36:40,807
+Speaker 0: I mean, you know, and it's like you only have so many items and you can buy items and it's not always clear like, you know, what an item does.
+
+440
+00:36:40,847 --> 00:36:42,290
+Speaker 0: Sometimes it is, sometimes it isn't.
+
+441
+00:36:42,770 --> 00:36:48,070
+Speaker 1: And some of the items are mostly worthless or dangerous or bad, which is even funnier.
+
+442
+00:36:48,250 --> 00:36:59,530
+Speaker 0: It's not, and it's not clear like what items interact with which things, I guess you can look it up or you can experiment with every possible item, but the items cost money, which makes it hard to reach quota if you buy too many.
+
+443
+00:37:00,131 --> 00:37:11,110
+Speaker 0: So like I saw these, like there's these beehives lying around and it's like, I kind of want to bring the beehives back and sell them cause I heard that they're valuable, but there's bees that kill you if you get too close.
+
+444
+00:37:11,631 --> 00:37:13,315
+Speaker 0: And I'm like, how do I get rid of the bees?
+
+445
+00:37:13,816 --> 00:37:19,327
+Speaker 0: And it's like maybe one person can distract the bees cause you can run away from them while another person steals the hive.
+
+446
+00:37:19,848 --> 00:37:20,750
+Speaker 0: You know, that could work.
+
+447
+00:37:21,471 --> 00:37:22,613
+Speaker 0: I tried to dynamite them.
+
+448
+00:37:22,914 --> 00:37:23,795
+Speaker 0: I didn't do anything.
+
+449
+00:37:24,176 --> 00:37:27,884
+Speaker 1: It's like, I hit the hive with the shovel and that just killed me.
+
+450
+00:37:28,605 --> 00:37:29,667
+Speaker 0: Yes, that would kill you.
+
+451
+00:37:29,747 --> 00:37:31,030
+Speaker 0: Yes, that's a bad idea.
+
+452
+00:37:31,130 --> 00:37:32,051
+Speaker 0: That was a very bad idea.
+
+453
+00:37:32,252 --> 00:37:35,116
+Speaker 1: Or like I bought a jet pack cause I was like, I want to see what this jet pack does.
+
+454
+00:37:35,576 --> 00:37:37,178
+Speaker 1: And it has really complex controls.
+
+455
+00:37:37,218 --> 00:37:39,161
+Speaker 1: Like it's a, it's not what you expect.
+
+456
+00:37:39,582 --> 00:37:44,829
+Speaker 1: So I try to use it and I fly up a little bit, immediately tumble forward and immediately crash the wall and die.
+
+457
+00:37:44,869 --> 00:37:45,189
+Speaker 1: The end.
+
+458
+00:37:45,470 --> 00:37:45,650
+Speaker 1: Dead.
+
+459
+00:37:46,350 --> 00:37:46,450
+Speaker 0: Yeah.
+
+460
+00:37:46,470 --> 00:37:48,780
+Speaker 0: I don't, I don't know what the jet pack would be useful for.
+
+461
+00:37:48,820 --> 00:37:51,270
+Speaker 1: I couldn't find any situation where that jet pack was useful.
+
+462
+00:37:52,151 --> 00:37:52,311
+Speaker 0: Yeah.
+
+463
+00:37:52,632 --> 00:38:00,562
+Speaker 0: But basically any planet you land on, there's the place you land and there's a little overworld and there's some stuff in the overworld, but not much.
+
+464
+00:38:00,763 --> 00:38:06,010
+Speaker 0: Usually there's just an entrance to the real game area that you basically go over to.
+
+465
+00:38:06,690 --> 00:38:12,216
+Speaker 0: And once you go inside there, it's some sort of like dungeon, warehousey kind of place.
+
+466
+00:38:13,016 --> 00:38:18,461
+Speaker 0: Um, maze like thing that's, that's procedurally generated with a random seed every time.
+
+467
+00:38:18,481 --> 00:38:21,324
+Speaker 0: And there's hazards in it.
+
+468
+00:38:21,364 --> 00:38:25,688
+Speaker 0: There's treasures, there's objects, there's doors that you can unlock.
+
+469
+00:38:25,708 --> 00:38:27,870
+Speaker 0: There's all kinds of stuff going on in there.
+
+470
+00:38:28,614 --> 00:38:31,049
+Speaker 1: There's also often monsters and problems.
+
+471
+00:38:31,670 --> 00:38:31,770
+Speaker 0: Yeah.
+
+472
+00:38:31,790 --> 00:38:38,290
+Speaker 0: And you're trying to get as much of the stuff out of there that, and bring it back to your ship as you can without dying.
+
+473
+00:38:40,314 --> 00:38:41,388
+Speaker 0: And that's, that's that.
+
+474
+00:38:42,170 --> 00:38:49,763
+Speaker 1: But the, the biggest key, like the, the most important lesson from this game is this proximity audio, because when you're all in the ship, you're just talking.
+
+475
+00:38:50,083 --> 00:38:52,107
+Speaker 1: Like the voice comms in the game work really well.
+
+476
+00:38:52,147 --> 00:38:53,209
+Speaker 1: They're like, they're the right volume.
+
+477
+00:38:53,249 --> 00:38:53,890
+Speaker 1: Everything just works.
+
+478
+00:38:54,552 --> 00:39:01,710
+Speaker 1: When you start the game, the first thing it yells at you about is make sure your mic works because the game is all about the proximity audio.
+
+479
+00:39:02,410 --> 00:39:04,970
+Speaker 0: Now you could cheat and use a separate audio communicator.
+
+480
+00:39:05,170 --> 00:39:05,877
+Speaker 0: That would ruin the game.
+
+481
+00:39:06,321 --> 00:39:07,129
+Speaker 1: Absolutely ruin it.
+
+482
+00:39:07,570 --> 00:39:08,251
+Speaker 0: It's like that.
+
+483
+00:39:08,392 --> 00:39:11,398
+Speaker 0: Sure that I guess, but that's, you're just cheating yourselves.
+
+484
+00:39:11,538 --> 00:39:14,524
+Speaker 0: because now it's like, okay, congrats.
+
+485
+00:39:14,564 --> 00:39:17,470
+Speaker 0: You, you, you defeated the purpose of the game.
+
+486
+00:39:17,650 --> 00:39:17,730
+Speaker 1: Yup.
+
+487
+00:39:17,750 --> 00:39:21,303
+Speaker 1: It's like, it's like opening your eyes playing mafia or werewolf at a table.
+
+488
+00:39:21,343 --> 00:39:23,130
+Speaker 1: Like why the fuck you even playing at that point?
+
+489
+00:39:23,631 --> 00:39:24,192
+Speaker 0: Exactly.
+
+490
+00:39:24,773 --> 00:39:30,043
+Speaker 1: So I guess I'll describe a few things that happened early on and you'll see like how well this works.
+
+491
+00:39:30,103 --> 00:39:33,690
+Speaker 1: Cause I haven't like interrogated the specifics of like the fall off.
+
+492
+00:39:33,790 --> 00:39:41,765
+Speaker 1: But basically we all go into the place and our friend, other Scott says something like, Oh, Hey, I think I see something moving down there.
+
+493
+00:39:41,846 --> 00:39:43,649
+Speaker 1: And he's getting quieter as he's saying it.
+
+494
+00:39:44,210 --> 00:39:45,793
+Speaker 1: I just never hear anything from him again.
+
+495
+00:39:46,755 --> 00:39:52,867
+Speaker 1: And then we go back to the ship and we're ready to take off and all of us are in the ship and he hasn't come back and we see he hasn't moved on the monitor.
+
+496
+00:39:52,927 --> 00:39:53,549
+Speaker 1: So we're like, fuck it.
+
+497
+00:39:53,569 --> 00:39:54,110
+Speaker 1: And we just leave.
+
+498
+00:39:54,750 --> 00:39:58,497
+Speaker 1: And thus we learn that one, when someone gets too far away, you just can't hear them.
+
+499
+00:39:58,978 --> 00:40:05,890
+Speaker 1: And two, when you die, you enter a voice chat of only the other people who are dead.
+
+500
+00:40:06,030 --> 00:40:08,392
+Speaker 1: So if you're the only one dead, you're just there by yourself.
+
+501
+00:40:09,033 --> 00:40:26,910
+Speaker 1: But when a second person dies, like for example, when there was a blob of death slime hanging out right on the other side of a door that had killed two of us, the two of you who were dead were basically laughing about how I can't wait until rim and other Scott try to open this door and both die.
+
+502
+00:40:27,350 --> 00:40:31,916
+Speaker 1: And sure enough, eventually I walk over to this door and like, I wonder what they're doing in there.
+
+503
+00:40:31,956 --> 00:40:32,817
+Speaker 1: They can't be dead.
+
+504
+00:40:32,837 --> 00:40:34,879
+Speaker 1: And I open the door and I immediately die.
+
+505
+00:40:34,899 --> 00:40:44,310
+Speaker 1: And the first thing I hear is you two laughing your asses off at me because you've listened to me and watched me walk toward my death in real time.
+
+506
+00:40:45,111 --> 00:40:45,271
+Speaker 0: Yeah.
+
+507
+00:40:45,291 --> 00:40:49,035
+Speaker 0: There's a lot of fun spectating the people who are still alive when you're dead.
+
+508
+00:40:49,996 --> 00:41:00,388
+Speaker 0: Also, you know, somebody can and maybe should stay on the ship and not go try to get loot because there's a computer on the ship and security cameras.
+
+509
+00:41:00,408 --> 00:41:02,110
+Speaker 0: They can sort of monitor the situation.
+
+510
+00:41:03,011 --> 00:41:13,422
+Speaker 0: But if you can buy walkie talkies, you can communicate with people and like open doors to them and do all kinds of stuff from the ship.
+
+511
+00:41:13,863 --> 00:41:20,430
+Speaker 0: But when you're on the ship, there's like situations where like monsters will come and eat you while you're in the ship.
+
+512
+00:41:21,131 --> 00:41:21,952
+Speaker 0: And you can.
+
+513
+00:41:22,152 --> 00:41:28,981
+Speaker 0: it's a little bit five nights at Freddy's where like you can push a button to close the door, but the door on the ship only stays closed for a little bit.
+
+514
+00:41:29,542 --> 00:41:33,427
+Speaker 0: And eventually you either you could jam the button again, but then the must.
+
+515
+00:41:33,467 --> 00:41:34,628
+Speaker 0: you might not have enough time.
+
+516
+00:41:34,708 --> 00:41:35,730
+Speaker 0: The monster might come get you.
+
+517
+00:41:36,251 --> 00:41:39,878
+Speaker 0: So your only other option at that point is to take off and leave everyone behind.
+
+518
+00:41:39,898 --> 00:41:40,840
+Speaker 0: And but you left.
+
+519
+00:41:40,880 --> 00:41:42,062
+Speaker 0: you took off with no treasure.
+
+520
+00:41:42,523 --> 00:41:45,670
+Speaker 0: So you're not going to make quota anyway if you do that.
+
+521
+00:41:46,410 --> 00:41:49,896
+Speaker 1: I remember thinking Alex hasn't said anything on the walkie talkie anymore.
+
+522
+00:41:49,936 --> 00:41:50,557
+Speaker 1: I wonder how like.
+
+523
+00:41:50,597 --> 00:41:51,718
+Speaker 1: I wonder what that's about.
+
+524
+00:41:51,759 --> 00:41:58,950
+Speaker 1: Did he come into the thing and I come toward the ship and I see this like monster standing like right at the entrance to the ship moving around.
+
+525
+00:41:59,050 --> 00:42:00,073
+Speaker 1: I'm like, oh, no, what's that?
+
+526
+00:42:00,434 --> 00:42:02,278
+Speaker 1: And then it sees me and it runs at me and kills me.
+
+527
+00:42:02,299 --> 00:42:04,745
+Speaker 1: Then Alex is like, yeah, it killed me.
+
+528
+00:42:04,845 --> 00:42:06,610
+Speaker 1: Like as soon as you guys left.
+
+529
+00:42:07,171 --> 00:42:07,351
+Speaker 0: Yeah.
+
+530
+00:42:07,371 --> 00:42:15,126
+Speaker 0: It's like there might be an item that could deal with these things, but it's like you won't really have a lot of chances to like experiment and figure it out.
+
+531
+00:42:15,146 --> 00:42:15,306
+Speaker 0: Right.
+
+532
+00:42:15,346 --> 00:42:17,250
+Speaker 0: Which one is going to deal with which.
+
+533
+00:42:17,270 --> 00:42:17,490
+Speaker 0: Right.
+
+534
+00:42:18,331 --> 00:42:21,016
+Speaker 0: And there's a lot of things that kill you super quickly.
+
+535
+00:42:21,136 --> 00:42:28,970
+Speaker 0: And it's like the only way that you could have lived is if someone else was nearby with the right item and the knowledge to use that item and the knowledge of what was happening.
+
+536
+00:42:29,611 --> 00:42:37,419
+Speaker 0: Um, so if you play the game a lot, I'm sure over time you could learn all the monsters and hazards and learn the right ways to deal with them.
+
+537
+00:42:37,939 --> 00:42:39,441
+Speaker 0: But that'll take quite a lot of play.
+
+538
+00:42:39,481 --> 00:42:47,930
+Speaker 0: We had a lot of success just going in, getting safe to get loot, not trying to go to go through hazards to get greedy.
+
+539
+00:42:48,490 --> 00:42:52,675
+Speaker 1: If we didn't see or hear from someone for more than like a minute, we just assumed they were dead.
+
+540
+00:42:52,836 --> 00:42:56,079
+Speaker 0: And just playing it safe and just grabbing loot.
+
+541
+00:42:56,119 --> 00:42:59,724
+Speaker 0: that wasn't difficult to get, you know, we were able to make.
+
+542
+00:42:59,984 --> 00:43:04,189
+Speaker 0: eventually once we figured it out, we were able to make quota like several times in a row.
+
+543
+00:43:04,209 --> 00:43:04,870
+Speaker 0: Right.
+
+544
+00:43:05,531 --> 00:43:19,229
+Speaker 0: Um, yeah, we got better, really upgrade, upgrade our equipment and upgrade our, you know, stuff and keep going without having to, you know, just by playing it safe and conservatively not messing around, not taking big risks, you know, see a slime.
+
+545
+00:43:19,489 --> 00:43:20,150
+Speaker 0: Don't go that way.
+
+546
+00:43:20,570 --> 00:43:21,351
+Speaker 0: Just don't go that way.
+
+547
+00:43:21,632 --> 00:43:22,273
+Speaker 0: That's that simple.
+
+548
+00:43:22,513 --> 00:43:22,713
+Speaker 0: Right.
+
+549
+00:43:23,094 --> 00:43:24,897
+Speaker 0: We don't got to figure out what beats slime yet.
+
+550
+00:43:25,157 --> 00:43:25,338
+Speaker 0: Right.
+
+551
+00:43:25,398 --> 00:43:26,259
+Speaker 0: Let's just not go there.
+
+552
+00:43:26,880 --> 00:43:33,310
+Speaker 0: And then I'm sure over time, though, if you keep doing that, the conservative play, you'll have so much money and so much equipment.
+
+553
+00:43:33,910 --> 00:43:41,577
+Speaker 0: Then you'll have easier opportunities at trying to, you know, dig for more and you'll have to dig for more because the quota will go up.
+
+554
+00:43:41,617 --> 00:43:41,957
+Speaker 0: Yeah.
+
+555
+00:43:42,818 --> 00:43:47,161
+Speaker 1: And I guess this game, the game loop is really satisfying.
+
+556
+00:43:47,181 --> 00:43:47,622
+Speaker 1: There's a lot like.
+
+557
+00:43:47,662 --> 00:43:57,470
+Speaker 1: I don't want to tell a bunch of stories because half the fun is encountering various ridiculous situations in your first or second playthrough.
+
+558
+00:43:58,251 --> 00:44:04,684
+Speaker 1: But that said, the game as it is now, as of when we recorded this episode, was about four hours worth of fun.
+
+559
+00:44:04,964 --> 00:44:07,650
+Speaker 1: And I don't feel the need to revisit it in its current state.
+
+560
+00:44:08,610 --> 00:44:13,399
+Speaker 0: No, I think that, you know, it's basically we didn't, you know, we made quota a bunch of times.
+
+561
+00:44:13,819 --> 00:44:19,970
+Speaker 0: I'm sure there are things I haven't seen there, you know, but there are planets we didn't go to because it costs too much money to even go to.
+
+562
+00:44:20,030 --> 00:44:23,355
+Speaker 1: I read a wiki and learned a lot about the monsters and the things we didn't see.
+
+563
+00:44:23,395 --> 00:44:24,838
+Speaker 1: And I have some things I can say about that.
+
+564
+00:44:24,878 --> 00:44:25,358
+Speaker 1: There's some.
+
+565
+00:44:25,819 --> 00:44:32,770
+Speaker 1: there's some game design around all those aspects of it compared to the core loop, which is phenomenal and the voice, which is phenomenal.
+
+566
+00:44:33,510 --> 00:44:33,731
+Speaker 0: Right.
+
+567
+00:44:33,791 --> 00:44:37,937
+Speaker 0: But it's like, yeah, I, you know, I got sort of what I needed to get out of the game.
+
+568
+00:44:38,418 --> 00:44:46,430
+Speaker 0: But because it's so unpolished, it's like I didn't feel like there was any more to like just continuing to play anymore.
+
+569
+00:44:46,570 --> 00:44:50,477
+Speaker 0: It's like it's like, you know, the fun was like, OK, this is sort of the same.
+
+570
+00:44:50,497 --> 00:44:51,319
+Speaker 0: We figured this out.
+
+571
+00:44:51,740 --> 00:44:53,403
+Speaker 0: What we found out was a good thing.
+
+572
+00:44:53,423 --> 00:44:55,767
+Speaker 0: And I had my fill of that good thing.
+
+573
+00:44:55,787 --> 00:44:57,490
+Speaker 0: And now I don't need any more.
+
+574
+00:44:57,910 --> 00:44:58,812
+Speaker 0: I'm upset.
+
+575
+00:44:59,593 --> 00:45:06,243
+Speaker 0: unless you really upgrade this game a lot and add lots of new content or put tons of more stuff into it.
+
+576
+00:45:06,704 --> 00:45:08,306
+Speaker 0: There's no reason for me to play again.
+
+577
+00:45:08,327 --> 00:45:10,550
+Speaker 0: But I'm not upset with what I did already.
+
+578
+00:45:10,790 --> 00:45:11,051
+Speaker 0: Right.
+
+579
+00:45:11,431 --> 00:45:13,534
+Speaker 0: The amount of money and time that I spent.
+
+580
+00:45:14,255 --> 00:45:14,415
+Speaker 0: Yeah.
+
+581
+00:45:14,896 --> 00:45:16,578
+Speaker 0: It's like I paid whatever money.
+
+582
+00:45:16,778 --> 00:45:17,559
+Speaker 0: I saw a movie.
+
+583
+00:45:17,900 --> 00:45:18,821
+Speaker 0: The movie was done.
+
+584
+00:45:18,841 --> 00:45:20,183
+Speaker 0: I like the movie.
+
+585
+00:45:20,583 --> 00:45:22,065
+Speaker 0: Would I recommend someone else see it?
+
+586
+00:45:22,205 --> 00:45:22,466
+Speaker 0: Yes.
+
+587
+00:45:22,706 --> 00:45:23,507
+Speaker 0: But I watch it again.
+
+588
+00:45:23,527 --> 00:45:25,790
+Speaker 1: No, this game costs less.
+
+589
+00:45:26,210 --> 00:45:27,052
+Speaker 1: Yeah, it's ten bucks.
+
+590
+00:45:27,493 --> 00:45:30,599
+Speaker 1: I pay more than that to see a movie for 90 minutes in New York City.
+
+591
+00:45:31,121 --> 00:45:32,904
+Speaker 0: And this is a four hour game, basically.
+
+592
+00:45:33,806 --> 00:45:35,530
+Speaker 0: So a whole evening with friends.
+
+593
+00:45:36,191 --> 00:45:43,204
+Speaker 1: So to warn you, though, like what is wrong with this game is one, the developer did a good job like this game loop.
+
+594
+00:45:43,264 --> 00:45:44,686
+Speaker 1: There is some magic here.
+
+595
+00:45:44,866 --> 00:45:46,830
+Speaker 1: Like there's a lot of very good game design.
+
+596
+00:45:47,191 --> 00:45:49,094
+Speaker 1: But the developer, I think this appears there.
+
+597
+00:45:49,174 --> 00:45:50,756
+Speaker 1: This is their first PC game.
+
+598
+00:45:50,776 --> 00:45:52,720
+Speaker 1: They were previously a Roblox game developer.
+
+599
+00:45:52,740 --> 00:45:59,050
+Speaker 1: I think we're going to see a lot of people entering the industry who primarily made games and Roblox the way kids are.
+
+600
+00:45:59,791 --> 00:45:59,991
+Speaker 0: Good.
+
+601
+00:46:00,291 --> 00:46:00,492
+Speaker 1: Yep.
+
+602
+00:46:00,772 --> 00:46:01,693
+Speaker 1: I'm all for it.
+
+603
+00:46:02,354 --> 00:46:15,430
+Speaker 1: But as a result, it brings with it a number of specific kinds of game design tropes that exist in that Roblox world that you don't really interact with in more well, like professionally designed games yet.
+
+604
+00:46:16,074 --> 00:46:18,550
+Speaker 0: I've never played a Roblox, so I don't know what church in the Roblox world.
+
+605
+00:46:18,590 --> 00:46:21,273
+Speaker 1: I read a bunch about this to understand.
+
+606
+00:46:22,253 --> 00:46:39,850
+Speaker 1: The monsters, the things in the game that move around like the spiders and that weird jack in the box thing, they're very Roblox-y, according to a lot of people, in that the monsters behave the way a lot of Roblox games behave, where they're all super weird and have a super specific trick.
+
+607
+00:46:40,451 --> 00:46:49,530
+Speaker 1: And the game around the monsters is all about recognizing them, learning the very specific trick, and then developing a series of ways to overcome them.
+
+608
+00:46:49,650 --> 00:46:55,498
+Speaker 1: But they're hyper specific, and a lot of the monsters are really weird and unsatisfying.
+
+609
+00:46:56,640 --> 00:47:03,870
+Speaker 1: They tend to follow a certain kind of loop, hunt players in a very particular way, always behave exactly the same way every time.
+
+610
+00:47:04,553 --> 00:47:07,404
+Speaker 1: Once you know how to deal with a monster, it'll never be a problem again for you.
+
+611
+00:47:07,465 --> 00:47:08,690
+Speaker 1: It's that kind of loop.
+
+612
+00:47:09,810 --> 00:47:12,075
+Speaker 1: And the monsters were not satisfying.
+
+613
+00:47:12,215 --> 00:47:18,790
+Speaker 1: They were all kind of just janky and broken, and the hitboxes didn't work, because the game's very early access and very beta.
+
+614
+00:47:20,271 --> 00:47:25,449
+Speaker 1: Sometimes a monster would attack you and just not kill you because you were slightly higher than it and the hitbox misses you.
+
+615
+00:47:25,971 --> 00:47:32,450
+Speaker 1: Or sometimes you can't see a monster, but it kills you because it was clipping through the wall in a way that you could never perceive.
+
+616
+00:47:33,052 --> 00:47:36,504
+Speaker 1: The monsters could use a game design refactor, I think.
+
+617
+00:47:36,805 --> 00:47:38,150
+Speaker 1: They don't really have interesting behaviors.
+
+618
+00:47:38,270 --> 00:47:42,644
+Speaker 1: But again, early access, this is like the most unpolished version of this game.
+
+619
+00:47:43,386 --> 00:47:44,670
+Speaker 1: All these things could be changed.
+
+620
+00:47:45,451 --> 00:47:54,570
+Speaker 0: I mean, the thing is, if you look at the history of PC gaming as a whole, and video games in general, there are people who invented basically new kinds of games, right?
+
+621
+00:47:55,152 --> 00:48:00,970
+Speaker 0: And it's like there came Wolfenstein 3D Doom, and then suddenly everyone was making FPSs, right?
+
+622
+00:48:01,290 --> 00:48:05,430
+Speaker 0: There came the Warcraft and the Command and Conquer, and everyone was making RTSs suddenly, right?
+
+623
+00:48:05,750 --> 00:48:08,040
+Speaker 0: And then a lot of these came from mods, right?
+
+624
+00:48:08,080 --> 00:48:10,530
+Speaker 0: People made mods for games.
+
+625
+00:48:11,754 --> 00:48:13,210
+Speaker 0: Like Counter Strike was just a mob.
+
+626
+00:48:13,990 --> 00:48:19,130
+Speaker 0: Yeah, PUBG was just an ARMA mod, and then suddenly there were battle royales everywhere, right?
+
+627
+00:48:19,411 --> 00:48:25,150
+Speaker 0: You know, Dota was just a mob for Warcraft 3, and then there were MOBAs everywhere.
+
+628
+00:48:26,231 --> 00:48:33,390
+Speaker 0: So, you know, it seems like there was a period of time where there weren't so many new types of games.
+
+629
+00:48:33,650 --> 00:48:41,250
+Speaker 0: But in the recent years, we've had sort of the auto battlers, like the auto chess type.
+
+630
+00:48:41,571 --> 00:48:45,210
+Speaker 0: We've had the Vampire Survivors kind of game.
+
+631
+00:48:45,471 --> 00:48:48,650
+Speaker 0: We've had the Slay the Spire kind of card roguelike game.
+
+632
+00:48:49,591 --> 00:48:55,930
+Speaker 0: And all of those have spawned many, many clones and copycats of various shapes and sizes.
+
+633
+00:48:55,930 --> 00:48:57,735
+Speaker 1: I am confident this one will, too.
+
+634
+00:48:57,936 --> 00:49:02,850
+Speaker 1: I imagine there are like ten different designers all re-implementing this core game loop right now.
+
+635
+00:49:03,672 --> 00:49:07,670
+Speaker 0: And more than a lot of those other ones, you know, the original was like the good one.
+
+636
+00:49:07,850 --> 00:49:10,748
+Speaker 0: Like Dominion is a board game, but it's the same where it's like...
+
+637
+00:49:10,990 --> 00:49:12,530
+Speaker 1: Dominion's still the best deck builder.
+
+638
+00:49:13,310 --> 00:49:17,590
+Speaker 0: Yeah, as a deck builder goes, hard to beat Dominion, even though it was like the first one, basically.
+
+639
+00:49:17,670 --> 00:49:20,350
+Speaker 1: This might still be the best worker placement game now that I've revisited it.
+
+640
+00:49:20,410 --> 00:49:24,902
+Speaker 0: I don't know about that, but the point is, is that this game is, you know, it's not as original an idea.
+
+641
+00:49:28,351 --> 00:49:30,844
+Speaker 0: It's still just basically a Left 4 Dead PvE.
+
+642
+00:49:30,905 --> 00:49:31,790
+Speaker 0: It's not that unique.
+
+643
+00:49:32,570 --> 00:49:36,770
+Speaker 0: But it's still, you know, there isn't, I can't think of another game that is exactly that.
+
+644
+00:49:36,890 --> 00:49:40,150
+Speaker 0: Maybe sort of the, what's the dwarf mining one?
+
+645
+00:49:43,956 --> 00:49:44,530
+Speaker 0: What's it called?
+
+646
+00:49:45,190 --> 00:49:46,130
+Speaker 1: Which dwarf mining one?
+
+647
+00:49:46,170 --> 00:49:47,609
+Speaker 0: I played it when it was free on Steam.
+
+648
+00:49:48,350 --> 00:49:49,690
+Speaker 0: The space dwarfs who do the mining.
+
+649
+00:49:50,350 --> 00:49:52,029
+Speaker 1: I don't think I ever, I don't think I ever played that one.
+
+650
+00:49:54,935 --> 00:49:55,590
+Speaker 0: Well, anyway.
+
+651
+00:49:55,690 --> 00:49:56,829
+Speaker 1: I don't know what game you're talking about.
+
+652
+00:49:58,290 --> 00:50:05,090
+Speaker 1: But I guess, yeah, this, I have not seen this particular loop implemented, like this kind of game.
+
+653
+00:50:05,730 --> 00:50:08,550
+Speaker 1: This feels like it's gonna start one of those...
+
+654
+00:50:08,610 --> 00:50:09,950
+Speaker 0: Deep Rock Galactic, that one.
+
+655
+00:50:10,131 --> 00:50:11,089
+Speaker 1: Oh yeah, I never played that.
+
+656
+00:50:11,712 --> 00:50:17,090
+Speaker 0: Yeah, that's basically, it's similar to where it's PvE co-op deal, right?
+
+657
+00:50:18,790 --> 00:50:24,330
+Speaker 0: But, you know, it's, this is significantly, I guess, different than Deep Rock Galactic.
+
+658
+00:50:24,590 --> 00:50:28,090
+Speaker 0: Deep Rock Galactic is a little bit grindy in the way it goes.
+
+659
+00:50:28,230 --> 00:50:31,009
+Speaker 0: It doesn't have the roguelike element to it so much.
+
+660
+00:50:31,290 --> 00:50:32,310
+Speaker 1: Now that is the other trouble.
+
+661
+00:50:32,490 --> 00:50:35,230
+Speaker 1: The game, every, there's only a very small number of maps.
+
+662
+00:50:35,772 --> 00:50:41,070
+Speaker 1: And the procedurally generated content is pretty much just inside of the one building on each map.
+
+663
+00:50:42,072 --> 00:50:46,270
+Speaker 1: And it is not broad procedural generation.
+
+664
+00:50:46,811 --> 00:50:50,830
+Speaker 1: The layout is almost identical for every build, every kind of building.
+
+665
+00:50:51,671 --> 00:50:56,550
+Speaker 1: And 90% of all the places you can go are empty dead ends with nothing.
+
+666
+00:50:59,890 --> 00:51:08,170
+Speaker 0: So, yeah, I think somebody, this is an opportunity where they could polish the hell out of this and make it such an upgrade to it that I would come back.
+
+667
+00:51:08,710 --> 00:51:16,230
+Speaker 0: But I think this is a case where someone else will look at this, steal this idea, do it much, much better, right?
+
+668
+00:51:16,590 --> 00:51:17,809
+Speaker 0: And that's gonna be the game.
+
+669
+00:51:18,251 --> 00:51:24,150
+Speaker 0: And that will be a game to play, whereas with a Slay the Spire or a Vampire Survivor, right?
+
+670
+00:51:24,650 --> 00:51:31,130
+Speaker 0: Or, you know, an Among Us, it's like, it's gonna be, you know, for those, it's, I think, tough to beat the originals, right?
+
+671
+00:51:31,576 --> 00:51:32,309
+Speaker 0: At their own game.
+
+672
+00:51:32,490 --> 00:51:34,769
+Speaker 0: Whereas here, this is an easy to beat one.
+
+673
+00:51:35,091 --> 00:51:38,870
+Speaker 0: So, I encourage someone to try to beat it at its own.
+
+674
+00:51:38,930 --> 00:51:44,430
+Speaker 1: If you really want to beat it, maybe, like, talk to the people, talk to Zekers, the developer and publisher.
+
+675
+00:51:44,470 --> 00:51:47,510
+Speaker 1: And maybe try to hire them or partner with them in some way.
+
+676
+00:51:47,570 --> 00:51:53,810
+Speaker 1: Because they might need technological help and maybe some more professional game design help to come in from the other side.
+
+677
+00:51:54,410 --> 00:51:56,529
+Speaker 1: Because some parts are great, some parts are bad.
+
+678
+00:51:58,671 --> 00:52:05,230
+Speaker 0: But, yeah, if you got four hours and some friends and ten bucks, you could do a lot worse.
+
+679
+00:52:05,290 --> 00:52:08,750
+Speaker 1: This is easily four hours of high quality entertainment.
+
+680
+00:52:09,371 --> 00:52:11,330
+Speaker 1: And I think most people would play it twice.
+
+681
+00:52:11,791 --> 00:52:17,230
+Speaker 1: Well, we played it once because that's how we roll, but I think our friends will play it a few more times before they run out of steam.
+
+682
+00:52:21,970 --> 00:52:24,169
+Speaker 1: This has been Geek Nights with Rim and Scott.
+
+683
+00:52:24,410 --> 00:52:26,890
+Speaker 1: Special thanks to DJ Pretzel for the opening theme.
+
+684
+00:52:27,090 --> 00:52:33,090
+Speaker 0: Be sure to visit our website at FrontRowCoup.com for show notes, discussion, links and more.
+
+685
+00:52:33,610 --> 00:52:36,250
+Speaker 1: Remember, Geek Nights is not one, but four different shows.
+
+686
+00:52:36,570 --> 00:52:38,129
+Speaker 1: Mondays are science and technology.
+
+687
+00:52:38,290 --> 00:52:39,969
+Speaker 1: Tuesdays, gaming and games.
+
+688
+00:52:40,170 --> 00:52:41,930
+Speaker 1: Wednesdays are animation and comics.
+
+689
+00:52:42,330 --> 00:52:44,049
+Speaker 1: Thursdays are arbitrary and indiscriminate.
+
+690
+00:52:45,411 --> 00:52:50,330
+Speaker 1: Geek Nights is distributed under a Creative Commons Attribution 4.0 International License.
+
+691
+00:52:50,830 --> 00:52:55,110
+Speaker 0: Geek Nights is recorded live with no studio and no audience.
+
+692
+00:52:55,630 --> 00:52:59,090
+Speaker 0: But unlike those other late shows, it's actually recorded at night.
+
+693
+00:52:59,330 --> 00:53:12,809
+Speaker 1: And the Patreon and Patrons for this episode of Geek Nights are Alan Joyce, Link E. G, Dredd, Lily Tenebrae, Kace, Kare, Maix, Musa, Chris, Adad, Christopher, Orr, Clinton, Walton, Finn, Joel Hayes, Benny Reimer, Rebecca Dunn, Sam Erickson, Trevor Van Horl, and a bunch of people who don't want me to say their names.
+
+694
+00:53:13,851 --> 00:53:14,715
+Speaker 1: Happy Holidays.
+
+695
+00:53:14,715 --> 00:53:17,106
+Speaker 1: 50/50 shot if we do a show tomorrow.
+
+696
+00:53:17,126 --> 00:53:18,070
+Speaker 1: Tonight.
+
+697
+00:53:19,150 --> 00:53:24,510
+Speaker 1: Senator Reverdy Johnson worried that the final version of Section 3 did not include the office of the presidency.
+
+698
+00:53:25,190 --> 00:53:33,588
+Speaker 1: He stated, "This amendment does not go far enough because past rebels may be elected president or vice president of the United
+
+699
+00:53:33,629 --> 00:53:33,909
+Speaker 1: States.".
+
+700
+00:53:34,370 --> 00:53:37,719
+Speaker 1: So, he asked, "Why did you omit to exclude them?
+
+701
+00:53:37,819 --> 00:53:43,094
+Speaker 1: I do not understand them to be excluded from the privilege of holding the two highest offices in the gift of the
+
+702
+00:53:43,134 --> 00:53:43,495
+Speaker 1: nation.".
+
+703
+00:53:44,640 --> 00:53:47,370
+Speaker 1: Senator Lott Morrill fielded this objection.
+
+704
+00:53:47,710 --> 00:53:56,128
+Speaker 1: He replied, "Let me call the Senator's attention to the words, 'or hold any office, civil or military, under the United
+
+705
+00:53:56,188 --> 00:53:56,529
+Speaker 1: States.'".
+
+706
+00:53:57,992 --> 00:54:04,765
+Speaker 1: This answer satisfied Senator Johnson, who stated, "Perhaps I am wrong as to the exclusion from the presidency.
+
+707
+00:54:05,466 --> 00:54:06,849
+Speaker 1: No doubt, I
+
+708
+00:54:07,009 --> 00:54:07,069
+Speaker 1: am.".
+

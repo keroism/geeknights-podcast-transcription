@@ -1,0 +1,3136 @@
+1
+00:00:08,780 --> 00:00:12,681
+Rym: It's Monday, February 26th, 2024.
+
+2
+00:00:12,681 --> 00:00:13,463
+Rym: I'm Rym.
+
+3
+00:00:14,245 --> 00:00:15,949
+Rym: I'm Scott and this is GeekNights.
+
+4
+00:00:15,989 --> 00:00:23,570
+Rym: tonight We're gonna talk about the intersection of section 230 weird lawsuits about soy boy comments on reddit and free speech.
+
+5
+00:00:24,337 --> 00:00:25,368
+Scott: Let's do this.
+
+6
+00:00:26,531 --> 00:00:30,122
+Rym: So, uh, Emily and I went skiing this past weekend and something happened to me.
+
+7
+00:00:30,824 --> 00:00:32,569
+Rym: That has never happened to me before.
+
+8
+00:00:33,212 --> 00:00:34,838
+Scott: Right, you broke two legs.
+
+9
+00:00:35,441 --> 00:00:36,686
+Rym: I so I did fall over.
+
+10
+00:00:36,766 --> 00:00:37,630
+Rym: that is the part of the story.
+
+11
+00:00:37,750 --> 00:00:44,282
+Rym: So we're skin and a lot of money has leveled up to the point of you know we're just at Vale skiing at a gigantic mountain.
+
+12
+00:00:44,303 --> 00:00:48,397
+Rym: so you come back to Hunter Mountain and Hunter Mountain is a pretty big mountain like.
+
+13
+00:00:48,457 --> 00:00:52,550
+Rym: it's pretty much the best mountain within a day's trip in New York City.
+
+14
+00:00:52,934 --> 00:00:59,990
+Rym: Like to ski something better You got to drive at least five hours out into like Vermont or New Hampshire or fly like five hours to Colorado.
+
+15
+00:01:00,291 --> 00:01:00,432
+Scott: There's.
+
+16
+00:01:00,472 --> 00:01:00,834
+Scott: no there's.
+
+17
+00:01:00,874 --> 00:01:01,035
+Scott: no.
+
+18
+00:01:01,136 --> 00:01:02,804
+Scott: I was the Poconos don't guys.
+
+19
+00:01:02,824 --> 00:01:04,110
+Rym: Poconos are all garbage.
+
+20
+00:01:04,170 --> 00:01:07,129
+Rym: Scott our friend Scott other Scott will I mean?
+
+21
+00:01:07,551 --> 00:01:18,801
+Rym: He will try to convince you to ski there and the reason to ski down there is to hang out with your friend To have a nice time with your friends to socialize on the lift I thought he was talking about like the hill that's near his house.
+
+22
+00:01:18,861 --> 00:01:20,025
+Scott: Not you know, there is.
+
+23
+00:01:20,126 --> 00:01:21,029
+Scott: it has mountains.
+
+24
+00:01:21,069 --> 00:01:25,550
+Rym: Yeah Yeah, Poconos does not have mountains that are worth skiing in my opinion and bring the hate.
+
+25
+00:01:25,932 --> 00:01:27,298
+Rym: I welcome the hate.
+
+26
+00:01:27,539 --> 00:01:33,301
+Rym: the best mountain in the Poconos is worse than Hunter Mountain Full stop ski resorts and Poconos mountains.
+
+27
+00:01:33,783 --> 00:01:35,810
+Scott: Yeah, I got Blue Mountain.
+
+28
+00:01:36,111 --> 00:01:39,219
+Scott: Yeah, well back Mountain Jack Frost and Big Boulder ski area.
+
+29
+00:01:39,360 --> 00:01:42,970
+Rym: Jack Ross is a tiny tiny little hill big bear.
+
+30
+00:01:43,071 --> 00:01:43,896
+Scott: That sounds big.
+
+31
+00:01:43,916 --> 00:01:45,769
+Rym: it is not that big.
+
+32
+00:01:46,656 --> 00:01:52,770
+Scott: Let's see big bear Mountain, it's oh, it's an upper Delaware not from New York, Pennsylvania border.
+
+33
+00:01:53,191 --> 00:01:59,048
+Scott: So, okay the tallest mountain that has actually the closest one in all big-ass Lodge.
+
+34
+00:01:59,088 --> 00:01:59,730
+Scott: Look at that Lodge.
+
+35
+00:01:59,871 --> 00:02:04,808
+Rym: Oh, yeah, they have huge lodges because you spend a lot of your time Just hanging out in the lodge because there aren't that many runs and they're not that tall.
+
+36
+00:02:06,231 --> 00:02:13,770
+Rym: But anyway, so hunter mountain like you go there and the double black diamonds look really challenging and the black diamonds look pretty cool.
+
+37
+00:02:14,131 --> 00:02:20,008
+Rym: But once you go to Vale you come back to hunter and you look at like the craziest double black there and you're like That's it a tiny little guy.
+
+38
+00:02:21,251 --> 00:02:26,030
+Rym: So Emily skied now every black diamond there and we were hanging out on an intersection where?
+
+39
+00:02:26,371 --> 00:02:37,350
+Rym: There's a double black and a regular black and we were doing the black together and I went off to do the double black the Bottom again just to kind of check it out because Emily was thinking about doing that double black and I go over there.
+
+40
+00:02:37,511 --> 00:02:41,757
+Rym: she goes down the single black and then Something happens that normally doesn't happen.
+
+41
+00:02:41,897 --> 00:02:46,090
+Rym: Usually when I ski with anyone I am down at the bottom out and waiting for everyone else.
+
+42
+00:02:46,852 --> 00:02:49,583
+Rym: but this time Emily was down at the bottom out and I was not there yet.
+
+43
+00:02:50,366 --> 00:02:52,886
+Rym: and that is because I fell over.
+
+44
+00:02:53,875 --> 00:02:55,425
+Rym: But I didn't fall over in a normal way.
+
+45
+00:02:55,626 --> 00:03:00,130
+Rym: I'm skiing and I hit a bunch of ice like hard nonsense bullshit ice.
+
+46
+00:03:00,511 --> 00:03:06,450
+Rym: So I slide hard and I feel something goes wrong and I start to fall over now.
+
+47
+00:03:07,052 --> 00:03:09,258
+Rym: It was weird that I fell over at that moment.
+
+48
+00:03:09,358 --> 00:03:12,166
+Rym: Like it it was an unexpected fall, which is rare.
+
+49
+00:03:12,186 --> 00:03:21,210
+Rym: So I Then noticed that my binding one of my skis has popped off which again totally normal ski bindings are designed to pop off.
+
+50
+00:03:21,230 --> 00:03:26,630
+Rym: So you don't like twist your knee 360 degrees around when it like it's a tree or something like that is totally expected.
+
+51
+00:03:26,690 --> 00:03:27,737
+Rym: That's a whole point of bindings.
+
+52
+00:03:28,462 --> 00:03:40,209
+Rym: So my ski pops off I fall over I lean backwards and do the self-arrest like you do and then a whole bunch of debris Washes over me like bounces off my helmet and kind of skitters past me.
+
+53
+00:03:40,754 --> 00:03:44,598
+Rym: So my first thought is oh shit Did I fall because someone hit me from behind.
+
+54
+00:03:44,699 --> 00:03:45,502
+Rym: what's going on?
+
+55
+00:03:45,522 --> 00:03:47,609
+Rym: and it took me a minute to realize that?
+
+56
+00:03:48,291 --> 00:03:51,881
+Rym: That my ski binding had in fact exploded.
+
+57
+00:03:51,901 --> 00:03:54,970
+Rym: it had failed catastrophically.
+
+58
+00:03:56,532 --> 00:03:58,570
+Scott: Okay, so I guess you were done skiing that day.
+
+59
+00:03:58,712 --> 00:04:00,130
+Rym: I was in fact done skiing that day.
+
+60
+00:04:00,190 --> 00:04:03,810
+Rym: But well first it is it's difficult to get down a ski mount if you don't have skis.
+
+61
+00:04:03,910 --> 00:04:06,189
+Rym: So I ended up like slide on your ass.
+
+62
+00:04:06,530 --> 00:04:13,769
+Rym: That's actually on a on any slope that isn't a little baby beginner slope super fucking dangerous and extremely difficult to do.
+
+63
+00:04:14,651 --> 00:04:17,199
+Scott: Okay, they're way steeper than you think ski with one foot.
+
+64
+00:04:17,380 --> 00:04:18,041
+Scott: one foot ski.
+
+65
+00:04:18,423 --> 00:04:20,469
+Rym: that is possible up to a point and I can see.
+
+66
+00:04:20,750 --> 00:04:24,028
+Scott: Yeah, because I've seen people who only have one leg and they ski.
+
+67
+00:04:24,168 --> 00:04:31,089
+Rym: Oh, yeah But in fact a common drill when you're learning when you're learning how to ski is when you're turning only use one foot.
+
+68
+00:04:32,271 --> 00:04:39,208
+Rym: So I didn't want to do that partly because I have to carry my other ski with me Which is all right, so then a dog with a little sled comes in and takes you.
+
+69
+00:04:39,349 --> 00:04:50,649
+Rym: Yep So I just scooted myself to the side of the mountain where there was just grass because you know climate change and I just Walked down the mountain through the woods in the grass.
+
+70
+00:04:51,456 --> 00:04:52,969
+Scott: And well, but that sounds good, too.
+
+71
+00:04:53,110 --> 00:05:00,970
+Rym: yeah, I went to the pro shop because I've never had something like this happen before and these skis are like Nine years old like they're fantastic skis.
+
+72
+00:05:01,010 --> 00:05:02,710
+Rym: They're nine years old as far as I was concerned.
+
+73
+00:05:02,730 --> 00:05:10,370
+Rym: They were in great condition and I collected all the pieces of the exploded binding Because I could probably put it back together or just buy a new binding or something.
+
+74
+00:05:10,471 --> 00:05:12,422
+Scott: Oh, none of the individual pieces were shattered.
+
+75
+00:05:12,462 --> 00:05:13,870
+Scott: They were just separated from each other.
+
+76
+00:05:13,910 --> 00:05:23,310
+Rym: Yep, one screw it sheared off and it's like a ray up standard binding screw that I could just like replace Mmm, so I go to this pro shop and I've never done this before.
+
+77
+00:05:23,410 --> 00:05:26,222
+Rym: I learned something about skis because I've never had a ski break before.
+
+78
+00:05:26,603 --> 00:05:28,210
+Rym: I've always gotten rid of skis because I got too good.
+
+79
+00:05:28,270 --> 00:05:28,974
+Rym: I upgraded them.
+
+80
+00:05:29,456 --> 00:05:32,029
+Rym: So I go to the pro shop and I'm like, oh hey my binding broke.
+
+81
+00:05:32,911 --> 00:05:33,776
+Rym: Could you guys take a look at it?
+
+82
+00:05:33,816 --> 00:05:36,350
+Rym: Just let me know like could you replace the binding?
+
+83
+00:05:36,572 --> 00:05:37,630
+Rym: I don't even want to repair it like.
+
+84
+00:05:37,651 --> 00:05:39,498
+Rym: I don't care at this point just replace it or something.
+
+85
+00:05:39,980 --> 00:05:44,570
+Rym: and the woman looks at me with a weird look at her face because I have clearly asked about something insane.
+
+86
+00:05:45,371 --> 00:05:47,217
+Rym: So then she asks how old are your skis?
+
+87
+00:05:48,000 --> 00:05:53,323
+Rym: and I'm like, I don't know eight or nine years and she just says oh we can't even look at those don't even bring him in.
+
+88
+00:05:53,343 --> 00:05:55,392
+Rym: and I didn't know.
+
+89
+00:05:55,432 --> 00:06:11,210
+Rym: so I talked to her a little bit and I learned there is something in the United States called the Indemnity list and every year every ski and ski binding manufacturer in the world releases a list of all the bindings and all the skis that they will indemnify
+
+90
+00:06:11,250 --> 00:06:15,618
+Scott: meaning This is true the indemnified bindings.
+
+91
+00:06:16,019 --> 00:06:16,741
+Scott: I've seen this.
+
+92
+00:06:17,162 --> 00:06:19,830
+Scott: so if you it's a long list.
+
+93
+00:06:20,291 --> 00:06:46,809
+Rym: so there's also a bunch of rules where basically if a certified technician Services your skis or bindings in any way other than just like a wax job Which is just on the skis and you hurt yourself or die or something and you try to argue that the bindings failed you in Some way the company will send lawyers to help the company defend themselves Unless they committed negligence like they didn't actually service your ski, right or you know something like that.
+
+94
+00:06:47,111 --> 00:06:51,550
+Rym: But like they'll go to bat for their own technology and they'll eat it if their technology failed.
+
+95
+00:06:52,888 --> 00:06:58,646
+Scott: I Think the fact the fact that this exists I think is a sign that skiing might be dangerous.
+
+96
+00:06:58,967 --> 00:06:59,629
+Rym: I will ski.
+
+97
+00:06:59,649 --> 00:07:04,423
+Scott: so Other other kinds of sporting equipment doesn't have this.
+
+98
+00:07:04,704 --> 00:07:06,250
+Scott: those sports are far less dangerous.
+
+99
+00:07:06,451 --> 00:07:14,089
+Rym: so there are similar things with biking but only certain kinds of bikes and most bike shops don't give a shit because it's not really as much of a thing.
+
+100
+00:07:14,149 --> 00:07:14,270
+Rym: like.
+
+101
+00:07:14,831 --> 00:07:20,645
+Rym: Very few people are litigious when their bike fails them in some way Except like pros I guess.
+
+102
+00:07:21,247 --> 00:07:23,173
+Scott: so it's any indemnification list.
+
+103
+00:07:23,234 --> 00:07:24,779
+Rym: Yeah, they're not official like there with skis.
+
+104
+00:07:24,799 --> 00:07:25,401
+Rym: skis There's like.
+
+105
+00:07:25,421 --> 00:07:30,120
+Rym: they're like super official and like everyone has the list and it's a big deal when the list comes out.
+
+106
+00:07:30,381 --> 00:07:31,306
+Rym: I didn't even know this existed.
+
+107
+00:07:31,829 --> 00:07:32,331
+Rym: I didn't know.
+
+108
+00:07:32,392 --> 00:07:35,124
+Rym: so basically what I learned is my Did I until just now.
+
+109
+00:07:35,184 --> 00:07:39,540
+Rym: so I learned even though my skis are totally fine and the bindings could be easily replaced.
+
+110
+00:07:40,061 --> 00:07:45,557
+Rym: I'm just fucked in the skis of trash because no shop in America will even touch these skis.
+
+111
+00:07:45,918 --> 00:07:47,284
+Rym: There's no waiver I can sign.
+
+112
+00:07:47,325 --> 00:07:48,331
+Rym: they just will not touch them.
+
+113
+00:07:48,814 --> 00:07:49,639
+Scott: Well, couldn't you do it?
+
+114
+00:07:50,742 --> 00:07:52,230
+Scott: I'm not willing to YouTube video.
+
+115
+00:07:52,512 --> 00:07:53,900
+Rym: So I I thought about that.
+
+116
+00:07:54,000 --> 00:07:56,991
+Rym: I'm not willing to because I do not.
+
+117
+00:07:57,111 --> 00:08:05,720
+Rym: I have not learned those specific skills and nuances and I don't want to risk fucking it up in some way because the the consequences could be catastrophic.
+
+118
+00:08:06,101 --> 00:08:07,467
+Rym: This isn't like replace like.
+
+119
+00:08:07,487 --> 00:08:09,856
+Rym: I wouldn't replace my front carbon fork if it broke.
+
+120
+00:08:09,916 --> 00:08:24,656
+Rym: I'd get a bike shop to do it Mmm, so I then Google around further and I find a bunch of reddit threads of people who have gone through the same lesson I've gone through and They all have people from Norway chiming in saying that's a stupid American thing.
+
+121
+00:08:24,696 --> 00:08:25,619
+Rym: That's not a thing here.
+
+122
+00:08:25,699 --> 00:08:27,025
+Rym: Come here You can ski on anything.
+
+123
+00:08:27,126 --> 00:08:28,091
+Rym: any shop will service you.
+
+124
+00:08:28,111 --> 00:08:30,689
+Scott: I See the solution.
+
+125
+00:08:30,952 --> 00:08:34,246
+Scott: move to Norway Go have a ski trip to Norway.
+
+126
+00:08:34,428 --> 00:08:35,813
+Rym: Yeah, I mean Norway's in NATO.
+
+127
+00:08:35,852 --> 00:08:37,399
+Rym: It's a perfectly chromulant place to live.
+
+128
+00:08:38,162 --> 00:08:45,126
+Scott: Bet it, you know, I was thinking Alps before but you know what Norway might actually be better less crowded less touristy Probably better skiing Sweden.
+
+129
+00:08:45,326 --> 00:08:48,196
+Rym: Honestly, Sweden's up on the list now to also now in NATO.
+
+130
+00:08:48,497 --> 00:08:49,300
+Rym: just about yeah.
+
+131
+00:08:49,400 --> 00:08:53,974
+Scott: But I'm saying Norway is more ski than Sweden is very shiny, right?
+
+132
+00:08:54,014 --> 00:08:55,820
+Scott: But Norway it's like it's just ski.
+
+133
+00:08:56,082 --> 00:08:58,080
+Scott: They don't have other things like Sweden.
+
+134
+00:08:58,321 --> 00:09:04,686
+Rym: It was just funny that I found two different reddit threads where a Norwegian comes in just to be like, hey sucks to be you Americans.
+
+135
+00:09:04,706 --> 00:09:08,360
+Rym: I See if it's the same guy who replied at both threads.
+
+136
+00:09:08,520 --> 00:09:13,597
+Scott: Anyway, the problem is if you're gonna go on an actual ski trip to Norway, are you really gonna?
+
+137
+00:09:13,837 --> 00:09:14,680
+Scott: why would you carry yours?
+
+138
+00:09:15,161 --> 00:09:18,354
+Rym: Yeah, no, like I always rent skis when I travel somewhere.
+
+139
+00:09:18,394 --> 00:09:19,980
+Rym: Like why am I gonna bring skis on a plane?
+
+140
+00:09:20,240 --> 00:09:22,207
+Scott: That's it doesn't make any sense.
+
+141
+00:09:22,970 --> 00:09:27,863
+Rym: So then I learned something else by googling around and PSA from new new skis.
+
+142
+00:09:28,364 --> 00:09:30,287
+Rym: a lot of people just buy skis and use them forever.
+
+143
+00:09:30,408 --> 00:09:42,030
+Rym: Like I've always done and The ski bindings and the skis actually do wear out and get kind of dangerous Between six and eight years after you start using them unless you don't use them that often.
+
+144
+00:09:42,651 --> 00:09:49,529
+Rym: so I've looked around for stats and yeah, my skis are way beyond their expected service life.
+
+145
+00:09:49,549 --> 00:09:54,910
+Rym: and It was kind of crazy that I was still using these skis even though I love these skis.
+
+146
+00:09:55,030 --> 00:09:56,778
+Rym: So it's time to buy new skis.
+
+147
+00:09:57,099 --> 00:09:59,249
+Rym: I can't even donate them because no one will touch them.
+
+148
+00:10:00,790 --> 00:10:02,259
+Scott: Lifespan of ski binding.
+
+149
+00:10:02,340 --> 00:10:03,990
+Scott: I have a 12 year old pair of skis.
+
+150
+00:10:04,090 --> 00:10:08,382
+Scott: The shop said I cannot work on them since they're no longer on the list, right?
+
+151
+00:10:08,603 --> 00:10:10,368
+Scott: Is this a legit concern?
+
+152
+00:10:10,548 --> 00:10:11,150
+Scott: It is legit.
+
+153
+00:10:11,310 --> 00:10:13,196
+Scott: Yeah, 12 years is pretty tough.
+
+154
+00:10:13,276 --> 00:10:14,520
+Scott: I wouldn't ski on those.
+
+155
+00:10:14,580 --> 00:10:14,841
+Rym: Yep.
+
+156
+00:10:14,961 --> 00:10:17,970
+Rym: So that gets back to the failure that happened.
+
+157
+00:10:18,772 --> 00:10:25,030
+Rym: My bindings did fail nine years after I bought them which was outside of their expected service life.
+
+158
+00:10:25,191 --> 00:10:28,450
+Rym: So I should have read that manual a little more closely.
+
+159
+00:10:29,292 --> 00:10:36,510
+Scott: I'd say I think after your ski is five years old You should check the list every year to make sure you're still on the little one last service right before it falls off the list.
+
+160
+00:10:37,112 --> 00:10:37,533
+Scott: That's right.
+
+161
+00:10:37,734 --> 00:10:38,757
+Rym: Ah, yeah.
+
+162
+00:10:38,858 --> 00:10:40,403
+Rym: I've never gotten my binding service.
+
+163
+00:10:40,483 --> 00:10:47,129
+Scott: I just manually inspect them every year Yep, and then well the thing is you don't know if you like next year is gonna be the last year now.
+
+164
+00:10:47,571 --> 00:10:49,077
+Scott: So you can't really do that.
+
+165
+00:10:49,157 --> 00:10:52,610
+Scott: But after a certain length you could be like am I still on the list?
+
+166
+00:10:52,670 --> 00:10:59,390
+Scott: Alright, we're gonna get sir, you know, yeah, or you just like after five years service it every year until you're off the list.
+
+167
+00:10:59,430 --> 00:11:01,668
+Rym: Yeah, that was heavy like three or four hundred bucks.
+
+168
+00:11:01,709 --> 00:11:06,372
+Rym: though I'm worried because I don't know if that'll work because I'm from all the professional stuff I was reading.
+
+169
+00:11:06,894 --> 00:11:11,269
+Rym: they do kind of wear out and stop working to where you might get them serviced.
+
+170
+00:11:11,469 --> 00:11:17,304
+Rym: and Every time a ski binding gets serviced even if it's on the list it gets a specific kind of inspection and a test.
+
+171
+00:11:17,365 --> 00:11:24,938
+Rym: and if it fails that then It's kind of like when you go to a mechanic and they're like you can't drive that home Like they like they'll write they'll.
+
+172
+00:11:24,959 --> 00:11:26,910
+Rym: they'll basically say your bindings are failed.
+
+173
+00:11:26,970 --> 00:11:28,967
+Rym: We refuse to service them or even put them back together.
+
+174
+00:11:29,027 --> 00:11:29,350
+Rym: Fuck you.
+
+175
+00:11:29,390 --> 00:11:32,799
+Scott: Meanwhile when my bike chain broke for being too old.
+
+176
+00:11:32,819 --> 00:11:33,561
+Scott: Yeah, right.
+
+177
+00:11:33,821 --> 00:11:35,385
+Scott: The guy was like up.
+
+178
+00:11:35,886 --> 00:11:36,708
+Scott: It was not really.
+
+179
+00:11:36,809 --> 00:11:41,854
+Scott: I mean unless It's like as long as your brakes are working It's not really a danger.
+
+180
+00:11:41,954 --> 00:11:43,580
+Scott: as long as the chain doesn't like go in your.
+
+181
+00:11:44,302 --> 00:11:46,893
+Rym: I mean my carbon front fork is like 14 years old.
+
+182
+00:11:49,132 --> 00:11:50,598
+Scott: My entire bike is carbon.
+
+183
+00:11:50,638 --> 00:11:50,959
+Scott: it's from 2000.
+
+184
+00:11:50,959 --> 00:11:51,642
+Scott: Yep, six eight.
+
+185
+00:11:55,272 --> 00:11:57,389
+Scott: So no, anyway, I don't remember when I got it.
+
+186
+00:11:58,751 --> 00:12:04,591
+Rym: I actually had to Google when I bought those skis and it was longer ago than I thought because I thought like how old are these skis?
+
+187
+00:12:04,631 --> 00:12:11,086
+Rym: like four or five years that I look at my mail and I see this email the receipt from nine years ago And it's like oh god damn.
+
+188
+00:12:12,117 --> 00:12:13,913
+Scott: Yeah, I think it's 2016.
+
+189
+00:12:13,913 --> 00:12:21,029
+Rym: I used to make fun of my parents for like not remembering dates of things and here I am Being off by like four years on a major purchase.
+
+190
+00:12:22,774 --> 00:12:25,230
+Rym: Anyway whole bunch of reddit news to talk about.
+
+191
+00:12:25,396 --> 00:12:25,689
+Scott: Oh, yeah.
+
+192
+00:12:25,810 --> 00:12:40,467
+Scott: so reddit the website that despite having lots of drama is still I guess too useful to Completely abandon and is you know bad but not beyond all redemption But still bad in many ways.
+
+193
+00:12:41,514 --> 00:12:50,021
+Scott: They're entering a new realm of badness That is going to be quite interesting Cluster of in shitification, right?
+
+194
+00:12:50,061 --> 00:12:59,679
+Scott: So realm of badness number one They're gonna IPO right and so if you want to become a shareholder of reddit Incorporated you'll be able to do so.
+
+195
+00:12:59,779 --> 00:13:01,910
+Scott: I really don't know who owns reddit anymore.
+
+196
+00:13:01,991 --> 00:13:04,950
+Scott: It was so convoluted like they were part of Conde Nast at one point.
+
+197
+00:13:05,352 --> 00:13:08,043
+Scott: I don't know what the fuck this deal is, but I guess now it's so.
+
+198
+00:13:08,104 --> 00:13:10,392
+Scott: it must be its own company because otherwise How could IPO?
+
+199
+00:13:10,412 --> 00:13:25,107
+Scott: all right, so they're gonna IPO and be on publicly traded and therefore be beholden to Whoever's on that board and shareholder voting and we'll see if that steers them in a bad direction.
+
+200
+00:13:25,147 --> 00:13:26,089
+Scott: probably well, right?
+
+201
+00:13:26,931 --> 00:13:30,309
+Scott: So second thing about this IPO, they're doing something weird.
+
+202
+00:13:31,691 --> 00:13:32,715
+Scott: Gotta be weird.
+
+203
+00:13:32,815 --> 00:13:34,622
+Rym: It's so weird that I think it.
+
+204
+00:13:35,225 --> 00:13:36,590
+Rym: this is not investment advice.
+
+205
+00:13:36,891 --> 00:13:38,657
+Rym: I'm not touching this with a thousand foot.
+
+206
+00:13:38,798 --> 00:13:39,199
+Scott: I wouldn't.
+
+207
+00:13:39,480 --> 00:13:49,717
+Scott: I mean obviously I don't touch any IPO with it with a Lightyear pole, but I didn't make a lot of money with one IPO once like eight years ago All right.
+
+208
+00:13:49,758 --> 00:13:50,808
+Scott: Well, then why are we still here?
+
+209
+00:13:51,470 --> 00:13:53,440
+Rym: Well, it was a lot of money relative to what I put in.
+
+210
+00:13:53,480 --> 00:13:55,490
+Rym: it wasn't a lot of money relative to capitalism.
+
+211
+00:13:56,231 --> 00:14:01,289
+Rym: Okay, so it's like when we went to Atlantic City and we want a few hundred bucks like yeah that that wasn't retirement money.
+
+212
+00:14:02,226 --> 00:14:06,330
+Scott: well So what they're gonna do is they're giving preferential.
+
+213
+00:14:07,272 --> 00:14:14,135
+Scott: Usually the deal with IPOs is that only like hedge funds and other weird, you know high You know tier invest.
+
+214
+00:14:14,195 --> 00:14:30,273
+Scott: people can get in on the IPO early enough at the actual IPO price and then it jumps up a whole bunch and then they all sell to all the schmucks who are using e-trade and Scott trade or whatever the fuck is TD Ameritrade right normal people Right.
+
+215
+00:14:32,533 --> 00:14:36,649
+Rym: Well, it's part man that that really process helps set what the price actually is.
+
+216
+00:14:37,592 --> 00:14:52,090
+Scott: Yeah, but that point is is that some people you know high-frequency traders have the ability to get in earlier and then sell quickly as soon as the that initial jump right and then Normal people can't do that.
+
+217
+00:14:52,130 --> 00:15:04,670
+Scott: You're gonna be buying it like after that whole thing already goes through and you're at sort of what their actual Value is and so you can't sort of get this free money from the IPO excitement.
+
+218
+00:15:04,891 --> 00:15:07,689
+Scott: You just have to basically go with the actual market.
+
+219
+00:15:10,500 --> 00:15:19,014
+Scott: And so What reddit is doing is they're saying look there are some people who we're gonna let them get in Earlier, right.
+
+220
+00:15:19,294 --> 00:15:37,769
+Scott: then the rest of the normal, you know people's the plebs out there and basically Based on if you're a reddit moderator how much you've Moderated how much reddit karma you have like at your points on reddit for getting up voted and whatnot There's absolutely bonkers.
+
+221
+00:15:38,636 --> 00:15:40,290
+Scott: They're separating people into tiers.
+
+222
+00:15:40,651 --> 00:15:49,557
+Scott: So the more hardcore a reddit user you are you can get in and have the opportunity to buy shares of reddit incorporated whatever.
+
+223
+00:15:49,577 --> 00:16:00,433
+Scott: they're gonna call this company before other people and then You know Supposedly then it will jump and you'll sell, you know That's what they want you to believe.
+
+224
+00:16:01,416 --> 00:16:05,807
+Scott: and you will basically get money and rewarded for contributing to retro quote.
+
+225
+00:16:05,867 --> 00:16:06,889
+Scott: rewarded, right?
+
+226
+00:16:08,590 --> 00:16:16,459
+Scott: It's possible if not likely that you would buy it early and then it would just go straight down As everyone else who bought early tries to sell.
+
+227
+00:16:16,499 --> 00:16:23,080
+Scott: as soon as they have the first opportunity they start jamming the sell button Which is what I would do, right.
+
+228
+00:16:23,622 --> 00:16:29,370
+Scott: and so even at someone like me I have enough reddit karma to be in tier three out of like five or six tiers.
+
+229
+00:16:29,390 --> 00:16:30,335
+Scott: I don't know how many tiers that are.
+
+230
+00:16:30,375 --> 00:16:31,602
+Rym: I don't post nearly enough.
+
+231
+00:16:31,702 --> 00:16:33,150
+Rym: I'm definitely in the bottom tier.
+
+232
+00:16:33,792 --> 00:16:37,201
+Scott: I have like a hundred thousand reddit karmas or whatever plus.
+
+233
+00:16:37,402 --> 00:16:41,900
+Scott: so it puts me like three and they're emailing me and I'm like Delete email like hell.
+
+234
+00:16:41,940 --> 00:16:43,470
+Scott: No, are you out of your mind?
+
+235
+00:16:44,791 --> 00:16:45,479
+Scott: not a chance.
+
+236
+00:16:45,783 --> 00:17:00,455
+Scott: and So there is one additional reddit news that goes along with these two ridiculous things, right and You know in the IPO filing They had you know, you have to.
+
+237
+00:17:00,475 --> 00:17:03,850
+Scott: when you make an IPO filing you have to say all sorts of information, right?
+
+238
+00:17:03,950 --> 00:17:08,544
+Scott: Because you're going public you have to be like, yeah That's how much money we're making and this is our risks.
+
+239
+00:17:08,604 --> 00:17:13,382
+Scott: and these are you know What's why you should invest in us and why you know, etc.
+
+240
+00:17:13,402 --> 00:17:19,030
+Scott: And one of the risks they listed is yeah If we have more moderator protests that would actually hurt us.
+
+241
+00:17:19,211 --> 00:17:23,949
+Scott: So what they just told everyone is that in the IPO filing is that moderator protests work?
+
+242
+00:17:26,030 --> 00:17:31,102
+Scott: Moderators out there if reddit if the double down now's the time.
+
+243
+00:17:32,105 --> 00:17:46,872
+Scott: if the shareholders, you know do a dirty you should protest again because they just admitted that it works and Finally in order to sort of boost their numbers to make themselves look like they're a valuable company that you should invest in Reddit.
+
+244
+00:17:46,932 --> 00:17:57,329
+Scott: just, you know, obviously when you sign up for a reddit account you agree to your TOS which says yeah They can do shit with the all your comments and posts that you know, you are giving to them.
+
+245
+00:17:58,572 --> 00:18:01,990
+Scott: They sold all that data to Google to train Google's AI.
+
+246
+00:18:02,211 --> 00:18:07,065
+Scott: So they're like they're getting in bed with Google and they're trying to demonstrate that they have value.
+
+247
+00:18:07,446 --> 00:18:19,778
+Scott: and also, you know Like yeah if you didn't know already when you post things on reddit reddit kind of can use those things you gave them permission to because you on their website and not on your website And so you just helped.
+
+248
+00:18:20,039 --> 00:18:23,310
+Scott: all your reddit comments hell are helping to train the Google AI.
+
+249
+00:18:24,494 --> 00:18:25,304
+Scott: So have fun with that.
+
+250
+00:18:26,691 --> 00:18:27,796
+Rym: Yep, it'll be able to go to.
+
+251
+00:18:27,836 --> 00:18:33,748
+Scott: you'll be able to go to Google and say hey reply to this reddit thread Just like Scott would and it'll probably work.
+
+252
+00:18:35,730 --> 00:18:46,857
+Rym: What's fascinating about this is that There's already a perception that people will just add reddit to any random search request because that's the only way to find the answer To things they're looking for.
+
+253
+00:18:47,301 --> 00:18:52,483
+Rym: so you can see why Specifically reddit of all things is the kind of thing people want to train a model on.
+
+254
+00:18:53,146 --> 00:19:01,690
+Rym: but at the same time That model I feel like is going to just rapidly become a circle jerk of absolute nonsense because they still have to monetize reddit.
+
+255
+00:19:02,912 --> 00:19:16,244
+Scott: Yep, it's it's gonna be weird right cuz like if people start using the ML model that read reddit and then They're not gonna be using reddit and thus reddit will basic all that that model will fall behind.
+
+256
+00:19:16,265 --> 00:19:19,956
+Scott: It won't have newer information in it Right, so people.
+
+257
+00:19:20,297 --> 00:19:23,830
+Scott: but if people keep using reddit, they'll be training a model that no one's using.
+
+258
+00:19:24,511 --> 00:19:25,012
+Scott: So, I don't know.
+
+259
+00:19:25,032 --> 00:19:26,796
+Scott: Yeah, what's gonna happen?
+
+260
+00:19:26,956 --> 00:19:31,129
+Rym: when I don't see myself I Could see right it just dying?
+
+261
+00:19:32,231 --> 00:19:43,070
+Scott: I mean, yeah every day every major internet type service platform is no matter how strong you think they are They gonna die, you know, it's like back in the day the earlier internet.
+
+262
+00:19:43,130 --> 00:19:45,378
+Scott: They died more frequently because they were less big.
+
+263
+00:19:45,819 --> 00:19:47,986
+Scott: but I'm still telling you Facebook's gonna die.
+
+264
+00:19:48,087 --> 00:19:49,110
+Scott: Google's gonna die.
+
+265
+00:19:49,190 --> 00:19:50,515
+Scott: They're all gonna die at some point.
+
+266
+00:19:50,535 --> 00:19:51,740
+Scott: There'll be another thing instead.
+
+267
+00:19:52,000 --> 00:19:53,506
+Scott: Yeah, it'll happen eventually.
+
+268
+00:19:53,566 --> 00:19:54,570
+Scott: Twitter, right?
+
+269
+00:19:55,130 --> 00:19:55,551
+Scott: Not not.
+
+270
+00:19:55,632 --> 00:20:01,510
+Scott: no matter how big and important and significant a thing you think is it is not unassailable, right?
+
+271
+00:20:01,530 --> 00:20:05,665
+Scott: You think about like, you know Sears in the United States was like this store.
+
+272
+00:20:05,805 --> 00:20:10,089
+Scott: that was like, you know The biggest most important store is gone.
+
+273
+00:20:11,095 --> 00:20:13,670
+Rym: the Austro-Hungarian Empire fell.
+
+274
+00:20:14,566 --> 00:20:18,265
+Rym: Yeah Yeah, so a little bit of review.
+
+275
+00:20:18,426 --> 00:20:19,410
+Rym: one last little news thing.
+
+276
+00:20:19,611 --> 00:20:29,110
+Rym: So I'm not gonna talk about everything in my computer that I built but there are some noteworthy things like notable things that I encountered While building my computer in these components.
+
+277
+00:20:29,291 --> 00:20:33,486
+Rym: So I'm not gonna review like my new computer because the Scott and I were talking about just for the show.
+
+278
+00:20:33,948 --> 00:20:34,610
+Rym: Yeah, it's faster.
+
+279
+00:20:34,811 --> 00:20:35,654
+Rym: It's a newer computer.
+
+280
+00:20:35,755 --> 00:20:36,659
+Rym: It's it's faster.
+
+281
+00:20:37,121 --> 00:20:39,210
+Rym: It does things that my old computer couldn't do great.
+
+282
+00:20:40,751 --> 00:20:42,096
+Rym: What am I gonna say about a 4080?
+
+283
+00:20:42,096 --> 00:20:43,441
+Rym: It's a 4080.
+
+284
+00:20:43,441 --> 00:20:52,281
+Rym: So I'm only gonna focus on things that either exceeded my expectations failed to meet my expectations or Something weird or new that I learned.
+
+285
+00:20:52,924 --> 00:20:59,290
+Rym: so item one I gotta say I've avoided that RGB crap for a long time like my last computer.
+
+286
+00:20:59,895 --> 00:21:12,162
+Rym: some of the things in it had lights but I didn't install any of the software to control those lights and I just left everything running on the defaults and I Installed the software to turn the lights off and then uninstall the song If possible.
+
+287
+00:21:12,202 --> 00:21:13,290
+Rym: well if possible.
+
+288
+00:21:13,391 --> 00:21:22,686
+Rym: so it depends on which of those softwares you installed because That RGB crap has come a long way and I know the fullness of how it all works now.
+
+289
+00:21:23,147 --> 00:21:34,767
+Rym: and the good news is Give it another few years and it's all gonna be pretty much standardized and just controlled via motherboard headers USB and like Windows software, but it's not.
+
+290
+00:21:34,807 --> 00:21:35,028
+Rym: yeah
+
+291
+00:21:35,410 --> 00:21:53,176
+Scott: Yeah, Microsoft is doing a good job lately in Windows of there's lots of you know weird garbage II software as the people have had to install to do certain things that Windows didn't do and Microsoft is doing a lot of work to basically have those be features in Windows So that you don't need that.
+
+292
+00:21:53,276 --> 00:22:00,090
+Scott: and RGB lighting controls is one of the things that Microsoft is has been working on to add to Windows.
+
+293
+00:22:00,170 --> 00:22:01,397
+Scott: I think there's a beta or something.
+
+294
+00:22:01,438 --> 00:22:11,369
+Scott: if you google you'll get the latest information on it Yep, and that would be great because then you wouldn't need all these Individual apps for all the different hardware you have to control the lighting on it.
+
+295
+00:22:12,172 --> 00:22:17,790
+Rym: So now I know how that works and my conclusion is it's all actually pretty cool and it works pretty well.
+
+296
+00:22:17,910 --> 00:22:23,010
+Rym: But I didn't quite before understand why people used all these weird fan controllers.
+
+297
+00:22:23,612 --> 00:22:27,644
+Rym: and now I see because the most annoying part of this build was.
+
+298
+00:22:27,664 --> 00:22:30,493
+Rym: I went with the RGB currently because I wanted to learn how It all worked for real.
+
+299
+00:22:31,176 --> 00:22:38,967
+Rym: and all that really means is every fan has two cables coming out of it And you got to plug one of the cables into an RGB header and another cable into a fan header.
+
+300
+00:22:39,309 --> 00:22:42,418
+Rym: and no Motherboard has enough headers of either type.
+
+301
+00:22:42,799 --> 00:22:45,025
+Rym: So you have to buy one or more.
+
+302
+00:22:45,045 --> 00:23:01,939
+Rym: I saw some builds where people have several controllers that just have holes to plug the RGBs into and sometimes also holes to plug the fan headers into to power them and then you stick like a SATA into that like SATA power to plug power the LEDs and sometimes the fans and
+
+303
+00:23:03,674 --> 00:23:04,200
+Scott: It's just a USB.
+
+304
+00:23:04,220 --> 00:23:09,062
+Rym: Yeah Well, you also need USB because otherwise they're not addressable and controllable.
+
+305
+00:23:09,323 --> 00:23:18,033
+Rym: the USB is how you have software control those RGBs Mmm, but there's also Addressable.
+
+306
+00:23:18,053 --> 00:23:22,170
+Scott: you can also just not put a bunch of blinking lights in your computer because they're completely functionless.
+
+307
+00:23:22,534 --> 00:23:32,250
+Scott: I like the blinking lights a little bit You're especially if your computer is under your desk like mine where you'll never see it Even if you make the coolest sickest case, yeah I see it's like I see mine.
+
+308
+00:23:32,290 --> 00:23:34,790
+Rym: But that's why I got one with like configured in a certain way.
+
+309
+00:23:35,191 --> 00:23:43,706
+Scott: so I said it's saying like if you're gonna be showing the computer off at a BYO PC then like by all means but Like, you know if it's sitting in your house, it's sort of like the lights.
+
+310
+00:23:43,787 --> 00:23:50,417
+Scott: just you know If my computer was on my desk, it'd just be blasting me in the face with light And if it's on the ground, I don't see it.
+
+311
+00:23:50,517 --> 00:23:51,259
+Scott: So what's the point?
+
+312
+00:23:52,001 --> 00:23:54,810
+Scott: So waste of electricity if it thankfully?
+
+313
+00:23:54,890 --> 00:23:56,014
+Rym: I did look at the power draw.
+
+314
+00:23:56,074 --> 00:23:57,900
+Rym: It's negligible uses almost no power.
+
+315
+00:23:58,281 --> 00:23:59,224
+Scott: It's LED.
+
+316
+00:23:59,264 --> 00:24:01,150
+Scott: So it is negligible, but it's more than zero.
+
+317
+00:24:02,014 --> 00:24:05,530
+Rym: I can also configure them to like react to sound and all sorts of fun stuff.
+
+318
+00:24:05,570 --> 00:24:06,294
+Rym: So I was playing with that.
+
+319
+00:24:06,334 --> 00:24:13,984
+Scott: even the one I have can like turn it like change color Matching like the computer temperature or CPU usage or various things.
+
+320
+00:24:14,385 --> 00:24:16,170
+Scott: but mines, you know, very old already.
+
+321
+00:24:16,311 --> 00:24:18,039
+Rym: So generally here's my review.
+
+322
+00:24:18,240 --> 00:24:27,890
+Rym: all the NZ XT stuff Works fine and integrates nicely and the cam software that controls it all as of now just works like it's all just perfectly fine.
+
+323
+00:24:27,910 --> 00:24:31,030
+Scott: It's not my favorite piece of software, but it's like it's tolerable.
+
+324
+00:24:31,050 --> 00:24:37,750
+Rym: However, the lights on my motherboard itself, like there's a bunch of screens and stuff on the mother who made the motherboard?
+
+325
+00:24:38,013 --> 00:24:43,066
+Rym: Oh aces the ROG And that's pretty much the best motherboards right now.
+
+326
+00:24:43,086 --> 00:24:45,410
+Scott: the rogs Yeah, the expensive rod.
+
+327
+00:24:45,450 --> 00:24:47,276
+Rym: So it's got a screen on it and it's.
+
+328
+00:24:47,356 --> 00:24:55,101
+Rym: and then there's all this cool stuff and the RAM has LEDs on it because the LED RAM was literally cheaper than the non LED RAM for the same.
+
+329
+00:24:55,141 --> 00:24:56,606
+Scott: No one wants the LED RAM.
+
+330
+00:24:56,626 --> 00:24:57,670
+Scott: So they got too much of it.
+
+331
+00:24:57,792 --> 00:24:58,550
+Rym: So here's the problem.
+
+332
+00:24:59,231 --> 00:25:14,479
+Rym: NZ XT can control everything except the shit on the motherboard and the only software that can control the stuff on the motherboard is Something called armory crate which is also that thing that ostensibly Manages drivers and software for aces motherboards.
+
+333
+00:25:14,739 --> 00:25:17,828
+Rym: and if you're not aware that software is basically malware.
+
+334
+00:25:18,109 --> 00:25:21,754
+Rym: It is just absolute Garbage software.
+
+335
+00:25:22,236 --> 00:25:29,361
+Rym: I don't recommend installing it and I have not installed it Which means my room garbage if you didn't install yet.
+
+336
+00:25:29,883 --> 00:25:33,984
+Rym: I read a bunch of reviews and I Have determined that it's garbage.
+
+337
+00:25:34,428 --> 00:25:37,990
+Rym: So My RAM is I mean, I believe it's garbage.
+
+338
+00:25:38,111 --> 00:25:44,770
+Rym: I'm just saying so My RAM is permanently cycling through a rainbow because that's the default and there's no way to change it without installing that software.
+
+339
+00:25:45,273 --> 00:25:46,903
+Rym: And before you say why don't install it?
+
+340
+00:25:47,003 --> 00:25:48,029
+Rym: do this uninstall it.
+
+341
+00:25:48,612 --> 00:25:55,819
+Rym: installing it if your computer is working can fuck up your other motherboard drivers apparently and You can't actually uninstall it.
+
+342
+00:25:55,899 --> 00:26:03,090
+Rym: it hangs around in various forms forever Unless you do sketchy shit with your registry and like go around deleting specific files.
+
+343
+00:26:04,372 --> 00:26:07,550
+Scott: You know, you could have avoided this by paying more to get the RAM without lights on it.
+
+344
+00:26:07,610 --> 00:26:08,435
+Scott: Then you wouldn't.
+
+345
+00:26:08,978 --> 00:26:09,480
+Rym: I don't mind.
+
+346
+00:26:09,501 --> 00:26:10,908
+Rym: I actually don't mind the rainbow.
+
+347
+00:26:12,231 --> 00:26:14,443
+Scott: Well, you're gonna be living with that rainbow for a long time.
+
+348
+00:26:14,665 --> 00:26:15,469
+Scott: So get used to it.
+
+349
+00:26:15,751 --> 00:26:16,135
+Rym: You know what?
+
+350
+00:26:16,195 --> 00:26:17,650
+Rym: I am used to it and I'm not a hater.
+
+351
+00:26:18,112 --> 00:26:23,914
+Rym: I. if if you could have done this to computers when I was in high school or college Of course, I would have.
+
+352
+00:26:23,934 --> 00:26:25,338
+Rym: now I'm so fucking in.
+
+353
+00:26:25,659 --> 00:26:29,430
+Rym: so that's why I kind of wanted to learn because I've confirmed you're young.
+
+354
+00:26:30,056 --> 00:26:31,126
+Rym: This is the coolest shit.
+
+355
+00:26:32,052 --> 00:26:32,715
+Scott: No for it.
+
+356
+00:26:33,417 --> 00:26:33,598
+Scott: Yeah.
+
+357
+00:26:33,618 --> 00:26:38,072
+Rym: Can you imagine what our computers would have looked like in the year 2001?
+
+358
+00:26:38,072 --> 00:26:38,825
+Scott: Yeah like this.
+
+359
+00:26:39,692 --> 00:26:44,184
+Rym: So in terms of motherboards, uh, the aces motherboards are still the best far and away.
+
+360
+00:26:44,285 --> 00:26:46,130
+Rym: like no surprises there everything.
+
+361
+00:26:46,190 --> 00:26:48,328
+Scott: How do you know that you didn't try a different motherboard to compare?
+
+362
+00:26:49,412 --> 00:26:50,014
+Rym: But you know what.
+
+363
+00:26:50,034 --> 00:26:51,157
+Rym: the aces just worked.
+
+364
+00:26:51,418 --> 00:26:55,753
+Rym: fantastic performance had all the heat sinks had everything I needed at PCIe 5.
+
+365
+00:26:55,753 --> 00:26:56,478
+Scott: Yeah, they all have that.
+
+366
+00:26:56,700 --> 00:27:00,528
+Rym: now a lot of them don't have PCIe 5. hmm, ah.
+
+367
+00:27:00,952 --> 00:27:04,910
+Scott: So the only other thing that stood out is this is the only brand with the PCIe 5 motherboard.
+
+368
+00:27:05,032 --> 00:27:06,149
+Scott: Why do I not think that's true?
+
+369
+00:27:06,370 --> 00:27:11,130
+Rym: Oh, there are others that have some amount of PCIe 5. support aces is the most reliable based on all reviews.
+
+370
+00:27:11,471 --> 00:27:12,758
+Rym: But you don't need the fancy aces.
+
+371
+00:27:12,778 --> 00:27:15,230
+Rym: pretty much any wrong motherboard is totally fine.
+
+372
+00:27:15,671 --> 00:27:21,626
+Rym: But the other component actually want to review briefly is the NZXT H series 7 Elite Edition case.
+
+373
+00:27:21,646 --> 00:27:24,858
+Rym: I Really like the previous case I got.
+
+374
+00:27:24,918 --> 00:27:29,598
+Rym: so I got another NZXT and this case Exceeded every expectation.
+
+375
+00:27:29,979 --> 00:27:41,443
+Rym: It was the best computer case I have ever touched in my life because it just works Basically, no screws except for some of the internal stuff like actually mounting the motherboard.
+
+376
+00:27:41,824 --> 00:27:43,550
+Rym: all the panels have super tight tolerances.
+
+377
+00:27:43,931 --> 00:27:46,078
+Rym: They just pop on and off everything just fits.
+
+378
+00:27:46,339 --> 00:27:49,630
+Rym: There's huge amounts of room for all the cables and all the RGB shit.
+
+379
+00:27:49,831 --> 00:27:51,970
+Rym: It's like this case is just absolutely great.
+
+380
+00:27:52,211 --> 00:28:00,469
+Rym: I can't imagine recommending any case other than this one for anyone building a midtown the amount You know the amount of advancements in cases is you know?
+
+381
+00:28:00,830 --> 00:28:03,530
+Scott: I think that's there's a lot of room for improvement, right?
+
+382
+00:28:03,670 --> 00:28:05,962
+Scott: Cuz it's always been sort of a pain right.
+
+383
+00:28:06,042 --> 00:28:07,289
+Scott: and there's just by the.
+
+384
+00:28:07,389 --> 00:28:12,250
+Scott: you know The computer I have which is six seven ish years old six years old now.
+
+385
+00:28:12,330 --> 00:28:14,175
+Scott: it's like, you know, it was actually pretty good.
+
+386
+00:28:14,255 --> 00:28:19,103
+Scott: what case wise better than ever before and There's been match improvement since then.
+
+387
+00:28:19,164 --> 00:28:30,989
+Rym: So it's like yeah You know, yeah, what I like is that this case comes with a hundred and forty millimeter fans by default and they are Super quiet like crazy quiet even at full blast.
+
+388
+00:28:32,212 --> 00:28:41,088
+Rym: But the last thing that was notable and just it's it makes sense Like it's obvious, but now I have the the actual experience to show it.
+
+389
+00:28:41,530 --> 00:28:55,579
+Rym: So my old computer had a 1080 and an i7 6700 K. when I would play overwatch on basically max settings It would make the room noticeably hot very quickly Like heat would just be pouring out of this computer.
+
+390
+00:28:56,000 --> 00:29:12,452
+Rym: All the fans would be screaming and the room would get really really hot playing the exact same game with a 4080 and An i9 like the basically the fastest non overclocked i9 One.
+
+391
+00:29:12,472 --> 00:29:20,221
+Rym: the game runs with more FPS and runs better but to no heat like no noticeable heat comes out of the computer even with extended play.
+
+392
+00:29:20,703 --> 00:29:29,366
+Rym: and the only explanation for that is That an older computer being pushed to a hundred percent is way less efficient in terms of wattage.
+
+393
+00:29:29,627 --> 00:29:38,030
+Rym: turning into performance then a modern very fast computer running at like twelve to forty percent of that capacity that it's capable of.
+
+394
+00:29:38,991 --> 00:29:48,023
+Scott: Yeah, but also if you you know, we're to actually push this computer it's gonna use way more watts than oh, yeah But running overwatch at the exact same performance.
+
+395
+00:29:48,063 --> 00:29:48,444
+Rym: It's not.
+
+396
+00:29:48,525 --> 00:29:55,170
+Rym: it's not really a high demand It's not but it's no worthy of overwatch getting effectively the same performance from the same software.
+
+397
+00:29:55,551 --> 00:29:59,282
+Rym: The older slower computer generates a lot more heat than the newer faster computer.
+
+398
+00:30:00,366 --> 00:30:14,570
+Scott: I do think that you know, the Benchmarky people right like Apple is the only one who's like focusing a lot on the power per-watt Situation mostly because the desktop PCs know they basically can't compete in that area.
+
+399
+00:30:15,571 --> 00:30:22,150
+Scott: But they should still I think do that anyway, because you want to compare desktop PCs to other desktop PCs.
+
+400
+00:30:22,170 --> 00:30:31,274
+Scott: It's like, you know I want to know which GPU is getting more power per watt and I and I want to see that scale Right along.
+
+401
+00:30:31,535 --> 00:30:34,081
+Scott: how much demand is going into it, right?
+
+402
+00:30:34,161 --> 00:30:45,470
+Scott: It's like alright, you know if I have a 3080 And a 4080 and they're both playing the same game and it's both max frames max settings It's like yeah, does it matter which one I get?
+
+403
+00:30:46,090 --> 00:30:49,029
+Scott: No, because it's you wouldn't be able to tell the difference as a user.
+
+404
+00:30:49,571 --> 00:30:55,490
+Scott: But if one of those is using less watts, that's pretty much the only thing that would be meaningfully different.
+
+405
+00:30:55,490 --> 00:31:09,549
+Rym: Yeah, and I have seen all the other things are true It's two computers are better compared but a 1080 Doing the exact same thing as a 4080 in this context Uses way more power to do the same thing.
+
+406
+00:31:09,871 --> 00:31:12,321
+Scott: Well, did you actually plug in like the watt thing into the wall?
+
+407
+00:31:12,361 --> 00:31:14,630
+Scott: It could be that you know could be what what?
+
+408
+00:31:15,050 --> 00:31:17,041
+Rym: How could the third 4080 computer generate?
+
+409
+00:31:19,250 --> 00:31:23,390
+Rym: Noticeably significantly less heats over time in the superior cooling.
+
+410
+00:31:24,231 --> 00:31:28,050
+Rym: Superior cooling would still be pumping that heat out into my room just faster.
+
+411
+00:31:31,410 --> 00:31:33,323
+Rym: Maybe now I did pull the wattage.
+
+412
+00:31:33,424 --> 00:31:33,706
+Rym: Actually.
+
+413
+00:31:33,726 --> 00:31:35,880
+Rym: I have a watt meter I can plug into the back of a power supply.
+
+414
+00:31:36,142 --> 00:31:37,230
+Rym: So I got some wattage numbers.
+
+415
+00:31:37,310 --> 00:31:44,573
+Rym: So I am gonna run overwatch on the other computer which we've currently used as our htpc now to replace the one that It's.
+
+416
+00:31:44,633 --> 00:31:46,508
+Rym: it's going out to pasture our current htpc.
+
+417
+00:31:48,130 --> 00:31:52,041
+Rym: Yeah, gtx 450m doesn't cut it even for YouTube in the year 20.
+
+418
+00:31:52,041 --> 00:31:57,171
+Scott: our htpc has a 1050 but I think 450m.
+
+419
+00:31:57,232 --> 00:31:58,978
+Rym: Scott I have a CPU.
+
+420
+00:31:59,139 --> 00:32:04,970
+Scott: I verified the CPU and it is you know I can't even like do fake windows 11 or anything on this one.
+
+421
+00:32:05,070 --> 00:32:08,825
+Scott: So it's it's only gonna last until Windows 10 dies in like a year.
+
+422
+00:32:08,845 --> 00:32:10,090
+Scott: That was I think it was late.
+
+423
+00:32:10,090 --> 00:32:18,525
+Rym: 2025 as well as ours now takes about six seconds between clicking on a YouTube video and the YouTube video starting to play And ours plays YouTube videos.
+
+424
+00:32:18,545 --> 00:32:19,009
+Rym: just yeah.
+
+425
+00:32:20,412 --> 00:32:23,889
+Rym: But I got to say but the 1080 is an absolutely perfect htpc out there.
+
+426
+00:32:26,625 --> 00:32:30,059
+Rym: but anyway things of the day.
+
+427
+00:32:30,601 --> 00:32:39,039
+Rym: So Scott in the old days when a house only had one room in it because it was basically just a big shack What do you think they called that room?
+
+428
+00:32:41,460 --> 00:32:42,667
+Rym: Like did they have a word for it?
+
+429
+00:32:43,472 --> 00:32:43,935
+Scott: What do you mean?
+
+430
+00:32:43,975 --> 00:32:46,308
+Scott: It's just your house It's yeah, go ahead and go out.
+
+431
+00:32:46,328 --> 00:32:48,539
+Rym: Is there a name for the interior of the house?
+
+432
+00:32:49,460 --> 00:32:50,211
+Scott: Inside the house.
+
+433
+00:32:50,779 --> 00:32:54,124
+Rym: Ah so this video actually Explains in a minute
+
+434
+00:32:54,164 --> 00:33:04,929
+Scott: like if my if you lived in a house that only had one room like there was literally just a studio But it was a house you just be like, yeah, you wouldn't say like if you live in a studio apartment You're not like I'm in the bedroom.
+
+435
+00:33:05,030 --> 00:33:06,319
+Scott: You're just like I'm in my apartment.
+
+436
+00:33:06,581 --> 00:33:07,126
+Scott: Yeah, you don't.
+
+437
+00:33:07,388 --> 00:33:08,619
+Scott: you don't say like I'm in the kit.
+
+438
+00:33:08,700 --> 00:33:11,029
+Scott: I guess you like even thing in the kitchen.
+
+439
+00:33:11,070 --> 00:33:12,315
+Scott: would be a little weird though.
+
+440
+00:33:12,656 --> 00:33:22,100
+Rym: in our apartment the The living room and the kitchen are one big room with no There is still a separation of this like a little island thing.
+
+441
+00:33:22,240 --> 00:33:27,200
+Rym: Yeah, but it's one open room, but I do say I'm in the kitchen if I'm standing in that zone.
+
+442
+00:33:27,704 --> 00:33:29,459
+Scott: So yeah, but it's a separated zone.
+
+443
+00:33:30,203 --> 00:33:43,691
+Rym: so the word that was used in English was Hall and That's where Hall came from because Hall over time in English evolved to mean Every place that is not a room in a structure.
+
+444
+00:33:43,711 --> 00:33:44,654
+Rym: Mm-hmm.
+
+445
+00:33:44,735 --> 00:33:45,878
+Rym: And that's where that word came from.
+
+446
+00:33:46,924 --> 00:33:48,414
+Scott: But there's also like the Great Hall.
+
+447
+00:33:48,434 --> 00:33:54,606
+Scott: Yeah Hall is a kind of room as well Yeah, but a great Hall.
+
+448
+00:33:54,887 --> 00:33:58,059
+Rym: early buildings were just halls or great halls.
+
+449
+00:33:58,934 --> 00:33:59,118
+Scott: Yeah.
+
+450
+00:34:00,605 --> 00:34:01,009
+Scott: So what do you got?
+
+451
+00:34:01,049 --> 00:34:01,614
+Scott: omology?
+
+452
+00:34:01,816 --> 00:34:07,851
+Scott: Yeah all right, so There are a lot of websites out there like what is it?
+
+453
+00:34:08,150 --> 00:34:10,980
+Scott: What's the one that discord uses the tenor whatever tenor?
+
+454
+00:34:11,739 --> 00:34:30,717
+Scott: Yeah, and then there's a. you know the old giffy cats and then all those ones for finding when you need to search for an animated gif because All the search engine image searches like Google image search they don't do a great job of only searching Meme style animated gifs that you need for your on internet discourse, right?
+
+455
+00:34:31,217 --> 00:34:36,219
+Scott: And so If you want to find those animated gifs you got to use one of those sites.
+
+456
+00:34:36,440 --> 00:34:37,525
+Scott: That's the best way to do it.
+
+457
+00:34:37,625 --> 00:34:41,299
+Scott: And then obviously you save them and build yourself a little collection and you can reuse them.
+
+458
+00:34:42,303 --> 00:34:46,880
+Scott: But what if you want to get even more specific and you're like, I don't know just animated gif?
+
+459
+00:34:47,722 --> 00:34:53,016
+Scott: I want a 90s animated gif like a flaming skull or a dancing baby.
+
+460
+00:34:53,158 --> 00:34:53,880
+Scott: That's all I want.
+
+461
+00:34:53,940 --> 00:34:59,338
+Scott: Yeah, I don't want you know an animated meme style one with some impact text, right?
+
+462
+00:34:59,358 --> 00:35:00,000
+Scott: That's all huge.
+
+463
+00:35:00,322 --> 00:35:01,573
+Scott: I want old style only.
+
+464
+00:35:02,138 --> 00:35:16,817
+Scott: well Somebody made gif cities org which is powered by the Internet Archive and it allows you to search animated gifs, but only ones that are from backups of Geo cities and so That's it.
+
+465
+00:35:17,807 --> 00:35:21,967
+Scott: If you if you need that kind of gif This is where you could find that kind of gif.
+
+466
+00:35:22,388 --> 00:35:31,805
+Rym: the best part about this is that they use the gifs in the actual website that search button in the search bar and The spinning Internet Archive.
+
+467
+00:35:32,146 --> 00:35:37,823
+Rym: this whoever made this is our kind of people like the team that made this know What's up?
+
+468
+00:35:38,606 --> 00:35:39,510
+Scott: I mean, yeah, you wouldn't.
+
+469
+00:35:39,871 --> 00:35:41,960
+Scott: you wouldn't make this if you were it didn't know it's.
+
+470
+00:35:43,364 --> 00:35:45,520
+Rym: If I was involved in the site it would be on my resume.
+
+471
+00:35:47,322 --> 00:35:50,820
+Rym: In the moment the GeekNights book club book is the night a short walk on girl.
+
+472
+00:35:51,301 --> 00:35:55,012
+Rym: I have paused my reading of it until Scott admits that he has resumed reading it.
+
+473
+00:35:55,473 --> 00:35:56,135
+Scott: No, I will.
+
+474
+00:35:56,235 --> 00:35:57,840
+Scott: I have not resumed reading it.
+
+475
+00:35:57,860 --> 00:36:00,586
+Rym: Yeah, okay Well, I will paw.
+
+476
+00:36:00,646 --> 00:36:03,634
+Rym: I will continue to remain paused at about 45 44 or 45 percent of my way through the book.
+
+477
+00:36:06,381 --> 00:36:12,002
+Rym: Otherwise, we will be live at PAX East with two panels on Sunday at 2 30 and at 4 30.
+
+478
+00:36:12,002 --> 00:36:13,193
+Rym: We've already posted the schedule.
+
+479
+00:36:13,254 --> 00:36:13,860
+Rym: We will be there.
+
+480
+00:36:14,201 --> 00:36:17,552
+Rym: We will most likely be enforcing as well and just hanging out at PAX.
+
+481
+00:36:17,612 --> 00:36:20,180
+Rym: So if you're there you see us say hi.
+
+482
+00:36:20,321 --> 00:36:27,169
+Rym: I don't know if we'll play a game with you But we'll at least say hi and Scott might hand you a geek night sticker The only rule of the night sticker.
+
+483
+00:36:27,189 --> 00:36:28,717
+Scott: they cost me like a dollar each.
+
+484
+00:36:28,737 --> 00:36:29,380
+Scott: Should we sell them?
+
+485
+00:36:29,500 --> 00:36:32,525
+Scott: I don't think anyone would be willing to pay a dollar for one though I have people.
+
+486
+00:36:32,585 --> 00:36:34,840
+Rym: every now and then someone buys one of the old GeekNights t-shirts.
+
+487
+00:36:36,401 --> 00:37:08,040
+Rym: So there's a Supreme Court case that's being debated right now in America and it's it's a thorny one, but not for any good reason because it is like such a fiddly legalistic fight over some very particular concepts in American law and we're not going to talk about The law so much in the nuances here, but the actual issue and the issue Is so stupid but at the same time it kind of is at the core of every a lot of the things that are going wrong with the modern social media landscape.
+
+488
+00:37:08,705 --> 00:37:24,220
+Rym: So back in 2022 Some guy who was being a prick in a Star Trek subreddit Violated their be nice rule by calling a character in a Star Trek series a quote soy boy.
+
+489
+00:37:25,422 --> 00:37:29,637
+Rym: So the mods ban that user from that subreddit.
+
+490
+00:37:29,958 --> 00:37:30,279
+Rym: That's it.
+
+491
+00:37:30,982 --> 00:37:39,291
+Rym: this fucker has sued all the way to the Supreme Court and Texas has Basically use the Supreme Court granted cert to listen to this.
+
+492
+00:37:39,531 --> 00:37:40,915
+Rym: Oh, yeah, they're debating it right now.
+
+493
+00:37:40,935 --> 00:37:41,557
+Scott: Uh-huh.
+
+494
+00:37:41,758 --> 00:37:41,978
+Scott: There's
+
+495
+00:37:42,099 --> 00:37:59,245
+Rym: all sorts All sorts of shit going down and basically Texas has a law that says oh You can't ban people from social media at all And the intent of that law is to make sure that racists and conservatives don't get kicked out of online spaces for being shitty Mm-hmm, like.
+
+496
+00:37:59,286 --> 00:38:00,832
+Rym: that's literally the purpose of the law.
+
+497
+00:38:01,193 --> 00:38:02,840
+Rym: Yeah, so the Supreme Court now has to decide.
+
+498
+00:38:03,583 --> 00:38:13,440
+Rym: Can anyone who runs a forum or a Reddit or a subreddit or really anything ever ban anyone for any reason?
+
+499
+00:38:14,600 --> 00:38:14,720
+Scott: Right.
+
+500
+00:38:14,740 --> 00:38:15,563
+Scott: So here's the.
+
+501
+00:38:16,044 --> 00:38:17,930
+Scott: is that the core problem right?
+
+502
+00:38:18,090 --> 00:38:21,280
+Scott: Is that way back in the day when they made the internet?
+
+503
+00:38:21,500 --> 00:38:37,613
+Scott: It's like and people public people started getting access to it and then a lot, you know, DMCA Whatever is section 230 they decided in somewhat common sense that like, alright listen, what if somebody does a child porn on the internet?
+
+504
+00:38:37,954 --> 00:38:38,255
+Scott: right?
+
+505
+00:38:38,637 --> 00:38:43,979
+Scott: or they do a Mmm, you know nuclear weapons plan on the internet?
+
+506
+00:38:44,180 --> 00:38:49,514
+Rym: Yeah, so or even they'd openly and horrifically defame someone.
+
+507
+00:38:49,734 --> 00:38:53,297
+Scott: someone threatens to kill the president on the internet Yeah, something like that.
+
+508
+00:38:53,580 --> 00:38:57,116
+Scott: All right, if someone does some crime because it's like yeah this freedom of speech.
+
+509
+00:38:57,176 --> 00:39:01,134
+Scott: but there's also Crimes right that you can do by sharing.
+
+510
+00:39:01,194 --> 00:39:05,183
+Scott: simply by sharing data It's possible to commit crime like that.
+
+511
+00:39:05,264 --> 00:39:09,229
+Rym: You can't claim freedom of speech when he's literally racketeering someone, right?
+
+512
+00:39:09,509 --> 00:39:21,833
+Scott: So if I make, you know have a computer in my house and I get an internet connection from my ISP and Then I go and I buy some hosting from a data center, right.
+
+513
+00:39:22,235 --> 00:39:29,195
+Scott: and then I put some illegal Services right on that, you know computer that I have rented in the data center.
+
+514
+00:39:30,078 --> 00:39:30,439
+Scott: It's like.
+
+515
+00:39:30,539 --> 00:39:31,362
+Scott: well It's like.
+
+516
+00:39:31,683 --> 00:39:36,220
+Scott: are you gonna say that the ISP should be somewhat responsible for this?
+
+517
+00:39:36,400 --> 00:39:41,420
+Scott: Can they be held liable for these crimes because they they helped in the crimes, right?
+
+518
+00:39:42,361 --> 00:39:46,134
+Scott: And could the data center could they be responsible for the crimes?
+
+519
+00:39:46,274 --> 00:39:47,980
+Scott: and obviously I'm responsible for the crimes.
+
+520
+00:39:48,121 --> 00:39:49,734
+Scott: I cried where that's not in question here.
+
+521
+00:39:49,774 --> 00:39:53,388
+Scott: Yeah, right Should the data center be responsible for the crimes?
+
+522
+00:39:53,468 --> 00:40:00,900
+Scott: and then what if I make a website with crimes and I do have the kind Of crime where anyone who visits the website is also a crime?
+
+523
+00:40:01,201 --> 00:40:12,454
+Scott: Maybe I made an online gambling site and when it's not legal right and someone in another state Visits my website and gambles and we casino ourselves a bit that's against the law.
+
+524
+00:40:12,474 --> 00:40:13,115
+Scott: Yeah, right.
+
+525
+00:40:13,536 --> 00:40:14,840
+Scott: Is that person's ISP?
+
+526
+00:40:15,520 --> 00:40:17,009
+Scott: Responsible is right.
+
+527
+00:40:17,089 --> 00:40:17,733
+Scott: Is that right?
+
+528
+00:40:17,793 --> 00:40:18,940
+Scott: Obviously that person gambled.
+
+529
+00:40:19,060 --> 00:40:20,604
+Scott: But is there ISP?
+
+530
+00:40:20,865 --> 00:40:26,560
+Scott: and what about all the routers and all the networks in between that helped this gambling happen?
+
+531
+00:40:27,101 --> 00:40:27,687
+Scott: Should they?
+
+532
+00:40:27,869 --> 00:40:28,880
+Scott: are they responsible?
+
+533
+00:40:29,700 --> 00:40:31,298
+Scott: Legally in some way?
+
+534
+00:40:32,402 --> 00:40:35,052
+Scott: Can they be in trouble for helping this crime happen?
+
+535
+00:40:35,454 --> 00:40:36,478
+Rym: And so not even a little bit.
+
+536
+00:40:36,498 --> 00:40:37,020
+Rym: What about email?
+
+537
+00:40:37,520 --> 00:40:41,353
+Rym: What if I email someone and commit and use email to commit crimes?
+
+538
+00:40:41,613 --> 00:40:43,500
+Rym: are all the servers that?
+
+539
+00:40:43,740 --> 00:40:46,068
+Rym: Facilitated my email is everyone.
+
+540
+00:40:46,109 --> 00:40:48,035
+Rym: they're now part of this crime like this is.
+
+541
+00:40:48,497 --> 00:40:49,460
+Rym: this isn't a theoretical.
+
+542
+00:40:49,580 --> 00:41:19,340
+Rym: these were questions that had to be addressed because up until that point nothing like the internet had ever existed and things like newspapers required such capital and Like physical spaces like there was so much you had to do to be able to publish anything anywhere or even communicate with anyone except via like the post office that there really wasn't in a Problem with millions and millions of people suddenly doing things all over the internet like not many people could directly use a telegraph.
+
+543
+00:41:19,501 --> 00:41:24,000
+Rym: So even when something squirrelly happened, the legal system could just deal with all these one-offs.
+
+544
+00:41:24,323 --> 00:41:26,319
+Rym: But you can't deal with a million one-offs a day.
+
+545
+00:41:26,921 --> 00:41:46,683
+Scott: Yeah, so and it's also the fact that you know, we wanted people to be able to have internet services for legitimate purposes but if those services had to like Manually check to make sure that every user wasn't criming or right or guarantee that absolutely no crimes happened It would be odd.
+
+546
+00:41:46,724 --> 00:41:51,120
+Scott: It would basically be impossible for anyone to offer internet services to the general public.
+
+547
+00:41:51,160 --> 00:41:59,875
+Scott: You'd only be able to offer them to small numbers of very highly trusted individuals or high resource individuals who could be held liable.
+
+548
+00:42:00,216 --> 00:42:02,081
+Scott: and you couldn't have a Twitter because you Couldn't.
+
+549
+00:42:02,723 --> 00:42:09,167
+Scott: no one would make a web service that just lets people post shit because you would go to jail right away as soon as Posted something bad.
+
+550
+00:42:09,187 --> 00:42:10,274
+Rym: There would be no forums.
+
+551
+00:42:10,294 --> 00:42:11,240
+Rym: There would be no IRC.
+
+552
+00:42:11,622 --> 00:42:14,880
+Rym: Almost everything good about the entire internet would have never existed.
+
+553
+00:42:15,282 --> 00:42:31,905
+Scott: So the law that they came up with and I could tell you all the details of the law because I'm not a lawyer But the summary of the law is basically section 230 Which is you're not responsible when you're the platform a certain internet service provider a digital Systems service provider.
+
+554
+00:42:32,426 --> 00:42:40,466
+Scott: you're not responsible for people who use your system for crimes as long as you do a a reasonable amount.
+
+555
+00:42:40,687 --> 00:42:55,065
+Scott: right like, you know, if you make a YouTube and people post a child porn as long as you're doing a You know, you're trying to get rid of it in a reasonable way and you're not just being like oops I can't filter at all.
+
+556
+00:42:55,125 --> 00:42:57,875
+Scott: Look at all the child porns on my YouTube, right?
+
+557
+00:42:58,136 --> 00:43:01,068
+Scott: Then it's like, alright You can keep being YouTube, right?
+
+558
+00:43:01,088 --> 00:43:03,780
+Scott: So as long as Google I think does a pretty damn good job.
+
+559
+00:43:04,182 --> 00:43:05,851
+Scott: Have you seen any child porns on YouTube?
+
+560
+00:43:05,931 --> 00:43:06,333
+Scott: I haven't.
+
+561
+00:43:06,615 --> 00:43:10,120
+Scott: I haven't looked for it But it doesn't show up randomly, right?
+
+562
+00:43:11,747 --> 00:43:19,740
+Scott: you know, so That's why Google doesn't go to jail Even though I'm sure people try to upload that kind of shit to Google every fucking day.
+
+563
+00:43:19,880 --> 00:43:25,360
+Scott: People are probably uploading, you know, all sorts of vile and illegal crap to YouTube on a constant basis.
+
+564
+00:43:25,926 --> 00:43:34,560
+Scott: Google doesn't go to jail Because of this law and therefore YouTube continues to exist for the rest of us using it for decent and legal purposes.
+
+565
+00:43:35,022 --> 00:43:47,908
+Rym: So to read the text of section 230 the important bit because it's very short There's gonna be a word in this sentence that hits the crux of why this is so challenging now and why the Supreme Court is involved.
+
+566
+00:43:48,429 --> 00:43:50,054
+Rym: quotes from 47 USC.
+
+567
+00:43:50,094 --> 00:44:06,600
+Rym: section 230 C 1. no provider or user of an interactive computer service shall be treated as the publisher or Speaker of any information provided by another information content provider.
+
+568
+00:44:07,324 --> 00:44:18,099
+Rym: So if you post something on the GeekNights forum We may have a forum but you are the content provider and we are not treated as the publisher of you.
+
+569
+00:44:18,741 --> 00:44:22,617
+Rym: So if you post some illegal shit, we're not the publisher.
+
+570
+00:44:22,718 --> 00:44:23,160
+Rym: you are.
+
+571
+00:44:23,481 --> 00:44:29,720
+Rym: You're the one who gets fucked and you know what when the police come and ask for you As long as we delete it and take reasonable measures.
+
+572
+00:44:29,907 --> 00:44:32,743
+Rym: Yeah like if the case the cops come and they're like Yo who posted this.
+
+573
+00:44:33,285 --> 00:44:37,257
+Rym: if it's something illegal that I disagreed with I would absolutely give them your IP address.
+
+574
+00:44:37,277 --> 00:44:37,598
+Rym: Fuck you.
+
+575
+00:44:37,618 --> 00:44:38,060
+Scott: That's right.
+
+576
+00:44:39,001 --> 00:44:41,692
+Scott: But if I were to you know, the old way, right?
+
+577
+00:44:41,712 --> 00:44:43,520
+Scott: Let's say that the New York Times.
+
+578
+00:44:44,082 --> 00:44:49,360
+Scott: Let's say I was a writer for the New York Times and I wrote something that was somehow illegal.
+
+579
+00:44:49,581 --> 00:44:53,014
+Scott: Even with freedom was even with the First Amendment what I write is still illegal.
+
+580
+00:44:53,054 --> 00:44:53,736
+Scott: It's that bad.
+
+581
+00:44:53,837 --> 00:45:01,478
+Scott: It's that you know Wrong and the New York Times puts it on the front page or even the back page or the middle page or a tiny classified ad.
+
+582
+00:45:02,443 --> 00:45:03,596
+Scott: They're still in trouble for that.
+
+583
+00:45:04,704 --> 00:45:12,640
+Scott: Right because that's not how other things that aren't the internet work Because they dare have a person choosing what to publish and what not to publish.
+
+584
+00:45:12,700 --> 00:45:17,634
+Scott: They aren't just take automatically taking submissions automatically publishing of everything all.
+
+585
+00:45:17,654 --> 00:45:22,270
+Rym: now if we applied our Cars allowed in the park to the topic.
+
+586
+00:45:22,290 --> 00:45:31,438
+Rym: We're about to talk about which is content moderation Then there's a pretty good consensus among reasonable people as to how this should work.
+
+587
+00:45:31,899 --> 00:45:36,830
+Rym: However Essentially and again everything everything's the same issue in America.
+
+588
+00:45:37,131 --> 00:45:50,740
+Rym: It comes down to the Republican Party because the issue is conservatives racists and shitheads are Extremely mad that they have been kicked out of the places where they've been annoying people that are privately run.
+
+589
+00:45:51,362 --> 00:45:53,189
+Rym: So like Twitter would ban racist.
+
+590
+00:45:53,691 --> 00:45:55,900
+Rym: They don't really anymore, but that's a whole other conversation.
+
+591
+00:45:56,281 --> 00:45:57,505
+Rym: Reddit will ban racist.
+
+592
+00:45:57,665 --> 00:46:00,313
+Rym: lots of platforms will ban racist the GeekNights forum.
+
+593
+00:46:00,393 --> 00:46:27,820
+Rym: You're banned if you post something racist, so if you make Discretionary judgments as to what content is allowed Beyond those basics of doing minimal due diligence around specifically illegal things then Republicans are arguing you are now a publisher exercising editorial control and Therefore you can't discriminate against information and then they make this ridiculous and tortured First Amendment case.
+
+594
+00:46:28,061 --> 00:46:40,040
+Rym: They're basically arguing you cannot allow content moderation at all Unless you are taking full responsibility for being the publisher of all content on your service, right?
+
+595
+00:46:40,080 --> 00:46:42,027
+Scott: Well, forget about what the law says right.
+
+596
+00:46:42,368 --> 00:46:44,838
+Scott: the question is if you're an editor, right?
+
+597
+00:46:45,660 --> 00:46:49,712
+Scott: If you are taking editorial control over what is published, right?
+
+598
+00:46:50,214 --> 00:46:51,377
+Scott: Are you then the speaker?
+
+599
+00:46:51,517 --> 00:46:53,384
+Scott: and it's basically sort of.
+
+600
+00:46:53,424 --> 00:47:09,800
+Scott: the answer is actually yes, right because if you have a website and You know people upload videos and you choose which videos go on the home page and you choose I don't know some freaking snuff film or some other actually illegal film of some kind.
+
+601
+00:47:10,142 --> 00:47:12,403
+Scott: right It's like.
+
+602
+00:47:12,864 --> 00:47:17,560
+Scott: well, it's like yeah, someone else uploaded that when you didn't control that part, right?
+
+603
+00:47:17,620 --> 00:47:24,680
+Scott: So we're not gonna hold you responsible for that, but you chose to put that illegal shit on your home page on purpose.
+
+604
+00:47:25,302 --> 00:47:27,649
+Scott: So now you are responsible right for that, right?
+
+605
+00:47:27,689 --> 00:47:30,858
+Scott: It's like, you know, I don't know how what level of responsibility?
+
+606
+00:47:30,878 --> 00:47:33,024
+Scott: that doesn't matter But just morally speaking.
+
+607
+00:47:33,365 --> 00:47:40,205
+Rym: Yeah, you can't think about the old times this this works with the common law of all American history And much of European history.
+
+608
+00:47:40,766 --> 00:47:48,107
+Rym: if I'm the editor-in-chief of a big newspaper and I put just a straight Defamation on the front page of the paper.
+
+609
+00:47:48,127 --> 00:47:51,780
+Rym: I'm going down and so is the newspaper, right?
+
+610
+00:47:52,261 --> 00:47:55,539
+Scott: So we need to have that part in there, right?
+
+611
+00:47:56,340 --> 00:47:57,746
+Scott: Otherwise, right?
+
+612
+00:47:57,947 --> 00:48:04,760
+Scott: It's it's just not gonna work because people will just be like, haha I will editorially put all the criminal shit on my home page.
+
+613
+00:48:05,101 --> 00:48:13,760
+Scott: People keep uploading it and I'm making a website that lists criminal shit of the day But same time I get away with it and all those people who you have to go after them.
+
+614
+00:48:13,840 --> 00:48:35,072
+Rym: You can't come after me, but basically conservatives and Nazis are all arguing fairly effectively unfortunately in courts around America that if you exercise even the barest hint of anything that even remotely is adjacent to the general vicinity of Editorial then you're responsible, right?
+
+615
+00:48:35,092 --> 00:48:44,212
+Scott: So up until this point the way that every social network and media type website platform has worked around this thing right.
+
+616
+00:48:44,834 --> 00:48:48,971
+Scott: this situation is to have Basically an algorithm.
+
+617
+00:48:49,132 --> 00:48:50,800
+Scott: do the editorial izing, right?
+
+618
+00:48:51,100 --> 00:48:56,849
+Scott: They're like look a human isn't deciding what to what to choose and select to promote.
+
+619
+00:48:57,069 --> 00:48:58,893
+Scott: or you know Trending or whatever.
+
+620
+00:48:59,054 --> 00:49:03,407
+Scott: Yeah, we have this completely neutral algorithm that works on this math, right?
+
+621
+00:49:03,508 --> 00:49:14,406
+Scott: It may be public It may not be depending on the website, but it hasn't been hard-coded to be like, you know If Nazi don't show it it's saying like hey if it has the most links show it.
+
+622
+00:49:14,446 --> 00:49:16,476
+Scott: or if it has the most views Show it.
+
+623
+00:49:16,496 --> 00:49:22,800
+Scott: or you know some sort of other impartial algorithm is deciding what to show and not a human.
+
+624
+00:49:23,181 --> 00:49:55,257
+Scott: and therefore we have the effect of Curation editorial ization that we want to to sort of help users discover right content that other users have posted but no actual editorial input is happening and so we are still not legally responsible for The editorial things that the algorithm is doing and in fact The algorithm has things in it to get rid of the illegal parts and that's our you know Best effort to get rid of the illegal parts.
+
+625
+00:49:55,317 --> 00:49:55,958
+Scott: so you can't.
+
+626
+00:49:56,440 --> 00:49:58,826
+Rym: but here's the crux is it?
+
+627
+00:49:59,167 --> 00:50:00,430
+Rym: should it be editorial now?
+
+628
+00:50:00,510 --> 00:50:01,314
+Rym: The answer is clearly no.
+
+629
+00:50:01,675 --> 00:50:04,669
+Rym: like editorial should be a high bar as opposed to a low bar.
+
+630
+00:50:05,192 --> 00:50:09,349
+Rym: There's got to be another category in the middle because that's the reasonable way to go.
+
+631
+00:50:10,575 --> 00:50:18,424
+Rym: If you don't want racists posting on your forum Are you exercising editorial control if you ban them or delete their posts?
+
+632
+00:50:18,665 --> 00:50:22,129
+Rym: because being racist is not strictly Illegal in that context?
+
+633
+00:50:22,932 --> 00:50:23,842
+Rym: Obviously, that's stupid.
+
+634
+00:50:24,105 --> 00:50:34,050
+Rym: Obviously private social media networks and private places and forums should be allowed to pretty much arbitrarily moderate their own communities.
+
+635
+00:50:34,433 --> 00:50:47,068
+Rym: however, the hell they want and separately they should still get section 230 protections as long as they do due diligence on the curation or response to obvious crimes that are happening.
+
+636
+00:50:47,088 --> 00:51:00,009
+Rym: and obviously Moderation is totally okay and editorial is a much higher bar around like Choosing to publish specific content and there's definitely a place we could set that line.
+
+637
+00:51:03,212 --> 00:51:07,684
+Scott: Yes, the common sense thing was that the section 230 is only about crimes.
+
+638
+00:51:07,844 --> 00:51:09,488
+Scott: right it's like our crimes happening.
+
+639
+00:51:09,609 --> 00:51:14,250
+Scott: and then it's like Okay, then the question of well, what about all the things that aren't crimes?
+
+640
+00:51:14,430 --> 00:51:21,370
+Scott: It's like well, it's just speech in a private place and whoever owns that place can regulate it any way they want.
+
+641
+00:51:21,614 --> 00:51:26,061
+Scott: Yeah, right You know as long as they do it in a in a.
+
+642
+00:51:26,081 --> 00:51:28,150
+Rym: yeah, but look at what happened.
+
+643
+00:51:28,391 --> 00:51:43,970
+Rym: it conservative sued social media networks in America to the point that many of them have suspended or Disabled many of their previous auto moderation policies or have stopped dialogues with the US Department of Justice around Stopping the spread of misinformation.
+
+644
+00:51:44,454 --> 00:51:45,240
+Rym: The Texas law.
+
+645
+00:51:45,260 --> 00:51:46,269
+Rym: that's his issue right now.
+
+646
+00:51:46,811 --> 00:52:00,470
+Rym: The law actually says it is illegal to bar someone from posting to social media based on their political Ideology, so they basically literally passed a law that says you can't kick a Nazi out of your platform.
+
+647
+00:52:01,251 --> 00:52:04,818
+Scott: Yeah, so regardless of any of these laws, right it?
+
+648
+00:52:04,959 --> 00:52:08,317
+Scott: the question is What is what is right here?
+
+649
+00:52:08,558 --> 00:52:08,798
+Scott: Right?
+
+650
+00:52:08,819 --> 00:52:11,930
+Scott: It's like, you know, how can we create a world right where?
+
+651
+00:52:12,732 --> 00:52:17,930
+Scott: The mass populace still has this, you know, incredible ability to post things online.
+
+652
+00:52:18,410 --> 00:52:32,103
+Scott: Right because the vast majority of people are just posting photos of their babies or whatever right and and saying hi to their grandma And Also, keep it a safe place right at the same time.
+
+653
+00:52:32,344 --> 00:52:35,516
+Scott: Yeah, and still have All these.
+
+654
+00:52:36,259 --> 00:52:39,470
+Rym: but freedom of speech very much is a the government can't restrict you.
+
+655
+00:52:39,550 --> 00:52:42,521
+Scott: Yeah, the government isn't restricting you in any way.
+
+656
+00:52:43,063 --> 00:52:44,910
+Scott: it's that the social network is right.
+
+657
+00:52:44,950 --> 00:52:46,518
+Rym: Yeah, so they're almost doing the opposite.
+
+658
+00:52:46,539 --> 00:52:53,350
+Rym: There's a lot of the they're pushing for restricting you from restricting other people on private platforms.
+
+659
+00:52:55,192 --> 00:53:04,782
+Rym: so, you know, I just had an idea thinking back to our cars allowed in the park a Possible way to deal with this in any given community.
+
+660
+00:53:05,083 --> 00:53:12,307
+Rym: or if you wanted to make a semi centralized Block a bad content system forgetting all the laws and everything make a little system.
+
+661
+00:53:12,368 --> 00:53:20,100
+Rym: that takes somewhat redacted posts from various platforms that have opted into this program and a community of people will see them.
+
+662
+00:53:20,120 --> 00:53:23,658
+Rym: and much like Cars aren't allowed in the park.
+
+663
+00:53:24,160 --> 00:53:26,230
+Rym: This one is should this person be banned?
+
+664
+00:53:26,930 --> 00:53:40,169
+Rym: should this post be deleted and you see where the consensus points are for a given community and You set your moderation and you set your blocking and you set your rules for kicking people out At some threshold based on that data?
+
+665
+00:53:41,072 --> 00:53:50,745
+Rym: that's a good way to be not pure editorial in that you have a heuristic or an algorithm or a process to follow whereas Editorial tends to imply again.
+
+666
+00:53:50,785 --> 00:54:05,310
+Rym: I'm not a lawyer I'm just paraphrasing people I've talked to in the past who know more about this that the editorial is more about the active Specific intention to highlight or raise the profile of specific individual content at the discretion of a person or a board.
+
+667
+00:54:06,491 --> 00:54:08,416
+Rym: By diffusing responsibility you get around that.
+
+668
+00:54:08,436 --> 00:54:16,020
+Scott: well, I mean, you know, the the other argument right is like hey, you know you are Sort of exerting editorial control.
+
+669
+00:54:16,140 --> 00:54:17,445
+Scott: you said no Nazis.
+
+670
+00:54:17,465 --> 00:54:18,650
+Scott: That's not illegal, right?
+
+671
+00:54:18,790 --> 00:54:23,390
+Scott: You are controlling with your algorithm or manually with those algorithms are definitely curating.
+
+672
+00:54:23,551 --> 00:54:26,084
+Rym: I'd say right to say that you write and could an editorial.
+
+673
+00:54:26,164 --> 00:54:33,570
+Scott: I think you are distinct Yeah, but you could you know, you could say hey you clearly are demonstrating that you are choosing Google Google.
+
+674
+00:54:33,670 --> 00:54:36,920
+Scott: You are choosing by some method what goes on your homepage, right?
+
+675
+00:54:37,541 --> 00:54:40,570
+Scott: And it's like that's not the illegal part, right?
+
+676
+00:54:40,930 --> 00:54:41,954
+Scott: You know Texas law.
+
+677
+00:54:42,034 --> 00:54:42,957
+Scott: forget about that, right?
+
+678
+00:54:43,017 --> 00:54:46,147
+Scott: It's like there's nothing illegal about choosing what goes on your homepage.
+
+679
+00:54:46,207 --> 00:54:47,190
+Scott: It's a private website.
+
+680
+00:54:47,250 --> 00:54:48,396
+Scott: It's a private corporation.
+
+681
+00:54:48,456 --> 00:54:49,903
+Scott: You choose what goes on your homepage.
+
+682
+00:54:50,205 --> 00:54:59,590
+Scott: That's not a crime but if crime goes on to your YouTube you are responsible because you demonstrated that you have the power to prevent it, right?
+
+683
+00:54:59,630 --> 00:55:09,510
+Rym: That's a false argument from a lot of conservatives though because the ability to curate up to an extent Does definitely the fact that if you curate it all now you're on the hook for everything.
+
+684
+00:55:09,851 --> 00:55:24,030
+Scott: Something's gonna slip through like it's not technologically feasible without exactly it is that there's this conflict between you know what laws people are able to think of right and You know, what lines are possible to be drawn?
+
+685
+00:55:24,931 --> 00:55:28,383
+Scott: What is and what is technologically possible to do.
+
+686
+00:55:28,543 --> 00:55:39,277
+Scott: and so what happens is basically I Think almost any law that you could come up with or at least that anyone has come up with up that is too far away From the law that we have in.
+
+687
+00:55:39,659 --> 00:55:45,823
+Scott: you know in most of the world, you know right now or at least I guess some places in the world requires extra scrutiny perhaps.
+
+688
+00:55:45,864 --> 00:55:46,044
+Scott: Yeah.
+
+689
+00:55:46,466 --> 00:55:54,067
+Scott: Well, no, but You know, you know places like you, you know free speech kind of places in the world Because obviously in China the law isn't like this.
+
+690
+00:55:55,491 --> 00:56:05,030
+Scott: But if the law goes too far away from what section 230 is Right, you basically end up in one of two scenarios very quickly, right?
+
+691
+00:56:05,110 --> 00:56:17,679
+Scott: you either end up in the scenario where no one can operate an online platform because They'll be responsible for all the crimes that happen on it or and nobody Because every one of them is full of Nazis, right?
+
+692
+00:56:17,879 --> 00:56:18,300
+Scott: Exactly.
+
+693
+00:56:18,340 --> 00:56:21,530
+Scott: So it's like how you've got to right now.
+
+694
+00:56:21,610 --> 00:56:24,601
+Scott: We have a line right that lets us live.
+
+695
+00:56:24,841 --> 00:56:25,604
+Scott: It's not perfect.
+
+696
+00:56:25,664 --> 00:56:31,509
+Scott: It's got a lot of fucked-up problems You know, there's plenty of legitimate criticism of the situation we have now.
+
+697
+00:56:31,710 --> 00:56:43,507
+Scott: Yeah, but if you deviate a little bit if you say, okay companies are gonna actually be responsible for crimes Sometimes all those companies might just say okay Well, we can't be letting you.
+
+698
+00:56:43,527 --> 00:56:56,334
+Scott: you know I can't operate a service or random people can upload whatever the fuck they want and post whatever the fuck they want Because I might go to jail or have be busting disappear almost every podcast and so Disappears, right?
+
+699
+00:56:56,354 --> 00:57:04,318
+Scott: So every single web service or internet service that lets users post publish things We'll just say nope immediately.
+
+700
+00:57:04,358 --> 00:57:05,100
+Scott: No more publishing.
+
+701
+00:57:05,401 --> 00:57:06,586
+Scott: No one can post on Facebook.
+
+702
+00:57:06,806 --> 00:57:07,830
+Scott: No one can upload to YouTube.
+
+703
+00:57:08,171 --> 00:57:17,138
+Scott: No one can do anything except for highly trusted individuals and the internet will just be like newspapers where a few gatekeepers Decide what can be posted and that's the end of it.
+
+704
+00:57:17,539 --> 00:57:19,166
+Scott: and if you go too far the other way or say, right?
+
+705
+00:57:20,710 --> 00:57:25,143
+Scott: Oh, you know, you can only be safe if you let whatever happen.
+
+706
+00:57:25,524 --> 00:57:26,908
+Scott: as long as you let whatever happen.
+
+707
+00:57:27,148 --> 00:57:27,610
+Scott: You're safe.
+
+708
+00:57:28,051 --> 00:57:35,699
+Scott: Well, then everyone and everyone will post anything and anything and not everywhere because they're Destroy every community.
+
+709
+00:57:36,103 --> 00:57:36,910
+Rym: So you gave me an idea.
+
+710
+00:57:37,030 --> 00:57:41,530
+Rym: So I got a. you know, there's the there's the tradition of the Scott kind of idea got a Rym kind of idea.
+
+711
+00:57:41,610 --> 00:57:44,789
+Rym: I think I actually have a framework for what a law could look like.
+
+712
+00:57:45,230 --> 00:57:50,044
+Rym: so first off we need to define that editorial is a capital E term.
+
+713
+00:57:50,084 --> 00:57:59,710
+Rym: that means something a little more narrow and that When in doubt unless something is affirmatively determined in the courts to be editorial then it is assumed not to be editorial.
+
+714
+00:57:59,791 --> 00:57:59,892
+Rym: Like.
+
+715
+00:57:59,913 --> 00:58:01,108
+Rym: that's one step we could take.
+
+716
+00:58:01,491 --> 00:58:03,679
+Rym: Editorial has to be a high bar instead of a low bar.
+
+717
+00:58:04,061 --> 00:58:06,309
+Rym: that would give us a lot of wiggle room to sort out the rest.
+
+718
+00:58:08,192 --> 00:58:25,870
+Rym: - I think We should say that You you get safe harbor, even if you curate even if you moderate and even if you even highlight certain content, however, you separate the difference between positive and negative curation.
+
+719
+00:58:26,271 --> 00:58:33,892
+Rym: so you can never get in trouble for refusing to let something be on your platform or banning someone from your platform if It's private.
+
+720
+00:58:34,353 --> 00:58:37,263
+Rym: but and you also you can highlight things.
+
+721
+00:58:37,323 --> 00:58:43,703
+Rym: you can use algorithms or humans or whatever to Highlight and curate content that gets say promoted or shown on the front page or whatever.
+
+722
+00:58:44,165 --> 00:58:50,090
+Rym: However, if you Positively curate something that is illegal then you get in trouble.
+
+723
+00:58:51,611 --> 00:59:03,299
+Rym: So negative curation full safe harbor positive curation the things that were highlighted those edge into like lower Lower KC editorial and you could be liable for some damages.
+
+724
+00:59:03,660 --> 00:59:15,707
+Rym: and that if you reach the bar of uppercase C editorial like the editor-in-chief personally Approved with his own authority this article about a super defamation thing being on the front page then yeah, you're super fucked.
+
+725
+00:59:16,770 --> 00:59:17,541
+Scott: I Think there's a few.
+
+726
+00:59:17,643 --> 00:59:19,594
+Scott: there's a few Situations that could work.
+
+727
+00:59:19,654 --> 00:59:21,298
+Scott: That's one possibility right?
+
+728
+00:59:21,679 --> 00:59:27,533
+Scott: Another possibility is you just say yeah, actually if you are doing editorial you aren't.
+
+729
+00:59:27,553 --> 00:59:29,799
+Scott: yeah, you are responsible right fuck you.
+
+730
+00:59:29,919 --> 00:59:34,730
+Scott: and we basically force right to still keep the ability of anyone to publish things.
+
+731
+00:59:35,513 --> 00:59:36,337
+Rym: You know what that means.
+
+732
+00:59:36,377 --> 00:59:44,572
+Rym: that means Twitter would be forced to be a chronile Chronological timeline of only the people you subscribe to know because everything else curation know.
+
+733
+00:59:44,692 --> 00:59:48,264
+Scott: what you could do is you could basically force a separation of concerns.
+
+734
+00:59:48,345 --> 01:00:02,024
+Scott: right if I host a website a Platform that merely lets people upload videos and those videos now have URLs and I don't do anything else I don't make a home page that tries to suggest videos to you.
+
+735
+01:00:02,104 --> 01:00:03,810
+Scott: I don't have a subscription page.
+
+736
+01:00:03,931 --> 01:00:04,977
+Scott: I don't have any of those things.
+
+737
+01:00:05,339 --> 01:00:07,130
+Scott: No, there is no feed at all.
+
+738
+01:00:07,271 --> 01:00:07,634
+Scott: It's just.
+
+739
+01:00:08,038 --> 01:00:09,229
+Scott: you can upload videos here.
+
+740
+01:00:09,894 --> 01:00:16,101
+Scott: And if someone else wants to you know Make a web page a different company a different a human or whatever.
+
+741
+01:00:16,362 --> 01:00:19,070
+Scott: that says here's links to the hot YouTube videos of the day.
+
+742
+01:00:19,771 --> 01:00:21,556
+Scott: Right, then that's a separate.
+
+743
+01:00:21,596 --> 01:00:23,160
+Scott: their editorial izing right?
+
+744
+01:00:23,340 --> 01:00:29,418
+Scott: They're responsible for what they choose to list right and and right Indicate is worth watching.
+
+745
+01:00:29,438 --> 01:00:30,925
+Scott: They're doing editorial work over there.
+
+746
+01:00:31,005 --> 01:00:37,125
+Scott: I'm not I'm just hosting Upload videos, I'm not responsible for the videos that people upload.
+
+747
+01:00:37,446 --> 01:00:53,323
+Rym: I think that's a fair direction, but I do think editorial has to be a special word with a higher bar that it has today and there needs to be a class even in the framework you describe of something that is between editorial and free for all.
+
+748
+01:00:54,255 --> 01:00:58,758
+Scott: hmm It's not bad But yeah, it's generally.
+
+749
+01:00:58,778 --> 01:01:00,709
+Scott: it's like hey, how can we?
+
+750
+01:01:00,890 --> 01:01:18,122
+Scott: Right, let anyone who you know have the ability because otherwise right you get into the situation where the only people who will be able to post things are people who have You know financial resources technological resources And educational resources, right?
+
+751
+01:01:18,142 --> 01:01:33,520
+Scott: They know how to deploy Internet infrastructure of some kind right on their own and that you know, what some people You know who are you know, like us I guess who were on the internet in the old days Might actually say yes, let's do that because you know what?
+
+752
+01:01:33,580 --> 01:01:36,910
+Scott: That's what the old internet was only the BBS's, right?
+
+753
+01:01:36,990 --> 01:01:39,741
+Scott: They talk about the eternal September before AOL.
+
+754
+01:01:39,781 --> 01:01:47,170
+Scott: let everyone on there and they're like, ah Yes The golden days when only us ivory tower people who knew how to use a computer and had money.
+
+755
+01:01:47,572 --> 01:01:50,449
+Scott: We're in these discussion forums and no one else was here.
+
+756
+01:01:50,650 --> 01:01:55,250
+Rym: But then we never get to share the fruits of the internet with the rest of humanity.
+
+757
+01:01:55,913 --> 01:02:01,864
+Scott: Yep, everyone else is just posed right and it becomes this Just you know, so you can't.
+
+758
+01:02:01,904 --> 01:02:06,705
+Scott: you can't be having that Even though there are a lot of people who I think do want that.
+
+759
+01:02:06,906 --> 01:02:09,816
+Scott: they want to go back Right, they want to have the internet.
+
+760
+01:02:09,836 --> 01:02:14,310
+Scott: just be for this elite class of you know, technologically superior people.
+
+761
+01:02:14,512 --> 01:02:16,270
+Rym: What is really sad though?
+
+762
+01:02:16,370 --> 01:02:20,850
+Rym: Is that the into almost every I was digging through all the court cases around this around America?
+
+763
+01:02:21,230 --> 01:02:22,899
+Rym: Because the EFF has plenty of guides.
+
+764
+01:02:22,980 --> 01:02:27,773
+Rym: I'm gonna link to some so you can look at them Pretty much.
+
+765
+01:02:27,813 --> 01:02:32,290
+Rym: the only people making this a problem are right-wing nutjobs who are mad that they're being banned from platforms.
+
+766
+01:02:33,351 --> 01:02:33,813
+Rym: Yeah, that is.
+
+767
+01:02:33,954 --> 01:02:38,510
+Rym: almost every single case around section 230 is right-wing nutjobs mad.
+
+768
+01:02:38,832 --> 01:02:41,989
+Rym: That's something like a subreddit kicked them off for being a piece of shit.
+
+769
+01:02:47,492 --> 01:02:50,262
+Rym: This has been GeekNights with Rym and Scott special.
+
+770
+01:02:50,282 --> 01:02:52,430
+Rym: Thanks to DJ pretzel for the opening theme.
+
+771
+01:02:52,630 --> 01:02:54,958
+Scott: Be sure to visit our website at front row.
+
+772
+01:02:54,998 --> 01:02:58,650
+Scott: clue calm for show notes discussion links and more.
+
+773
+01:02:59,132 --> 01:03:01,822
+Rym: Remember GeekNights is not one but four different shows.
+
+774
+01:03:02,124 --> 01:03:03,690
+Rym: Mondays are science and technology.
+
+775
+01:03:03,810 --> 01:03:05,577
+Rym: Tuesdays gaming and games.
+
+776
+01:03:05,697 --> 01:03:07,503
+Rym: Wednesdays are animation and comics.
+
+777
+01:03:07,824 --> 01:03:10,353
+Rym: Thursdays are arbitrary and Indiscriminate.
+
+778
+01:03:10,956 --> 01:03:15,934
+Rym: GeekNights is distributed under a Creative Commons attribution 4.0 International license.
+
+779
+01:03:16,336 --> 01:03:20,650
+Scott: GeekNights is recorded live with no studio and no audience.
+
+780
+01:03:21,151 --> 01:03:24,662
+Scott: But unlike those other late shows it's actually recorded at night.
+
+781
+01:03:25,323 --> 01:03:38,970
+Rym: and the patreon patrons for this episode of GeekNights Sorry, Alan Joyce, Link, Eiji, Dre, Lily, Tenebrae, KS Care, Mixed Music, Kristin, Otter, Christopher, Clinton, Walton, Finn, Joel Hayes, Penny, Ryan, Rebecca, Jim, Sam, Erickson, Trevor, Matt, Horrell And a bunch of people who do not want me to say their names tonight.
+
+782
+01:03:41,660 --> 01:03:55,560
+Rym: Dear Sarah, the indications are very strong that I shall attempt re-entry tomorrow and Lest I shall not be able to write you again I feel impelled to write a few lines that they may fall under your eye when I am no more.
+
+783
+01:03:58,034 --> 01:03:59,769
+Rym: It sure is fucking cold up here.
+
+784
+01:04:00,835 --> 01:04:01,388
+Rym: Yes, sir.
+

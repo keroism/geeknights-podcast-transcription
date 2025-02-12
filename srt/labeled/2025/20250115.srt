@@ -1,0 +1,2424 @@
+1
+00:00:08,220 --> 00:00:10,129
+Rym: It's Wednesday, January 15th, 2025.
+
+2
+00:00:10,129 --> 00:00:10,431
+Rym: I'm Rym.
+
+3
+00:00:13,402 --> 00:00:13,840
+Scott: I'm Scott.
+
+4
+00:00:14,100 --> 00:00:15,485
+Rym: And this is GeekNights Tonight.
+
+5
+00:00:15,505 --> 00:00:20,300
+Rym: We're going to review the Fantastic Four by Ryan North.
+
+6
+00:00:22,362 --> 00:00:23,378
+Scott: Let's do this.
+
+7
+00:00:24,721 --> 00:00:33,880
+Rym: It's been a little bit cold lately, which on one hand, this is the normal weather I expect around this time of year in my life.
+
+8
+00:00:34,422 --> 00:00:38,880
+Rym: But it's based on the current climate after, you know, as climate change has been ravaging the world.
+
+9
+00:00:39,440 --> 00:00:44,300
+Rym: It's effectively unseasonably cold compared to normal due to chaotic weather patterns.
+
+10
+00:00:45,180 --> 00:00:45,260
+Scott: Yeah.
+
+11
+00:00:45,341 --> 00:00:46,184
+Scott: It's like, hey, come on.
+
+12
+00:00:46,344 --> 00:00:50,460
+Scott: The one positive of global warming is that it would be warmer.
+
+13
+00:00:51,101 --> 00:00:53,128
+Scott: But is there less snow?
+
+14
+00:00:53,469 --> 00:00:53,730
+Scott: Yeah.
+
+15
+00:00:53,770 --> 00:00:56,540
+Scott: When I was a kid, there was enough snow to build a snowman.
+
+16
+00:00:56,820 --> 00:00:58,427
+Rym: But I want snow more than I want cold.
+
+17
+00:00:58,468 --> 00:01:01,100
+Rym: If it's like 30 degrees with six feet of snow, that's great.
+
+18
+00:01:01,901 --> 00:01:14,640
+Scott: Anyway, the point is, is that when I was a kid in the same geographic area, there would often be, at least once a year, like blizzards or piles of snow, snow days, snowmen, snow people, right?
+
+19
+00:01:15,540 --> 00:01:15,943
+Scott: Sledding.
+
+20
+00:01:16,467 --> 00:01:18,219
+Scott: We don't get enough snow for that now.
+
+21
+00:01:21,301 --> 00:01:22,363
+Scott: But it's so freaking cold.
+
+22
+00:01:22,423 --> 00:01:23,225
+Scott: It's like, come on.
+
+23
+00:01:23,305 --> 00:01:24,167
+Scott: Why can't it be?
+
+24
+00:01:24,728 --> 00:01:31,280
+Scott: if you're going to do global warming and ruin the earth, at least make it 50 Fahrenheit minimum year round, at least.
+
+25
+00:01:32,322 --> 00:01:33,285
+Rym: I mean, it's kind of nuts.
+
+26
+00:01:33,305 --> 00:01:34,389
+Scott: It's the only it's like.
+
+27
+00:01:34,469 --> 00:01:36,496
+Scott: it's like, ah, something terrible is happening.
+
+28
+00:01:36,737 --> 00:01:37,660
+Scott: Oh, that's terrible.
+
+29
+00:01:38,100 --> 00:01:39,206
+Scott: It's a silver lining.
+
+30
+00:01:39,306 --> 00:01:41,859
+Scott: OK, take the silver lining away.
+
+31
+00:01:44,361 --> 00:01:45,204
+Scott: Just terrible.
+
+32
+00:01:45,765 --> 00:01:50,519
+Rym: So it's really stark when you think about the fact that like Hunter Mountain north of here.
+
+33
+00:01:51,781 --> 00:02:06,960
+Rym: In my memory of skiing since I moved to New York, the mid Hudson Valley and then New York City, like not that long ago on the grand scheme of things, Hunter Mountain got enough snow to be fully open every year.
+
+34
+00:02:07,080 --> 00:02:11,170
+Rym: Like I would go up and ski a lot and it would just like every trail be open.
+
+35
+00:02:11,190 --> 00:02:12,613
+Rym: There'd be a ton of natural snow.
+
+36
+00:02:13,094 --> 00:02:15,640
+Rym: It would never like there'd always be coverage.
+
+37
+00:02:15,760 --> 00:02:17,225
+Rym: It would never have all like melted.
+
+38
+00:02:17,927 --> 00:02:22,200
+Rym: And nowadays, like they'll have some snow, but they make almost all their snow.
+
+39
+00:02:22,661 --> 00:02:28,960
+Rym: And then every few weeks it'll get really warm and all the snow melts and it rains on the mountain and then they start from nothing again.
+
+40
+00:02:30,062 --> 00:02:38,700
+Rym: But meanwhile, in living memory, as late as the late 70s, Beacon, where we used to live way south of Hunter Mountain, had a ski.
+
+41
+00:02:39,061 --> 00:02:47,440
+Rym: Like that was a ski resort that was just open that didn't really make its own snow and just always had snow in the winter and was super popular.
+
+42
+00:02:47,901 --> 00:02:51,432
+Rym: And it only shut down because it literally stopped snowing in Beacon.
+
+43
+00:02:52,897 --> 00:02:53,820
+Rym: That wasn't that long ago.
+
+44
+00:02:53,981 --> 00:02:56,071
+Rym: The snow stopped falling there like '77, '78.
+
+45
+00:03:00,960 --> 00:03:03,299
+Rym: Yeah, climate change is going to be bad fucking news.
+
+46
+00:03:04,300 --> 00:03:04,737
+Scott: Gonna be.
+
+47
+00:03:05,500 --> 00:03:24,179
+Rym: Well, I think gonna be more in the sense that everything I'm reading is that right now what's actually happening is so far outside of even the worst case scenario projections that I hesitate to even consider what the world will be like climate-wise 40 years from now when I'm an old man.
+
+48
+00:03:26,000 --> 00:03:26,942
+Scott: If you make it that far.
+
+49
+00:03:28,446 --> 00:03:31,653
+Scott: The thing that I don't understand is that clearly there's a lack of rainfalls, right?
+
+50
+00:03:35,460 --> 00:03:38,900
+Scott: And lack of snow, lack of precipitation, at least in this part of the world.
+
+51
+00:03:39,100 --> 00:03:41,840
+Rym: Other parts of the world are getting constantly flooded with constant rains.
+
+52
+00:03:42,860 --> 00:03:43,161
+Scott: Right.
+
+53
+00:03:43,241 --> 00:03:52,320
+Scott: It's like, you know, why is it like when it's warmer, the rain becomes more concentrated in certain areas and less in other areas?
+
+54
+00:03:52,320 --> 00:03:53,353
+Rym: It's a little more complex than that.
+
+55
+00:03:53,373 --> 00:03:53,960
+Rym: There's this idea.
+
+56
+00:03:55,060 --> 00:04:01,200
+Rym: So you know how you got to, you know, think about a switch like a wall plate switch how it is just moving from one end to the other.
+
+57
+00:04:01,281 --> 00:04:03,340
+Rym: But if you push it a little bit, it doesn't go anywhere.
+
+58
+00:04:03,741 --> 00:04:11,700
+Rym: But if you push it very slowly, it'll eventually like hit this point in the middle where it just suddenly flips to the other side because it's an unstable system.
+
+59
+00:04:12,221 --> 00:04:19,000
+Rym: The term for that in mechanics or like physics is a bi-stable mechanism or a tipping point mechanism.
+
+60
+00:04:19,700 --> 00:04:25,120
+Rym: Most climate patterns in the world are effectively tipping point mechanisms.
+
+61
+00:04:25,320 --> 00:04:26,499
+Rym: Well, they'll be very consistent.
+
+62
+00:04:27,361 --> 00:04:34,940
+Rym: But if the conditions that cause them to be change enough, they'll very slowly resist that change.
+
+63
+00:04:35,441 --> 00:04:39,656
+Rym: And then suddenly and catastrophically shift to a completely different paradigm.
+
+64
+00:04:39,676 --> 00:04:40,800
+Rym: that's almost impossible to predict.
+
+65
+00:04:43,332 --> 00:04:46,150
+Scott: Well, yep, well, it's cold.
+
+66
+00:04:47,010 --> 00:04:54,070
+Rym: But in one tiny thing that New York City is doing to try to stop this, I can now say there's data.
+
+67
+00:04:54,291 --> 00:04:56,505
+Rym: Because, you know, for the last week I've been saying I go to work every day.
+
+68
+00:04:56,545 --> 00:04:57,310
+Rym: I work in Midtown.
+
+69
+00:04:57,732 --> 00:05:01,110
+Rym: I work like at the epicenter of some of this congestion relief zone.
+
+70
+00:05:01,791 --> 00:05:08,490
+Rym: And every single day there has been like almost no car traffic in Midtown by Grand Central.
+
+71
+00:05:09,111 --> 00:05:19,070
+Rym: The lack of cars and how quiet it is is so notable that everyone is talking about it at the office when I'm there about how weirdly quiet it is.
+
+72
+00:05:19,995 --> 00:05:21,310
+Rym: It's amazing and it's continuing.
+
+73
+00:05:23,294 --> 00:05:24,438
+Rym: But now we also have data.
+
+74
+00:05:24,459 --> 00:05:27,730
+Rym: The MTA, the city, and a bunch of researchers all put in data.
+
+75
+00:05:28,090 --> 00:05:31,082
+Rym: Yeah, there are way fewer cars in Midtown.
+
+76
+00:05:31,383 --> 00:05:32,950
+Rym: Travel times are way down.
+
+77
+00:05:33,971 --> 00:05:35,616
+Rym: I saw multiple reports.
+
+78
+00:05:36,037 --> 00:05:40,650
+Rym: The craziest thing I've ever read on the internet was that a New York City bus was ahead of schedule.
+
+79
+00:05:41,951 --> 00:05:42,428
+Rym: And had to wait.
+
+80
+00:05:43,630 --> 00:05:45,829
+Rym: I've never seen a bus be ahead of schedule here.
+
+81
+00:05:46,650 --> 00:05:47,132
+Scott: It happens.
+
+82
+00:05:48,680 --> 00:05:50,810
+Scott: It'll happen more when there aren't cars in the way.
+
+83
+00:05:51,310 --> 00:05:53,101
+Rym: But meanwhile, this is anecdotal.
+
+84
+00:05:53,142 --> 00:05:54,390
+Rym: I don't have any data to back this up.
+
+85
+00:05:54,450 --> 00:06:11,788
+Rym: But so far, every single day that I have commuted to and from Manhattan for work, the subway, regardless if I take the 4 or 5 or I take the 7, is the most crowded I have ever experienced outside of when there's a problem like the trains aren't running.
+
+86
+00:06:12,488 --> 00:06:13,870
+Rym: in the entire time I've lived here.
+
+87
+00:06:14,470 --> 00:06:20,970
+Rym: Every day my morning commute, no matter what time I leave, is the most jam-packed I have literally ever experienced.
+
+88
+00:06:21,751 --> 00:06:23,254
+Scott: So here's the thing I don't understand, right?
+
+89
+00:06:23,895 --> 00:06:32,630
+Scott: Parking your car, let's say you live in somewhere you can reach the subway, and you have to go to Manhattan.
+
+90
+00:06:33,650 --> 00:06:36,375
+Scott: And you could have used the subway, but you use the car.
+
+91
+00:06:37,097 --> 00:06:43,108
+Scott: Using the car costs, even before the congestion pricing, you have to pay for the gas and the maintenance.
+
+92
+00:06:43,148 --> 00:06:44,190
+Scott: Those are invisible costs.
+
+93
+00:06:46,091 --> 00:06:57,890
+Rym: Does anyone out there, I'm not even going to tell you the number, make a guess as to how much you think it would cost to drive into Manhattan and park your car anywhere in a garage or somewhere on the street?
+
+94
+00:06:58,250 --> 00:07:05,143
+Scott: Right, so you have to pay to go in a garage or you can fight for on-street parking somewhere, maybe, somehow.
+
+95
+00:07:05,704 --> 00:07:08,549
+Scott: And there may be a meter there, there may be not, depending on where it is.
+
+96
+00:07:09,111 --> 00:07:17,747
+Scott: And so you're already paying, and that amount of paying wasn't enough to dissuade you, but $9, that's unavoidable.
+
+97
+00:07:17,887 --> 00:07:18,708
+Scott: It's like, "Oh, that's the
+
+98
+00:07:18,768 --> 00:07:18,949
+Scott: straw.".
+
+99
+00:07:19,830 --> 00:07:21,634
+Rym: That is actually kind of amazing.
+
+100
+00:07:22,356 --> 00:07:32,011
+Rym: It'd be the equivalent of if you bought a $500 TV and then you were- And it's not even $9 because the subway is $3, so really it's $6.
+
+101
+00:07:32,011 --> 00:07:40,190
+Rym: But imagine you bought a $900, $1,000 TV and you were super mad that there was a 50-cent surcharge to have it delivered to you.
+
+102
+00:07:41,190 --> 00:07:43,729
+Scott: Yeah, it's like, "Oh, nope, now I'm not doing
+
+103
+00:07:43,769 --> 00:07:43,810
+Scott: it.".
+
+104
+00:07:43,890 --> 00:07:49,650
+Rym: But I think what this really illustrates is this thing that we've recognized, and now with the election and everything else, we're really understanding.
+
+105
+00:07:50,770 --> 00:07:55,627
+Rym: People just don't act based on the real risk, the real cost, the reality of anything.
+
+106
+00:07:55,908 --> 00:07:56,630
+Rym: It's all perception.
+
+107
+00:07:56,951 --> 00:08:02,205
+Rym: They see $9 and freak out and literally don't think about the fact that they pay sometimes $60, $70 to park.
+
+108
+00:08:04,250 --> 00:08:05,836
+Rym: What's another $9 on top of that?
+
+109
+00:08:06,097 --> 00:08:09,310
+Rym: Especially if that $9 buys you, there's no traffic in your way.
+
+110
+00:08:12,393 --> 00:08:13,176
+Scott: This isn't news.
+
+111
+00:08:13,277 --> 00:08:15,910
+Scott: When have people in history acted, you know?
+
+112
+00:08:16,271 --> 00:08:17,397
+Rym: Small groups of them have.
+
+113
+00:08:18,060 --> 00:08:19,749
+Rym: The problem is it's always small groups of them.
+
+114
+00:08:19,910 --> 00:08:32,488
+Scott: Not in specific cases, but even someone like us who can recognize this, we act irrationally in quite a lot of areas that someone else could point at and be like, "Hey, why'd you do that, but you didn't do this?
+
+115
+00:08:32,788 --> 00:08:33,509
+Scott: That doesn't make any
+
+116
+00:08:33,549 --> 00:08:33,830
+Scott: sense.".
+
+117
+00:08:34,010 --> 00:08:36,807
+Scott: And if they said that, I'd probably say, "Oh shit, you're right, but I don't realize
+
+118
+00:08:36,828 --> 00:08:36,868
+Scott: it.".
+
+119
+00:08:37,370 --> 00:08:42,183
+Rym: Of course, usually a lot of times, if I'm doing something sub-optimal or eh, I know it's eh.
+
+120
+00:08:42,384 --> 00:08:44,270
+Rym: Like eating meat, yeah, I know that's eh.
+
+121
+00:08:44,711 --> 00:08:46,697
+Rym: There's a lot of concerns about that.
+
+122
+00:08:47,238 --> 00:08:49,043
+Rym: Drinking a little bit of poison, yeah, I'm doing that.
+
+123
+00:08:49,264 --> 00:08:51,109
+Scott: I recognize what's going on.
+
+124
+00:08:51,992 --> 00:08:52,486
+Rym: Yeah, but I do.
+
+125
+00:08:53,930 --> 00:08:57,450
+Rym: But if someone's like, "Yo, that's poison," I'll be like, "Yep, sure
+
+126
+00:08:57,490 --> 00:08:57,530
+Rym: is.".
+
+127
+00:09:00,171 --> 00:09:02,840
+Rym: But anyways, so in the news, two things have died.
+
+128
+00:09:03,483 --> 00:09:05,570
+Rym: We'll start with the easier one, so if you're not aware.
+
+129
+00:09:06,451 --> 00:09:10,630
+Rym: One of the many anime conventions that was actually pretty big in the East Coast.
+
+130
+00:09:10,670 --> 00:09:12,080
+Scott: We went to it one time, two times?
+
+131
+00:09:13,713 --> 00:09:14,909
+Rym: I feel like we went two times.
+
+132
+00:09:15,551 --> 00:09:17,010
+Scott: At least one time.
+
+133
+00:09:17,190 --> 00:09:21,330
+Rym: And they all blur together, I think that's the one, like there was a Rintaro thing that we saw.
+
+134
+00:09:21,851 --> 00:09:23,929
+Scott: It wasn't more than two times, that's for sure.
+
+135
+00:09:24,050 --> 00:09:26,390
+Rym: Yeah, and I feel like we went with Katsu one of those two times.
+
+136
+00:09:27,471 --> 00:09:28,329
+Scott: I think so as well.
+
+137
+00:09:28,770 --> 00:09:31,378
+Rym: But Anime Next was a pretty big convention.
+
+138
+00:09:31,579 --> 00:09:35,110
+Rym: It was typical of the East Coast anime convention scene.
+
+139
+00:09:35,632 --> 00:09:39,650
+Scott: It used to be in Northern Jersey when we went to it, near the Meadowlands.
+
+140
+00:09:39,890 --> 00:09:44,390
+Scott: It was an area that was business parky and hotel-y and in several buildings.
+
+141
+00:09:44,730 --> 00:09:51,649
+Scott: But then it went to actual Atlantic City, where it was, I think, until most... At last I heard it was in Atlantic City.
+
+142
+00:09:51,710 --> 00:09:54,650
+Rym: Well, until the pandemic killed it, basically, is what happens.
+
+143
+00:09:54,830 --> 00:09:55,908
+Rym: That's the actual story.
+
+144
+00:09:56,530 --> 00:10:04,590
+Rym: So the full deal, because I had to go, not really research, but I dug around and then remembered why Anime Next had been in the news so much.
+
+145
+00:10:04,892 --> 00:10:07,210
+Rym: And why it was zero shock that it went under.
+
+146
+00:10:07,450 --> 00:10:17,970
+Rym: Because if you name a random Anime Con, no matter what I assume, if you say the name of any Anime Con, there's like a 20% chance you're saying the name because it disappeared or died or had a big drama.
+
+147
+00:10:18,430 --> 00:10:24,430
+Rym: But when I saw the news that Anime Next died, my immediate reaction was, I didn't even know it was still going.
+
+148
+00:10:25,051 --> 00:10:27,229
+Rym: So I've got the whole story here.
+
+149
+00:10:27,630 --> 00:10:33,410
+Rym: But the news, what happened, this was announced in the most Anime Con possible way.
+
+150
+00:10:33,410 --> 00:10:35,030
+Rym: Their website doesn't even appear to be updated.
+
+151
+00:10:35,674 --> 00:10:37,190
+Rym: It acts like Anime Next still exists.
+
+152
+00:10:37,570 --> 00:10:47,049
+Rym: There's just a tweet from 10.06 PM a few days ago that only has 2,000 views that says, "From the Chairman of the Board of Universal Animation Incorporated.
+
+153
+00:10:47,490 --> 00:10:52,826
+Rym: Due to past and current circumstances, Anime Next is on indefinite hiatus until further notice.
+
+154
+00:10:53,107 --> 00:10:53,428
+Rym: Period.".
+
+155
+00:10:54,130 --> 00:10:55,802
+Scott: Well, their website acts like Anime Next.
+
+156
+00:10:55,802 --> 00:10:56,184
+Scott: 2023 is happening.
+
+157
+00:10:58,073 --> 00:11:00,370
+Rym: So that is how I remembered the history.
+
+158
+00:11:01,032 --> 00:11:07,770
+Rym: So Anime Next, like all conventions and all good people, shut down at the beginning of the pandemic.
+
+159
+00:11:08,350 --> 00:11:10,148
+Rym: Like, you can't run a convention in the middle of that.
+
+160
+00:11:12,377 --> 00:11:13,270
+Rym: And that was fine.
+
+161
+00:11:14,010 --> 00:11:18,832
+Rym: Then, in 2022, I think it was 2022.
+
+162
+00:11:18,832 --> 00:11:30,070
+Rym: In 2022, Atlantic City, because they had a contract, like all these conventions do, Atlantic City said, "Hey, you have to run your event and we will not require masks.
+
+163
+00:11:30,110 --> 00:11:31,020
+Rym: You're not allowed to require
+
+164
+00:11:31,061 --> 00:11:31,405
+Rym: masks.".
+
+165
+00:11:31,890 --> 00:11:34,829
+Rym: Which was a thing that several venues did around that time.
+
+166
+00:11:35,511 --> 00:11:36,729
+Rym: And Anime Next didn't want to run.
+
+167
+00:11:37,850 --> 00:11:52,950
+Rym: And basically was in a position in late 2021 and 2022 and into 2023 of either run a convention they don't think is safe to run or be in breach of contract and get sued into oblivion by the venue that they have this long contract with.
+
+168
+00:11:53,491 --> 00:11:55,870
+Rym: And there are many conventions in that situation.
+
+169
+00:11:56,332 --> 00:11:58,909
+Rym: But that is broadly the situation that Anime Next was in.
+
+170
+00:11:59,492 --> 00:12:04,370
+Rym: And it seems like they were unable to recover from that situation.
+
+171
+00:12:04,550 --> 00:12:05,828
+Rym: And this is now the end.
+
+172
+00:12:07,311 --> 00:12:07,396
+Scott: Okay.
+
+173
+00:12:09,112 --> 00:12:13,045
+Scott: The convention was always one of those ones that it didn't seem like.
+
+174
+00:12:13,085 --> 00:12:17,330
+Scott: it was run as well as some of the other conventions that really had their shit together.
+
+175
+00:12:18,470 --> 00:12:20,189
+Rym: But it wasn't run, like, poorly.
+
+176
+00:12:21,595 --> 00:12:25,110
+Scott: It wasn't one of those garbage fire ones that stay away.
+
+177
+00:12:25,511 --> 00:12:31,669
+Scott: But it also wasn't one of, like, you know, if I was going to, like, spend my life going to anime cons, it would be on the list.
+
+178
+00:12:32,010 --> 00:12:38,809
+Scott: But, like, you know, Anime Boston would be and Kinetic Con and such would be prioritized over anime.
+
+179
+00:12:40,011 --> 00:12:42,370
+Scott: Even Zenkai Con would be prioritized over Anime Next.
+
+180
+00:12:42,510 --> 00:12:49,870
+Rym: I remember being, like, that level of con where, like, everything seems to be working fine, but you will not see a staffer in any direction.
+
+181
+00:12:50,570 --> 00:12:52,789
+Scott: Well, that was when we went to it very long ago.
+
+182
+00:12:53,172 --> 00:12:56,430
+Scott: We don't know what it was like in the Atlantic City more recent times.
+
+183
+00:12:56,690 --> 00:12:56,811
+Rym: True.
+
+184
+00:12:56,831 --> 00:12:59,810
+Rym: I don't think it really did well in Atlantic City is what I remember hearing.
+
+185
+00:13:00,090 --> 00:13:01,969
+Rym: But anyway, it appears to be dead.
+
+186
+00:13:03,832 --> 00:13:08,990
+Rym: And I think we're going to see a lot more conventions die over the next, like, five or six years.
+
+187
+00:13:09,552 --> 00:13:10,022
+Scott: I don't know.
+
+188
+00:13:10,083 --> 00:13:10,430
+Scott: It depends.
+
+189
+00:13:10,610 --> 00:13:14,690
+Scott: Some conventions are going wild and some conventions are going the opposite direction.
+
+190
+00:13:15,230 --> 00:13:16,088
+Scott: The difference between them?
+
+191
+00:13:16,210 --> 00:13:20,850
+Scott: Like, Magfest is going wild, PAX Unplugged is going wild, PAX East and West go in the other direction.
+
+192
+00:13:21,051 --> 00:13:23,478
+Scott: We saw E3 died.
+
+193
+00:13:23,699 --> 00:13:26,849
+Scott: CES seems to still be going as an industry con.
+
+194
+00:13:27,891 --> 00:13:56,110
+Rym: It has to do with how well supported by an industry is the con, how well supported by the community that attends the con is the con, what is the nature of that community, but also is the leadership of the convention, this is probably the most important one for fan conventions, actually fostering the joining into the staff of younger people who will then learn how to be senior staff.
+
+195
+00:13:56,330 --> 00:13:59,850
+Rym: Like, Scott and I, I would say, are pro-convention staff.
+
+196
+00:14:00,171 --> 00:14:06,829
+Rym: If you blindfolded me, dropped me in the middle of an anime con I'd never heard of, gave me a staff job in pretty much any department, you'd figure out how to do it.
+
+197
+00:14:07,110 --> 00:14:08,949
+Rym: Like, I've been around that block before.
+
+198
+00:14:09,450 --> 00:14:18,170
+Rym: But a lot of anime cons, the staff are all in their 40s, there's no young people volunteering, and they're not fostering a culture of volunteering.
+
+199
+00:14:18,750 --> 00:14:20,084
+Rym: Meanwhile, MAGFest, like...
+
+200
+00:14:20,811 --> 00:14:23,470
+Scott: Well, if they're a non-profit, they need the volunteer.
+
+201
+00:14:23,570 --> 00:14:23,811
+Rym: Yes.
+
+202
+00:14:24,796 --> 00:14:31,130
+Rym: And if they're a for-profit, then you get into this other situation of, there is a deep, deep hunger for conventions.
+
+203
+00:14:31,730 --> 00:14:33,610
+Rym: Nerds love conventions.
+
+204
+00:14:33,831 --> 00:14:41,730
+Rym: But the ways that conventions can make money for investors if they're for-profit are not necessarily the things that fans want.
+
+205
+00:14:41,851 --> 00:14:45,089
+Rym: Case in point, people want to go to PAX to play a bunch of games.
+
+206
+00:14:45,790 --> 00:14:53,089
+Rym: There's a different set of people who want to go to PAX to go to a bunch of boring industry panels and try to win a free video card and walk through the expo hall once.
+
+207
+00:14:55,072 --> 00:14:55,203
+Scott: Anyway.
+
+208
+00:14:56,551 --> 00:14:59,810
+Rym: Anyway, in some other news, Diamond Distributors is bankrupt.
+
+209
+00:15:00,810 --> 00:15:07,329
+Scott: Yeah, so people who haven't been around the block, there's a long history to this, which we've discussed on GeekNights way back.
+
+210
+00:15:08,912 --> 00:15:15,490
+Scott: It's just sort of common knowledge among US nerds that comic books used to be sold everywhere.
+
+211
+00:15:15,910 --> 00:15:19,870
+Scott: In the drugstores, in the newsstands, in the grocery store, everywhere.
+
+212
+00:15:21,091 --> 00:15:25,930
+Scott: And that was when they were ultra-popular in the golden and silver ages.
+
+213
+00:15:26,830 --> 00:15:32,950
+Scott: Then comic books faded from popularity in the '80s and around that time.
+
+214
+00:15:33,151 --> 00:15:43,246
+Scott: So Marvel and DC switched to the direct distribution model, which is where basically it's like, "Hey, we're going to have this one distributor, which is Diamond
+
+215
+00:15:43,547 --> 00:15:44,110
+Scott: Distributors.".
+
+216
+00:15:44,191 --> 00:15:45,190
+Scott: That was the name of the company.
+
+217
+00:15:46,112 --> 00:15:49,130
+Scott: "And we're going to sell these direct to comic book stores.
+
+218
+00:15:49,410 --> 00:15:56,550
+Scott: There's this giant catalog that comes out every month, and the stores can order every nerdy thing in the universe from this one catalog, mostly comic books.
+
+219
+00:15:57,211 --> 00:15:59,184
+Scott: And you can make a comic book store and sell
+
+220
+00:15:59,204 --> 00:15:59,627
+Scott: comics.".
+
+221
+00:16:00,270 --> 00:16:08,289
+Scott: And comic books were basically no longer in the grocery stores and the other places that had stopped buying them anyway, mostly, because they weren't selling there.
+
+222
+00:16:09,570 --> 00:16:17,690
+Scott: And then in the '90s, comics picked up in popularity and nostalgia and retro feels and X-Men cartoons and Batman movies.
+
+223
+00:16:19,852 --> 00:16:24,430
+Scott: And so the comic book stores became an established thing.
+
+224
+00:16:24,891 --> 00:16:26,749
+Scott: That's how you get comic books in the US.
+
+225
+00:16:27,171 --> 00:16:28,569
+Scott: You go to a comic book store.
+
+226
+00:16:29,354 --> 00:16:31,930
+Scott: And the comic book stores, they still exist.
+
+227
+00:16:32,370 --> 00:16:37,389
+Scott: It's not the greatest business to be in, but there's a lot of them out there still.
+
+228
+00:16:38,010 --> 00:16:43,570
+Rym: Some of the ones that do the best are combination comic book store, gaming store, and airsoft store.
+
+229
+00:16:43,811 --> 00:16:44,770
+Rym: That's like the holy trinity.
+
+230
+00:16:45,892 --> 00:16:48,670
+Scott: It's a business where there's certain ways to make it work.
+
+231
+00:16:49,191 --> 00:17:02,010
+Scott: Usually you have to be like, if you're a really good retailer who's really taking care of the customers and doing events, you gotta hustle and make your store a special place.
+
+232
+00:17:02,730 --> 00:17:06,230
+Scott: And if you do that, you can really be a successful comic book store.
+
+233
+00:17:06,790 --> 00:17:13,388
+Scott: But if you're just some ratty dude with some old Spidermans, that doesn't work anyway.
+
+234
+00:17:14,829 --> 00:17:27,849
+Scott: But anyway, what happened is a little while ago, some years back, not too many, Marvel and DC ended their exclusive distribution deals with-- Yeah, with diamond distributors.
+
+235
+00:17:28,270 --> 00:17:32,850
+Scott: And so comic book stores now have to order basically from Marvel, from DC.
+
+236
+00:17:33,250 --> 00:17:35,309
+Scott: There's other distributors that they ought to order from.
+
+237
+00:17:35,811 --> 00:17:40,710
+Scott: They're no longer buying everything in their store wholesale from one company.
+
+238
+00:17:41,013 --> 00:17:42,770
+Scott: They're buying from a variety of places.
+
+239
+00:17:43,031 --> 00:17:46,970
+Scott: And most of the product they bought was Marvel and DC comic books.
+
+240
+00:17:47,291 --> 00:17:49,070
+Scott: That outnumbers everything else they buy.
+
+241
+00:17:49,290 --> 00:17:52,069
+Scott: It outnumbers the statues and all the other junk.
+
+242
+00:17:52,611 --> 00:17:58,490
+Scott: And so they would still order some things from diamond, but not so many things.
+
+243
+00:18:00,892 --> 00:18:11,126
+Scott: And yeah, diamond always had plenty of issues in terms of not delivering things correctly, delivering things late, not paying.
+
+244
+00:18:13,313 --> 00:18:18,110
+Scott: If you're making comic books, you send your comic books to diamond and then they send you money?
+
+245
+00:18:19,151 --> 00:18:21,719
+Rym: I've seen some reports that they owe a lot of people a lot of money.
+
+246
+00:18:25,932 --> 00:18:33,090
+Rym: Yeah, because the way that businesses do those transactions-- You've got accounts payable, you've got accounts receivable, you've got invoices with nets.
+
+247
+00:18:33,731 --> 00:18:33,959
+Scott: Exactly.
+
+248
+00:18:34,041 --> 00:18:34,290
+Scott: Right.
+
+249
+00:18:36,070 --> 00:18:44,570
+Scott: And so, yeah, I've heard even before recently, in the good times, they weren't always good about paying people completely or on time.
+
+250
+00:18:44,931 --> 00:18:51,469
+Scott: So now that after Marvel and DC have left and enough time has passed, they're in some doo-doo.
+
+251
+00:18:52,432 --> 00:18:54,750
+Scott: So we'll see what happens to them.
+
+252
+00:18:55,071 --> 00:18:56,990
+Scott: We'll see what happens to comic book stores.
+
+253
+00:18:57,470 --> 00:19:06,690
+Scott: But I think the most impact is going to be on smaller, not the just smaller publishers, right?
+
+254
+00:19:08,414 --> 00:19:14,590
+Scott: Say like a fan of graphics or a drawn-in quarterly or an NBM, but like the small, small publishers.
+
+255
+00:19:14,590 --> 00:19:16,410
+Rym: The article I got up here actually lists some.
+
+256
+00:19:16,630 --> 00:19:23,190
+Rym: So for example, the indie publishers, they list Image, Dark Arts, ONIBOOM, do have their own distribution.
+
+257
+00:19:24,030 --> 00:19:26,610
+Scott: Those are big, those are effectively big ones, right?
+
+258
+00:19:26,970 --> 00:19:32,450
+Rym: But smaller ones like Band of Bards, Blood Moon Comics, Black Box, and Adoptic Press.
+
+259
+00:19:32,550 --> 00:19:40,710
+Scott: If you open up the previews catalog, I actually got one recently, it's like, and you look through like all the possible comic books that are in there.
+
+260
+00:19:40,910 --> 00:19:42,881
+Scott: It's like moon age books.
+
+261
+00:19:42,941 --> 00:19:44,389
+Scott: I'm just clicking on a random one.
+
+262
+00:19:45,051 --> 00:19:51,830
+Scott: They've got two books, which seem to be like reprints of old Allen class, whatever the heck that is.
+
+263
+00:19:52,230 --> 00:19:54,078
+Scott: Some comics from the forties and eighties.
+
+264
+00:19:54,138 --> 00:19:56,850
+Scott: It's like, who's going to distribute that biz, right?
+
+265
+00:19:57,311 --> 00:20:00,127
+Scott: And no business wants to buy those other than a comic book store.
+
+266
+00:20:00,610 --> 00:20:03,450
+Rym: I bought it in 1959.
+
+267
+00:20:03,450 --> 00:20:03,608
+Scott: Yeah.
+
+268
+00:20:04,890 --> 00:20:08,990
+Scott: Massive Select is publishing Zorro, Man of the Dead.
+
+269
+00:20:09,090 --> 00:20:13,650
+Scott: That's the only thing that they've got listed that you can pre-order for $12.99.
+
+270
+00:20:13,650 --> 00:20:19,890
+Scott: It's number one of four by Sean Gordon Murphy and the cover art, Matteo Scalera.
+
+271
+00:20:20,050 --> 00:20:25,990
+Scott: I don't know if that's a good book or not, or who knows, but how is a store going to buy that book?
+
+272
+00:20:26,391 --> 00:20:34,310
+Scott: Who will distribute that book made of paper in the United States in 2024 if Diamond Comics does not exist?
+
+273
+00:20:34,670 --> 00:20:35,422
+Rym: And it's partly because...
+
+274
+00:20:35,910 --> 00:20:37,660
+Scott: Barnes and Noble isn't going to be buying that shit.
+
+275
+00:20:38,082 --> 00:20:39,490
+Scott: They don't want that on their shelf.
+
+276
+00:20:40,110 --> 00:20:53,190
+Rym: According to this article, it's partly because unlike the other distributors that rose up to compete with Diamond, they list Penguin and Lunar as the two that were big.
+
+277
+00:20:54,175 --> 00:20:56,910
+Rym: Diamond had a pretty much open submission process.
+
+278
+00:20:57,912 --> 00:21:02,670
+Rym: Just call them up with your tiny little thing and they would almost never say no to anyone.
+
+279
+00:21:03,450 --> 00:21:17,228
+Scott: Yeah, I think there were some requirements, but that's how when you go to a comic book store, the comic book stores have, even if they're not buying every comic that's available, because even the biggest comic book stores can't do that, right?
+
+280
+00:21:17,590 --> 00:21:20,647
+Scott: They have to buy according to what their customers are going to demand.
+
+281
+00:21:21,832 --> 00:21:53,190
+Scott: But you would see all kinds of wild, really indie, really niche shit in comic book stores in the United States, and that's part of what helped them stay in business is not just the guy who reads Spider-Man and Batman every single week like clockwork, or every month no matter what, but that you have all this really specialized merchandise that makes your store sort of an attraction and an oddity in a special place that has things that you won't see anywhere else.
+
+282
+00:21:53,611 --> 00:21:56,930
+Scott: And that stuff comes from, you know, the Diamond Distributor.
+
+283
+00:21:56,970 --> 00:22:01,070
+Scott: But they were a monopoly that caused a lot of problems even when they were on top, right?
+
+284
+00:22:03,552 --> 00:22:07,030
+Scott: It sort of hurt the comic books industry in a lot of ways even when they were successful.
+
+285
+00:22:08,013 --> 00:22:09,470
+Scott: And now they're dead, so we'll see what happens.
+
+286
+00:22:09,730 --> 00:22:09,798
+Rym: Yup.
+
+287
+00:22:10,731 --> 00:22:12,889
+Scott: Well, they're not dead dead, but I mean, they found Bankruptcy.
+
+288
+00:22:12,990 --> 00:22:14,909
+Rym: I mean, when you go into Chapter 11, you don't come out.
+
+289
+00:22:16,051 --> 00:22:23,930
+Scott: Yeah, so I'm just curious, you know, how it's going to go for those extra small publishers of comics.
+
+290
+00:22:24,050 --> 00:22:29,149
+Scott: How will they get their books out there to the stores if they even attempt to do so?
+
+291
+00:22:31,030 --> 00:22:33,550
+Rym: But anyway, things of the day!
+
+292
+00:22:34,010 --> 00:22:40,170
+Rym: So we're playing a train game right now, and I note that someone has foolishly bought into my Ponzi scam company.
+
+293
+00:22:42,475 --> 00:22:43,490
+Rym: Someone bought a share of Harry.
+
+294
+00:22:43,510 --> 00:22:45,450
+Scott: They're companies in this particular train game.
+
+295
+00:22:45,750 --> 00:22:47,450
+Rym: Yeah, they don't know what's about to happen with Eerie.
+
+296
+00:22:47,610 --> 00:22:49,109
+Rym: It's going to be a fun time for everybody.
+
+297
+00:22:50,370 --> 00:23:03,930
+Rym: Anyway, but the thing about old trains is that a lot of people think old-timey steam trains are relatively simple compared to what they would imagine a modern train looks like.
+
+298
+00:23:04,571 --> 00:23:14,810
+Rym: But old-timey steam trains were like engineering marvels that were usually built mostly by hand and with bespoke parts.
+
+299
+00:23:16,131 --> 00:23:24,790
+Rym: Like, trains were some of the most advanced technology in the world, and they would still to this day be very difficult and expensive to build.
+
+300
+00:23:25,470 --> 00:23:33,330
+Rym: Even building a coal-fired train today might cost as much as building a modern kind of train, just because of the complexity of the engineering.
+
+301
+00:23:33,891 --> 00:23:49,990
+Rym: So my video is a 36-minute-long walkthrough with a very detailed animation of every component and the full pipeline of how a particular famous train works.
+
+302
+00:23:50,470 --> 00:23:58,290
+Rym: And that famous train is the old 4-8-8-4, better known to train nerds as the Union Pacific Big Boy.
+
+303
+00:23:59,412 --> 00:24:05,230
+Rym: If you imagine a big train from the '40s, this is the one you're actually imagining.
+
+304
+00:24:05,811 --> 00:24:07,786
+Rym: Like, when you see it, you'll go, "Oh, that's that
+
+305
+00:24:07,846 --> 00:24:08,108
+Rym: train.".
+
+306
+00:24:08,633 --> 00:24:10,150
+Rym: They didn't even make that many of these things.
+
+307
+00:24:10,290 --> 00:24:15,630
+Rym: It might have been the most powerful train in human history up until the modern Electrified Era.
+
+308
+00:24:17,950 --> 00:24:20,643
+Rym: So this video is 36 minutes and 23 seconds.
+
+309
+00:24:22,690 --> 00:24:26,030
+Scott: That's short, actually, for considering what you just described.
+
+310
+00:24:26,090 --> 00:24:28,659
+Rym: Yeah, it is amazing, this video.
+
+311
+00:24:28,800 --> 00:24:31,610
+Rym: I watched the entire thing end-to-end, and it was great.
+
+312
+00:24:33,170 --> 00:24:43,650
+Scott: All right, so if you've ever seen the movie Alien, there's a scene where the Nostromo lands on the surface of the planet.
+
+313
+00:24:45,011 --> 00:24:51,228
+Scott: And on the computer screen, there's a graphic that's showing the landing, and you can see these lines.
+
+314
+00:24:52,273 --> 00:24:54,310
+Scott: It looks sort of like a vector graphic, but it's not.
+
+315
+00:24:54,510 --> 00:24:59,629
+Scott: And there's lines showing the mountains and this flat area in a valley that they're going to land on.
+
+316
+00:25:00,831 --> 00:25:04,990
+Scott: And you don't really think too hard about it, because it's a few seconds in one scene in a movie.
+
+317
+00:25:05,910 --> 00:25:12,385
+Scott: But as it turns out, there was a lot more to it than that, because that movie was made in 1970-something, '89?
+
+318
+00:25:15,211 --> 00:25:15,994
+Scott: Old, right?
+
+319
+00:25:16,455 --> 00:25:18,342
+Scott: Making those computer graphics in those days.
+
+320
+00:25:19,366 --> 00:25:20,370
+Scott: How the heck did they do it?
+
+321
+00:25:20,531 --> 00:25:23,989
+Rym: They made that 30 years after people were still using the big boys.
+
+322
+00:25:25,230 --> 00:25:37,566
+Scott: Yeah, and so apparently it was made by a person named Alan Sutcliffe, who was one of the founders of the Computer Arts Society in 1968 in the UK.
+
+323
+00:25:41,392 --> 00:25:53,510
+Scott: And in this issue, the June 1981 issue of Creative Computing Magazine, which is exactly the kind of magazine you expect, only wow, it's like hundreds of pages.
+
+324
+00:25:53,851 --> 00:25:55,545
+Scott: It's like 200 pages long per volume.
+
+325
+00:25:55,565 --> 00:25:56,170
+Scott: That's incredible.
+
+326
+00:25:57,532 --> 00:26:01,430
+Scott: There is an article called "Landing the Nostromo" by Alan Sutcliffe.
+
+327
+00:26:01,570 --> 00:26:13,310
+Scott: It's a multi-page article where he goes into great detail about exactly how they rendered the image in that scene, including the text on the side.
+
+328
+00:26:14,970 --> 00:26:21,184
+Scott: And the computers they used, no detail is left out of what they did.
+
+329
+00:26:21,244 --> 00:26:22,547
+Scott: They had to use a Prime 300.
+
+330
+00:26:22,547 --> 00:26:24,010
+Scott: That was the computer.
+
+331
+00:26:25,091 --> 00:26:28,289
+Scott: That was one of those mini-computers, the ones that takes up a whole room.
+
+332
+00:26:28,631 --> 00:26:30,322
+Rym: Yeah, "mini-computer" is like
+
+333
+00:26:30,483 --> 00:26:31,087
+Rym: "mini-gun.".
+
+334
+00:26:32,111 --> 00:26:32,973
+Scott: Right, exactly.
+
+335
+00:26:33,955 --> 00:26:40,510
+Scott: And they also used a thing which basically was a plotter that was plotting onto the film.
+
+336
+00:26:42,771 --> 00:26:50,210
+Scott: So it's like they had this mini-computer and then they had a printer, but the printer was printing this image onto the film, right?
+
+337
+00:26:50,210 --> 00:26:59,248
+Scott: 24 FPS, so every second of film, there were 24 frames, and it was drawing these computer images on there in 1970-something.
+
+338
+00:27:00,831 --> 00:27:06,625
+Rym: Because think back then, if you were compositing in a film back then, you were doing that optically.
+
+339
+00:27:06,986 --> 00:27:08,610
+Rym: There was no software to do that yet.
+
+340
+00:27:09,990 --> 00:27:13,735
+Scott: So yeah, very fascinating article.
+
+341
+00:27:13,816 --> 00:27:24,510
+Scott: Usually you see these old computer magazines, and they're fun for their aesthetic and for their historical value.
+
+342
+00:27:25,390 --> 00:27:32,668
+Scott: But usually there isn't too much material worth still to the articles, because it's like "here's how to do something in
+
+343
+00:27:32,888 --> 00:27:33,269
+Scott: basic.".
+
+344
+00:27:34,653 --> 00:27:36,136
+Scott: It's like "yeah, I kind of know that.
+
+345
+00:27:36,197 --> 00:27:37,921
+Scott: I could have just googled that.
+
+346
+00:27:37,941 --> 00:27:40,307
+Scott: I'm not writing anything in basic in the year
+
+347
+00:27:40,307 --> 00:27:41,730
+Scott: 2024.".
+
+348
+00:27:41,730 --> 00:27:44,450
+Scott: But here is a very valuable article.
+
+349
+00:27:44,890 --> 00:27:49,217
+Rym: In the meta-moment, we are going to be live at MAGFest on Thursday.
+
+350
+00:27:49,277 --> 00:27:50,359
+Rym: Every game is the same game.
+
+351
+00:27:50,399 --> 00:27:56,670
+Rym: Thursday night, on Saturday, me and Emily, meta-context, post-modernism in games.
+
+352
+00:27:57,210 --> 00:28:01,790
+Rym: And then Sunday at 1 PM, near the end of the con, the 39 games you must play.
+
+353
+00:28:02,011 --> 00:28:03,963
+Scott: I actually gotta be at MAGFest Sunday at 1.
+
+354
+00:28:03,963 --> 00:28:05,110
+Scott: Nobody's coming to that shit.
+
+355
+00:28:05,430 --> 00:28:06,408
+Rym: I bet people will come.
+
+356
+00:28:07,070 --> 00:28:08,173
+Scott: One person will come.
+
+357
+00:28:08,615 --> 00:28:09,196
+Rym: Yeah, people.
+
+358
+00:28:09,216 --> 00:28:11,362
+Rym: At least two people.
+
+359
+00:28:11,443 --> 00:28:13,930
+Scott: I agree, at least two people will come.
+
+360
+00:28:14,350 --> 00:28:16,661
+Scott: Because there's nothing else to do at MAGFest on Sunday.
+
+361
+00:28:16,702 --> 00:28:18,310
+Scott: But Pete, there are still people there.
+
+362
+00:28:18,971 --> 00:28:23,790
+Rym: Actually, last year, I stuck around pretty late, because we had the cars, we could leave whenever.
+
+363
+00:28:24,291 --> 00:28:26,590
+Rym: And I remember things being pretty bumping on Sunday.
+
+364
+00:28:27,591 --> 00:28:29,010
+Scott: Okay, well, we're gonna find out.
+
+365
+00:28:29,030 --> 00:28:29,753
+Rym: We will find out.
+
+366
+00:28:30,496 --> 00:28:33,570
+Rym: MAGFest is, I think it's actually sold out at this point.
+
+367
+00:28:35,392 --> 00:28:37,210
+Scott: It's gotta be close if it's not actually.
+
+368
+00:28:37,770 --> 00:28:39,899
+Rym: MAGFest, our flagship event.
+
+369
+00:28:40,281 --> 00:28:42,169
+Rym: Let's see, registration is now open.
+
+370
+00:28:43,291 --> 00:28:46,079
+Rym: Okay, they are, you can still buy badges.
+
+371
+00:28:46,881 --> 00:28:49,810
+Rym: They still are not selling any badges at the door.
+
+372
+00:28:50,570 --> 00:28:58,390
+Rym: So, if you think you wanna go to MAGFest and you don't have a badge yet, stop GeekNights and go buy one right now, because they'll sell out any second.
+
+373
+00:28:59,171 --> 00:29:03,810
+Scott: Yeah, I got a feeling almost everyone, how many people wanna go to MAGFest and have it already?
+
+374
+00:29:03,850 --> 00:29:07,529
+Rym: I mean, historically, a lot of people buy badges as the con goes on.
+
+375
+00:29:07,970 --> 00:29:17,190
+Rym: I wonder how many of those people will, in the anime con tradition, not look at this website at any point and show up at MAGFest on Friday thinking they can buy a badge.
+
+376
+00:29:17,633 --> 00:29:18,149
+Scott: Or Thursday.
+
+377
+00:29:18,850 --> 00:29:22,089
+Rym: Or Saturday, because remember the badges used to get cheaper as the con went on.
+
+378
+00:29:22,735 --> 00:29:22,948
+Scott: True.
+
+379
+00:29:23,411 --> 00:29:30,910
+Rym: And I remember a lot of people would show up Friday night or Saturday morning because as much as they love MAGFest, not everybody can take the time off work.
+
+380
+00:29:32,790 --> 00:29:42,150
+Scott: Well, they have decided not to sell badges at the con, but if they don't actually fully sell out, they would actually be leaving a little bit of money on the table.
+
+381
+00:29:42,490 --> 00:29:43,593
+Rym: Yep, a little tiny bit of money.
+
+382
+00:29:43,874 --> 00:29:49,850
+Rym: However, with that money mitigated by the fact that Reg can be just Will Call and no purchases.
+
+383
+00:29:50,871 --> 00:29:54,490
+Scott: Yeah, anyway, any other meta news?
+
+384
+00:29:54,950 --> 00:29:59,110
+Rym: Nah, let's just get right to the main bit because I'm real hungry and we started the show late because the subway was crowded.
+
+385
+00:30:00,651 --> 00:30:01,352
+Scott: I ate already.
+
+386
+00:30:01,833 --> 00:30:11,210
+Scott: So, in the year 2022, in Marvel Comics, you know, we were just talking about Diamond, but they restarted the Fantastic Four.
+
+387
+00:30:11,290 --> 00:30:14,170
+Scott: They didn't fully restart, like reset the whole universe.
+
+388
+00:30:14,390 --> 00:30:15,217
+Rym: You don't get an origin story.
+
+389
+00:30:17,132 --> 00:30:22,830
+Scott: Yeah, I don't actually know what was going on because I haven't, you know, most of the Fantastic Four comics I've read are mega old.
+
+390
+00:30:23,150 --> 00:30:23,793
+Rym: Oh, I'll go further.
+
+391
+00:30:23,893 --> 00:30:28,170
+Rym: I will admit I have, until now, I have never read any Fantastic Four comic.
+
+392
+00:30:28,991 --> 00:30:31,090
+Scott: Oh, well, some of them are good and some of them are not so good.
+
+393
+00:30:32,591 --> 00:30:48,010
+Scott: So, basically, they're, I don't know if they weren't, I think what happened, just by being adjacent to nerds, right, is that the comic went away and something weird was going on and then it came back.
+
+394
+00:30:48,250 --> 00:30:57,070
+Scott: But, regardless, in 2022, they published a new Fantastic Four number one, right, and the author, the writer, was Ryan North.
+
+395
+00:30:57,310 --> 00:30:59,890
+Scott: The artist is, I forget.
+
+396
+00:31:00,716 --> 00:31:00,986
+Rym: Coelho?
+
+397
+00:31:02,331 --> 00:31:03,097
+Scott: Oh, okay, yep.
+
+398
+00:31:03,944 --> 00:31:04,770
+Scott: I don't know their first name.
+
+399
+00:31:05,071 --> 00:31:08,290
+Rym: I don't know comic artists anymore because I don't read that many comics.
+
+400
+00:31:09,571 --> 00:31:11,178
+Scott: Yeah.
+
+401
+00:31:11,881 --> 00:31:13,810
+Scott: Anyway, I'll get their name while we...
+
+402
+00:31:14,750 --> 00:31:15,366
+Rym: I've been Cabelo.
+
+403
+00:31:18,175 --> 00:31:19,849
+Rym: Do a bunch of carnage stuff.
+
+404
+00:31:20,310 --> 00:31:21,088
+Scott: Draws better than me.
+
+405
+00:31:21,550 --> 00:31:24,009
+Rym: Some Marvel Zero, bunch of Venom Carnage type stuff.
+
+406
+00:31:25,552 --> 00:31:29,750
+Scott: Right, but Ryan North is a person that we have heard of very much, right?
+
+407
+00:31:30,550 --> 00:31:42,510
+Scott: You may know them from the Dinosaur comics, the Squirrel Girl, they did a lot of work on Adventure Time comics, you know, that's who Ryan North is.
+
+408
+00:31:42,691 --> 00:31:46,970
+Scott: So things that Ryan North has touched generally been good.
+
+409
+00:31:47,111 --> 00:31:49,630
+Scott: And it's like, oh, that's kind of wild, actually.
+
+410
+00:31:49,790 --> 00:32:07,670
+Scott: Like this person went from making the Dinosaur comics, which is like this webcomic where all the panels are the same every time and the text changes, to writing the actual Fantastic Four comic for Marvel for two years and is still going.
+
+411
+00:32:08,732 --> 00:32:09,128
+Rym: Three years.
+
+412
+00:32:10,190 --> 00:32:10,688
+Scott: Almost three years.
+
+413
+00:32:10,910 --> 00:32:19,950
+Rym: A surprising percentage of high tier webcomic people did the exact same sort of transition into being high tier comic comic people.
+
+414
+00:32:21,210 --> 00:32:23,821
+Scott: Yeah, that was a pathway for quite some time.
+
+415
+00:32:23,962 --> 00:32:25,890
+Scott: I don't know if that pathway still exists.
+
+416
+00:32:26,350 --> 00:32:35,750
+Scott: Partially because I think the people who succeed at webcomics nowadays, I think they probably make more money not going to a Marvel DC job if they would even want one.
+
+417
+00:32:37,914 --> 00:32:38,628
+Scott: Anyway, who knows?
+
+418
+00:32:38,710 --> 00:32:43,590
+Rym: So to give an impression, because I remember I had never read any Fantastic Four.
+
+419
+00:32:44,111 --> 00:32:45,590
+Scott: I mean, you knew about the Fantastic Four.
+
+420
+00:32:45,630 --> 00:32:46,073
+Scott: Exactly.
+
+421
+00:32:46,093 --> 00:32:48,749
+Rym: So what I knew about the Fantastic Four.
+
+422
+00:32:49,090 --> 00:32:50,039
+Scott: Oh, this is interesting.
+
+423
+00:32:50,080 --> 00:32:51,129
+Scott: What did Rym know about the Fantastic Four?
+
+424
+00:32:51,190 --> 00:32:52,279
+Rym: What did I know about the Fantastic Four?
+
+425
+00:32:52,299 --> 00:32:52,965
+Rym: Because I didn't know much.
+
+426
+00:32:53,126 --> 00:32:53,610
+Scott: One, I knew.
+
+427
+00:32:53,630 --> 00:32:54,388
+Scott: You know that there's four of them.
+
+428
+00:32:54,850 --> 00:32:55,692
+Rym: I knew there were four of them.
+
+429
+00:32:56,313 --> 00:32:57,696
+Rym: I knew they were based on the elements.
+
+430
+00:32:58,498 --> 00:33:04,530
+Rym: I knew my mom and her brother both read this, and my uncle has like a ton of old ones.
+
+431
+00:33:06,912 --> 00:33:13,225
+Rym: I knew that the Earth guy was called "The Thing" and he would clobber and he'd yell like, "It's clobbering
+
+432
+00:33:13,265 --> 00:33:13,566
+Rym: time!".
+
+433
+00:33:13,606 --> 00:33:15,550
+Rym: Like I knew the clobbering kind of thing.
+
+434
+00:33:16,390 --> 00:33:24,410
+Rym: I knew the phrase "flame on" for the Human Torch only because the Venture Brothers made multiple references to this and made fun of them a lot.
+
+435
+00:33:25,030 --> 00:33:32,850
+Rym: I knew the leader was a doctor who was super smart, super good guy, and had a building in New York City.
+
+436
+00:33:34,573 --> 00:33:35,950
+Scott: They all have the building.
+
+437
+00:33:36,150 --> 00:33:37,510
+Rym: Yeah, but I thought it was his building.
+
+438
+00:33:38,273 --> 00:33:39,290
+Scott: No, it's all their building.
+
+439
+00:33:39,711 --> 00:33:43,090
+Rym: And I always assumed he was married to the Invisible Woman.
+
+440
+00:33:43,870 --> 00:33:44,088
+Scott: He is.
+
+441
+00:33:44,310 --> 00:33:44,470
+Rym: Yes.
+
+442
+00:33:44,771 --> 00:33:45,432
+Rym: That is what I knew.
+
+443
+00:33:45,492 --> 00:33:48,759
+Rym: That is the extent of what I knew about the Fantastic Four.
+
+444
+00:33:49,140 --> 00:33:52,928
+Rym: As a kid, I always thought of them as, "Why would I read the Fantastic Four?
+
+445
+00:33:52,988 --> 00:33:53,870
+Rym: The X-Men are right
+
+446
+00:33:53,930 --> 00:33:54,030
+Rym: here.".
+
+447
+00:33:55,472 --> 00:33:58,750
+Scott: Well, let me tell you more information about the Fantastic Four.
+
+448
+00:33:59,150 --> 00:34:06,310
+Scott: So Sue Storm, who is the Invisible Woman, is Johnny Storm, the Human Torch's brother.
+
+449
+00:34:08,172 --> 00:34:09,656
+Scott: So Mr.
+
+450
+00:34:09,696 --> 00:34:15,730
+Scott: Fantastic, who married Susan Storm, is now I guess like brother-in-law Johnny Storm?
+
+451
+00:34:15,949 --> 00:34:16,909
+Rym: So it's a little family.
+
+452
+00:34:17,690 --> 00:34:18,695
+Rym: Oh right, and I knew Dr.
+
+453
+00:34:18,715 --> 00:34:21,349
+Rym: Doom was their primary villain and I weirdly know a lot about Dr.
+
+454
+00:34:21,389 --> 00:34:21,530
+Rym: Doom.
+
+455
+00:34:22,371 --> 00:34:23,034
+Scott: Yeah, Dr.
+
+456
+00:34:23,074 --> 00:34:25,784
+Scott: Doom is like the rival of Reed Richards.
+
+457
+00:34:25,824 --> 00:34:26,608
+Scott: He's like,
+
+458
+00:34:26,628 --> 00:34:26,768
+Scott: "Argh!".
+
+459
+00:34:28,610 --> 00:34:33,889
+Scott: The thing, the information you need to know about the thing, is that he's the best one and he's a Jew.
+
+460
+00:34:35,469 --> 00:34:37,429
+Scott: That's the important information about the thing.
+
+461
+00:34:39,891 --> 00:34:47,050
+Scott: But yeah, the thing about the Fantastic Four is that unlike other superhero comics, right, where it's primarily like Spider-Man.
+
+462
+00:34:47,150 --> 00:34:53,068
+Scott: It's like there's a villain who's doing a crime and Spider-Man is like, "I gotta stop you from doing this
+
+463
+00:34:53,208 --> 00:34:53,569
+Scott: crime.".
+
+464
+00:34:53,830 --> 00:34:57,100
+Scott: The Avengers, it's like someone's trying to destroy the world.
+
+465
+00:34:57,161 --> 00:35:00,170
+Scott: We need to get the Avengers to stop this from happening.
+
+466
+00:35:00,450 --> 00:35:01,237
+Rym: X-Men, what the fuck?
+
+467
+00:35:01,258 --> 00:35:02,589
+Rym: Megi goes up to something again.
+
+468
+00:35:03,010 --> 00:35:05,302
+Scott: Someone's trying to do a genocide on mutants.
+
+469
+00:35:05,362 --> 00:35:06,890
+Scott: We gotta stop them, right?
+
+470
+00:35:07,410 --> 00:35:10,160
+Scott: The Fantastic Four, are there villains that they fight?
+
+471
+00:35:10,843 --> 00:35:12,870
+Scott: Yes, obviously, right?
+
+472
+00:35:13,271 --> 00:35:15,637
+Scott: Are they punching and violencing?
+
+473
+00:35:16,078 --> 00:35:18,404
+Scott: Yes, occasionally, obviously.
+
+474
+00:35:18,504 --> 00:35:20,750
+Scott: Sometimes once per issue, like comic books do.
+
+475
+00:35:21,410 --> 00:35:24,939
+Scott: But it's typically not a situation where it's like, "Aha!
+
+476
+00:35:24,999 --> 00:35:27,105
+Scott: There is a villain who is up to no good.
+
+477
+00:35:27,506 --> 00:35:28,649
+Scott: We must stop
+
+478
+00:35:28,709 --> 00:35:28,869
+Scott: them.".
+
+479
+00:35:29,531 --> 00:35:33,480
+Scott: It is a science fiction story primarily.
+
+480
+00:35:33,680 --> 00:35:38,130
+Scott: Even in the old ancient days where it was corny as hell a lot of the time, right?
+
+481
+00:35:38,531 --> 00:35:45,005
+Scott: If you think about Galactus, it's not like, "Ho ho, there is this villain Galactus.
+
+482
+00:35:45,546 --> 00:35:46,007
+Scott: We must
+
+483
+00:35:46,027 --> 00:35:46,328
+Scott: battle.".
+
+484
+00:35:49,210 --> 00:35:51,420
+Scott: Galactus doesn't really know the Fantastic Four there.
+
+485
+00:35:51,460 --> 00:35:53,709
+Scott: He's this enormous cosmic force.
+
+486
+00:35:54,070 --> 00:35:59,430
+Rym: Imagine you reach into your fridge and you pull out an apple and you go to bite into it and then it starts shooting at you.
+
+487
+00:36:01,692 --> 00:36:05,479
+Scott: So the Fantastic Four, it's like, "Oh, something weird is going on.
+
+488
+00:36:05,659 --> 00:36:07,683
+Scott: There's a strange happening in the world.
+
+489
+00:36:07,944 --> 00:36:10,709
+Scott: Portals are opening up and people are getting sucked
+
+490
+00:36:10,949 --> 00:36:11,009
+Scott: in.".
+
+491
+00:36:11,490 --> 00:36:15,598
+Scott: Or, "Some strange dimensional happenings are going
+
+492
+00:36:16,119 --> 00:36:16,280
+Scott: on.".
+
+493
+00:36:16,520 --> 00:36:17,783
+Scott: Or, "People are all
+
+494
+00:36:17,823 --> 00:36:19,326
+Scott: hallucinating.".
+
+495
+00:36:19,827 --> 00:36:21,470
+Scott: Something strange is happening.
+
+496
+00:36:22,572 --> 00:36:33,628
+Scott: And the Fantastic Four, there may be a villain or an alien or something behind it that can be punched or kicked or whatever or scienced into being fixed.
+
+497
+00:36:35,730 --> 00:36:43,426
+Scott: But it's not about fighting crimes or necessarily evildoers.
+
+498
+00:36:44,207 --> 00:36:45,530
+Scott: Even though there may be evildoers.
+
+499
+00:36:45,670 --> 00:36:53,490
+Scott: It's about something's fucked the fuck up and we have the smart people and also superpowers and we can solve them.
+
+500
+00:36:54,650 --> 00:36:58,722
+Scott: Whereas Spider-Man would just be like, "A bunch of portals are opening up everywhere.
+
+501
+00:36:58,762 --> 00:37:01,169
+Scott: Spider-Man, what the fuck do you want me to do about
+
+502
+00:37:01,189 --> 00:37:01,309
+Scott: this?".
+
+503
+00:37:01,630 --> 00:37:03,625
+Rym: "I can put a web around one of them.
+
+504
+00:37:03,786 --> 00:37:04,249
+Scott: Alright.".
+
+505
+00:37:04,430 --> 00:37:06,597
+Scott: Yeah, you know what Spider-Man does when that shit happens?
+
+506
+00:37:06,878 --> 00:37:10,530
+Scott: He webs on over to the Baxter Building in the Fantastic Four.
+
+507
+00:37:10,911 --> 00:37:11,897
+Scott: "Hey, have you guys seen this
+
+508
+00:37:11,917 --> 00:37:12,098
+Scott: shit?".
+
+509
+00:37:12,139 --> 00:37:13,085
+Scott: And they'd be like, "Yeah, we
+
+510
+00:37:13,105 --> 00:37:13,246
+Scott: know.".
+
+511
+00:37:14,993 --> 00:37:15,841
+Scott: "Go catch a burglar,
+
+512
+00:37:15,861 --> 00:37:16,306
+Scott: Spider-Man.".
+
+513
+00:37:17,011 --> 00:37:21,170
+Rym: If it wasn't obvious, we don't need to dwell on it, this Fantastic Four is really good and I'm going to keep reading it.
+
+514
+00:37:21,290 --> 00:37:24,962
+Rym: I've read two, three of the trades and I'll see how long.
+
+515
+00:37:25,003 --> 00:37:27,170
+Rym: I just keep reading because it is enjoyable.
+
+516
+00:37:27,610 --> 00:37:34,990
+Rym: And what I like about it the most is that, I don't know their origin story, I assume a science accident turned them into this.
+
+517
+00:37:35,590 --> 00:37:36,493
+Scott: That's exactly right.
+
+518
+00:37:36,954 --> 00:37:38,599
+Scott: Basically, they were astronauts.
+
+519
+00:37:39,181 --> 00:37:42,250
+Scott: They were going to go to space and do awesome science research.
+
+520
+00:37:43,012 --> 00:37:48,930
+Scott: And the plane got hit by cosmic, the rocket, the space shuttle, whatever it was, got hit by cosmic rays or some shit.
+
+521
+00:37:49,310 --> 00:37:51,442
+Scott: And turned them from normal people into super people.
+
+522
+00:37:52,468 --> 00:37:52,730
+Scott: The end.
+
+523
+00:37:54,311 --> 00:38:00,110
+Rym: But I like how this does, it starts in media res, like the Fantastic Four are on the run.
+
+524
+00:38:00,990 --> 00:38:10,010
+Rym: And bit by bit, every issue is, there's a mystery that is pretty straightforward and resolved by the end of that issue.
+
+525
+00:38:10,512 --> 00:38:15,890
+Rym: But it's revealing, bit by bit, what's actually going on in the background.
+
+526
+00:38:16,631 --> 00:38:19,050
+Rym: Like, they're solving these little Fantastic Four mysteries along the way.
+
+527
+00:38:19,330 --> 00:38:23,510
+Rym: Like, there's a weird town with a bunch of Doombots, what the fuck's up with that?
+
+528
+00:38:24,274 --> 00:38:25,862
+Rym: Or, like, why is this happening?
+
+529
+00:38:25,923 --> 00:38:27,210
+Rym: Why did I forget this word?
+
+530
+00:38:27,370 --> 00:38:31,069
+Rym: Like, all these weird little things keep happening along the way and they resolve them.
+
+531
+00:38:31,670 --> 00:38:36,830
+Rym: But simultaneously, you're starting to learn this story that everybody hates the Fantastic Four.
+
+532
+00:38:37,532 --> 00:38:39,398
+Rym: And they blew up a city block?
+
+533
+00:38:39,659 --> 00:38:42,810
+Rym: And then, like, bit by bit, you start to unravel what happened.
+
+534
+00:38:43,090 --> 00:38:55,410
+Rym: But what I particularly like is that early on, one of the core themes of what this seems to be about is made sort of, it hits you over the head with it.
+
+535
+00:38:55,690 --> 00:39:03,970
+Rym: The one where, I think it's, I read it toward the middle of the second trade, where Doctor Doom shows up and then does the time loopy thing.
+
+536
+00:39:05,831 --> 00:39:20,089
+Rym: And at that point, part of the underlying story seems to be the Fantastic Four did the right thing, they did the best thing they could do, and everybody's pissed at them because the best thing they could do caused some chaos and some problems, and maybe they didn't understand it.
+
+537
+00:39:20,590 --> 00:39:24,850
+Rym: But the underlying story is, sometimes the best thing you can do isn't perfect.
+
+538
+00:39:25,270 --> 00:39:34,569
+Rym: Like, not every problem can be fixed 100%, not every solution to every problem is great, and there's always trade-offs to everything, and you still gotta try to do the best you can.
+
+539
+00:39:35,590 --> 00:39:39,039
+Scott: And I think that's what sets this apart from the older Fantastic Four type of stories.
+
+540
+00:39:43,310 --> 00:39:48,350
+Scott: They would be the same, if you read an old Fantastic Four, it's gonna be the same kind of thing.
+
+541
+00:39:48,650 --> 00:39:50,881
+Scott: "A weird thing is happening this issue.
+
+542
+00:39:51,303 --> 00:39:52,529
+Scott: Let's figure this shit
+
+543
+00:39:52,650 --> 00:39:52,730
+Scott: out.".
+
+544
+00:39:53,831 --> 00:40:03,410
+Scott: But they would always basically 100% fix everything, and then another bad thing would happen, but the good guys would always win for the majority of the issues.
+
+545
+00:40:03,670 --> 00:40:06,350
+Scott: Whereas here, that's the one thing that is different.
+
+546
+00:40:06,470 --> 00:40:13,430
+Scott: They took the same formula, and the twist on it is, yeah, they couldn't actually fix it perfectly.
+
+547
+00:40:14,990 --> 00:40:19,562
+Rym: And it addresses a lot of those ideas of, maybe one of them is, "Mr.
+
+548
+00:40:19,602 --> 00:40:22,209
+Rym: Fantastic has beaten himself up over 'I couldn't have done
+
+549
+00:40:22,229 --> 00:40:22,470
+Rym: better.'".
+
+550
+00:40:23,614 --> 00:40:25,786
+Rym: "I did the best I could, but was it the right thing?
+
+551
+00:40:25,907 --> 00:40:26,249
+Rym: Oh, I don't
+
+552
+00:40:26,289 --> 00:40:26,430
+Rym: know.".
+
+553
+00:40:27,012 --> 00:40:31,890
+Scott: Well, that's also something that's very classic for the Fantastic Four.
+
+554
+00:40:32,330 --> 00:40:37,683
+Scott: Usually, that kind of stuff focuses on the Thing, who always has.
+
+555
+00:40:38,244 --> 00:40:45,866
+Scott: the most famous issue, which I think everyone should read, even though it's old and has corny Stan Lee writing, is the "This man, this
+
+556
+00:40:45,947 --> 00:40:46,428
+Scott: monster!"
+
+557
+00:40:47,532 --> 00:40:52,307
+Scott: Where he's like, "Oh, I'm so ugly, nobody likes me, I'm a
+
+558
+00:40:52,367 --> 00:40:52,869
+Scott: monster!".
+
+559
+00:40:53,411 --> 00:40:59,170
+Scott: It's a very Frankenstein kind of story with the Thing, and that is his overriding deal.
+
+560
+00:41:00,690 --> 00:41:11,590
+Scott: But here, the other characters had that to some extent, the inner turmoils, but much lesser because they were people.
+
+561
+00:41:13,151 --> 00:41:18,149
+Rym: At least in this comic, the human torch is basically like, "My powers are fucking great, and I'm fucking
+
+562
+00:41:18,169 --> 00:41:18,450
+Rym: great!".
+
+563
+00:41:18,590 --> 00:41:19,597
+Scott: He's always like that.
+
+564
+00:41:20,603 --> 00:41:21,550
+Scott: That's how he's always been.
+
+565
+00:41:22,151 --> 00:41:31,149
+Rym: One of the first ones is him having to solve the problem of local capitalism being bad, and he can't just burn it.
+
+566
+00:41:32,330 --> 00:41:32,402
+Scott: Yup.
+
+567
+00:41:33,271 --> 00:41:35,930
+Rym: That was the second or the third one, and it was really funny.
+
+568
+00:41:35,930 --> 00:41:37,462
+Scott: Can't solve it with fire, bro.
+
+569
+00:41:37,482 --> 00:41:38,329
+Scott: Fire ain't gonna do it.
+
+570
+00:41:40,051 --> 00:41:44,884
+Rym: But the art's great, it's just a delight, the writing's good, the stories are concise.
+
+571
+00:41:44,904 --> 00:41:47,190
+Rym: I recommend this very highly.
+
+572
+00:41:48,493 --> 00:41:54,650
+Scott: I think the last thing that makes it interesting is that sort of mysterious backstory of how did this happen.
+
+573
+00:41:55,390 --> 00:42:01,310
+Scott: I think if you read the comics that came before that first issue, you won't find the answer in there.
+
+574
+00:42:01,891 --> 00:42:03,829
+Scott: The answer is only once you go forward.
+
+575
+00:42:05,310 --> 00:42:17,370
+Scott: But also, because they're sort of disliked by everyone because of the thing that they did, they're not in their Baxter Building, like on top of the world, trusted by everybody.
+
+576
+00:42:17,891 --> 00:42:20,789
+Rym: They're like on the road, hiding out, at one point the CIA is chasing them.
+
+577
+00:42:20,910 --> 00:42:22,989
+Scott: Right, they're hanging out at Aunt Petunia's house or whatever.
+
+578
+00:42:25,194 --> 00:42:43,230
+Scott: It's like they've been brought low, and it makes things more difficult and more interesting, but also helps bring it back to basics and make it more accessible, because you don't have to deal with them in the grander Marvel universe where they're in a significant position.
+
+579
+00:42:43,891 --> 00:42:51,710
+Scott: When they're in a low position and the setting is more local, someone who's new to it can just come right in.
+
+580
+00:42:51,910 --> 00:42:53,150
+Scott: It's more welcoming.
+
+581
+00:42:53,711 --> 00:43:02,390
+Rym: If you knew less than I knew, if you knew literally nothing about the Fantastic Four and had never read a superhero comic before, this would be fine and make perfect sense.
+
+582
+00:43:02,751 --> 00:43:09,370
+Scott: If you've somehow never heard of Doctor Who- And you don't need to read any other Marvel comics, though I imagine at some point you will.
+
+583
+00:43:09,770 --> 00:43:12,450
+Scott: Because there's going to be some kind of events and crossovers and bullshit.
+
+584
+00:43:12,450 --> 00:43:13,032
+Rym: Of course there will.
+
+585
+00:43:13,433 --> 00:43:24,750
+Rym: But it goes out of its way to give you the context that matters for the story, and then everything else either doesn't matter or you're going to learn it in the course of reading these issues.
+
+586
+00:43:28,691 --> 00:43:31,060
+Rym: This has been GeekNights with Rim and Scott.
+
+587
+00:43:31,120 --> 00:43:33,630
+Rym: Special thanks to DJ Pretzel for the opening theme.
+
+588
+00:43:33,830 --> 00:43:39,850
+Scott: Be sure to visit our website at FrontRowClue.com for show notes, discussion, links, and more.
+
+589
+00:43:40,332 --> 00:43:43,022
+Rym: Remember, GeekNights is not one but four different shows.
+
+590
+00:43:43,324 --> 00:43:44,890
+Rym: Mondays are science and technology.
+
+591
+00:43:45,030 --> 00:43:46,775
+Rym: Tuesdays, gaming and games.
+
+592
+00:43:46,876 --> 00:43:48,701
+Rym: Wednesdays are animation and comics.
+
+593
+00:43:49,022 --> 00:43:51,510
+Rym: Thursdays are arbitrary and indiscriminate.
+
+594
+00:43:52,230 --> 00:43:57,090
+Rym: GeekNights is distributed under a Creative Commons Attribution 4.0 international license.
+
+595
+00:43:57,610 --> 00:44:01,880
+Scott: GeekNights is recorded live with no studio and no audience.
+
+596
+00:44:02,362 --> 00:44:05,830
+Scott: But unlike those other late shows, it's actually recorded at night.
+
+597
+00:44:06,271 --> 00:44:19,110
+Rym: And the Patreon patrons for this episode of GeekNights are Ella Joyce, Linky G, Jirrei Lillie, Tenebrae, Chris, The Dog, Christopher, Clinton Walton, Finn, Joel Hayes, Penny Rymer, Rebecca Dunst, Sam Erickson, Shervin Von Hurl, and several people whose names I will not say.
+
+598
+00:44:19,650 --> 00:44:23,830
+Rym: I'm going to cut this short because I'm going to go try to watch the PWHL game in the other room.
+
+599
+00:44:24,010 --> 00:44:29,710
+Rym: So tonight, I leave you with... Let me tell you something about human's nephew.
+
+600
+00:44:32,336 --> 00:44:34,260
+Media: There are wonderful, friendly people.
+
+601
+00:44:35,220 --> 00:44:42,645
+Media: As long as their bellies are full and their holosuites will deprive them of full sonic showers.
+
+602
+00:44:52,451 --> 00:45:08,750
+Media: With their lives in jeopardy over an extended period of time, and those same friendly, intelligent, wonderful people will become as nasty and as violent as the most bloodthirsty Klingon.
+
+603
+00:45:11,177 --> 00:45:11,869
+Media: You don't believe me?
+
+604
+00:45:14,870 --> 00:45:15,932
+Media: Look at those faces.
+
+605
+00:45:17,393 --> 00:45:18,234
+Media: Look in their eyes.
+
+606
+00:45:21,919 --> 00:45:22,900
+Media: You know I'm right, don't you?
+

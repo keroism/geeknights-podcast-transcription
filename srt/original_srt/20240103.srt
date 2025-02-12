@@ -1,0 +1,3340 @@
+﻿1
+00:00:08,140 --> 00:00:10,138
+Speaker 1: It's Wednesday, January 3rd, 2024.
+
+2
+00:00:10,138 --> 00:00:10,299
+Speaker 1: I'm Rem.
+
+3
+00:00:14,575 --> 00:00:15,007
+Speaker 0: I'm Scott.
+
+4
+00:00:15,550 --> 00:00:16,773
+Speaker 1: And this is Geek Nights.
+
+5
+00:00:16,814 --> 00:00:22,650
+Speaker 1: Tonight we're gonna review a bunch of stuff that only one of us has seen or read.
+
+6
+00:00:23,670 --> 00:00:24,668
+Speaker 0: Let's do this.
+
+7
+00:00:26,191 --> 00:00:31,030
+Speaker 1: So the other night, New Year's Day actually, Emily and I, we stayed home.
+
+8
+00:00:31,230 --> 00:00:33,338
+Speaker 1: We didn't do any New Year's thing.
+
+9
+00:00:33,378 --> 00:00:35,085
+Speaker 1: We stayed home, relaxed.
+
+10
+00:00:35,105 --> 00:00:36,330
+Speaker 1: It was a pretty good time.
+
+11
+00:00:36,651 --> 00:00:41,990
+Speaker 1: I feel like next year is the year for a big, crazy party, but this year felt like a really calm time.
+
+12
+00:00:43,151 --> 00:00:45,237
+Speaker 1: So that day, we just decided to go out for a walk.
+
+13
+00:00:45,357 --> 00:00:49,410
+Speaker 1: We had to pick up a little bit of medicine for the rabbit at the vet right over the bridge anyway.
+
+14
+00:00:49,870 --> 00:00:58,630
+Speaker 1: So we biked over the bridge on some city bikes, and then we just wandered around because there was something notable in Manhattan that we wanted to look at right over there.
+
+15
+00:00:59,271 --> 00:01:11,150
+Speaker 1: So the Animal Medical Center, which is the vet for Moogie, our rabbit, which happens to be possibly the best, most capable exotic animal hospital in the world.
+
+16
+00:01:11,550 --> 00:01:12,770
+Speaker 1: Just happens to be right there.
+
+17
+00:01:12,910 --> 00:01:18,430
+Speaker 0: I don't know if it's in the world, but it's clearly, it's a top, it's not a usual kind of place, right?
+
+18
+00:01:18,450 --> 00:01:29,809
+Speaker 0: If you're not in a major city, and I think even other major cities usually don't have, it's a very large building, and on the side of it, it's like, you know, Animal Hospital, right?
+
+19
+00:01:29,930 --> 00:01:41,290
+Speaker 1: It's not just, it's a full hospital, not just for regular, typical animals, but also exotic animals, and it's a research hospital, it's a non-profit, and it is like top tier.
+
+20
+00:01:42,030 --> 00:01:45,209
+Speaker 0: Yeah, it can handle basically every kind of animal there is.
+
+21
+00:01:45,590 --> 00:01:49,357
+Speaker 0: Yeah, like I remember one time- It's not just, most places just have a vet.
+
+22
+00:01:49,417 --> 00:01:54,450
+Speaker 0: Maybe farm places have, you know, the horse vet and the cow vet, but this is an everything vet.
+
+23
+00:01:55,233 --> 00:02:00,390
+Speaker 0: I don't know who brings their horse to New York City to get it checked, but you could bring basically any kind of animal.
+
+24
+00:02:01,110 --> 00:02:08,190
+Speaker 1: I remember one time we went there with Theo Den, because he was a little sick, and in the room next to us was someone with their kestrel.
+
+25
+00:02:08,370 --> 00:02:11,627
+Speaker 0: I mean, you know, they're probably still doing mostly dog biz, right?
+
+26
+00:02:11,647 --> 00:02:12,310
+Speaker 0: That's the most common.
+
+27
+00:02:12,310 --> 00:02:16,970
+Speaker 1: Yeah, it's mostly dogs, and also all the NYPD police dogs go there, which makes sense.
+
+28
+00:02:17,411 --> 00:02:24,910
+Speaker 1: So anyway, we stopped by there, but it's right at the entrance to a park that has been closed for a long time.
+
+29
+00:02:25,370 --> 00:02:30,150
+Speaker 1: New York, there's two sides of Manhattan, the east side and the west side.
+
+30
+00:02:30,490 --> 00:02:32,430
+Speaker 0: There are four sides, it's an oval.
+
+31
+00:02:32,730 --> 00:02:34,429
+Speaker 1: No, there's a top and a bottom and two sides.
+
+32
+00:02:35,570 --> 00:02:45,010
+Speaker 1: But basically, yeah, yeah, what I'm getting at is on the west side, there's a mixed use bike path that goes all the way from the bottom to the top uninterrupted, and it's really nice.
+
+33
+00:02:45,691 --> 00:02:53,088
+Speaker 0: It is the most used bike path, I think, and most trafficked in the world, United States, something, you know, whatever.
+
+34
+00:02:53,148 --> 00:02:54,110
+Speaker 0: It's used a lot.
+
+35
+00:02:54,890 --> 00:02:55,796
+Speaker 1: It's impressive.
+
+36
+00:02:55,836 --> 00:03:00,370
+Speaker 1: Like, if you've never seen it, whatever bike path you think- It's not that impressive, it's just a strip of pavement.
+
+37
+00:03:00,610 --> 00:03:03,908
+Speaker 1: It is impressive that that exists, considering how America is.
+
+38
+00:03:05,891 --> 00:03:13,210
+Speaker 0: The Ocean Parkway one was the first one, and it was amazingly impressive when it was new.
+
+39
+00:03:14,173 --> 00:03:19,430
+Speaker 0: And now it's basically just a highway with some broken concrete and some benches on the side.
+
+40
+00:03:21,390 --> 00:03:26,570
+Speaker 1: So the east side has a much more troubled history of trying to have paths like that.
+
+41
+00:03:26,690 --> 00:03:30,810
+Speaker 1: There's old paths that are blocked off because they've been slowly collapsing into the river.
+
+42
+00:03:31,772 --> 00:03:35,510
+Speaker 1: There are old paths that are blocked off for random reasons.
+
+43
+00:03:35,891 --> 00:03:43,790
+Speaker 1: There are parts where there's just no place to put a path, including the United Nations, which is prickly about stuff being behind it for reasons you can imagine.
+
+44
+00:03:46,231 --> 00:03:57,630
+Speaker 0: The west side was a lot easier to put stuff on because you have a lot of stuff like all these places for cruise ships to dock and things like that.
+
+45
+00:03:57,930 --> 00:04:02,970
+Speaker 0: Whereas the east, if you go up and down the east, you've got all these different interests and things.
+
+46
+00:04:03,331 --> 00:04:08,910
+Speaker 0: There's a park here, there's a housing project here, there's all kinds of shit in the way, all the way up.
+
+47
+00:04:09,350 --> 00:04:12,510
+Speaker 0: And each section has different hassles you gotta deal with.
+
+48
+00:04:14,671 --> 00:04:21,308
+Speaker 1: So if you go over the bridge into Manhattan on the east side, you can go north, but that's been blocked off for construction for years.
+
+49
+00:04:22,570 --> 00:04:27,490
+Speaker 1: Now I've been running through it anyway this whole time, and I was the Strava local legend until recently.
+
+50
+00:04:27,610 --> 00:04:29,929
+Speaker 1: All you have to do is hop six fences along the way, and it's really nice.
+
+51
+00:04:30,271 --> 00:04:33,750
+Speaker 1: Because it's all finished back there mostly, but it was just blocked off for reasons.
+
+52
+00:04:34,090 --> 00:04:37,910
+Speaker 0: They don't unblock it until it's truly done, done, done, done.
+
+53
+00:04:38,311 --> 00:04:40,030
+Speaker 0: And then they have a ribbon cutting or whatever.
+
+54
+00:04:40,110 --> 00:04:43,410
+Speaker 0: Then they unblock things, even if they're basically done.
+
+55
+00:04:44,574 --> 00:04:45,669
+Speaker 1: Like when we used to bike up.
+
+56
+00:04:45,770 --> 00:04:48,470
+Speaker 0: As long as people aren't doing construction while you're going through.
+
+57
+00:04:48,670 --> 00:04:59,830
+Speaker 1: Yeah, I remember every weekend if we biked through Van Cortlandt Park, someone cut the fence, or cut the gate, or cut the lock to open that little closed bit of the bike path.
+
+58
+00:05:00,010 --> 00:05:02,669
+Speaker 1: And then someone would seal it up, and then someone would open it again.
+
+59
+00:05:04,111 --> 00:05:07,830
+Speaker 1: But if you went south there, there really was nowhere to go south.
+
+60
+00:05:08,150 --> 00:05:15,610
+Speaker 1: Like there was an old promenade that is like busted up to a degree that it looks like it would fall apart if you so much as sneezed on it.
+
+61
+00:05:15,851 --> 00:05:18,790
+Speaker 0: No, the path south starts at like 30-something street.
+
+62
+00:05:18,870 --> 00:05:27,070
+Speaker 0: So basically from 50-something to 30-something there's like a 20 block gap where you have to use basically First Avenue to go south reasonably.
+
+63
+00:05:28,513 --> 00:05:33,730
+Speaker 0: You could go in Sutton Place a little bit south for like five blocks, and then you gotta go on First Avenue anyway.
+
+64
+00:05:34,671 --> 00:05:38,685
+Speaker 1: And there are, mixed in that area, there are some old paths.
+
+65
+00:05:40,610 --> 00:05:41,390
+Speaker 0: First Avenue goes north.
+
+66
+00:05:41,390 --> 00:05:45,650
+Speaker 1: But they're blocked off on either end because of the way the FDR was built and overbuilt over the years.
+
+67
+00:05:45,810 --> 00:05:50,130
+Speaker 1: So they're just like these blocked off inaccessible segments of what used to be pedestrian way.
+
+68
+00:05:50,210 --> 00:06:02,430
+Speaker 1: But anyway, they finally finish this super long project to build a new promenade from this park, which is right next to the medical center, all the way down to Sutton Place, that park.
+
+69
+00:06:03,192 --> 00:06:05,889
+Speaker 1: It's like out in the river, it's super wide.
+
+70
+00:06:06,171 --> 00:06:12,390
+Speaker 0: They close this gap of, there's that 20-something block gap, and now it's more like a 15 block gap.
+
+71
+00:06:13,730 --> 00:06:28,410
+Speaker 1: And while the city has said forever they intend to complete the path on the entire east side, for any of you who's lived in New York, there is a big step between the city saying it intends to do something and that thing happening.
+
+72
+00:06:28,450 --> 00:06:39,170
+Speaker 0: Yeah, if you look at all of the different city, state, even federal agencies, there are all sorts of plans, projects, things that people have written up.
+
+73
+00:06:40,210 --> 00:06:51,030
+Speaker 0: And it's like, if somehow all those things were done, the United States would be transformed into some miraculous paradise of some kind, with all this public infrastructure and facilities.
+
+74
+00:06:51,571 --> 00:06:56,197
+Speaker 0: But basically, people see those plans and they're like, "Ooh, this is going to
+
+75
+00:06:56,217 --> 00:06:56,578
+Speaker 0: happen.".
+
+76
+00:06:56,618 --> 00:07:04,870
+Speaker 0: But really, the idea is that the government employees make those plans for their agency, and that's what they get paid to do.
+
+77
+00:07:05,430 --> 00:07:09,517
+Speaker 0: And then what actually gets made is what gets money.
+
+78
+00:07:09,777 --> 00:07:17,050
+Speaker 0: And so it's up to the politicians of the day to decide which of the, you know, they look around and they're like, "What are we going to spend the money
+
+79
+00:07:17,110 --> 00:07:17,150
+Speaker 0: on?".
+
+80
+00:07:17,250 --> 00:07:19,412
+Speaker 0: Well, there's obviously all the things that already exist.
+
+81
+00:07:20,053 --> 00:07:23,516
+Speaker 0: And then it's like, "Okay, well, here's the money for things that are new.
+
+82
+00:07:24,237 --> 00:07:26,139
+Speaker 0: All these people have a million plans.
+
+83
+00:07:26,299 --> 00:07:27,120
+Speaker 0: Let's pick some of
+
+84
+00:07:27,180 --> 00:07:27,340
+Speaker 0: them.".
+
+85
+00:07:27,930 --> 00:07:28,131
+Speaker 0: Right?
+
+86
+00:07:28,371 --> 00:07:30,175
+Speaker 0: Will they actually get some money?
+
+87
+00:07:30,415 --> 00:07:33,641
+Speaker 0: Will they get enough money to proceed and actually happen?
+
+88
+00:07:34,082 --> 00:07:38,130
+Speaker 0: Will they get enough money to, like, enhance the plan but not actually do the plan?
+
+89
+00:07:38,751 --> 00:07:45,929
+Speaker 0: You know, it's like if you're the employee at an agency and your plan got some money, it's like, "Ooh, I'm going to get a promotion.
+
+90
+00:07:45,949 --> 00:07:46,069
+Speaker 0: All
+
+91
+00:07:46,089 --> 00:07:46,290
+Speaker 0: right.".
+
+92
+00:07:46,870 --> 00:07:48,073
+Speaker 1: And there's also two kinds of plans.
+
+93
+00:07:48,093 --> 00:07:54,230
+Speaker 1: There's the kind of plan that is, this is what will happen as stages are funded, but stages might just never get funded.
+
+94
+00:07:54,611 --> 00:07:55,994
+Speaker 1: And then there's the plan Scott described.
+
+95
+00:07:56,014 --> 00:08:03,470
+Speaker 1: So anyway, while the city has said forever they're going to make a path that goes all the way up and down the east side, it's coming in dribs and drabs.
+
+96
+00:08:03,991 --> 00:08:10,546
+Speaker 1: But what was very interesting, this path is super overbuilt, the new one, the East Midtown Greenway.
+
+97
+00:08:10,907 --> 00:08:12,270
+Speaker 1: Like, it's really big.
+
+98
+00:08:13,911 --> 00:08:15,610
+Speaker 0: It's wide, but it's not very long.
+
+99
+00:08:16,271 --> 00:08:16,331
+Speaker 1: Yep.
+
+100
+00:08:16,351 --> 00:08:22,710
+Speaker 1: It dead ends suddenly and does a sharp right turn at, like, 51st Street, and then it's a bunch of nonsense.
+
+101
+00:08:24,270 --> 00:08:29,949
+Speaker 1: Directly under it is one of those abandoned paths that you can get to, and there is a bridge that goes to it.
+
+102
+00:08:30,890 --> 00:08:38,789
+Speaker 1: But there's a big flat spot that is very obviously intended for this to continue if they ever build the next segment.
+
+103
+00:08:39,270 --> 00:08:40,214
+Speaker 1: It's, like, set up.
+
+104
+00:08:40,335 --> 00:08:43,830
+Speaker 1: You can see where the next segment would connect to the existing segment.
+
+105
+00:08:44,311 --> 00:08:51,630
+Speaker 1: And from that spot, you can see another thing that is right on the other side of the U.N.
+
+106
+00:08:52,231 --> 00:09:04,230
+Speaker 1: It's a thing called the East River Esplanade, which they built a while ago, which is extra weird because when they built it, you could basically cross a little bridge and be in this little esplanade by the river that is super long.
+
+107
+00:09:04,671 --> 00:09:10,730
+Speaker 1: Like, it goes, like, seven blocks and then dead ends, and there's only one way in and out all the way at one end, and it's just gigantic.
+
+108
+00:09:11,730 --> 00:09:31,189
+Speaker 1: And it ends at, like, 41st Street, and it is clear that the intention is to build another thing that connects the end of that to the end of this because that would bypass the U.N But right now, there is no plan to build that, so there's two paths that end in dead ends, and you can see them from each other behind the U.N
+
+109
+00:09:32,214 --> 00:09:34,550
+Speaker 0: Yeah, you know, when we're old people, this might happen.
+
+110
+00:09:34,910 --> 00:09:44,009
+Speaker 1: Yeah, but while we're walking over there, like, we see what can only be described as a field of light in the distance, and we're like, "What the fuck is
+
+111
+00:09:44,029 --> 00:09:44,310
+Speaker 1: that?".
+
+112
+00:09:44,711 --> 00:09:52,210
+Speaker 1: So we walk over, and over on that side of Manhattan, there's this giant empty lot that's been empty for as long as I've lived here.
+
+113
+00:09:52,471 --> 00:09:55,009
+Speaker 1: It's like this big open field that's got fences around it.
+
+114
+00:09:55,991 --> 00:10:03,850
+Speaker 1: And the field was absolutely filled with LEDs in a gigantic art installation called the Field of Light that I didn't even know was there.
+
+115
+00:10:04,590 --> 00:10:05,793
+Speaker 1: And we're like, "Ooh, what's
+
+116
+00:10:05,833 --> 00:10:06,154
+Speaker 1: this?".
+
+117
+00:10:06,274 --> 00:10:13,730
+Speaker 1: And we walk over, and there's a tiny line of people to get in, and there's a ton of paid employees standing around.
+
+118
+00:10:13,830 --> 00:10:15,178
+Speaker 1: They're like, "Oh, are you here for the Field of
+
+119
+00:10:15,198 --> 00:10:15,419
+Speaker 1: Light?".
+
+120
+00:10:15,439 --> 00:10:15,862
+Speaker 1: And we're like,
+
+121
+00:10:15,882 --> 00:10:16,868
+Speaker 1: "Yes.".
+
+122
+00:10:17,290 --> 00:10:18,175
+Speaker 1: And they're like, "Do you have a
+
+123
+00:10:18,215 --> 00:10:18,477
+Speaker 1: ticket?".
+
+124
+00:10:18,537 --> 00:10:19,060
+Speaker 1: And we're like,
+
+125
+00:10:20,186 --> 00:10:20,528
+Speaker 1: "No.".
+
+126
+00:10:21,271 --> 00:10:26,188
+Speaker 1: And they're like, "Oh, well, they're sold out, so you couldn't get one anyway, but you can stand here and wait and stand
+
+127
+00:10:26,228 --> 00:10:26,409
+Speaker 1: by.".
+
+128
+00:10:26,830 --> 00:10:30,103
+Speaker 1: And then he leans in, and he's like, "Everyone's getting in.
+
+129
+00:10:30,123 --> 00:10:30,906
+Speaker 1: It's gonna take, like, a
+
+130
+00:10:31,208 --> 00:10:31,489
+Speaker 1: minute.".
+
+131
+00:10:31,930 --> 00:10:37,710
+Speaker 1: And then they let us in, and it's just this giant art installation from this famous guy, and there's a whole thing that I'll link to.
+
+132
+00:10:38,111 --> 00:10:43,810
+Speaker 1: And we spent the night walking around this kind of beautiful art installation in a field in Manhattan.
+
+133
+00:10:44,511 --> 00:10:46,238
+Speaker 0: I gotta get in the art installation business.
+
+134
+00:10:46,278 --> 00:10:48,990
+Speaker 0: I have so many art installation ideas, right?
+
+135
+00:10:49,712 --> 00:10:51,357
+Speaker 0: It's like, what did the guy really do?
+
+136
+00:10:51,839 --> 00:10:55,670
+Speaker 0: He sat there, and he put LEDs on little sticks, and just got a fuck ton of them.
+
+137
+00:10:55,710 --> 00:10:57,136
+Speaker 1: Well, actually, it's a little more complex than that.
+
+138
+00:10:57,217 --> 00:11:00,270
+Speaker 1: It's actually fiber optics that lead to... Anyway, it's a whole thing.
+
+139
+00:11:01,110 --> 00:11:06,563
+Speaker 0: Right, but it's not something that's... It's obviously, you need to get the money to do it.
+
+140
+00:11:06,823 --> 00:11:08,307
+Speaker 0: You need to get the time to do it.
+
+141
+00:11:10,390 --> 00:11:16,730
+Speaker 1: You gotta have the name to convince a city that it's a good idea to do, and convince people to give you money to do it.
+
+142
+00:11:16,730 --> 00:11:22,265
+Speaker 0: Like, if I did the exact same fucking thing as that guy, and I paid for it myself somehow, right?
+
+143
+00:11:22,345 --> 00:11:23,949
+Speaker 0: It's like, would they let me do that?
+
+144
+00:11:24,009 --> 00:11:24,150
+Speaker 0: No.
+
+145
+00:11:24,470 --> 00:11:25,826
+Speaker 0: Would anyone buy tickets to it?
+
+146
+00:11:25,907 --> 00:11:26,089
+Speaker 0: No.
+
+147
+00:11:26,830 --> 00:11:27,674
+Speaker 1: The tickets are free.
+
+148
+00:11:28,378 --> 00:11:30,870
+Speaker 1: The city paid for it, as far as I can tell, as well as a bunch of charities.
+
+149
+00:11:31,411 --> 00:11:36,709
+Speaker 1: And at the entrance to it, there was a whole thing that was like, "Here's how this guy got this
+
+150
+00:11:36,729 --> 00:11:36,930
+Speaker 1: done.".
+
+151
+00:11:36,950 --> 00:11:46,949
+Speaker 1: And basically, like, 20 years ago, he did a really, really, really, really tiny one on his shoestring budget, and just kept doing the same thing bigger and bigger and bigger over time.
+
+152
+00:11:47,550 --> 00:11:49,577
+Speaker 0: There's a lot of people who do that.
+
+153
+00:11:49,638 --> 00:11:53,010
+Speaker 0: They got their thing, and they just keep doing it, and it's a good move.
+
+154
+00:11:53,991 --> 00:11:54,211
+Speaker 1: Yep.
+
+155
+00:11:54,232 --> 00:12:01,730
+Speaker 1: So, yeah, all that was a long way of saying, the best reason to live in New York City is that, I mean, what did we just talk about?
+
+156
+00:12:01,930 --> 00:12:04,099
+Speaker 1: We got one of the best animal medical centers in the world.
+
+157
+00:12:04,119 --> 00:12:06,870
+Speaker 1: We got one of the best bike paths inside of a city in the world.
+
+158
+00:12:07,311 --> 00:12:10,729
+Speaker 1: And if you wander around randomly, you'll just bump into art installations like this.
+
+159
+00:12:12,151 --> 00:12:13,154
+Speaker 1: It's a cool place to live.
+
+160
+00:12:14,438 --> 00:12:18,009
+Speaker 1: There's actually huge news that we can talk about, too.
+
+161
+00:12:20,291 --> 00:12:26,870
+Speaker 1: Mickey Mouse, at least, the OG Mickey Mouse, something I never actually thought would happen while I was alive.
+
+162
+00:12:27,870 --> 00:12:28,649
+Speaker 1: He's in the public domain.
+
+163
+00:12:30,413 --> 00:12:35,007
+Speaker 0: They extended copyright by 15 years, right, when they extended it, and when we were in college.
+
+164
+00:12:36,592 --> 00:12:42,150
+Speaker 1: I remember being an activist fighting against every extension of copyright that happened while I was alive.
+
+165
+00:12:43,350 --> 00:12:43,531
+Speaker 0: Yep.
+
+166
+00:12:43,672 --> 00:12:49,610
+Speaker 0: And then, you know, the Supreme Court was like, because the Constitution says it has to be limited.
+
+167
+00:12:49,730 --> 00:12:52,219
+Speaker 0: It has the word limited in the Constitution, right?
+
+168
+00:12:52,239 --> 00:12:55,530
+Speaker 0: It cannot be an infinitely long copyright license, right?
+
+169
+00:12:55,970 --> 00:13:04,396
+Speaker 0: So if they tried to write a law that said copyright lasts forever, the Supreme Court would say, even this Supreme Court would say, "No, that law is unconstitutional.
+
+170
+00:13:04,897 --> 00:13:05,639
+Speaker 0: It says limited.
+
+171
+00:13:06,080 --> 00:13:09,929
+Speaker 0: Even an originalist can't interpret that to mean that unlimited is
+
+172
+00:13:09,989 --> 00:13:10,150
+Speaker 0: okay.".
+
+173
+00:13:10,250 --> 00:13:12,670
+Speaker 1: Unless with this Supreme Court, a Republican just gave them money.
+
+174
+00:13:13,450 --> 00:13:17,683
+Speaker 0: I'm just saying, even this Supreme Court would, right?
+
+175
+00:13:17,984 --> 00:13:19,950
+Speaker 0: And the last time, they extended copyright.
+
+176
+00:13:20,630 --> 00:13:24,490
+Speaker 0: And there was, we talked about it when it happened, because it was that long ago, and Geek Nice is that old.
+
+177
+00:13:25,251 --> 00:13:40,550
+Speaker 0: They went to the Supreme Court, and Larry Lessig went to argue, and he said, "Hey, they're getting around the Constitution by, instead of making a law that says unlimited, they just keep making a new law with a larger term, effectively making it
+
+178
+00:13:40,590 --> 00:13:40,950
+Speaker 0: unlimited.".
+
+179
+00:13:41,050 --> 00:13:47,918
+Speaker 0: And the Supreme Court said, their decision was, very simply, right, "This is okay.
+
+180
+00:13:48,098 --> 00:13:58,389
+Speaker 0: This limit is okay, but if we see you go down the slippery slope anymore, we're gonna hint that we're gonna then maybe change our
+
+181
+00:13:58,429 --> 00:13:58,750
+Speaker 0: mind.".
+
+182
+00:14:00,113 --> 00:14:00,313
+Speaker 0: Right?
+
+183
+00:14:00,333 --> 00:14:06,030
+Speaker 0: So they had already gone down the slope quite a ways with extensions, and making copyright last longer.
+
+184
+00:14:06,491 --> 00:14:18,030
+Speaker 0: But last time, they sort of said, "This, hinting this is the last time, well, if you try to make it 90 years instead of 75 or whatever it is, we're gonna probably not look too kindly on
+
+185
+00:14:18,070 --> 00:14:18,230
+Speaker 0: that.".
+
+186
+00:14:18,670 --> 00:14:25,062
+Speaker 0: And so, you know, this government can't pass any legislation anyway, so copyright has not been extended further.
+
+187
+00:14:25,343 --> 00:14:29,250
+Speaker 0: We haven't had a new major copyright law, what, since the DMCA, basically, right?
+
+188
+00:14:29,370 --> 00:14:39,270
+Speaker 1: Yeah, because it sucks that our Congress can't do basic things, but the one benefit is- You mean things that are not, you know, controversial between the two parties?
+
+189
+00:14:39,310 --> 00:14:42,870
+Speaker 1: Like getting rid of Daylight Saving Time, where almost everyone in America wants to get rid of it?
+
+190
+00:14:43,730 --> 00:14:47,782
+Speaker 0: Right, it's like, this is not a thing that, you know, right-wing and left-wing people disagree on.
+
+191
+00:14:47,843 --> 00:14:50,270
+Speaker 0: Copyright is sort of an out-of-bounds issue.
+
+192
+00:14:50,690 --> 00:14:53,837
+Speaker 1: Actually, I checked myself, because a little Google here.
+
+193
+00:14:54,859 --> 00:14:58,808
+Speaker 1: Everyone in America, like, most people want to get rid of Daylight Saving Time and just stay one time.
+
+194
+00:15:00,790 --> 00:15:10,290
+Speaker 1: About half of the people who want it to go away want to go to the bad time, and the other half want it to go to the good time, and it actually does break down upon Republican-Democrat lines.
+
+195
+00:15:10,750 --> 00:15:17,110
+Speaker 1: Democrats want to go to Daylight Saving Time permanently, broadly, and Republicans want to go to non-Daylight Saving Time permanently.
+
+196
+00:15:18,130 --> 00:15:26,374
+Speaker 0: Anyway, the point is that copyright was not extended, and so, after 15+ years passed since then- Oh, my!
+
+197
+00:15:28,791 --> 00:15:38,330
+Speaker 0: Right, Mickey Mouse finally entered the public domain, which means that the name Mickey Mouse and the artwork of the original Mickey Mouse.
+
+198
+00:15:38,430 --> 00:15:40,155
+Speaker 0: He can't use Fantasia Mickey Mouse.
+
+199
+00:15:40,195 --> 00:15:41,398
+Speaker 0: He's newer, right?
+
+200
+00:15:41,418 --> 00:15:42,521
+Speaker 0: He's not out yet, right?
+
+201
+00:15:42,581 --> 00:15:46,070
+Speaker 0: But, Steamboat Willie, I almost said Tollbooth Willie.
+
+202
+00:15:46,451 --> 00:15:46,956
+Speaker 1: Yep.
+
+203
+00:15:47,501 --> 00:15:48,450
+Speaker 1: And Plain Crazy.
+
+204
+00:15:49,491 --> 00:15:49,754
+Speaker 0: Yeah.
+
+205
+00:15:50,383 --> 00:15:50,890
+Speaker 0: Oh, that's true.
+
+206
+00:15:51,190 --> 00:15:55,150
+Speaker 1: Which means we also get Peggleg Pete and Minnie Mouse came along for the ride.
+
+207
+00:15:55,571 --> 00:16:07,110
+Speaker 0: Right, so those character designs, those names, and those actual works, you could just take fucking Steamboat Willie and change the credits and put your own name there.
+
+208
+00:16:07,750 --> 00:16:10,422
+Speaker 0: You could sell DVDs of it, right?
+
+209
+00:16:10,723 --> 00:16:12,190
+Speaker 0: Whatever copy that you can get.
+
+210
+00:16:12,750 --> 00:16:16,930
+Speaker 1: Tons of people have uploaded it to YouTube in full just immediately to try.
+
+211
+00:16:17,290 --> 00:16:17,918
+Speaker 0: Just 'cause you can.
+
+212
+00:16:17,939 --> 00:16:18,830
+Speaker 0: Just 'cause you can.
+
+213
+00:16:20,051 --> 00:16:26,139
+Speaker 1: The best one, I saw a video where someone made a video of Mickey Mouse doing a bunch of really dire shit, but the moral of it was.
+
+214
+00:16:27,420 --> 00:16:35,150
+Speaker 1: the only thing that's in the public domain is Mickey Mouse, before Disney instilled him with a lighthearted sense of mirth, it's asshole Mickey Mouse.
+
+215
+00:16:35,710 --> 00:16:39,270
+Speaker 1: Therefore, in the spirit of this, we're gonna make asshole Mickey Mouse.
+
+216
+00:16:41,373 --> 00:16:45,428
+Speaker 0: There are some other notable things which entered the public domain, like what?
+
+217
+00:16:46,711 --> 00:16:47,567
+Speaker 1: A whole bunch of stuff.
+
+218
+00:16:48,250 --> 00:16:49,121
+Speaker 0: Animal Crackers, right?
+
+219
+00:16:49,141 --> 00:16:49,708
+Speaker 0: That's a good one.
+
+220
+00:16:50,651 --> 00:16:53,930
+Speaker 0: Charlie Chaplin movies, I think at least one.
+
+221
+00:16:54,230 --> 00:17:01,230
+Speaker 1: This is one of the biggest years of things entering the public domain we've ever seen in the modern era.
+
+222
+00:17:01,851 --> 00:17:16,609
+Speaker 1: And in one, I just want to point out, the creative explosion that has happened in the last 96 hours on YouTube and on the internet is proof that limiting copyright is good for society.
+
+223
+00:17:16,810 --> 00:17:17,517
+Speaker 1: Just straight up.
+
+224
+00:17:18,386 --> 00:17:18,710
+Speaker 0: No notes.
+
+225
+00:17:18,910 --> 00:17:19,530
+Speaker 0: Yeah, obviously.
+
+226
+00:17:21,611 --> 00:17:26,632
+Speaker 1: And nobody deserves to continue to get profits from something made in 1928.
+
+227
+00:17:26,632 --> 00:17:33,610
+Speaker 0: Right, I mean, if we were actually going to interpret the, you know, we've said this 10 billion times over the course of our entire lives.
+
+228
+00:17:34,591 --> 00:17:40,370
+Speaker 0: The Constitution also says the purpose of copyright is to promote the useful arts and sciences.
+
+229
+00:17:40,570 --> 00:17:53,930
+Speaker 0: Which means copyright could instead be- And we've clearly just demonstrated, right, so every year we clearly demonstrate that when copyright goes away on something, it's actually promoting the useful arts and sciences.
+
+230
+00:17:53,950 --> 00:18:12,490
+Speaker 0: And so you could argue against, you know, the Supreme Court won't buy this argument, but a reasonable, intelligent court would say, ah, yes, copyright clearly in the modern times of the year 2024 is not as a system, is not promoting the useful arts and sciences.
+
+231
+00:18:13,051 --> 00:18:18,370
+Speaker 0: And therefore, by the Constitution, forget any laws, copyright itself must be abolished entirely.
+
+232
+00:18:18,550 --> 00:18:28,390
+Speaker 0: Because it is demonstrated clearly and factually that when it goes away, the intent of promoting useful arts and sciences actually is successful.
+
+233
+00:18:28,690 --> 00:18:37,970
+Speaker 1: So one idea, what if instead of copyright providing a monopoly, we could change it a bunch, and broadly, and I'm not going to get into specifics because we've got to talk about other stuff on this show, there's going to be a whole thing.
+
+234
+00:18:39,291 --> 00:18:50,010
+Speaker 1: What if the government rewarded copyright, the things that copyright covers, with piles of cash, but then those things were immediately thrown into the public domain?
+
+235
+00:18:51,011 --> 00:18:52,029
+Speaker 0: Hmm, I'm just, who knows?
+
+236
+00:18:52,471 --> 00:18:58,048
+Speaker 0: There's lots of- The person who decides what's worthy, then you got a government deciding what's worthy, that's a problem.
+
+237
+00:18:58,249 --> 00:18:58,450
+Speaker 0: Anyway.
+
+238
+00:18:58,630 --> 00:19:08,270
+Speaker 1: Yeah, or you do what Canada and a lot of European countries do, where independent of everything else, they fund a whole bunch of art, even though a lot of it ends up being bad, just to make sure that people can make art.
+
+239
+00:19:09,110 --> 00:19:09,730
+Speaker 0: Yeah, of course.
+
+240
+00:19:09,790 --> 00:19:13,750
+Speaker 1: But if you don't want to make the art the government's funding, you can still fund it another way, like you're not prohibited.
+
+241
+00:19:14,815 --> 00:19:14,858
+Speaker 0: No.
+
+242
+00:19:15,950 --> 00:19:24,350
+Speaker 1: But this is a big deal, and it happens alongside some other surprisingly big Disney news that's not getting nearly as much press.
+
+243
+00:19:24,931 --> 00:19:29,303
+Speaker 1: So the lead is kind of buried inside of all the text of these articles.
+
+244
+00:19:29,644 --> 00:19:32,030
+Speaker 1: There's a bunch of power struggles going on inside of Disney.
+
+245
+00:19:32,810 --> 00:19:53,670
+Speaker 0: It's really interesting because just in the past, Disney was buying up everything, buying up the Marvel, buying up Simpsons, 20th century, buy and buy, and it became sort of not a complete monopoly, but basically controlling most of the entertainment that people gave a shit about, intellectual property rights and all.
+
+246
+00:19:53,750 --> 00:19:55,635
+Speaker 0: Right.
+
+247
+00:19:55,655 --> 00:19:57,540
+Speaker 0: And then they tried.
+
+248
+00:19:57,580 --> 00:20:01,150
+Speaker 0: There was the Disney Plus CEO switch drama that happened.
+
+249
+00:20:01,691 --> 00:20:01,911
+Speaker 0: Right.
+
+250
+00:20:02,272 --> 00:20:08,301
+Speaker 0: And so, you know, it's like, how could there be this drama at a place that basically owns everything?
+
+251
+00:20:08,341 --> 00:20:10,545
+Speaker 0: How can you fuck up when you own everything?
+
+252
+00:20:10,625 --> 00:20:13,490
+Speaker 0: It's like, who can even compete with you?
+
+253
+00:20:16,291 --> 00:20:18,077
+Speaker 1: So first, I want to read from this article.
+
+254
+00:20:18,118 --> 00:20:21,530
+Speaker 1: There's actually a really short thing I just want to read because I think it highlights everything.
+
+255
+00:20:22,470 --> 00:20:37,330
+Speaker 1: The talk is that activist investors who this is not investment advice, I'm not a registered investment advisor, generally are hedge funds or very rich people who want to ruin a company to drive its stock value up short term for their own profit.
+
+256
+00:20:37,430 --> 00:20:38,796
+Speaker 1: Like they tend to just be bad people.
+
+257
+00:20:39,177 --> 00:20:42,270
+Speaker 1: Very rarely is an activist investor doing anything good.
+
+258
+00:20:42,770 --> 00:20:47,019
+Speaker 1: But there's a bunch of active investors basically saying Disney fucked up.
+
+259
+00:20:47,360 --> 00:20:52,330
+Speaker 1: They've had a really bad year and we got to radically change how they operate so I can have more money.
+
+260
+00:20:52,910 --> 00:21:00,609
+Speaker 1: Now, I'm going to read this segment because I want to hear from you, Scott and the listener, if you think this was a bad year for Disney.
+
+261
+00:21:02,191 --> 00:21:06,676
+Speaker 1: "It was already obvious that 2023 was a disappointing year for Disney.
+
+262
+00:21:07,077 --> 00:21:18,310
+Speaker 1: The studio didn't have an entry in the top three films of the year and didn't have a single film cross the $1 billion benchmark for the first time in a decade.
+
+263
+00:21:19,671 --> 00:21:22,481
+Speaker 1: That is what they said constitutes not a good
+
+264
+00:21:22,521 --> 00:21:22,762
+Speaker 1: year.".
+
+265
+00:21:23,103 --> 00:21:24,769
+Speaker 1: Now, point of data number two.
+
+266
+00:21:25,771 --> 00:21:29,216
+Speaker 1: In the fourth quarter of 2023, Disney's net income was $264 billion fucking dollars and Disney's 2023 revenue was $89 billion.
+
+267
+00:21:40,651 --> 00:21:46,630
+Speaker 1: So anyone who says that Disney's not doing well is absolutely insane or lying.
+
+268
+00:21:47,430 --> 00:21:50,116
+Speaker 0: Well, because it's a question of is it doing well?
+
+269
+00:21:50,236 --> 00:21:52,380
+Speaker 0: It's like, yeah, they own everything, of course.
+
+270
+00:21:52,421 --> 00:21:53,884
+Speaker 0: They make money no matter what they do.
+
+271
+00:21:53,904 --> 00:21:56,890
+Speaker 0: They could just stop doing things and they would just keep making money forever.
+
+272
+00:21:57,290 --> 00:22:00,950
+Speaker 1: They could probably just run Disney World, get rid of everything else and be perfectly profitable until the end of time.
+
+273
+00:22:01,230 --> 00:22:12,610
+Speaker 0: Yeah, they could just keep only KTOL employees and get rid of everyone else who makes anything new, just stop making new things and have money until for the next 75 years until all the copyrights run out.
+
+274
+00:22:13,733 --> 00:22:17,825
+Speaker 0: Someone else could then make their own Disneyland, call it Disneyland legally.
+
+275
+00:22:17,865 --> 00:22:19,590
+Speaker 0: Well, I guess the trademark.
+
+276
+00:22:20,090 --> 00:22:21,209
+Speaker 1: Yeah, trademarks don't go away.
+
+277
+00:22:21,890 --> 00:22:28,624
+Speaker 0: No, those don't go away, but you could still make a park with people in those characters' costumes going around, right?
+
+278
+00:22:28,704 --> 00:22:29,887
+Speaker 0: The point is that...
+
+279
+00:22:31,811 --> 00:22:36,360
+Speaker 1: If I were Universal Studios, I would have someone walking around Universal Studios dressed up as Steamboat Willie Mickey.
+
+280
+00:22:36,440 --> 00:22:36,701
+Speaker 1: Anyway...
+
+281
+00:22:42,411 --> 00:22:43,894
+Speaker 0: Disney is not growing.
+
+282
+00:22:44,435 --> 00:22:46,079
+Speaker 0: It's not, you know, it's not kicking ass.
+
+283
+00:22:46,119 --> 00:22:48,344
+Speaker 0: It's not coming in first place at the box office.
+
+284
+00:22:48,384 --> 00:22:50,890
+Speaker 0: It's like, you know, you think about the Disney movies, right?
+
+285
+00:22:50,930 --> 00:22:57,598
+Speaker 0: It used to be, especially like the height of the Pixar days, you know, another thing Disney acquired way back, right?
+
+286
+00:22:57,999 --> 00:23:06,970
+Speaker 0: At the height of its, you know, every single year, they'd have an animated feature film in the, you know, in the theaters in the summer for the kids and it would be a huge deal.
+
+287
+00:23:07,712 --> 00:23:14,290
+Speaker 0: Since Frozen, none of their movies have been the huge fucking deal that created a sensation.
+
+288
+00:23:14,410 --> 00:23:20,622
+Speaker 1: I didn't even notice Wish was coming out until I saw a movie poster for it.
+
+289
+00:23:20,722 --> 00:23:25,050
+Speaker 1: after it was out, and I still don't know what it's about, and a friend of ours pointed out something very important.
+
+290
+00:23:26,270 --> 00:23:32,650
+Speaker 1: No evil character from Wish has significant amounts of porn made about them, which is the best metric for whether or not a Disney movie is popular.
+
+291
+00:23:33,452 --> 00:23:33,772
+Speaker 0: Indeed.
+
+292
+00:23:34,013 --> 00:23:43,130
+Speaker 0: Frozen was 2013, so basically it's been a decade since Disney has really had like a smasher, right, that like hit the box office and made people go crazy.
+
+293
+00:23:44,430 --> 00:24:01,450
+Speaker 1: Yeah, and what this all comes down to is not to, not for every Geek Nights episode to be about how capitalism destroys everything, but anything that requires unlimited, infinite, indefinite growth to be considered successful will eventually either destroy its environment or collapse.
+
+294
+00:24:02,094 --> 00:24:04,209
+Speaker 1: There's no third option to entropy this.
+
+295
+00:24:04,790 --> 00:24:05,111
+Speaker 0: Right.
+
+296
+00:24:05,191 --> 00:24:17,050
+Speaker 0: Also, there are parts of, you know, while Rim was correct in pointing out that Disney's total monies was, you know, astronomical, as to be expected, they would make that money no matter what they did, there are parts of Disney that are doing poorly.
+
+297
+00:24:18,070 --> 00:24:19,173
+Speaker 0: Very poorly.
+
+298
+00:24:19,253 --> 00:24:23,685
+Speaker 0: Like ESPN, because people aren't paying for cable, we could talk about that another time.
+
+299
+00:24:23,705 --> 00:24:25,470
+Speaker 0: I think we've talked about it before anyway.
+
+300
+00:24:26,191 --> 00:24:38,330
+Speaker 0: The Disney+ is not, only Netflix is really making any money in the streaming game, everyone else is struggling, so, you know, that's why people look down, even though...
+
+301
+00:24:39,350 --> 00:24:40,855
+Speaker 1: But what did we just talk about with copyright?
+
+302
+00:24:41,196 --> 00:24:45,810
+Speaker 1: The stated intent of copyright is to promote the creation of art, effectively.
+
+303
+00:24:46,691 --> 00:25:02,330
+Speaker 1: So, our society and the way governments and economics work in capitalism right now, and Disney's a perfect example of this, you're not rewarded by having a company that makes things people want at a profit long-term in a sustainable way.
+
+304
+00:25:02,630 --> 00:25:04,818
+Speaker 1: That is not what is rewarded by society.
+
+305
+00:25:05,098 --> 00:25:08,610
+Speaker 1: You're rewarded to enrich stockholders by growing infinitely.
+
+306
+00:25:10,711 --> 00:25:16,590
+Speaker 0: And yeah, it's a problem, and I was about to say, I don't know what to do about it, but I do know what to do about it.
+
+307
+00:25:16,590 --> 00:25:28,850
+Speaker 0: The fact that copyright exists and Disney can make money from art that it has already made actually incentivizes them not to waste money on new art, but to instead milk the existing art, right?
+
+308
+00:25:29,471 --> 00:25:33,430
+Speaker 0: And that's why we see when things go into the public domain, there is a creative explosion.
+
+309
+00:25:33,670 --> 00:25:41,910
+Speaker 1: The biggest fear companies have, any company, any media company has, is not even that people are going to pirate their stuff.
+
+310
+00:25:42,290 --> 00:25:47,589
+Speaker 1: Their fear is that there will be enough legally free stuff out there that nobody will pay them for anything again.
+
+311
+00:25:49,992 --> 00:25:54,870
+Speaker 1: Imagine if copyright was only seven years, how many movies would we be watching now for free because someone just uploaded it to YouTube?
+
+312
+00:25:55,821 --> 00:25:56,010
+Speaker 0: Right.
+
+313
+00:25:58,239 --> 00:25:58,406
+Speaker 1: Alright.
+
+314
+00:25:59,310 --> 00:26:02,602
+Speaker 0: Why would I pay for a streaming service to see the last seven years of movies?
+
+315
+00:26:02,662 --> 00:26:04,710
+Speaker 0: I can just watch only eight-year-old movies.
+
+316
+00:26:05,070 --> 00:26:13,970
+Speaker 1: I mean, I could spend my life only watching movies that have been released on DVD that are, like, top 10,000 movies of all time.
+
+317
+00:26:14,170 --> 00:26:17,410
+Speaker 1: That would probably do me for the rest of my life, movie-wise, if I really wanted.
+
+318
+00:26:23,481 --> 00:26:26,280
+Speaker 1: But anyway, things of the day.
+
+319
+00:26:26,820 --> 00:26:27,826
+Speaker 1: So this is pretty good.
+
+320
+00:26:28,489 --> 00:26:30,420
+Speaker 1: Hilda was a fantastic show.
+
+321
+00:26:30,640 --> 00:26:33,280
+Speaker 1: I'm going to talk about it a little bit now that it's done in the main bit.
+
+322
+00:26:33,740 --> 00:26:43,120
+Speaker 1: Well, my thing of the day is a video of the earliest animation tests when they were putting the Hilda show together, which is based on a comic.
+
+323
+00:26:43,481 --> 00:26:46,208
+Speaker 1: And this is, like, the animation test.
+
+324
+00:26:46,248 --> 00:26:50,700
+Speaker 1: they used to decide how the character designs were going to work and, like, how were they going to make the show.
+
+325
+00:26:50,902 --> 00:26:52,100
+Speaker 1: And it's pretty cute.
+
+326
+00:26:52,560 --> 00:26:55,059
+Speaker 1: The characters are a lot closer to the comic, it looks like.
+
+327
+00:26:55,481 --> 00:27:00,600
+Speaker 1: And the actual show, as made, shares a lot, but they did radically change the human designs.
+
+328
+00:27:03,700 --> 00:27:04,160
+Speaker 1: So what do you got?
+
+329
+00:27:05,088 --> 00:27:05,131
+Speaker 0: Oh.
+
+330
+00:27:06,122 --> 00:27:07,699
+Speaker 0: So someone made this cute little game.
+
+331
+00:27:08,246 --> 00:27:08,699
+Speaker 0: It's free.
+
+332
+00:27:09,024 --> 00:27:10,080
+Speaker 0: It runs in your web browser.
+
+333
+00:27:10,404 --> 00:27:11,500
+Speaker 0: It's a really simple game.
+
+334
+00:27:11,562 --> 00:27:12,219
+Speaker 0: It's one button.
+
+335
+00:27:12,704 --> 00:27:14,239
+Speaker 0: And you get a high score and that's it.
+
+336
+00:27:14,761 --> 00:27:17,320
+Speaker 0: And it's basically one-dimensional Pac-Man.
+
+337
+00:27:18,882 --> 00:27:23,360
+Speaker 0: You push the button and Pac-Man can only go left or right because it's a line, right?
+
+338
+00:27:23,580 --> 00:27:25,600
+Speaker 0: The line has dots and it has one power pill.
+
+339
+00:27:26,140 --> 00:27:28,800
+Speaker 0: And you want to get all the dots, then it refills because it's Pac-Man.
+
+340
+00:27:30,321 --> 00:27:32,520
+Speaker 0: And you want to eat as many dots as you can before you die.
+
+341
+00:27:32,980 --> 00:27:38,380
+Speaker 0: There's obviously a ghost, just one ghost, and all you can do is tap to make Pac-Man go the other way.
+
+342
+00:27:38,721 --> 00:27:40,800
+Speaker 0: And you tap and he turns right or he turns left.
+
+343
+00:27:41,001 --> 00:27:42,480
+Speaker 0: He can only go two ways, it's a line.
+
+344
+00:27:43,161 --> 00:27:45,120
+Speaker 0: And Pac-Man wraps around because it's Pac-Man.
+
+345
+00:27:45,343 --> 00:27:47,700
+Speaker 1: I played just now at 755.
+
+346
+00:27:47,700 --> 00:27:51,499
+Speaker 0: The ghost, the ghost always just chases you.
+
+347
+00:27:51,961 --> 00:27:53,139
+Speaker 1: And he's slightly faster than you.
+
+348
+00:27:53,800 --> 00:27:56,220
+Speaker 0: And he's faster than you, but the ghost can't wrap around.
+
+349
+00:27:56,640 --> 00:28:01,140
+Speaker 0: So if you can just get to the edge before the ghost gets you, now you come out on the other side.
+
+350
+00:28:01,200 --> 00:28:06,260
+Speaker 0: You can eat a bunch of pills, the ghost is coming at you, and then you just turn and run away back to the edge.
+
+351
+00:28:06,943 --> 00:28:08,740
+Speaker 0: And then you eat the pills on the other side.
+
+352
+00:28:09,161 --> 00:28:13,000
+Speaker 0: And maybe if you can get the power pill, then you can eat the ghost and really clean up, right?
+
+353
+00:28:13,101 --> 00:28:15,400
+Speaker 0: So you're basically just doing this back and forth.
+
+354
+00:28:16,122 --> 00:28:20,380
+Speaker 0: It's a pretty good, genius idea here that just runs in the browser.
+
+355
+00:28:20,621 --> 00:28:24,160
+Speaker 0: And you can play it in any modern web browser for zero dollars.
+
+356
+00:28:24,603 --> 00:28:25,438
+Speaker 1: Yup, works on the phone.
+
+357
+00:28:26,801 --> 00:28:30,192
+Speaker 1: Great job, ibogames.github.io/crispgamelib11games.
+
+358
+00:28:33,583 --> 00:28:45,920
+Speaker 0: Yeah, you can actually, I don't know if non-programming people realize this, but GitHub has a feature called GitHub Pages, where if you put the right stuff in your Git repository, you'll actually just make web pages, like static web pages.
+
+359
+00:28:46,001 --> 00:28:47,140
+Speaker 0: And that's how this was possible.
+
+360
+00:28:48,762 --> 00:28:58,500
+Speaker 1: In the meta moment, the Geek Nights Book Club book is The Night is Short, Walk on Girl, the book upon which the movie titled The Night is Short, Walk on Girl was made.
+
+361
+00:28:59,321 --> 00:29:01,499
+Speaker 0: Yes, I have started reading this book.
+
+362
+00:29:02,463 --> 00:29:05,000
+Speaker 1: I will start reading it because you have told me that you've started reading it.
+
+363
+00:29:05,040 --> 00:29:09,640
+Speaker 1: I got sidetracked by... You'd make fun of me, so I'm not going to say what I was reading.
+
+364
+00:29:11,603 --> 00:29:12,700
+Speaker 1: I'll tell you all what I was reading.
+
+365
+00:29:13,460 --> 00:29:16,139
+Speaker 0: I have also been sidetracked by many things.
+
+366
+00:29:17,501 --> 00:29:19,060
+Speaker 1: Alright, let's dive right into it.
+
+367
+00:29:19,740 --> 00:29:31,820
+Speaker 1: Because Scott and I at least recently have not intersected on our animated and comic media, we're going to talk about a bunch of stuff we've watched or read that the other person hasn't, and give our sort of one-person reviews.
+
+368
+00:29:34,164 --> 00:29:35,240
+Speaker 0: We're not going to do a meta moment?
+
+369
+00:29:36,180 --> 00:29:36,880
+Speaker 1: That was the meta moment.
+
+370
+00:29:37,860 --> 00:29:38,504
+Speaker 1: I guess we could talk about.
+
+371
+00:29:38,524 --> 00:29:41,380
+Speaker 1: we're going to be at MAGFest doing a couple of panels in a few weeks.
+
+372
+00:29:41,380 --> 00:29:41,800
+Speaker 1: That's what I forgot.
+
+373
+00:29:43,042 --> 00:29:44,459
+Speaker 1: I didn't do every meta that I could.
+
+374
+00:29:45,160 --> 00:29:46,192
+Speaker 0: MAGFest is in two weeks.
+
+375
+00:29:46,212 --> 00:29:46,840
+Speaker 0: That's pretty big.
+
+376
+00:29:47,180 --> 00:29:48,447
+Speaker 0: It's just two weeks away.
+
+377
+00:29:48,528 --> 00:29:50,579
+Speaker 0: Who knows how many Geek Nights will be between now and then.
+
+378
+00:29:51,900 --> 00:29:55,237
+Speaker 0: But I guess if you're hearing this and you're thinking, "Oh, I should go to MAGFest to see
+
+379
+00:29:55,257 --> 00:29:55,297
+Speaker 0: us."
+
+380
+00:29:57,041 --> 00:30:03,798
+Speaker 0: A, you shouldn't, but B, too late unless you live near there because... Hotels filled up a long time ago.
+
+381
+00:30:04,742 --> 00:30:07,420
+Speaker 1: This will be interesting because Unplugged was a certain kind of con.
+
+382
+00:30:07,540 --> 00:30:09,056
+Speaker 1: Unplugged is kind of different from the other PAXes.
+
+383
+00:30:09,760 --> 00:30:16,660
+Speaker 1: MAGFest is a show where I get up to a lot of different kinds of stuff than just sitting and playing tabletop games.
+
+384
+00:30:17,161 --> 00:30:19,100
+Speaker 1: I'm really looking forward to hanging out at some concerts.
+
+385
+00:30:20,160 --> 00:30:22,660
+Speaker 0: Alright, so now we'll talk about some stuff.
+
+386
+00:30:24,141 --> 00:30:29,680
+Speaker 1: I'll go first with good old Scott Pilgrim Takes Off, which I'm sure Scott will watch at some point.
+
+387
+00:30:29,680 --> 00:30:30,459
+Speaker 1: Because one, it's not long.
+
+388
+00:30:31,161 --> 00:30:35,980
+Speaker 0: I am currently paying for Netflix, so I should watch it before I stop paying to get my money's worth.
+
+389
+00:30:36,361 --> 00:30:37,159
+Speaker 1: One, it's not long.
+
+390
+00:30:37,600 --> 00:30:40,480
+Speaker 1: Two, it's Studio Saru.
+
+391
+00:30:40,760 --> 00:30:45,420
+Speaker 1: This is a full-on top production value anime anime.
+
+392
+00:30:45,981 --> 00:30:47,369
+Speaker 1: This is for real.
+
+393
+00:30:47,651 --> 00:30:49,079
+Speaker 1: They put the right amount of care into it.
+
+394
+00:30:49,722 --> 00:30:52,240
+Speaker 1: And three, it is not only fantastic.
+
+395
+00:30:53,521 --> 00:30:58,980
+Speaker 1: I actually would like to watch it again before too long, but I want to reread the comic first to do a little compare and contrast.
+
+396
+00:31:00,822 --> 00:31:07,720
+Speaker 1: It is more like, and I'm not the only one who's expressed this sentiment, the Evangelion reboot movies than you're expecting.
+
+397
+00:31:09,421 --> 00:31:14,480
+Speaker 1: And as you watch it, you might think, well, it did some things like what the Eva reboots did.
+
+398
+00:31:14,960 --> 00:31:21,160
+Speaker 1: Then it starts to directly reference Evangelion and then directly reference the reboots of Evangelion and then do some stuff.
+
+399
+00:31:22,681 --> 00:31:27,794
+Speaker 1: There's definitely some inspiration from how the reboot of Evangelion went down.
+
+400
+00:31:28,115 --> 00:31:29,940
+Speaker 1: that went into Scott Pilgrim Takes Off.
+
+401
+00:31:30,922 --> 00:31:33,960
+Speaker 1: And it's worth not knowing the deal.
+
+402
+00:31:34,700 --> 00:31:48,820
+Speaker 1: I would say that it wouldn't nearly, just like the Eva reboots, would not have as much impact if you weren't already familiar with the first and second and possibly third impacts of Evangelion, the original anime.
+
+403
+00:31:49,522 --> 00:31:56,120
+Speaker 1: Scott Pilgrim Takes Off is perfectly good standalone, but you'll get a lot more out of it if you have read the Scott Pilgrim comic first.
+
+404
+00:31:56,903 --> 00:31:58,419
+Speaker 0: I did read it, but a long time ago.
+
+405
+00:32:00,641 --> 00:32:02,526
+Speaker 1: I remember the comic pretty well.
+
+406
+00:32:02,546 --> 00:32:07,900
+Speaker 1: The only thing I'm kind of hazy on is the Utena stuff at the very end of the Scott Pilgrim comic.
+
+407
+00:32:08,040 --> 00:32:19,540
+Speaker 1: I forget exactly how that went down because the live action movie, which is also good and important to the canon of this, especially considering it's all the same voice actors from that movie play their own characters in this anime.
+
+408
+00:32:21,381 --> 00:32:35,880
+Speaker 1: But all three together are as important if you care about Scott Pilgrim to view or read as, if you care about Evangelion, you really should watch the movies, watch the show, and read the manga.
+
+409
+00:32:36,020 --> 00:32:41,620
+Speaker 1: Because they're all different takes on the same core and they all complement each other extremely well.
+
+410
+00:32:41,800 --> 00:32:46,428
+Speaker 0: Well, I think Evangelion, most of its renditions in different mediums have value and hold up today.
+
+411
+00:32:54,480 --> 00:33:00,452
+Speaker 0: Whereas if Scott Pilgrim, if someone said, "Hey, should I read the Scott Pilgrim comic in the year
+
+412
+00:33:00,452 --> 00:33:00,492
+Speaker 0: 2024?"
+
+413
+00:33:00,492 --> 00:33:00,933
+Speaker 0: It's like, "Um,
+
+414
+00:33:00,953 --> 00:33:01,093
+Speaker 0: maybe.".
+
+415
+00:33:05,581 --> 00:33:08,951
+Speaker 1: If I reread the first one again, I would say yes.
+
+416
+00:33:09,934 --> 00:33:12,060
+Speaker 1: Partly because a lot of people...
+
+417
+00:33:12,100 --> 00:33:15,680
+Speaker 0: It's not some all-time strong thing like Evangelion TV.
+
+418
+00:33:16,080 --> 00:33:18,555
+Speaker 1: No, I mean, it's not... While it shares a lot...
+
+419
+00:33:19,521 --> 00:33:20,230
+Speaker 0: It has issues.
+
+420
+00:33:20,331 --> 00:33:21,080
+Speaker 0: It has a lot of issues.
+
+421
+00:33:21,180 --> 00:33:23,638
+Speaker 1: I mean, Evangelion TV also does have a lot of issues.
+
+422
+00:33:24,362 --> 00:33:26,060
+Speaker 0: Not like the way Scott Pilgrim has issues.
+
+423
+00:33:26,401 --> 00:33:35,420
+Speaker 1: Well, that's why it's actually worth reading, I think, because there's a lot that happens in the anime that I'm really going to get into for spoilery reasons.
+
+424
+00:33:35,780 --> 00:33:50,860
+Speaker 1: But it directly interrogates every specific criticism of the original Scott Pilgrim comic that you can think of in a very profound way that actually enhances what was happening in the comic.
+
+425
+00:33:51,180 --> 00:34:01,980
+Speaker 1: While also ensuring that anyone who read the comic or watches this, the way I'll put it, they will take the correct moral away and not the incorrect moral.
+
+426
+00:34:03,460 --> 00:34:12,120
+Speaker 1: Because the incorrect morals from the Scott Pilgrim comic were specifically not intended by Brian Lee O'Malley.
+
+427
+00:34:12,340 --> 00:34:13,788
+Speaker 1: He has said as much repeatedly.
+
+428
+00:34:13,808 --> 00:34:16,020
+Speaker 1: A lot of people who read the first half of Scott Pilgrim...
+
+429
+00:34:16,040 --> 00:34:18,820
+Speaker 0: He was just very young and not that as good at writing.
+
+430
+00:34:19,268 --> 00:34:21,810
+Speaker 0: But also... Think about how long ago that was.
+
+431
+00:34:21,891 --> 00:34:22,958
+Speaker 0: How much younger he was.
+
+432
+00:34:23,820 --> 00:34:24,782
+Speaker 1: He said this much, too.
+
+433
+00:34:24,842 --> 00:34:32,260
+Speaker 1: But also, that comic, a lot of people who have complaints about it seem to focus on the first two-thirds, which is fair.
+
+434
+00:34:32,860 --> 00:34:41,335
+Speaker 1: But they seem to never really bring up how the last third of the comic sort of points out, "Yeah, all of that was from Scott Pilgrim's perspective.
+
+435
+00:34:41,775 --> 00:34:43,158
+Speaker 1: Was he really the good guy?
+
+436
+00:34:43,197 --> 00:34:43,880
+Speaker 1: What's really going
+
+437
+00:34:43,920 --> 00:34:43,960
+Speaker 1: on?".
+
+438
+00:34:44,703 --> 00:34:47,600
+Speaker 1: It tried to do something, but I think a lot of people missed it.
+
+439
+00:34:48,040 --> 00:34:54,494
+Speaker 1: Scott Pilgrim takes off, basically zooms in and says, "Yeah, here's what you were supposed to take away from it.
+
+440
+00:34:54,655 --> 00:34:56,699
+Speaker 1: And just in case he didn't get it, watch
+
+441
+00:34:56,739 --> 00:34:56,940
+Speaker 1: this.".
+
+442
+00:34:57,220 --> 00:35:03,914
+Speaker 1: Just like the Eva movies, the reboots are very much like, "Yeah, the morals are the same even if the events are very different.
+
+443
+00:35:04,074 --> 00:35:06,178
+Speaker 1: Just in case you missed it, Gendo's not
+
+444
+00:35:06,218 --> 00:35:06,479
+Speaker 1: cool.".
+
+445
+00:35:07,762 --> 00:35:08,945
+Speaker 0: Yeah, it's like, "We're gonna do this
+
+446
+00:35:09,005 --> 00:35:09,366
+Speaker 0: again.".
+
+447
+00:35:09,687 --> 00:35:12,535
+Speaker 0: And it's like the Evangelion movies, the 1.11s and 3s or whatever.
+
+448
+00:35:15,220 --> 00:35:21,440
+Speaker 0: They start off with literally just reanimating the same thing until the last 30 seconds of the first movie.
+
+449
+00:35:22,280 --> 00:35:22,481
+Speaker 0: Right.
+
+450
+00:35:22,801 --> 00:35:25,248
+Speaker 0: And then they take a left turn.
+
+451
+00:35:25,328 --> 00:35:29,980
+Speaker 0: And so Scott Pilgrim, from what I've heard, is that the first episode does that same thing.
+
+452
+00:35:31,082 --> 00:35:34,507
+Speaker 0: It looks like the comic, and then... No, it's not.
+
+453
+00:35:34,548 --> 00:35:40,157
+Speaker 0: Because if they just animated that original comic page for page, that would not be good.
+
+454
+00:35:40,317 --> 00:35:43,640
+Speaker 0: We don't need that in 2024.
+
+455
+00:35:43,640 --> 00:35:54,120
+Speaker 0: And so I do like this... It used to be where the kind of person who would be, "Ah, you've adapted the thing, but you have not held true to the original
+
+456
+00:35:54,180 --> 00:35:54,280
+Speaker 0: thing.".
+
+457
+00:35:55,562 --> 00:36:05,300
+Speaker 0: But it's like all those people who committed that crime were actually just being sort of close to the original and changing important things.
+
+458
+00:36:05,861 --> 00:36:12,659
+Speaker 0: Like, "We're gonna tell the same basic Spider-Man story, but we're gonna just change some stuff but not too much
+
+459
+00:36:12,699 --> 00:36:12,940
+Speaker 0: stuff.".
+
+460
+00:36:15,161 --> 00:36:17,085
+Speaker 0: What's the point of changing just a few things?
+
+461
+00:36:17,887 --> 00:36:21,434
+Speaker 0: You're not saying anything by doing that.
+
+462
+00:36:21,474 --> 00:36:23,980
+Speaker 0: You're just changing some things for why.
+
+463
+00:36:25,420 --> 00:36:41,300
+Speaker 0: But here, if you're gonna redo, drastic redo, and you can actually comment on your own work or even correct the work of the past or enhance or elaborate on it or add in some way.
+
+464
+00:36:41,781 --> 00:36:48,417
+Speaker 1: And it does all of those things to a similar level of skill as how the EVA reboot movies do to EVA.
+
+465
+00:36:48,738 --> 00:36:49,620
+Speaker 1: But again, not saying...
+
+466
+00:36:50,080 --> 00:36:53,000
+Speaker 0: As opposed to, also, people would just make sequels.
+
+467
+00:36:53,800 --> 00:37:00,580
+Speaker 1: Because look now, we've got a live-action movie, the anime, and the comic, and they are all very different takes on the same core.
+
+468
+00:37:02,862 --> 00:37:14,481
+Speaker 0: It's like you think with Star Wars, it's like, would they maybe have been better off instead of making Star Wars episodes 1, 2, 3, 7, 8, 9?
+
+469
+00:37:14,481 --> 00:37:23,400
+Speaker 0: Or would they have been better off just making Star Wars that starts off in Tatooine, Moss Eyes League, right?
+
+470
+00:37:24,381 --> 00:37:28,936
+Speaker 0: And then, it's like, oh, left turn, this is 2024 Star Wars.
+
+471
+00:37:29,056 --> 00:37:30,220
+Speaker 0: It's the same, but it's not.
+
+472
+00:37:30,980 --> 00:37:31,722
+Speaker 1: Yup.
+
+473
+00:37:31,863 --> 00:37:36,635
+Speaker 1: Oh, they didn't get the Death Star, and Vixen Wedge is still around, and something else.
+
+474
+00:37:36,655 --> 00:37:38,319
+Speaker 1: Now Obi-Wan is gonna save the day.
+
+475
+00:37:38,359 --> 00:37:38,800
+Speaker 1: Luke's dead.
+
+476
+00:37:39,622 --> 00:37:48,760
+Speaker 0: Yeah, they could have done, but I think being live-action also, the people doing this, they're all animated comics and things.
+
+477
+00:37:50,001 --> 00:37:53,479
+Speaker 0: If it's live-action, people are dead, people are old.
+
+478
+00:37:54,300 --> 00:37:55,363
+Speaker 1: That's where this worked out.
+
+479
+00:37:55,404 --> 00:38:00,900
+Speaker 1: They couldn't easily make another live-action movie with the actors who played, because they're all old now.
+
+480
+00:38:01,060 --> 00:38:05,164
+Speaker 1: Like Michael Cera could not look like Scott Pilgrim in the year 2024.
+
+481
+00:38:05,164 --> 00:38:05,878
+Speaker 0: No, you can't do that.
+
+482
+00:38:06,361 --> 00:38:11,112
+Speaker 1: But, because it's animated, it is all the original voice actors.
+
+483
+00:38:11,132 --> 00:38:14,580
+Speaker 1: You got Michael Cera, you got Brie Larson, Chris Evans.
+
+484
+00:38:14,780 --> 00:38:19,358
+Speaker 1: All these A-listers came back to voice-act this anime because they were into it.
+
+485
+00:38:20,483 --> 00:38:22,277
+Speaker 1: And because it was animated, it doesn't matter what they look like.
+
+486
+00:38:24,183 --> 00:38:28,880
+Speaker 1: Beyond all that, even if we forget the whole Scott Pilgrim-iverse, it's Studio Saru.
+
+487
+00:38:30,200 --> 00:38:30,546
+Speaker 0: Science Saru.
+
+488
+00:38:31,501 --> 00:38:33,749
+Speaker 1: They go all out, every episode.
+
+489
+00:38:33,930 --> 00:38:36,500
+Speaker 1: The animation is, I would say, phenomenal.
+
+490
+00:38:37,704 --> 00:38:40,160
+Speaker 0: They don't think they've ever had a bad animation.
+
+491
+00:38:40,180 --> 00:38:45,760
+Speaker 1: Yeah, it is just a feast for the eyes, and the episodes all have different kinds of styles.
+
+492
+00:38:45,960 --> 00:38:51,468
+Speaker 1: Some of them go sort of trigger-esque, some of them are very zoomed in on human... It's all over the place.
+
+493
+00:38:52,253 --> 00:38:53,520
+Speaker 1: Everything about it is great.
+
+494
+00:38:53,920 --> 00:38:55,960
+Speaker 0: The Trigger, Delicious, and Dungeon is almost here.
+
+495
+00:38:56,262 --> 00:38:58,420
+Speaker 1: Oh, I'm actually really looking forward to that.
+
+496
+00:38:59,244 --> 00:39:00,048
+Speaker 0: Okay, so... Yeah.
+
+497
+00:39:02,800 --> 00:39:04,869
+Speaker 1: So yeah, that's my review of Scott Pilgrim Takes Off.
+
+498
+00:39:04,909 --> 00:39:07,440
+Speaker 1: We might do a deeper one when Scott watches it at some point.
+
+499
+00:39:08,001 --> 00:39:12,380
+Speaker 0: So, speaking of things that are... Those are remakes, but let's talk about some sequels.
+
+500
+00:39:13,120 --> 00:39:14,083
+Speaker 0: Sort of sequels.
+
+501
+00:39:14,103 --> 00:39:20,339
+Speaker 0: Because a common thing that happens in anime and manga is things have arcs.
+
+502
+00:39:22,480 --> 00:39:24,399
+Speaker 0: JoJo's Bizarre Adventure has the most arcs.
+
+503
+00:39:25,526 --> 00:39:27,960
+Speaker 0: But even something like Sailor Moon has got some arcs.
+
+504
+00:39:28,420 --> 00:39:32,759
+Speaker 1: Yep, even Sailor Moon R has the tree arc and then the crucified people arc.
+
+505
+00:39:33,920 --> 00:39:34,462
+Speaker 0: Right.
+
+506
+00:39:34,482 --> 00:39:45,798
+Speaker 0: And a lot of times what happens when there's multiple arcs is that even though there's the same characters, except the ones who've died or not come back yet, is that fans will be like, "That arc's good, that arc's
+
+507
+00:39:45,858 --> 00:39:46,240
+Speaker 0: bad.".
+
+508
+00:39:46,420 --> 00:39:49,720
+Speaker 1: "Don't watch the Island episodes" is a common refrain for old people.
+
+509
+00:39:49,861 --> 00:39:50,081
+Speaker 0: Some
+
+510
+00:39:50,202 --> 00:39:50,483
+Speaker 1: show
+
+511
+00:39:50,603 --> 00:40:14,300
+Speaker 0: or manga will be really popular because of its initial arc, and then once things have to change because they can only carry that on for so long, further arcs may just be more of the same, just keep it going, or they have to take a big sharp turn to mix up something new, and often when they take that sharp turn, it ends up being a disappointment, right?
+
+512
+00:40:14,340 --> 00:40:16,120
+Speaker 0: The notable one being Death Note, right?
+
+513
+00:40:17,285 --> 00:40:28,520
+Speaker 0: Death Note, it's like you have these main thing you're really into, and then like halfway through the manga, it's like they sort of resolve the initial plot, because how much longer could they possibly keep that going on?
+
+514
+00:40:28,640 --> 00:40:30,779
+Speaker 0: They couldn't because of the kind of story it was.
+
+515
+00:40:31,400 --> 00:40:39,240
+Speaker 0: And it takes a sharp turn with new characters and a new conflict, and people don't like or care about those new characters and new conflict very much.
+
+516
+00:40:39,842 --> 00:40:48,479
+Speaker 1: I read like one and a half volumes of the post-swerve Death Note, and I just didn't care and stopped reading it, and I never read the end.
+
+517
+00:40:49,260 --> 00:40:51,760
+Speaker 0: Well, so you had the most possible extreme reaction.
+
+518
+00:40:51,981 --> 00:40:56,839
+Speaker 1: I just lost all interest, and later I read a summary of what happened, and I feel like I didn't miss much.
+
+519
+00:40:57,760 --> 00:40:58,464
+Speaker 0: Not too much, no.
+
+520
+00:41:00,072 --> 00:41:01,399
+Speaker 0: You could basically stop reading it.
+
+521
+00:41:02,081 --> 00:41:03,359
+Speaker 0: You could treat that part as the end.
+
+522
+00:41:03,721 --> 00:41:04,106
+Speaker 1: You know what?
+
+523
+00:41:04,126 --> 00:41:05,220
+Speaker 1: That would have been a way better ending.
+
+524
+00:41:06,823 --> 00:41:24,020
+Speaker 0: And so Chainsaw Man, which the initial manga was 11 volumes, and in those 11 volumes it started extremely strong, as strong as you could possibly start, and then it didn't finish as strong, but it wasn't bad.
+
+525
+00:41:25,201 --> 00:41:32,704
+Speaker 0: It's like at least I wasn't so excited by the end of Chainsaw Man Part 1.
+
+526
+00:41:32,704 --> 00:41:34,720
+Speaker 0: I thought it was going to be the end of Chainsaw Man.
+
+527
+00:41:35,022 --> 00:41:38,520
+Speaker 0: They were wrapping everything up, but it's like, nope, that's the end of Part 1.
+
+528
+00:41:38,520 --> 00:41:53,800
+Speaker 0: I guess, spoiler, but it's not a spoiler, because you can see that volumes 12 and 13 are for sale, and volume 14 will be available in February, so it's not a spoiler, even if you didn't read volumes 1 through 11 yet, which are available in a box set.
+
+529
+00:41:54,540 --> 00:41:59,380
+Speaker 0: Anyway, I didn't realize that Part 2 was coming so quickly.
+
+530
+00:41:59,822 --> 00:42:03,637
+Speaker 0: I was like, oh, volume 12 is already out and 13?
+
+531
+00:42:03,637 --> 00:42:04,460
+Speaker 0: What's going on here?
+
+532
+00:42:06,701 --> 00:42:14,323
+Speaker 0: And of course, it takes a big swerve, because they wrapped everything up at the end of Part 1.
+
+533
+00:42:14,323 --> 00:42:17,460
+Speaker 0: I'm like, what could it possibly be in Part 2?
+
+534
+00:42:17,460 --> 00:42:19,205
+Speaker 0: And what is it in Part 2?
+
+535
+00:42:19,205 --> 00:42:23,960
+Speaker 0: Well, they introduce a new character who's got more focus than Chainsaw Man at least.
+
+536
+00:42:24,140 --> 00:42:26,679
+Speaker 0: Not that Chainsaw Man isn't there, he's very, very there.
+
+537
+00:42:27,264 --> 00:42:29,500
+Speaker 0: His name of the manga is still Chainsaw Man.
+
+538
+00:42:31,142 --> 00:42:33,716
+Speaker 0: And it's like, will I care?
+
+539
+00:42:33,736 --> 00:42:34,480
+Speaker 0: And you know what?
+
+540
+00:42:35,120 --> 00:42:42,860
+Speaker 0: I think volumes 12 and 13 of Chainsaw Man might be better than any of the previous 11 volumes of Chainsaw Man.
+
+541
+00:42:43,522 --> 00:42:47,180
+Speaker 0: I think they do it better in the second arc than the first arc.
+
+542
+00:42:47,300 --> 00:42:51,658
+Speaker 0: I care way more about this new character than all those characters in the first 11 volumes.
+
+543
+00:42:52,120 --> 00:42:57,140
+Speaker 0: I couldn't even remember half their names, and a lot of them got chainsawed anyway, as you would expect.
+
+544
+00:42:57,640 --> 00:43:04,040
+Speaker 1: I mean, there's a mean time before chainsawing in a comic called Chainsaw Man.
+
+545
+00:43:04,840 --> 00:43:04,980
+Speaker 0: Right.
+
+546
+00:43:05,301 --> 00:43:16,060
+Speaker 0: And the character of Chainsaw Man, the character, Denji, is not the reason you like, at least for me, the reason to like the manga.
+
+547
+00:43:17,781 --> 00:43:21,500
+Speaker 0: It's about, you know, the other characters are much more interesting than him.
+
+548
+00:43:21,941 --> 00:43:23,929
+Speaker 1: He's doing his best, that character.
+
+549
+00:43:23,949 --> 00:43:26,037
+Speaker 1: I'll leave it at that.
+
+550
+00:43:27,600 --> 00:43:27,760
+Speaker 0: Right.
+
+551
+00:43:28,061 --> 00:43:34,255
+Speaker 0: But the characters that they've created in volume, you know, the main one especially, in volumes 12 and 13, it's like, oh snap.
+
+552
+00:43:37,081 --> 00:43:39,207
+Speaker 0: I think there's really, this is much better.
+
+553
+00:43:39,227 --> 00:43:41,132
+Speaker 0: I'm into it.
+
+554
+00:43:41,854 --> 00:43:44,140
+Speaker 0: I'm waiting for volume 14 in February.
+
+555
+00:43:44,300 --> 00:43:54,240
+Speaker 0: So, and you know what, here's something else, is that all you really have to know about Chainsaw Man, right, is that they're devils.
+
+556
+00:43:54,860 --> 00:43:55,422
+Speaker 0: They're bad.
+
+557
+00:43:56,948 --> 00:43:59,679
+Speaker 0: And like there's a little bit of lore, I guess, that would help you.
+
+558
+00:44:00,260 --> 00:44:06,840
+Speaker 0: But like, you don't need to know too much about the first 11 volumes to just start reading at volume 12 if you wanted to.
+
+559
+00:44:07,983 --> 00:44:14,480
+Speaker 0: And it's like, I think you'd be missing out on some knowledge, like how devil pacts work and shit like that.
+
+560
+00:44:15,100 --> 00:44:19,268
+Speaker 0: Names of people who were in the first 11 volumes and stuff like that.
+
+561
+00:44:19,889 --> 00:44:25,320
+Speaker 0: But really, other than Chainsaw Man, it's new characters mostly.
+
+562
+00:44:28,601 --> 00:44:38,140
+Speaker 0: And, you know, you could just do it and pretend, you know, all the mysterious stuff that you don't understand is just like, you know, you're just thrown into the story in the middle.
+
+563
+00:44:38,461 --> 00:44:39,700
+Speaker 0: You're not meant to understand it yet.
+
+564
+00:44:39,720 --> 00:44:40,784
+Speaker 1: Fire the low and greens.
+
+565
+00:44:40,804 --> 00:44:43,394
+Speaker 1: You don't need to know the details of what a low and green is.
+
+566
+00:44:43,455 --> 00:44:44,760
+Speaker 1: Just, you know, that they can be fired.
+
+567
+00:44:45,741 --> 00:44:53,100
+Speaker 0: Yeah, so I think it's, you know, I was like, I was just going to check it out because I was curious what could possibly happen in part two.
+
+568
+00:44:53,501 --> 00:44:55,511
+Speaker 0: I was expecting a Death Note-like swerve.
+
+569
+00:44:56,053 --> 00:44:57,380
+Speaker 0: It was the exact opposite.
+
+570
+00:44:57,540 --> 00:45:08,579
+Speaker 0: I've never seen an anime or manga before where the additional arc actually did a hockey stick upwards, right, in terms of, and it was already pretty strong, you know.
+
+571
+00:45:10,561 --> 00:45:12,985
+Speaker 1: So I got a short one as well.
+
+572
+00:45:13,005 --> 00:45:16,311
+Speaker 1: I know I've mentioned it a few times because season three dropped, but now we've seen it all.
+
+573
+00:45:16,392 --> 00:45:20,139
+Speaker 1: Hilda, there are only 34 episodes plus a movie total.
+
+574
+00:45:20,159 --> 00:45:20,860
+Speaker 1: It's all on Netflix.
+
+575
+00:45:21,120 --> 00:45:21,664
+Speaker 0: That's a lot.
+
+576
+00:45:22,289 --> 00:45:22,894
+Speaker 0: Only 34 episodes.
+
+577
+00:45:24,000 --> 00:45:28,097
+Speaker 1: Well, that's three seasons and each season is a complete story.
+
+578
+00:45:28,137 --> 00:45:28,719
+Speaker 1: start to finish.
+
+579
+00:45:29,581 --> 00:45:33,586
+Speaker 1: And it's just like it's an animated TV show based on a comic, a fantasy comic.
+
+580
+00:45:34,588 --> 00:45:43,920
+Speaker 1: that is the kind of thing that if you didn't know what it was and you saw it at a place like MOCA, you'd go, oh, and just buy it automatically just from the cover and read it.
+
+581
+00:45:44,040 --> 00:45:45,126
+Speaker 1: And it's really good.
+
+582
+00:45:45,146 --> 00:45:47,720
+Speaker 1: I have nothing about positive things to say about Hilda.
+
+583
+00:45:48,301 --> 00:46:01,800
+Speaker 1: But now that it's ended, what I'm surprised by is that it actually does address answers to questions that I never thought would be bothered to be answered.
+
+584
+00:46:02,320 --> 00:46:11,340
+Speaker 1: Like it raises the stakes and deals with some things that you really wouldn't expect to be dealt with considering the way this comic and the show go up to this point.
+
+585
+00:46:12,141 --> 00:46:14,986
+Speaker 1: And the end is actually pretty serious.
+
+586
+00:46:15,707 --> 00:46:24,260
+Speaker 1: The stakes are high enough to where it's pretty dark and fairly tragic, which is a pretty radical departure from how the show goes up to that point.
+
+587
+00:46:25,180 --> 00:46:32,220
+Speaker 1: And I'd say Hilda, overall, this work edges into the bottom of S-tier.
+
+588
+00:46:33,481 --> 00:46:38,969
+Speaker 1: This is like A+ tier, maybe the bottom of S-tier.
+
+589
+00:46:38,989 --> 00:46:46,059
+Speaker 1: I have basically zero complaints about this absolutely delightful show, and I think anyone who has access to Netflix should watch it.
+
+590
+00:46:47,520 --> 00:46:47,751
+Speaker 0: Interesting.
+
+591
+00:46:48,301 --> 00:46:51,319
+Speaker 1: I think I'm going to read the comic that it's based on now.
+
+592
+00:46:53,823 --> 00:46:55,130
+Speaker 1: But yeah, it'll tell a complete story.
+
+593
+00:46:55,170 --> 00:46:56,034
+Speaker 1: There's no more Hilda.
+
+594
+00:46:56,155 --> 00:46:56,999
+Speaker 1: It's done, done, done.
+
+595
+00:46:58,521 --> 00:47:05,560
+Speaker 1: I think if you watch it all, you'll be very satisfied with where it ends and what's going on at the end of the show.
+
+596
+00:47:06,320 --> 00:47:15,960
+Speaker 1: And the only thing I'll spoil, because the thing that a lot of Geek Nights listeners hate the most, and I also hate the most, is when there's a story about magic but also magical realism.
+
+597
+00:47:16,381 --> 00:47:20,315
+Speaker 1: And at the end, either the magic goes away or it was all a dream.
+
+598
+00:47:20,676 --> 00:47:21,880
+Speaker 0: None of that shit happens here.
+
+599
+00:47:22,360 --> 00:47:31,880
+Speaker 1: At the end of the show, everyone involved, including the adults, all agree, yes, all of that happened and the ramifications of it are well known.
+
+600
+00:47:32,440 --> 00:47:33,559
+Speaker 0: Boy in the Heron did the same thing.
+
+601
+00:47:34,381 --> 00:47:38,592
+Speaker 1: Yeah, that's a green flag for me in any media.
+
+602
+00:47:38,973 --> 00:47:41,700
+Speaker 1: Red flag whenever all the magic goes away and it was just a dream.
+
+603
+00:47:44,440 --> 00:47:48,484
+Speaker 0: Alright, so in terms of comic books lately, it's weird.
+
+604
+00:47:49,285 --> 00:48:05,900
+Speaker 0: Back in the day, I feel like when I started ordering comic books and going to the comic book store constantly, and when I was living in Beacon, I was sort of catching up on all of the comics I wasn't able to buy and read the earlier part of my life because I didn't A) have money, B) have a comic book store.
+
+605
+00:48:07,761 --> 00:48:10,765
+Speaker 0: And so I caught up and I filled all these shelves behind me rapidly.
+
+606
+00:48:11,306 --> 00:48:18,956
+Speaker 0: And then about ordering comics, pre-ordering them every single month for years and years and years, it's been since 2016, so maybe a long time.
+
+607
+00:48:22,860 --> 00:48:36,740
+Speaker 0: It's sort of like, well, there aren't really that many new series, there's a lot of them, but there aren't so many that are like, really, I'm going to spend money to get a paper version, sight unseen.
+
+608
+00:48:40,122 --> 00:48:46,320
+Speaker 0: When you look at the things that are worth buying and putting on the shelf, especially when you're low on shelf space, it's like saga level stuff.
+
+609
+00:48:48,641 --> 00:48:51,645
+Speaker 0: And usually I find out something is at that level way later.
+
+610
+00:48:52,246 --> 00:49:01,440
+Speaker 0: And so a lot of times I've actually just been ordering nothing some months, and other months I just order a few things, not too many, and then I forget what I ordered.
+
+611
+00:49:03,603 --> 00:49:10,391
+Speaker 0: And so a box will show up and you'll look inside and it's almost like, "Oh, Pascott, why did you buy
+
+612
+00:49:10,411 --> 00:49:10,692
+Speaker 0: that?".
+
+613
+00:49:10,832 --> 00:49:15,337
+Speaker 0: Or, "Oh, Pascott, thank you for buying this.
+
+614
+00:49:16,058 --> 00:49:17,260
+Speaker 0: I completely forgot about
+
+615
+00:49:17,280 --> 00:49:17,320
+Speaker 0: it.".
+
+616
+00:49:17,320 --> 00:49:23,952
+Speaker 0: And so a thing showed up that I was upset that it was so large, and then I opened it up and realized what it was.
+
+617
+00:49:24,152 --> 00:49:28,440
+Speaker 0: Pascott ordered The Simpsons Treehouse of Horror.
+
+618
+00:49:28,743 --> 00:49:29,615
+Speaker 1: Oh damn, that's huge!
+
+619
+00:49:30,660 --> 00:49:31,802
+Speaker 0: It's enormous, right?
+
+620
+00:49:32,344 --> 00:49:40,240
+Speaker 0: So if you don't know, there are all these Simpsons comics from back in the day that were published by a company called Bongo Comics.
+
+621
+00:49:40,901 --> 00:49:43,960
+Speaker 1: I have a lot of them, but not all of them.
+
+622
+00:49:44,621 --> 00:49:54,320
+Speaker 0: They went for a long, long time and made a lot of comics, and as you would expect during the Halloween season, every year they would put out some Treehouse of Horror comics.
+
+623
+00:49:56,122 --> 00:50:01,560
+Speaker 0: Just wacky Simpsons comics that involved horrors just like the TV show did.
+
+624
+00:50:02,920 --> 00:50:04,303
+Speaker 0: And so there were so many of those.
+
+625
+00:50:05,948 --> 00:50:10,940
+Speaker 0: Bongo Comics has been out of business for a while, and there haven't been new Simpsons comics.
+
+626
+00:50:11,421 --> 00:50:18,640
+Speaker 0: But it looks like Abrams Comic Arts must have the rights or the license or something that allows them to publish this.
+
+627
+00:50:19,280 --> 00:50:26,940
+Speaker 0: And what they've done is they've taken many Treehouse of Horror comics, and not in some chronological order, by the way.
+
+628
+00:50:27,501 --> 00:50:30,180
+Speaker 0: It might be like a "best of" or some other arrangement.
+
+629
+00:50:30,481 --> 00:50:31,899
+Speaker 1: Looks like there's going to be a second one.
+
+630
+00:50:32,720 --> 00:50:35,167
+Speaker 0: Yeah, it comes in this mega box, right?
+
+631
+00:50:35,188 --> 00:50:39,300
+Speaker 0: And it's like this goes in, and then you see part of the cover shows in the hole.
+
+632
+00:50:40,702 --> 00:50:43,759
+Speaker 0: Also, I found out by accident that this cover glows in the dark.
+
+633
+00:50:46,081 --> 00:50:55,520
+Speaker 0: But the way the book is arranged is that they've got the sci-fi ones, the alien ones, the trick-or-treating ones, the thrillers.
+
+634
+00:50:55,720 --> 00:50:59,198
+Speaker 1: Oh, I just realized the title of it is "The Ominous
+
+635
+00:50:59,218 --> 00:50:59,520
+Speaker 1: Omnibus."
+
+636
+00:51:01,140 --> 00:51:01,855
+Speaker 1: Exactly, yeah.
+
+637
+00:51:03,560 --> 00:51:10,260
+Speaker 0: And so yeah, this has a lot of Simpsons comics in it, in a very large and fancy book.
+
+638
+00:51:10,680 --> 00:51:11,879
+Speaker 0: You can see they're all out of order.
+
+639
+00:51:12,180 --> 00:51:15,340
+Speaker 1: I can say, because I read a bunch of these as they were coming out.
+
+640
+00:51:16,081 --> 00:51:22,200
+Speaker 1: I remember thinking they were about as funny as The Simpsons, the show, and I remember really liking them.
+
+641
+00:51:22,561 --> 00:51:32,264
+Speaker 1: There are comics in here as old as 1995 and as new as like 2016?
+
+642
+00:51:32,264 --> 00:51:34,079
+Speaker 1: '95 I think is when it started?
+
+643
+00:51:36,661 --> 00:51:38,639
+Speaker 0: Yeah, I think 2016 is the newest year.
+
+644
+00:51:38,820 --> 00:51:42,960
+Speaker 1: Yup, fall of 1995 is when Bongo started making The Simpsons comics.
+
+645
+00:51:44,322 --> 00:51:49,163
+Speaker 0: Yup, so yeah, "Call Me Homer" from Treehouse #1 is on page 256.
+
+646
+00:51:49,163 --> 00:51:52,400
+Speaker 0: And then in the back, there's a creator index.
+
+647
+00:51:53,220 --> 00:51:59,240
+Speaker 0: So you can look up to see if your favorite artists or writers or creators have made any of these comics.
+
+648
+00:51:59,420 --> 00:52:01,159
+Speaker 0: So one of them was written by Mark Hamill.
+
+649
+00:52:03,221 --> 00:52:05,519
+Speaker 0: There's a lot of names on here that you will know.
+
+650
+00:52:05,900 --> 00:52:12,700
+Speaker 1: I would even say I remember these being as good as how good the My Little Pony comics were when those came out.
+
+651
+00:52:13,400 --> 00:52:16,640
+Speaker 0: The Simpsons comics are better than the Sergio Aragones one in here.
+
+652
+00:52:17,003 --> 00:52:18,839
+Speaker 0: You get a wide variety of art styles.
+
+653
+00:52:20,322 --> 00:52:25,540
+Speaker 0: As long as you know anything about The Simpsons, there's not a continuity of anything.
+
+654
+00:52:26,841 --> 00:52:34,800
+Speaker 1: Well, specifically Treehouse of Horror episodes are by design and stated as non-canonical compared to The Simpsons.
+
+655
+00:52:35,520 --> 00:52:37,360
+Speaker 0: Right, but they're all standalone.
+
+656
+00:52:37,720 --> 00:52:39,130
+Speaker 0: There are a lot of references.
+
+657
+00:52:42,042 --> 00:52:42,723
+Speaker 0: That's the thing.
+
+658
+00:52:42,764 --> 00:52:48,520
+Speaker 0: The Simpsons itself, the TV show, is constantly making pop culture references to other things.
+
+659
+00:52:49,020 --> 00:52:56,440
+Speaker 0: Whereas Simpsons comics obviously do the same thing, but they also make Simpsons references to the TV show.
+
+660
+00:52:58,260 --> 00:53:05,499
+Speaker 0: Like you'll have a lot of Milhouse parents divorce jokes and things like that going on.
+
+661
+00:53:07,361 --> 00:53:13,680
+Speaker 0: So if you like Simpsons at all, should you buy a giant hardcover if you have room for it?
+
+662
+00:53:14,060 --> 00:53:21,900
+Speaker 0: This is actually quite a superior large book to have because it's not one of those coffee table ones you look at once with art.
+
+663
+00:53:22,820 --> 00:53:25,379
+Speaker 0: And maybe look at a second time if someone visits and notices it.
+
+664
+00:53:26,162 --> 00:53:27,439
+Speaker 0: You'll actually read this whole thing.
+
+665
+00:53:30,805 --> 00:53:32,012
+Speaker 0: I don't think it was that expensive.
+
+666
+00:53:32,032 --> 00:53:33,440
+Speaker 0: What's the actual price on it?
+
+667
+00:53:33,540 --> 00:53:34,058
+Speaker 0: Forty bucks?
+
+668
+00:53:34,701 --> 00:53:35,263
+Speaker 0: Forty bucks.
+
+669
+00:53:35,303 --> 00:53:36,107
+Speaker 0: I paid less than that.
+
+670
+00:53:36,247 --> 00:53:39,320
+Speaker 0: So I probably had at least fifteen percent or more.
+
+671
+00:53:39,400 --> 00:53:43,219
+Speaker 1: I paid more for video games that I played for fewer hours than it would take to read this.
+
+672
+00:53:44,440 --> 00:53:49,295
+Speaker 0: Yeah, so I didn't remember ordering it until it showed up.
+
+673
+00:53:49,315 --> 00:53:50,058
+Speaker 0: And then I was like,
+
+674
+00:53:50,118 --> 00:53:50,379
+Speaker 0: "Wow!".
+
+675
+00:53:50,942 --> 00:53:52,980
+Speaker 0: I didn't realize that this would be that fancy.
+
+676
+00:53:53,880 --> 00:53:54,684
+Speaker 1: You know what's extra funny?
+
+677
+00:53:54,704 --> 00:54:00,999
+Speaker 1: Because when you mentioned that you were going to talk about it on this show, what I thought was, "That's not the kind of thing Scott would normally
+
+678
+00:54:01,080 --> 00:54:01,140
+Speaker 1: buy.".
+
+679
+00:54:03,440 --> 00:54:06,798
+Speaker 1: I was curious what you were going to say about it as a result.
+
+680
+00:54:08,040 --> 00:54:11,460
+Speaker 0: I wouldn't buy Bongo comics on the regular when they existed.
+
+681
+00:54:11,740 --> 00:54:14,039
+Speaker 0: Because it's like, "Do you really need a house full of Simpsons
+
+682
+00:54:14,059 --> 00:54:14,180
+Speaker 0: comics?".
+
+683
+00:54:14,180 --> 00:54:14,802
+Speaker 1: I mean, we did.
+
+684
+00:54:15,203 --> 00:54:20,640
+Speaker 1: But the way we treated floppies was we'd buy them, we'd read them, and we'd either give them away or lose them or throw them away.
+
+685
+00:54:21,481 --> 00:54:21,962
+Speaker 0: Right.
+
+686
+00:54:21,982 --> 00:54:23,225
+Speaker 0: But they had trades.
+
+687
+00:54:23,546 --> 00:54:29,460
+Speaker 0: But the thing is, when it was free comic book day, I would regularly take the Bongo free comic.
+
+688
+00:54:30,383 --> 00:54:32,080
+Speaker 0: Because you knew that it was going to be quality.
+
+689
+00:54:33,381 --> 00:54:36,178
+Speaker 0: So this is like, "Hey, here's a compilation for
+
+690
+00:54:36,199 --> 00:54:36,299
+Speaker 0: you.".
+
+691
+00:54:36,420 --> 00:54:37,043
+Speaker 0: It's like, "You know what?
+
+692
+00:54:37,103 --> 00:54:40,339
+Speaker 0: It's been a long time since I read a Bongo comic because you literally went out of
+
+693
+00:54:40,379 --> 00:54:40,600
+Speaker 0: business.".
+
+694
+00:54:42,943 --> 00:54:46,320
+Speaker 0: So this is the right dosage of that kind of content.
+
+695
+00:54:47,840 --> 00:54:49,885
+Speaker 1: Alright, so one last little thing.
+
+696
+00:54:49,905 --> 00:54:56,240
+Speaker 1: Because part of the reason why I haven't watched as much, like Scott watches less screen than I think I do.
+
+697
+00:54:56,781 --> 00:54:59,351
+Speaker 0: I've been watching actually a ton of movies lately.
+
+698
+00:54:59,371 --> 00:55:01,980
+Speaker 0: I just really do not like television.
+
+699
+00:55:03,982 --> 00:55:07,854
+Speaker 1: We tend to watch specific shows that we have a specific reason to watch.
+
+700
+00:55:07,895 --> 00:55:09,540
+Speaker 1: that are not long-running shows.
+
+701
+00:55:09,700 --> 00:55:11,188
+Speaker 1: Like Hilda was a specific show.
+
+702
+00:55:11,611 --> 00:55:12,777
+Speaker 1: Season comes out, we watch it.
+
+703
+00:55:13,741 --> 00:55:21,080
+Speaker 1: And Arcane, actually I'm looking forward to the next season of that because that is still one of the best animated TV shows I've ever seen.
+
+704
+00:55:23,520 --> 00:55:29,140
+Speaker 1: But a lot of what I've been watching lately is short, independent animation.
+
+705
+00:55:30,281 --> 00:55:31,567
+Speaker 1: Like one-off shorts.
+
+706
+00:55:31,748 --> 00:55:34,180
+Speaker 1: It's not a series, it's not a movie.
+
+707
+00:55:34,440 --> 00:55:39,114
+Speaker 1: It's an animation someone made that they uploaded to YouTube and maybe put in a few FIM festivals.
+
+708
+00:55:39,174 --> 00:55:41,080
+Speaker 1: that's like 4-10 minutes long.
+
+709
+00:55:41,260 --> 00:55:41,983
+Speaker 1: Like that kind of thing.
+
+710
+00:55:42,606 --> 00:55:45,660
+Speaker 1: So I want to link to one of those because it was pretty good.
+
+711
+00:55:45,760 --> 00:55:55,760
+Speaker 1: But full disclosure, if you want to watch this, it deals with way heavier subject matter than the art style might imply.
+
+712
+00:55:57,240 --> 00:56:00,720
+Speaker 1: So read the description and dig into the details to make sure if you want to watch it.
+
+713
+00:56:00,760 --> 00:56:08,480
+Speaker 1: Because it's about mental illness, it's about potentially the apocalypse, it's about potentially exploited children.
+
+714
+00:56:09,302 --> 00:56:13,200
+Speaker 1: And it's just a 9 minute short film called Twins in Paradise.
+
+715
+00:56:14,623 --> 00:56:15,491
+Speaker 0: It's only 9 minutes?
+
+716
+00:56:15,552 --> 00:56:16,319
+Speaker 0: I could watch 9 minutes.
+
+717
+00:56:17,241 --> 00:56:18,725
+Speaker 1: It's not the greatest thing I've seen.
+
+718
+00:56:18,805 --> 00:56:23,920
+Speaker 1: I picked this one kind of randomly out of a list of like 30 or 40 of them that are in my YouTube likes.
+
+719
+00:56:24,580 --> 00:56:32,220
+Speaker 1: But this one surprised us and we actually spent some time unpacking what it was about and what was going on with it.
+
+720
+00:56:32,960 --> 00:56:35,288
+Speaker 1: There's a lot to say about it.
+
+721
+00:56:35,569 --> 00:56:38,960
+Speaker 1: It's the kind of thing you could assign to a college class and make everyone write an essay on.
+
+722
+00:56:41,781 --> 00:56:43,426
+Speaker 1: So yeah, I think we've killed enough time.
+
+723
+00:56:43,526 --> 00:56:46,935
+Speaker 1: But I suspect, let's see, you've got Netflix right now.
+
+724
+00:56:46,996 --> 00:56:48,620
+Speaker 1: What's on Netflix other than Hilda?
+
+725
+00:56:49,480 --> 00:56:57,060
+Speaker 0: Let me go to Netflix and let me look at the things that I put the check on to say I should watch this at some point in the future.
+
+726
+00:56:57,160 --> 00:56:58,339
+Speaker 1: I'm going to log into my Netflix.
+
+727
+00:56:59,280 --> 00:57:00,705
+Speaker 0: My Netflix is making noise.
+
+728
+00:57:00,826 --> 00:57:01,769
+Speaker 0: Okay, I got it quiet.
+
+729
+00:57:01,950 --> 00:57:02,351
+Speaker 0: Let's see.
+
+730
+00:57:03,254 --> 00:57:04,860
+Speaker 0: There's this blue eye samurai thing.
+
+731
+00:57:05,380 --> 00:57:06,349
+Speaker 1: Oh, that's in our queue too.
+
+732
+00:57:06,389 --> 00:57:07,660
+Speaker 1: We're definitely watching the hell out of that.
+
+733
+00:57:07,740 --> 00:57:08,703
+Speaker 0: I don't know what that is.
+
+734
+00:57:08,763 --> 00:57:10,087
+Speaker 0: There's the Scott Pilgrim.
+
+735
+00:57:11,210 --> 00:57:13,256
+Speaker 0: There's that leave the world behind thing.
+
+736
+00:57:13,316 --> 00:57:14,238
+Speaker 0: There's Bee and Puppycat.
+
+737
+00:57:14,278 --> 00:57:14,840
+Speaker 0: I never watched.
+
+738
+00:57:15,021 --> 00:57:15,638
+Speaker 1: I finished that.
+
+739
+00:57:17,001 --> 00:57:19,729
+Speaker 0: Oh, there's that Indian movie, Juwan extended cut.
+
+740
+00:57:19,829 --> 00:57:20,551
+Speaker 0: I want to watch that.
+
+741
+00:57:21,234 --> 00:57:23,360
+Speaker 0: Oh, I didn't watch the newest Castlevania one yet.
+
+742
+00:57:23,641 --> 00:57:26,560
+Speaker 1: Ah, so the newest Castlevania is a very different style obviously.
+
+743
+00:57:27,280 --> 00:57:31,991
+Speaker 0: Oh, there's the Sweet Tooth adaptation of the comic, the live action one, but I didn't read the comic.
+
+744
+00:57:32,092 --> 00:57:32,974
+Speaker 0: I have all the comic.
+
+745
+00:57:33,014 --> 00:57:33,475
+Speaker 0: I own it all.
+
+746
+00:57:33,495 --> 00:57:34,497
+Speaker 0: I just haven't read it all yet.
+
+747
+00:57:34,558 --> 00:57:35,560
+Speaker 0: So I want to finish that first.
+
+748
+00:57:35,600 --> 00:57:37,484
+Speaker 1: We watched all of Sweet Tooth.
+
+749
+00:57:37,884 --> 00:57:39,387
+Speaker 1: It's honestly pretty good.
+
+750
+00:57:39,528 --> 00:57:42,193
+Speaker 1: I didn't think we'd watch it all, but we watched all the way through.
+
+751
+00:57:42,213 --> 00:57:45,900
+Speaker 1: The show ends right now, not at the end of the comic.
+
+752
+00:57:47,860 --> 00:57:48,284
+Speaker 0: Okay.
+
+753
+00:57:48,426 --> 00:57:49,779
+Speaker 0: There's Pluto, which I watched.
+
+754
+00:57:50,303 --> 00:57:51,319
+Speaker 1: We're about to watch that.
+
+755
+00:57:52,460 --> 00:58:01,896
+Speaker 0: There's Oku, the inner chambers, which I read some of the manga and I watched one episode of the anime and it seemed to line up with what I read in the manga.
+
+756
+00:58:03,038 --> 00:58:03,760
+Speaker 0: very, very well.
+
+757
+00:58:05,304 --> 00:58:06,559
+Speaker 1: I assume you never watched She-Ra?
+
+758
+00:58:07,822 --> 00:58:09,800
+Speaker 0: No, that's probably not going to be watched.
+
+759
+00:58:09,900 --> 00:58:12,150
+Speaker 1: It's actually pretty good.
+
+760
+00:58:12,250 --> 00:58:14,560
+Speaker 1: It's a radical departure from She-Ra.
+
+761
+00:58:15,140 --> 00:58:15,220
+Speaker 0: Okay.
+
+762
+00:58:15,381 --> 00:58:18,047
+Speaker 0: You realize how few... I've had Netflix.
+
+763
+00:58:18,148 --> 00:58:19,792
+Speaker 0: Here's the thing.
+
+764
+00:58:19,852 --> 00:58:22,940
+Speaker 0: I just mentioned a lot of things on Netflix that I would watch, right?
+
+765
+00:58:23,140 --> 00:58:25,938
+Speaker 0: And if I watched all those things, I would get my money's worth, right?
+
+766
+00:58:25,978 --> 00:58:26,300
+Speaker 0: For sure.
+
+767
+00:58:27,001 --> 00:58:38,260
+Speaker 0: But here's the thing is I spend so little of my time watching television that it's like, even though there's all those things I want to watch that I just mentioned that I hopefully will watch, I don't get through them.
+
+768
+00:58:38,440 --> 00:58:40,292
+Speaker 0: And it's like, I'm probably... What does Netflix cost?
+
+769
+00:58:40,292 --> 00:58:41,117
+Speaker 0: 15 bucks a month?
+
+770
+00:58:41,137 --> 00:58:41,640
+Speaker 0: Something like that?
+
+771
+00:58:42,200 --> 00:58:47,798
+Speaker 0: I don't think I'm... I'm not getting $15 worth a month because I don't watch $15 worth of hours of anything.
+
+772
+00:58:48,620 --> 00:58:48,881
+Speaker 1: You know what?
+
+773
+00:58:48,941 --> 00:58:53,377
+Speaker 1: If you watch Castlevania within a month, the second season of Castlevania is worth $15 to see.
+
+774
+00:58:55,161 --> 00:58:56,408
+Speaker 0: I've seen two seasons.
+
+775
+00:58:56,428 --> 00:58:58,660
+Speaker 0: This is the third... The Nocturne one I haven't watched.
+
+776
+00:58:58,800 --> 00:58:58,961
+Speaker 1: Yup.
+
+777
+00:58:59,264 --> 00:59:01,059
+Speaker 1: This one, it's all about Richter and there's...
+
+778
+00:59:01,301 --> 00:59:01,401
+Speaker 0: Oh!
+
+779
+00:59:01,482 --> 00:59:02,971
+Speaker 0: There's the Pokemon concierge.
+
+780
+00:59:03,092 --> 00:59:04,320
+Speaker 0: Okay, we're going to add that to the list.
+
+781
+00:59:04,360 --> 00:59:04,763
+Speaker 1: All right, then.
+
+782
+00:59:04,844 --> 00:59:06,679
+Speaker 1: If I had to distill, of all the things...
+
+783
+00:59:06,961 --> 00:59:08,834
+Speaker 0: Am I going to watch it, though, is the question, right?
+
+784
+00:59:08,854 --> 00:59:09,760
+Speaker 0: To add it to the list.
+
+785
+00:59:09,960 --> 00:59:18,600
+Speaker 1: All the things I have watched on Netflix that you have not, if I was going to recommend one to you that I would suggest you watch, but again, I don't expect that you will.
+
+786
+00:59:18,961 --> 00:59:30,437
+Speaker 1: I think it would actually be, of all things, fucking Arkane, which is based on League of Legends, yet somehow ended up being one of the best animated things I've seen.
+
+787
+00:59:30,457 --> 00:59:32,139
+Speaker 1: that wasn't the Spider-Verse in a long time.
+
+788
+00:59:33,064 --> 00:59:33,160
+Speaker 0: Yeah.
+
+789
+00:59:34,120 --> 00:59:41,800
+Speaker 1: And I think the main thing it's got going for it is it's... Not only is it great characters, great animation, great voice acting, a pretty compelling story.
+
+790
+00:59:42,201 --> 00:59:55,080
+Speaker 1: It's short, but it looks like... You know the thing we always complain about where there's concept art that looks great, but then when the thing comes out, it's a much more distilled, refined version?
+
+791
+00:59:55,660 --> 00:59:57,747
+Speaker 1: This looks like concept art.
+
+792
+00:59:57,967 --> 01:00:01,077
+Speaker 1: The show is animated like concept art.
+
+793
+01:00:01,238 --> 01:00:01,920
+Speaker 1: It's beautiful.
+
+794
+01:00:04,802 --> 01:00:07,090
+Speaker 1: I think it is literally one of the best animated things I've seen.
+
+795
+01:00:07,110 --> 01:00:09,599
+Speaker 1: that was not the Spider-Verse in many years.
+
+796
+01:00:11,730 --> 01:00:12,119
+Speaker 1: Top five.
+
+797
+01:00:13,880 --> 01:00:16,644
+Speaker 1: What I would not watch is any more Dragon Prince.
+
+798
+01:00:16,904 --> 01:00:19,367
+Speaker 1: We tried to watch the next new season.
+
+799
+01:00:19,387 --> 01:00:21,971
+Speaker 1: No, the show is not good.
+
+800
+01:00:23,152 --> 01:00:26,456
+Speaker 1: What we saw back in the day is... Just pretend that's all there is.
+
+801
+01:00:26,517 --> 01:00:29,200
+Speaker 1: It is not worth continuing, unfortunately.
+
+802
+01:00:33,425 --> 01:00:34,170
+Speaker 1: All right, BNA.
+
+803
+01:00:34,190 --> 01:00:35,720
+Speaker 1: So I've got to watch Cyberpunk.
+
+804
+01:00:37,577 --> 01:00:37,640
+Speaker 0: Eh.
+
+805
+01:00:39,021 --> 01:00:42,150
+Speaker 1: All the anime people I know have said that Cyberpunk is phenomenal.
+
+806
+01:00:43,433 --> 01:00:45,259
+Speaker 1: If you want to see some Spriggan-style...
+
+807
+01:00:45,901 --> 01:00:48,460
+Speaker 0: Ooh, the Sting is on Netflix, but I've seen that.
+
+808
+01:00:48,580 --> 01:00:49,062
+Speaker 1: I've seen that.
+
+809
+01:00:49,363 --> 01:00:54,340
+Speaker 1: We actually randomly, on New Year's Eve, we watched It's a Wonderful Life just because we both hadn't seen it recently.
+
+810
+01:00:54,661 --> 01:00:55,299
+Speaker 0: It's a good movie.
+
+811
+01:00:56,141 --> 01:00:56,282
+Speaker 1: Yeah.
+
+812
+01:00:56,542 --> 01:01:02,179
+Speaker 1: Because I remembered what you'd said because you'd watched it again not that long ago and I think you said...
+
+813
+01:01:02,501 --> 01:01:04,000
+Speaker 0: It's just real white, but you know.
+
+814
+01:01:04,000 --> 01:01:06,043
+Speaker 1: Yep, it is real white.
+
+815
+01:01:06,143 --> 01:01:17,060
+Speaker 1: We also noted that, but I feel like most people saw that movie as a kid or only actually ever saw a few specific scenes from it and have a perception of what it's about.
+
+816
+01:01:17,360 --> 01:01:19,020
+Speaker 1: But really, it's mostly anti-capitalist.
+
+817
+01:01:19,620 --> 01:01:21,124
+Speaker 0: That's exactly what it is, yes.
+
+818
+01:01:21,927 --> 01:01:24,374
+Speaker 0: Just like Christmas Carol.
+
+819
+01:01:24,795 --> 01:01:26,440
+Speaker 0: Most Christmas shit is anti-capitalist.
+
+820
+01:01:31,850 --> 01:01:34,220
+Speaker 1: This has been Geek Nights with Rym and Scott.
+
+821
+01:01:34,280 --> 01:01:36,790
+Speaker 1: Special thanks to DJ Pretzel for the opening theme.
+
+822
+01:01:36,970 --> 01:01:43,010
+Speaker 0: Be sure to visit our website at frontrowclue.com for show notes, discussion, links and more.
+
+823
+01:01:43,510 --> 01:01:46,182
+Speaker 1: Remember, Geek Nights is not one but four different shows.
+
+824
+01:01:46,483 --> 01:01:48,050
+Speaker 1: Mondays are science and technology.
+
+825
+01:01:48,190 --> 01:01:49,935
+Speaker 1: Tuesdays, gaming and games.
+
+826
+01:01:50,056 --> 01:01:51,861
+Speaker 1: Wednesdays are animation and comics.
+
+827
+01:01:52,182 --> 01:01:54,670
+Speaker 1: Thursdays are arbitrary and indiscriminate.
+
+828
+01:01:55,350 --> 01:02:00,230
+Speaker 1: Geek Nights is distributed under a Creative Commons Attribution 4.0 International License.
+
+829
+01:02:00,691 --> 01:02:05,041
+Speaker 0: Geek Nights is recorded live with no studio and no audience.
+
+830
+01:02:05,522 --> 01:02:08,970
+Speaker 0: But unlike those other late shows, it's actually recorded at night.
+
+831
+01:02:09,351 --> 01:02:24,410
+Speaker 1: And the Patreon patrons for this episode of Geek Nights are... Alan Joyce, Linky G. Dredd, Lily Tenenbaum, Kace Karr, Max Music, Chris Haddad, Christopher Orr, Clinton, Walton, Finn, Joel Hayes, Betty Rymer, Rebecca Dunn, Sam Erickson, Trevor Von Hurl, and a bunch of people who do not want me to say their names.
+
+832
+01:02:25,130 --> 01:02:36,921
+Speaker 1: So the things I've been reading that are not fiction, that Scott would make fun of me for lately, and I am not kidding, are the various NATO standardization documents.
+
+833
+01:02:37,402 --> 01:02:40,370
+Speaker 1: And I have both a personal and a professional interest in these.
+
+834
+01:02:40,971 --> 01:02:43,678
+Speaker 1: But that's the story for another time.
+
+835
+01:02:44,079 --> 01:02:48,210
+Speaker 1: Tonight, I leave you with some music from a cartoon I made.
+

@@ -1,0 +1,2896 @@
+﻿1
+00:00:08,380 --> 00:00:10,340
+Speaker 1: It's Tuesday, April 2nd, 2024.
+
+2
+00:00:10,340 --> 00:00:10,721
+Speaker 1: I'm Rym.
+
+3
+00:00:13,636 --> 00:00:14,210
+Speaker 0: I'm Scott.
+
+4
+00:00:14,431 --> 00:00:16,090
+Speaker 1: And this is Geek Nights Tonight.
+
+5
+00:00:16,590 --> 00:00:18,781
+Speaker 1: It's Slay the Spire versus Video Poker.
+
+6
+00:00:18,801 --> 00:00:20,469
+Speaker 1: We're talking about Balatro.
+
+7
+00:00:22,070 --> 00:00:23,230
+Speaker 1: Bal-spade-tro.
+
+8
+00:00:25,072 --> 00:00:25,803
+Speaker 0: Let's do this.
+
+9
+00:00:27,594 --> 00:00:29,929
+Speaker 0: Uh, it's been a while since we did a show.
+
+10
+00:00:30,390 --> 00:00:31,749
+Speaker 0: I went to PAX East without Rym.
+
+11
+00:00:32,509 --> 00:00:32,643
+Speaker 1: Yup.
+
+12
+00:00:32,971 --> 00:00:33,406
+Speaker 0: It was a PAX.
+
+13
+00:00:34,130 --> 00:00:40,609
+Speaker 1: First time you've been to a PAX that I was not at, but I've been to... You know, we don't count PAX devs, 'cause those are weird.
+
+14
+00:00:41,070 --> 00:00:42,256
+Speaker 1: I've been to three PAXes.
+
+15
+00:00:42,276 --> 00:00:44,829
+Speaker 1: you didn't go to, so my lead is narrowed to two.
+
+16
+00:00:45,750 --> 00:00:45,795
+Speaker 0: Mm.
+
+17
+00:00:47,032 --> 00:00:59,169
+Speaker 0: Uh, it wasn't, you know... When you're not there with a lot of people, you can run out of things to do unless you really just want to play games with the few people you have.
+
+18
+00:01:00,852 --> 00:01:05,069
+Speaker 0: But, you know, when people are on different enforcing schedules, you gotta do panels, right?
+
+19
+00:01:06,511 --> 00:01:11,381
+Speaker 1: I feel like a lot of the default, like, you and I or you, me, and Emily often have some default things.
+
+20
+00:01:11,421 --> 00:01:15,670
+Speaker 1: we'll do in those gaps that if either one of us isn't there, that just disappears.
+
+21
+00:01:16,590 --> 00:01:16,680
+Speaker 0: Yup.
+
+22
+00:01:18,211 --> 00:01:21,661
+Speaker 0: You know, it was pretty crowded in the expo area, right?
+
+23
+00:01:21,861 --> 00:01:24,950
+Speaker 0: Total peoples was a lot, but not completely full.
+
+24
+00:01:26,012 --> 00:01:29,324
+Speaker 0: But once the expo hall closed, the tabletop area was quiet.
+
+25
+00:01:31,350 --> 00:01:41,170
+Speaker 0: It was better than last year, actually, which was, you know, but it's up versus recent years, but it's below the peak times, right?
+
+26
+00:01:41,251 --> 00:01:48,070
+Speaker 0: And I think, you know, part of this, PAX... It's weird, 'cause unplugged, you basically can't get a seat in tabletop anywhere, anytime.
+
+27
+00:01:48,891 --> 00:01:51,134
+Speaker 1: I think it's partly because there's a lot going on here.
+
+28
+00:01:51,154 --> 00:02:14,410
+Speaker 1: PAX East, despite being for a long time the biggest PAX, we definitely saw a trend where as soon as they started selling single day badges instead of just selling the four day badge or the three day badge, almost everyone who goes to PAX East, in my opinion, my experience, like my assumptions, I would love to see some data to prove me wrong.
+
+29
+00:02:14,931 --> 00:02:23,490
+Speaker 1: I think the majority of people who go to PAX East only go for a day, or even if they go for multiple days, they come in the expo hall and they fucking leave.
+
+30
+00:02:23,830 --> 00:02:29,869
+Speaker 1: And the people who stay for the entire PAX, or who stay after the expo hall closes, are the same people who always go to PAXs.
+
+31
+00:02:30,770 --> 00:02:36,469
+Speaker 0: Yeah, if we had a PAX of just the people who are like four day hardcore type people...
+
+32
+00:02:36,750 --> 00:02:38,670
+Speaker 1: Which, remember, all PAXs used to be that.
+
+33
+00:02:39,331 --> 00:02:44,008
+Speaker 0: Yeah, I think you could actually put it in a smaller building and it would be better.
+
+34
+00:02:45,130 --> 00:02:59,003
+Speaker 1: Yeah, and I think a big problem with PAX East is that part of why they went to the single days is that the four days would sell out right away, but some percentage of those people are the PAX lifers, and the other percentage of those people were the people who bought a four day badge.
+
+35
+00:02:59,023 --> 00:03:00,970
+Speaker 1: but they really only come for one day to see the expo hall.
+
+36
+00:03:02,011 --> 00:03:12,220
+Speaker 0: So if you look, it's like the cost of going to PAX East if you actually have to pay for the badge and the hotel is like a lot of money depending on how many people you share the hotel with.
+
+37
+00:03:13,250 --> 00:03:20,930
+Speaker 1: But unlike PAX West, which is in the middle of a vibrant city with a million restaurants right nearby, or PAX Unplugged, which it's just tabletop people.
+
+38
+00:03:22,551 --> 00:03:32,090
+Speaker 0: The next PAX East is going to be in May, so it won't matter as much that it's a little far away because you'll actually be able to walk the greater distance required comfortably.
+
+39
+00:03:32,830 --> 00:03:36,250
+Speaker 1: The thing is, the distance you gotta walk is all the way over that bridge into Chinatown.
+
+40
+00:03:37,290 --> 00:03:39,455
+Speaker 0: That's fine if it's warm out, right?
+
+41
+00:03:39,475 --> 00:03:40,738
+Speaker 0: That's not a distance at all.
+
+42
+00:03:40,798 --> 00:03:45,730
+Speaker 0: But in the cold, in the rain, like this PAX, it's like you don't even want to walk out to the food trucks.
+
+43
+00:03:47,011 --> 00:03:59,079
+Speaker 1: But it is just interesting because we've talked about this off and on for a long goddamn time, but there is definitely a big shift in the culture of all PAXes.
+
+44
+00:03:59,459 --> 00:04:04,343
+Speaker 1: when they shifted from you only buy weekend passes and the people who are there are there.
+
+45
+00:04:04,703 --> 00:04:14,790
+Speaker 1: for most of the parts of PAX to when it became there are expo hall people and then there's everybody else and very rarely do the two intersect except inside that expo hall.
+
+46
+00:04:17,111 --> 00:04:29,090
+Speaker 0: I think what PAX could use to enhance itself, right, because basically what's happened is the exhibitors, the industry, is going down, right?
+
+47
+00:04:29,731 --> 00:04:40,330
+Speaker 0: It's like, you know, they're laying people off, the games are cancelling, most of the games are, you know, obviously the microtransaction-y games.
+
+48
+00:04:40,510 --> 00:04:48,650
+Speaker 1: I also don't think any games make significantly more sales by being at conventions, except in very limited circumstances.
+
+49
+00:04:49,530 --> 00:04:55,330
+Speaker 0: The Nintendo's, the Sony's, the Microsoft's, they've, basically, E3 is completely dead, they've abandoned that.
+
+50
+00:04:55,650 --> 00:04:56,552
+Speaker 1: I mean, what human being?
+
+51
+00:04:56,752 --> 00:05:04,729
+Speaker 1: Who on earth wasn't going to buy Tears of the Kingdom, but then they saw it out of PAX and were like, "Oh shit, I should buy that Zelda
+
+52
+00:05:04,769 --> 00:05:04,970
+Speaker 1: game.".
+
+53
+00:05:05,170 --> 00:05:23,849
+Speaker 0: Right, but they've abandoned the E3, they've all realized, even Apple, that you can just announce your products with videos, which they've been doing, just Nintendo Directs, and then they're like, "Oh, you don't actually need to hold an in-person press event and take questions from the press and deal with annoying shit like
+
+54
+00:05:23,889 --> 00:05:23,970
+Speaker 1: that.".
+
+55
+00:05:24,971 --> 00:05:31,570
+Speaker 0: It's a lot cheaper and just as effective to put out a video that the media can watch at home and then write about.
+
+56
+00:05:32,111 --> 00:05:42,230
+Speaker 0: You're going to get the same press coverage with the video, it's cheaper, it's just as effective, and they're never going to go back to doing in-person, big, extravaganza-type events.
+
+57
+00:05:42,830 --> 00:05:57,210
+Speaker 1: Now, meanwhile, contrast this with MagFest, which is not just games, but also culture and art and everything else, and also has still the extremely strong culture of the only people who go to MagFest for a day are the people who couldn't go to MagFest for the whole time.
+
+58
+00:05:57,391 --> 00:06:02,789
+Speaker 1: That con is built around people who are all in for a weekend, like old faxes.
+
+59
+00:06:03,650 --> 00:06:11,090
+Speaker 0: Right, so if you look at what's going on at Pax, the things that people are doing is shopping, obviously.
+
+60
+00:06:11,350 --> 00:06:19,230
+Speaker 0: There's some amount of shopping, even though there's not that many people who sell things, and most of the ones who do are just selling tabletop stuff or vintage games.
+
+61
+00:06:20,571 --> 00:06:26,204
+Speaker 0: But those are things that people can't buy easily, perhaps, depending where they live, what stores are available.
+
+62
+00:06:26,485 --> 00:06:28,410
+Speaker 0: There might be unique stuff for them.
+
+63
+00:06:29,010 --> 00:06:30,333
+Speaker 1: I'll think about the old anime cons.
+
+64
+00:06:30,353 --> 00:06:32,999
+Speaker 1: There was a time when part of the appeal of an anime con was.
+
+65
+00:06:33,019 --> 00:06:37,770
+Speaker 1: there are things for sale there that are not for sale anywhere else because the internet doesn't really exist yet.
+
+66
+00:06:38,771 --> 00:06:42,616
+Speaker 0: And then the other thing is that, you know, amusements, right?
+
+67
+00:06:42,696 --> 00:06:52,149
+Speaker 0: So some of the booths, actually two of the biggest booths were Dunkin' Donuts and Mountain Dew, which shows you where it's going.
+
+68
+00:06:52,670 --> 00:06:56,510
+Speaker 0: They gotta sell this booth space somehow to make money to pay for the con.
+
+69
+00:06:56,810 --> 00:07:11,268
+Speaker 1: And a big company that's not a game company that has a big budget could look and say, "Oh, it's very expensive for us to put an ad on the side of a hockey arena of a good team, but it's really cheap to put it at that gaming thing, and they said 100,000 people go to it.
+
+70
+00:07:11,549 --> 00:07:12,130
+Speaker 0: Alright.".
+
+71
+00:07:12,630 --> 00:07:23,086
+Speaker 0: But what happened at those booths, the Dunkin' Donuts booth specifically, right, is they had some sort of game set up in the booth where you would have to touch this giant video wall.
+
+72
+00:07:23,106 --> 00:07:25,350
+Speaker 0: It was just basically a phone game, but big.
+
+73
+00:07:26,611 --> 00:07:33,781
+Speaker 0: But you waited in line, you played the game, and you could get stuff, like merch with Dunkin' logos on it and, you know, whatever.
+
+74
+00:07:34,222 --> 00:07:36,526
+Speaker 0: So you get $5 Dunkin' gift cards.
+
+75
+00:07:36,586 --> 00:07:39,150
+Speaker 0: I saw a couple people post, you know, those people who were...
+
+76
+00:07:39,752 --> 00:07:41,201
+Speaker 1: I hate everything you're saying.
+
+77
+00:07:41,281 --> 00:07:42,630
+Speaker 1: Every word just makes me mad.
+
+78
+00:07:42,830 --> 00:07:48,610
+Speaker 0: Yeah, the people who spend all their time in the expo hall, they had, like, enough Dunkin' gift cards to almost pay for their badge, perhaps.
+
+79
+00:07:49,390 --> 00:07:57,670
+Speaker 0: And, well, I guess if you considered, it's basically, if you think about it, it's buy enough coffee and donuts, get a PAX ticket free.
+
+80
+00:07:57,856 --> 00:07:58,005
+Speaker 0: Yep.
+
+81
+00:07:58,490 --> 00:08:03,559
+Speaker 0: Well, if you think of it backwards, but then you have to spend enough of your PAX time to get the...
+
+82
+00:08:10,451 --> 00:08:22,910
+Speaker 1: The reality is, the people who do that are just trying to get whatever reward, whatever serotonin button is at the end of PAX XP, or they're trying to get something worth dollars because they're poor and the economy's fucked.
+
+83
+00:08:23,631 --> 00:08:29,440
+Speaker 0: The only thing that the Marvel snap reward, you didn't have to actually do PAX XP.
+
+84
+00:08:29,520 --> 00:08:31,223
+Speaker 0: It's just the one at the front of the con.
+
+85
+00:08:31,243 --> 00:08:33,447
+Speaker 0: You go beep one time, there was no line.
+
+86
+00:08:33,467 --> 00:08:35,450
+Speaker 0: You just go beep one time and you get it.
+
+87
+00:08:35,650 --> 00:08:40,610
+Speaker 0: They don't actually have to go around and do the whole PAX XP to get the thingy, right?
+
+88
+00:08:42,371 --> 00:08:45,419
+Speaker 0: And the other thing is that all you have to do is find a QR code and beep it.
+
+89
+00:08:45,579 --> 00:08:49,410
+Speaker 0: You don't actually have to, like, actually engage, right?
+
+90
+00:08:50,731 --> 00:08:57,269
+Speaker 0: It's like, they should level up PAX XP to where it's like, no, bro, you gotta check something out in tabletop and play a fucking board game.
+
+91
+00:08:57,290 --> 00:08:57,450
+Speaker 0: For real.
+
+92
+00:08:57,470 --> 00:09:04,530
+Speaker 1: See, the thing is, I don't know if people would do that because my experience for being many years, like the enforcer role I usually have, is main theater.
+
+93
+00:09:05,030 --> 00:09:13,746
+Speaker 1: So some of the nights, if there's something in the theater I don't care that much about, I'll stand at the front and just be a guy, like, engaging attendees, or come by and like, "Hey, what's in the main theater?
+
+94
+00:09:13,986 --> 00:09:14,467
+Speaker 1: I'm lost.
+
+95
+00:09:14,507 --> 00:09:15,349
+Speaker 1: Where's the Albatross
+
+96
+00:09:15,369 --> 00:09:15,649
+Speaker 1: Theater?"
+
+97
+00:09:15,669 --> 00:09:15,990
+Speaker 1: or whatever.
+
+98
+00:09:16,611 --> 00:09:29,770
+Speaker 1: But I would say 60% of the people who walk by at night are looking for PAX XP and, in my personal opinion, give zero fucks about fucking anything except completing the PAX XP because there's some reward they're going to get.
+
+99
+00:09:30,050 --> 00:09:39,130
+Speaker 1: They're, like, so hyper-focused that I even have a sign I just hold that I pop up that just says the PAX XP thing is not up here because I just don't want to deal with them.
+
+100
+00:09:40,751 --> 00:09:44,418
+Speaker 0: But, yeah, I don't think you get, I don't know what you actually get if you do more.
+
+101
+00:09:44,499 --> 00:09:49,590
+Speaker 0: It's like, you could do just the one to get the most valuable reward and it's 100% guaranteed you're going to get it.
+
+102
+00:09:50,070 --> 00:09:52,074
+Speaker 0: So I don't know what you get by doing them all.
+
+103
+00:09:52,154 --> 00:09:59,450
+Speaker 0: I think there's, like, a chance to win a gaming computer, but it's, like, I don't know if doing more of them gets you more chances or not.
+
+104
+00:10:00,030 --> 00:10:05,106
+Speaker 1: I'm just increasingly, like, these structures are toxic in society.
+
+105
+00:10:05,507 --> 00:10:06,510
+Speaker 1: Everywhere that they exist.
+
+106
+00:10:07,312 --> 00:10:13,925
+Speaker 0: Basically, it's, like, people just being manipulated by giving them things that don't really exist, right?
+
+107
+00:10:14,446 --> 00:10:16,210
+Speaker 0: Giving people JPEGs, right?
+
+108
+00:10:17,451 --> 00:10:24,270
+Speaker 0: You know, we need to somehow inoculate human beings from being influenced by giving them nothing of value.
+
+109
+00:10:24,510 --> 00:10:28,719
+Speaker 0: It's, like, you give me something of value and I will give you something of no value.
+
+110
+00:10:28,779 --> 00:10:33,650
+Speaker 0: that somehow makes you feel like you have received value when you have, in fact, received nothing.
+
+111
+00:10:33,851 --> 00:10:36,644
+Speaker 1: Scott, is that not just religion?
+
+112
+00:10:36,905 --> 00:10:37,850
+Speaker 1: This is an uphill battle.
+
+113
+00:10:39,211 --> 00:10:40,059
+Speaker 0: At least, you know what?
+
+114
+00:10:40,119 --> 00:10:41,350
+Speaker 0: I gotta say, right?
+
+115
+00:10:41,570 --> 00:10:45,349
+Speaker 1: At least the religion gave you some wine, a little bit of bread, sometimes a song.
+
+116
+00:10:45,850 --> 00:10:51,610
+Speaker 0: If you go to some church or a synagogue or a mosque or whatever, a Quaker meeting thingy.
+
+117
+00:10:51,750 --> 00:10:53,990
+Speaker 0: It's like getting an hour and a half play happens.
+
+118
+00:10:54,770 --> 00:11:06,270
+Speaker 0: It's, like, you're gonna, there is going to be, whether you believe in it or not, invest in it or not, build your life around it or not, you're gonna hear public speaking, you're gonna hear music, right?
+
+119
+00:11:06,350 --> 00:11:09,530
+Speaker 0: Maybe some organ action, maybe, depending on what it is, singing.
+
+120
+00:11:10,857 --> 00:11:12,070
+Speaker 1: Someone might bring out a snake.
+
+121
+00:11:12,990 --> 00:11:22,210
+Speaker 0: Yeah, it's not really too different than going to a concert or a lecture or both at the same time or who knows what else that religion might do.
+
+122
+00:11:22,330 --> 00:11:28,029
+Speaker 0: Dancing, all kinds of things, food, things are gonna happen there that are of value.
+
+123
+00:11:29,214 --> 00:11:33,030
+Speaker 0: Regardless of the belief in, you know, things that don't exist or not.
+
+124
+00:11:35,192 --> 00:11:41,310
+Speaker 1: But these, like, I feel like part of what's going on is the economic situation.
+
+125
+00:11:41,650 --> 00:11:50,190
+Speaker 1: Like, people gravitate toward things that they perceive as free or things where they can trade anything other than dollars to get anything.
+
+126
+00:11:51,132 --> 00:11:52,909
+Speaker 0: People collected baseball cards before.
+
+127
+00:11:53,511 --> 00:12:06,310
+Speaker 1: True, but even then, a lot of people collected baseball cards partly because of their perceived rarity, which was then validated by some of them were rare, which was then ruined by then X-Men made everything foil and tricked people into buying, like, Cyclops' wedding.
+
+128
+00:12:06,430 --> 00:12:14,110
+Speaker 0: Anyway, we'll see what happens to PAX because all the other conventions, the ones that are the not-profit conventions, right, seem to be exploding.
+
+129
+00:12:14,270 --> 00:12:16,550
+Speaker 0: The MAGFest exploded, the anime Boston exploded.
+
+130
+00:12:16,550 --> 00:12:27,630
+Speaker 1: Well, because MAGFest is a cultural phenomenon and the problem is early PAXes before the single day badges were a lot more like MAGFest in terms of how the attendees engaged with each other and the con.
+
+131
+00:12:28,310 --> 00:12:35,390
+Speaker 1: And that, like, that really starkly shifted as soon as they started selling single day badges, especially at PAX East.
+
+132
+00:12:35,791 --> 00:12:46,689
+Speaker 0: But right now, right, I think what the MAGFest has, the anime Boston has, that the PAX doesn't have as much of anymore is amusement.
+
+133
+00:12:47,710 --> 00:12:54,690
+Speaker 0: Going to MAGFest is closer to going to an amusement park, right, where the concerts don't stop, right?
+
+134
+00:12:54,970 --> 00:12:57,021
+Speaker 0: The arcade is always open.
+
+135
+00:12:57,383 --> 00:12:58,610
+Speaker 0: There's the museum.
+
+136
+00:12:58,730 --> 00:13:06,590
+Speaker 1: But also, there are people engaging socially with strangers fucking everywhere at MAGFest.
+
+137
+00:13:06,790 --> 00:13:12,386
+Speaker 1: You cannot walk without, if you want to talk to people or see a cosplayer do something weird, less so.
+
+138
+00:13:14,150 --> 00:13:19,810
+Speaker 0: The point is, is that the con itself is, you know, the MIVs area, right?
+
+139
+00:13:19,950 --> 00:13:22,550
+Speaker 0: It's like, it is an amusement field, right?
+
+140
+00:13:22,891 --> 00:13:27,830
+Speaker 0: It's like, even if you're there completely alone, the con is entertaining the crowd.
+
+141
+00:13:27,910 --> 00:13:34,850
+Speaker 0: Whereas at PAX, right, the only things that are entertaining the crowd are the, is the programming by the enforcers.
+
+142
+00:13:35,010 --> 00:13:39,264
+Speaker 0: The expo hall isn't, is mostly not entertainment for the crowd.
+
+143
+00:13:39,284 --> 00:13:41,010
+Speaker 0: It is mostly advertisements.
+
+144
+00:13:41,850 --> 00:13:45,650
+Speaker 0: You know, if you had ad blog for PAX, the expo hall would just be invisible, right?
+
+145
+00:13:47,115 --> 00:13:55,390
+Speaker 0: Other than, like, you know, some small indie people doing demos, those are still ads technically, but they're also amusements because they're demos of games you never would have seen anywhere else.
+
+146
+00:13:55,430 --> 00:13:56,635
+Speaker 1: Now, conversely, look at PAX Unplugged.
+
+147
+00:13:56,675 --> 00:14:16,850
+Speaker 1: because of the tabletop focus, and partly because tabletop people are pretty hardcore, they see that, that is, PAX has provided a space and a library to play tabletop games for people who often do not have a good opportunity to do so in their day-to-day lives, and that's why PAX Unplugged was brimming to absolute chaotic capacity.
+
+148
+00:14:17,590 --> 00:14:32,470
+Speaker 0: Right, but PAX's, you know, zones of amusement, right, are, two of them are console freeplay and PC freeplay, which, you know, unless you're entering tournaments, I saw a Vampire Survivors tournament, that was awesome.
+
+149
+00:14:34,851 --> 00:14:39,890
+Speaker 0: Unless you're entering tournaments, there's nothing there that you can't just do at home, right?
+
+150
+00:14:40,492 --> 00:14:45,290
+Speaker 0: It's not really, it's like, why am I paying to go to PAX to sit at a Playstation?
+
+151
+00:14:45,590 --> 00:14:45,972
+Speaker 0: Well, partly
+
+152
+00:14:46,012 --> 00:15:17,550
+Speaker 1: because older, older PAX's, and again, this is the before they had the single day badges, because the people would be there for the whole weekend, and because it was kind of the same people, mostly, like there was this core that came to every PAX, you'd sort of like, you'd interact with strangers who are your PAX friends, and thus, the experience does not play Smash Brothers, or play like, I don't know, the cool Bomberman, the experience is, I'm in Seattle, or I'm in Boston, and I'm playing cool Bomberman with these people that I only see every year at this convention.
+
+153
+00:15:18,070 --> 00:15:20,337
+Speaker 0: Look at the Magfest console area, right?
+
+154
+00:15:20,437 --> 00:15:23,145
+Speaker 0: It still is mostly just game consoles.
+
+155
+00:15:23,185 --> 00:15:24,810
+Speaker 0: you could just play at home, right?
+
+156
+00:15:25,170 --> 00:15:27,838
+Speaker 0: But, they got that challenge area, right?
+
+157
+00:15:28,219 --> 00:15:31,408
+Speaker 0: They got games up on those big screens.
+
+158
+00:15:31,468 --> 00:15:35,450
+Speaker 0: they set up, with like, you know, the quads for their tournaments and things like that, right?
+
+159
+00:15:35,870 --> 00:15:46,789
+Speaker 0: So, it's like, there's something about it, right, that is elevated in experience, right, versus, you know, the way PAX has it.
+
+160
+00:15:48,171 --> 00:16:12,310
+Speaker 0: And so, it's like, you know, there is an amusement park-ish, you know, attraction to the entertainment that is there, and I think if PAX wants to bring more people in, you know, I think that that's what they should do, is dedicate more space and resources to providing, you know, unique, entertaining things for the attendees, right?
+
+161
+00:16:12,890 --> 00:16:18,030
+Speaker 1: Hard mode, those things cost resources to produce, but do not generate resources.
+
+162
+00:16:18,030 --> 00:16:23,228
+Speaker 0: Yeah, right, and if you're for, that's a problem when you're for profit, but when you're not for profit, well, that's all you do, right?
+
+163
+00:16:23,650 --> 00:16:45,805
+Speaker 1: And also, I think the problem is, I think the divide between seeking the people who wouldn't otherwise come to PAX, but come for a day because of the expo hall and the ads and the other things, I think those people are subsidizing the rest of PAX, but at the same time, if we dropped a lot of that crap, PAX would be smaller, it'd be a lot more like PAX was in like 2009, 2010 out in Seattle.
+
+164
+00:16:48,090 --> 00:16:58,890
+Speaker 0: I mean, when you're making money selling ads, whatever form those take, you have to put some effort into the ad selling, but you also got to put effort into increasing your eyeballs, right?
+
+165
+00:16:59,270 --> 00:17:09,310
+Speaker 0: So I think, you know, PAX needs to do more investment on the increasing eyeballs area, which will translate into making their ads more valuable.
+
+166
+00:17:09,589 --> 00:17:30,670
+Speaker 1: PAX East is a hard mode because there aren't enough hotels, there's not like, there's a lot of factors that make PAX East the single day attendee PAX, whereas West has less of that problem, has more of the original PAX spirit still, and has more amusements going on, but that's partly because it's warm and it's enmeshed in Seattle in what I think might be the best convention center in America now.
+
+167
+00:17:31,453 --> 00:17:32,428
+Speaker 0: I don't know about that.
+
+168
+00:17:32,971 --> 00:17:34,109
+Speaker 0: I haven't been to a better convention center.
+
+169
+00:17:34,150 --> 00:17:35,389
+Speaker 0: There's a lot of convention centers I haven't been to.
+
+170
+00:17:35,991 --> 00:17:42,850
+Speaker 1: The only one I can think of that's even close is the one that PAX Australia moved into the year after you stopped going.
+
+171
+00:17:44,135 --> 00:17:48,070
+Speaker 0: Of the ones that you've been to, there are so many convention centers you have never even seen.
+
+172
+00:17:48,330 --> 00:17:52,109
+Speaker 1: Oh yeah, but I've also been to a lot around the world because of my job, and they're all...
+
+173
+00:17:52,390 --> 00:17:58,930
+Speaker 0: I'm not gonna judge based on, you know, I'm not gonna say, "Oh, it's the best," but I haven't seen even a small percentage of them.
+
+174
+00:17:59,110 --> 00:18:11,510
+Speaker 1: The thing is, there aren't that many that are in a place that could even conceivably have a PAX in the United States, and like, what other convention centers could have a PAX in the US that would succeed?
+
+175
+00:18:12,190 --> 00:18:14,650
+Speaker 0: Chicago, Vegas, LA, Orlando.
+
+176
+00:18:14,991 --> 00:18:16,470
+Speaker 1: I don't know if PAX could work in Vegas.
+
+177
+00:18:18,250 --> 00:18:21,810
+Speaker 0: The San Diego one, I think Atlanta has one.
+
+178
+00:18:22,050 --> 00:18:22,119
+Speaker 1: Yup.
+
+179
+00:18:22,912 --> 00:18:23,989
+Speaker 0: There's a lot out there.
+
+180
+00:18:24,870 --> 00:18:30,950
+Speaker 1: Sadly, the Baltimore one, the old one, would actually have been a really good type of convention center for a PAX, but Baltimore's been in a lot of trouble.
+
+181
+00:18:30,950 --> 00:18:32,149
+Speaker 0: Baltimore's even more dead now.
+
+182
+00:18:32,592 --> 00:18:32,655
+Speaker 1: Yup.
+
+183
+00:18:34,152 --> 00:18:35,489
+Speaker 1: Anyway, and some other brief news.
+
+184
+00:18:35,730 --> 00:18:48,336
+Speaker 1: So, on the screen here, I've got a table of data, because I want to just point out that in this table of data, the first row, the first item in this row is a number.
+
+185
+00:18:48,496 --> 00:18:54,069
+Speaker 1: The number is one, followed by an X, followed by a little shield-looking logo, and then the words "New York
+
+186
+00:18:54,149 --> 00:18:54,510
+Speaker 1: Rangers."
+
+187
+00:18:55,611 --> 00:19:04,330
+Speaker 1: The New York Rangers are currently at the top, not just of the conference, not just of the division, but the entire NHL.
+
+188
+00:19:05,442 --> 00:19:05,608
+Speaker 0: Yup.
+
+189
+00:19:07,934 --> 00:19:09,889
+Speaker 1: Yeah, it's going to be a good playoffs, I think.
+
+190
+00:19:10,490 --> 00:19:25,230
+Speaker 1: The one issue with my family is that if you look at the wildcard right now, Washington Capitals and Detroit Red Wings are tied, fighting over the only wildcard spot that is in contention.
+
+191
+00:19:26,431 --> 00:19:41,430
+Speaker 1: So, there is a pretty high chance that the first round of the Stanley Cup playoffs will be the New York Rangers versus the Detroit Red Wings, and my family is going to absolutely take issue with my stance in this situation.
+
+192
+00:19:41,950 --> 00:19:49,310
+Speaker 0: I don't know, we'll see what happens, but I think, you know, it's really messed up that Washington is even, has a possibility, and also Philly, right?
+
+193
+00:19:49,350 --> 00:19:52,289
+Speaker 0: Because those are teams with negative goal differentials, right?
+
+194
+00:19:53,011 --> 00:19:59,330
+Speaker 0: Washington has been outscored by opponents, they've scored 31 less goals than their opponents have.
+
+195
+00:19:59,470 --> 00:20:03,970
+Speaker 1: Yup, but they won a lot of games in the second half of the season.
+
+196
+00:20:04,750 --> 00:20:08,370
+Speaker 0: It's all, well, no, the problem is OT points, right?
+
+197
+00:20:08,430 --> 00:20:12,510
+Speaker 0: If you look at Boston also, Boston has 101 points, they look like they're really good.
+
+198
+00:20:12,690 --> 00:20:17,730
+Speaker 1: But Caps, won 36 games, lost 27 games, got 10 points from making it to OT.
+
+199
+00:20:18,691 --> 00:20:21,589
+Speaker 0: Boston has 15 points from making it to OT.
+
+200
+00:20:21,991 --> 00:20:24,985
+Speaker 1: Yup, Rangers have 4 points from making it to OT.
+
+201
+00:20:25,025 --> 00:20:25,990
+Speaker 1: Rangers won their games.
+
+202
+00:20:26,650 --> 00:20:36,950
+Speaker 0: That's right, so it's like, you look at Boston, Boston only has, like, as many wins as Toronto, a team 2 spaces behind them, right?
+
+203
+00:20:38,031 --> 00:20:45,510
+Speaker 0: And Florida, who has 4 more wins than Boston, is behind Boston because of these OT, you know, loser points, right?
+
+204
+00:20:47,592 --> 00:20:53,885
+Speaker 0: And so, yeah, you know, standings don't directly correlate to quality because the point system is messed up.
+
+205
+00:20:56,410 --> 00:21:01,590
+Speaker 1: Yup, I'm just excited that the Rangers are clinched and we'll definitely go to some playoff games and we'll see how this goes.
+
+206
+00:21:01,870 --> 00:21:07,661
+Speaker 0: You're guaranteed to go to 1.
+
+207
+00:21:07,661 --> 00:21:08,309
+Speaker 1: You got any news?
+
+208
+00:21:09,371 --> 00:21:23,469
+Speaker 0: I don't know, it's not really news, but at PAX East, I walked around the expo hall, most of the stuff was stuff I'd seen before, or was stuff that wasn't a game, or was stuff that wasn't worth spending my time on, I knew what it was, like, do I need to go to the Final Fantasy MMO booth?
+
+209
+00:21:23,690 --> 00:21:23,850
+Speaker 0: No.
+
+210
+00:21:25,431 --> 00:21:38,750
+Speaker 0: But there was one game that I spent a few minutes hearing about, that is, as a game, just a really basic trivia game, not much going on in terms of the game rules or any of that action, right?
+
+211
+00:21:39,510 --> 00:21:50,350
+Speaker 0: But it was basically a trivia game, and the thing that makes a trivia game exciting is not the game part, but the content of the trivia, right?
+
+212
+00:21:50,710 --> 00:22:06,550
+Speaker 0: A family of people who were all lawyers, judges, involved in the US criminal law system made a game full of trivia questions about misdemeanors and felonies in US law in general.
+
+213
+00:22:06,730 --> 00:22:18,750
+Speaker 0: Obviously you can have some variances by state and whatnot, but overall, the things in this game are true of the legal system in the United States, of US law, as of now-ish.
+
+214
+00:22:19,451 --> 00:22:21,835
+Speaker 0: The game is called Crime No Crime.
+
+215
+00:22:22,135 --> 00:22:34,883
+Speaker 1: It already reminds me a lot of an ancient, ancient PC game I used to play called Jurisdiction, and all it was is you'd see a short court scene, and you could decide whether or not, as the lawyer for the defendant, you should object.
+
+216
+00:22:34,904 --> 00:22:36,530
+Speaker 1: That's it.
+
+217
+00:22:37,450 --> 00:22:41,940
+Speaker 0: Well this is basically, such and such happened, is that a crime?
+
+218
+00:22:42,782 --> 00:22:43,745
+Speaker 0: What crime is it?
+
+219
+00:22:43,965 --> 00:22:45,990
+Speaker 0: Who's guilty of the crime, right?
+
+220
+00:22:46,030 --> 00:22:53,370
+Speaker 1: I feel like if you have a naively positive view of the United States, your default should be to just say everything you don't think is a crime is yes, because you'll probably be right.
+
+221
+00:22:53,790 --> 00:22:57,710
+Speaker 1: But simultaneously, if you are a cynical person, you can play it pretty seriously.
+
+222
+00:22:58,190 --> 00:23:18,930
+Speaker 0: Basically every single question in the game, and they have a huge box full of questions, is basically, you think about it, and you're like, hmm, well, I am a person of basic moral judgement, and the vast majority of people, including you, say, that person, you know, did this, right?
+
+223
+00:23:19,350 --> 00:23:24,830
+Speaker 0: And that person did that, so that person should be in this much trouble, that person should be in no trouble, right?
+
+224
+00:23:24,970 --> 00:23:26,674
+Speaker 0: There'll be some variance between people.
+
+225
+00:23:27,156 --> 00:23:32,690
+Speaker 0: And then the real answer is, nope, US law is bullshit, that person is totally fucked even though they barely did anything.
+
+226
+00:23:34,051 --> 00:23:40,830
+Speaker 0: And that's basically the answer to every question, is opposite of common sense every time, because the US law is bullshit.
+
+227
+00:23:42,515 --> 00:23:46,329
+Speaker 0: And it's like, you know that already, you don't need a game to tell you that, you knew.
+
+228
+00:23:47,010 --> 00:23:58,650
+Speaker 0: But it's a strong reminder, and it helps you learn specific scenarios and situations, right, that you may not know, you know, the specific ones, even though you know that in general is bullshit.
+
+229
+00:23:59,512 --> 00:24:09,810
+Speaker 0: And it can be very educational, especially for young people, people in places where there's a lot of crime, people who aren't white, who the cops will harass more frequently, right?
+
+230
+00:24:10,270 --> 00:24:18,850
+Speaker 0: Of, you know, what is and what is not a crime, and how much of a crime something is, how much trouble you'll get in for doing a certain thing, right?
+
+231
+00:24:20,752 --> 00:24:23,710
+Speaker 0: It'll make you angry, I guess, to play this game, but also enlightened.
+
+232
+00:24:24,691 --> 00:24:29,270
+Speaker 1: Yep, unless you're a law nerd, in which case you'll just sigh every single question.
+
+233
+00:24:30,013 --> 00:24:31,589
+Speaker 0: Yeah, you'll know all of them, you'll be like, yep.
+
+234
+00:24:31,830 --> 00:24:34,289
+Speaker 1: But you'll sigh because you'll be like, yep, that's a bullshit law.
+
+235
+00:24:34,430 --> 00:24:38,067
+Speaker 0: You'll probably try to come up with new questions, like, oh, you should put a question about this one in the game.
+
+236
+00:24:38,147 --> 00:24:38,630
+Speaker 0: Oh, it's in there.
+
+237
+00:24:39,920 --> 00:24:40,769
+Speaker 0: Yeah, we got that one.
+
+238
+00:24:41,630 --> 00:24:50,090
+Speaker 0: So, I guess if you're not in the United States, I recommend this game for learning about how bullshit the US is.
+
+239
+00:24:50,592 --> 00:24:51,784
+Speaker 0: Of course, you already know that, too.
+
+240
+00:24:52,551 --> 00:24:56,610
+Speaker 1: Yeah, it's not like, we don't talk about that on geek nights that often, do we?
+
+241
+00:24:57,690 --> 00:24:57,862
+Speaker 0: Yeah.
+
+242
+00:24:59,811 --> 00:25:02,819
+Speaker 0: But that was, I was very, you know, it was one of the better things, I think.
+
+243
+00:25:02,879 --> 00:25:05,126
+Speaker 0: It was just a little booth in, like, the far back corner.
+
+244
+00:25:05,166 --> 00:25:06,530
+Speaker 0: They clearly was a cheapy booth.
+
+245
+00:25:08,110 --> 00:25:17,830
+Speaker 0: But it's, you know, they had a really attractive pitch because they would just come up to you, they had a bunch of people, and they would go up to you and they'd just start asking you questions, like, hey, if so-and-so did this, is that a crime?
+
+246
+00:25:18,431 --> 00:25:22,720
+Speaker 0: And you'd be like, you'd be like, you start standing there, you're like, hmm, and you start talking to them, right?
+
+247
+00:25:22,780 --> 00:25:26,748
+Speaker 0: Like, yeah, I know US law is bullshit, that's probably a fucking crime, isn't it?
+
+248
+00:25:26,768 --> 00:25:27,730
+Speaker 0: They're like, yes, sure is.
+
+249
+00:25:34,222 --> 00:25:35,580
+Speaker 1: Things of the day!
+
+250
+00:25:36,560 --> 00:25:41,795
+Speaker 1: So, Joe Haver does fantastic animations and skits, like, I really like his comedy this year.
+
+251
+00:25:41,815 --> 00:25:43,560
+Speaker 1: You know, I linked to him once or twice in the past.
+
+252
+00:25:44,880 --> 00:25:52,013
+Speaker 1: But this year he's doing something different and doing, like, every month a longer form for real, like, different kind of format.
+
+253
+00:25:52,454 --> 00:25:55,640
+Speaker 1: But he's also got a separate channel where he talks about movies.
+
+254
+00:25:56,500 --> 00:26:11,549
+Speaker 1: And he just did an episode two days ago titled "When I Watch Something Unforgettable" and he talks about how he's not, like, a super anime fan, like, he doesn't watch a lot of TV, and while people around him That's like me, I don't watch TV.
+
+255
+00:26:11,610 --> 00:26:12,840
+Speaker 0: I just watch movies.
+
+256
+00:26:12,920 --> 00:26:18,260
+Speaker 1: People around him have been extremely affected by the end of Evangelion.
+
+257
+00:26:19,320 --> 00:26:21,254
+Speaker 0: Okay, but did they watch the TV show, though?
+
+258
+00:26:21,294 --> 00:26:22,020
+Speaker 0: You can't really watch that.
+
+259
+00:26:22,060 --> 00:26:22,601
+Speaker 1: Oh, no, they all had.
+
+260
+00:26:22,742 --> 00:26:30,620
+Speaker 1: So, Joe Haver decided, even though he's not really a TV person, nor does he watch much anime other than, like, the occasional anime movie.
+
+261
+00:26:31,460 --> 00:26:32,460
+Speaker 0: Even though he's an animator.
+
+262
+00:26:33,823 --> 00:26:36,389
+Speaker 1: But he just decides he's going to put in the effort.
+
+263
+00:26:36,670 --> 00:26:40,780
+Speaker 1: He watches all 26 episodes of Evangelion just to have the full context.
+
+264
+00:26:41,200 --> 00:26:48,275
+Speaker 1: Then he watched "End of Evangelion" to see, alright, is this top tier cinema?
+
+265
+00:26:48,455 --> 00:26:50,560
+Speaker 1: or are all my weeb friends fucking with me?
+
+266
+00:26:51,560 --> 00:26:51,984
+Speaker 1: Both.
+
+267
+00:26:52,467 --> 00:26:53,093
+Speaker 1: Both are true.
+
+268
+00:26:54,162 --> 00:26:54,859
+Speaker 0: It's a good video.
+
+269
+00:26:54,880 --> 00:26:55,647
+Speaker 0: To some extent.
+
+270
+00:26:56,474 --> 00:26:57,160
+Speaker 0: Also, neither.
+
+271
+00:26:57,802 --> 00:26:58,785
+Speaker 1: It's pretty good.
+
+272
+00:26:58,805 --> 00:27:04,300
+Speaker 1: I love seeing someone who is not deeply enmeshed in the culture around a certain kind of media.
+
+273
+00:27:04,860 --> 00:27:08,260
+Speaker 1: Who is otherwise literate in media to give their opinion on something.
+
+274
+00:27:08,820 --> 00:27:10,660
+Speaker 0: Like, Cicely and Eber talking about an anime movie was great.
+
+275
+00:27:10,680 --> 00:27:12,360
+Speaker 0: Did they watch it on Netflix where it's slightly incorrect?
+
+276
+00:27:13,300 --> 00:27:23,340
+Speaker 1: But, uh, Joe Haver, the gist of this 11 minute video is basically, wow, that movie and that show are fucking brilliant.
+
+277
+00:27:23,440 --> 00:27:29,060
+Speaker 1: I, like, had to go outside and walk around quietly for a while just to sort of mull it over.
+
+278
+00:27:29,861 --> 00:27:32,640
+Speaker 1: I don't think he even knows about the remake movies yet, so.
+
+279
+00:27:34,340 --> 00:27:41,520
+Speaker 1: But it was interesting to see a non-weeb have the same reaction that a lot of us have had at the end of, like, a Cowboy Bebop or an Evangelion.
+
+280
+00:27:41,580 --> 00:27:44,559
+Speaker 1: Where you kind of just sit there for a while going, hmm.
+
+281
+00:27:45,640 --> 00:27:49,979
+Speaker 0: Did you tell him that it aired on, you know, kids' afternoon programming right after Ninja Turtles?
+
+282
+00:27:53,284 --> 00:27:54,151
+Speaker 1: So you gotta think of the day?
+
+283
+00:27:54,171 --> 00:27:54,978
+Speaker 1: I assume you do.
+
+284
+00:27:55,960 --> 00:28:03,720
+Speaker 0: Yeah, so recently I was doing some research on the current state of over-the-air TV broadcasts in the US that still exist, kind of.
+
+285
+00:28:05,440 --> 00:28:16,880
+Speaker 0: And I was reading more about some pirate radio action, and I see here this article published on March 28th, just a few days ago, about original pirate material.
+
+286
+00:28:17,821 --> 00:28:23,660
+Speaker 0: And it's actually about pirate radio in Europe, which is something I didn't know about at all, really.
+
+287
+00:28:23,880 --> 00:28:31,640
+Speaker 0: But it makes a lot of sense, because the geography of Europe, right, in the US, if you want to do pirate radio, you gotta put your antenna on, like, land somewhere.
+
+288
+00:28:32,161 --> 00:28:34,719
+Speaker 1: And the FCC has jurisdiction over all of that land.
+
+289
+00:28:35,301 --> 00:28:38,980
+Speaker 0: That's right, and you're gonna get found out, probably, if you make a trouble.
+
+290
+00:28:39,742 --> 00:28:41,592
+Speaker 0: And, yeah, it's not so easy to do.
+
+291
+00:28:41,673 --> 00:28:42,940
+Speaker 0: People have done it, obviously.
+
+292
+00:28:44,142 --> 00:28:50,180
+Speaker 0: But in Europe, you know, a lot of places in Europe, say the UK, where it's just an island, it's not that big.
+
+293
+00:28:51,321 --> 00:28:55,580
+Speaker 0: You know, Denmark, it's like a Michigan of Europe kind of, right?
+
+294
+00:28:55,940 --> 00:28:59,060
+Speaker 0: It's like, you know, small countries, lot of water.
+
+295
+00:29:00,500 --> 00:29:11,340
+Speaker 0: People have gone out into international waters with boats, put up big ol' antennas on those boats, and just broadcasted pirate radio out into the mainland.
+
+296
+00:29:12,122 --> 00:29:15,720
+Speaker 0: And as international waters, no one can stop them easily, really.
+
+297
+00:29:16,562 --> 00:29:18,399
+Speaker 0: I guess they could go blow them up or something, I don't know.
+
+298
+00:29:19,885 --> 00:29:20,678
+Speaker 0: Is that a crime?
+
+299
+00:29:21,981 --> 00:29:22,732
+Speaker 0: I guess, sure.
+
+300
+00:29:25,583 --> 00:29:27,960
+Speaker 0: You know, but yeah, this is really fascinating, right?
+
+301
+00:29:28,000 --> 00:29:33,299
+Speaker 0: The history of the people who actually did this, what they broadcast, how they did it, what happened, etc.
+
+302
+00:29:34,382 --> 00:29:36,054
+Speaker 0: Apparently it was big in, you know, the '70s.
+
+303
+00:29:37,382 --> 00:29:41,439
+Speaker 0: It's not so big now because people don't use the radio so much.
+
+304
+00:29:42,941 --> 00:29:49,280
+Speaker 0: They even have a picture of a small portable AM/FM radio with, like, the really shitty one-ear headphone, you know, those old ones.
+
+305
+00:29:50,741 --> 00:30:03,420
+Speaker 0: From 1964, the pirate radio station was making branded radios to sell to people so that they could listen to their, you know, radio station that was out in the water from anywhere that it could reach.
+
+306
+00:30:04,801 --> 00:30:12,460
+Speaker 1: I'm just, I am such a fan of pirate radio specifically as a concept.
+
+307
+00:30:12,700 --> 00:30:24,320
+Speaker 1: Because it flies in the face of a lot of the way the world is structured, in a way that can't hurt people too directly, and is like the maximum amount of fun mischief.
+
+308
+00:30:24,800 --> 00:30:32,520
+Speaker 1: That you could, I mean, you can send photons in every direction, at scale, and other people can hear things that are illegal in a place that they are.
+
+309
+00:30:32,882 --> 00:30:33,023
+Speaker 0: Right.
+
+310
+00:30:33,325 --> 00:30:35,600
+Speaker 0: Well, Geek Nights is not illegal, right?
+
+311
+00:30:35,760 --> 00:30:42,560
+Speaker 0: But I think of it as basically pirate radio because what you have is you have these official channels, right, platforms.
+
+312
+00:30:42,820 --> 00:30:45,639
+Speaker 0: The Facebooks, the Twitters, and whatnot, right?
+
+313
+00:30:46,220 --> 00:30:52,780
+Speaker 0: The TikToks, the YouTubes that are like the official channels of, you know, legitimacy in society.
+
+314
+00:30:53,423 --> 00:30:56,580
+Speaker 0: And basically every other website is pirate radio, right?
+
+315
+00:30:56,680 --> 00:31:04,400
+Speaker 0: It's just somebody raised on their own with no, you know, official designation or permission.
+
+316
+00:31:04,720 --> 00:31:12,500
+Speaker 1: I rode my boat out into GeoCities and I made a site and all it did was host a handful of ROMs of translated Japanese versions of Final Fantasy.
+
+317
+00:31:13,180 --> 00:31:19,040
+Speaker 0: Just brought anyone just on their own deciding what to broadcast with no permission from anybody, right?
+
+318
+00:31:19,662 --> 00:31:21,300
+Speaker 0: Just publishing what you want to publish.
+
+319
+00:31:21,660 --> 00:31:23,720
+Speaker 0: You know, zines, zines are pirate radio, right?
+
+320
+00:31:23,760 --> 00:31:27,460
+Speaker 0: You're not in a real magazine that has like a publisher and whatever making money.
+
+321
+00:31:27,962 --> 00:31:31,420
+Speaker 0: You just went and printed them and started giving them out yourself, right?
+
+322
+00:31:31,983 --> 00:31:33,159
+Speaker 0: All that stuff is pirate radio.
+
+323
+00:31:34,021 --> 00:31:39,440
+Speaker 0: And my goal is to basically one day, all the media I consume should be of that variety.
+
+324
+00:31:40,823 --> 00:31:42,399
+Speaker 0: Just avoid anything else.
+
+325
+00:31:43,043 --> 00:31:45,640
+Speaker 1: In the meta moment, the Geek Nights Book Club book, Walk on Girl.
+
+326
+00:31:45,820 --> 00:31:46,859
+Speaker 1: The night is short.
+
+327
+00:31:47,080 --> 00:31:51,840
+Speaker 1: I expect we'll do the show, give you guys like three-ish weeks.
+
+328
+00:31:52,185 --> 00:31:53,180
+Speaker 1: That's not a long book.
+
+329
+00:31:53,960 --> 00:31:55,200
+Speaker 0: I'm going to finish reading it soon.
+
+330
+00:31:55,761 --> 00:31:58,720
+Speaker 0: I made significant progress on the way to From Packs.
+
+331
+00:31:59,060 --> 00:32:04,412
+Speaker 1: Yep, I got some travel time because I got to... We're heading out to Rochester to watch the Total Eclipse of the Sun.
+
+332
+00:32:04,835 --> 00:32:05,940
+Speaker 0: that's happening next week.
+
+333
+00:32:06,320 --> 00:32:06,573
+Speaker 0: Safely.
+
+334
+00:32:07,421 --> 00:32:11,600
+Speaker 1: Yeah, so total aside, if any of... This is a public service announcement.
+
+335
+00:32:11,940 --> 00:32:14,078
+Speaker 0: Either wear a welding mask or use the box.
+
+336
+00:32:14,340 --> 00:32:18,060
+Speaker 1: Naughty, you have to wear a specific kind of welding mask or you're still fucked.
+
+337
+00:32:18,140 --> 00:32:18,840
+Speaker 1: But here's the problem.
+
+338
+00:32:19,201 --> 00:32:23,659
+Speaker 1: There's an article on Waypo and they made it public and there's a lot of news talking about this.
+
+339
+00:32:24,521 --> 00:32:37,760
+Speaker 1: Unlike even the last Total Solar Eclipse, the number of super illegal, just fake eclipse glasses out there might be more than the legitimate ones and it's very hard to tell if you're not an expert.
+
+340
+00:32:39,061 --> 00:32:50,520
+Speaker 1: If you bought your eclipse glasses basically from any website that wasn't one of a very small list of them, I'm putting Amazon on the list of do not buy, you might literally blind yourself.
+
+341
+00:32:52,223 --> 00:32:58,200
+Speaker 0: If you want to laugh, go to Amazon and type in eclipse glasses and you'll see, first of all, a shit ton of results.
+
+342
+00:32:58,400 --> 00:33:03,800
+Speaker 0: And all of them, they look like 3D glasses from the movie theater, but not even the plastic kind.
+
+343
+00:33:04,240 --> 00:33:08,300
+Speaker 0: They're like the cardboard kind with two little cellophane lenses.
+
+344
+00:33:08,440 --> 00:33:13,320
+Speaker 1: And while they're all official ones that look like that, I would not trust anything you could buy from Amazon.
+
+345
+00:33:13,521 --> 00:33:15,453
+Speaker 0: All of these ones on Amazon.
+
+346
+00:33:15,473 --> 00:33:16,418
+Speaker 0: Here's the top result.
+
+347
+00:33:16,459 --> 00:33:16,660
+Speaker 0: Ready?
+
+348
+00:33:17,240 --> 00:33:28,260
+Speaker 0: Medical King Solar Eclipse glasses, AAS approved 2024 10 pack, CE and ISO certified safe shades for direct sun viewing.
+
+349
+00:33:28,800 --> 00:33:30,056
+Speaker 0: They also show you in the picture.
+
+350
+00:33:30,601 --> 00:33:34,860
+Speaker 1: I'm going to go on a limb and if someone sues me over this statement, then all right, let's go.
+
+351
+00:33:35,684 --> 00:33:37,459
+Speaker 1: I am very confident those are fake.
+
+352
+00:33:38,700 --> 00:33:49,600
+Speaker 0: I am very, I am, I'm not, I do not believe that they are telling the truth about the certifications and the safety.
+
+353
+00:33:49,881 --> 00:33:51,704
+Speaker 0: They even have pictures in like.
+
+354
+00:33:51,864 --> 00:34:00,560
+Speaker 0: one of the pictures of the product is like says tested and verified with like these POCE certificates of conformity and test reports.
+
+355
+00:34:00,981 --> 00:34:01,804
+Speaker 0: And right.
+
+356
+00:34:02,085 --> 00:34:04,352
+Speaker 0: They have the logo printed on the inside of the glasses.
+
+357
+00:34:07,242 --> 00:34:10,120
+Speaker 0: And it's like, I don't trust these worth a shit.
+
+358
+00:34:10,340 --> 00:34:14,954
+Speaker 1: The article in the Times I read showed a bunch of pictures of ones that they bought to test this out.
+
+359
+00:34:15,215 --> 00:34:16,760
+Speaker 1: that were just fake and will blind you.
+
+360
+00:34:17,400 --> 00:34:23,080
+Speaker 1: And every one of them had every official stamp, every official certificate, like everything.
+
+361
+00:34:23,481 --> 00:34:24,766
+Speaker 1: There's almost no way to tell.
+
+362
+00:34:24,786 --> 00:34:28,300
+Speaker 1: There's a few tests you can do in the interest of public service.
+
+363
+00:34:28,860 --> 00:34:40,560
+Speaker 1: One, if you put, if you before the eclipse around your house, find the brightest thing in your house, the brightest light bulb and look directly at it up close through the glasses.
+
+364
+00:34:41,042 --> 00:34:45,420
+Speaker 1: If you see pretty much anything, your glasses are fake and you're going to go blind.
+
+365
+00:34:45,480 --> 00:34:54,120
+Speaker 1: If you use them looking at the eclipse, they're like, they need to be like thousands of times darker than the darkest sunglasses you have ever seen.
+
+366
+00:34:54,880 --> 00:34:55,062
+Speaker 0: Yes.
+
+367
+00:34:55,161 --> 00:34:56,485
+Speaker 0: I also, there was an article.
+
+368
+00:34:56,565 --> 00:34:57,166
+Speaker 0: I can't find it.
+
+369
+00:34:57,186 --> 00:35:02,157
+Speaker 0: I had to search for it right now, but it was basically like these people looked at the eclipse in the past.
+
+370
+00:35:02,257 --> 00:35:03,380
+Speaker 0: What happened to them later?
+
+371
+00:35:04,704 --> 00:35:04,906
+Speaker 0: Yeah.
+
+372
+00:35:04,947 --> 00:35:06,020
+Speaker 0: Don't look at the eclipse y'all.
+
+373
+00:35:06,801 --> 00:35:11,180
+Speaker 1: And if you not, the worst part is something a lot of people don't know.
+
+374
+00:35:11,781 --> 00:35:20,120
+Speaker 1: If you look at the eclipse when it's largely occluded, you will damage your eyes just as fast as if there's no moon in the way.
+
+375
+00:35:20,501 --> 00:35:25,830
+Speaker 1: But because it's reduced certain amounts of light, you won't feel the pain immediately.
+
+376
+00:35:25,850 --> 00:35:27,132
+Speaker 1: So you won't flinch.
+
+377
+00:35:27,433 --> 00:35:31,700
+Speaker 1: And by the time you feel anything, you've already caused permanent eye damage.
+
+378
+00:35:32,540 --> 00:35:33,201
+Speaker 0: Yep.
+
+379
+00:35:33,281 --> 00:35:38,169
+Speaker 0: And also, you know, living with permanent eye damage is pretty bad.
+
+380
+00:35:38,209 --> 00:35:38,830
+Speaker 0: You don't want that.
+
+381
+00:35:38,930 --> 00:35:44,840
+Speaker 0: If your eyes are currently functioning, you don't want to make them worse for the rest of your life, especially if you're young, right?
+
+382
+00:35:45,221 --> 00:35:47,129
+Speaker 0: If you're old, maybe won't make a difference.
+
+383
+00:35:47,169 --> 00:35:48,052
+Speaker 0: You'll just die.
+
+384
+00:35:48,072 --> 00:35:50,040
+Speaker 1: Stare at the sun on the last day of your life.
+
+385
+00:35:50,820 --> 00:35:51,161
+Speaker 0: Yeah, sure.
+
+386
+00:35:51,201 --> 00:35:54,670
+Speaker 0: Just now I know there is that guy who like, there's like crazy.
+
+387
+00:35:54,750 --> 00:35:55,151
+Speaker 0: I know.
+
+388
+00:35:55,191 --> 00:35:56,294
+Speaker 1: I know about that crazy guy.
+
+389
+00:35:56,414 --> 00:35:58,880
+Speaker 1: I was going to mention him, but you mentioned him first anyway.
+
+390
+00:35:59,261 --> 00:36:06,010
+Speaker 0: But you should also be aware that driving cars is super dangerous all the time.
+
+391
+00:36:06,330 --> 00:36:13,740
+Speaker 0: But before and after an eclipse, the rate of deadly car accidents goes up a lot.
+
+392
+00:36:14,220 --> 00:36:14,982
+Speaker 1: For a ton of reasons.
+
+393
+00:36:15,202 --> 00:36:16,826
+Speaker 1: People like slow down or stop.
+
+394
+00:36:17,066 --> 00:36:19,311
+Speaker 1: People get confused because they didn't know there was an eclipse.
+
+395
+00:36:19,672 --> 00:36:22,277
+Speaker 1: Animals jump out into the road because eclipses fuck people up.
+
+396
+00:36:22,358 --> 00:36:23,360
+Speaker 1: Like they fuck everything up.
+
+397
+00:36:23,860 --> 00:36:25,067
+Speaker 0: There's a lot of reasons for it.
+
+398
+00:36:25,107 --> 00:36:27,220
+Speaker 1: Some people blind themselves, then they can't see when they're driving.
+
+399
+00:36:28,260 --> 00:36:28,500
+Speaker 0: Yes.
+
+400
+00:36:28,661 --> 00:36:38,167
+Speaker 0: So when the eclipse is coming, if you are in a place that can see it, do not drive at all possible.
+
+401
+00:36:38,607 --> 00:36:40,229
+Speaker 0: Do not use a motor vehicle.
+
+402
+00:36:40,269 --> 00:36:54,999
+Speaker 0: Stay away from roads for hours before and after the eclipse time to significantly increase the, you know, decrease the chance that you will completely die, which is much worse, much, much worse than hurting your vision.
+
+403
+00:36:55,539 --> 00:36:56,280
+Speaker 0: As bad as that is.
+
+404
+00:36:58,264 --> 00:36:59,398
+Speaker 0: You ain't seeing nothing if you did.
+
+405
+00:37:00,380 --> 00:37:01,864
+Speaker 1: All right, let's get into it.
+
+406
+00:37:01,944 --> 00:37:07,960
+Speaker 1: This game, which I saw Scott, Scott said, I'm going to buy this game and you played it.
+
+407
+00:37:08,000 --> 00:37:08,621
+Speaker 0: It was on my list.
+
+408
+00:37:09,082 --> 00:37:11,106
+Speaker 0: It was getting met hype by a lot of people.
+
+409
+00:37:11,587 --> 00:37:14,332
+Speaker 0: There's like a, it's sold like a million copies on steam.
+
+410
+00:37:14,712 --> 00:37:17,738
+Speaker 0: You could tell looking at a screenshot right away what the fuck was going on with it.
+
+411
+00:37:17,758 --> 00:37:18,419
+Speaker 0: And I was like, Oh no.
+
+412
+00:37:18,900 --> 00:37:19,180
+Speaker 1: Yeah.
+
+413
+00:37:20,202 --> 00:37:21,323
+Speaker 1: And Oh no is right.
+
+414
+00:37:21,423 --> 00:37:27,371
+Speaker 1: So I've only played, I haven't played this a ton yet, but, uh, you know, I play Overwatch competitively and I care about it.
+
+415
+00:37:27,411 --> 00:37:29,233
+Speaker 1: Like I put in a few ranking matches every day.
+
+416
+00:37:29,313 --> 00:37:30,094
+Speaker 1: I try to get better.
+
+417
+00:37:30,134 --> 00:37:32,477
+Speaker 1: Like I watch videos, I watch videos of myself.
+
+418
+00:37:32,558 --> 00:37:33,539
+Speaker 1: I care about Overwatch.
+
+419
+00:37:33,559 --> 00:37:34,460
+Speaker 1: It's one of my favorite games.
+
+420
+00:37:35,460 --> 00:37:40,566
+Speaker 1: I was playing the lotro in between ranking matches, like while I'm waiting in the queue.
+
+421
+00:37:41,487 --> 00:37:49,735
+Speaker 1: And then I just closed Overwatch because every time Overwatch started, all I could think about was, Oh, I got four hearts and I got the multiplier combo.
+
+422
+00:37:50,015 --> 00:37:51,777
+Speaker 1: All I gotta do is get another heart.
+
+423
+00:37:52,237 --> 00:37:54,840
+Speaker 1: Ah, so I stopped playing Overwatch, just played Bellator all day.
+
+424
+00:37:55,701 --> 00:37:55,861
+Speaker 0: Yeah.
+
+425
+00:37:56,141 --> 00:38:07,060
+Speaker 0: So Bellator is similar to say the spires or your, uh, COBOL cores or any of those card based rogue-like games.
+
+426
+00:38:07,320 --> 00:38:09,363
+Speaker 1: Scott just did a panel breaking down.
+
+427
+00:38:09,784 --> 00:38:19,398
+Speaker 0: Uh, how all those games in the same game, you start with, it's a deck builder and you start with a, a deck of playing cards that has, you know, you can choose, there's a basic deck.
+
+428
+00:38:19,878 --> 00:38:20,980
+Speaker 0: Um, and there's other decks.
+
+429
+00:38:21,000 --> 00:38:42,320
+Speaker 0: You unlock over time and you basically have a number of hands and a number of discards and you draw a hand of cards and you can choose, do I use a discard and discard up to five cards or do I use a hand and choose up to five cards for my hand to play as a poker hand?
+
+430
+00:38:42,902 --> 00:38:47,120
+Speaker 0: And there's a little chart that tells you what each poker hand is worth in terms of points.
+
+431
+00:38:47,940 --> 00:38:53,640
+Speaker 1: It's a little bit scrabbly cause it's like different cards have different values of chips, but then there's multipliers based on this.
+
+432
+00:38:54,380 --> 00:38:55,182
+Speaker 0: Well, that's how, right.
+
+433
+00:38:55,202 --> 00:39:01,417
+Speaker 0: So if you, if you make a straight, it's like, well, a straight is X points times the multiplier for a straight.
+
+434
+00:39:01,457 --> 00:39:02,420
+Speaker 0: I don't have the chart in front of me.
+
+435
+00:39:03,081 --> 00:39:10,800
+Speaker 0: And if you make a straight of two, three, four, five, six, well, you're going to get two extra points for the two, three extra points for the three and so on.
+
+436
+00:39:11,261 --> 00:39:16,520
+Speaker 0: And then those will get added to the left side of the equation to be multiplied by the right side of the equation.
+
+437
+00:39:17,001 --> 00:39:19,207
+Speaker 0: And that's the total points you get for playing that hand.
+
+438
+00:39:19,708 --> 00:39:20,831
+Speaker 0: And then you draw new cards.
+
+439
+00:39:21,232 --> 00:39:24,340
+Speaker 0: And basically each level is setting a bar, right?
+
+440
+00:39:24,400 --> 00:39:30,960
+Speaker 0: Of like, you must, if you want to pass this level and continue, you must get this many points before you run out of hands.
+
+441
+00:39:31,060 --> 00:39:33,695
+Speaker 0: As soon as you run out of hands, you can't make any more hands.
+
+442
+00:39:33,715 --> 00:39:34,580
+Speaker 0: You can't get any more points.
+
+443
+00:39:35,002 --> 00:39:38,479
+Speaker 0: If you don't have enough points, you failed game over, start again.
+
+444
+00:39:39,201 --> 00:39:48,200
+Speaker 0: And so you have to keep leveling up your deck with your deck building skills to increase your points, getting capacity and consistency.
+
+445
+00:39:48,581 --> 00:40:00,300
+Speaker 1: Like maybe I get more four fives and sixes in my deck and fewer twos, threes, like twos and tens, because I want to go for straights more often and know when I should go for the inside straight, depending on the composition of my deck.
+
+446
+00:40:00,800 --> 00:40:06,134
+Speaker 0: So you're trying to get, you know, a deck that is can basically score a ton of points.
+
+447
+00:40:06,555 --> 00:40:08,580
+Speaker 0: And that way you can get to higher and higher levels.
+
+448
+00:40:09,581 --> 00:40:14,893
+Speaker 0: And once you get past, I think the eighth boss, you've won that run, at least kind of.
+
+449
+00:40:15,635 --> 00:40:17,980
+Speaker 0: And then you can continue in endless mode.
+
+450
+00:40:19,121 --> 00:40:20,787
+Speaker 0: And I guess there's like a chart I saw.
+
+451
+00:40:20,827 --> 00:40:24,840
+Speaker 0: I guess it's possible to get into like, you know, exponential.
+
+452
+00:40:25,520 --> 00:40:28,040
+Speaker 1: Eventually you got a deck that's just literally nothing but aces.
+
+453
+00:40:29,541 --> 00:40:33,490
+Speaker 0: I guess it could happen, but I've beaten the game.
+
+454
+00:40:33,510 --> 00:40:35,314
+Speaker 0: At least I've completed.
+
+455
+00:40:35,374 --> 00:40:36,697
+Speaker 0: some runs a handful.
+
+456
+00:40:36,898 --> 00:40:37,900
+Speaker 0: Most of the time not.
+
+457
+00:40:40,080 --> 00:40:47,760
+Speaker 0: And yeah, it's like they don't pretense this with any plot, like, you know, or any plot is a joker told you to play.
+
+458
+00:40:47,800 --> 00:40:50,229
+Speaker 1: It's weird video poker and then you play a weird video poker.
+
+459
+00:40:50,831 --> 00:40:51,272
+Speaker 0: That's it.
+
+460
+00:40:51,473 --> 00:40:53,460
+Speaker 0: It's like it's just playing for the numbers.
+
+461
+00:40:53,520 --> 00:40:55,787
+Speaker 1: There's a small blind, a big blind and then a boss.
+
+462
+00:40:55,847 --> 00:40:59,960
+Speaker 1: And the boss has weird shit like, yeah, your hearts don't work this round.
+
+463
+00:41:01,001 --> 00:41:01,182
+Speaker 0: Right.
+
+464
+00:41:01,242 --> 00:41:03,231
+Speaker 0: So you really only have to beat the bosses.
+
+465
+00:41:03,271 --> 00:41:04,436
+Speaker 0: You can't skip bosses.
+
+466
+00:41:04,476 --> 00:41:05,280
+Speaker 0: You have to fight them.
+
+467
+00:41:05,560 --> 00:41:06,863
+Speaker 0: I love that mechanic.
+
+468
+00:41:06,883 --> 00:41:15,740
+Speaker 1: You can skip the first two like enemies along the way to get some sort of bonus, but then you miss out on money and other things you could get by beating that enemy.
+
+469
+00:41:15,760 --> 00:41:22,720
+Speaker 0: It depends if the money you get, you also only visit the shop if you actually beat a, you know, an opponent.
+
+470
+00:41:22,940 --> 00:41:24,164
+Speaker 0: If you skip, you don't go to the shop.
+
+471
+00:41:24,726 --> 00:41:28,960
+Speaker 0: So it's like, oh, if I play this level, I'll get six dollars and get to go to the shop.
+
+472
+00:41:29,080 --> 00:41:31,808
+Speaker 0: But if I skip the level, I'll get twenty dollars.
+
+473
+00:41:32,170 --> 00:41:35,620
+Speaker 0: But then I'll have to beat the next level to go to the shop.
+
+474
+00:41:36,001 --> 00:41:36,201
+Speaker 0: Right.
+
+475
+00:41:36,462 --> 00:41:38,891
+Speaker 0: So you have to make those kinds of calculations.
+
+476
+00:41:38,951 --> 00:41:41,540
+Speaker 0: And it's also like, well, I skipped this level.
+
+477
+00:41:41,580 --> 00:41:48,120
+Speaker 0: I'll get a sweet bonus, but I'll have to then beat this next level, which has a much higher bar.
+
+478
+00:41:48,721 --> 00:41:51,652
+Speaker 0: If I don't level up my deck as it is now, is it strong enough?
+
+479
+00:41:51,832 --> 00:41:52,013
+Speaker 0: Right.
+
+480
+00:41:52,274 --> 00:41:54,060
+Speaker 0: Sometimes you get a big boost to your deck.
+
+481
+00:41:54,100 --> 00:42:00,720
+Speaker 0: Like you get a bunch of amazing cards and other bonuses and you'll score like twenty thousand and the next few enemies are like a thousand.
+
+482
+00:42:00,860 --> 00:42:03,028
+Speaker 0: It's like, oh, I can skip a whole bunch right now.
+
+483
+00:42:03,189 --> 00:42:03,490
+Speaker 0: Yeah.
+
+484
+00:42:03,570 --> 00:42:03,771
+Speaker 0: Right.
+
+485
+00:42:03,791 --> 00:42:06,000
+Speaker 0: Because I'm already I leveled up way in advance.
+
+486
+00:42:07,681 --> 00:42:09,306
+Speaker 0: Or maybe it's like, no, no, no.
+
+487
+00:42:09,727 --> 00:42:13,839
+Speaker 0: I got to think long term and, you know, do something else right now.
+
+488
+00:42:14,240 --> 00:42:14,340
+Speaker 0: Right.
+
+489
+00:42:14,500 --> 00:42:16,507
+Speaker 0: And actually play these levels and such and such.
+
+490
+00:42:16,567 --> 00:42:20,100
+Speaker 0: So it's a lot of luck involved.
+
+491
+00:42:21,061 --> 00:42:32,940
+Speaker 1: You know, you might just not draw luck as regular old video poker because based on my playthrough so far, there are seeds and I am very confident just based on my play.
+
+492
+00:42:33,501 --> 00:42:46,780
+Speaker 1: If you played this and played regular video poker at the same time, you would see that the seeds in this game will generally afford interesting poker decisions more often than randomness would allow, even with a default deck.
+
+493
+00:42:47,740 --> 00:42:51,698
+Speaker 0: Yeah, I think overall it's that, you know, with the deck building.
+
+494
+00:42:52,059 --> 00:42:52,220
+Speaker 0: Right.
+
+495
+00:42:52,521 --> 00:42:58,320
+Speaker 0: You can construct your own deck, but there's also these jokers you can get, which are like really powerful.
+
+496
+00:42:58,801 --> 00:43:02,128
+Speaker 0: That adds sort of like these constant abilities that are always there.
+
+497
+00:43:02,269 --> 00:43:05,576
+Speaker 0: every hand is also cards.
+
+498
+00:43:05,616 --> 00:43:07,440
+Speaker 0: you can get this tarot cards.
+
+499
+00:43:08,021 --> 00:43:15,400
+Speaker 0: The tarot cards sort of you use them and they have like they're sort of like these one time use like magic spells that each one does something different.
+
+500
+00:43:15,881 --> 00:43:18,892
+Speaker 0: Most of them like modify your deck in some way, but they also do other things.
+
+501
+00:43:19,655 --> 00:43:20,820
+Speaker 0: There's planet cards.
+
+502
+00:43:20,860 --> 00:43:28,280
+Speaker 0: When you play a planet card, it actually upgrades the value of a particular poker hand associated with that planet.
+
+503
+00:43:28,741 --> 00:43:34,740
+Speaker 0: So like if you play the earth card, full houses now are just better for the rest of the whole game.
+
+504
+00:43:34,960 --> 00:43:45,320
+Speaker 0: And if you play a lot of earth cards and you then you make full houses like amazing, then you could actually just keep and you find a way to make your deck score full houses a lot.
+
+505
+00:43:45,741 --> 00:43:47,466
+Speaker 0: That's a viable strategy, right?
+
+506
+00:43:47,847 --> 00:43:52,140
+Speaker 0: Another viable strategy is like screw trying to get amazing poker hands, right?
+
+507
+00:43:52,920 --> 00:43:58,420
+Speaker 0: Let's just play and make the high card or the pair incredibly powerful.
+
+508
+00:43:59,160 --> 00:44:00,423
+Speaker 1: I had one run like that myself.
+
+509
+00:44:00,443 --> 00:44:08,280
+Speaker 1: My first my first non-tutorial run was like that where I made pair and two pair just super good, like super good.
+
+510
+00:44:08,601 --> 00:44:12,615
+Speaker 1: And I just kept trying to turn as many cards as possible into duplicates of each other.
+
+511
+00:44:12,635 --> 00:44:13,979
+Speaker 1: And that got me pretty far.
+
+512
+00:44:14,621 --> 00:44:14,962
+Speaker 0: Yeah.
+
+513
+00:44:15,082 --> 00:44:18,228
+Speaker 0: And you find synergies with your jokers and other things.
+
+514
+00:44:18,790 --> 00:44:19,050
+Speaker 0: Right.
+
+515
+00:44:19,170 --> 00:44:23,559
+Speaker 0: And you could end up get, you know, getting up, find a way to get lots of points.
+
+516
+00:44:23,640 --> 00:44:23,820
+Speaker 0: Right.
+
+517
+00:44:23,960 --> 00:44:30,100
+Speaker 0: And it's like I found a few combos that got me over the line and I see other ones like that are potentially out there.
+
+518
+00:44:30,160 --> 00:44:46,320
+Speaker 0: But it's like you, it's not like, you know, I say slay the spire where a lot of the relics and cards, there's sort of an obvious way to use them and stack them to sort of, you know, go, go off and start getting exponentially big numbers.
+
+519
+00:44:47,460 --> 00:44:56,173
+Speaker 0: In Bellatro, it's not so obvious really the way that most things can be used to really get a big number.
+
+520
+00:44:56,774 --> 00:45:00,820
+Speaker 0: Some of them like, you know, can't actually, they're not actually any good.
+
+521
+00:45:02,360 --> 00:45:07,320
+Speaker 1: Or they might only be good because of like other situations we don't know about or didn't think about.
+
+522
+00:45:07,861 --> 00:45:08,022
+Speaker 0: Yeah.
+
+523
+00:45:08,042 --> 00:45:14,040
+Speaker 0: You have to, you know, you said to start off as you play, you're unlocking more different jokers, more different cards, things you haven't seen before.
+
+524
+00:45:15,801 --> 00:45:20,693
+Speaker 0: And it's like, oh, you know, now I see there's a new thing I've just unlocked.
+
+525
+00:45:20,753 --> 00:45:23,580
+Speaker 0: That's what makes that other garbage thing actually not suck.
+
+526
+00:45:23,821 --> 00:45:27,048
+Speaker 0: Or, oh, there's a way to use that I didn't even think of.
+
+527
+00:45:27,128 --> 00:45:28,171
+Speaker 0: And that's really powerful.
+
+528
+00:45:28,231 --> 00:45:32,120
+Speaker 0: I just didn't understand how to use it properly in which way that it would be really powerful.
+
+529
+00:45:33,540 --> 00:45:35,747
+Speaker 0: So it's like lots and lots of puzzle solving.
+
+530
+00:45:35,787 --> 00:45:40,180
+Speaker 0: I think it could be played out once you've sort of seen all the cards and unlocked all the things.
+
+531
+00:45:41,581 --> 00:45:44,026
+Speaker 0: But the game asks you to like beat the game.
+
+532
+00:45:44,046 --> 00:45:45,209
+Speaker 0: There's like certain challenges.
+
+533
+00:45:45,229 --> 00:45:50,380
+Speaker 0: The first challenge is like beat the game with I think five decks that I've only beaten the game with three decks so far.
+
+534
+00:45:50,460 --> 00:45:51,762
+Speaker 0: And that's the first challenge.
+
+535
+00:45:53,584 --> 00:45:57,009
+Speaker 0: And there's a lot of decks way more than Slay the Spire has characters.
+
+536
+00:45:57,610 --> 00:46:04,219
+Speaker 0: And they want you to like beat the game on several different difficulty levels with each deck to really be like 100% complete.
+
+537
+00:46:05,562 --> 00:46:08,159
+Speaker 0: I've only beaten the game on like the first difficulty level.
+
+538
+00:46:08,240 --> 00:46:14,680
+Speaker 1: I remember when I beat Slay the Spire with every character and I did like one ascension, I thought, all right, I've had my fill of that game.
+
+539
+00:46:15,240 --> 00:46:21,496
+Speaker 1: And here I am several years later, like working on like the final ascension on multiple characters.
+
+540
+00:46:22,058 --> 00:46:22,880
+Speaker 1: I just keep playing.
+
+541
+00:46:25,521 --> 00:46:29,088
+Speaker 0: So yeah, it's like I knew that this was going to be a dangerous game based on the screenshot.
+
+542
+00:46:29,208 --> 00:46:35,280
+Speaker 0: And then sure enough, when I bought it and installed it, as is my policy, I played it for like six or seven hours straight.
+
+543
+00:46:35,300 --> 00:46:38,405
+Speaker 1: Because it's got one, it's got like a really good UX.
+
+544
+00:46:38,445 --> 00:46:39,247
+Speaker 1: Like the UX just works.
+
+545
+00:46:39,287 --> 00:46:46,700
+Speaker 1: As soon as you learn the rules and how it works, you're like, especially if you play with a mouse on a computer as opposed to like on the Switch, you can play so fast.
+
+546
+00:46:47,960 --> 00:46:49,280
+Speaker 1: But two, it's got such...
+
+547
+00:46:49,300 --> 00:46:51,740
+Speaker 0: I misclicked though, because I was playing too fast.
+
+548
+00:46:52,382 --> 00:46:54,572
+Speaker 1: I did the spade club thing too, so I can't make fun of you.
+
+549
+00:46:54,712 --> 00:47:02,520
+Speaker 0: I remember... There are times like I was playing a full house and like I unclicked one of the cards and I played a two pair instead and I was over.
+
+550
+00:47:02,761 --> 00:47:03,001
+Speaker 1: Yep.
+
+551
+00:47:03,362 --> 00:47:09,035
+Speaker 1: I had a few catastrophes like that, but Slay the Spire, sometimes I've been like, oops, I shouldn't have played that.
+
+552
+00:47:09,095 --> 00:47:09,857
+Speaker 1: That's the end of this.
+
+553
+00:47:10,278 --> 00:47:11,280
+Speaker 1: Shouldn't have killed that fungus.
+
+554
+00:47:11,928 --> 00:47:12,460
+Speaker 0: It can happen.
+
+555
+00:47:12,960 --> 00:47:20,956
+Speaker 1: But also the aesthetic is like scanline video poker with like chill music in the background.
+
+556
+00:47:21,197 --> 00:47:22,680
+Speaker 1: It's a real simple soundtrack, but...
+
+557
+00:47:23,520 --> 00:47:28,140
+Speaker 0: It's like a surreal-y, jovially haunted video poker.
+
+558
+00:47:28,200 --> 00:47:28,481
+Speaker 0: Yeah.
+
+559
+00:47:28,762 --> 00:47:34,637
+Speaker 1: Like imagine you died and you went to Purgatory, but Purgatory has video poker and they're like, look, this isn't heaven.
+
+560
+00:47:34,998 --> 00:47:35,680
+Speaker 1: This isn't hell.
+
+561
+00:47:36,320 --> 00:47:38,388
+Speaker 0: It's more like a slightly twisted, but not dark.
+
+562
+00:47:38,449 --> 00:47:41,280
+Speaker 0: It's like a brightly lit fun house video poker.
+
+563
+00:47:41,380 --> 00:47:41,561
+Speaker 0: Yeah.
+
+564
+00:47:41,801 --> 00:47:42,363
+Speaker 1: A fun house.
+
+565
+00:47:42,383 --> 00:47:48,020
+Speaker 1: that's not going to kill you, but might unerve you a little bit, but it definitely trapped you.
+
+566
+00:47:48,780 --> 00:47:51,199
+Speaker 0: It's sort of laughing at you and also with you.
+
+567
+00:47:51,460 --> 00:47:51,701
+Speaker 0: Yep.
+
+568
+00:47:53,624 --> 00:48:01,479
+Speaker 1: The other thing I really appreciate about it is that one, you can click to see your deck at any time and it helpfully counts cards for you.
+
+569
+00:48:02,380 --> 00:48:03,602
+Speaker 1: Just so you don't have to worry about that.
+
+570
+00:48:04,925 --> 00:48:13,800
+Speaker 1: But two, like Slay the Spire and unlike Cobalt Core, it lets itself be insanely unbalanced.
+
+571
+00:48:14,060 --> 00:48:16,540
+Speaker 1: Like there are combos you can pull off just like in Slay the Spire.
+
+572
+00:48:16,640 --> 00:48:17,145
+Speaker 0: That's the point.
+
+573
+00:48:17,185 --> 00:48:18,980
+Speaker 0: You have to be unbalanced or otherwise you're not going to win.
+
+574
+00:48:19,160 --> 00:48:19,401
+Speaker 0: Yeah.
+
+575
+00:48:19,621 --> 00:48:21,165
+Speaker 1: But also like that's fun.
+
+576
+00:48:21,245 --> 00:48:21,926
+Speaker 1: Slay the Spire.
+
+577
+00:48:21,967 --> 00:48:26,717
+Speaker 1: Part of the why it's fun is sometimes, yeah, I got 4,000 poison on that boss.
+
+578
+00:48:26,777 --> 00:48:28,020
+Speaker 1: Wasn't that fun to pull off?
+
+579
+00:48:28,120 --> 00:48:31,247
+Speaker 1: Or yes, I literally got an infinite combo until the boss died.
+
+580
+00:48:31,607 --> 00:48:32,810
+Speaker 1: This game can do the same thing.
+
+581
+00:48:32,870 --> 00:48:37,500
+Speaker 1: Well, I can only get Royal Flushes with a 50 X multiplier every time.
+
+582
+00:48:39,481 --> 00:48:46,260
+Speaker 0: The other thing is that much like Slay the Spire where the, you know, the enemies have like these unique abilities that might counteract your strategy.
+
+583
+00:48:46,560 --> 00:48:53,340
+Speaker 0: Like, you know, you go all in on doing lots of tiny attacks and then that certain Slay the Spire boss, I forget which one because it's been a while.
+
+584
+00:48:53,820 --> 00:48:54,783
+Speaker 1: Timeboy is the worst.
+
+585
+00:48:54,803 --> 00:48:58,134
+Speaker 1: Like, yeah, I can play shivs for hours.
+
+586
+00:48:58,234 --> 00:49:00,901
+Speaker 1: And then Timeboy is like, no, you're playing 12.
+
+587
+00:49:00,901 --> 00:49:01,364
+Speaker 0: That's right.
+
+588
+00:49:01,405 --> 00:49:02,412
+Speaker 0: That's the one I'm talking about.
+
+589
+00:49:02,452 --> 00:49:02,814
+Speaker 1: Hate him.
+
+590
+00:49:02,855 --> 00:49:03,519
+Speaker 1: He's the worst one.
+
+591
+00:49:04,160 --> 00:49:04,602
+Speaker 0: That's what I was.
+
+592
+00:49:04,642 --> 00:49:04,782
+Speaker 0: Yeah.
+
+593
+00:49:04,823 --> 00:49:05,425
+Speaker 0: That's what I was thinking.
+
+594
+00:49:05,445 --> 00:49:05,726
+Speaker 1: Well, I care.
+
+595
+00:49:05,746 --> 00:49:10,220
+Speaker 0: What's the whole, Latro will do the same thing where it's like, ah, yes, I see you have made an amazing deck.
+
+596
+00:49:10,320 --> 00:49:12,485
+Speaker 0: Well, uh, guess what?
+
+597
+00:49:13,387 --> 00:49:15,532
+Speaker 0: All of these cards have been debuffed.
+
+598
+00:49:15,732 --> 00:49:19,180
+Speaker 1: The one, the one that attacks heart specifically got me in my first play through.
+
+599
+00:49:19,280 --> 00:49:23,874
+Speaker 1: Cause first, first, my first like ground up to the boss, I like double down on hearts.
+
+600
+00:49:23,914 --> 00:49:26,040
+Speaker 1: I made this like heart specific deck and it was so good.
+
+601
+00:49:26,401 --> 00:49:29,470
+Speaker 1: And the next time I see at the end, the boss is like, hearts are debuffed.
+
+602
+00:49:29,510 --> 00:49:32,700
+Speaker 1: And I was like, oh, I guess the powers won't work, but maybe the cards will work.
+
+603
+00:49:32,780 --> 00:49:35,366
+Speaker 1: Now debuff is way worse than you think it is in this game.
+
+604
+00:49:36,027 --> 00:49:36,287
+Speaker 0: Yeah.
+
+605
+00:49:36,568 --> 00:49:37,670
+Speaker 0: It makes the card do nothing.
+
+606
+00:49:37,771 --> 00:49:42,280
+Speaker 0: Um, so there are a few things in the UI that weren't obvious in case anyone out there plays.
+
+607
+00:49:42,400 --> 00:49:44,729
+Speaker 0: There's probably more things that I haven't even discovered yet.
+
+608
+00:49:45,070 --> 00:49:47,719
+Speaker 0: Um, but these are things I discovered that are really fascinating one.
+
+609
+00:49:48,841 --> 00:49:49,041
+Speaker 0: Yeah.
+
+610
+00:49:49,081 --> 00:49:52,492
+Speaker 0: You can, there's two buttons to sort your hand by rank or by suit.
+
+611
+00:49:52,612 --> 00:49:55,020
+Speaker 0: And that's, you know, you're going to use those most often.
+
+612
+00:49:55,682 --> 00:49:58,990
+Speaker 0: You can just rearrange your hand any way you want by clicking and dragging.
+
+613
+00:49:59,391 --> 00:50:02,960
+Speaker 0: So that's, you know, might useful in some certain circumstances.
+
+614
+00:50:03,940 --> 00:50:16,880
+Speaker 0: Um, also, uh, sometimes there'll be things, usually bosses that make your hand have cards that are phased out, but you can actually see in the animation, which cards are moving where.
+
+615
+00:50:17,761 --> 00:50:21,146
+Speaker 0: Um, and you know, that when you sort by suit and rank, right?
+
+616
+00:50:21,186 --> 00:50:22,649
+Speaker 0: What order the suits are in.
+
+617
+00:50:23,510 --> 00:50:30,180
+Speaker 0: And so you can actually deduce when you buy flipping between the rank, the rank sorting and the suit sorting.
+
+618
+00:50:30,780 --> 00:50:35,029
+Speaker 0: And like, which cards must be like, Hey, that car is on the far right.
+
+619
+00:50:35,129 --> 00:50:36,692
+Speaker 0: And I sorted by rank and suit.
+
+620
+00:50:36,753 --> 00:50:38,015
+Speaker 0: And that car didn't move.
+
+621
+00:50:38,376 --> 00:50:39,879
+Speaker 0: It must be this suit.
+
+622
+00:50:40,701 --> 00:50:44,226
+Speaker 0: And it must be a really low rank because it's all the way on the right.
+
+623
+00:50:44,286 --> 00:50:53,080
+Speaker 0: And it's still there, but no matter which sorting I choose, you can sort of figure out which cards are, which, um, what suits they belong to and things of that nature.
+
+624
+00:50:53,840 --> 00:50:55,023
+Speaker 0: The tarot cards.
+
+625
+00:50:55,945 --> 00:51:02,819
+Speaker 0: A lot of times, some of the tarot cards force you to select cards in your hand to get used on.
+
+626
+00:51:02,839 --> 00:51:03,340
+Speaker 0: Right?
+
+627
+00:51:03,741 --> 00:51:09,229
+Speaker 0: So when you in the shop and you buy a tarot card, it makes you like use it immediately.
+
+628
+00:51:09,289 --> 00:51:15,720
+Speaker 0: If you get it from a booster pack and it'll basically draw a whole bunch of cards from your deck randomly for you to use it on.
+
+629
+00:51:16,200 --> 00:51:18,430
+Speaker 1: Which could fuck you over depending on what you picked.
+
+630
+00:51:18,450 --> 00:51:20,580
+Speaker 0: If you get a bad draw, you can always, you can always skip.
+
+631
+00:51:20,741 --> 00:51:21,002
+Speaker 0: True.
+
+632
+00:51:21,042 --> 00:51:24,280
+Speaker 1: But then he wasted the money and money's hard to come by.
+
+633
+00:51:24,840 --> 00:51:26,022
+Speaker 0: It's easy to get a lot of money.
+
+634
+00:51:26,242 --> 00:51:36,020
+Speaker 0: And in fact, it's sort of a problem sometimes and you get too much money because you did, you invested in money and now your deck doesn't score any points yet cash out your money.
+
+635
+00:51:36,641 --> 00:51:50,660
+Speaker 0: Um, and it's also, it took me a few runs to realize, wait a minute, when I get a pile of money, I should reroll and blow it all in the shop and reroll to get lots and lots of bonuses and not just buy what's in the shop and click next and keep my money.
+
+636
+00:51:51,301 --> 00:51:51,882
+Speaker 1: Not even expense.
+
+637
+00:51:51,922 --> 00:51:52,663
+Speaker 1: What, like five bucks?
+
+638
+00:51:53,505 --> 00:51:55,488
+Speaker 0: The reroll as you use the reroll.
+
+639
+00:51:55,689 --> 00:52:01,880
+Speaker 0: every time you reroll it, the price goes up, but there are things you can get obviously to decrease the cost of the reroll.
+
+640
+00:52:02,601 --> 00:52:16,320
+Speaker 0: So, but anyway, the another trick I learned is that, so you have sometimes there'll be a tarot card just like in your inventory and you'll be like, well, I guess I have to wait to use that until I'm actually like playing and I have a hand to use it on.
+
+641
+00:52:16,841 --> 00:52:26,960
+Speaker 0: But actually if you buy a tarot card pack that draws out a bunch of random cards, you can actually use the tarot card in your inventory on those cards.
+
+642
+00:52:28,580 --> 00:52:33,587
+Speaker 0: So you don't have to wait until like you're in a game looking at a hand of cards, right?
+
+643
+00:52:34,228 --> 00:52:42,900
+Speaker 0: But you may want to cause some tarot cards are like turn three cards into clubs and it's like, well, I'll just wait until I've got two clubs and now I got a flush.
+
+644
+00:52:44,081 --> 00:52:50,574
+Speaker 0: And that might be better than using it in advance and hoping you just increase your chance of drawing a bunch of clubs, right?
+
+645
+00:52:50,654 --> 00:52:53,600
+Speaker 0: Guarantee that you have five clubs at some point.
+
+646
+00:52:54,544 --> 00:52:56,958
+Speaker 0: And then from that point forward, it's the same either way.
+
+647
+00:53:00,000 --> 00:53:17,700
+Speaker 0: The negative thing I can say about this game is that being a very much beginner at it and not knowing all the things I need to know and not being highly skilled and knowing the best strats and whatnot is that it seems like most of the best strats involve getting particular combinations of jokers and getting them early.
+
+648
+00:53:18,261 --> 00:53:23,220
+Speaker 0: And the jokers are just way more powerful than the other things in the game or more significant and important.
+
+649
+00:53:23,481 --> 00:53:29,160
+Speaker 1: Yeah, because they're permanent powers that often do things like the multiplier is just better by a lot.
+
+650
+00:53:29,880 --> 00:53:29,980
+Speaker 0: Yeah.
+
+651
+00:53:30,020 --> 00:53:35,086
+Speaker 0: So all the times I've won were with particularly powerful joker combinations.
+
+652
+00:53:35,507 --> 00:53:46,360
+Speaker 0: And so it's like I feel like my strategy right now, still being a beginner, is get money, use that money to dig and find a powerful joker combination and then coast.
+
+653
+00:53:46,600 --> 00:53:48,586
+Speaker 1: Well, I mean, Slay the Spire is the same thing.
+
+654
+00:53:48,646 --> 00:53:53,800
+Speaker 1: Like once you like, I know every card in Slay the Spire now, so I can sort out those combos.
+
+655
+00:53:53,920 --> 00:54:00,260
+Speaker 1: But sometimes like you're going to do well if you get the thing that reduces any damage less than five or less to one.
+
+656
+00:54:00,621 --> 00:54:06,520
+Speaker 1: And you also get the thing that reduces all damage by one, thus reducing anything five or less to zero.
+
+657
+00:54:07,261 --> 00:54:09,307
+Speaker 0: Yeah, but I do feel like that can't be there.
+
+658
+00:54:09,408 --> 00:54:13,100
+Speaker 0: I feel like there is other ways to win that I'm just not good enough and haven't discovered yet.
+
+659
+00:54:14,823 --> 00:54:15,999
+Speaker 0: So I'm working on that.
+
+660
+00:54:16,120 --> 00:54:19,034
+Speaker 1: Yeah, but it's I mean, it's this is worth fifteen bucks.
+
+661
+00:54:19,094 --> 00:54:20,280
+Speaker 1: It's very well designed.
+
+662
+00:54:20,440 --> 00:54:21,451
+Speaker 0: It was I bought it on sale.
+
+663
+00:54:21,471 --> 00:54:22,199
+Speaker 0: I think it was less than that.
+
+664
+00:54:22,521 --> 00:54:24,330
+Speaker 1: I think I bought it on sale too.
+
+665
+00:54:25,195 --> 00:54:26,179
+Speaker 1: It's fifteen bucks right now.
+
+666
+00:54:26,400 --> 00:54:27,062
+Speaker 0: It wasn't a big sale.
+
+667
+00:54:27,082 --> 00:54:27,965
+Speaker 0: It was a small sale.
+
+668
+00:54:28,005 --> 00:54:30,091
+Speaker 0: But this is a million seller.
+
+669
+00:54:30,613 --> 00:54:31,756
+Speaker 0: And I spoke.
+
+670
+00:54:31,817 --> 00:54:32,940
+Speaker 0: I have spoken to people.
+
+671
+00:54:33,640 --> 00:54:40,360
+Speaker 0: I spoke to people at PAX and a couple other people who were not the kind of person who you think would play a game like this.
+
+672
+00:54:40,500 --> 00:54:43,952
+Speaker 0: But they got hooked on it because I guess, you know, it's a lot of Twitch people playing it.
+
+673
+00:54:44,073 --> 00:54:45,959
+Speaker 0: Other people see it and they play it.
+
+674
+00:54:46,881 --> 00:54:51,740
+Speaker 1: And, you know, and I will say if you like this game, you'll probably like Slay the Spire 2 and vice versa.
+
+675
+00:54:52,620 --> 00:54:54,584
+Speaker 0: Yeah, they're all they're all in the same category.
+
+676
+00:54:54,664 --> 00:55:02,840
+Speaker 0: And I think while on the one hand, you know, you might want to criticize people for just sort of going ham on this sort of card based roguelike deal.
+
+677
+00:55:04,701 --> 00:55:06,244
+Speaker 0: I think it's perfectly OK.
+
+678
+00:55:06,505 --> 00:55:06,665
+Speaker 0: Right.
+
+679
+00:55:06,705 --> 00:55:07,326
+Speaker 0: It's like how many.
+
+680
+00:55:07,707 --> 00:55:14,218
+Speaker 0: there's a lot less card based roguelikes than there are platformers or FPS or RTS or RPGs.
+
+681
+00:55:16,020 --> 00:55:16,481
+Speaker 0: Right.
+
+682
+00:55:16,501 --> 00:55:24,621
+Speaker 0: So but also they could use a lot more of these that are a lot of deck builder was invented in 2008.
+
+683
+00:55:24,621 --> 00:55:27,720
+Speaker 1: So it's a deck builder itself is a brand new genre.
+
+684
+00:55:28,641 --> 00:55:29,523
+Speaker 0: Yeah, there's a lot.
+
+685
+00:55:29,563 --> 00:55:32,932
+Speaker 0: I think there's still a lot more space to be explored with these kind of games.
+
+686
+00:55:33,133 --> 00:55:35,860
+Speaker 0: And I'm excited every time there's another good one.
+
+687
+00:55:37,181 --> 00:55:42,598
+Speaker 0: I think I might even preliminarily say this could be like the second best one yet.
+
+688
+00:55:43,561 --> 00:55:53,600
+Speaker 1: I could see that because while Cobalt Core has a lot going for it and specific mechanics in it, I think are better than the games it was based on as a game.
+
+689
+00:55:53,700 --> 00:55:55,719
+Speaker 1: It definitely runs out of strategic chapter real quick.
+
+690
+00:55:56,261 --> 00:56:02,960
+Speaker 0: I think that's the number one factor I judge these games based on is like, how long can you hold your interest?
+
+691
+00:56:03,320 --> 00:56:03,420
+Speaker 0: Right.
+
+692
+00:56:03,441 --> 00:56:07,420
+Speaker 0: Because it's like a roguelike could drop your interest after like a single play.
+
+693
+00:56:07,861 --> 00:56:07,981
+Speaker 0: Right.
+
+694
+00:56:08,343 --> 00:56:12,880
+Speaker 0: Because all you know that all you're going to be doing is whatever you just did after your first run.
+
+695
+00:56:13,442 --> 00:56:15,999
+Speaker 0: You know that you're just going to be doing that a lot more.
+
+696
+00:56:16,522 --> 00:56:17,649
+Speaker 0: Nothing else is going to happen.
+
+697
+00:56:17,669 --> 00:56:19,200
+Speaker 0: There isn't going to be anything else in the game.
+
+698
+00:56:19,641 --> 00:56:21,526
+Speaker 0: So if you don't enjoy that, you're not going to enjoy it.
+
+699
+00:56:21,626 --> 00:56:27,040
+Speaker 0: So if you're doing a lot of runs, then that means it's an enjoy, right?
+
+700
+00:56:27,661 --> 00:56:30,000
+Speaker 0: It's just how many can you do before you get tired of it?
+
+701
+00:56:30,380 --> 00:56:31,869
+Speaker 0: How much juice can you squeeze?
+
+702
+00:56:32,009 --> 00:56:33,820
+Speaker 0: Because all the juice is going to be the same flavor.
+
+703
+00:56:34,040 --> 00:56:38,051
+Speaker 1: Seven years later, I'm still squeezing that Slay the Fire juice like at least once a week.
+
+704
+00:56:38,091 --> 00:56:40,017
+Speaker 1: I'll just do a quick run like while I'm laying in bed.
+
+705
+00:56:40,719 --> 00:56:41,080
+Speaker 1: No biggie.
+
+706
+00:56:47,170 --> 00:56:49,459
+Speaker 1: This has been Geek Nights with Rym and Scott.
+
+707
+00:56:49,520 --> 00:56:52,050
+Speaker 1: Special thanks to DJ Pretzel for the opening theme.
+
+708
+00:56:52,230 --> 00:56:58,250
+Speaker 0: Be sure to visit our website at frontrowcrew.com for show notes, discussion, links and more.
+
+709
+00:56:58,750 --> 00:57:01,422
+Speaker 1: Remember, Geek Nights is not one but four different shows.
+
+710
+00:57:01,723 --> 00:57:03,290
+Speaker 1: Mondays are science and technology.
+
+711
+00:57:03,450 --> 00:57:05,175
+Speaker 1: Tuesdays, gaming and games.
+
+712
+00:57:05,296 --> 00:57:07,121
+Speaker 1: Wednesdays are animation and comics.
+
+713
+00:57:07,422 --> 00:57:09,910
+Speaker 1: Thursdays are arbitrary and indiscriminate.
+
+714
+00:57:10,610 --> 00:57:15,450
+Speaker 1: Geek Nights is distributed under a Creative Commons Attribution 4.0 International License.
+
+715
+00:57:15,931 --> 00:57:20,301
+Speaker 0: Geek Nights is recorded live with no studio and no audience.
+
+716
+00:57:20,782 --> 00:57:24,230
+Speaker 0: But unlike those other late shows, it's actually recorded at night.
+
+717
+00:57:24,630 --> 00:57:45,327
+Speaker 1: And the Patreon patrons for this April 2nd episode of Geek Nights are... I am super hungry so I'm just going to stop right now and I'm just going to leave you tonight with...
+
+718
+00:57:47,410 --> 00:57:48,892
+Speaker 0: I kind of like talking like this but I don't.
+
+719
+00:57:48,912 --> 00:57:49,933
+Speaker 0: I bet chicks like it too.
+
+720
+00:57:57,330 --> 00:57:59,078
+Speaker 1: Oh, I didn't even think of that.
+
+721
+00:58:00,621 --> 00:58:02,732
+Speaker 0: Hey baby, would you like to come back?
+
+722
+00:58:04,620 --> 00:58:06,248
+Speaker 0: I can talk even quieter than this.
+
+723
+00:58:07,294 --> 00:58:08,540
+Speaker 0: You won't even know I'm in the room.
+
+724
+00:58:10,840 --> 00:58:11,076
+Speaker 0: Oh yeah.
+

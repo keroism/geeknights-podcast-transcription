@@ -1,0 +1,2424 @@
+﻿1
+00:00:08,140 --> 00:00:09,519
+Speaker 0: It's Monday, October 21st, 2024.
+
+2
+00:00:09,519 --> 00:00:09,679
+Speaker 0: I'm Rem.
+
+3
+00:00:12,715 --> 00:00:13,086
+Speaker 1: I'm Scott.
+
+4
+00:00:13,410 --> 00:00:14,737
+Speaker 0: And this is Geek Nights.
+
+5
+00:00:14,778 --> 00:00:16,970
+Speaker 0: Tonight we are talking about widgets.
+
+6
+00:00:18,030 --> 00:00:18,948
+Speaker 1: Let's do this.
+
+7
+00:00:19,670 --> 00:00:26,390
+Speaker 0: So, uh, biking over work today, I heard a sound I've never heard outside in my entire life.
+
+8
+00:00:27,891 --> 00:00:35,668
+Speaker 0: I heard the very distinct sound of a, what I'm pretty sure was a 336, but it might have been a 56k modem.
+
+9
+00:00:38,035 --> 00:00:38,790
+Speaker 0: Doing the handshake.
+
+10
+00:00:39,290 --> 00:00:44,870
+Speaker 0: And I heard it very loudly outside while I'm at a traffic light on a bike like biking home.
+
+11
+00:00:46,111 --> 00:00:52,910
+Speaker 0: And I look around and it takes me a minute to realize that the sound is coming from some guy who looks like a delivery guy.
+
+12
+00:00:53,291 --> 00:00:56,790
+Speaker 0: And he's got his phone and I see what looks like Spotify on his phone.
+
+13
+00:00:57,372 --> 00:01:00,910
+Speaker 0: And he's got a giant speaker like just on his bike next to his delivery stuff.
+
+14
+00:01:02,512 --> 00:01:05,867
+Speaker 0: And modem sounds just keep coming out of it for what feels like 15 or 20 seconds.
+
+15
+00:01:07,372 --> 00:01:10,842
+Speaker 0: And I'm about to ask him like, "Hey, what's up?
+
+16
+00:01:11,143 --> 00:01:11,544
+Speaker 0: What's this?
+
+17
+00:01:11,805 --> 00:01:12,507
+Speaker 0: What's going on?
+
+18
+00:01:12,547 --> 00:01:12,748
+Speaker 0: That's
+
+19
+00:01:12,788 --> 00:01:13,029
+Speaker 0: cool.".
+
+20
+00:01:13,570 --> 00:01:21,690
+Speaker 0: And then it turns into a techno beat and it's some sort of band that just uses modem noises in their EDM.
+
+21
+00:01:22,091 --> 00:01:25,369
+Speaker 0: And then he sped off because the light turned green and I didn't get to talk to him.
+
+22
+00:01:28,650 --> 00:01:31,150
+Speaker 0: So you, but you were at the opera, different kind of noises.
+
+23
+00:01:31,150 --> 00:01:32,850
+Speaker 1: Yeah, I heard expected music.
+
+24
+00:01:33,351 --> 00:01:34,430
+Speaker 1: Unexpected music.
+
+25
+00:01:35,112 --> 00:01:41,190
+Speaker 1: Yeah, I've been going because I had went to the opera one time in like high school, right?
+
+26
+00:01:41,370 --> 00:01:42,970
+Speaker 1: And I was like, well, it's right fucking there.
+
+27
+00:01:42,990 --> 00:01:44,229
+Speaker 1: I'm paying to live in New York City.
+
+28
+00:01:45,158 --> 00:01:46,149
+Speaker 1: So I might as well go.
+
+29
+00:01:47,130 --> 00:01:51,610
+Speaker 1: And the thing is with the opera, it's like I probably talked about it the last time I went, I guess.
+
+30
+00:01:52,270 --> 00:01:53,078
+Speaker 1: But I don't remember.
+
+31
+00:01:55,632 --> 00:01:59,350
+Speaker 1: I had always gone to see classic operas, right?
+
+32
+00:01:59,550 --> 00:02:00,948
+Speaker 1: Your Joe Green's rim likes to say.
+
+33
+00:02:01,835 --> 00:02:02,706
+Speaker 0: I love a Joe Green.
+
+34
+00:02:04,097 --> 00:02:06,250
+Speaker 0: Get a magic flute, a night queen.
+
+35
+00:02:07,711 --> 00:02:13,668
+Speaker 1: So, you know, I've seen so far, in high school we saw Romeo and Juliet, the last millennium.
+
+36
+00:02:13,868 --> 00:02:14,330
+Speaker 1: I saw that.
+
+37
+00:02:15,231 --> 00:02:22,830
+Speaker 1: And so then we went to see Medea, which was, you know, it was like a new production, but I don't think it's a new play.
+
+38
+00:02:23,451 --> 00:02:31,050
+Speaker 1: And then last year we saw a Joe Green, which was about Babylon.
+
+39
+00:02:31,471 --> 00:02:40,309
+Speaker 0: The last opera I saw was in the year 1999 and it was Gatordamerung and I never want to see a Wagner again in my life.
+
+40
+00:02:42,212 --> 00:02:43,068
+Speaker 1: Yeah, that's right.
+
+41
+00:02:43,290 --> 00:02:45,325
+Speaker 1: It was Nebuchadnezzar, right?
+
+42
+00:02:46,230 --> 00:02:46,890
+Speaker 1: It was about Babylon.
+
+43
+00:02:47,330 --> 00:02:51,600
+Speaker 1: Anyway, so we're like, hey, why don't we go see like a really modern one?
+
+44
+00:02:51,640 --> 00:02:55,570
+Speaker 1: that's not, you know, that's been composed recently, right?
+
+45
+00:02:56,311 --> 00:03:00,210
+Speaker 1: So we went to see Einadomar, I hope I'm pronouncing that correctly.
+
+46
+00:03:01,577 --> 00:03:02,669
+Speaker 1: I only heard it sung.
+
+47
+00:03:02,851 --> 00:03:03,760
+Speaker 1: I don't know how to say it.
+
+48
+00:03:05,351 --> 00:03:07,550
+Speaker 1: Which was actually an opera in Spanish.
+
+49
+00:03:08,630 --> 00:03:29,070
+Speaker 1: It was written, it's the first one composed by this Argentinian composer, but it was about this guy I had never heard of who was apparently a really important guy named Lorca, who was a poet, playwright, et cetera, from Spain, who was assassinated by fascists when the Spanish Civil War started.
+
+50
+00:03:29,152 --> 00:03:29,750
+Speaker 0: Oh, topical.
+
+51
+00:03:31,872 --> 00:03:34,910
+Speaker 1: Yeah, that was part of the thing about it.
+
+52
+00:03:35,271 --> 00:03:36,310
+Speaker 0: Sadly topical.
+
+53
+00:03:37,471 --> 00:03:41,389
+Speaker 1: He didn't want to be political, but it's like he couldn't not be.
+
+54
+00:03:42,710 --> 00:03:49,610
+Speaker 0: I mean, anyone who wants to not be political either has to be or is on the wrong side and doesn't want people to know.
+
+55
+00:03:50,510 --> 00:03:51,723
+Speaker 1: Yeah, no, it's anti-fascist.
+
+56
+00:03:54,572 --> 00:03:56,902
+Speaker 0: I mean, the world is anti-fascist.
+
+57
+00:03:57,424 --> 00:03:58,690
+Speaker 0: Facts are anti-fascist.
+
+58
+00:03:58,993 --> 00:04:00,529
+Speaker 1: You know, it was pretty good.
+
+59
+00:04:00,830 --> 00:04:08,750
+Speaker 1: But the interesting things about it were that, one, it was in Spanish, which is a language I know more than zero.
+
+60
+00:04:09,852 --> 00:04:14,530
+Speaker 1: I got duolingos and I got a few years of middle school and high school Spanish.
+
+61
+00:04:14,550 --> 00:04:15,609
+Speaker 0: Plus just living in New York.
+
+62
+00:04:16,838 --> 00:04:17,728
+Speaker 1: I can order a taco.
+
+63
+00:04:19,151 --> 00:04:29,830
+Speaker 1: But it's like, you know, you get subtitles at the opera and I could actually, based on the subtitle, because the subtitle comes sometimes first, sometimes after, the timing is not perfect.
+
+64
+00:04:30,531 --> 00:04:34,470
+Speaker 1: And it's like I could sort of pick out words with the help of the subtitle.
+
+65
+00:04:34,910 --> 00:04:38,769
+Speaker 1: But actually, without the subtitle, I still would have heard some words.
+
+66
+00:04:39,850 --> 00:04:48,490
+Speaker 1: But the thing is, I think even if you were 100% fluent in Spanish, like a native Spanish speaker, you might still need the fucking subtitles.
+
+67
+00:04:48,610 --> 00:04:52,830
+Speaker 1: And there were Spanish subtitles available on the thing, obviously, for accessibility reasons.
+
+68
+00:04:53,612 --> 00:05:01,750
+Speaker 0: Think about, we just watched some kabuki, and the way those words are said is not how I usually hear people say Japanese.
+
+69
+00:05:02,630 --> 00:05:07,368
+Speaker 1: Right, it's like, for example, the word blood was used a few times, which I know is sangre, right?
+
+70
+00:05:07,910 --> 00:05:11,206
+Speaker 1: Which is related to sangria, right?
+
+71
+00:05:11,628 --> 00:05:12,130
+Speaker 1: Etymology.
+
+72
+00:05:15,251 --> 00:05:22,848
+Speaker 1: But there would be times where they sang the word sangre, and I knew because I saw the word blood on the subtitle, but they basically were like sangre.
+
+73
+00:05:23,410 --> 00:05:25,458
+Speaker 1: It's like, how would you know that?
+
+74
+00:05:25,478 --> 00:05:28,750
+Speaker 1: that's what they said without, you know, even with the context, right?
+
+75
+00:05:28,891 --> 00:05:30,404
+Speaker 1: It could have been something else, I don't know.
+
+76
+00:05:32,251 --> 00:05:40,668
+Speaker 1: So that was interesting, is that like, oh, when people went to the operas back in the day, like if you saw Mozart and he was actually there, right?
+
+77
+00:05:41,370 --> 00:05:46,989
+Speaker 1: It's like, and you were French or Italian or German, whatever it was, would you have understood?
+
+78
+00:05:47,371 --> 00:05:52,130
+Speaker 0: Well, if you were French, you weren't paying attention at all, and you were just like talking to people, and the opera was just not in the background.
+
+79
+00:05:53,231 --> 00:06:04,950
+Speaker 1: It could be, but the point is, if you're in the 1700s, 1800s, whenever, seeing an opera with no subtitles, and it was in your native language or a language you were fluent in, how much of it did you understand?
+
+80
+00:06:05,770 --> 00:06:07,201
+Speaker 1: Did they sing it differently then?
+
+81
+00:06:07,584 --> 00:06:08,309
+Speaker 1: Did they enunciate more?
+
+82
+00:06:08,450 --> 00:06:15,770
+Speaker 0: Here's a good example, if you listen to some pop music, just regular old pop music, and you're not giving it 100% of your attention, how many words do you actually pick out of those lyrics?
+
+83
+00:06:15,770 --> 00:06:18,010
+Speaker 1: That's exactly what I'm saying, right?
+
+84
+00:06:18,070 --> 00:06:23,010
+Speaker 1: But in an opera, it's more important because you're trying to follow what the fuck's going on, right?
+
+85
+00:06:23,210 --> 00:06:26,426
+Speaker 1: Whereas in a pop music, it doesn't matter if you don't know what the fuck's going on.
+
+86
+00:06:28,332 --> 00:06:30,630
+Speaker 1: Another thing is that this opera, first of all, was short.
+
+87
+00:06:30,850 --> 00:06:34,970
+Speaker 1: It was in three images, which are, I guess, equivalents of acts, but not really.
+
+88
+00:06:35,191 --> 00:06:37,770
+Speaker 1: But there were no intermissions, and it was only like 90 minutes long.
+
+89
+00:06:37,810 --> 00:06:38,535
+Speaker 1: It was pretty short.
+
+90
+00:06:39,139 --> 00:06:40,649
+Speaker 1: You're just in, watch it, it's out.
+
+91
+00:06:41,011 --> 00:06:48,989
+Speaker 1: But they didn't waste, because it was so short, partially because they, usually operas were like, they stop, and they change the sets, and the curtain goes up, right?
+
+92
+00:06:49,552 --> 00:06:50,750
+Speaker 1: They didn't do any of that, right?
+
+93
+00:06:50,770 --> 00:06:55,010
+Speaker 1: It's like, they had it set up in such a way that it was just non-stop.
+
+94
+00:06:55,310 --> 00:06:56,229
+Speaker 1: Like, it just kept going.
+
+95
+00:06:56,791 --> 00:06:58,930
+Speaker 0: It's like the last five episodes of Escaflowne.
+
+96
+00:06:59,730 --> 00:07:06,910
+Speaker 1: Right, it's like they sped that shit, like it started, you know, it sped right up to full speed, and it stayed at that speed until the end.
+
+97
+00:07:07,070 --> 00:07:07,909
+Speaker 1: And it's like, alright, it's done.
+
+98
+00:07:09,852 --> 00:07:16,669
+Speaker 1: And the other thing is that it had less, it was more of a, you know, I mean, there was a plot, right?
+
+99
+00:07:16,970 --> 00:07:21,230
+Speaker 1: But it was pretty much like, it wasn't, it wasn't like drama in it, right?
+
+100
+00:07:21,230 --> 00:07:29,250
+Speaker 1: It was pretty much like, yeah, there was this guy, they wanted to run away to Cuba, he refused to go, he got shot at the end, right?
+
+101
+00:07:29,370 --> 00:07:34,250
+Speaker 1: It's like, there wasn't, you know, it was more of like a, you know, an ode kind of deal.
+
+102
+00:07:34,671 --> 00:07:37,390
+Speaker 1: Like, you know, oh, this guy was so great.
+
+103
+00:07:37,833 --> 00:07:39,669
+Speaker 1: He kind of was, I read about him.
+
+104
+00:07:40,210 --> 00:07:41,644
+Speaker 0: Yeah, I'm gonna read about him, I don't know him.
+
+105
+00:07:43,130 --> 00:07:45,849
+Speaker 1: Yeah, he was not a person I knew until I saw this play.
+
+106
+00:07:47,690 --> 00:07:50,969
+Speaker 0: So, getting into some news, so this was news that-- Pop opera, so it wasn't a play.
+
+107
+00:07:52,132 --> 00:07:54,327
+Speaker 0: This is news that affects me, specifically.
+
+108
+00:07:55,010 --> 00:07:56,229
+Speaker 0: I don't know how many other people it affects.
+
+109
+00:07:56,990 --> 00:08:04,090
+Speaker 0: But, so, when Twitter got extra bad, I decided to, like, try Mastodon, and I wasn't gonna, like, use someone else's shit.
+
+110
+00:08:04,150 --> 00:08:05,608
+Speaker 0: Like, I can't ever trust anyone's shit again.
+
+111
+00:08:06,650 --> 00:08:21,529
+Speaker 0: So, I got my own domain, rim.social, and I just started spinning services up on that domain, because I could spin them up, I could shut them down, doesn't matter what I do, because I can always use that domain as the center, and so I made, like, a mastodon.rim.social, and I just figured I'd try out Mastodon there.
+
+112
+00:08:22,672 --> 00:08:29,608
+Speaker 0: And I wanted to just spin up some easy hosting, because I didn't want to run, like, a raw server or anything, and I found some hosting that just did it.
+
+113
+00:08:30,711 --> 00:08:40,366
+Speaker 0: A lot of the hosts back then weren't able to take on new customers, because a lot of people, for some reason, were all trying to make mastodons for themselves, all at the same time.
+
+114
+00:08:40,914 --> 00:08:48,430
+Speaker 0: But I ended up going with CloudPlane, which was a small startup company doing cloud hosting of specific applications.
+
+115
+00:08:48,971 --> 00:08:56,969
+Speaker 0: They were pretty cheap, they were super reliable, and they came out of a startup program called ScaleWave, so it was like a small, like, agile startup.
+
+116
+00:08:59,293 --> 00:09:04,901
+Speaker 0: Yeah, I haven't used them that long, and I got an email a little while ago, "Shutdown notice.
+
+117
+00:09:05,002 --> 00:09:08,408
+Speaker 0: We regret to inform you that CloudPlane will be discontinuing its services this
+
+118
+00:09:08,469 --> 00:09:08,590
+Speaker 0: year.".
+
+119
+00:09:08,670 --> 00:09:12,809
+Speaker 0: Like, they're just giving up, whole thing's shutting down, they're done, fuck you.
+
+120
+00:09:13,070 --> 00:09:14,230
+Speaker 1: Yeah, that's not unexpected.
+
+121
+00:09:14,630 --> 00:09:27,088
+Speaker 1: That's why, for hosting, it's like, as much as you hate clouds and various companies, right, for however evil they are, like, say, Amazon or CloudFront or whoever, it's like, listen, S3's not shutting down.
+
+122
+00:09:27,730 --> 00:09:37,601
+Speaker 1: It's like, you want your shit to be up, and you don't want to have these kind of situations, and you either got to do it yourself, entirely, but even then, you could run into trouble, or, you know.
+
+123
+00:09:39,054 --> 00:09:56,869
+Speaker 0: But I was also paying for it, because it was pretty cheap, like, they're running the whole application for me just because I didn't want to bother, so, now I'm either going to migrate this to another similar style of host, or maybe I'll just run it raw somewhere, like, I got to figure it out, but I got until December 9th to fucking figure it out because they're shutting it down real quick.
+
+124
+00:09:57,430 --> 00:10:07,227
+Speaker 1: Yeah, the thing is, I want to do activity pub stuff, I've wanted to do it for a year or a few, right, for quite a while, but the problem is, I actually don't like the way Mastodon works, even though... It works okay.
+
+125
+00:10:08,432 --> 00:10:17,328
+Speaker 0: I've had okay success with it, but I've got two different activity pub streams that I publish from, and there's quirks to both of them.
+
+126
+00:10:18,610 --> 00:10:30,549
+Speaker 1: Yeah, I want to just make something, because obviously, you know, it's like, yeah, it might take me probably a few years to make something, but it'll last the rest of my life, which will be, hopefully, several decades, and it won't be a waste of time.
+
+127
+00:10:31,679 --> 00:10:31,882
+Speaker 0: Yep.
+
+128
+00:10:31,902 --> 00:11:10,049
+Speaker 0: So, yeah, at least the one nice thing, this company didn't just disappear, they set off a pretty nice way and gave very good instructions, instructions that even someone without my skills could follow to, if you want to just migrate somewhere, point us at your S3 compatible bucket, no matter where it is, and we will put your entire blocks, all the block storage of your information, your entire instance, everything there, and you can do what you will, and also, they even pointed to a company that, Masterhost, which is one of those companies that host this kind of stuff, who has agreed, like, hey, if you want to migrate from them to us, like, just point us at the block storage, we'll make it happen.
+
+129
+00:11:10,591 --> 00:11:15,845
+Speaker 1: So, I mean, I guess, you know, that's better, most people are just like, oops, we shut down, like, tomorrow, bye.
+
+130
+00:11:15,865 --> 00:11:16,129
+Speaker 1: Yep.
+
+131
+00:11:17,550 --> 00:11:17,916
+Speaker 0: Sorry.
+
+132
+00:11:18,099 --> 00:11:29,577
+Speaker 0: God, I remember one time I went to a restaurant, this was a long time ago in the city, to find that it was just boarded up, it was just closed, like, the end, their website was still up and everything, but they were just gone.
+
+133
+00:11:29,597 --> 00:11:35,759
+Speaker 1: But yeah, if you're using, you know, that kind of hosting service, it's like, you should get some backups going on, right?
+
+134
+00:11:35,779 --> 00:11:35,880
+Speaker 1: Yep.
+
+135
+00:11:35,900 --> 00:11:42,425
+Speaker 1: It's like, if the, if the Geek Nights website goes down, it's like, that's fine, because I've got all kinds of backup situations.
+
+136
+00:11:42,445 --> 00:11:43,596
+Speaker 0: There's so many backups.
+
+137
+00:11:43,617 --> 00:11:48,770
+Speaker 1: I could bring it back, I could bring it back up on, like, any Linux server that has an IP address.
+
+138
+00:11:49,050 --> 00:11:55,029
+Speaker 0: And then I have my mirror of all the Geek Nights content since we started doing Patreon, just on Patreon, because they'll host it for free.
+
+139
+00:11:55,591 --> 00:11:58,310
+Speaker 0: I also have my NAS with, like, backups of every episode.
+
+140
+00:11:58,912 --> 00:11:59,761
+Speaker 0: I got a ton of stuff too.
+
+141
+00:11:59,782 --> 00:12:01,403
+Speaker 1: We got a lot of backups, so it's not a problem.
+
+142
+00:12:01,647 --> 00:12:01,850
+Speaker 0: Yeah.
+
+143
+00:12:02,554 --> 00:12:03,510
+Speaker 0: Big backups of your shit.
+
+144
+00:12:04,631 --> 00:12:05,257
+Speaker 1: Anyway, you got any news?
+
+145
+00:12:05,277 --> 00:12:06,650
+Speaker 1: We say that a lot on this show, yeah.
+
+146
+00:12:08,484 --> 00:12:20,850
+Speaker 1: So, Adobe had their Adobe Max, which is basically the same thing as, like, WODC or, you know, every company seems to just have their own event now, instead of having, you know, going to the big combined event.
+
+147
+00:12:21,396 --> 00:12:22,489
+Speaker 1: At least the big companies do.
+
+148
+00:12:22,710 --> 00:12:27,476
+Speaker 1: So Adobe Max is, like, where all the Adobe people get together, they show off the new features.
+
+149
+00:12:27,556 --> 00:12:29,989
+Speaker 1: I'm pretty sure we've used it for news and things of the day in the past.
+
+150
+00:12:30,973 --> 00:12:32,023
+Speaker 1: There was one demo.
+
+151
+00:12:32,164 --> 00:12:35,863
+Speaker 1: This demo's fuckin' five minutes long, and it blew everyone away.
+
+152
+00:12:35,883 --> 00:12:35,944
+Speaker 1: Yup.
+
+153
+00:12:36,790 --> 00:12:41,049
+Speaker 0: I'm playing the part right now, and it still impresses the shit out of me.
+
+154
+00:12:41,210 --> 00:12:47,415
+Speaker 1: This is a legendary, all-time demo, because the dude doesn't even need to say anything, really.
+
+155
+00:12:47,475 --> 00:12:50,200
+Speaker 1: He's just like, "Alright, here's what I made.
+
+156
+00:12:50,220 --> 00:12:51,107
+Speaker 1: Let me show it to
+
+157
+00:12:51,148 --> 00:12:51,228
+Speaker 1: you.".
+
+158
+00:12:51,470 --> 00:12:54,688
+Speaker 0: This demo could be a 20-second animated GIF, and it would've been enough.
+
+159
+00:12:55,530 --> 00:12:55,794
+Speaker 1: Right.
+
+160
+00:12:56,200 --> 00:12:58,810
+Speaker 1: But basically, they have this new technology, Project Turntable.
+
+161
+00:12:59,231 --> 00:13:09,668
+Speaker 1: Also, I don't know how much machine learning is involved in Project Turntable, but, notably, the person doing the demo does not say machine learning or AI even once during the demo.
+
+162
+00:13:12,446 --> 00:13:21,921
+Speaker 1: But basically, you make a 2D vector artwork, and in the example, they have a dragon and a little warrior with a sword, and it's like, "Hey, I want to rotate
+
+163
+00:13:21,961 --> 00:13:22,143
+Speaker 1: that.".
+
+164
+00:13:22,244 --> 00:13:24,121
+Speaker 1: It's like, "Well, obviously, you can rotate it in...".
+
+165
+00:13:24,485 --> 00:13:25,841
+Speaker 0: Two dimensions on the plane.
+
+166
+00:13:25,861 --> 00:13:26,570
+Speaker 1: Yeah, in two dimensions.
+
+167
+00:13:27,010 --> 00:13:27,981
+Speaker 1: You can make it upside down.
+
+168
+00:13:29,232 --> 00:13:30,630
+Speaker 1: That's no problem, right?
+
+169
+00:13:30,911 --> 00:13:33,578
+Speaker 1: But let's say you want your warriors facing towards the screen.
+
+170
+00:13:33,618 --> 00:13:35,173
+Speaker 1: You want them to face away from the screen.
+
+171
+00:13:35,294 --> 00:13:37,881
+Speaker 1: Or maybe you want them to face to the right or to the left.
+
+172
+00:13:38,348 --> 00:14:01,250
+Speaker 1: But, normally, if you look at character designs, if you ever bought an anime reference art book or any character designer is drawing the character from multiple angles, so that the artists on the animation or the comics or whatever know what the person looks like in the back of their head, in their front, in their side.
+
+173
+00:14:01,452 --> 00:14:02,645
+Speaker 0: And this is super impressive.
+
+174
+00:14:02,665 --> 00:14:05,819
+Speaker 0: Think about old anime, like the opening to space to Harlock.
+
+175
+00:14:06,141 --> 00:14:09,010
+Speaker 0: There's a scene where the ship rotates in three dimensions.
+
+176
+00:14:09,430 --> 00:14:14,228
+Speaker 0: Someone drew that by hand painstakingly over, I assume, like months.
+
+177
+00:14:15,830 --> 00:14:16,074
+Speaker 1: Months.
+
+178
+00:14:16,115 --> 00:14:17,009
+Speaker 1: I don't think it's like months, but.
+
+179
+00:14:18,154 --> 00:14:22,521
+Speaker 1: Here, this project turntable, as the name implies, they take a 2D vector.
+
+180
+00:14:22,825 --> 00:14:24,482
+Speaker 1: They say generate views.
+
+181
+00:14:25,108 --> 00:14:31,954
+Speaker 1: And Illustrator, Adobe Illustrator, automatically figures out what that thing looks like from other angles.
+
+182
+00:14:32,580 --> 00:14:35,710
+Speaker 1: And you can then rotate it in the other two axes.
+
+183
+00:14:36,677 --> 00:14:47,089
+Speaker 1: And then, after you do that, even when you do that rotation, if you stop rotating, it is still a 2D vector of that object as you know, just what it would look like.
+
+184
+00:14:47,652 --> 00:14:56,015
+Speaker 1: So, it's not like it turns, it might turn into a 3D model somewhere that you can't see that happening, but as far as you're concerned, you're still using Adobe Illustrator.
+
+185
+00:14:56,116 --> 00:14:59,508
+Speaker 1: You always have this 2D vector that you're working with.
+
+186
+00:15:01,634 --> 00:15:06,662
+Speaker 1: And yeah, the fact that it worked so quickly that he could do it in the short demo didn't need to do anything else.
+
+187
+00:15:06,763 --> 00:15:11,367
+Speaker 1: Anyone else, if you're doing a tech demo somewhere, this is like the S tier.
+
+188
+00:15:11,407 --> 00:15:12,741
+Speaker 1: This is what you're trying to achieve.
+
+189
+00:15:12,964 --> 00:15:14,459
+Speaker 1: You don't have to fucking say anything.
+
+190
+00:15:14,762 --> 00:15:20,298
+Speaker 1: You just show it and people understand what the fuck's going on without you having to say anything or say much.
+
+191
+00:15:21,187 --> 00:15:24,845
+Speaker 1: And they go wild because it's so obviously fantastic.
+
+192
+00:15:25,690 --> 00:15:25,831
+Speaker 0: Yep.
+
+193
+00:15:27,022 --> 00:15:27,830
+Speaker 0: It is amazing.
+
+194
+00:15:28,471 --> 00:15:29,669
+Speaker 0: One last little news.
+
+195
+00:15:30,010 --> 00:15:43,001
+Speaker 0: So, we didn't get to talk about this because of some Geek Night's hiatus, but if you didn't see Tesla, the bad company run by the bad fascist man keeps saying they're trying to make robots.
+
+196
+00:15:43,102 --> 00:15:51,889
+Speaker 0: and they did an event where they had a bunch of robots and a lot of really dim people were impressed by how natural and human these robots seemed.
+
+197
+00:15:52,294 --> 00:16:01,526
+Speaker 0: And it was implied heavily by Tesla that these robots were autonomous and were being driven by some sort of machine learning, some sort of AI.
+
+198
+00:16:02,474 --> 00:16:08,909
+Speaker 0: And the reality was, they were literally just animatronic puppets marrying humans.
+
+199
+00:16:10,073 --> 00:16:14,270
+Speaker 1: They were remote controlled, which is still you know, it's not unimpressive.
+
+200
+00:16:14,850 --> 00:16:16,369
+Speaker 1: I mean, it's not a new technology.
+
+201
+00:16:16,670 --> 00:16:19,623
+Speaker 0: Yep, Disney had that stuff going way back.
+
+202
+00:16:19,664 --> 00:16:21,869
+Speaker 1: Yeah, it's not new, but it's still really cool.
+
+203
+00:16:22,710 --> 00:16:26,960
+Speaker 1: But as soon as you lie about it, suddenly, no longer is it cool.
+
+204
+00:16:27,364 --> 00:16:28,676
+Speaker 1: Now it's like disappointing.
+
+205
+00:16:28,696 --> 00:16:32,512
+Speaker 1: If you had just said what the fuck it was and not lied about it, you'd be like "Ooh,
+
+206
+00:16:32,653 --> 00:16:32,916
+Speaker 1: fun!"
+
+207
+00:16:33,300 --> 00:16:33,724
+Speaker 1: Right?
+
+208
+00:16:33,744 --> 00:16:36,290
+Speaker 1: You go to Disney World, you see animatronics, even shitty ones.
+
+209
+00:16:36,310 --> 00:16:38,064
+Speaker 0: You don't think like "Oh shit, Mickey Mouse is
+
+210
+00:16:38,165 --> 00:16:38,407
+Speaker 0: real!".
+
+211
+00:16:39,135 --> 00:16:44,532
+Speaker 1: Yeah, it's like you're not upset that it's not an AI or machine learning powered, right?
+
+212
+00:16:44,553 --> 00:16:46,636
+Speaker 1: You're perfectly happy to see the animatronics.
+
+213
+00:16:46,677 --> 00:16:49,523
+Speaker 0: I mean, I'm a product manager, some free advice to Tesla right now.
+
+214
+00:16:49,543 --> 00:16:54,230
+Speaker 0: If you want to do something like this, just say this is the future we envision.
+
+215
+00:16:54,711 --> 00:17:02,651
+Speaker 0: This is a demo of what could be, instead of saying we did this, and then lying about how you did it, and lying about its reality.
+
+216
+00:17:02,672 --> 00:17:05,357
+Speaker 1: If you just don't fucking lie, it's still really cool.
+
+217
+00:17:05,458 --> 00:17:06,165
+Speaker 1: No one cares.
+
+218
+00:17:06,205 --> 00:17:07,156
+Speaker 1: It wouldn't have been news.
+
+219
+00:17:07,398 --> 00:17:09,056
+Speaker 1: You wouldn't have had shit on your face.
+
+220
+00:17:09,682 --> 00:17:11,423
+Speaker 1: But the lying ruined it.
+
+221
+00:17:11,686 --> 00:17:11,829
+Speaker 1: Yep.
+
+222
+00:17:12,369 --> 00:17:17,035
+Speaker 0: I mean, what do you expect from a company run by a guy who is trying to get the fascists elected as hard as possible?
+
+223
+00:17:17,055 --> 00:17:20,750
+Speaker 1: I mean, you know, there's a lot of money on the line for that guy.
+
+224
+00:17:21,109 --> 00:17:21,313
+Speaker 0: He does.
+
+225
+00:17:21,494 --> 00:17:31,276
+Speaker 0: I saw something, I saw a recent analysis showing that the super, super majority of all billionaires in America have thrown tons of money solely at the fascists.
+
+226
+00:17:31,921 --> 00:17:35,630
+Speaker 0: And only a tiny percentage of billionaires have put money into the Democrats.
+
+227
+00:17:36,650 --> 00:17:37,162
+Speaker 1: I mean, yeah.
+
+228
+00:17:37,305 --> 00:17:37,489
+Speaker 0: Yeah.
+
+229
+00:17:39,010 --> 00:17:40,768
+Speaker 0: You can't be a billionaire and be a good person.
+
+230
+00:17:42,070 --> 00:17:42,330
+Speaker 1: Obviously.
+
+231
+00:17:44,177 --> 00:17:45,850
+Speaker 0: And robots are not this advanced.
+
+232
+00:17:46,450 --> 00:17:47,016
+Speaker 0: Obviously.
+
+233
+00:17:47,036 --> 00:17:48,989
+Speaker 0: At least AI-driven robots.
+
+234
+00:17:54,353 --> 00:17:57,609
+Speaker 0: But anyway, things of the day.
+
+235
+00:17:59,679 --> 00:18:00,860
+Speaker 0: Scott and I know this history.
+
+236
+00:18:00,982 --> 00:18:04,256
+Speaker 0: This is something that I thought was more common knowledge, but I don't think it actually is.
+
+237
+00:18:04,276 --> 00:18:05,810
+Speaker 0: I think a lot of people don't realize.
+
+238
+00:18:06,573 --> 00:18:13,129
+Speaker 1: I think at least the broad strokes seem to be somewhat common knowledge because people have heard, like, Coca-Cola used to have cocaine, which is true.
+
+239
+00:18:13,630 --> 00:18:14,176
+Speaker 0: That is true.
+
+240
+00:18:14,196 --> 00:18:17,469
+Speaker 1: And there is a place in New Jersey where they make cocaine, which is true.
+
+241
+00:18:18,171 --> 00:18:18,517
+Speaker 1: Legally.
+
+242
+00:18:18,537 --> 00:18:21,730
+Speaker 0: But this is an article, it's not super long, but it actually.
+
+243
+00:18:22,053 --> 00:18:39,348
+Speaker 0: it's a pretty good summary of, like, how society engaged with cocaine when it was discovered by industrialized societies through the entire technology hype cycle all the way to, "Oh, it's actually
+
+244
+00:18:39,389 --> 00:18:39,570
+Speaker 0: bad."
+
+245
+00:18:40,975 --> 00:18:43,770
+Speaker 0: Because the same thing happens with any new technology.
+
+246
+00:18:43,851 --> 00:18:46,055
+Speaker 0: We discover, as humans, anything.
+
+247
+00:18:46,136 --> 00:18:49,490
+Speaker 0: Like, "Oh, hey, if we put lead in the gas, it'll make the car stock knocking.
+
+248
+00:18:49,631 --> 00:18:51,087
+Speaker 0: Oh, no, we poisoned generations of
+
+249
+00:18:51,127 --> 00:18:51,410
+Speaker 0: babies.".
+
+250
+00:18:52,736 --> 00:19:01,170
+Speaker 0: Humans are really bad at this, but this really shows... [laughter] Social media!
+
+251
+00:19:01,370 --> 00:19:02,670
+Speaker 0: No one will use this for evil.
+
+252
+00:19:03,410 --> 00:19:03,728
+Speaker 0: Ah, shit.
+
+253
+00:19:07,265 --> 00:19:24,299
+Speaker 0: But the best part of this is reading about some of these individual people, because a lot of us know the broad strokes of the history of cocaine, but this gets into, like, pretty zoomed-in explorations of individual people along the way.
+
+254
+00:19:24,319 --> 00:19:28,510
+Speaker 0: And two of these people fought a duel with pistols.
+
+255
+00:19:29,310 --> 00:19:30,400
+Speaker 0: Like, that's the level of article.
+
+256
+00:19:30,521 --> 00:19:31,550
+Speaker 0: I didn't know about that part.
+
+257
+00:19:31,790 --> 00:19:33,595
+Speaker 0: Yeah, that's why this is worth reading.
+
+258
+00:19:33,716 --> 00:19:40,302
+Speaker 0: Like, even if you know the story of cocaine, I learned some pretty funny stuff from reading this article.
+
+259
+00:19:40,322 --> 00:19:43,675
+Speaker 0: It was a pretty good lunch read, and I recommend it to any of you.
+
+260
+00:19:43,958 --> 00:19:49,450
+Speaker 1: The thing I'm more interested in is I've seen on YouTube a video of, like, in Colombia, like, making cocaine.
+
+261
+00:19:49,890 --> 00:19:58,444
+Speaker 1: Like, you know, the illegal people, you know, the drug lords making cocaine, like, they're out in the fields with a bunch of plants and, like, gasoline and all sorts of noxious shit.
+
+262
+00:19:58,848 --> 00:20:07,473
+Speaker 1: Like, you know, like, trash bags and barrels, and it's like, it looks really like, you know, the shadiest chemistry nonsense, right?
+
+263
+00:20:07,776 --> 00:20:11,474
+Speaker 1: It's like, wow, you're gonna put any of that anywhere near your body and go anywhere near those?
+
+264
+00:20:11,616 --> 00:20:12,323
+Speaker 1: It's like, you're insane.
+
+265
+00:20:12,343 --> 00:20:15,070
+Speaker 0: I mean, see, also bootleg THC vape juice.
+
+266
+00:20:15,250 --> 00:20:16,403
+Speaker 0: Like, don't, I don't care.
+
+267
+00:20:16,443 --> 00:20:20,590
+Speaker 0: if you like cannabis, don't huff that fake bootleg juice.
+
+268
+00:20:21,313 --> 00:20:41,540
+Speaker 1: Yeah, the point is, it's like, that's how they're making cocaine today, I guess, except the ones in New Jersey that are making it, I guess, normally, the Safeway, but I'm really curious, like, what the chemistry lab process was in the old, like, in 1930, they were making cocaine, what did it look like?
+
+269
+00:20:41,641 --> 00:20:42,310
+Speaker 0: You know, there's gotta be...
+
+270
+00:20:42,492 --> 00:20:45,642
+Speaker 1: It didn't look the same as the way it looks in Colombia today.
+
+271
+00:20:45,662 --> 00:20:46,025
+Speaker 1: Yeah.
+
+272
+00:20:46,449 --> 00:20:55,643
+Speaker 0: Well, I think that for anything, there's the, like, there's the lab way to make something, which usually doesn't scale to industrial, and then there's two ways to go.
+
+273
+00:20:55,724 --> 00:21:10,028
+Speaker 0: There's the we'll make a real process to manufacture this for society to sell or use in some fashion, and then there's the dark underworld, what's the shittiest, minimalist way to make this and sell it to people?
+
+274
+00:21:10,048 --> 00:21:16,270
+Speaker 1: Well, like, when Coca-Cola had cocaine, it was either being manufactured by Coca-Cola or someone they bought it from.
+
+275
+00:21:16,492 --> 00:21:20,187
+Speaker 1: What did that factory look like at that time in the early 20th century?
+
+276
+00:21:20,550 --> 00:21:25,690
+Speaker 0: Well, it looked a lot like any medical facility that fabricated medicine.
+
+277
+00:21:26,610 --> 00:21:26,853
+Speaker 1: I don't know.
+
+278
+00:21:27,177 --> 00:21:27,420
+Speaker 1: Yeah.
+
+279
+00:21:27,703 --> 00:21:29,725
+Speaker 1: I'm just, I'm just curious, like, what the process was.
+
+280
+00:21:30,029 --> 00:21:33,098
+Speaker 1: Now, the information's out there, I just, I just gotta search for it.
+
+281
+00:21:33,118 --> 00:21:37,229
+Speaker 0: Disclaimer to all of you, uh, I highly advise you to not use cocaine.
+
+282
+00:21:38,310 --> 00:21:40,734
+Speaker 1: Yeah, don't, just stay the fuck away from that, right?
+
+283
+00:21:40,774 --> 00:21:43,279
+Speaker 0: Even if it was made correctly, it's not great for you.
+
+284
+00:21:43,299 --> 00:21:45,543
+Speaker 1: Even if you got it from New Jersey, don't fuck with it.
+
+285
+00:21:45,604 --> 00:21:46,978
+Speaker 0: Yeah, it's not great for you.
+
+286
+00:21:47,018 --> 00:21:51,563
+Speaker 0: In fact, it's specifically bad for your heart, and the worst part is in pop culture.
+
+287
+00:21:51,583 --> 00:21:52,815
+Speaker 1: It'll fuck you the fuck up.
+
+288
+00:21:52,937 --> 00:21:57,060
+Speaker 0: Yep, I learned this from a YouTube channel that's sadly gone, and this crazy guy who reviewed drugs.
+
+289
+00:21:57,081 --> 00:22:00,309
+Speaker 0: It was a fascinating channel, but I didn't know this.
+
+290
+00:22:00,810 --> 00:22:02,999
+Speaker 0: Cocaine is pretty bad for your heart on its own.
+
+291
+00:22:03,019 --> 00:22:20,110
+Speaker 0: Uh, but cocaine and alcohol at the same time, they, like, magnify the damage catastrophically they do to your heart, and in pop culture, I feel like the kinds of people who do cocaine are always drinking whiskey while they're doing cocaine, so.
+
+292
+00:22:20,593 --> 00:22:21,284
+Speaker 1: I mean, yeah.
+
+293
+00:22:21,406 --> 00:22:21,649
+Speaker 1: Yeah.
+
+294
+00:22:23,218 --> 00:22:25,219
+Speaker 0: So it's like the worst case scenario.
+
+295
+00:22:26,188 --> 00:22:27,097
+Speaker 0: Anyway, don't do cocaine.
+
+296
+00:22:27,260 --> 00:22:27,968
+Speaker 0: So you got a thing of the day?
+
+297
+00:22:28,973 --> 00:22:43,275
+Speaker 1: Yeah, so normally, you know, I like to, you know, shit on people who collect things, because the fact is that most people, especially in the US nerdy collecting culture, are collecting things for, in my opinion, the wrong reasons.
+
+298
+00:22:43,538 --> 00:22:46,066
+Speaker 1: They're collecting things for financial gain, right?
+
+299
+00:22:46,752 --> 00:22:52,630
+Speaker 1: They're collecting things because they're gamblers and they can't resist, like, opening packs of cards that have random nonsense.
+
+300
+00:22:52,890 --> 00:22:54,730
+Speaker 0: Some of them are just addicted completionists.
+
+301
+00:22:55,650 --> 00:22:58,990
+Speaker 1: Yeah, because they, some people are, you know, they're just materialists.
+
+302
+00:22:59,030 --> 00:23:02,610
+Speaker 1: They just love having shit, even though it just, like, sits there collecting dust.
+
+303
+00:23:02,750 --> 00:23:07,437
+Speaker 1: Like, someone who collects Lego sets and never opens them or builds them ever, you know.
+
+304
+00:23:07,458 --> 00:23:12,730
+Speaker 1: Uh, but there are many ways to collect things for the right reasons, right?
+
+305
+00:23:13,172 --> 00:23:19,276
+Speaker 1: And I have never seen someone more right in their collecting than this person, Chris Wu.
+
+306
+00:23:19,621 --> 00:23:24,689
+Speaker 1: Chris Wu, if you're, is like, the, the best collector I have ever heard of.
+
+307
+00:23:24,850 --> 00:23:28,650
+Speaker 1: Chris Wu collects ice hockey cards, and you think, well, that's not that great.
+
+308
+00:23:28,711 --> 00:23:35,587
+Speaker 1: And it's true, if you go to Hockey Cards Reddit, I went there, because I wanted to learn about hockey cards and how they work nowadays, because it's confusing AF.
+
+309
+00:23:37,218 --> 00:23:37,950
+Speaker 1: It's just gambling.
+
+310
+00:23:38,210 --> 00:23:39,290
+Speaker 1: It is super gambling.
+
+311
+00:23:39,893 --> 00:23:40,928
+Speaker 1: It's all about gambling.
+
+312
+00:23:41,611 --> 00:23:42,378
+Speaker 1: It's just gambling.
+
+313
+00:23:42,722 --> 00:23:43,307
+Speaker 1: Yeah, it's bad.
+
+314
+00:23:44,292 --> 00:23:57,790
+Speaker 1: Um, but, Chris Wu, he collects, specifically, hockey cards with people of, who are Asian, or Asian descent, or somehow Asian only.
+
+315
+00:23:58,051 --> 00:23:59,062
+Speaker 0: That's fantastic.
+
+316
+00:23:59,405 --> 00:24:02,315
+Speaker 1: He makes, right, it's not about the money for him.
+
+317
+00:24:02,720 --> 00:24:04,701
+Speaker 1: It's not about the, the gambling.
+
+318
+00:24:05,025 --> 00:24:06,499
+Speaker 1: It's not about the materialism.
+
+319
+00:24:06,882 --> 00:24:07,750
+Speaker 1: It's about the meaning.
+
+320
+00:24:08,073 --> 00:24:08,276
+Speaker 1: Right?
+
+321
+00:24:08,316 --> 00:24:14,015
+Speaker 1: There's a meaning to his collection of like, hey, people from Asia don't really play ice hockey that much.
+
+322
+00:24:14,197 --> 00:24:17,190
+Speaker 1: It's a relatively recent development that they play it more.
+
+323
+00:24:17,654 --> 00:24:21,856
+Speaker 1: You know, there are some miracles, like, you know, Japanese ice hockey team and such, right?
+
+324
+00:24:22,829 --> 00:24:26,750
+Speaker 1: Uh, you know, Kumun Red Star is in China, technically, right?
+
+325
+00:24:27,490 --> 00:24:35,265
+Speaker 1: Um, and it's like, you know, there aren't that many of them, and it's like, hey, if someone prints a card of them, it's like, dang, right?
+
+326
+00:24:35,285 --> 00:24:45,628
+Speaker 1: It's like he's celebrating the fact that his people, you know, in ice hockey, the sport that he loves, right, have, you know, grown together over time and will continue to do so.
+
+327
+00:24:46,334 --> 00:24:51,670
+Speaker 1: And his collection, you know, a lot, you know, not just, it's not just a bunch of cardboard that he's got.
+
+328
+00:24:51,730 --> 00:25:01,530
+Speaker 1: He's got a website where he shows off the whole collection, and it's to help show you and hopefully to show other Asian people, like, hey, ice hockey, right?
+
+329
+00:25:02,290 --> 00:25:04,437
+Speaker 1: Uh, and you can learn about these people and such.
+
+330
+00:25:04,962 --> 00:25:07,729
+Speaker 1: It's a, it's a, it's a whole thing going on, right?
+
+331
+00:25:08,091 --> 00:25:09,950
+Speaker 1: It's achieved, like, the museum territory.
+
+332
+00:25:10,293 --> 00:25:15,061
+Speaker 1: So, if you're collecting something, uh, for the wrong reasons, I would encourage you to stop.
+
+333
+00:25:15,445 --> 00:25:16,660
+Speaker 1: I can't really stop you, though.
+
+334
+00:25:17,248 --> 00:25:25,850
+Speaker 1: Uh, but I would encourage you to collect or find, if you don't have a right reason, find a right reason, right, for your collecting, a meaning.
+
+335
+00:25:26,910 --> 00:25:27,400
+Speaker 1: Uh, you know.
+
+336
+00:25:28,620 --> 00:25:29,147
+Speaker 1: And there you go.
+
+337
+00:25:29,710 --> 00:25:37,846
+Speaker 0: Alright, in the meta moment, uh, I will sort, I will post the list of Moomin books to read for the next Wednesday, for the Wednesday episode that's coming up.
+
+338
+00:25:38,551 --> 00:25:43,449
+Speaker 0: Uh, partly because I have to fly to London for a week and then Singapore for a week.
+
+339
+00:25:43,812 --> 00:25:47,121
+Speaker 0: It's gonna be, I'm not gonna lie, I rarely get stressed about things.
+
+340
+00:25:47,585 --> 00:25:53,749
+Speaker 0: It's gonna be, I think, a little bit stressful to not be home in America during this fucking election.
+
+341
+00:25:54,672 --> 00:25:56,696
+Speaker 1: I think it would be good to be not home during this.
+
+342
+00:25:56,716 --> 00:26:10,130
+Speaker 0: Well, well, so, there are pros, I would prefer, there are pros to not being in America during the election depending on how it goes, but the con is that I'm gonna be on a time zone to where I feel like I'm just not gonna be able to go to sleep until I see how things are going.
+
+343
+00:26:10,350 --> 00:26:17,100
+Speaker 0: But, uh, that aside, uh, It's a, you know, the way I view it is like, I mean, it's gonna wash over you like a wave.
+
+344
+00:26:17,120 --> 00:26:19,120
+Speaker 0: There's not much left to do about it.
+
+345
+00:26:19,706 --> 00:26:27,019
+Speaker 1: I vote, obviously, as everyone who is able to legally should do so, but it's like, it's like the sun rising.
+
+346
+00:26:27,099 --> 00:26:29,201
+Speaker 1: It's like, yeah, there might be shitty weather tomorrow.
+
+347
+00:26:29,221 --> 00:26:31,690
+Speaker 1: There might be shitty weather for the next four years or longer.
+
+348
+00:26:32,232 --> 00:26:35,565
+Speaker 1: But, what else can I do about it, right?
+
+349
+00:26:35,687 --> 00:26:37,649
+Speaker 1: It's like, that's just how life is gonna be.
+
+350
+00:26:38,393 --> 00:26:48,090
+Speaker 0: But I cannot stress enough, if you are able to vote in this election in the United States, and you do not vote for the Democrats, you are a bad person.
+
+351
+00:26:48,791 --> 00:26:50,187
+Speaker 0: Like, why are you listening to Pete Nye's?
+
+352
+00:26:51,011 --> 00:26:53,609
+Speaker 0: Not voting is just as bad as voting for a Republican.
+
+353
+00:26:54,513 --> 00:26:56,715
+Speaker 1: Now, even if you live in, like, California or some shit.
+
+354
+00:26:56,735 --> 00:26:56,836
+Speaker 0: Yep.
+
+355
+00:26:57,240 --> 00:27:11,850
+Speaker 0: Every vote counts because if the electoral college fucks us, and we get into a dire situation, the most important thing will be the numbers of people in the popular vote if you want anything to happen other than the bad outcome.
+
+356
+00:27:12,690 --> 00:27:14,473
+Speaker 0: So, vote, like, just vote.
+
+357
+00:27:14,514 --> 00:27:18,030
+Speaker 0: If there's no third parties, like, don't, third parties are fake.
+
+358
+00:27:18,131 --> 00:27:19,870
+Speaker 0: If you think a third party is viable, you're an idiot.
+
+359
+00:27:20,153 --> 00:27:21,263
+Speaker 0: Stop listening to geek nights.
+
+360
+00:27:21,748 --> 00:27:22,510
+Speaker 0: Vote for the Democrats.
+
+361
+00:27:23,951 --> 00:27:28,129
+Speaker 0: We will be, December 6th through 8th, at PAX Unplugged.
+
+362
+00:27:28,570 --> 00:27:29,665
+Speaker 0: It appears the website...
+
+363
+00:27:30,051 --> 00:27:34,335
+Speaker 1: Regardless of the results of the election, PAX Unplugged is very likely to happen.
+
+364
+00:27:34,537 --> 00:27:53,429
+Speaker 0: I've, uh, you know, it's funny, we watch a lot of news, you know, for the last couple years, for some reason, just, I watch a lot more news than I used to, mostly PBS and BBC, but there is the art in the newscast of, you are talking about a very dire topic, and then you have a limited amount of time to segue to a different topic.
+
+365
+00:27:54,111 --> 00:27:55,567
+Speaker 0: And it is very hard to do.
+
+366
+00:27:56,551 --> 00:27:59,242
+Speaker 0: But, uh, we will be at PAX Unplugged.
+
+367
+00:27:59,544 --> 00:28:07,770
+Speaker 0: We will be on Friday at noon in the Kelpie Theater doing a somewhat updated version of Take Your Fucking Turn.
+
+368
+00:28:08,353 --> 00:28:22,679
+Speaker 0: It is currently not on the PAX website and it appears, that is because Growtix, the backend PAX uses, uh, choked on the special characters that are in the name of our panel, because it is an accepted confirmed panel, so hopefully it'll appear on the schedule soon.
+
+369
+00:28:23,266 --> 00:28:40,837
+Speaker 0: And then, on the same day, Friday, at 1.30 PM to 2.30 PM, uh, in the Learn & Play room, we will be teaching, uh, all of you, and then playing with you, uh, an updated version of Deep Sea Adventure called Deep Sea Adventure Boost.
+
+370
+00:28:41,343 --> 00:28:50,818
+Speaker 0: It is a press your luck game about a bunch of jackasses in a submarine sharing air, trying to get more riches from the depths than everyone else without drowning.
+
+371
+00:28:50,839 --> 00:28:55,384
+Speaker 1: Yeah, we did an episode on the original game quite a while ago.
+
+372
+00:28:55,405 --> 00:29:03,530
+Speaker 1: It's a game we've enjoyed for a long time, and there is a somewhat recent expansion, which basically just adds a few dice to make it a little bit more strategic.
+
+373
+00:29:04,352 --> 00:29:07,002
+Speaker 1: Uh, I think it's slightly improved with the different dice.
+
+374
+00:29:07,688 --> 00:29:10,556
+Speaker 1: Um, I think in different countries it has a different name.
+
+375
+00:29:11,425 --> 00:29:13,389
+Speaker 1: I think it was maybe called Deep Sea Adventure Turbo?
+
+376
+00:29:14,170 --> 00:29:17,309
+Speaker 1: Uh, but regardless, the English one is Deep Sea Adventure Boost.
+
+377
+00:29:18,270 --> 00:29:18,533
+Speaker 1: And so...
+
+378
+00:29:19,099 --> 00:29:26,457
+Speaker 0: I thought of a very dark humor name for this game that you can guess if you think about what happened recently with the Titanic, uh, but I digress.
+
+379
+00:29:27,305 --> 00:29:35,405
+Speaker 0: Uh, otherwise we'll be at PAX hanging out, but we'll be enforcing Night Shift, so if you want to hang out with us or see us, your best bet is to come to those panels, or look for us in First.
+
+380
+00:29:35,445 --> 00:29:39,289
+Speaker 0: Look on like, Sunday, because otherwise we got a lot going on.
+
+381
+00:29:40,302 --> 00:29:41,977
+Speaker 0: Uh, anyway, widgets.
+
+382
+00:29:42,929 --> 00:29:54,730
+Speaker 0: Uh, there's a lot of definitions of the word widget as we were looking at right before the show, so I guess we're going to spend this episode talking about the hard drive that was used in the Apple Lisa computer system, known as the widget drive.
+
+383
+00:29:55,370 --> 00:29:57,090
+Speaker 1: Yeah, I'd never known about that before today.
+
+384
+00:29:57,290 --> 00:30:00,361
+Speaker 0: I learned about that from the disambiguation on widgets that Scott mentioned.
+
+385
+00:30:00,401 --> 00:30:01,070
+Speaker 1: I knew about the Apple Lisa.
+
+386
+00:30:01,210 --> 00:30:02,610
+Speaker 1: I just didn't know about its hard drive.
+
+387
+00:30:03,370 --> 00:30:06,849
+Speaker 0: I know three sentences about the Lisa, and that's it.
+
+388
+00:30:07,071 --> 00:30:14,022
+Speaker 1: Yeah, so technically widgets, you know, if you talk about just computers and software, right, widgets still has several different meanings.
+
+389
+00:30:14,062 --> 00:30:28,610
+Speaker 1: Like, if you program any GUI software, usually all the different GUI pieces, components, the buttons, the dialogue boxes, the pull-downs, the text boxes, those are all referred to by most GUI frameworks as widgets.
+
+390
+00:30:28,650 --> 00:30:32,750
+Speaker 0: Yep, let me put a drop-down widget with a combo box widget and a monitor widget.
+
+391
+00:30:33,630 --> 00:30:35,695
+Speaker 1: Exactly, and, you know, pull-down menus are widgets.
+
+392
+00:30:35,816 --> 00:30:37,593
+Speaker 1: So, but that's not what we're talking about today.
+
+393
+00:30:37,614 --> 00:30:43,270
+Speaker 1: What we're talking about are basically, you know, like status monitoring type of widgets.
+
+394
+00:30:43,391 --> 00:30:49,897
+Speaker 1: You know, they've been recently added to iOS and macOS, and Windows is increasing their usage.
+
+395
+00:30:50,179 --> 00:30:54,887
+Speaker 1: They've been around on Linux for a long time and various Unixes for a long time.
+
+396
+00:30:54,988 --> 00:31:01,816
+Speaker 1: Basically, some sort of GUI application, really, that you don't really interact with very much.
+
+397
+00:31:01,856 --> 00:31:09,633
+Speaker 1: It just sort of displays information, but it's sort of always there, or on the side in a sidebar, or, right?
+
+398
+00:31:10,018 --> 00:31:17,110
+Speaker 1: So, you can think of like, as a clock on your computer in the corner, it's technically the kind of widget that we're talking about.
+
+399
+00:31:17,170 --> 00:31:23,735
+Speaker 1: It's giving you some information, the time and date, and it's sort of always visible, always there, doing its thing.
+
+400
+00:31:24,948 --> 00:31:26,645
+Speaker 1: And that's probably the most useful one.
+
+401
+00:31:26,686 --> 00:31:27,877
+Speaker 1: there is by a landslide.
+
+402
+00:31:27,897 --> 00:31:28,038
+Speaker 0: Yep.
+
+403
+00:31:28,301 --> 00:31:48,060
+Speaker 0: Now, I've gone through a long evolution of this kind of thing over my life, because, personally, as I got more and more nerdy and into computers and had access to build and fuss with computers, like a lot of people do, I started putting a lot of shit all over my computer, like, "Ooh, I can have a thing that's always telling me the exact temperature of my CPU, and how many threads are open.
+
+404
+00:31:48,080 --> 00:31:48,809
+Speaker 0: Oh, that's awesome.
+
+405
+00:31:49,332 --> 00:31:50,830
+Speaker 0: Ooh, I could get it to show me the weather.
+
+406
+00:31:51,533 --> 00:31:52,947
+Speaker 0: Ah, like, I just got excited about that
+
+407
+00:31:52,987 --> 00:31:53,189
+Speaker 0: shit.".
+
+408
+00:31:53,735 --> 00:32:05,336
+Speaker 0: But then, as I got older and wiser, I realized that I don't want, I don't, that none of that does anything for me, and I spared back down to the minimum number of widgets, like the date and time, and the temperature.
+
+409
+00:32:05,397 --> 00:32:06,108
+Speaker 0: right the fuck now.
+
+410
+00:32:07,313 --> 00:32:14,770
+Speaker 0: Like, I don't care how much, how well my computer is performing directly every second that I'm using my computer.
+
+411
+00:32:15,750 --> 00:32:20,282
+Speaker 1: Yeah, I mean, you know, some of the, it seems like on paper, you're like, "Ooh, weather widget," right?
+
+412
+00:32:20,343 --> 00:32:27,927
+Speaker 1: And a lot of people got tricked into installing malware spyware weather widgets on their Windows XP computers for a long time.
+
+413
+00:32:28,914 --> 00:32:31,887
+Speaker 1: Because people clearly -Or as browser extensions or whatever.
+
+414
+00:32:31,907 --> 00:32:37,610
+Speaker 0: -But people did and do want widgets, like, and a lot of people like to have these things, and it makes sense sometimes.
+
+415
+00:32:37,610 --> 00:32:41,827
+Speaker 1: Well, it's, like I'm saying, when you think about it, it seems like a thing you want.
+
+416
+00:32:41,887 --> 00:32:44,088
+Speaker 1: It seems appealing, like, "Yes, I want
+
+417
+00:32:44,109 --> 00:32:44,210
+Speaker 1: that.".
+
+418
+00:32:44,270 --> 00:32:45,886
+Speaker 1: That's obviously useful, right?
+
+419
+00:32:45,926 --> 00:32:53,098
+Speaker 1: To have this information that I reference often visible and ready at hand, so that, like, what's the alternative, right?
+
+420
+00:32:53,361 --> 00:33:02,469
+Speaker 1: Open up a web browser, find a weather website, type in the zip code, or on my phone, find the weather app, open it, wait for it to load, or turn on my phone.
+
+421
+00:33:02,690 --> 00:33:05,460
+Speaker 1: The weather is something I check very often when I open my phone.
+
+422
+00:33:05,803 --> 00:33:07,257
+Speaker 1: It's just there on my home screen.
+
+423
+00:33:07,298 --> 00:33:08,549
+Speaker 1: I turn my phone off right away.
+
+424
+00:33:09,074 --> 00:33:11,279
+Speaker 1: On paper, that seems great.
+
+425
+00:33:11,319 --> 00:33:15,199
+Speaker 0: Speaking of on paper, think about before the computer era, when there weren't computers.
+
+426
+00:33:15,684 --> 00:33:18,490
+Speaker 0: What was in your kitchen most likely?
+
+427
+00:33:19,092 --> 00:33:32,772
+Speaker 0: A big calendar that was always there that had the entire families like, "Oh, Brim's got to go to the doctor on Tuesday and Drew's got an appointment with the school on Wednesday and Mom's got to go to a thing on Friday and next week we're going to Cedar
+
+428
+00:33:32,792 --> 00:33:33,378
+Speaker 0: Point.".
+
+429
+00:33:33,823 --> 00:33:38,933
+Speaker 0: That was basically a physical widget, so everyone always needed to know what's going on in the coming week.
+
+430
+00:33:40,043 --> 00:33:51,378
+Speaker 1: Yeah, there's a lot of things that you just have in your, you know, you think about it, like, traffic and weather, radio stations used to do that at least every ten minutes because there's no way for the radio to be a widget.
+
+431
+00:33:51,438 --> 00:33:52,409
+Speaker 1: that's just always there.
+
+432
+00:33:53,130 --> 00:33:55,720
+Speaker 1: But it's like there's frequently referenced information.
+
+433
+00:33:55,740 --> 00:34:06,569
+Speaker 1: They had to just push it at you so constantly or like, you know, a lot of times you would watch like local news and like the weather would be like, happen twice during the local news sometimes because it's like you don't want to miss it.
+
+434
+00:34:06,990 --> 00:34:09,539
+Speaker 1: It's like it's like that.
+
+435
+00:34:09,600 --> 00:34:17,295
+Speaker 1: or they just show like you know, time and date whether like during breaks or whatever on television sometimes depending on channels and stuff.
+
+436
+00:34:17,356 --> 00:34:25,518
+Speaker 1: It's like this information just being visible constantly right, is the fastest way to reference it if it's referenced frequently.
+
+437
+00:34:26,043 --> 00:34:52,750
+Speaker 0: So one kind of widget I think is worth talking about that I think is very common and I think is a stupid kind of widget, I don't know what to call it but in your computer if you have widgets that are showing you like extremely detailed views of the performance and capacity of your computer if you are not using your computer in a professional production like serious capacity.
+
+438
+00:34:54,155 --> 00:34:58,181
+Speaker 1: Yeah, I mean there was a time in Linux days where I had like what was it called?
+
+439
+00:34:58,262 --> 00:34:58,646
+Speaker 1: Encroll?
+
+440
+00:34:59,130 --> 00:34:59,817
+Speaker 1: I forget the name of it.
+
+441
+00:35:00,100 --> 00:35:03,666
+Speaker 0: I had a thing like that like no judgment, like we've all been there.
+
+442
+00:35:05,310 --> 00:35:11,665
+Speaker 1: Yeah, and it's just this cool like it makes it aesthetically like it's really cool right?
+
+443
+00:35:13,310 --> 00:35:27,130
+Speaker 1: You know, to just have like, you know, this sort of cool cyberpunkish status updatey thing with charts and graphs and things just going on the side of your computer like it makes you feel like you're at a high tech, you know you're a hacker man, right?
+
+444
+00:35:27,690 --> 00:35:31,450
+Speaker 1: But the reality is, is like how often are you ever looking at that, right?
+
+445
+00:35:31,570 --> 00:35:49,070
+Speaker 1: The only way you're looking at that frequently is if like you're really doing some like serious like, you know, application development kind of stuff on your computer locally and, you know, you might need to see like, you know, oh shit I got a memory leak, like my RAM just got used up, right?
+
+446
+00:35:49,676 --> 00:35:50,370
+Speaker 1: Oh shit, I got.
+
+447
+00:35:50,834 --> 00:35:54,453
+Speaker 1: I'm eating up the CPU, I must have something going on, you can just see it right?
+
+448
+00:35:54,997 --> 00:36:00,890
+Speaker 1: But it's like even if you're playing video games, it's like people play video games like an FPS counter.
+
+449
+00:36:01,052 --> 00:36:02,949
+Speaker 1: it's like, aren't you supposed to be looking at the game?
+
+450
+00:36:03,953 --> 00:36:04,850
+Speaker 1: Are you trying?
+
+451
+00:36:05,193 --> 00:36:10,790
+Speaker 1: is the game you're playing the game or is the game you're playing actually get the most FPS but not actually try?
+
+452
+00:36:10,850 --> 00:36:12,485
+Speaker 0: I think a lot of people are playing the latter.
+
+453
+00:36:12,606 --> 00:36:25,012
+Speaker 0: but also you might occasionally turn on something like that, not as a widget like a permanent widget that's like always there but temporarily to troubleshoot something like, hey, am I getting frame drops or am I just like perceiving that?
+
+454
+00:36:25,032 --> 00:36:25,558
+Speaker 0: but I'm wrong?
+
+455
+00:36:25,659 --> 00:36:26,628
+Speaker 0: Let's check.
+
+456
+00:36:26,689 --> 00:36:33,253
+Speaker 0: Play the game like, oh I am getting frame drops shit, now I gotta go figure out what's wrong with my computer or no, it's always locked at 60.
+
+457
+00:36:33,253 --> 00:36:36,770
+Speaker 0: I'm just weird, there's a different problem going on and then you turn the widget off.
+
+458
+00:36:36,770 --> 00:36:41,193
+Speaker 0: you don't have it there forever like burned into your monitor of like how many FPS you're getting.
+
+459
+00:36:41,840 --> 00:36:50,589
+Speaker 1: Right, because the screen real estate that you lose, especially on your phone, right, is like so significant that you can't be wasting it on something like that.
+
+460
+00:36:51,033 --> 00:37:04,450
+Speaker 1: you know, like on my iPad where I got plenty of extra real estate, I can have some bigger widgets there because I don't have that many icons on the home screen, right but on my phone, nah I can't really afford to give a whole bunch of space over to a big ol' fat widget.
+
+461
+00:37:04,874 --> 00:37:11,678
+Speaker 1: it's like, the iOS added them and I'm like, oh let me put some on my home screen and I was like, wait a minute, no let's not.
+
+462
+00:37:11,981 --> 00:37:20,230
+Speaker 0: Aside from that, and this gets into the professional use case of this kind of thing other than what we just talked about, you know like profiling something or doing direct local development.
+
+463
+00:37:20,916 --> 00:37:39,316
+Speaker 0: I am a fan of not widget level monitoring of those kinds of things but ambient monitoring or alerting about those things like, it's very different to have some sort of warning appear if, hey your CPU is really, really fucking hot way, way, way more than normal.
+
+464
+00:37:39,498 --> 00:37:41,700
+Speaker 1: Yeah, a notification is totally different from a widget.
+
+465
+00:37:41,720 --> 00:37:42,084
+Speaker 1: Exactly.
+
+466
+00:37:42,104 --> 00:37:44,830
+Speaker 1: A widget is permanently eating screen real estate.
+
+467
+00:37:45,012 --> 00:37:51,137
+Speaker 1: a notification doesn't take up any space on your display until something happens, then it appears out of nowhere.
+
+468
+00:37:51,197 --> 00:37:51,399
+Speaker 1: Yep.
+
+469
+00:37:52,004 --> 00:37:53,478
+Speaker 1: And that's totally separate.
+
+470
+00:37:53,539 --> 00:38:03,830
+Speaker 0: And then ambient monitoring or out of band monitoring, like one thing I did do, because the computer I built the fans that came with the case had the LEDs, so I'm just going to use them, like why not?
+
+471
+00:38:04,130 --> 00:38:11,630
+Speaker 0: So I use them, but one of them the color goes from green and it will turn toward deep red and then eventually purple.
+
+472
+00:38:12,477 --> 00:38:23,990
+Speaker 0: one fan is showing me the temperature of the CPU and one is showing the temperature of the GPU and it's not taking up screen real estate it's somewhere else, and it's just ambient monitoring.
+
+473
+00:38:24,152 --> 00:38:29,930
+Speaker 0: like if I notice that it's going yellow and I don't feel like it should be then I wonder, hey is something going on in my computer?
+
+474
+00:38:30,535 --> 00:38:37,029
+Speaker 0: But it's in the background it's out of the way, it's not wasting any screen space, and it's also not necessary.
+
+475
+00:38:39,214 --> 00:38:44,129
+Speaker 0: I find that is a better use of my LEDs on the computer than just having them blinking all the time.
+
+476
+00:38:45,656 --> 00:38:50,681
+Speaker 1: So on Mac OS the way the widgets work is that you can actually put widgets on the desktop if you want, right?
+
+477
+00:38:50,742 --> 00:39:10,819
+Speaker 1: But it's like I'm not going to see them unless I see the desktop which I rarely see, because I've got apps covering it, so it's like kind of pointless but what they do have, which is good and Windows has this also, now I think Windows 10 added it, maybe 7 is that there's basically this sidebar of widgets, but it's hidden, it doesn't take up space.
+
+478
+00:39:10,839 --> 00:39:30,170
+Speaker 1: all the time at least on the Mac, you just sort of swipe in from the right side of your or left side I guess, I don't know if you can move it of the touchpad and you sort of bring it in, and it's like it comes in, and then you get rid of it, and you can bring it in and out, and so it's like this vertical thing that you can put.
+
+479
+00:39:30,392 --> 00:39:37,470
+Speaker 1: you know, you don't want to put more than one vertical screen's worth of widgets in there, because then you have to scroll to see them all, which doesn't really help.
+
+480
+00:39:37,990 --> 00:39:40,029
+Speaker 0: Really defeats the point, because at that point just look up the thing.
+
+481
+00:39:40,950 --> 00:39:49,930
+Speaker 1: Yeah, so I have exactly the amount that fit in one screen and it's things that, you know, the kind of thing I might want to reference, right?
+
+482
+00:39:49,990 --> 00:39:53,810
+Speaker 1: So I've got the, at the top is the battery life of everything, right?
+
+483
+00:39:53,810 --> 00:39:57,950
+Speaker 1: So I can see all the battery, it's like oh no, my AirPods are running out of battery.
+
+484
+00:39:58,091 --> 00:40:03,769
+Speaker 1: oh no, my trackpad's running out of battery or the laptop itself is running out of battery, you can just see it right there.
+
+485
+00:40:04,274 --> 00:40:07,790
+Speaker 1: but that's not information that I need visible at every moment, right?
+
+486
+00:40:07,850 --> 00:40:10,476
+Speaker 1: It's like something I check, it's like I check my battery swipe swipe.
+
+487
+00:40:10,880 --> 00:40:24,049
+Speaker 0: So say on my phone I swipe left I swipe right to go left because I have literally four widgets back there, I have actually the Strava widget, I don't know why I have that there, I don't need that, so I'm going to delete that right now.
+
+488
+00:40:24,512 --> 00:40:28,396
+Speaker 0: I've got the battery life widget just because I've got a bunch of stuff linked with my phone.
+
+489
+00:40:28,901 --> 00:40:33,122
+Speaker 0: I've got the Washington Post widget because it shows the top news and I do read WAPO every day.
+
+490
+00:40:33,142 --> 00:40:35,670
+Speaker 0: And I've got the Google Maps widget of really quickly.
+
+491
+00:40:35,771 --> 00:40:38,028
+Speaker 0: I'm going to look for some Google fucking Maps stuff right now.
+
+492
+00:40:39,476 --> 00:40:41,109
+Speaker 0: Because I do that a lot, like I live in New York.
+
+493
+00:40:42,013 --> 00:40:48,750
+Speaker 0: I'd say multiple times a day on average I will look for something on Google Maps right now because I'm standing somewhere.
+
+494
+00:40:49,834 --> 00:40:59,698
+Speaker 1: Yeah, I had the calendar and reminders in the widgets, but the thing is even though they're there and that kind of makes sense, I never actually went to look at things there.
+
+495
+00:40:59,839 --> 00:41:04,609
+Speaker 1: I always just go to the calendar app which is open and is also one click away.
+
+496
+00:41:05,175 --> 00:41:08,024
+Speaker 1: so it's like kind of a waste for that to be there.
+
+497
+00:41:08,044 --> 00:41:08,570
+Speaker 1: Literally the same.
+
+498
+00:41:09,292 --> 00:41:12,890
+Speaker 0: I got rid of my calendar app and the calendar widget, I just open my calendar.
+
+499
+00:41:13,052 --> 00:41:14,250
+Speaker 0: anytime I want to look at my calendar.
+
+500
+00:41:15,190 --> 00:41:15,729
+Speaker 1: Yeah, exactly.
+
+501
+00:41:16,979 --> 00:41:31,129
+Speaker 1: The weather though makes sense because with weather, it's like the other way for me to check weather is to open a tab and go to weather.gov and type in the zip or even if I bookmark the page, it's still open a tab, go to this page.
+
+502
+00:41:31,652 --> 00:41:34,399
+Speaker 1: Whereas I can go swipe, swipe and just see the weather super fast.
+
+503
+00:41:35,026 --> 00:41:36,922
+Speaker 1: That one I actually do look at.
+
+504
+00:41:37,184 --> 00:41:38,416
+Speaker 1: That's the reflex that I have.
+
+505
+00:41:38,477 --> 00:41:40,336
+Speaker 1: If I need to see the weather, I go swipe and look at it.
+
+506
+00:41:40,356 --> 00:41:54,054
+Speaker 0: On Windows, I got rid of every single widget that is possible in Windows 11 except I have a weather widget that just shows me the temperature and the basic local conditions and I have one that is the date and time.
+
+507
+00:41:55,186 --> 00:41:57,810
+Speaker 0: The two most important things I want to know when I'm sitting at my computer.
+
+508
+00:41:59,290 --> 00:42:02,155
+Speaker 1: Yeah, it's like so many of these companies out there make widgets.
+
+509
+00:42:02,357 --> 00:42:03,871
+Speaker 1: It's like what's the use of them, right?
+
+510
+00:42:03,891 --> 00:42:06,622
+Speaker 1: It's like all the news apps have a widget for headlines.
+
+511
+00:42:06,723 --> 00:42:10,866
+Speaker 1: It's like who's checking headlines and swiping in to look at them?
+
+512
+00:42:10,927 --> 00:42:14,583
+Speaker 0: It's like if I want to read the news, I'll click on it.
+
+513
+00:42:14,644 --> 00:42:20,728
+Speaker 0: But more importantly if there's truly breaking news like something crazy, notification is the right way to do that.
+
+514
+00:42:21,790 --> 00:42:26,441
+Speaker 1: Yeah, or like your Delta Airlines is like what?
+
+515
+00:42:26,501 --> 00:42:27,819
+Speaker 1: Why would I have that in a widget?
+
+516
+00:42:27,839 --> 00:42:28,469
+Speaker 1: That makes no sense.
+
+517
+00:42:29,292 --> 00:42:31,375
+Speaker 1: Or check your retirement account.
+
+518
+00:42:31,395 --> 00:42:32,870
+Speaker 1: It's like who's checking your retirement?
+
+519
+00:42:33,150 --> 00:42:33,450
+Speaker 1: That frequency.
+
+520
+00:42:34,711 --> 00:42:40,530
+Speaker 0: I don't need Charles Schwab like always showing me my balance second to second anytime I look at my phone.
+
+521
+00:42:41,552 --> 00:42:49,834
+Speaker 1: Or like GitHub, it's like I just have to GitHub like when I go to work on something, I open GitHub and when I'm not working on it, I don't open it.
+
+522
+00:42:49,894 --> 00:42:51,834
+Speaker 1: Why do I need it there all the time?
+
+523
+00:42:52,116 --> 00:42:54,177
+Speaker 1: That doesn't really make a lot of sense.
+
+524
+00:42:54,683 --> 00:43:16,308
+Speaker 0: Now this does lead to a professional use case for these kinds of widgets which actually has been for 22 years, this has been a part of my career, monitoring widgets for production operations in like a factory or a trading floor or like a serious business situation and these are things like.
+
+525
+00:43:17,050 --> 00:43:18,787
+Speaker 0: I designed this for IBM.
+
+526
+00:43:18,848 --> 00:43:20,160
+Speaker 0: This was one of my first real jobs.
+
+527
+00:43:20,786 --> 00:43:27,029
+Speaker 0: I designed this big display that was in the underground console room that all the operators would sit in and across it.
+
+528
+00:43:27,312 --> 00:43:30,545
+Speaker 0: it showed key status of systems in the factory.
+
+529
+00:43:30,565 --> 00:43:34,449
+Speaker 0: It showed like are there active alerts that no one is addressing?
+
+530
+00:43:34,833 --> 00:43:42,954
+Speaker 0: It was basically things that people need to easily be able to see like hey, is the power substation actually up and running or is there a problem?
+
+531
+00:43:43,620 --> 00:44:31,590
+Speaker 0: And that's a whole domain that's probably outside of bounds for this show but that is the effective use of widgets because that is the case where you have people whose job it is to do something like monitor a nuclear power plant, monitor an acid bath in a factory, monitor patients in a hospital and I would always characterize it as a situation where alerts alone aren't good enough because the people in the console room are humans who are intelligent who will need to very quickly look at the state of the world and decide if there's a problem or not likely by cross-referencing some information on these widgets like the current temperature of the cold room and other information they know like someone just called me from the cold room saying they think there's a problem with the compressor.
+
+532
+00:44:33,410 --> 00:44:34,669
+Speaker 1: Yeah, so it's like the thing is.
+
+533
+00:44:35,013 --> 00:44:44,001
+Speaker 1: some of those, you know, they're usually widgets that are like part of a dashboard like someone will create like a whole screen worth of widgets that are always open, always on.
+
+534
+00:44:44,001 --> 00:44:45,678
+Speaker 0: 99% of what Scott's describing are bullshit.
+
+535
+00:44:45,839 --> 00:44:49,476
+Speaker 0: Most widgets in a console room are designed by people who have no idea what they're doing.
+
+536
+00:44:49,860 --> 00:44:50,507
+Speaker 0: They're useless.
+
+537
+00:44:50,568 --> 00:44:52,069
+Speaker 0: You could solve that in another way.
+
+538
+00:44:53,474 --> 00:44:56,510
+Speaker 0: A screen that just shows everything's green is almost never useful.
+
+539
+00:44:57,570 --> 00:45:05,211
+Speaker 1: Right, it's like, you know, those are often more for like showing off and making it look like everything's cool.
+
+540
+00:45:05,312 --> 00:45:06,019
+Speaker 0: Oh, what was the word?
+
+541
+00:45:06,039 --> 00:45:08,404
+Speaker 0: We had a word for that at Pipeline.
+
+542
+00:45:08,464 --> 00:45:12,102
+Speaker 0: Back when I worked on the cell side, we literally, we had a word.
+
+543
+00:45:12,122 --> 00:45:13,417
+Speaker 0: I don't remember what it was.
+
+544
+00:45:13,437 --> 00:45:14,287
+Speaker 0: It'll come to me.
+
+545
+00:45:14,810 --> 00:45:24,930
+Speaker 0: For the things we put up on the big monitors that were above us that we never looked at but really impressed people who came into our room to talk to us like executives.
+
+546
+00:45:25,310 --> 00:45:25,655
+Speaker 1: Right.
+
+547
+00:45:25,675 --> 00:45:36,569
+Speaker 1: I mean, if you think about, you know, something like Evangelion, it's like, you know, these, you get a room where these people are like sitting at computers and like you can see all of them are focused on the computer in front of them.
+
+548
+00:45:37,293 --> 00:45:46,629
+Speaker 1: But all around the room are all these monitors going like with awesome graphics and typography and famous, you know, Evangelion computer graphic style on them.
+
+549
+00:45:48,542 --> 00:45:51,010
+Speaker 1: Yeah, I feel like Star Trek had some of the same shit, right?
+
+550
+00:45:51,130 --> 00:45:57,130
+Speaker 1: Everyone on the bridge is focused on their shit, but around the room, there's like all these other cool looking Star Trek displays.
+
+551
+00:45:57,693 --> 00:45:58,585
+Speaker 1: They're not looking at them.
+
+552
+00:45:58,646 --> 00:46:00,428
+Speaker 1: They're just there to look cool.
+
+553
+00:46:01,730 --> 00:46:13,717
+Speaker 1: But sometimes, so dashboards I think when they're well designed, people are looking at them, you know, and it's like it's someone's job to is like to actually look to watch the status and react to it in real time.
+
+554
+00:46:14,362 --> 00:46:17,474
+Speaker 1: Then the dashboard with all the widgets on it is useful.
+
+555
+00:46:17,919 --> 00:46:25,758
+Speaker 1: But a lot of times people just like have them open as sort of like background noise almost just for style or something.
+
+556
+00:46:25,859 --> 00:46:32,139
+Speaker 0: And that's where like that was literally my job like for most of my career over a couple decades was that exact thing.
+
+557
+00:46:32,726 --> 00:46:48,569
+Speaker 0: And I guess really simply what I can say is dashboards showing information should only show information that is necessary for a human to synthesize with other information that is not in that dashboard to make rapid critical decisions.
+
+558
+00:46:49,750 --> 00:46:57,494
+Speaker 1: Yeah, there was a customer at a place I worked and they had a software open on that.
+
+559
+00:46:57,515 --> 00:47:05,054
+Speaker 1: basically it was like it was a big company and all these people would come into work and they would all open up this dashboard on their computer and they set it to the highest refresh rate.
+
+560
+00:47:06,085 --> 00:47:07,358
+Speaker 1: All of them at the same time.
+
+561
+00:47:07,964 --> 00:47:14,389
+Speaker 1: And I don't it didn't really seem like they all really needed it to be at that high refresh rate or they all needed it to be that open all the time.
+
+562
+00:47:14,913 --> 00:47:20,130
+Speaker 1: But it basically just caused the same queries to go to the database over and over and over and over and over and over constantly.
+
+563
+00:47:22,057 --> 00:47:24,209
+Speaker 1: But I guess we had to account for that.
+
+564
+00:47:24,710 --> 00:47:35,418
+Speaker 0: The use case of these things it's that human synthesis that's important because if you could detect if something went wrong then you don't need the thing saying "green good".
+
+565
+00:47:35,499 --> 00:47:40,070
+Speaker 0: instead you need an alert that tells everyone "Hey, alert!
+
+566
+00:47:40,530 --> 00:47:41,176
+Speaker 0: Something bad
+
+567
+00:47:41,217 --> 00:47:41,641
+Speaker 0: happened.".
+
+568
+00:47:42,086 --> 00:47:45,829
+Speaker 0: And if you need humans to make decisions then you need to show them the information they need to make decisions.
+
+569
+00:47:46,455 --> 00:47:54,295
+Speaker 0: So like that's the line will a human use this to synthesize with other information in their human brain to make a human decision.
+
+570
+00:47:54,617 --> 00:48:00,788
+Speaker 0: If you could put all the information in the display and you don't need the human to synthesize then you don't need the dashboard in the first place.
+
+571
+00:48:01,773 --> 00:48:09,104
+Speaker 1: So I think that overall this kind of widget it's good that it exists because there are occasions where it is very important.
+
+572
+00:48:09,124 --> 00:48:10,215
+Speaker 1: you know it is actually useful.
+
+573
+00:48:10,255 --> 00:48:20,050
+Speaker 1: it is saving you time the frequently accessed important actionable information is ready at hand just a click away or always always visible.
+
+574
+00:48:20,957 --> 00:48:45,945
+Speaker 1: but I think a lot of people turn on a lot of widgets that they're not actually looking at that don't have actionable frequently referenced information because for some other reason and I would encourage you to evaluate the usage of your precious screen real estate because that honestly a screen with like empty space you know just like breathing is you know probably feels better than just cluttering it up with a bunch of useless nonsense.
+
+575
+00:48:46,046 --> 00:48:47,885
+Speaker 0: absolutely I think there's two or three.
+
+576
+00:48:47,905 --> 00:48:51,978
+Speaker 0: I think one reason people do this is they think it looks cool either consciously or subconsciously.
+
+577
+00:48:53,275 --> 00:49:13,729
+Speaker 0: I think another reason is people feel like they're unproductive and they have been tricked into thinking that this is a way to make themselves more productive or focused or something and like they just buy into like oh well if I put this widget here then it'll make me do my Duolingo more often like just click on Duolingo once a day and also the owl yells at you if you don't do the Duolingo you don't need a widget.
+
+578
+00:49:15,617 --> 00:49:22,534
+Speaker 0: and I think a third reason people do this is apps push them into doing it and they assume that's just how you use computers.
+
+579
+00:49:23,282 --> 00:49:27,750
+Speaker 1: well I mean I think the thing is if you are someone who makes an app you would love for someone.
+
+580
+00:49:28,214 --> 00:49:40,170
+Speaker 1: if even if your widget largely doesn't make any sense you would love for someone to put your widget on their homepage to you know because now you get how much more space on their homepage or their home screen on their phone.
+
+581
+00:49:40,271 --> 00:49:42,150
+Speaker 1: is you and not someone else right?
+
+582
+00:49:42,493 --> 00:49:46,409
+Speaker 1: it's like all you care about is aha I have an icon that's 4x the other icons.
+
+583
+00:49:46,955 --> 00:49:48,450
+Speaker 1: I'm crushing my competition.
+
+584
+00:49:48,720 --> 00:49:55,828
+Speaker 0: yup even if your widget doesn't really I mean I'm scrolling through all the widgets available on my iPhone right now from the apps I run.
+
+585
+00:49:57,612 --> 00:49:59,330
+Speaker 0: statistically 100% of them are worthless.
+
+586
+00:50:00,155 --> 00:50:03,765
+Speaker 0: yeah every widget on my phone.
+
+587
+00:50:03,926 --> 00:50:14,387
+Speaker 0: I have a weather widget I have a clock widget showing all the time zones of people I talk to regularly the battery thing I talked about and not much else.
+
+588
+00:50:15,911 --> 00:50:16,507
+Speaker 1: that's it.
+
+589
+00:50:17,214 --> 00:50:26,264
+Speaker 0: my watch has one face has the weather and another face shows the clocks in all those same time zones because I talk to people in like 5 different time zones every day.
+
+590
+00:50:27,492 --> 00:50:34,382
+Speaker 1: but yeah people keep you know pushing these things hard but it's good to have them but they're not way too much.
+
+591
+00:50:38,938 --> 00:50:41,301
+Speaker 0: this has been Geek Nights with Rim and Scott.
+
+592
+00:50:41,362 --> 00:50:43,869
+Speaker 0: special thanks to DJ Pretzel for the opening theme.
+
+593
+00:50:44,051 --> 00:50:50,069
+Speaker 1: be sure to visit our website at FrontRowClue.com for show notes discussion links and more.
+
+594
+00:50:50,574 --> 00:50:53,242
+Speaker 0: remember Geek Nights is not one but 4 different shows.
+
+595
+00:50:53,565 --> 00:50:56,998
+Speaker 0: Mondays are science and technology Tuesdays gaming and games.
+
+596
+00:50:57,119 --> 00:50:58,936
+Speaker 0: Wednesdays are animation and comics.
+
+597
+00:50:59,259 --> 00:51:01,769
+Speaker 0: Thursdays are arbitrary and indiscriminate.
+
+598
+00:51:02,375 --> 00:51:07,329
+Speaker 0: Geek Nights is distributed under a creative comments attribution 4.0 international license.
+
+599
+00:51:07,773 --> 00:51:22,371
+Speaker 1: Geek Nights is recorded live with no studio and no audience but unlike those other late shows it's actually recorded at night and the patron patrons for this episode of Geek Nights are alright.
+
+600
+00:51:22,391 --> 00:51:23,053
+Speaker 0: I got it in one breath.
+
+601
+00:51:29,653 --> 00:51:31,445
+Speaker 0: so yeah I cannot stress enough.
+
+602
+00:51:31,485 --> 00:51:36,840
+Speaker 0: you gotta vote and if you're gonna vote for a third party like just stop listening to Geek Nights cause we got nothing for you.
+
+603
+00:51:37,327 --> 00:51:50,410
+Speaker 0: but if you're already sent and you're gonna vote for the Democrats then pick at least one of your dumber friends who's not planning to vote and figure out whatever you need to say to them to convince them to vote.
+
+604
+00:51:51,178 --> 00:51:55,300
+Speaker 0: and if every one of you does that that's like dozens of votes which could matter.
+
+605
+00:51:55,461 --> 00:51:56,409
+Speaker 0: it's gonna be real close.
+
+606
+00:51:57,218 --> 00:54:03,610
+Speaker 0: so anyway tonight I leave you with a a a a a a a a a.
+

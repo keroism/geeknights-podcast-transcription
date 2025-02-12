@@ -1,0 +1,2580 @@
+﻿1
+00:00:08,300 --> 00:00:11,751
+Speaker 0: It's Thursday September 19th 2024.
+
+2
+00:00:11,751 --> 00:00:14,619
+Speaker 0: I'm rim I'm Scott and this is geek nights.
+
+3
+00:00:14,639 --> 00:00:19,054
+Speaker 0: tonight We are reviewing the Lupin the third kabuki production.
+
+4
+00:00:19,576 --> 00:00:20,619
+Speaker 1: Let's do this.
+
+5
+00:00:21,625 --> 00:00:24,320
+Speaker 0: So, uh, you know, we're back doing geek nights like normal.
+
+6
+00:00:24,541 --> 00:00:31,559
+Speaker 0: So I've been biking to and from work because I have to go to the office four days a week And I like Amazon with the five days a week now.
+
+7
+00:00:33,472 --> 00:00:36,167
+Speaker 0: But So a thing about New York.
+
+8
+00:00:36,228 --> 00:00:44,952
+Speaker 0: is that the eat like the west side of Manhattan has a Mixed-use path for like biking and running and like pedestrian activities.
+
+9
+00:00:45,252 --> 00:00:53,549
+Speaker 1: that goes used the most trafficked path Of its kind in the United States perhaps North America easily because it is.
+
+10
+00:00:53,971 --> 00:01:02,364
+Speaker 0: it just goes from the bottom tip of Manhattan to the Basically the top of Manhattan uninterrupted and it's great But only but it's.
+
+11
+00:01:02,524 --> 00:01:08,300
+Speaker 1: the problem is it's fully on the west sides and all the things in Manhattan are you know in?
+
+12
+00:01:08,700 --> 00:01:11,351
+Speaker 1: It's an island so they're usually not on the edge.
+
+13
+00:01:11,411 --> 00:01:18,994
+Speaker 1: all the buildings are kind of in the middle mostly Except Hudson Yards and like the a couple others like the the Javits Center really means it's.
+
+14
+00:01:19,536 --> 00:01:19,997
+Speaker 0: it's like.
+
+15
+00:01:20,358 --> 00:01:23,187
+Speaker 0: it's really nice But it's primarily for recreation.
+
+16
+00:01:23,247 --> 00:01:26,500
+Speaker 0: There are very limited circumstances where it is useful as transportation.
+
+17
+00:01:26,822 --> 00:01:31,122
+Speaker 1: There's a lot of people who use it for transportation it will Commute.
+
+18
+00:01:31,142 --> 00:01:34,300
+Speaker 1: basically like you know a lot of people like live in northern Manhattan and commute.
+
+19
+00:01:34,860 --> 00:01:36,547
+Speaker 1: They'll use it to go way south.
+
+20
+00:01:36,668 --> 00:01:41,914
+Speaker 1: right because they got to go a whole bunch south and they can go a whole bunch south Without any car and that saves time.
+
+21
+00:01:42,015 --> 00:01:45,190
+Speaker 1: and then to get to work They just got to go a little bit east wherever they stop.
+
+22
+00:01:45,210 --> 00:02:03,804
+Speaker 0: well when I worked downtown by City Hall Even though the west side was kind of out of my way often before you know the new the New York City bike Infrastructure is like an order of magnitude better than it was back Then I would often bike home on the west side despite that adding like a couple miles to my total distance travel Just because it was more pleasant.
+
+23
+00:02:04,467 --> 00:02:04,607
+Speaker 1: Well.
+
+24
+00:02:04,627 --> 00:02:07,840
+Speaker 1: Yeah, I mean even it's probably also you know faster, right?
+
+25
+00:02:07,960 --> 00:02:15,940
+Speaker 1: It's like yeah, you know the total distance is longer But instead of going nor you'd still have to go north the same amount to get to the bridge.
+
+26
+00:02:16,362 --> 00:02:22,530
+Speaker 1: So it's like okay you do the extra east and an extra west You're not stopping at like 40 right cross along the way.
+
+27
+00:02:22,831 --> 00:02:25,840
+Speaker 1: all your north is just this straight shot with no stopping.
+
+28
+00:02:26,101 --> 00:02:31,759
+Speaker 0: They almost no stopping, but the east side of Manhattan has always been kind of a shit show.
+
+29
+00:02:32,783 --> 00:02:40,211
+Speaker 0: Yeah, it's like there is a path there, but parts of it are Designated bike friendly, but they've basically got something.
+
+30
+00:02:40,251 --> 00:02:42,720
+Speaker 0: That's one step short of cobblestone so biking on it sucks.
+
+31
+00:02:43,082 --> 00:02:52,825
+Speaker 0: There's other sections of it that just aren't connected like there'll be a bike path And then it just dead ends and then you got to go all the way in and around and back and then a bike path Just starts up again somewhere else.
+
+32
+00:02:53,407 --> 00:02:57,340
+Speaker 0: the UN is just like plopped in the middle of where a good bike path would be.
+
+33
+00:02:59,021 --> 00:03:04,665
+Speaker 0: It's not as good even though the east side would be Extremely useful to all to.
+
+34
+00:03:05,086 --> 00:03:06,490
+Speaker 0: well like really the path.
+
+35
+00:03:06,691 --> 00:03:20,195
+Speaker 1: you need a path to go around all the edges in a complete circle And you need something in the middle - yeah I think they should just take like Park Avenue which already on summer streets They open Park Avenue moat you know so that there's no cars,
+
+36
+00:03:20,255 --> 00:03:21,440
+Speaker 0: and it's called Park Avenue.
+
+37
+00:03:21,500 --> 00:03:24,100
+Speaker 1: Just make it a park when it was a park originally.
+
+38
+00:03:24,361 --> 00:03:29,780
+Speaker 1: I can do a park tell them it still has a park in the middle of it, but it used to be more park.
+
+39
+00:03:30,482 --> 00:03:31,706
+Speaker 1: That's where the name came from.
+
+40
+00:03:31,786 --> 00:03:35,780
+Speaker 1: it's now less park than it used to be but it's still more park than the other avenues.
+
+41
+00:03:37,221 --> 00:03:47,720
+Speaker 1: But they should just I think permanently remove all cars from Park Avenue All the way from top to bottom, and it's just you know other modes of transportation only.
+
+42
+00:03:49,663 --> 00:03:51,212
+Speaker 1: And it's like yeah, what it wouldn't.
+
+43
+00:03:51,272 --> 00:03:54,817
+Speaker 1: it doesn't hurt him on Saturday morning I wouldn't hurt him in the other days like I'll just do it.
+
+44
+00:03:55,441 --> 00:04:03,380
+Speaker 0: But so two notable incidents have occurred in this space because I know that's the way I bike home now the east side Not the fully side because it's not connected.
+
+45
+00:04:03,480 --> 00:04:14,579
+Speaker 0: But like first half second half is where I bike to and from work so one They have finally done something that was so long in the making that I didn't I just assume I wasn't sure if it would ever happen.
+
+46
+00:04:15,242 --> 00:04:18,891
+Speaker 0: There's a tunnel that kind of goes under the UN Plaza for cars right.
+
+47
+00:04:18,911 --> 00:04:24,670
+Speaker 1: so on First Avenue in this area where you can't go Because there is no path the UN is there.
+
+48
+00:04:24,790 --> 00:04:24,931
+Speaker 1: There's.
+
+49
+00:04:24,951 --> 00:04:26,778
+Speaker 1: no there's nothing about water behind it.
+
+50
+00:04:27,645 --> 00:04:28,636
+Speaker 1: Water you don't want to touch.
+
+51
+00:04:28,737 --> 00:04:31,528
+Speaker 1: yeah So you have to be odd to the way to go.
+
+52
+00:04:31,589 --> 00:04:41,128
+Speaker 1: north is to go on First Avenue like the easternmost Avenue And you it has a bike path pretty much Not have a bike path.
+
+53
+00:04:41,189 --> 00:04:43,159
+Speaker 0: that was a rough commute before the bike path.
+
+54
+00:04:43,661 --> 00:04:49,280
+Speaker 1: Yeah, and you would just go up First Avenue and in front of the UN you could just bike on First Avenue.
+
+55
+00:04:49,360 --> 00:04:53,760
+Speaker 1: But there's also a secret not-so-secret tunnel that you can use to bypass.
+
+56
+00:04:54,702 --> 00:05:06,615
+Speaker 1: Basically, it's like in the middle of First Avenue There's a tunnel and you can go to the left or right of it to just stay outside in the open air Or you can go in the tunnel and come out on First Avenue just much further north.
+
+57
+00:05:06,635 --> 00:05:08,220
+Speaker 0: It's like a little express lane.
+
+58
+00:05:08,782 --> 00:05:09,384
+Speaker 1: Yeah, it's like it.
+
+59
+00:05:09,424 --> 00:05:10,989
+Speaker 1: basically it's a little skipper.
+
+60
+00:05:11,330 --> 00:05:22,268
+Speaker 0: so years ago cuz one thing that always that you know It's it's cool And also annoying to live in a place like New York City because like whenever the UN's in session it fucks up my commute to Work like.
+
+61
+00:05:22,368 --> 00:05:23,277
+Speaker 0: that's just a thing.
+
+62
+00:05:23,297 --> 00:05:28,095
+Speaker 1: somehow They don't let cars and all those roads when the UN's in session and the world doesn't explode.
+
+63
+00:05:28,135 --> 00:05:29,480
+Speaker 0: why kind of like how?
+
+64
+00:05:29,640 --> 00:05:34,179
+Speaker 0: Republicans despite being so pro-gun won't let people bring guns to any of their events.
+
+65
+00:05:36,721 --> 00:05:43,680
+Speaker 0: But a few years ago when the UN went into session They took that tunnel and they don't let cars go down there when the UN's in session.
+
+66
+00:05:44,202 --> 00:05:46,752
+Speaker 0: But they just had the bike path go through there.
+
+67
+00:05:46,812 --> 00:05:48,980
+Speaker 0: Like they just made it part of the bike path temporarily.
+
+68
+00:05:49,982 --> 00:05:56,796
+Speaker 1: And I mean even if someone on a bicycle tries to bomb You only carry so many explosives on a bike like.
+
+69
+00:05:56,977 --> 00:05:59,548
+Speaker 1: it's not good It's not gonna have it's not gonna impact it.
+
+70
+00:05:59,849 --> 00:06:04,081
+Speaker 1: You could be the worst bomb I ever heard the most ineffective Kaboom.
+
+71
+00:06:04,101 --> 00:06:04,723
+Speaker 1: Yep.
+
+72
+00:06:05,385 --> 00:06:11,789
+Speaker 0: So now they've made this they took taking one of these car lanes and made it a double-wide Separated bike lane.
+
+73
+00:06:11,830 --> 00:06:17,520
+Speaker 0: through the tunnel you can still go What's on top of the tunnel and connect to the side streets or take the tunnel like the express lane on a bike?
+
+74
+00:06:18,141 --> 00:06:19,307
+Speaker 0: It's so luxurious.
+
+75
+00:06:19,467 --> 00:06:22,000
+Speaker 0: I actually cut track for the last two weeks since it's been active.
+
+76
+00:06:22,623 --> 00:06:25,499
+Speaker 0: It is shaved on average three minutes off of my commute.
+
+77
+00:06:26,281 --> 00:06:31,320
+Speaker 1: Look, cuz if you if you go around the normal way without the tunnel you gotta stop like five times, right?
+
+78
+00:06:31,580 --> 00:06:36,780
+Speaker 1: It's this the area over there, you know near there's the park near the Japan society.
+
+79
+00:06:36,800 --> 00:06:38,818
+Speaker 0: There's always people protesting right there.
+
+80
+00:06:39,120 --> 00:06:43,200
+Speaker 0: Then you got a deal like there's always a UN protest and there's that is that weird little tourney bit.
+
+81
+00:06:43,260 --> 00:06:47,340
+Speaker 1: We gotta go on the sidewalk for a second technically, but you know, did you see what they did to the tourney bit?
+
+82
+00:06:47,681 --> 00:06:49,085
+Speaker 0: They drew the bike lane cut.
+
+83
+00:06:49,105 --> 00:06:55,067
+Speaker 0: this is not the sidewalk now has the no pedestrian sign there and they drew the bike lane green going Over that sidewalk bit.
+
+84
+00:06:55,691 --> 00:06:57,280
+Speaker 1: Oh, what are people were walking supposed to do?
+
+85
+00:06:57,460 --> 00:07:00,540
+Speaker 0: They're supposed to walk on the other side of that little barrier and they've redone the whole area.
+
+86
+00:07:01,263 --> 00:07:02,228
+Speaker 1: Oh, I see the little barrier.
+
+87
+00:07:02,248 --> 00:07:03,273
+Speaker 0: Yeah, they like they've.
+
+88
+00:07:03,293 --> 00:07:04,539
+Speaker 0: they moved a bunch of stuff around it.
+
+89
+00:07:04,762 --> 00:07:05,560
+Speaker 0: It's it's all right.
+
+90
+00:07:05,600 --> 00:07:12,612
+Speaker 1: The point is is like biking through there is sort of like a. you're slowing down You're going uphill and you're sort of going at each different.
+
+91
+00:07:12,853 --> 00:07:14,460
+Speaker 1: It's like it's not just a straight line.
+
+92
+00:07:14,540 --> 00:07:20,818
+Speaker 0: It's like these little challenges like three different challenges of intersections that each have a unique problem.
+
+93
+00:07:20,838 --> 00:07:21,500
+Speaker 0: That is annoying.
+
+94
+00:07:21,621 --> 00:07:23,560
+Speaker 1: Yeah, well, no, there is a bike lane.
+
+95
+00:07:23,681 --> 00:07:24,465
+Speaker 1: It's just the road.
+
+96
+00:07:24,526 --> 00:07:34,108
+Speaker 1: there is weird and you sort of have to like You know at each at three different junctures like think and look and see whereas if you just go in the tunnel You just bypass all that and just go whoop.
+
+97
+00:07:34,651 --> 00:07:39,212
+Speaker 0: So, uh, I The first time I ran into that tunnel I saw it.
+
+98
+00:07:39,233 --> 00:07:40,719
+Speaker 0: I was like, oh my god, it's open hot.
+
+99
+00:07:40,739 --> 00:07:41,765
+Speaker 0: Damn I'm gonna bike in there.
+
+100
+00:07:41,806 --> 00:07:57,680
+Speaker 0: This is great and in front of me What immediately happens is a confused car just drives into the bike lane and they get stuck Like right away And then it's trying to back out and I can't get around him and it's like the whole fucking thing happens.
+
+101
+00:07:58,205 --> 00:08:01,880
+Speaker 0: and then a couple days ago, I Think oh, yeah, it's open and now they've painted it.
+
+102
+00:08:01,940 --> 00:08:02,850
+Speaker 0: So I get my phone out.
+
+103
+00:08:02,870 --> 00:08:04,646
+Speaker 0: while I'm biking through it I get a little video.
+
+104
+00:08:04,666 --> 00:08:08,448
+Speaker 0: like everybody all my friends in New York This tunnel is open like check it out.
+
+105
+00:08:08,910 --> 00:08:17,620
+Speaker 0: And just as I'm getting my phone out a car Tries to go into it realizes their mistake and backs out and then get stuck on the sidewalk.
+
+106
+00:08:18,820 --> 00:08:22,033
+Speaker 1: Okay, so I'm assuming I don't know why they don't just think they could put.
+
+107
+00:08:22,094 --> 00:08:22,656
+Speaker 1: I don't they don't.
+
+108
+00:08:22,676 --> 00:08:28,839
+Speaker 1: this is a technique that they Don't use often enough, which is just put one metal pylon in the middle.
+
+109
+00:08:29,861 --> 00:08:34,437
+Speaker 1: Yeah, just one metal one the kind that you know has a lock that locks to the ground.
+
+110
+00:08:34,496 --> 00:08:40,820
+Speaker 0: Yeah that kind Yeah, because then if you use it like emergency you open the lock and you set it down, right?
+
+111
+00:08:40,960 --> 00:08:49,152
+Speaker 1: it's like those are used all over the place and it's like yeah, you just put one of those in there and Nobody's gonna be driving into that box.
+
+112
+00:08:49,212 --> 00:08:50,379
+Speaker 1: and if they do ha ha ha.
+
+113
+00:08:53,762 --> 00:08:59,585
+Speaker 0: So a second thing that happened over in that area So that there's a buy.
+
+114
+00:08:59,625 --> 00:09:04,140
+Speaker 0: they've built this pier bike land bike path and walking path to the north of the UN.
+
+115
+00:09:04,601 --> 00:09:15,535
+Speaker 0: That looks like it's gonna bypass the UN but it's suddenly dead ends and there's like a temporary barrier On it where clearly they intend to eventually build it forward, but it's New York.
+
+116
+00:09:15,555 --> 00:09:17,000
+Speaker 0: That's like a 50-year project.
+
+117
+00:09:17,101 --> 00:09:18,168
+Speaker 0: So we'll see if that ever happens.
+
+118
+00:09:18,611 --> 00:09:25,299
+Speaker 0: and then on the other side of the UN there's a park that they connected to some bike lanes that extends pretty far north and then also just dead ends.
+
+119
+00:09:25,319 --> 00:09:41,460
+Speaker 0: and Apparently, you know a tunnel in New York flooded recently and it flooded because a guy on a boat The boat drifted way from where he was supposed to be and then he drilled like a hundred feet down Right into one of the tunnels and immediately started flooding it from the river.
+
+120
+00:09:41,981 --> 00:09:48,680
+Speaker 1: He was doing exploratory work for a path that would go behind the UN and seal the complete the path.
+
+121
+00:09:48,901 --> 00:10:00,800
+Speaker 0: So I guess all the takeaway here is the bike infrastructure is getting better in New York and continues to get better at a rate That is both too slow, but also way faster than my wildest expectations were.
+
+122
+00:10:01,723 --> 00:10:06,337
+Speaker 1: Yeah, it's like, you know, if you look at places that are actually doing it property, you know properly.
+
+123
+00:10:06,357 --> 00:10:10,260
+Speaker 1: and you know You see some European places and some other famous bike place.
+
+124
+00:10:11,082 --> 00:10:13,450
+Speaker 0: We are garbage France.
+
+125
+00:10:13,791 --> 00:10:20,293
+Speaker 0: over the course of about five years like Paris went from Hell to bike into one of the most bike friendly cities in the world.
+
+126
+00:10:20,373 --> 00:10:22,480
+Speaker 1: Yeah people like oh, you can't do it quickly.
+
+127
+00:10:22,560 --> 00:10:22,821
+Speaker 1: It's like.
+
+128
+00:10:22,902 --> 00:10:24,127
+Speaker 1: I bet I hear is proof.
+
+129
+00:10:24,208 --> 00:10:24,850
+Speaker 1: It has been done.
+
+130
+00:10:25,172 --> 00:10:30,611
+Speaker 1: I therefore you were wrong, but You know, it's like someone who says grass isn't green.
+
+131
+00:10:30,631 --> 00:10:31,856
+Speaker 1: Well, here is some green grass.
+
+132
+00:10:32,077 --> 00:10:32,639
+Speaker 1: explain this.
+
+133
+00:10:33,803 --> 00:10:35,108
+Speaker 0: It was just funny that I know.
+
+134
+00:10:35,168 --> 00:10:39,162
+Speaker 0: I see there's the news of all the tunnel flooded and like a contractor fucked up and that Was like the news.
+
+135
+00:10:39,543 --> 00:10:42,834
+Speaker 0: but all I saw reading the article was holy shit.
+
+136
+00:10:43,115 --> 00:10:44,540
+Speaker 0: He's working on that bike path.
+
+137
+00:10:44,620 --> 00:10:45,366
+Speaker 1: The one is right there.
+
+138
+00:10:45,386 --> 00:10:46,775
+Speaker 1: Someone's actually working on that.
+
+139
+00:10:47,238 --> 00:10:52,231
+Speaker 0: just It's like the three levels of had the four levels of happening in New York.
+
+140
+00:10:52,411 --> 00:10:54,960
+Speaker 0: are there's a plan from 50 years ago?
+
+141
+00:10:55,020 --> 00:10:56,525
+Speaker 0: That's clearly just nothing's happening.
+
+142
+00:10:57,228 --> 00:10:58,652
+Speaker 0: One person is doing one thing.
+
+143
+00:10:58,672 --> 00:11:01,183
+Speaker 0: I can see construction or it's done Like.
+
+144
+00:11:01,204 --> 00:11:02,220
+Speaker 0: those are the four phases.
+
+145
+00:11:03,881 --> 00:11:14,139
+Speaker 0: Pretty much so, uh in some news I so for a long time Early gig nights like I used to buy everything on Amazon because I didn't want to go to the store and Amazon was pretty good.
+
+146
+00:11:15,421 --> 00:11:21,867
+Speaker 0: There's definitely been a transition as we've talked about where I actually don't really trust pretty much anything I could buy from Amazon to be safe.
+
+147
+00:11:21,947 --> 00:11:24,580
+Speaker 1: It's it's hard, you know, it depends on what you're buying.
+
+148
+00:11:24,683 --> 00:11:37,820
+Speaker 1: But it's like yeah Since they let third-party sellers sell things on Amazon and commingled the inventory on various items of certain You know depending on circumstances, you know, it's like certain a lot of different things you could buy in there.
+
+149
+00:11:37,940 --> 00:11:39,948
+Speaker 1: You don't know what you're getting.
+
+150
+00:11:39,968 --> 00:11:45,128
+Speaker 1: there have been like, you know counterfeit, you know Health products, right?
+
+151
+00:11:45,288 --> 00:11:45,770
+Speaker 1: It's like.
+
+152
+00:11:45,790 --> 00:11:51,497
+Speaker 1: it's like yeah, even if you save a couple bucks It's like if you're not getting the real deal of whatever you're buying.
+
+153
+00:11:51,558 --> 00:12:02,900
+Speaker 0: sometimes I ordered a Dell ultra sharp that was from the Dell store on Amazon and what was shipped to me Was not a Dell ultra sharp, but some like bullshit.
+
+154
+00:12:04,025 --> 00:12:05,020
+Speaker 1: That's a confusing thing.
+
+155
+00:12:05,245 --> 00:12:14,197
+Speaker 1: It's like you know the Amazon has like you know these stores for brands that are built into Amazon and when you go to those stores you feel like You're buying directly from that brand.
+
+156
+00:12:14,740 --> 00:12:36,470
+Speaker 1: But actually what it is is it's just sort of an aggregation of listings for that brand's products In a way that the brand organized and you actually have to look when you go to the listing and look on the right side Where it'll tell you sold by shift by in very very small text by the way That is not accessible to anyone with a vision problem To figure out.
+
+157
+00:12:36,853 --> 00:12:41,218
+Speaker 1: you know Like yeah who actually provided who you're actually buying from.
+
+158
+00:12:41,238 --> 00:12:46,214
+Speaker 0: Yep So my trust level of Amazon to buy physical goods is free.
+
+159
+00:12:46,254 --> 00:12:48,000
+Speaker 0: It's circling the drain shall we say.
+
+160
+00:12:48,682 --> 00:12:52,259
+Speaker 1: But at least you know, if you're buying a Kindle book it won't be kind of yeah.
+
+161
+00:12:53,794 --> 00:13:05,014
+Speaker 0: But There are other websites that are like so far down the drain that I would have never trusted them day one Specifically Temu and shine team.
+
+162
+00:13:05,034 --> 00:13:05,837
+Speaker 1: Ooh, I think it's team.
+
+163
+00:13:05,877 --> 00:13:06,339
+Speaker 1: Ooh, I don't know.
+
+164
+00:13:06,741 --> 00:13:17,899
+Speaker 1: Yeah, so if people don't know the way these sites came about is It's sort of a scam Where they are using money, right?
+
+165
+00:13:18,240 --> 00:13:27,409
+Speaker 1: Investor money or money from other sources to basically just sell shit at a loss And it's already garbage stuff.
+
+166
+00:13:27,610 --> 00:13:29,740
+Speaker 1: Anyway, alright, it's good.
+
+167
+00:13:29,800 --> 00:13:32,780
+Speaker 1: Obviously if you're selling at a loss you want to sell it less of a loss, right?
+
+168
+00:13:32,880 --> 00:13:37,799
+Speaker 1: So you get you get really low cost stuff and then you have a negative margin on it.
+
+169
+00:13:38,361 --> 00:13:43,580
+Speaker 1: And the idea is to just get customers and market share to be big and then you profit.
+
+170
+00:13:44,961 --> 00:13:46,405
+Speaker 0: Maybe you never profit who knows?
+
+171
+00:13:46,525 --> 00:13:55,912
+Speaker 1: maybe right, but this is a tried and true plan used by companies like, you know Uber and Famously, but lots of Silicon Valley companies they get.
+
+172
+00:13:56,254 --> 00:14:09,371
+Speaker 1: these aren't Silicon Valley companies But they're using that same strategy of just get big get big Get loyal customers with low prices And they got lots of wild Products on there, right?
+
+173
+00:14:09,472 --> 00:14:13,648
+Speaker 0: Yep, and they are like if Amazon has if I trust Amazon 5%.
+
+174
+00:14:13,648 --> 00:14:23,318
+Speaker 0: I trusted these websites day one negative infinity percent like you could not convince me to ever interact with these websites not just because bootlegs.
+
+175
+00:14:23,358 --> 00:14:26,934
+Speaker 0: cuz like You know, I have bought bootleg things on purpose before.
+
+176
+00:14:27,074 --> 00:14:29,587
+Speaker 0: I'm not mad about bootlegs I just want bootleg.
+
+177
+00:14:29,667 --> 00:14:31,658
+Speaker 0: I want to know it's a bootleg like if I buy our.
+
+178
+00:14:31,859 --> 00:14:35,075
+Speaker 0: yeah If I buy our Rolex from the guy in the street, I know exactly what I'm buying.
+
+179
+00:14:35,095 --> 00:14:35,979
+Speaker 0: It's not a Rolex.
+
+180
+00:14:36,522 --> 00:14:44,220
+Speaker 1: Yeah, the shine is specifically like, you know The cheapest fast fashion garbage clothing that will fall apart.
+
+181
+00:14:44,360 --> 00:14:48,433
+Speaker 0: You think an H&M sweatshop an H&M shirt only lasts like a season.
+
+182
+00:14:48,673 --> 00:14:50,860
+Speaker 0: This is stuff that'll last like one washing.
+
+183
+00:14:51,665 --> 00:14:57,031
+Speaker 1: Yeah, it's like even if you're low Even if you are someone who like doesn't have a lot of money.
+
+184
+00:14:57,051 --> 00:15:06,653
+Speaker 1: because normally I would recommend to people it's like yeah Buy like the high quality clothing that will last a long time and you know You'll actually save money long-term.
+
+185
+00:15:06,693 --> 00:15:14,636
+Speaker 1: because even though you spent $500 on a jacket that jacket lasts as long as more than five $100 jackets left.
+
+186
+00:15:14,716 --> 00:15:16,000
+Speaker 0: It's Terry Pratchett's boot theory.
+
+187
+00:15:16,481 --> 00:15:17,404
+Speaker 0: It's really.
+
+188
+00:15:17,644 --> 00:15:20,592
+Speaker 0: it's really expensive to be poor because you can't buy the good boots.
+
+189
+00:15:21,213 --> 00:15:22,196
+Speaker 1: It'll be comfier.
+
+190
+00:15:22,316 --> 00:15:23,820
+Speaker 1: It'll look it's more stylish.
+
+191
+00:15:24,022 --> 00:15:24,667
+Speaker 1: It'll just right.
+
+192
+00:15:24,768 --> 00:15:33,281
+Speaker 1: It's you know, just don't spend $5,000 on a jacket because it has a name brand of some luxury brand on it and isn't actually better as a jacket Right.
+
+193
+00:15:33,722 --> 00:15:46,385
+Speaker 1: So the team who is like the opposite where it's like, okay, if you're really low and unfortunate in your funds it's like you're better off just going to Costco or Target or even
+
+194
+00:15:46,405 --> 00:15:47,491
+Speaker 0: Amazon Walmart,
+
+195
+00:15:47,853 --> 00:16:05,540
+Speaker 1: right or even Amazon Maybe not Amazon but to buy cheap clothing if because the team who clothing will literally like it is so cheap It'll have a hole in it in like two seconds So most of the time but that any money you saved is gonna be lost because you're gonna have to buy another one so quickly.
+
+196
+00:16:05,983 --> 00:16:08,340
+Speaker 0: So that's all priced in to the equation.
+
+197
+00:16:08,782 --> 00:16:18,060
+Speaker 0: the news I've got is even is so much worse than that and this is the kind of thing that It's one of the things I am primarily afraid of when it comes to these shitty websites and Amazon.
+
+198
+00:16:18,542 --> 00:16:21,516
+Speaker 0: But the degree is what is shocking here.
+
+199
+00:16:22,039 --> 00:16:32,704
+Speaker 0: So the the government of South Korea In an investigation found that basically everything you can buy from shine and Teemu Doesn't just have lead in it.
+
+200
+00:16:32,745 --> 00:16:35,174
+Speaker 0: Like you're gonna assume this bootleg crap has lead in it.
+
+201
+00:16:35,896 --> 00:16:39,387
+Speaker 0: It has like Shocking amounts of lead in it.
+
+202
+00:16:39,648 --> 00:16:41,052
+Speaker 0: They're talking they bought.
+
+203
+00:16:41,072 --> 00:16:41,594
+Speaker 0: what do they buy?
+
+204
+00:16:41,634 --> 00:16:49,740
+Speaker 0: They bought a pair of flip-flops that had 229 times the legal limit of phthalates which are dangerous to humans.
+
+205
+00:16:50,701 --> 00:16:56,018
+Speaker 0: They're talking hundreds of times the lead exposure limits in like a t-shirt.
+
+206
+00:16:57,721 --> 00:16:58,725
+Speaker 1: Like where does that?
+
+207
+00:16:58,766 --> 00:17:00,513
+Speaker 1: where is the lead in the t-shirt you put it on?
+
+208
+00:17:00,553 --> 00:17:01,899
+Speaker 1: it's really heavy like what is it?
+
+209
+00:17:02,200 --> 00:17:03,040
+Speaker 1: Yeah, is it an x-ray?
+
+210
+00:17:03,200 --> 00:17:04,900
+Speaker 1: It was it one of those ones for the x-ray at the dentist.
+
+211
+00:17:05,121 --> 00:17:06,324
+Speaker 0: So where this comes from?
+
+212
+00:17:06,384 --> 00:17:14,126
+Speaker 0: and basically they found that pretty much anything you can buy on these sides is full of lead Cadmium and various carcinogens.
+
+213
+00:17:14,185 --> 00:17:15,369
+Speaker 0: like it's so toxic.
+
+214
+00:17:15,711 --> 00:17:17,395
+Speaker 0: now where the lead comes from is actually pretty interesting.
+
+215
+00:17:17,476 --> 00:17:24,980
+Speaker 0: every single product on the whole About like to look like this is a good read this article and then like look at the follow-ups of this investigation.
+
+216
+00:17:25,403 --> 00:17:27,900
+Speaker 0: France had a similar investigation and had similar findings.
+
+217
+00:17:28,480 --> 00:17:32,960
+Speaker 0: Arguably pretty much all countries with any concept of safety standards should be banning these websites.
+
+218
+00:17:33,780 --> 00:17:42,346
+Speaker 0: but where the lead comes from specifically has been a common problem for a long time and it boils down to The machinery that's used to make a bootleg.
+
+219
+00:17:42,386 --> 00:17:47,180
+Speaker 0: crap is usually made so cheaply that the alloys are just full of lead and scrap metal.
+
+220
+00:17:47,401 --> 00:18:02,060
+Speaker 0: Like the machines they use to make the stuff are themselves made out of metals that will leach toxicity or themselves into the products and other products are Laced with lead to make them heavier because they get paid by the pound.
+
+221
+00:18:03,681 --> 00:18:11,526
+Speaker 0: Even making something like what point one percent heavier in bulk will make you some money because lead is cheaper than whatever it is the person's buying.
+
+222
+00:18:11,546 --> 00:18:18,431
+Speaker 0: and there's a lot going on here, but Basically do not ever buy things from these fucking websites.
+
+223
+00:18:18,451 --> 00:18:22,100
+Speaker 0: They are poisoning you irrespective of how crappy this stuff is.
+
+224
+00:18:23,300 --> 00:18:24,959
+Speaker 0: Mmm, so you got some news?
+
+225
+00:18:26,961 --> 00:18:29,173
+Speaker 1: Yeah, what was my news the Chicago way?
+
+226
+00:18:29,313 --> 00:18:38,180
+Speaker 1: Oh, yeah, so You know I remember back in I was in school and You would have to write some citations on your papers that you didn't get in trouble or whatever.
+
+227
+00:18:38,621 --> 00:18:44,220
+Speaker 0: My high school made us use APA and instead of IPA or IP we used we used MLS.
+
+228
+00:18:45,043 --> 00:18:49,118
+Speaker 1: We use IPA for some reason but yeah, so we had to like look up.
+
+229
+00:18:49,218 --> 00:18:52,852
+Speaker 1: we had like these You know or the teacher would usually just photocopy like a guide.
+
+230
+00:18:52,872 --> 00:18:55,000
+Speaker 1: Yeah, I would show you the correct punctuation.
+
+231
+00:18:55,060 --> 00:19:00,697
+Speaker 1: It was really important in your bibliography to use the exact right punctuation for all your citation.
+
+232
+00:19:00,737 --> 00:19:01,560
+Speaker 0: It was complicated.
+
+233
+00:19:01,600 --> 00:19:03,025
+Speaker 0: It was like this part's italic.
+
+234
+00:19:03,045 --> 00:19:03,908
+Speaker 0: There's a period here.
+
+235
+00:19:04,169 --> 00:19:04,911
+Speaker 0: This part's not.
+
+236
+00:19:04,931 --> 00:19:05,794
+Speaker 0: there's a period here.
+
+237
+00:19:06,155 --> 00:19:10,729
+Speaker 1: got a carriage return here Yep, and only much later in life.
+
+238
+00:19:10,769 --> 00:19:19,031
+Speaker 1: Did I learn that really especially if you're making a book of some kind You really just want to use the Chicago manual of style.
+
+239
+00:19:19,131 --> 00:19:20,757
+Speaker 1: That's like what newspaper people.
+
+240
+00:19:20,817 --> 00:19:23,824
+Speaker 1: It's like that's the real Those other ones.
+
+241
+00:19:23,904 --> 00:19:28,238
+Speaker 1: I'm sure there are people in different use cases that use other ones, but the Chicago ones.
+
+242
+00:19:28,258 --> 00:19:28,920
+Speaker 1: That's the one.
+
+243
+00:19:29,984 --> 00:19:54,080
+Speaker 1: and so they print a new edition of it every seven years and That happens to be this year this time Chicago manual of style 18, so If you do any writing or publish any text and you care about the text not just your citations Right, but all the rest of the text being formatted in a consistent style.
+
+244
+00:19:54,140 --> 00:19:57,317
+Speaker 1: That is you know publishable or whatever.
+
+245
+00:19:59,203 --> 00:20:07,820
+Speaker 1: It is useful to obtain the Chicago manual of style by some means Piracy or buying an old edition at a used bookstore.
+
+246
+00:20:09,440 --> 00:20:11,610
+Speaker 0: Bootleg digital good can't poison you.
+
+247
+00:20:11,630 --> 00:20:12,836
+Speaker 0: That's right.
+
+248
+00:20:13,017 --> 00:20:17,640
+Speaker 1: So You know, I'm just letting people know 18.
+
+249
+00:20:17,640 --> 00:20:20,959
+Speaker 1: Supposedly the release date is like soon like a few days from now.
+
+250
+00:20:21,322 --> 00:20:27,080
+Speaker 1: But when I was at the bookstore in Portland I saw 18 on the shelf and I said hey, isn't that only gonna be released like in a few weeks?
+
+251
+00:20:27,260 --> 00:20:27,604
+Speaker 1: And I was.
+
+252
+00:20:27,624 --> 00:20:28,656
+Speaker 1: they have that here already.
+
+253
+00:20:30,360 --> 00:20:41,856
+Speaker 1: Personally I decided to buy the 18th edition because this way The book version because the digital version although the digital version will get updated.
+
+254
+00:20:42,116 --> 00:20:43,220
+Speaker 1: Do I really need updates?
+
+255
+00:20:44,000 --> 00:20:46,091
+Speaker 1: It's like I'm not in the publishing business.
+
+256
+00:20:46,251 --> 00:20:58,740
+Speaker 1: This is good enough for all my purposes And also it'll last at least seven years probably longer because even seven years from now It's like oh, this is only one edition old and it's like how much has really changed?
+
+257
+00:20:59,041 --> 00:21:01,720
+Speaker 1: This thing's gonna last me at least 14 to 21.
+
+258
+00:21:01,720 --> 00:21:03,528
+Speaker 0: I feel like you should buy this too because I have.
+
+259
+00:21:03,608 --> 00:21:10,413
+Speaker 0: so I have a hardcover book in my desk that I've had for 16 years and it is Steven few.
+
+260
+00:21:10,433 --> 00:21:12,020
+Speaker 0: what you know, the the chart guy.
+
+261
+00:21:13,341 --> 00:21:17,920
+Speaker 0: It's his book on the correct design of charts to show different kinds of data.
+
+262
+00:21:18,482 --> 00:21:28,940
+Speaker 0: I to this day like I reference this hardcover book on at least a weekly basis in my actual life I use this book so much I feel like it would be stupid for me to not also buy the Chicago manual of style similarly.
+
+263
+00:21:30,182 --> 00:21:32,839
+Speaker 1: But yeah, so it's gonna last a long time.
+
+264
+00:21:34,020 --> 00:21:46,187
+Speaker 1: And if you buy the paper edition even legally, even though it's expensive and big and takes up a lot of space You don't have to keep paying for it Subscription or any other kind of
+
+265
+00:21:46,227 --> 00:21:51,268
+Speaker 0: like in the old days when you could just buy Adobe software as is Instead of creative cloud.
+
+266
+00:21:51,951 --> 00:22:02,959
+Speaker 1: So, you know based on your situation I would recommend not buying it at all buying an old edition cheaply pirating a digital edition or buying the current edition.
+
+267
+00:22:02,979 --> 00:22:13,100
+Speaker 1: or I guess if you're in the business you get you're probably already subscribed to the digital version and Always have everything up to date all the time, but you know, this will come very much in handy.
+
+268
+00:22:13,581 --> 00:22:24,000
+Speaker 1: You know for things like, you know making websites or you know, formatting various documents in the English language Especially book type documents.
+
+269
+00:22:24,341 --> 00:22:34,776
+Speaker 0: yeah, I would also say, you know, this is some professional advice because you know, I Terrifyingly realize that I have like 17 years of experience and like I'm I'm the only in capital markets.
+
+270
+00:22:34,796 --> 00:22:53,679
+Speaker 0: Like I'm an old guy now I Would say broadly that younger people coming into these professional industries in my like wide experience over the last several years Are increasingly Unable to format documents in a way that makes sense.
+
+271
+00:22:54,222 --> 00:23:10,080
+Speaker 0: like the writing is kind of just big blobs all over the place and I think it would behoove people who want to make a good impression professionally to have a style guide of some kind that you follow because Having a style guide means you don't have to think about that part.
+
+272
+00:23:10,120 --> 00:23:14,019
+Speaker 0: You can focus on what you're trying to say instead of exactly how you're saying it.
+
+273
+00:23:14,481 --> 00:23:18,060
+Speaker 0: Like you don't wanna be the first you always is thinking do I capitalize this letter or not?
+
+274
+00:23:18,301 --> 00:23:20,995
+Speaker 0: Just look it up do whatever the book says and move on to your idea.
+
+275
+00:23:21,015 --> 00:23:32,244
+Speaker 1: Yeah It's also worth noting that it's really nice to have something at least for at least for the kind of way I think it's nice to have a something that says Follow this.
+
+276
+00:23:32,344 --> 00:23:33,709
+Speaker 1: this is exactly how you do it.
+
+277
+00:23:33,749 --> 00:23:35,715
+Speaker 1: There isn't a lot of ambiguity in the manual.
+
+278
+00:23:35,896 --> 00:23:41,514
+Speaker 0: It's something I actually Struggle to do well as a manager in my life all these years.
+
+279
+00:23:41,614 --> 00:23:51,406
+Speaker 0: to be explicit Something like a lot of people I say like, oh I don't want to be micromanaged but it's not micromanagement to tell someone Here's exactly what I want you to do.
+
+280
+00:23:51,426 --> 00:23:55,859
+Speaker 1: Like yeah, it's so thick because it's covering like every edge case.
+
+281
+00:23:55,899 --> 00:24:09,116
+Speaker 1: Yeah But yeah, so if you go on Amazon right now Where you might want to buy from somewhere else But at least they won't send you a book that's made of lead I can assure you that I hope.
+
+282
+00:24:09,136 --> 00:24:10,120
+Speaker 1: I hope not.
+
+283
+00:24:10,340 --> 00:24:13,147
+Speaker 1: The brand new one is $70 hardcover.
+
+284
+00:24:13,408 --> 00:24:23,374
+Speaker 1: the 17th edition from seven years ago, which is probably still just fucking fine is $45 new and I don't see the 16th edition here.
+
+285
+00:24:23,394 --> 00:24:24,159
+Speaker 1: Oh, there it is.
+
+286
+00:24:25,562 --> 00:24:33,579
+Speaker 1: For some reason the 16th edition is $50 and the 15th edition is $23 16 must had a big update.
+
+287
+00:24:34,424 --> 00:24:35,147
+Speaker 1: Yeah, I don't know.
+
+288
+00:24:35,669 --> 00:24:38,000
+Speaker 1: Yeah, you probably don't want to go that old with this.
+
+289
+00:24:38,221 --> 00:24:39,709
+Speaker 1: Also, I forgot to mention the option.
+
+290
+00:24:39,729 --> 00:24:48,458
+Speaker 1: of course your library probably has this fucking book If you need it for just a short period or want to just photocopy the relevant parts library.
+
+291
+00:24:50,702 --> 00:24:55,758
+Speaker 1: But yeah, you don't want to go too old because like some of those older editions would be like when cell phones didn't exist.
+
+292
+00:24:55,919 --> 00:24:58,460
+Speaker 0: and Here's how to cite a telegram.
+
+293
+00:25:02,883 --> 00:25:05,685
+Speaker 0: But anyway things Of the day.
+
+294
+00:25:05,846 --> 00:25:11,850
+Speaker 0: so I think I've really enjoyed lately on YouTube and YouTube shorts in general are.
+
+295
+00:25:12,132 --> 00:25:19,863
+Speaker 0: I'm bumping into a lot of Sort of in media res short micro fiction and this is one of those I need to.
+
+296
+00:25:19,923 --> 00:25:21,653
+Speaker 1: I need to get that in my recs because it is.
+
+297
+00:25:21,754 --> 00:25:22,799
+Speaker 1: I am not seeing any of it.
+
+298
+00:25:23,000 --> 00:25:23,663
+Speaker 0: I'm starting to.
+
+299
+00:25:23,683 --> 00:25:27,478
+Speaker 0: I bumped into this randomly and this is a some.
+
+300
+00:25:27,618 --> 00:25:39,594
+Speaker 0: this is a 42nd long YouTube short that I think Tells a fairly compelling Extremely succinct story in a novel way like it's.
+
+301
+00:25:39,674 --> 00:25:40,397
+Speaker 0: it's a good story.
+
+302
+00:25:40,457 --> 00:25:42,307
+Speaker 0: It's just titled consciousness.
+
+303
+00:25:43,032 --> 00:25:49,634
+Speaker 0: and if I had to characterize What the story beat is of the reveal at the end of this 42nd video?
+
+304
+00:25:49,734 --> 00:26:00,808
+Speaker 0: I think the reveal is oh no this is worth watching and I'm gonna make a point of trying to find more sources of Short like poignant micro fiction for it.
+
+305
+00:26:01,332 --> 00:26:08,182
+Speaker 1: Well, I had my recent thing of the day Which I think is still maybe my favorite thing of the day of the past year or two.
+
+306
+00:26:08,302 --> 00:26:11,430
+Speaker 1: few is ye Clark Jackson motorbikes.
+
+307
+00:26:12,771 --> 00:26:23,723
+Speaker 1: you know little story jams where he plays a little digital instrument a little song and And the story appears on the screen in you know subtitle form.
+
+308
+00:26:24,405 --> 00:26:29,215
+Speaker 1: Those are amazing short fictions He has there And he's still going.
+
+309
+00:26:29,636 --> 00:26:31,906
+Speaker 0: so, you know, maybe some time some year.
+
+310
+00:26:32,107 --> 00:26:32,810
+Speaker 0: It might be worth it.
+
+311
+00:26:32,930 --> 00:26:37,889
+Speaker 0: Why don't they take a trip maybe Austin a few people and head down to like the International Storytelling Festival?
+
+312
+00:26:39,770 --> 00:26:40,953
+Speaker 0: Storytelling festivals now.
+
+313
+00:26:40,973 --> 00:26:42,095
+Speaker 1: Yeah.
+
+314
+00:26:43,058 --> 00:26:44,020
+Speaker 0: Anyway, what do you got?
+
+315
+00:26:46,091 --> 00:26:50,406
+Speaker 1: So this is website that I just came that I guess I've discovered recently.
+
+316
+00:26:50,426 --> 00:26:56,830
+Speaker 1: it was promoting itself I think podcast index org and It may be something.
+
+317
+00:26:56,870 --> 00:27:00,121
+Speaker 1: it may be a scam possibly right but you know they are.
+
+318
+00:27:00,282 --> 00:27:08,853
+Speaker 1: the only thing I could find on the site related to making money for the people who create the site was a PayPal donate button, which is rather innocuous, right?
+
+319
+00:27:09,114 --> 00:27:16,100
+Speaker 1: There doesn't seem to be any VC behind this or anything that I can tell and it is a dot org URL which anyone can buy.
+
+320
+00:27:17,924 --> 00:27:21,927
+Speaker 1: But what it seems like what they are attempting to do They are.
+
+321
+00:27:21,947 --> 00:27:22,978
+Speaker 1: it says that right there.
+
+322
+00:27:24,482 --> 00:27:28,074
+Speaker 1: The core podcast index is financed by its founders and stakeholders.
+
+323
+00:27:28,114 --> 00:27:34,556
+Speaker 1: podcasters developers listeners Right corporate interests and advertising are antithetical to our business.
+
+324
+00:27:34,897 --> 00:27:35,679
+Speaker 0: That's good words.
+
+325
+00:27:36,322 --> 00:27:39,558
+Speaker 1: podcast index LLC strives to grow they aren't.
+
+326
+00:27:39,699 --> 00:27:45,580
+Speaker 1: LLC Strives to grow by providing enhanced API services of value to developers and organizations.
+
+327
+00:27:45,741 --> 00:27:51,860
+Speaker 1: So it seems like they want to make their money by having an enormous podcast database That is just free and open to the public.
+
+328
+00:27:52,301 --> 00:28:02,985
+Speaker 1: But hey, if anyone wants to query our database for a business interest pay us money or I or I do have a suspicion That the ultimate guide.
+
+329
+00:28:03,026 --> 00:28:07,604
+Speaker 0: this is based solely on what we talked about and me skimming this website for the first time for about 30 seconds.
+
+330
+00:28:08,290 --> 00:28:13,499
+Speaker 0: this reeks of Get a data set for to train machine learning models.
+
+331
+00:28:14,403 --> 00:28:16,933
+Speaker 1: It could it could but they don't seem to have done that.
+
+332
+00:28:16,973 --> 00:28:23,398
+Speaker 0: Yeah, honestly, I would read I want geek nights to be in every machine learning model because we can poison it with our rim and scottiness.
+
+333
+00:28:23,739 --> 00:28:32,156
+Speaker 1: Sure the point is is that they already claim to have over four million podcasts in their index.
+
+334
+00:28:32,176 --> 00:28:40,139
+Speaker 1: and seeing that archive org Unsurprisingly lost in court again, which we knew was gonna happen who knows about the future of them?
+
+335
+00:28:41,043 --> 00:28:44,960
+Speaker 1: But good guys good news for archive org is that Google is now linking to them?
+
+336
+00:28:45,160 --> 00:28:45,666
+Speaker 1: Which I don't.
+
+337
+00:28:45,706 --> 00:28:46,799
+Speaker 1: who knows what's gonna happen there?
+
+338
+00:28:47,245 --> 00:28:51,648
+Speaker 1: But at least you know Regardless of what archive happens to archive org right.
+
+339
+00:28:51,728 --> 00:29:10,319
+Speaker 1: podcasts are really a sort of a safe target to archive Because the vast majority of them are you know, like just creative commons licenses or whatever and totally Okay to save archive reserve And such I mean you guys definitely is.
+
+340
+00:29:11,221 --> 00:29:14,955
+Speaker 0: We've gone through what four different creative commons licenses over the years.
+
+341
+00:29:14,975 --> 00:29:15,637
+Speaker 0: We keep updating.
+
+342
+00:29:15,677 --> 00:29:23,980
+Speaker 1: Yeah, so It's like hey, you know if even if archive org goes right the podcast will be saved, you know.
+
+343
+00:29:24,020 --> 00:29:35,758
+Speaker 1: And I think it's also great because so many podcasts especially of the past people made podcasts and they hosted them who knows where and those hosts went away or they hosted right.
+
+344
+00:29:35,798 --> 00:29:40,511
+Speaker 1: and it's like if They can actually start archiving podcasts and they keep doing it.
+
+345
+00:29:40,531 --> 00:29:43,419
+Speaker 1: They can keep this site up for a long period of time.
+
+346
+00:29:44,003 --> 00:29:52,940
+Speaker 1: eventually they will have Important archives of like podcasts that lasted three episodes a long time ago and aren't anywhere else.
+
+347
+00:29:53,622 --> 00:29:57,119
+Speaker 0: I wonder I wonder if the the trip the Triple H is in there.
+
+348
+00:29:57,990 --> 00:30:00,366
+Speaker 0: Yeah, the podcast Whether it's this site or maybe some other site, right?
+
+349
+00:30:04,780 --> 00:30:08,894
+Speaker 1: This is the the thing I found that is along those lines.
+
+350
+00:30:09,235 --> 00:30:10,138
+Speaker 1: so far so good.
+
+351
+00:30:10,198 --> 00:30:13,539
+Speaker 0: at least I'm gonna look at its deal a little more closely.
+
+352
+00:30:14,262 --> 00:30:24,960
+Speaker 1: Yeah, it definitely is something that needs to be looked at more closely but the surface level is like All right, I think we should just get right into it.
+
+353
+00:30:25,080 --> 00:30:29,300
+Speaker 0: I'm not gonna do my other news cuz we're going long and I want to talk a lot about this thing.
+
+354
+00:30:29,441 --> 00:30:31,151
+Speaker 0: So way back actually not way back.
+
+355
+00:30:31,191 --> 00:30:38,255
+Speaker 0: We did it fairly recently on July 3rd when we reviewed Oh coo the inner chambers.
+
+356
+00:30:38,717 --> 00:30:51,200
+Speaker 0: on geek nights We at our news pointing out that there was a Lupin the third Kabuki stage play that was streaming in the US with English subtitles streaming and much of the world.
+
+357
+00:30:51,240 --> 00:30:54,800
+Speaker 1: Yeah, or at least I don't know much of the world but around the world in various.
+
+358
+00:30:54,880 --> 00:30:58,335
+Speaker 0: But I think the key is a full high production value.
+
+359
+00:30:58,416 --> 00:31:12,117
+Speaker 1: Kabuki production streamed on a good website that works with English subtitles available to live and They did it live but then the live performance was saved as a VOD.
+
+360
+00:31:12,257 --> 00:31:12,960
+Speaker 1: yeah a whole week.
+
+361
+00:31:13,242 --> 00:31:17,006
+Speaker 1: So as long as you could get to this website within a week You could see it now.
+
+362
+00:31:17,066 --> 00:31:26,127
+Speaker 0: the website itself is cool because it's basically like this Kabuki streaming service that's trying to elevate awareness of the art and Like there's a lot of good stuff.
+
+363
+00:31:26,147 --> 00:31:28,620
+Speaker 1: I guess think I guess they couldn't get their kabuki on Netflix.
+
+364
+00:31:28,861 --> 00:31:29,929
+Speaker 1: So they're just going with.
+
+365
+00:31:29,969 --> 00:31:31,660
+Speaker 1: yeah, do it to do it themselves.
+
+366
+00:31:31,741 --> 00:31:34,620
+Speaker 1: They don't want to do it on YouTube because they just want to sell tickets.
+
+367
+00:31:35,751 --> 00:31:40,117
+Speaker 1: Now make make some money because I guess they're not making enough money just doing it in a theater.
+
+368
+00:31:40,618 --> 00:31:47,577
+Speaker 0: and it's kabuki on demand For an official video service and it had some hiccups, but it mostly worked.
+
+369
+00:31:47,677 --> 00:31:56,500
+Speaker 0: but I guess To be clear before we go into this review We're not gonna like do an overview of the history and context of kabuki because this is the first I don't know it.
+
+370
+00:31:56,580 --> 00:32:00,540
+Speaker 0: This is the first kabuki production I have ever watched in its entirety.
+
+371
+00:32:00,540 --> 00:32:03,028
+Speaker 0: I've only ever seen short clips in my entire life.
+
+372
+00:32:03,108 --> 00:32:06,940
+Speaker 0: Like this is my first actual proper experience with this art form.
+
+373
+00:32:07,321 --> 00:32:10,593
+Speaker 1: So I heard I know that kabuki theater is a thing.
+
+374
+00:32:10,854 --> 00:32:14,972
+Speaker 1: I know that like no theater is a thing Have I ever seen a no stage play?
+
+375
+00:32:15,012 --> 00:32:16,379
+Speaker 1: No, I haven't right.
+
+376
+00:32:17,361 --> 00:32:18,144
+Speaker 1: Pun not intended.
+
+377
+00:32:18,204 --> 00:32:18,324
+Speaker 1: So
+
+378
+00:32:18,846 --> 00:32:36,500
+Speaker 0: my broad understanding of kabuki before we came into this like my per again This is just what I thought about it as a person Because I didn't think that much about it was that it was sort of a newer more avant-garde form of performance when it first became popular.
+
+379
+00:32:38,382 --> 00:32:42,600
+Speaker 0: And it's always middle-aged men and it's crazy and over-the-top.
+
+380
+00:32:43,001 --> 00:32:43,925
+Speaker 0: That's like the three things.
+
+381
+00:32:43,985 --> 00:32:46,012
+Speaker 0: I knew about it and I didn't really know much else.
+
+382
+00:32:46,735 --> 00:32:54,608
+Speaker 1: and I'd seen you know depictions of it in mostly anime but other Japanese media and other, you know forms.
+
+383
+00:32:55,130 --> 00:33:03,951
+Speaker 1: right they were like referencing it, but I'd never seen an actual Kabuki show in its entirety, you know as as it was.
+
+384
+00:33:04,192 --> 00:33:09,548
+Speaker 0: so having now seen this we're mostly going to review what we watched just looking at a movie.
+
+385
+00:33:09,568 --> 00:33:19,875
+Speaker 0: so we watched the Lupin the third kabuki production and from a pure Entertainment standpoint, you know, I comparing it to a movie or a video game anything else.
+
+386
+00:33:20,216 --> 00:33:22,398
+Speaker 0: This thing is fucking amazing and you should watch it.
+
+387
+00:33:22,438 --> 00:33:27,855
+Speaker 1: if This it definitely, you know, it wasn't what I expected.
+
+388
+00:33:27,935 --> 00:33:33,068
+Speaker 1: cuz I've you said it, you know, cuz I expect But it was still pretty great.
+
+389
+00:33:33,290 --> 00:33:40,406
+Speaker 0: Like I was very happy I saw I was all in From the very beginning to the end and nope This is super long.
+
+390
+00:33:40,466 --> 00:33:43,320
+Speaker 0: at no point was I bored at no point did I want to end?
+
+391
+00:33:44,061 --> 00:33:45,406
+Speaker 0: This was this was a peak.
+
+392
+00:33:45,487 --> 00:33:47,134
+Speaker 1: It felt way shorter than it was.
+
+393
+00:33:47,194 --> 00:33:48,078
+Speaker 1: It was what three hours.
+
+394
+00:33:48,178 --> 00:33:53,795
+Speaker 0: Oh my god Mission that we actually paused it to go like take a break before we could.
+
+395
+00:33:53,835 --> 00:33:55,240
+Speaker 1: Yeah, it's like on the clock.
+
+396
+00:33:55,361 --> 00:33:57,779
+Speaker 1: It was like really long, but it felt really short.
+
+397
+00:33:58,722 --> 00:34:02,230
+Speaker 1: But I mean, hey if you're paying to go to the theater buying tickets, you're expecting value.
+
+398
+00:34:02,330 --> 00:34:11,094
+Speaker 0: Yeah, so I would say if you know Anything about Lupin the third you will enjoy this to a high degree.
+
+399
+00:34:11,435 --> 00:34:14,530
+Speaker 0: if you have never heard of Lupin the third You'll still enjoy this.
+
+400
+00:34:14,751 --> 00:34:22,904
+Speaker 1: if you have no idea what kabuki is If you don't know anything about Lupin the third those some parts might go to go over your head or not really Right.
+
+401
+00:34:23,386 --> 00:34:26,958
+Speaker 0: Well similarly if you don't know anything about kabuki this thing is.
+
+402
+00:34:27,821 --> 00:34:29,069
+Speaker 0: Emily was pointing this stuff out.
+
+403
+00:34:29,693 --> 00:34:46,565
+Speaker 0: This thing is like dense and lousy with inside jokes about Kabuki, yes, some of those came through on the subtitles But but it also gave me the feeling that there was more that I didn't well like the thing I did So right at the beginning.
+
+404
+00:34:46,627 --> 00:34:53,179
+Speaker 0: when go man is standing there and like he's in this scene That doesn't seem very Lupani and he's talking about how beautiful it is outside.
+
+405
+00:34:53,762 --> 00:35:02,212
+Speaker 0: The whole thing is this long joke about the fact that going on is a character that's super commonly portrayed in kabuki And that was like a reference to.
+
+406
+00:35:02,774 --> 00:35:03,317
+Speaker 0: is it this?
+
+407
+00:35:03,377 --> 00:35:03,880
+Speaker 0: go him on?
+
+408
+00:35:04,080 --> 00:35:09,760
+Speaker 0: No, it's just totally other going on like it was this inside joke, and that's what people are laughing at in the audience.
+
+409
+00:35:10,803 --> 00:35:12,499
+Speaker 1: That doesn't come through on the sub to nope.
+
+410
+00:35:13,365 --> 00:35:14,110
+Speaker 0: And the other thing cuz.
+
+411
+00:35:14,171 --> 00:35:17,385
+Speaker 0: Emily explained this to me but During the show I did.
+
+412
+00:35:17,465 --> 00:35:19,876
+Speaker 1: I did notice though that like why is going on like that?
+
+413
+00:35:19,976 --> 00:35:25,897
+Speaker 1: and then it's like, okay now He's back to what he's supposed to be but also what I really appreciated and this I thought this was.
+
+414
+00:35:25,917 --> 00:35:29,820
+Speaker 0: at first I thought this moment was sort of a moment.
+
+415
+00:35:30,242 --> 00:35:34,720
+Speaker 0: That was because they thought a lot of people who weren't familiar with kabuki were watching it because of the Lupin angle.
+
+416
+00:35:35,302 --> 00:35:41,968
+Speaker 0: But though like the MC short sort of comes out and as a character Kind of it's introduces mom.
+
+417
+00:35:41,988 --> 00:35:42,370
+Speaker 1: Oh the mom.
+
+418
+00:35:42,450 --> 00:35:43,534
+Speaker 1: Oh, I love the mom.
+
+419
+00:35:43,594 --> 00:35:45,100
+Speaker 0: Oh part was fantastic.
+
+420
+00:35:45,902 --> 00:35:48,459
+Speaker 0: Oh, yeah, but it broke the fourth wall.
+
+421
+00:35:49,542 --> 00:35:52,156
+Speaker 1: They broke the fourth wall a lot even before and after that.
+
+422
+00:35:52,196 --> 00:35:52,800
+Speaker 0: Yeah, and you know what?
+
+423
+00:35:53,140 --> 00:35:54,768
+Speaker 0: That's a standard part of kabuki.
+
+424
+00:35:54,788 --> 00:35:55,251
+Speaker 0: kabuki is
+
+425
+00:35:55,472 --> 00:36:02,601
+Speaker 1: all I learned that by watch it was one of the things I learned about kabuki was that breaking the fourth wall is a thing that happens in kabuki all the time
+
+426
+00:36:02,882 --> 00:36:14,020
+Speaker 0: and that leads to the fourth wall gets broken backwards as well because As mama explained and then I learned a lot more because I read a lot of Wikipedia after we watch that Lupin.
+
+427
+00:36:15,783 --> 00:36:30,452
+Speaker 0: It is intended and was always intended to be an interactive experience So similar to how a lot of people who experience Shakespeare Have a very weird idea of what Shakespeare's was really like compared to what it was like back in the day with people throwing shit at the actors.
+
+428
+00:36:30,533 --> 00:36:38,322
+Speaker 1: and yeah, I feel like I was told From the very beginning that back in the day like I remember the first time we learned any Shakespeare in high school Right.
+
+429
+00:36:38,563 --> 00:36:40,750
+Speaker 1: The teacher was pretty much a Shakespeare slash.
+
+430
+00:36:40,790 --> 00:36:54,733
+Speaker 1: Mark Twain nerd lucky and New York Yankees nerd That's the three things that guy cared about in life Before even telling us Anything about the the plays or the writing or the person right?
+
+431
+00:36:54,934 --> 00:36:58,828
+Speaker 1: The first thing he talked about was the theater He's like, this is the Globe Theatre.
+
+432
+00:36:58,848 --> 00:37:01,220
+Speaker 1: literally the first words like this is the Globe Theatre.
+
+433
+00:37:01,963 --> 00:37:02,847
+Speaker 1: This is where all the shake.
+
+434
+00:37:02,867 --> 00:37:03,711
+Speaker 1: This is what it looked like.
+
+435
+00:37:03,791 --> 00:37:05,037
+Speaker 1: is a picture drawing right?
+
+436
+00:37:05,740 --> 00:37:06,283
+Speaker 1: He's like.
+
+437
+00:37:06,323 --> 00:37:15,600
+Speaker 1: this is where the Shakespeare plays were performed first Right and mostly and this is what it was like being there and then everything else came after that.
+
+438
+00:37:16,101 --> 00:37:20,051
+Speaker 1: So I never sort of got the that other impression.
+
+439
+00:37:20,072 --> 00:37:20,673
+Speaker 0: I didn't get.
+
+440
+00:37:20,693 --> 00:37:23,180
+Speaker 0: I didn't get the proper version until 10th grade.
+
+441
+00:37:24,223 --> 00:37:25,066
+Speaker 1: This was 10th grade.
+
+442
+00:37:25,086 --> 00:37:26,190
+Speaker 1: They didn't give us any Shakespeare.
+
+443
+00:37:26,210 --> 00:37:26,691
+Speaker 0: Oh, we had.
+
+444
+00:37:26,712 --> 00:37:27,574
+Speaker 0: we had 8th 9th 10th 11th 12th.
+
+445
+00:37:29,240 --> 00:37:30,539
+Speaker 0: Every year was a different Shakespeare.
+
+446
+00:37:31,362 --> 00:37:34,350
+Speaker 1: We only do unless you took the Shakespeare class on purpose.
+
+447
+00:37:34,370 --> 00:37:35,293
+Speaker 1: you got.
+
+448
+00:37:35,513 --> 00:37:37,158
+Speaker 1: you got one Shakespeare in 10th grade.
+
+449
+00:37:37,819 --> 00:37:48,066
+Speaker 0: but Kabuki also is basically the Rocky Horror Picture Show and always was in that expert audience.
+
+450
+00:37:48,126 --> 00:38:01,295
+Speaker 0: members will yell things and Like you've got like people you got to be the person who knows just like if you go to Rocky Horror There's the people in the crowd who are gonna kind of make the right things happen.
+
+451
+00:38:01,817 --> 00:38:02,680
+Speaker 0: the same thing happen.
+
+452
+00:38:02,680 --> 00:38:03,583
+Speaker 1: But that's literally all.
+
+453
+00:38:03,603 --> 00:38:04,888
+Speaker 1: that's 90% of the people.
+
+454
+00:38:05,009 --> 00:38:09,678
+Speaker 1: everyone at the Rocky Horror who wasn't brought there for the first time I'll buy a friend is one of those people.
+
+455
+00:38:11,200 --> 00:38:25,069
+Speaker 0: but it's so much more dense than the rocky horror thing because like Kabuki actors have a stage name that's well known and people will like yell the stage name of the Person who is playing the character on stage.
+
+456
+00:38:25,330 --> 00:38:46,670
+Speaker 0: if they think they're doing a particularly good job in a scene like to the point of almost interrupting the scene they get so loud, but apparently there's like a code where they'll yell the name of the father or the grandfather or a predecessor who played that role in the past or who used that stage name in the past.
+
+457
+00:38:46,690 --> 00:38:53,990
+Speaker 0: if You that's like the equivalent of the standing ovation like I say yeah I say your stage name because I think you're doing really good.
+
+458
+00:38:54,632 --> 00:38:57,884
+Speaker 0: I say the stage name of the guy who played that character a hundred years ago.
+
+459
+00:38:57,944 --> 00:38:59,370
+Speaker 0: if I think you have surpassed him.
+
+460
+00:38:59,852 --> 00:39:02,910
+Speaker 0: Like there's this whole thing going on behind the scenes.
+
+461
+00:39:03,251 --> 00:39:20,451
+Speaker 0: So when you're watching this people just yell and you start to get used to like they yell when someone Really is eating the scenery or it's like a really milk in the performance mmm, so Not to get any more like kabuki specific stuff because again These are just impressions and like me reading Wikipedia The
+
+462
+00:39:20,492 --> 00:39:24,224
+Speaker 1: point is is that you can learn a lot about kabuki by watching this.
+
+463
+00:39:24,305 --> 00:39:36,470
+Speaker 1: they knew that a lot of people watching and they were hoping would be new to kabuki and they did as good a job as they could of trying to Introduce you to what's going on without just literally, you know, they explained some things.
+
+464
+00:39:36,510 --> 00:39:44,362
+Speaker 1: I think the only thing they literally explained was the the searching at night scene thing But everything else you just sort of learn by osmosis of.
+
+465
+00:39:44,463 --> 00:39:52,250
+Speaker 1: you know, yeah and obviously like rim pointed out There are some things you can't learn if you don't know already or don't speak the language, right?
+
+466
+00:39:52,350 --> 00:39:57,701
+Speaker 1: They did as much as they could But given that, you know, they're still early in doing this.
+
+467
+00:39:57,721 --> 00:39:59,990
+Speaker 1: They've only done it so many times, but it starts.
+
+468
+00:40:00,094 --> 00:40:11,990
+Speaker 0: I'm sorry It starts out so strong where on stage with practical effects The classic Lupin the third title card scroll with the noises and everything just happens over the stage.
+
+469
+00:40:12,834 --> 00:40:15,709
+Speaker 0: Mm-hmm, and that isn't just a Lupin thing.
+
+470
+00:40:16,694 --> 00:40:20,250
+Speaker 0: What big part of kabuki is crazy over-the-top special effects?
+
+471
+00:40:20,390 --> 00:40:23,289
+Speaker 0: They were always pushing the bleeding edge of whatever they could get away with in the theater.
+
+472
+00:40:23,891 --> 00:40:30,130
+Speaker 1: You know breaking through the wall that there's a waterfall in one scene like this literally water falling and they went in the water.
+
+473
+00:40:31,017 --> 00:40:32,770
+Speaker 0: There's trapdoors everywhere.
+
+474
+00:40:32,850 --> 00:40:37,376
+Speaker 0: Yeah, like explosions happen like the special effects That's a big part of it.
+
+475
+00:40:37,456 --> 00:40:40,110
+Speaker 0: and the Lupin the third does not disappoint in that regard.
+
+476
+00:40:40,451 --> 00:40:43,867
+Speaker 0: This is like you think is impressive with their rotating stage.
+
+477
+00:40:43,947 --> 00:40:44,429
+Speaker 0: Fuck that.
+
+478
+00:40:45,232 --> 00:40:57,370
+Speaker 1: Yeah, the production value of the sets was somewhere in between like the Broadway and the Opera But also a little bit like in some ways cheap to write like a high school play in some ways not cheap, right?
+
+479
+00:40:57,751 --> 00:41:02,850
+Speaker 1: It's like a high school play got a bunch of money and went fancy, but it was still high schoolers.
+
+480
+00:41:02,871 --> 00:41:03,550
+Speaker 1: Yeah, you know what?
+
+481
+00:41:03,610 --> 00:41:13,644
+Speaker 0: It's like when the high schoolers do the Peter fan thing but they get the harness and the one kid gets to be on the harness doing the flying and They did it correctly and they didn't die or anything.
+
+482
+00:41:14,248 --> 00:41:26,123
+Speaker 1: Yeah but the other thing I noticed right the was that you know, which I guess is sort of a Like as a caricature of kabuki that I had known just from seeing it in other.
+
+483
+00:41:26,464 --> 00:41:31,920
+Speaker 1: seeing it referenced was how they always move their head like And then they pause in like a face.
+
+484
+00:41:32,342 --> 00:41:34,170
+Speaker 1: That's like a really expressive face.
+
+485
+00:41:34,270 --> 00:41:41,030
+Speaker 1: Yeah, and they sort of like do that a lot right - and it's like oh that's not like making fun of them.
+
+486
+00:41:41,110 --> 00:41:45,770
+Speaker 1: It's like that's part of the form is doing that on purpose and it's cool because it what it seems to do.
+
+487
+00:41:45,850 --> 00:41:54,140
+Speaker 0: It's almost like you could have someone just telling you a story or you'd have someone acting in it in what we would consider a Traditional bog-standard play of actually showing what happened.
+
+488
+00:41:54,542 --> 00:41:56,670
+Speaker 1: This is I'm sure there's a Japanese name for it.
+
+489
+00:41:56,771 --> 00:41:58,129
+Speaker 1: I just don't know what that name is.
+
+490
+00:41:58,290 --> 00:42:12,285
+Speaker 0: but this is almost like every scene in a kabuki is designed around the big moments and the big poses and like the Caricatured like larger-than-life like they end in the pose that you'd see in the woodcut.
+
+491
+00:42:12,546 --> 00:42:18,903
+Speaker 0: like imagine if every scene in a movie Ended in the pose that the character had on the movie poster.
+
+492
+00:42:19,726 --> 00:42:21,210
+Speaker 1: Yeah, it makes me think about.
+
+493
+00:42:22,492 --> 00:42:27,078
+Speaker 1: You know certain mangas that I've seen like if you played of the immortal I think is the preeminent example.
+
+494
+00:42:27,259 --> 00:42:32,009
+Speaker 1: or if you look if you read the manga blade of the immortal It's like yes samurai type fighting right and stuff, right?
+
+495
+00:42:32,350 --> 00:42:38,250
+Speaker 1: But then it's like there's this like mega splash pages which like, you know mom there are mangas out there with elaborate splash pages.
+
+496
+00:42:38,691 --> 00:43:05,250
+Speaker 1: But bladed immortal is like maybe number one in terms of elaborate splash page and it's like but I am it's like Like freeze-frame on this exact moment in the action mega explosions action lines everywhere right and they do that on stage effectively by you know pausing at this exact moment where You know the people the poses and the expressions are like frozen for yeah in time for a second.
+
+497
+00:43:05,711 --> 00:43:13,514
+Speaker 0: It's like you take everything and make it as overdramatic and big as you possibly can but yet what you're Doing.
+
+498
+00:43:13,534 --> 00:43:27,302
+Speaker 0: that too is like one beat of a story Like go him on and Luke upon meet and they do this like Extremely choreographed thing that just expresses the moment where they met.
+
+499
+00:43:27,482 --> 00:43:35,830
+Speaker 1: It's almost like poetry on stage through interpretive dance All right, so as far as that the story it was a pretty much like cookie cutter.
+
+500
+00:43:36,011 --> 00:43:38,922
+Speaker 0: Lupin store logs it right down to the point of what's this?
+
+501
+00:43:39,203 --> 00:43:40,146
+Speaker 0: robots, huh?
+
+502
+00:43:40,367 --> 00:43:41,110
+Speaker 0: That's interesting.
+
+503
+00:43:41,250 --> 00:43:42,555
+Speaker 0: Well, they can't take our jobs.
+
+504
+00:43:42,595 --> 00:43:48,112
+Speaker 0: And of course the robots are gonna be the plot like it's right every Lupin story Exactly.
+
+505
+00:43:48,152 --> 00:44:01,618
+Speaker 1: It's like they followed the Lupin formula with no deviation whatsoever And in fact even despite my quite relatively vast not, you know as vast as others But quite large Lupin knowledge.
+
+506
+00:44:02,120 --> 00:44:03,304
+Speaker 1: I was fooled one time.
+
+507
+00:44:03,324 --> 00:44:10,690
+Speaker 1: I Thought that it was Lupin in disguise, but it's going on in disguise and Lupin in disguise came second.
+
+508
+00:44:11,052 --> 00:44:12,461
+Speaker 0: I also got gotten by that.
+
+509
+00:44:12,481 --> 00:44:17,225
+Speaker 1: We're sitting okay I'm like, I'm like, I'm like, that's just Lupin in disguise.
+
+510
+00:44:17,406 --> 00:44:18,150
+Speaker 1: It's about my god.
+
+511
+00:44:18,190 --> 00:44:20,785
+Speaker 1: I'm like 90% sure 100% sure and it's like.
+
+512
+00:44:20,966 --> 00:44:21,429
+Speaker 1: and then it's like.
+
+513
+00:44:21,469 --> 00:44:22,977
+Speaker 1: nope It was going on in disguise.
+
+514
+00:44:23,037 --> 00:44:28,700
+Speaker 0: one thing Emily was telling me this measures the scene later But it's why Lupin fits so well because a lot of the tropes of Lupin.
+
+515
+00:44:28,740 --> 00:44:32,612
+Speaker 0: movies are also tropes of all Kabuki.
+
+516
+00:44:32,913 --> 00:44:46,340
+Speaker 0: one of the big ones is a character is in disguise and then there's a big reveal and another one is a Sudden and dramatic transformation of a character usually into like a demon or something Which we got and robot crowds are pops out at the end.
+
+517
+00:44:46,360 --> 00:44:47,404
+Speaker 0: That's right.
+
+518
+00:44:49,410 --> 00:44:59,410
+Speaker 0: I Loved every second of this and I think what really really stood out is that knowing nothing about this art form and just coming in This was not hard to follow at all.
+
+519
+00:44:59,530 --> 00:45:09,841
+Speaker 0: This wasn't like what like reading the tale of Genji where I had to like really concentrate to figure out even though there was clearly You know not speaking the language lost in translation.
+
+520
+00:45:09,861 --> 00:45:11,306
+Speaker 1: No cultural reference.
+
+521
+00:45:11,326 --> 00:45:12,570
+Speaker 1: No historical knowledge.
+
+522
+00:45:12,972 --> 00:45:16,409
+Speaker 1: You it's still entertaining even if it wasn't Lupin, right?
+
+523
+00:45:17,754 --> 00:45:19,030
+Speaker 1: You're still getting entertainment.
+
+524
+00:45:19,895 --> 00:45:26,203
+Speaker 1: You would not be disappointed if you if I travel to Japan I would definitely have go to kabuki theater on the list of to-do lists.
+
+525
+00:45:26,383 --> 00:45:28,350
+Speaker 0: I intend to watch more kabuki.
+
+526
+00:45:28,512 --> 00:45:31,616
+Speaker 0: I want to learn more about this form From what I can.
+
+527
+00:45:31,697 --> 00:45:36,629
+Speaker 1: I don't intend to like study it hardcore But if someone's like you want to watch a kabuki a bike fuck Yeah, like, you know what?
+
+528
+00:45:36,810 --> 00:45:40,954
+Speaker 0: I want to know about as much as this as I know about like Wushu films like.
+
+529
+00:45:40,974 --> 00:45:43,565
+Speaker 0: I know enough to appreciate them, but I'm not an expert like.
+
+530
+00:45:43,605 --> 00:45:44,027
+Speaker 0: I don't know.
+
+531
+00:45:44,047 --> 00:45:48,110
+Speaker 1: Yeah I mean, it's like, you know, I go to the opera like once or twice a year.
+
+532
+00:45:48,130 --> 00:45:48,372
+Speaker 1: It's like.
+
+533
+00:45:48,392 --> 00:45:49,803
+Speaker 1: what the fuck do I know about opera?
+
+534
+00:45:49,823 --> 00:45:50,307
+Speaker 1: Not much.
+
+535
+00:45:50,347 --> 00:45:54,270
+Speaker 1: Yeah I know the name of the person who made this opera that I'm seeing.
+
+536
+00:45:55,513 --> 00:45:56,277
+Speaker 1: I know the plot.
+
+537
+00:45:56,519 --> 00:45:57,807
+Speaker 1: I know singing is hard.
+
+538
+00:45:57,827 --> 00:46:00,035
+Speaker 1: Yeah Right, but it's like.
+
+539
+00:46:00,175 --> 00:46:01,579
+Speaker 1: does it make it less entertaining?
+
+540
+00:46:01,680 --> 00:46:02,823
+Speaker 1: No, it's like.
+
+541
+00:46:03,184 --> 00:46:04,087
+Speaker 1: it doesn't mean you shouldn't.
+
+542
+00:46:04,167 --> 00:46:04,488
+Speaker 1: you should.
+
+543
+00:46:04,588 --> 00:46:05,050
+Speaker 1: you should have to.
+
+544
+00:46:05,451 --> 00:46:12,297
+Speaker 1: You know, you don't have to know the complete history of like fucking everything you ever, you know Every art that you ever interact with right?
+
+545
+00:46:12,377 --> 00:46:16,469
+Speaker 1: It's like everyone playing video games today doesn't know the history of video game.
+
+546
+00:46:17,773 --> 00:46:19,682
+Speaker 1: it's like We're weird.
+
+547
+00:46:20,472 --> 00:46:26,683
+Speaker 0: There's a micro generation that knows the entire history of video games because the entire history of video games happen During their lives while they were playing them,
+
+548
+00:46:27,368 --> 00:46:37,041
+Speaker 1: you know The vanishingly small percentage of people which we are a part of have read The first novel and have also read other novels.
+
+549
+00:46:37,121 --> 00:46:44,890
+Speaker 1: Most people reading novels didn't read the first novel Like ninety nine point nine nine nine percent of them and that's okay.
+
+550
+00:46:45,751 --> 00:46:51,530
+Speaker 1: So you can see a kabuki and have a fun time without knowing shit about it or even ever bothering to learn more.
+
+551
+00:46:51,691 --> 00:46:54,710
+Speaker 1: You'll still you know, you'll be entertained enough.
+
+552
+00:46:54,871 --> 00:46:59,550
+Speaker 1: But of course if you're an intellectual you can enhance your entertainment and cultural learnings.
+
+553
+00:47:01,153 --> 00:47:03,669
+Speaker 1: You know and I wonder right it's like we're so familiar with.
+
+554
+00:47:04,311 --> 00:47:05,595
+Speaker 1: You know the fact that we even know.
+
+555
+00:47:05,615 --> 00:47:12,796
+Speaker 1: just knowing the word kabuki and knowing that it is a form of stage performance Is because of our exposure to.
+
+556
+00:47:12,937 --> 00:47:17,250
+Speaker 1: you know, Japanese culture via animes mangas video games a nerdy biz.
+
+557
+00:47:18,971 --> 00:47:19,452
+Speaker 1: What are there?
+
+558
+00:47:19,653 --> 00:47:20,475
+Speaker 1: come on where's the?
+
+559
+00:47:20,736 --> 00:47:23,925
+Speaker 1: where's the stage performances of other countries that I don't know about?
+
+560
+00:47:24,046 --> 00:47:26,634
+Speaker 1: is there some like Brazilian form Of stage performance.
+
+561
+00:47:26,674 --> 00:47:27,317
+Speaker 1: I don't even know.
+
+562
+00:47:27,457 --> 00:47:29,505
+Speaker 1: exists that maybe is awesome.
+
+563
+00:47:29,526 --> 00:47:30,630
+Speaker 1: And I just never even heard of it.
+
+564
+00:47:30,650 --> 00:47:36,536
+Speaker 1: I don't even know the word for it, you know, what other countries we got, you know, it's like come on I want to see.
+
+565
+00:47:36,556 --> 00:47:38,370
+Speaker 1: I want to see other people's theater.
+
+566
+00:47:39,851 --> 00:47:44,648
+Speaker 0: So, I'm not sure at this exact moment where and how you can watch this.
+
+567
+00:47:44,668 --> 00:47:46,816
+Speaker 0: I Will figure it out.
+
+568
+00:47:46,896 --> 00:47:49,826
+Speaker 0: But this is I would website though.
+
+569
+00:47:49,847 --> 00:47:50,790
+Speaker 1: What was the website again?
+
+570
+00:47:50,870 --> 00:47:53,218
+Speaker 0: It was actually weirdly hard to Google like.
+
+571
+00:47:53,259 --> 00:47:54,684
+Speaker 0: I kept finding a website that wasn't the one.
+
+572
+00:47:54,744 --> 00:47:56,390
+Speaker 0: is kabuki on demands me.
+
+573
+00:47:56,510 --> 00:47:57,455
+Speaker 1: It's me Ryle.
+
+574
+00:47:57,615 --> 00:47:59,022
+Speaker 0: It's M I R.
+
+575
+00:47:59,283 --> 00:48:04,970
+Speaker 1: Yep a I L Dot video, but is that man at the bottom?
+
+576
+00:48:05,351 --> 00:48:05,753
+Speaker 1: You'll see.
+
+577
+00:48:06,054 --> 00:48:06,816
+Speaker 1: click here to see.
+
+578
+00:48:06,837 --> 00:48:08,723
+Speaker 1: you just got to scroll down and you'll see.
+
+579
+00:48:09,225 --> 00:48:10,590
+Speaker 1: click here to see our lineup.
+
+580
+00:48:11,491 --> 00:48:13,018
+Speaker 1: Shochiku official video service.
+
+581
+00:48:13,079 --> 00:48:15,270
+Speaker 1: kabuki on demand and you click on that shit.
+
+582
+00:48:15,330 --> 00:48:15,852
+Speaker 0: Oh the pound.
+
+583
+00:48:15,873 --> 00:48:18,142
+Speaker 0: the third is the top one listed when I go there.
+
+584
+00:48:18,162 --> 00:48:20,352
+Speaker 0: and if I click on that click on it Can.
+
+585
+00:48:20,392 --> 00:48:28,026
+Speaker 1: you can watch you can know you can rent it you can read for four thousand yen You can rent it and there are actually eight as eleven to choose from.
+
+586
+00:48:28,127 --> 00:48:29,010
+Speaker 1: Oh one of them is a trailer.
+
+587
+00:48:29,111 --> 00:48:40,714
+Speaker 1: So there's ten to choose from yep Heron maiden five thieves pulling the carriage apart lover's suicide at Sonozaki the priest Shunkan Yoshitsune and the Thousand cherry tree.
+
+588
+00:48:40,815 --> 00:48:44,849
+Speaker 1: every one of these looks good, but love letters from the pleasure quarters.
+
+589
+00:48:46,552 --> 00:48:49,141
+Speaker 1: But I guess you kuroku the flower and two maidens.
+
+590
+00:48:49,261 --> 00:48:50,686
+Speaker 1: I wrote the pulling the carriage apart.
+
+591
+00:48:50,706 --> 00:48:51,790
+Speaker 1: That's got to be the best one.
+
+592
+00:48:54,394 --> 00:49:00,021
+Speaker 0: So, uh, I Recommend this as strongly as like as we can as geek nights.
+
+593
+00:49:00,101 --> 00:49:02,367
+Speaker 0: This is an s-tier thing that you should watch.
+
+594
+00:49:03,450 --> 00:49:05,797
+Speaker 1: Oh The Lupin one was four thousand yen.
+
+595
+00:49:06,178 --> 00:49:07,923
+Speaker 1: pulling the carriage apart is 33 minutes and 800 yen.
+
+596
+00:49:07,943 --> 00:49:19,450
+Speaker 1: Oh It says English streaming period until October 31st 2024, maybe I'll just watch this today.
+
+597
+00:49:20,094 --> 00:49:21,000
+Speaker 0: Not a bad idea.
+
+598
+00:49:21,000 --> 00:49:21,382
+Speaker 0: 30 30 minutes.
+
+599
+00:49:23,311 --> 00:49:28,625
+Speaker 0: Yeah, I mean if the end of the Lupin the third is two hours and 42 minutes like.
+
+600
+00:49:29,487 --> 00:49:30,610
+Speaker 1: oh, I thought I remember it being longer.
+
+601
+00:49:30,711 --> 00:49:32,723
+Speaker 0: Okay, well because I guess that doesn't count the intermission.
+
+602
+00:49:33,849 --> 00:49:36,495
+Speaker 1: Oh Oh Yeah, these other ones are shorter.
+
+603
+00:49:36,515 --> 00:49:38,304
+Speaker 1: The Yoshitsune ones an hour and ten minutes.
+
+604
+00:49:38,324 --> 00:49:39,409
+Speaker 0: All right, good to know.
+
+605
+00:49:40,111 --> 00:49:42,057
+Speaker 0: So I'm learning more every time I click here.
+
+606
+00:49:42,077 --> 00:49:42,699
+Speaker 0: Mm-hmm.
+
+607
+00:49:43,561 --> 00:49:46,530
+Speaker 1: Oh, I forgot to talk about the the side stage the little run.
+
+608
+00:49:46,651 --> 00:49:47,900
+Speaker 0: Oh, I didn't talk about it either.
+
+609
+00:49:47,920 --> 00:49:50,259
+Speaker 0: It's so good the side stage I don't know.
+
+610
+00:49:50,299 --> 00:49:51,450
+Speaker 1: Is that a thing that all kabuki?
+
+611
+00:49:51,690 --> 00:49:52,937
+Speaker 1: Yes have not just that's like.
+
+612
+00:49:52,977 --> 00:49:55,430
+Speaker 0: is that that is like a trope of the art?
+
+613
+00:49:55,470 --> 00:50:01,452
+Speaker 0: I feel like it's a thing they all have right that's part of and they and they all use it as much as they can From what.
+
+614
+00:50:01,512 --> 00:50:03,181
+Speaker 1: they use it in clever ways one time.
+
+615
+00:50:03,201 --> 00:50:05,110
+Speaker 1: They were doing acrobatic flips down there.
+
+616
+00:50:05,191 --> 00:50:07,510
+Speaker 1: They were running on using it to enter using it to leave.
+
+617
+00:50:07,570 --> 00:50:11,422
+Speaker 1: Yeah The entourage is actually the focal area to where the camera had to turn.
+
+618
+00:50:11,462 --> 00:50:16,181
+Speaker 0: that way when you get the entourage with the noble and It just marches slowly all the way.
+
+619
+00:50:16,402 --> 00:50:16,784
+Speaker 1: Yeah.
+
+620
+00:50:17,347 --> 00:50:17,668
+Speaker 1: Yeah.
+
+621
+00:50:17,728 --> 00:50:17,949
+Speaker 1: Yeah.
+
+622
+00:50:17,989 --> 00:50:22,611
+Speaker 1: Yeah There was very useful useful area.
+
+623
+00:50:22,651 --> 00:50:26,720
+Speaker 1: they gave ups they give up seeding to have that Yeah, and then they make it worth.
+
+624
+00:50:26,820 --> 00:50:35,900
+Speaker 1: I feel like not like them not like when you go to a concert and like they have that little little You know thing that juts out into the crowd use it like twice and otherwise is just taking up space.
+
+625
+00:50:36,522 --> 00:50:41,777
+Speaker 0: I feel like the most expensive seats are the ones that are like right in the nook at the edge of where that thing comes Off the stage.
+
+626
+00:50:42,322 --> 00:50:47,526
+Speaker 1: Well, you wouldn't want to be on the left side of it because it would sort of block you from the stage On the right side of it.
+
+627
+00:50:47,566 --> 00:50:54,634
+Speaker 1: but sitting on like the right side of it like a few seats in that would be the best Because you could see the main stage and you could turn left and like that right there.
+
+628
+00:50:54,654 --> 00:50:55,839
+Speaker 1: That's a great seat.
+
+629
+00:51:01,022 --> 00:51:03,792
+Speaker 0: This has been geek nights with rim and Scott special.
+
+630
+00:51:03,812 --> 00:51:05,960
+Speaker 0: Thanks to DJ pretzel for the opening theme.
+
+631
+00:51:06,160 --> 00:51:08,488
+Speaker 1: Be sure to visit our website at front row.
+
+632
+00:51:08,528 --> 00:51:12,180
+Speaker 1: clue calm for show notes discussion links and more.
+
+633
+00:51:12,662 --> 00:51:15,352
+Speaker 0: Remember geek nights is not one but four different shows.
+
+634
+00:51:15,654 --> 00:51:17,220
+Speaker 0: Mondays or science and technology.
+
+635
+00:51:17,340 --> 00:51:19,086
+Speaker 0: Tuesdays gaming and games.
+
+636
+00:51:19,207 --> 00:51:23,883
+Speaker 0: Wednesdays are animation and comics Thursdays are arbitrary and Indiscriminate.
+
+637
+00:51:24,466 --> 00:51:29,464
+Speaker 0: peak nights is distributed under a Creative Commons attribution 4.0 International license.
+
+638
+00:51:29,866 --> 00:51:34,160
+Speaker 1: geek nights is recorded live with no studio and no audience.
+
+639
+00:51:34,681 --> 00:51:44,528
+Speaker 0: But unlike those other late shows it's actually recorded at night and the patreon patrons for this post hiatus episode of geek nights are Well enjoys linky-geek riddle of the center.
+
+640
+00:51:44,548 --> 00:51:45,331
+Speaker 0: break is here makes music.
+
+641
+00:51:45,351 --> 00:51:51,847
+Speaker 0: Chris the dog Chris Rourke linden waltons in Joel Hayes penny Rhymer Rebecca dumps America's river a whole bunch of people whose names I will not say tonight.
+
+642
+00:51:51,867 --> 00:51:55,190
+Speaker 0: I leave you Because I'm very hungry.
+
+643
+00:51:55,310 --> 00:52:13,797
+Speaker 0: So I'm immediately going out to get some food with Bitty bitty bum bum bum bitty bitty bitty bum Bum bitty bitty bitty bum bum Bum bitty bitty bitty bitty bum.
+
+644
+00:52:16,052 --> 00:52:18,725
+Speaker 1: I Wonder if that we're the wrong.
+
+645
+00:52:22,379 --> 00:52:30,107
+Speaker 1: Yes Bitty bitty bitty bitty bum bum Bitty bitty bitty bitty bum.
+

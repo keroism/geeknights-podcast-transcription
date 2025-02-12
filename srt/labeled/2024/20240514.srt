@@ -1,0 +1,2556 @@
+1
+00:00:08,380 --> 00:00:08,840
+Scott:
+
+2
+00:00:08,653 --> 00:00:09,718
+Rym: It's Tuesday, May 14th, 2024.
+
+3
+00:00:09,718 --> 00:00:09,939
+Rym: I'm Rym.
+
+4
+00:00:13,034 --> 00:00:13,550
+Scott: I'm Scott.
+
+5
+00:00:13,750 --> 00:00:15,034
+Rym: And this is GeekNights.
+
+6
+00:00:15,074 --> 00:00:20,090
+Rym: Tonight we're talking about why everybody tries to make a store instead of making a game.
+
+7
+00:00:20,810 --> 00:00:21,808
+Scott: Let's do this.
+
+8
+00:00:23,530 --> 00:00:26,319
+Rym: So, I don't know if any of you have noticed this.
+
+9
+00:00:26,600 --> 00:00:29,630
+Rym: I'm curious if you have or have not because I did a little bit of research.
+
+10
+00:00:30,091 --> 00:00:34,109
+Rym: So, the other day, I noticed this about a month and a half ago.
+
+11
+00:00:35,117 --> 00:00:36,468
+Rym: And I didn't say anything about it.
+
+12
+00:00:37,070 --> 00:00:41,347
+Rym: And then, like, several weeks ago, Emily says the words, "Do you hear that
+
+13
+00:00:41,407 --> 00:00:41,708
+Rym: noise?".
+
+14
+00:00:42,451 --> 00:00:45,366
+Rym: And I realized that it was something that other humans could hear.
+
+15
+00:00:45,426 --> 00:00:46,029
+Rym: It wasn't just me.
+
+16
+00:00:46,831 --> 00:00:50,790
+Rym: And I've done a bunch of research since, and I found a fascinating situation.
+
+17
+00:00:51,450 --> 00:00:59,477
+Rym: So, basically, if you watch pretty much any sport that is on Sportsnet, and a couple other places.
+
+18
+00:00:59,538 --> 00:01:00,181
+Rym: It's not just them.
+
+19
+00:01:00,221 --> 00:01:18,750
+Rym: If there's a few other places this is happening, or any stream that is coming from a Sportsnet source, there is what could be described as robots singing in the background, or modem noises if you're very old and know what a modem is, or, like, an alarm sound in the background.
+
+20
+00:01:19,412 --> 00:01:22,630
+Rym: And if you Google around, I have now found five different Reddit threads.
+
+21
+00:01:23,250 --> 00:01:24,715
+Rym: One is WWE fans.
+
+22
+00:01:24,876 --> 00:01:26,421
+Rym: One is Toronto Blue Jays fans.
+
+23
+00:01:26,943 --> 00:01:29,070
+Rym: One is a group that talks about, like, TV.
+
+24
+00:01:30,212 --> 00:01:32,950
+Rym: One is something called Squared Circle, and one is the Canucks Reddit.
+
+25
+00:01:33,490 --> 00:01:35,906
+Rym: And every one of them has a thread with a lot of comments.
+
+26
+00:01:35,927 --> 00:01:40,085
+Rym: that's like, "Hey, does anyone else hear this weird fucking noise, or am I just
+
+27
+00:01:40,185 --> 00:01:40,567
+Rym: crazy?".
+
+28
+00:01:41,671 --> 00:01:45,506
+Rym: Old people are saying they don't hear it, but a lot of other people are like, "Oh my god, thank you.
+
+29
+00:01:45,667 --> 00:01:45,928
+Rym: I'm not
+
+30
+00:01:45,968 --> 00:01:46,309
+Rym: insane.".
+
+31
+00:01:46,671 --> 00:01:51,610
+Scott: Well, I didn't hear it until someone mentioned it, and then eventually, once I knew what I was listening for, I heard it.
+
+32
+00:01:51,810 --> 00:01:59,459
+Scott: And I noticed that it sounds different on different audio output devices, I think because there's post-processing involved, right?
+
+33
+00:01:59,479 --> 00:02:12,610
+Scott: It's like, the sound bar is doing all kinds of surround shit, but, like, you know, headphones aren't doing anything, and I could hear them on the headphones pretty clearly, way more clearly, so... If no one had said anything, I just probably wouldn't have noticed.
+
+34
+00:02:12,770 --> 00:02:17,030
+Rym: Meanwhile, it was bothering me so much, like, it was making it annoying to watch hockey.
+
+35
+00:02:17,170 --> 00:02:19,177
+Rym: Like, it was too distracting.
+
+36
+00:02:19,598 --> 00:02:31,390
+Rym: But the reason I didn't think about it at first is that, for those of you who are unaware, I do have, uh, I actually have a slight synesthesia, I've had it my whole life, and it generally causes, like, aural hallucinations.
+
+37
+00:02:32,290 --> 00:02:35,902
+Rym: Like, I will hear chords and music inside of other sounds.
+
+38
+00:02:36,524 --> 00:02:38,350
+Rym: And it sounds a lot like this.
+
+39
+00:02:38,890 --> 00:02:45,990
+Rym: So I assumed it was me just, like, hearing the noise of the compression or something, but no.
+
+40
+00:02:46,130 --> 00:02:49,582
+Scott: Yeah, I couldn't, when I did finally hear it, I was like, "Is that...".
+
+41
+00:02:49,703 --> 00:02:56,426
+Scott: I didn't know if it was something I was just making up, because I was told to listen for a sound, or if it was coming from outside, or what.
+
+42
+00:02:57,990 --> 00:03:11,096
+Rym: So, I, uh, recently, and I posted it in the GeekNights forum, you can go read this thing two days ago, I recorded the stream we were watching of a hockey game, and I pulled it into Audition, and I did a little digging, and now you can see it right there in the spectrogram.
+
+43
+00:03:11,617 --> 00:03:18,595
+Rym: It looks, to my professional eyes, just at a glance, like, data packets.
+
+44
+00:03:18,795 --> 00:03:21,722
+Rym: Like, it actually looks like modem-style data packets.
+
+45
+00:03:22,303 --> 00:03:41,810
+Rym: It's periodic, it recurs at about two hertz, it rotates through about five distinct sets of tones that I can see, and I even, I was able to isolate several of these notes and find that there are, in fact, four or five harmonic peaks that move in a pattern in the audio.
+
+46
+00:03:42,311 --> 00:04:05,229
+Rym: The amplitude of this is proportional to the amplitude of the audio itself, so I since recorded multiple hockey games in their entirety, and dug deeper, and I also found some other sources, and I'm going to continue to share my analysis of this in the forum as I figure out what the fuck's going on, but it is absolutely real, you can see it in the audio, and I'm super annoyed by it.
+
+47
+00:04:05,931 --> 00:04:12,521
+Scott: It's either, A, an accident, and they didn't notice, B, if it's intentional,
+
+48
+00:04:13,182 --> 00:04:13,623
+Rym: then
+
+49
+00:04:13,963 --> 00:04:40,330
+Scott: it's either tracking for the purposes of advertising, tracking people, because what they can do is, if you have any device within range of a TV playing that program, and your device has a microphone, and is listening, and is sending data to them via the internet, then they know where they're, they can collect data on where their TV program is playing.
+
+50
+00:04:40,430 --> 00:04:57,824
+Scott: For example, if you're in a bar, and it's on, everyone in the bar has phones, some number of those phones have microphones on, and will not have all the correct, you know, permission set, and could potentially send data to them, and let them know that they're, you know, they can collect data on that.
+
+51
+00:04:57,844 --> 00:05:48,969
+Scott: The other thing that's likely, it could also be that and/or an anti-piracy measure, if they're sending a different signal, a slightly different signal, to different, you know, streams, it's like, you know, one per, I guess if someone has cable, right, they, it would have to be like at the cable operator, who would send a different signal to like each viewer, but if you're watching online, on like the web streaming, they could send a different one to each viewer, I guess the CDN is kind of there, but they could still, you know, do some amount of divisions, and then they could detect, aha, you know, this particular one, if, again, you would still need microphones to pick it up, but like, the new TV we have has a microphone in it, and could theoretically listen and send data back to Samsung, or whoever has it, right?
+
+52
+00:05:49,150 --> 00:05:59,990
+Rym: And before any of you say that sounds paranoid and crazy, that's real technology, companies use it, you can read all about it all over the internet, audio watermarking is a thing, it's a second screen advertising bullshit thing that they're doing.
+
+53
+00:06:00,790 --> 00:06:03,130
+Rym: Yep, so, you know.
+
+54
+00:06:03,190 --> 00:06:04,711
+Rym: So yeah, my guess is either- But
+
+55
+00:06:04,731 --> 00:06:12,970
+Scott: it's rare that, you know, that things like that are actually audible, they're usually using sounds that microphones can't hear,
+
+56
+00:06:13,510 --> 00:06:13,670
+Rym: that
+
+57
+00:06:14,131 --> 00:06:18,901
+Scott: people can't hear that microphones can, so they're just doing a shitty job, the fact that you can
+
+58
+00:06:18,941 --> 00:06:41,270
+Rym: hear it- it becomes more and more likely it will be destroyed by compression, because the thing that all compression does, for all audio in the world, that humans will listen to, is they prioritize frequencies that humans will perceive, and they just obliterate things that humans can't hear.
+
+59
+00:06:41,710 --> 00:07:05,970
+Rym: So it is actually very hard to put an audio watermark into something that must survive multiple re-compressions, unless you put it in the range that human ears are literally the most primed to hear, and in this case, it is actually directly in the 1 to 2 kHz range, which is like the sweet spot of spoken word and human brains paying attention to sounds.
+
+60
+00:07:06,270 --> 00:07:10,110
+Rym: Like, if they wanted to hide it, it could not be in a worse place.
+
+61
+00:07:10,591 --> 00:07:14,590
+Rym: If they wanted it to survive compression, it could not be in a better place.
+
+62
+00:07:15,254 --> 00:07:17,730
+Rym: So yeah, let me know if you hear this, I'd just be very curious.
+
+63
+00:07:18,170 --> 00:07:24,670
+Rym: And as a total aside, I recorded a quick video just to share what it looks like if you do an analysis of this, just in the forum.
+
+64
+00:07:25,330 --> 00:07:27,850
+Rym: But there's no audio in that video, because I was just showing the animation.
+
+65
+00:07:28,571 --> 00:07:36,007
+Rym: I don't think I made that super clear, because one of the first posts is, "I might be going insane, but even at full blast, I cannot hear any audio in that
+
+66
+00:07:36,067 --> 00:07:36,429
+Rym: video.".
+
+67
+00:07:38,531 --> 00:07:41,667
+Rym: And people start trying to troubleshoot, "Why don't we hear audio in the
+
+68
+00:07:41,687 --> 00:07:42,008
+Rym: video?".
+
+69
+00:07:42,471 --> 00:07:44,160
+Rym: Yeah, the answer is, the video has no audio.
+
+70
+00:07:44,221 --> 00:07:45,850
+Rym: There is no audio in that video.
+
+71
+00:07:46,270 --> 00:07:47,458
+Rym: That video isn't even public.
+
+72
+00:07:47,699 --> 00:07:49,370
+Rym: It's just an animation in the Discord.
+
+73
+00:07:49,871 --> 00:07:51,589
+Rym: I was just too lazy to make an animated gif.
+
+74
+00:07:52,710 --> 00:07:57,501
+Rym: So, in the news, if you didn't know, there's this thing called Roblox.
+
+75
+00:07:57,542 --> 00:08:01,070
+Rym: that's addicting all the kids to all sorts of bad stuff.
+
+76
+00:08:01,190 --> 00:08:03,110
+Scott: What are we going to talk about in the main bit, though?
+
+77
+00:08:03,871 --> 00:08:15,130
+Rym: Well, we'll get to that, but the news I have is that in Roblox, there is a game that I can only describe as the lowest possible rent form of The Sims.
+
+78
+00:08:16,070 --> 00:08:28,590
+Rym: Like, take The Sims as a concept, make it way worse, give it a really messed up monetization model, and then make a low-grade version of this inside of another game.
+
+79
+00:08:28,690 --> 00:08:40,730
+Scott: I mean, it's more similar, I think, to Second Life, where you're walking around, you customize yourself, you roleplay with people, and you have a house or some sort of property that you can dress up.
+
+80
+00:08:41,070 --> 00:08:48,830
+Scott: Animal Crossing, I guess Animal Crossing, Sims, and Second Life all have that aspect of decorate your home and decorate yourself and roleplay.
+
+81
+00:08:49,431 --> 00:09:03,710
+Scott: But in this game, unlike The Sims, where everything's kind of free, and Second Life, where you had to use the real money weirdo system, I guess Roblox, this actually is very similar to Second Life.
+
+82
+00:09:03,850 --> 00:09:15,710
+Rym: Well, except that the currencies used are the Robux, and there's an economy inside of this game that is based solely on grinding jobs inside of the game.
+
+83
+00:09:16,372 --> 00:09:21,590
+Scott: Yeah, so obviously you could use the Robux, which are the real money, that's like the Second Life money, right?
+
+84
+00:09:21,750 --> 00:09:33,430
+Scott: Where you turn your real-world dollars that could actually buy food for you to eat with your human body into fake money, and you could turn that fake money into the second fake money, which is the Bloxburg money.
+
+85
+00:09:34,590 --> 00:09:39,875
+Scott: But you could also get the Bloxburg money, like Rym said, by grinding at simulated jobs.
+
+86
+00:09:39,935 --> 00:09:58,130
+Scott: Like, you could be a pizza delivery guy in Bloxburg, and just sit there for an hour, walking your character around back to the pizza place, back to someone who ordered a pizza, back and forth, and you would just get, for "free", in quotes, the Bloxburg money, but not Robux.
+
+87
+00:09:59,673 --> 00:10:02,770
+Scott: I guess maybe someone might be willing to give you Robux for that?
+
+88
+00:10:03,851 --> 00:10:09,558
+Rym: This is an opinion, this is a value judgement, and not any sort of objective criticism of the game.
+
+89
+00:10:10,059 --> 00:10:17,409
+Rym: Based on digging into what Bloxburg looks like it is, and the way it plays, it looks like a joyless, misery-filled game.
+
+90
+00:10:18,511 --> 00:10:19,208
+Scott: It's not for us.
+
+91
+00:10:19,512 --> 00:10:21,910
+Rym: It is not for anyone who listens to GeekNights.
+
+92
+00:10:23,032 --> 00:10:28,110
+Scott: If you want to roleplay, just roleplay in a chat room, or VR chat where everything's free.
+
+93
+00:10:28,410 --> 00:10:30,005
+Rym: Roleplay literally anywhere else.
+
+94
+00:10:32,231 --> 00:10:42,630
+Rym: But it seems like people don't even roleplay in here so much as they get addicted to the grind, and they grind to get items to make their house nicer, and they just are leveling up their world.
+
+95
+00:10:43,351 --> 00:10:58,190
+Scott: Also, when you do a job more, you level up the job, so you can be like a level 1000 pizza delivery guy, and then you make even more money, your salary goes up, which is something that doesn't happen in the real world, so you can understand the appeal.
+
+96
+00:10:58,650 --> 00:11:24,130
+Rym: So, the game had a problem in that, basically, well, problem, finger quotes, the kids were leveling up jobs, and then maxing out the return, so being a pizza delivery guy paid a lot in the context of the game, but it also meant that there was an upper 1% of the kids who grind the most, who had all the money and all the resources, and nobody else could have any fun, and it was creating like-
+
+97
+00:11:24,170 --> 00:11:36,930
+Scott: Right, if you were low level, if you just start playing this game, your salary's gonna be nothing, you won't be able to afford to buy anything, and you gotta do a grind, so basically all the non-grinders couldn't enjoy the game, and the grinders could.
+
+98
+00:11:37,330 --> 00:11:42,930
+Rym: And even then, people who are new to the game can't enjoy the game, because the grinders still have everything, like the people who have already been grinding.
+
+99
+00:11:43,230 --> 00:11:46,050
+Scott: Yeah, you just have like a pauper house, unless you were a grinder.
+
+100
+00:11:46,270 --> 00:11:51,788
+Rym: 'Cause a grinder is like, you can't catch up to someone else who's grinding by grinding, grinding has a- Unless they stop grinding.
+
+101
+00:11:52,071 --> 00:11:54,508
+Rym: True, I mean, they could die, that's a good way to catch up.
+
+102
+00:11:55,470 --> 00:12:08,545
+Rym: So, the game made a change to make the economy a little more "fair" and balance things out a little bit, and limit how much reward you get for leveling up, for basically grinding.
+
+103
+00:12:08,586 --> 00:12:12,390
+Rym: to level up grinding doesn't reward you as much as it did before.
+
+104
+00:12:12,951 --> 00:12:20,309
+Scott: They basically put like a salary cap, right, you can only make this much fake money by sitting there and doing a job, right, and that's it.
+
+105
+00:12:20,791 --> 00:12:21,212
+Scott: Yep.
+
+106
+00:12:21,833 --> 00:12:25,200
+Rym: So, and they made a few other changes, just to sort of level out the economy.
+
+107
+00:12:25,220 --> 00:12:29,830
+Rym: so the game doesn't just have this like, literal upper 1% kind of ruining it for everybody else.
+
+108
+00:12:30,271 --> 00:12:45,630
+Scott: So you can now, with this change, you could grind enough, I guess, I don't know how much you'd have to grind, but you could grind to this limited level, and then once you hit that level, it's like, you're up there, you're making as much money as you're gonna make, and you can enjoy the game to some extent.
+
+109
+00:12:45,830 --> 00:12:46,051
+Scott: Yep.
+
+110
+00:12:46,372 --> 00:12:54,650
+Rym: So the creators of this game, which I would note I learned just now, they were bought by Embracer last year, the people who make this game.
+
+111
+00:12:54,650 --> 00:12:55,034
+Scott: Oh, were they?
+
+112
+00:12:55,155 --> 00:12:56,769
+Scott: Okay, I thought they were bought by someone else.
+
+113
+00:12:56,910 --> 00:12:57,789
+Rym: Oh, Embracer's got 'em.
+
+114
+00:12:59,652 --> 00:13:04,830
+Scott: And then I thought that someone else got bought by actual, you know, Roblox, but I guess not.
+
+115
+00:13:05,591 --> 00:13:16,250
+Rym: So they issued a statement about why they made this change to their player base, quote, "Our economy was unbalanced, and to ensure the longevity of the game, it needed, and will continue to need, to be adjusted.
+
+116
+00:13:17,271 --> 00:13:23,610
+Rym: This update was focused on increasing pay for less experienced players, which make up the majority of our player base.
+
+117
+00:13:24,050 --> 00:13:31,089
+Rym: The rebalancing has lowered the time requirements it takes to achieve the higher level jobs and payments, especially on the pizza delivery
+
+118
+00:13:31,129 --> 00:13:31,350
+Rym: track.".
+
+119
+00:13:31,791 --> 00:13:37,882
+Rym: So they actually made the game, like, better in the same way that Fortnite made the game better when they said, "You know what?
+
+120
+00:13:38,222 --> 00:13:38,943
+Rym: The sweaty people?
+
+121
+00:13:39,184 --> 00:13:42,370
+Rym: Fuck you, we don't care about you, we care about the 80% of the people that like our
+
+122
+00:13:42,390 --> 00:13:42,590
+Rym: game."
+
+123
+00:13:44,230 --> 00:13:56,570
+Rym: And the players who ground this out are fucking furious that the game dares to let anyone else enjoy the game without going through the same grind they did.
+
+124
+00:13:56,951 --> 00:14:03,145
+Rym: And they're engaged in, like, this massive in-game protest, and they're calling it communism.
+
+125
+00:14:04,267 --> 00:14:05,470
+Rym: It's really sad.
+
+126
+00:14:05,470 --> 00:14:05,811
+Rym: Kind of.
+
+127
+00:14:06,032 --> 00:14:08,078
+Scott: It is kind of communism, a little bit.
+
+128
+00:14:08,199 --> 00:14:10,747
+Scott: It's an aspect of communism, just one part of it.
+
+129
+00:14:12,010 --> 00:14:20,050
+Rym: But it's extra fascinating that, if you step back a little bit, this game is like a joyless grind aimed at getting kids addicted to grinds, effectively.
+
+130
+00:14:20,670 --> 00:14:25,510
+Rym: Like, you can play almost literally any other game and have a better experience even doing the same kinds of things.
+
+131
+00:14:25,691 --> 00:14:29,250
+Scott: Or you could just go in there and roleplay and not care about how much money you have or decorating your house.
+
+132
+00:14:29,410 --> 00:14:32,000
+Rym: But then you can never get any clothes with which to roleplay.
+
+133
+00:14:32,903 --> 00:14:34,730
+Rym: And I think you're very well starved to death eventually.
+
+134
+00:14:36,072 --> 00:14:37,481
+Scott: Are you not allowed to chat?
+
+135
+00:14:37,582 --> 00:14:38,890
+Scott: Is it like you've got to pay per chat?
+
+136
+00:14:39,090 --> 00:14:40,555
+Rym: No, but the game's like a life simulator.
+
+137
+00:14:40,575 --> 00:14:44,690
+Rym: Like, how are you going to roleplay if you don't have a place to do it or the clothes to wear to do it?
+
+138
+00:14:44,950 --> 00:14:47,690
+Scott: I mean, you could walk anywhere, even if it's not your house.
+
+139
+00:14:48,191 --> 00:14:51,162
+Rym: Well, because I don't think most people roleplay in there.
+
+140
+00:14:51,303 --> 00:14:52,829
+Rym: I think that the grind is the game.
+
+141
+00:14:53,090 --> 00:14:57,808
+Scott: Being at the pizza place, being in the pub, being at the movie theater, be whatever they got in there, you know.
+
+142
+00:14:58,610 --> 00:15:06,330
+Rym: So, we got these players freaking out about this update that made the game better, and it's weirdly, like, spiraling inside of the game.
+
+143
+00:15:06,810 --> 00:15:12,630
+Rym: And it's extra funny considering the game itself is just this crass re-implementation of capitalism, except no money actually comes back out.
+
+144
+00:15:12,710 --> 00:15:21,070
+Scott: You know, actually, the thing, if you think about it, this was communism even before this change, right?
+
+145
+00:15:21,090 --> 00:15:25,070
+Scott: Because all the places you're working are owned by the game.
+
+146
+00:15:25,170 --> 00:15:26,790
+Rym: Yeah, it's a fully state-run economy.
+
+147
+00:15:27,391 --> 00:15:29,056
+Scott: Yeah, no one's running the pizza.
+
+148
+00:15:29,136 --> 00:15:32,646
+Scott: It's not like there's a player who's running the pizza place and paying out salaries.
+
+149
+00:15:32,706 --> 00:15:34,030
+Scott: That's capitalism, right?
+
+150
+00:15:34,492 --> 00:15:36,630
+Scott: All the capital is owned by the game devs.
+
+151
+00:15:38,952 --> 00:15:40,775
+Scott: So, it was communism all along, guys.
+
+152
+00:15:40,856 --> 00:15:41,797
+Scott: That's even more.
+
+153
+00:15:42,860 --> 00:15:45,465
+Scott: You think the communism is the salary cap?
+
+154
+00:15:45,485 --> 00:15:47,950
+Scott: No, the communism was already there all along.
+
+155
+00:15:48,251 --> 00:15:58,930
+Rym: It's just also extra funny to me that these kids are mad that the game made the grind less awful for everyone else, but they're mad because they had to grind, effectively.
+
+156
+00:15:59,090 --> 00:16:04,726
+Rym: It's a lot like the people who were mad that student loans got forgave, and their argument was, "But I paid my student
+
+157
+00:16:04,786 --> 00:16:05,127
+Rym: loans.".
+
+158
+00:16:05,328 --> 00:16:06,150
+Rym: Like, sure, good job.
+
+159
+00:16:06,330 --> 00:16:06,950
+Scott: You could afford to.
+
+160
+00:16:07,750 --> 00:16:14,050
+Rym: Just because you got punched in the dick doesn't mean that everyone else for the rest of human history should also be punched in the dick the exact same way.
+
+161
+00:16:16,052 --> 00:16:17,279
+Rym: Like, I paid off my student loans.
+
+162
+00:16:17,520 --> 00:16:19,230
+Rym: I'd love to see every student loan in America.
+
+163
+00:16:19,310 --> 00:16:19,433
+Scott: You do.
+
+164
+00:16:19,453 --> 00:16:20,108
+Scott: I have zero student loans left.
+
+165
+00:16:20,450 --> 00:16:22,981
+Rym: I'd love to see 100% of them get paid off, and you know what?
+
+166
+00:16:23,061 --> 00:16:23,744
+Rym: I don't need any money.
+
+167
+00:16:23,764 --> 00:16:24,045
+Rym: I'm good.
+
+168
+00:16:24,125 --> 00:16:24,567
+Rym: I'm fine.
+
+169
+00:16:24,748 --> 00:16:25,290
+Rym: My life's great.
+
+170
+00:16:25,470 --> 00:16:25,540
+Scott: No.
+
+171
+00:16:27,070 --> 00:16:31,290
+Rym: So, you don't have any news, but you have a Geek Bite about a game that I'm going to be playing imminently.
+
+172
+00:16:32,111 --> 00:16:40,506
+Scott: Yeah, so this game came out called Animal Well, and you look at it, and you're like, "Alright, that's another one of those pixely scanline-looking indie games.
+
+173
+00:16:40,566 --> 00:16:42,189
+Scott: We've seen those by the
+
+174
+00:16:42,230 --> 00:16:42,470
+Scott: bunches.".
+
+175
+00:16:43,290 --> 00:16:44,513
+Scott: And we have.
+
+176
+00:16:44,573 --> 00:16:46,757
+Scott: We have seen many of those games, right?
+
+177
+00:16:47,158 --> 00:16:48,540
+Scott: And it's like, "Do I need to play another
+
+178
+00:16:48,741 --> 00:16:48,901
+Scott: one?".
+
+179
+00:16:49,101 --> 00:16:49,502
+Scott: Right?
+
+180
+00:16:49,883 --> 00:16:50,003
+Scott: Eh.
+
+181
+00:16:50,264 --> 00:16:53,390
+Scott: But it was getting hyped up, and it just got released fully.
+
+182
+00:16:55,071 --> 00:17:00,470
+Rym: Too many people I trust played this game and wouldn't stop talking about it in a very short span of time.
+
+183
+00:17:00,670 --> 00:17:04,300
+Scott: And it was slightly discounted, and it's Metroidvania-y, right?
+
+184
+00:17:04,319 --> 00:17:07,950
+Scott: There's a big 2D map, and you're platforming and exploring the map.
+
+185
+00:17:08,230 --> 00:17:13,019
+Scott: And what's great about this game is that there's not a lot of fighting.
+
+186
+00:17:13,480 --> 00:17:17,808
+Scott: Like, you're not going around shooting guys like you are in Metroid, right?
+
+187
+00:17:18,008 --> 00:17:18,990
+Scott: Or Castlevania.
+
+188
+00:17:19,190 --> 00:17:30,270
+Scott: So that part of the game is out, and that's really kind of honestly, other than the boss fights, you know, and a few different enemies like, you know, say actual Metroids, is really a tedious part of those games, right?
+
+189
+00:17:30,310 --> 00:17:30,952
+Scott: It's like, that's not.
+
+190
+00:17:30,992 --> 00:17:37,990
+Scott: the fun part, is, you know, when I walk through a hallway, you know, pressing the whip button to whip the bats just repeatedly.
+
+191
+00:17:38,430 --> 00:17:41,486
+Scott: It's like, that's not a... It's like, what's the joy in that, really?
+
+192
+00:17:41,506 --> 00:17:42,210
+Scott: I don't know.
+
+193
+00:17:43,910 --> 00:17:44,912
+Scott: So this game doesn't have that.
+
+194
+00:17:45,032 --> 00:17:48,398
+Scott: Instead, this game is much more puzzly, right?
+
+195
+00:17:48,739 --> 00:17:51,083
+Scott: A lot of the rooms, it's like, "Okay, I'm here.
+
+196
+00:17:51,103 --> 00:17:52,425
+Scott: I want to get there.
+
+197
+00:17:52,806 --> 00:17:54,288
+Scott: How do I get there from
+
+198
+00:17:54,349 --> 00:17:54,609
+Scott: here?"
+
+199
+00:17:54,910 --> 00:17:55,170
+Scott: Right?
+
+200
+00:17:55,971 --> 00:17:59,934
+Scott: There's switches and levers and all kinds of things to interact with.
+
+201
+00:18:01,035 --> 00:18:12,506
+Scott: And, you know, it's really, instead of having a, like a double jump or an air dash mechanic, they have a very clever mechanism they use for you to get extra jumps.
+
+202
+00:18:13,667 --> 00:18:16,530
+Scott: that requires a little bit of platforming skill, but not much.
+
+203
+00:18:18,191 --> 00:18:21,076
+Scott: But, you know, generally it follows the same basic pattern, right?
+
+204
+00:18:21,116 --> 00:18:28,690
+Scott: Which is, you know, you have to get, you know, these items, the McGuffins, and then you can go to the final boss area and then you win.
+
+205
+00:18:29,210 --> 00:18:31,534
+Scott: But then, of course, you can keep playing to try to get 100%.
+
+206
+00:18:31,534 --> 00:18:33,978
+Scott: There's all these hidden eggs everywhere.
+
+207
+00:18:33,998 --> 00:18:36,662
+Scott: You can try to get all of them if you want.
+
+208
+00:18:36,822 --> 00:18:37,123
+Scott: I didn't.
+
+209
+00:18:37,423 --> 00:18:40,528
+Scott: I got maybe half or so.
+
+210
+00:18:40,949 --> 00:18:41,650
+Scott: You can keep going.
+
+211
+00:18:43,291 --> 00:18:49,699
+Scott: But, like, I played it over the course of one weekend, a few hours the first day, a few hours the second day, I beat it, and I'm done.
+
+212
+00:18:50,219 --> 00:18:59,570
+Scott: But then I went to watch some better people than me play it on Twitch, and it was fascinating that, A, they got whole-ass items and shit that I never even got.
+
+213
+00:18:59,810 --> 00:19:00,932
+Scott: I was like, "Oh, my God.
+
+214
+00:19:01,293 --> 00:19:03,596
+Scott: If I had that item, that other part would have been so much
+
+215
+00:19:03,676 --> 00:19:04,317
+Scott: easier.".
+
+216
+00:19:04,437 --> 00:19:12,950
+Scott: And it's like, you know, usually in Metroid, it's like you have to get this item to get to there and then this item to get to there, right?
+
+217
+00:19:13,550 --> 00:19:14,492
+Scott: In this game, no.
+
+218
+00:19:14,612 --> 00:19:16,515
+Scott: No such order, really.
+
+219
+00:19:17,517 --> 00:19:20,401
+Scott: Obviously, there are some things you can't do.
+
+220
+00:19:20,441 --> 00:19:23,726
+Scott: Like, you need a certain item to do a certain thing, and there's no way around it.
+
+221
+00:19:24,147 --> 00:19:26,110
+Scott: But a lot of times, there is a way around it.
+
+222
+00:19:26,891 --> 00:19:29,514
+Scott: And you don't really need to do the game in any particular order.
+
+223
+00:19:30,376 --> 00:19:35,242
+Scott: You can just sort of explore wherever, and it's gonna be hard to stop you, really.
+
+224
+00:19:35,262 --> 00:19:40,970
+Scott: And there's tons of ways to cheese various things and do things in unintended ways.
+
+225
+00:19:42,151 --> 00:19:46,075
+Scott: I saw streamers beat bosses without beating the boss at all.
+
+226
+00:19:47,156 --> 00:19:48,878
+Scott: It's like, "Oops, did I do
+
+227
+00:19:48,918 --> 00:19:49,198
+Scott: that?".
+
+228
+00:19:50,539 --> 00:19:55,425
+Scott: And normally, that would be considered a bug, but in this game, it's almost like a feature.
+
+229
+00:19:55,445 --> 00:19:59,929
+Scott: You were so clever with the items, you figured out another way to get past it.
+
+230
+00:20:02,090 --> 00:20:09,260
+Scott: And, you know, it's like, some pretty wild shit goes on in this game, and if you really want to keep playing it, you can get a lot of value.
+
+231
+00:20:09,760 --> 00:20:16,870
+Scott: And despite the sort of typical pixel-y scanline style, it's actually quite a beautiful game in a lot of places.
+
+232
+00:20:17,030 --> 00:20:23,075
+Rym: I was gonna call out specifically that there are three kinds of pixel indie games in my experience.
+
+233
+00:20:23,155 --> 00:20:30,440
+Rym: Kind one is an actual retro game that is faithfully recreating the way pixels were in a particular era.
+
+234
+00:20:30,860 --> 00:20:37,806
+Rym: There's the naive indie game that doesn't understand pixels and makes a weird, ugly game.
+
+235
+00:20:38,366 --> 00:20:43,770
+Rym: And then there's this, which is what I would say is fully realized, beautiful pixels.
+
+236
+00:20:44,451 --> 00:20:46,894
+Scott: Yeah, so the game's getting a lot of hype.
+
+237
+00:20:47,675 --> 00:20:48,556
+Scott: The hype is legit.
+
+238
+00:20:49,537 --> 00:20:59,369
+Scott: If you're looking for a video game to play for, people are saying, "I didn't check how many hours it took me, but it took me a few hours on Saturday and a few hours on a Sunday, and I beat
+
+239
+00:20:59,530 --> 00:20:59,570
+Scott: it.".
+
+240
+00:20:59,830 --> 00:21:04,230
+Rym: The only reason I didn't play it yesterday was there was an unfortunate hockey game on.
+
+241
+00:21:05,810 --> 00:21:06,652
+Scott: Very unfortunate.
+
+242
+00:21:06,732 --> 00:21:11,519
+Scott: So, if you need a video game, this should be the video game that you go to.
+
+243
+00:21:14,364 --> 00:21:17,549
+Scott: It's on Switch, and it's on Steam, and I assume on other things also.
+
+244
+00:21:17,609 --> 00:21:18,210
+Scott: I don't need that.
+
+245
+00:21:21,561 --> 00:21:24,865
+Rym: But anyway, things of the day!
+
+246
+00:21:25,206 --> 00:21:27,128
+Rym: So, this is a video.
+
+247
+00:21:27,148 --> 00:21:29,211
+Rym: There's a famous movie that you've never seen it.
+
+248
+00:21:29,311 --> 00:21:30,333
+Rym: You should definitely see it.
+
+249
+00:21:31,514 --> 00:21:33,237
+Rym: It's Kurosawa's High and Low.
+
+250
+00:21:33,657 --> 00:21:35,680
+Rym: This video doesn't spoil anything significant.
+
+251
+00:21:37,520 --> 00:21:39,503
+Scott: This is like, this movie, you don't understand.
+
+252
+00:21:39,964 --> 00:21:44,670
+Scott: I think not enough people talk about this movie, but actually I think people are talking about it more lately.
+
+253
+00:21:44,690 --> 00:21:49,757
+Scott: Because people used to, think about Kurosawa, they used to say Seven Samurai, Yojimbo, etc.
+
+254
+00:21:53,280 --> 00:21:56,966
+Scott: You know, Throne of Blood, Hidden Fortress, right?
+
+255
+00:21:57,247 --> 00:22:02,636
+Scott: And this one didn't really get mentioned so much, but I saw it, and I was like, "Whoa, this one is like, this is up there.
+
+256
+00:22:02,656 --> 00:22:04,399
+Scott: This is like, just as good as those other
+
+257
+00:22:04,539 --> 00:22:04,679
+Scott: ones.".
+
+258
+00:22:05,180 --> 00:22:08,426
+Scott: And then, since then, I'm seeing a lot more people talk about this movie.
+
+259
+00:22:09,308 --> 00:22:13,555
+Scott: It's about a guy who runs a shoe business, like a shoe factory.
+
+260
+00:22:13,615 --> 00:22:16,260
+Scott: He's kinda rich, because he runs a whole factory making shoes.
+
+261
+00:22:16,761 --> 00:22:18,723
+Scott: But he is the good businessman.
+
+262
+00:22:18,783 --> 00:22:21,646
+Scott: He cares about the quality of the shoes, right?
+
+263
+00:22:21,806 --> 00:22:23,568
+Scott: He's actually trying to do legit business.
+
+264
+00:22:23,929 --> 00:22:33,820
+Scott: You know, he's not some capitalist, you know, I mean he's a capitalist, but he's not the bad capitalist who's just trying to exploit the workers and, you know, make it the shittiest shoe for the highest price.
+
+265
+00:22:34,441 --> 00:22:40,267
+Scott: And some dudes are trying to make him be the bad capitalist, because that's how they do.
+
+266
+00:22:41,249 --> 00:22:43,471
+Scott: And then, his son gets kidnapped.
+
+267
+00:22:44,272 --> 00:22:45,954
+Scott: For ransom, because he's a rich dude.
+
+268
+00:22:46,575 --> 00:22:51,000
+Scott: But then actually, his son didn't get kidnapped, it was his friend's son.
+
+269
+00:22:51,901 --> 00:22:54,228
+Scott: But he's like, he's such a good dude, he's like, "No, no, no.
+
+270
+00:22:54,769 --> 00:22:55,933
+Scott: We're getting that kid
+
+271
+00:22:55,973 --> 00:22:56,274
+Scott: back.".
+
+272
+00:22:57,197 --> 00:22:58,380
+Scott: And then that's the rest of the movie.
+
+273
+00:22:58,580 --> 00:22:58,781
+Rym: Yep.
+
+274
+00:22:59,121 --> 00:23:09,320
+Rym: So this video, so I'm working on a project and I've been doing a lot of research into stage and cinema and television blocking and, like, acting prompts.
+
+275
+00:23:09,640 --> 00:23:14,700
+Rym: Because I've had a few revelations about role-playing games during this research that I think I'll save for another time.
+
+276
+00:23:15,140 --> 00:23:29,940
+Rym: But there are very few role-playing games, tabletop style or LARP style, that give players the kinds of prompts that directors and scripts give players that facilitate good role-playing.
+
+277
+00:23:30,100 --> 00:23:33,125
+Rym: Like, that's an area of research I'm digging into pretty deeply right now.
+
+278
+00:23:33,866 --> 00:23:51,880
+Rym: And this video is one that I watched around blocking scenes, because you want to block a scene in a LARP or a role-playing game Very similarly to how you might block something for cinema or stage, the nuances being, is the audience primary versus is one of the players primary, that kind of thing.
+
+279
+00:23:53,241 --> 00:24:03,160
+Rym: Much like how the best anime were the ones that drew not just from a history of anime and animation, but from a history of cinema and industrial design and all these other things.
+
+280
+00:24:03,461 --> 00:24:13,140
+Rym: The best works in any space tend to derive from a lot of other spaces, and the works that tend to only derive from the space they're in tend to miss the mark.
+
+281
+00:24:14,300 --> 00:24:22,600
+Rym: I think role-playing games can draw a lot from the way stage and cinema operate, and I haven't seen that vocabulary used, except in very, very few places.
+
+282
+00:24:22,960 --> 00:24:24,983
+Rym: Ghost Court is actually one of the rare exceptions.
+
+283
+00:24:25,424 --> 00:24:36,360
+Rym: So this video is three examples of very precise blocking of shots in this movie from one of the early scenes in the movie.
+
+284
+00:24:36,961 --> 00:24:41,792
+Rym: And it goes into, like, extreme depth of, like, let's take the silhouettes of the characters.
+
+285
+00:24:42,193 --> 00:24:43,215
+Rym: What's going on here?
+
+286
+00:24:43,275 --> 00:24:44,217
+Rym: What is this telling you?
+
+287
+00:24:44,257 --> 00:24:45,360
+Rym: What is this telling the audience?
+
+288
+00:24:45,780 --> 00:24:50,326
+Rym: And it's a really good 13-minute introduction into how powerful blocking is.
+
+289
+00:24:50,406 --> 00:25:02,080
+Rym: And if you learn even a little bit about this, as Scott and I can both attest to, movies that do it poorly will be infuriating to you, and movies that do it well will be sublime to you.
+
+290
+00:25:02,640 --> 00:25:03,101
+Rym: Well, the thing
+
+291
+00:25:03,121 --> 00:25:21,240
+Scott: about Kurosawa is that you watch any Kurosawa film, even ones that are not so good, and basically every single shot, he's either moving the camera in an interesting way, or he's got a perfect composition where you have foreground interest, midground interest, background interest, and things are moving.
+
+292
+00:25:21,340 --> 00:25:22,701
+Scott: It's never, like, things sitting still.
+
+293
+00:25:22,761 --> 00:25:24,062
+Scott: Something's moving, right?
+
+294
+00:25:24,483 --> 00:25:36,472
+Scott: Even if it's, like, you know, just, like, some reeds, you know, blowing in the wind in the front of the scene while the rest, you know, while you're waiting for someone to walk into the shot in the background or something, right?
+
+295
+00:25:47,140 --> 00:25:53,347
+Scott: So, Kurosawa and Kurosawa have really good shots, and then just sort of, like, you know, pedestrian shots in between, right?
+
+296
+00:25:53,367 --> 00:25:56,151
+Scott: Like, as they get to their big scene, it's like, "Alright, here's the big scene.
+
+297
+00:25:56,171 --> 00:26:03,960
+Scott: We're gonna shoot it amazingly, and then we'll just do normal movie biz, and then get to the next big scene where you should, you know, have everything composed
+
+298
+00:26:03,980 --> 00:26:04,160
+Scott: amazingly.".
+
+299
+00:26:05,120 --> 00:26:09,260
+Scott: Kurosawa, no, every single frame is, might as well be the big scene.
+
+300
+00:26:09,340 --> 00:26:19,960
+Rym: And part of what Kurosawa is doing is the movements of characters are blocked like crosses in a stage play, and you'll see I just used some words because I'm learning a lot about this for reasons.
+
+301
+00:26:21,820 --> 00:26:24,928
+Scott: Well, the opening scene of that movie is basically a stage play.
+
+302
+00:26:24,948 --> 00:26:29,420
+Scott: It all takes place entirely in one room until it moves to the second part of the movie.
+
+303
+00:26:29,761 --> 00:26:38,220
+Scott: So, it's a lot like, you know, one of those one-room plays like "Death of the Salesman" or "The Glass Menagerie" where it's all in one spot until it's not.
+
+304
+00:26:38,220 --> 00:26:42,047
+Rym: Speaking of which, as an aside there, I realize not everyone's familiar with this concept.
+
+305
+00:26:42,749 --> 00:26:48,360
+Rym: Are you familiar with the concept of a drawing room play, which is where one-room plays kind of came from?
+
+306
+00:26:50,521 --> 00:26:52,566
+Scott: How is it different from a drawing room play?
+
+307
+00:26:59,240 --> 00:27:14,420
+Rym: And there were basically plays or scripts that were written kind of like music with the idea that you would like get the script, invite people over and act it out together, or like get some friends to act it out while other friends watch it happen.
+
+308
+00:27:15,120 --> 00:27:26,120
+Rym: So they were written with the assumption of you would like be able to stage this in your drawing room because everyone of means has a drawing room.
+
+309
+00:27:28,341 --> 00:27:32,435
+Rym: I think there's also some inspiration to be taken for tabletop RPGs from that concept.
+
+310
+00:27:32,475 --> 00:27:33,318
+Rym: But again, I digress.
+
+311
+00:27:33,338 --> 00:27:33,980
+Rym: What's your thing of the day?
+
+312
+00:27:34,920 --> 00:27:35,808
+Scott: Oh, my thing of the day?
+
+313
+00:27:35,889 --> 00:27:36,980
+Scott: What was my thing of the day?
+
+314
+00:27:37,362 --> 00:27:39,140
+Rym: It's a very thing of the day.
+
+315
+00:27:40,921 --> 00:27:41,361
+Scott: Oh, yeah.
+
+316
+00:27:41,422 --> 00:27:52,520
+Scott: So usually, you know, when you're trying to write words, right, and you want a different, you got a word, you have the right meaning, but you want a different word, you use a thesaurus, right?
+
+317
+00:27:52,820 --> 00:27:55,814
+Scott: You call up your buddy Rogé, you're like, "Hey, what's a different word for
+
+318
+00:27:55,834 --> 00:27:56,035
+Scott: this?".
+
+319
+00:27:56,055 --> 00:27:56,919
+Scott: Right, Rogé?
+
+320
+00:27:58,040 --> 00:28:02,208
+Scott: And, you know, thesauruses are often not that helpful, I've found.
+
+321
+00:28:03,290 --> 00:28:08,580
+Scott: Sometimes, sometimes they are, but sometimes not that great, you know, because especially when words have multiple meanings.
+
+322
+00:28:08,981 --> 00:28:16,940
+Scott: Thesaurus doesn't have a lot of options for the meaning you're looking for, and another meaning might be more common, and it's like you're not finding what you want.
+
+323
+00:28:18,580 --> 00:28:32,360
+Scott: Another thing is that, you know, when you're doing, when you're writing, you know, any kind of written work, essay, article, book, right, you know, you fall into like this, you know, this trap of using the word "very" a lot, right?
+
+324
+00:28:32,440 --> 00:29:05,620
+Scott: Very something, right, as your adjective, it's always very something, and when you say very something, that usually means that you're, the something that comes after the very, very good, you know, very cold, is, the second word is usually a very common, boring, unexciting, uninspiring kind of word, everyday kind of word, and that's fine for everyday kind of talking, but if you're trying to write something, and to sound smarter, fancier, you know, more eloquent, you don't want to say very something.
+
+325
+00:29:05,780 --> 00:29:09,103
+Scott: You pretty much almost never want to say very anything, right?
+
+326
+00:29:09,423 --> 00:29:11,665
+Scott: You always want to replace that with a fancy word.
+
+327
+00:29:12,066 --> 00:29:27,860
+Scott: For example, instead of saying very cold, you could just say frigid, and that's just better, right, in some sense of the word better, and so this website is just a thesaurus, but it's a very good thesaurus, it's a better thesaurus, right?
+
+328
+00:29:28,280 --> 00:29:36,448
+Scott: Better is a better way of saying very, I guess, anyway, what you do is it frames everything in terms of very.
+
+329
+00:29:36,668 --> 00:29:48,940
+Scott: You, so you could go through what you've written, and look for every instance of the word very, and you say, alright, I need another word for very stupid, and it will say inane, or, right?
+
+330
+00:29:49,760 --> 00:29:56,680
+Rym: It's like very cold, it says freezing, so now I just typed very, very cold, and it says bone chilling.
+
+331
+00:29:57,481 --> 00:29:58,905
+Scott: There you go, bone chilling.
+
+332
+00:29:59,005 --> 00:30:03,920
+Scott: So you could just take anything you've written, you don't need any AI, right, and just.
+
+333
+00:30:04,060 --> 00:30:05,659
+Rym: Well you do, because this is an AI.
+
+334
+00:30:06,400 --> 00:30:06,542
+Scott: Is it?
+
+335
+00:30:06,563 --> 00:30:07,680
+Scott: I thought it was just a look up database.
+
+336
+00:30:07,680 --> 00:30:08,487
+Rym: You didn't read the about?
+
+337
+00:30:08,548 --> 00:30:09,860
+Rym: Okay, so two points.
+
+338
+00:30:10,261 --> 00:30:11,600
+Scott: I thought it was a look up database.
+
+339
+00:30:11,841 --> 00:30:15,638
+Rym: It was obviously an LLM, and if you go to the about, it says this is an LLM.
+
+340
+00:30:16,701 --> 00:30:17,914
+Scott: Oh, well, I didn't read that part.
+
+341
+00:30:18,520 --> 00:30:26,580
+Rym: But two, you know, who made it, the guy who made it, Amir Karimi, or Karimi, I don't know the nationality, so there's multiple ways to pronounce that, sorry buddy.
+
+342
+00:30:27,700 --> 00:30:33,480
+Rym: Quote, as non-native English speakers, we're often advised to avoid overusing intensifiers like very.
+
+343
+00:30:33,880 --> 00:30:38,820
+Rym: For example, instead of relying on generic terms, which is very big, for more descriptive alternatives like enormous.
+
+344
+00:30:39,260 --> 00:30:42,028
+Rym: This was aimed at English as a second language.
+
+345
+00:30:42,068 --> 00:30:49,620
+Rym: people who were specifically trying to avoid saying very all the time, so they don't sound like they learn English from Duolingo like I sound if I try to speak French.
+
+346
+00:30:51,043 --> 00:30:52,212
+Scott: Huh, I didn't read any of that part.
+
+347
+00:30:52,253 --> 00:30:53,180
+Rym: I just used the tool.
+
+348
+00:30:53,740 --> 00:30:55,638
+Scott: And it didn't look like an LLM, it looked like a.
+
+349
+00:30:56,281 --> 00:31:07,180
+Rym: It was obviously an LLM because if you type anything pretty obscure, if you type something very obscure into it, it would say, wait a minute, and like take a while before it brought the results back.
+
+350
+00:31:07,920 --> 00:31:08,483
+Scott: Yeah, alright.
+
+351
+00:31:08,845 --> 00:31:11,300
+Scott: But yeah, it's still pretty good and useful.
+
+352
+00:31:11,624 --> 00:31:12,039
+Scott: Pretty good?
+
+353
+00:31:12,843 --> 00:31:14,359
+Scott: It's very useful, I'd say.
+
+354
+00:31:15,920 --> 00:31:18,679
+Rym: Very interesting, or perhaps remarkable, stellar exquisits.
+
+355
+00:31:20,620 --> 00:31:25,240
+Scott: Just take anything you've written, search for the word very, and replace all of them with something better.
+
+356
+00:31:25,560 --> 00:31:30,900
+Rym: I appreciate that if I type very something into this, it just gets more and more superlative.
+
+357
+00:31:31,560 --> 00:31:34,920
+Rym: It's definitely, the LLM is pretty well made for what it's doing.
+
+358
+00:31:36,560 --> 00:31:39,340
+Rym: In the meantime, the GeekNights Book Club book was The Night a Short Walk On Girl.
+
+359
+00:31:39,400 --> 00:31:41,119
+Rym: We did the show, it's done, I gotta pick the next books.
+
+360
+00:31:41,581 --> 00:31:44,460
+Rym: I have chosen one of the options, now I'm gonna choose.
+
+361
+00:31:44,520 --> 00:31:46,240
+Scott: There's not enough options, you gotta choose the second option.
+
+362
+00:31:46,340 --> 00:31:51,660
+Rym: I do have to choose the second option, and once I choose the second option, I will present the choice to Scott, and then we'll do the next.
+
+363
+00:31:51,721 --> 00:31:54,000
+Scott: I don't know why it's so difficult for you, I got options for days.
+
+364
+00:31:54,480 --> 00:31:56,873
+Rym: I do too, but I'm debating if I want to.
+
+365
+00:31:58,280 --> 00:32:04,680
+Scott: And if you already picked one, it shouldn't be hard to pick one that goes with it, unless you wanna avoid that trend of picking a matched set.
+
+366
+00:32:05,060 --> 00:32:09,580
+Rym: I'm trying actually to pick two radically different things, like radically different.
+
+367
+00:32:10,181 --> 00:32:13,860
+Scott: You can do whatever you like, that's also a perfectly legit option.
+
+368
+00:32:14,580 --> 00:32:21,180
+Rym: The deadline of this weekend is the absolute last moment I can consider this, and then I'm forced to present two options.
+
+369
+00:32:23,280 --> 00:32:34,640
+Rym: Alright, so, not gonna get into the super details of this, but the impetus for this conversation, this main bit, is a little kerfuffle you might have seen with a game called Helldivers 2.
+
+370
+00:32:34,640 --> 00:32:37,540
+Rym: Not the malware anti-cheat.
+
+371
+00:32:38,281 --> 00:32:43,360
+Scott: The game has had a lot of kerfuffles, which has kept me from playing it, but let's just focus on the newest kerfuffle.
+
+372
+00:32:43,460 --> 00:32:49,520
+Rym: Yeah, but I will note, if not for all these kerfuffles, the game looks like exactly the kind of game I would fucking love.
+
+373
+00:32:49,921 --> 00:32:52,140
+Scott: We liked Helldivers 1 a lot, we played it quite a bit.
+
+374
+00:32:52,280 --> 00:32:53,319
+Rym: I should maybe play it again.
+
+375
+00:32:53,960 --> 00:33:08,440
+Rym: Because I'm unwilling to play Helldivers 2 for a lot of reasons, but the shit really hit the fan when Helldivers 2 was suddenly delisted on Steam from 177 countries and territories where it had previously been available.
+
+376
+00:33:08,962 --> 00:33:13,818
+Rym: And anyone who had bought it in those regions was no longer able to play it.
+
+377
+00:33:14,940 --> 00:33:22,240
+Rym: This was ordered by Sony over the heads of both the developer and Steam, like Sony demanded this.
+
+378
+00:33:23,060 --> 00:33:28,720
+Scott: Right, so apparently this was known in advance according to people.
+
+379
+00:33:28,920 --> 00:33:39,859
+Rym: Well, if you go to the Steam page to buy the game, there's those little warnings that appear in the highlighted text on the far right of the screen that no one reads that usually say things like, "Hey, this game's VR
+
+380
+00:33:39,980 --> 00:33:40,180
+Rym: only.".
+
+381
+00:33:40,260 --> 00:33:41,551
+Rym: You have a VR headset, right?
+
+382
+00:33:41,611 --> 00:33:42,599
+Rym: Otherwise you can't play it.
+
+383
+00:33:43,080 --> 00:33:56,399
+Scott: So there was, according to people I trust, I didn't see it myself, a warning that said, "Someday, not now, but someday this game is going to require a PlayStation Network account even though it doesn't require it
+
+384
+00:33:56,479 --> 00:33:56,720
+Scott: now.".
+
+385
+00:33:56,940 --> 00:34:09,440
+Scott: So if you buy the game now, at some point you are going to need to get a PlayStation Network account and sign into it to continue playing this game, just letting you know that will happen, and eventually, yes, get the news, that did happen.
+
+386
+00:34:09,639 --> 00:34:19,554
+Scott: And the problem is that, you know, there are certain countries, lots of them, where you cannot legally get a PlayStation Network account.
+
+387
+00:34:19,594 --> 00:34:23,520
+Scott: PlayStation Network accounts are only for a small number of countries, the big ones.
+
+388
+00:34:23,600 --> 00:34:30,355
+Rym: Yep, so Sony is absolutely in the wrong on that point of, "You can't sell something somewhere and then take it away.
+
+389
+00:34:30,435 --> 00:34:31,377
+Rym: That is your fault
+
+390
+00:34:31,377 --> 00:34:33,159
+Rym: 100%.".
+
+391
+00:34:33,159 --> 00:34:37,800
+Scott: Yeah, they should not have sold it in places where PlayStation Network does not exist here.
+
+392
+00:34:37,880 --> 00:34:45,754
+Rym: But two, if they're going to require this account, they should never have sold it allowing people to buy it and play it without the account and then force them to get it later.
+
+393
+00:34:45,774 --> 00:34:49,040
+Rym: That is obviously a poor decision.
+
+394
+00:34:49,440 --> 00:34:54,659
+Scott: I think that was a rush to get the game, you know, deployed and on sale.
+
+395
+00:34:55,541 --> 00:35:03,139
+Rym: Well, but also there's a little more to it than that because the developer doesn't seem to care about the PlayStation thing.
+
+396
+00:35:03,640 --> 00:35:06,804
+Scott: No, the developer signed on with Sony for the money.
+
+397
+00:35:07,905 --> 00:35:19,960
+Scott: They would have been happy to just make the game, but on every platform, the original one wasn't, you know, it's just like you're trying to raise money to make your game and Sony's like, "Hey, we'll publish your game and fund it and everything, you know, sign on with
+
+398
+00:35:20,040 --> 00:35:20,100
+Scott: us.".
+
+399
+00:35:20,160 --> 00:35:22,620
+Rym: Let's just say you won't pay with money.
+
+400
+00:35:23,860 --> 00:35:25,043
+Scott: Yeah, we'll make it a semi.
+
+401
+00:35:25,284 --> 00:35:31,780
+Scott: PlayStation's been doing a weird thing lately, which, you know, I've always been of the opinion there's no reason to get a PlayStation because you can just get a computer.
+
+402
+00:35:32,820 --> 00:35:52,640
+Scott: But that's becoming more true as Sony is like having more of their games be also on PC at some point, but they're still trying to keep a hold on those games by, as you can see, tying them to PlayStation networks that you at least if you're on PC, you still need the PSN account and you still become a Sony customer even if you aren't buying their hardware.
+
+403
+00:35:54,061 --> 00:35:54,682
+Rym: So they're trying
+
+404
+00:35:54,702 --> 00:36:13,360
+Scott: to have their cake and eat it too by selling their games, you know, exclusively on PlayStation to get people to buy PlayStations, but also eventually sell them on PC to get more money by selling more copies of the game, but still keeping you in their fold by forcing you to get the PlayStation network account.
+
+405
+00:36:13,440 --> 00:36:25,440
+Rym: Yeah, and I think PlayStation is on its way out long term just as a hardware concept, but that's not the topic today, nor is the topic the specifics of the Helldivers thing because I don't care that much.
+
+406
+00:36:26,100 --> 00:36:40,640
+Rym: Honestly, the game has already crossed me too many times for me to be willing to play it regardless of the Sony situation, even though it's noteworthy that they back down and remove the requirement, at least for now, after extreme outrage from gamers.
+
+407
+00:36:41,022 --> 00:36:44,400
+Rym: Some of that outrage justified, some of it insane gamer bullshit.
+
+408
+00:36:45,521 --> 00:36:55,099
+Scott: I think if PlayStation Network was available everywhere Steam was available, then they wouldn't have retracted, they would have said get the account, but that part of the fuck up was so big that they couldn't.
+
+409
+00:36:55,540 --> 00:37:16,820
+Rym: But this does lead to another thing because increasingly a lot of game companies either make a store or have an account system or something, and they really, really, really want people who buy their game to have an account on that thing, even if having an account on that thing doesn't do anything for the actual player.
+
+410
+00:37:17,580 --> 00:37:18,942
+Rym: It's common everywhere.
+
+411
+00:37:19,362 --> 00:37:23,488
+Rym: I've got accounts with a bunch of game companies I couldn't give less than a shit about.
+
+412
+00:37:23,928 --> 00:37:27,934
+Rym: I have an Epic account just to play Fortnite, there's nothing else in there.
+
+413
+00:37:27,954 --> 00:37:32,740
+Rym: I have an Activision Blizzard account solely to play Overwatch, even though I launch Overwatch from Steam.
+
+414
+00:37:34,381 --> 00:37:35,324
+Rym: Why is everyone doing?
+
+415
+00:37:35,364 --> 00:37:39,860
+Rym: this is actually a fundamental problem in the games industry right now.
+
+416
+00:37:41,261 --> 00:37:51,477
+Scott: And what it comes down to is that, you know, it used to be that you could make a game and sell the game, and you'd make a bunch of money, and then you'd go and make another game.
+
+417
+00:37:51,657 --> 00:37:53,520
+Scott: Just like people make movies, they make a movie.
+
+418
+00:37:54,060 --> 00:37:58,980
+Scott: And then they sell it, and then it sort of enters its long tail era.
+
+419
+00:37:59,260 --> 00:38:00,963
+Scott: They released Phantasmagoria.
+
+420
+00:38:01,043 --> 00:38:03,486
+Rym: I paid like $60 to buy it out of Babbage's.
+
+421
+00:38:03,586 --> 00:38:04,087
+Rym: I played it.
+
+422
+00:38:04,527 --> 00:38:05,088
+Rym: It was great.
+
+423
+00:38:05,468 --> 00:38:12,758
+Rym: Then they launched Phantasmagoria 2, and I paid like $60 at Media Play to buy it, and I played it.
+
+424
+00:38:13,018 --> 00:38:14,120
+Rym: That's how games used to be sold.
+
+425
+00:38:15,641 --> 00:38:19,931
+Scott: But at least for big, big games, the budgets have gone way up.
+
+426
+00:38:21,314 --> 00:38:23,680
+Scott: And to justify the big budget, you need to make more money.
+
+427
+00:38:24,460 --> 00:38:29,191
+Scott: And there's this guy, you may have seen him on YouTube Shorts and/or Twitch.
+
+428
+00:38:29,291 --> 00:38:32,940
+Scott: I think it's his own company named Pirate Software, I think.
+
+429
+00:38:34,381 --> 00:38:38,005
+Scott: And he just makes a cute little video game called Heart Somethin', I forget.
+
+430
+00:38:38,365 --> 00:38:46,295
+Scott: And we actually have a friend who worked with him because he was at Blizzard for a long- this guy, who I'm talking about, was at Blizzard for a very long time.
+
+431
+00:38:46,315 --> 00:38:50,520
+Scott: His dad was like the cinematics guy at Blizzard for a very long time.
+
+432
+00:38:51,240 --> 00:38:56,810
+Scott: And then he left Blizzard and went to Amazon, which is where our friend worked with him for briefly.
+
+433
+00:38:56,830 --> 00:39:02,060
+Scott: And now he's doing his own thing, and he's doing YouTube and Twitch stuff also, right?
+
+434
+00:39:03,020 --> 00:39:06,744
+Scott: And this guy has one of his YouTube Shorts, he's like, "Let me tell you something.
+
+435
+00:39:07,245 --> 00:39:13,612
+Scott: I worked on StarCraft II, Wings of Liberty, for this much time and for this much budget.
+
+436
+00:39:14,834 --> 00:39:18,278
+Scott: And then we made money on that game.
+
+437
+00:39:19,019 --> 00:39:20,160
+Scott: It was a big, big endeavor.
+
+438
+00:39:21,021 --> 00:39:27,507
+Scott: And then World of Warcraft, right, started selling mounts, you know, to ride horses, right?
+
+439
+00:39:28,028 --> 00:39:28,708
+Scott: Digital horses.
+
+440
+00:39:29,529 --> 00:39:40,680
+Scott: And so, the first horse that they put out in World of Warcraft, people could just pay 10, 15 bucks, I don't know how much money it was, to buy this horse and ride it around in World of Warcraft.
+
+441
+00:39:41,642 --> 00:39:50,980
+Scott: Blizzard made more money from the horse, just selling the horse, than they made from all of selling StarCraft II.
+
+442
+00:39:51,520 --> 00:40:01,430
+Rym: Now, you have to understand, like, this moment, this guy talked about a lot of PAX Dev, like this exact thing in a bunch of different panels.
+
+443
+00:40:02,911 --> 00:40:12,460
+Rym: Nobody outside of the games industry realized it yet, but the people who saw this happen, it was like a nuclear bomb was dropped right on top of games as an industry.
+
+444
+00:40:13,560 --> 00:40:14,622
+Scott: Yeah.
+
+445
+00:40:14,822 --> 00:40:22,751
+Scott: I mean, really, the first time this happened was when Valve mostly stopped making games and just made Steam instead.
+
+446
+00:40:23,231 --> 00:40:30,880
+Scott: Most of their work is on Steam, and the games that they do still make, Counter-Strike, Dota, TF2, I guess, still exists?
+
+447
+00:40:30,880 --> 00:40:36,080
+Rym: I guess, yeah, TF2 still makes plenty of money from selling hats, which are basically just mounts.
+
+448
+00:40:36,781 --> 00:40:36,981
+Scott: Right.
+
+449
+00:40:37,382 --> 00:40:43,411
+Scott: All of those games, they are games, are also stores, right?
+
+450
+00:40:43,551 --> 00:40:47,817
+Scott: There's a Counter-Strike store, where you get Counter-Strike stuff, right?
+
+451
+00:40:47,917 --> 00:40:49,620
+Scott: It's a TF2 store with hats.
+
+452
+00:40:49,680 --> 00:41:03,940
+Rym: Yeah, we're not even talking about pay to win versus free to play, doesn't fucking matter, all that matters is that these games are stores, and people pay money into the game after they bought the game, irrespective of what they get out of it.
+
+453
+00:41:04,200 --> 00:41:04,401
+Scott: Right.
+
+454
+00:41:04,501 --> 00:41:08,752
+Scott: Steam is a store, Roblox is a store, Fortnite is a store, right?
+
+455
+00:41:08,812 --> 00:41:09,895
+Scott: Marvel Snap is a store.
+
+456
+00:41:12,400 --> 00:41:16,785
+Scott: Marvel Snap is absolutely a store, Magic Arena is a store, right?
+
+457
+00:41:17,385 --> 00:41:30,639
+Scott: All the biggest money-making games that will carry on, continue, Minecraft is kind of a store, you know, even if things in the store are free, you know, they're just a bunch of mods made by fans or something, right?
+
+458
+00:41:30,659 --> 00:41:31,300
+Scott: It's still a store.
+
+459
+00:41:31,841 --> 00:41:40,149
+Scott: The big games that are gonna last and dominate are themselves stores with other games inside, right?
+
+460
+00:41:40,170 --> 00:41:49,900
+Scott: It's like, Fortnite started out as just a game, but it's like, now you got like, Lego, frickin' Fortnite survival game in there, it's like there's all these other games in there, right?
+
+461
+00:41:50,120 --> 00:42:01,240
+Scott: So it's like you install the Epic Store to install Fortnite, which is a store, and then in that store, you can buy the game for free, or, right, you can play the game Fortnite inside of two stores.
+
+462
+00:42:03,321 --> 00:42:16,620
+Scott: And what it comes down to is that games don't make money, or at least they don't make enough money to justify any big kind of budget expenditure, right, that any big company is gonna bother with their time and resources on, right?
+
+463
+00:42:17,061 --> 00:42:31,400
+Scott: Games these days, they might make enough money for someone who's making Animal Well, right, or a little indie game, or a Bellatro, or a Vampire Survivors, where you have a very small budget, a very small team, you worked hard and made this thing, a Dwarf Fortress.
+
+464
+00:42:31,860 --> 00:42:34,220
+Rym: Undertale, Deltarune, stuff like that.
+
+465
+00:42:34,220 --> 00:42:34,460
+Rym: Right,
+
+466
+00:42:35,021 --> 00:42:53,580
+Scott: and you put it out, and you made something that was actually great, and you put it in someone else's store, right, Apple Store, Steam Store, Epic Store, and tons of people buy it, and so you individually make a lot of money, at least as far as you're concerned, right?
+
+467
+00:42:54,060 --> 00:43:11,920
+Scott: But you're not making, you know, mega-millions, you're just making maybe regular millions, if you're really successful at it, you did something amazing, but that's a bad, and to a big company, single-digit millions, even double-digit millions, if it's low double digits, is not anything.
+
+468
+00:43:12,080 --> 00:43:24,020
+Rym: Yep, and there's just an article I was reading this morning that I didn't want to, I didn't finish, I didn't want to bring it up in the episode deeply, but it was about how success does not save a game studio.
+
+469
+00:43:25,200 --> 00:43:25,247
+Rym: No.
+
+470
+00:43:25,460 --> 00:43:30,200
+Rym: Like, being successful does not in any way tie to continue to exist, or even making money.
+
+471
+00:43:32,900 --> 00:43:49,172
+Scott: And so, the only thing, now, if you're a big company, and you want, you're in this industry of making games, or entertainment software, the only way that you can make money to satisfy your bigness is to make stores, you cannot make games, right?
+
+472
+00:43:59,680 --> 00:44:07,052
+Rym: Think way back, my foray into being an executive producer with Date Night O and Pillow Fight, and like, that whole visual novel era, what were you trying to do?
+
+473
+00:44:07,433 --> 00:44:11,460
+Rym: Make a marketplace for visual novels, that was the goal, making a game was just a path to that.
+
+474
+00:44:12,421 --> 00:44:14,540
+Scott: That was smart, that was the right strategy.
+
+475
+00:44:14,680 --> 00:44:21,480
+Rym: It's always the only strategy, it's a degenerate strategy in this era of late capitalism in the video game industry.
+
+476
+00:44:22,581 --> 00:44:32,080
+Scott: And so the reason this is happening, right, is because, not just the bigness and the need for always to grow, and not being satisfied with a small profit.
+
+477
+00:44:32,280 --> 00:44:34,820
+Rym: Because those pressures have been around since the dawn of capitalism.
+
+478
+00:44:35,660 --> 00:44:49,560
+Scott: What's happening is, it used to be, and it still is in some areas, that, you know, these sort of middlemen, right, who do provide value, right, they provide logistics, visibility, distribution, right?
+
+479
+00:44:50,802 --> 00:45:03,220
+Scott: You know, like a grocery store, it still today provides value in that, yeah, the company that makes food, right, they got a factory that makes cereal, it's like, they need grocery store, they can't go without it.
+
+480
+00:45:03,600 --> 00:45:14,580
+Rym: There's a reason why wholesale and retail are very well-defined, or were very well-defined categories that existed in US law, like that is, that concept makes sense on some level.
+
+481
+00:45:14,620 --> 00:45:20,760
+Scott: And, but grocery store also needs cereal manufacturer, otherwise they got empty shelf, right?
+
+482
+00:45:21,081 --> 00:45:24,720
+Scott: And so they have it, everything is done, at least in a correct-ish way.
+
+483
+00:45:25,160 --> 00:45:35,480
+Scott: We make the goods, we sell it to you, you sell it to the customer for more than that, and everyone is making money in between, right, in the correct-ish amount.
+
+484
+00:45:36,840 --> 00:45:55,400
+Scott: What's happening nowadays is on the internet with digital goods, the digital goods are, of course, infinite in supply, so once you've chosen to go to a store, they don't, it's like, they don't continue to need you, to like, keep sending them more cereal box, right?
+
+485
+00:45:55,640 --> 00:45:59,340
+Scott: It's like, your cereal's already in their store, you're good to go, right?
+
+486
+00:45:59,922 --> 00:46:01,647
+Scott: That's the end of you, right?
+
+487
+00:46:01,707 --> 00:46:06,360
+Scott: It's just, some legal agreement is all that they have to maintain, and they take a cut.
+
+488
+00:46:07,280 --> 00:46:16,600
+Scott: So, and you get a cut also, so it benefits you somewhat, but it's like, whoever owns the store is controlling the eyeballs, right?
+
+489
+00:46:16,660 --> 00:46:19,700
+Scott: You can't get someone to go directly to your website to buy the game.
+
+490
+00:46:20,662 --> 00:46:22,720
+Rym: Unless I'm accepted in rare circumstances.
+
+491
+00:46:23,520 --> 00:46:25,664
+Scott: Yeah, it's like, good luck with that, right?
+
+492
+00:46:25,704 --> 00:46:31,252
+Scott: It's like, if you want to sell, if you want to make money by selling a video game, there's only a few stores, it's not like.
+
+493
+00:46:31,272 --> 00:46:36,440
+Scott: there's a nationwide thousands of grocery stores frickin' everywhere, and you could be in some and not others.
+
+494
+00:46:36,500 --> 00:46:37,180
+Rym: But also, there's a sea.
+
+495
+00:46:37,280 --> 00:46:39,117
+Scott: Only sell to a certain region, right?
+
+496
+00:46:39,763 --> 00:46:40,540
+Scott: There's a sea of games.
+
+497
+00:46:40,580 --> 00:46:48,200
+Scott: It's like, there's Steam, Epic Store, and like, that's, and Nintendo Store, Sony Store, Xbox Store, and it's like, you've only got a handful, less than ten.
+
+498
+00:46:48,440 --> 00:46:49,081
+Scott: But also, there's
+
+499
+00:46:49,141 --> 00:47:08,580
+Rym: so many games out there, even if you go to, no matter where you go, there are so many games you could play today on a computer that cost under a dollar, and you might enjoy them, that discoverability and like, shining that light on something and telling other eyeballs to buy it, is the only thing that matters in terms of making money.
+
+500
+00:47:09,317 --> 00:47:09,460
+Scott: Yeah.
+
+501
+00:47:09,640 --> 00:47:13,580
+Scott: And it's, and it's not a store where it's like, okay, they have to keep restocking the shelves.
+
+502
+00:47:14,001 --> 00:47:20,320
+Scott: It's like, everything on the shelves is just like infinite supply, and they can keep adding, the store only gets bigger.
+
+503
+00:47:21,404 --> 00:47:22,860
+Scott: It's only more items every day.
+
+504
+00:47:22,960 --> 00:47:31,240
+Scott: It's like, and everything else gets pushed to the back, and they're constantly adding new shelves to the store in this infinite space, and it's just, they keep getting full of new things.
+
+505
+00:47:31,620 --> 00:47:38,020
+Scott: So, you are, who makes money in this situation, is not the people putting things on the shelves, right?
+
+506
+00:47:38,884 --> 00:47:41,740
+Scott: The people who make money is only the people who own the store.
+
+507
+00:47:41,900 --> 00:47:43,679
+Scott: They can now squeeze at both ends.
+
+508
+00:47:43,960 --> 00:47:47,119
+Scott: It used to be, you'd only be able to squeeze to one side, right?
+
+509
+00:47:47,960 --> 00:47:52,620
+Scott: The wholesaler could try to squeeze the store, and the store could try to squeeze the customer.
+
+510
+00:47:53,240 --> 00:48:00,840
+Scott: Now, whoever, the person in the middle who owns the store can squeeze the customer, and they can squeeze the person making the games.
+
+511
+00:48:01,060 --> 00:48:07,040
+Scott: They're squeezing both juices as the middle person, because they're in control, they're in control of everything.
+
+512
+00:48:07,160 --> 00:48:15,500
+Rym: And independent of that, because they have such power, this is like straight-up Monopoly territory, in that they pick winners now.
+
+513
+00:48:15,620 --> 00:48:31,020
+Rym: The store's algorithm, or what the store decides to show a random person who comes in from this infinite sea of possible products, they decide what's popular and what's not, effectively, with rare exceptions, where something breaks out into the general conversation.
+
+514
+00:48:32,220 --> 00:48:40,317
+Scott: Yeah, it's like they choose, they have complete control over what is at the front of the store, and the store is so big, you can never make it to the back of the store.
+
+515
+00:48:40,357 --> 00:48:41,880
+Scott: You'll die before you get there.
+
+516
+00:48:41,920 --> 00:48:45,199
+Scott: So you know, a long time ago- If it's not in the first two aisles, you're not gonna see it.
+
+517
+00:48:45,380 --> 00:48:50,620
+Rym: So a long time ago, there was one company that controlled all the oil, and something happened to that company.
+
+518
+00:48:51,920 --> 00:48:55,139
+Scott: There was a company that controlled all the telephone lines, something happened to them too.
+
+519
+00:48:55,600 --> 00:48:57,328
+Rym: Used to be, that actually might have been a mistake.
+
+520
+00:48:57,368 --> 00:49:00,260
+Rym: to break that up in retrospect, but that's a different kind of conversation.
+
+521
+00:49:00,260 --> 00:49:00,927
+Rym: It happened.
+
+522
+00:49:02,380 --> 00:49:03,600
+Rym: Or think about how movies used to be.
+
+523
+00:49:03,661 --> 00:49:04,470
+Scott: I didn't say anything.
+
+524
+00:49:04,531 --> 00:49:05,199
+Scott: that was not true.
+
+525
+00:49:05,400 --> 00:49:16,500
+Rym: The store is the theater, in the old times, for movies, and it used to be that the people that made the movies also owned the store, and you had a different kind of monopoly that was equally toxic to society.
+
+526
+00:49:17,101 --> 00:49:18,805
+Scott: Well, we do have some of those cases, right?
+
+527
+00:49:18,966 --> 00:49:24,600
+Scott: At the Steam store, it's actually a little bit like that, because they do have Valve games in there, but not so much.
+
+528
+00:49:24,680 --> 00:49:26,363
+Rym: Steam is like the fairest one.
+
+529
+00:49:26,383 --> 00:49:34,660
+Rym: They take a big cut, and we could debate that, but look at like, the Epic store is very much the studio system store.
+
+530
+00:49:35,141 --> 00:49:38,620
+Scott: Right, the Blizzard store, the Sony store, those are studio systems, right?
+
+531
+00:49:39,421 --> 00:49:45,238
+Scott: It's like they're not pushing Valve games very much on Steam, because they're just as big as they are.
+
+532
+00:49:45,760 --> 00:49:50,980
+Rym: Well, because the Valve games are themselves stores, and also, they print monies, they kind of don't give a shit.
+
+533
+00:49:51,782 --> 00:49:53,720
+Scott: Yeah, they're always promoting some other game in there.
+
+534
+00:49:54,742 --> 00:50:02,140
+Scott: You don't see Counter-Strike at the top of the Steam store unless it's got a super new update or something, like when Counter-Strike 2 came out.
+
+535
+00:50:02,320 --> 00:50:04,290
+Scott: I don't think I've seen Dota in the Steam store.
+
+536
+00:50:05,717 --> 00:50:06,140
+Scott: It's in there.
+
+537
+00:50:06,840 --> 00:50:12,539
+Rym: Yeah, and thus, you might think this is where Ruben Scott pivoted to like, "Here's what we do about
+
+538
+00:50:12,579 --> 00:50:12,740
+Rym: this.".
+
+539
+00:50:12,800 --> 00:50:14,668
+Rym: They're like, "I don't fucking know anymore.
+
+540
+00:50:14,688 --> 00:50:17,117
+Rym: I don't know how to deal with this, other than
+
+541
+00:50:17,137 --> 00:50:17,439
+Rym: communism.".
+
+542
+00:50:18,841 --> 00:50:28,079
+Scott: Yeah, the point is that as a consumer, you have to recognize what is a store, and be like, "That's a game, that's a
+
+543
+00:50:28,119 --> 00:50:28,400
+Scott: store.".
+
+544
+00:50:28,901 --> 00:50:34,940
+Scott: And I would suggest, if you want to keep your money safe and have more money for yourself, avoid stores.
+
+545
+00:50:35,720 --> 00:50:40,540
+Scott: If you go into it, just going into a store is putting yourself at risk of spending money.
+
+546
+00:50:40,640 --> 00:50:41,263
+Rym: I'd go further.
+
+547
+00:50:41,765 --> 00:50:44,920
+Rym: I've applied this to all of my life right now, including video games.
+
+548
+00:50:46,422 --> 00:50:50,192
+Rym: Steam is one exception, and that Steam is a store I will go to and use.
+
+549
+00:50:51,255 --> 00:50:53,000
+Rym: They're less bad than the others in a lot of ways.
+
+550
+00:50:54,001 --> 00:51:00,940
+Rym: I try to buy almost everything I buy that isn't a commodity direct from the person who made it, if they do D2C, direct to consumer.
+
+551
+00:51:01,340 --> 00:51:07,940
+Rym: And if they don't, I try to buy those things from specialty stores that specialize in that kind of thing.
+
+552
+00:51:08,100 --> 00:51:15,700
+Rym: Like, if I need audio equipment, I go to an audio specialist store to buy the thing, if I can't buy it directly from the manufacturer.
+
+553
+00:51:16,480 --> 00:51:23,540
+Scott: Yeah, it's like, you know, that way... You know, every time, it's sort of like the same thing with dieting, right?
+
+554
+00:51:23,921 --> 00:51:27,760
+Scott: I'm not a diet expert, and that's a huge topic for not-a-GeekNights out.
+
+555
+00:51:28,863 --> 00:51:30,277
+Rym: That's not a topic for us to talk about.
+
+556
+00:51:30,887 --> 00:51:31,059
+Scott: Ever.
+
+557
+00:51:31,561 --> 00:51:41,660
+Scott: But one technique that is very effective is, you know, if you buy, say, candy and bring it home with you, you're going to eat the candy, right?
+
+558
+00:51:42,201 --> 00:51:45,235
+Scott: So if you have, you know, if I got candy in the house, guess what?
+
+559
+00:51:45,316 --> 00:51:46,180
+Scott: I'm going to eat the candy.
+
+560
+00:51:46,320 --> 00:51:48,499
+Scott: We buy a bag of candy corn on Halloween, it gets eaten.
+
+561
+00:51:49,360 --> 00:51:51,477
+Scott: Rym won't eat it, but I'll eat the candy corn because I like it.
+
+562
+00:51:52,661 --> 00:51:55,029
+Scott: You know, if someone gives me a bag of chocolate, guess what?
+
+563
+00:51:55,069 --> 00:51:58,400
+Scott: That means I am now going to eat thousands of calories of chocolate.
+
+564
+00:51:58,501 --> 00:52:01,040
+Scott: I wouldn't have eaten had they not given me that chocolate.
+
+565
+00:52:01,581 --> 00:52:04,251
+Scott: So the best thing you can do is don't buy it.
+
+566
+00:52:04,552 --> 00:52:06,760
+Scott: If you just don't buy it, you ain't going to eat it.
+
+567
+00:52:07,362 --> 00:52:12,560
+Scott: And that's already saved you, right, taking some calories out of your diet there, right?
+
+568
+00:52:12,860 --> 00:52:19,799
+Scott: And it's the same thing with stores, is that if you don't go to stores and look at stuff, you're not going to buy stuff.
+
+569
+00:52:21,064 --> 00:52:22,700
+Rym: So just don't go to stores.
+
+570
+00:52:23,400 --> 00:52:28,700
+Rym: I need to use Battle.net to launch my stupid, god, Overwatch, even though I literally don't play any other Blizzard games.
+
+571
+00:52:29,420 --> 00:52:35,518
+Rym: I have literally never clicked on anything in that interface except the play button under Overwatch.
+
+572
+00:52:36,200 --> 00:52:36,340
+Scott: Ever.
+
+573
+00:52:37,861 --> 00:52:41,054
+Scott: So, and if you are trying to make money, make a store.
+
+574
+00:52:41,636 --> 00:52:42,680
+Scott: The opposite, right?
+
+575
+00:52:43,922 --> 00:52:48,620
+Scott: You know, if you're making a game and you're just focusing on the game part, it's like, we love you.
+
+576
+00:52:48,761 --> 00:52:49,767
+Scott: That's what we want.
+
+577
+00:52:49,787 --> 00:52:51,639
+Scott: We want people making art and great games.
+
+578
+00:52:51,940 --> 00:52:58,480
+Rym: When we talked about MagFest and MIVS, those ultra-independent games as insulate, like, that is culture.
+
+579
+00:52:58,740 --> 00:53:00,079
+Rym: That is what we want to support.
+
+580
+00:53:00,861 --> 00:53:02,306
+Scott: You're the hero, right?
+
+581
+00:53:02,446 --> 00:53:06,620
+Scott: But you ain't going to make any money, even if your game is fucking incredible, right?
+
+582
+00:53:07,020 --> 00:53:10,320
+Scott: If you put it in a store, yeah, you might make the money if you're the big hit.
+
+583
+00:53:11,181 --> 00:53:17,160
+Scott: But you're going to, people are just going to be taking advantage of you because you're in their store, it's not your store.
+
+584
+00:53:17,781 --> 00:53:25,200
+Scott: If you want to make the money, you have to make a store, which is going to make your game, not a game really anymore.
+
+585
+00:53:26,600 --> 00:53:35,280
+Rym: Or you've got to be willing to accept that you won't make money and maybe you've got other goals or other aims in what you're creating?
+
+586
+00:53:36,680 --> 00:53:38,064
+Scott: Yeah, I'm just saying.
+
+587
+00:53:38,124 --> 00:53:44,160
+Scott: And if you're a big company, it's like, there's only money in the digital world in being a store, right?
+
+588
+00:53:44,660 --> 00:53:48,031
+Scott: Amazon makes all the money, not the people selling the stuff on Amazon.
+
+589
+00:53:48,272 --> 00:53:50,840
+Scott: eBay makes the money, not the people selling stuff on the eBay.
+
+590
+00:53:51,080 --> 00:53:54,067
+Scott: Etsy makes money, not the crafty people at home.
+
+591
+00:53:54,308 --> 00:53:59,220
+Scott: It's like, I'm not saying they make no money, they might be profiting, but it's like, they're not making the real money.
+
+592
+00:53:59,400 --> 00:54:01,042
+Rym: But it's also not a sustainable ecosystem.
+
+593
+00:54:01,062 --> 00:54:14,220
+Rym: because we're at a point to where, like, that article I referenced in the early part, it talked about how a game that had three million active players in its first month was deemed unsuccessful and, like, the studio was all dropped.
+
+594
+00:54:14,901 --> 00:54:26,460
+Rym: And the argument is, if three million active players of a game can be considered by anyone to be not successful by some measure, then how the fuck is five million players going to make the difference compared to three?
+
+595
+00:54:27,080 --> 00:54:43,400
+Rym: No consumer has any agency over how this goes down, and the ultimate argument of the article is that gamers who love games have no way to materially support the people who make games because there's literally no way to get that money to them short of writing them direct checks.
+
+596
+00:54:44,680 --> 00:54:44,861
+Scott: Yep.
+
+597
+00:54:45,761 --> 00:55:02,980
+Scott: You know, it's like, they could, like, make a website themselves with some sort of e-commerce on it, but then, even then, they gotta pay for, right, there's so much stuff that the store does for them, which is the argument for the, the legitimate argument for the existence of the store, right?
+
+598
+00:55:03,821 --> 00:55:12,080
+Scott: You know, handling payments, refunds, just so many things that they're doing for you, which does justify some amount of fee for their services.
+
+599
+00:55:15,281 --> 00:55:17,843
+Rym: But the stores also don't compete with each other fairly.
+
+600
+00:55:17,923 --> 00:55:22,348
+Rym: It's not like the game will pick up from Valve and go to Epic.
+
+601
+00:55:22,749 --> 00:55:33,420
+Rym: Those transfers between stores are difficult and uncommon, and a lot of the stores are company stores, so going over there is how you get fucked over by Sony if you're just someone trying to make games.
+
+602
+00:55:35,640 --> 00:55:38,473
+Rym: The moral of this is capitalism is a cancer, I guess.
+
+603
+00:55:38,855 --> 00:55:39,879
+Rym: Like, I don't know what else to say.
+
+604
+00:55:41,080 --> 00:55:49,911
+Scott: But it's just, I think, I think the moral is, you know, people are still thinking about a lot of games as games, right?
+
+605
+00:55:49,971 --> 00:55:52,274
+Scott: It's like, I just want people to recognize.
+
+606
+00:55:52,835 --> 00:55:54,737
+Scott: Fortnite is a store, right?
+
+607
+00:55:55,298 --> 00:55:56,339
+Scott: Roblox is a store.
+
+608
+00:55:56,559 --> 00:55:57,140
+Scott: It's not a game.
+
+609
+00:55:58,101 --> 00:55:58,281
+Scott: Right?
+
+610
+00:55:58,301 --> 00:56:02,728
+Scott: There might be games in that store, but it is itself a store, right?
+
+611
+00:56:03,749 --> 00:56:10,860
+Scott: And just keep that correct mindset when you're out in the current game world these days.
+
+612
+00:56:11,040 --> 00:56:14,460
+Rym: Recognize stores, recognize grinds, recognize traps.
+
+613
+00:56:16,041 --> 00:56:29,520
+Scott: And don't go to a store unless you have independently determined you need a thing, you need to shop for that thing, and you go to a store that is the best store for that thing, and avoid stores otherwise.
+
+614
+00:56:29,800 --> 00:56:40,260
+Rym: And be extra fucking suspicious of stores that appear to be trying to trick you into coming, or are leveraging some sort of exclusivity or power over you.
+
+615
+00:56:46,011 --> 00:56:48,400
+Rym: This has been GeekNights with Rym and Scott.
+
+616
+00:56:48,440 --> 00:56:50,970
+Rym: Special thanks to DJ Pretzel for the opening theme.
+
+617
+00:56:51,170 --> 00:56:57,190
+Scott: Be sure to visit our website at FrontRowClue.com for show notes, discussion, links, and more.
+
+618
+00:56:57,670 --> 00:57:00,335
+Rym: Remember, GeekNights is not one, but four different shows.
+
+619
+00:57:00,636 --> 00:57:02,299
+Rym: Mondays are science and technology.
+
+620
+00:57:02,359 --> 00:57:04,102
+Rym: Tuesdays, gaming and games.
+
+621
+00:57:04,222 --> 00:57:06,046
+Rym: Wednesdays are animation and comics.
+
+622
+00:57:06,366 --> 00:57:08,270
+Rym: Thursdays are arbitrary and indiscriminate.
+
+623
+00:57:09,471 --> 00:57:14,410
+Rym: GeekNights is distributed under a Creative Commons Attribution 4.0 International License.
+
+624
+00:57:14,910 --> 00:57:19,200
+Scott: GeekNights is recorded live with no studio and no audience.
+
+625
+00:57:19,702 --> 00:57:23,170
+Scott: But unlike those other late shows, it's actually recorded at night.
+
+626
+00:57:23,791 --> 00:57:41,050
+Rym: And the Patreon Patrons for this episode of GeekNights are Alan Joyce, Linky, Gene Dredd, Lily, Tana Burke, Haze Chair, Mates of Music, Chris, Haddad, Christopher Orr, Clinton, Walton, Finn, Joel Haze, Penny Reimer, Rebecca Dunn, Sam Erickson, Shervin Von Harel, and a bunch of people whose names I will not see.
+
+627
+00:57:43,631 --> 00:57:48,341
+Rym: Remember, I have never in the entire history of recording this bit ever re-recorded.
+
+628
+00:57:48,823 --> 00:57:52,050
+Rym: I just run it as quick as I can, usually because it's late and I'm tired.
+
+629
+00:57:52,790 --> 00:57:59,890
+Rym: And I'm going to leave you with something that, if you're at all a nerd, you really should have seen coming based on the content of this episode.
+
+630
+00:58:00,510 --> 00:58:04,430
+Rym: And of course, the moral of this episode of GeekNights is capitalism bad.
+
+631
+00:58:12,432 --> 00:58:13,275
+Scott: Look at us.
+
+632
+00:58:13,355 --> 00:58:15,261
+Scott: We're in the t-shirt business.
+
+633
+00:58:15,502 --> 00:58:17,207
+Rym: I thought we were musicians.
+
+634
+00:58:17,287 --> 00:58:17,990
+Rym: What is this?
+
+635
+00:58:18,510 --> 00:58:20,934
+Rym: Frontalive is in the t-shirt business.
+
+636
+00:58:21,175 --> 00:58:23,800
+Rym: MC Lars is in the t-shirt business.
+
+637
+00:58:23,860 --> 00:58:26,705
+Rym: Both of us are in the t-shirt business.
+
+638
+00:58:26,905 --> 00:58:28,648
+Rym: I thought we were musicians.
+
+639
+00:58:28,708 --> 00:58:29,430
+Rym: What is this?
+

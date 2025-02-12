@@ -1,0 +1,3836 @@
+﻿1
+00:00:08,060 --> 00:00:09,949
+Speaker 0: It's Thursday, February 22nd, 2024.
+
+2
+00:00:09,949 --> 00:00:10,190
+Speaker 0: I'm Rem.
+
+3
+00:00:13,643 --> 00:00:14,057
+Speaker 1: I'm Scott.
+
+4
+00:00:14,400 --> 00:00:15,586
+Speaker 0: And this is Geek Nights.
+
+5
+00:00:15,647 --> 00:00:18,260
+Speaker 0: Tonight, we are talking about noodles.
+
+6
+00:00:19,200 --> 00:00:20,178
+Speaker 1: Let's do this.
+
+7
+00:00:20,780 --> 00:00:21,224
+Speaker 0: It's at work.
+
+8
+00:00:21,708 --> 00:00:30,740
+Speaker 0: I, uh... There's a thing going on, and there's a list of clients, let's say, who are impacted by something and need to do something in some way.
+
+9
+00:00:31,381 --> 00:00:39,903
+Speaker 0: So, someone who works with me after a long conversation sent a very succinct, detailed email that basically says, "Here's the thing.
+
+10
+00:00:39,923 --> 00:00:44,355
+Speaker 0: Here is the list of people who are affected by it that need to be contacted.
+
+11
+00:00:44,856 --> 00:00:45,217
+Speaker 0: Here is a
+
+12
+00:00:45,258 --> 00:00:45,438
+Speaker 0: FAQ.".
+
+13
+00:00:46,421 --> 00:00:52,580
+Speaker 0: And there's a reply to this email that I just read before I signed off to do Geek Nights.
+
+14
+00:00:53,401 --> 00:00:56,914
+Speaker 0: And the reply is someone asking, "Hey, is there a list of the clients that are affected by
+
+15
+00:00:56,934 --> 00:00:57,115
+Speaker 0: this?".
+
+16
+00:00:58,946 --> 00:00:59,600
+Speaker 1: It's in the email.
+
+17
+00:01:00,763 --> 00:01:00,924
+Speaker 0: Yeah.
+
+18
+00:01:01,768 --> 00:01:04,140
+Speaker 0: I just logged off, and I'm just gonna let that simmer.
+
+19
+00:01:05,561 --> 00:01:12,400
+Speaker 0: If it were my email, I think I would be far less polite, but we'll see how this individual responds to that, I would say, provocation.
+
+20
+00:01:15,001 --> 00:01:21,276
+Speaker 1: You know there's that old story, I don't know how true it is, about the band that would put in their contract.
+
+21
+00:01:21,337 --> 00:01:22,740
+Speaker 1: no brown M&Ms or something.
+
+22
+00:01:23,860 --> 00:01:27,300
+Speaker 1: Supposedly, it was just a test to see if people read the contract.
+
+23
+00:01:27,861 --> 00:01:30,990
+Speaker 0: Well, you have that real story of the guy who ruined the floor, right?
+
+24
+00:01:31,010 --> 00:01:34,360
+Speaker 0: Or the guy who did the laser show or whatever, and it wasn't dark enough?
+
+25
+00:01:34,360 --> 00:01:34,661
+Speaker 1: Oh, right.
+
+26
+00:01:34,681 --> 00:01:39,840
+Speaker 1: That was in elementary school, right, where the school hired someone to do a laser show for us kids.
+
+27
+00:01:39,920 --> 00:01:46,080
+Speaker 1: And I was so excited because I'd never seen a laser before in my life, and I was like five or six, however old you are in first grade.
+
+28
+00:01:47,121 --> 00:01:57,526
+Speaker 1: And then we go to the gym to see the laser show, and they had used black construction paper to try to block out the windows, but it wasn't like blackout, blackout.
+
+29
+00:01:58,127 --> 00:02:03,320
+Speaker 1: And so the laser guy was like, nope, it's not dark enough, but I needed to do the laser show.
+
+30
+00:02:05,020 --> 00:02:25,859
+Speaker 0: I find, and the thing is, when I was younger and working, this was, I guess, people who were older than me and younger than me, there was this universal idea that you read emails and respond to emails, and if you can't do that, that's kind of just not... You have failed at your job, especially if you have the kind of jobs that you and I have.
+
+31
+00:02:26,700 --> 00:02:41,220
+Speaker 0: But I find over the last decade that, and I'm trying to put this in a way that doesn't make me sound like an old crank, younger employees don't read emails anymore, but also the older, like the people who've been around a long time, don't read emails.
+
+32
+00:02:41,600 --> 00:02:48,880
+Speaker 0: It's only the people in the middle that actually read communications and respond to them unless they are very short and in a slack with no punctuation.
+
+33
+00:02:49,701 --> 00:03:01,060
+Speaker 1: All I'm saying is that if I was hiring someone, sending them an email that had content that I could then tell if they read the email would be part of the hiring process.
+
+34
+00:03:01,620 --> 00:03:14,253
+Speaker 1: And also, B, if someone in the company, if I detected that they weren't reading emails to the degree to which you just described, I would go and address that issue sternly.
+
+35
+00:03:16,623 --> 00:03:18,077
+Speaker 0: Yeah, more broadly what I'm finding...
+
+36
+00:03:18,822 --> 00:03:23,240
+Speaker 1: It would be like The Daily Show, it'd be like, here's this email chain, let's have a meeting, you and me.
+
+37
+00:03:23,680 --> 00:03:31,900
+Speaker 1: Here's the email chain, here's the first email, and you replied two minutes later asking this question, and here is the answer to that question in the original email.
+
+38
+00:03:32,520 --> 00:03:35,571
+Speaker 1: So clearly you didn't read the email, that's correct, right?
+
+39
+00:03:36,735 --> 00:03:38,220
+Speaker 1: So you admit you didn't read the email.
+
+40
+00:03:38,680 --> 00:03:42,033
+Speaker 1: Alright, if you are caught not reading an email again, I'm going to fire you.
+
+41
+00:03:42,435 --> 00:03:43,680
+Speaker 1: This is your only warning, goodbye.
+
+42
+00:03:45,148 --> 00:03:45,479
+Speaker 1: The end.
+
+43
+00:03:46,220 --> 00:03:50,500
+Speaker 0: Yeah, even more broadly though, even if it's not that kind of consequence, because it's never anyone who reports to me.
+
+44
+00:03:51,121 --> 00:03:53,640
+Speaker 0: I've got a good team, I've got good people I work with directly.
+
+45
+00:03:56,521 --> 00:04:23,580
+Speaker 0: I see that the people who, when they receive a long email, read it, and will respond to the email, and generally just work asynchronously via moderate amounts of detailed text, just tend to be way, way more effective than the people who need a meeting, or the people who always want to have an instant messaging communication, or only work on the Slack, but don't do any sort of long form communication.
+
+46
+00:04:24,060 --> 00:04:30,680
+Speaker 1: Well it's the same kind of person who goes onto a forum or Reddit and asks a question that can be answered with a trivial Google search.
+
+47
+00:04:31,681 --> 00:04:35,809
+Speaker 1: Or even nowadays, a trivial AI query or whatever, right?
+
+48
+00:04:35,869 --> 00:04:48,515
+Speaker 1: It's like, you know, those people who are going to ask humans questions that can be answered, you know, it's like, alright, you're just not qualified, right?
+
+49
+00:04:48,535 --> 00:04:49,918
+Speaker 1: You're not on the same level.
+
+50
+00:04:50,880 --> 00:04:56,280
+Speaker 1: It's like, people listen to our stupid podcast, and it's like, I keep saying this all the time, I don't fucking know anything.
+
+51
+00:04:57,321 --> 00:05:05,259
+Speaker 1: I'm not an expert, or a genius, or nothing that I think in my brain is something that was created by me, right?
+
+52
+00:05:06,961 --> 00:05:15,680
+Speaker 1: It's like, all I do is fucking read a lot, and then I say what I read, and people think I know a lot because I read a lot, and they don't read.
+
+53
+00:05:16,261 --> 00:05:18,140
+Speaker 1: So I know a lot of information they don't know.
+
+54
+00:05:18,300 --> 00:05:31,920
+Speaker 0: The other day on our Discord, because I happened to be doing my taxes at the moment, and someone we know asked a question about taxes, and I replied right away just because I happened to be looking at tax stuff with a sentence that explained that situation and a link.
+
+55
+00:05:32,500 --> 00:05:40,000
+Speaker 0: And then they had a bunch of follow-up questions, and I literally didn't know anything but what I had just posted, because I had just typed that into Google seconds before.
+
+56
+00:05:40,880 --> 00:05:43,795
+Speaker 1: Yeah, it's like, you posted a question, I answered it by Googling.
+
+57
+00:05:43,875 --> 00:05:44,840
+Speaker 1: Why didn't you Google?
+
+58
+00:05:46,242 --> 00:05:54,509
+Speaker 0: Of course, we're in a situation now where Google can only answer questions by finding-- As shitty as it is, it can still answer quite a lot of questions.
+
+59
+00:05:54,529 --> 00:05:58,140
+Speaker 1: People still ask questions that it can answer very trivially.
+
+60
+00:05:58,220 --> 00:06:04,780
+Speaker 0: It can, but it still finds the answers to those questions by finding a forum or a Reddit where someone asked the question and that it was answered.
+
+61
+00:06:04,820 --> 00:06:07,089
+Speaker 1: But as soon as one person did it, that's it.
+
+62
+00:06:07,129 --> 00:06:07,711
+Speaker 1: We don't need it.
+
+63
+00:06:08,334 --> 00:06:09,880
+Speaker 1: You have to ask it ever again.
+
+64
+00:06:10,060 --> 00:06:20,320
+Speaker 0: So that would be a good use of AI models, a search engine whose sole purpose is you ask it a question, and it provides the best answer to that question.
+
+65
+00:06:20,540 --> 00:06:22,147
+Speaker 1: That's literally what they already do.
+
+66
+00:06:22,187 --> 00:06:23,754
+Speaker 1: That's the first thing people did with them.
+
+67
+00:06:23,834 --> 00:06:25,120
+Speaker 1: That's what ChadGBT does.
+
+68
+00:06:25,420 --> 00:06:26,578
+Speaker 1: It's a really good use case.
+
+69
+00:06:29,823 --> 00:06:30,908
+Speaker 1: But people don't ask that.
+
+70
+00:06:30,948 --> 00:06:33,500
+Speaker 1: They go and ask real people and waste everyone's time.
+
+71
+00:06:33,881 --> 00:06:40,797
+Speaker 0: Of course, I remember talking to some UX designers about this years ago, many years ago at a Kaifu event.
+
+72
+00:06:42,681 --> 00:06:59,080
+Speaker 0: And the consensus among the UX designers, many of whom were not super technical but were very good at user experience design, their perspective was broadly that the people who do this either don't trust the answers they get from search engines or are basically completely technologically illiterate.
+
+73
+00:06:59,162 --> 00:07:00,058
+Speaker 0: And it's one of those two.
+
+74
+00:07:00,861 --> 00:07:11,660
+Speaker 1: I think that there are some people, I think I might have said this in the past, who they're only asking real people not because they want the answer but because they're lonely and they want to talk to somebody.
+
+75
+00:07:12,921 --> 00:07:20,780
+Speaker 1: And so if they just talk to a computer and get their answer very quickly, they'll now still be lonely and that'll be over so quickly, they'll now be bored.
+
+76
+00:07:21,260 --> 00:07:24,385
+Speaker 1: And it's not a conscious decision like, "Haha, I will ask
+
+77
+00:07:24,425 --> 00:07:25,687
+Speaker 1: humans.".
+
+78
+00:07:26,008 --> 00:07:27,270
+Speaker 1: It's just a natural...
+
+79
+00:07:29,571 --> 00:07:35,329
+Speaker 0: Same reason some people checking out at a grocery store try to have a very long conversation with the person.
+
+80
+00:07:37,910 --> 00:07:46,790
+Speaker 0: So, in some news, and it's super bad news that's escalating rapidly and I feel like I've said those exact words several times over the last few months.
+
+81
+00:07:47,250 --> 00:07:50,330
+Speaker 1: That's the only kind of news we have, is bad news that's escalating rapidly.
+
+82
+00:07:51,294 --> 00:07:51,596
+Speaker 0: Yeah.
+
+83
+00:07:51,616 --> 00:07:53,490
+Speaker 0: What's the best news I've seen recently?
+
+84
+00:07:53,993 --> 00:07:57,450
+Speaker 0: I mean, Helldivers 2 was coming and that turned into bad news because of the anti-cheat.
+
+85
+00:07:58,431 --> 00:07:58,792
+Speaker 0: You know what?
+
+86
+00:07:59,053 --> 00:07:59,534
+Speaker 0: Good news?
+
+87
+00:07:59,955 --> 00:08:01,841
+Speaker 0: My new computer will arrive.
+
+88
+00:08:02,102 --> 00:08:04,810
+Speaker 0: Every component is scheduled to arrive by Friday.
+
+89
+00:08:05,490 --> 00:08:06,969
+Speaker 1: The New York Rangers have won eight in a row.
+
+90
+00:08:07,510 --> 00:08:08,077
+Speaker 0: God damn.
+
+91
+00:08:08,320 --> 00:08:09,090
+Speaker 0: And there's a game tonight.
+
+92
+00:08:10,391 --> 00:08:18,247
+Speaker 1: Well, VZ and/or Panarin might be out because they called up Offman and they're day-to-day so we don't know.
+
+93
+00:08:18,408 --> 00:08:19,430
+Speaker 1: That might be a bad news.
+
+94
+00:08:19,992 --> 00:08:20,213
+Speaker 0: Yep.
+
+95
+00:08:20,454 --> 00:08:24,750
+Speaker 0: Also, the New York PWHL team is winning games but they can't win in regulation.
+
+96
+00:08:25,050 --> 00:08:29,050
+Speaker 1: Only in overtime and they finally won their first home game.
+
+97
+00:08:29,470 --> 00:08:29,602
+Speaker 0: Yep.
+
+98
+00:08:30,250 --> 00:08:31,616
+Speaker 1: They had not won a home game yet.
+
+99
+00:08:31,656 --> 00:08:32,621
+Speaker 1: They finally won one.
+
+100
+00:08:33,243 --> 00:08:34,710
+Speaker 1: But not in regulation.
+
+101
+00:08:34,950 --> 00:08:35,914
+Speaker 0: At least they did.
+
+102
+00:08:36,015 --> 00:08:39,510
+Speaker 0: They were the first team to ever win a PWHL game.
+
+103
+00:08:40,975 --> 00:08:41,349
+Speaker 1: That's true.
+
+104
+00:08:43,390 --> 00:08:44,653
+Speaker 0: So, Hellworld news.
+
+105
+00:08:45,074 --> 00:08:54,090
+Speaker 0: If you're not caught up on this story, because it is almost more insane than it sounds and the ramifications of this are extreme.
+
+106
+00:08:55,610 --> 00:09:01,370
+Speaker 0: Where this began is there was a court case where, I think it actually happened in Alabama, but basically somebody...
+
+107
+00:09:01,990 --> 00:09:02,889
+Speaker 1: A place you should never go.
+
+108
+00:09:03,250 --> 00:09:03,330
+Speaker 0: Yeah.
+
+109
+00:09:03,411 --> 00:09:09,610
+Speaker 0: Alabama is actually on the growing list of states that I will not enter or do commerce with for any reason.
+
+110
+00:09:09,630 --> 00:09:11,290
+Speaker 1: It's like one of the first ones on that list.
+
+111
+00:09:11,490 --> 00:09:12,232
+Speaker 0: Yeah, Alabama was there.
+
+112
+00:09:12,574 --> 00:09:14,440
+Speaker 0: Alabama, Missouri, they were there.
+
+113
+00:09:14,580 --> 00:09:17,350
+Speaker 0: Mississippi, they were there like a decade ago.
+
+114
+00:09:18,070 --> 00:09:20,884
+Speaker 1: It's like on the list of states to never go to ever.
+
+115
+00:09:20,985 --> 00:09:22,050
+Speaker 1: It's like, that's top five.
+
+116
+00:09:22,250 --> 00:09:22,310
+Speaker 0: Yep.
+
+117
+00:09:22,330 --> 00:09:26,810
+Speaker 0: Like, Ohio only went to that list in the last six or seven years.
+
+118
+00:09:26,950 --> 00:09:39,929
+Speaker 0: But anyway, so something happened where effectively someone got into an unlocked storage room at a hospital that happened to contain frozen embryos that could be used for IVF treatment.
+
+119
+00:09:39,969 --> 00:09:40,950
+Speaker 0: You know, fertility treatments.
+
+120
+00:09:41,671 --> 00:09:42,486
+Speaker 0: And they appear to have...
+
+121
+00:09:42,750 --> 00:09:44,297
+Speaker 1: So these were frozen embryos.
+
+122
+00:09:44,337 --> 00:09:47,250
+Speaker 1: Like there was already an egg and a sperm combined and then frozen.
+
+123
+00:09:47,390 --> 00:09:48,169
+Speaker 0: But it was just an embryo.
+
+124
+00:09:48,892 --> 00:09:50,117
+Speaker 1: It wasn't just frozen eggs.
+
+125
+00:09:50,217 --> 00:09:51,924
+Speaker 1: It wasn't just frozen donated sperm.
+
+126
+00:09:51,984 --> 00:09:53,470
+Speaker 1: They were combined and then frozen.
+
+127
+00:09:53,671 --> 00:09:53,852
+Speaker 1: Yep.
+
+128
+00:09:54,253 --> 00:09:58,130
+Speaker 0: Which the distinction between the two is minor, but it is a distinction.
+
+129
+00:09:59,170 --> 00:10:02,910
+Speaker 0: And they, I guess, dropped them or something and broke some of the embryos.
+
+130
+00:10:04,551 --> 00:10:10,449
+Speaker 0: So a wrongful death lawsuit was made and that gets into really weird...
+
+131
+00:10:10,650 --> 00:10:10,834
+Speaker 1: By who?
+
+132
+00:10:10,896 --> 00:10:11,469
+Speaker 1: Filed by who?
+
+133
+00:10:12,432 --> 00:10:13,758
+Speaker 0: I don't have all the details on that.
+
+134
+00:10:13,918 --> 00:10:15,928
+Speaker 0: This is just like where the case came from.
+
+135
+00:10:17,511 --> 00:10:21,966
+Speaker 1: But it's like, you know, I'm not because like, you know, wrongful death seems like the wrong.
+
+136
+00:10:22,006 --> 00:10:22,187
+Speaker 1: Right.
+
+137
+00:10:22,227 --> 00:10:23,250
+Speaker 1: That's the important part.
+
+138
+00:10:23,450 --> 00:10:25,169
+Speaker 0: Oh, there's definitely negligence, like.
+
+139
+00:10:25,830 --> 00:10:26,091
+Speaker 1: Right.
+
+140
+00:10:26,131 --> 00:10:31,590
+Speaker 1: It's like, but someone who is waiting for one of those embryos to go into their bod has a has a legit complaint.
+
+141
+00:10:32,131 --> 00:10:35,208
+Speaker 1: Obviously, the wrongful death is the subject matter that is.
+
+142
+00:10:36,091 --> 00:10:38,175
+Speaker 0: But here's the insane part.
+
+143
+00:10:38,996 --> 00:10:45,890
+Speaker 0: What happened in the case doesn't matter because it went all the way up to Alabama Supreme Court, who issued an insane.
+
+144
+00:10:46,050 --> 00:10:50,663
+Speaker 1: Wait, in Alabama, the Supreme Court is their highest court in New York.
+
+145
+00:10:51,064 --> 00:10:53,390
+Speaker 1: In New York, the Supreme Court is like a pretty low court.
+
+146
+00:10:53,971 --> 00:10:54,353
+Speaker 0: Right.
+
+147
+00:10:56,582 --> 00:10:58,610
+Speaker 1: But it's not supreme at all.
+
+148
+00:10:58,970 --> 00:11:05,830
+Speaker 0: Alabama just skipped all of that and ruled that embryos that are frozen count as humans.
+
+149
+00:11:06,171 --> 00:11:07,340
+Speaker 0: They count as children.
+
+150
+00:11:07,744 --> 00:11:08,449
+Speaker 0: destroying one is.
+
+151
+00:11:08,710 --> 00:11:10,276
+Speaker 1: Yeah, because there's some religious nut job.
+
+152
+00:11:10,316 --> 00:11:14,110
+Speaker 1: who's like the judge who got appointed by some religious nut job governor in Alabama.
+
+153
+00:11:14,550 --> 00:11:17,112
+Speaker 0: Now, this ruling is as insane as it sounds.
+
+154
+00:11:17,172 --> 00:11:38,810
+Speaker 0: So basically every fertility clinic in Alabama has now, which was the thing they were doing, like people there would like to have babies if they need help with it, have all immediately ceased operation because there is extreme risk of them being charged with murder if anything happens to any embryo or if they even follow basic IVF procedures, because not every embryo is viable.
+
+155
+00:11:39,371 --> 00:11:49,650
+Speaker 0: And this ruling basically means every embryo that is in Alabama is now in extreme danger to anyone around it, because if anything goes wrong, you can be charged with murder.
+
+156
+00:11:51,050 --> 00:11:52,950
+Speaker 1: I guess if they just die on their own in the freezer.
+
+157
+00:11:53,550 --> 00:11:55,253
+Speaker 0: Even then, probably like that.
+
+158
+00:11:55,934 --> 00:12:05,590
+Speaker 0: The ruling is so insane that every video I've watched with lawyers talking about it, like can't even begin to describe the nonsense that could come out of this ruling.
+
+159
+00:12:06,171 --> 00:12:06,432
+Speaker 1: All right.
+
+160
+00:12:06,452 --> 00:12:09,096
+Speaker 1: So I'm sure this will all be repaired soon enough.
+
+161
+00:12:09,437 --> 00:12:11,220
+Speaker 1: Also, don't go to Alabama.
+
+162
+00:12:11,621 --> 00:12:13,384
+Speaker 1: Well, what if there's an embryo near you?
+
+163
+00:12:14,205 --> 00:12:16,670
+Speaker 1: Well, you know, you wouldn't even know, you know.
+
+164
+00:12:17,050 --> 00:12:20,398
+Speaker 0: The danger is that how is this going to be repaired?
+
+165
+00:12:20,980 --> 00:12:25,050
+Speaker 0: Probably by going all the way up to the Supreme Court, which has already got six nut jobs.
+
+166
+00:12:25,831 --> 00:12:33,869
+Speaker 1: It is a bunch of nut jobs, but even those nut jobs, I don't think will be so nutty as to say, just, you know, just leave it as is.
+
+167
+00:12:34,210 --> 00:12:34,431
+Speaker 0: Yeah.
+
+168
+00:12:34,611 --> 00:12:36,196
+Speaker 0: It's hard to say, though.
+
+169
+00:12:36,256 --> 00:12:37,399
+Speaker 0: I don't I don't have a.
+
+170
+00:12:37,420 --> 00:12:40,790
+Speaker 1: they could leave it in a state where there is still some very badness.
+
+171
+00:12:41,030 --> 00:12:41,291
+Speaker 1: Yeah.
+
+172
+00:12:41,311 --> 00:12:43,557
+Speaker 1: But I don't think they'll leave it as is.
+
+173
+00:12:43,577 --> 00:12:44,520
+Speaker 1: Yeah.
+
+174
+00:12:45,442 --> 00:12:48,430
+Speaker 1: But even even at their level of depravity.
+
+175
+00:12:48,650 --> 00:13:02,690
+Speaker 0: This is a case to follow, partly because, one, it shows that these types of decisions and these types of ideas, just like the recent one around technically the president should be able to order assassinations and that's not illegal unless they get impeached.
+
+176
+00:13:03,031 --> 00:13:07,387
+Speaker 1: Those are the kinds of things that we joke about on a podcast that aren't serious about whatsoever.
+
+177
+00:13:07,447 --> 00:13:08,290
+Speaker 1: But someone else is.
+
+178
+00:13:08,610 --> 00:13:08,750
+Speaker 0: Yeah.
+
+179
+00:13:08,771 --> 00:13:15,470
+Speaker 0: Like in the old days, when Google Maps first released Google Street View, I remember a lot of people were really mad about it.
+
+180
+00:13:15,670 --> 00:13:27,090
+Speaker 0: And the nerd argument, which I also made, was what's the difference between Google doing that or me walking around my entire town, taking a picture of the front of every house from the street and then publishing that on the Internet?
+
+181
+00:13:27,190 --> 00:13:31,038
+Speaker 0: Like, where is the line between this is legal or this is not illegal?
+
+182
+00:13:31,078 --> 00:13:36,990
+Speaker 0: And setting that line pretty much anywhere in an extreme always has extreme outcomes.
+
+183
+00:13:37,310 --> 00:13:41,395
+Speaker 0: And obviously there are pragmatic, rational ways to decide lines for things.
+
+184
+00:13:41,656 --> 00:13:53,330
+Speaker 0: Technologists really like to examine extreme edge cases and even advocate for them, partly because technology is an area of extremes, because technology will do whatever it does.
+
+185
+00:13:53,530 --> 00:13:55,935
+Speaker 0: And the line is, can it still do the thing it's doing?
+
+186
+00:13:56,416 --> 00:14:03,389
+Speaker 0: But when it comes to things like law or humans, those lines can't be on these kinds of extremes, especially religious extremes.
+
+187
+00:14:04,270 --> 00:14:08,396
+Speaker 1: People also, it's like you can draw lines that aren't straight lines.
+
+188
+00:14:08,536 --> 00:14:10,759
+Speaker 1: It's like you can make a rule.
+
+189
+00:14:10,779 --> 00:14:12,682
+Speaker 1: that's a complicated rule.
+
+190
+00:14:12,702 --> 00:14:18,050
+Speaker 1: We talked about this with the, you know, the no vehicles in the park.
+
+191
+00:14:18,330 --> 00:14:22,802
+Speaker 0: Yeah, it's like obviously an ambulance should be able to go into the park if it'll save a life.
+
+192
+00:14:23,002 --> 00:14:24,746
+Speaker 0: Do you even need that to be written in the rule?
+
+193
+00:14:24,787 --> 00:14:25,167
+Speaker 0: There's a need.
+
+194
+00:14:25,188 --> 00:14:26,110
+Speaker 0: There's a way to handle that.
+
+195
+00:14:26,910 --> 00:14:27,090
+Speaker 1: Right.
+
+196
+00:14:27,251 --> 00:14:36,850
+Speaker 1: It's like, you know, the real world is a mess and therefore rules in the real world to keep things from becoming an even bigger mess are messy rules.
+
+197
+00:14:37,611 --> 00:14:41,917
+Speaker 1: And so, you know, you can't be coming in with a rule like all embryos are life the end.
+
+198
+00:14:42,377 --> 00:14:42,658
+Speaker 1: Right.
+
+199
+00:14:42,918 --> 00:14:51,590
+Speaker 1: You got to have a complex rule like, well, listen, if someone goes in and like smashes all the embryos on purpose, it's like obviously that's not allowed.
+
+200
+00:14:51,810 --> 00:14:54,734
+Speaker 0: It's caused harm to the people who wanted to use those embryos.
+
+201
+00:14:54,795 --> 00:15:00,243
+Speaker 1: But someone goes up to like a pregnant person and kicks them in the stomach like a bunch of times.
+
+202
+00:15:00,403 --> 00:15:03,508
+Speaker 1: Obviously, that's a problem.
+
+203
+00:15:03,548 --> 00:15:04,770
+Speaker 1: We can't be letting that go on.
+
+204
+00:15:05,190 --> 00:15:13,721
+Speaker 1: But like, you know, oh, well, you know, what if, you know, so embryo goes, you know, there's all kinds of scenarios.
+
+205
+00:15:13,741 --> 00:15:16,505
+Speaker 0: What if what if what if every sperm is sacred?
+
+206
+00:15:17,386 --> 00:15:17,806
+Speaker 0: That's right.
+
+207
+00:15:17,826 --> 00:15:20,530
+Speaker 0: Because I have definitely committed mass murder.
+
+208
+00:15:21,211 --> 00:15:21,772
+Speaker 0: No, no.
+
+209
+00:15:22,835 --> 00:15:24,378
+Speaker 1: So has that judge who just made this ruling.
+
+210
+00:15:24,418 --> 00:15:24,838
+Speaker 0: So, you know.
+
+211
+00:15:31,490 --> 00:15:31,671
+Speaker 0: Yep.
+
+212
+00:15:32,051 --> 00:15:38,338
+Speaker 0: So in some other news, we didn't get to just really talk about this on geek nights, the new sports app.
+
+213
+00:15:39,179 --> 00:15:39,440
+Speaker 1: Right.
+
+214
+00:15:39,500 --> 00:15:40,641
+Speaker 1: So we could talk.
+
+215
+00:15:40,681 --> 00:15:43,364
+Speaker 1: I could probably do a whole show on sports broadcasting.
+
+216
+00:15:43,444 --> 00:15:48,110
+Speaker 1: But basically, it's it's getting better, but it's still a huge mess.
+
+217
+00:15:48,170 --> 00:15:48,650
+Speaker 0: Yeah.
+
+218
+00:15:48,670 --> 00:15:51,393
+Speaker 0: There's no way to watch the Rangers in New York unless you have cable.
+
+219
+00:15:51,453 --> 00:15:52,754
+Speaker 1: Really, you could pay money.
+
+220
+00:15:53,014 --> 00:15:53,595
+Speaker 1: Right.
+
+221
+00:15:53,975 --> 00:15:55,196
+Speaker 1: But basically, everything's a mess.
+
+222
+00:15:55,297 --> 00:15:55,517
+Speaker 1: Right.
+
+223
+00:15:55,597 --> 00:15:59,560
+Speaker 1: It's like if you pay for cable, then it costs you a shit ton of money.
+
+224
+00:15:59,660 --> 00:16:01,202
+Speaker 1: You get a bunch of stations you don't want.
+
+225
+00:16:01,402 --> 00:16:02,463
+Speaker 1: You have to watch ads.
+
+226
+00:16:02,823 --> 00:16:08,969
+Speaker 1: You do get the highest quality in terms of that's available, I guess, in terms of the stream, the video and audio quality.
+
+227
+00:16:08,989 --> 00:16:10,090
+Speaker 1: So that's a plus of cable.
+
+228
+00:16:11,271 --> 00:16:15,678
+Speaker 1: But you're basically, you know, if the only thing you want to watch is sports, you're paying for all this other shit.
+
+229
+00:16:15,858 --> 00:16:23,490
+Speaker 1: You're subsidizing all these other TV channels you're not watching and you only want get to see what they're going to show you where you live.
+
+230
+00:16:23,911 --> 00:16:24,491
+Speaker 1: So there's all.
+
+231
+00:16:24,652 --> 00:16:29,959
+Speaker 1: even if you buy the maximum package, there's all kinds of things that you won't be able to see.
+
+232
+00:16:30,560 --> 00:16:30,841
+Speaker 1: Right.
+
+233
+00:16:31,121 --> 00:16:37,450
+Speaker 1: If there's blackouts or if the channels get into a fight with a cable provider or all sorts of nonsense.
+
+234
+00:16:38,192 --> 00:16:39,795
+Speaker 1: So, OK, what's your other option?
+
+235
+00:16:39,815 --> 00:16:45,286
+Speaker 1: Well, you can go to some online streaming biz like your Fubo's and your DirecTV streams.
+
+236
+00:16:45,426 --> 00:16:47,250
+Speaker 1: Basically, those are the same as paying for cable.
+
+237
+00:16:49,790 --> 00:16:56,322
+Speaker 1: Only what happens with those is you have to pay like these regional sports fees to get your local sports channel.
+
+238
+00:16:56,402 --> 00:16:57,664
+Speaker 1: And it's basically just cable.
+
+239
+00:16:57,764 --> 00:17:00,890
+Speaker 1: Only they stream it to you instead of cable box.
+
+240
+00:17:01,771 --> 00:17:03,453
+Speaker 1: So all the same problems.
+
+241
+00:17:03,774 --> 00:17:03,954
+Speaker 1: Right.
+
+242
+00:17:04,473 --> 00:17:06,938
+Speaker 1: Then you got your ESPN plus type deals.
+
+243
+00:17:07,458 --> 00:17:07,678
+Speaker 1: Right.
+
+244
+00:17:07,719 --> 00:17:10,301
+Speaker 1: Where it's like Netflix of sports, basically.
+
+245
+00:17:11,303 --> 00:17:12,685
+Speaker 1: And how many of those?
+
+246
+00:17:12,885 --> 00:17:16,730
+Speaker 1: each one of those is only going to show you a very small subset of sports.
+
+247
+00:17:17,151 --> 00:17:17,351
+Speaker 1: Right.
+
+248
+00:17:17,371 --> 00:17:21,476
+Speaker 1: Like you could go on Apple TV and get like the MLS package.
+
+249
+00:17:21,516 --> 00:17:24,721
+Speaker 1: or you can go on YouTube TV and get the NFL Sunday ticket.
+
+250
+00:17:24,800 --> 00:17:31,370
+Speaker 1: or you can go on MSG plus and get MSG, which is going to give you all these New York teams like it.
+
+251
+00:17:31,450 --> 00:17:31,751
+Speaker 1: All right.
+
+252
+00:17:32,091 --> 00:17:34,275
+Speaker 1: But it doesn't give you all the New York teams.
+
+253
+00:17:34,355 --> 00:17:37,461
+Speaker 1: And there's just so many different ones to get to get.
+
+254
+00:17:37,701 --> 00:17:42,250
+Speaker 1: If you want to watch a lot of sports, you get a lot of things and it costs a lot of money.
+
+255
+00:17:42,671 --> 00:17:46,878
+Speaker 1: And if you only want to watch a little bit of sports, you have to buy a whole thing just to get the one thing.
+
+256
+00:17:46,898 --> 00:17:49,162
+Speaker 1: There's no good deal around.
+
+257
+00:17:49,503 --> 00:17:49,703
+Speaker 1: Right.
+
+258
+00:17:49,743 --> 00:17:53,650
+Speaker 1: For people who want to watch sports, everything's a rip off except for piracy.
+
+259
+00:17:54,190 --> 00:17:54,410
+Speaker 1: Yeah.
+
+260
+00:17:54,471 --> 00:17:56,193
+Speaker 1: In which case you can watch everything for free.
+
+261
+00:17:56,433 --> 00:18:09,910
+Speaker 0: Now, the funny thing is, on one hand, the part of why this is the way it is, is just the fact that the way sports makes money is either advertising or partnership distribution type deals like there are.
+
+262
+00:18:09,910 --> 00:18:13,435
+Speaker 1: Well, the sport itself makes money by having a TV deals.
+
+263
+00:18:13,495 --> 00:18:16,820
+Speaker 1: They sell their rights to a TV network for a huge amount.
+
+264
+00:18:16,860 --> 00:18:17,361
+Speaker 1: that's set.
+
+265
+00:18:17,401 --> 00:18:19,524
+Speaker 1: So the the league is like set.
+
+266
+00:18:19,584 --> 00:18:23,330
+Speaker 1: The league is like, yes, we got a billion dollars and we sold our TV rights.
+
+267
+00:18:23,911 --> 00:18:26,316
+Speaker 1: Then they wash their hands of it and the league is good to go.
+
+268
+00:18:26,716 --> 00:18:33,310
+Speaker 1: Then the TV network says, all right, we just spent a billion dollars on the rights to show how we're going to make more than a billion dollars.
+
+269
+00:18:33,410 --> 00:18:34,531
+Speaker 0: How are we going to use?
+
+270
+00:18:34,592 --> 00:18:38,536
+Speaker 1: no one else is legally allowed to broadcast this these live events.
+
+271
+00:18:39,017 --> 00:18:39,237
+Speaker 1: Right.
+
+272
+00:18:39,578 --> 00:18:40,479
+Speaker 1: How do we do that?
+
+273
+00:18:40,539 --> 00:18:45,105
+Speaker 1: in a way that will make us that money back and so forth.
+
+274
+00:18:45,165 --> 00:18:49,190
+Speaker 1: So in streaming, not just sports, but in everything.
+
+275
+00:18:49,250 --> 00:18:49,390
+Speaker 1: Right.
+
+276
+00:18:49,450 --> 00:18:54,918
+Speaker 1: This big problem is that people don't want to pay for too many streaming services at once because it's like, what the fuck?
+
+277
+00:18:55,059 --> 00:18:55,880
+Speaker 1: It's that's right.
+
+278
+00:18:55,900 --> 00:18:57,622
+Speaker 1: They want to just do one and have everything.
+
+279
+00:18:58,243 --> 00:19:01,969
+Speaker 1: So ESPN, Fox, Warner Brothers Discovery.
+
+280
+00:19:01,989 --> 00:19:02,590
+Speaker 1: Right.
+
+281
+00:19:02,850 --> 00:19:06,176
+Speaker 1: Which includes also TBS TNT like that.
+
+282
+00:19:06,296 --> 00:19:09,702
+Speaker 1: They collectively have the rights to a lot of sports.
+
+283
+00:19:10,163 --> 00:19:10,443
+Speaker 1: Right.
+
+284
+00:19:10,864 --> 00:19:12,747
+Speaker 1: Broadcasts in the United States.
+
+285
+00:19:13,368 --> 00:19:14,450
+Speaker 1: And so they're like, all right.
+
+286
+00:19:15,031 --> 00:19:25,761
+Speaker 1: You know, uh, you know, we don't have the NFL cause YouTube has that and we don't have some other things, but if we combine our forces together into one package, right.
+
+287
+00:19:25,841 --> 00:19:34,250
+Speaker 1: Instead of having all these separate ones, we've got competing with each other right now, then maybe that will be compelling enough for people to subscribe to.
+
+288
+00:19:34,931 --> 00:19:35,131
+Speaker 1: Right.
+
+289
+00:19:35,211 --> 00:19:38,375
+Speaker 1: And become like the, the it's like, all right, this is the thing.
+
+290
+00:19:38,395 --> 00:19:42,420
+Speaker 1: People who care about sports will pay for this and eventually we'll be big enough.
+
+291
+00:19:42,460 --> 00:19:49,410
+Speaker 1: We can just sort of, you know, be the one and only way to watch sports and just broadcast every game and solve people's problems.
+
+292
+00:19:49,530 --> 00:19:49,710
+Speaker 1: Right.
+
+293
+00:19:50,311 --> 00:19:56,058
+Speaker 1: And depending on what they charge, that could be good for the consumer to finally just have.
+
+294
+00:19:56,099 --> 00:20:04,510
+Speaker 1: like sports, the app, you pay for it, you watch all sports, the end, um, eventually, uh, I guess.
+
+295
+00:20:05,030 --> 00:20:18,750
+Speaker 1: But what happened is Fubo, which is like one of those ones where you're basically paying for cable, even though you don't have a cable box and it's sports focused, uh, they're suing them saying, Hey, that's a, that's anti-competitive.
+
+296
+00:20:18,810 --> 00:20:20,352
+Speaker 1: They got some antitrust going on there.
+
+297
+00:20:20,392 --> 00:20:21,493
+Speaker 1: That's too many in one.
+
+298
+00:20:21,894 --> 00:20:22,094
+Speaker 1: Right.
+
+299
+00:20:22,134 --> 00:20:23,716
+Speaker 0: Because they're not obviously.
+
+300
+00:20:24,377 --> 00:20:27,080
+Speaker 1: No, cause if that exists, obviously Fubo is done.
+
+301
+00:20:27,380 --> 00:20:27,661
+Speaker 1: Right.
+
+302
+00:20:27,741 --> 00:20:33,007
+Speaker 1: Fubo recognizes if that thing comes to exist, we're no one's paying for us anymore.
+
+303
+00:20:33,067 --> 00:20:33,508
+Speaker 1: We're over.
+
+304
+00:20:33,908 --> 00:20:34,128
+Speaker 1: Right.
+
+305
+00:20:34,409 --> 00:20:35,590
+Speaker 1: Just out of business basically.
+
+306
+00:20:36,610 --> 00:20:41,595
+Speaker 1: So, uh, this is going to be really interesting, um, how this goes down.
+
+307
+00:20:41,816 --> 00:20:41,996
+Speaker 1: Right.
+
+308
+00:20:42,036 --> 00:20:49,503
+Speaker 1: Because if they say, yeah, you can't, if the court says, Hey, you can't combine too many of these sports broadcast things into one thing.
+
+309
+00:20:50,004 --> 00:20:55,890
+Speaker 1: What they're basically saying is like, yeah, consumers will never have a good solution to just watching all the sports.
+
+310
+00:20:55,970 --> 00:20:58,736
+Speaker 0: But simultaneously we saw what happened.
+
+311
+00:20:58,837 --> 00:21:03,166
+Speaker 0: If every online store becomes Amazon, then Amazon becomes Amazon.
+
+312
+00:21:03,206 --> 00:21:04,790
+Speaker 0: And that's not good either.
+
+313
+00:21:05,890 --> 00:21:11,079
+Speaker 1: I think what I would love to see the court rule, which would solve the problem, right.
+
+314
+00:21:11,761 --> 00:21:17,010
+Speaker 1: Is, and I think this is, you know, this is just an, uh, one model that potentially could work.
+
+315
+00:21:17,170 --> 00:21:20,130
+Speaker 0: I doubt you're going to say nationalized sports, which I might say at this point.
+
+316
+00:21:20,430 --> 00:21:23,173
+Speaker 1: Well, I mean, there are some aspects of sports that could be nationalized.
+
+317
+00:21:23,193 --> 00:21:23,873
+Speaker 1: Yes, of course.
+
+318
+00:21:24,133 --> 00:21:28,857
+Speaker 1: Um, but no, within the, within the existing framework of what's possible.
+
+319
+00:21:28,917 --> 00:21:29,138
+Speaker 1: Right.
+
+320
+00:21:29,218 --> 00:21:43,349
+Speaker 1: Is if you look at music licensing, it's like, if you want to, if you're doing a, let's say there's the rim band and you're at a concert hall doing a rim concert, the people bought tickets to, and you want to perform, um, a Metallica song in your concert.
+
+321
+00:21:43,710 --> 00:21:43,930
+Speaker 1: Right.
+
+322
+00:21:44,570 --> 00:21:46,172
+Speaker 1: Metallica really can't say no.
+
+323
+00:21:46,772 --> 00:21:49,255
+Speaker 1: They can't stop you, but they get statutory royalties.
+
+324
+00:21:49,475 --> 00:21:51,137
+Speaker 1: There is a statutory royalty.
+
+325
+00:21:51,237 --> 00:21:53,640
+Speaker 1: Like you have to pay a performance, right.
+
+326
+00:21:54,040 --> 00:22:01,328
+Speaker 1: Uh, you know, royalty because, and to the songwriter and various people, you pay them money because you sang their song.
+
+327
+00:22:01,368 --> 00:22:02,209
+Speaker 1: You didn't write the song.
+
+328
+00:22:02,229 --> 00:22:02,350
+Speaker 1: Right.
+
+329
+00:22:02,950 --> 00:22:04,071
+Speaker 0: Now, no, we don't have this.
+
+330
+00:22:04,131 --> 00:22:06,813
+Speaker 0: If someone say performs a video game that someone made.
+
+331
+00:22:07,634 --> 00:22:08,054
+Speaker 1: Correct.
+
+332
+00:22:08,815 --> 00:22:15,119
+Speaker 1: But the way I think it should be is I would hope if I was the judge, I would say, you know, what is actually antitrust here?
+
+333
+00:22:15,860 --> 00:22:17,561
+Speaker 1: The exclusive broadcast agreement.
+
+334
+00:22:17,641 --> 00:22:17,801
+Speaker 1: Yeah.
+
+335
+00:22:17,841 --> 00:22:19,303
+Speaker 1: That's the antitrust part.
+
+336
+00:22:19,403 --> 00:22:24,366
+Speaker 1: Why there shouldn't be an agreement to where like only one person is allowed to broadcast this.
+
+337
+00:22:24,386 --> 00:22:25,827
+Speaker 1: They have some exclusive rights.
+
+338
+00:22:26,128 --> 00:22:27,289
+Speaker 1: That's antitrust.
+
+339
+00:22:27,369 --> 00:22:29,130
+Speaker 1: Instead, there should be competition.
+
+340
+00:22:29,690 --> 00:22:41,701
+Speaker 1: Anyone who's got cameras and a broadcast equipment and satellites and whatever internet streaming, whatever should be able to go to the stadium and set up their cameras with their broadcast crew and broadcast the game.
+
+341
+00:22:41,761 --> 00:22:51,730
+Speaker 1: And if there's five broadcast crews, all broadcasting the same NFL game, and you at home can choose which of the five broadcasts you want to watch of the same game.
+
+342
+00:22:51,810 --> 00:22:53,611
+Speaker 1: It's like, I like these two guys better.
+
+343
+00:22:53,932 --> 00:22:54,132
+Speaker 1: Right.
+
+344
+00:22:54,232 --> 00:23:01,377
+Speaker 1: On this broadcast crew or this channel has much better 4K and is Dolby Vision and has better surround sound.
+
+345
+00:23:01,397 --> 00:23:02,618
+Speaker 1: I'm watching this broadcast.
+
+346
+00:23:03,038 --> 00:23:04,439
+Speaker 1: Then you're going to get competition.
+
+347
+00:23:04,499 --> 00:23:04,679
+Speaker 1: Right.
+
+348
+00:23:04,739 --> 00:23:05,660
+Speaker 1: No blackouts.
+
+349
+00:23:06,100 --> 00:23:06,841
+Speaker 0: Right.
+
+350
+00:23:06,861 --> 00:23:14,206
+Speaker 0: To make it more practical, because there is a there's definitely a practical limit on the fact on how cameras work and how many can be in a place.
+
+351
+00:23:14,346 --> 00:23:15,347
+Speaker 1: Obviously, yes.
+
+352
+00:23:15,427 --> 00:23:20,030
+Speaker 0: But it could be like last mile rules where an arena or a league or whatever.
+
+353
+00:23:20,570 --> 00:23:25,174
+Speaker 0: They provide the base set of cameras, but they have to make those feeds available to anyone.
+
+354
+00:23:25,234 --> 00:23:26,475
+Speaker 1: It's not about the details.
+
+355
+00:23:26,555 --> 00:23:28,716
+Speaker 1: The point is, is that there should be competition.
+
+356
+00:23:28,796 --> 00:23:28,976
+Speaker 1: Right.
+
+357
+00:23:29,016 --> 00:23:33,379
+Speaker 1: There should be multiple broadcasts of the same sport competition.
+
+358
+00:23:33,700 --> 00:23:39,864
+Speaker 1: And there should be multiple different services that are all have different broadcasts available.
+
+359
+00:23:40,244 --> 00:23:40,505
+Speaker 1: Right.
+
+360
+00:23:40,585 --> 00:23:41,605
+Speaker 1: Competing with each other.
+
+361
+00:23:41,685 --> 00:23:42,346
+Speaker 1: There shouldn't be.
+
+362
+00:23:42,366 --> 00:23:48,090
+Speaker 1: The only way to watch the NFL is going to be with one service that has made a deal.
+
+363
+00:23:48,310 --> 00:23:51,376
+Speaker 1: It's like, no, many different services, many different broadcasts.
+
+364
+00:23:51,737 --> 00:23:53,259
+Speaker 1: And then you can choose one.
+
+365
+00:23:53,580 --> 00:23:56,205
+Speaker 1: And that way everyone will be able to watch everything.
+
+366
+00:23:56,645 --> 00:23:56,826
+Speaker 1: Right.
+
+367
+00:23:56,866 --> 00:23:59,110
+Speaker 1: And the competition will push prices down.
+
+368
+00:23:59,270 --> 00:23:59,471
+Speaker 0: Yeah.
+
+369
+00:23:59,491 --> 00:24:03,617
+Speaker 0: Well, I think part of the problem is all these leagues ultimately make their money from advertising.
+
+370
+00:24:03,638 --> 00:24:09,948
+Speaker 0: And all the exclusive agreements do is make sure that it is someone else's problem to make sure those advertisements are valuable.
+
+371
+00:24:10,850 --> 00:24:10,970
+Speaker 1: Mm hmm.
+
+372
+00:24:11,671 --> 00:24:19,078
+Speaker 0: But if you look at the actual product, like there's ads in the hockey game, there's ads physically on the ice.
+
+373
+00:24:19,178 --> 00:24:21,040
+Speaker 0: And we're not at the point where there's an A.I.
+
+374
+00:24:21,300 --> 00:24:23,803
+Speaker 0: app I could run that removes those from my eyes.
+
+375
+00:24:24,323 --> 00:24:29,068
+Speaker 0: So that there is even there is a way to pay to.
+
+376
+00:24:29,308 --> 00:24:31,210
+Speaker 1: you can pay to remove those ads.
+
+377
+00:24:31,290 --> 00:24:34,195
+Speaker 1: You just have to pay so much that you buy the ad for yourself.
+
+378
+00:24:34,516 --> 00:24:40,606
+Speaker 1: And when they say, please give us the ad artwork, you give them a white sheet of paper.
+
+379
+00:24:40,767 --> 00:24:42,710
+Speaker 0: But I guess what's fascinating to me is the ad.
+
+380
+00:24:43,231 --> 00:24:55,070
+Speaker 0: Think about whoever bought an ad that is on the cable network on the ice that I am then watching when I may have pirated that game.
+
+381
+00:24:55,890 --> 00:25:01,959
+Speaker 0: I saw the ad that the person paid the network for, but I didn't pay the network for access to the network.
+
+382
+00:25:02,179 --> 00:25:09,630
+Speaker 0: So actually, the person who funded both the network and the league effectively got paid because their dollar resulted in me seeing their ad.
+
+383
+00:25:16,711 --> 00:25:19,074
+Speaker 0: But anyway, things of the day.
+
+384
+00:25:19,174 --> 00:25:20,977
+Speaker 0: So I knew the answer to this one in advance.
+
+385
+00:25:22,519 --> 00:25:28,667
+Speaker 0: I have never busted a tendon, but I have fractured ribs, toes and things before.
+
+386
+00:25:29,028 --> 00:25:30,770
+Speaker 0: And I knew this from my sports medicine history.
+
+387
+00:25:30,870 --> 00:25:39,939
+Speaker 0: But I'm for all of you out there, if you had to choose, would you rather break a bone or sprain a ligament?
+
+388
+00:25:40,599 --> 00:25:41,921
+Speaker 1: Well, I'll just sprain it.
+
+389
+00:25:42,041 --> 00:25:42,361
+Speaker 1: Oh, yeah.
+
+390
+00:25:43,242 --> 00:25:44,223
+Speaker 1: Not like rip it.
+
+391
+00:25:44,323 --> 00:25:51,790
+Speaker 0: So let's say instead of not broken into femur, but fractured bone or sprained ligaments.
+
+392
+00:25:53,131 --> 00:25:59,881
+Speaker 1: Oh, I thought because you look at the thumbnail and it looks like a bone was like like smashed by the Hulk punching a guy.
+
+393
+00:25:59,921 --> 00:26:00,202
+Speaker 1: Right.
+
+394
+00:26:00,422 --> 00:26:03,387
+Speaker 1: Well, so the scary part is they show is like shredded.
+
+395
+00:26:03,587 --> 00:26:05,510
+Speaker 0: It actually kind of doesn't matter.
+
+396
+00:26:07,070 --> 00:26:07,831
+Speaker 0: The severity.
+
+397
+00:26:07,851 --> 00:26:10,175
+Speaker 1: I think it does.
+
+398
+00:26:11,417 --> 00:26:20,490
+Speaker 1: Well, so the deal is if you watch this video, I mean, spoilers, because like if you say if we're talking about the bone breakage being just like, you know, what happened to me in Australia.
+
+399
+00:26:21,111 --> 00:26:22,354
+Speaker 1: It's like that wasn't so bad.
+
+400
+00:26:22,374 --> 00:26:23,917
+Speaker 1: It wasn't pleasant, but it wasn't so bad.
+
+401
+00:26:23,957 --> 00:26:28,407
+Speaker 1: But if you're talking like, oh, yeah, they're going to put a bunch of screws in your arm to put it back together.
+
+402
+00:26:28,447 --> 00:26:29,509
+Speaker 1: It's like, yeah, no, thanks.
+
+403
+00:26:29,789 --> 00:26:30,010
+Speaker 1: Right.
+
+404
+00:26:30,530 --> 00:26:33,155
+Speaker 0: So there's so up to a poll.
+
+405
+00:26:33,175 --> 00:26:35,560
+Speaker 0: So the general gist of this video gets into the details.
+
+406
+00:26:35,620 --> 00:26:41,030
+Speaker 0: But if you break a bone, bones have active ways to heal themselves surprisingly quickly.
+
+407
+00:26:41,850 --> 00:26:43,633
+Speaker 0: Ligaments really don't.
+
+408
+00:26:43,793 --> 00:26:45,596
+Speaker 0: And many injuries to ligaments are permanent.
+
+409
+00:26:46,878 --> 00:26:47,820
+Speaker 1: Yeah, that's true.
+
+410
+00:26:48,201 --> 00:26:49,803
+Speaker 1: We have a lot of surgeries.
+
+411
+00:26:49,843 --> 00:26:51,726
+Speaker 1: These have a lot of surgeries these days.
+
+412
+00:26:51,787 --> 00:26:53,830
+Speaker 0: Oh, ligament surgeries are no bueno.
+
+413
+00:26:54,310 --> 00:26:57,855
+Speaker 0: Because I got long ago, I talked to a doctor about some of my knee stuff.
+
+414
+00:26:58,396 --> 00:27:09,090
+Speaker 0: And generally they always advise do fucking anything but surgery with the ligament because there are limits to what you can do to deal with ligament problems like they are not.
+
+415
+00:27:09,170 --> 00:27:10,596
+Speaker 1: I mean, yeah, obviously.
+
+416
+00:27:10,676 --> 00:27:14,310
+Speaker 1: But on the other hand, you got, you know, you got your baseball guys doing their Tommy John surgery.
+
+417
+00:27:16,453 --> 00:27:21,623
+Speaker 0: So I will continue to break ribs and toes and avoid damaging and spraining my ligaments.
+
+418
+00:27:21,803 --> 00:27:25,410
+Speaker 1: I will avoid damaging any part of my body in an unnecessary fashion.
+
+419
+00:27:25,490 --> 00:27:29,636
+Speaker 0: Places I have broken ribs up mountain biking once that happened.
+
+420
+00:27:30,477 --> 00:27:34,203
+Speaker 0: Magfest in the mosh pit because someone didn't know how to mosh.
+
+421
+00:27:35,284 --> 00:27:37,307
+Speaker 0: Two ribs fractured one year.
+
+422
+00:27:37,568 --> 00:27:39,270
+Speaker 0: That was during the Machine Supremacy concert.
+
+423
+00:27:40,210 --> 00:27:40,811
+Speaker 0: Broken toe.
+
+424
+00:27:40,831 --> 00:27:43,475
+Speaker 0: A bunch of times in playgrounds.
+
+425
+00:27:44,357 --> 00:27:52,190
+Speaker 0: Once in karate class as a kid and once at PAX because you left a bunch of soap on the floor of the shower and I stepped into it and slid across and broke my toe on the other side.
+
+426
+00:27:53,011 --> 00:27:54,374
+Speaker 1: You broke your toe in the shower?
+
+427
+00:27:54,414 --> 00:27:56,459
+Speaker 0: I broke my toe at PAX East right before COVID.
+
+428
+00:27:57,220 --> 00:27:58,162
+Speaker 1: You dropped the soap?
+
+429
+00:27:58,362 --> 00:28:01,950
+Speaker 0: I stepped into the shower and it was super slick and I just went whoop all the way to the other side.
+
+430
+00:28:03,050 --> 00:28:04,513
+Speaker 0: I walked around that PAX with a broken toe.
+
+431
+00:28:05,215 --> 00:28:06,056
+Speaker 0: It was really funny.
+
+432
+00:28:06,497 --> 00:28:07,359
+Speaker 1: I don't remember that.
+
+433
+00:28:07,920 --> 00:28:11,608
+Speaker 0: You don't remember the PAX where I was bitching the entire time about my broken toe?
+
+434
+00:28:11,628 --> 00:28:11,668
+Speaker 0: No.
+
+435
+00:28:16,311 --> 00:28:18,154
+Speaker 0: I was still bitching about it anyway.
+
+436
+00:28:19,116 --> 00:28:21,381
+Speaker 0: Oh, actually was it PAX East or was it PAX South?
+
+437
+00:28:21,441 --> 00:28:22,162
+Speaker 0: It was one of the two.
+
+438
+00:28:22,182 --> 00:28:23,244
+Speaker 0: I do not remember.
+
+439
+00:28:23,264 --> 00:28:24,366
+Speaker 0: No, it was PAX East.
+
+440
+00:28:24,547 --> 00:28:26,190
+Speaker 0: I remember because I went.
+
+441
+00:28:27,290 --> 00:28:37,805
+Speaker 0: So an enforcer overheard me in Eland mentioning that I had broken my toe that morning and kind of freaked out at me and was like, "Well, you gotta go talk to the paramedics right now.
+
+442
+00:28:38,366 --> 00:28:39,127
+Speaker 0: You gotta go.
+
+443
+00:28:39,808 --> 00:28:40,709
+Speaker 0: You can't just let this
+
+444
+00:28:40,729 --> 00:28:41,050
+Speaker 0: slide.".
+
+445
+00:28:41,551 --> 00:28:45,459
+Speaker 0: And I don't think this enforcer realized that the treatment for a broken toe is nothing.
+
+446
+00:28:46,461 --> 00:28:50,810
+Speaker 0: So I go over there because she made me and I go into the paramedic at PAX.
+
+447
+00:28:51,430 --> 00:28:53,274
+Speaker 1: You should have just said that you were going and then not go.
+
+448
+00:28:53,394 --> 00:28:55,478
+Speaker 0: Yeah, she checked up like she followed me.
+
+449
+00:28:56,560 --> 00:29:01,529
+Speaker 0: But anyways, I do go in and I say, "Hey, so I broke my toe this morning, like just this
+
+450
+00:29:01,569 --> 00:29:01,830
+Speaker 0: morning.".
+
+451
+00:29:02,171 --> 00:29:04,736
+Speaker 0: And the paramedic literally without looking up says,
+
+452
+00:29:04,976 --> 00:29:05,136
+Speaker 0: "And?".
+
+453
+00:29:05,156 --> 00:29:08,182
+Speaker 0: So what do you got?
+
+454
+00:29:08,363 --> 00:29:12,230
+Speaker 0: Actually, I know what you got because you stole what I was going to use as my thing of the day on Monday because it's fantastic.
+
+455
+00:29:12,230 --> 00:29:12,892
+Speaker 1: It's not my fault.
+
+456
+00:29:12,933 --> 00:29:14,980
+Speaker 1: you saw the same thing on the internet that I saw.
+
+457
+00:29:15,321 --> 00:29:17,730
+Speaker 0: Fun fact, the two things of the day are the same length.
+
+458
+00:29:18,852 --> 00:29:23,902
+Speaker 1: Well, so there's a thing, a machine called an electron beam irradiator.
+
+459
+00:29:24,302 --> 00:29:26,226
+Speaker 0: It does exactly what it sounds like it does.
+
+460
+00:29:26,246 --> 00:29:28,170
+Speaker 1: It does exactly what it says on the label.
+
+461
+00:29:28,970 --> 00:29:29,732
+Speaker 1: How does it work?
+
+462
+00:29:29,832 --> 00:29:35,264
+Speaker 1: It works basically similarly to the way a CRT television works.
+
+463
+00:29:35,364 --> 00:29:37,910
+Speaker 1: There's a cathode ray and it just shoots electrons.
+
+464
+00:29:38,090 --> 00:29:49,350
+Speaker 1: The difference is that when you watch an old school tube television, those electrons hit a grid of phosphors, which absorb the electrons and then light up and then basically they get converted to photons.
+
+465
+00:29:49,951 --> 00:29:54,739
+Speaker 1: But in this case, the electrons just hit shit directly, like bam, hit by electrons.
+
+466
+00:29:55,020 --> 00:30:00,630
+Speaker 1: And you don't want to be hit by electrons directly like that at such high power, that will fuck you up.
+
+467
+00:30:02,272 --> 00:30:06,538
+Speaker 1: So how do they make this machine safe to operate without fucking up everyone?
+
+468
+00:30:06,598 --> 00:30:08,240
+Speaker 1: Well, basically it's pretty simple.
+
+469
+00:30:08,721 --> 00:30:15,130
+Speaker 1: The machine is far away, surrounded by lead, concrete and various other protective materials.
+
+470
+00:30:15,740 --> 00:30:24,747
+Speaker 1: And anything you want the machine to shoot electrons at, you put on a little conveyor belt and it goes into the darkness, complete darkness, far away from all the people.
+
+471
+00:30:25,367 --> 00:30:28,950
+Speaker 1: It gets zapped and then the conveyor belt comes back out the other side.
+
+472
+00:30:28,990 --> 00:30:33,070
+Speaker 0: I love the little bit of artifacting that starts appearing long before it gets to the actual beam.
+
+473
+00:30:33,950 --> 00:30:44,630
+Speaker 1: So obviously it's like, well, we built this thing, but no one knows what it looks like when it's on, because obviously anyone who knew what it looked like when it was on would be fucked the fuck up.
+
+474
+00:30:46,071 --> 00:30:46,532
+Speaker 1: They did.
+
+475
+00:30:46,632 --> 00:30:53,409
+Speaker 1: the obvious thing is they put a little GoPro and they sent it on the conveyor belt to go see what it looked like.
+
+476
+00:30:53,509 --> 00:30:53,930
+Speaker 1: It's great.
+
+477
+00:30:54,910 --> 00:31:03,505
+Speaker 1: The most fascinating part is that even in the complete darkness, right, the electrons are like ionizing shit in the air.
+
+478
+00:31:04,066 --> 00:31:06,210
+Speaker 1: And then so there are photons coming from that.
+
+479
+00:31:06,470 --> 00:31:10,669
+Speaker 0: It looks like something from Half-Life 2 that you're walking toward and are in should be afraid of.
+
+480
+00:31:11,552 --> 00:31:11,773
+Speaker 1: Right.
+
+481
+00:31:11,833 --> 00:31:13,218
+Speaker 1: It's like there's nothing.
+
+482
+00:31:13,238 --> 00:31:15,245
+Speaker 1: There's like there's no lights back there.
+
+483
+00:31:15,526 --> 00:31:16,630
+Speaker 1: And yet there is light.
+
+484
+00:31:18,632 --> 00:31:20,016
+Speaker 1: You can't see electrons.
+
+485
+00:31:20,056 --> 00:31:24,430
+Speaker 1: If I shot the thing at your eye, besides fucking you up, you wouldn't see anything.
+
+486
+00:31:25,830 --> 00:31:38,690
+Speaker 0: But I do want to point out, despite what you see happen to the GoPro when you watch this video, the GoPro is encased in a three eighth inch thick lead pig with half inch thick lead glass.
+
+487
+00:31:39,911 --> 00:31:40,071
+Speaker 1: Yep.
+
+488
+00:31:40,231 --> 00:31:42,996
+Speaker 1: Oh, and the thing that the electron gun is on full power, though.
+
+489
+00:31:43,257 --> 00:31:43,477
+Speaker 0: Yeah.
+
+490
+00:31:44,879 --> 00:31:50,790
+Speaker 0: And there is a second quarter inch lead plate directly above the camera to provide additional shielding from the beam.
+
+491
+00:31:51,851 --> 00:31:56,870
+Speaker 1: If you're curious about why you would what legitimate uses the machine has, you should Google it, because that's what I did.
+
+492
+00:31:58,573 --> 00:32:04,630
+Speaker 0: I know a lot about this only because I watch a lot of industrial safety postmortem videos and many of them are around.
+
+493
+00:32:05,670 --> 00:32:15,930
+Speaker 0: Somebody broke the intentionally, let's say, disabled the safety mechanisms of something like this and thus encountered unfortunate situations involving high energy.
+
+494
+00:32:16,910 --> 00:32:19,710
+Speaker 1: I took my worst enemy and I knocked him out and put him on the conveyor belt.
+
+495
+00:32:20,191 --> 00:32:28,210
+Speaker 0: God, there's this one story of two Russian guys at a facility who literally just disable all the safety interlocks to go into a room like this for no good reason.
+
+496
+00:32:29,575 --> 00:32:30,770
+Speaker 1: They didn't come out of that room, did they?
+
+497
+00:32:30,770 --> 00:32:32,488
+Speaker 0: They did come out, but they didn't make it that far.
+
+498
+00:32:33,471 --> 00:32:33,832
+Speaker 1: Oh, no.
+
+499
+00:32:33,892 --> 00:32:35,017
+Speaker 0: It's really tragic.
+
+500
+00:32:35,620 --> 00:32:38,030
+Speaker 0: I won't even say the name of it because you probably don't want to Google about it.
+
+501
+00:32:38,090 --> 00:32:38,541
+Speaker 1: No, I don't.
+
+502
+00:32:39,891 --> 00:32:43,584
+Speaker 0: In the meta moment, the Geek Nights Book Club book is the night a short walk on girl.
+
+503
+00:32:43,644 --> 00:32:45,250
+Speaker 0: We will do this at some point in the near future.
+
+504
+00:32:45,670 --> 00:32:47,783
+Speaker 0: I recommend watching the movie and reading the book.
+
+505
+00:32:48,065 --> 00:32:48,810
+Speaker 0: They're both delightful.
+
+506
+00:32:49,330 --> 00:32:56,329
+Speaker 0: The book is shorter than the movie because the book, the movie like does more than the book did from what I can tell so far.
+
+507
+00:32:57,711 --> 00:33:02,087
+Speaker 0: Otherwise, we'll be live at PAX East 2024 with two panels on Sunday, 2.30 p.m.
+
+508
+00:33:03,271 --> 00:33:05,537
+Speaker 0: Every game is in fact the same game.
+
+509
+00:33:05,557 --> 00:33:06,419
+Speaker 0: And then at 4.30
+
+510
+00:33:06,419 --> 00:33:06,520
+Speaker 0: p.m.,
+
+511
+00:33:06,560 --> 00:33:07,924
+Speaker 0: the 39 games you must play.
+
+512
+00:33:10,830 --> 00:33:13,221
+Speaker 0: Otherwise, PAX East is four days long.
+
+513
+00:33:13,563 --> 00:33:15,130
+Speaker 0: We're going to be there for all four days.
+
+514
+00:33:15,510 --> 00:33:19,210
+Speaker 0: It's going to be an exciting time and four day badges are not yet sold out.
+
+515
+00:33:19,270 --> 00:33:24,687
+Speaker 0: And if you want to go to PAX East, it is much cheaper to buy a four day badge than four one day badges.
+
+516
+00:33:24,727 --> 00:33:25,409
+Speaker 0: Just pointing that out.
+
+517
+00:33:26,570 --> 00:33:29,790
+Speaker 1: What about the hotel situation if you do not live close enough to PAX East?
+
+518
+00:33:29,910 --> 00:33:31,681
+Speaker 0: Oh yeah, there's like no hotels near PAX East.
+
+519
+00:33:31,761 --> 00:33:32,828
+Speaker 0: It's just a magfest situation.
+
+520
+00:33:33,410 --> 00:33:34,213
+Speaker 0: It could be dire.
+
+521
+00:33:34,233 --> 00:33:39,110
+Speaker 1: I don't know what the situation is, but I don't imagine it's going to be that great.
+
+522
+00:33:40,675 --> 00:33:40,957
+Speaker 0: Yeah.
+
+523
+00:33:40,997 --> 00:33:43,690
+Speaker 0: At least with climate change, it'll probably be warm.
+
+524
+00:33:45,190 --> 00:33:49,370
+Speaker 1: And even if you get what was the optimal hotel, right, they might not be able to check you in, right?
+
+525
+00:33:49,811 --> 00:33:58,468
+Speaker 0: Oh yeah, in fact, fair warning, the closest hotel that is literally connected to PAX East, the one that you'd think, "Ah, that's the hotel I want to be in.
+
+526
+00:33:58,508 --> 00:33:58,989
+Speaker 0: That's the best
+
+527
+00:33:59,170 --> 00:33:59,250
+Speaker 0: one.".
+
+528
+00:33:59,791 --> 00:34:00,934
+Speaker 0: And it does always sell out.
+
+529
+00:34:00,974 --> 00:34:02,337
+Speaker 0: Like, it's really hard to get that hotel.
+
+530
+00:34:02,698 --> 00:34:04,061
+Speaker 0: That hotel sucks.
+
+531
+00:34:04,543 --> 00:34:07,390
+Speaker 0: Like, it has the most problems of any hotel.
+
+532
+00:34:07,890 --> 00:34:10,909
+Speaker 1: I guess it would be okay if you got there like a couple days or two.
+
+533
+00:34:11,591 --> 00:34:13,737
+Speaker 0: Even then, that hotel has nothing but problems.
+
+534
+00:34:14,016 --> 00:34:18,429
+Speaker 0: And in fact, the last PAX East that a bunch of our friends went to, they all got rooms in that hotel and we didn't.
+
+535
+00:34:18,851 --> 00:34:23,681
+Speaker 0: And if you recall, four of them were told, "Actually, we don't have a room for
+
+536
+00:34:23,722 --> 00:34:23,902
+Speaker 0: you.".
+
+537
+00:34:24,203 --> 00:34:27,350
+Speaker 0: And they put them up over by the Heinz and it was a giant shit show.
+
+538
+00:34:29,770 --> 00:34:32,416
+Speaker 0: Alright, let's just dive right into the main bit.
+
+539
+00:34:32,456 --> 00:34:38,067
+Speaker 0: Another food show, but we actually have plans for not one, not two, not three, but four Thursday episodes.
+
+540
+00:34:38,388 --> 00:34:39,370
+Speaker 0: So we're coming for a while.
+
+541
+00:34:40,397 --> 00:34:41,670
+Speaker 1: Those could be crab peoples, who knows?
+
+542
+00:34:41,790 --> 00:34:42,873
+Speaker 0: I mean, they're good enough.
+
+543
+00:34:42,933 --> 00:34:45,981
+Speaker 0: I could do those shows with little prompting if needed.
+
+544
+00:34:46,061 --> 00:34:47,965
+Speaker 0: But tonight, talking about noodles.
+
+545
+00:34:48,406 --> 00:34:49,790
+Speaker 0: One of my favorite things.
+
+546
+00:34:51,030 --> 00:34:56,762
+Speaker 1: Yeah, I mean, a noodle is a tasty category of food that is very flexible and wide in variety, right?
+
+547
+00:34:56,802 --> 00:34:58,365
+Speaker 1: Because basically, what is a noodle?
+
+548
+00:34:59,167 --> 00:35:00,710
+Speaker 1: It is a wet bread, right?
+
+549
+00:35:01,771 --> 00:35:06,101
+Speaker 1: But if you just take bread, straight up bread, and just throw water on it, that ain't good.
+
+550
+00:35:06,261 --> 00:35:07,163
+Speaker 1: No one wants to eat that.
+
+551
+00:35:07,243 --> 00:35:07,805
+Speaker 1: That's gross.
+
+552
+00:35:08,085 --> 00:35:08,907
+Speaker 1: That's just soggy.
+
+553
+00:35:09,348 --> 00:35:09,829
+Speaker 1: That's bad.
+
+554
+00:35:10,531 --> 00:35:17,630
+Speaker 0: There is a wet bread that is very good, but you make regular bread first and then you soak it in Armagnac and it's a dessert that's fancy and delicious.
+
+555
+00:35:18,911 --> 00:35:21,599
+Speaker 1: I mean, even a garlic bread has oil that is wet in it.
+
+556
+00:35:21,659 --> 00:35:22,602
+Speaker 1: But we're talking about water.
+
+557
+00:35:22,622 --> 00:35:22,662
+Speaker 1: H2O.
+
+558
+00:35:25,872 --> 00:35:27,390
+Speaker 0: Don't dip your Wonder Bread in water.
+
+559
+00:35:27,850 --> 00:35:34,870
+Speaker 1: When you make bread, the ingredients of bread are flour, water, salt, yeast, but then when you bake it, the water leaves the bread and that's what makes bread.
+
+560
+00:35:34,990 --> 00:35:39,610
+Speaker 1: If the water stayed in the bread or you added the water back to the bread before eating it, that would be a problem.
+
+561
+00:35:41,551 --> 00:35:43,395
+Speaker 1: And so a noodle gets around this problem.
+
+562
+00:35:43,435 --> 00:35:46,281
+Speaker 1: How can we have a moist, watery bread?
+
+563
+00:35:46,561 --> 00:35:50,870
+Speaker 1: We'll just make the bread so dense that it can handle the water, right?
+
+564
+00:35:51,411 --> 00:35:52,353
+Speaker 1: And so that is a noodle.
+
+565
+00:35:52,955 --> 00:35:57,590
+Speaker 1: There are some noodles that are made with other things besides grains, right?
+
+566
+00:35:58,110 --> 00:36:02,480
+Speaker 1: But mostly it's about the grains of some variety, right?
+
+567
+00:36:02,560 --> 00:36:06,930
+Speaker 1: A buckwheat noodle, a regular wheat noodle, other kind of wheats, whole wheat noodle.
+
+568
+00:36:07,971 --> 00:36:14,990
+Speaker 0: But the one thing we're not going to talk about, partly because we're not experts and I would just be paraphrasing some articles I read and Wikipedia.
+
+569
+00:36:15,290 --> 00:36:17,110
+Speaker 1: The only thing I know about noodles is how to cook them and how to eat them.
+
+570
+00:36:17,210 --> 00:36:21,594
+Speaker 0: The history of noodles is actually super ancient and fascinating.
+
+571
+00:36:21,915 --> 00:36:36,610
+Speaker 0: Cultures all around the world have independently developed noodles and various noodle technologies that you may have heard of arose in places you would not expect and got to places that you might associate with them.
+
+572
+00:36:37,090 --> 00:36:38,513
+Speaker 0: Far later than you might think.
+
+573
+00:36:38,894 --> 00:36:45,630
+Speaker 0: Like, the term spaghetti didn't exist until 1888 and how spaghetti got to Italy is fucking fascinating.
+
+574
+00:36:49,251 --> 00:36:50,572
+Speaker 0: So let's talk about various noodles.
+
+575
+00:36:50,593 --> 00:36:51,434
+Speaker 0: Let's start with the basics.
+
+576
+00:36:51,494 --> 00:36:53,737
+Speaker 0: The spaghetti type noodles, the pasta type noodles.
+
+577
+00:36:53,997 --> 00:37:01,748
+Speaker 0: There's all the different shapes of pasta, but there's also all the different sizes of spaghettis, even though they all have different names.
+
+578
+00:37:01,768 --> 00:37:03,470
+Speaker 0: They're all spaghetti adjacent.
+
+579
+00:37:04,391 --> 00:37:10,758
+Speaker 1: Well, I mean, you know, so I think that you choose the shape based on the dish, right?
+
+580
+00:37:11,099 --> 00:37:21,110
+Speaker 1: So it's like, it's really about like, because the noodle, obviously you are trying to eat the noodle itself, but it's also going to be a vehicle for other things.
+
+581
+00:37:21,771 --> 00:37:27,898
+Speaker 1: So depending on how the sauce is, you might want a different shape of noodle, right?
+
+582
+00:37:27,958 --> 00:37:31,422
+Speaker 1: Of different pasta shape to convey it better, right?
+
+583
+00:37:31,462 --> 00:37:37,810
+Speaker 1: Like, you know, if you throw, you know, a meat sauce on a spaghetti, that's pretty standard, right?
+
+584
+00:37:37,910 --> 00:37:43,399
+Speaker 1: But actually I found that like, it's kind of hard to get like little bits of meat to go in with the spaghetti.
+
+585
+00:37:43,600 --> 00:37:49,630
+Speaker 1: Whereas if you have a meatball, well, obviously you just stab a piece of meatball with the fork and get some spaghetti in there also.
+
+586
+00:37:50,310 --> 00:37:51,072
+Speaker 1: And you're good to go.
+
+587
+00:37:51,092 --> 00:37:58,625
+Speaker 1: So if you got a meat sauce, though, maybe you can get a, you know, a noodle that has some nooks and crannies like a shell or a ziti, right?
+
+588
+00:37:58,926 --> 00:38:01,310
+Speaker 1: And then the little bits can get inside.
+
+589
+00:38:01,390 --> 00:38:07,450
+Speaker 1: And now the pasta itself can convey the food while also being food.
+
+590
+00:38:08,110 --> 00:38:08,451
+Speaker 0: Yup.
+
+591
+00:38:08,471 --> 00:38:15,627
+Speaker 0: There's also the fundamental baked spaghettis and baked pastas are very different from other kinds of pastas.
+
+592
+00:38:15,667 --> 00:38:16,970
+Speaker 0: I'm a big fan of the mostacholi.
+
+593
+00:38:17,451 --> 00:38:22,130
+Speaker 1: Now you're talking about how to cook it, not just how to, which variety to go with.
+
+594
+00:38:22,731 --> 00:38:23,172
+Speaker 0: Yeah, I do.
+
+595
+00:38:23,392 --> 00:38:24,014
+Speaker 0: I like.
+
+596
+00:38:24,154 --> 00:38:28,102
+Speaker 0: so Emily likes more of the linguine is like the really fine ones, but I'll admit I actually like especially.
+
+597
+00:38:28,122 --> 00:38:32,110
+Speaker 0: we're talking about noodle spaghetti, like long ropes of spagettes.
+
+598
+00:38:32,670 --> 00:38:33,893
+Speaker 0: I actually like the thicker ones.
+
+599
+00:38:34,013 --> 00:38:38,863
+Speaker 0: And the best spaghetti is like a really thick, fresh spaghetti.
+
+600
+00:38:38,943 --> 00:38:40,627
+Speaker 0: Like it's soft and fresh.
+
+601
+00:38:40,667 --> 00:38:42,030
+Speaker 0: And you got to use it within a few days.
+
+602
+00:38:43,490 --> 00:38:45,695
+Speaker 1: But I mean, obviously, so there's yeah, there's the fresh one.
+
+603
+00:38:45,755 --> 00:38:54,010
+Speaker 1: And then there's also, you know, the the the dried out one that you can actually, you know, the dried out one isn't bad, but obviously the fresh noodle is superior.
+
+604
+00:38:54,330 --> 00:38:54,551
+Speaker 1: Right.
+
+605
+00:38:54,871 --> 00:39:06,090
+Speaker 0: Though, I think if you're I have heard tell that there are people who when they get a dried spaghetti and they have the boiling water, they're going to drop it into that, they will crack the spaghetti and then drop it all into the pot.
+
+606
+00:39:06,190 --> 00:39:10,800
+Speaker 0: So it all gets underwater right away, which is objectively incorrect in the wrong way to do it.
+
+607
+00:39:11,081 --> 00:39:15,470
+Speaker 0: And I didn't realize people did it that way until I found a Reddit thread some years ago.
+
+608
+00:39:16,151 --> 00:39:16,252
+Speaker 1: Yeah.
+
+609
+00:39:16,272 --> 00:39:20,290
+Speaker 1: I mean, if you don't have a big enough pot and the spaghetti won't fit in there, that could be a problem.
+
+610
+00:39:21,230 --> 00:39:25,076
+Speaker 0: Unless you're unless you're boiling your spaghetti in a teapot, it's going to work.
+
+611
+00:39:25,116 --> 00:39:33,810
+Speaker 0: because if you just set it into the top, even if the majority of the spaghetti is sticking out of the pot, it's going to soften and sink in on its own within like 20 seconds.
+
+612
+00:39:34,471 --> 00:39:40,286
+Speaker 1: Oh, so I you know what, you know, even with a crazy boil, I have not had that experience where it sinks in on its own.
+
+613
+00:39:40,346 --> 00:39:41,990
+Speaker 1: I have to push it in on its own.
+
+614
+00:39:42,170 --> 00:39:44,278
+Speaker 0: I do push it because I want to get in as quickly as possible.
+
+615
+00:39:44,319 --> 00:39:47,130
+Speaker 0: I've never waited for it to just 100 percent get in on its own.
+
+616
+00:39:47,430 --> 00:39:50,009
+Speaker 1: I once actually forgot to push it in.
+
+617
+00:39:50,310 --> 00:39:59,490
+Speaker 1: Oh, and what happened was is basically the part of the spaghetti that was sticking out of the top of the pot, the flame went, you know, burned it.
+
+618
+00:39:59,610 --> 00:40:06,370
+Speaker 1: And the ends of the spaghetti were that weren't in the water got burnt because the tiny part where you boil in your pasta.
+
+619
+00:40:06,650 --> 00:40:16,090
+Speaker 1: And I'm just saying if you have a small pot, right, you know, it's like breaking the spaghetti is an ideal because it will be too short and eating it will be more difficult.
+
+620
+00:40:16,230 --> 00:40:16,351
+Speaker 1: Yeah.
+
+621
+00:40:16,371 --> 00:40:20,626
+Speaker 1: But like if the pot is really small, you're making a small portion, you could break it.
+
+622
+00:40:20,686 --> 00:40:21,890
+Speaker 1: It's not going to taste different.
+
+623
+00:40:22,151 --> 00:40:23,116
+Speaker 1: It's not the end of the world.
+
+624
+00:40:23,157 --> 00:40:23,297
+Speaker 1: Right.
+
+625
+00:40:23,338 --> 00:40:25,269
+Speaker 1: But you do got to push it in.
+
+626
+00:40:25,651 --> 00:40:25,873
+Speaker 1: Right.
+
+627
+00:40:26,154 --> 00:40:28,469
+Speaker 1: Or get a big giant pot like restaurants have.
+
+628
+00:40:29,652 --> 00:40:33,346
+Speaker 0: What I like to the problem is I want to use the super big pot we've got.
+
+629
+00:40:33,366 --> 00:40:34,470
+Speaker 0: that's got the built in strainer.
+
+630
+00:40:34,590 --> 00:40:37,529
+Speaker 0: So you put the water, you put the strainer in, then you put the pasta in.
+
+631
+00:40:38,470 --> 00:40:43,349
+Speaker 0: But there is almost no universe where I am making that much spaghetti at any given time.
+
+632
+00:40:44,150 --> 00:40:45,350
+Speaker 1: Yeah, that's a lot of water to boil.
+
+633
+00:40:45,691 --> 00:40:48,550
+Speaker 0: Maybe if we do a dinner with all our friends, I'll cook a giant spaghetti.
+
+634
+00:40:49,132 --> 00:40:51,558
+Speaker 1: A lot of wasted energy boiling that water.
+
+635
+00:40:51,578 --> 00:40:55,690
+Speaker 1: A lot of extra salt to salt the water when it's too much water.
+
+636
+00:40:56,111 --> 00:41:01,950
+Speaker 0: I will admit, I used to be not great at cooking this kind of noodle because I used to always make it very simply.
+
+637
+00:41:02,050 --> 00:41:05,230
+Speaker 0: I'd make the pasta in the water and separately I'd make the sauce.
+
+638
+00:41:05,590 --> 00:41:10,430
+Speaker 0: And then I would usually either mix them on the plate or in some fashion like that.
+
+639
+00:41:10,490 --> 00:41:12,889
+Speaker 0: But they were basically two separate things that were combined at the end.
+
+640
+00:41:13,351 --> 00:41:27,070
+Speaker 0: And it wasn't until I was an adult that I learned the art of cooking some pasta and then putting the noodles right back into a dish and mixing everything together and doing further cooking and a more complex method to make a superior pasta.
+
+641
+00:41:27,574 --> 00:41:28,729
+Speaker 1: The basic method, yeah.
+
+642
+00:41:29,170 --> 00:41:34,430
+Speaker 1: But if you like a big thick spaghetti, I think the biggest baddest spaghetti is the pucatini.
+
+643
+00:41:34,570 --> 00:41:37,830
+Speaker 1: Which is the spaghetti that's so big that it has the tiny hole through the middle.
+
+644
+00:41:41,791 --> 00:41:46,449
+Speaker 0: Some of my favorite noodles though are like the noodles you get in Thai food in a pad siu.
+
+645
+00:41:47,675 --> 00:41:48,950
+Speaker 1: The big flat rice noodle.
+
+646
+00:41:49,390 --> 00:41:55,450
+Speaker 0: Big flat wide rice noodles soaked in as much sauce as you can soak them in is some of the best noodles there on earth.
+
+647
+00:41:56,350 --> 00:41:57,694
+Speaker 1: Yep, I do love a rice noodle.
+
+648
+00:41:58,717 --> 00:42:02,670
+Speaker 1: Something about a rice noodle is like you can just keep eating so much of it.
+
+649
+00:42:02,950 --> 00:42:04,200
+Speaker 1: Like for some reason it's not filling.
+
+650
+00:42:04,220 --> 00:42:05,510
+Speaker 1: Like a pasta will fill you up.
+
+651
+00:42:06,894 --> 00:42:11,747
+Speaker 1: But a rice noodle doesn't seem to fill up my stomach so I can eat, like if a dish has rice noodle.
+
+652
+00:42:11,788 --> 00:42:12,650
+Speaker 1: I can just keep going.
+
+653
+00:42:14,071 --> 00:42:17,221
+Speaker 1: Even though the noodle is so, you'd think it's like the noodle is so substantial.
+
+654
+00:42:17,241 --> 00:42:20,090
+Speaker 1: They're big and flat and there's so much rice there basically.
+
+655
+00:42:20,770 --> 00:42:23,170
+Speaker 1: Like how many grains of rice is one rice noodle?
+
+656
+00:42:23,810 --> 00:42:30,990
+Speaker 0: But at the same time if I'm even a little hungry, like I can eat a cup or two of rice without even thinking about it.
+
+657
+00:42:31,871 --> 00:42:36,330
+Speaker 1: I'm just saying it's like, you know, rice noodle is far out there.
+
+658
+00:42:36,731 --> 00:42:38,114
+Speaker 0: Yeah, it's a pretty good noodle.
+
+659
+00:42:38,154 --> 00:42:44,250
+Speaker 0: Similarly, like you go to Xi'an or get like a Chinese noodle, the spicy cumin lamb, wide noodle in Xi'an.
+
+660
+00:42:44,912 --> 00:42:47,550
+Speaker 0: Same kind of noodle in terms of how much I enjoy it.
+
+661
+00:42:47,771 --> 00:42:48,714
+Speaker 1: The big flat ones, yeah.
+
+662
+00:42:49,336 --> 00:42:50,259
+Speaker 1: Love the big flat ones.
+
+663
+00:42:50,300 --> 00:42:53,210
+Speaker 1: You seem to like the big noodle, not that you're not a small noodle.
+
+664
+00:42:53,670 --> 00:42:54,197
+Speaker 0: I'm not a small noodle guy.
+
+665
+00:42:54,217 --> 00:42:55,007
+Speaker 0: I've always liked big noodle.
+
+666
+00:42:55,990 --> 00:42:56,449
+Speaker 1: Big noodle.
+
+667
+00:42:56,671 --> 00:43:02,670
+Speaker 0: I think it partly, honestly, I'd never thought about it until now, but I think I actually can point to why.
+
+668
+00:43:03,772 --> 00:43:07,990
+Speaker 0: My entire life I've been super cardioactive, like tons of biking and running.
+
+669
+00:43:09,454 --> 00:43:12,030
+Speaker 0: I eat a ton of carbohydrates all the time.
+
+670
+00:43:12,510 --> 00:43:21,670
+Speaker 0: When I was a kid, like I would eat effectively like a whole pound of pasta for dinner and just as much garlic bread as the family made.
+
+671
+00:43:21,770 --> 00:43:24,068
+Speaker 0: Like I would eat all of it if they didn't stop me.
+
+672
+00:43:24,852 --> 00:43:26,478
+Speaker 0: And I think that's just translated my whole life.
+
+673
+00:43:26,538 --> 00:43:29,690
+Speaker 0: So when in doubt, bigger noodles means more carbohydrate.
+
+674
+00:43:30,130 --> 00:43:35,190
+Speaker 0: And I think I've just always gravitated toward bigger noodles and more noodles in my entire life, naturally.
+
+675
+00:43:38,132 --> 00:43:39,175
+Speaker 1: I don't know.
+
+676
+00:43:39,235 --> 00:43:41,682
+Speaker 1: Why would I like a bigger noodle more?
+
+677
+00:43:41,803 --> 00:43:43,467
+Speaker 1: I don't know if I do like it, but I just like a noodle.
+
+678
+00:43:43,788 --> 00:43:44,450
+Speaker 0: I don't really care.
+
+679
+00:43:44,811 --> 00:43:52,410
+Speaker 0: I find that if I think of my favorite noodles, I imagine big noodles far earlier than I imagined small noodles.
+
+680
+00:43:54,470 --> 00:44:06,228
+Speaker 1: If I think of noodles that I don't like, I think of the alphabet soup where it's like, you know, you just got like these little, I guess they still have it, right?
+
+681
+00:44:07,470 --> 00:44:15,550
+Speaker 1: It's like, you know, instead of putting actual noodles in a soup, you just put like these, you know, these little tiny bits of pasta shaped like alphabet letters in there.
+
+682
+00:44:16,191 --> 00:44:20,770
+Speaker 1: And it's sort of like, you know, it's like it's even hard to kind of eat them if they don't, because they're not big enough.
+
+683
+00:44:21,352 --> 00:44:24,020
+Speaker 1: It's like, it just sort of adds texture to a soup.
+
+684
+00:44:24,541 --> 00:44:25,785
+Speaker 1: That doesn't really add flavor.
+
+685
+00:44:25,805 --> 00:44:27,390
+Speaker 1: It doesn't really feel like you're eating anything.
+
+686
+00:44:27,690 --> 00:44:36,070
+Speaker 0: Well, like they, if you put the soup in your mouth, they will crush under your tongue to such a degree that they might as well not even be there.
+
+687
+00:44:36,910 --> 00:44:37,010
+Speaker 1: Yeah.
+
+688
+00:44:37,030 --> 00:44:39,820
+Speaker 1: And then they're all over, like there's little bits all over your mouth.
+
+689
+00:44:39,860 --> 00:44:42,770
+Speaker 1: Like it's like, you know, you're eating popcorn and all the bits are getting stuck.
+
+690
+00:44:43,110 --> 00:44:45,090
+Speaker 0: You're going to swallow a lot of them whole and it doesn't matter.
+
+691
+00:44:46,652 --> 00:44:46,912
+Speaker 1: Yeah.
+
+692
+00:44:46,993 --> 00:44:52,030
+Speaker 1: The other kind of noodle that I don't hate it, but I'm not a huge fan is the cold noodle, right?
+
+693
+00:44:52,150 --> 00:44:53,194
+Speaker 0: I love a cold noodle.
+
+694
+00:44:53,214 --> 00:44:55,724
+Speaker 0: Give me a cold noodle any day.
+
+695
+00:44:55,804 --> 00:44:57,330
+Speaker 0: Cold noodle with a bunch of good sauce.
+
+696
+00:44:58,350 --> 00:44:58,530
+Speaker 1: Yeah.
+
+697
+00:44:58,570 --> 00:45:07,550
+Speaker 1: You know, it's like the special, it's like the soba noodle, like in summer in Japan is like the, like the hot, it's not hot, but it's literally cold, right?
+
+698
+00:45:07,872 --> 00:45:09,342
+Speaker 1: But it's a very popular dish, right?
+
+699
+00:45:09,362 --> 00:45:10,470
+Speaker 1: Like cold soba noodles.
+
+700
+00:45:10,951 --> 00:45:17,730
+Speaker 1: But it's like, there's something about the noodle being cold that I'm just like, eh, I don't really want to eat the cold noodle.
+
+701
+00:45:17,910 --> 00:45:23,869
+Speaker 0: For me, the only one I'm not a huge fan of is, I'm not the biggest fan of glass noodles in particular, hot or cold.
+
+702
+00:45:23,929 --> 00:45:24,290
+Speaker 0: Partly.
+
+703
+00:45:24,570 --> 00:45:34,430
+Speaker 1: Well, the glass noodle, actually the slippery texture I kind of like is kind of fun, but they don't have that sort of rich, you know, wheaty or ricey kind of flavor to them.
+
+704
+00:45:34,610 --> 00:45:39,150
+Speaker 1: They're sort of, you know, they taste as, as like, as clear as they look.
+
+705
+00:45:39,290 --> 00:45:39,511
+Speaker 0: Yup.
+
+706
+00:45:39,591 --> 00:45:49,890
+Speaker 0: Like I could take them or leave them and I like dishes that use them, but if I was going to pick a noodle to cook, I would definitely do like a soba noodle over a glass noodle, just in a vacuum if you made me choose.
+
+707
+00:45:50,870 --> 00:45:50,971
+Speaker 1: Yeah.
+
+708
+00:45:51,031 --> 00:45:53,209
+Speaker 1: What is the glass noodle actually made of?
+
+709
+00:45:53,490 --> 00:45:53,892
+Speaker 0: Just starch.
+
+710
+00:45:54,615 --> 00:45:57,790
+Speaker 0: Like usually they basically just extracted starch in most cases.
+
+711
+00:45:58,790 --> 00:45:59,072
+Speaker 0: I see.
+
+712
+00:45:59,152 --> 00:46:02,290
+Speaker 1: So it's starch only, but without the other parts, right?
+
+713
+00:46:02,530 --> 00:46:02,671
+Speaker 0: Yeah.
+
+714
+00:46:03,756 --> 00:46:06,230
+Speaker 0: I think the other parts are important for a lot of the dishes I like.
+
+715
+00:46:06,731 --> 00:46:06,851
+Speaker 1: Yeah.
+
+716
+00:46:06,891 --> 00:46:09,896
+Speaker 1: Imagine if you made a bread that was like gluten only, but nothing else.
+
+717
+00:46:10,638 --> 00:46:11,479
+Speaker 1: It's like, why not?
+
+718
+00:46:11,539 --> 00:46:12,661
+Speaker 1: It's not a gluten free bread.
+
+719
+00:46:12,701 --> 00:46:14,144
+Speaker 1: It's like a hundred percent gluten bread.
+
+720
+00:46:14,184 --> 00:46:14,404
+Speaker 1: There's.
+
+721
+00:46:14,444 --> 00:46:17,610
+Speaker 1: no, none of the other parts of the wheat flour are in there.
+
+722
+00:46:19,011 --> 00:46:19,749
+Speaker 1: Just the gluten bread.
+
+723
+00:46:20,291 --> 00:46:21,052
+Speaker 0: I just found a video.
+
+724
+00:46:21,072 --> 00:46:29,630
+Speaker 0: a hundred percent gluten bread, but cold soba noodles are one of my favorite summer dishes.
+
+725
+00:46:30,391 --> 00:46:30,612
+Speaker 1: Yeah.
+
+726
+00:46:30,632 --> 00:46:31,596
+Speaker 1: It's a, it's popular.
+
+727
+00:46:31,636 --> 00:46:35,130
+Speaker 1: I'm just, you know, I like a soba that's not cold.
+
+728
+00:46:35,451 --> 00:46:44,107
+Speaker 0: Now it's not the slipperiness I don't like about the cellophane noodles though, because I also really like a soba, which those are big, like those big noodles are really slippery.
+
+729
+00:46:44,187 --> 00:46:45,490
+Speaker 0: Just the nature of those noodles.
+
+730
+00:46:50,051 --> 00:46:54,089
+Speaker 0: I'm salivating thinking about noodles cause it's dinner time and Emily's cooking something in the other room right now.
+
+731
+00:46:54,874 --> 00:46:55,350
+Speaker 1: Is it noodles?
+
+732
+00:46:56,830 --> 00:46:59,748
+Speaker 0: I'm salivating to the point that I gotta, I gotta do something about it.
+
+733
+00:47:00,931 --> 00:47:06,642
+Speaker 1: It is weird though that like you think about other foods and there's like, you know, a range in quality levels, right?
+
+734
+00:47:06,822 --> 00:47:10,469
+Speaker 1: You know, for like steak, you got like your wagyu all the way down to your McDonald's.
+
+735
+00:47:10,710 --> 00:47:10,850
+Speaker 1: Right.
+
+736
+00:47:11,531 --> 00:47:14,838
+Speaker 1: And it's like, there's a line that you have where it's like let below this line.
+
+737
+00:47:14,858 --> 00:47:15,539
+Speaker 1: I'm not eating that.
+
+738
+00:47:15,599 --> 00:47:16,261
+Speaker 1: That's right.
+
+739
+00:47:16,662 --> 00:47:20,470
+Speaker 1: But with noodle, it's like the line goes really low.
+
+740
+00:47:20,871 --> 00:47:23,977
+Speaker 1: It's like a box of pasta from the grocery store.
+
+741
+00:47:24,498 --> 00:47:25,280
+Speaker 1: Any brand.
+
+742
+00:47:25,320 --> 00:47:26,362
+Speaker 1: Literally doesn't matter.
+
+743
+00:47:26,763 --> 00:47:30,030
+Speaker 0: A brand I've never heard of that looks like it's from the seventies, probably fine.
+
+744
+00:47:31,050 --> 00:47:32,153
+Speaker 1: It's like, sure, I'll eat that.
+
+745
+00:47:32,213 --> 00:47:32,854
+Speaker 1: That seems good.
+
+746
+00:47:32,875 --> 00:47:33,035
+Speaker 1: Right?
+
+747
+00:47:33,255 --> 00:47:39,790
+Speaker 1: It's like Kraft, Kraft Mac and cheese is like, well, the cheese is questionable, but the Mac, it's like those noodles, their macaronis are fine.
+
+748
+00:47:39,970 --> 00:47:50,310
+Speaker 0: And all the way up to the top, the best fresh pasta is better than a dried pasta or like a cheaper pasta, but it's not that much better.
+
+749
+00:47:52,131 --> 00:47:52,892
+Speaker 1: It's, it's better.
+
+750
+00:47:52,932 --> 00:47:54,455
+Speaker 1: I would definitely choose it every time.
+
+751
+00:47:54,515 --> 00:47:54,756
+Speaker 1: Yeah.
+
+752
+00:47:54,896 --> 00:48:00,387
+Speaker 1: But it's like a dried box of pasta is still way good because it's still a delicious bread.
+
+753
+00:48:00,707 --> 00:48:00,988
+Speaker 1: Yep.
+
+754
+00:48:01,469 --> 00:48:02,010
+Speaker 1: Wet, wet bread.
+
+755
+00:48:05,351 --> 00:48:15,450
+Speaker 0: Of course, I guess this is this is an opportunity to talk a little bit about the instant noodle, especially the ramen, which, you know, so the instant ramen is like even a level below like the box of pasta.
+
+756
+00:48:15,530 --> 00:48:16,532
+Speaker 0: And it's still hella good.
+
+757
+00:48:16,673 --> 00:48:24,070
+Speaker 0: And despite being the kind of person who like won't eat fast food, like even if I'm really hungry, I will generally just not eat rather than eat at McDonald's.
+
+758
+00:48:25,010 --> 00:48:29,401
+Speaker 0: I'll eat bottom of the barrel ramen in a pinch and have no regrets about it.
+
+759
+00:48:29,421 --> 00:48:29,501
+Speaker 0: Yeah.
+
+760
+00:48:30,043 --> 00:48:31,406
+Speaker 1: You know, that's the thing is I buy different.
+
+761
+00:48:31,426 --> 00:48:33,030
+Speaker 1: I've had a lot of different instant ramens.
+
+762
+00:48:33,270 --> 00:48:40,785
+Speaker 1: And while the the broths vary in quality and flavor dramatically on the noodles also vary greatly.
+
+763
+00:48:41,126 --> 00:48:43,070
+Speaker 1: But the noodle is never bad.
+
+764
+00:48:43,190 --> 00:48:46,055
+Speaker 0: The cheapest maruchan, totally fine.
+
+765
+00:48:46,075 --> 00:48:46,797
+Speaker 0: We'd eat it right now.
+
+766
+00:48:46,857 --> 00:48:47,338
+Speaker 0: No regrets.
+
+767
+00:48:47,939 --> 00:48:52,507
+Speaker 1: The noodle part of any of them that I've ever had is great.
+
+768
+00:48:52,907 --> 00:48:53,809
+Speaker 1: It's just fine.
+
+769
+00:48:54,110 --> 00:48:54,350
+Speaker 1: Right.
+
+770
+00:48:54,931 --> 00:48:56,877
+Speaker 1: It's like there's nothing wrong with that part of it.
+
+771
+00:48:56,897 --> 00:48:59,284
+Speaker 1: There are some where I'm like the broth is terrible.
+
+772
+00:48:59,626 --> 00:49:01,030
+Speaker 1: The little flavor thing is terrible.
+
+773
+00:49:01,511 --> 00:49:05,981
+Speaker 1: But the noodle part, even in cup noodle, it's like great.
+
+774
+00:49:06,042 --> 00:49:09,510
+Speaker 0: I know it's funny because, you know, we started camping a lot and we do ultra light hiking.
+
+775
+00:49:09,790 --> 00:49:24,590
+Speaker 0: So when we cook on these trips, we tend to cook things that involve mostly boiling water because having enough fuel to do a simmer or like making a fire to do a simmer is annoying compared to having the ability to boil a bunch of water in a hurry and then use that for cooking.
+
+776
+00:49:25,490 --> 00:49:31,221
+Speaker 0: A lot of hiking people get the rations and they get all these very specialized hiking dishes.
+
+777
+00:49:31,802 --> 00:49:35,850
+Speaker 0: And we have migrated away from that to just bringing ramen.
+
+778
+00:49:36,391 --> 00:49:37,493
+Speaker 0: And it's totally fine.
+
+779
+00:49:37,653 --> 00:49:40,618
+Speaker 0: And there is something about being out in the middle of the woods.
+
+780
+00:49:41,099 --> 00:49:41,680
+Speaker 0: You're hungry.
+
+781
+00:49:41,900 --> 00:49:47,670
+Speaker 0: You spend the night and you're not going to cook like a big camp dinner because you're not like at a giant campsite with a giant fire.
+
+782
+00:49:48,410 --> 00:49:53,997
+Speaker 0: And in about two minutes, having instant ramen just available to eat nice and hot.
+
+783
+00:49:54,477 --> 00:49:55,198
+Speaker 0: It's so good.
+
+784
+00:49:55,338 --> 00:50:05,550
+Speaker 0: And I don't know why so many hikers insist on eating the sometimes questionable or bland nonsense that you can buy as rations when instant ramen is right there.
+
+785
+00:50:05,670 --> 00:50:06,571
+Speaker 0: And it's like a dollar.
+
+786
+00:50:09,055 --> 00:50:12,099
+Speaker 1: So when it comes to not instant ramen.
+
+787
+00:50:12,380 --> 00:50:12,540
+Speaker 1: Right.
+
+788
+00:50:12,560 --> 00:50:14,323
+Speaker 1: There is actually quite a bit of variety.
+
+789
+00:50:14,383 --> 00:50:14,703
+Speaker 0: Oh yeah.
+
+790
+00:50:14,723 --> 00:50:16,165
+Speaker 0: There is a noodle.
+
+791
+00:50:16,325 --> 00:50:16,566
+Speaker 1: Right.
+
+792
+00:50:16,586 --> 00:50:19,330
+Speaker 1: You have different like, you know, wheat contents.
+
+793
+00:50:19,410 --> 00:50:19,550
+Speaker 1: Right.
+
+794
+00:50:19,650 --> 00:50:19,830
+Speaker 1: You got.
+
+795
+00:50:19,870 --> 00:50:26,464
+Speaker 1: sometimes you got like, you know, a buckwheat noodle ramen or you got different hydration levels of the of the noodles that happen.
+
+796
+00:50:26,564 --> 00:50:26,824
+Speaker 1: Yeah.
+
+797
+00:50:27,005 --> 00:50:27,285
+Speaker 1: Right.
+
+798
+00:50:27,646 --> 00:50:29,590
+Speaker 1: You've got different shapes.
+
+799
+00:50:29,650 --> 00:50:30,992
+Speaker 1: So sometimes you get the round one.
+
+800
+00:50:31,293 --> 00:50:34,678
+Speaker 1: Sometimes you get the slightly flattened one and sometimes you get the straight ones.
+
+801
+00:50:34,758 --> 00:50:36,441
+Speaker 1: and sometimes you get the wavy ones.
+
+802
+00:50:36,961 --> 00:50:37,142
+Speaker 1: Right.
+
+803
+00:50:37,602 --> 00:50:42,530
+Speaker 1: I prefer the wavy one just because eating it is more convenient.
+
+804
+00:50:42,730 --> 00:50:47,278
+Speaker 1: The straight ones sometimes, you know, it's not so it's like it is.
+
+805
+00:50:47,618 --> 00:50:48,760
+Speaker 1: it's easy enough to grab them.
+
+806
+00:50:48,820 --> 00:50:49,722
+Speaker 1: I grab them just fine.
+
+807
+00:50:50,042 --> 00:50:54,750
+Speaker 1: But the wavy ones, I just like the wavy noodles better for some reason.
+
+808
+00:50:55,071 --> 00:50:55,352
+Speaker 0: I like.
+
+809
+00:50:55,392 --> 00:50:59,162
+Speaker 0: I like my ramen noodles to be a little bit crisp or like a little bit like.
+
+810
+00:50:59,182 --> 00:51:00,686
+Speaker 0: I don't like him to be completely soggy.
+
+811
+00:51:00,726 --> 00:51:01,950
+Speaker 0: I like him to still have a little bit of.
+
+812
+00:51:02,190 --> 00:51:04,375
+Speaker 1: Well, I think that's true of just all noodles in general.
+
+813
+00:51:04,415 --> 00:51:04,575
+Speaker 1: Right.
+
+814
+00:51:04,615 --> 00:51:08,424
+Speaker 1: It's like it's wet bread, but you can't wet it to the point where it's right.
+
+815
+00:51:08,664 --> 00:51:09,546
+Speaker 1: It has to be.
+
+816
+00:51:10,127 --> 00:51:11,250
+Speaker 1: it's like you had a bread.
+
+817
+00:51:11,590 --> 00:51:18,481
+Speaker 1: You took out all the moisture and you're going to add back the exact right amount of moisture to where it's tasty.
+
+818
+00:51:19,042 --> 00:51:19,463
+Speaker 1: And it's like.
+
+819
+00:51:19,503 --> 00:51:23,670
+Speaker 1: I think the al dente rule applies to basically all noodle.
+
+820
+00:51:24,131 --> 00:51:36,290
+Speaker 1: I can't think of a noodle that I don't whether from any country of any food culture of any type where I don't want it to be that al dente level where, you know, it's like you think of an actual bread.
+
+821
+00:51:36,550 --> 00:51:39,215
+Speaker 1: It's like there's a crust and then there's the inside.
+
+822
+00:51:39,415 --> 00:51:39,675
+Speaker 1: Right.
+
+823
+00:51:40,016 --> 00:51:48,450
+Speaker 1: It's like so a noodle should be sort of the same texture contrast where there's the hydrated part and then in the middle, not as hydrated.
+
+824
+00:51:49,391 --> 00:51:56,504
+Speaker 0: The danger, though, I think a slightly overcooked noodle is generally better than a two undercooked noodle, because if they're well undercooked.
+
+825
+00:51:56,524 --> 00:51:56,704
+Speaker 0: Yes.
+
+826
+00:51:57,105 --> 00:52:00,190
+Speaker 0: If you bite into a noodle that's not cooked enough, that's no bueno.
+
+827
+00:52:00,590 --> 00:52:03,215
+Speaker 0: But if you bite into a noodle that's a little overcooked, it's fine.
+
+828
+00:52:03,235 --> 00:52:03,496
+Speaker 1: Yes.
+
+829
+00:52:03,716 --> 00:52:10,770
+Speaker 1: It's basically it's like if the noodle has not been cooked enough yet, it's basically it's like absolutely inedible.
+
+830
+00:52:11,131 --> 00:52:11,331
+Speaker 1: Right.
+
+831
+00:52:11,411 --> 00:52:12,973
+Speaker 1: It's still not wet enough bread.
+
+832
+00:52:13,474 --> 00:52:23,570
+Speaker 1: And then it reaches a point where it's like it is now edible and it would be ideal to basically stop cooking it as quickly as possible and eat it once it reaches that line.
+
+833
+00:52:23,770 --> 00:52:25,274
+Speaker 1: It's like it goes from zero to one hundred.
+
+834
+00:52:25,374 --> 00:52:25,534
+Speaker 1: Yeah.
+
+835
+00:52:25,735 --> 00:52:27,539
+Speaker 1: And then once it hits one hundred, perfect.
+
+836
+00:52:27,960 --> 00:52:30,547
+Speaker 1: It slowly degrades like that's.
+
+837
+00:52:30,587 --> 00:52:31,910
+Speaker 1: only 90 percent is good now.
+
+838
+00:52:32,311 --> 00:52:33,634
+Speaker 1: Only 80 percent is good now.
+
+839
+00:52:33,954 --> 00:52:34,175
+Speaker 1: Right.
+
+840
+00:52:34,275 --> 00:52:34,636
+Speaker 1: Still good.
+
+841
+00:52:34,656 --> 00:52:35,919
+Speaker 0: It doesn't get good, but it's worse.
+
+842
+00:52:36,680 --> 00:52:37,602
+Speaker 1: It doesn't get ruined.
+
+843
+00:52:37,923 --> 00:52:38,163
+Speaker 1: Right.
+
+844
+00:52:38,504 --> 00:52:41,170
+Speaker 1: It takes quite a while for it to go to inedible again.
+
+845
+00:52:41,330 --> 00:52:41,410
+Speaker 0: Yeah.
+
+846
+00:52:41,430 --> 00:52:46,682
+Speaker 0: You got to hit that threshold because if you pull it out of the water and you drain it and it's undercooked, now you're fucked.
+
+847
+00:52:48,005 --> 00:52:50,150
+Speaker 1: You could probably put it back in some other boiling water.
+
+848
+00:52:50,250 --> 00:52:53,636
+Speaker 0: Yeah, but you probably dumped all your boiling water out when you dumped it into the calendar.
+
+849
+00:52:53,676 --> 00:52:54,357
+Speaker 0: That's the problem.
+
+850
+00:52:54,858 --> 00:52:56,622
+Speaker 1: Well, here's some noodle technique for you.
+
+851
+00:52:56,742 --> 00:53:01,230
+Speaker 1: is that you could use, you know, some sort of straining spatula and scoop it out of there.
+
+852
+00:53:01,330 --> 00:53:01,591
+Speaker 0: Yeah.
+
+853
+00:53:01,631 --> 00:53:01,811
+Speaker 0: Right.
+
+854
+00:53:02,352 --> 00:53:05,739
+Speaker 1: Is that rather than, you know, it's like, you know, it's like the different techniques.
+
+855
+00:53:05,779 --> 00:53:05,919
+Speaker 1: Right.
+
+856
+00:53:05,939 --> 00:53:11,130
+Speaker 1: You can take the you can pick up the whole pot and dump it into a calendar and now your water's gone.
+
+857
+00:53:11,690 --> 00:53:11,971
+Speaker 1: Right.
+
+858
+00:53:12,292 --> 00:53:15,199
+Speaker 1: Obviously, you would scoop some of the water out by itself to save.
+
+859
+00:53:15,239 --> 00:53:18,367
+Speaker 0: We have something catching the water I'm going to need for the cooking or the calendar.
+
+860
+00:53:18,387 --> 00:53:18,488
+Speaker 0: Right.
+
+861
+00:53:19,590 --> 00:53:28,370
+Speaker 1: But if you're like in a restaurant or if you're going to cook noodles again or you're not sure, it's like scoop the noodles out with something and the water is still there.
+
+862
+00:53:28,410 --> 00:53:32,318
+Speaker 1: You can throw another noodle in there and you can cook more noodles at the same water.
+
+863
+00:53:32,338 --> 00:53:33,000
+Speaker 1: Right.
+
+864
+00:53:33,160 --> 00:53:33,481
+Speaker 1: You don't.
+
+865
+00:53:33,521 --> 00:53:36,928
+Speaker 1: you don't need to dump the water out, you know, with the noodles in it.
+
+866
+00:53:37,008 --> 00:53:37,970
+Speaker 1: There's a better way.
+
+867
+00:53:38,210 --> 00:53:38,350
+Speaker 1: Yeah.
+
+868
+00:53:41,853 --> 00:53:42,333
+Speaker 1: Any other new.
+
+869
+00:53:42,393 --> 00:53:43,434
+Speaker 1: Oh, I could throw out.
+
+870
+00:53:43,474 --> 00:53:47,197
+Speaker 1: Give a shout out to the the the lovely udon noodle noodle.
+
+871
+00:53:47,217 --> 00:53:47,937
+Speaker 0: Such a good noodle.
+
+872
+00:53:48,598 --> 00:53:51,320
+Speaker 1: I love for its thickness, thickness, slipperiness.
+
+873
+00:53:51,700 --> 00:54:03,780
+Speaker 1: It's usually good off its cousin, the American Chinese food lo mein noodle, which seems to be the only difference between them seems to be that the lo mein noodle is a little eggier, I guess.
+
+874
+00:54:04,981 --> 00:54:07,225
+Speaker 1: And also isn't usually in a soup.
+
+875
+00:54:08,106 --> 00:54:09,288
+Speaker 1: Udon's usually in a soup.
+
+876
+00:54:09,689 --> 00:54:09,909
+Speaker 1: Right.
+
+877
+00:54:09,970 --> 00:54:13,816
+Speaker 1: Whereas a lo mein noodle is just sauced.
+
+878
+00:54:13,856 --> 00:54:15,800
+Speaker 1: It has a bunch of other foods in there.
+
+879
+00:54:16,261 --> 00:54:21,932
+Speaker 0: So I was about to say something and I decided before I said it that it's out of bounds for this episode.
+
+880
+00:54:22,954 --> 00:54:25,078
+Speaker 0: I'm going to argue that a gnocchi is not a noodle.
+
+881
+00:54:25,118 --> 00:54:25,840
+Speaker 0: It is a dumpling.
+
+882
+00:54:27,561 --> 00:54:27,921
+Speaker 1: I don't know.
+
+883
+00:54:27,982 --> 00:54:29,224
+Speaker 1: It's just a semantic argument.
+
+884
+00:54:29,244 --> 00:54:29,986
+Speaker 1: I mean, it's a pasta.
+
+885
+00:54:30,767 --> 00:54:31,128
+Speaker 0: But is it?
+
+886
+00:54:31,388 --> 00:54:35,196
+Speaker 1: I mean, it is, you know, in the terms of the wet bread argument.
+
+887
+00:54:35,296 --> 00:54:35,517
+Speaker 1: Right.
+
+888
+00:54:35,577 --> 00:54:37,200
+Speaker 1: It's like you could have potato bread.
+
+889
+00:54:37,681 --> 00:54:43,340
+Speaker 0: So it's like a wet potato bread because I just went to a restaurant supply store in bulk and gnocchi is listed under dumplings.
+
+890
+00:54:44,541 --> 00:54:44,861
+Speaker 1: Okay.
+
+891
+00:54:45,162 --> 00:54:45,322
+Speaker 1: Sure.
+
+892
+00:54:45,362 --> 00:54:54,440
+Speaker 1: I mean, you know, if I if I just take pastas and I, you know, of wheat and I make them into like a gnocchi shape, is that a dumpling?
+
+893
+00:54:56,580 --> 00:54:57,202
+Speaker 0: Hmm.
+
+894
+00:54:57,242 --> 00:54:57,984
+Speaker 0: Could be a hot dog.
+
+895
+00:54:59,247 --> 00:55:02,876
+Speaker 1: You know, what if I make little rice balls instead of a big flat rice noodle?
+
+896
+00:55:03,076 --> 00:55:04,500
+Speaker 0: I'd say that's a dumpling then.
+
+897
+00:55:05,281 --> 00:55:05,602
+Speaker 1: It could be.
+
+898
+00:55:05,622 --> 00:55:08,067
+Speaker 0: Of course, in that case, you're going to want to cook it.
+
+899
+00:55:08,087 --> 00:55:14,220
+Speaker 1: Meanwhile, an actual dumpling, when you think about a dumpling, right, is like it's a flat rice noodle and then you wrap something with it.
+
+900
+00:55:14,440 --> 00:55:17,888
+Speaker 1: And now the shape is because you sealed something inside.
+
+901
+00:55:17,949 --> 00:55:20,935
+Speaker 1: But actually the wrapper part is flat.
+
+902
+00:55:21,056 --> 00:55:22,880
+Speaker 0: And that's kind of depends on what kind of dumpling.
+
+903
+00:55:22,960 --> 00:55:23,181
+Speaker 0: What about?
+
+904
+00:55:23,201 --> 00:55:30,460
+Speaker 0: there's the kind of dumpling where you basically drip a blob of some sort of British substance into, say, a soup.
+
+905
+00:55:31,720 --> 00:55:35,950
+Speaker 0: And then it hardens and solidifies and cooks and becomes a dumpling.
+
+906
+00:55:35,991 --> 00:55:37,153
+Speaker 0: It's a very different kind of dumpling.
+
+907
+00:55:37,173 --> 00:55:38,076
+Speaker 0: I don't.
+
+908
+00:55:38,156 --> 00:55:39,880
+Speaker 0: actually I haven't made those in a while and I should.
+
+909
+00:55:40,640 --> 00:55:42,547
+Speaker 1: Is that how you make a gnocchi from scratch?
+
+910
+00:55:42,587 --> 00:55:45,538
+Speaker 1: You take like potato dough and drip it into water?
+
+911
+00:55:46,400 --> 00:55:47,284
+Speaker 0: I don't know.
+
+912
+00:55:47,405 --> 00:55:50,900
+Speaker 0: I've only ever bought gnocchis that were pre-made and cooked them.
+
+913
+00:55:51,420 --> 00:55:55,939
+Speaker 1: I have never thought to look up how to make a gnocchi because I too have only ever bought pre-made gnocchi.
+
+914
+00:55:56,241 --> 00:55:58,729
+Speaker 0: I have never made fresh pasta since I was a kid.
+
+915
+00:55:58,749 --> 00:56:01,198
+Speaker 0: I don't even have the stuff to make it.
+
+916
+00:56:02,260 --> 00:56:02,361
+Speaker 1: Yeah.
+
+917
+00:56:02,381 --> 00:56:04,412
+Speaker 1: The thing about making pasta is pretty easy.
+
+918
+00:56:04,432 --> 00:56:05,458
+Speaker 1: You just make a dough, right?
+
+919
+00:56:06,361 --> 00:56:06,463
+Speaker 1: Yeah.
+
+920
+00:56:06,483 --> 00:56:07,380
+Speaker 0: Extrude it for something.
+
+921
+00:56:08,220 --> 00:56:08,300
+Speaker 1: Yeah.
+
+922
+00:56:08,320 --> 00:56:09,443
+Speaker 1: And then you have to shaping.
+
+923
+00:56:09,484 --> 00:56:10,466
+Speaker 1: it is where the work is.
+
+924
+00:56:10,547 --> 00:56:10,767
+Speaker 1: Right.
+
+925
+00:56:10,787 --> 00:56:15,240
+Speaker 1: And on the one hand, it's like you could just go with a simple shape with a pasta machine.
+
+926
+00:56:16,221 --> 00:56:18,207
+Speaker 1: But it's actually kind of more work than it.
+
+927
+00:56:18,267 --> 00:56:20,454
+Speaker 1: Like whenever you watch videos, you're like, that looks easy.
+
+928
+00:56:20,815 --> 00:56:22,280
+Speaker 1: And then you try to do it yourself.
+
+929
+00:56:22,400 --> 00:56:27,420
+Speaker 1: And it's like, oh, I have to crank this thing a lot and keep running the dough through it a lot.
+
+930
+00:56:27,801 --> 00:56:31,240
+Speaker 1: And then it's like it turns into a whole arts and crafts project, the shaping part.
+
+931
+00:56:31,420 --> 00:56:42,700
+Speaker 1: It's like you see those people who are like, you know, noodle experts who will like cut the noodle in half, fold it, cut it in half, fold it, cut it, fold it, cut it, fold it to make like a million noodles out of one dough blob.
+
+932
+00:56:43,321 --> 00:56:45,126
+Speaker 1: And it's like they make it look so easy.
+
+933
+00:56:45,146 --> 00:56:45,988
+Speaker 1: You go try to do that.
+
+934
+00:56:46,008 --> 00:56:48,033
+Speaker 1: It's a pain in the ass, right?
+
+935
+00:56:48,274 --> 00:56:50,480
+Speaker 1: To hold it correctly so that it doesn't become a big mess.
+
+936
+00:56:50,640 --> 00:56:53,145
+Speaker 1: And also it's heavy and you got to lift the whole thing up and fold.
+
+937
+00:56:53,185 --> 00:56:53,426
+Speaker 1: Right.
+
+938
+00:56:53,787 --> 00:56:58,215
+Speaker 1: It's like, you know, it's one of those things where they make it look easy, but it ain't easy.
+
+939
+00:56:59,999 --> 00:57:00,420
+Speaker 1: It's not.
+
+940
+00:57:03,180 --> 00:57:05,429
+Speaker 0: This has been Geek Nights with Rim and Scott.
+
+941
+00:57:05,490 --> 00:57:08,000
+Speaker 0: Special thanks to DJ Pretzel for the opening theme.
+
+942
+00:57:08,200 --> 00:57:14,220
+Speaker 1: Be sure to visit our website at FrontRowClue.com for show notes, discussion, links and more.
+
+943
+00:57:14,701 --> 00:57:17,385
+Speaker 0: Remember, Geek Nights is not one, but four different shows.
+
+944
+00:57:17,686 --> 00:57:19,349
+Speaker 0: Mondays are science and technology.
+
+945
+00:57:19,389 --> 00:57:21,132
+Speaker 0: Tuesdays, gaming and games.
+
+946
+00:57:21,252 --> 00:57:23,075
+Speaker 0: Wednesdays are animation and comics.
+
+947
+00:57:23,396 --> 00:57:25,880
+Speaker 0: Thursdays are arbitrary and indiscriminate.
+
+948
+00:57:26,600 --> 00:57:31,440
+Speaker 0: Geek Nights is distributed under a Creative Commons Attribution 4.0 international license.
+
+949
+00:57:32,020 --> 00:57:36,230
+Speaker 1: Geek Nights is recorded live with no studio and no audience.
+
+950
+00:57:36,732 --> 00:57:40,200
+Speaker 1: But unlike those other late shows, it's actually recorded at night.
+
+951
+00:57:40,520 --> 00:57:49,674
+Speaker 0: And the Patreon patrons for this particular episode of Geek Nights are Alan Joyce, Link Iggi, Dread, Lily, Tenebrae, Kace, Cara, MixMusic, Krista Dodd, Christopher, Clinton, Walton, Finn, Joel Hayes, Penny Ryan, Rebecca Adams, Sam Erickson, Trevor
+
+952
+00:57:49,694 --> 00:57:49,995
+Speaker 1: Monroe,
+
+953
+00:57:50,475 --> 00:57:53,480
+Speaker 0: and a bunch of people who do not want me to say their names.
+
+954
+00:57:54,400 --> 00:58:01,558
+Speaker 0: Tonight, now that we have a surplus of Thursday episodes we could do that'll take us at least through the next few months, I'm going to leave you with...
+
+955
+00:58:02,866 --> 00:58:04,098
+Speaker 1: We're going to be talking about the...
+
+956
+00:58:05,743 --> 00:58:10,228
+Speaker 0: We'll be talking about the... Do you think that's funny, butthead?
+
+957
+00:58:10,489 --> 00:58:13,079
+Speaker 0: Do you find it amusing that we'll be talking about the...
+
+958
+00:58:14,942 --> 00:58:21,460
+Speaker 1: Yes, we're also going to be talking about... The...
+
+959
+00:58:23,012 --> 00:58:27,889
+Speaker 0: And... And we will definitely be spending a lot of time talking about...
+

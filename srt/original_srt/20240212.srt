@@ -1,0 +1,4992 @@
+﻿1
+00:00:07,260 --> 00:00:09,217
+Speaker 1: It's Monday, February 12th, 2024.
+
+2
+00:00:09,217 --> 00:00:12,447
+Speaker 1: I'm Rym, and I'm Scott, and this is Geek Nights.
+
+3
+00:00:13,850 --> 00:00:16,689
+Speaker 1: Tonight we are talking about switching to Mac.
+
+4
+00:00:18,631 --> 00:00:19,648
+Speaker 0: Let's do this.
+
+5
+00:00:20,990 --> 00:00:32,930
+Speaker 1: So the owl, the superb owl happened over the weekend, and you know, while we went into this, I think repeatedly saying on Geek Nights to our friends that we were both extremely unexcited about the Super Bowl.
+
+6
+00:00:33,010 --> 00:00:38,210
+Speaker 1: Like, less excited than, have often been excited, despite that bar being pretty low.
+
+7
+00:00:39,291 --> 00:00:50,940
+Speaker 1: It ended up actually being a pretty good game of football, with the caveat that I don't know if it was good so much as close and exciting, because how many fucking flags were there?
+
+8
+00:00:51,222 --> 00:00:52,630
+Speaker 1: How many ridiculous fumbles?
+
+9
+00:00:53,090 --> 00:00:54,157
+Speaker 0: There weren't that many flags.
+
+10
+00:00:54,177 --> 00:00:56,070
+Speaker 0: There were a bunch in the beginning on a few drives.
+
+11
+00:00:56,330 --> 00:01:01,850
+Speaker 1: There were a lot in the middle too, and there was even- There usually weren't any major flags, right?
+
+12
+00:01:02,456 --> 00:01:07,870
+Speaker 1: Well, there was the one- Sometimes you get those past interference ones- When Watch's name walked over and just smacked the guy in the face.
+
+13
+00:01:08,432 --> 00:01:09,170
+Speaker 0: Well, that was stupid.
+
+14
+00:01:09,630 --> 00:01:10,549
+Speaker 1: That was extremely stupid.
+
+15
+00:01:11,192 --> 00:01:12,529
+Speaker 0: That was not a good idea.
+
+16
+00:01:13,630 --> 00:01:21,848
+Speaker 1: But I remember about ten minutes before the clock was gonna round out, I started googling, like, "How does overtime work now in the
+
+17
+00:01:21,868 --> 00:01:22,210
+Speaker 1: postseason?".
+
+18
+00:01:22,210 --> 00:01:24,605
+Speaker 0: Because they've changed it since I've cared about football.
+
+19
+00:01:24,625 --> 00:01:25,410
+Speaker 0: Yeah, they changed.
+
+20
+00:01:25,770 --> 00:01:25,870
+Speaker 1: Yep.
+
+21
+00:01:26,292 --> 00:01:29,402
+Speaker 1: And I gotta say, I think the new rules for overtime are, considering the mess-
+
+22
+00:01:31,830 --> 00:01:31,951
+Speaker 0: Yeah,
+
+23
+00:01:32,212 --> 00:01:47,270
+Speaker 1: but considering the mess of what NFL or gridiron football rules are, I feel like they're a pretty good game design for overtime, because all the things I can think of that would be "better" would not work for broadcast TV in any reasonable way.
+
+24
+00:01:47,870 --> 00:01:51,790
+Speaker 1: So yeah, overtime, this is what, the second Super Bowl in history to go into overtime.
+
+25
+00:01:52,430 --> 00:01:54,950
+Speaker 0: Yeah, I wonder if they like the overtime or if they don't, right?
+
+26
+00:01:55,010 --> 00:02:07,890
+Speaker 0: Because on the one hand, it's like, you know, you're keeping people watching longer, I guess you're getting more ad spots, but then you're sort of, you know, whoever network runs the Super Bowl really cares about the show that's on immediately after.
+
+27
+00:02:08,551 --> 00:02:14,229
+Speaker 0: People aren't just gonna go home from the party, they're gonna sit there and watch whatever garbage you've got on next.
+
+28
+00:02:14,911 --> 00:02:26,307
+Speaker 1: The storied tradition of "put a thing that you're desperately trying to shove into people's eyeballs on right after a thing you know those eyeballs are welcoming in" has never worked, but they always try it.
+
+29
+00:02:28,011 --> 00:02:32,868
+Speaker 1: Just like when Seinfeld would be on and then Mad About You would come on in syndication and you would just turn that TV off.
+
+30
+00:02:33,850 --> 00:02:37,050
+Speaker 0: Yep, you know what I would do if I ran the Super Bowl, right?
+
+31
+00:02:37,830 --> 00:02:41,130
+Speaker 0: You know, they use a lot of ad spots during the Super Bowl for themselves.
+
+32
+00:02:41,330 --> 00:02:43,469
+Speaker 0: There are literal CBS ads, Fox ads.
+
+33
+00:02:43,790 --> 00:02:49,110
+Speaker 1: I feel like CBS had more ads than is typical, but I don't have any data to back that up.
+
+34
+00:02:50,210 --> 00:02:52,770
+Speaker 0: I mean, you know, there's always a certain number that they block out for themselves.
+
+35
+00:02:52,770 --> 00:02:56,750
+Speaker 1: Well, because we know Paramount Plus is kind of desperate for attention and CBS ain't doing great either.
+
+36
+00:02:56,750 --> 00:02:58,157
+Speaker 0: Yeah, that's how we watched the Super Bowl.
+
+37
+00:02:58,178 --> 00:03:00,490
+Speaker 0: I got a free trial and then I deleted it immediately.
+
+38
+00:03:01,252 --> 00:03:03,470
+Speaker 1: Well, because Paramount Plus has exactly two uses.
+
+39
+00:03:03,670 --> 00:03:07,030
+Speaker 1: Watch the Super Bowl once this one time or watch Star Trek.
+
+40
+00:03:07,790 --> 00:03:16,770
+Speaker 0: Right, so what I would do if I was running the Super Bowl and I wanted to get people to keep watching that show that's on immediately after, right?
+
+41
+00:03:17,411 --> 00:03:19,550
+Speaker 0: Is I would say fuck all those ads, right?
+
+42
+00:03:19,650 --> 00:03:28,689
+Speaker 0: What we're going to do is we're going to take the first several minutes of the show that are really gripping and just start showing you the show.
+
+43
+00:03:29,111 --> 00:03:33,230
+Speaker 0: Like in the first quarter, you get like a couple of minutes of the show.
+
+44
+00:03:33,572 --> 00:03:35,989
+Speaker 0: In the second quarter, you get a couple of minutes more of the show.
+
+45
+00:03:36,350 --> 00:03:38,649
+Speaker 0: In the third quarter, you get a couple more minutes of the show.
+
+46
+00:03:39,170 --> 00:03:44,010
+Speaker 0: In the fourth quarter, so you've already seen like probably eight to ten minutes of this show, right?
+
+47
+00:03:44,730 --> 00:03:46,368
+Speaker 0: Out of however long the episode is.
+
+48
+00:03:47,233 --> 00:03:50,429
+Speaker 0: And it's like, you know, obviously you have some kind of cliffhanger, right?
+
+49
+00:03:50,750 --> 00:03:52,669
+Speaker 0: You've got to have a really good opening.
+
+50
+00:03:52,990 --> 00:03:57,690
+Speaker 1: So all I'm imagining now is after the first quarter, you get episode one of Monica.
+
+51
+00:03:58,255 --> 00:03:59,210
+Speaker 1: Obviously it would have to be shorter.
+
+52
+00:03:59,610 --> 00:04:08,850
+Speaker 1: Then episode two, then episode three, and they show you the episode where everything changes right at the end of the Super Bowl before the overtime.
+
+53
+00:04:10,951 --> 00:04:16,790
+Speaker 0: Right, but basically it's like you've seen enough of this episode of show to know if you like it, if you care.
+
+54
+00:04:17,269 --> 00:04:18,589
+Speaker 0: You want to see what's going to happen in it.
+
+55
+00:04:19,010 --> 00:04:21,029
+Speaker 0: And then, Super Bowl's over, but guess what?
+
+56
+00:04:21,130 --> 00:04:23,989
+Speaker 0: Now you can watch the rest of that episode that you're hooked on.
+
+57
+00:04:24,490 --> 00:04:25,570
+Speaker 0: It's premiering, right?
+
+58
+00:04:25,590 --> 00:04:34,389
+Speaker 1: So one listener said that there is data showing that most years throughout television history, whatever show they put after the Super Bowl ends up in the top 100 of that year.
+
+59
+00:04:35,852 --> 00:04:41,130
+Speaker 1: I don't know if that-- Right, but the problem is, is that-- That's also the show they're promoting anyway.
+
+60
+00:04:41,612 --> 00:04:44,010
+Speaker 1: So it's hard to say if the Super Bowl had any effect on that.
+
+61
+00:04:44,212 --> 00:04:46,230
+Speaker 0: Sure, but I'm sure it has some impact.
+
+62
+00:04:46,670 --> 00:04:48,810
+Speaker 1: But also top 100, how many TV shows are there a year?
+
+63
+00:04:49,370 --> 00:04:56,950
+Speaker 0: Right, but I question severely all broadcast and cable television ratings because of the way Nielsen works, right?
+
+64
+00:04:57,973 --> 00:05:00,570
+Speaker 0: They don't actually count the way you count on the internet.
+
+65
+00:05:00,650 --> 00:05:06,143
+Speaker 0: When you have 100 Twitch viewers, you pretty much know there might be bots, but you got 100 people, right?
+
+66
+00:05:07,611 --> 00:05:32,050
+Speaker 0: I think, I strongly believe, even though I have no evidence, right, that if they got rid of the Nielsen survey and they could count the actual number of televisions that were tuned into a channel at all times with real data, that it would be basically a major collapse of the entire industry as they realized the number of viewers was orders of magnitude less.
+
+67
+00:05:32,150 --> 00:05:45,570
+Speaker 1: I mean, considering the numbers we see from things where you can count, like Twitch and YouTube, a lot of people watch the League of Legends Championship, and I wonder what that number looks like compared to how many they say watch the Super Bowl.
+
+68
+00:05:47,054 --> 00:05:48,710
+Speaker 0: Yup, I am extremely curious.
+
+69
+00:05:49,652 --> 00:05:51,885
+Speaker 1: The other listener just says Gabbo, Gabbo, Gabbo.
+
+70
+00:05:53,330 --> 00:05:53,954
+Speaker 0: That's right.
+
+71
+00:05:54,437 --> 00:05:56,370
+Speaker 0: But Gabbo is like, that's what I'm saying.
+
+72
+00:05:56,751 --> 00:06:01,048
+Speaker 0: That's actually having you teased and questioning, "What is
+
+73
+00:06:01,068 --> 00:06:01,449
+Speaker 0: Gabbo?".
+
+74
+00:06:01,831 --> 00:06:07,350
+Speaker 0: But the ads they have for the TV show coming up next, they're not making you excited for it.
+
+75
+00:06:07,470 --> 00:06:09,364
+Speaker 0: They're just like, "This is what kind of show it is.
+
+76
+00:06:09,424 --> 00:06:09,706
+Speaker 0: It's on
+
+77
+00:06:09,747 --> 00:06:10,130
+Speaker 0: immediately.".
+
+78
+00:06:10,210 --> 00:06:12,121
+Speaker 0: And they literally say, "It's on right after the Super Bowl.
+
+79
+00:06:12,161 --> 00:06:12,845
+Speaker 0: Watch this show.
+
+80
+00:06:12,905 --> 00:06:13,187
+Speaker 0: It's on
+
+81
+00:06:13,247 --> 00:06:13,448
+Speaker 0: next.".
+
+82
+00:06:13,811 --> 00:06:15,369
+Speaker 0: But they don't make you care about that show.
+
+83
+00:06:16,310 --> 00:06:21,198
+Speaker 1: Yup, you got to see Spike pulling out a gun on Vicious, and then it's like, "You want to see more?
+
+84
+00:06:21,238 --> 00:06:22,426
+Speaker 1: We'll wait until after the rest of this
+
+85
+00:06:22,466 --> 00:06:22,707
+Speaker 1: game.".
+
+86
+00:06:23,291 --> 00:06:32,410
+Speaker 1: So I don't have a news so much as I have designed my new workstation computer, which I'm doing the exact opposite of what Scott did for the main bit.
+
+87
+00:06:32,550 --> 00:06:37,890
+Speaker 1: Scott has migrated with a few important but good caveats to Mac.
+
+88
+00:06:38,332 --> 00:06:42,850
+Speaker 1: And meanwhile, I am basically building the same computer I have now, but faster.
+
+89
+00:06:43,570 --> 00:06:46,990
+Speaker 1: And the only reason I'm building a computer is, well, two reasons.
+
+90
+00:06:47,490 --> 00:06:53,770
+Speaker 1: One, Windows 11 does not support my ancient sixth generation CPU.
+
+91
+00:06:55,030 --> 00:07:02,737
+Speaker 0: The CPU that I have is basically quite almost the oldest one that will support Windows 11.
+
+92
+00:07:02,737 --> 00:07:03,730
+Speaker 1: Yup, I built this workstation.
+
+93
+00:07:03,970 --> 00:07:05,589
+Speaker 0: The same cannot be said for the sad HTPC.
+
+94
+00:07:05,952 --> 00:07:09,590
+Speaker 1: Yup, I built this workstation in 2015, and it's still great.
+
+95
+00:07:10,050 --> 00:07:24,390
+Speaker 1: But reason number two, with the most recent updates to Adobe Creative Cloud, like the last one that happened, Lightroom is CPU bound to an extreme degree now, and Audition is also a little bit CPU bound.
+
+96
+00:07:25,191 --> 00:07:32,551
+Speaker 1: I'm starting to actually run into problems with my i7-6700K in the year 2024.
+
+97
+00:07:32,551 --> 00:07:34,350
+Speaker 1: So it's time to build a new computer.
+
+98
+00:07:35,393 --> 00:07:47,710
+Speaker 1: And I actually did a lot of research because my plan is to do the exact same thing I did last time, which was I'm going to design the most ridiculous computer I could possibly build that fits within the consumer prosumer sphere.
+
+99
+00:07:48,271 --> 00:07:56,891
+Speaker 1: And then I'm going to scale it back a bit from like the bleeding edge 4090 back to the half price 4080.
+
+100
+00:07:56,891 --> 00:08:06,950
+Speaker 1: The bleeding edge ridiculous RAM back to whatever RAM is at that plateau of pricing and just try to build another computer that will last as long as this computer that I built in 2016.
+
+101
+00:08:06,950 --> 00:08:08,650
+Speaker 1: Well, late 2015.
+
+102
+00:08:08,650 --> 00:08:14,530
+Speaker 0: I mean, I'll talk about this more when I talk about the Mac situation, but it's like a PC is upgradable, right?
+
+103
+00:08:14,610 --> 00:08:20,330
+Speaker 0: So there is less reason to spend a shit ton of money to get longevity at the start, right?
+
+104
+00:08:20,570 --> 00:08:25,410
+Speaker 1: Well, it depends on what you're spending that money on because some things are upgradable and some things aren't.
+
+105
+00:08:26,636 --> 00:08:27,490
+Speaker 0: Most things are upgradable.
+
+106
+00:08:27,570 --> 00:08:30,930
+Speaker 1: You know what's not upgradable in any reasonable circumstance on Intel?
+
+107
+00:08:31,251 --> 00:08:34,850
+Speaker 1: The CPU, because the socket changes, the architecture changes.
+
+108
+00:08:35,551 --> 00:08:37,210
+Speaker 0: Yeah, but a motherboard is not expensive.
+
+109
+00:08:37,671 --> 00:08:38,827
+Speaker 0: You know, it's for this.
+
+110
+00:08:39,030 --> 00:08:42,490
+Speaker 1: This motherboard is expensive, but that's because it has PCIe 5 support.
+
+111
+00:08:43,857 --> 00:08:44,690
+Speaker 0: It probably won't matter.
+
+112
+00:08:45,071 --> 00:08:49,730
+Speaker 0: But also, you know, the thing is, it's like you can only upgrade the Intel CPU so much.
+
+113
+00:08:49,891 --> 00:08:55,270
+Speaker 0: It's like the difference between the i7 and the i9 is like a lot of money, like a few hundred dollars.
+
+114
+00:08:55,914 --> 00:08:58,310
+Speaker 0: And the actual performance difference is basically nothing.
+
+115
+00:08:58,890 --> 00:09:05,730
+Speaker 0: It's like the i9 is like you're spending a bunch of money for like the most diminishing possible return.
+
+116
+00:09:05,890 --> 00:09:10,970
+Speaker 0: The only way to get the return on that investment is if you're some ridiculous overclocking nerd.
+
+117
+00:09:11,350 --> 00:09:18,590
+Speaker 0: You've got like a little bit more safety hoping that, you know, it's like the best possible binning of the CPU.
+
+118
+00:09:18,990 --> 00:09:21,230
+Speaker 0: It's not actually faster or better.
+
+119
+00:09:21,350 --> 00:09:26,262
+Speaker 1: Well, the interesting thing is right now for the Intels, the price difference between the i7 and the i9 is like 130 to 150 bucks.
+
+120
+00:09:29,950 --> 00:09:35,410
+Speaker 0: Yeah, that's a lot of money for basically when you look, even the benchmarks, which, you know, are only telling you so much.
+
+121
+00:09:35,952 --> 00:09:39,630
+Speaker 0: The difference between them benchmark wise is like almost nothing.
+
+122
+00:09:40,070 --> 00:09:41,570
+Speaker 0: It's like they're nearly identical.
+
+123
+00:09:41,710 --> 00:09:44,470
+Speaker 1: Well, the stat I zeroed in on was not so much.
+
+124
+00:09:44,670 --> 00:09:47,005
+Speaker 0: So I'm spending a hundred dollars in change for nothing.
+
+125
+00:09:48,494 --> 00:09:51,930
+Speaker 1: The thing I actually zeroed in on was with the more efficiency cores.
+
+126
+00:09:52,271 --> 00:10:00,050
+Speaker 1: There are some stats showing that the i9s for baseline load when you're not doing crazy stuff will use less power in many circumstances.
+
+127
+00:10:01,570 --> 00:10:10,489
+Speaker 0: That's very questionable, but I firmly believe that if someone bought an i9 and someone snuck into their house and swapped it out for an i7.
+
+128
+00:10:10,931 --> 00:10:15,469
+Speaker 0: And they didn't actually check the number and like their system device manager, they would never know.
+
+129
+00:10:16,031 --> 00:10:24,287
+Speaker 1: Well, depends, because I do have some workflows that even when I when the original days when I got the i7 6700K, they were a hundred percent CPU bound.
+
+130
+00:10:26,452 --> 00:10:28,710
+Speaker 1: And one of those is the warp stabilizer in Premiere.
+
+131
+00:10:28,850 --> 00:10:34,490
+Speaker 0: That thing will use any amount of CPU and how much time is it going to make one second faster?
+
+132
+00:10:35,130 --> 00:10:36,830
+Speaker 1: So the warp stabilizer, what do we tell you?
+
+133
+00:10:36,930 --> 00:10:38,341
+Speaker 0: It's not going to save you 30 minutes.
+
+134
+00:10:38,442 --> 00:10:39,510
+Speaker 0: It's for a hundred dollars.
+
+135
+00:10:39,912 --> 00:10:40,133
+Speaker 0: Right.
+
+136
+00:10:40,174 --> 00:10:42,369
+Speaker 0: You could get a lot of stuff for a hundred dollars.
+
+137
+00:10:43,031 --> 00:10:44,334
+Speaker 1: Not in this economy.
+
+138
+00:10:44,354 --> 00:10:50,890
+Speaker 1: A hundred bucks is like two nice dinners in Manhattan or three nice dinners in Queens.
+
+139
+00:10:51,750 --> 00:10:52,307
+Speaker 0: That's pretty good.
+
+140
+00:10:53,211 --> 00:10:54,467
+Speaker 1: So the first thing is nothing.
+
+141
+00:10:55,710 --> 00:11:00,270
+Speaker 1: So cases have changed a bunch and I was digging around and I feel like the NXZTs are still the best ones.
+
+142
+00:11:00,950 --> 00:11:05,530
+Speaker 0: But there's a lot of cases out there, you know, that have various qualities of goodness and badness.
+
+143
+00:11:05,991 --> 00:11:06,191
+Speaker 1: Yeah.
+
+144
+00:11:06,231 --> 00:11:16,690
+Speaker 1: Based on all my research, I have I am convinced the NZXT H series, if you're building like a prop, a regular old mid tower, one, they're cheaper than a lot of the other cases.
+
+145
+00:11:16,951 --> 00:11:20,046
+Speaker 1: And two, I've never gone wrong with an NZXT case.
+
+146
+00:11:21,050 --> 00:11:22,289
+Speaker 1: If you also get their AIO.
+
+147
+00:11:22,491 --> 00:11:23,683
+Speaker 0: All one that you've bought.
+
+148
+00:11:23,743 --> 00:11:24,389
+Speaker 0: You didn't go wrong.
+
+149
+00:11:24,690 --> 00:11:25,293
+Speaker 1: I bought three.
+
+150
+00:11:25,555 --> 00:11:26,540
+Speaker 1: I bought three different ones.
+
+151
+00:11:26,620 --> 00:11:28,410
+Speaker 1: Emily, when we built her computer was also one.
+
+152
+00:11:28,711 --> 00:11:28,751
+Speaker 1: OK.
+
+153
+00:11:29,395 --> 00:11:30,521
+Speaker 0: But yeah, it's like the other.
+
+154
+00:11:30,601 --> 00:11:32,310
+Speaker 0: the other ones are probably just fine.
+
+155
+00:11:32,470 --> 00:11:35,490
+Speaker 0: You know, you could probably just go fine with a ruler master or a Lian Li.
+
+156
+00:11:35,670 --> 00:11:36,650
+Speaker 0: They're probably all just fine.
+
+157
+00:11:36,990 --> 00:11:49,610
+Speaker 1: The Lian Li's, all the reviews I read were people complaining that the panel, the way you like open the panel to get into it and the easy access stuff just snaps off or it doesn't work or doesn't hold it tight or all these weird problems.
+
+158
+00:11:49,911 --> 00:11:51,947
+Speaker 1: I didn't see anyone saying that about the NZXTs.
+
+159
+00:11:52,630 --> 00:11:55,050
+Speaker 0: The point is whichever one you get is probably fine.
+
+160
+00:11:55,090 --> 00:11:58,584
+Speaker 0: And it's like you've already got one, you know, it's like, OK, fine.
+
+161
+00:11:58,665 --> 00:12:00,010
+Speaker 0: Just stick with your brand loyalty.
+
+162
+00:12:00,130 --> 00:12:00,794
+Speaker 0: I'd probably buy.
+
+163
+00:12:00,855 --> 00:12:01,740
+Speaker 0: I have an NZXT.
+
+164
+00:12:01,821 --> 00:12:03,270
+Speaker 0: I'd probably also buy another one.
+
+165
+00:12:03,450 --> 00:12:05,090
+Speaker 1: I did look around for this one's fine.
+
+166
+00:12:05,231 --> 00:12:06,365
+Speaker 0: Why wouldn't a new one be fine?
+
+167
+00:12:06,447 --> 00:12:06,669
+Speaker 0: Why?
+
+168
+00:12:07,270 --> 00:12:10,557
+Speaker 0: Why go gambling with some, you know, the annoying part stick with.
+
+169
+00:12:10,578 --> 00:12:16,090
+Speaker 1: what you're familiar with was a lot of cases don't have filters on the intakes anymore.
+
+170
+00:12:16,551 --> 00:12:18,945
+Speaker 1: But the NZXTs, the H5s, the H7s do.
+
+171
+00:12:19,930 --> 00:12:21,929
+Speaker 1: But a lot of other cases just don't anymore.
+
+172
+00:12:23,735 --> 00:12:25,310
+Speaker 1: And I don't want to have to like build one myself.
+
+173
+00:12:25,570 --> 00:12:28,750
+Speaker 1: So I feel like that is that is still a hard requirement for me on a new computer.
+
+174
+00:12:28,830 --> 00:12:30,670
+Speaker 1: It has to have a real dust filter on the intakes.
+
+175
+00:12:33,250 --> 00:12:36,570
+Speaker 1: And the other major decision was you can build a computer now.
+
+176
+00:12:36,891 --> 00:12:39,143
+Speaker 1: You don't need any SSDs with SATA.
+
+177
+00:12:39,384 --> 00:12:40,510
+Speaker 1: You don't need any spinning disks.
+
+178
+00:12:41,150 --> 00:12:45,389
+Speaker 1: Like modern nice motherboards have like four or five M.2 slots.
+
+179
+00:12:46,191 --> 00:12:52,790
+Speaker 1: And M.2 drives are really, really cheap and they still come in like two to four terabyte sizes.
+
+180
+00:12:55,071 --> 00:12:55,574
+Speaker 1: There's going to be.
+
+181
+00:12:55,795 --> 00:12:58,270
+Speaker 1: all the storage is going to be connected directly to this motherboard.
+
+182
+00:12:59,491 --> 00:13:00,133
+Speaker 0: But it's actually.
+
+183
+00:13:00,153 --> 00:13:05,850
+Speaker 0: it's super great for when you want to build a tiny computer because you could just get a motherboard, put some M2s on it.
+
+184
+00:13:05,970 --> 00:13:07,417
+Speaker 0: And it's like you're basically just.
+
+185
+00:13:07,498 --> 00:13:09,448
+Speaker 0: it's like a laptop, but it doesn't have the rest of it.
+
+186
+00:13:09,930 --> 00:13:19,570
+Speaker 1: And to give you a sense of these prices, so a Samsung Vinand M.2 SSD, the 990 Pro, which has the longer warranty and the longer...
+
+187
+00:13:19,710 --> 00:13:20,804
+Speaker 0: You can just get the EVO ones.
+
+188
+00:13:20,824 --> 00:13:21,551
+Speaker 0: You don't need the... Oh, yeah.
+
+189
+00:13:21,571 --> 00:13:26,550
+Speaker 1: But I'm saying as a price point, a one terabyte 990 Pro is one hundred bucks.
+
+190
+00:13:27,643 --> 00:13:27,769
+Speaker 0: Yep.
+
+191
+00:13:28,610 --> 00:13:32,448
+Speaker 1: That's not that the four terabyte is three hundred bucks of that same one.
+
+192
+00:13:34,172 --> 00:13:37,731
+Speaker 1: The prices are real good on that stuff for PCIe 4.
+
+193
+00:13:37,731 --> 00:13:50,030
+Speaker 1: And I decided to go with the 990 Pro partly because my existing 980 Pro, I have pushed that thing like crazy and it has never failed or generated significant heat or anything.
+
+194
+00:13:50,111 --> 00:13:52,270
+Speaker 1: And I'm going to keep using it, actually, in the new computer.
+
+195
+00:13:52,852 --> 00:13:56,010
+Speaker 1: But I'm getting a 990 Pro for like the new boot drive.
+
+196
+00:13:56,851 --> 00:13:57,572
+Speaker 1: But I did decide.
+
+197
+00:13:57,593 --> 00:14:06,692
+Speaker 1: in the end, the major decision I think is worth talking about is I did a lot of research specifically on PCIe 5 drives as opposed to 4.
+
+198
+00:14:06,692 --> 00:14:08,456
+Speaker 1: And they are faster.
+
+199
+00:14:08,777 --> 00:14:13,570
+Speaker 1: They are almost twice as fast on both sequential reads and random reads.
+
+200
+00:14:13,830 --> 00:14:15,590
+Speaker 1: Like their bandwidth is ridiculous.
+
+201
+00:14:16,551 --> 00:14:23,050
+Speaker 1: However, one, unless you get an expensive motherboard, they're going to run a PCIe 4 on most PCs.
+
+202
+00:14:23,955 --> 00:14:25,410
+Speaker 1: But there's a worse problem.
+
+203
+00:14:26,530 --> 00:14:36,690
+Speaker 1: PCIe 5 drives, any of them, even the expensive ones, generate so much heat that it's not like, oh, you could get a heat sink if you're worried about performance.
+
+204
+00:14:37,052 --> 00:14:41,150
+Speaker 1: They are like, you have to put a heat sink on this or it might fail.
+
+205
+00:14:42,411 --> 00:14:46,690
+Speaker 1: They generate so much heat that I think it's too soon to get one of those drives.
+
+206
+00:14:47,932 --> 00:14:51,110
+Speaker 1: They're not actually even that expensive, but not many people are making them.
+
+207
+00:14:51,190 --> 00:14:53,370
+Speaker 1: And the one that all the gamers are buying is the Crucial.
+
+208
+00:14:54,150 --> 00:14:57,910
+Speaker 1: And they get so hot that I am uncomfortable having that in my computer.
+
+209
+00:14:57,970 --> 00:15:05,350
+Speaker 1: So I'm sticking with PCIe 4 drives for the first build because, like you said in the beginning, the easiest thing to upgrade on a computer is storage.
+
+210
+00:15:05,630 --> 00:15:08,281
+Speaker 1: You just buy a new hard drive two years later.
+
+211
+00:15:08,582 --> 00:15:10,449
+Speaker 1: that costs half of what it would cost to buy today.
+
+212
+00:15:12,252 --> 00:15:19,210
+Speaker 0: If you just look at the PC world, the only people making PCs these days are professionals and gamers.
+
+213
+00:15:19,210 --> 00:15:21,504
+Speaker 1: Gamers, 3D developers, studio people.
+
+214
+00:15:22,850 --> 00:15:29,350
+Speaker 0: So it's pretty much what it's become is it's become sort of this ridiculous world of selling hot rods.
+
+215
+00:15:29,550 --> 00:15:38,010
+Speaker 0: If you went to the car dealer and every single car had the engine sticking out of the roof, you're going to the car show and five exhausts on the back.
+
+216
+00:15:38,551 --> 00:15:38,772
+Speaker 0: Right.
+
+217
+00:15:39,192 --> 00:15:47,550
+Speaker 0: And it's like, you know, if you even if you're a professional or some gamer, it's like that's actually too much.
+
+218
+00:15:47,951 --> 00:15:48,211
+Speaker 0: Right.
+
+219
+00:15:48,251 --> 00:15:57,370
+Speaker 0: It's like you can get if you just get a stock, you know, Toyota, Honda, Ford, little normal car with four doors, just a little sedan car.
+
+220
+00:15:57,751 --> 00:16:01,463
+Speaker 0: It's like those things still go one hundred plus.
+
+221
+00:16:01,884 --> 00:16:02,045
+Speaker 0: Right.
+
+222
+00:16:02,085 --> 00:16:03,690
+Speaker 0: They still go insanely fast.
+
+223
+00:16:04,273 --> 00:16:04,515
+Speaker 0: Right.
+
+224
+00:16:04,958 --> 00:16:06,650
+Speaker 0: The hot rod stuff is sort of nonsense.
+
+225
+00:16:07,610 --> 00:16:14,950
+Speaker 0: So it's like if I was going to, you know, if I had I'm sure I will eventually buy another PC when there's a game that I need to play.
+
+226
+00:16:15,190 --> 00:16:19,063
+Speaker 1: But like you thought I would get basically the fastest computer.
+
+227
+00:16:19,384 --> 00:16:21,130
+Speaker 0: that is not a hot rod.
+
+228
+00:16:21,330 --> 00:16:23,430
+Speaker 0: The engine is not sticking out of the roof right now.
+
+229
+00:16:23,832 --> 00:16:25,749
+Speaker 1: There's only one exhaust in the back.
+
+230
+00:16:26,291 --> 00:16:30,008
+Speaker 1: A PCI drive is a giant exhaust pipe sticking out of the front of your engine like it is.
+
+231
+00:16:30,650 --> 00:16:31,213
+Speaker 1: It's too soon.
+
+232
+00:16:31,253 --> 00:16:31,836
+Speaker 1: It's too hot.
+
+233
+00:16:32,037 --> 00:16:34,690
+Speaker 1: And no game will benefit from that.
+
+234
+00:16:34,770 --> 00:16:38,629
+Speaker 1: The only thing that could benefit from that are extremely high IO bound.
+
+235
+00:16:39,850 --> 00:16:45,511
+Speaker 0: Well, we used to say here's the thing is we used to say, oh, yes, your monitor is only, you know, 60.
+
+236
+00:16:45,511 --> 00:16:45,792
+Speaker 0: Right.
+
+237
+00:16:45,852 --> 00:16:50,870
+Speaker 0: So there's no reason in getting some ridiculous computer that goes more than 60 frames because you'll never see those frames.
+
+238
+00:16:51,291 --> 00:16:52,820
+Speaker 0: But they now make monitors.
+
+239
+00:16:52,940 --> 00:16:54,951
+Speaker 0: I have a monitor that goes to 144.
+
+240
+00:16:54,951 --> 00:16:55,294
+Speaker 0: Right.
+
+241
+00:16:55,335 --> 00:16:56,789
+Speaker 0: And there are some that go even higher.
+
+242
+00:16:57,371 --> 00:16:59,878
+Speaker 0: And it's like, so now the question is, well, can you see the?
+
+243
+00:17:00,219 --> 00:17:02,845
+Speaker 0: if you have if you're hitting 144 on a 144 monitor, does it matter?
+
+244
+00:17:04,991 --> 00:17:06,275
+Speaker 0: The answer seems to be yes.
+
+245
+00:17:06,556 --> 00:17:06,757
+Speaker 0: Yeah.
+
+246
+00:17:06,777 --> 00:17:08,885
+Speaker 0: But it's like, all right, well, what which number does it?
+
+247
+00:17:09,567 --> 00:17:10,310
+Speaker 0: is now the limit?
+
+248
+00:17:10,471 --> 00:17:10,672
+Speaker 0: Right.
+
+249
+00:17:10,712 --> 00:17:13,724
+Speaker 0: Where, you know, it makes no sense to get a 280, whatever it is.
+
+250
+00:17:14,871 --> 00:17:15,090
+Speaker 0: Right.
+
+251
+00:17:15,413 --> 00:17:17,683
+Speaker 0: It's like your brain won't see those frames.
+
+252
+00:17:17,703 --> 00:17:19,270
+Speaker 0: It doesn't matter if you render them.
+
+253
+00:17:19,613 --> 00:17:20,464
+Speaker 0: Don't waste your time.
+
+254
+00:17:20,484 --> 00:17:20,546
+Speaker 0: Yep.
+
+255
+00:17:21,351 --> 00:17:42,690
+Speaker 1: So I am going to see as a test why if I am IO bound in any workflow, even the most ridiculous bullshit of like four or five simultaneous 4K videos, all in a multilayered scene in Premiere, and see if I can push that drive to its limit in something that isn't a benchmark.
+
+256
+00:17:43,291 --> 00:17:49,930
+Speaker 1: And I am pretty confident I will be just fine with PCIe 4 for the foreseeable future.
+
+257
+00:17:51,071 --> 00:17:51,211
+Speaker 0: Yeah.
+
+258
+00:17:51,271 --> 00:18:01,270
+Speaker 0: It's like, you know, the problem is, is just, you know, the cost it would take to like, you know, buy two different computers and put them side by side and be like, how much money did you know, how much time am I actually saving?
+
+259
+00:18:01,610 --> 00:18:03,618
+Speaker 0: How much money does it cost to save that time?
+
+260
+00:18:03,638 --> 00:18:07,030
+Speaker 0: It's like, are you going to build two computers and then return one?
+
+261
+00:18:07,752 --> 00:18:11,850
+Speaker 1: Well, that's why we always said for the all of geek nights, you figure out what your requirements are.
+
+262
+00:18:12,131 --> 00:18:14,058
+Speaker 1: You make sure they're actually your requirements.
+
+263
+00:18:14,319 --> 00:18:17,350
+Speaker 1: And then you try to buy something that's in that plateau of price.
+
+264
+00:18:17,350 --> 00:18:18,473
+Speaker 0: I don't see people do it like.
+
+265
+00:18:18,493 --> 00:18:24,510
+Speaker 0: people do benchmarks and stuff, but I've never seen people do like, all right, I actually bought like the same computer.
+
+266
+00:18:24,570 --> 00:18:24,971
+Speaker 0: This one's I7.
+
+267
+00:18:24,991 --> 00:18:25,412
+Speaker 0: This one's I9.
+
+268
+00:18:25,432 --> 00:18:25,773
+Speaker 0: This one's 4080.
+
+269
+00:18:25,773 --> 00:18:26,254
+Speaker 0: This one's 4090.
+
+270
+00:18:26,254 --> 00:18:26,555
+Speaker 0: This one's 4070.
+
+271
+00:18:26,555 --> 00:18:27,377
+Speaker 0: This one has 64 RAM.
+
+272
+00:18:27,397 --> 00:18:28,059
+Speaker 0: This one's got 128 RAM.
+
+273
+00:18:32,890 --> 00:18:33,913
+Speaker 0: This one's got four.
+
+274
+00:18:33,953 --> 00:18:34,134
+Speaker 0: Right.
+
+275
+00:18:34,334 --> 00:18:39,930
+Speaker 0: And like and then be like, all right, I'm going to do the exact same real work on all of these computers.
+
+276
+00:18:40,851 --> 00:18:48,510
+Speaker 0: And we're just going to see how much time I would have saved and then how much money it would have cost to save that time in each computer.
+
+277
+00:18:48,750 --> 00:18:51,338
+Speaker 1: For a lot of these hot rod features, you know what saves you more time?
+
+278
+00:18:51,719 --> 00:18:55,090
+Speaker 1: Walking up the escalator in Grand Central from the seven train instead of standing there.
+
+279
+00:18:55,770 --> 00:18:57,538
+Speaker 1: You'll save more time in your life by doing that.
+
+280
+00:18:58,262 --> 00:18:58,643
+Speaker 0: That's right.
+
+281
+00:18:59,246 --> 00:18:59,970
+Speaker 1: Are you got any news?
+
+282
+00:19:01,512 --> 00:19:02,134
+Speaker 0: There is a news.
+
+283
+00:19:02,194 --> 00:19:07,250
+Speaker 0: So we all talked about this, probably, but, you know, it's worth talking about again.
+
+284
+00:19:07,430 --> 00:19:12,849
+Speaker 0: So the European Union passed a law and the law is basically like, hey, it's basically the Apple law.
+
+285
+00:19:14,111 --> 00:19:15,454
+Speaker 1: It's a few other companies.
+
+286
+00:19:15,614 --> 00:19:18,321
+Speaker 1: It is the Digital Markets Act.
+
+287
+00:19:18,642 --> 00:19:20,005
+Speaker 1: The European Parliament passed it in 2022.
+
+288
+00:19:20,005 --> 00:19:20,747
+Speaker 1: It's going into effect.
+
+289
+00:19:22,451 --> 00:19:23,213
+Speaker 1: It's complicated.
+
+290
+00:19:23,253 --> 00:19:29,270
+Speaker 1: We're not experts in all of its deal, but I'll link to a Wikipedia article and also the European Commission.
+
+291
+00:19:29,330 --> 00:19:34,669
+Speaker 1: It has a really nice website that explains why they passed this act and what they intended to do.
+
+292
+00:19:35,611 --> 00:19:35,771
+Speaker 0: Right.
+
+293
+00:19:35,791 --> 00:19:42,030
+Speaker 0: So the intent of the law was basically like, hey, you know, you've created a digital marketplace, a platform of some kind.
+
+294
+00:19:42,110 --> 00:19:45,728
+Speaker 0: You can't just seal it up and make a walled garden like Apple App Store.
+
+295
+00:19:45,869 --> 00:19:46,050
+Speaker 0: Right.
+
+296
+00:19:46,130 --> 00:19:48,377
+Speaker 0: You have to let other people have app stores on there.
+
+297
+00:19:48,657 --> 00:19:52,348
+Speaker 0: You have to let other people use their other payment platforms of choice.
+
+298
+00:19:52,889 --> 00:19:53,090
+Speaker 0: Right.
+
+299
+00:19:53,451 --> 00:19:55,996
+Speaker 0: You can't just, you know, seal it up.
+
+300
+00:19:56,236 --> 00:19:56,477
+Speaker 0: Right.
+
+301
+00:19:57,038 --> 00:20:03,110
+Speaker 0: And so it's like basically, you know, when everyone read this, it's like, oh, Apple's going to have to let everyone sideload apps.
+
+302
+00:20:03,351 --> 00:20:04,094
+Speaker 0: They got no choice.
+
+303
+00:20:04,114 --> 00:20:04,435
+Speaker 0: All right.
+
+304
+00:20:04,455 --> 00:20:06,041
+Speaker 0: They're going to have to let other app stores in.
+
+305
+00:20:06,061 --> 00:20:06,845
+Speaker 0: They got no choice.
+
+306
+00:20:06,905 --> 00:20:08,210
+Speaker 0: The other I guess they do have a choice.
+
+307
+00:20:08,270 --> 00:20:15,390
+Speaker 0: The choice would be don't sell Apple products in Europe, which that's a too big a money loss for them to turn away from.
+
+308
+00:20:15,570 --> 00:20:30,770
+Speaker 0: So Apple basically complied, as far as we can tell, with the letter of the law, basically the way someone would if they were trying to win at a game and complying with the rules.
+
+309
+00:20:30,910 --> 00:20:31,413
+Speaker 0: Right.
+
+310
+00:20:31,715 --> 00:20:34,590
+Speaker 0: But not complying with the spirit in any way whatsoever.
+
+311
+00:20:34,970 --> 00:20:40,930
+Speaker 1: The treaty said I couldn't use chemical gases, but it didn't say I couldn't use liquid chemicals.
+
+312
+00:20:43,591 --> 00:20:43,892
+Speaker 0: Right.
+
+313
+00:20:43,932 --> 00:20:44,213
+Speaker 0: Yes.
+
+314
+00:20:44,414 --> 00:20:45,739
+Speaker 0: I cannot poison you.
+
+315
+00:20:45,759 --> 00:20:46,842
+Speaker 0: I didn't poison you.
+
+316
+00:20:46,863 --> 00:20:48,468
+Speaker 0: I shot you.
+
+317
+00:20:51,570 --> 00:21:00,128
+Speaker 0: So some of the some of the issues that have come up, Apple's like, all right, you want to put out, you know, you want to use a Web browser with an actual different engine.
+
+318
+00:21:00,168 --> 00:21:00,890
+Speaker 0: that's not Safari.
+
+319
+00:21:01,691 --> 00:21:02,413
+Speaker 0: You can do that.
+
+320
+00:21:02,493 --> 00:21:05,763
+Speaker 0: You can get your Firefox and your Chrome on your iPhone.
+
+321
+00:21:06,004 --> 00:21:06,505
+Speaker 0: Go ahead.
+
+322
+00:21:06,586 --> 00:21:07,990
+Speaker 0: However, right.
+
+323
+00:21:09,390 --> 00:21:18,150
+Speaker 0: Number one, we got this rule for everybody, but it's especially going to hurt the browsers is if you get too many installs, you're going to have to pay us money.
+
+324
+00:21:18,610 --> 00:21:18,771
+Speaker 1: Right.
+
+325
+00:21:18,791 --> 00:21:20,195
+Speaker 0: We're going to charge you a fee.
+
+326
+00:21:20,536 --> 00:21:25,350
+Speaker 0: They didn't say we couldn't charge you a fee through, like, you know, using our technology or whatever.
+
+327
+00:21:25,990 --> 00:21:30,722
+Speaker 0: So if you get a million people to install Chrome or Firefox, you have to pay us like a small fortune.
+
+328
+00:21:30,742 --> 00:21:34,150
+Speaker 0: And it's like, well, I guess how are we going to be able to do that?
+
+329
+00:21:34,350 --> 00:21:35,713
+Speaker 0: We don't have any fucking money.
+
+330
+00:21:37,256 --> 00:21:39,560
+Speaker 0: And two, there's a there's a feature.
+
+331
+00:21:39,761 --> 00:21:44,370
+Speaker 0: You have this on your phone now if you have iPhone or Android called Progressive Web Apps.
+
+332
+00:21:44,490 --> 00:21:54,730
+Speaker 0: And what this is, is you can go to any Web site, basically any Web site, including like our Web site and add the Web site to your home screen of your phone, whatever phone you have.
+
+333
+00:21:54,790 --> 00:21:59,803
+Speaker 0: And what that will do is on your home screen of your phone, there'll be an app.
+
+334
+00:22:00,424 --> 00:22:02,770
+Speaker 0: But that app is actually just a Web site like you.
+
+335
+00:22:03,010 --> 00:22:05,435
+Speaker 0: It'll look like an app that have its own icon.
+
+336
+00:22:05,776 --> 00:22:06,337
+Speaker 0: You touch it.
+
+337
+00:22:06,858 --> 00:22:10,265
+Speaker 0: A thing opens up that looks like a standalone app.
+
+338
+00:22:10,605 --> 00:22:12,850
+Speaker 0: There's no URL bar or anything on there.
+
+339
+00:22:12,970 --> 00:22:13,210
+Speaker 0: Right.
+
+340
+00:22:13,871 --> 00:22:19,959
+Speaker 0: But it's just a Web site and all Android iPhones can do this, do progressive Web apps.
+
+341
+00:22:20,039 --> 00:22:27,990
+Speaker 0: And it basically allows developers to make Web pages that are apps that people can install quotes on their phone.
+
+342
+00:22:28,671 --> 00:22:33,464
+Speaker 0: You know, it just without any app stores or any money or any anything.
+
+343
+00:22:33,664 --> 00:22:35,549
+Speaker 0: you can do this now, even on iPhones.
+
+344
+00:22:35,750 --> 00:22:35,890
+Speaker 0: Right.
+
+345
+00:22:35,970 --> 00:22:41,910
+Speaker 0: And it's actually Apple's argument that they're not closed because you can do that instead if you don't want to be in our app store.
+
+346
+00:22:42,070 --> 00:22:43,332
+Speaker 0: Right.
+
+347
+00:22:44,133 --> 00:22:56,770
+Speaker 0: And so what they did is like, well, since people have these other Web browsers on there, right, instead of just Safari, if someone wants to do a progressive Web app, we got to be like, hey, sorry.
+
+348
+00:22:57,171 --> 00:23:03,249
+Speaker 0: But, you know, from now on, you know, the progressive Web apps aren't going to be all nice and integrated like they're supposed to be.
+
+349
+00:23:03,771 --> 00:23:07,098
+Speaker 0: They're just going to open in the default browser that you've chosen.
+
+350
+00:23:07,138 --> 00:23:09,182
+Speaker 0: You want to allow people to use different browsers.
+
+351
+00:23:09,623 --> 00:23:13,010
+Speaker 0: That means that we can't guarantee progressive Web app stuff.
+
+352
+00:23:13,631 --> 00:23:22,010
+Speaker 0: So we're going to make an annoying pop up and, you know, you're going to and then it's going to open in your other browser with the URL bar and not integrated nicely or anything.
+
+353
+00:23:23,351 --> 00:23:28,542
+Speaker 0: And so it's like they're basically saying, hey, we had a way for you to install apps that weren't in the app store.
+
+354
+00:23:29,023 --> 00:23:32,250
+Speaker 0: And now you want us to support this other way of sideloading.
+
+355
+00:23:32,591 --> 00:23:39,070
+Speaker 0: We're going to take away the progressive Web app way, effectively speaking, and basically make it, you know, right.
+
+356
+00:23:41,031 --> 00:23:46,990
+Speaker 0: And then the final thing is they're like, hey, all right, you make your own separate app store, right, with your own apps in it.
+
+357
+00:23:47,511 --> 00:23:49,075
+Speaker 0: And, you know, we can't deny you.
+
+358
+00:23:49,275 --> 00:23:55,710
+Speaker 0: We can't say they're not approved or whatever, but we can put all sorts of scary messages that are like, hey, don't do this.
+
+359
+00:23:55,990 --> 00:23:57,855
+Speaker 0: You know, you might mess up your phone.
+
+360
+00:23:57,916 --> 00:24:01,566
+Speaker 0: security, privacy, you know, don't do these things.
+
+361
+00:24:01,626 --> 00:24:02,107
+Speaker 0: Warning.
+
+362
+00:24:02,428 --> 00:24:02,689
+Speaker 0: Right.
+
+363
+00:24:02,749 --> 00:24:02,970
+Speaker 0: Right.
+
+364
+00:24:03,050 --> 00:24:05,418
+Speaker 0: We're going to scare you away from giving anyone else money.
+
+365
+00:24:05,438 --> 00:24:09,250
+Speaker 0: And also anyone who does that has to give us money.
+
+366
+00:24:11,291 --> 00:24:15,949
+Speaker 0: It's like we're going to charge you a fee for doing this nonsense.
+
+367
+00:24:16,150 --> 00:24:16,270
+Speaker 0: Right.
+
+368
+00:24:16,310 --> 00:24:17,032
+Speaker 0: You can't escape.
+
+369
+00:24:17,112 --> 00:24:20,959
+Speaker 0: You know, it's like you can escape our app store, but you can't escape giving us money.
+
+370
+00:24:21,039 --> 00:24:25,929
+Speaker 0: You have to give us a cut because you're using our technologies as part of your apps.
+
+371
+00:24:26,190 --> 00:24:26,370
+Speaker 0: Right.
+
+372
+00:24:26,490 --> 00:24:29,140
+Speaker 0: Your apps are relying on technology that we built.
+
+373
+00:24:30,525 --> 00:24:31,590
+Speaker 0: And so you must give us money.
+
+374
+00:24:33,631 --> 00:24:36,679
+Speaker 1: I feel like the fundamental issue is I've been thinking about this a lot.
+
+375
+00:24:36,699 --> 00:24:40,710
+Speaker 1: You know, I'm a product manager, like thinking about this kind of thing is literally my professional job.
+
+376
+00:24:41,890 --> 00:24:56,709
+Speaker 1: And the more I think about it, I think a fundamental problem is that Apple, as an example, but there are other companies that have this exact same sort of monetization model, the model of we have an ecosystem and we charge people to be in the store.
+
+377
+00:24:56,749 --> 00:24:57,870
+Speaker 1: that's part of our ecosystem.
+
+378
+00:24:58,291 --> 00:25:02,419
+Speaker 1: Now, Valve has a similar situation, let's say.
+
+379
+00:25:02,800 --> 00:25:07,390
+Speaker 1: They're just a less evil company and they've milked it less in some regards with an asterisk.
+
+380
+00:25:09,491 --> 00:25:23,610
+Speaker 1: Apple and companies like them tend to prop up all the other parts of their company from the revenue they get from a small number of parts of the company, usually the app store ecosystem plus the advertising ecosystem.
+
+381
+00:25:24,030 --> 00:25:41,170
+Speaker 1: So they have these small parts of the company that basically fund the rest of the company, which means they're basically making all the people who happen to just make apps and need them to appear on an iPhone to subsidize all the other businesses that they're in that have nothing to do with apps or even iPhones in many cases.
+
+382
+00:25:43,891 --> 00:25:49,410
+Speaker 1: And this really is just an artifact of companies are too big and are doing too many things.
+
+383
+00:25:49,770 --> 00:26:01,390
+Speaker 1: And the bigger you are or the more things you do, unless you're willing to break yourself up, I feel like there have to be limits on like what parts of your company like are allowed to make how much money.
+
+384
+00:26:01,691 --> 00:26:06,990
+Speaker 1: There should be caps on how much money or revenue Apple is allowed to get from their app store.
+
+385
+00:26:07,150 --> 00:26:09,890
+Speaker 1: They should have to go to the government and ask to be able to get more.
+
+386
+00:26:09,950 --> 00:26:17,370
+Speaker 0: So governments, you know, in the time of, you know, we have technology moving so fastly and we have governments moving too slowly.
+
+387
+00:26:17,650 --> 00:26:18,272
+Speaker 0: It's slow.
+
+388
+00:26:18,312 --> 00:26:24,130
+Speaker 0: Government was a good feature back in the day when we were trying to get away from kings that would make rash, quick decisions.
+
+389
+00:26:24,711 --> 00:26:24,992
+Speaker 0: Right.
+
+390
+00:26:25,012 --> 00:26:28,990
+Speaker 1: We're trying to make an Internet where we can just pass MP3s around and chat about.
+
+391
+00:26:29,171 --> 00:26:29,432
+Speaker 0: Right.
+
+392
+00:26:29,633 --> 00:26:32,390
+Speaker 0: But it's like when the world is changing too quickly.
+
+393
+00:26:32,812 --> 00:26:33,094
+Speaker 0: Right.
+
+394
+00:26:33,215 --> 00:26:35,110
+Speaker 0: It's like democracy is too slow.
+
+395
+00:26:35,530 --> 00:26:35,732
+Speaker 0: Right.
+
+396
+00:26:35,752 --> 00:26:38,290
+Speaker 0: Regulation is too slow and enforcement is too slow.
+
+397
+00:26:38,971 --> 00:26:44,079
+Speaker 0: And it's like we need to just be like, hey, you know, if Apple does this, it shouldn't.
+
+398
+00:26:44,159 --> 00:26:51,550
+Speaker 0: it should take like less than a day for like some judge in Europe to say, clearly, that's not the spirit of the law and harsh immediate consequence.
+
+399
+00:26:51,770 --> 00:26:55,067
+Speaker 0: No iPhones, all Apple stores in Europe close until you do it right.
+
+400
+00:26:55,128 --> 00:26:55,469
+Speaker 0: Fuck you.
+
+401
+00:26:55,810 --> 00:26:56,739
+Speaker 1: And they kind of could.
+
+402
+00:26:56,759 --> 00:26:56,981
+Speaker 0: Right.
+
+403
+00:26:57,304 --> 00:26:58,030
+Speaker 1: They kind of could.
+
+404
+00:26:58,310 --> 00:26:58,773
+Speaker 0: They can't do it.
+
+405
+00:26:58,874 --> 00:27:01,530
+Speaker 0: I'm talking like it's like with the immediacy of a king.
+
+406
+00:27:01,671 --> 00:27:01,892
+Speaker 0: Right.
+
+407
+00:27:01,912 --> 00:27:05,890
+Speaker 0: Like, you know, obviously there was a democratically passed law to support this.
+
+408
+00:27:05,950 --> 00:27:07,616
+Speaker 0: It wasn't just some autocrat deciding.
+
+409
+00:27:07,977 --> 00:27:08,278
+Speaker 0: Right.
+
+410
+00:27:08,499 --> 00:27:11,870
+Speaker 0: But it's like clearly you are flagrantly insulting our laws.
+
+411
+00:27:12,310 --> 00:27:12,692
+Speaker 0: Fuck you.
+
+412
+00:27:13,014 --> 00:27:14,442
+Speaker 0: Like the day after.
+
+413
+00:27:14,522 --> 00:27:14,683
+Speaker 0: Right.
+
+414
+00:27:14,744 --> 00:27:15,448
+Speaker 0: It's been weeks.
+
+415
+00:27:15,729 --> 00:27:15,890
+Speaker 0: Right.
+
+416
+00:27:15,930 --> 00:27:23,290
+Speaker 0: It's like we need, you know, when someone actually violates a law in such an obvious way, it's like there doesn't need to be an investigation.
+
+417
+00:27:23,391 --> 00:27:24,677
+Speaker 0: There doesn't need to be evidence.
+
+418
+00:27:24,939 --> 00:27:25,381
+Speaker 0: This is just.
+
+419
+00:27:25,823 --> 00:27:26,406
+Speaker 0: we just see it.
+
+420
+00:27:26,467 --> 00:27:26,768
+Speaker 0: There it is.
+
+421
+00:27:27,291 --> 00:27:27,492
+Speaker 0: Right.
+
+422
+00:27:27,593 --> 00:27:27,855
+Speaker 0: It's like.
+
+423
+00:27:28,157 --> 00:27:30,110
+Speaker 0: you don't even need to have anyone bring in arguments.
+
+424
+00:27:30,310 --> 00:27:32,270
+Speaker 1: I think the judge just read the fucking newspaper.
+
+425
+00:27:32,411 --> 00:27:33,179
+Speaker 0: He's like, there it is.
+
+426
+00:27:33,260 --> 00:27:34,210
+Speaker 0: I read it in the newspaper.
+
+427
+00:27:34,490 --> 00:27:37,710
+Speaker 1: Well, logical judicial debate about whether or not they comply.
+
+428
+00:27:37,890 --> 00:27:53,530
+Speaker 1: I feel like there is a deliberative process that needs to be there in a situation like this, because when you're maliciously compliant, the problem is you are compliant, which on one hand means the rules need to change or on the other hand, the rules need to be broadened to give the regulatory authority.
+
+429
+00:27:54,290 --> 00:27:58,790
+Speaker 0: I do think the regulatory people also are to blame for not writing the rules properly.
+
+430
+00:28:00,213 --> 00:28:02,170
+Speaker 0: Not having any foresight whatsoever.
+
+431
+00:28:02,390 --> 00:28:03,801
+Speaker 1: No, they actually did have a lot of foresight.
+
+432
+00:28:03,822 --> 00:28:04,850
+Speaker 1: There's a bigger problem there.
+
+433
+00:28:05,211 --> 00:28:05,667
+Speaker 0: Not enough.
+
+434
+00:28:07,571 --> 00:28:08,915
+Speaker 1: The problem we're having in the U.S.
+
+435
+00:28:09,417 --> 00:28:12,707
+Speaker 1: is there is no way to have that much foresight.
+
+436
+00:28:12,787 --> 00:28:13,670
+Speaker 1: It's literally impossible.
+
+437
+00:28:14,293 --> 00:28:15,381
+Speaker 0: I had that foresight.
+
+438
+00:28:15,401 --> 00:28:16,187
+Speaker 0: I could have done it.
+
+439
+00:28:17,211 --> 00:28:21,210
+Speaker 1: What's your exact rule going to be and what are the externalities and unintended consequences?
+
+440
+00:28:21,430 --> 00:28:26,590
+Speaker 0: If I was on the European Commission who had to write that law, Apple would not be getting away with what they're doing right now.
+
+441
+00:28:27,112 --> 00:28:31,690
+Speaker 0: I can guarantee you that, because I would have been like, no fees, no restrictions whatsoever.
+
+442
+00:28:31,891 --> 00:28:34,098
+Speaker 0: Here is the specific way it must be implemented.
+
+443
+00:28:34,419 --> 00:28:36,826
+Speaker 0: No divergence from this specific way whatsoever.
+
+444
+00:28:36,987 --> 00:28:38,050
+Speaker 0: End of story, right?
+
+445
+00:28:38,410 --> 00:28:40,397
+Speaker 0: I would have been drawing the UI for it.
+
+446
+00:28:40,417 --> 00:28:43,387
+Speaker 0: I've been like, every phone must have this exact user interface.
+
+447
+00:28:43,427 --> 00:28:44,290
+Speaker 0: It must look like this.
+
+448
+00:28:44,630 --> 00:28:47,090
+Speaker 0: This is how it must work for sideloading apps.
+
+449
+00:28:47,090 --> 00:28:55,190
+Speaker 1: Yeah, see, I don't think that would pass judicial muster in even the most radically forward-thinking techno-progressivist country on earth.
+
+450
+00:28:55,813 --> 00:28:59,068
+Speaker 1: Now, a better way to do this, and this is a big fight happening in the U.S.
+
+451
+00:28:59,109 --> 00:28:59,350
+Speaker 1: right now.
+
+452
+00:28:59,390 --> 00:29:01,240
+Speaker 1: There's a Supreme Court case in the United States.
+
+453
+00:29:01,260 --> 00:29:02,949
+Speaker 1: I'm going to be very brief about this.
+
+454
+00:29:03,850 --> 00:29:14,290
+Speaker 1: It's effectively, the Republican Party is suing, saying regulations can never be enforced except by the exact letter of the law that created them.
+
+455
+00:29:15,231 --> 00:29:20,029
+Speaker 1: But the way regulation has worked for all of American history until this Supreme Court lawsuit now...
+
+456
+00:29:20,531 --> 00:29:25,669
+Speaker 0: Is that they have a law that says, "We write a law that says experts at the FCC will regulate
+
+457
+00:29:25,869 --> 00:29:25,889
+Speaker 0: X.".
+
+458
+00:29:26,593 --> 00:29:33,902
+Speaker 1: And then the commission regulates X. So they'll say things like, "Here are some specific rules that are passed by Congress.
+
+459
+00:29:34,103 --> 00:29:35,186
+Speaker 1: Here are some broader rules.
+
+460
+00:29:35,426 --> 00:29:35,808
+Speaker 1: Here are some
+
+461
+00:29:35,868 --> 00:29:36,469
+Speaker 1: intentions.".
+
+462
+00:29:36,730 --> 00:29:44,450
+Speaker 1: But then government agencies under the executive interpret, well, they interpret and enforce those and use their own intelligent discretion.
+
+463
+00:29:44,650 --> 00:29:46,054
+Speaker 0: It's called delegation.
+
+464
+00:29:46,114 --> 00:29:52,670
+Speaker 0: The law delegated the power of Congress to this other group, and that other group wields that power as they see fit.
+
+465
+00:29:53,070 --> 00:29:57,570
+Speaker 0: And if Congress doesn't see them doing a good job, Congress can undelegate.
+
+466
+00:29:57,910 --> 00:30:06,750
+Speaker 1: It's also checks and balances, though, because Congress can undelegate, redelegate, or change the rules to make the boundaries of what the agency can do tighter or looser.
+
+467
+00:30:06,750 --> 00:30:15,070
+Speaker 0: But if Congress cannot delegate power to someone else to enforce or, you know, make laws, then you can't even delegate power to police to do any lying.
+
+468
+00:30:15,310 --> 00:30:17,628
+Speaker 1: Yeah, so this is basically what the Republicans are doing in the U.S.
+
+469
+00:30:17,688 --> 00:30:17,910
+Speaker 1: right now.
+
+470
+00:30:18,090 --> 00:30:26,990
+Speaker 1: They're trying to say that the only regulation that will ever exist is explicit regulations encoded in laws passed by Congress.
+
+471
+00:30:27,291 --> 00:30:33,270
+Speaker 1: And they're doing this because no regulation could ever pass the filibuster, and they're trying to end the concept of regulation.
+
+472
+00:30:34,157 --> 00:30:34,650
+Speaker 1: Yeah, right.
+
+473
+00:30:34,930 --> 00:30:35,768
+Speaker 1: Yeah, like they do.
+
+474
+00:30:41,051 --> 00:30:43,990
+Speaker 0: But anyway, things of the day.
+
+475
+00:30:45,111 --> 00:30:51,949
+Speaker 1: I haven't linked to Verisacium in a long time, but this video was way deeper and better than I thought it was going to be when I watched it.
+
+476
+00:30:53,470 --> 00:30:54,929
+Speaker 1: Have you ever wondered how LEDs work?
+
+477
+00:30:55,910 --> 00:30:56,847
+Speaker 0: I know how they work, yes.
+
+478
+00:30:57,250 --> 00:30:58,919
+Speaker 1: Do you know exactly how they work?
+
+479
+00:30:59,522 --> 00:31:00,970
+Speaker 1: Like what the atoms are doing and why?
+
+480
+00:31:01,090 --> 00:31:03,220
+Speaker 0: I know on an electronics level.
+
+481
+00:31:03,320 --> 00:31:05,470
+Speaker 0: I don't know on the quantum level how they work.
+
+482
+00:31:05,811 --> 00:31:11,110
+Speaker 1: Why do photons come out of LEDs and why do they have specific colors?
+
+483
+00:31:13,130 --> 00:31:24,430
+Speaker 0: I mean, it probably has to do with like some atoms getting excited and then, you know, by energy and then photons come out and the wavelength of the oscillation of the whatever determines the wavelength of the light that comes out.
+
+484
+00:31:24,810 --> 00:31:35,790
+Speaker 1: And so why is it that every color of LED was really easy to make except blue, and blue was almost impossible to make, and the development of a blue LED was one of the most important inventions in modern human history?
+
+485
+00:31:36,330 --> 00:31:37,720
+Speaker 0: Because the frequency was higher?
+
+486
+00:31:37,740 --> 00:31:39,210
+Speaker 0: because blue is the shorter wavelength?
+
+487
+00:31:39,590 --> 00:31:56,129
+Speaker 1: It's so much more complicated than that, and this video does a fantastic job over the course of 33 minutes of telling you the full story of how LEDs actually work, why blue LEDs were so crazy, and what the fuck is up with ultraviolet LEDs.
+
+488
+00:31:56,169 --> 00:31:57,190
+Speaker 1: This video is fantastic.
+
+489
+00:31:57,970 --> 00:32:00,790
+Speaker 0: I've already seen, you know, stories about the dude who invented them.
+
+490
+00:32:00,870 --> 00:32:09,850
+Speaker 1: Yeah, this is also about the dude, but this is down to the specific crazy lab exploding experiments he was doing personally to try to make this happen.
+
+491
+00:32:12,198 --> 00:32:12,810
+Speaker 1: So what do you got?
+
+492
+00:32:13,610 --> 00:32:20,990
+Speaker 0: So here is a great demonstration of how to write rules that are airtight and won't be subjected to malicious compliance.
+
+493
+00:32:20,990 --> 00:32:30,544
+Speaker 1: Which in fact, I want to point out, your thing of the day, this is directly the same thing that we said in our panel on worker placement games than the definitions of worker placement.
+
+494
+00:32:30,825 --> 00:32:34,090
+Speaker 1: You must be descriptive rather than prescriptive.
+
+495
+00:32:34,551 --> 00:32:34,711
+Speaker 0: Right.
+
+496
+00:32:35,012 --> 00:32:38,760
+Speaker 0: So basically the idea is that, let's say that there's a park, right?
+
+497
+00:32:38,800 --> 00:32:43,070
+Speaker 0: The kind that you play in with, you know, trees and, you know, grass and whatever, right?
+
+498
+00:32:43,530 --> 00:32:50,508
+Speaker 0: And there's a rule in the park, and the rule is, in the English language, no vehicles in the park, right?
+
+499
+00:32:50,568 --> 00:32:51,150
+Speaker 0: That's the rule.
+
+500
+00:32:51,790 --> 00:32:56,810
+Speaker 0: So obviously if you're a rules lawyer, you know, like we are, there's all sorts of questions, right?
+
+501
+00:32:57,070 --> 00:32:59,890
+Speaker 1: What if I'm in a gasoline powered wheelchair?
+
+502
+00:33:00,852 --> 00:33:01,353
+Speaker 0: Right, right.
+
+503
+00:33:01,433 --> 00:33:04,780
+Speaker 0: Most of the question is what qualifies as a vehicle?
+
+504
+00:33:04,800 --> 00:33:09,950
+Speaker 0: And the second question is, are there other circumstances, right?
+
+505
+00:33:10,650 --> 00:33:16,950
+Speaker 0: It's like, is this an absolute rule or is there a circumstance that would allow something even if it was a vehicle?
+
+506
+00:33:17,110 --> 00:33:28,870
+Speaker 0: So it basically takes this rule, which is obviously too vague a rule to be covering everything that needs to be covered, and then asks you a bunch of yes or no questions of like, is this allowed?
+
+507
+00:33:29,251 --> 00:33:29,873
+Speaker 0: Is this allowed?
+
+508
+00:33:30,235 --> 00:33:30,897
+Speaker 0: Is this allowed?
+
+509
+00:33:31,318 --> 00:33:34,730
+Speaker 0: And then compare, it shows you the data on what everyone else has answered, right?
+
+510
+00:33:35,491 --> 00:33:36,974
+Speaker 0: So you can take different approaches.
+
+511
+00:33:37,014 --> 00:33:44,610
+Speaker 0: You can like, I took it with the approach of, I've defined before I even started, I defined what counts as a vehicle in my mind.
+
+512
+00:33:45,331 --> 00:33:48,917
+Speaker 0: And then I said, well, the rule doesn't say anything about circumstances.
+
+513
+00:33:48,957 --> 00:33:55,730
+Speaker 0: So if it's a vehicle, and if I count it as a vehicle, the answer is always not allowed under any circumstance.
+
+514
+00:33:55,870 --> 00:34:08,810
+Speaker 0: It's really funny to me personally that that is how you approach this, because the way I approached it- Right, so the other approach would be to take, you know, the reasonable approach, which would just be like, okay, I get the spirit of what they're saying, right?
+
+515
+00:34:08,969 --> 00:34:11,995
+Speaker 0: What we should, this is the way the approach you should be having, right?
+
+516
+00:34:12,516 --> 00:34:19,989
+Speaker 0: Which is, we understand the spirit of this rule is that some kinds of vehicles are disturbance creating, danger creating.
+
+517
+00:34:20,492 --> 00:34:26,010
+Speaker 0: And the park is supposed to be a place of quiet, relaxation, and fun, and safety for people to enjoy.
+
+518
+00:34:26,610 --> 00:34:32,330
+Speaker 0: And so only in circumstances where it makes common sense, the vehicle causing a problem.
+
+519
+00:34:32,610 --> 00:34:34,583
+Speaker 1: Ah, so I also, I did not go that approach either.
+
+520
+00:34:34,764 --> 00:34:35,409
+Speaker 1: I went a third way.
+
+521
+00:34:35,409 --> 00:34:37,849
+Speaker 0: So those are the two approaches that I think you can take reasonably.
+
+522
+00:34:38,050 --> 00:34:39,473
+Speaker 1: There is a third approach.
+
+523
+00:34:40,494 --> 00:34:49,270
+Speaker 1: And the third approach is what I will outline now, because this is what I, this, everything we're discussing right now is very much mechanism design.
+
+524
+00:34:49,911 --> 00:34:52,315
+Speaker 1: Which is one of our first panels we ever did at a PAX.
+
+525
+00:34:52,656 --> 00:34:59,629
+Speaker 1: But anyway, I took the approach of, what world do I want to live in?
+
+526
+00:35:00,450 --> 00:35:04,890
+Speaker 1: And then I will interpret the enforcement of this rule that is posted.
+
+527
+00:35:05,070 --> 00:35:08,410
+Speaker 0: So you're acting as if you were the king who passed the decree of no vehicles in the park.
+
+528
+00:35:08,430 --> 00:35:09,890
+Speaker 1: I'm acting as though, how would I want the park to be?
+
+529
+00:35:09,890 --> 00:35:13,818
+Speaker 0: And then people came to you with clarifying questions because you're the king who passed this rule.
+
+530
+00:35:19,330 --> 00:35:20,994
+Speaker 1: Does this violate the rule?
+
+531
+00:35:21,495 --> 00:35:27,349
+Speaker 1: I would say no, because a human life is worth more than the brief reduction in the tranquility of a park.
+
+532
+00:35:28,570 --> 00:35:30,730
+Speaker 1: Irrespective of the definition of a vehicle.
+
+533
+00:35:33,292 --> 00:35:35,530
+Speaker 1: But this is a, imagine a government.
+
+534
+00:35:36,090 --> 00:35:39,118
+Speaker 0: The point is that this exercise is my thing of the day.
+
+535
+00:35:39,138 --> 00:35:43,870
+Speaker 0: It illustrates why you have to write rules well and why it's not simple to write rules.
+
+536
+00:35:43,970 --> 00:35:52,090
+Speaker 1: Well, I would say a good way to test a rule is to have a broad, statistically significant survey doing this kind of exercise.
+
+537
+00:35:52,730 --> 00:35:56,830
+Speaker 1: And if you hit a certain threshold of everyone agrees, your rule's good.
+
+538
+00:35:57,292 --> 00:36:01,230
+Speaker 1: If not enough people agree, either your rule's bad or you didn't explain it well or something's wrong.
+
+539
+00:36:02,053 --> 00:36:02,133
+Speaker 0: Yep.
+
+540
+00:36:02,154 --> 00:36:02,274
+Speaker 0: Yep.
+
+541
+00:36:02,314 --> 00:36:04,849
+Speaker 0: You can write a thing, you can make a thing just like this.
+
+542
+00:36:05,531 --> 00:36:08,602
+Speaker 0: And, you know, you'll have a big long rule, right?
+
+543
+00:36:08,663 --> 00:36:10,610
+Speaker 0: Or a big list of conditions, right?
+
+544
+00:36:11,313 --> 00:36:14,689
+Speaker 1: Greg is not allowed to drive his fucking Honda Civic into the park.
+
+545
+00:36:15,710 --> 00:36:15,911
+Speaker 0: Right.
+
+546
+00:36:16,051 --> 00:36:24,450
+Speaker 0: If it actually had all the conditions on it listed instead of just this one vague rule, the people answering the question the same way would be like 90 plus percent.
+
+547
+00:36:24,950 --> 00:36:25,010
+Speaker 1: Yep.
+
+548
+00:36:26,133 --> 00:36:32,310
+Speaker 1: But I don't want that because I think there must be an unstated exception for, for example, an ambulance.
+
+549
+00:36:33,531 --> 00:36:35,490
+Speaker 0: I think you would just have to bake that into the rule.
+
+550
+00:36:35,790 --> 00:36:36,752
+Speaker 1: I don't think you need to.
+
+551
+00:36:36,792 --> 00:36:48,590
+Speaker 1: And actually you're getting into, so this is just a topic for a Thursday someday, the difference between legalism versus other fundamental forms of how courts and government should function.
+
+552
+00:36:49,291 --> 00:36:51,877
+Speaker 0: And you could also have some other overriding laws, right?
+
+553
+00:36:51,917 --> 00:36:57,310
+Speaker 0: Like you could just make a law that's like, you know, other laws don't matter for ambulances, right?
+
+554
+00:36:57,570 --> 00:36:57,771
+Speaker 1: Yeah.
+
+555
+00:36:57,811 --> 00:37:08,210
+Speaker 1: But again, it is just fascinating to me that everything you have said and every rebuttal, every comment you've made during your entire thing of the day comes from a formally legalistic standpoint.
+
+556
+00:37:09,851 --> 00:37:15,868
+Speaker 1: And I actually am increasingly rejecting legalism, partly because that is a big part of how the Nazis came to power in the Weimar.
+
+557
+00:37:15,908 --> 00:37:16,590
+Speaker 1: But I digress.
+
+558
+00:37:16,790 --> 00:37:20,902
+Speaker 0: I'm just saying, you know, there are many, I'm not saying, I'm not supporting that stance.
+
+559
+00:37:20,962 --> 00:37:23,710
+Speaker 0: I'm saying there's many approaches you could take to answering this.
+
+560
+00:37:23,952 --> 00:37:24,940
+Speaker 0: And I did that.
+
+561
+00:37:24,980 --> 00:37:26,110
+Speaker 0: That's the one that I chose.
+
+562
+00:37:26,270 --> 00:37:27,014
+Speaker 1: But they are indeed.
+
+563
+00:37:27,115 --> 00:37:28,161
+Speaker 1: It's not an indictment.
+
+564
+00:37:28,383 --> 00:37:29,570
+Speaker 1: There are multiple approaches.
+
+565
+00:37:30,571 --> 00:37:30,752
+Speaker 0: Yeah.
+
+566
+00:37:31,517 --> 00:37:33,890
+Speaker 0: At least if you want to remain consistent, you might not be consistent.
+
+567
+00:37:34,090 --> 00:37:36,978
+Speaker 1: I definitely do not want to remain consistent.
+
+568
+00:37:37,018 --> 00:37:41,570
+Speaker 1: Consistency is one of the biggest dangers to government and law in some cases.
+
+569
+00:37:43,330 --> 00:37:47,770
+Speaker 1: But in the moment, the Geek Nights Book Club book is the night a short walk on girl.
+
+570
+00:37:48,250 --> 00:37:53,886
+Speaker 1: It's a delight to read, though it's just made me want to watch that movie again so far.
+
+571
+00:37:53,946 --> 00:37:55,210
+Speaker 1: Like, I really just want to watch the movie.
+
+572
+00:37:55,510 --> 00:37:56,513
+Speaker 0: You can watch it as much as you want.
+
+573
+00:37:56,593 --> 00:38:02,930
+Speaker 0: In fact, if the listener has not watched the movie, I think you probably should, because we're going to obviously discuss the movie on the book club episode.
+
+574
+00:38:03,590 --> 00:38:08,510
+Speaker 0: So even though we already discussed it before, you could go listen to the episode where we discuss the movie.
+
+575
+00:38:09,611 --> 00:38:09,791
+Speaker 1: Yup.
+
+576
+00:38:10,452 --> 00:38:15,781
+Speaker 1: Otherwise, we are going to be at PAX East 2024 doing at least one panel.
+
+577
+00:38:15,801 --> 00:38:22,511
+Speaker 1: That panel is titled "Every Game is the Same Game 13+".
+
+578
+00:38:22,511 --> 00:38:24,876
+Speaker 1: Because we can't not say fuck.
+
+579
+00:38:24,956 --> 00:38:26,340
+Speaker 1: It just happens sometimes.
+
+580
+00:38:27,242 --> 00:38:30,790
+Speaker 1: All our panels are going to be 13+ unless we try really hard for the foreseeable future.
+
+581
+00:38:32,291 --> 00:38:38,510
+Speaker 1: But it's going to be at PAX East on Sunday at 2.30pm in the Dragonfly Theater.
+
+582
+00:38:39,650 --> 00:38:39,710
+Speaker 0: Yup.
+
+583
+00:38:40,131 --> 00:38:41,693
+Speaker 0: I have heard a rumor, right?
+
+584
+00:38:41,713 --> 00:38:43,736
+Speaker 0: Well, I haven't heard a rumor.
+
+585
+00:38:43,816 --> 00:38:53,270
+Speaker 0: I know, right, that there is now going to be an official, open to the public, PAX Discord server.
+
+586
+00:38:53,570 --> 00:38:57,296
+Speaker 0: They're going to make this thing, right?
+
+587
+00:38:58,577 --> 00:39:06,108
+Speaker 0: But I cannot tell you how to get there, because that is a secret, until it is open to the public.
+
+588
+00:39:06,288 --> 00:39:07,430
+Speaker 0: So you didn't hear this here.
+
+589
+00:39:07,590 --> 00:39:12,109
+Speaker 1: The old man also told me that it is dangerous, and I am aware of this.
+
+590
+00:39:13,310 --> 00:39:13,611
+Speaker 0: Yes.
+
+591
+00:39:13,971 --> 00:39:17,036
+Speaker 0: So you get some inside scoop on Geek Nights.
+
+592
+00:39:17,657 --> 00:39:20,281
+Speaker 0: But who knows what that's going to be like, right?
+
+593
+00:39:20,481 --> 00:39:23,446
+Speaker 0: With all these PAX attendees in one Discord server.
+
+594
+00:39:23,526 --> 00:39:25,950
+Speaker 0: Let us talk about that after it is public eventually.
+
+595
+00:39:26,290 --> 00:39:26,350
+Speaker 0: Yup.
+
+596
+00:39:26,370 --> 00:39:31,244
+Speaker 1: I have a lot of thoughts, a lot of ideas, a lot of predictions, and we'll see.
+
+597
+00:39:31,485 --> 00:39:33,370
+Speaker 1: I am mostly...
+
+598
+00:39:34,592 --> 00:39:44,790
+Speaker 0: My hope is that it will provide the missing connection between the attendees of PAX and the reforging of the PAX community that has been lost.
+
+599
+00:39:46,070 --> 00:39:46,833
+Speaker 1: I agree.
+
+600
+00:39:47,215 --> 00:39:50,168
+Speaker 1: The community that has been lost to the fact that until...
+
+601
+00:39:50,630 --> 00:39:51,171
+Speaker 0: Or weakened.
+
+602
+00:39:51,191 --> 00:39:52,012
+Speaker 0: I don't want to say lost.
+
+603
+00:40:02,351 --> 00:40:03,754
+Speaker 1: But it was like the same group of people.
+
+604
+00:40:04,256 --> 00:40:05,780
+Speaker 1: You bought a badge for the whole weekend.
+
+605
+00:40:05,800 --> 00:40:09,370
+Speaker 1: You couldn't just buy a badge for one day, and then the one day sort of changed things.
+
+606
+00:40:09,770 --> 00:40:30,890
+Speaker 1: But the reason why I'm optimistic about what you said is that we witnessed at MAGFest a reforging, as the pandemic wound down, of the most important core of the MAGFest community to the point that it started to crowd out some of the undesirable, drunken, vomitous elements of the MAGFest community in a way that was pleasing to mine eyes.
+
+607
+00:40:31,891 --> 00:40:39,803
+Speaker 0: And yeah, to be a rules lawyer, I was instructed that it is not public yet, and do not share the invite.
+
+608
+00:40:40,184 --> 00:40:43,930
+Speaker 0: They did not say not to share the fact that this is going to happen.
+
+609
+00:40:44,390 --> 00:40:50,003
+Speaker 1: Scott, a podcaster, has specific knowledge, but has not violated the specific words written in the rule.
+
+610
+00:40:50,023 --> 00:40:52,670
+Speaker 1: Is Scott allowed to say this, yes or no?
+
+611
+00:40:55,293 --> 00:40:56,582
+Speaker 0: The one listener will find out.
+
+612
+00:40:56,643 --> 00:40:57,610
+Speaker 0: I don't think it'll be a problem.
+
+613
+00:40:58,131 --> 00:41:04,204
+Speaker 1: I think a high percentage of the listeners might also know this already.
+
+614
+00:41:04,465 --> 00:41:06,850
+Speaker 1: I think that there's a moderate possibility of that.
+
+615
+00:41:08,830 --> 00:41:09,191
+Speaker 0: All right.
+
+616
+00:41:09,532 --> 00:41:13,358
+Speaker 1: So I went down the road of just build the same computer, but faster.
+
+617
+00:41:13,418 --> 00:41:15,161
+Speaker 1: I'm changing basically nothing in my life.
+
+618
+00:41:15,923 --> 00:41:20,090
+Speaker 1: You went down the radical approach of changing everything.
+
+619
+00:41:20,872 --> 00:41:21,393
+Speaker 0: That's right.
+
+620
+00:41:21,653 --> 00:41:27,004
+Speaker 0: So way back in the earliest days, I used the Apple computers because that's what school had.
+
+621
+00:41:27,605 --> 00:41:29,730
+Speaker 0: But then I wanted to play video games.
+
+622
+00:41:30,130 --> 00:41:33,255
+Speaker 0: So at my house, I got x86 computers.
+
+623
+00:41:34,096 --> 00:41:43,610
+Speaker 0: And for all the years since the mid 90s, I used x86 computers with Windows of some kind.
+
+624
+00:41:43,670 --> 00:41:48,737
+Speaker 0: Microsoft operating systems and Linux operating systems, but still PCs.
+
+625
+00:41:49,258 --> 00:41:49,458
+Speaker 0: Right.
+
+626
+00:41:49,919 --> 00:41:50,800
+Speaker 0: And that's what I used.
+
+627
+00:41:51,401 --> 00:41:57,830
+Speaker 0: And even as Macs became popular and I saw other developers using them, I did not use them.
+
+628
+00:41:58,371 --> 00:41:59,473
+Speaker 0: Right.
+
+629
+00:41:59,713 --> 00:42:03,080
+Speaker 0: Mostly because, hey, those things don't play games or run.
+
+630
+00:42:03,321 --> 00:42:04,223
+Speaker 0: You know, they don't.
+
+631
+00:42:04,263 --> 00:42:07,750
+Speaker 0: they don't do what I need to do, even though I see some benefits to them.
+
+632
+00:42:08,170 --> 00:42:09,092
+Speaker 0: That is not my deal.
+
+633
+00:42:09,933 --> 00:42:21,370
+Speaker 0: And then at a job I had in the late 2000s where I did not get to choose my computer, they gave me a Macintosh computer running whatever Mac OS there was at the time.
+
+634
+00:42:22,592 --> 00:42:25,960
+Speaker 0: And I was unhappy, to say the least.
+
+635
+00:42:26,902 --> 00:42:30,150
+Speaker 0: It was difficult to do my work with that computer.
+
+636
+00:42:31,950 --> 00:42:44,768
+Speaker 1: Let's go back to June 19th, 2006, an episode that went up shortly before midnight instead of the normal time, because I had switched to Mac and tried to make geek nights on a 2006 era Mac.
+
+637
+00:42:46,090 --> 00:42:48,414
+Speaker 0: And that made so much sense then on paper.
+
+638
+00:42:48,514 --> 00:42:48,714
+Speaker 0: Right.
+
+639
+00:42:49,135 --> 00:42:50,357
+Speaker 0: A, we didn't have a lot of money.
+
+640
+00:42:50,978 --> 00:42:53,582
+Speaker 0: B, it was very small and inexpensive.
+
+641
+00:42:53,622 --> 00:42:54,884
+Speaker 1: The Mac Mini had just come out.
+
+642
+00:42:54,944 --> 00:42:58,850
+Speaker 1: And back then, like, I don't think many of you remember what computers were like back then.
+
+643
+00:42:59,471 --> 00:43:01,914
+Speaker 0: That was like the first Mac Mini with a core solo.
+
+644
+00:43:03,896 --> 00:43:08,703
+Speaker 0: It had, you know, whatever the things we actually needed to do.
+
+645
+00:43:09,043 --> 00:43:11,346
+Speaker 0: Browsing the web, making a podcast.
+
+646
+00:43:11,406 --> 00:43:11,606
+Speaker 0: Right.
+
+647
+00:43:11,646 --> 00:43:14,390
+Speaker 0: Could theoretically be accomplished with that computer.
+
+648
+00:43:14,791 --> 00:43:24,210
+Speaker 0: It came with GarageBand, which we had never used, but it looked like a really polished piece of software, not like the Garbo ReSound we were using on Linux or whatever.
+
+649
+00:43:24,951 --> 00:43:27,196
+Speaker 1: I just want to point out, both our things of the day are gone.
+
+650
+00:43:27,296 --> 00:43:33,430
+Speaker 1: And the news on that episode was Blu-ray debuts and Craigslist has a whole bunch of new features.
+
+651
+00:43:36,390 --> 00:43:36,871
+Speaker 0: Yep.
+
+652
+00:43:37,011 --> 00:43:40,658
+Speaker 0: And so we got that core solo and actually, no, it was not a good time.
+
+653
+00:43:41,379 --> 00:43:44,565
+Speaker 1: It was so bad, but we turned it into a cheap PC, so it worked out in the end.
+
+654
+00:43:44,585 --> 00:43:44,805
+Speaker 0: It was.
+
+655
+00:43:44,885 --> 00:43:47,510
+Speaker 0: It served well as an HDPC for many years.
+
+656
+00:43:47,650 --> 00:43:49,093
+Speaker 0: So it was.
+
+657
+00:43:49,154 --> 00:43:50,236
+Speaker 0: it was not a waste of money.
+
+658
+00:43:50,256 --> 00:43:56,189
+Speaker 1: I wish I hadn't taken apart my regular computer because I had to put it back together to do the show that night.
+
+659
+00:44:00,351 --> 00:44:01,994
+Speaker 0: OK, so it was not a good.
+
+660
+00:44:02,355 --> 00:44:09,430
+Speaker 0: after the sad Mac experiences, even though other people were using them somehow, I was just like, clearly, that's not for me.
+
+661
+00:44:10,030 --> 00:44:10,291
+Speaker 0: Right.
+
+662
+00:44:10,651 --> 00:44:16,540
+Speaker 0: I'll stay away, even though I was all in on iPods and iPhones and iPads.
+
+663
+00:44:17,041 --> 00:44:17,281
+Speaker 0: Right.
+
+664
+00:44:17,662 --> 00:44:18,183
+Speaker 0: Which are great.
+
+665
+00:44:18,603 --> 00:44:22,930
+Speaker 0: I had no problems with those because I was never trying to make them do anything that they didn't do.
+
+666
+00:44:23,571 --> 00:44:25,373
+Speaker 0: I did things the way they wanted to do them.
+
+667
+00:44:25,834 --> 00:44:26,075
+Speaker 0: Right.
+
+668
+00:44:27,116 --> 00:44:36,310
+Speaker 0: But it was always kind of sad that the integration right between the iOS and Windows was not so great, even though they're literally improving it like right now.
+
+669
+00:44:36,710 --> 00:44:43,441
+Speaker 0: It's like Microsoft and Apple finally got their shit together regarding the integration between iPhones and Windows.
+
+670
+00:44:43,642 --> 00:44:48,550
+Speaker 0: And it is now like decent, acceptable, which it has never been before.
+
+671
+00:44:49,531 --> 00:44:52,415
+Speaker 0: So anyway, it comes time where I need a new computer.
+
+672
+00:44:52,435 --> 00:44:54,799
+Speaker 0: that the one I had was was looking slow.
+
+673
+00:44:55,179 --> 00:44:55,460
+Speaker 0: Right.
+
+674
+00:44:55,780 --> 00:45:01,950
+Speaker 0: I was having issues, but I'm like, you know, I could just get another PC.
+
+675
+00:45:02,550 --> 00:45:02,791
+Speaker 0: Right.
+
+676
+00:45:03,232 --> 00:45:04,234
+Speaker 0: That's faster and better.
+
+677
+00:45:05,095 --> 00:45:06,598
+Speaker 0: But I really want to do that right now.
+
+678
+00:45:07,039 --> 00:45:08,161
+Speaker 0: It's kind of expensive.
+
+679
+00:45:08,682 --> 00:45:12,930
+Speaker 0: I'd rather get like a 50, 80, 60, you know, right down the line.
+
+680
+00:45:13,230 --> 00:45:14,612
+Speaker 0: I don't want a 40, whatever.
+
+681
+00:45:14,773 --> 00:45:16,355
+Speaker 0: I have a 1070.
+
+682
+00:45:16,355 --> 00:45:20,000
+Speaker 0: Every game I play can play on this computer just fine.
+
+683
+00:45:20,140 --> 00:45:26,449
+Speaker 0: There is no game out there that requires more performance than this computer does.
+
+684
+00:45:26,469 --> 00:45:27,070
+Speaker 0: Right.
+
+685
+00:45:27,890 --> 00:45:28,993
+Speaker 1: That Scott wants to play.
+
+686
+00:45:29,734 --> 00:45:30,476
+Speaker 0: That I want to play.
+
+687
+00:45:30,957 --> 00:45:31,157
+Speaker 0: Right.
+
+688
+00:45:31,638 --> 00:45:33,041
+Speaker 0: So why would I why would I do that?
+
+689
+00:45:33,482 --> 00:45:33,723
+Speaker 0: Right.
+
+690
+00:45:34,464 --> 00:45:36,068
+Speaker 0: Whereas the Mac.
+
+691
+00:45:36,749 --> 00:45:36,970
+Speaker 0: Right.
+
+692
+00:45:37,350 --> 00:45:41,997
+Speaker 0: Has several benefits that I can actually, you know, see clearly.
+
+693
+00:45:42,298 --> 00:45:45,583
+Speaker 0: and but why do I trust the Mac after this time?
+
+694
+00:45:45,643 --> 00:45:50,630
+Speaker 0: Well, when I got my newest job, right, that the previous job, I was using the Surface Pro.
+
+695
+00:45:51,131 --> 00:45:52,453
+Speaker 0: Right.
+
+696
+00:45:52,473 --> 00:45:53,214
+Speaker 0: And what?
+
+697
+00:45:53,595 --> 00:45:53,795
+Speaker 0: to?
+
+698
+00:45:54,236 --> 00:45:57,621
+Speaker 0: several jobs ago, I had a Surface Pro I was very happy with.
+
+699
+00:45:57,641 --> 00:46:02,650
+Speaker 0: Then shortly before leaving my previous job, I convinced them to get me the Surface Pro.
+
+700
+00:46:03,151 --> 00:46:04,473
+Speaker 0: And so I would be happy again.
+
+701
+00:46:04,493 --> 00:46:09,662
+Speaker 0: And I know and I saw, oh, no, the Surface Pro is not as good as it was before.
+
+702
+00:46:09,823 --> 00:46:10,524
+Speaker 0: This is sad.
+
+703
+00:46:10,544 --> 00:46:13,950
+Speaker 0: I do not like this Surface Pro.
+
+704
+00:46:14,250 --> 00:46:30,370
+Speaker 0: And so when I changed jobs, it happened to be around the time that the M2 MacBook Air came out and I said, all right, I'll go and I'll get an M2 MacBook Pro from the store that I know I can return for no loss of money and try it and see if I could do my job on it.
+
+705
+00:46:31,131 --> 00:46:38,900
+Speaker 0: And sure enough, I was able to do my job on it because things have changed in the intervening 15 years of time.
+
+706
+00:46:39,401 --> 00:46:47,230
+Speaker 0: And I said, OK, I would return this and my new employer will buy me the M2 MacBook Air and I will use that for my job.
+
+707
+00:46:47,490 --> 00:46:51,536
+Speaker 0: And it has been pretty great, actually, for doing my job.
+
+708
+00:46:51,556 --> 00:46:52,997
+Speaker 0: I don't see any.
+
+709
+00:46:53,018 --> 00:46:55,561
+Speaker 0: I have no complaint really whatsoever.
+
+710
+00:46:57,223 --> 00:47:02,109
+Speaker 0: It's like, OK, and it's thin and it's tiny and I can take it with me.
+
+711
+00:47:03,211 --> 00:47:05,598
+Speaker 0: And yeah, it's.
+
+712
+00:47:05,618 --> 00:47:09,270
+Speaker 0: there is no complaint whatsoever as far as do my work with the MacBook Air.
+
+713
+00:47:10,914 --> 00:47:16,810
+Speaker 0: So I'm like, well, you know, even though I also play video games, right.
+
+714
+00:47:18,210 --> 00:47:22,948
+Speaker 0: The fact is that most of the things I do on my computer are not play video games.
+
+715
+00:47:23,289 --> 00:47:23,470
+Speaker 0: Right.
+
+716
+00:47:24,350 --> 00:47:27,377
+Speaker 0: And I use a computer mostly for other things.
+
+717
+00:47:27,738 --> 00:47:27,938
+Speaker 0: Right.
+
+718
+00:47:28,399 --> 00:47:33,330
+Speaker 0: You know, photo stuff, programming stuff, podcasting, reading the Internet.
+
+719
+00:47:33,991 --> 00:47:34,231
+Speaker 0: Right.
+
+720
+00:47:34,952 --> 00:47:37,214
+Speaker 0: All sorts of other things that are not video game.
+
+721
+00:47:38,255 --> 00:47:54,350
+Speaker 0: And I'm like, you know, because I'm also using the iOS so much with the integrations and many other reasons, especially mostly the insane speed and performance of the M3 CPU, which are insane.
+
+722
+00:47:54,430 --> 00:47:55,212
+Speaker 0: Right.
+
+723
+00:47:55,913 --> 00:48:05,110
+Speaker 0: Maybe I can go to a world where I get that new MacBook Pro and just go with that and don't throw up my desktop.
+
+724
+00:48:05,291 --> 00:48:05,471
+Speaker 0: Right.
+
+725
+00:48:05,592 --> 00:48:10,048
+Speaker 0: Obviously, most people are in a spot where they can afford one computer and that's it.
+
+726
+00:48:10,068 --> 00:48:10,630
+Speaker 0: Right.
+
+727
+00:48:11,312 --> 00:48:14,828
+Speaker 0: And if that was the case, yeah, I wouldn't get a Mac because I got to play some video games.
+
+728
+00:48:16,631 --> 00:48:17,091
+Speaker 0: Obviously.
+
+729
+00:48:17,112 --> 00:48:17,492
+Speaker 0: Yeah.
+
+730
+00:48:17,813 --> 00:48:26,090
+Speaker 0: But if you can afford to have two computers or you have a computer lying around that can play all the video games you want and you're just going to get an additional computer.
+
+731
+00:48:27,631 --> 00:48:29,055
+Speaker 0: I'm not missing out on anything.
+
+732
+00:48:29,155 --> 00:48:34,350
+Speaker 1: I mean, my current old workstation can play Counter-Strike 2 in full glory.
+
+733
+00:48:35,050 --> 00:48:37,689
+Speaker 1: You can have a pretty weak computer and play a lot of video games.
+
+734
+00:48:38,431 --> 00:48:38,631
+Speaker 0: Right.
+
+735
+00:48:38,751 --> 00:48:41,736
+Speaker 0: And plus, there have been many advancements in this field.
+
+736
+00:48:41,796 --> 00:48:43,438
+Speaker 0: For example, the Steam stream.
+
+737
+00:48:44,059 --> 00:48:51,290
+Speaker 0: Oftentimes it's like, yeah, the desktop is playing the game, but I'm on my Mac and it's streaming the game to the Mac and it just works.
+
+738
+00:48:52,151 --> 00:48:58,730
+Speaker 0: And it's like, OK, it's basically like all Steam games run on my Mac because I have a desktop in the house.
+
+739
+00:48:59,511 --> 00:48:59,672
+Speaker 0: Right.
+
+740
+00:48:59,732 --> 00:49:04,380
+Speaker 0: And you couldn't tell mostly that it wasn't like running natively or whatever.
+
+741
+00:49:05,061 --> 00:49:10,170
+Speaker 0: I just open up Steam on the Mac and all these games that are PC only are listed and I can push play and they play.
+
+742
+00:49:10,950 --> 00:49:14,235
+Speaker 0: And it's like, all right, I'm not missing anything here.
+
+743
+00:49:16,658 --> 00:49:25,430
+Speaker 0: However, while I am overall satisfied and are not returning the MacBook Pro that I now use as my primary computer.
+
+744
+00:49:25,531 --> 00:49:29,210
+Speaker 1: Are there perhaps some things in the gears that have ground ever so slightly?
+
+745
+00:49:29,550 --> 00:49:29,951
+Speaker 0: Oh, yes.
+
+746
+00:49:29,971 --> 00:49:34,781
+Speaker 0: There is a list of things that are still gripes.
+
+747
+00:49:34,841 --> 00:49:36,184
+Speaker 0: They're anti gripes.
+
+748
+00:49:36,224 --> 00:49:38,970
+Speaker 0: There are things the Mac does better, actually, than Windows.
+
+749
+00:49:39,470 --> 00:49:47,230
+Speaker 0: The way that it handles audio is so much better than the way Windows does it by like a thousand times.
+
+750
+00:49:47,330 --> 00:49:55,050
+Speaker 0: You can you know, in Windows, you have the situation where like each different stage, there's like a different volume control and they all stack on each other.
+
+751
+00:49:55,550 --> 00:49:56,853
+Speaker 0: Right.
+
+752
+00:49:56,873 --> 00:49:58,916
+Speaker 0: In on the Mac, there's always one.
+
+753
+00:49:59,517 --> 00:49:59,958
+Speaker 0: That is it.
+
+754
+00:50:00,619 --> 00:50:00,819
+Speaker 0: Right.
+
+755
+00:50:01,139 --> 00:50:07,590
+Speaker 0: It's like if you've got your AirPods in that, it's like the software control on the Mac is the control for the volume.
+
+756
+00:50:08,111 --> 00:50:08,752
+Speaker 0: End of story.
+
+757
+00:50:09,013 --> 00:50:09,233
+Speaker 0: Right.
+
+758
+00:50:09,594 --> 00:50:17,030
+Speaker 0: If you have an audio external audio interface plugged in, as I do to do this podcast and your headphones plugged into it, the Mac disables.
+
+759
+00:50:17,210 --> 00:50:18,995
+Speaker 0: It's software audio controls completely.
+
+760
+00:50:19,417 --> 00:50:22,706
+Speaker 1: So for pro audio interfaces, Windows apps can do that, too.
+
+761
+00:50:22,806 --> 00:50:24,129
+Speaker 1: And like all Adobe stuff does that.
+
+762
+00:50:25,011 --> 00:50:26,716
+Speaker 0: But I'm saying like this is the way it does it.
+
+763
+00:50:26,837 --> 00:50:27,338
+Speaker 0: Period.
+
+764
+00:50:27,379 --> 00:50:28,001
+Speaker 0: End of story.
+
+765
+00:50:28,281 --> 00:50:28,462
+Speaker 0: Right.
+
+766
+00:50:28,562 --> 00:50:30,308
+Speaker 0: It's the basic pro mode all the time.
+
+767
+00:50:30,328 --> 00:50:30,910
+Speaker 0: Right.
+
+768
+00:50:32,850 --> 00:50:34,574
+Speaker 0: Also, every individual app.
+
+769
+00:50:35,396 --> 00:50:35,636
+Speaker 0: Right.
+
+770
+00:50:35,997 --> 00:50:38,503
+Speaker 0: You can control the volumes individually.
+
+771
+00:50:38,523 --> 00:50:39,244
+Speaker 0: Right.
+
+772
+00:50:39,665 --> 00:50:40,627
+Speaker 0: Which Windows?
+
+773
+00:50:41,128 --> 00:50:41,810
+Speaker 0: not so good at that.
+
+774
+00:50:43,771 --> 00:50:45,435
+Speaker 0: So there are a lot of other pluses.
+
+775
+00:50:45,515 --> 00:50:45,715
+Speaker 0: Right.
+
+776
+00:50:45,756 --> 00:50:52,049
+Speaker 0: Bluetooth things just work more nicely and smoothly and reliably and so forth and so forth.
+
+777
+00:50:52,750 --> 00:50:57,879
+Speaker 0: But anyway, things that are a problem on the Mac that I'm not happy about.
+
+778
+00:50:57,959 --> 00:50:58,240
+Speaker 0: Right.
+
+779
+00:50:59,081 --> 00:51:01,285
+Speaker 0: The biggest one on Windows.
+
+780
+00:51:01,606 --> 00:51:03,870
+Speaker 0: Let's say you plug a Windows computer into some monitors.
+
+781
+00:51:04,411 --> 00:51:04,612
+Speaker 0: Right.
+
+782
+00:51:05,273 --> 00:51:07,378
+Speaker 0: And you can configure it any way you want.
+
+783
+00:51:07,398 --> 00:51:11,829
+Speaker 0: You can say mirror that screen, extend to that screen, resolution on that screen.
+
+784
+00:51:11,849 --> 00:51:12,450
+Speaker 0: Right.
+
+785
+00:51:12,770 --> 00:51:14,355
+Speaker 0: And with Mac, same thing.
+
+786
+00:51:14,415 --> 00:51:15,880
+Speaker 0: You can configure it however you want.
+
+787
+00:51:16,542 --> 00:51:19,370
+Speaker 0: But in Windows, there is an additional configuration.
+
+788
+00:51:20,191 --> 00:51:22,817
+Speaker 0: And that configuration is Windows.
+
+789
+00:51:23,158 --> 00:51:28,510
+Speaker 0: I know that monitor is plugged into this computer with an HDMI cable, DisplayPort cable, whatever kind of cable.
+
+790
+00:51:29,170 --> 00:51:32,940
+Speaker 0: However, I would prefer for you to pretend that monitor does not exist.
+
+791
+00:51:33,061 --> 00:51:34,344
+Speaker 0: Do not send it any signal.
+
+792
+00:51:34,886 --> 00:51:35,848
+Speaker 0: Do not recognize it.
+
+793
+00:51:36,390 --> 00:51:36,530
+Speaker 0: Right.
+
+794
+00:51:36,810 --> 00:51:37,652
+Speaker 0: Do not talk to it.
+
+795
+00:51:38,254 --> 00:51:40,841
+Speaker 0: And then that monitor will do what it will.
+
+796
+00:51:41,101 --> 00:51:43,528
+Speaker 0: Probably turn off or search its other inputs.
+
+797
+00:51:43,608 --> 00:51:44,430
+Speaker 0: for, you know.
+
+798
+00:51:44,970 --> 00:51:46,095
+Speaker 1: In Windows, you can just do that.
+
+799
+00:51:46,115 --> 00:51:48,806
+Speaker 1: You just click on a monitor and say it's not a monitor anymore.
+
+800
+00:51:48,967 --> 00:51:49,670
+Speaker 1: And it's just fine.
+
+801
+00:51:49,770 --> 00:51:50,351
+Speaker 0: That's correct.
+
+802
+00:51:50,932 --> 00:51:52,854
+Speaker 0: On the Mac, you cannot do this.
+
+803
+00:51:53,955 --> 00:51:55,217
+Speaker 0: It's very, very annoying.
+
+804
+00:51:55,337 --> 00:51:58,561
+Speaker 0: If you want a monitor to switch to another input.
+
+805
+00:51:58,641 --> 00:52:06,030
+Speaker 0: that is not the Mac, then you must go to that monitor and push buttons on it and tell it to switch to a different input.
+
+806
+00:52:07,151 --> 00:52:13,885
+Speaker 0: And to make matters worse, it's like, OK, I have chosen this monitor and I have said, monitor, go to a different input.
+
+807
+00:52:14,166 --> 00:52:15,990
+Speaker 0: There's something else plugged into you besides the Mac.
+
+808
+00:52:16,391 --> 00:52:20,379
+Speaker 0: I want you to show what's on that other thing and not what the Mac is displaying.
+
+809
+00:52:21,020 --> 00:52:21,521
+Speaker 0: That works.
+
+810
+00:52:22,223 --> 00:52:25,890
+Speaker 0: However, the Mac still thinks that monitor is on and displaying.
+
+811
+00:52:26,291 --> 00:52:34,608
+Speaker 0: So if you had, say, an extended desktop, you must now push extra buttons to say Mac actually mirror that screen.
+
+812
+00:52:34,708 --> 00:52:35,750
+Speaker 0: And that way it doesn't matter.
+
+813
+00:52:36,772 --> 00:52:43,170
+Speaker 0: I can't see it because if you're extending to it, obviously there might be apps on it that you can't see because the Mac isn't displaying.
+
+814
+00:52:43,510 --> 00:52:44,633
+Speaker 1: Your mouse falls into the hole.
+
+815
+00:52:44,653 --> 00:52:45,475
+Speaker 1: You don't know where it is.
+
+816
+00:52:46,498 --> 00:52:47,059
+Speaker 0: Exactly.
+
+817
+00:52:47,320 --> 00:52:49,425
+Speaker 0: So that is extremely annoying.
+
+818
+00:52:50,127 --> 00:52:51,170
+Speaker 0: I'm upset about that.
+
+819
+00:52:51,471 --> 00:52:51,651
+Speaker 0: Right.
+
+820
+00:52:51,711 --> 00:52:54,680
+Speaker 0: It makes me have to push a lot more buttons to switch monitors around.
+
+821
+00:52:55,142 --> 00:52:57,770
+Speaker 0: For most people who don't have a bunch of monitors, it will never matter.
+
+822
+00:52:59,671 --> 00:52:59,931
+Speaker 0: All right.
+
+823
+00:53:00,011 --> 00:53:00,712
+Speaker 0: Second issue.
+
+824
+00:53:00,992 --> 00:53:01,233
+Speaker 0: Right.
+
+825
+00:53:01,693 --> 00:53:14,350
+Speaker 0: So on the Macs, there's this natural scrolling feature, which is basically the scrolling direction is reversed with mouse wheels and, you know, when you're on a touch pad, you're swiping your fingers up and down.
+
+826
+00:53:14,610 --> 00:53:14,851
+Speaker 0: Right.
+
+827
+00:53:14,871 --> 00:53:24,990
+Speaker 0: Because normally on a Windows PC, right, if you were to scroll and I don't even know if it's up or down, my hand just feels it subconsciously at the correct direction to scroll.
+
+828
+00:53:26,830 --> 00:53:27,051
+Speaker 0: Right.
+
+829
+00:53:27,411 --> 00:53:29,073
+Speaker 0: The Mac has it in reverse.
+
+830
+00:53:29,954 --> 00:53:32,577
+Speaker 0: OK, you can go into the settings and unreversed it.
+
+831
+00:53:33,298 --> 00:53:33,799
+Speaker 0: Terrific.
+
+832
+00:53:34,440 --> 00:53:42,930
+Speaker 0: However, sometimes using a touch pad and with a touch pad, you actually kind of want to do it the Mac way, the reversed way.
+
+833
+00:53:43,250 --> 00:53:45,334
+Speaker 0: That makes sense with a touch pad.
+
+834
+00:53:45,554 --> 00:53:45,774
+Speaker 0: Right.
+
+835
+00:53:45,995 --> 00:53:49,000
+Speaker 0: Because it feels like, you know, you're moving the paper or whatever.
+
+836
+00:53:49,861 --> 00:53:55,550
+Speaker 0: But if you're using a mouse wheel on a mouse with a little clicky wheel, you don't want it reversed.
+
+837
+00:53:55,670 --> 00:53:58,234
+Speaker 0: You want it the Windows way on a Mac.
+
+838
+00:53:58,895 --> 00:54:04,725
+Speaker 0: If you change that setting, it changes the setting for both mice and track pads universally.
+
+839
+00:54:04,966 --> 00:54:07,510
+Speaker 0: You cannot separate the setting per pointing device.
+
+840
+00:54:08,173 --> 00:54:11,330
+Speaker 1: That would be infuriating.
+
+841
+00:54:12,490 --> 00:54:13,552
+Speaker 0: It's very upsetting.
+
+842
+00:54:13,572 --> 00:54:13,852
+Speaker 0: Yes.
+
+843
+00:54:14,634 --> 00:54:24,770
+Speaker 0: So if you are somebody who uses both mice and touch pads with the same Mac, it's a bad time for scrolling with a scroll wheel and such.
+
+844
+00:54:27,891 --> 00:54:31,456
+Speaker 0: Here is a positive and also a negative.
+
+845
+00:54:33,099 --> 00:54:39,689
+Speaker 0: So let's say you're on a Mac and you hold down the letter E on the keyboard and don't let go.
+
+846
+00:54:41,232 --> 00:54:48,142
+Speaker 0: What will happen is it'll pop up this little menu of like variations on the letter E. Like, oh, do you want E with a little carrot?
+
+847
+00:54:48,363 --> 00:54:49,324
+Speaker 0: You want E with a little hat?
+
+848
+00:54:49,685 --> 00:54:52,049
+Speaker 0: You want a little upside down E?
+
+849
+00:54:52,069 --> 00:54:52,569
+Speaker 0: What do you want?
+
+850
+00:54:52,750 --> 00:54:52,970
+Speaker 0: Right.
+
+851
+00:54:53,290 --> 00:54:56,979
+Speaker 0: You clearly held down E looking for a more different E. Right.
+
+852
+00:54:57,460 --> 00:54:57,981
+Speaker 0: You pick one.
+
+853
+00:54:58,422 --> 00:55:00,207
+Speaker 0: And sometimes that's real nice.
+
+854
+00:55:00,527 --> 00:55:01,570
+Speaker 0: That's exactly what you want.
+
+855
+00:55:01,610 --> 00:55:06,650
+Speaker 1: That's what I want on a touch pad and have never wanted on a physical keyboard at any point in my entire life.
+
+856
+00:55:07,910 --> 00:55:10,875
+Speaker 0: I'm just saying is that it's a lot better than a windows.
+
+857
+00:55:10,895 --> 00:55:13,078
+Speaker 0: You have to be like, oh, one seven away.
+
+858
+00:55:13,198 --> 00:55:21,210
+Speaker 0: or go to Wikipedia, find the character, copy and paste it or use the charm app or some other or use the little search menu thingy that where you place.
+
+859
+00:55:21,350 --> 00:55:26,945
+Speaker 0: I think it's like window key period brings up the menu that you can search for characters and emojis.
+
+860
+00:55:27,707 --> 00:55:29,010
+Speaker 0: It's a lot better than those options.
+
+861
+00:55:30,551 --> 00:55:34,960
+Speaker 0: The problem is, what if I'm holding down E because I want to write a bunch of E's?
+
+862
+00:55:35,762 --> 00:55:39,670
+Speaker 0: What if I'm holding down J or K because I'm in VIM and I'm scrolling up and down?
+
+863
+00:55:41,131 --> 00:55:42,595
+Speaker 0: This thing pops up instead.
+
+864
+00:55:42,735 --> 00:55:45,222
+Speaker 0: And it's like sometimes you want it and sometimes you don't.
+
+865
+00:55:45,502 --> 00:55:48,330
+Speaker 0: And it's sometimes intelligent, like and sometimes not.
+
+866
+00:55:49,151 --> 00:55:49,853
+Speaker 0: And so you're up.
+
+867
+00:55:49,873 --> 00:55:54,384
+Speaker 0: There is a way to turn it off completely with some terminal commands.
+
+868
+00:55:54,544 --> 00:55:56,269
+Speaker 0: But that's now you don't have it when you want it.
+
+869
+00:55:57,991 --> 00:56:00,475
+Speaker 0: So I opted to turn it off completely.
+
+870
+00:56:00,776 --> 00:56:08,050
+Speaker 0: And instead there's a Mac also, thankfully, has an OK option where you can press option and a letter.
+
+871
+00:56:08,190 --> 00:56:12,097
+Speaker 0: So let's say you press option n. Well, it's like ends sort of go with tildes.
+
+872
+00:56:12,398 --> 00:56:12,698
+Speaker 0: Right.
+
+873
+00:56:13,399 --> 00:56:19,150
+Speaker 0: So if you press option n, the next character you press, if it can have a tilde, it'll have a tilde.
+
+874
+00:56:19,792 --> 00:56:22,498
+Speaker 0: So you can be like option n, n to get an n with a tilde on it.
+
+875
+00:56:22,518 --> 00:56:23,341
+Speaker 0: All right.
+
+876
+00:56:23,541 --> 00:56:26,970
+Speaker 0: Or you can be like option E. Well, E's usually have carrots on top.
+
+877
+00:56:27,371 --> 00:56:31,901
+Speaker 0: So if you do option E to get a carrot and then you press O, you'll get an O with a carrot thingy.
+
+878
+00:56:32,201 --> 00:56:32,422
+Speaker 0: Right.
+
+879
+00:56:33,324 --> 00:56:34,306
+Speaker 0: Or accent or whatever.
+
+880
+00:56:34,326 --> 00:56:36,030
+Speaker 0: I don't know what the different marks are called.
+
+881
+00:56:36,910 --> 00:56:38,254
+Speaker 0: So that's not too bad.
+
+882
+00:56:38,294 --> 00:56:39,918
+Speaker 0: That's also still better than Windows.
+
+883
+00:56:40,480 --> 00:56:44,310
+Speaker 0: But it's annoying that I can't have the holding feature when it makes sense.
+
+884
+00:56:44,571 --> 00:56:49,043
+Speaker 0: And it can't intelligently figure out, oh, he's in scrolling up and down.
+
+885
+00:56:49,083 --> 00:56:51,650
+Speaker 0: He doesn't want a K with a thing on top of it.
+
+886
+00:56:52,190 --> 00:56:59,330
+Speaker 1: I would I mean, the right way to do that UX on a keyboard would be to have a button you hold to then cause keys to do that.
+
+887
+00:57:00,450 --> 00:57:00,691
+Speaker 0: Yeah.
+
+888
+00:57:01,092 --> 00:57:01,873
+Speaker 0: Anyway, it doesn't do that.
+
+889
+00:57:02,535 --> 00:57:05,341
+Speaker 1: I mean, Windows doesn't do that either, but it doesn't.
+
+890
+00:57:05,621 --> 00:57:06,363
+Speaker 1: It definitely lets me.
+
+891
+00:57:06,403 --> 00:57:08,648
+Speaker 1: if I hold E, it's always just going to type a bunch of E's.
+
+892
+00:57:11,951 --> 00:57:25,325
+Speaker 0: OK, so let's say you in Windows, you install an app and you have the system tray slash notification area in the bottom right corner where it's sort of like it's not.
+
+893
+00:57:25,405 --> 00:57:29,950
+Speaker 0: it shouldn't be in the taskbar because it's not like a running app that I'm going to open and close.
+
+894
+00:57:30,130 --> 00:57:36,989
+Speaker 0: It's sort of this in-between thing where I always wanted accessible, but not actually as its own app.
+
+895
+00:57:37,009 --> 00:57:37,230
+Speaker 0: Right.
+
+896
+00:57:38,771 --> 00:57:50,650
+Speaker 0: So, for example, like, you know, I think some people I think incorrectly will put like discord and like actual apps down in there because they're apps that are always open for them.
+
+897
+00:57:51,311 --> 00:57:54,839
+Speaker 0: And I'm not a huge fan of that, but it's I guess it's valid.
+
+898
+00:57:55,320 --> 00:58:00,230
+Speaker 0: But it's more like things that are mostly background apps that you don't actually open.
+
+899
+00:58:00,531 --> 00:58:03,979
+Speaker 0: Like the only thing down there is like settings for something that's sort of right.
+
+900
+00:58:04,460 --> 00:58:05,061
+Speaker 0: Always there.
+
+901
+00:58:05,141 --> 00:58:08,369
+Speaker 0: I think of it more as like if you're playing like RPG.
+
+902
+00:58:09,531 --> 00:58:09,751
+Speaker 0: Right.
+
+903
+00:58:09,851 --> 00:58:13,238
+Speaker 0: It's like sometimes you have the active abilities and sometimes you have the passive one.
+
+904
+00:58:13,278 --> 00:58:14,080
+Speaker 0: Yeah.
+
+905
+00:58:14,120 --> 00:58:14,761
+Speaker 0: Passive buff.
+
+906
+00:58:15,102 --> 00:58:15,363
+Speaker 0: Right.
+
+907
+00:58:15,743 --> 00:58:18,068
+Speaker 0: If it's a passive buff, it goes in the tray.
+
+908
+00:58:18,088 --> 00:58:18,870
+Speaker 0: Right.
+
+909
+00:58:19,751 --> 00:58:21,314
+Speaker 0: On the Mac, they have an equivalent.
+
+910
+00:58:21,575 --> 00:58:23,518
+Speaker 0: It's basically the menu bar that's always there.
+
+911
+00:58:23,838 --> 00:58:26,222
+Speaker 0: Right up at the top next to the clock in the top right.
+
+912
+00:58:26,803 --> 00:58:30,269
+Speaker 0: You can put all sorts of icons and various apps will put icons there.
+
+913
+00:58:32,950 --> 00:58:33,071
+Speaker 0: Right.
+
+914
+00:58:33,471 --> 00:58:41,870
+Speaker 0: However, you have basically very little control over what icons appear there, what order they appear in, whether they appear or not.
+
+915
+00:58:42,451 --> 00:58:49,290
+Speaker 0: It's like if you saw an app and the app wants to be there and the app doesn't provide its own setting to not be there, then it's going to be there.
+
+916
+00:58:49,591 --> 00:58:51,255
+Speaker 0: And if you don't want it there, you got to install the app.
+
+917
+00:58:51,516 --> 00:58:52,519
+Speaker 0: That's your only choice.
+
+918
+00:58:53,601 --> 00:58:55,406
+Speaker 0: Can you reorder them a little bit?
+
+919
+00:58:55,466 --> 00:58:55,928
+Speaker 0: Not really.
+
+920
+00:58:55,968 --> 00:58:56,770
+Speaker 0: Kind of sometimes.
+
+921
+00:58:57,831 --> 00:59:00,136
+Speaker 0: And what is the solution if you don't like how it's?
+
+922
+00:59:00,617 --> 00:59:02,320
+Speaker 0: what's going on up there and your little bar?
+
+923
+00:59:02,942 --> 00:59:05,226
+Speaker 0: Well, there's an app called Bartender.
+
+924
+00:59:05,607 --> 00:59:06,690
+Speaker 0: that's twenty dollars.
+
+925
+00:59:07,511 --> 00:59:09,233
+Speaker 0: It's made by some third party.
+
+926
+00:59:09,273 --> 00:59:10,976
+Speaker 0: It's not even an official Mac thing.
+
+927
+00:59:11,777 --> 00:59:18,046
+Speaker 0: It's like, you know, it's made by some bartender.
+
+928
+00:59:18,086 --> 00:59:18,406
+Speaker 0: five.
+
+929
+00:59:18,446 --> 00:59:20,429
+Speaker 0: Take control of your menu bar.
+
+930
+00:59:20,449 --> 00:59:20,950
+Speaker 0: Right.
+
+931
+00:59:21,450 --> 00:59:21,891
+Speaker 1: Yeah.
+
+932
+00:59:22,111 --> 00:59:26,338
+Speaker 1: A computer should give me control of my own menu bar as table stakes.
+
+933
+00:59:27,360 --> 00:59:28,001
+Speaker 0: That's correct.
+
+934
+00:59:28,562 --> 00:59:31,687
+Speaker 0: So it's a third party software.
+
+935
+00:59:31,728 --> 00:59:32,789
+Speaker 0: It's sixteen dollars.
+
+936
+00:59:32,829 --> 00:59:33,190
+Speaker 0: Sorry.
+
+937
+00:59:33,190 --> 00:59:38,439
+Speaker 0: You can get a four week free trial that basically allows you to fully configure the menu bar.
+
+938
+00:59:38,580 --> 00:59:44,490
+Speaker 1: It's really funny to me my entire life that Mac people will always answer my question of how do you do X with.
+
+939
+00:59:44,710 --> 00:59:46,034
+Speaker 1: Well, there's an app that does it.
+
+940
+00:59:46,876 --> 00:59:48,219
+Speaker 0: Yes, that is the thing.
+
+941
+00:59:48,399 --> 00:59:50,224
+Speaker 0: It's like, yes, there is an app that does that.
+
+942
+00:59:50,264 --> 00:59:52,890
+Speaker 0: Yes, that app actually does work and works beautifully.
+
+943
+00:59:52,970 --> 00:59:54,552
+Speaker 0: I do not have that app.
+
+944
+00:59:54,632 --> 00:59:56,655
+Speaker 0: I refuse to pay sixteen dollars for that app.
+
+945
+00:59:56,775 --> 00:59:57,035
+Speaker 0: Right.
+
+946
+00:59:58,437 --> 00:59:59,579
+Speaker 0: On principle, I mean, like.
+
+947
+00:59:59,599 --> 01:00:08,090
+Speaker 0: I'm not always, you know, a person who I've long since gotten stopped being a person who is so strongly adhering to principles.
+
+948
+01:00:08,090 --> 01:00:10,576
+Speaker 0: Well, I mean, like, but I want this is horseshit.
+
+949
+01:00:10,716 --> 01:00:14,985
+Speaker 1: I want a full audio software that will record audio and do geek.
+
+950
+01:00:15,005 --> 01:00:16,068
+Speaker 1: Yeah, I bought Audition.
+
+951
+01:00:16,148 --> 01:00:17,010
+Speaker 1: I guess that's an app.
+
+952
+01:00:17,631 --> 01:00:30,330
+Speaker 1: Windows doesn't just do what Audition does, but configuring a menu, configuring a scroll bar, like basic stuff like that, that is way out of bounds for an app that is not provided by the operating system.
+
+953
+01:00:30,770 --> 01:00:35,519
+Speaker 1: And don't come at me with a GNU versus Linux conversation because that is a bunch of horseshit.
+
+954
+01:00:35,539 --> 01:00:41,630
+Speaker 0: You shouldn't have to pay money for a basic common sense feature on Windows built into Windows.
+
+955
+01:00:41,970 --> 01:00:47,619
+Speaker 0: You can fully customize what's in the system tray when it's there, what's hidden, what's not hidden, everything.
+
+956
+01:00:47,699 --> 01:00:47,959
+Speaker 0: Right.
+
+957
+01:00:47,979 --> 01:00:48,861
+Speaker 0: You can get rid of stuff.
+
+958
+01:00:48,881 --> 01:00:49,562
+Speaker 0: You add stuff.
+
+959
+01:00:49,622 --> 01:00:51,284
+Speaker 0: You can do whatever the fuck you want down there.
+
+960
+01:00:51,564 --> 01:00:53,227
+Speaker 0: It's just part of the operating system.
+
+961
+01:00:54,409 --> 01:00:54,709
+Speaker 0: Duh.
+
+962
+01:00:55,130 --> 01:00:55,350
+Speaker 0: Right.
+
+963
+01:00:55,750 --> 01:00:57,313
+Speaker 0: So that's infuriating.
+
+964
+01:00:57,473 --> 01:01:05,946
+Speaker 0: And there are many other things on the Mac where it's a similar situation where it's like, oh, yes, you want to configure stuff that we have not provided.
+
+965
+01:01:06,386 --> 01:01:08,730
+Speaker 0: Someone sells a third party app that does that.
+
+966
+01:01:09,090 --> 01:01:27,590
+Speaker 1: See, I'm not even mad about the selling part as much as I am about the third party part, because when I have a computer, again, other than like GNU tools, you know, that whole conversation, I want to have as few applications on my computer as possible that were not provided by the operating system.
+
+967
+01:01:28,171 --> 01:01:29,032
+Speaker 0: But it's also.
+
+968
+01:01:29,092 --> 01:01:31,816
+Speaker 0: it's a. it's clearly a high demand thing.
+
+969
+01:01:31,876 --> 01:01:37,084
+Speaker 0: A lot of people are asking for this so much that this like a lot of people are installing these things.
+
+970
+01:01:37,184 --> 01:01:39,407
+Speaker 0: Clearly, this is a desired functionality.
+
+971
+01:01:39,828 --> 01:01:41,070
+Speaker 0: It's like a missing function.
+
+972
+01:01:41,410 --> 01:01:44,677
+Speaker 0: It's been this app is this bartender version five.
+
+973
+01:01:44,737 --> 01:01:51,050
+Speaker 0: This thing has been around for like almost as long as Mac OS X has been around because people have always wanted this.
+
+974
+01:01:51,190 --> 01:01:54,694
+Speaker 0: It's missing functionality and you haven't added it in 15 plus years.
+
+975
+01:01:55,275 --> 01:01:55,495
+Speaker 0: Right.
+
+976
+01:01:55,996 --> 01:01:57,037
+Speaker 0: And you're come on.
+
+977
+01:01:58,559 --> 01:01:59,741
+Speaker 0: And that's just one example.
+
+978
+01:01:59,761 --> 01:02:02,885
+Speaker 0: There are many other things where the solution is a third party app.
+
+979
+01:02:02,965 --> 01:02:06,469
+Speaker 0: It's like there's one that like keeps your screen from falling asleep.
+
+980
+01:02:06,970 --> 01:02:07,150
+Speaker 0: Right.
+
+981
+01:02:07,270 --> 01:02:09,193
+Speaker 0: Like called the caffeinated or some shit.
+
+982
+01:02:09,273 --> 01:02:18,527
+Speaker 0: It's like there's so many of these things are basic functionality is missing and third party apps open source or not or free or not are the only answer.
+
+983
+01:02:18,627 --> 01:02:19,729
+Speaker 0: And it's like go to hell.
+
+984
+01:02:19,769 --> 01:02:20,270
+Speaker 0: That's a bunch of.
+
+985
+01:02:20,731 --> 01:02:27,741
+Speaker 1: It's especially funny that like it's not a matter of Apple's weird, but like Linux is the way where you can do whatever you want.
+
+986
+01:02:27,761 --> 01:02:28,963
+Speaker 1: And then Windows is also like.
+
+987
+01:02:29,003 --> 01:02:33,310
+Speaker 1: Windows is super configurable compared to a Mac somehow.
+
+988
+01:02:36,430 --> 01:02:37,311
+Speaker 0: Another example.
+
+989
+01:02:37,531 --> 01:02:37,771
+Speaker 0: Right.
+
+990
+01:02:37,851 --> 01:02:41,754
+Speaker 0: So we know on a Mac that when you close a window, you did.
+
+991
+01:02:41,834 --> 01:02:42,575
+Speaker 0: I got Windows.
+
+992
+01:02:42,735 --> 01:02:43,896
+Speaker 0: The window is the app.
+
+993
+01:02:43,996 --> 01:02:44,256
+Speaker 0: Right.
+
+994
+01:02:44,276 --> 01:02:46,177
+Speaker 0: If you close the window, the app is gone.
+
+995
+01:02:46,217 --> 01:02:52,022
+Speaker 0: And some apps and windows will say have a special setting like don't actually exit when I close the window.
+
+996
+01:02:52,062 --> 01:02:53,082
+Speaker 0: Go to the system tray.
+
+997
+01:02:53,182 --> 01:02:53,443
+Speaker 0: Right.
+
+998
+01:02:53,503 --> 01:02:53,703
+Speaker 0: Yeah.
+
+999
+01:02:53,863 --> 01:02:56,765
+Speaker 0: Like, you know, usually again, the apps that are always open.
+
+1000
+01:02:57,286 --> 01:02:57,486
+Speaker 0: You don't.
+
+1001
+01:03:04,150 --> 01:03:11,158
+Speaker 0: Now, this is, you know, it's a. it's a difference that you have to get used to, but I'm not going to go as far to say it's correct or incorrect.
+
+1002
+01:03:11,258 --> 01:03:12,519
+Speaker 0: Either way, I'll say I don't like it.
+
+1003
+01:03:12,579 --> 01:03:16,243
+Speaker 1: I like the fact that minimize and close are very different things on windows.
+
+1004
+01:03:16,423 --> 01:03:22,590
+Speaker 0: Like very people, the people who you start, you know, this has been true on Macs before windows even existed.
+
+1005
+01:03:22,670 --> 01:03:23,271
+Speaker 0: Basically.
+
+1006
+01:03:23,531 --> 01:03:23,751
+Speaker 0: Right.
+
+1007
+01:03:24,192 --> 01:03:27,536
+Speaker 0: So it's like Windows is the one who did it different historically.
+
+1008
+01:03:27,696 --> 01:03:38,830
+Speaker 0: So it's like whichever one you're used to, you know, but the point is on a Mac, if you say click the red button on all your Firefox windows or control command W to close all your Firefox windows, Firefox is still open.
+
+1009
+01:03:39,411 --> 01:03:47,540
+Speaker 0: If you go to the dock in the bottom, you'll see the Firefox icon with a dot under it indicating it's still open and that in order to actually close, you have to quit Firefox.
+
+1010
+01:03:47,600 --> 01:03:55,329
+Speaker 0: And if you click the icon in the bottom, you'll see that the menu bar will have the Firefox menu bar because that's the app is still there.
+
+1011
+01:03:55,369 --> 01:03:56,350
+Speaker 0: It just doesn't have any windows.
+
+1012
+01:03:57,591 --> 01:04:00,334
+Speaker 0: And then you have to exit the app and then it closes for real.
+
+1013
+01:04:01,375 --> 01:04:03,678
+Speaker 0: Um, it's like, okay, that's how Max do it.
+
+1014
+01:04:03,838 --> 01:04:04,318
+Speaker 0: It's different.
+
+1015
+01:04:04,378 --> 01:04:05,720
+Speaker 0: You can get used to it or not.
+
+1016
+01:04:06,140 --> 01:04:11,326
+Speaker 0: Sometimes you can configure apps to close automatically when the last window closes, things like that.
+
+1017
+01:04:11,826 --> 01:04:12,787
+Speaker 0: That doesn't bother me.
+
+1018
+01:04:12,807 --> 01:04:13,408
+Speaker 0: Right.
+
+1019
+01:04:13,909 --> 01:04:15,050
+Speaker 0: Here's what does bother me.
+
+1020
+01:04:15,430 --> 01:04:15,550
+Speaker 0: Right.
+
+1021
+01:04:16,031 --> 01:04:17,713
+Speaker 0: Is when you're using virtual desktops.
+
+1022
+01:04:18,074 --> 01:04:18,274
+Speaker 0: Right.
+
+1023
+01:04:18,334 --> 01:04:22,619
+Speaker 0: Which I use on Windows, Mac and Linux, you know, and Mac, they call them spaces.
+
+1024
+01:04:22,900 --> 01:04:23,120
+Speaker 0: Right.
+
+1025
+01:04:23,981 --> 01:04:30,229
+Speaker 0: So let's say you're on a Mac and you have space number one and you open Firefox and there's a Firefox window.
+
+1026
+01:04:30,489 --> 01:04:30,870
+Speaker 0: Terrific.
+
+1027
+01:04:31,710 --> 01:04:32,832
+Speaker 0: So you go to space number two.
+
+1028
+01:04:33,553 --> 01:04:35,175
+Speaker 0: And what do you want to do on space number two?
+
+1029
+01:04:35,215 --> 01:04:39,962
+Speaker 0: Well, you want to open another Firefox window, obviously, because you're working on something different on space number two.
+
+1030
+01:04:40,022 --> 01:04:41,565
+Speaker 0: But you're going to need a browser, of course.
+
+1031
+01:04:41,825 --> 01:04:42,065
+Speaker 0: Right.
+
+1032
+01:04:42,125 --> 01:04:45,190
+Speaker 0: You know, you're not going to have a space that you're going to have one browser in every space.
+
+1033
+01:04:45,991 --> 01:04:46,551
+Speaker 0: Pretty much.
+
+1034
+01:04:46,852 --> 01:04:47,112
+Speaker 0: Yeah.
+
+1035
+01:04:47,592 --> 01:04:54,439
+Speaker 0: If you click the Firefox icon in the dock right to open, you would presume that that would give you a new window.
+
+1036
+01:04:54,840 --> 01:04:55,140
+Speaker 0: Right.
+
+1037
+01:04:55,861 --> 01:04:56,401
+Speaker 0: It does not.
+
+1038
+01:04:56,561 --> 01:05:01,186
+Speaker 0: By default, it'll actually happen is it'll take you to the other space.
+
+1039
+01:05:01,386 --> 01:05:03,548
+Speaker 1: That's so much worse than I thought you were going to say.
+
+1040
+01:05:03,568 --> 01:05:04,990
+Speaker 1: That is so much worse.
+
+1041
+01:05:05,730 --> 01:05:11,101
+Speaker 0: It'll take you to the other space where the Firefox window is and be like, oh, you want Firefox?
+
+1042
+01:05:11,161 --> 01:05:12,945
+Speaker 0: It's on this other space that we're going there.
+
+1043
+01:05:13,065 --> 01:05:15,290
+Speaker 0: And now you're not in the space, the new space that you opened.
+
+1044
+01:05:16,311 --> 01:05:19,756
+Speaker 1: I thought it was just going to bring Firefox into your current space.
+
+1045
+01:05:19,816 --> 01:05:20,276
+Speaker 1: That's the way.
+
+1046
+01:05:20,316 --> 01:05:20,837
+Speaker 0: No, no, no.
+
+1047
+01:05:20,877 --> 01:05:23,120
+Speaker 0: It takes you to where the Firefox don't ever go.
+
+1048
+01:05:23,141 --> 01:05:23,922
+Speaker 0: You want Firefox?
+
+1049
+01:05:24,062 --> 01:05:27,427
+Speaker 1: Dude, moving me out of a virtual desktop into a different one.
+
+1050
+01:05:27,767 --> 01:05:29,610
+Speaker 1: Nonconsensually, that is not cool.
+
+1051
+01:05:29,690 --> 01:05:29,870
+Speaker 1: Yeah.
+
+1052
+01:05:30,211 --> 01:05:34,034
+Speaker 0: They're thinking that you're going to run different apps on different spaces.
+
+1053
+01:05:34,415 --> 01:05:41,162
+Speaker 0: And therefore, if you choose an app that's not on your current space, you want to go to where that app is, which is wherever it is.
+
+1054
+01:05:42,123 --> 01:05:43,984
+Speaker 0: So there is a setting to turn that off.
+
+1055
+01:05:44,925 --> 01:05:46,307
+Speaker 0: So you can turn that off and it works.
+
+1056
+01:05:47,368 --> 01:05:49,490
+Speaker 0: However, it is still a problem.
+
+1057
+01:05:50,770 --> 01:05:51,792
+Speaker 0: So you turn the setting off.
+
+1058
+01:05:51,992 --> 01:05:54,895
+Speaker 0: You go to space number one, you open Firefox, you get a browser window.
+
+1059
+01:05:54,915 --> 01:05:55,997
+Speaker 0: You go to space number two.
+
+1060
+01:05:57,038 --> 01:05:57,378
+Speaker 0: All right.
+
+1061
+01:05:57,438 --> 01:05:59,020
+Speaker 0: Well, there's no Firefox window here.
+
+1062
+01:05:59,361 --> 01:06:01,964
+Speaker 0: Let's click the Firefox icon in the dock.
+
+1063
+01:06:02,445 --> 01:06:02,665
+Speaker 0: Right.
+
+1064
+01:06:02,925 --> 01:06:05,168
+Speaker 0: Or open up Spotlight and type Firefox.
+
+1065
+01:06:05,308 --> 01:06:05,528
+Speaker 0: Right.
+
+1066
+01:06:05,989 --> 01:06:06,890
+Speaker 0: And what happens?
+
+1067
+01:06:08,451 --> 01:06:13,096
+Speaker 0: It will put Firefox in the menu bar because.
+
+1068
+01:06:13,677 --> 01:06:14,057
+Speaker 0: All right.
+
+1069
+01:06:14,858 --> 01:06:17,702
+Speaker 0: This is the Firefox app available on this space now.
+
+1070
+01:06:18,142 --> 01:06:24,270
+Speaker 0: And then you have to additionally would now you would have to do command N or file new window to get your new window.
+
+1071
+01:06:24,290 --> 01:06:33,918
+Speaker 1: See, this is why the Mac concept of closing all the windows leaves the app open just is feels really wrong to me because nobody wants that.
+
+1072
+01:06:34,138 --> 01:06:35,399
+Speaker 1: Ninety nine percent of the time.
+
+1073
+01:06:36,500 --> 01:06:36,740
+Speaker 0: Yeah.
+
+1074
+01:06:37,261 --> 01:06:48,230
+Speaker 0: So, you know, that's a little bit annoying is that if you go to a new space that's blank and you want to open up a new window of an app that already is running somewhere else, it takes extra steps.
+
+1075
+01:06:48,530 --> 01:06:55,655
+Speaker 1: That's actually weird, because if I don't have any Firefox is open, I open Firefox the first time, I assume it just gives me a window.
+
+1076
+01:06:56,395 --> 01:06:57,896
+Speaker 0: But you do have a Firefox open.
+
+1077
+01:06:58,397 --> 01:06:59,377
+Speaker 0: The app is running.
+
+1078
+01:07:02,119 --> 01:07:02,319
+Speaker 0: Right.
+
+1079
+01:07:02,359 --> 01:07:03,320
+Speaker 0: It's just a different space.
+
+1080
+01:07:03,440 --> 01:07:09,530
+Speaker 1: But it means the app, if you open the app from nothing, it'll open the app and it'll open a window.
+
+1081
+01:07:09,550 --> 01:07:11,674
+Speaker 1: And now you've got that window for the app.
+
+1082
+01:07:11,774 --> 01:07:12,054
+Speaker 0: It does.
+
+1083
+01:07:12,095 --> 01:07:12,275
+Speaker 0: Yep.
+
+1084
+01:07:12,555 --> 01:07:15,340
+Speaker 0: If you don't have any Firefox is at all on the Mac and you click fire.
+
+1085
+01:07:15,340 --> 01:07:22,528
+Speaker 1: So the only time you will launch Firefox and get Firefox started without a window is if you are in space and
+
+1086
+01:07:22,948 --> 01:07:23,889
+Speaker 0: and you happen to
+
+1087
+01:07:23,929 --> 01:07:34,180
+Speaker 1: have Firefox open somewhere fucking else, somewhere in the world, then and only then will it do this extremely weird behavior that literally no human would ever want to happen.
+
+1088
+01:07:34,921 --> 01:07:35,161
+Speaker 0: Right.
+
+1089
+01:07:35,241 --> 01:07:43,090
+Speaker 0: So it's like, you know, on Windows, Windows considers every virtual desktop to be its own universe, basically almost right.
+
+1090
+01:07:43,170 --> 01:07:43,370
+Speaker 0: Yeah.
+
+1091
+01:07:43,410 --> 01:07:43,871
+Speaker 0: Where it's like?
+
+1092
+01:07:44,331 --> 01:07:51,259
+Speaker 0: if you look in the taskbar of Windows and you'll see like the Firefox icon has like the border around it, which means like there's a Firefox running.
+
+1093
+01:07:51,680 --> 01:07:51,880
+Speaker 0: Right.
+
+1094
+01:07:52,401 --> 01:07:58,209
+Speaker 0: And then if you go to a new space, that icon looks like Firefox isn't running like you might.
+
+1095
+01:07:58,350 --> 01:08:05,200
+Speaker 0: It's like if you click on it and a new window opens for Firefox on Windows, because obviously that's the right thing to do.
+
+1096
+01:08:05,500 --> 01:08:05,741
+Speaker 1: Yeah.
+
+1097
+01:08:06,402 --> 01:08:07,163
+Speaker 1: Correct behavior.
+
+1098
+01:08:07,805 --> 01:08:08,105
+Speaker 0: Yeah.
+
+1099
+01:08:08,386 --> 01:08:15,920
+Speaker 0: But it's like the new space is a whole new space right on Windows and also on Linux, depending on how you've configured it effectively.
+
+1100
+01:08:16,080 --> 01:08:26,777
+Speaker 0: But basically every Linux desktop environment, if you go to a new virtual space and click an icon for an app in whatever launcher you have, a new window of that app will appear.
+
+1101
+01:08:26,796 --> 01:08:27,277
+Speaker 0: Right.
+
+1102
+01:08:27,818 --> 01:08:28,939
+Speaker 0: Whether no matter what.
+
+1103
+01:08:29,420 --> 01:08:32,327
+Speaker 0: So unless you've configured it differently or something.
+
+1104
+01:08:35,234 --> 01:08:36,095
+Speaker 0: So, yeah, I could.
+
+1105
+01:08:36,256 --> 01:08:37,880
+Speaker 0: I don't know how much more time do we have.
+
+1106
+01:08:37,920 --> 01:08:41,392
+Speaker 1: I think we've gone way over on time because we haven't done a Monday show in a while.
+
+1107
+01:08:41,492 --> 01:08:43,840
+Speaker 0: So we're about 10 minutes over time.
+
+1108
+01:08:44,120 --> 01:08:44,541
+Speaker 0: December.
+
+1109
+01:08:45,121 --> 01:08:46,383
+Speaker 0: Yeah.
+
+1110
+01:08:47,203 --> 01:08:57,117
+Speaker 0: But yeah, I guess the last one, just really quickly, is that if you on Windows or Mac or I mean not Mac, if you're Windows or Linux, if you say lock my screen, what do you expect to happen?
+
+1111
+01:08:57,777 --> 01:08:59,819
+Speaker 0: if you say window L lock screen?
+
+1112
+01:09:00,279 --> 01:09:03,180
+Speaker 1: I expect my screen to immediately lock itself.
+
+1113
+01:09:05,180 --> 01:09:05,962
+Speaker 0: Yes, that is right.
+
+1114
+01:09:06,022 --> 01:09:06,983
+Speaker 0: And then what will happen?
+
+1115
+01:09:07,765 --> 01:09:08,906
+Speaker 0: What will you see on the screen?
+
+1116
+01:09:09,287 --> 01:09:11,069
+Speaker 1: I'll see that my screen is locked.
+
+1117
+01:09:11,090 --> 01:09:11,831
+Speaker 1: I'm going to do it right now.
+
+1118
+01:09:11,850 --> 01:09:17,100
+Speaker 1: I'm locking my computer and now it just says it's locked and I see the prompt where I could log back in.
+
+1119
+01:09:18,020 --> 01:09:18,281
+Speaker 0: OK.
+
+1120
+01:09:18,481 --> 01:09:23,033
+Speaker 0: And then if you were to walk away from your computer and come back to it, what would you expect to see?
+
+1121
+01:09:23,212 --> 01:09:25,880
+Speaker 1: the exact same screen that I saw when I walked away from it?
+
+1122
+01:09:26,620 --> 01:09:27,060
+Speaker 0: That's right.
+
+1123
+01:09:27,081 --> 01:09:32,049
+Speaker 0: So on a Mac, there's various settings for like, you know, just like on Windows.
+
+1124
+01:09:32,290 --> 01:09:32,510
+Speaker 0: Right.
+
+1125
+01:09:32,890 --> 01:09:33,893
+Speaker 0: Or Linux or whatever.
+
+1126
+01:09:34,434 --> 01:09:36,577
+Speaker 0: After X minutes, turn on the screensaver.
+
+1127
+01:09:36,777 --> 01:09:38,260
+Speaker 0: After X minutes of no activity.
+
+1128
+01:09:38,620 --> 01:09:47,777
+Speaker 1: I have all those said, if I walk away long enough, then once my monitor will power down at the time I specified and then later my computer will go to sleep at the time I specified.
+
+1129
+01:09:47,877 --> 01:09:49,080
+Speaker 1: Like I think I said it for an hour.
+
+1130
+01:09:51,321 --> 01:09:56,807
+Speaker 1: The point is, you know, it does what it does exactly what I told it in a consistent fashion.
+
+1131
+01:09:57,508 --> 01:09:58,009
+Speaker 0: That's correct.
+
+1132
+01:09:58,129 --> 01:10:06,800
+Speaker 0: On Mac, you have all those settings for turn the screensaver on after X minutes of inactivity, spin turn off the monitors after X minutes of inactivity, et cetera, et cetera.
+
+1133
+01:10:06,840 --> 01:10:09,384
+Speaker 0: All those settings are there and they work correctly.
+
+1134
+01:10:10,165 --> 01:10:19,180
+Speaker 0: However, if you push lock screen, the lock screen key combination or you go to the Apple and you say lock screen, the lock screen will appear for sure.
+
+1135
+01:10:19,180 --> 01:10:30,152
+Speaker 0: 30 seconds later, no matter what your settings are, 30 seconds later, if you have not logged in, it shuts the monitors off and it's like, all right, that's it.
+
+1136
+01:10:30,913 --> 01:10:36,520
+Speaker 0: You cannot get it to stay like on the lock screen for an extended period of time.
+
+1137
+01:10:38,264 --> 01:10:38,638
+Speaker 1: Why?
+
+1138
+01:10:40,260 --> 01:10:40,641
+Speaker 0: I don't know.
+
+1139
+01:10:41,122 --> 01:10:46,872
+Speaker 0: It's like my logic would be to do what Windows fucking does, which is just respect whatever I said.
+
+1140
+01:10:47,553 --> 01:10:51,680
+Speaker 0: Lock screen only means display the lock screen and lock the computer.
+
+1141
+01:10:51,820 --> 01:10:55,948
+Speaker 0: And then from that point forward, you should follow all of those rules.
+
+1142
+01:10:56,008 --> 01:10:59,515
+Speaker 0: I configured if I'm idle for X minutes, turn the monitors off.
+
+1143
+01:10:59,615 --> 01:11:01,880
+Speaker 0: If I'm idle for X minutes, turn the computer off.
+
+1144
+01:11:02,421 --> 01:11:03,623
+Speaker 0: Those rules are already set.
+
+1145
+01:11:03,943 --> 01:11:09,371
+Speaker 0: You don't need this additional rule, which is like if someone lock the screen 30 seconds, then do this.
+
+1146
+01:11:09,812 --> 01:11:10,733
+Speaker 0: I didn't tell you to do that.
+
+1147
+01:11:11,174 --> 01:11:15,320
+Speaker 0: I told you all these other settings that you're now ignoring because I lock screen.
+
+1148
+01:11:15,800 --> 01:11:18,930
+Speaker 0: Lock screen should mean lock screen and nothing else beyond that.
+
+1149
+01:11:19,070 --> 01:11:22,260
+Speaker 0: So that doesn't seem to be a way to override this in any way whatsoever.
+
+1150
+01:11:22,520 --> 01:11:31,860
+Speaker 1: You know, it's funny because my entire life, not even with a third party software that costs money, there's a lot of the power set, like the power saving settings seem to be the things that are the least configurable.
+
+1151
+01:11:32,261 --> 01:11:40,395
+Speaker 1: I remember watching movies on people's Macs and they would like touch the mouse every now and then to make sure that's what that app is for.
+
+1152
+01:11:40,576 --> 01:11:40,796
+Speaker 1: Yeah.
+
+1153
+01:11:41,016 --> 01:11:43,040
+Speaker 1: But you can't just turn the dimming off.
+
+1154
+01:11:43,240 --> 01:11:44,724
+Speaker 1: Like you have to move the mouse every.
+
+1155
+01:11:45,004 --> 01:11:45,947
+Speaker 1: That is ridiculous.
+
+1156
+01:11:46,408 --> 01:11:46,829
+Speaker 0: That's the.
+
+1157
+01:11:46,869 --> 01:11:47,430
+Speaker 0: there's a pay.
+
+1158
+01:11:47,450 --> 01:11:48,653
+Speaker 0: There's an app you can get that will.
+
+1159
+01:11:48,794 --> 01:11:49,796
+Speaker 0: that will take care of that.
+
+1160
+01:11:49,836 --> 01:11:50,879
+Speaker 0: That's what they're talking about.
+
+1161
+01:11:51,039 --> 01:11:51,380
+Speaker 1: I hate that.
+
+1162
+01:11:51,440 --> 01:11:52,181
+Speaker 1: Yeah.
+
+1163
+01:11:52,221 --> 01:11:54,143
+Speaker 1: Dictator Scott should ban that specifically.
+
+1164
+01:11:55,885 --> 01:12:09,320
+Speaker 0: So despite all those annoyances, the overall picture, though, is that, you know, with everything added up, right, especially the insane performance of the computer for all the things I do that aren't games.
+
+1165
+01:12:10,081 --> 01:12:11,363
+Speaker 0: It is kind of just better.
+
+1166
+01:12:12,985 --> 01:12:17,250
+Speaker 0: Um, you know, it's like all the apps are there, the ones you use every day.
+
+1167
+01:12:18,111 --> 01:12:18,832
+Speaker 0: They work better.
+
+1168
+01:12:19,073 --> 01:12:19,874
+Speaker 0: They work nicer.
+
+1169
+01:12:20,154 --> 01:12:24,520
+Speaker 0: fonts, render nicer, faster integrations are better.
+
+1170
+01:12:25,360 --> 01:12:35,160
+Speaker 0: I don't have, you know, it's like WSL was great and was solving a lot of my problems with the work I do, but you don't have to do any kind of work around like that on the Mac because it's Unix, which is not Linux.
+
+1171
+01:12:35,421 --> 01:12:41,158
+Speaker 0: There's some annoyances there, but it's better than it was 15 years ago when it was much more divergent.
+
+1172
+01:12:41,178 --> 01:12:41,760
+Speaker 0: That's for sure.
+
+1173
+01:12:43,262 --> 01:12:48,194
+Speaker 1: I remember trying to use the command line on the Mac mini compared to a modern Mac.
+
+1174
+01:12:48,255 --> 01:12:48,796
+Speaker 1: And there were some.
+
+1175
+01:12:49,157 --> 01:12:50,079
+Speaker 1: there were some issues in there.
+
+1176
+01:12:51,181 --> 01:12:58,153
+Speaker 0: And I did end up paying a bunch of money for like the Macs, the M3 Macs insane, which is honestly I could have gotten by with the pro one.
+
+1177
+01:12:58,914 --> 01:13:01,980
+Speaker 0: However, unlike a PC, it's not upgradeable.
+
+1178
+01:13:02,321 --> 01:13:05,266
+Speaker 0: Anyway, so I over killed.
+
+1179
+01:13:05,286 --> 01:13:05,727
+Speaker 0: Right.
+
+1180
+01:13:05,767 --> 01:13:09,334
+Speaker 0: It's like, yeah, I'm going to admit not like rim is like, oh, the I nine is better.
+
+1181
+01:13:09,354 --> 01:13:12,060
+Speaker 0: I'm like, no, this is a waste of money to get the more powerful one.
+
+1182
+01:13:12,461 --> 01:13:19,940
+Speaker 1: Well, you know, I calculated the amount of money I spent by the number of years I use the computer and that number was really low.
+
+1183
+01:13:20,821 --> 01:13:21,021
+Speaker 0: Yep.
+
+1184
+01:13:21,442 --> 01:13:23,164
+Speaker 0: Like they overcharge you on the RAM.
+
+1185
+01:13:23,184 --> 01:13:24,485
+Speaker 0: They overcharge you on the storage.
+
+1186
+01:13:24,866 --> 01:13:33,776
+Speaker 0: I went overboard to get an unnecessarily powerful computer for my use case, admittedly, because I got a discount from someone who works at Apple.
+
+1187
+01:13:33,796 --> 01:13:37,480
+Speaker 0: and be right because it's unupgradable.
+
+1188
+01:13:37,700 --> 01:13:38,902
+Speaker 0: They got you with the FOMO.
+
+1189
+01:13:39,343 --> 01:13:40,584
+Speaker 0: They got you with the.
+
+1190
+01:13:40,664 --> 01:13:41,666
+Speaker 0: I want longevity.
+
+1191
+01:13:42,146 --> 01:13:43,969
+Speaker 0: So I'll just go overboard.
+
+1192
+01:13:44,390 --> 01:13:51,960
+Speaker 0: And as if it lasts more years, then it's more economical than if I got, you know, the one that's reasonable, the pro one, not the max one.
+
+1193
+01:13:52,681 --> 01:14:01,740
+Speaker 1: And it lasts less years than I mean, when I bought my Surface three laptop from Microsoft, which is still the laptop I use today, I've had that thing for fucking ever.
+
+1194
+01:14:02,362 --> 01:14:04,309
+Speaker 1: I bought the most expensive possible one.
+
+1195
+01:14:04,349 --> 01:14:04,831
+Speaker 1: And you know what?
+
+1196
+01:14:04,891 --> 01:14:05,553
+Speaker 1: It's still fine.
+
+1197
+01:14:06,336 --> 01:14:08,522
+Speaker 0: And it'll run Windows 11.
+
+1198
+01:14:08,522 --> 01:14:08,723
+Speaker 0: Yep.
+
+1199
+01:14:09,651 --> 01:14:10,800
+Speaker 0: You can just make that your main computer.
+
+1200
+01:14:11,801 --> 01:14:13,951
+Speaker 1: You know what it does not have is a GPU.
+
+1201
+01:14:14,051 --> 01:14:16,120
+Speaker 1: And you know what I use the most is my GPU.
+
+1202
+01:14:21,480 --> 01:14:23,850
+Speaker 1: This has been Geek Nights with Rim and Scott.
+
+1203
+01:14:23,910 --> 01:14:26,420
+Speaker 1: Special thanks to DJ Pretzel for the opening theme.
+
+1204
+01:14:26,640 --> 01:14:32,640
+Speaker 0: Be sure to visit our website at front row crew dot com for show notes, discussion links and more.
+
+1205
+01:14:33,121 --> 01:14:35,805
+Speaker 1: Remember, Geek Nights is not one, but four different shows.
+
+1206
+01:14:36,106 --> 01:14:37,769
+Speaker 1: Mondays are science and technology.
+
+1207
+01:14:37,809 --> 01:14:39,572
+Speaker 1: Tuesdays, gaming and games.
+
+1208
+01:14:39,692 --> 01:14:41,495
+Speaker 1: Wednesdays are animation and comics.
+
+1209
+01:14:41,816 --> 01:14:44,300
+Speaker 1: Thursdays are arbitrary and indiscriminate.
+
+1210
+01:14:45,000 --> 01:14:49,860
+Speaker 1: Geek Nights is distributed under a Creative Commons Attribution 4.0 international license.
+
+1211
+01:14:50,480 --> 01:14:54,670
+Speaker 0: Geek Nights is recorded live with no studio and no audience.
+
+1212
+01:14:55,172 --> 01:14:58,620
+Speaker 0: But unlike those other late shows, it's actually recorded at night.
+
+1213
+01:14:59,201 --> 01:15:13,359
+Speaker 1: And the Patreon patrons for this episode of Geek Nights are Alan Joyce, Link Iggy, Dread, Lily, Tenebrae, Kace, Care, Makes Music, Krista, Dodd, Christopher, Orr, Clinton, Walton, Finn, Joel Hayes, Penny, Rymer, Rebecca, Dunn, Sam, Erickson, Shervin, Ron, Hurrell, and a ton of names that are below that sweet, sweet $5 line.
+
+1214
+01:15:15,280 --> 01:15:20,960
+Speaker 1: We're pretty much back with no major interruptions planned, at least until, I guess, PAX East.
+
+1215
+01:15:21,660 --> 01:15:22,342
+Speaker 1: So, uh, yeah.
+
+1216
+01:15:23,025 --> 01:15:24,128
+Speaker 1: Geek Nights as usual.
+
+1217
+01:15:24,349 --> 01:15:29,983
+Speaker 1: So for now, tonight, I leave you with... Hey, Charlie!
+
+1218
+01:15:30,003 --> 01:15:33,447
+Speaker 0: Hey, Charlie, wake up!
+
+1219
+01:15:33,727 --> 01:15:35,710
+Speaker 1: You silly sleepyhead, wake up!
+
+1220
+01:15:37,490 --> 01:15:38,294
+Speaker 1: God, you guys.
+
+1221
+01:15:38,696 --> 01:15:40,485
+Speaker 1: This had better be pretty freaking important.
+
+1222
+01:15:40,585 --> 01:15:41,530
+Speaker 1: Is the meadow on fire?
+
+1223
+01:15:41,670 --> 01:15:42,772
+Speaker 0: No, Charlie.
+
+1224
+01:15:42,792 --> 01:15:45,137
+Speaker 0: We found a map to Candy Mountain.
+
+1225
+01:15:45,517 --> 01:15:46,920
+Speaker 0: Candy Mountain, Charlie.
+
+1226
+01:15:46,940 --> 01:15:48,022
+Speaker 0: Yeah, Charlie.
+
+1227
+01:15:48,303 --> 01:15:50,407
+Speaker 0: We're going to Candy Mountain.
+
+1228
+01:15:50,707 --> 01:15:52,030
+Speaker 0: Come with us, Charlie.
+
+1229
+01:15:52,491 --> 01:15:53,554
+Speaker 0: Yeah, Charlie.
+
+1230
+01:15:53,875 --> 01:15:55,661
+Speaker 0: It'll be an adventure.
+
+1231
+01:15:56,022 --> 01:15:58,470
+Speaker 0: We're going on an adventure, Charlie.
+
+1232
+01:15:59,871 --> 01:16:01,418
+Speaker 1: Yeah, Candy Mountain, right.
+
+1233
+01:16:01,840 --> 01:16:03,830
+Speaker 1: I'm just gonna, you know, go back to sleep now.
+
+1234
+01:16:04,710 --> 01:16:06,177
+Speaker 0: No, Charlie.
+
+1235
+01:16:06,479 --> 01:16:08,509
+Speaker 0: You have to come with us to Candy Mountain.
+
+1236
+01:16:09,010 --> 01:16:09,993
+Speaker 0: Yeah, Charlie.
+
+1237
+01:16:10,314 --> 01:16:11,558
+Speaker 0: Candy Mountain.
+
+1238
+01:16:11,899 --> 01:16:15,290
+Speaker 1: It's a land of sweets and joy and joyness.
+
+1239
+01:16:15,450 --> 01:16:16,749
+Speaker 1: Please stop bouncing on me.
+
+1240
+01:16:17,070 --> 01:16:18,660
+Speaker 1: Candy Mountain, Charlie.
+
+1241
+01:16:18,720 --> 01:16:20,230
+Speaker 1: Yeah, Candy Mountain.
+
+1242
+01:16:20,370 --> 01:16:21,097
+Speaker 1: Oh, I'm fine.
+
+1243
+01:16:21,138 --> 01:16:22,349
+Speaker 1: I'll go with you to Candy Mountain.
+
+1244
+01:16:22,711 --> 01:16:27,469
+Speaker 1: La, la, la, la, la, la, la, la, la, la, la, la.
+
+1245
+01:16:27,832 --> 01:16:29,310
+Speaker 1: Uh, enough with the singing already.
+
+1246
+01:16:29,530 --> 01:16:31,168
+Speaker 1: Our first stop is over there, Charlie.
+
+1247
+01:16:32,753 --> 01:16:33,710
+Speaker 1: Oh, God, what is that?
+
+1248
+01:16:33,910 --> 01:16:35,549
+Speaker 0: It's a leo-plurodon, Charlie.
+

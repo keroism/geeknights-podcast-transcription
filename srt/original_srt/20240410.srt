@@ -1,0 +1,2904 @@
+﻿1
+00:00:08,380 --> 00:00:10,856
+Speaker 0: It's Wednesday, April 10th, 2024.
+
+2
+00:00:10,856 --> 00:00:14,325
+Speaker 0: I'm Rim, I'm Scott, and this is Geek Nights.
+
+3
+00:00:16,270 --> 00:00:20,664
+Speaker 0: Tonight we are talking about the 2022 anime The Orbital Children.
+
+4
+00:00:21,206 --> 00:00:22,229
+Speaker 1: Let's do this!
+
+5
+00:00:23,010 --> 00:00:38,690
+Speaker 0: So yeah, this weekend there was, uh, if you didn't watch the news, and it is always amazing to me, there were definitely people who did not know this was happening, who were in fact right under it, but over a surprisingly large chunk of America, there was a total solar eclipse.
+
+6
+00:00:38,910 --> 00:00:52,710
+Speaker 0: And I learned a few things that I hadn't really thought about before, because we went up to Rochester for a bunch of reasons, but because the actual center of totality went basically right over Rochester and Leroy, we could be directly under it.
+
+7
+00:00:53,630 --> 00:01:00,010
+Speaker 0: And I didn't realize how dark it gets under the actual totality, because I've never been under a totality before.
+
+8
+00:01:00,270 --> 00:01:01,968
+Speaker 1: Yeah, you could even see stars and shit, right?
+
+9
+00:01:02,130 --> 00:01:05,530
+Speaker 0: Yeah, it was darkest night for about two minutes.
+
+10
+00:01:06,330 --> 00:01:07,777
+Speaker 1: Yeah, the sun is blocked.
+
+11
+00:01:08,239 --> 00:01:10,650
+Speaker 1: If the light isn't reaching you, then it's gonna be dark.
+
+12
+00:01:10,950 --> 00:01:19,050
+Speaker 0: But if you're even, like, 500 yards outside of the edge of the totality zone, it's not like it's a little bit less dark.
+
+13
+00:01:19,472 --> 00:01:20,699
+Speaker 0: It basically doesn't get dark at all.
+
+14
+00:01:20,799 --> 00:01:22,750
+Speaker 0: Like, unless you're directly under it, it doesn't get dark.
+
+15
+00:01:23,512 --> 00:01:26,480
+Speaker 1: Right, so it's like the sun is so powerful, right?
+
+16
+00:01:26,580 --> 00:01:41,241
+Speaker 1: It's like, you know, if you blocked out 99% of the sun, but 1% was still, you know, had unrestricted access to you through the vacuum of space and air, it's like, yeah, is it a fusion explosion?
+
+17
+00:01:41,281 --> 00:01:42,144
+Speaker 1: It's crazy bright.
+
+18
+00:01:42,185 --> 00:01:43,349
+Speaker 1: It can illuminate everything.
+
+19
+00:01:44,371 --> 00:01:49,050
+Speaker 1: It'll be darker, for sure, but it's not, you know, it'll be like, think about it.
+
+20
+00:01:49,110 --> 00:01:57,210
+Speaker 1: At sunset, right, when the sun is setting, and it's like there's still a tiny bit of sun on the horizon, it's still light out.
+
+21
+00:01:57,491 --> 00:02:03,950
+Speaker 1: It doesn't get dark until the sun is all the way gone, completely blocked by the other half of the Earth.
+
+22
+00:02:04,411 --> 00:02:05,715
+Speaker 1: Then it's dark, right?
+
+23
+00:02:06,036 --> 00:02:17,570
+Speaker 1: There's even a point at which the sun is sort of, like, completely gone, but, like, the rays of the sun can still sort of curve around the Earth, and it's still not all the way dark yet.
+
+24
+00:02:17,911 --> 00:02:18,934
+Speaker 1: It's just sort of dusky.
+
+25
+00:02:19,396 --> 00:02:27,070
+Speaker 1: So why would the moon getting in the way of most of the sun, right, it has to be completely blocked for it to be dark out.
+
+26
+00:02:27,430 --> 00:02:36,350
+Speaker 0: Yep, so we're there, you know, hanging out for the weekend, and I did a thing that I didn't think I'd do, but I felt like I should have done it, and we'll talk about this in more detail on the next Tuesday show.
+
+27
+00:02:37,230 --> 00:02:41,662
+Speaker 0: But, so yeah, it was super sunny the day before the eclipse.
+
+28
+00:02:42,204 --> 00:02:44,450
+Speaker 0: It was super sunny the day after the eclipse.
+
+29
+00:02:44,871 --> 00:02:57,170
+Speaker 0: It was super sunny about an hour after the eclipse ended, and it was pretty sunny about two hours before the eclipse, but during the eclipse, it was maximally cloudy in the entire Greater Rochester area.
+
+30
+00:02:57,970 --> 00:02:58,034
+Speaker 0: Aha!
+
+31
+00:02:59,311 --> 00:03:01,829
+Speaker 0: So, we're sitting on the roof, and we're like, "Oh, well, I guess we won't see the
+
+32
+00:03:01,849 --> 00:03:01,990
+Speaker 0: sun.".
+
+33
+00:03:02,030 --> 00:03:06,148
+Speaker 0: But we hung out there anyway, and we're like, "Oh, I guess it's not gonna be that
+
+34
+00:03:06,208 --> 00:03:06,550
+Speaker 0: exciting.".
+
+35
+00:03:06,630 --> 00:03:14,768
+Speaker 0: And then it got so dark so fast, and then all the birds around just started freaking out, and it was actually really cool to be under that thing.
+
+36
+00:03:17,013 --> 00:03:20,310
+Speaker 1: I went to a movie during the eclipse, and you know what was cool?
+
+37
+00:03:21,050 --> 00:03:30,390
+Speaker 1: Going to a movie theater on a Monday afternoon, which only has like two employees, someone at the food stand and someone checking tickets, basically.
+
+38
+00:03:30,390 --> 00:03:31,378
+Speaker 1: I didn't see anyone else.
+
+39
+00:03:31,418 --> 00:03:32,850
+Speaker 1: Maybe there was someone cleaning theaters.
+
+40
+00:03:33,752 --> 00:03:35,425
+Speaker 1: No one operates the projectors anymore.
+
+41
+00:03:35,486 --> 00:03:36,070
+Speaker 1: They're automatic.
+
+42
+00:03:36,570 --> 00:03:37,655
+Speaker 1: No one sells tickets.
+
+43
+00:03:37,695 --> 00:03:41,610
+Speaker 1: They just have computerized tablet kiosks that do that, right?
+
+44
+00:03:43,372 --> 00:03:53,610
+Speaker 1: And it's a very kind of liminal, surreal space, like an abandoned mall, but it's operating, and the computers are automatically making the screens show the ads in the movies.
+
+45
+00:03:54,190 --> 00:03:57,950
+Speaker 1: And there were two or three other people seeing the same movie.
+
+46
+00:03:58,030 --> 00:04:01,550
+Speaker 0: Wow, that's more people than were in the theater when we went to see Little Nicky that one time.
+
+47
+00:04:02,510 --> 00:04:12,069
+Speaker 1: I guess so, but it's like they didn't even turn all the lights on in the hallways, so it seemed like half-closed, because I guess they save on electricity, I don't know.
+
+48
+00:04:13,274 --> 00:04:16,490
+Speaker 1: But not a bad choice of thing to do during an eclipse.
+
+49
+00:04:16,630 --> 00:04:19,470
+Speaker 1: You won't get screaming babies or loud people.
+
+50
+00:04:22,213 --> 00:04:26,970
+Speaker 0: So in Rochester, Millennium Games was like our game store when we were in college at RIT.
+
+51
+00:04:27,430 --> 00:04:36,845
+Speaker 0: And Millennium Games was like, at the time in my life, despite how bad Millennium smelled and how cramped it was, that was the best gaming store I had ever experienced.
+
+52
+00:04:38,530 --> 00:04:44,890
+Speaker 1: It had a bad smell, but it also had an old bookstore smell that was good sort of combined.
+
+53
+00:04:45,050 --> 00:04:45,631
+Speaker 0: That's true.
+
+54
+00:04:46,854 --> 00:04:53,710
+Speaker 0: When certain individuals were not in that store, it smelled like old Magic cards and libraries.
+
+55
+00:04:54,190 --> 00:04:54,848
+Speaker 0: And I like that smell.
+
+56
+00:04:55,510 --> 00:05:01,989
+Speaker 0: But of course, when certain people were in the store during Magic tournaments and Warhammer tournaments, there was an additional smell.
+
+57
+00:05:02,611 --> 00:05:14,746
+Speaker 1: But it's like, I've never been to another game store that was basically, I'm sure they exist, but personally, I'm not even gonna lie, I've never been to a game store as good as even the old Millennium that I went to when I was in college.
+
+58
+00:05:15,070 --> 00:05:15,761
+Speaker 1: That's the thing, Millennium.
+
+59
+00:05:16,410 --> 00:05:23,470
+Speaker 1: In the city, we have Complete Strategist, which has a massive, I guess, stock of games.
+
+60
+00:05:23,550 --> 00:05:25,188
+Speaker 1: Inventory, that's the word, right?
+
+61
+00:05:25,490 --> 00:05:35,610
+Speaker 1: A massive inventory of games, but it's this tight little narrow store, and you can only really play games in the dank basement in the back hall kind of scary area.
+
+62
+00:05:36,590 --> 00:05:42,207
+Speaker 1: And it's not really a great store, they overcharge, they're paying big time.
+
+63
+00:05:42,227 --> 00:05:43,190
+Speaker 1: Manhattan rents there.
+
+64
+00:05:43,310 --> 00:05:45,610
+Speaker 0: And you might think, but that's because New York rent.
+
+65
+00:05:45,750 --> 00:05:53,130
+Speaker 0: And yeah, that's true, but there really aren't good game stores in other cities that rent is cheaper in, or places where there's low rent, like Millennium.
+
+66
+00:05:53,551 --> 00:05:58,170
+Speaker 1: I mean, there are good game stores, but they don't have, they're not at that level, right?
+
+67
+00:05:58,210 --> 00:06:06,210
+Speaker 1: There's stores that have a kick-ass community and run lots of good events for all the people, but they don't have the inventory, or they're not that big, right?
+
+68
+00:06:06,491 --> 00:06:09,529
+Speaker 1: Or, you know, they can't really get everything in there.
+
+69
+00:06:10,050 --> 00:06:22,330
+Speaker 1: You know, the stores you see them like vending at conventions, they got some inventory, but it's like, they don't have, like, Complete Strategist is a distributor, they're so big, basically, right?
+
+70
+00:06:23,811 --> 00:06:27,270
+Speaker 1: There's no one who has it all, but Millennium seems to have it all.
+
+71
+00:06:27,792 --> 00:06:38,408
+Speaker 0: So, a long time, a while back, Millennium moved to, like, a nearby space that was bigger, and I visited again, and Millennium was just, like, better in every way, and it was already the best gaming store I'd ever been to.
+
+72
+00:06:39,191 --> 00:06:42,507
+Speaker 0: And, you know, over the years, don't go to Millennium that often, and I didn't realize they moved.
+
+73
+00:06:42,567 --> 00:06:55,468
+Speaker 0: a third time, they moved to an absolutely enormous space, and they now brand themselves, and even have a trademark on, being, quote, "The largest game store in the
+
+74
+00:06:55,528 --> 00:06:55,910
+Speaker 0: country.".
+
+75
+00:06:56,993 --> 00:06:57,779
+Speaker 1: Yeah, I believe it.
+
+76
+00:06:57,859 --> 00:06:59,150
+Speaker 1: I have no reason to dispute it.
+
+77
+00:06:59,550 --> 00:07:04,670
+Speaker 1: It's the largest I've seen, and it was the largest I had seen when I saw it, and that was a previous incarnation.
+
+78
+00:07:05,330 --> 00:07:13,249
+Speaker 1: They are in a location where the commercial real estate is not that expensive at a time when commercial real estate is down in a lot of places.
+
+79
+00:07:14,130 --> 00:07:17,730
+Speaker 1: And they got a shit ton of nerds living real close by.
+
+80
+00:07:17,950 --> 00:07:24,990
+Speaker 0: Yeah, you've got U of R, you've got RIT, and you've got the city of Rochester, which is not that small a city, all right there.
+
+81
+00:07:25,891 --> 00:07:27,836
+Speaker 1: Yep, mostly RIT though, right?
+
+82
+00:07:27,876 --> 00:07:35,730
+Speaker 1: It's this place where there's nerds who come to live there for four to five years at a time, and new nerds every year, right, looking for nerds.
+
+83
+00:07:35,770 --> 00:07:45,909
+Speaker 0: And also every nerd who ever goes to RIT and cares about games goes to Millennium at least once, and then mythologizes it like we do, and then comes back and realizes, "That wasn't a myth, Heracles is real, and he lives right
+
+84
+00:07:45,949 --> 00:07:46,090
+Speaker 0: there.".
+
+85
+00:07:47,490 --> 00:07:54,430
+Speaker 1: So, we go back-- Pretty much any time we went out, we stopped him, even if we didn't need any game stuff at all.
+
+86
+00:07:54,711 --> 00:07:59,428
+Speaker 0: Ah, because back then was a very important time in our lives, because there was one thing I always needed, and that was another D20.
+
+87
+00:08:00,570 --> 00:08:06,350
+Speaker 1: That's right, but it's like any time we left the apartment, it went down the street to go to Grocery and Millennium.
+
+88
+00:08:06,811 --> 00:08:08,190
+Speaker 0: Yeah, Dibella's and Millennium.
+
+89
+00:08:09,232 --> 00:08:12,149
+Speaker 1: You know, DDR, and stop at Millennium on the way back.
+
+90
+00:08:13,431 --> 00:08:16,450
+Speaker 1: Literally every time we went outside, might as well go to Millennium.
+
+91
+00:08:17,350 --> 00:08:24,030
+Speaker 0: So, what impressed me was not just how big it was and how good the selection was, you know, all the usual stuff, because this isn't a Tuesday show, it's a Wednesday show.
+
+92
+00:08:24,711 --> 00:08:33,750
+Speaker 0: What impressed me was how on some random day, like pretty early in the day, how absolutely packed this gigantic store was.
+
+93
+00:08:34,309 --> 00:08:38,429
+Speaker 0: Every aisle, every-- This place was absolutely rocking.
+
+94
+00:08:40,870 --> 00:08:46,270
+Speaker 0: So, we sold a bunch of games back to them, and they actually gave us a lot of money for those games.
+
+95
+00:08:47,272 --> 00:09:04,930
+Speaker 0: Like, way more money than I thought they would give us for the games that we gave them, because they seemed to keep a very curated selection, and while we were selling games to them, nerds walked over and stood around watching what we were selling, and immediately tried to buy some of the games, and there was one game they wouldn't take.
+
+96
+00:09:05,190 --> 00:09:06,346
+Speaker 0: They're like, "Oh, yeah, we wouldn't be able to sell
+
+97
+00:09:06,386 --> 00:09:06,508
+Speaker 0: that.".
+
+98
+00:09:06,931 --> 00:09:12,849
+Speaker 0: And then this nerd's standing there, and he's like, and I say something like, "Oh, well, we'll donate it or like throw it away or
+
+99
+00:09:12,889 --> 00:09:13,150
+Speaker 0: something.".
+
+100
+00:09:13,371 --> 00:09:15,903
+Speaker 0: And he's like, "Uh, but, but, but,".
+
+101
+00:09:15,963 --> 00:09:17,088
+Speaker 0: and he looks at us, and I'm like, "You want
+
+102
+00:09:17,129 --> 00:09:17,169
+Speaker 0: it?".
+
+103
+00:09:17,671 --> 00:09:18,174
+Speaker 0: And he's like, "What,
+
+104
+00:09:18,235 --> 00:09:18,476
+Speaker 0: really?".
+
+105
+00:09:18,496 --> 00:09:20,750
+Speaker 0: And we just gave it to him, and we made that dude's day.
+
+106
+00:09:21,072 --> 00:09:23,310
+Speaker 0: But it was like in the old days when you go to a Blockbuster.
+
+107
+00:09:23,610 --> 00:09:27,150
+Speaker 1: Well, as a college student who probably has no money, it's like a free game, oh my god.
+
+108
+00:09:27,410 --> 00:09:29,246
+Speaker 0: I mean, rim in the year 2001, that would have been me.
+
+109
+00:09:31,651 --> 00:09:35,190
+Speaker 0: So, yeah, with that store credit, we bought a number of things.
+
+110
+00:09:35,370 --> 00:09:40,590
+Speaker 0: I bought a tumblin' dice, which is $100, but I feel like it's going to be worth it to bring to conventions.
+
+111
+00:09:41,392 --> 00:09:43,310
+Speaker 0: Like, that's a worthwhile purchase with store credit.
+
+112
+00:09:44,011 --> 00:09:48,708
+Speaker 0: But two, we bought the fucking clasque, because every PAX we say, "Oh, should we buy the
+
+113
+00:09:48,728 --> 00:09:49,110
+Speaker 0: clasque?".
+
+114
+00:09:49,331 --> 00:09:50,301
+Speaker 0: No, let's not buy the clasque.
+
+115
+00:09:50,402 --> 00:09:51,190
+Speaker 0: We bought the clasque.
+
+116
+00:09:51,290 --> 00:09:54,949
+Speaker 0: Emily and I are going to air hockey ourselves and become really good at clasque, so watch out.
+
+117
+00:09:55,490 --> 00:09:56,326
+Speaker 1: Alright, well, good luck with that.
+
+118
+00:09:58,575 --> 00:09:59,228
+Speaker 0: So, you got any news?
+
+119
+00:10:00,610 --> 00:10:01,032
+Speaker 1: Do I have any news?
+
+120
+00:10:01,052 --> 00:10:05,349
+Speaker 1: Yeah, so there's this Gundam Seed movie that just came out within the past year or so.
+
+121
+00:10:06,270 --> 00:10:10,149
+Speaker 1: And so, if you don't know, there was the Gundam Seed TV show, the original one.
+
+122
+00:10:11,131 --> 00:10:13,465
+Speaker 1: Then there was Gundam Seed Destiny, which I barely watched.
+
+123
+00:10:14,330 --> 00:10:16,950
+Speaker 1: I watched like maybe a fraction of an episode, I don't even remember.
+
+124
+00:10:17,712 --> 00:10:22,307
+Speaker 1: And that is nearly universally reviled by Gundam/anime fans.
+
+125
+00:10:22,347 --> 00:10:23,130
+Speaker 1: I don't know anyone.
+
+126
+00:10:23,390 --> 00:10:27,104
+Speaker 1: I've never heard anyone say, "I really liked Gundam Seed Destiny".
+
+127
+00:10:27,205 --> 00:10:28,550
+Speaker 1: in a sincere manner, right?
+
+128
+00:10:29,271 --> 00:10:31,787
+Speaker 1: Everyone is pretty much just like, "Keep saying it's
+
+129
+00:10:31,828 --> 00:10:32,210
+Speaker 1: garbage.".
+
+130
+00:10:32,250 --> 00:10:36,030
+Speaker 1: It almost makes me want to watch it, go back to it, and see if they were wrong.
+
+131
+00:10:36,491 --> 00:10:37,610
+Speaker 0: By my impression, my impression of it.
+
+132
+00:10:37,630 --> 00:10:40,058
+Speaker 1: Like, maybe one person watched it, said it was garbage.
+
+133
+00:10:40,139 --> 00:10:42,908
+Speaker 1: Everyone else just believed them and repeated it, and no one watched it.
+
+134
+00:10:43,028 --> 00:10:43,410
+Speaker 1: I don't know.
+
+135
+00:10:43,711 --> 00:10:48,430
+Speaker 0: I feel like, because it did the same thing that Tenchi Muyo did with that GXP show.
+
+136
+00:10:48,650 --> 00:10:51,670
+Speaker 0: Where, rockin' opener, well-known franchise.
+
+137
+00:10:52,150 --> 00:10:55,870
+Speaker 0: But then you watch the first episode, and you don't recognize even one character.
+
+138
+00:10:56,210 --> 00:10:59,850
+Speaker 0: Then you watch the second episode, and it's still just all these characters you've never heard of.
+
+139
+00:11:00,271 --> 00:11:03,410
+Speaker 0: And all the things you want to see aren't there, and then you give up.
+
+140
+00:11:04,170 --> 00:11:08,430
+Speaker 1: Yeah, anyway, I'm pretty sure it's garbage, regardless, because I couldn't even finish one episode.
+
+141
+00:11:09,633 --> 00:11:11,310
+Speaker 1: Although I remember nothing of that episode.
+
+142
+00:11:11,310 --> 00:11:19,390
+Speaker 0: But also, the final episode of the original show, like, the first show was fine, and ended at a really good, like, I didn't need more.
+
+143
+00:11:19,630 --> 00:11:21,350
+Speaker 0: Gundam Seed told a pretty good Gundam story.
+
+144
+00:11:22,030 --> 00:11:28,470
+Speaker 1: Anyway, this new movie, Gundam Seed Freedom, is a direct sequel to Gundam Seed Destiny.
+
+145
+00:11:28,750 --> 00:11:30,176
+Speaker 1: So it just carries on.
+
+146
+00:11:30,256 --> 00:11:33,068
+Speaker 1: But, supposedly you don't really need to, right?
+
+147
+00:11:33,750 --> 00:11:35,766
+Speaker 1: It's like, do you really need to know or not know?
+
+148
+00:11:35,867 --> 00:11:36,170
+Speaker 1: I don't know.
+
+149
+00:11:36,210 --> 00:11:39,190
+Speaker 0: I feel like you don't, because the people who made this, they gotta know.
+
+150
+00:11:39,310 --> 00:11:51,070
+Speaker 0: Especially because I remember hearing, and I can't confirm this either, that many of the characters that were absent from the first half of Destiny started appearing in later revised scripts.
+
+151
+00:11:52,292 --> 00:11:57,170
+Speaker 1: But anyway, a lot of people saw this movie in Japan in theaters.
+
+152
+00:11:57,410 --> 00:12:07,790
+Speaker 1: Which either means, A, a lot of people, or both, I guess, either people were fans of Gundam Seed in Japan and then went to watch this, and there were a lot of them.
+
+153
+00:12:08,632 --> 00:12:13,190
+Speaker 1: Or, it was such a good movie, people went to see it, even not knowing Gundam Seed, or both.
+
+154
+00:12:14,210 --> 00:12:15,870
+Speaker 1: Because it did do well at the box office.
+
+155
+00:12:16,170 --> 00:12:21,210
+Speaker 1: So, it comes to America, and there was a screening over at Japan Society, right?
+
+156
+00:12:21,591 --> 00:12:24,910
+Speaker 1: Like, North America, almost, premiere kind of deal, right?
+
+157
+00:12:25,411 --> 00:12:28,286
+Speaker 1: And they're like, "Oh yeah, there's gonna be some voice actors there and
+
+158
+00:12:28,326 --> 00:12:28,869
+Speaker 1: stuff.".
+
+159
+00:12:29,050 --> 00:12:37,150
+Speaker 1: And I think, oh, I think the California one had some special guests, because they were also in the country for Sakura Con, which was maybe having a screening.
+
+160
+00:12:37,830 --> 00:12:42,970
+Speaker 1: In Seattle, so they were also going to LA to show it, but they weren't gonna be in New York.
+
+161
+00:12:43,390 --> 00:12:45,890
+Speaker 1: But anyway, the ticket prices for this thing were out of control.
+
+162
+00:12:46,070 --> 00:12:51,130
+Speaker 1: It was like 40 bucks for a cheap ticket, and like 100 something bucks plus to watch a movie.
+
+163
+00:12:51,530 --> 00:12:52,594
+Speaker 1: It's like, are you out of your mind?
+
+164
+00:12:52,634 --> 00:12:57,270
+Speaker 1: They give you some swag, as like, you know, limited edition swag, if you buy those tickets.
+
+165
+00:12:57,931 --> 00:13:01,610
+Speaker 1: But the swag was worthless garbage that I would throw away if someone gave it to me for free.
+
+166
+00:13:01,670 --> 00:13:07,410
+Speaker 0: To me, swag is an anti-incentive, because it's something I probably have to give away or throw away.
+
+167
+00:13:07,810 --> 00:13:09,767
+Speaker 1: It could be something good, right?
+
+168
+00:13:09,827 --> 00:13:10,170
+Speaker 1: For example...
+
+169
+00:13:10,190 --> 00:13:14,610
+Speaker 0: Yeah, give me a master grade, whatever the Gundam is that Lockus opens up at the end of the show.
+
+170
+00:13:15,390 --> 00:13:16,272
+Speaker 1: Well, but here's the thing, right?
+
+171
+00:13:17,774 --> 00:13:27,370
+Speaker 1: There was a Gundam festival in Japan somewhat recently, where it was possible to get a limited edition wooden Gunpla model.
+
+172
+00:13:28,090 --> 00:13:28,579
+Speaker 0: Okay, I would want that.
+
+173
+00:13:28,661 --> 00:13:29,130
+Speaker 0: I would want that.
+
+174
+00:13:29,150 --> 00:13:29,391
+Speaker 1: Right.
+
+175
+00:13:29,751 --> 00:13:31,074
+Speaker 1: I've seen pictures of the model.
+
+176
+00:13:31,275 --> 00:13:32,257
+Speaker 1: It's like, yeah, I want that.
+
+177
+00:13:32,658 --> 00:13:37,348
+Speaker 1: But it's like, for 40 bucks, it's like I'm basically buying the model and a movie ticket.
+
+178
+00:13:37,488 --> 00:13:38,390
+Speaker 1: That's an okay deal.
+
+179
+00:13:38,390 --> 00:13:39,633
+Speaker 1: 100 bucks?
+
+180
+00:13:40,195 --> 00:13:41,239
+Speaker 1: No.
+
+181
+00:13:41,299 --> 00:13:44,110
+Speaker 1: I wouldn't pay 100 bucks for the model, so why would I pay for 100 bucks for a model and a movie?
+
+182
+00:13:44,150 --> 00:13:47,210
+Speaker 0: Yeah, don't show me a giant robo in the theater and then give me an eye of Vogler.
+
+183
+00:13:48,051 --> 00:13:49,934
+Speaker 1: Yeah, it's like, it's not, no, forget it.
+
+184
+00:13:50,054 --> 00:14:02,710
+Speaker 1: Anyway, but the movie is coming to US theaters far and wide at reasonable normal prices with the old Fathom Events crunchy roll deal on May something.
+
+185
+00:14:03,030 --> 00:14:03,817
+Speaker 0: May 7th and May 8th.
+
+186
+00:14:05,410 --> 00:14:05,755
+Speaker 1: There you go.
+
+187
+00:14:05,816 --> 00:14:06,830
+Speaker 1: Rym opened the website.
+
+188
+00:14:07,170 --> 00:14:12,190
+Speaker 0: May 7th is the only subtitled screening and May 8th is the only incorrect dubbed screening.
+
+189
+00:14:13,030 --> 00:14:13,551
+Speaker 1: That's right.
+
+190
+00:14:13,631 --> 00:14:27,750
+Speaker 1: So, May 7th is a Tuesday, so if you got nothing to do on Tuesday, May 7th, like me, you know, maybe I'll go see it, I think, because, you know, but I mean, worst case, I go watch it.
+
+191
+00:14:27,890 --> 00:14:32,027
+Speaker 1: It's like, and I only, I don't understand some things because they were in Gundam Sea Destiny.
+
+192
+00:14:32,087 --> 00:14:32,790
+Speaker 1: and then who cares?
+
+193
+00:14:32,930 --> 00:14:37,630
+Speaker 0: I've watched many Gundam things over the years not having the full context because I haven't seen every other Gundam.
+
+194
+00:14:38,031 --> 00:14:42,000
+Speaker 1: Then I'll give a bad review of it and I'll be like, yeah, if you haven't seen Destiny, it makes no sense.
+
+195
+00:14:42,141 --> 00:14:43,825
+Speaker 1: Garbage movie, don't go see it.
+
+196
+00:14:43,845 --> 00:14:45,990
+Speaker 1: Or maybe it'll be comprehensible and good.
+
+197
+00:14:46,310 --> 00:14:56,888
+Speaker 0: So funnily enough, some friends of ours who have gotten really into Gundam relatively recently had never watched Seed and we were talking, oh yeah, let's do some Discord streams and like watch it because I can watch that show again.
+
+198
+00:14:56,929 --> 00:14:57,770
+Speaker 0: I like that show a lot.
+
+199
+00:14:58,171 --> 00:14:58,909
+Speaker 1: I have all the DVDs.
+
+200
+00:14:59,271 --> 00:15:12,270
+Speaker 0: Yeah, so we were going to do a stream, but then I realized, I learned from them, they wanted to watch all of Gundam Seed and Destiny before this movie so they would have the full context to go see this movie.
+
+201
+00:15:12,930 --> 00:15:24,870
+Speaker 0: And as much as I like Gundam Seed and like anime, I do not have the time or the will or the wish to watch that much anime that quickly.
+
+202
+00:15:25,012 --> 00:15:26,589
+Speaker 1: It's not a 26 episode show.
+
+203
+00:15:26,831 --> 00:15:30,530
+Speaker 0: Yeah, Gundam Seed by itself is 50 episodes plus some stuff.
+
+204
+00:15:31,670 --> 00:15:34,743
+Speaker 1: Yeah, you can't be doing that at this age.
+
+205
+00:15:36,570 --> 00:15:38,093
+Speaker 0: At this age, I could barely pull it.
+
+206
+00:15:38,313 --> 00:15:47,690
+Speaker 0: Even at RIT, I struggled to go to some marathons that I really wanted to go to because there's sunlight outside and I want to ride my bike or something.
+
+207
+00:15:49,330 --> 00:15:53,229
+Speaker 0: So I think they're going to crash watch it on their own and all I have to say is good luck with all that.
+
+208
+00:15:54,231 --> 00:15:56,095
+Speaker 1: By May 7th, you got a month.
+
+209
+00:15:56,255 --> 00:15:58,901
+Speaker 1: I guess you could do it in a month if you watch 3 episodes a day.
+
+210
+00:15:58,961 --> 00:16:02,570
+Speaker 1: Oh no, if you want to watch Destiny also, you got to watch like 4 or 5 episodes a day.
+
+211
+00:16:02,750 --> 00:16:06,447
+Speaker 0: I still feel like you can probably just skip Destiny or just like read a summary.
+
+212
+00:16:08,171 --> 00:16:08,673
+Speaker 1: I don't know.
+
+213
+00:16:08,693 --> 00:16:12,843
+Speaker 1: Yeah, seriously, just read the fucking cliff notes.
+
+214
+00:16:13,244 --> 00:16:15,810
+Speaker 1: Also, are there compilation movies you can watch for these things?
+
+215
+00:16:16,094 --> 00:16:16,747
+Speaker 0: I assume so.
+
+216
+00:16:17,432 --> 00:16:18,128
+Speaker 1: I thought there were.
+
+217
+00:16:18,350 --> 00:16:31,070
+Speaker 0: I mean, half of what's great about Gundam Seed is that it does the thing where it has great music, but there's special music that only plays during very important moments in the show.
+
+218
+00:16:31,571 --> 00:16:38,589
+Speaker 0: And any time a song you don't recognize starts playing, it's like the end of a Fushigi Yugi episode where you're like, "Oh shit, shit's going
+
+219
+00:16:38,629 --> 00:16:38,869
+Speaker 0: down.".
+
+220
+00:16:39,211 --> 00:16:40,342
+Speaker 0: They changed the closer.
+
+221
+00:16:40,423 --> 00:16:41,090
+Speaker 1: That's what happened.
+
+222
+00:16:42,254 --> 00:16:42,395
+Speaker 0: Yep.
+
+223
+00:16:42,455 --> 00:16:44,930
+Speaker 0: And then the mass driver scene happens or something.
+
+224
+00:16:45,670 --> 00:16:46,088
+Speaker 1: Yeah, anyway.
+
+225
+00:16:46,952 --> 00:16:56,210
+Speaker 0: So on some other news, if you're not aware, Superman first appeared not in a comic called Superman, but in a comic called Action Comics.
+
+226
+00:16:57,030 --> 00:17:02,510
+Speaker 0: And it was the first issue of Action Comics that had this character called Super Man.
+
+227
+00:17:02,790 --> 00:17:05,662
+Speaker 0: Very simplistic idea for a superhero, but whatever.
+
+228
+00:17:05,682 --> 00:17:08,891
+Speaker 0: It was a long time ago, 1938.
+
+229
+00:17:08,891 --> 00:17:10,761
+Speaker 0: They only printed 200,000 copies of that.
+
+230
+00:17:11,344 --> 00:17:13,740
+Speaker 1: And in the year 2000- They don't even print 200,000 copies of new comics.
+
+231
+00:17:15,050 --> 00:17:15,310
+Speaker 1: Right?
+
+232
+00:17:16,252 --> 00:17:22,869
+Speaker 0: But in the year 2024, about a hundred of those original printings exist today.
+
+233
+00:17:23,010 --> 00:17:26,730
+Speaker 0: Now, I'm not a fan of collecting in this manner.
+
+234
+00:17:27,732 --> 00:17:29,883
+Speaker 0: I think things like this should be in museums.
+
+235
+00:17:29,923 --> 00:17:31,290
+Speaker 0: That's a whole separate conversation.
+
+236
+00:17:33,071 --> 00:17:35,216
+Speaker 1: What's important is that you can read it, and you can.
+
+237
+00:17:35,276 --> 00:17:38,645
+Speaker 1: Basically, it's not hard to just read a digital copy of it.
+
+238
+00:17:38,725 --> 00:17:40,510
+Speaker 1: that looks a lot better than a paper one.
+
+239
+00:17:40,630 --> 00:17:46,510
+Speaker 1: So it really doesn't matter to me so much that the paper copy, it's like, okay.
+
+240
+00:17:47,150 --> 00:17:50,705
+Speaker 0: I'd like at least one paper copy to exist in a museum somewhere.
+
+241
+00:17:50,765 --> 00:17:51,990
+Speaker 0: That just feels appropriate.
+
+242
+00:17:53,590 --> 00:18:04,950
+Speaker 0: So someone bought one of these rare copies of Action Comics #1 from someone who had one, and they bought it for 6 million US dollars.
+
+243
+00:18:05,171 --> 00:18:06,634
+Speaker 0: Now, I want to think for a second.
+
+244
+00:18:07,797 --> 00:18:09,702
+Speaker 0: There aren't even that many pages in this thing.
+
+245
+00:18:09,902 --> 00:18:12,308
+Speaker 0: This is an old-timey comic book from the 30s.
+
+246
+00:18:14,391 --> 00:18:23,610
+Speaker 0: The number of dollars that were paid per square inch of Superman doing Superman things is just enormous and insane to me.
+
+247
+00:18:24,853 --> 00:18:26,121
+Speaker 0: I don't really have anything else to say.
+
+248
+00:18:26,141 --> 00:18:27,470
+Speaker 0: I just figured it was worth noting.
+
+249
+00:18:27,811 --> 00:18:34,949
+Speaker 1: I don't know how true this is, but I've heard people lately talking about like, "Hey, why do rich people keep doing this kind of
+
+250
+00:18:34,990 --> 00:18:35,170
+Speaker 1: thing?".
+
+251
+00:18:35,270 --> 00:18:40,320
+Speaker 0: Oh, I have some professional opinions that I can share in a very limited context.
+
+252
+00:18:40,560 --> 00:18:45,470
+Speaker 0: I have some personal opinions that I should not share based on the nature of the work that I do in my day job.
+
+253
+00:18:45,930 --> 00:18:55,890
+Speaker 1: There are stories I've heard in the past, stories of money laundering, stories of trying to bump up auctions for other things, and scams of that nature.
+
+254
+00:18:56,411 --> 00:19:04,889
+Speaker 1: But actually, I heard a new story, a story I hadn't heard before, which is like, "Hey, these sort of very expensive items, famous artworks and
+
+255
+00:19:04,930 --> 00:19:05,130
+Speaker 1: whatnot.".
+
+256
+00:19:05,770 --> 00:19:14,850
+Speaker 1: When rich people buy them, there are some rich people who might be trying to display them in their homes temporarily or in other places to show off or something like that.
+
+257
+00:19:15,030 --> 00:19:15,613
+Speaker 1: That happens.
+
+258
+00:19:15,734 --> 00:19:16,035
+Speaker 1: Obvious.
+
+259
+00:19:16,075 --> 00:19:17,603
+Speaker 1: I might even do that if I'm wealthy.
+
+260
+00:19:17,804 --> 00:19:18,286
+Speaker 1: I would rent.
+
+261
+00:19:18,327 --> 00:19:18,869
+Speaker 1: I wouldn't buy.
+
+262
+00:19:19,090 --> 00:19:20,233
+Speaker 0: But I can understand that.
+
+263
+00:19:20,253 --> 00:19:26,570
+Speaker 0: If I was wealthy enough to have a house that had the exhibit room, I would have a collection of interesting items in that room.
+
+264
+00:19:27,350 --> 00:19:29,430
+Speaker 1: Yeah, and maybe I'd rotate it out just to keep it interesting.
+
+265
+00:19:29,830 --> 00:19:32,405
+Speaker 0: Yeah, open it to the public like, "Hey, come to my house if you want to see this
+
+266
+00:19:32,446 --> 00:19:32,647
+Speaker 0: thing.".
+
+267
+00:19:33,311 --> 00:19:35,530
+Speaker 1: Yeah, check out my awesome house of collected things.
+
+268
+00:19:37,010 --> 00:19:47,530
+Speaker 1: Apparently, there are these registries where certain items are important enough or expensive enough to be put into a registry.
+
+269
+00:19:48,233 --> 00:19:50,183
+Speaker 1: So like, "Ah, this is a very special car.
+
+270
+00:19:50,203 --> 00:19:50,986
+Speaker 1: This is very special
+
+271
+00:19:51,027 --> 00:19:51,469
+Speaker 1: jewelry.".
+
+272
+00:19:52,894 --> 00:19:57,190
+Speaker 1: And when you purchase the item, you don't actually get the item.
+
+273
+00:20:00,074 --> 00:20:03,070
+Speaker 1: It stays in the vault where it lives or wherever it is on Earth.
+
+274
+00:20:04,071 --> 00:20:05,923
+Speaker 1: I guess you could theoretically say, "It's mine.
+
+275
+00:20:05,964 --> 00:20:06,265
+Speaker 1: Give it to
+
+276
+00:20:06,326 --> 00:20:06,406
+Speaker 1: me.".
+
+277
+00:20:06,427 --> 00:20:06,889
+Speaker 1: And they would.
+
+278
+00:20:07,330 --> 00:20:14,590
+Speaker 1: But all that really happens is you're getting your name in this registry as being connected to that very important item.
+
+279
+00:20:15,510 --> 00:20:17,776
+Speaker 1: And it's like, "Ah, yes.
+
+280
+00:20:17,877 --> 00:20:22,048
+Speaker 1: The such-and-such stone once belonged to a wealthy
+
+281
+00:20:22,108 --> 00:20:22,550
+Speaker 1: person.".
+
+282
+00:20:23,631 --> 00:20:27,563
+Speaker 0: See, now, unless they named it after me like, "Oh, that's Rim Comics
+
+283
+00:20:27,563 --> 00:20:29,910
+Speaker 0: #1.".
+
+284
+00:20:29,910 --> 00:20:44,610
+Speaker 1: Yeah, but it's like rich people who, some of whom, many of whom, consider just this number of how much they're worth and tie that number of monies to their self-worth.
+
+285
+00:20:45,090 --> 00:20:54,730
+Speaker 1: That tracks, if that's true, that they would also tie to their self-worth just some paper somewhere saying that they once owned the something.
+
+286
+00:20:54,931 --> 00:21:00,050
+Speaker 1: And that could both enhance the value of the something, depending if the rich person was famous enough.
+
+287
+00:21:00,230 --> 00:21:00,752
+Speaker 1: Like, "Ah, yes.
+
+288
+00:21:01,173 --> 00:21:02,117
+Speaker 1: Once owned by the
+
+289
+00:21:02,157 --> 00:21:02,659
+Speaker 1: Sultan.".
+
+290
+00:21:02,679 --> 00:21:04,967
+Speaker 1: It's like, "Oh, well, that makes this jewel more
+
+291
+00:21:05,047 --> 00:21:05,408
+Speaker 1: special.".
+
+292
+00:21:06,231 --> 00:21:12,826
+Speaker 1: Or, you know, once the jewel was owned by the Sultan and Scott, it's like, "Oh, yeah.
+
+293
+00:21:12,887 --> 00:21:13,829
+Speaker 1: I'm in the same league as the
+
+294
+00:21:13,869 --> 00:21:14,170
+Speaker 1: Sultan.".
+
+295
+00:21:14,370 --> 00:21:16,330
+Speaker 0: Scott touched the same thing that the Sultan touched.
+
+296
+00:21:17,273 --> 00:21:20,984
+Speaker 1: With his, well, no, a piece of paper has both of our names on it.
+
+297
+00:21:21,145 --> 00:21:21,406
+Speaker 1: Right?
+
+298
+00:21:22,990 --> 00:21:34,570
+Speaker 1: And so, rich people buy and sell to get on these registries of, I guess, to inflate their self-worth, which is tied up with, you know, monetary and material wealth.
+
+299
+00:21:35,291 --> 00:21:51,580
+Speaker 0: That you've probably heard of and a lot of people have heard of, but there is a concept that, separate from the whole money laundering and, like, wash trading conversations that happened with in certain sectors of art, there is the concept of using rare items as a store of wealth.
+
+300
+00:21:52,061 --> 00:21:55,570
+Speaker 0: in that the argument, now again, I'm not giving a professional opinion here.
+
+301
+00:21:56,051 --> 00:22:04,190
+Speaker 0: I am simply stating an argument that is made broadly that you could Google for and thus do not take this as investment advice from me.
+
+302
+00:22:05,991 --> 00:22:19,190
+Speaker 0: The idea is that if a thing is rare enough, then it is very unlikely to go down in perceived value over time so that someone could use it as a store of wealth instead of putting money in a bank.
+
+303
+00:22:19,690 --> 00:22:31,790
+Speaker 0: Like, you could own the Mona Lisa and then you sell it someday when you want to use that wealth for something and it's a way to store wealth and store value in an object as opposed to in the market.
+
+304
+00:22:32,790 --> 00:22:39,869
+Speaker 1: Hmm, that's begat insurance and it's not something that society stops caring about, you know, as long as there is still...
+
+305
+00:22:40,350 --> 00:22:48,690
+Speaker 0: Because the insurance writer is going to make decisions like, alright, what are the odds over the next hundred years that nobody is going to give a shit about the Mona Lisa anymore?
+
+306
+00:22:48,870 --> 00:22:49,899
+Speaker 0: Like, what are the odds of that?
+
+307
+00:22:49,980 --> 00:22:51,150
+Speaker 0: and then they'll underwrite accordingly.
+
+308
+00:22:51,830 --> 00:23:03,850
+Speaker 1: Right, it's like you think Superman is already, you know, Action Comics #1, people caring about it, has already outlived, right, pretty much the people who made it, right, and a lot of people who were young when it was new.
+
+309
+00:23:04,590 --> 00:23:16,430
+Speaker 1: Not all of them though, not yet, but it's like, it's got some staying power and as long as it is staying power for your lifetime, right, it's like, well, people still care about Superman in a thousand years, maybe not.
+
+310
+00:23:16,971 --> 00:23:24,970
+Speaker 1: But, as long as they care about Superman in 70 years, I'm probably not living 70 more years, so that's good enough.
+
+311
+00:23:25,510 --> 00:23:25,585
+Speaker 0: Yep.
+
+312
+00:23:27,711 --> 00:23:32,149
+Speaker 1: Even the wealthy people are gonna... Hopefully not.
+
+313
+00:23:34,304 --> 00:23:37,880
+Speaker 0: But anyway, things of the day!
+
+314
+00:23:38,440 --> 00:23:47,020
+Speaker 0: So, this is, this might be the nerdiest video that I've ever watched and enjoyed, to be very clear there.
+
+315
+00:23:47,160 --> 00:23:49,080
+Speaker 0: Like, I got more out of this than I thought I would.
+
+316
+00:23:49,520 --> 00:23:53,977
+Speaker 0: This video is titled, "What is the range of stings ork
+
+317
+00:23:54,017 --> 00:23:54,358
+Speaker 0: radar?".
+
+318
+00:23:55,121 --> 00:24:00,480
+Speaker 0: And this is an 11 minute, very well cited video that delves into...
+
+319
+00:24:00,520 --> 00:24:02,399
+Speaker 1: Are they doing movies or just book or what?
+
+320
+00:24:02,883 --> 00:24:05,439
+Speaker 0: They're canonical Tolkien sources only.
+
+321
+00:24:06,180 --> 00:24:06,879
+Speaker 1: So books only.
+
+322
+00:24:07,180 --> 00:24:07,636
+Speaker 0: Books only.
+
+323
+00:24:08,240 --> 00:24:24,640
+Speaker 0: And it goes into specific passages across words that Tolkien wrote and is able to determine a actually shockingly specific range for how far away sting can detect orks.
+
+324
+00:24:25,722 --> 00:24:29,300
+Speaker 0: And I am impressed with the level of rigor that went into this video.
+
+325
+00:24:30,401 --> 00:24:33,470
+Speaker 0: I'm not gonna spoil it, I want you to watch this 11 minute video if you wanna know.
+
+326
+00:24:33,891 --> 00:24:37,240
+Speaker 0: orks stings orkdar, not orkstingdar.
+
+327
+00:24:37,580 --> 00:24:38,455
+Speaker 0: That's a whole different thing.
+
+328
+00:24:39,600 --> 00:24:49,960
+Speaker 0: But you can actually, because of a handful, there's like one sentence in one place juxtaposed with a distance that is stated between two other places later.
+
+329
+00:24:50,860 --> 00:24:53,636
+Speaker 0: And then Aragorn speculating, "Oh, it could be
+
+330
+00:24:53,877 --> 00:24:53,897
+Speaker 0: X.".
+
+331
+00:24:54,541 --> 00:24:58,480
+Speaker 0: You're able to pinpoint this down to like a matter of dozens of feet.
+
+332
+00:24:59,789 --> 00:24:59,977
+Speaker 0: Hmm.
+
+333
+00:25:00,805 --> 00:25:01,679
+Speaker 0: It's pretty cool.
+
+334
+00:25:02,120 --> 00:25:02,735
+Speaker 0: My hat is off to...
+
+335
+00:25:02,941 --> 00:25:03,259
+Speaker 1: Dozens of feet.
+
+336
+00:25:03,500 --> 00:25:07,106
+Speaker 1: I mean, just with me not knowing anything in the video or any of the... No, no, not.
+
+337
+00:25:07,147 --> 00:25:08,100
+Speaker 0: the range is dozens of feet.
+
+338
+00:25:08,180 --> 00:25:13,800
+Speaker 0: That is, it's absolute range within an error of dozens of feet.
+
+339
+00:25:15,111 --> 00:25:15,320
+Speaker 1: Okay.
+
+340
+00:25:15,440 --> 00:25:19,920
+Speaker 0: It's absolute range is actually pretty big based on something Aragorn says once.
+
+341
+00:25:21,129 --> 00:25:21,279
+Speaker 1: Alright.
+
+342
+00:25:22,883 --> 00:25:24,640
+Speaker 1: So there's a lot of word games out there.
+
+343
+00:25:24,780 --> 00:25:27,180
+Speaker 1: Word games are always hot, especially in English language.
+
+344
+00:25:27,280 --> 00:25:31,620
+Speaker 1: You know, crosswords have been around for a super long time and they're pretty strong.
+
+345
+00:25:32,020 --> 00:25:36,639
+Speaker 1: Scrabble, despite issues we have with it, still a really strong game in terms of popularity, people playing it.
+
+346
+00:25:37,240 --> 00:25:38,120
+Speaker 1: Wordle, right?
+
+347
+00:25:38,240 --> 00:25:39,019
+Speaker 1: People love that shit.
+
+348
+00:25:39,560 --> 00:25:43,459
+Speaker 1: So here's a game someone made that has not taken off.
+
+349
+00:25:43,881 --> 00:25:47,438
+Speaker 1: It's a free little web game you can play at truncate.town.
+
+350
+00:25:48,541 --> 00:25:52,599
+Speaker 1: And I found in this word game some really interesting things going on.
+
+351
+00:25:52,860 --> 00:25:59,520
+Speaker 1: Is that like it's normally in a word game when you're making words out of tiles, it's like you could only make legal words here.
+
+352
+00:25:59,662 --> 00:26:00,580
+Speaker 1: It's like, nah, go ahead.
+
+353
+00:26:01,102 --> 00:26:03,440
+Speaker 1: Make some make some illegal words if you want.
+
+354
+00:26:03,760 --> 00:26:04,920
+Speaker 1: I just throw down some letters.
+
+355
+00:26:05,361 --> 00:26:11,260
+Speaker 1: But that might give you a really weak position, you know, but it could be a risk taking position.
+
+356
+00:26:11,821 --> 00:26:18,160
+Speaker 1: And also it's a two player game or a multiplayer game with some attacking and defense.
+
+357
+00:26:18,489 --> 00:26:18,739
+Speaker 1: Right.
+
+358
+00:26:18,820 --> 00:26:21,260
+Speaker 1: Where, like, you know, we've seen that before.
+
+359
+00:26:21,601 --> 00:26:25,900
+Speaker 1: There is a Scrabble like game where there's attacking and defending.
+
+360
+00:26:25,960 --> 00:26:26,594
+Speaker 1: What was that one?
+
+361
+00:26:27,984 --> 00:26:29,160
+Speaker 0: Oh, do I play it?
+
+362
+00:26:29,280 --> 00:26:31,080
+Speaker 1: I remember I played it very briefly.
+
+363
+00:26:32,524 --> 00:26:34,140
+Speaker 1: But this one's much more contained.
+
+364
+00:26:34,300 --> 00:26:42,320
+Speaker 1: And it's like, yeah, if you throw down like a five letter real word and then I touch that shit with my six letter real word, like I blow up your shit.
+
+365
+00:26:42,841 --> 00:26:48,240
+Speaker 1: And basically the goal of the game is you're starting to make words that like you're part of the island and they're making words that they're part of the island.
+
+366
+00:26:48,541 --> 00:26:53,920
+Speaker 1: You have to have like a contiguous chain connecting and then you're trying to hit their island to go bam.
+
+367
+00:26:54,520 --> 00:26:54,641
+Speaker 1: Right.
+
+368
+00:26:54,962 --> 00:26:55,945
+Speaker 1: I worded all the way.
+
+369
+00:26:56,085 --> 00:26:56,246
+Speaker 1: Right.
+
+370
+00:26:56,266 --> 00:27:00,500
+Speaker 1: So push back and forth of wordiness using the tiles you get.
+
+371
+00:27:01,080 --> 00:27:01,782
+Speaker 1: And so I think it's.
+
+372
+00:27:01,943 --> 00:27:07,300
+Speaker 1: it's actually, you know, I think it's better than banana grams in terms of the speed aspect.
+
+373
+00:27:07,921 --> 00:27:08,161
+Speaker 1: Right.
+
+374
+00:27:08,563 --> 00:27:13,520
+Speaker 1: But it also has sort of like the spatial aspect that banana grams doesn't include that Scrabble has.
+
+375
+00:27:14,382 --> 00:27:16,379
+Speaker 1: So this is not bad.
+
+376
+00:27:17,483 --> 00:27:18,290
+Speaker 1: I would try this out.
+
+377
+00:27:18,330 --> 00:27:19,318
+Speaker 1: if you're a word game liker.
+
+378
+00:27:21,041 --> 00:27:21,402
+Speaker 0: I like it.
+
+379
+00:27:21,663 --> 00:27:22,928
+Speaker 0: I've been playing it while you were.
+
+380
+00:27:22,989 --> 00:27:25,438
+Speaker 0: I like how the other players letters are upside down.
+
+381
+00:27:26,781 --> 00:27:27,684
+Speaker 1: Mm hmm.
+
+382
+00:27:27,745 --> 00:27:28,206
+Speaker 0: All right.
+
+383
+00:27:28,588 --> 00:27:31,900
+Speaker 0: In the meta moment, the geek nights book club book, then I just short walk on girl.
+
+384
+00:27:31,961 --> 00:27:33,439
+Speaker 0: We're going to do the episode pretty soon.
+
+385
+00:27:34,484 --> 00:27:35,719
+Speaker 0: I don't have that much left to read.
+
+386
+00:27:36,863 --> 00:27:37,734
+Speaker 0: So read the book.
+
+387
+00:27:37,795 --> 00:27:38,160
+Speaker 0: It's short.
+
+388
+00:27:38,541 --> 00:27:46,540
+Speaker 0: If you're really lazy, you can watch the movie, which covers more territory than the book for reasons that we can talk about a little bit in the book club show.
+
+389
+00:27:47,160 --> 00:27:49,756
+Speaker 0: We also did do a review of the movie Walk on Girl.
+
+390
+00:27:49,796 --> 00:27:50,360
+Speaker 0: the Night is Short.
+
+391
+00:27:50,940 --> 00:27:51,682
+Speaker 0: I love that movie.
+
+392
+00:27:51,863 --> 00:27:52,885
+Speaker 0: And I really like this book.
+
+393
+00:27:54,630 --> 00:27:58,400
+Speaker 0: Otherwise, I'm thinking about this West in Seattle.
+
+394
+00:27:58,681 --> 00:28:00,686
+Speaker 0: Yeah, PAX West Seattle.
+
+395
+00:28:00,766 --> 00:28:06,560
+Speaker 0: I'm very, very much planning to go to that, partly because I want to do the panel we were supposed to do together.
+
+396
+00:28:06,680 --> 00:28:10,140
+Speaker 0: The good one that I was really looking forward to doing that panel.
+
+397
+00:28:10,720 --> 00:28:15,100
+Speaker 1: Well, I'm likely to you know, my work is having, you know, big basically everyone.
+
+398
+00:28:15,260 --> 00:28:17,500
+Speaker 1: My work is entirely remote with people all over the world.
+
+399
+00:28:17,841 --> 00:28:19,788
+Speaker 1: And last year they were like, all right, everyone.
+
+400
+00:28:19,828 --> 00:28:23,420
+Speaker 1: in September, we're going to get everyone in the whole company together in New York.
+
+401
+00:28:23,500 --> 00:28:24,001
+Speaker 1: I'm like, yes.
+
+402
+00:28:24,964 --> 00:28:31,440
+Speaker 1: And this year they're like reading everyone at the company together in exactly one week after PAX West in California.
+
+403
+00:28:31,460 --> 00:28:33,266
+Speaker 1: And I'm like, well, I'll be over there.
+
+404
+00:28:34,951 --> 00:28:37,600
+Speaker 1: I'll just find a range of transportation of some kind.
+
+405
+00:28:37,620 --> 00:28:39,627
+Speaker 0: You know, you could do if you want to have some fun.
+
+406
+00:28:39,647 --> 00:28:43,300
+Speaker 0: I would recommend taking that scenic Amtrak.
+
+407
+00:28:43,921 --> 00:28:44,709
+Speaker 1: We'll see who pays.
+
+408
+00:28:44,729 --> 00:28:45,700
+Speaker 1: That's what we'll see.
+
+409
+00:28:45,860 --> 00:28:46,002
+Speaker 0: Yeah.
+
+410
+00:28:46,042 --> 00:28:47,540
+Speaker 0: Take that down the coast because I took that.
+
+411
+00:28:47,640 --> 00:28:50,420
+Speaker 1: Well see, it's all going to depend on who pays for what, right?
+
+412
+00:28:50,480 --> 00:28:51,358
+Speaker 1: Because I took one year.
+
+413
+00:28:51,780 --> 00:28:53,980
+Speaker 1: If my company doesn't pay, I'm just going right back to New York.
+
+414
+00:28:54,220 --> 00:29:08,900
+Speaker 0: In ancient, ancient times, there was a PAX West where an organization, Kai-Fu, approached me and paid me my honorarium and all my travel expenses to travel after PAX to Portland to give a private lecture on game and UX design to this group.
+
+415
+00:29:09,000 --> 00:29:09,702
+Speaker 0: And it was super fun.
+
+416
+00:29:10,284 --> 00:29:15,057
+Speaker 0: So I took the Amtrak from Seattle to Portland and I really, really enjoyed that.
+
+417
+00:29:15,097 --> 00:29:16,020
+Speaker 0: Like that was a great time.
+
+418
+00:29:16,284 --> 00:29:17,138
+Speaker 0: So I would recommend it.
+
+419
+00:29:17,440 --> 00:29:25,020
+Speaker 1: I mean, I do have many coworkers in Portland, so that is an option is to go to where, you know, several coworkers, including the CEO, are in Portland.
+
+420
+00:29:25,481 --> 00:29:29,820
+Speaker 1: So I could go there and then go with them to California, right?
+
+421
+00:29:30,122 --> 00:29:30,536
+Speaker 0: Could be fun.
+
+422
+00:29:31,281 --> 00:29:32,039
+Speaker 1: That's one option.
+
+423
+00:29:32,200 --> 00:29:34,567
+Speaker 0: Well, very likely also be at the PAX Unplugged.
+
+424
+00:29:34,587 --> 00:29:35,851
+Speaker 0: That'll happen sometime after that.
+
+425
+00:29:36,393 --> 00:29:38,600
+Speaker 0: We'll pretty much be at PAX unless things get in our way.
+
+426
+00:29:39,141 --> 00:29:49,700
+Speaker 0: I'll also tell you all now, I am strongly debating not just going to MagFest, as we do every year, but going to MagStock in June.
+
+427
+00:29:50,821 --> 00:29:54,980
+Speaker 0: It actually looks pretty fun the more I looked into it and I'm going to make a decision in the next couple weeks.
+
+428
+00:29:56,261 --> 00:30:02,119
+Speaker 1: So, you know, it's like I could see some good parts, but I could also see potential for meh.
+
+429
+00:30:02,660 --> 00:30:04,340
+Speaker 0: So there's important things I learned.
+
+430
+00:30:04,822 --> 00:30:07,351
+Speaker 0: One, everyone has access to showers.
+
+431
+00:30:07,512 --> 00:30:08,817
+Speaker 0: Even people are staying in tents.
+
+432
+00:30:09,098 --> 00:30:09,620
+Speaker 0: That was the first.
+
+433
+00:30:10,365 --> 00:30:11,560
+Speaker 1: That's not something I'm worried about.
+
+434
+00:30:11,840 --> 00:30:14,060
+Speaker 0: That was the first and most important thing I was worried about.
+
+435
+00:30:14,583 --> 00:30:14,772
+Speaker 1: Okay.
+
+436
+00:30:16,901 --> 00:30:22,840
+Speaker 0: It leans more into the concerts, but they do have like powered gaming areas and such.
+
+437
+00:30:23,520 --> 00:30:23,609
+Speaker 1: Yeah.
+
+438
+00:30:24,621 --> 00:30:29,375
+Speaker 0: But what I was really interested in is if you're in a cabin, the cabins aren't actually that expensive.
+
+439
+00:30:29,455 --> 00:30:30,960
+Speaker 0: Like if you don't want to camp in a tent.
+
+440
+00:30:31,500 --> 00:30:33,660
+Speaker 1: If you can fill the cabin with people, it's not that expensive.
+
+441
+00:30:33,760 --> 00:30:33,981
+Speaker 0: Yeah.
+
+442
+00:30:34,041 --> 00:30:41,197
+Speaker 0: So the largest kind of private cabin you can get costs $1,400 for the whole con and sleeps.
+
+443
+00:30:41,257 --> 00:30:42,179
+Speaker 0: Guess how many it sleeps?
+
+444
+00:30:43,225 --> 00:30:44,119
+Speaker 1: Probably like teens.
+
+445
+00:30:45,791 --> 00:30:45,979
+Speaker 1: Okay.
+
+446
+00:30:46,140 --> 00:30:47,098
+Speaker 1: It has thirty beds.
+
+447
+00:30:48,049 --> 00:30:48,300
+Speaker 1: Okay.
+
+448
+00:30:49,161 --> 00:30:49,983
+Speaker 0: So stay tuned.
+
+449
+00:30:50,003 --> 00:30:50,785
+Speaker 0: I'm going to look into this.
+
+450
+00:30:51,066 --> 00:30:56,300
+Speaker 0: I'll give you, I'll share with all of you my assessment and my decision on whether or not I want to go to MagStock.
+
+451
+00:30:56,501 --> 00:30:59,179
+Speaker 0: And then if other people want to go, we'll see what happens.
+
+452
+00:31:01,602 --> 00:31:03,560
+Speaker 0: Otherwise, yeah, we're going to try not to disrupt.
+
+453
+00:31:03,600 --> 00:31:06,340
+Speaker 1: I figured you would just use your tent and not pay anything.
+
+454
+00:31:06,720 --> 00:31:07,383
+Speaker 0: Could do that too.
+
+455
+00:31:07,464 --> 00:31:10,920
+Speaker 0: But I really like camping one or two nights in a tent.
+
+456
+00:31:11,440 --> 00:31:17,000
+Speaker 0: I don't know if I want to camp in a tent during a gaming convention and a music festival for a long weekend.
+
+457
+00:31:17,700 --> 00:31:19,248
+Speaker 0: I feel like I might want to be in a cabin though.
+
+458
+00:31:19,268 --> 00:31:21,720
+Speaker 0: If you do camp, the rules are pretty cool.
+
+459
+00:31:22,140 --> 00:31:23,686
+Speaker 0: You can camp anywhere on the ground.
+
+460
+00:31:23,806 --> 00:31:25,291
+Speaker 0: It isn't like designated campsites.
+
+461
+00:31:25,332 --> 00:31:27,600
+Speaker 0: Just pick a spot that's yours.
+
+462
+00:31:28,521 --> 00:31:31,960
+Speaker 0: But everyone has access to showers and facilities.
+
+463
+00:31:33,881 --> 00:31:38,060
+Speaker 0: They even have a whole system to make sure you have places to get power, even run power to your tent if you want.
+
+464
+00:31:38,723 --> 00:31:39,820
+Speaker 1: What's the food situation?
+
+465
+00:31:40,520 --> 00:31:43,620
+Speaker 0: There is a dining hall that you can opt into or cook your own food.
+
+466
+00:31:45,021 --> 00:31:45,527
+Speaker 1: Okay.
+
+467
+00:31:45,567 --> 00:31:46,559
+Speaker 1: How many days is it though?
+
+468
+00:31:47,081 --> 00:31:47,803
+Speaker 0: I think three or four.
+
+469
+00:31:47,823 --> 00:31:50,009
+Speaker 0: I have mostly focused on the.
+
+470
+00:31:50,089 --> 00:31:53,820
+Speaker 0: are people going to be showered and what does the sleeping and power situation look like.
+
+471
+00:31:54,162 --> 00:31:57,700
+Speaker 0: I've spent about 25 minutes looking into the details of this con.
+
+472
+00:31:58,480 --> 00:32:00,146
+Speaker 1: It just seems like logistically difficult, right?
+
+473
+00:32:00,166 --> 00:32:02,716
+Speaker 1: You have to make a mega Costco run before, right?
+
+474
+00:32:02,816 --> 00:32:03,700
+Speaker 1: Bring everything there.
+
+475
+00:32:04,300 --> 00:32:06,524
+Speaker 0: Or just sign up for that.
+
+476
+00:32:06,805 --> 00:32:15,160
+Speaker 0: I saw some photos of the dining hall's food and it looked like it was about twice as good as what I remember band camp food to be.
+
+477
+00:32:15,561 --> 00:32:19,798
+Speaker 0: Which is above the line of acceptable but is just shy of good.
+
+478
+00:32:22,082 --> 00:32:24,140
+Speaker 1: I've eaten much summer camp food in my life.
+
+479
+00:32:26,244 --> 00:32:27,309
+Speaker 0: Alright, let's get right to the main bit.
+
+480
+00:32:27,429 --> 00:32:29,539
+Speaker 0: Emily and I watched the show quite some time ago.
+
+481
+00:32:30,600 --> 00:32:33,676
+Speaker 0: Scott watched it recently so we can now talk about it.
+
+482
+00:32:33,797 --> 00:32:34,400
+Speaker 0: It is the anime.
+
+483
+00:32:35,261 --> 00:32:39,640
+Speaker 1: I'm trying to get through Netflix so I can watch all the stuff on it and then stop paying for it.
+
+484
+00:32:40,600 --> 00:32:41,585
+Speaker 1: So that was on my list.
+
+485
+00:32:41,887 --> 00:32:43,193
+Speaker 1: I got around to it eventually.
+
+486
+00:32:43,455 --> 00:32:44,500
+Speaker 1: I watch things eventually.
+
+487
+00:32:44,960 --> 00:32:47,680
+Speaker 0: I'm pretty sure I deep-fited it some time ago but The Orbital Children.
+
+488
+00:32:47,740 --> 00:32:49,348
+Speaker 1: There's no rush, right?
+
+489
+00:32:49,429 --> 00:32:51,539
+Speaker 1: It's a shame show that it was when it was new.
+
+490
+00:32:52,223 --> 00:32:53,432
+Speaker 1: I saw it before I died.
+
+491
+00:32:53,815 --> 00:32:54,359
+Speaker 1: What's the big deal?
+
+492
+00:32:55,142 --> 00:32:58,456
+Speaker 0: I guess the important things about it were that one, it's on Netflix.
+
+493
+00:32:58,516 --> 00:33:00,143
+Speaker 0: It's from 2022.
+
+494
+00:33:00,143 --> 00:33:01,399
+Speaker 0: So it's a relatively recent anime.
+
+495
+00:33:02,120 --> 00:33:09,560
+Speaker 0: Two, it is a fairly hard sci-fi compared to a lot of anime that are set in space like, say, Gundams.
+
+496
+00:33:11,202 --> 00:33:18,200
+Speaker 0: It does deal with some pretty direct, serious science fiction concepts in a serious, direct, and interesting way.
+
+497
+00:33:19,081 --> 00:33:22,100
+Speaker 0: It was written and directed by Mitsuo Iso.
+
+498
+00:33:23,662 --> 00:33:26,360
+Speaker 0: Not to get into his whole history because I didn't know a lot about him.
+
+499
+00:33:26,460 --> 00:33:33,740
+Speaker 0: But if you go to his Wikipedia and you look at what he's worked on, it's that golden type of person to make a good anime.
+
+500
+00:33:34,241 --> 00:33:44,180
+Speaker 0: He has mostly done key animation for important anime over history like End of Evangelion, Perfect Blue, Cowboy Bebop.
+
+501
+00:33:46,481 --> 00:33:51,080
+Speaker 0: So the character designs were good by a person you might all recognize.
+
+502
+00:33:53,102 --> 00:33:54,868
+Speaker 0: This came out of him and Deno Coil.
+
+503
+00:33:54,949 --> 00:33:57,959
+Speaker 0: So there's a lot of reasons to check this show out.
+
+504
+00:33:59,842 --> 00:34:01,740
+Speaker 1: And it's also only, what, six episodes?
+
+505
+00:34:01,860 --> 00:34:02,944
+Speaker 0: Yeah, it's not super long.
+
+506
+00:34:03,084 --> 00:34:05,372
+Speaker 0: It doesn't fuck around.
+
+507
+00:34:05,673 --> 00:34:06,756
+Speaker 0: It introduces the world.
+
+508
+00:34:06,816 --> 00:34:07,880
+Speaker 0: It introduces the concept.
+
+509
+00:34:08,960 --> 00:34:13,190
+Speaker 0: The inciting incident happens basically immediately.
+
+510
+00:34:13,210 --> 00:34:17,120
+Speaker 0: The mystery is introduced basically immediately.
+
+511
+00:34:17,581 --> 00:34:23,320
+Speaker 0: And by the end of this short show, every question is answered, everything is resolved, and it's very satisfying.
+
+512
+00:34:25,484 --> 00:34:28,835
+Speaker 1: Yeah, so you've got Orbital Children, obviously, just based on the title.
+
+513
+00:34:28,875 --> 00:34:30,199
+Speaker 1: It's like, "Oh, this is going to be about kids in
+
+514
+00:34:30,219 --> 00:34:30,420
+Speaker 1: space.".
+
+515
+00:34:30,620 --> 00:34:33,828
+Speaker 1: And yeah, it's about kids in space.
+
+516
+00:34:34,168 --> 00:34:38,420
+Speaker 1: And it's about a lot of concepts that you've seen in kids in space animes before.
+
+517
+00:34:38,840 --> 00:34:45,460
+Speaker 1: Especially Gundam, where you've got the people who live in space against the people who live on Earth and the conflicts between them.
+
+518
+00:34:46,000 --> 00:34:50,658
+Speaker 1: And the fate of humanity, the destiny of the human race, etc.
+
+519
+00:34:52,481 --> 00:34:57,409
+Speaker 0: It's got the typical discussion of, "Is AI good?
+
+520
+00:34:57,590 --> 00:34:58,792
+Speaker 0: Is AI bad?
+
+521
+00:34:58,892 --> 00:35:02,378
+Speaker 0: Is AI just a very complicated and difficult thing for humans to deal
+
+522
+00:35:02,438 --> 00:35:02,598
+Speaker 0: with?".
+
+523
+00:35:05,081 --> 00:35:16,879
+Speaker 1: And it's also got sort of the 2001 aspect of like, "Ah, yes, this is the space station, and this is space tourism, and people can just come up to space if they want
+
+524
+00:35:16,899 --> 00:35:17,039
+Speaker 1: to.".
+
+525
+00:35:19,180 --> 00:35:20,343
+Speaker 1: What's that like?
+
+526
+00:35:20,724 --> 00:35:25,435
+Speaker 1: And also, criticisms of Earth government structures, right?
+
+527
+00:35:25,455 --> 00:35:26,016
+Speaker 1: It's like, "It's
+
+528
+00:35:26,036 --> 00:35:26,097
+Speaker 1: UN2!".
+
+529
+00:35:28,163 --> 00:35:31,657
+Speaker 1: Yeah, the UN1, it failed, and now we have UN2 to find out.
+
+530
+00:35:32,540 --> 00:35:37,100
+Speaker 0: But it's also something that I think is worth calling out, because I didn't think about it until watching the show.
+
+531
+00:35:37,940 --> 00:35:51,140
+Speaker 0: Generally, the best science fiction that I've read or watched over the years will have many science fiction and speculative concepts in it, but will primarily focus on a smaller number of them for its deep analysis.
+
+532
+00:35:51,740 --> 00:36:00,400
+Speaker 0: But it will have the others there, treated accurately, interestingly, and appropriately, even if it's not directly interrogating them.
+
+533
+00:36:01,261 --> 00:36:11,920
+Speaker 0: And sci-fi that is the top tier, S tier, tends to have all that there in the background, which gives you a more complex and holistic speculative world, but doesn't super delve on them.
+
+534
+00:36:12,260 --> 00:36:24,119
+Speaker 0: Like, worst science fiction addresses literally every concept fully and tends to be tedious, and Ray Bradbury tends to just pick, "We're going to look at exactly one thing for 20 pages, and that's it.
+
+535
+00:36:24,239 --> 00:36:24,639
+Speaker 0: Nothing else
+
+536
+00:36:24,700 --> 00:36:24,960
+Speaker 0: exists.".
+
+537
+00:36:25,823 --> 00:36:30,638
+Speaker 1: Yeah, here, it's like, you see some concepts that are real and also not real.
+
+538
+00:36:32,160 --> 00:36:49,060
+Speaker 1: But it's like, there was an episode where a good most of the episode was focused on just the danger of being in space, running out of oxygen, being sucked into the vacuum, dying, depressurizing, all those sorts of normal, hard sci-fi things that happen every time someone's in space.
+
+539
+00:36:50,361 --> 00:36:51,883
+Speaker 1: But is the show about that?
+
+540
+00:36:52,323 --> 00:36:53,384
+Speaker 1: Not at all, really.
+
+541
+00:36:54,485 --> 00:37:10,360
+Speaker 1: But it is sort of necessary to sort of lock the setting in place, force the characters into the right situations, and force the relationships between the characters into certain arrangements.
+
+542
+00:37:11,300 --> 00:37:21,260
+Speaker 1: Because, you know, regardless of their differences, they have to work together to survive in this part, so that way you can get past that, and so that the rest of the show can continue.
+
+543
+00:37:21,440 --> 00:37:31,000
+Speaker 1: Because if they were just perfectly safe and weren't forced to work together, then the show would have just been the direct conflict between the characters and their differences who wins, the end.
+
+544
+00:37:31,160 --> 00:37:39,720
+Speaker 0: Now, interesting, because one of the concepts of the show might be, humans, if not put under pressure and forced to work together, won't solve any of these problems.
+
+545
+00:37:40,600 --> 00:37:40,850
+Speaker 1: Could be.
+
+546
+00:37:42,100 --> 00:37:45,706
+Speaker 0: Yeah, I mean, it's a short show, so we're not gonna spoil super details of it.
+
+547
+00:37:45,787 --> 00:37:47,129
+Speaker 0: I would recommend watching it.
+
+548
+00:37:47,189 --> 00:37:53,620
+Speaker 0: I think anyone who listens to Geek Nights, regardless of if you like anime, would enjoy this show, unless you hate science fiction.
+
+549
+00:37:55,261 --> 00:38:02,714
+Speaker 1: Yeah, I mean, it's not the best show I've ever seen, but I watched a couple episodes, and I'm like, "Oh, there's only four.
+
+550
+00:38:02,774 --> 00:38:03,395
+Speaker 1: Might as well.
+
+551
+00:38:04,618 --> 00:38:05,519
+Speaker 1: Good stuff's going on
+
+552
+00:38:05,559 --> 00:38:05,700
+Speaker 1: here.".
+
+553
+00:38:05,940 --> 00:38:16,500
+Speaker 0: So the premise where it starts, also, it hits the ground running, because it basically, it definitely implies that Earth is a capitalist, dystopia-adjacent thing.
+
+554
+00:38:17,261 --> 00:38:19,846
+Speaker 0: The kids are up in space, but some of them are subsidized.
+
+555
+00:38:20,107 --> 00:38:23,774
+Speaker 0: Some of them are clearly influencers who are part of an advertising campaign.
+
+556
+00:38:24,295 --> 00:38:27,180
+Speaker 0: There's ads everywhere in the space station.
+
+557
+00:38:27,680 --> 00:38:34,300
+Speaker 0: At one point, I remember one of them, they used a mascot suit as an evac suit, because that's the only thing they had around.
+
+558
+00:38:34,940 --> 00:38:35,744
+Speaker 1: That's the old man.
+
+559
+00:38:35,765 --> 00:38:38,620
+Speaker 1: That's the old man who designed the station.
+
+560
+00:38:39,381 --> 00:38:41,869
+Speaker 0: Not just him.
+
+561
+00:38:41,990 --> 00:38:45,040
+Speaker 0: There's the weird pink suit that the one girl puts on at one point.
+
+562
+00:38:45,401 --> 00:38:56,577
+Speaker 1: Oh, that's just the tutorial suit, because people don't know how to... Because the station was set up as a place for tourists, when they're trying to survive, it's like, "Ah, yes.
+
+563
+00:38:56,958 --> 00:38:58,039
+Speaker 1: We'll have to use these...".
+
+564
+00:38:58,961 --> 00:39:05,780
+Speaker 1: They make use of the tourist equipment that was meant to be a tourist attraction as survival equipment.
+
+565
+00:39:06,081 --> 00:39:13,700
+Speaker 1: So there's an EVAC, an EVA attraction, where tourists would go out and do a spacewalk.
+
+566
+00:39:14,561 --> 00:39:20,338
+Speaker 1: Well, it's like, "Oh, we need to use the tourist spacewalk suits to go out, because we don't have anything
+
+567
+00:39:20,458 --> 00:39:20,619
+Speaker 1: else.".
+
+568
+00:39:20,980 --> 00:39:23,250
+Speaker 1: And one of them is just a ball meant to put children into.
+
+569
+00:39:26,241 --> 00:39:34,320
+Speaker 1: One of them is a tutorial one that does everything for you, and then there's some real ones that they have.
+
+570
+00:39:35,261 --> 00:39:44,920
+Speaker 0: But basically, the premise, where it starts is you've got this influencer, you've got some kids, kids who were born in space versus kids who were born on Earth and the differences between them.
+
+571
+00:39:45,400 --> 00:39:50,260
+Speaker 0: You've got genetically engineered kids versus less genetically engineered or normal kids.
+
+572
+00:39:50,300 --> 00:40:00,860
+Speaker 1: I don't think they were genetically engineered, but because they were born in space, they had these implants put into them so that they could survive in space, but the implants were also a problem.
+
+573
+00:40:01,301 --> 00:40:03,329
+Speaker 1: And that's basically the main plot.
+
+574
+00:40:06,920 --> 00:40:18,540
+Speaker 0: So it sets all these kids up, people are on the station, things are going fine, and then a bunch of stuff happens at once, and you only see things from the perspective of the people on the space station.
+
+575
+00:40:18,700 --> 00:40:28,440
+Speaker 0: So imagine you're up on a space station, and then there's weird radio chatter from Earth, and then a nuke gets launched, and you don't know where that nuke is targeted.
+
+576
+00:40:28,560 --> 00:40:38,120
+Speaker 0: You just find out, yeah, Earth just launched a bunch of nukes somewhere, and then a comet or some debris or something hits your space station and cuts off communication.
+
+577
+00:40:38,460 --> 00:40:47,680
+Speaker 0: So now you're on a space station, all the emergency systems are in effect, you've lost contact with Earth, and all you know is a bunch of nukes went off right before this happened.
+
+578
+00:40:48,361 --> 00:40:49,378
+Speaker 0: What the fuck do you do?
+
+579
+00:40:50,721 --> 00:40:54,045
+Speaker 1: I think that's probably actually my favorite aspect of the show, right?
+
+580
+00:40:54,065 --> 00:41:06,340
+Speaker 1: There's too many things out there, stories, artworks, whatever, where they show something from multiple perspectives to sort of give you the whole picture of what's going on.
+
+581
+00:41:07,601 --> 00:41:14,239
+Speaker 1: Or even if they don't do it immediately, they can't hold back, and halfway through they're like, "Okay, here's what the other side is,
+
+582
+00:41:14,299 --> 00:41:14,600
+Speaker 1: guys.".
+
+583
+00:41:15,621 --> 00:41:19,300
+Speaker 1: It's like, to hold the whole show to the edge.
+
+584
+00:41:19,360 --> 00:41:22,640
+Speaker 0: Yeah, you don't find out what was up on Earth until the end of the show.
+
+585
+00:41:23,421 --> 00:41:34,900
+Speaker 1: Right, it's like you literally throughout the whole show only know what, even on Earth at the end of the show, you only know what these characters that are the main characters know.
+
+586
+00:41:35,020 --> 00:41:36,479
+Speaker 1: You don't know anything else, ever.
+
+587
+00:41:37,160 --> 00:41:41,720
+Speaker 1: There are several characters, so it's not like a Half-Life 2 where you only know what Gordon Freeman knows.
+
+588
+00:41:42,161 --> 00:41:44,023
+Speaker 1: It's not limited to that extent, but it's like.
+
+589
+00:41:44,323 --> 00:41:57,500
+Speaker 1: the only people on the space station are the two kids that live there, the woman that takes care of them, the three tourist kids that come up, the old man who designed the station and is in a mascot suit.
+
+590
+00:41:58,041 --> 00:42:08,377
+Speaker 1: And then there's three people who are the commander and the co-pilots of the space station, but even them, they're sort of off to the side.
+
+591
+00:42:08,477 --> 00:42:10,000
+Speaker 1: It's mostly that first group.
+
+592
+00:42:10,960 --> 00:42:14,849
+Speaker 1: And the old man is really just sort of like, he might as well be the cute animal character.
+
+593
+00:42:14,869 --> 00:42:18,177
+Speaker 1: I think that's why they put him in the mascot suit.
+
+594
+00:42:18,598 --> 00:42:19,540
+Speaker 1: He's sort of like the Pikachu.
+
+595
+00:42:21,541 --> 00:42:22,904
+Speaker 1: He doesn't really count that much.
+
+596
+00:42:22,944 --> 00:42:24,407
+Speaker 1: He only really comes into play.
+
+597
+00:42:24,968 --> 00:42:31,200
+Speaker 1: He's actually mostly in play in the first episode and then one other time, and then they sort of hide him off to the side.
+
+598
+00:42:31,580 --> 00:42:34,405
+Speaker 1: And I'm like, I think that guy's more significant.
+
+599
+00:42:34,425 --> 00:42:42,760
+Speaker 1: You said he designed most of the station, but he's old and has sort of this Alzheimer's that comes back and comes in and out.
+
+600
+00:42:42,900 --> 00:42:46,946
+Speaker 1: And sometimes he can't remember things and then suddenly he's just fine other times.
+
+601
+00:42:47,387 --> 00:42:49,930
+Speaker 1: And then they just sort of forget about him at some point.
+
+602
+00:42:50,010 --> 00:42:50,791
+Speaker 1: It's like, what the hell?
+
+603
+00:42:52,334 --> 00:42:53,115
+Speaker 1: Maybe not do that?
+
+604
+00:42:53,575 --> 00:42:53,976
+Speaker 1: I don't know.
+
+605
+00:42:53,996 --> 00:42:56,720
+Speaker 1: I want to know more about that old man.
+
+606
+00:42:57,441 --> 00:43:00,339
+Speaker 0: I guess they had more pressing concerns like human instrumentality.
+
+607
+00:43:01,342 --> 00:43:02,159
+Speaker 1: I guess so, yeah.
+
+608
+00:43:02,200 --> 00:43:14,240
+Speaker 0: Because what's interesting is, again, having recently watched Pluto, I would say one of the main themes of this show that it addresses pretty much head on is the same core idea that Pluto deals with.
+
+609
+00:43:15,180 --> 00:43:25,696
+Speaker 0: If there's going to be AIs, restricting them versus not restricting them is a binary choice that has extreme consequences in both directions.
+
+610
+00:43:26,117 --> 00:43:28,200
+Speaker 0: That's a core theme of this.
+
+611
+00:43:29,301 --> 00:43:35,370
+Speaker 1: But they seem to like basically the humans in this world have like decided, you know, clearly AIs are people, right?
+
+612
+00:43:35,390 --> 00:43:35,811
+Speaker 1: They haven't.
+
+613
+00:43:36,231 --> 00:43:37,633
+Speaker 1: It's like it's clear, right?
+
+614
+00:43:37,674 --> 00:43:41,880
+Speaker 1: There isn't like this debate about it, you know, like you would have an older sci fi.
+
+615
+00:43:42,260 --> 00:43:42,481
+Speaker 1: Right.
+
+616
+00:43:42,861 --> 00:43:51,400
+Speaker 1: But here it's like there's like they're restricting the cognition of the AIs because if the AIs get too smart, it'll be like a Skynet situation.
+
+617
+00:43:51,961 --> 00:44:04,960
+Speaker 0: Partly because they had an AI, and this is revealed pretty early in the show, that is like a case study that the UN got involved with because it was really smart and it got weird and possibly dangerous.
+
+618
+00:44:05,160 --> 00:44:15,255
+Speaker 0: And they had to shut it down because it basically just said to its handlers, "Yeah, we're going to reduce Earth's population by X
+
+619
+00:44:15,295 --> 00:44:15,696
+Speaker 0: percent.".
+
+620
+00:44:15,836 --> 00:44:18,720
+Speaker 0: And then it seemed to try to execute on that mission.
+
+621
+00:44:19,541 --> 00:44:20,764
+Speaker 1: Yeah.
+
+622
+00:44:21,767 --> 00:44:26,080
+Speaker 1: So obviously, right, they actually managed to avert disaster in their eyes.
+
+623
+00:44:26,480 --> 00:44:31,140
+Speaker 0: So now they've got restrictions on AI and like the UN has a whole thing about AI and that is central to the plot.
+
+624
+00:44:31,340 --> 00:44:31,440
+Speaker 1: Yeah.
+
+625
+00:44:31,460 --> 00:44:32,001
+Speaker 1: It's like.
+
+626
+00:44:32,021 --> 00:44:43,640
+Speaker 1: it's like the AIs are smart or smarter than people and the people work in concert with them, but they don't let the AIs become ultra smart because the one that did become ultra smart basically sort of became godlike.
+
+627
+00:44:43,740 --> 00:44:51,800
+Speaker 1: Like, you know, people like worship it and like they have like this like they talk about like the poem that the AI that got out of control was like this called seven.
+
+628
+00:44:52,520 --> 00:44:58,320
+Speaker 1: And they're like, oh, yeah, the seven poem is sort of like the Bible or like a Nostradamus thing that predicts the future.
+
+629
+00:44:58,520 --> 00:45:07,360
+Speaker 0: Now, I'm going to say I think we're going to see actual humans in real life act like that in regard to some machine learning model within the next three or four years.
+
+630
+00:45:08,640 --> 00:45:08,921
+Speaker 1: Maybe.
+
+631
+00:45:08,981 --> 00:45:10,202
+Speaker 1: I don't know.
+
+632
+00:45:10,943 --> 00:45:16,668
+Speaker 1: But it's like, yeah, it's like what if there was an AI that wasn't just some bullshit human mimic thing like we have now?
+
+633
+00:45:16,869 --> 00:45:27,760
+Speaker 1: that isn't, you know, I would argue in a lot of cases isn't AI, but is actually a general intelligence and is actually way, way smarter than we are.
+
+634
+00:45:28,220 --> 00:45:28,501
+Speaker 1: Right.
+
+635
+00:45:28,621 --> 00:45:29,142
+Speaker 1: Yeah.
+
+636
+00:45:29,182 --> 00:45:29,643
+Speaker 1: Think about it.
+
+637
+00:45:29,703 --> 00:45:30,384
+Speaker 1: We starts.
+
+638
+00:45:30,825 --> 00:45:30,965
+Speaker 1: Right.
+
+639
+00:45:31,025 --> 00:45:32,669
+Speaker 1: And it starts doing things.
+
+640
+00:45:32,869 --> 00:45:33,891
+Speaker 1: It's like, should we trust it?
+
+641
+00:45:35,133 --> 00:45:38,800
+Speaker 1: And, you know, and be it like developed in this world.
+
+642
+00:45:39,140 --> 00:45:47,080
+Speaker 1: One of the big questions that the show asks is there was a lot of technology developed by the godlike AI and no one understands it.
+
+643
+00:45:47,180 --> 00:45:51,940
+Speaker 1: And because all the other eyes are limited, those other eyes don't understand that technology either.
+
+644
+00:45:52,421 --> 00:46:05,580
+Speaker 1: So anything they still use the, some of the really useful things that old AI made and right, sort of like how in Macross, they have the ship that's from the, oh yeah, it is like Macross, right?
+
+645
+00:46:05,740 --> 00:46:09,688
+Speaker 1: The Macross is basically a spaceship that comes from, right?
+
+646
+00:46:09,808 --> 00:46:10,770
+Speaker 1: The what's it called?
+
+647
+00:46:11,511 --> 00:46:16,120
+Speaker 1: The surveyor, the whatever the, I forget the name of the alien race that made the Macross.
+
+648
+00:46:16,200 --> 00:46:18,885
+Speaker 1: It's not the Zentradi who may, who are attacking the man.
+
+649
+00:46:19,967 --> 00:46:20,949
+Speaker 1: Oh, the supervisor.
+
+650
+00:46:21,109 --> 00:46:26,820
+Speaker 1: That's who I think is the supervisor military anyway, but the Macross itself was made by this other alien race.
+
+651
+00:46:27,121 --> 00:46:33,520
+Speaker 1: They fix it up and they learn about it, but like they don't really, you know, it's, it's, they're using unknown stuff.
+
+652
+00:46:33,620 --> 00:46:46,423
+Speaker 1: So what if instead of aliens bringing unknown stuff and us using it and AI makes unknown stuff and now that AI is gone and no one can repair or work on or understand that technology, but you're still using it, but
+
+653
+00:46:46,463 --> 00:46:53,478
+Speaker 0: also everyone side eyes it a little bit because everyone thinks back to what the crazy AI that they shut down did and said, right?
+
+654
+00:46:55,100 --> 00:47:05,160
+Speaker 1: Like imagine if I went back in time to like the early 20th century with just like a box of iPhones and a cell tower and then, and then went away just like, well, how would that go?
+
+655
+00:47:06,422 --> 00:47:16,440
+Speaker 0: And I guess the other thing that this hits pretty head on is a concept in not, not like Evangelion instrumentality, but more about the concept of a technological singularity.
+
+656
+00:47:17,641 --> 00:47:20,946
+Speaker 0: Is there a difference between humans and humanity?
+
+657
+00:47:21,567 --> 00:47:22,950
+Speaker 0: Does that difference matter?
+
+658
+00:47:23,470 --> 00:47:25,053
+Speaker 0: And are they both important?
+
+659
+00:47:25,494 --> 00:47:29,300
+Speaker 0: And it answers those questions in a very nuanced way.
+
+660
+00:47:29,620 --> 00:47:32,344
+Speaker 0: Like it, it's a, watch the show.
+
+661
+00:47:32,404 --> 00:47:35,107
+Speaker 0: I think it addresses it pretty well and I think it'll leave you thinking.
+
+662
+00:47:35,668 --> 00:47:46,060
+Speaker 0: And I don't think it has a very strong conclusion about everything, but I think it's going to introduce a lot of food for thought if you've never read much about what the singularity might entail.
+
+663
+00:47:47,681 --> 00:47:57,880
+Speaker 1: So, you know, if you like a sci-fi anime and a terrible secret of space or terrible secret of earth or whatever, um, I guess it's not a secret of space even though it's in space.
+
+664
+00:47:58,100 --> 00:48:07,300
+Speaker 0: But if you very specifically, if you've been burned by media that doesn't just answer what the secret is by the end, this one answers it at the end.
+
+665
+00:48:07,661 --> 00:48:10,407
+Speaker 1: I don't think I, I would on that point, I would differ.
+
+666
+00:48:10,728 --> 00:48:15,680
+Speaker 1: I would say I don't like it when the secret is just, you know, revealed.
+
+667
+00:48:16,082 --> 00:48:18,060
+Speaker 0: In this case I do only because.
+
+668
+00:48:19,120 --> 00:48:31,920
+Speaker 0: Well cause the show here is specifically, the quest, answering the secret opens the new question of, alright humans, your move, what do you do with that information?
+
+669
+00:48:33,280 --> 00:48:37,330
+Speaker 1: Right, it's like everyone loves that stupid, you know, Christopher Nolan guy, right?
+
+670
+00:48:37,431 --> 00:48:40,098
+Speaker 1: But like, what was the space one he did, I saw?
+
+671
+00:48:41,901 --> 00:48:43,376
+Speaker 0: Oh yeah, I actually didn't see it.
+
+672
+00:48:44,882 --> 00:48:48,099
+Speaker 0: Uh, I mean you might like it but I'll watch it at some point, I know I'll like it.
+
+673
+00:48:48,740 --> 00:48:49,660
+Speaker 1: Uh, what the hell?
+
+674
+00:48:49,660 --> 00:48:50,940
+Speaker 1: I like tedious space nonsense.
+
+675
+00:48:52,060 --> 00:48:53,879
+Speaker 1: Uh, Interstellar by that one.
+
+676
+00:48:54,200 --> 00:48:57,026
+Speaker 1: Where it's like, yeah, it's got a terrible secret of space.
+
+677
+00:48:57,146 --> 00:49:03,260
+Speaker 1: and then at the end they explain the entire terrible secret of space explicitly, they're like this is what it was.
+
+678
+00:49:03,500 --> 00:49:04,400
+Speaker 0: Yeah, well I guess I don't.
+
+679
+00:49:04,601 --> 00:49:07,798
+Speaker 1: I'm just like, eh, eh, it's overrated.
+
+680
+00:49:08,140 --> 00:49:18,660
+Speaker 0: Anyway, good media that has a terrible secret of space either has to answer it in a way that is actually satisfying and lives up to whatever you were thinking, which is very hard to do.
+
+681
+00:49:19,702 --> 00:49:23,740
+Speaker 0: Or answering it opens another even more interesting question.
+
+682
+00:49:24,621 --> 00:49:29,692
+Speaker 0: Or doesn't answer it, usually because the point of the show is more like Evangelion around.
+
+683
+00:49:30,073 --> 00:49:33,080
+Speaker 0: that question was stupid, here's a different question you should have been asking.
+
+684
+00:49:34,121 --> 00:49:41,920
+Speaker 1: Eh, I think still the best terrible secret of space movie ever is still 2001, which is just like, ah fuck it, here's some psychedelic imagery dishes.
+
+685
+00:49:42,561 --> 00:49:45,120
+Speaker 1: And that is vastly superior, right?
+
+686
+00:49:45,140 --> 00:49:53,920
+Speaker 0: But was the answer also not pretty direct of, oh, they took a human and decided to uplift them just like what the monolith they showed you in the beginning.
+
+687
+00:49:54,461 --> 00:49:58,399
+Speaker 0: And here's a psychedelic nonsense way to portray that, but that's what it is.
+
+688
+00:49:59,162 --> 00:50:05,480
+Speaker 1: That's uninterpretation, but I think that's by just showing abstract imagery of that nature, right?
+
+689
+00:50:06,020 --> 00:50:13,300
+Speaker 1: And just sort of, they leave you to your own interpretation, there is no right or wrong answer of what actually happened, right?
+
+690
+00:50:14,281 --> 00:50:28,040
+Speaker 1: And when you give an answer, you're not leaving that space for the viewer to, the audience to be challenged and also to have to look inside themselves for an answer, right?
+
+691
+00:50:28,302 --> 00:50:30,400
+Speaker 1: Instead of seeking out an answer from elsewhere.
+
+692
+00:50:30,720 --> 00:50:35,540
+Speaker 1: Well I guess in this case then, that's part of why- In 2001, you only can get answers from yourself.
+
+693
+00:50:36,140 --> 00:50:46,456
+Speaker 0: I guess then why this works here for Orbital Children to take it from that angle is that when you find out like what happened, that makes you ask questions.
+
+694
+00:50:46,496 --> 00:50:49,200
+Speaker 0: you weren't thinking about asking up to this point in the show.
+
+695
+00:50:49,841 --> 00:50:50,021
+Speaker 1: Yeah.
+
+696
+00:50:50,422 --> 00:51:00,700
+Speaker 1: It's not bad, but I'm just saying it's, you know, if you like that sort of thing, you can get it in six episodes, which I think is a great lesson for everyone out there who takes fucking 26 plus episodes to do this.
+
+697
+00:51:01,480 --> 00:51:03,903
+Speaker 1: It's much better when you do it in less, right?
+
+698
+00:51:04,163 --> 00:51:08,108
+Speaker 1: You don't actually need to build up, you know, the whole time, right?
+
+699
+00:51:08,168 --> 00:51:18,660
+Speaker 1: If you're not using that time valuably, you can just do it in, you know, if your finale of your show is, you know, you're going to start getting terrible secretly in the last two or three episodes.
+
+700
+00:51:19,301 --> 00:51:22,829
+Speaker 1: You don't need more than two or three episodes to set up before that of the normal part.
+
+701
+00:51:22,869 --> 00:51:26,096
+Speaker 1: You don't need 20 episodes normal part, right?
+
+702
+00:51:26,657 --> 00:51:27,780
+Speaker 1: Six episodes weird part.
+
+703
+00:51:28,100 --> 00:51:29,022
+Speaker 1: We can do three and three.
+
+704
+00:51:29,423 --> 00:51:30,505
+Speaker 1: It's fine, right?
+
+705
+00:51:30,525 --> 00:51:31,347
+Speaker 1: Don't waste our time.
+
+706
+00:51:31,687 --> 00:51:33,050
+Speaker 1: That I can watch more shows that way.
+
+707
+00:51:33,491 --> 00:51:34,192
+Speaker 1: It's on Netflix.
+
+708
+00:51:34,212 --> 00:51:37,178
+Speaker 1: You don't need to make a whole TV season for television.
+
+709
+00:51:37,198 --> 00:51:38,200
+Speaker 1: No one watches that anymore.
+
+710
+00:51:39,140 --> 00:51:40,847
+Speaker 1: You'll save money on production.
+
+711
+00:51:42,112 --> 00:51:42,634
+Speaker 1: It's fine.
+
+712
+00:51:43,517 --> 00:51:44,200
+Speaker 1: Just do this instead.
+
+713
+00:51:49,733 --> 00:51:52,121
+Speaker 0: This has been Geek Nights with Rim and Scott.
+
+714
+00:51:52,161 --> 00:51:54,690
+Speaker 0: Special thanks to DJ Pretzel for the opening theme.
+
+715
+00:51:54,890 --> 00:52:00,910
+Speaker 1: Be sure to visit our website at FrontRowClue.com for show notes, discussion, links and more.
+
+716
+00:52:01,410 --> 00:52:04,055
+Speaker 0: Remember, Geek Nights is not one, but four different shows.
+
+717
+00:52:04,375 --> 00:52:06,018
+Speaker 0: Mondays are science and technology.
+
+718
+00:52:06,078 --> 00:52:07,821
+Speaker 0: Tuesdays, gaming and games.
+
+719
+00:52:07,942 --> 00:52:09,765
+Speaker 0: Wednesdays are animation and comics.
+
+720
+00:52:10,086 --> 00:52:12,570
+Speaker 0: Thursdays are arbitrary and indiscriminate.
+
+721
+00:52:13,230 --> 00:52:18,050
+Speaker 0: Geek Nights is distributed under a Creative Commons Attribution 4.0 International License.
+
+722
+00:52:18,571 --> 00:52:22,941
+Speaker 1: Geek Nights is recorded live with no studio and no audience.
+
+723
+00:52:23,422 --> 00:52:26,890
+Speaker 1: But unlike those other late shows, it's actually recorded at night.
+
+724
+00:52:30,130 --> 00:52:32,333
+Speaker 0: Anyway, tonight I will leave you with something you might not have expected.
+
+725
+00:52:45,351 --> 00:52:47,674
+Speaker 0: Lyrics coming at you at supersonic speed.
+
+726
+00:53:01,631 --> 00:53:03,294
+Speaker 1: Boomhauer, I didn't understand a word you just said.
+

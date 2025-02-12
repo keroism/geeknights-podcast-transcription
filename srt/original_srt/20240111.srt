@@ -1,0 +1,3544 @@
+﻿1
+00:00:07,980 --> 00:00:08,440
+Speaker 0: 
+
+2
+00:00:08,240 --> 00:00:09,888
+Speaker 1: It's Thursday, January 11th, 2024.
+
+3
+00:00:09,888 --> 00:00:10,109
+Speaker 1: I'm Rim.
+
+4
+00:00:13,302 --> 00:00:13,614
+Speaker 0: I'm Scott.
+
+5
+00:00:14,000 --> 00:00:15,144
+Speaker 1: And this is Geek Nights.
+
+6
+00:00:15,184 --> 00:00:20,861
+Speaker 1: Tonight, we are reviewing the year 2023, released in 2023.
+
+7
+00:00:20,861 --> 00:00:21,899
+Speaker 0: Let's do this.
+
+8
+00:00:22,700 --> 00:00:27,320
+Speaker 1: So, two trends I've noticed, and this is pure anecdotal.
+
+9
+00:00:28,260 --> 00:00:37,099
+Speaker 1: Well, at least one of them was anecdotal until Scott posted a link to an article recently to me that showed that other people have noticed the same thing, and studies have also shown the same thing.
+
+10
+00:00:37,621 --> 00:00:57,862
+Speaker 1: So, the one trend I've noticed over the last, I'd say, six months is when I'm out in Queens or Manhattan, cars just, like, run a long red light completely blatantly in front of me, like, kind of often, which is not something I remember happening much before COVID, and I just see it happening a lot now.
+
+11
+00:00:58,464 --> 00:01:03,478
+Speaker 1: And I think you link to that study that shows it is happening a lot, like, everywhere in America just now.
+
+12
+00:01:04,700 --> 00:01:24,245
+Speaker 1: But the second thing I've noticed, when I'm on the subway, very commonly, like, a little over, I'd say, half of my rides, there is someone on the car who has a phone out with the speakers all the way up, and they're, like, watching YouTube videos or watching movies or something, just full volume on the speaker, just super loud.
+
+13
+00:01:25,128 --> 00:01:33,775
+Speaker 1: And it's annoying, like, that's an obviously antisocial thing to do, but I've noticed it a lot in the last few months, way more than I ever did.
+
+14
+00:01:34,718 --> 00:01:37,145
+Speaker 1: And today, on my way home, the subway car wasn't that crowded.
+
+15
+00:01:38,470 --> 00:01:46,054
+Speaker 1: And there's an older-looking guy just sitting kind of in the corner, there's no one next to him, and he's watching a video super loud.
+
+16
+00:01:46,676 --> 00:01:49,267
+Speaker 1: So, I actually walk over and I'm, like, "Hey, excuse me, sir.
+
+17
+00:01:50,011 --> 00:01:51,096
+Speaker 1: Would you mind turning that down?
+
+18
+00:01:51,457 --> 00:01:52,142
+Speaker 1: I just wanted to see.
+
+19
+00:01:52,183 --> 00:01:52,367
+Speaker 1: I was
+
+20
+00:01:52,408 --> 00:01:52,796
+Speaker 1: curious.".
+
+21
+00:01:53,140 --> 00:01:54,000
+Speaker 0: - He got super mad.
+
+22
+00:01:54,240 --> 00:01:55,144
+Speaker 1: - No, actually, he didn't.
+
+23
+00:01:55,244 --> 00:01:59,019
+Speaker 1: So, you'd think this story is going to be, "Oh, talk to a
+
+24
+00:01:59,039 --> 00:01:59,340
+Speaker 1: stranger.".
+
+25
+00:01:59,400 --> 00:02:00,418
+Speaker 0: - He's an old man, he can't hear.
+
+26
+00:02:01,080 --> 00:02:01,641
+Speaker 1: - Yep.
+
+27
+00:02:01,662 --> 00:02:03,486
+Speaker 1: So, he said,
+
+28
+00:02:03,506 --> 00:02:03,546
+Speaker 1: "No.".
+
+29
+00:02:04,469 --> 00:02:05,211
+Speaker 1: He just said,
+
+30
+00:02:05,271 --> 00:02:05,471
+Speaker 1: "No.".
+
+31
+00:02:06,815 --> 00:02:11,334
+Speaker 1: And then he paused a little bit, and before, like, I wasn't going to continue to engage, like, I was just going to give up at that point.
+
+32
+00:02:11,836 --> 00:02:15,484
+Speaker 1: But he actually then says, "Otherwise, I couldn't hear
+
+33
+00:02:15,524 --> 00:02:15,584
+Speaker 1: it.".
+
+34
+00:02:17,707 --> 00:02:26,050
+Speaker 1: And then he says, and I'm quoting him exactly, "They got rid of the headphone jacks on phones, so this is the only way to listen to stuff
+
+35
+00:02:27,512 --> 00:02:27,659
+Speaker 1: now.".
+
+36
+00:02:28,050 --> 00:02:30,307
+Speaker 0: - It's like, "Do you want some wireless
+
+37
+00:02:30,327 --> 00:02:30,670
+Speaker 0: headphones?".
+
+38
+00:02:30,870 --> 00:02:34,119
+Speaker 0: - Yeah, or an adapter or, like, anything.
+
+39
+00:02:34,159 --> 00:03:05,010
+Speaker 1: But, so, in the very brief conversation that followed, I attempted to, very politely, as someone who knows technology, explain at the level of an old person who thinks that there's no way to have headphones plugged into a phone in the year 2024, like, you know, you can get a thing that you can plug headphones into, and it was apparent that he did not understand literally anything about what I was saying, and I just said, "Have a nice day," and I walked away, and he continued to watch whatever video he was watching extremely loudly.
+
+40
+00:03:05,930 --> 00:03:06,061
+Speaker 0: - Yep.
+
+41
+00:03:06,870 --> 00:03:28,981
+Speaker 1: - But I never considered, you know, I always, like, I see people doing this a lot, and usually it's people who seem like they're kind of doing it to annoy people semi-on-purpose, or it's just really oblivious people, but I didn't consider that there might be a set of just old people who literally think that when the headphone jack went away, there's just no way to plug headphones into a phone, and no one would tell them otherwise.
+
+42
+00:03:29,001 --> 00:03:30,590
+Speaker 1: It's not like they're gonna read a document.
+
+43
+00:03:31,510 --> 00:03:42,947
+Speaker 0: - I watched, there's a guy who's on YouTube who's, he does, like, he has some indie game dev company, and he used to work at bigger companies, and apparently one of our friends knew him at.
+
+44
+00:03:42,967 --> 00:03:42,987
+Speaker 0: a.
+
+45
+00:03:43,850 --> 00:03:47,250
+Speaker 1: - The guy who, on the YouTube thing, he has a really deep voice with the microphone.
+
+46
+00:03:47,350 --> 00:03:48,369
+Speaker 0: - The guy with the Howard Stern voice.
+
+47
+00:03:49,590 --> 00:04:03,318
+Speaker 0: - So, in one of his videos, he said that he talked about setting up a booth at a convention, right, and it was to demo their video game, and they had two setups, right, for people to play the game at, like, at a small indie booth, right?
+
+48
+00:04:03,339 --> 00:04:50,620
+Speaker 0: You only have, they had two computers which people could play the game demo on, and on one computer, they had a keyboard and mouse, and on the other computer, they had a gamepad, and on day one of the convention, all these, the young kids came up and couldn't figure out how to use the keyboard and mouse, and they were all using the gamepad, right, and they're like, well, we gotta go and get a second gamepad, so day two, they get rid of the keyboard and mouse, just two gamepads, and there were kids on day two who couldn't use the gamepad and were trying to touch the monitor, and had no concept of every device they've ever used in their life, it was a touchscreen, tablet, or a phone, and they've never used any other electronic device of any kind, or game console, or any, you know, or anything.
+
+49
+00:04:50,800 --> 00:05:01,819
+Speaker 1: - So, one half of my brain just shrank into dust and disappeared, it's blown away in the wind, but the other half of it remembers a moment in Back to the Future, oh, you touch it?
+
+50
+00:05:02,861 --> 00:05:07,640
+Speaker 1: It's a baby game, when the kids don't know how the old arcade machine works.
+
+51
+00:05:09,540 --> 00:05:33,860
+Speaker 1: There's, on one hand, like, yeah, old, like, we're old now, and things change, and I remember making fun of old people for using old stuff that I didn't understand or care about when I was really young, but on the other hand, the keyboard and mouse and the controller are two very important user experiences, just generally, that are not obsolete, unlike many things that old people use.
+
+52
+00:05:34,480 --> 00:05:35,559
+Speaker 1: Like, they have their purposes.
+
+53
+00:05:36,520 --> 00:05:41,140
+Speaker 0: - On the one hand, technology is advancing more quickly, or at least it did for a period, right?
+
+54
+00:05:43,100 --> 00:05:47,880
+Speaker 0: But, even when I was young, it's like, yeah, vinyl records were going out and cassette tapes were in.
+
+55
+00:05:47,960 --> 00:05:50,620
+Speaker 1: - But when I was young, we had vinyl records, we had 8-tracks, we had...
+
+56
+00:05:50,620 --> 00:05:55,540
+Speaker 0: - I still knew how to fucking use the vinyl record, even though it was old fogey biz, right?
+
+57
+00:05:55,881 --> 00:06:03,817
+Speaker 0: And then, when CDs came along, I was able to figure those out without forgetting how to use them, and then it's like, you know...
+
+58
+00:06:04,260 --> 00:06:22,880
+Speaker 1: - I think it's partly because any one of those technologies was still in existence across multiple generations, but now, as culture advances and technology advances, technology cycles rapidly, like, within a generation, a whole technology will appear and then become obsolete and be replaced by something else.
+
+59
+00:06:23,403 --> 00:06:25,540
+Speaker 1: And two generations are smaller.
+
+60
+00:06:25,540 --> 00:06:29,629
+Speaker 0: - Smartphones without a pure touchscreen have been around since '07, so it's already 14...17 years?
+
+61
+00:06:34,881 --> 00:06:36,339
+Speaker 0: Like, 20 years almost, right?
+
+62
+00:06:36,700 --> 00:06:37,739
+Speaker 1: So, you know.
+
+63
+00:06:38,480 --> 00:06:46,142
+Speaker 1: - Plus, we're in an era where most people will never have a workstation, or a gaming PC, or a computer in their house.
+
+64
+00:06:46,182 --> 00:06:54,679
+Speaker 1: They'll have a phone, and that's probably it, and maybe a smart TV that they can connect their phone to, and that will be the extent of their computing devices.
+
+65
+00:06:55,700 --> 00:07:00,320
+Speaker 0: - Yeah, I mean, yeah, for a person in a house, yeah, they don't need a real computer unless they're doing work of some kind.
+
+66
+00:07:01,400 --> 00:07:04,840
+Speaker 1: - Or they're gamers with a Z, running the PC biz.
+
+67
+00:07:06,360 --> 00:07:09,176
+Speaker 1: But, uh, so anyway, you got any news?
+
+68
+00:07:09,236 --> 00:07:09,819
+Speaker 1: 'Cause I got two.
+
+69
+00:07:11,540 --> 00:07:12,509
+Speaker 0: - Uh, I don't know.
+
+70
+00:07:12,529 --> 00:07:13,719
+Speaker 0: There's not too much going on.
+
+71
+00:07:13,820 --> 00:07:21,500
+Speaker 1: - Alright, so I do want to talk about, I don't want to talk about all the geopolitical situation of the world, but I do want to talk a little bit about...
+
+72
+00:07:21,540 --> 00:07:23,778
+Speaker 0: - But I'm gonna talk about the geopolitical situation of the world.
+
+73
+00:07:25,761 --> 00:07:29,980
+Speaker 0: - There are other podcasts... - I don't want to poop on the ground, but I'm gonna take a shit over in the dirt.
+
+74
+00:07:30,320 --> 00:07:38,040
+Speaker 1: - Oh, no, 'cause I do want to talk a little bit about one of the lawsuits that the former president of the United States is facing.
+
+75
+00:07:38,542 --> 00:07:39,319
+Speaker 0: - There's like ten of them.
+
+76
+00:07:39,380 --> 00:07:43,039
+Speaker 1: - Yeah, there's so many, you can't even clarify, "Oh, the one where he tried to stage a
+
+77
+00:07:43,059 --> 00:07:43,200
+Speaker 1: coup."
+
+78
+00:07:43,281 --> 00:07:44,940
+Speaker 1: Like, no, the federal one...
+
+79
+00:07:44,960 --> 00:07:45,659
+Speaker 0: - That's at least three.
+
+80
+00:07:46,000 --> 00:07:47,305
+Speaker 1: - Yeah, the federal one.
+
+81
+00:07:47,667 --> 00:07:50,760
+Speaker 1: about one specific time he tried to stage a coup.
+
+82
+00:07:51,460 --> 00:07:54,499
+Speaker 1: The Jack Smith one, but not the other Jack Smith one.
+
+83
+00:07:55,421 --> 00:08:05,360
+Speaker 1: So, this is the one where they're basically saying he tried to commit a coup and steal the election as part of a plot involving January 6th and the fake electors.
+
+84
+00:08:05,580 --> 00:08:06,606
+Speaker 1: Like, that whole plot.
+
+85
+00:08:07,069 --> 00:08:07,873
+Speaker 1: Open coup attempt.
+
+86
+00:08:07,893 --> 00:08:09,020
+Speaker 1: Just naked coup attempt.
+
+87
+00:08:09,961 --> 00:08:27,080
+Speaker 1: And the trial is currently on pause because he and his lawyers have appealed to a federal court to say that the lawsuit has to be ended because when he was president, he was immune from prosecution for anything.
+
+88
+00:08:28,061 --> 00:08:38,900
+Speaker 1: And basically, they either have to resolve that and then they can continue with the trial, or if they find that, yes, he was immune, then the trial is just over and it's done.
+
+89
+00:08:39,120 --> 00:08:39,779
+Speaker 1: Like, that's the end of it.
+
+90
+00:08:39,880 --> 00:08:43,220
+Speaker 0: - If they find that he's immune... Hold on, hear me out.
+
+91
+00:08:43,840 --> 00:08:46,260
+Speaker 1: - This is why I brought this up, because I'm gonna let you talk first.
+
+92
+00:08:46,481 --> 00:08:52,060
+Speaker 0: - This is for all the, you know, the wackadoo people out there.
+
+93
+00:08:52,220 --> 00:08:58,080
+Speaker 1: - I just want to say, I think you're about to say what was said in the actual hearings, so go on.
+
+94
+00:08:59,280 --> 00:09:02,720
+Speaker 0: - If they find that he's immune, this is a dangerous thing for him to argue.
+
+95
+00:09:03,541 --> 00:09:03,742
+Speaker 0: Right?
+
+96
+00:09:03,782 --> 00:09:11,719
+Speaker 0: Because if they find he's immune and they say, "Yes, the president is immune," that means that Joe Biden is immune and Joe Biden can just assassinate him.
+
+97
+00:09:13,300 --> 00:09:15,580
+Speaker 1: - So funny you bring that up, because...
+
+98
+00:09:15,600 --> 00:09:18,660
+Speaker 0: - And that's for the alternate history wackadoo novel writers out there.
+
+99
+00:09:18,660 --> 00:09:21,999
+Speaker 1: - No, that is actually what is going on in court right now.
+
+100
+00:09:22,180 --> 00:09:40,100
+Speaker 1: So I encourage anyone who lives in America to at some point just listen to the transcript of this hearing because essentially this three-judge panel was listening to Trump's lawyer argue that to its full conclusion.
+
+101
+00:09:40,521 --> 00:09:51,899
+Speaker 1: The judges were like, "So you're saying that if a president ordered SEAL Team 6, let's say, to assassinate his political rivals, he could not be prosecuted for
+
+102
+00:09:51,919 --> 00:09:52,060
+Speaker 1: that?".
+
+103
+00:09:52,541 --> 00:09:55,511
+Speaker 1: And the Trump lawyer's argument is, "That is correct.
+
+104
+00:09:56,033 --> 00:09:58,220
+Speaker 1: There is absolute immunity.
+
+105
+00:09:58,802 --> 00:10:00,415
+Speaker 1: You can do whatever you
+
+106
+00:10:00,496 --> 00:10:00,758
+Speaker 1: want.".
+
+107
+00:10:00,980 --> 00:10:04,380
+Speaker 0: - That's not something you want to argue when you're not currently the president.
+
+108
+00:10:04,700 --> 00:10:04,883
+Speaker 1: - Right?
+
+109
+00:10:05,250 --> 00:10:05,474
+Speaker 1: So...
+
+110
+00:10:05,780 --> 00:10:08,520
+Speaker 0: - And you are in fact the enemy of the president.
+
+111
+00:10:08,960 --> 00:10:09,341
+Speaker 1: - Yep.
+
+112
+00:10:09,361 --> 00:10:10,705
+Speaker 1: So that is the argument.
+
+113
+00:10:10,825 --> 00:10:15,980
+Speaker 1: Trump is arguing legally for real, no exaggeration, no joke.
+
+114
+00:10:16,420 --> 00:10:21,456
+Speaker 1: The president cannot be prosecuted for any criminal acts that occur while they are president.
+
+115
+00:10:22,098 --> 00:10:22,660
+Speaker 1: End of story.
+
+116
+00:10:22,820 --> 00:10:33,939
+Speaker 0: - And if you really want to take it all the way to the end, you could say, "Well, if the president did that, then Congress could still impeach just a regular...".
+
+117
+00:10:34,200 --> 00:10:35,218
+Speaker 1: - They did argue that.
+
+118
+00:10:36,260 --> 00:10:44,580
+Speaker 0: - But then couldn't the president then order SEAL Team 6 to assassinate all the political rivals in the Congress and the Supreme Court and prevent that from happening?
+
+119
+00:10:44,940 --> 00:10:45,662
+Speaker 1: - I mean, yes.
+
+120
+00:10:46,284 --> 00:10:54,104
+Speaker 1: And all of these points that you're raising were raised in federal court by serious judges for real.
+
+121
+00:10:54,605 --> 00:11:00,960
+Speaker 1: And if you listen to the transcript, they do not sound happy about this conversation.
+
+122
+00:11:03,102 --> 00:11:04,928
+Speaker 0: - Yeah.
+
+123
+00:11:05,228 --> 00:11:08,980
+Speaker 0: If you think that these are wackadoo suggestions, you're right.
+
+124
+00:11:10,482 --> 00:11:11,204
+Speaker 1: - Yeah.
+
+125
+00:11:11,224 --> 00:11:17,160
+Speaker 1: So on one hand, let's say this goes all the way to the Supreme Court and they say that Trump is immune.
+
+126
+00:11:18,320 --> 00:11:22,452
+Speaker 1: I actually think for real Biden should just steal the election.
+
+127
+00:11:24,217 --> 00:11:25,180
+Speaker 1: Like, it would be legal.
+
+128
+00:11:25,540 --> 00:11:26,083
+Speaker 0: - Yes.
+
+129
+00:11:26,265 --> 00:11:28,700
+Speaker 0: I think that Biden should in fact go beyond that.
+
+130
+00:11:28,780 --> 00:11:30,180
+Speaker 1: - Well, he should punch Trump in the dick.
+
+131
+00:11:31,120 --> 00:11:36,220
+Speaker 0: - Well, he could also fix the problems in the Constitution, electoral college gone, lock in the democracy.
+
+132
+00:11:36,320 --> 00:11:40,557
+Speaker 0: He's running on a platform of, "If you vote for me, we'll still have
+
+133
+00:11:40,597 --> 00:11:41,099
+Speaker 0: democracy.".
+
+134
+00:11:41,560 --> 00:11:42,471
+Speaker 0: - And he's not kidding.
+
+135
+00:11:42,491 --> 00:11:43,240
+Speaker 1: That's what he's trying.
+
+136
+00:11:44,040 --> 00:11:45,464
+Speaker 0: - I mean, yes, that's the truth.
+
+137
+00:11:45,644 --> 00:11:53,086
+Speaker 0: Even if you hate every candidate, the fact is the reality that you cannot control because you don't have any power.
+
+138
+00:11:53,126 --> 00:12:00,034
+Speaker 0: and even if we all collectively get together, we can't fix this right now is that if Joe Biden wins, we'll preserve democracy.
+
+139
+00:12:00,134 --> 00:12:01,380
+Speaker 0: And if he doesn't, we might not.
+
+140
+00:12:02,060 --> 00:12:04,400
+Speaker 1: - That's what this election is literally about.
+
+141
+00:12:04,800 --> 00:12:05,503
+Speaker 1: - Nothing else.
+
+142
+00:12:05,523 --> 00:12:07,512
+Speaker 0: Whatever your stance is on any other issue.
+
+143
+00:12:07,612 --> 00:12:09,179
+Speaker 0: It's like, "Do you believe in democracy or you
+
+144
+00:12:09,219 --> 00:12:09,400
+Speaker 0: don't?".
+
+145
+00:12:09,520 --> 00:12:10,465
+Speaker 0: End of story, right?
+
+146
+00:12:10,525 --> 00:12:13,480
+Speaker 0: So even the flawed democracy that we have.
+
+147
+00:12:13,600 --> 00:12:31,800
+Speaker 0: But yeah, if he's immune, he could actually take drastic measures and lock in democracy harder and make America more democratic with things that were previously off the table because he thought he would just go to jail and not be above the law.
+
+148
+00:12:31,800 --> 00:12:36,398
+Speaker 0: But yeah, he could just rewrite the Constitution effectively, indirectly.
+
+149
+00:12:37,720 --> 00:12:42,279
+Speaker 1: - He could punch a bunch of people in their dicks if he wanted to and be totally okay.
+
+150
+00:12:43,240 --> 00:12:46,229
+Speaker 0: - At his age, I'm already weak.
+
+151
+00:12:47,372 --> 00:12:50,280
+Speaker 0: So he's strong for people at his very advanced age.
+
+152
+00:12:50,300 --> 00:12:53,720
+Speaker 1: - But his opponents are also mostly around his age.
+
+153
+00:12:54,620 --> 00:12:55,483
+Speaker 0: - Some of them don't have dicks.
+
+154
+00:12:55,523 --> 00:13:00,559
+Speaker 0: But the other thing is that I wouldn't want to punch in the dick from him.
+
+155
+00:13:00,901 --> 00:13:09,397
+Speaker 0: but also, if I had to list people and I had to pick one of them, it's like, he's probably not going to be as bad as most.
+
+156
+00:13:10,500 --> 00:13:11,987
+Speaker 1: - He's probably in the top third of my list.
+
+157
+00:13:12,027 --> 00:13:14,960
+Speaker 1: if I had to stack rank everyone on Earth in terms of who gets to punch me in the dick.
+
+158
+00:13:15,400 --> 00:13:16,979
+Speaker 0: - Yeah, you should probably use some kind of weapon.
+
+159
+00:13:18,040 --> 00:13:19,671
+Speaker 1: - Well, right before the Civil War.
+
+160
+00:13:19,691 --> 00:13:20,900
+Speaker 0: - Or tell someone to do it for him.
+
+161
+00:13:20,980 --> 00:13:22,329
+Speaker 1: - That one senator used a cane.
+
+162
+00:13:22,349 --> 00:13:24,059
+Speaker 0: - There you go.
+
+163
+00:13:24,841 --> 00:13:40,740
+Speaker 1: - So how this could play out, this is before a three-judge court and either, it is very clear based on the nature of the questioning, the three judges engaged with this Trump lawyer, that they're not going to say that Trump is immune.
+
+164
+00:13:41,080 --> 00:13:42,104
+Speaker 1: So he's going to appeal it.
+
+165
+00:13:42,445 --> 00:13:46,680
+Speaker 1: He can either appeal it to the full appeals court or to the Supreme Court.
+
+166
+00:13:49,423 --> 00:13:53,519
+Speaker 1: And the really interesting situation is, are Supreme Courts kind of broken and corrupt right now?
+
+167
+00:13:54,361 --> 00:14:02,059
+Speaker 1: But there's actually a path for them to ensure the trial continues and give themselves plausible deniability to not have to make a hard decision right now.
+
+168
+00:14:03,080 --> 00:14:09,160
+Speaker 0: - Well, because if they made, it's like we just said, if they made the hard decision and said he's immune.
+
+169
+00:14:09,660 --> 00:14:12,840
+Speaker 1: - Like Biden could show up in their chambers and start throwing punches.
+
+170
+00:14:13,900 --> 00:14:14,653
+Speaker 0: - Or grenades.
+
+171
+00:14:14,673 --> 00:14:14,958
+Speaker 0: - Yeah.
+
+172
+00:14:16,562 --> 00:14:18,709
+Speaker 1: I mean, literally, these are the arguments.
+
+173
+00:14:18,729 --> 00:14:25,119
+Speaker 1: he could send SEAL Team 6 to lock a few of them in their offices and then let the rest of the court vote and no one could stop him.
+
+174
+00:14:26,380 --> 00:14:27,897
+Speaker 0: - And he should if they say that.
+
+175
+00:14:27,918 --> 00:14:28,059
+Speaker 0: - Yeah.
+
+176
+00:14:29,240 --> 00:14:31,637
+Speaker 0: - One of the non-murderous options.
+
+177
+00:14:31,657 --> 00:14:32,060
+Speaker 0: - Yeah, yeah.
+
+178
+00:14:32,980 --> 00:14:39,596
+Speaker 0: - It's like the locking, you know, lock half the Senate in a room so there's a quorum with a bunch of Democrats and then the filibuster is gone and then, right?
+
+179
+00:14:39,656 --> 00:14:40,180
+Speaker 0: It's like, do that.
+
+180
+00:14:40,300 --> 00:14:40,983
+Speaker 0: - Yeah, exactly.
+
+181
+00:14:41,565 --> 00:14:55,519
+Speaker 1: So the way this could go down that is actually pretty plausible and a good step toward democracy for real is that the Supreme Court is corrupt and really doesn't want to have to say out loud how corrupt they are.
+
+182
+00:14:56,060 --> 00:14:59,276
+Speaker 1: So it's unlikely the Supreme Court would take this up and say, "Yes, he's
+
+183
+00:14:59,316 --> 00:14:59,577
+Speaker 1: immune.".
+
+184
+00:15:00,361 --> 00:15:08,380
+Speaker 1: But it's also unlikely the Supreme Court will take this up and say, "No, he's not immune," because they're afraid of the right wing that supported them and corrupted them in the first place.
+
+185
+00:15:09,140 --> 00:15:14,259
+Speaker 1: So what they could do is when this appeals court says, "No, no, no, no, he's not immune, that's crazy,".
+
+186
+00:15:15,421 --> 00:15:20,880
+Speaker 1: it only takes five Supreme Court justices to deny cert and just not take up the case.
+
+187
+00:15:21,301 --> 00:15:27,320
+Speaker 1: And if they do that, whatever the lower court did stands, but it also doesn't set a Supreme Court precedent.
+
+188
+00:15:28,080 --> 00:15:34,380
+Speaker 1: It kind of just lets the trial continue, keeps them out of the fray, and that's what I predict is going to happen.
+
+189
+00:15:35,240 --> 00:15:35,660
+Speaker 0: - Yeah, probably.
+
+190
+00:15:36,400 --> 00:15:46,355
+Speaker 1: - Which is a small piece of good news because we cannot let the president of the country literally be above the law out loud for real.
+
+191
+00:15:46,375 --> 00:15:47,580
+Speaker 1: Like, this is so ridiculous.
+
+192
+00:15:47,800 --> 00:15:58,799
+Speaker 0: - Even if we trust or hope that the current president is one that we like that will fix democracy, it's like, well, sure, let's say Joe Biden, you know, the ridiculous thing happens, right?
+
+193
+00:15:59,201 --> 00:16:01,639
+Speaker 0: And he locks the senators up and fixes democracy.
+
+194
+00:16:01,760 --> 00:16:06,460
+Speaker 1: - Let him do it, but then he should probably still go to jail or at least be kicked out of office for that.
+
+195
+00:16:07,200 --> 00:16:09,066
+Speaker 0: - Let's say he does that, right?
+
+196
+00:16:09,327 --> 00:16:16,332
+Speaker 0: And then the final thing he does is eliminate immunity so that you're good to go, right?
+
+197
+00:16:16,573 --> 00:16:18,260
+Speaker 0: That has to be the final stroke.
+
+198
+00:16:19,161 --> 00:16:29,899
+Speaker 0: Otherwise, no matter how much democracy you have, no matter how solid it is, the majority of people might legitimately like someone evil and vote for evil.
+
+199
+00:16:31,200 --> 00:16:33,013
+Speaker 0: And then you just vote, right?
+
+200
+00:16:33,054 --> 00:16:33,517
+Speaker 0: That's the end.
+
+201
+00:16:34,541 --> 00:16:44,839
+Speaker 0: Whereas if the president doesn't have immunity, and as long as the law is actually followed, then you're theoretically protected from even the most evil person, right?
+
+202
+00:16:45,860 --> 00:16:47,158
+Speaker 0: Because the law is still there.
+
+203
+00:16:47,880 --> 00:16:48,001
+Speaker 1: - Yep.
+
+204
+00:16:48,566 --> 00:16:50,019
+Speaker 1: So we'll see how this all goes.
+
+205
+00:16:50,920 --> 00:17:05,380
+Speaker 1: In other pretty big news, 2023, which leads a little bit to our main bit, was not only the hottest year in all of recorded history, but it was the hottest year in all of recorded history.
+
+206
+00:17:05,780 --> 00:17:06,920
+Speaker 0: - Recorded is the key word, right?
+
+207
+00:17:07,579 --> 00:17:10,060
+Speaker 0: - The year when the volcanoes killed the dinosaurs was hotter.
+
+208
+00:17:11,140 --> 00:17:14,880
+Speaker 0: The year when we're closer to the sun or whatever was hotter.
+
+209
+00:17:14,920 --> 00:17:19,915
+Speaker 1: - So we have hard, direct, detailed evidence that it was the hottest year since 1870, I want to say.
+
+210
+00:17:22,180 --> 00:17:24,446
+Speaker 1: And we also have geological evidence.
+
+211
+00:17:24,787 --> 00:17:29,380
+Speaker 1: that is the hottest year in the history of humans existing on planet Earth.
+
+212
+00:17:30,380 --> 00:17:30,520
+Speaker 1: - Yep.
+
+213
+00:17:31,120 --> 00:17:32,359
+Speaker 1: - But it's not just that.
+
+214
+00:17:32,480 --> 00:17:34,559
+Speaker 0: - The volcano dinosaurs were before the humans.
+
+215
+00:17:35,520 --> 00:17:37,980
+Speaker 0: - If you don't believe that, you're listening to the wrong podcast.
+
+216
+00:17:39,200 --> 00:17:48,580
+Speaker 1: - But it was hotter by such a wide margin that nobody expected it, and the data was questioned at first.
+
+217
+00:17:49,201 --> 00:18:02,580
+Speaker 1: It blew past the records to such a degree that we're now on the upper, upper end of the most pessimistic, most insane, most like "we have to take drastic action right now" possible projections.
+
+218
+00:18:02,761 --> 00:18:07,139
+Speaker 1: We're on the upper end of the worst case scenarios based on this year.
+
+219
+00:18:09,080 --> 00:18:14,020
+Speaker 1: And there's not much I can really say about that except most of the world does not seem to be taking this seriously.
+
+220
+00:18:15,120 --> 00:18:15,819
+Speaker 0: - You gotta ban cars.
+
+221
+00:18:16,220 --> 00:18:17,680
+Speaker 1: - Yep, we gotta ban cars.
+
+222
+00:18:17,800 --> 00:18:19,110
+Speaker 0: - Or, at this point, you're not...
+
+223
+00:18:20,981 --> 00:18:25,140
+Speaker 1: - Beef production is a significant percentage of global emissions.
+
+224
+00:18:26,260 --> 00:18:29,691
+Speaker 0: - I think the only real way to end it is to cut it off at the root, right?
+
+225
+00:18:33,704 --> 00:18:35,880
+Speaker 0: And then that would force everyone to stop, basically.
+
+226
+00:18:36,360 --> 00:18:37,680
+Speaker 1: - There are a lot of ways.
+
+227
+00:18:37,740 --> 00:18:38,909
+Speaker 0: - There are no fossil fuels.
+
+228
+00:18:38,929 --> 00:18:40,379
+Speaker 0: You're gonna have to do something different.
+
+229
+00:18:41,381 --> 00:18:49,340
+Speaker 0: Because you're not gonna be able to get all these countries to intentionally change their ways with such urgency.
+
+230
+00:18:49,500 --> 00:18:56,060
+Speaker 1: - Well, it's something that requires the broad cooperation of every powerful entity on Earth.
+
+231
+00:18:56,681 --> 00:19:09,158
+Speaker 1: They at least have to agree to take action, and take that action, and many of those actions will be unpopular to uneducated masses who really want an SUV and a big house, and want to eat hamburgers every single day.
+
+232
+00:19:10,280 --> 00:19:11,063
+Speaker 0: - Too bad.
+
+233
+00:19:11,083 --> 00:19:15,260
+Speaker 0: I think the really shocking thing is how come the Earth hasn't just fucking run out of oil yet?
+
+234
+00:19:15,380 --> 00:19:16,938
+Speaker 0: Jesus Christ, that could have saved us.
+
+235
+00:19:17,780 --> 00:19:22,420
+Speaker 1: - Well, because actually a lot of it's coming from beef production, which has nothing to do with oil directly.
+
+236
+00:19:22,761 --> 00:19:23,597
+Speaker 1: It's also coming from coal.
+
+237
+00:19:25,484 --> 00:19:27,440
+Speaker 1: The world is burning a shit ton of coal lately.
+
+238
+00:19:28,321 --> 00:19:32,160
+Speaker 0: - Yeah, I was saying, why is there... Earth, why did you have so much of this stuff for us to burn?
+
+239
+00:19:32,340 --> 00:19:33,399
+Speaker 0: You have less burnable shit.
+
+240
+00:19:36,100 --> 00:19:40,240
+Speaker 1: - Earth's like... Earth's like, this would only be a problem if of all the...
+
+241
+00:19:40,320 --> 00:19:46,060
+Speaker 0: - Whenever you play a video game, like whenever you play Starcraft, you set up like a Tiderium mine, that shit runs out, right?
+
+242
+00:19:46,260 --> 00:19:48,352
+Speaker 0: But meanwhile, Earth is just like, "Oh, you want more coal?
+
+243
+00:19:48,392 --> 00:19:49,277
+Speaker 0: Sure, we got
+
+244
+00:19:49,317 --> 00:19:49,498
+Speaker 0: more.".
+
+245
+00:19:50,480 --> 00:20:03,940
+Speaker 1: - They're like, it'll be fine unless of all the monkeys that are evolving on this planet, as long as the most aggressive, angry ones aren't the ones that take over, and they don't dig into the ground and find all this stuff, we're good.
+
+246
+00:20:04,280 --> 00:20:06,999
+Speaker 1: And here we are, the violent monkeys, filled with oil.
+
+247
+00:20:08,940 --> 00:20:22,679
+Speaker 1: So yeah, this is kind of existential, and it's still kind of amazing how little the average person, or even people who have the ability to try to do something about it, just don't want to talk about it, don't think about it.
+
+248
+00:20:23,203 --> 00:20:30,000
+Speaker 1: This is even one of the reasons I didn't want to have kids, was that based on these projections, even within ten years, the world's going to be in deep shit.
+
+249
+00:20:32,069 --> 00:20:32,920
+Speaker 0: - Well, whatcha gonna do?
+
+250
+00:20:39,260 --> 00:20:42,040
+Speaker 1: - But anyway, things of the day!
+
+251
+00:20:42,580 --> 00:20:55,159
+Speaker 1: So, often, walking around in the city, an old person will walk up to me, usually with a smartphone out, often with a maps app open in it, and they'll ask me for directions.
+
+252
+00:20:56,021 --> 00:21:08,598
+Speaker 1: And the worst part about that is not that I'm annoyed, like, "Alright, you have a phone, I'm just gonna open the exact same app on my phone and type a magic string into it that you apparently didn't
+
+253
+00:21:08,619 --> 00:21:08,800
+Speaker 1: type.".
+
+254
+00:21:09,460 --> 00:21:16,720
+Speaker 1: But also, they'll ask me names of places, or names of streets, like I would know them.
+
+255
+00:21:16,820 --> 00:21:28,320
+Speaker 1: I don't know the name of any street unless it's one of the numbers that is going in a particular direction, or is one of the avenues I use a lot, or it's part of one of the major grids.
+
+256
+00:21:28,700 --> 00:21:37,180
+Speaker 1: I don't know the names of any stores I don't go to, unless it's a restaurant I've been to, or think about, I'm not gonna know where some random office is, but yet it happens a lot.
+
+257
+00:21:37,840 --> 00:21:48,780
+Speaker 1: And this video is a short skit that basically portrays every single thing that old people asking for or giving directions do in these conversations.
+
+258
+00:21:49,241 --> 00:21:51,679
+Speaker 1: It was very real, watching this short video.
+
+259
+00:21:54,070 --> 00:21:54,500
+Speaker 1: So what do you got?
+
+260
+00:21:55,340 --> 00:22:08,600
+Speaker 0: Here's an award-winning short animated film about a sauna, and the sauna has a long list of rules that people must obey, which public saunas often do, right?
+
+261
+00:22:09,866 --> 00:22:12,540
+Speaker 0: People are going in there to relax and sweat it out.
+
+262
+00:22:12,960 --> 00:22:19,260
+Speaker 0: They don't want someone going in there on their phone, blasted music, peeing on the rocks, et cetera, right?
+
+263
+00:22:19,980 --> 00:22:27,737
+Speaker 0: And it's just a funny short animated film, and it's covered in all these award leaf thingies, because it's that kind of thing, right?
+
+264
+00:22:29,325 --> 00:22:29,652
+Speaker 0: There you go.
+
+265
+00:22:31,180 --> 00:22:31,988
+Speaker 1: I like a good sauna.
+
+266
+00:22:32,028 --> 00:22:33,280
+Speaker 1: I haven't been in a sauna in a while.
+
+267
+00:22:33,780 --> 00:22:47,379
+Speaker 1: And I wanted to go back to good old Spa Castle, but the report from our friend who went there recently, after it got renovated, is it's still mostly filled with basic people getting drunk and screaming, instead of people quietly enjoying baths.
+
+268
+00:22:48,041 --> 00:22:54,600
+Speaker 0: Well, for someone of your exorbitant means, there must be some sort of private spa castle that isn't full of ruffians.
+
+269
+00:22:55,441 --> 00:23:05,800
+Speaker 1: They're more like American spa, like the kind of place a rich lady would go to get a treatment, and not the style of public bathhouse that I actually like.
+
+270
+00:23:06,642 --> 00:23:09,359
+Speaker 0: Why don't you make a private public bathhouse then?
+
+271
+00:23:09,980 --> 00:23:11,280
+Speaker 1: Yeah, I can put that in the hopper.
+
+272
+00:23:11,280 --> 00:23:12,720
+Speaker 0: I'm sure you could get enough membership.
+
+273
+00:23:13,020 --> 00:23:16,017
+Speaker 1: All the video games I'm going to make, all the real estate I'm going to buy.
+
+274
+00:23:17,402 --> 00:23:17,900
+Speaker 0: I'm just saying.
+
+275
+00:23:18,260 --> 00:23:26,100
+Speaker 1: There is a really good Russian bathhouse downtown that I could just go to, but it's men only, so I couldn't bring all our friends.
+
+276
+00:23:28,670 --> 00:23:36,389
+Speaker 1: Alright, in the meta moment, the Geek Nights Book Club book is Walk on Girl, The Night is Short, as made famous by the anime that you all watch because we reviewed it.
+
+277
+00:23:36,750 --> 00:23:37,869
+Speaker 1: The Night is Short, Walk on Girl.
+
+278
+00:23:39,433 --> 00:23:40,766
+Speaker 1: So far, I like it.
+
+279
+00:23:41,370 --> 00:23:48,789
+Speaker 1: It's following along what I thought from the movie pretty well, and I haven't read enough to have much more of an opinion yet.
+
+280
+00:23:49,770 --> 00:23:52,690
+Speaker 0: Yeah, it's pretty similar to what the movie was.
+
+281
+00:23:53,010 --> 00:23:55,370
+Speaker 0: I guess the movie was a close adaptation.
+
+282
+00:23:56,931 --> 00:23:58,630
+Speaker 1: Oh, I didn't realize you never saw Penguin Highway.
+
+283
+00:24:00,012 --> 00:24:00,908
+Speaker 0: Nope, I did not.
+
+284
+00:24:01,390 --> 00:24:02,810
+Speaker 1: Penguin Highway was alright.
+
+285
+00:24:03,390 --> 00:24:03,850
+Speaker 1: It's got something.
+
+286
+00:24:05,735 --> 00:24:12,029
+Speaker 1: It's a movie that is thick with one specific allegory that it just pushes the entire movie.
+
+287
+00:24:13,234 --> 00:24:16,009
+Speaker 0: Other meta moment is Magfest is nigh.
+
+288
+00:24:16,250 --> 00:24:24,609
+Speaker 0: It is currently Thursday, so a week from today, we will be at Magfest in National Harbor, Maryland, Virginia, D.C.
+
+289
+00:24:24,771 --> 00:24:25,849
+Speaker 0: It's all the same fucking place.
+
+290
+00:24:26,430 --> 00:24:27,138
+Speaker 0: You know where it is.
+
+291
+00:24:27,158 --> 00:24:28,189
+Speaker 0: The place of the gazebo.
+
+292
+00:24:28,475 --> 00:24:28,810
+Speaker 1: It's Magfest.
+
+293
+00:24:30,497 --> 00:24:38,010
+Speaker 1: If you were thinking about going to Magfest or have a hotel but did not buy a badge yet for some reason, they are on the verge of selling out.
+
+294
+00:24:38,150 --> 00:24:41,530
+Speaker 1: I don't know if Magfest has ever sold out since it moved to the Gaylord.
+
+295
+00:24:42,333 --> 00:24:45,570
+Speaker 0: I don't know, but this Magfest, I got the feeling it's going to be cray-cray.
+
+296
+00:24:45,750 --> 00:24:47,770
+Speaker 0: Well look, PAX Unplugged was cray-cray.
+
+297
+00:24:48,974 --> 00:24:56,429
+Speaker 1: The number of people that showed up compared to projections, it's not just COVID is wound down into a long tail and people are emerging back out.
+
+298
+00:24:56,790 --> 00:25:01,309
+Speaker 1: People are aggressively going back out to catch up for lost time.
+
+299
+00:25:01,450 --> 00:25:04,550
+Speaker 1: I feel like this Magfest is going to be absolutely crazy.
+
+300
+00:25:05,190 --> 00:25:11,310
+Speaker 0: We also always talk about how it's a miracle that Magfest hasn't collapsed yet due to scandals or crime.
+
+301
+00:25:11,370 --> 00:25:16,741
+Speaker 0: If any year would be the year it could collapse, this is going to be, yeah, this has potential.
+
+302
+00:25:18,430 --> 00:25:25,009
+Speaker 0: This is like dumping, not a straw on the camel's back, but a pile of bricks on the camel's back after the camel was having an easy time.
+
+303
+00:25:28,670 --> 00:25:31,409
+Speaker 0: Magfest thinks this is just going to be another Magfest, right?
+
+304
+00:25:31,850 --> 00:25:36,510
+Speaker 0: But I think that there is a non-zero chance this could be the last Magfest.
+
+305
+00:25:37,553 --> 00:25:44,348
+Speaker 0: Because something could happen with this mass amount of people bigger than ever before, crazy times, etc.
+
+306
+00:25:47,096 --> 00:25:48,369
+Speaker 0: that might undo them.
+
+307
+00:25:49,814 --> 00:25:51,550
+Speaker 0: Or at least severely damage them.
+
+308
+00:25:51,690 --> 00:25:58,750
+Speaker 1: For as long as I've gone to Magfest, I treat every Magfest as though it might be my last because I'm always afraid something's going to happen to Magfest.
+
+309
+00:25:58,970 --> 00:26:00,229
+Speaker 0: But more so now than before.
+
+310
+00:26:01,212 --> 00:26:04,306
+Speaker 0: I don't think it's above 50%, but it's like...
+
+311
+00:26:04,591 --> 00:26:06,450
+Speaker 1: This is the most dangerous Magfest.
+
+312
+00:26:07,520 --> 00:26:07,646
+Speaker 0: Yeah.
+
+313
+00:26:08,653 --> 00:26:09,807
+Speaker 0: It's going to sell out, etc.
+
+314
+00:26:10,630 --> 00:26:14,728
+Speaker 1: We're doing a bunch of panels, we'll bring a bunch of video equipment to do some stuff.
+
+315
+00:26:17,396 --> 00:26:21,188
+Speaker 1: I'm hoping to play some Dance Dance Revolution at say 5 in the morning on a few days.
+
+316
+00:26:24,254 --> 00:26:29,568
+Speaker 0: One other meta moment is I have ordered some Geek Knights logo stickers.
+
+317
+00:26:30,530 --> 00:26:31,709
+Speaker 1: Oh yeah, those are looking pretty good.
+
+318
+00:26:32,850 --> 00:26:37,409
+Speaker 0: Yeah, I mean I basically just took the logo and I made the borders thicker a bit so they would look better as a sticker.
+
+319
+00:26:37,952 --> 00:26:42,517
+Speaker 0: I told them, "Hey, all the yellow parts make them shiny
+
+320
+00:26:42,557 --> 00:26:42,880
+Speaker 0: gold.".
+
+321
+00:26:42,920 --> 00:26:43,948
+Speaker 0: And they're like, "Alright, we do
+
+322
+00:26:43,989 --> 00:26:44,130
+Speaker 0: that.".
+
+323
+00:26:47,198 --> 00:26:50,169
+Speaker 0: It should be a high quality sticker, they cost me a buck each.
+
+324
+00:26:51,815 --> 00:26:53,229
+Speaker 1: That's about what our business cards cost.
+
+325
+00:26:54,153 --> 00:26:57,008
+Speaker 0: They might arrive in time for Magfest, they might not.
+
+326
+00:26:57,874 --> 00:26:58,787
+Speaker 0: Who knows, we'll see.
+
+327
+00:27:00,151 --> 00:27:11,666
+Speaker 0: But I guess if you really want to put the Geek Knights logo on something with adhesive, you know, maybe I'll just send them out because it's only a dollar or I don't know, I've only ordered like a hundred of them.
+
+328
+00:27:13,217 --> 00:27:15,301
+Speaker 0: So, you know, whatever.
+
+329
+00:27:15,321 --> 00:27:16,270
+Speaker 0: I figured why the hell not?
+
+330
+00:27:18,734 --> 00:27:24,169
+Speaker 1: Alright, so there's a lot of Thursday shows we could do, but it's the start of a new year.
+
+331
+00:27:24,671 --> 00:27:30,030
+Speaker 1: We had a previous year and I've always liked the idea of doing a retrospective, like a little bit more of a personal episode.
+
+332
+00:27:30,572 --> 00:27:36,696
+Speaker 0: Every journalistic outfit in the world does, you know, year in review, best of year, etc.
+
+333
+00:27:36,737 --> 00:27:43,220
+Speaker 0: because that's an easy way to pump out a bunch of content during the holidays even if you don't use machine learning to do it for you.
+
+334
+00:27:43,583 --> 00:27:46,996
+Speaker 0: And that's the first thing to talk about in 2023.
+
+335
+00:27:46,996 --> 00:27:50,695
+Speaker 0: It was the year technology-wise, it was the year of machine learning.
+
+336
+00:27:50,715 --> 00:27:51,099
+Speaker 0: And
+
+337
+00:27:51,220 --> 00:28:24,610
+Speaker 1: what's fascinating about it is on one hand, a lot of people I encounter in my personal life and my professional life are they're both mad and worried that it's going to cause problems, and they're not wrong, but they're also like mad at the most specific tiny steps that it's taken now and they're radically underestimating that everything these machine learning algorithms have been doing in 2023 are going to look pathetic and obsolete like six months into 2024.
+
+338
+00:28:24,610 --> 00:28:31,970
+Speaker 0: Yeah, you think about the kind of, you know, upside downy-ness that happened when people started Napster and just sharing files and it's like, oh.
+
+339
+00:28:32,151 --> 00:28:36,616
+Speaker 1: The entire music industry like inverted and exploded over the span of about six months.
+
+340
+00:28:37,628 --> 00:28:37,810
+Speaker 0: Yeah.
+
+341
+00:28:37,990 --> 00:28:43,570
+Speaker 0: Wait until someone clicks a button and a brand new completely original hit song comes out written by nobody.
+
+342
+00:28:43,890 --> 00:28:53,249
+Speaker 1: You're going to see a AAA video game completely developed, start to finish, released and maintained by a machine learning model within 15 years, guaranteed if the world still exists.
+
+343
+00:28:54,230 --> 00:28:54,927
+Speaker 0: Yeah, you know.
+
+344
+00:28:55,874 --> 00:28:57,758
+Speaker 0: We'll see how, you know, what happens.
+
+345
+00:28:58,102 --> 00:29:05,190
+Speaker 0: But unlike you know, the cryptocurrency, which is the previous tech hotness, I guess, popular thing, this is actually legitimate.
+
+346
+00:29:05,570 --> 00:29:10,406
+Speaker 1: Which sucks because there's a problem and I've seen this a lot, but I didn't realize it was a pattern until now.
+
+347
+00:29:11,393 --> 00:29:15,349
+Speaker 1: The crypto bullshit explosion and now AI showed me something.
+
+348
+00:29:15,931 --> 00:29:33,269
+Speaker 1: Whenever there's a new technology buzzword, irrespective of if it's a real technology or not, there's a certain class of douchebag guy who makes their entire identity around it and then basically is a is a scammer or a huckster for that thing.
+
+349
+00:29:33,990 --> 00:29:50,606
+Speaker 0: And that's not just true in technology, but that's just true in general is like whenever there's some sort of hot new thing, right, whether it's a new diet trend or a new a new sport like pickleball or pickleball, right.
+
+350
+00:29:50,848 --> 00:30:13,525
+Speaker 0: Any any new thing that becomes popular, beanie baby or a new fad of some kind, somebody somewhere, right, either legitimately the true believer believes in it and makes it their identity or get rich quick huckster right, just goes all in on it hoping to get rich quick and ride the wave with the right time.
+
+351
+00:30:15,614 --> 00:30:23,355
+Speaker 0: And so whether a thing whether the thing that they're riding is legitimate, right, it doesn't matter if that fad diet actually works or not.
+
+352
+00:30:23,537 --> 00:30:32,830
+Speaker 0: It doesn't matter if it's cryptocurrency, which is bullshit or machine learning, which whether the uses of it are good or bad, it works.
+
+353
+00:30:33,410 --> 00:30:36,222
+Speaker 0: But I guess you can accomplish things with it for real.
+
+354
+00:30:36,243 --> 00:30:36,950
+Speaker 1: What sucks is like.
+
+355
+00:30:37,091 --> 00:30:40,668
+Speaker 1: I've spent my entire professional career pushing back against cryptocurrency.
+
+356
+00:30:40,748 --> 00:30:52,929
+Speaker 1: I was on the original working groups in capital markets when Bitcoin appeared and the whole finance world was like, at least the technology parts of finance were like, is this a thing and what should we do with it?
+
+357
+00:30:53,212 --> 00:31:03,028
+Speaker 1: And I looked into it like in the early days and I determined no and I pushed back as hard as I could and I stem the tide as much as the tiny amount of power I had could stem it.
+
+358
+00:31:03,513 --> 00:31:09,494
+Speaker 1: but the scammers who were hucking, who were selling their cryptocurrency were wrong.
+
+359
+00:31:09,554 --> 00:31:11,616
+Speaker 1: like it's all fake and it will eventually disappear.
+
+360
+00:31:11,636 --> 00:31:17,090
+Speaker 1: so you can just write them all off as scammers and they'll eventually lose all their money and fail or go to jail or something.
+
+361
+00:31:17,816 --> 00:31:34,300
+Speaker 1: But with AI it's the exact same kind of person and in fact many of these AI luminaries I'm making finger quotes we're seeing out there are literally cryptobros who made a bunch of money because they ran the scam early and then they got out and they're pivoting to this and they think they're geniuses.
+
+362
+00:31:34,946 --> 00:31:36,806
+Speaker 0: The problem is I'm a genius.
+
+363
+00:31:36,907 --> 00:31:45,129
+Speaker 0: I looked at the thing that was most popular and then I associated myself with that popular thing and when another thing becomes popular I will associate myself with that thing.
+
+364
+00:31:45,915 --> 00:31:49,030
+Speaker 0: That will be my life, associating with whatever is currently hot.
+
+365
+00:31:49,250 --> 00:31:57,030
+Speaker 1: With cryptocurrency they would make up ridiculous claims to trick people and eventually those claims will be found to be false and people realize it was a scam.
+
+366
+00:31:57,590 --> 00:32:04,602
+Speaker 1: The problem is these people are making ridiculous claims about machine learning and they don't know anything about machine learning.
+
+367
+00:32:04,643 --> 00:32:06,182
+Speaker 1: They have no idea how this stuff works.
+
+368
+00:32:06,567 --> 00:32:19,607
+Speaker 1: But because the technology is evolving so fast a lot of the things they're saying are ending up true even though they literally do not understand how it works and are just saying words.
+
+369
+00:32:21,572 --> 00:32:23,696
+Speaker 1: It is evolving at that fast.
+
+370
+00:32:24,323 --> 00:32:29,769
+Speaker 1: Its capabilities are getting exponentially better on a quarter by quarter basis.
+
+371
+00:32:30,771 --> 00:32:34,810
+Speaker 0: It all comes down to what dataset can we apply this to next?
+
+372
+00:32:35,010 --> 00:32:38,141
+Speaker 0: There's a lot of datasets out there that it has not yet been applied to.
+
+373
+00:32:38,505 --> 00:32:42,149
+Speaker 0: Every time someone thinks of a new one something wild happens.
+
+374
+00:32:42,730 --> 00:32:43,619
+Speaker 1: But with 2023 we went from.
+
+375
+00:32:45,356 --> 00:32:57,659
+Speaker 1: only technologists thought much about ML for real, but by the end of 2023 half the people I know are running local machine learning models for various purposes on their GPUs trying it out.
+
+376
+00:32:57,780 --> 00:32:58,849
+Speaker 1: It is being adopted.
+
+377
+00:33:02,011 --> 00:33:02,945
+Speaker 1: Also in technology.
+
+378
+00:33:04,271 --> 00:33:06,049
+Speaker 1: I want to get away from technologists for one bit.
+
+379
+00:33:06,796 --> 00:33:17,275
+Speaker 1: This was the transition from the COVID pandemic world to honestly, at least for me, living my life the way I did before.
+
+380
+00:33:17,456 --> 00:33:20,789
+Speaker 1: I've pretty much gone back to with a few very specific changes.
+
+381
+00:33:21,833 --> 00:33:23,214
+Speaker 0: Right now COVID is way bad.
+
+382
+00:33:23,376 --> 00:33:23,700
+Speaker 1: It is.
+
+383
+00:33:23,720 --> 00:33:25,155
+Speaker 1: I got my shot recently.
+
+384
+00:33:25,862 --> 00:33:26,730
+Speaker 1: Ostensibly immune.
+
+385
+00:33:27,310 --> 00:33:33,409
+Speaker 1: But also I'm fully at the point where I do not take any precautions that I'm not intending to take for the rest of my life.
+
+386
+00:33:33,531 --> 00:33:36,178
+Speaker 0: Like I really mean we just had to.
+
+387
+00:33:36,258 --> 00:33:40,275
+Speaker 0: It's like, yeah, the flu was, you know, a horrible pandemic as well.
+
+388
+00:33:40,315 --> 00:33:44,327
+Speaker 0: And, you know, way back in the day it killed shit ton of people and it still does.
+
+389
+00:33:45,632 --> 00:33:49,129
+Speaker 0: But, you know, my whole life I just sort of I had the flu, at least at some points.
+
+390
+00:33:49,612 --> 00:33:52,387
+Speaker 0: It's like it could have killed me, I guess.
+
+391
+00:33:53,693 --> 00:33:54,582
+Speaker 0: I guess I'm lucky it didn't.
+
+392
+00:33:54,724 --> 00:33:56,684
+Speaker 1: I was hospitalized with a really bad flu as a kid.
+
+393
+00:33:56,805 --> 00:33:58,097
+Speaker 1: I think there's something coming out.
+
+394
+00:33:58,117 --> 00:34:09,569
+Speaker 0: I get a flu shot every year, but it's like, you know, I never, you know, took such drastic measures as like, don't go outside, wear a mask at absolutely all times in any crowded place.
+
+395
+00:34:10,071 --> 00:34:12,598
+Speaker 0: You know, it's like, don't go to extremely crowded places.
+
+396
+00:34:12,639 --> 00:34:15,245
+Speaker 0: It's like that's not you know, it's not sustainable.
+
+397
+00:34:15,264 --> 00:34:17,184
+Speaker 1: Those are yeah, those are actions like.
+
+398
+00:34:17,225 --> 00:34:17,609
+Speaker 1: they're like.
+
+399
+00:34:17,831 --> 00:34:27,190
+Speaker 1: I feel like there could be multi year periods where we will need to do this again and will do this again, especially because climate change is going to make global pandemics way more likely.
+
+400
+00:34:27,831 --> 00:34:36,556
+Speaker 1: But it is unreasonable to expect that humans will give up on seeing each other's faces and going to concerts indefinitely, like literally forever.
+
+401
+00:34:36,577 --> 00:34:48,376
+Speaker 0: So it's like at this point, you know, as as shitty as it is, right, because there are people who are, you know, have immune disorders and whatever, and they're very at risk, much more at risk than everyone else.
+
+402
+00:34:48,476 --> 00:34:49,224
+Speaker 0: And now there is.
+
+403
+00:34:49,244 --> 00:34:53,426
+Speaker 0: there were already dangerous for them to go into crowded places before.
+
+404
+00:34:53,568 --> 00:34:58,052
+Speaker 0: And now it's even more dangerous because there's yet another thing that could kill them.
+
+405
+00:34:58,072 --> 00:34:58,738
+Speaker 0: Right.
+
+406
+00:34:59,586 --> 00:35:02,617
+Speaker 0: And we could protect those people with various measures.
+
+407
+00:35:03,244 --> 00:35:06,456
+Speaker 0: But it's like it's sort of the same thing with like peanut allergy.
+
+408
+00:35:06,516 --> 00:35:06,739
+Speaker 0: Right.
+
+409
+00:35:06,759 --> 00:35:10,435
+Speaker 0: It's like, yeah, we could all stop eating peanuts everywhere.
+
+410
+00:35:10,779 --> 00:35:14,456
+Speaker 0: But it's like at some point, you know, it's not a victim blaming thing.
+
+411
+00:35:14,516 --> 00:35:20,895
+Speaker 0: It's just like, look, all of society, you know, if there were if it was most people who had peanut allergy, then yeah.
+
+412
+00:35:21,118 --> 00:35:21,382
+Speaker 0: Right.
+
+413
+00:35:21,726 --> 00:35:28,049
+Speaker 0: But you know, when the numbers are that low, we can't be you know, turning society upside down.
+
+414
+00:35:28,570 --> 00:35:31,829
+Speaker 0: Nobody eats peanuts because somebody might die from it.
+
+415
+00:35:32,170 --> 00:35:39,929
+Speaker 1: But at the same time, we do need and it's sad that this became in many parts of the world a partisan issue where one political party will do it and one won't.
+
+416
+00:35:40,070 --> 00:35:42,755
+Speaker 1: That's just how that that's a whole can of worms.
+
+417
+00:35:42,796 --> 00:35:46,214
+Speaker 0: Well, that's the thing is that, you know, there's the people who do you care about other people.
+
+418
+00:35:46,294 --> 00:35:46,516
+Speaker 0: Right.
+
+419
+00:35:46,637 --> 00:35:51,504
+Speaker 0: And it's like if you don't care about other people, then your attitude is like, yeah, fuck other people.
+
+420
+00:35:51,524 --> 00:35:53,121
+Speaker 0: I wear no mask or get in.
+
+421
+00:35:53,162 --> 00:35:56,374
+Speaker 1: But like in the year 2020, someone who refused to wear a mask in public.
+
+422
+00:35:56,697 --> 00:35:59,730
+Speaker 1: That is an evil, dangerous person because that was a crisis.
+
+423
+00:36:00,431 --> 00:36:06,899
+Speaker 1: That's like that's like parking your car in front of the fire hydrant and then a giant fire breaks out and you refuse to move your car.
+
+424
+00:36:07,748 --> 00:36:07,889
+Speaker 0: Yeah.
+
+425
+00:36:08,371 --> 00:36:12,536
+Speaker 0: But there's a situation in which like it's like, do I care about other people?
+
+426
+00:36:12,738 --> 00:36:14,172
+Speaker 0: Yes, very much so.
+
+427
+00:36:14,273 --> 00:36:16,738
+Speaker 0: Even people I've never met before, even evil people.
+
+428
+00:36:16,920 --> 00:36:17,446
+Speaker 0: Right.
+
+429
+00:36:17,668 --> 00:36:22,818
+Speaker 0: But there is a limit at which, you know, there's, you know, measures are reasonable.
+
+430
+00:36:22,879 --> 00:36:23,000
+Speaker 0: Right.
+
+431
+00:36:23,020 --> 00:36:25,100
+Speaker 0: We're not going to all live in bubbles for.
+
+432
+00:36:25,262 --> 00:36:25,423
+Speaker 0: Right.
+
+433
+00:36:25,444 --> 00:36:27,770
+Speaker 0: It's like we could take even more extreme measures if you wanted.
+
+434
+00:36:28,252 --> 00:36:28,494
+Speaker 0: Right.
+
+435
+00:36:28,838 --> 00:36:30,794
+Speaker 0: But there's reasonable measures.
+
+436
+00:36:31,057 --> 00:36:38,009
+Speaker 1: Well, there's also, you know, the last big global pandemic like this, the flu pandemic, one of the big changes was buildings got better at ventilation.
+
+437
+00:36:38,573 --> 00:36:39,870
+Speaker 1: Like that was the thing that happened.
+
+438
+00:36:40,513 --> 00:36:47,389
+Speaker 1: And I think we're going to see, at least in America and blue states because, again, the unfortunate separate political piece of this.
+
+439
+00:36:47,992 --> 00:36:58,935
+Speaker 1: We're going to start seeing better air filtration in buildings and public spaces, which shows all the pucks here to get in the air filtration business will materially reduce the risk of all illnesses.
+
+440
+00:36:59,359 --> 00:37:07,178
+Speaker 1: But we've also learned something because now from everything I can I've been reading a COVID is starting to act more like other diseases.
+
+441
+00:37:07,279 --> 00:37:12,009
+Speaker 1: And we're finding that long COVID is a thing, but so is long flu.
+
+442
+00:37:12,753 --> 00:37:17,770
+Speaker 1: So is long cold for some people like there is a post viral syndrome that was not well understood.
+
+443
+00:37:18,356 --> 00:37:25,730
+Speaker 1: And a lot of what we're pointing at long COVID, there are very similar risks in all the diseases we've been getting without thinking much about it for a long time.
+
+444
+00:37:25,790 --> 00:37:30,679
+Speaker 1: And I'm hoping 2024 is the year where we start to get better research around.
+
+445
+00:37:31,446 --> 00:37:33,970
+Speaker 1: what if we have tests for things other than just COVID?
+
+446
+00:37:34,050 --> 00:37:38,577
+Speaker 1: Like what if I can take a test to tell me oh, you've got a cold or you've got RSV or you've got whatever.
+
+447
+00:37:38,860 --> 00:37:46,109
+Speaker 1: We can be more cognizant of all the diseases we face instead of just kind of ignoring them and saying, well, I caught a cold.
+
+448
+00:37:47,935 --> 00:37:49,050
+Speaker 0: It's like you start to wonder.
+
+449
+00:37:49,192 --> 00:37:54,445
+Speaker 0: it's like, you know, have you had some minor symptom for like your whole life?
+
+450
+00:37:54,506 --> 00:37:59,189
+Speaker 0: It's like you start wondering like, was that like some virus I had when I was six.
+
+451
+00:37:59,411 --> 00:38:04,409
+Speaker 0: or was that, you know, or a parasite that nobody knows about?
+
+452
+00:38:04,751 --> 00:38:11,778
+Speaker 1: Because there's definitely there's some sort of cluster of environmental factors plus genetic factors plus bad luck circumstance.
+
+453
+00:38:11,960 --> 00:38:15,374
+Speaker 1: And if all three of them are in one person, you catch a disease.
+
+454
+00:38:15,435 --> 00:38:22,048
+Speaker 1: that like you catch a virus that would suck for someone who doesn't have all three but would recover and it just ruins you.
+
+455
+00:38:23,013 --> 00:38:25,294
+Speaker 0: All those things, you go to the doctor and it's like like I got.
+
+456
+00:38:25,335 --> 00:38:26,567
+Speaker 0: sometimes my eyelid twitches.
+
+457
+00:38:26,587 --> 00:38:28,082
+Speaker 0: It hasn't done that in a few months actually.
+
+458
+00:38:28,122 --> 00:38:29,960
+Speaker 1: I got a kneecap that pops out every now and then.
+
+459
+00:38:29,980 --> 00:38:31,495
+Speaker 1: that's not caused by a virus at least.
+
+460
+00:38:32,223 --> 00:38:32,486
+Speaker 0: Right.
+
+461
+00:38:32,566 --> 00:38:33,661
+Speaker 0: I hope not.
+
+462
+00:38:33,905 --> 00:38:35,778
+Speaker 0: I really hope not.
+
+463
+00:38:36,667 --> 00:38:40,849
+Speaker 0: But it's like you go online and there's a name for it and there's explanations for it.
+
+464
+00:38:40,930 --> 00:38:43,134
+Speaker 0: but it's like they're just sort of like eh.
+
+465
+00:38:43,598 --> 00:38:45,638
+Speaker 0: But it's like who knows what could, you know.
+
+466
+00:38:45,658 --> 00:38:47,418
+Speaker 1: Well I guess I got there's a small patch.
+
+467
+00:38:47,439 --> 00:38:51,721
+Speaker 0: We're starting to learn that more things might be caused by you know.
+
+468
+00:38:51,802 --> 00:38:52,448
+Speaker 1: Look at Michael J. Fox.
+
+469
+00:38:53,490 --> 00:39:11,982
+Speaker 1: His disease, his syndrome was caused by a virus that just a bunch of people on the set of like a TV show or a movie got once and a bunch of people who got that cold on this shot ended up getting the same illness as him and that was a cluster and that's where they started to identify these kinds of factors.
+
+470
+00:39:12,588 --> 00:39:14,124
+Speaker 1: So I hope society learns from that.
+
+471
+00:39:14,205 --> 00:39:18,570
+Speaker 1: but this was definitely the year like at the start of the year I went to a masked packs.
+
+472
+00:39:18,691 --> 00:39:24,569
+Speaker 1: by the end of the year I went to an unmasked extremely dense possibly the most dense packs I've ever been to.
+
+473
+00:39:25,070 --> 00:39:37,055
+Speaker 1: I went to concerts like a bunch of concerts like I I'll admit we kind of in the second half of 2023 just went all out going to things and I'm going out to all things all kinds of things.
+
+474
+00:39:37,075 --> 00:39:38,470
+Speaker 1: That's why Geek Nights has been a little spotty.
+
+475
+00:39:38,571 --> 00:39:43,541
+Speaker 1: Like we go we're doing stuff a lot and we're doing different stuff like and all our friends are doing stuff.
+
+476
+00:39:44,147 --> 00:39:44,833
+Speaker 1: It's like we're making it well.
+
+477
+00:39:44,975 --> 00:39:47,398
+Speaker 1: it's not like we are kind of making up for lost time.
+
+478
+00:39:47,903 --> 00:39:55,377
+Speaker 1: It's almost like I got used to being stuck at home and there was this moment around June where I thought wait a minute I can just go out and do things.
+
+479
+00:39:55,498 --> 00:39:56,569
+Speaker 0: I went out earlier than June.
+
+480
+00:39:57,031 --> 00:40:06,630
+Speaker 1: Yeah I started going out like we started eating at restaurants without masks like around March April this year like regularly but I say it was by late April.
+
+481
+00:40:07,094 --> 00:40:10,630
+Speaker 1: May is when we just started going out to everything like normal completely like normal.
+
+482
+00:40:12,363 --> 00:40:19,014
+Speaker 0: Anyway let's see in the entertainment world right of the Geek Nights Tuesday Wednesdays Thursdays right video game land.
+
+483
+00:40:19,074 --> 00:40:22,065
+Speaker 0: it was pretty much Tears of the Kingdom of the Year and everything else.
+
+484
+00:40:22,288 --> 00:40:25,275
+Speaker 1: Yup Tears of the Kingdom was a year long like experience.
+
+485
+00:40:25,295 --> 00:40:27,659
+Speaker 1: like that game just stands out as game of the year.
+
+486
+00:40:28,407 --> 00:40:31,902
+Speaker 0: Other than Marvel Snap I guess is what I played the most and then everything else.
+
+487
+00:40:32,204 --> 00:40:33,356
+Speaker 1: So I got to go kill Ganon like.
+
+488
+00:40:33,417 --> 00:40:34,367
+Speaker 1: I kind of just have it.
+
+489
+00:40:34,408 --> 00:40:34,933
+Speaker 0: I do also.
+
+490
+00:40:34,953 --> 00:40:36,953
+Speaker 0: I could go kill Ganon right now but I just like.
+
+491
+00:40:36,994 --> 00:40:38,570
+Speaker 0: I don't really want to go over there right you know.
+
+492
+00:40:39,456 --> 00:40:42,186
+Speaker 1: Yup I got a couple little quests I still want to do and then I'm going to go kill Ganon.
+
+493
+00:40:42,206 --> 00:40:43,115
+Speaker 1: Maybe I'll kill him soon.
+
+494
+00:40:43,378 --> 00:40:44,450
+Speaker 0: There were some other games.
+
+495
+00:40:44,490 --> 00:40:44,895
+Speaker 0: you know.
+
+496
+00:40:44,915 --> 00:40:51,620
+Speaker 0: the Quake 2 updated the Mario Wonder came out also but Tears of the Kingdom is just like that.
+
+497
+00:40:51,620 --> 00:40:54,834
+Speaker 0: 2023 is that game and every other game it's like.
+
+498
+00:40:54,855 --> 00:40:55,581
+Speaker 0: I also ran.
+
+499
+00:40:55,601 --> 00:40:56,993
+Speaker 0: you know some people out there are like.
+
+500
+00:40:57,297 --> 00:41:00,508
+Speaker 0: you know what about my Baldur's Gate 3's or my.
+
+501
+00:41:00,548 --> 00:41:01,398
+Speaker 0: you know whatever it's like.
+
+502
+00:41:01,439 --> 00:41:01,662
+Speaker 0: no.
+
+503
+00:41:02,026 --> 00:41:03,279
+Speaker 1: I mean well that.
+
+504
+00:41:03,299 --> 00:41:20,470
+Speaker 1: so the thing is there are games that did not come out in 2023. that loomed large for me in 2023 because Emily and I played both Disco Elysium and Night in the Woods like on the couch together and I'm increasingly enjoying doing the thing like we used to do in college where someone's playing a game on the couch and the other person's just watching.
+
+505
+00:41:20,653 --> 00:41:26,549
+Speaker 1: it's like a local local couch livestream and it's a good time.
+
+506
+00:41:27,054 --> 00:41:40,349
+Speaker 1: but both those games really stuck with me because I knew Disco Elysium was about communism and the things that I'm always mad about but Night in the Woods is about the exact same thing.
+
+507
+00:41:40,652 --> 00:41:48,630
+Speaker 1: like those two games are really about the exact same set of ideas way more than I thought.
+
+508
+00:41:48,691 --> 00:41:53,929
+Speaker 0: I played Night in the Woods and you know I haven't played Disco Elysium but it doesn't look like it's about the same thing.
+
+509
+00:41:54,050 --> 00:41:55,786
+Speaker 1: they're about the same thing.
+
+510
+00:41:55,807 --> 00:41:56,170
+Speaker 1: what was that?
+
+511
+00:41:56,331 --> 00:41:57,279
+Speaker 1: what's the union up to?
+
+512
+00:41:57,299 --> 00:41:58,509
+Speaker 1: what was the deal with the tooth?
+
+513
+00:41:59,595 --> 00:42:03,015
+Speaker 0: alright ok so tv.
+
+514
+00:42:03,096 --> 00:42:03,989
+Speaker 0: I don't watch television.
+
+515
+00:42:06,090 --> 00:42:12,650
+Speaker 1: we watch a lot of like one off shows like the new castlevania came out but I actually do.
+
+516
+00:42:12,731 --> 00:42:13,279
+Speaker 0: I gotta watch that.
+
+517
+00:42:13,299 --> 00:42:13,949
+Speaker 0: it's real good.
+
+518
+00:42:14,832 --> 00:42:19,046
+Speaker 1: it's a different kind of hyper violence but there is continued hyper violence.
+
+519
+00:42:21,594 --> 00:42:31,269
+Speaker 0: movie wise I actually saw like for some reason this year especially recently like the past few months like a fuck ton of movies I just kept going to the theater all the time right?
+
+520
+00:42:32,674 --> 00:42:34,910
+Speaker 0: that was like the Wes Anderson movie asteroid city.
+
+521
+00:42:35,375 --> 00:42:38,288
+Speaker 0: you know Wes Anderson was actually there when I went to see it.
+
+522
+00:42:39,172 --> 00:42:41,133
+Speaker 0: there was you know we saw Boy in the Heron I guess.
+
+523
+00:42:41,315 --> 00:42:42,647
+Speaker 0: did we see that this year or last year?
+
+524
+00:42:43,172 --> 00:42:45,663
+Speaker 0: that was 2023 but it came out last year.
+
+525
+00:42:45,886 --> 00:42:49,113
+Speaker 0: right there was the Barbenheimer deal which I didn't see either one.
+
+526
+00:42:49,133 --> 00:42:52,347
+Speaker 1: yeah we wanted to and then stuff came up and we didn't get to go to the theater.
+
+527
+00:42:52,408 --> 00:42:52,570
+Speaker 1: I do.
+
+528
+00:42:52,651 --> 00:42:54,009
+Speaker 1: I will watch both those movies.
+
+529
+00:42:54,110 --> 00:42:58,937
+Speaker 0: yeah there was the Mario movie which I did see because it's on Netflix.
+
+530
+00:42:58,958 --> 00:42:59,806
+Speaker 1: you and Emily have both seen it.
+
+531
+00:42:59,847 --> 00:43:01,065
+Speaker 1: I have not actually seen it yet.
+
+532
+00:43:01,950 --> 00:43:03,249
+Speaker 0: yeah that's okay.
+
+533
+00:43:04,715 --> 00:43:08,617
+Speaker 0: it was John Wick 4 which had good parts but also kind of dragged.
+
+534
+00:43:08,842 --> 00:43:16,335
+Speaker 0: yup there was the you know the probable Oscar winner the killers of the flower moon which you know.
+
+535
+00:43:17,061 --> 00:43:18,795
+Speaker 0: yeah that looks like an Oscar winning movie.
+
+536
+00:43:18,977 --> 00:43:20,188
+Speaker 0: I saw it but it's like.
+
+537
+00:43:20,935 --> 00:43:32,673
+Speaker 1: one thing though that stood out in cinema particularly animation is that you know we had Spider-Verse 2 which that was the movie that every other movie of 2023 is below the Spider-Verse like.
+
+538
+00:43:32,734 --> 00:43:42,673
+Speaker 1: I don't want to be hyperbolic but Spider-Verse 2 for a lot of reasons you know listen to our review if you want to hear us be weirdly like gushing about it it's one of the production of it.
+
+539
+00:43:42,855 --> 00:43:46,330
+Speaker 1: it's one of the better movies I have ever seen is just what I'm gonna.
+
+540
+00:43:46,391 --> 00:43:50,897
+Speaker 1: I'm not gonna go that far but it was definitely better is a pretty broad space.
+
+541
+00:43:50,917 --> 00:43:54,494
+Speaker 0: it was definitely the best movie of 2020 that came out in 2023 that I saw.
+
+542
+00:43:54,515 --> 00:43:58,877
+Speaker 1: but we've got it and we've also got that Teenage Mutant Ninja Turtles movie which is a good movie.
+
+543
+00:43:58,918 --> 00:44:11,463
+Speaker 1: it's not like as good of a movie as Spider-Verse didn't see that one but it like Spider-Verse has a radical stylized form of animation that they lean into all the way.
+
+544
+00:44:13,079 --> 00:44:18,817
+Speaker 1: we also had Arkane which is now getting its sequel which again radical style of animation lean into it all the way.
+
+545
+00:44:19,140 --> 00:44:33,282
+Speaker 1: we have entered over the course of 2023 like a new era of cinematic animation taking radical departures from historical styles and doing really fun stuff like Spider-Verse had the chromatic aberration.
+
+546
+00:44:33,343 --> 00:44:42,918
+Speaker 1: instead of blurring in the background Teenage Mutant Ninja Turtles has things that are further in the background are drawn less well like it's.
+
+547
+00:44:42,938 --> 00:44:47,184
+Speaker 1: they're sketchy like they're not drawn as well like someone drew them badly like it wasn't as good.
+
+548
+00:44:47,204 --> 00:44:48,193
+Speaker 0: save a lot of money that way.
+
+549
+00:44:48,234 --> 00:44:49,889
+Speaker 1: no but it looks great not paying the background.
+
+550
+00:44:50,395 --> 00:44:51,446
+Speaker 1: we saw the director.
+
+551
+00:44:51,486 --> 00:44:52,153
+Speaker 1: he did an interview.
+
+552
+00:44:52,174 --> 00:44:56,901
+Speaker 1: uh because we saw it at the MOMI and he talked about how hard it was to do that.
+
+553
+00:44:57,446 --> 00:44:59,949
+Speaker 1: but it takes really good artists to make bad art on purpose.
+
+554
+00:45:02,374 --> 00:45:03,969
+Speaker 0: uh but yeah Spider-Man that was the movie.
+
+555
+00:45:04,434 --> 00:45:07,188
+Speaker 0: uh however there was a movie I saw this year.
+
+556
+00:45:08,036 --> 00:45:13,008
+Speaker 0: uh that was a movie from the year 2000 which was Yee Yee by Ed Lee.
+
+557
+00:45:13,251 --> 00:45:14,079
+Speaker 1: that you you talk.
+
+558
+00:45:14,140 --> 00:45:24,421
+Speaker 0: that movie by Yee Yee by Edward Yang is maybe that is one of the best movies I've seen in my whole life right so I gotta see it but it's from the year 2000.
+
+559
+00:45:24,421 --> 00:45:28,441
+Speaker 0: I just happen to see it in late 2023.
+
+560
+00:45:28,441 --> 00:45:36,564
+Speaker 1: so in terms of like personal life I uh I did it like this was a year 2023 where I try specifically had a goal of leveling up two things in my life.
+
+561
+00:45:36,584 --> 00:45:42,811
+Speaker 1: they're not important things and there are other things I was trying to better myself or do but these are two things I specifically did.
+
+562
+00:45:42,831 --> 00:45:56,145
+Speaker 1: I wanted to ski for real and like the biggest mountain so we went out to Vail and I actually proved to myself that I'm not just shit talking I'm a fucking amazing skier like it was so easy out there.
+
+563
+00:45:56,165 --> 00:45:57,659
+Speaker 0: alright go win an Olympic medal.
+
+564
+00:45:57,699 --> 00:45:58,889
+Speaker 0: then mister amazing skier.
+
+565
+00:45:59,112 --> 00:46:00,183
+Speaker 0: I mean I'm an amazing skier.
+
+566
+00:46:00,284 --> 00:46:01,879
+Speaker 1: I'm not an amazing ski racer.
+
+567
+00:46:01,919 --> 00:46:03,859
+Speaker 1: that's a different skill dude.
+
+568
+00:46:03,899 --> 00:46:06,143
+Speaker 0: there is there Olympic skiing sports that aren't races.
+
+569
+00:46:06,184 --> 00:46:08,850
+Speaker 1: yeah well I mean tricks is not something I do.
+
+570
+00:46:08,971 --> 00:46:09,779
+Speaker 1: I like skiing.
+
+571
+00:46:09,799 --> 00:46:13,234
+Speaker 1: I like skiing trees but basically jumping.
+
+572
+00:46:13,254 --> 00:46:14,506
+Speaker 0: I spent my whole life.
+
+573
+00:46:14,546 --> 00:46:15,133
+Speaker 0: is it a trick?
+
+574
+00:46:15,396 --> 00:46:20,810
+Speaker 1: I spent a whole life skiing uh in the east coast in some of the worst conditions on earth and my whole life.
+
+575
+00:46:20,931 --> 00:46:24,970
+Speaker 1: everyone said oh yeah if you learn to ski on the east coast of America you can ski anywhere.
+
+576
+00:46:25,754 --> 00:46:27,578
+Speaker 1: and going out to Vail yeah you could.
+
+577
+00:46:27,639 --> 00:46:32,404
+Speaker 1: if you if you learn how to ski like fucking hunter mountain you can ski anywhere it was.
+
+578
+00:46:32,425 --> 00:46:32,749
+Speaker 0: why don't you?
+
+579
+00:46:32,871 --> 00:46:34,245
+Speaker 0: why don't you go to some French help?
+
+580
+00:46:34,406 --> 00:46:40,424
+Speaker 1: I wanted to and I'm going to probably uh in the next year or two like for real I'm making plans okay.
+
+581
+00:46:40,808 --> 00:46:42,080
+Speaker 1: last year though there was no snow.
+
+582
+00:46:42,100 --> 00:46:43,453
+Speaker 0: I'll go to because of French Beach.
+
+583
+00:46:43,838 --> 00:46:50,587
+Speaker 0: you can go to French Alp and I'll go to French Beach and two I because Overwatch is currently the lifestyle game.
+
+584
+00:46:50,608 --> 00:46:53,090
+Speaker 1: like the esport that I play I try to only have one at a time.
+
+585
+00:46:53,874 --> 00:46:56,121
+Speaker 1: uh though I did dip back into Counter Strike a little bit.
+
+586
+00:46:56,142 --> 00:47:15,859
+Speaker 1: I forgot how much I like Counter Strike but in 2023 I specifically tried to get good at Overwatch as in play a game and then watch the replay of the game and figure out where I fucked up then watch a video from a pro on the character I was playing to see like what they would have done differently.
+
+587
+00:47:16,021 --> 00:47:22,849
+Speaker 1: and I've been like iterating and taking notes and trying to follow a cycle of practice and training and you know what it worked.
+
+588
+00:47:23,152 --> 00:47:27,756
+Speaker 1: I got way better at Overwatch like way better way faster than I think.
+
+589
+00:47:28,100 --> 00:47:29,262
+Speaker 0: practicing at things works.
+
+590
+00:47:29,282 --> 00:47:29,448
+Speaker 0: people.
+
+591
+00:47:30,873 --> 00:47:31,961
+Speaker 1: I should practice things more.
+
+592
+00:47:31,981 --> 00:47:32,767
+Speaker 1: I just don't have enough time.
+
+593
+00:47:34,439 --> 00:47:34,705
+Speaker 0: you can.
+
+594
+00:47:34,746 --> 00:47:38,402
+Speaker 0: only you gotta you know the people who are the best at things in the world.
+
+595
+00:47:38,927 --> 00:47:42,650
+Speaker 0: it's because they do mostly one thing we're doing an NHL player.
+
+596
+00:47:43,437 --> 00:47:46,726
+Speaker 0: we're doing too many fucking things so we're not that good at any of them.
+
+597
+00:47:48,075 --> 00:47:48,664
+Speaker 1: that is his.
+
+598
+00:47:48,725 --> 00:47:49,727
+Speaker 1: that is he is a goalie.
+
+599
+00:47:52,157 --> 00:47:53,430
+Speaker 0: get hit with puck on purpose.
+
+600
+00:47:53,492 --> 00:47:55,568
+Speaker 1: that's it good at being hit with puck.
+
+601
+00:47:57,194 --> 00:48:07,090
+Speaker 0: we put up the new Geek Nights website which is heavily flawed but better than the old website which is why I decided to put it up despite it still being kind of busted.
+
+602
+00:48:08,430 --> 00:48:11,194
+Speaker 0: and you know no one's paying me to make it less busted.
+
+603
+00:48:11,254 --> 00:48:13,153
+Speaker 0: so I'm taking my own pace at doing that.
+
+604
+00:48:13,759 --> 00:48:14,750
+Speaker 0: you can help if you want.
+
+605
+00:48:14,931 --> 00:48:16,749
+Speaker 0: you can make some pull requests but no one has.
+
+606
+00:48:17,115 --> 00:48:20,185
+Speaker 1: so yeah but it's fun because partly you know what.
+
+607
+00:48:20,205 --> 00:48:23,051
+Speaker 1: the website doesn't matter that much because you know Geek Nights is a podcast.
+
+608
+00:48:23,072 --> 00:48:24,526
+Speaker 0: people don't use websites right.
+
+609
+00:48:24,566 --> 00:48:29,645
+Speaker 0: the website is mostly an RSS feed generator and that functionality is incredible and perfect.
+
+610
+00:48:29,666 --> 00:48:42,750
+Speaker 1: so I gotta say the backend the old site worked but it was showing it's age and it was real easy to click a sequence of things that would break the episode and cause a problem.
+
+611
+00:48:43,154 --> 00:48:44,708
+Speaker 1: the new website just works.
+
+612
+00:48:45,858 --> 00:48:47,088
+Speaker 1: it saves me a lot of hassle.
+
+613
+00:48:48,932 --> 00:49:00,023
+Speaker 0: let's see in the tabletop land most of the games I'm playing these days you know because I really don't play a lot of table dog games except at conventions and it sucks because I want to and I don't have space to store any.
+
+614
+00:49:00,043 --> 00:49:00,670
+Speaker 0: oh yeah I definitely want to.
+
+615
+00:49:00,710 --> 00:49:02,284
+Speaker 1: I got rid of a bunch of tabletop games.
+
+616
+00:49:02,365 --> 00:49:07,900
+Speaker 1: my new rule is they all have to fit in the closet and if there's a game that does not fit in the closet.
+
+617
+00:49:07,920 --> 00:49:10,309
+Speaker 1: I have to get rid of a game so all games fit in the closet.
+
+618
+00:49:10,733 --> 00:49:14,445
+Speaker 0: oh yeah if it doesn't fit on the shelf we're not getting it but it's like.
+
+619
+00:49:14,466 --> 00:49:22,689
+Speaker 0: yeah the Spiel des Jahre winner was Dorf Romantic which is based on that video game where you know build the little like village or whatever and I didn't play it.
+
+620
+00:49:22,709 --> 00:49:23,618
+Speaker 0: so I don't know if it's any good.
+
+621
+00:49:23,800 --> 00:49:24,386
+Speaker 0: I think it's partly.
+
+622
+00:49:24,406 --> 00:49:28,789
+Speaker 1: we had three years of being locked inside and not going out and meeting people often due to the plague.
+
+623
+00:49:30,017 --> 00:49:50,770
+Speaker 1: so I guess not a resolution but I intend to in 2024 once we get past ski season to try aggressively to get together in person casually whenever there's a good opportunity and play board games specific board games that I own that I want to play more like Maria.
+
+624
+00:49:51,658 --> 00:49:53,070
+Speaker 0: well good luck and time of crisis.
+
+625
+00:49:53,874 --> 00:49:55,674
+Speaker 0: you know I was considering playing.
+
+626
+00:49:55,856 --> 00:50:01,492
+Speaker 0: you know at least trying out that Disney Lorkana game but they fucked that the fuck up.
+
+627
+00:50:01,533 --> 00:50:04,585
+Speaker 0: we talked about that I guess in a previous episode so now I'm not even gonna try it.
+
+628
+00:50:05,776 --> 00:50:08,320
+Speaker 1: I think our interest just kind of add packs unplugged.
+
+629
+00:50:08,381 --> 00:50:10,522
+Speaker 1: our interest just suddenly fell to the bottom and hit zero.
+
+630
+00:50:10,643 --> 00:50:11,270
+Speaker 0: I went from.
+
+631
+00:50:11,532 --> 00:50:12,078
+Speaker 0: I want to get.
+
+632
+00:50:12,321 --> 00:50:18,644
+Speaker 0: I went from a level where I was like I definitely want to get starter packs at that game and try it and see what it's about to.
+
+633
+00:50:18,886 --> 00:50:22,088
+Speaker 0: I don't give a fuck I'm not even gonna look at it anymore.
+
+634
+00:50:24,174 --> 00:50:25,797
+Speaker 0: book wise we read a bunch of books.
+
+635
+00:50:25,857 --> 00:50:28,081
+Speaker 0: the book club was humming since we finished Tale of Genji.
+
+636
+00:50:28,122 --> 00:50:36,161
+Speaker 0: we did several book club books but books that came out in 2023. it's pretty much just the Iliad translation.
+
+637
+00:50:36,262 --> 00:50:37,939
+Speaker 0: I don't think the other books we read were.
+
+638
+00:50:38,263 --> 00:50:38,728
+Speaker 1: I don't think so.
+
+639
+00:50:39,092 --> 00:50:42,489
+Speaker 1: well one of the murderbot books came out in 2023 maybe two that's true.
+
+640
+00:50:42,973 --> 00:50:44,828
+Speaker 0: did the sequel to the city we became?
+
+641
+00:50:44,848 --> 00:50:46,039
+Speaker 0: was that a 2023 book?
+
+642
+00:50:46,140 --> 00:50:47,536
+Speaker 1: pretty sure I haven't read it yet.
+
+643
+00:50:47,577 --> 00:50:48,490
+Speaker 1: it's sitting in my Kindle.
+
+644
+00:50:49,599 --> 00:50:54,185
+Speaker 0: I read part of it so maybe I think that's that.
+
+645
+00:50:56,110 --> 00:50:57,149
+Speaker 0: comic books.
+
+646
+00:50:58,023 --> 00:51:00,810
+Speaker 0: there's still Asadora by Urasawa.
+
+647
+00:51:00,971 --> 00:51:01,880
+Speaker 0: that's coming out.
+
+648
+00:51:01,981 --> 00:51:02,889
+Speaker 0: I've been reading that.
+
+649
+00:51:03,739 --> 00:51:06,589
+Speaker 1: I actually have not been reading a lot of comics.
+
+650
+00:51:07,094 --> 00:51:09,643
+Speaker 1: I have been watching a lot of anime and animation.
+
+651
+00:51:09,704 --> 00:51:12,205
+Speaker 0: however there was the Chainsaw Man.
+
+652
+00:51:13,011 --> 00:51:13,639
+Speaker 0: we talked about how.
+
+653
+00:51:13,680 --> 00:51:14,309
+Speaker 0: there's more of that.
+
+654
+00:51:14,552 --> 00:51:15,263
+Speaker 0: that's out now.
+
+655
+00:51:18,144 --> 00:51:20,617
+Speaker 1: yep I did a few minor personal accomplishments.
+
+656
+00:51:20,677 --> 00:51:27,930
+Speaker 1: like I always said don't run marathons because they're bad for you and I am never gonna run one again like I made that hard decision.
+
+657
+00:51:28,092 --> 00:51:32,760
+Speaker 0: alright so everyone clip clip it when he runs the marathon again we're gonna play the clip.
+
+658
+00:51:33,063 --> 00:51:40,969
+Speaker 1: on one hand despite like not training too hard for it and just relying on my natural athleticism like I got a great time like and it was.
+
+659
+00:51:41,655 --> 00:51:45,009
+Speaker 1: it was really painful at the end because I had injured myself.
+
+660
+00:51:45,372 --> 00:51:50,448
+Speaker 1: like it's hard to not injure yourself running that far but I ran through the pain because I wanted to finish.
+
+661
+00:51:51,493 --> 00:52:05,329
+Speaker 1: but all the pain aside in the last three miles it was really really easy like it just was not a challenge to do which I think just I feel really good about my level of physical fitness as a result.
+
+662
+00:52:05,834 --> 00:52:17,029
+Speaker 1: but the five weeks of recovering from all the injuries I accrued running it it was I expected it would hurt me but it caused a surprising number of injuries that took a long time to heal.
+
+663
+00:52:17,574 --> 00:52:22,649
+Speaker 1: that running even like 13 to 18 miles never happened to me in my life.
+
+664
+00:52:23,093 --> 00:52:33,832
+Speaker 1: just adding those six or so more miles beyond that point was like flipping a switch from that was difficult and rewarding to that caused damage.
+
+665
+00:52:36,079 --> 00:52:37,633
+Speaker 1: but it was a good experience and I don't regret it.
+
+666
+00:52:37,653 --> 00:52:38,582
+Speaker 1: I'm glad I did it once.
+
+667
+00:52:39,208 --> 00:52:42,299
+Speaker 1: another thing like skiing I was able to prove yeah I could do that.
+
+668
+00:52:42,986 --> 00:52:44,663
+Speaker 1: instead of being the person who says I could do that.
+
+669
+00:52:44,703 --> 00:52:45,432
+Speaker 1: I just don't want to.
+
+670
+00:52:45,715 --> 00:52:47,088
+Speaker 1: I can say I could do that.
+
+671
+00:52:47,189 --> 00:52:47,774
+Speaker 1: I did it once.
+
+672
+00:52:47,834 --> 00:52:48,743
+Speaker 1: I'm not going to do it again.
+
+673
+00:52:48,824 --> 00:52:49,935
+Speaker 1: just like when I made that AMV
+
+674
+00:52:51,725 --> 00:53:07,945
+Speaker 0: I biked a lot less in 2023 than I wanted to mostly because I was so busy with things happening all these events and going to things and all that kind of stuff and also the horrible smogs that came from the fire yep
+
+675
+00:53:08,389 --> 00:53:09,780
+Speaker 1: the smogs and the fire.
+
+676
+00:53:10,064 --> 00:53:26,373
+Speaker 1: and just generally like 2023 was the year where in my personal anecdotal experience the radical weather changes started to be noticeable and unignorable from climate change like things were different compared to previous years.
+
+677
+00:53:28,047 --> 00:53:38,692
+Speaker 0: yeah but so in 2024 though I did just in 2023 I turned off temporarily the virtual bike MMO but I just turned it right back on just now.
+
+678
+00:53:38,915 --> 00:53:45,678
+Speaker 1: so yep now I'm already planning bike trips for this year because I also did not bike enough because I was doing other things.
+
+679
+00:53:47,964 --> 00:54:00,992
+Speaker 1: we went to the beach yep we went to east west unplugged yep I went to LA a couple times like I'm doing business travel again like a lot of normal life stuff from before COVID came back.
+
+680
+00:54:02,782 --> 00:54:12,526
+Speaker 0: uh sports wise the Rangers lost in the first round of the playoffs and then they were super good regular season and now they're starting to fade a little bit.
+
+681
+00:54:12,587 --> 00:54:14,277
+Speaker 0: but it's 2024 now so that doesn't count.
+
+682
+00:54:17,536 --> 00:54:22,809
+Speaker 0: but yeah I think a lot of sports in general in 2023 and even now like going into now.
+
+683
+00:54:23,334 --> 00:54:27,069
+Speaker 0: there's just like a big upheaval I think in a lot of the different sports.
+
+684
+00:54:27,130 --> 00:54:30,177
+Speaker 0: right college football is having the biggest upheaval of all.
+
+685
+00:54:30,762 --> 00:54:34,620
+Speaker 0: it's like being completely reorganized by television people for money reasons.
+
+686
+00:54:34,640 --> 00:54:37,792
+Speaker 1: yep baseball rule changes are speeding up the game.
+
+687
+00:54:38,054 --> 00:54:38,699
+Speaker 1: is what we saw.
+
+688
+00:54:40,126 --> 00:54:42,340
+Speaker 0: yep um there's just.
+
+689
+00:54:42,441 --> 00:54:43,874
+Speaker 0: you know there's just like huge.
+
+690
+00:54:44,157 --> 00:54:44,742
+Speaker 0: it's like.
+
+691
+00:54:44,803 --> 00:54:45,751
+Speaker 0: you know it's like.
+
+692
+00:54:45,893 --> 00:54:55,220
+Speaker 0: I think 2024 will actually be quiet compared to uh you know 2023 in terms of all the crazy sports biz that went down everywhere.
+
+693
+00:54:56,501 --> 00:55:03,752
+Speaker 0: you know I mean I guess the PWHL was announced in 2023. right but now it's 2024. it started right.
+
+694
+00:55:03,792 --> 00:55:06,679
+Speaker 1: it's happening right there and it's great like co-workers are talking about it.
+
+695
+00:55:07,365 --> 00:55:14,666
+Speaker 1: uh like I see it around like I'm watching the games with the same pre-game excitement and enthusiasm that I watch the NHL.
+
+696
+00:55:17,495 --> 00:55:23,025
+Speaker 1: uh one thing that I did that was that yeah we both didn't continued which us.
+
+697
+00:55:23,429 --> 00:55:25,611
+Speaker 0: yeah we're still here still doing still here.
+
+698
+00:55:25,631 --> 00:55:27,045
+Speaker 0: I did actually.
+
+699
+00:55:27,106 --> 00:55:35,308
+Speaker 1: finally you know I think anyway I have a lot of relatives I have not seen since COVID and this was the year like went back out to Michigan.
+
+700
+00:55:35,348 --> 00:55:40,034
+Speaker 1: I saw like the aunts and uncles and cousins and all the people I haven't seen in three years.
+
+701
+00:55:40,175 --> 00:55:44,297
+Speaker 1: it was really good to reconnect with everybody and I went to Chicago for exactly one day.
+
+702
+00:55:44,357 --> 00:55:46,239
+Speaker 0: yeah you did and you'd never been there before.
+
+703
+00:55:46,942 --> 00:55:47,669
+Speaker 0: nope I saw.
+
+704
+00:55:47,710 --> 00:55:49,246
+Speaker 0: I saw one place you know.
+
+705
+00:55:49,266 --> 00:55:53,360
+Speaker 0: I saw a hotel and and a wedding venue and then I went and an airport.
+
+706
+00:55:53,584 --> 00:55:54,338
+Speaker 1: that's what I saw.
+
+707
+00:55:55,864 --> 00:55:58,995
+Speaker 0: I saw that I oh I saw that their subway that I took to get to the airport.
+
+708
+00:55:59,015 --> 00:56:04,227
+Speaker 1: yep I also got my mom because my mom so she had not been to New York City since like the late 70s.
+
+709
+00:56:04,247 --> 00:56:07,097
+Speaker 0: so well that's a completely different place.
+
+710
+00:56:07,117 --> 00:56:11,018
+Speaker 1: yeah so we brought her to New York and it was a real good time.
+
+711
+00:56:11,645 --> 00:56:13,602
+Speaker 1: New York City is kind of a like.
+
+712
+00:56:13,643 --> 00:56:14,046
+Speaker 1: it's easy.
+
+713
+00:56:14,067 --> 00:56:19,884
+Speaker 1: it's easy if you've lived here for a long enough to just kind of get used to it but I almost experienced it all.
+
+714
+00:56:19,925 --> 00:56:21,400
+Speaker 0: if I get used to it it's time to leave.
+
+715
+00:56:21,561 --> 00:56:22,430
+Speaker 0: I think that's well.
+
+716
+00:56:22,612 --> 00:56:23,905
+Speaker 1: there's some things you never get used to.
+
+717
+00:56:23,945 --> 00:56:30,316
+Speaker 1: like any time I have an excuse to walk into Grand Central just kind of pause and look around at the grandeur of that place.
+
+718
+00:56:31,643 --> 00:56:32,310
+Speaker 0: I'm paying for this.
+
+719
+00:56:32,330 --> 00:56:39,063
+Speaker 0: yeah piece of this is mine kind of uh.
+
+720
+00:56:39,288 --> 00:56:41,916
+Speaker 0: and then what else happened in 2020 actually?
+
+721
+00:56:41,977 --> 00:56:42,845
+Speaker 1: so our bunny Moogie.
+
+722
+00:56:42,865 --> 00:56:49,390
+Speaker 1: you know he is he is 13 years old which that's that's well above like.
+
+723
+00:56:49,430 --> 00:56:49,895
+Speaker 0: yeah like.
+
+724
+00:56:49,915 --> 00:56:56,016
+Speaker 1: you gotta understand if you don't know about rabbits out in the wild like in the wild a one year is about what a rabbit gets.
+
+725
+00:56:56,076 --> 00:56:57,610
+Speaker 1: two years is amazing.
+
+726
+00:56:58,476 --> 00:57:06,669
+Speaker 1: uh in captivity like eight to ten years is a very elderly rabbit who is very well cared for cause there isn't gonna be like some predator eating it yeah.
+
+727
+00:57:07,331 --> 00:57:11,915
+Speaker 1: but eight to ten years like a ten year old rabbit is already like amazing like all.
+
+728
+00:57:11,955 --> 00:57:15,170
+Speaker 1: right you you're like an 80 year old man like you had a good run.
+
+729
+00:57:15,271 --> 00:57:17,289
+Speaker 0: this is like a hundred and something year old man.
+
+730
+00:57:17,470 --> 00:57:21,410
+Speaker 1: Moogie is old to the point that it is noteworthy and phenomenal.
+
+731
+00:57:21,974 --> 00:57:23,103
+Speaker 0: but what's the?
+
+732
+00:57:23,144 --> 00:57:23,870
+Speaker 0: what's the oldest?
+
+733
+00:57:24,496 --> 00:57:25,224
+Speaker 1: I don't actually know.
+
+734
+00:57:25,244 --> 00:57:26,376
+Speaker 0: could he win the competition?
+
+735
+00:57:26,396 --> 00:57:34,757
+Speaker 1: the Guinness book oldest oldest bun of that species oldest rabbit the oldest rabbit to ever be recorded lived 18 years.
+
+736
+00:57:35,263 --> 00:57:36,395
+Speaker 0: nah he's got a ways to go.
+
+737
+00:57:36,497 --> 00:57:38,356
+Speaker 0: I don't know if he's gonna make it the next.
+
+738
+00:57:38,477 --> 00:57:44,436
+Speaker 1: oldest one is like 14 and a half 15 so you could get second place.
+
+739
+00:57:44,457 --> 00:57:45,629
+Speaker 0: yeah that's doable.
+
+740
+00:57:45,750 --> 00:57:47,286
+Speaker 1: looks like 15 something.
+
+741
+00:57:47,286 --> 00:57:50,962
+Speaker 1: 15 and change is the second longest a rabbit has ever been verified.
+
+742
+00:57:51,043 --> 00:57:53,227
+Speaker 0: it's a little tough but it's possible.
+
+743
+00:57:53,248 --> 00:58:01,365
+Speaker 1: but Mookie's been going like a champ like he's where we took him to the vet the other day and even the vet is like he's 13. what the fuck like.
+
+744
+00:58:01,426 --> 00:58:01,973
+Speaker 1: he's just.
+
+745
+00:58:02,013 --> 00:58:07,587
+Speaker 1: he's way too active and healthy looking and acting and his blood works great and like.
+
+746
+00:58:08,173 --> 00:58:09,510
+Speaker 1: just think of like our good little guy.
+
+747
+00:58:09,732 --> 00:58:10,155
+Speaker 1: I love him.
+
+748
+00:58:10,317 --> 00:58:19,410
+Speaker 0: listen you know you can live a long life if you don't have any stress or worries and you just get food for free and you do whatever the fuck you want all day.
+
+749
+00:58:19,551 --> 00:58:20,157
+Speaker 0: yeah you know what.
+
+750
+00:58:20,278 --> 00:58:22,721
+Speaker 0: if that was my life I would live a long a lot longer too.
+
+751
+00:58:22,741 --> 00:58:29,368
+Speaker 1: we attribute his longevity to clean living and good exercise but it's no worthy because the rabbit Emily had.
+
+752
+00:58:29,388 --> 00:58:32,441
+Speaker 0: someone did all my cooking for me so I did not do a damn thing.
+
+753
+00:58:32,482 --> 00:58:39,108
+Speaker 1: so the rabbit Emily had when she grew up Frederick also lived 14 years.
+
+754
+00:58:39,755 --> 00:58:42,720
+Speaker 1: so there's a data point of rabbits around.
+
+755
+00:58:42,862 --> 00:58:45,709
+Speaker 1: Emily live very long on average.
+
+756
+00:58:46,552 --> 00:58:51,070
+Speaker 0: that's probably simply explained by the fact that you know how to take care of them properly.
+
+757
+00:58:52,114 --> 00:58:54,740
+Speaker 0: but even people who take care of the rabbit other people might not do so.
+
+758
+00:58:54,760 --> 00:59:04,848
+Speaker 1: but even people who take care of a rabbit as best they can like when you hit 10 like a human when a human hits 80 like all bets are off like a gentle breeze could just take you out one day like there's nothing you can do about that.
+
+759
+00:59:09,404 --> 00:59:10,402
+Speaker 0: yeah what else 2023?
+
+760
+00:59:10,402 --> 00:59:14,371
+Speaker 0: I guess the last thing that happened in 2023 is I bought the new computer.
+
+761
+00:59:14,391 --> 00:59:17,036
+Speaker 0: oh yeah I bought this Macbook right.
+
+762
+00:59:17,056 --> 00:59:18,235
+Speaker 0: I haven't had a Mac since.
+
+763
+00:59:19,965 --> 00:59:26,692
+Speaker 0: well I've actually never owned other than these old ancient vintage ones right I never actually used one as my primary computer.
+
+764
+00:59:26,713 --> 00:59:30,169
+Speaker 0: I used ones in school and I had it the job I had.
+
+765
+00:59:30,209 --> 00:59:30,512
+Speaker 0: in 2008-ish.
+
+766
+00:59:31,824 --> 00:59:37,904
+Speaker 0: I started out with one but I hated it so I switched it out for something else and I didn't go back since.
+
+767
+00:59:38,631 --> 00:59:42,496
+Speaker 0: but you know they came out with the M3 and I was just like.
+
+768
+00:59:42,536 --> 00:59:47,411
+Speaker 0: well you know let's try this and it's like.
+
+769
+00:59:47,451 --> 00:59:50,819
+Speaker 0: you know what the only real problem with it is.
+
+770
+00:59:51,470 --> 00:59:58,073
+Speaker 0: basically the software doesn't run because it's running Mac OS and not an x86 CPU.
+
+771
+00:59:58,861 --> 00:59:59,931
+Speaker 0: but you know what.
+
+772
+00:59:59,951 --> 01:00:08,636
+Speaker 0: I still have an x86 computer with running Windows under my desk so I can run all the software by having both.
+
+773
+01:00:08,697 --> 01:00:13,442
+Speaker 0: in fact if you only have the Windows PC well there's software you can't run.
+
+774
+01:00:13,503 --> 01:00:15,040
+Speaker 0: that's Mac OS only right.
+
+775
+01:00:15,403 --> 01:00:17,140
+Speaker 0: so now it's like I can afford.
+
+776
+01:00:17,321 --> 01:00:19,239
+Speaker 0: I'm a computer person that's my main thing.
+
+777
+01:00:19,744 --> 01:00:22,520
+Speaker 0: so therefore having two computers is not ridiculous right.
+
+778
+01:00:23,282 --> 01:00:34,292
+Speaker 0: and as much as I have compiled a list of Mac gripes which we'll probably go through on some future episodes because it is still expanding so there is not entirely a happy situation right.
+
+779
+01:00:34,898 --> 01:00:58,279
+Speaker 0: but the overall picture is that other than the softwares that do not run natively on the Mac mostly games for the things I do most with a computer recording a Geek Nights chatting on a Discord making a website browsing a website that sort of stuff it's just better at those things overall in the grand scheme.
+
+780
+01:00:59,413 --> 01:01:10,940
+Speaker 1: so actually you know 2023 was the year where I hit the end of my computer because my workstation I overbuilt it I spent like yours is like a year older than the one that's under my desk.
+
+781
+01:01:11,000 --> 01:01:25,399
+Speaker 1: yeah I built this computer at the end of 2015. the computer under my desk I think is from 2016 or 2018 I forget but when I built this computer I spent over $4000 on it because my goal was to run it.
+
+782
+01:01:25,964 --> 01:01:28,343
+Speaker 0: mine is like $2000 2018.
+
+783
+01:01:28,343 --> 01:01:30,480
+Speaker 1: I ran this as long as possible.
+
+784
+01:01:30,561 --> 01:01:42,440
+Speaker 1: the only thing that ever got upgraded was the video card to a 1080. otherwise it's just as is and I have only in a late 2023 encountered a bottleneck that was unreasonable.
+
+785
+01:01:42,946 --> 01:01:52,810
+Speaker 1: and the bottleneck was Adobe Lightroom maxes out my extremely old Intel CPU all cores at 100% and it's struggling.
+
+786
+01:01:56,859 --> 01:02:03,040
+Speaker 0: but yeah 2023. basically you know that's what happened in 2023 and 2024 is looking bad.
+
+787
+01:02:04,333 --> 01:02:07,288
+Speaker 0: we don't like 2024. you want to get this one over with?
+
+788
+01:02:08,632 --> 01:02:10,485
+Speaker 1: the main thing I predict we can predict.
+
+789
+01:02:10,566 --> 01:02:13,030
+Speaker 1: ok I do predict Joe Biden will be the president.
+
+790
+01:02:13,050 --> 01:02:20,408
+Speaker 1: I hope so considering that Trump has said out loud he's going to Hitler directly.
+
+791
+01:02:22,178 --> 01:02:22,849
+Speaker 0: I sure hope so.
+
+792
+01:02:23,894 --> 01:02:35,710
+Speaker 1: I do think I do honestly think we're going to back up from this and I think the reason is solely that even if the rules of the game are all broken we got the electoral college and everything else.
+
+793
+01:02:36,498 --> 01:02:54,307
+Speaker 1: the fact that the raw popular vote the actual humans are so worried by the fact that the polling among the young people is not so great the fact that young men in America not just America but in Europe too are starting to turn pretty hard.
+
+794
+01:02:54,367 --> 01:03:04,769
+Speaker 1: right is a very worrying trend but that's also a demographic that never shows up to vote so I don't think they'll impact 2024 negatively but that's a big problem for the future.
+
+795
+01:03:05,714 --> 01:03:08,350
+Speaker 0: well anyway we'll see what happens.
+
+796
+01:03:08,533 --> 01:03:19,580
+Speaker 1: I think machine learning someone is going to release a piece of media that is made by machine learning that passes the sniff test of this definitely was made by humans.
+
+797
+01:03:19,620 --> 01:03:22,450
+Speaker 1: it's too good to have been made by an AI and that's going to.
+
+798
+01:03:22,510 --> 01:03:24,510
+Speaker 0: there will definitely be several.
+
+799
+01:03:24,631 --> 01:03:33,824
+Speaker 0: there will be several news stories involving machine learning and things that you know basically shake people right and be like ah shit this is devastating right?
+
+800
+01:03:33,885 --> 01:03:41,115
+Speaker 0: like the artists are already being devastated they'll be devastated again and there will be other devastations in other arenas.
+
+801
+01:03:41,499 --> 01:03:46,815
+Speaker 1: yup but like whatever you think is going to be a devastation I'll bid by an order of magnitude.
+
+802
+01:03:46,875 --> 01:03:55,268
+Speaker 1: this is the end of 2023. in my professional experience was the very tip of a hockey stick curve.
+
+803
+01:03:57,274 --> 01:04:02,145
+Speaker 0: there is the mega lawsuit of New York Times versus chat.
+
+804
+01:04:02,186 --> 01:04:11,500
+Speaker 0: GPT I think is going to decide a lot but it's only going to decide it in the United States also.
+
+805
+01:04:11,581 --> 01:04:30,894
+Speaker 1: I think it'll be moot because the way around all the legal challenges to machine learning will be for people to buy up rights to data legitimately probably by exploiting people who are desperate to sell their data and have money to live.
+
+806
+01:04:30,915 --> 01:04:34,410
+Speaker 1: they're going to buy up old IP buy up old data buy up old works.
+
+807
+01:04:34,692 --> 01:04:39,368
+Speaker 1: they're going to start training things from these mega data sets that they can accrue with their infinite capital.
+
+808
+01:04:40,937 --> 01:04:54,914
+Speaker 0: I think that in general that you look at the problems we have these days of like counterfeiting of various goods and services it's like it's going to be a tough time for anyone who is doing intellectual labor.
+
+809
+01:04:55,156 --> 01:05:07,359
+Speaker 0: if the people who do the physical production labor of things and the actual selling and run stores can just replace you with an AI to generate it's like oh we want to sell a board game.
+
+810
+01:05:07,601 --> 01:05:10,066
+Speaker 0: well we'll just tell this AI to make a new board game and we're the one.
+
+811
+01:05:10,107 --> 01:05:10,693
+Speaker 0: we can just print it.
+
+812
+01:05:10,733 --> 01:05:13,055
+Speaker 0: we don't got to draw any art we don't got to design any rules.
+
+813
+01:05:13,278 --> 01:05:13,944
+Speaker 0: we're the printer.
+
+814
+01:05:13,964 --> 01:05:15,944
+Speaker 0: no one can replace us right.
+
+815
+01:05:16,388 --> 01:05:18,328
+Speaker 0: and what are you going to do about it?
+
+816
+01:05:18,773 --> 01:05:23,943
+Speaker 0: and the people who generate who think for a living and create for a living or for fun?
+
+817
+01:05:26,240 --> 01:05:36,530
+Speaker 0: it's going to be tough times because several years worth of human creation is basically on a computer and can be mined repeatedly.
+
+818
+01:05:38,223 --> 01:05:46,484
+Speaker 1: the end yup I think Twitter will be forced to cease operations in by the end of 2024.
+
+819
+01:05:46,484 --> 01:05:48,440
+Speaker 0: oh yeah 2023 is the year that Twitter died.
+
+820
+01:05:48,682 --> 01:05:50,540
+Speaker 0: yup the course is running around.
+
+821
+01:05:50,863 --> 01:06:05,994
+Speaker 0: I stopped using it when they made TweetDeck not free because TweetDeck was the method by which I was able to see Twitter in the way I wanted to see it which is tweets from people I follow and no one else and no retweets because that's a tweet from someone
+
+822
+01:06:06,075 --> 01:06:07,503
+Speaker 1: else I follow and also
+
+823
+01:06:07,625 --> 01:06:07,928
+Speaker 0: no ads
+
+824
+01:06:09,141 --> 01:06:10,072
+Speaker 1: and when TweetDeck was gone
+
+825
+01:06:10,801 --> 01:06:13,096
+Speaker 0: it's like I just stopped going the end, deleted it.
+
+826
+01:06:13,821 --> 01:06:16,365
+Speaker 1: yup and the thing is I didn't go anywhere.
+
+827
+01:06:16,446 --> 01:06:24,769
+Speaker 1: like I used the Fediverse and a bunch of things to read content and subscribe to stuff but I didn't migrate from Twitter to another platform.
+
+828
+01:06:24,951 --> 01:06:33,459
+Speaker 1: I just walked away from platforms and took a hard look at my media landscape and am continuing to evolve how I engage with social media or media.
+
+829
+01:06:34,680 --> 01:06:39,419
+Speaker 0: I'm still slowly actually progressing on a new personal web presence.
+
+830
+01:06:40,625 --> 01:06:41,640
+Speaker 0: it's taking me a long time.
+
+831
+01:06:41,681 --> 01:06:42,899
+Speaker 0: you saw along the Geek Nights website.
+
+832
+01:06:43,928 --> 01:06:54,019
+Speaker 1: I started strong with my whole cluster of the microblog and my own tweets but I didn't go beyond that first step yet, I just did the earliest experiments.
+
+833
+01:06:54,922 --> 01:07:03,639
+Speaker 0: I'm trying to make something that will last the rest of my life as long as the web still exists and maybe even longer than that and it's like.
+
+834
+01:07:04,045 --> 01:07:04,899
+Speaker 0: am I missing out?
+
+835
+01:07:06,103 --> 01:07:07,919
+Speaker 0: it's not urgent in any kind of way.
+
+836
+01:07:09,073 --> 01:07:20,878
+Speaker 1: cause honestly I'm replacing the time I used to spend reading Twitter with reading articles on specific websites where I went to the URL on purpose reading books, playing video games hanging out with people.
+
+837
+01:07:22,345 --> 01:07:39,576
+Speaker 0: it's like, I tell people that people don't listen and it's like alright, I see where you're coming from but it's like, if there's something you enjoy and you're spending a lot of time on it and you legitimately like it, alright try, like.
+
+838
+01:07:39,596 --> 01:07:41,420
+Speaker 0: let's say it's an app on your phone, like a social.
+
+839
+01:07:41,642 --> 01:07:47,438
+Speaker 0: let's say you're an Instagram flipper or something like that, right try, just fucking delete it.
+
+840
+01:07:47,822 --> 01:08:12,080
+Speaker 0: right, just delete it and like, maybe set a reminder on your calendar for like a week right, or a few, even just a couple days, and that calendar that calendar reminder could be like, reinstall Instagram, right or decide if you want to reinstall Instagram, and see what happens over the course of those few days, right and it's like, you might be enjoying it now.
+
+841
+01:08:12,403 --> 01:08:20,975
+Speaker 0: you love it, it's like, that's not wrong, right you may find that if you delete it and in a few days, be like did I miss it?
+
+842
+01:08:22,264 --> 01:08:37,359
+Speaker 0: and I have found personally at least that every time I've just you know, it's hard to, you know there's evidence of this, like studies that show like, willpower will not help you change your behavior, right changing your environment is how you can change your behavior.
+
+843
+01:08:37,880 --> 01:08:42,279
+Speaker 0: so, by deleting an app off the homepage of my phone, I'm changing the environment.
+
+844
+01:08:42,684 --> 01:08:44,319
+Speaker 0: it's like, I'm gonna stop using that app.
+
+845
+01:08:44,401 --> 01:08:56,937
+Speaker 0: and I've found that every time I deleted apps that took a lot of my time and that even if I was enjoying them and I didn't want to delete them that I quickly forgot about them and my life was no worse.
+
+846
+01:08:58,703 --> 01:09:00,059
+Speaker 0: it's like, try it.
+
+847
+01:09:00,406 --> 01:09:13,198
+Speaker 1: I'm just saying of course, even when I was using Twitter like, a lot of the people are still using it, their main argument is that it's how they monetize something which, that's all gonna fall apart like, that's a real risky space to me.
+
+848
+01:09:13,582 --> 01:09:32,580
+Speaker 1: but too, even before even when Twitter was mostly fine and I did use it regularly I've had a filter to never see any tweets that had a GoFundMe or a Patreon in them, because I don't want to see people promoting their stuff, I just wanted to socialize even people I followed who did both.
+
+849
+01:09:32,701 --> 01:09:39,897
+Speaker 1: I didn't want to see their products I only wanted to see their earnest conversations and the trouble.
+
+850
+01:09:39,917 --> 01:09:52,058
+Speaker 0: now that's a whole show episode, but the point is 2023 was the year that Twitter died, it went from 2006, 7, 8-ish I think, through 2023. so that's a good long run.
+
+851
+01:09:52,058 --> 01:09:52,866
+Speaker 0: 16, 17, almost made 20 years.
+
+852
+01:09:54,905 --> 01:09:57,800
+Speaker 0: Geek Nights started before Twitter and it lasted longer than Twitter.
+
+853
+01:09:58,143 --> 01:09:59,780
+Speaker 1: Geek Nights has survived.
+
+854
+01:09:59,780 --> 01:10:03,280
+Speaker 1: Geek Nights is like the Eastern Roman Empire.
+
+855
+01:10:03,791 --> 01:10:05,259
+Speaker 1: it's just somehow still there.
+
+856
+01:10:05,642 --> 01:10:11,358
+Speaker 1: the rest of the world keeps rising and falling around it and no one pays attention to wait, how long has Rome been sitting there?
+
+857
+01:10:12,343 --> 01:10:20,596
+Speaker 0: the listener pointed out to me, that sometime in, I guess 2027 8-ish, something like that right?
+
+858
+01:10:21,941 --> 01:10:28,799
+Speaker 0: we will have been making Geek Nights for more than half of the time that we have been alive.
+
+859
+01:10:31,074 --> 01:10:41,556
+Speaker 1: I, you know the funny thing about that is the time I ran the RIT Anime Club feels like it was a really, really long time, that was a few years.
+
+860
+01:10:41,576 --> 01:10:42,659
+Speaker 0: in college it was like 2 years?
+
+861
+01:10:43,020 --> 01:10:45,800
+Speaker 1: the time we lived in Beacon feels like this era of our lives.
+
+862
+01:10:45,882 --> 01:10:55,387
+Speaker 1: that was a few years 3 years, maybe now I've been living here for 13-ish years with the same rabbit who's great, for 13 years 2009, right?
+
+863
+01:10:59,200 --> 01:10:59,362
+Speaker 1: life's.
+
+864
+01:10:59,646 --> 01:11:03,259
+Speaker 1: uh, we're getting old we're the old people, but yet we're still doing our thing.
+
+865
+01:11:05,262 --> 01:11:10,560
+Speaker 1: we're gonna keep doing it, because I like doing it but we've gone on for way longer than a normal episode, and I'm hungry
+
+866
+01:11:10,580 --> 01:11:12,298
+Speaker 0: that doesn't matter, I'm waiting for the Chinese food to show
+
+867
+01:11:12,319 --> 01:11:14,476
+Speaker 1: up I'm gonna go cook some grilled cheese in a little bit
+
+868
+01:11:15,783 --> 01:11:17,725
+Speaker 0: and then there's a hockey game at 8 today which is why
+
+869
+01:11:17,785 --> 01:11:18,149
+Speaker 1: I don't have to
+
+870
+01:11:19,421 --> 01:11:20,219
+Speaker 0: rush for that either.
+
+871
+01:11:20,381 --> 01:11:25,077
+Speaker 1: I have to do a work meeting from home, a really short one at 8 and then I can watch the hockey game.
+
+872
+01:11:26,183 --> 01:11:48,020
+Speaker 0: well, I hope everyone has a 2024. that doesn't suck and I hope your 2023 was as good as it can be, considering the hellscape considering the hellscape of the world, which we did not discuss somehow, miraculously my personal life is like, everything is going at least in the immediate time frame.
+
+873
+01:11:49,145 --> 01:11:50,080
+Speaker 0: things are going great.
+
+874
+01:11:50,201 --> 01:11:51,778
+Speaker 0: for me personally right now.
+
+875
+01:11:52,306 --> 01:12:01,720
+Speaker 0: I'm very fortunate and thankful, I hope it lasts but I feel very guilty having that kind of life in a hellscape world.
+
+876
+01:12:02,869 --> 01:12:29,140
+Speaker 1: but even for us, being very well-off and privileged and just very lucky a few years ago 2020 was like this nightmare terrifying year, where we didn't know how things were gonna go and we were locked in isolation and it was just a really weird place, 2021 was almost better because I was used to the isolation at that point, and I'd gotten into it like, I had a life that was designed around.
+
+877
+01:12:29,321 --> 01:12:37,337
+Speaker 1: we don't ever go anywhere or go outside 2022, I was getting sick of that shit and I really wanted to go outside 2023, I actually started going out.
+
+878
+01:12:42,416 --> 01:12:47,349
+Speaker 1: this has been Geek Nights with Rym and Scott, special thanks to DJ Pretzel for the opening theme.
+
+879
+01:12:47,531 --> 01:12:53,569
+Speaker 0: be sure to visit our website at frontrowclue.com for show notes discussion, links and more.
+
+880
+01:12:54,054 --> 01:12:56,689
+Speaker 1: remember, Geek Nights is not one but four different shows.
+
+881
+01:12:57,032 --> 01:13:05,250
+Speaker 1: Mondays are science and technology, Tuesdays gaming and games, Wednesdays are animation and comics, Thursdays are arbitrary and indiscriminate.
+
+882
+01:13:05,876 --> 01:13:10,789
+Speaker 1: Geek Nights is distributed under a creative comments attribution 4.0 international license.
+
+883
+01:13:11,252 --> 01:13:19,549
+Speaker 0: Geek Nights is recorded live with no studio and no audience but unlike those other late shows it's actually recorded at night
+
+884
+01:13:20,216 --> 01:13:37,474
+Speaker 1: And the Patreon patrons for this episode of Geek Nights, the ones who want me to say their names at the end of the show are Uh, not gonna play.
+
+885
+01:13:41,390 --> 01:13:44,650
+Speaker 1: I guess I could play some clips from that trial but I've played the Biden speech before.
+
+886
+01:13:44,710 --> 01:13:47,590
+Speaker 1: I'm gonna leave you with something that you're not expecting tonight.
+

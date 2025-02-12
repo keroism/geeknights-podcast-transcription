@@ -1,0 +1,2792 @@
+﻿1
+00:00:08,460 --> 00:00:11,636
+Speaker 0: It's Thursday July 11th 2024.
+
+2
+00:00:11,636 --> 00:00:12,098
+Speaker 0: I'm rim.
+
+3
+00:00:12,721 --> 00:00:14,469
+Speaker 0: I'm Scott and this is geek nights.
+
+4
+00:00:14,509 --> 00:00:19,185
+Speaker 0: tonight We are talking about my favorite kind of pollution noise pollution.
+
+5
+00:00:19,506 --> 00:00:20,529
+Speaker 1: Let's do this.
+
+6
+00:00:21,521 --> 00:00:34,754
+Speaker 0: so uh Way back like many years ago when I went on that bike tour upstate with you the one who you camp in the field I bought a tent for that trip because I needed a tent anyway Like I have.
+
+7
+00:00:34,794 --> 00:00:38,286
+Speaker 0: the last time I owned a tent before that was so did I?
+
+8
+00:00:38,427 --> 00:00:41,197
+Speaker 1: it's still in the closet And and has not been used since.
+
+9
+00:00:41,217 --> 00:00:44,169
+Speaker 1: I used it for two of those and then they stopped it.
+
+10
+00:00:44,631 --> 00:00:47,325
+Speaker 1: That's actually I was actually thinking about.
+
+11
+00:00:47,466 --> 00:00:48,110
+Speaker 1: it's like you want to go.
+
+12
+00:00:49,255 --> 00:00:49,637
+Speaker 1: I don't know.
+
+13
+00:00:49,697 --> 00:00:52,530
+Speaker 1: should I use it or should I get rid of it to save space?
+
+14
+00:00:52,910 --> 00:00:56,565
+Speaker 0: You should use it because if you want to do a mini camping trip like not I'm not.
+
+15
+00:00:56,585 --> 00:01:03,090
+Speaker 0: I wouldn't ask you to come on The kind of trip that Emily and I do by default which is hike 16 miles into the middle of the wilderness then camp.
+
+16
+00:01:03,574 --> 00:01:11,480
+Speaker 0: But if you want to do a camping trip we'd be more than happy to bring like all our water filtration and like all our cooking shit and all you'd have to bring is Your tent and stuff to sleep.
+
+17
+00:01:11,682 --> 00:01:12,347
+Speaker 0: we can handle the rain.
+
+18
+00:01:13,671 --> 00:01:17,950
+Speaker 1: I'm more, you know, the only thing I mean not that I don't enjoy a camping, right?
+
+19
+00:01:18,010 --> 00:01:24,190
+Speaker 1: It's like I like to sleep outdoors and smell of woods and you know eat a food.
+
+20
+00:01:24,190 --> 00:01:28,770
+Speaker 0: I feel like your style of camping is more like camp at a place where there's like a lake or something.
+
+21
+00:01:29,472 --> 00:01:34,710
+Speaker 1: Right, but I don't need I don't need the glamping where it's like you're basically set up a whole house.
+
+22
+00:01:34,810 --> 00:01:35,272
+Speaker 1: Yeah, right.
+
+23
+00:01:35,313 --> 00:01:36,579
+Speaker 1: That's that's not necessary.
+
+24
+00:01:36,599 --> 00:01:39,512
+Speaker 0: You want more than I. only have to go that far You know what?
+
+25
+00:01:39,633 --> 00:01:42,729
+Speaker 0: I also I only have what I could fit into a backpack that I can carry.
+
+26
+00:01:42,769 --> 00:01:42,990
+Speaker 0: at least.
+
+27
+00:01:43,130 --> 00:01:47,046
+Speaker 1: Yeah, but I also don't you know, there's no reason for me to struggle.
+
+28
+00:01:47,066 --> 00:01:49,054
+Speaker 0: Yeah Oh you think we start.
+
+29
+00:01:49,074 --> 00:01:52,027
+Speaker 0: so I as much as we do backpack camping like now.
+
+30
+00:01:52,107 --> 00:02:03,576
+Speaker 0: I bought a Basically full-size butane burner to carry and we carry a cast-iron pan because I prioritize good food Over saving some weight.
+
+31
+00:02:03,757 --> 00:02:12,364
+Speaker 0: like I don't get these hiking people because they hike less distance than us and they're like Cutting the end off of their toothbrush to save 0.1 ounces on their pack.
+
+32
+00:02:12,645 --> 00:02:14,250
+Speaker 0: I'm just gonna strap a cast-iron in my back.
+
+33
+00:02:14,473 --> 00:02:15,123
+Speaker 0: I don't give a shit.
+
+34
+00:02:17,173 --> 00:02:19,210
+Speaker 0: So, uh, I've had this tent for a super long time.
+
+35
+00:02:19,651 --> 00:02:21,538
+Speaker 0: It's an REI direct tents.
+
+36
+00:02:21,719 --> 00:02:22,702
+Speaker 0: Like I bought it from REI.
+
+37
+00:02:22,842 --> 00:02:24,990
+Speaker 0: It's like their house brand and it's a super good tent.
+
+38
+00:02:25,751 --> 00:02:37,750
+Speaker 0: now when I bought the tent which was like a decade ago at this point that tent was like So much more advanced than any tent I had ever used because I hadn't been camping in like 15 years before that.
+
+39
+00:02:38,151 --> 00:02:42,026
+Speaker 0: Then like I was shocked and how easy it was how light it was compared to like the tents.
+
+40
+00:02:42,046 --> 00:02:48,087
+Speaker 0: I used to use as a kid But now this tent is pretty old and I was shopping for like what's the best tent you could buy today?
+
+41
+00:02:49,653 --> 00:02:50,684
+Speaker 0: And yeah, they've continued.
+
+42
+00:02:50,704 --> 00:02:58,322
+Speaker 1: You don't need that but the best tent you could buy is meant for like, you know going up a mountain and Camping like on the edge of a cliff.
+
+43
+00:02:58,342 --> 00:02:59,005
+Speaker 0: Oh, no, but not for me.
+
+44
+00:02:59,086 --> 00:03:00,793
+Speaker 0: I was thinking like, alright This is the tent I got.
+
+45
+00:03:00,833 --> 00:03:08,080
+Speaker 0: now it could I get an equivalent size tent that is like significantly lighter and smaller But is otherwise like just as big and nice?
+
+46
+00:03:08,442 --> 00:03:09,227
+Speaker 0: and the answer is yes.
+
+47
+00:03:10,432 --> 00:03:16,770
+Speaker 0: But the answer also is a tent that good cost upwards of four hundred dollars and I did not pay four hundred dollars for this.
+
+48
+00:03:17,494 --> 00:03:20,270
+Speaker 1: Yeah, if you're if that's your main hobby that's perfectly reasonable.
+
+49
+00:03:20,572 --> 00:03:21,437
+Speaker 0: So we're still here.
+
+50
+00:03:21,498 --> 00:03:27,647
+Speaker 1: you're using it a few times Maybe you know less than once a year or less than even five times a year.
+
+51
+00:03:27,687 --> 00:03:28,410
+Speaker 1: That's not worth it.
+
+52
+00:03:28,570 --> 00:03:36,726
+Speaker 0: but it's the REI co-op half dome tent and Backpacking people kind of sneer at it because it's giant compared to the kinds of times they use.
+
+53
+00:03:36,807 --> 00:03:38,816
+Speaker 0: but you know It's talking about not struggling.
+
+54
+00:03:39,339 --> 00:03:42,373
+Speaker 0: those tiny tents are not comfortable Like you don't say.
+
+55
+00:03:42,393 --> 00:03:48,850
+Speaker 0: a slightly bigger tent weighs a slight amount more and it's just so much nicer.
+
+56
+00:03:49,619 --> 00:03:52,857
+Speaker 1: but the only basically those tiny tents that they use.
+
+57
+00:03:52,917 --> 00:03:58,393
+Speaker 1: the only thing that they have over a sleeping bag is it protects you from rain and It's like.
+
+58
+00:03:58,554 --> 00:04:00,301
+Speaker 1: it's like it's basically just like an umbrella.
+
+59
+00:04:00,603 --> 00:04:02,230
+Speaker 1: Yeah that sticks to the ground.
+
+60
+00:04:03,335 --> 00:04:05,289
+Speaker 1: You don't have to worry about keeping it in place.
+
+61
+00:04:06,173 --> 00:04:10,430
+Speaker 0: So, uh, so anyway, this tent is old and it had a problem a couple years ago.
+
+62
+00:04:10,791 --> 00:04:14,990
+Speaker 0: It's so old that the shock cord inside of its supports because it's a self-supporting tent.
+
+63
+00:04:15,451 --> 00:04:18,601
+Speaker 0: So, you know you say it has little poles with shock cord inside of it.
+
+64
+00:04:18,701 --> 00:04:25,110
+Speaker 0: shock cord if you're not familiar is effectively just String that is spring like elastic thinner bungee cord.
+
+65
+00:04:25,211 --> 00:04:41,456
+Speaker 0: Yep But a very durable bungee cord the shock cord that came in the poles Degraded to the point that it didn't have any stretch at all left Mmm, so I had to replace it and or buy a new tent and I'm not gonna buy a whole new tent There's nothing wrong with it.
+
+66
+00:04:41,476 --> 00:04:42,382
+Speaker 0: I could replace shock cord.
+
+67
+00:04:42,422 --> 00:04:43,429
+Speaker 0: I mean, I know how to do things.
+
+68
+00:04:43,973 --> 00:05:03,646
+Speaker 0: So I go online and I see at REI They're like if the shock cord degrades you can replace it with and they recommend quarter-inch shock cord doesn't really matter what kind and they sell quarter-inch shock cord, so I buy the quarter-inch shock cord and I Relearn how to tie a knot that I didn't fucking remember how to tie cuz YouTube
+
+69
+00:05:03,686 --> 00:05:04,670
+Speaker 1: can help with that exactly.
+
+70
+00:05:04,810 --> 00:05:14,542
+Speaker 0: So I learned the exact right knots to use and I start replacing the shock cord and it was really really really Hard to replace it for a bunch of reasons.
+
+71
+00:05:14,582 --> 00:05:17,770
+Speaker 1: I won't waste my time explaining like yeah It sounds like a thing that would be difficult.
+
+72
+00:05:17,891 --> 00:05:26,435
+Speaker 0: It was really difficult and I was really mad at it to the point That I ended up not only replacing about 2/3 of the shock cord and the rest of it I cut off the ends.
+
+73
+00:05:26,736 --> 00:05:29,369
+Speaker 0: I spliced the new shock cord into the end and I just replaced a little bit.
+
+74
+00:05:30,991 --> 00:05:31,874
+Speaker 0: So it's a pain.
+
+75
+00:05:31,975 --> 00:05:35,910
+Speaker 0: and now even even using the tent is slightly more of a pain because of this shock cord.
+
+76
+00:05:37,890 --> 00:05:47,824
+Speaker 0: So recently I was looking at new tents and I stumbled upon a reddit post where someone was like Is it just me or is it really hard to replace the shock cord in these REI co-op tents?
+
+77
+00:05:47,844 --> 00:05:53,470
+Speaker 0: and all the responses were oh Buddy you listen to REI you bought the wrong shock cord.
+
+78
+00:05:53,831 --> 00:05:55,917
+Speaker 0: You got to buy three sixteenth inch shock cord.
+
+79
+00:05:56,198 --> 00:05:58,666
+Speaker 0: quartering shock cord is a fucking nightmare.
+
+80
+00:05:58,686 --> 00:06:01,839
+Speaker 0: to get into this thing You fool you moron.
+
+81
+00:06:02,020 --> 00:06:04,110
+Speaker 0: How dare you read the official instructions?
+
+82
+00:06:05,672 --> 00:06:08,413
+Speaker 1: wouldn't quarter inch be Too thick?
+
+83
+00:06:08,715 --> 00:06:09,337
+Speaker 0: it's too thick.
+
+84
+00:06:09,639 --> 00:06:12,170
+Speaker 0: Yeah knots a little too big and it's like it doesn't work.
+
+85
+00:06:12,250 --> 00:06:13,360
+Speaker 1: Well, I was thinking of eighth.
+
+86
+00:06:13,380 --> 00:06:18,251
+Speaker 1: eighth would be Smaller than three sixteenths, but a quarter is more than 360.
+
+87
+00:06:18,251 --> 00:06:24,090
+Speaker 0: So I bought from a different shop because REI does not sell three sixteenth inch shock cord.
+
+88
+00:06:24,252 --> 00:06:25,529
+Speaker 0: They sell a bunch of other sizes.
+
+89
+00:06:26,272 --> 00:06:27,436
+Speaker 0: So I bought some.
+
+90
+00:06:27,456 --> 00:06:34,102
+Speaker 1: when they just like they're buying shock cords and manufacture the tent wouldn't the shock cord They sell just be the wholesale stuff.
+
+91
+00:06:34,122 --> 00:06:36,956
+Speaker 1: They're buying at the tent factory Really not set.
+
+92
+00:06:37,157 --> 00:06:40,070
+Speaker 1: set some aside cut it up apparently not in packages.
+
+93
+00:06:40,452 --> 00:06:47,499
+Speaker 0: So, uh, so anyway, I buy this new shock cord and on a Cursory attempt to see how it's like night and day.
+
+94
+00:06:47,599 --> 00:06:48,582
+Speaker 0: It's so easy.
+
+95
+00:06:48,882 --> 00:06:49,945
+Speaker 0: It's so much better.
+
+96
+00:06:49,965 --> 00:06:51,770
+Speaker 0: It is absolutely perfect.
+
+97
+00:06:52,051 --> 00:06:57,729
+Speaker 0: So I'm just gonna get rid of all that fucking quarter inch shock cord that I spent hours cramming into these poles for no reason.
+
+98
+00:06:58,773 --> 00:07:00,443
+Speaker 1: Mmm bad documentation.
+
+99
+00:07:00,704 --> 00:07:00,966
+Speaker 1: Yep.
+
+100
+00:07:01,609 --> 00:07:15,905
+Speaker 0: I It's one thing Cuz we both know people who will have a problem and will not even like do the cursory search to see if there is a Documented solution to the problem and they'll just make up a bad solution and then complain about.
+
+101
+00:07:15,925 --> 00:07:17,730
+Speaker 1: I can't blame you if the documentation is wrong.
+
+102
+00:07:17,971 --> 00:07:18,895
+Speaker 1: It's like you got you got.
+
+103
+00:07:18,915 --> 00:07:22,170
+Speaker 1: I can blame someone for not thinking to look up instructions.
+
+104
+00:07:22,331 --> 00:07:25,784
+Speaker 1: I can blame them for yeah, not being able to read instructions.
+
+105
+00:07:25,845 --> 00:07:31,246
+Speaker 0: I'll even blame someone for GTP how to make pizza and then putting glue in their pizza like.
+
+106
+00:07:31,286 --> 00:07:31,850
+Speaker 0: that's your fault.
+
+107
+00:07:32,553 --> 00:07:36,170
+Speaker 1: Not not reading the instructions properly not following them proper, right?
+
+108
+00:07:36,250 --> 00:07:37,254
+Speaker 1: It's like there's all these ways.
+
+109
+00:07:37,314 --> 00:07:40,950
+Speaker 1: the person could be the source of the problem.
+
+110
+00:07:41,372 --> 00:07:48,970
+Speaker 1: But if the instructions are just wrong, yep That's the fault of the person who made the instructions.
+
+111
+00:07:49,050 --> 00:07:50,558
+Speaker 1: So follower of the instructions.
+
+112
+00:07:50,638 --> 00:07:54,759
+Speaker 0: if anyone out there needs any quarter-inch shock cord I have a shit ton and I'll just mail it to you.
+
+113
+00:07:54,919 --> 00:07:55,542
+Speaker 0: Just let me know.
+
+114
+00:07:55,562 --> 00:07:57,818
+Speaker 0: hit me up in the discord or something I don't know.
+
+115
+00:07:57,859 --> 00:07:58,709
+Speaker 1: What else is it good for?
+
+116
+00:07:59,415 --> 00:08:00,180
+Speaker 0: You know, what is good for it?
+
+117
+00:08:00,261 --> 00:08:06,061
+Speaker 0: lashing things to backpacks making webbing a Bunch of rock climbing stuff that you wouldn't care about.
+
+118
+00:08:06,081 --> 00:08:14,870
+Speaker 0: I Don't think I do anything that required Yep, and replacing the shock cord inside of something that already used shock cord, but the shock cord wore out.
+
+119
+00:08:17,152 --> 00:08:37,453
+Speaker 0: So in the news really briefly we don't need to dwell on it But you might be seeing if you were the kind of person who looks at the news You might notice that there's one guy who's running for president who's not a fascist in America and there is some big talk and there's actually a real possibility that he'll be replaced by a different person who is not a Fascist who's running for president.
+
+120
+00:08:37,815 --> 00:08:41,929
+Speaker 0: and all I have to say about that is it does not matter the name of the person.
+
+121
+00:08:42,211 --> 00:08:47,170
+Speaker 0: The only thing that matters is voting for the Democrat because that is the one who is not a fascist.
+
+122
+00:08:47,571 --> 00:08:52,689
+Speaker 0: There is no other option in this election and it should not matter what name is on the ballot right now.
+
+123
+00:08:53,252 --> 00:08:54,055
+Speaker 1: No, it doesn't matter at all.
+
+124
+00:08:54,236 --> 00:09:02,159
+Speaker 0: No, like they could put up, you know, I would vote for a potato and I would vote for literally anything district.
+
+125
+00:09:02,219 --> 00:09:04,629
+Speaker 1: Yes, I guess the the they could.
+
+126
+00:09:06,431 --> 00:09:09,501
+Speaker 1: It's not impossible that they would just be like fuck it.
+
+127
+00:09:10,243 --> 00:09:11,768
+Speaker 1: Your choice is fascist or fascist.
+
+128
+00:09:11,808 --> 00:09:12,350
+Speaker 1: that could happen.
+
+129
+00:09:12,450 --> 00:09:13,493
+Speaker 1: I mean, yeah that happens.
+
+130
+00:09:13,533 --> 00:09:14,937
+Speaker 0: then you're voting.
+
+131
+00:09:15,278 --> 00:09:17,786
+Speaker 0: you're way beyond voting at that point, right?
+
+132
+00:09:17,826 --> 00:09:22,247
+Speaker 1: They could just cave in and be like fine We'll just pick a literal Republican to be the Democratic nominee.
+
+133
+00:09:22,267 --> 00:09:22,650
+Speaker 1: Here you go.
+
+134
+00:09:23,392 --> 00:09:24,335
+Speaker 1: It's not impossible.
+
+135
+00:09:24,395 --> 00:09:24,956
+Speaker 0: Yeah, but it.
+
+136
+00:09:25,077 --> 00:09:27,284
+Speaker 0: but I cannot say very unlikely though.
+
+137
+00:09:27,324 --> 00:09:37,644
+Speaker 0: That's gonna be someone who is yeah Yeah, you can't yeah, so I'm gonna go out of the limit right now and say, you know We always we try to have to endorse candidates in elections just like if we can.
+
+138
+00:09:38,206 --> 00:09:53,570
+Speaker 0: we're a journalistic outlet technically by the strictest various weakest definition of journalists but we formally endorse Literally everyone the Democrats nominate in the 2024 election in every ballot no exceptions.
+
+139
+00:09:54,315 --> 00:09:55,322
+Speaker 1: I mean what else?
+
+140
+00:09:55,484 --> 00:09:56,269
+Speaker 0: what else are you gonna do?
+
+141
+00:09:56,650 --> 00:09:56,911
+Speaker 0: You're gonna.
+
+142
+00:09:56,931 --> 00:10:00,307
+Speaker 0: you can vote for the crazy guy with a brain worm or Hitler too.
+
+143
+00:10:00,467 --> 00:10:05,081
+Speaker 1: Like that's it Even it's like this Democrats out there that you know what they got problems.
+
+144
+00:10:05,121 --> 00:10:11,720
+Speaker 1: They support policies that I don't agree with and There may be some corrupt ones out there too, right?
+
+145
+00:10:11,740 --> 00:10:13,928
+Speaker 1: You know who are in with the corporation?
+
+146
+00:10:13,948 --> 00:10:14,430
+Speaker 0: look at New York.
+
+147
+00:10:14,611 --> 00:10:15,597
+Speaker 0: We had a mayor election.
+
+148
+00:10:15,818 --> 00:10:17,930
+Speaker 0: I voted for someone who was super cool in the primary.
+
+149
+00:10:18,392 --> 00:10:21,750
+Speaker 0: They didn't win the primary a guy really don't like when the primary but you know what?
+
+150
+00:10:21,870 --> 00:10:27,147
+Speaker 0: I still voted for him in the general election because the alternative was a dangerous crazy guy, right?
+
+151
+00:10:27,268 --> 00:10:30,446
+Speaker 1: It's like You know people like oh, there's no difference.
+
+152
+00:10:30,486 --> 00:10:31,090
+Speaker 1: They both suck.
+
+153
+00:10:31,170 --> 00:10:35,306
+Speaker 1: It's like no one of them sucks way way way way way way way more.
+
+154
+00:10:36,491 --> 00:10:40,890
+Speaker 0: This isn't like a stale sandwich versus a slightly moldy sandwich.
+
+155
+00:10:41,030 --> 00:10:46,730
+Speaker 0: This is like an okay sandwich versus just poop just like dangerous poop filled with disease.
+
+156
+00:10:48,975 --> 00:11:00,850
+Speaker 0: But in some absolutely bonkers news that broke today and might have Somewhat significant ramifications for the world that are actually worrying.
+
+157
+00:11:01,851 --> 00:11:03,536
+Speaker 0: So this is from CNN.
+
+158
+00:11:03,596 --> 00:11:05,221
+Speaker 0: They they post an exclusive this morning.
+
+159
+00:11:05,782 --> 00:11:21,349
+Speaker 0: the US and Germany have foiled multiple known specific Russian plots to assassinate the CEOs of European corporations like this is of course obviously related to the war in Ukraine.
+
+160
+00:11:21,369 --> 00:11:34,410
+Speaker 0: and Yeah, you should read this article because this is I saw the headline and you know Normally when you see a headline like that you assume Yeah, something bad happened, but I'm gonna read the details and see a whole bunch of qualifications.
+
+161
+00:11:34,751 --> 00:11:35,736
+Speaker 0: But then I get into the article.
+
+162
+00:11:35,776 --> 00:11:42,750
+Speaker 0: and the article is actually way worse than what I thought it was And way more specific and way more widespread.
+
+163
+00:11:44,211 --> 00:11:51,628
+Speaker 0: So yeah, I feel like World War three kind of already started and we're just in the middle of it and We'll see where this goes.
+
+164
+00:11:52,212 --> 00:11:56,224
+Speaker 0: But I personally think NATO needs to be involved in Ukraine as soon as possible directly.
+
+165
+00:11:56,244 --> 00:11:57,789
+Speaker 0: I don't feel like there's any other choice.
+
+166
+00:11:59,310 --> 00:12:01,699
+Speaker 1: hmm Nothing I could do about it either way.
+
+167
+00:12:01,840 --> 00:12:04,010
+Speaker 0: Nope, except vote for Democrats.
+
+168
+00:12:05,611 --> 00:12:13,566
+Speaker 0: Democrats will do something but if we vote for the Republicans They're just gonna abandon Ukraine and all those people are gonna die pretty much.
+
+169
+00:12:14,634 --> 00:12:15,748
+Speaker 0: So, uh, I got some news.
+
+170
+00:12:17,151 --> 00:12:21,221
+Speaker 1: Yeah, so Florida where the bad people are in charge of basically everything.
+
+171
+00:12:21,342 --> 00:12:22,064
+Speaker 1: Yep.
+
+172
+00:12:22,144 --> 00:12:38,638
+Speaker 1: There was an interesting story because there's a new Law that's going in in Florida that's gonna require Transparency for red light cameras, you know the what they set up red light cameras at intersections that automatically Give people tickets when they run a red light.
+
+173
+00:12:38,779 --> 00:12:42,410
+Speaker 1: Yep, and you think well, Florida is a place that loves cars.
+
+174
+00:12:42,470 --> 00:12:50,899
+Speaker 1: I don't think they have public transportation at all other than the I guess the Disney monorail and I guess shuttle buses from the airport.
+
+175
+00:12:51,221 --> 00:13:00,430
+Speaker 1: I feel like there's more mass transit golf carts Public transportation in the whole rest of Florida combined and I guess Amtrak does go there and then they have airports.
+
+176
+00:13:00,550 --> 00:13:01,373
+Speaker 1: That's about it.
+
+177
+00:13:01,474 --> 00:13:05,770
+Speaker 1: Right and there's my there must be a bus in Miami somewhere, but I don't know right?
+
+178
+00:13:05,810 --> 00:13:06,473
+Speaker 1: Who uses it?
+
+179
+00:13:06,493 --> 00:13:07,979
+Speaker 1: I don't know.
+
+180
+00:13:07,999 --> 00:13:09,345
+Speaker 1: Maybe maybe someone does use it.
+
+181
+00:13:10,228 --> 00:13:12,797
+Speaker 1: Tell me The buses in Miami are any good.
+
+182
+00:13:12,977 --> 00:13:17,054
+Speaker 0: the only person I still know who lives in Florida is my dad and he died But he lives there.
+
+183
+00:13:17,074 --> 00:13:20,748
+Speaker 0: because anyway, well, you know, there's no subways in Florida.
+
+184
+00:13:20,828 --> 00:13:21,290
+Speaker 1: is the point?
+
+185
+00:13:21,330 --> 00:13:21,491
+Speaker 1: There's?
+
+186
+00:13:21,531 --> 00:13:23,920
+Speaker 1: no there's no trams that I know of other than again.
+
+187
+00:13:23,940 --> 00:13:27,608
+Speaker 0: No one no one should go to Florida unless first - it's a dangerous fucked up place.
+
+188
+00:13:28,651 --> 00:13:33,530
+Speaker 1: Yeah, definitely not going to Florida if I can if at all possible to avoid anyway.
+
+189
+00:13:34,652 --> 00:13:37,950
+Speaker 1: There are towns in Florida that are basically funding themselves.
+
+190
+00:13:38,951 --> 00:13:40,036
+Speaker 1: You're right significantly.
+
+191
+00:13:40,076 --> 00:13:45,033
+Speaker 1: We're talking like 15% of the city's revenue, which you know, it's not 50%.
+
+192
+00:13:45,033 --> 00:13:48,607
+Speaker 1: it's not like most of their money, but it's like if you suddenly lose 15% of your budget.
+
+193
+00:13:49,550 --> 00:13:51,830
+Speaker 1: You're really in a bad place, right?
+
+194
+00:13:52,390 --> 00:14:02,570
+Speaker 1: so it's enough to where like they can't go without it and So or they'd have to make it up somewhere else or they'd have to suffer significantly and cut back on a bunch of stuff.
+
+195
+00:14:02,691 --> 00:14:09,130
+Speaker 1: So they want to have you know Transparency and like approval like, you know, and and you know, whatever.
+
+196
+00:14:10,671 --> 00:14:17,370
+Speaker 1: And basically it's sort of like, you know, how you know, Ohio has like speed traps famously to like, you know fund themselves.
+
+197
+00:14:18,451 --> 00:14:22,450
+Speaker 1: And the interest is a lot of interesting different things going on in this story.
+
+198
+00:14:23,331 --> 00:14:28,430
+Speaker 0: There's this whole topic is complex and my opinions are actually kind of all over the place on different aspects.
+
+199
+00:14:28,591 --> 00:14:33,143
+Speaker 1: Oh, yeah, there's so many aspects But the aspects I want to focus on right?
+
+200
+00:14:33,385 --> 00:14:34,289
+Speaker 1: is that number one?
+
+201
+00:14:35,031 --> 00:14:48,679
+Speaker 1: we've heard at least I've heard up until this point that red light cameras were an example of traffic enforcement like create making things safer and this article sort of contradicts that.
+
+202
+00:14:49,020 --> 00:14:49,562
+Speaker 1: they're saying.
+
+203
+00:14:49,903 --> 00:15:01,148
+Speaker 1: actually in some of the Intersections that have red light cameras have more crashes because people notice the camera They stop short they were gonna run the red light.
+
+204
+00:15:01,309 --> 00:15:08,169
+Speaker 1: I Said I guess and I guess you know What happens is there's a more as a rear-end collision.
+
+205
+00:15:09,454 --> 00:15:17,307
+Speaker 0: That's important to point out in that Situation because actually I remember a similar scandal in Ohio when I was a kid because I grew up right like near Ohio and we drive Down there for Sierra Point all the time.
+
+206
+00:15:18,772 --> 00:15:23,090
+Speaker 0: In those cases the people who get rear-ended are not the ones at fault.
+
+207
+00:15:23,431 --> 00:15:28,090
+Speaker 0: Let's get let's skip the whole cars as a system and the fault of the system.
+
+208
+00:15:28,451 --> 00:15:34,390
+Speaker 0: But if we get past that point the person who rear-ends that person is still like that is a bad person and there's a fault.
+
+209
+00:15:34,451 --> 00:15:35,448
+Speaker 0: And they are right.
+
+210
+00:15:35,634 --> 00:15:42,790
+Speaker 1: No It's if the red light camera wasn't noticed by the but by either of the people both of them would have run a red light.
+
+211
+00:15:42,890 --> 00:15:46,861
+Speaker 0: Yeah, they were right Running a red light regardless of every other car issue.
+
+212
+00:15:47,202 --> 00:15:54,889
+Speaker 0: Fuck you, right running red lights is Absolutely unacceptable in any circumstance except being chased by it like run men, which doesn't happen.
+
+213
+00:15:55,591 --> 00:16:10,790
+Speaker 1: Yeah, even in the places in the earth where we would say that have like the best transportation networks like the Amsterdam's or whatever there are still traffic control lights of some kind in places and They depend on people obeying them.
+
+214
+00:16:10,918 --> 00:16:21,716
+Speaker 0: right if you didn't go to Amsterdam if you ignore the lights there will be a crash like If I know you if I'm in your car and you run a red light like we're probably not friends anymore That's gonna be a whole conversation.
+
+215
+00:16:21,756 --> 00:16:24,510
+Speaker 1: That's a fucked up or at least we're pulling over getting out of the car.
+
+216
+00:16:24,994 --> 00:16:27,091
+Speaker 1: It's like we're not driving with you anymore It's.
+
+217
+00:16:27,232 --> 00:16:32,150
+Speaker 0: I've never run a red light or us even a stop sign in the middle of nowhere at any point in my entire life.
+
+218
+00:16:32,170 --> 00:16:41,457
+Speaker 1: I think I've ran one one time ever because I didn't even see that it was there because it was you know, poorly Poorly done, right?
+
+219
+00:16:41,738 --> 00:16:45,423
+Speaker 0: Yeah, I guess if I didn't if there was one hidden by a tree I guess I wouldn't know if I ran it.
+
+220
+00:16:45,987 --> 00:16:56,350
+Speaker 1: Yeah But anyway, so that's the first thing is, you know, I'm always saying look, you know The people in who are you know, the pro good transportation people, right?
+
+221
+00:16:56,771 --> 00:17:03,738
+Speaker 1: A lot of them really want to step up enforcement and I'm like, you know enforcement's well and good But it's like it only makes revenues.
+
+222
+00:17:04,381 --> 00:17:13,007
+Speaker 0: It doesn't actually increase safety Yep, and there are some potential kinds of enforcement that could theoretically increase safety, but they have rarely been attempted.
+
+223
+00:17:13,669 --> 00:17:31,690
+Speaker 1: Yes so Also, right what's interesting is that you know an Unsurprising I guess is that it's like people voting when in this article they talk about situations where you know Where the the citizens will vote right and whether there would be red light cameras or not, right?
+
+224
+00:17:32,011 --> 00:17:37,090
+Speaker 0: And so yes for red light cameras in my own areas only because I want it to be painful for people to use cars.
+
+225
+00:17:37,391 --> 00:17:42,410
+Speaker 1: Right, but here Delgado pointed out that his hometown of Sweetwater has done away with red light cameras.
+
+226
+00:17:42,470 --> 00:17:49,970
+Speaker 1: They once made millions on them every year, but a public backlash led to residents voting 81% in favor of banning them.
+
+227
+00:17:50,050 --> 00:17:54,330
+Speaker 1: So the people who are obviously driving cars.
+
+228
+00:17:54,430 --> 00:18:00,510
+Speaker 1: It's not unsurprising that they would not want themselves to keep getting fined for running red lights.
+
+229
+00:18:00,590 --> 00:18:02,824
+Speaker 1: But that means those people are running red lights.
+
+230
+00:18:02,884 --> 00:18:03,850
+Speaker 1: Yes people want.
+
+231
+00:18:04,732 --> 00:18:07,019
+Speaker 1: Right that it was a democratic vote.
+
+232
+00:18:07,039 --> 00:18:17,050
+Speaker 1: It wasn't rigged or anything, but it's like yeah, these people want to live dangerously They want to endanger others They want to run red lights and they don't want to have to have a penalty for when they do so.
+
+233
+00:18:17,271 --> 00:18:17,853
+Speaker 1: But even worse.
+
+234
+00:18:17,873 --> 00:18:18,596
+Speaker 0: so think about this.
+
+235
+00:18:19,520 --> 00:18:24,643
+Speaker 0: if this is a revenue stream in a sense It is a tax on only shitty people.
+
+236
+00:18:24,703 --> 00:18:32,370
+Speaker 0: because we can talk about the stress percent of the people are shitty Yeah, but we can talk about the stress and dangers of driving and how a lot of people are just bad drivers.
+
+237
+00:18:32,511 --> 00:18:35,402
+Speaker 0: But running red lights isn't just being bad at driving.
+
+238
+00:18:35,442 --> 00:18:37,409
+Speaker 0: that is making an active fucked up choice.
+
+239
+00:18:38,412 --> 00:18:39,735
+Speaker 1: Yeah, and so.
+
+240
+00:18:39,836 --> 00:18:41,660
+Speaker 1: but these people they're either right.
+
+241
+00:18:42,181 --> 00:18:43,705
+Speaker 1: they voted to do away with this.
+
+242
+00:18:44,026 --> 00:18:53,197
+Speaker 1: that means that either a They're gonna have to be taxed in some other means this is a fact in another source of revenue Or they're just.
+
+243
+00:18:53,498 --> 00:18:57,677
+Speaker 1: the city will lose millions of dollars a year And that's millions of dollars.
+
+244
+00:18:57,757 --> 00:19:00,690
+Speaker 1: less services and shitty their town will just get shittier.
+
+245
+00:19:01,072 --> 00:19:04,610
+Speaker 0: I have a prediction for what's gonna happen broadly in Florida as this happens.
+
+246
+00:19:05,031 --> 00:19:09,145
+Speaker 0: What will happen is all these places the schools are gonna get real shitty.
+
+247
+00:19:09,667 --> 00:19:12,829
+Speaker 0: people are gonna complain They're gonna try to do a bond or raise taxes.
+
+248
+00:19:13,092 --> 00:19:19,905
+Speaker 0: they'll vote against that and then All the money from property taxes will eventually funnel to a small number of mostly white kids.
+
+249
+00:19:19,925 --> 00:19:25,390
+Speaker 0: schools and all the other schools will just Get worse and worse and worse and Florida's gonna continue to be what we want things.
+
+250
+00:19:25,571 --> 00:19:26,816
+Speaker 1: But we don't want to pay for them.
+
+251
+00:19:27,178 --> 00:19:29,608
+Speaker 1: Even if it means only like bad people pay for them.
+
+252
+00:19:29,809 --> 00:19:31,632
+Speaker 1: It's like That's.
+
+253
+00:19:32,053 --> 00:19:41,162
+Speaker 0: Emily and I have been reading a lot about the details of the know-nothing party in America from the 1800s And it's actually weirdly relevant here because I knew a lot about them.
+
+254
+00:19:41,222 --> 00:19:42,245
+Speaker 0: They were pro-slavery.
+
+255
+00:19:42,305 --> 00:19:44,010
+Speaker 0: They were super fucked up bad people.
+
+256
+00:19:44,291 --> 00:19:47,389
+Speaker 0: They're very similar to modern Republicans in a lot of their platforms except one.
+
+257
+00:19:48,257 --> 00:19:56,970
+Speaker 0: imagine modern Republicans Except they wanted the best funded highest quality schools and public services in the world.
+
+258
+00:19:57,535 --> 00:19:59,049
+Speaker 0: But they were also anti-tax.
+
+259
+00:19:59,652 --> 00:20:06,588
+Speaker 0: So what they did whenever they got control of a town is spent like crazy and borrowed like crazy and literally destroyed the entire local economy.
+
+260
+00:20:07,493 --> 00:20:08,195
+Speaker 1: Mm-hmm.
+
+261
+00:20:08,416 --> 00:20:13,849
+Speaker 0: No taxes, but want things and fascists and racist Yep.
+
+262
+00:20:14,975 --> 00:20:15,743
+Speaker 1: So yeah, it's just.
+
+263
+00:20:15,824 --> 00:20:33,141
+Speaker 1: you know I'm just saving this article because every time I keep having this discussion constantly because people really are mad You know and somewhat rightfully so understandably so that they want safer transportation And they wrongly believe that enforcement will get them safety.
+
+264
+00:20:33,703 --> 00:20:35,567
+Speaker 1: and they see a lack of enforcement.
+
+265
+00:20:35,608 --> 00:20:38,670
+Speaker 1: They ride in a bike lane No one tickets the car parked in the bike lane.
+
+266
+00:20:38,952 --> 00:20:45,790
+Speaker 1: They see people bike in the wrong way or riding You know motorized vehicles in the bike over the bike path on the bridge.
+
+267
+00:20:46,331 --> 00:20:46,993
+Speaker 1: They see people.
+
+268
+00:20:47,033 --> 00:20:52,730
+Speaker 1: they go out and bike and they go out and walk and they see dangerous stuff everywhere and dangerous behaviors.
+
+269
+00:20:53,212 --> 00:20:59,631
+Speaker 1: And they want law enforcement to ticket and fine and tow and penalize The.
+
+270
+00:21:00,013 --> 00:21:02,123
+Speaker 0: the structure of law enforcement and how.
+
+271
+00:21:02,303 --> 00:21:08,630
+Speaker 0: even if enforcing a law is a good idea We can't trust our systems that enforce them to do so in a non racist fucked up way, right?
+
+272
+00:21:08,790 --> 00:21:12,650
+Speaker 1: But they want that to happen and I'm like look I understand that you want that to happen.
+
+273
+00:21:12,711 --> 00:21:15,461
+Speaker 1: It makes perfect sense But it will not.
+
+274
+00:21:15,763 --> 00:21:21,570
+Speaker 1: it make you safer Even if there were a mate if the police caught every single person every single time.
+
+275
+00:21:21,650 --> 00:21:24,479
+Speaker 1: There have been speeding tickets for decades.
+
+276
+00:21:24,600 --> 00:21:37,910
+Speaker 0: I have seen several studies that this might be a more mixed one But I would have to do some research But showing that in places where speeding enforcement is reduced over time Speeding just increases and increases and increases and crashes increase.
+
+277
+00:21:39,632 --> 00:21:44,650
+Speaker 0: A lot of people do slow down somewhat because they are a little bit afraid of getting a ticket.
+
+278
+00:21:46,692 --> 00:21:48,889
+Speaker 1: But it hasn't stopped people from speeding.
+
+279
+00:21:49,992 --> 00:21:53,450
+Speaker 1: This hasn't stopped people from running red light, so actually I had a crazy idea.
+
+280
+00:21:53,972 --> 00:21:57,369
+Speaker 0: I was actually saving this for a future geek nights idea that I had.
+
+281
+00:21:58,471 --> 00:22:01,540
+Speaker 0: But my crazy idea is this let's assume that this is possible.
+
+282
+00:22:01,600 --> 00:22:15,270
+Speaker 0: first put cameras on a lot of roads everywhere like this and basically Instead of doing the red light camera like look for people around a red light and automatically mail them a ticket Have some sort of council some sort of group where they watch these videos.
+
+283
+00:22:15,370 --> 00:22:34,390
+Speaker 0: Maybe they use AI to sort it in some way and every quarter In every municipality that's doing this find the 10 like most egregious examples of reckless dangerous driving like the craziest crap like the fart car Weaving across 50 lanes and cutting people off and going into the bike lane and on the sidewalk.
+
+284
+00:22:34,872 --> 00:22:57,149
+Speaker 0: but then what you do is you have a jury trial a special system where 50 regular people watch the video with like the license plate obscured maybe not even from their town to avoid bringing mobs down upon some random person and they vote on Whether or not the owner of that car should still be allowed to have a car.
+
+285
+00:23:00,022 --> 00:23:08,413
+Speaker 0: and then you remove from the roads cars and thus drivers who are the Absolute worst most dangerous aggressive individuals.
+
+286
+00:23:08,935 --> 00:23:10,260
+Speaker 1: Yeah, I mean, it's not the worst idea.
+
+287
+00:23:10,361 --> 00:23:18,600
+Speaker 1: But I think that the overall thing is that you know You build up a complicated bureaucracy and then it itself becomes expensive and difficult, right?
+
+288
+00:23:19,804 --> 00:23:28,720
+Speaker 0: How would the only subway work if we got rid of the turnstiles and Made it free and then got rid of all the infrastructure we have to pay for to manage the payments, right?
+
+289
+00:23:28,840 --> 00:23:29,663
+Speaker 1: It's like we need.
+
+290
+00:23:29,683 --> 00:23:44,140
+Speaker 1: I think the only solution is something that doesn't need so much You know like stuff built up and and working all the hard mode 80% of the people in a lot of places are gonna vote to never have something like that, right?
+
+291
+00:23:44,220 --> 00:23:47,431
+Speaker 1: It's like if you just redo the street to be a different kind of street.
+
+292
+00:23:47,933 --> 00:23:50,120
+Speaker 1: It's like you don't need a bureaucracy.
+
+293
+00:23:50,240 --> 00:23:54,959
+Speaker 1: It's like, you know, you that's the thing you do once yeah, and there it is, right and it just sort of and it's working.
+
+294
+00:23:55,281 --> 00:23:56,808
+Speaker 0: There are tons of studies showing.
+
+295
+00:23:56,828 --> 00:23:59,340
+Speaker 0: I was reading some unrelated traffic studies around COVID.
+
+296
+00:23:59,642 --> 00:24:00,427
+Speaker 1: Only salute that's.
+
+297
+00:24:00,467 --> 00:24:09,499
+Speaker 1: the real solution is to redo Redesign your streets and then so by and large only blue states are redesigning streets this way.
+
+298
+00:24:10,307 --> 00:24:11,679
+Speaker 1: I mean not even them Yeah.
+
+299
+00:24:12,001 --> 00:24:16,820
+Speaker 0: And even in blue states only only European countries are doing it and the data is shows.
+
+300
+00:24:17,081 --> 00:24:24,879
+Speaker 0: every country in Europe that has done these kinds of changes like traffic calming has had radical drops in car deaths like radical drops.
+
+301
+00:24:25,693 --> 00:24:31,454
+Speaker 1: Yeah The only way to actually get safety is to redesign the street.
+
+302
+00:24:31,494 --> 00:24:33,440
+Speaker 0: so I learned something else doing that research recently.
+
+303
+00:24:33,540 --> 00:24:34,705
+Speaker 0: That was kind of odd.
+
+304
+00:24:34,966 --> 00:24:38,140
+Speaker 0: Well, not odd like I'm not shocked, but it was interesting.
+
+305
+00:24:38,963 --> 00:24:45,325
+Speaker 0: One there was an increase in traffic fatalities during COVID Just generally.
+
+306
+00:24:45,345 --> 00:24:53,660
+Speaker 0: that only happened in the US and in no other country Mm-hmm, and two there was an uptick in violent crime during COVID.
+
+307
+00:24:55,122 --> 00:24:58,218
+Speaker 0: That also only happened in the United States and in no other country.
+
+308
+00:25:00,022 --> 00:25:02,854
+Speaker 0: So the United States we're just we're just banned a thousand.
+
+309
+00:25:03,738 --> 00:25:05,979
+Speaker 0: Yeah One last little news.
+
+310
+00:25:06,682 --> 00:25:18,074
+Speaker 0: So we live in New York and thus we live near a place that you may have heard of called the Jersey Shore Which is basically the entire right coast of the state of New Jersey is one long beach.
+
+311
+00:25:18,234 --> 00:25:36,878
+Speaker 0: effectively and different parts of it are Fancier or less fancy and generally the further south you go they get more naturey but also in a lot of ways and I say this with affection shittier, but Historically since the dawn of air travel the Jersey Shore has not been a place people go to Because it's nice.
+
+312
+00:25:37,482 --> 00:25:44,067
+Speaker 0: It's a place they go to either because it's cheap or because it's near New York City or Philadelphia Exactly.
+
+313
+00:25:44,148 --> 00:25:52,722
+Speaker 1: It's not a destination beach You can fly to like the aforementioned Miami or a tropical island and it's not a place that a cruise ship will stop Right.
+
+314
+00:25:53,103 --> 00:25:54,568
+Speaker 1: There's Atlantic City.
+
+315
+00:25:54,809 --> 00:25:56,073
+Speaker 1: you there isn't really.
+
+316
+00:25:56,213 --> 00:25:59,227
+Speaker 1: I mean, I guess there is sort of an Atlantic City Airport But it's not really.
+
+317
+00:25:59,247 --> 00:26:01,119
+Speaker 1: it's not like a real airport, right?
+
+318
+00:26:01,340 --> 00:26:04,140
+Speaker 1: You basically if you want to get to Atlantic City from far away.
+
+319
+00:26:04,220 --> 00:26:08,457
+Speaker 1: You've got like you're really gonna go to Philly and then you're gonna use bus or a train.
+
+320
+00:26:09,301 --> 00:26:12,291
+Speaker 0: Nobody wants to go City from far away, right?
+
+321
+00:26:12,331 --> 00:26:15,765
+Speaker 1: Well, it's also a lake city ain't what it used to be back in the day It was hot shit.
+
+322
+00:26:15,886 --> 00:26:19,044
+Speaker 0: It was hot shit until air travel Pretty much.
+
+323
+00:26:19,064 --> 00:26:29,650
+Speaker 1: Yeah, and so, you know the Jersey Shore It's like yet the beaches that exist for the people who are nearby right in Jersey and New York and some other places.
+
+324
+00:26:29,670 --> 00:26:42,139
+Speaker 0: because of that because this wasn't like a super well-developed destination place like a lot of beach towns in Jersey were kind of poor and things were cheap and Poorer people had access to beaches and could afford to like rent a beach house.
+
+325
+00:26:42,882 --> 00:26:46,440
+Speaker 1: Wasn't like Long Island where the beaches were only for fancy people like the Hamptons?
+
+326
+00:26:46,520 --> 00:26:48,649
+Speaker 1: Yeah, and they still are.
+
+327
+00:26:48,870 --> 00:26:52,844
+Speaker 1: but even though the water is so I better it Like even like.
+
+328
+00:26:52,864 --> 00:26:58,880
+Speaker 0: the only the only reason I still go to the Jersey Shore is one A lot of our friends can't travel that far that easily.
+
+329
+00:26:59,061 --> 00:27:02,292
+Speaker 0: So it's a place that like almost everyone we know can drive to.
+
+330
+00:27:02,312 --> 00:27:02,614
+Speaker 0: like.
+
+331
+00:27:02,654 --> 00:27:03,216
+Speaker 0: it's not that far.
+
+332
+00:27:03,276 --> 00:27:04,119
+Speaker 0: It's a couple hours from here.
+
+333
+00:27:05,321 --> 00:27:08,272
+Speaker 0: Well, it's it's like two hours from here if there's no traffic.
+
+334
+00:27:08,412 --> 00:27:12,027
+Speaker 1: We also know someone whose family has a house there Convenient for them.
+
+335
+00:27:12,269 --> 00:27:14,399
+Speaker 0: Yeah, lots of a lot of convenience factors there.
+
+336
+00:27:14,962 --> 00:27:23,759
+Speaker 0: But recently and this isn't just this one article in the Philadelphia Inquirer I actually saw a bunch of unrelated articles for a few months now talking about this topic.
+
+337
+00:27:25,520 --> 00:27:34,640
+Speaker 0: Basically tons of people bought properties all along the Jersey Shore and have been air being them for a while And this has now hit a crescendo of as they've done this.
+
+338
+00:27:34,700 --> 00:27:37,931
+Speaker 0: They've renovated these places and they've raised the prices.
+
+339
+00:27:38,413 --> 00:27:56,800
+Speaker 0: and they've raised the prices to the point That the average rental property in any of the parts of the Jersey Shore that are easier to get to especially from New York City Are so expensive that if you pay the same price You could fly to an actually good beach and stay in a similar nice place.
+
+340
+00:27:57,321 --> 00:28:03,520
+Speaker 0: And at that point why go to the Jersey Shore if it only costs a hundred bucks more to go to like Cancun?
+
+341
+00:28:04,042 --> 00:28:04,824
+Speaker 0: Why not just go to?
+
+342
+00:28:04,844 --> 00:28:09,280
+Speaker 1: the Jersey Shore is like I'm going to my local beach because it's convenient.
+
+343
+00:28:09,523 --> 00:28:13,129
+Speaker 1: It's not the best Beach It's just the close and easy one to get to.
+
+344
+00:28:13,150 --> 00:28:22,680
+Speaker 1: it doesn't cost a lot of time and money if it costs a lot of Time and money suddenly despite its closeness Why not spend the same time and money to go to a vastly superior Beach?
+
+345
+00:28:23,240 --> 00:28:42,680
+Speaker 0: And this has hit a crisis to where now like places aren't getting rented because they're so expensive and the people who own them Won't reduce the prices because they're actually in over their heads because these places aren't making the money they used to and they kind of priced The entire demographic of people who would be willing to go to the Jersey Shore out of going to the Jersey Shore.
+
+346
+00:28:43,860 --> 00:28:55,198
+Speaker 1: Yeah, I could talk all about Landlording because I've been I've been doing some landlording related investigation and Lording is but almost all cases and evil upon society.
+
+347
+00:28:55,519 --> 00:29:07,137
+Speaker 1: Yes I am of the opinion and there is evidence to suggest that basically we should just you know Find a way to eliminate or effectively eliminate Landlording and that would solve many problems.
+
+348
+00:29:07,399 --> 00:29:08,826
+Speaker 0: Yep I mean like.
+
+349
+00:29:08,866 --> 00:29:09,589
+Speaker 0: was it the whole like?
+
+350
+00:29:09,630 --> 00:29:21,039
+Speaker 1: if I if I was king it would just be Sort of in some way it would be impossible or if you were king You would have more to be a landlord or to profit from being one.
+
+351
+00:29:21,260 --> 00:29:25,020
+Speaker 0: Yeah, you would have to be some sort of other autocrat because if you were a king you will in fact have Lords.
+
+352
+00:29:25,821 --> 00:29:34,916
+Speaker 1: Would I as I have to if you're a mom who says I have to appoint Lords so you're gonna make I don't have to grant You the king kick the king can knight someone or give out a look.
+
+353
+00:29:34,936 --> 00:29:38,671
+Speaker 1: give us a lord That's that's that's right, but I don't have to do that.
+
+354
+00:29:38,751 --> 00:29:39,514
+Speaker 1: I can just like nope.
+
+355
+00:29:39,574 --> 00:29:44,920
+Speaker 0: I'm not giving out any titles, but then And how will you generate levies of the peasants?
+
+356
+00:29:46,722 --> 00:29:52,073
+Speaker 1: With the sword that I have cuz I'm the king Come try to come to court and try to stop me.
+
+357
+00:29:52,093 --> 00:29:52,879
+Speaker 1: I got a sword.
+
+358
+00:29:55,160 --> 00:29:57,519
+Speaker 1: Also first law only the king can have a sword.
+
+359
+00:30:00,083 --> 00:30:02,059
+Speaker 0: The first argument of kings instead of the last.
+
+360
+00:30:06,823 --> 00:30:08,779
+Speaker 0: But anyway things of the day.
+
+361
+00:30:09,445 --> 00:30:11,260
+Speaker 0: I hate to keep linking to youtubes.
+
+362
+00:30:11,401 --> 00:30:14,900
+Speaker 0: I actually do have a queue of things of the day that are websites as opposed to youtubes.
+
+363
+00:30:15,061 --> 00:30:16,879
+Speaker 0: But I laughed out loud at this.
+
+364
+00:30:17,901 --> 00:30:19,225
+Speaker 0: I did just.
+
+365
+00:30:19,265 --> 00:30:38,860
+Speaker 0: it's a YouTube short and it just starts with this very simple premise of a guy is like What's this tube in the closet in your bathroom and the person whose house He's in says like a hold on a minute goes gets his camera comes back Starts filming him on his phone and says alright What'd you just ask and then then the video starts at this moment where the guys like?
+
+366
+00:30:39,300 --> 00:30:41,668
+Speaker 0: So what's the deal with this tube in your closet?
+
+367
+00:30:41,909 --> 00:30:53,259
+Speaker 0: and then you see there's like a weird like big pipe Like going through the middle of this closet and the video will take you on a very short journey and you will never guess Where this journey ends.
+
+368
+00:30:54,082 --> 00:30:54,888
+Speaker 0: That's my thing of the day.
+
+369
+00:30:54,948 --> 00:30:56,640
+Speaker 1: I did because it was in the thumb.
+
+370
+00:30:56,720 --> 00:31:00,934
+Speaker 0: Yeah, the thumbnail ruins this so click on it from the website or it's gonna be ruined.
+
+371
+00:31:01,094 --> 00:31:02,800
+Speaker 0: I that thumbnail is unfortunate.
+
+372
+00:31:03,961 --> 00:31:06,751
+Speaker 1: Well, I also have a YouTube because I mean YouTube.
+
+373
+00:31:06,892 --> 00:31:11,352
+Speaker 1: it's like, you know, yeah most things the day are on YouTube But I feel like what's going on these days.
+
+374
+00:31:11,432 --> 00:31:12,579
+Speaker 1: Is that most of the fun?
+
+375
+00:31:13,440 --> 00:31:21,319
+Speaker 1: Things of the internet end up being in video form and that's really the only Place they're gonna be other than tick-tock where I don't go.
+
+376
+00:31:21,540 --> 00:31:25,500
+Speaker 0: There aren't that many websites left and I've linked to most of them already as things of the day.
+
+377
+00:31:25,560 --> 00:31:29,260
+Speaker 1: Yeah, it's like how you know, it's like yeah, are there websites with fun cool shit?
+
+378
+00:31:29,460 --> 00:31:38,530
+Speaker 1: Yeah, but it's like there aren't like new ones that you're finding out about so constantly but in your YouTube feed There's like tens of them per day right coming in all the time.
+
+379
+00:31:39,232 --> 00:31:52,520
+Speaker 1: So here's a person who is tired of Chess hustlers in the park, so they made and manufactured something which is awesome Which is shock chess, which is a chess board that fucking shocks you and it's painful.
+
+380
+00:31:54,786 --> 00:31:56,159
+Speaker 1: And basically it has different modes.
+
+381
+00:31:56,642 --> 00:31:58,870
+Speaker 1: There's illegal mode which only shocks you.
+
+382
+00:31:58,950 --> 00:32:07,288
+Speaker 1: if like you were to try to make any legal moves Like let's say it's the first the game just started and like you touch your rook in the corner It's like obviously you can't move that on turn one.
+
+383
+00:32:07,308 --> 00:32:08,312
+Speaker 1: Yeah, it's trapped.
+
+384
+00:32:08,713 --> 00:32:10,320
+Speaker 1: So if you touch it, that'll shock you right?
+
+385
+00:32:10,988 --> 00:32:13,971
+Speaker 1: There's another mode That will like use.
+
+386
+00:32:14,052 --> 00:32:21,980
+Speaker 1: he's got a Raspberry Pi Running like the basic chess bot off to the side and it shocks you if you make a particularly stupid move.
+
+387
+00:32:22,424 --> 00:32:31,280
+Speaker 1: Oh, I like that mode a lot Yeah But basically there's different modes of it of when it will shock you and he tried to go and play against some hustlers.
+
+388
+00:32:31,623 --> 00:32:33,760
+Speaker 1: But that's only a very small portion of the video.
+
+389
+00:32:33,880 --> 00:32:39,000
+Speaker 1: Most of the video is about the manufacturing of the device getting it to work at how it works.
+
+390
+00:32:39,923 --> 00:32:45,480
+Speaker 1: You know the lessons learned while making it and etc, which is the the interesting part.
+
+391
+00:32:45,500 --> 00:32:52,459
+Speaker 0: I feel like there's a fine art to making a shock device that is painful enough to be funny and fun But not dangerous or too painful.
+
+392
+00:32:53,122 --> 00:32:59,040
+Speaker 1: I can't give a true opinion on how painful this one is because I have not and will not touch it.
+
+393
+00:32:59,160 --> 00:33:01,570
+Speaker 0: I would tell you I would absolutely to play chess on this thing.
+
+394
+00:33:01,972 --> 00:33:04,020
+Speaker 0: I was judging I've been ties reactions.
+
+395
+00:33:04,402 --> 00:33:10,674
+Speaker 1: Yes, judging by the reactions of the people playing it That looks too painful for me.
+
+396
+00:33:10,735 --> 00:33:11,460
+Speaker 1: I'm gonna stay away.
+
+397
+00:33:11,701 --> 00:33:28,380
+Speaker 0: You know, it's hard to say because if you've never been like for real shocked or tased before a very light shocks are way more Sensory input than the average person thinks they're going to be and it's not actually that much pain.
+
+398
+00:33:28,942 --> 00:33:30,508
+Speaker 0: It's a whole bunch of other sensations.
+
+399
+00:33:30,548 --> 00:33:31,914
+Speaker 0: You're not expecting that suck.
+
+400
+00:33:33,500 --> 00:33:42,035
+Speaker 0: I guess I've been shocked a bunch of times in my life, so I'm kind of used to it, but Hmm All right, let's get right into it because you know, this is another.
+
+401
+00:33:42,276 --> 00:33:46,420
+Speaker 1: cars are evil Especially considering a stack not just cars, but a lot of cars.
+
+402
+00:33:46,420 --> 00:33:55,133
+Speaker 0: Well, not just cars, but I did a bunch more googling after what I posted in our private discord while we were talking about this earlier today.
+
+403
+00:33:56,323 --> 00:34:02,065
+Speaker 0: Based on all the research I have done over about three hours today between 60 and 85 percent of all.
+
+404
+00:34:05,033 --> 00:34:12,509
+Speaker 0: The noise pollution in cities in America is caused by road noise alone.
+
+405
+00:34:13,431 --> 00:34:20,029
+Speaker 1: Yes, even electric cars which don't have the engine noise the tire on ground noise is.
+
+406
+00:34:20,951 --> 00:34:23,864
+Speaker 0: I'm glad you brought that up because that was the other thing I learned.
+
+407
+00:34:24,306 --> 00:34:25,632
+Speaker 1: it is significant Right.
+
+408
+00:34:25,713 --> 00:34:26,134
+Speaker 1: In fact
+
+409
+00:34:26,215 --> 00:34:29,248
+Speaker 0: electric cars when you're louder than gas cars at speed
+
+410
+00:34:30,172 --> 00:34:51,774
+Speaker 1: Right, if you open up your window right in a city right even if there is no honking even if there's no Engines revving even if there's no big guy with a big stereo in his car what you hear is like this white noise like Right, and that white noise is tires on road Moving.
+
+411
+00:34:51,833 --> 00:34:54,230
+Speaker 0: Yep, and it is so pervasive.
+
+412
+00:34:54,411 --> 00:34:58,970
+Speaker 0: So Emily know we're talking about camping but one of the places we camp is a place called Harriman Park.
+
+413
+00:34:59,070 --> 00:35:00,475
+Speaker 0: It's way it's upstate from New York.
+
+414
+00:35:00,515 --> 00:35:01,578
+Speaker 0: Like it weighs away.
+
+415
+00:35:02,120 --> 00:35:05,030
+Speaker 0: It's pretty far away from like freeways and it's huge.
+
+416
+00:35:05,651 --> 00:35:18,625
+Speaker 0: so like we'll hike 16 miles and camp in a valley surrounded by mountains and yet in the middle of the night and You can hear the roar of the fucking New York State Thruway way off in the distance.
+
+417
+00:35:18,726 --> 00:35:19,568
+Speaker 0: It never stops.
+
+418
+00:35:19,628 --> 00:35:20,370
+Speaker 0: It's always there.
+
+419
+00:35:20,430 --> 00:35:22,818
+Speaker 0: You can't escape it and there is evidence.
+
+420
+00:35:22,899 --> 00:35:35,137
+Speaker 0: there is a lot of evidence and this evidence is growing especially Over the last 20 years that that kind of noise pollution like and this is gonna sound crazy Literally causes cancer among other things.
+
+421
+00:35:35,238 --> 00:35:39,270
+Speaker 0: the noise itself is dangerous to human health and human sanity.
+
+422
+00:35:40,571 --> 00:35:40,712
+Speaker 1: Yep.
+
+423
+00:35:40,973 --> 00:35:44,704
+Speaker 1: No, there's it seems like every day or you know, at least every week.
+
+424
+00:35:45,086 --> 00:35:46,470
+Speaker 1: I'm seeing like a new study.
+
+425
+00:35:46,490 --> 00:36:02,230
+Speaker 1: We're not talking about a new news story about an old study that talks about the very real Physical damage that is done to the human body by Excessive noises loud noises noises that are there for too long a period right?
+
+426
+00:36:02,330 --> 00:36:02,992
+Speaker 1: We already know.
+
+427
+00:36:03,173 --> 00:36:08,470
+Speaker 1: obviously hearing damage is obvious right if you go to too many metal concepts, you'll have hearing damage, right?
+
+428
+00:36:09,052 --> 00:36:20,855
+Speaker 1: And it was a while ago that there were reports And as I've been I think there's several studies that show how you know blood pressure and hypertension come from Loud noises.
+
+429
+00:36:20,975 --> 00:36:21,658
+Speaker 1: I'll sing it right.
+
+430
+00:36:21,839 --> 00:36:24,510
+Speaker 1: so it's like because it must activate, you know.
+
+431
+00:36:24,550 --> 00:36:32,140
+Speaker 1: the theory I guess is that it activates sort of the you know, the sort of Emergency, whatever, you know part in your brain.
+
+432
+00:36:32,461 --> 00:36:34,107
+Speaker 1: That's like oh no, I gotta be alert.
+
+433
+00:36:34,127 --> 00:36:35,673
+Speaker 1: There's loud noise It's dangerous.
+
+434
+00:36:35,733 --> 00:36:36,778
+Speaker 0: I read was more interesting.
+
+435
+00:36:36,798 --> 00:36:53,300
+Speaker 0: It had to do with sentition like sentient sensory input versus the sentition of the rest of the brain in that Even if your conscious brain has filtered it out because the human sentience actually mammals engines It one thing it's super good at is it kind of ignores anything.
+
+436
+00:36:53,361 --> 00:36:56,790
+Speaker 0: That is a constant stimulus because that's a constant.
+
+437
+00:36:56,912 --> 00:36:58,209
+Speaker 0: It's looking for change and patterns.
+
+438
+00:36:58,671 --> 00:37:00,858
+Speaker 0: So you won't be conscious of that noise.
+
+439
+00:37:01,199 --> 00:37:09,267
+Speaker 0: most people in America are not conscious of that road background noise until like they go out to the wilderness and then they don't hear it anymore and it sounds weird.
+
+440
+00:37:09,548 --> 00:37:16,710
+Speaker 0: and then they hear their own tinnitus, but Most of the rest of your brain It doesn't stop hearing it.
+
+441
+00:37:16,830 --> 00:37:18,757
+Speaker 0: It just doesn't tell you the sentient part about it.
+
+442
+00:37:18,817 --> 00:37:23,497
+Speaker 0: that noise is still there and neurons are firing constantly about it Mm-hmm.
+
+443
+00:37:25,013 --> 00:37:34,290
+Speaker 1: So yeah, if you were to eliminate noise pollution, you would probably reduce, you know I keep saying this a lot but we people look at like the CDC has this thing.
+
+444
+00:37:34,330 --> 00:37:42,328
+Speaker 1: It's like what kills the most Americans right the thing that kills the most Americans I guess before they're supposed to die because everyone's gonna die eventually.
+
+445
+00:37:42,349 --> 00:37:51,409
+Speaker 1: Yeah Yeah, the thing that kills people before they quote should die Prematurely is heart disease.
+
+446
+00:37:52,031 --> 00:37:52,653
+Speaker 0: But how?
+
+447
+00:37:52,814 --> 00:37:59,893
+Speaker 1: the question that's still I guess unanswered is how much of heart that heart disease, you know You got to break it down.
+
+448
+00:37:59,973 --> 00:38:03,263
+Speaker 1: It's like what is causing those different cases of heart disease?
+
+449
+00:38:03,324 --> 00:38:05,410
+Speaker 1: Some portion is going to be genetic obviously.
+
+450
+00:38:06,512 --> 00:38:09,770
+Speaker 1: Some portion is going to be from air pollution, right?
+
+451
+00:38:09,810 --> 00:38:10,453
+Speaker 1: We already know that.
+
+452
+00:38:10,554 --> 00:38:15,014
+Speaker 1: that, you know breathing in all sorts of nasty shit can give you you know Contribute to heart disease.
+
+453
+00:38:15,516 --> 00:38:23,656
+Speaker 1: some of it's gonna be diseases, you know someone, you know, it's not that many anymore Thankfully, but like my grandfather had you know The rheumatic fever and that can.
+
+454
+00:38:23,696 --> 00:38:25,020
+Speaker 1: that causes some heart damage.
+
+455
+00:38:25,060 --> 00:38:27,447
+Speaker 1: some people just get diseases that damage their heart.
+
+456
+00:38:27,547 --> 00:38:28,069
+Speaker 1: that happens.
+
+457
+00:38:29,052 --> 00:38:33,290
+Speaker 1: Some people out there eat too many McDonald's and that's gonna give you heart disease, right?
+
+458
+00:38:33,611 --> 00:38:37,430
+Speaker 1: But how much of heart disease comes from noise pollution?
+
+459
+00:38:38,072 --> 00:38:40,960
+Speaker 1: It's a lot more than people realize it could be.
+
+460
+00:38:41,021 --> 00:38:48,189
+Speaker 1: as much as air we don't know right and you know Not related to noise pollution, but also still related to cars.
+
+461
+00:38:49,833 --> 00:38:59,728
+Speaker 1: If someone is living in a car place using a car to go everywhere They're walking less there right there even trying to park close so they don't have to walk down the whole parking lot.
+
+462
+00:39:00,249 --> 00:39:02,879
+Speaker 1: that Decreased physical activity in their life.
+
+463
+00:39:03,461 --> 00:39:06,030
+Speaker 1: How much has the car given them heart disease?
+
+464
+00:39:06,050 --> 00:39:11,489
+Speaker 0: Nevermind the air pollution of the car and the car culture around them, right?
+
+465
+00:39:11,990 --> 00:39:27,066
+Speaker 1: So if you add together the noise the air pollution and the lack of exercise which are all car related The question is that we don't know the answer to what portion of the heart disease deaths The number one killer of Americans are because of cars and then the second worse
+
+466
+00:39:27,387 --> 00:39:43,729
+Speaker 0: than that because tons of studies show that car culture led to suburbanization which led to Significant social isolation which itself is a cause of depression and anxiety Which is one of the contributing factors to heart disease and death.
+
+467
+00:39:44,451 --> 00:39:51,749
+Speaker 1: Yep, and then on top of all that the second killer of Americans is what the CDC labels as accidents, right?
+
+468
+00:39:52,292 --> 00:39:55,262
+Speaker 0: Oh, yeah It's just actually literally directly killing people.
+
+469
+00:39:55,544 --> 00:40:02,689
+Speaker 1: but well, but that that includes all Accidents right that includes falling down the stairs and yeah.
+
+470
+00:40:02,810 --> 00:40:07,410
+Speaker 0: And the number one killer the number one cause of accidents if I recall correctly is bathrooms.
+
+471
+00:40:08,320 --> 00:40:16,795
+Speaker 1: yeah, but in that big accidents number the second most killer of people of the United States is The car crashes.
+
+472
+00:40:16,836 --> 00:40:19,085
+Speaker 1: they're just calling them accidents, but don't say that.
+
+473
+00:40:19,125 --> 00:40:26,230
+Speaker 1: say crashes because it's better And more accurate because if they're not it's not an accident when a car hits a person and murders them.
+
+474
+00:40:26,391 --> 00:40:27,399
+Speaker 1: So when?
+
+475
+00:40:27,722 --> 00:40:28,569
+Speaker 1: so that's it.
+
+476
+00:40:29,871 --> 00:40:31,556
+Speaker 1: But the noise the point is top.
+
+477
+00:40:31,636 --> 00:40:36,610
+Speaker 1: the main topic of noise pollution is a much more significant chunk of that whole picture.
+
+478
+00:40:36,690 --> 00:40:42,535
+Speaker 1: then was previously, you know thought and It's like constantly.
+
+479
+00:40:42,595 --> 00:40:44,020
+Speaker 1: we're learning actually.
+
+480
+00:40:44,080 --> 00:40:44,622
+Speaker 1: No, it's big.
+
+481
+00:40:44,662 --> 00:40:45,846
+Speaker 1: It's even bigger than you thought.
+
+482
+00:40:45,927 --> 00:40:46,830
+Speaker 1: It's extremely bad.
+
+483
+00:40:46,830 --> 00:40:48,039
+Speaker 0: No, you know this intuitively.
+
+484
+00:40:48,080 --> 00:41:07,662
+Speaker 0: if you live in a loud place Which is all pretty much any American city or any American suburb If you have ever left that place like you're in a car you drive somewhere You go out to the wilderness like to stay in a cabin in the woods or a camp or something And then you open the door to your car and it's so quiet out.
+
+485
+00:41:08,123 --> 00:41:14,610
+Speaker 0: You know that feeling it's like this Specific feeling of relief from something you didn't realize was annoying you.
+
+486
+00:41:15,112 --> 00:41:18,143
+Speaker 1: Well, I think the opposite is someone who's lived in the woods the whole time.
+
+487
+00:41:18,203 --> 00:41:20,150
+Speaker 1: if they ever go to a city, right?
+
+488
+00:41:20,550 --> 00:41:23,581
+Speaker 1: It's like it takes them a little while to get used to the noise.
+
+489
+00:41:23,601 --> 00:41:30,390
+Speaker 0: Yeah, much like someone going to a high altitude Mmm, you know, but you never fully get used to it like living at a high altitude.
+
+490
+00:41:30,691 --> 00:41:33,960
+Speaker 0: Not super great for you long term actually living in a loud place.
+
+491
+00:41:34,020 --> 00:41:45,715
+Speaker 1: Also, even if you get used to it not super great for you Yep, another thing with noise pollution is that it has been shown to make people, you know, angry Irritable.
+
+492
+00:41:45,736 --> 00:41:47,188
+Speaker 1: Yeah upset, etc.
+
+493
+00:41:47,491 --> 00:41:55,250
+Speaker 1: right how much of You know say road rage, right but also non car situations, right?
+
+494
+00:41:55,330 --> 00:42:01,130
+Speaker 1: How many fights in bars were because what it would not have happened if the music wasn't so loud in the bar?
+
+495
+00:42:02,531 --> 00:42:08,670
+Speaker 1: How many times you know, there's you know been concerts and things where people got angry and shot each other?
+
+496
+00:42:09,152 --> 00:42:12,023
+Speaker 1: Would that have happened if the concert had the volume at a reasonable level?
+
+497
+00:42:12,767 --> 00:42:13,550
+Speaker 1: you but we don't know.
+
+498
+00:42:13,771 --> 00:42:19,793
+Speaker 1: We can't go back and test that but we do know that excessively loud noise Causes anger.
+
+499
+00:42:20,094 --> 00:42:21,559
+Speaker 1: right there have probably been.
+
+500
+00:42:21,579 --> 00:42:28,706
+Speaker 1: how many cases has there been someone making loud noise That made the neighbor angry and the neighbor came over and murdered them?
+
+501
+00:42:28,726 --> 00:42:29,931
+Speaker 1: because this is America Yep.
+
+502
+00:42:30,653 --> 00:42:33,963
+Speaker 0: Now what's insidious about this and this?
+
+503
+00:42:34,043 --> 00:42:43,730
+Speaker 0: actually this was a topic in a tech transfer class I took at RIT in college my sophomore year and this class was actually about the externalities of technology.
+
+504
+00:42:44,011 --> 00:43:12,390
+Speaker 0: It was all around like the ethics of deploying technology and a lot of people at RIT took the same class because they talked a lot about certain native tribes and snowmobiles and elk as like one of the primary examples, but noise pollution actually came up in that class as an example of the externalities of a technology that Societies all around the world just choose to ignore completely like they don't think of it as an externality.
+
+505
+00:43:12,591 --> 00:43:15,670
+Speaker 1: Well, I mean they didn't think of air pollution as an externality.
+
+506
+00:43:17,153 --> 00:43:27,207
+Speaker 0: There's tons of evidence that early industrialization Early old petrochemical companies early factories even call they knew it was bad.
+
+507
+00:43:27,287 --> 00:43:29,314
+Speaker 0: They knew it was harmful They knew it was dangerous.
+
+508
+00:43:29,595 --> 00:43:33,168
+Speaker 0: They covered it up avoided it minimized it but they recognized its danger.
+
+509
+00:43:33,609 --> 00:43:41,030
+Speaker 0: noise Pollution is worse in that even people who care Just don't recognize it as a problem.
+
+510
+00:43:41,412 --> 00:43:45,910
+Speaker 1: Well, I think the thing is with noise pollution, I guess if you just try to think about it logically, right?
+
+511
+00:43:45,970 --> 00:43:56,089
+Speaker 1: it's like you think about air pollution and it's like you see that there are these particles of chemicals like My lungs and then I get right like okay, like it's easy for someone who you know doesn't you know?
+
+512
+00:43:56,470 --> 00:44:00,210
+Speaker 1: Yeah, read scientific studies to understand how that is hurting you, right?
+
+513
+00:44:00,310 --> 00:44:13,135
+Speaker 1: It's like you can see, you know, even you know, people can see is guns are dangerous a bullet hits you die Right, no, I watch that documentary on love canal like yeah dangerous chemicals right fuck you up or like, you know food could be unhealthy For you.
+
+514
+00:44:13,195 --> 00:44:14,950
+Speaker 1: it's a thing that you put in your body, right?
+
+515
+00:44:15,030 --> 00:44:23,429
+Speaker 1: but people look at noise and they could understand how noise might mess up your hearing because it's you know, It's really directly related to hearing obviously, right?
+
+516
+00:44:23,850 --> 00:44:30,750
+Speaker 1: But to tell someone that like no loud noises can give you a heart attack like for real that could actually be the cause.
+
+517
+00:44:31,332 --> 00:44:38,738
+Speaker 1: It's like it's the air moving back and forth and hitting your eardrum and that somehow Makes your heart fuck up.
+
+518
+00:44:38,919 --> 00:44:40,788
+Speaker 0: It's like this is this is a blind spot.
+
+519
+00:44:40,828 --> 00:44:42,714
+Speaker 1: So true All right, it's a fact.
+
+520
+00:44:43,216 --> 00:44:47,710
+Speaker 1: but to it's like to convince someone that that's true.
+
+521
+00:44:47,850 --> 00:44:51,622
+Speaker 1: You know who's a lay person is not as easy.
+
+522
+00:44:51,682 --> 00:44:53,508
+Speaker 1: It's not as obvious with it.
+
+523
+00:44:53,548 --> 00:44:57,221
+Speaker 1: without science We wouldn't even know that we would never have figured that out without science.
+
+524
+00:44:57,241 --> 00:45:03,236
+Speaker 0: Well case in point think about there's a. there's a related principle Not to get into quantum physics, but the whole if you like.
+
+525
+00:45:03,276 --> 00:45:17,747
+Speaker 0: the thing doesn't happen until you observe it or observing something can change the result and a lot of people really misunderstand that because we like to think of Words or sounds are a sensation and their logic and their language.
+
+526
+00:45:17,787 --> 00:45:18,710
+Speaker 0: They're not physical.
+
+527
+00:45:18,810 --> 00:45:20,819
+Speaker 0: They don't think about the physicality of it.
+
+528
+00:45:21,281 --> 00:45:30,183
+Speaker 0: in the same way that that whole Observing the experiment changes the result is kind of made up because the reality is the concept of observation doesn't exist.
+
+529
+00:45:30,203 --> 00:45:31,749
+Speaker 0: to observe something you interact with it.
+
+530
+00:45:32,010 --> 00:45:34,718
+Speaker 0: a Photon hits you that came away from that thing.
+
+531
+00:45:35,119 --> 00:45:40,921
+Speaker 0: So sound is directly interfacing with neurons and your biochemistry Mm-hmm.
+
+532
+00:45:42,253 --> 00:45:43,498
+Speaker 1: It's basically what's what?
+
+533
+00:45:43,678 --> 00:45:50,302
+Speaker 1: the mechanism that's happening is that it's causing, you know The these systems in your body or you know your glands and your.
+
+534
+00:45:50,563 --> 00:46:08,690
+Speaker 1: you know endocrine and all the different, you know doctor, right While we're talking Yeah, the unconscious parts of your body that are regulating your systems Right when there's loud noises that actually causes them to behave differently in a way that is not good for your health.
+
+535
+00:46:08,890 --> 00:46:20,444
+Speaker 0: So we've been talking about human society and people up to this point and if you scroll down to the Wikipedia Obviously, it's fucking up animals - yeah, I was gonna talk about animals.
+
+536
+00:46:20,484 --> 00:46:22,370
+Speaker 0: next it's fucking up animals a lot.
+
+537
+00:46:22,551 --> 00:46:32,150
+Speaker 0: but I want to point out that One thing that noise pollution has quote emerged as a prominent stressor on is coral reefs.
+
+538
+00:46:33,415 --> 00:46:34,370
+Speaker 0: We're so fucking.
+
+539
+00:46:35,370 --> 00:46:46,089
+Speaker 1: We're killing the coral reefs not just for sunscreen and global warming but being loud Right, you would think that they said that you know, the the fish would be the ones protected, you know everything.
+
+540
+00:46:46,149 --> 00:46:51,895
+Speaker 1: it's like Travel so much better in water Right, but the sound has to be right.
+
+541
+00:46:51,935 --> 00:46:57,070
+Speaker 1: Here's the thing is like, you know, okay sounds made above the water, right?
+
+542
+00:46:57,230 --> 00:47:00,910
+Speaker 1: It's like if you go underwater, you can't really hear what's going on in the beach.
+
+543
+00:47:00,990 --> 00:47:07,911
+Speaker 0: Yeah, right, but you can hear maybe a little The other side of the pool and snap my fingers and Scott would hear it Right.
+
+544
+00:47:08,272 --> 00:47:08,814
+Speaker 1: And so what?
+
+545
+00:47:08,874 --> 00:47:15,310
+Speaker 1: the noise pollution that is fucking up in the ocean animals is not the noise from the city, right?
+
+546
+00:47:15,692 --> 00:47:16,959
+Speaker 1: It's the noise from the shit.
+
+547
+00:47:16,979 --> 00:47:25,822
+Speaker 1: We're doing in the water underwater mining submarines with sonar Big ol cruise ships right all that kind of shit is what is making.
+
+548
+00:47:25,962 --> 00:47:40,867
+Speaker 1: we're making noise underwater to with all of our water Related activities and that is literally directly one of the things killing coral reefs specifically Mm-hmm, because animals don't know what's a artificial and unofficial noise, right?
+
+549
+00:47:41,409 --> 00:47:41,850
+Speaker 1: It's a fish.
+
+550
+00:47:42,031 --> 00:47:51,310
+Speaker 1: Yeah, so, you know, it's it's fucking that it Basically, it's hard to think of a you know an animal or a life form that you know doesn't give a shit at all about.
+
+551
+00:47:51,471 --> 00:47:54,510
+Speaker 1: You know sound that's happening in its environment.
+
+552
+00:47:54,912 --> 00:47:59,430
+Speaker 0: I mean sound is one of the primary senses of complex organisms full stop.
+
+553
+00:48:00,212 --> 00:48:05,104
+Speaker 1: Yeah, it's like, you know a smaller organism that might not have any sort of ear of any kind.
+
+554
+00:48:05,565 --> 00:48:11,386
+Speaker 1: the vibration of a loud sound Is going to physically impact it and make you know, you think of like a bee.
+
+555
+00:48:11,787 --> 00:48:14,278
+Speaker 1: it's like, okay I don't know if a bee has ears or not.
+
+556
+00:48:14,339 --> 00:48:16,790
+Speaker 1: Someone will probably tell me they do but let's pretend that they don't.
+
+557
+00:48:17,411 --> 00:48:21,850
+Speaker 1: It's like if you bring a bee to the club and you start blasting it, right?
+
+558
+00:48:22,290 --> 00:48:25,944
+Speaker 1: Yeah, that bee is gonna have hard time flying near the speakers because the air is going by it.
+
+559
+00:48:26,044 --> 00:48:28,052
+Speaker 1: right it is smacking that bee Around.
+
+560
+00:48:28,474 --> 00:48:29,478
+Speaker 1: it's not good for the bee.
+
+561
+00:48:29,498 --> 00:48:31,225
+Speaker 1: You're physically assaulting it with air.
+
+562
+00:48:31,386 --> 00:48:32,390
+Speaker 0: You want to get even worse?
+
+563
+00:48:33,755 --> 00:48:34,710
+Speaker 0: And I can get this more competed.
+
+564
+00:48:34,710 --> 00:48:41,574
+Speaker 0: There's something I knew cuz you know that the whole debate around how it's hard to understand dialogue and shows now with movies with the whole speaker thing.
+
+565
+00:48:41,976 --> 00:49:02,318
+Speaker 0: so there are a ton of studies showing that people who for any reason Struggle to understand human speech in media or in person which can be caused by hearing loss But can also be caused by environmental noise that has a direct and possibly causal correlation with Alzheimer's Not even the damage from the sound.
+
+566
+00:49:02,660 --> 00:49:09,530
+Speaker 0: it's the reduction in symbolic Information coming in orally to the sentient part of the brain.
+
+567
+00:49:09,911 --> 00:49:17,209
+Speaker 0: You're understanding fewer of the words that are being said and your brains doing less and that seems to be a contributing factor to a number of forms of dementia.
+
+568
+00:49:18,834 --> 00:49:27,861
+Speaker 0: in fact one study even showed that People who are prescribed hearing aids, but don't wear them Choose to not wear them not forget to not wear them.
+
+569
+00:49:28,041 --> 00:49:30,050
+Speaker 0: Obviously that was controlled for in these studies.
+
+570
+00:49:30,672 --> 00:49:34,607
+Speaker 0: They are much more likely to develop dementia than people who wear the hearing aid.
+
+571
+00:49:34,628 --> 00:49:40,794
+Speaker 0: They're prescribed mmm, so yeah noise, uh Noise is fucking us up.
+
+572
+00:49:40,935 --> 00:49:42,882
+Speaker 0: And yet it's uh, it's insidious.
+
+573
+00:49:42,922 --> 00:49:45,010
+Speaker 0: This is something that's hard to talk about.
+
+574
+00:49:45,110 --> 00:49:48,250
+Speaker 0: It won't be taken seriously by a lot of people if you even for a lot.
+
+575
+00:49:48,270 --> 00:49:59,489
+Speaker 1: We need to basically do what we can to sort of, you know, bring the noise pollution, you know Discuss you can't really take any action right now and we can ban leaf blowers.
+
+576
+00:50:00,454 --> 00:50:01,801
+Speaker 1: Yeah, leaf blowers are a big one.
+
+577
+00:50:01,841 --> 00:50:02,785
+Speaker 1: That's the one that's annoying.
+
+578
+00:50:02,825 --> 00:50:03,750
+Speaker 1: all the suburban people.
+
+579
+00:50:04,771 --> 00:50:08,570
+Speaker 0: People are also the ones who demand the use of the leaf blowers they claim to hate.
+
+580
+00:50:09,350 --> 00:50:10,238
+Speaker 1: Exactly, right.
+
+581
+00:50:10,299 --> 00:50:14,970
+Speaker 0: It's like, you know They're voting to get themselves punched in their own dicks.
+
+582
+00:50:15,553 --> 00:50:19,230
+Speaker 1: Yeah, we could we could discuss the leaf blower topic itself for a long time.
+
+583
+00:50:19,350 --> 00:50:20,757
+Speaker 1: But just ban of the point.
+
+584
+00:50:21,018 --> 00:50:30,930
+Speaker 1: the point I think that's worth discussing with the leaf blower Is that you know you there are noises which are loud that are at least somewhat?
+
+585
+00:50:31,830 --> 00:50:36,226
+Speaker 0: Arguably necessary sometimes like you have to jackhammer something sometimes to build a build.
+
+586
+00:50:36,387 --> 00:50:37,210
+Speaker 1: exactly, right?
+
+587
+00:50:37,310 --> 00:50:42,915
+Speaker 1: It's like okay you want to do your construction on it to make a new building But pollution is the same way.
+
+588
+00:50:43,096 --> 00:50:50,445
+Speaker 0: we need to make some amount of concrete but concrete Releases co2 so we should be judicious about it.
+
+589
+00:50:50,806 --> 00:50:54,745
+Speaker 0: Just like we have rules You can only let this much of this chemical into the environment.
+
+590
+00:50:54,885 --> 00:50:55,770
+Speaker 0: We need more rules.
+
+591
+00:50:56,092 --> 00:50:58,770
+Speaker 0: You can only let this much noise into the environment.
+
+592
+00:50:59,352 --> 00:51:03,350
+Speaker 0: Yep, and you're a lot of rules around this like in commercial and residential buildings.
+
+593
+00:51:03,872 --> 00:51:09,450
+Speaker 0: They cannot do certain kinds of work outside of very specific hours like our building.
+
+594
+00:51:09,692 --> 00:51:15,890
+Speaker 0: They have to warn us if there's going to be noise in During the day or at night and we get posted like a for these three days.
+
+595
+00:51:16,232 --> 00:51:17,860
+Speaker 0: There's gonna be noise between 8 a.m.
+
+596
+00:51:17,880 --> 00:51:18,523
+Speaker 0: And 5 p.m.
+
+597
+00:51:18,543 --> 00:51:19,870
+Speaker 0: Because we're jackhammering something.
+
+598
+00:51:20,514 --> 00:51:21,702
+Speaker 1: Alright, so recommend muscle.
+
+599
+00:51:21,722 --> 00:51:40,777
+Speaker 1: The first thing is basically What I would recommend doing realistically is number one you should strongly consider right Getting ear protection of various kinds and using it judiciously right where you know noise cancelling Headphones or earbuds of some kind.
+
+600
+00:51:40,837 --> 00:51:47,628
+Speaker 1: if you're going to a loud place right where earplugs to every concert you go to or Unless it's like that
+
+601
+00:51:47,770 --> 00:51:49,450
+Speaker 0: Unamplified classic guitar
+
+602
+00:51:50,431 --> 00:51:59,702
+Speaker 1: Yeah, even if you go to a loud sporting event, right which normally wouldn't be loud enough to like, you know Like it's tolerably loud, you know, whereas like a concert is constantly loud.
+
+603
+00:51:59,722 --> 00:52:01,828
+Speaker 1: You like I still go to the playoffs.
+
+604
+00:52:02,591 --> 00:52:03,421
+Speaker 1: I was wearing earplugs.
+
+605
+00:52:03,441 --> 00:52:19,184
+Speaker 1: Yeah It's sort of sad because it's a little less fun with the earplugs, right but You take them out if it makes it to OT Sure, but it's also more fun because you could.
+
+606
+00:52:19,344 --> 00:52:20,510
+Speaker 1: it's weird with the earplugs.
+
+607
+00:52:20,610 --> 00:52:21,915
+Speaker 1: I can actually clearly hear the.
+
+608
+00:52:21,935 --> 00:52:29,909
+Speaker 1: it blocks out all the people far away and it dulls all the crowd noise But it makes the people nearby yelling really clear.
+
+609
+00:52:30,198 --> 00:52:31,537
+Speaker 0: Yeah And it sounds like there.
+
+610
+00:52:31,617 --> 00:52:40,970
+Speaker 1: it sounds like they're just talking to me normally Even though they're yelling from like a few feet away or a few rows back And so that normally if I didn't have the earplugs, I couldn't hear them.
+
+611
+00:52:41,030 --> 00:52:43,082
+Speaker 1: they would just be part of the now that I think about.
+
+612
+00:52:43,122 --> 00:52:45,675
+Speaker 0: I've noticed that too because I was The peer.
+
+613
+00:52:46,097 --> 00:52:53,510
+Speaker 0: I'd say 80% of the people who yell stuff are semi incoherent But every now and then there's someone who's actually legitimately funny and coherent nearby.
+
+614
+00:52:53,610 --> 00:52:54,394
+Speaker 0: Yeah, the point
+
+615
+00:52:54,455 --> 00:53:09,630
+Speaker 1: is is that this is a worthwhile investment, you know If you can insulate rooms in your house or from sound if there's noises in your environment If your home is not well sound insulated anything you can do to block out noise pollution is a worthwhile investment.
+
+616
+00:53:09,771 --> 00:53:14,649
+Speaker 1: It will literally evidence is showing us add years to your life and increase the quality of your life.
+
+617
+00:53:15,231 --> 00:53:24,013
+Speaker 1: So even if it's like expensive to get some Apple AirPods max or some Bose whatever or it makes the concert less fun Do it.
+
+618
+00:53:24,073 --> 00:53:27,387
+Speaker 0: Anyway now before any of you say, oh, well, the government never did anything about this.
+
+619
+00:53:27,487 --> 00:53:35,350
+Speaker 0: So one The noise control act of 1972 actually establishes everything we talked about in significant detail.
+
+620
+00:53:35,671 --> 00:53:44,256
+Speaker 0: The US has recognized around the same time the EPA started getting power and OSHA started getting real power that noise is very Specifically dangerous to humans.
+
+621
+00:53:44,517 --> 00:53:47,370
+Speaker 0: This has actually been well known even by our government.
+
+622
+00:53:47,631 --> 00:53:56,215
+Speaker 0: The problem is we don't give any of the authorities enough power to make rules and enforce rules about noise Despite recognizing the danger.
+
+623
+00:53:56,536 --> 00:53:59,405
+Speaker 1: I don't think that that's the you know, the issue right?
+
+624
+00:53:59,465 --> 00:54:08,008
+Speaker 1: I think it's that there are Laws like, you know You could call in noise complaints in New York City and they're supposed to do something about them and they don't now wait.
+
+625
+00:54:08,189 --> 00:54:11,982
+Speaker 1: earlier in This podcast Scott you said you don't believe in enforcement and I still don't.
+
+626
+00:54:12,082 --> 00:54:13,166
+Speaker 1: I don't believe that noise.
+
+627
+00:54:13,206 --> 00:54:17,009
+Speaker 1: could they find all the people Making noise complaints that it would do anything?
+
+628
+00:54:17,752 --> 00:54:19,519
+Speaker 1: But of course, it's still worth pointing out.
+
+629
+00:54:19,639 --> 00:54:21,245
+Speaker 1: They don't if you call in a noise complaint.
+
+630
+00:54:21,265 --> 00:54:22,309
+Speaker 1: Nothing happens, right?
+
+631
+00:54:23,291 --> 00:54:25,356
+Speaker 1: But you know my ridiculous.
+
+632
+00:54:25,617 --> 00:54:30,750
+Speaker 0: they load away a car that had its alarm going off outside our apartment a couple years ago.
+
+633
+00:54:31,352 --> 00:54:32,436
+Speaker 1: Car alarm they will do.
+
+634
+00:54:32,496 --> 00:54:33,520
+Speaker 1: that's what they won't like.
+
+635
+00:54:33,660 --> 00:54:38,362
+Speaker 0: the cops won't tell the cave and they just towed it away and it was Still making his car alarm noise while they towed it.
+
+636
+00:54:38,382 --> 00:54:39,027
+Speaker 0: It was really funny.
+
+637
+00:54:39,168 --> 00:54:39,369
+Speaker 0: Yeah
+
+638
+00:54:40,611 --> 00:54:56,070
+Speaker 1: but if I was in charge, right what I would do is, you know, there are certain kinds of Calls you can make to the city that basically get no action on them And noise complaints are one of the most common calls and they almost always result in nothing being done.
+
+639
+00:54:56,793 --> 00:55:01,733
+Speaker 1: I if I was the mayor I would make a noise complaint task force Of some kind.
+
+640
+00:55:01,753 --> 00:55:10,020
+Speaker 1: it was separate from the police whose only job would be no you actually got to do Take real action on every single noise complaint.
+
+641
+00:55:10,280 --> 00:55:13,670
+Speaker 0: action to your point might not be go bust heads or something.
+
+642
+00:55:13,912 --> 00:55:21,170
+Speaker 0: The action might be collect the data Investigate use research and experiment to find out what are effective interventions.
+
+643
+00:55:21,973 --> 00:55:23,700
+Speaker 1: Yeah, it's actually just dues.
+
+644
+00:55:23,901 --> 00:55:28,234
+Speaker 1: actually try to do something about Complaints in the neighbor.
+
+645
+00:55:28,495 --> 00:55:29,961
+Speaker 1: you're a club right?
+
+646
+00:55:30,001 --> 00:55:31,305
+Speaker 1: Cuz that club is too loud.
+
+647
+00:55:31,707 --> 00:55:34,398
+Speaker 1: It's like, alright Should we jail the owner of the club?
+
+648
+00:55:34,419 --> 00:55:34,640
+Speaker 1: Should we?
+
+649
+00:55:34,861 --> 00:55:36,850
+Speaker 1: well first we can talk to them, right?
+
+650
+00:55:37,151 --> 00:55:43,310
+Speaker 1: You know, we don't have to punish them, but we can take away their liquor license or we could padlock their club, right?
+
+651
+00:55:43,430 --> 00:55:45,299
+Speaker 1: It's like this action that could be.
+
+652
+00:55:45,319 --> 00:55:50,250
+Speaker 0: the complaint is about an outdoor special concert But that concert only happens every other year for one night.
+
+653
+00:55:50,691 --> 00:55:53,341
+Speaker 0: Maybe that's acceptable, but it needs a permit like I don't know.
+
+654
+00:55:53,883 --> 00:55:56,754
+Speaker 0: but Scott you you are advocating Something crazy.
+
+655
+00:55:56,814 --> 00:55:59,506
+Speaker 0: you are advocating evidence-based public policy.
+
+656
+00:55:59,988 --> 00:56:13,830
+Speaker 0: Oh, no Imagine what society could be like if Governments did things based on evidence and changed what they did based on evidence.
+
+657
+00:56:14,492 --> 00:56:14,873
+Speaker 1: The other.
+
+658
+00:56:14,933 --> 00:56:22,250
+Speaker 1: the last thing that I would suggest you do right that you that's very important is to do exactly what we're doing now Which is to simply recognize?
+
+659
+00:56:23,071 --> 00:56:24,521
+Speaker 1: the problem of noise pollution.
+
+660
+00:56:24,601 --> 00:56:31,610
+Speaker 1: understand it and Just express when you have a chance to that you believe this is a problem.
+
+661
+00:56:31,730 --> 00:56:36,526
+Speaker 1: You don't have to propose solutions or propose specific actions or anything.
+
+662
+00:56:36,887 --> 00:56:44,382
+Speaker 1: You just have to basically Get other people to agree right that noise pollution is a problem and is harmful.
+
+663
+00:56:44,442 --> 00:57:00,604
+Speaker 1: because the if people simply believe that Right if more people just say yes fuck loud noise, and I think that that is a bipartisan Cross-partisan thing right I you know other than the Portion of our society of people who like making loud noises on purpose
+
+664
+00:57:00,684 --> 00:57:02,190
+Speaker 0: those people we just smash their noise.
+
+665
+00:57:02,210 --> 00:57:04,681
+Speaker 1: They're machines other than the people with the fart cars.
+
+666
+00:57:04,741 --> 00:57:12,350
+Speaker 1: right if you go to some all Republican town There's gonna be people with the fart cars there But there's also gonna be old people who really want them to shut the fuck up.
+
+667
+00:57:12,430 --> 00:57:18,230
+Speaker 1: There's people with leaf blowers, and there's gonna be the cranky old Republican lady who really hates the leaf blowers, right?
+
+668
+00:57:18,551 --> 00:57:21,182
+Speaker 1: This is not a one-sides issue here.
+
+669
+00:57:21,704 --> 00:57:43,141
+Speaker 1: if you just get people to Agree that that's a problem recognize the problem recognize the scope of the problem and then repeat it right then that will lead eventually to momentum behind on action whatever that action is if as long as the the You know energy behind being mad about it is high enough.
+
+670
+00:57:43,342 --> 00:58:00,097
+Speaker 0: what you said is interesting because this edges into Organizational theory and my actual professional job in that that is exactly how large Organizations which could include governments, but I'm talking about bureaucracies not necessarily governments That's exactly how you affect change.
+
+671
+00:58:00,297 --> 00:58:07,861
+Speaker 0: the first step to any problem is to convince a majority Of the people who have a stake that it even is a problem.
+
+672
+00:58:08,322 --> 00:58:10,910
+Speaker 0: if you don't have a majority people who agree something's a problem.
+
+673
+00:58:11,171 --> 00:58:14,121
+Speaker 0: You cannot solve whatever you think that problem is.
+
+674
+00:58:14,181 --> 00:58:28,710
+Speaker 0: you just cannot trying to solve a problem without a majority Who agree it's a problem is basically impossible, and if you can't get a majority of people who agree But you still think it's a problem your only job is to try to convince more people that it is a problem.
+
+675
+00:58:29,052 --> 00:58:32,070
+Speaker 0: You don't even need to convince them that how or what to do about it.
+
+676
+00:58:32,311 --> 00:58:35,069
+Speaker 0: You just have to get to agree that it is a problem.
+
+677
+00:58:36,292 --> 00:58:44,846
+Speaker 1: So just I just want anyone who the five listener who is listening to this Just there are mind 14 people listening to this right now.
+
+678
+00:58:44,966 --> 00:58:53,628
+Speaker 0: all 14 bots 15 15 someone just joined and 14 bots and one human whoa rim just started on all.
+
+679
+00:58:53,728 --> 00:58:58,340
+Speaker 0: I'm studying Social-linguistics and jurisprudence in government and business model innovation right now.
+
+680
+00:58:58,681 --> 00:59:00,686
+Speaker 0: I'm gonna look into organizational theory by name.
+
+681
+00:59:01,328 --> 00:59:19,330
+Speaker 1: That's the AI bot talking Responding to what we're saying, but anyway All I want you to do is in your mind put the noise pollution next to all the other Pollutions the the air pollutions and and you know chemical pollution in the water.
+
+682
+00:59:19,891 --> 00:59:23,783
+Speaker 1: noise pollution is just as bad as those and is severely harmful to humans.
+
+683
+00:59:23,843 --> 00:59:32,167
+Speaker 1: and just internalize that and then progress will have been made to Making people live longer and better lives.
+
+684
+00:59:32,227 --> 00:59:40,520
+Speaker 0: Yeah This has been geek nights with rim and Scott special.
+
+685
+00:59:40,580 --> 00:59:42,786
+Speaker 0: Thanks to DJ pretzel for the opening theme.
+
+686
+00:59:42,927 --> 00:59:45,273
+Speaker 1: be sure to visit our website at front row.
+
+687
+00:59:45,313 --> 00:59:48,984
+Speaker 1: crew calm for show notes discussion Links and more.
+
+688
+00:59:49,445 --> 00:59:52,134
+Speaker 0: remember geek nights is not one but four different shows.
+
+689
+00:59:52,435 --> 00:59:54,020
+Speaker 0: Mondays are science and technology.
+
+690
+00:59:54,120 --> 00:59:55,887
+Speaker 0: Tuesday's gaming and games.
+
+691
+00:59:55,987 --> 00:59:57,813
+Speaker 0: Wednesdays are animation and comics.
+
+692
+00:59:58,134 --> 01:00:00,643
+Speaker 0: Thursdays are arbitrary and Indiscriminate.
+
+693
+01:00:01,246 --> 01:00:06,244
+Speaker 0: geek nights is distributed under a Creative Commons attribution 4.0 International license.
+
+694
+01:00:06,646 --> 01:00:10,940
+Speaker 1: geek nights is recorded live with no studio and no audience.
+
+695
+01:00:11,461 --> 01:00:18,845
+Speaker 0: But unlike those other late shows it's actually recorded at night and the patreon patrons for this episode Geek nights are Alan Joyce.
+
+696
+01:00:18,865 --> 01:00:32,839
+Speaker 0: look at you dread Lily Tenebrae case care makes music Chris have done Christopher or Clinton Walton finjal Hayes penny rhymer Rebecca Dunn Sam Erickson sure about all and a bunch of people whose names I will not say tonight.
+
+697
+01:00:33,080 --> 01:00:45,800
+Speaker 0: I'm gonna leave you with a fair warning that this is The audio equivalent of a cognitohazard and if you hear what's about to play It's going to be stuck into your head and it might be there until the day you die.
+
+698
+01:00:46,423 --> 01:03:05,023
+Speaker 0: So without further ado tonight, I leave you with Oh Oh Oh Oh.
+

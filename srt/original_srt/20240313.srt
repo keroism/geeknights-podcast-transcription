@@ -1,0 +1,2304 @@
+﻿1
+00:00:08,300 --> 00:00:10,107
+Speaker 0: It's Wednesday, March 13th, 2024.
+
+2
+00:00:10,107 --> 00:00:10,388
+Speaker 0: I'm Rim.
+
+3
+00:00:13,664 --> 00:00:14,180
+Speaker 1: I'm Scott.
+
+4
+00:00:14,540 --> 00:00:15,720
+Speaker 0: And this is Geek Nights.
+
+5
+00:00:17,101 --> 00:00:20,459
+Speaker 0: Tonight, we are talking about robot dreams.
+
+6
+00:00:21,300 --> 00:00:22,217
+Speaker 1: Let's do this.
+
+7
+00:00:23,120 --> 00:00:28,060
+Speaker 0: As you might have noticed, we skipped a bunch of Geek Nights, like, way more so than usual, and kind of just went dark.
+
+8
+00:00:28,340 --> 00:00:32,960
+Speaker 0: So, uh, what happened was, I got sick, but not in a normal way.
+
+9
+00:00:33,060 --> 00:00:44,940
+Speaker 0: Not in, like, a "just got a cold" and, like, skip Geek Nights way, but actually sick enough to have to go to, uh, five different doctors over the course of five days and two different hospitals.
+
+10
+00:00:47,421 --> 00:00:55,020
+Speaker 0: Yeah, it was, uh, I took most of last week off, and it was such a sudden thing, but it wasn't like, it wasn't a COVID or an RSV, it wasn't any of the normal things.
+
+11
+00:00:55,662 --> 00:00:59,620
+Speaker 0: It was like a regular old, like, adenovirus or enterovirus kind of cold.
+
+12
+00:01:00,422 --> 00:01:04,840
+Speaker 0: Uh, like, I even got tested for everything at the urgent care, and it started to recover.
+
+13
+00:01:05,060 --> 00:01:09,260
+Speaker 0: So I went to work, I felt sick, I went home, I slept, after a couple days I was feeling better.
+
+14
+00:01:10,041 --> 00:01:16,580
+Speaker 0: And on Friday, I even started working from home again last week, and I decided, we decided, alright, we'll resume the show the next week, everything will be good.
+
+15
+00:01:17,361 --> 00:01:18,799
+Speaker 0: Then my eye starts hurting a little bit.
+
+16
+00:01:19,721 --> 00:01:30,560
+Speaker 0: And over the next couple hours, I got, don't Google it, but I got some sort of simultaneous viral and bacterial eye infection, so conjunctivitis.
+
+17
+00:01:31,120 --> 00:01:34,380
+Speaker 0: Uh, the word hemorrhagic was used by the doctors multiple times.
+
+18
+00:01:34,940 --> 00:01:52,440
+Speaker 0: The amount of substances that were coming out of my eye was terrifying to the point that the doctor, after I went to the hospital ER, said something to the effect of, So, uh, eye infections like that look way worse than they are.
+
+19
+00:01:53,060 --> 00:01:59,460
+Speaker 0: Now, don't get me wrong, yours is pretty bad, but it's not as bad as it looks, and you're gonna have to trust me on that.
+
+20
+00:02:00,100 --> 00:02:02,460
+Speaker 1: Looks like you rubbed your eye on the subway.
+
+21
+00:02:02,980 --> 00:02:04,792
+Speaker 0: Oh, yeah, like, it looks like I, uh...
+
+22
+00:02:06,201 --> 00:02:09,840
+Speaker 1: Someone pooped in your eye, you didn't really wash it out, and let it, just let it go.
+
+23
+00:02:10,281 --> 00:02:17,880
+Speaker 0: Yep, it was amazing how rapidly that developed, and, uh, it was a whole thing, but I seem to be recovering.
+
+24
+00:02:18,280 --> 00:02:22,340
+Speaker 0: I've been, uh, slowly catching up on stuff and working on our PAX panels and everything.
+
+25
+00:02:22,861 --> 00:02:25,560
+Speaker 0: Uh, you'll notice the stream might sound a little different.
+
+26
+00:02:25,640 --> 00:02:35,680
+Speaker 0: I'll be curious about all of your feedback on it, because this is the first time we've actually been able to use the new streaming pipeline for Geek Nights, and I haven't done all the quality assurance tests yet.
+
+27
+00:02:37,106 --> 00:02:39,040
+Speaker 1: No one had any complaints that I changed computers.
+
+28
+00:02:39,461 --> 00:02:52,540
+Speaker 0: Yeah, and, uh, yeah, you're not gonna see my face today, because my eyes, while they do not look as horrifying as they looked a few days ago, they don't look great, and I'm not subjecting this, uh, subjecting anyone to this, but I cannot stress enough.
+
+29
+00:02:53,240 --> 00:03:00,900
+Speaker 0: Do not Google for what severe bacterial hemorrhagic conjunctivituses look like.
+
+30
+00:03:01,441 --> 00:03:11,139
+Speaker 0: You're gonna see some things you really don't want to see, and however bad you think it's gonna be when you go into, like, Google image search, it's gonna be way worse than that, so just trust me on this one.
+
+31
+00:03:11,880 --> 00:03:22,474
+Speaker 0: But the funniest part of all of this is our friends, you know, like, Scott and I, our collective friends in real life, most of them aren't super squeamish, so we have a few friends who are like, "I wanna see.
+
+32
+00:03:22,655 --> 00:03:23,117
+Speaker 0: Send me the
+
+33
+00:03:23,137 --> 00:03:23,458
+Speaker 0: pics.".
+
+34
+00:03:24,520 --> 00:03:30,196
+Speaker 0: But my family, too, I told my family in the other Discord, like, "Oh, yeah, I was sick with a really bad eye infection.
+
+35
+00:03:30,216 --> 00:03:31,059
+Speaker 0: Like, it was really, really
+
+36
+00:03:31,079 --> 00:03:31,299
+Speaker 0: bad.".
+
+37
+00:03:32,181 --> 00:03:32,483
+Speaker 1: Half the
+
+38
+00:03:32,524 --> 00:03:34,177
+Speaker 0: family was like, "Oh, my God, you have to show us
+
+39
+00:03:34,217 --> 00:03:34,459
+Speaker 0: pics."
+
+40
+00:03:36,161 --> 00:03:51,200
+Speaker 0: Which reminded me that if I think back, like, my family has a lot of, like, EMT, first responder, like, Coast Guard, National Guard types, so I think my entire extended family is very much, like, not squicked out by anything, but I kind of forgot that.
+
+41
+00:03:51,200 --> 00:03:53,405
+Speaker 1: For me, you know, it depends, right?
+
+42
+00:03:53,506 --> 00:04:04,720
+Speaker 1: It's like, you know, if it's like, uh, something like, you know, someone's got, like, pus coming out, it's like, you know, actually, there's something satisfying about that, like, when, you know, you got all the pus out, right?
+
+43
+00:04:04,760 --> 00:04:07,340
+Speaker 1: It's a little bit like power, it's a little bit like power washing, right?
+
+44
+00:04:07,420 --> 00:04:11,235
+Speaker 0: I can see, I can, I don't feel that so much, but I can see that.
+
+45
+00:04:11,295 --> 00:04:12,259
+Speaker 0: I see where that comes from.
+
+46
+00:04:12,860 --> 00:04:25,327
+Speaker 1: But if I, if I see inside someone's body, like, even a little bit, like, you know, like, if someone's cut, and it's just, like, a line, and there's blood coming out, it's, like, okay.
+
+47
+00:04:25,708 --> 00:04:26,089
+Speaker 1: But if, like,
+
+48
+00:04:26,349 --> 00:04:26,550
+Speaker 0: they
+
+49
+00:04:27,131 --> 00:04:44,040
+Speaker 1: spread it a little bit, and you can see the inside, like, flesh, or, you know, if, uh, you know, someone's finger gets chopped off, and you can see, you know, a bone surrounded by some, like, a little, like, a meat end, or, uh, yeah, then I'll just boggle immediately.
+
+50
+00:04:45,741 --> 00:04:51,340
+Speaker 0: But yet, we both sat in the theater and cheered during "Ichi the Killer," but it's, like, when the brain knows it's fake?
+
+51
+00:04:52,006 --> 00:04:53,220
+Speaker 1: If it's fake, it doesn't matter.
+
+52
+00:04:53,880 --> 00:04:59,480
+Speaker 1: Yeah, the problem is- It's, I can see something extremely gory, like, intestines spilling out if it's fake.
+
+53
+00:04:59,941 --> 00:05:06,740
+Speaker 1: But if I see, like, you know, a paper cut that crosses over the line in real life, nope, boggle.
+
+54
+00:05:07,340 --> 00:05:08,887
+Speaker 0: So now I got a weird thought.
+
+55
+00:05:08,967 --> 00:05:11,840
+Speaker 0: that's probably a better topic for a Monday or a Thursday.
+
+56
+00:05:12,881 --> 00:05:20,980
+Speaker 0: What if it was AI generated, so it was fake, but it was 100% realistic, like, to the point that it was simulated?
+
+57
+00:05:21,080 --> 00:05:22,749
+Speaker 1: I don't know.
+
+58
+00:05:22,789 --> 00:05:24,940
+Speaker 1: I guess if it was my brain believes it's real or not.
+
+59
+00:05:26,764 --> 00:05:27,611
+Speaker 1: Did you fool me or not?
+
+60
+00:05:28,920 --> 00:05:31,699
+Speaker 1: You know, my subconscious part of my brain.
+
+61
+00:05:32,300 --> 00:05:48,280
+Speaker 0: Meanwhile, when we were little kids, so, I don't know if this was a thing, like, everywhere else, but one of the channels that we got on early cable when I was young was basically this medical channel that was, like, live surgery.
+
+62
+00:05:49,381 --> 00:05:56,440
+Speaker 1: I've seen, I remember back in the cable days, I think I remember, I have a memory of, like, being in a barber shop and there was, like, a surgery on the TV or something.
+
+63
+00:05:56,760 --> 00:06:03,360
+Speaker 0: And as a little kid, I would apparently, I have only, like, vague kid memories of this, but the family would, like, tell these stories often.
+
+64
+00:06:03,981 --> 00:06:08,160
+Speaker 0: I would just, like, turn it on and watch open heart surgery as a little kid, like, totally into it.
+
+65
+00:06:08,842 --> 00:06:09,960
+Speaker 1: Yeah, I did not watch it.
+
+66
+00:06:10,121 --> 00:06:14,800
+Speaker 0: But my little brother was, let's just say, the opposite of into it.
+
+67
+00:06:15,020 --> 00:06:22,520
+Speaker 0: And I was banned from watching it if he was in the room because he kept saying that he was having heart attacks and getting freaked out.
+
+68
+00:06:24,861 --> 00:06:26,546
+Speaker 0: So, yeah, we're back, we're back.
+
+69
+00:06:26,586 --> 00:06:31,660
+Speaker 0: Geek Nights will then go immediately on a brief hiatus again because PAX East is next fucking week.
+
+70
+00:06:32,620 --> 00:06:37,660
+Speaker 0: But I guess we should start with the news because a tragedy happened and I think it's worth taking a moment.
+
+71
+00:06:38,460 --> 00:06:45,660
+Speaker 0: Akira Toriyama unexpectedly died at the age of 68 in a blow to comics, manga, anime.
+
+72
+00:06:46,080 --> 00:06:49,460
+Speaker 0: He is one of the most important and prolific creators who has ever lived.
+
+73
+00:06:50,480 --> 00:06:56,960
+Speaker 1: I mean, anyone who's got more than one hit and more than one big hit, right, is, you know, those are rare people.
+
+74
+00:06:57,822 --> 00:07:07,360
+Speaker 0: But never mind, like, Tezuka levels of just output, like, the sheer volume of what Akira Toriyama has created is staggering.
+
+75
+00:07:08,681 --> 00:07:17,660
+Speaker 1: I mean, you know, he worked basically, you know, he started off young and he just worked nonstop even after he was, you know, mega big, didn't have to keep working.
+
+76
+00:07:17,780 --> 00:07:20,308
+Speaker 1: He kept working, right?
+
+77
+00:07:20,429 --> 00:07:24,100
+Speaker 1: And it's like if he had lived longer, it would have made even more stuff, right?
+
+78
+00:07:24,401 --> 00:07:27,206
+Speaker 0: I mean, think about, like, imagine if human bodies didn't age.
+
+79
+00:07:27,547 --> 00:07:29,732
+Speaker 0: Take someone who really, really likes playing hockey.
+
+80
+00:07:29,792 --> 00:07:33,560
+Speaker 0: They'd probably just play it literally forever, being a mortal god and they just keep playing hockey.
+
+81
+00:07:34,680 --> 00:07:39,287
+Speaker 1: But, yeah, so, I mean, most people know that he made Dragon Ball, but also he made Dr.
+
+82
+00:07:39,347 --> 00:07:47,099
+Speaker 1: Slump, which in the United States, like, anime nerds know it exists, but, like, actually it's kind of still a big deal on the other side of the world, Dr.
+
+83
+00:07:47,220 --> 00:07:47,400
+Speaker 1: Slump.
+
+84
+00:07:47,500 --> 00:07:50,619
+Speaker 1: Like, it's not uncommon to see people with, like, Arale hats and whatnot.
+
+85
+00:07:50,800 --> 00:08:02,478
+Speaker 0: I mean, I did buy, like, all of it when that guy in anime Boston hard sold me on it and then I just stupidly bought it and I don't regret it because I read about a third of it.
+
+86
+00:08:02,538 --> 00:08:03,680
+Speaker 0: There's just so much.
+
+87
+00:08:04,520 --> 00:08:05,603
+Speaker 1: Yeah, I mean, that's it.
+
+88
+00:08:05,643 --> 00:08:07,708
+Speaker 1: The guy made a lot of stuff, right?
+
+89
+00:08:08,330 --> 00:08:12,040
+Speaker 1: And so, you know, just being the guy who made Dragon Ball would be big enough, right?
+
+90
+00:08:12,120 --> 00:08:20,407
+Speaker 1: It's like, um, but then, you know, his character designs, he also designed all the characters in Dragon Quest and Chrono Trigger, right?
+
+91
+00:08:20,427 --> 00:08:34,600
+Speaker 1: Which were, if he had, you know, it's like those games are amazing games, obviously, on their own in different ways, but had he not made the characters for those games, would they have been nearly as successful, right?
+
+92
+00:08:34,860 --> 00:08:41,666
+Speaker 1: I think, you know, his character design contribution is greater than others, right?
+
+93
+00:08:41,706 --> 00:08:45,350
+Speaker 1: In other areas of animation and games, right?
+
+94
+00:08:45,410 --> 00:08:56,580
+Speaker 1: It's like, um, there are other great character designers who just, they don't have a distinct style the way he did where you can spot it a million miles away and they don't have that sort of mass appeal.
+
+95
+00:08:57,221 --> 00:09:02,199
+Speaker 1: It's like the dude invented the Dragon Quest Slime, which is just a Hershey's Kiss with a fucking face on it.
+
+96
+00:09:02,400 --> 00:09:04,182
+Speaker 0: And yet, somehow, it's legendary.
+
+97
+00:09:04,242 --> 00:09:05,884
+Speaker 1: I love that little guy.
+
+98
+00:09:05,924 --> 00:09:15,636
+Speaker 1: And yet, somehow, the amount of money that they have made selling blue Hershey Kisses with faces on them, right, you know, is staggering.
+
+99
+00:09:16,036 --> 00:09:18,980
+Speaker 1: So, yeah, it's a real shame.
+
+100
+00:09:20,060 --> 00:09:30,180
+Speaker 1: Interesting of note was that it seems, I've heard reports, don't know how true it is because it's just words on the internet, that he actually died like a week before the public knew about it.
+
+101
+00:09:30,740 --> 00:09:31,742
+Speaker 1: And I guess that's a thing.
+
+102
+00:09:31,802 --> 00:09:41,599
+Speaker 1: now where they can, you know, I guess it's mostly a good thing because it's like, you know, a lot of times they announce and then they're like, "Please let us grieve
+
+103
+00:09:41,679 --> 00:09:42,160
+Speaker 1: privately.".
+
+104
+00:09:42,340 --> 00:09:45,389
+Speaker 1: And it's like, they can't really do that even though they asked for it.
+
+105
+00:09:45,469 --> 00:09:46,171
+Speaker 1: So it's like, "Aha!
+
+106
+00:09:46,211 --> 00:09:49,439
+Speaker 1: If we just don't tell anyone, we can grieve privately and tell you
+
+107
+00:09:49,479 --> 00:09:49,720
+Speaker 1: later.".
+
+108
+00:09:49,800 --> 00:09:51,826
+Speaker 1: And it's like, you're not the person's family.
+
+109
+00:09:51,866 --> 00:09:54,915
+Speaker 1: You didn't, you can't claim you had like some right to know earlier, you know.
+
+110
+00:09:55,396 --> 00:09:56,820
+Speaker 1: You're just fans or whatever.
+
+111
+00:09:57,240 --> 00:10:04,060
+Speaker 0: Yeah, I mean, it's not like, I think there are some very limited and specific exceptions for currently still powerful people.
+
+112
+00:10:04,941 --> 00:10:11,220
+Speaker 0: But like that is, that is like heads of state and like that is not dude who made cool comics and anime.
+
+113
+00:10:11,980 --> 00:10:12,682
+Speaker 1: Yeah, exactly.
+
+114
+00:10:12,702 --> 00:10:20,040
+Speaker 1: And you know, you can imagine like, you know, like as soon as it happened, if suddenly, you know, it was on the news within the hour, right?
+
+115
+00:10:20,140 --> 00:10:27,260
+Speaker 1: And suddenly, you know, it's like they haven't even, you know, gotten their shit together and like fans are suddenly dumping off gifts and right?
+
+116
+00:10:27,320 --> 00:10:30,313
+Speaker 1: It's like that they got a whole nother thing to deal with.
+
+117
+00:10:30,755 --> 00:10:31,720
+Speaker 1: It's probably better this way.
+
+118
+00:10:32,463 --> 00:10:36,159
+Speaker 1: Also, it says that he died of basically, I don't know how true this is either.
+
+119
+00:10:36,520 --> 00:10:39,413
+Speaker 0: Oh, there's some follow up reporting that explains that.
+
+120
+00:10:39,474 --> 00:10:40,800
+Speaker 0: So he died of a subdural hematoma.
+
+121
+00:10:41,540 --> 00:10:43,079
+Speaker 1: Which means you got hit in the head really hard.
+
+122
+00:10:43,442 --> 00:10:43,645
+Speaker 0: Or, so...
+
+123
+00:10:44,880 --> 00:10:46,820
+Speaker 1: In a really specific and very bad way.
+
+124
+00:10:47,180 --> 00:11:05,000
+Speaker 0: So the other thing that causes a subdural hematoma most of the time are complications from brain tumors and his family, according to the news that I'm reading right now, have issued a statement basically saying that he was scheduled like imminently to get surgery for a brain tumor.
+
+125
+00:11:05,742 --> 00:11:06,065
+Speaker 1: Uh huh.
+
+126
+00:11:06,347 --> 00:11:06,790
+Speaker 1: Interesting.
+
+127
+00:11:07,535 --> 00:11:08,280
+Speaker 1: I didn't hear that part.
+
+128
+00:11:08,600 --> 00:11:12,238
+Speaker 0: Yeah, that was not widely reported until a little while ago.
+
+129
+00:11:14,101 --> 00:11:15,285
+Speaker 0: But it doesn't really matter.
+
+130
+00:11:15,405 --> 00:11:20,320
+Speaker 0: Like the important thing is the dude was a legend and he still made it to 68, which is cool.
+
+131
+00:11:20,801 --> 00:11:33,920
+Speaker 0: Like not everyone even gets that far and Toonami even is gonna do a special marathon and they're gonna play like the first eight episodes of Dragon Ball and a whole thing this weekend and preempt all their other programming.
+
+132
+00:11:36,770 --> 00:11:42,510
+Speaker 1: It does remind me of, I don't know if people know Tina Marie, a famous singer.
+
+133
+00:11:43,972 --> 00:11:46,724
+Speaker 1: But she basically, I think it's 2000 something.
+
+134
+00:11:49,391 --> 00:11:58,829
+Speaker 1: She was in like a hotel room and there was a hotel artwork hanging on the bed above her like hotels have and it fell off and hit her on the head.
+
+135
+00:12:00,731 --> 00:12:07,849
+Speaker 1: And basically she lived for, I think some more years after that, but she had like, you know, seizures and bad times.
+
+136
+00:12:09,451 --> 00:12:17,590
+Speaker 0: You know, I definitely remember staying in a motel once where there was a ceiling fan that we kept on because it was so hot.
+
+137
+00:12:18,170 --> 00:12:20,378
+Speaker 0: But at the same time I spent the entire night terrified.
+
+138
+00:12:20,418 --> 00:12:23,530
+Speaker 0: it was just going to fall on me because it looked so fucking janky.
+
+139
+00:12:28,334 --> 00:12:30,410
+Speaker 0: So yeah, rest in peace to a legend.
+
+140
+00:12:32,760 --> 00:12:33,537
+Speaker 0: So you got some other news?
+
+141
+00:12:35,480 --> 00:12:35,823
+Speaker 1: Oh yeah.
+
+142
+00:12:35,984 --> 00:12:37,939
+Speaker 1: I just, the internet is interneting at me.
+
+143
+00:12:38,921 --> 00:12:43,760
+Speaker 0: X-Men 97, which we didn't even get a chance to talk about yet because it's coming.
+
+144
+00:12:43,900 --> 00:12:50,598
+Speaker 1: So if you don't know, right, I guess we did, we must've done an episode on this show, I think way, way back, like maybe 2006 or so.
+
+145
+00:12:51,320 --> 00:12:52,360
+Speaker 1: If we didn't, we're gonna.
+
+146
+00:12:53,300 --> 00:12:53,561
+Speaker 1: Yeah.
+
+147
+00:12:53,881 --> 00:13:04,000
+Speaker 1: So when I was a kid, right, there was an X-Men cartoon on Fox and it was the first like serial cartoon that I was able to watch mostly serially.
+
+148
+00:13:04,301 --> 00:13:11,520
+Speaker 1: And like they announced like, it's going to start, you know, it's going to be on Saturday morning at this time, right before pro wrestling starts right on Fox kids.
+
+149
+00:13:12,085 --> 00:13:13,200
+Speaker 1: And it was appointment viewing.
+
+150
+00:13:13,661 --> 00:13:17,380
+Speaker 1: And I fuck it every Saturday, I would get down there and watch it.
+
+151
+00:13:17,620 --> 00:13:25,200
+Speaker 1: And the episodes picked up where the last ones left off and it was X-Men and had the theme song, you know, the one everyone knew, right?
+
+152
+00:13:25,360 --> 00:13:26,520
+Speaker 1: I was reading X-Men comics.
+
+153
+00:13:26,824 --> 00:13:28,120
+Speaker 1: I was playing X-Men arcade game.
+
+154
+00:13:28,221 --> 00:13:29,370
+Speaker 1: This was the X-Men time.
+
+155
+00:13:29,450 --> 00:13:30,640
+Speaker 1: I was collecting X-Men cards.
+
+156
+00:13:30,700 --> 00:13:36,860
+Speaker 0: This was like right around when I had gotten into the X-Men and then this cartoon came out two years later.
+
+157
+00:13:37,880 --> 00:13:40,260
+Speaker 1: Yes, this was early, early times, right?
+
+158
+00:13:40,720 --> 00:13:47,740
+Speaker 1: But at some point I missed an episode of that show and it became, I don't know what happened because you know, it was television.
+
+159
+00:13:48,060 --> 00:13:50,920
+Speaker 1: It's not like we were getting DVDs or dial streams or anything.
+
+160
+00:13:51,000 --> 00:13:55,039
+Speaker 1: If you missed it, it's like, I guess you could have VHS recorded all of them.
+
+161
+00:13:55,641 --> 00:14:02,660
+Speaker 1: But somehow I fell off the boat, even though I really, and it was really, I remember being really upset that I missed one or I couldn't see them anymore.
+
+162
+00:14:02,801 --> 00:14:06,440
+Speaker 1: They weren't showing it anymore, but the show did keep going.
+
+163
+00:14:06,640 --> 00:14:12,400
+Speaker 1: It wasn't, I stopped watching before it ended because of reasons that I did not agree with, I guess.
+
+164
+00:14:12,560 --> 00:14:13,959
+Speaker 1: I didn't want to stop watching.
+
+165
+00:14:15,801 --> 00:14:23,220
+Speaker 1: And so I only saw up to a certain point, the show kept going and it ended right after so many seasons.
+
+166
+00:14:23,422 --> 00:14:24,899
+Speaker 1: And then they made no more episodes.
+
+167
+00:14:26,682 --> 00:14:29,299
+Speaker 1: And basically there was a lot of nostalgia for that show.
+
+168
+00:14:29,706 --> 00:14:30,398
+Speaker 1: It was a big deal.
+
+169
+00:14:30,760 --> 00:14:36,180
+Speaker 1: And you know, all of Hollywood has just been doing nothing but cashing in on safe nostalgia bets for a long time now.
+
+170
+00:14:36,963 --> 00:14:38,478
+Speaker 1: And so they finally got around to this one.
+
+171
+00:14:40,081 --> 00:14:46,061
+Speaker 1: And so Disney, which owns Marvel, on Disney+ is putting X-Men 97.
+
+172
+00:14:46,061 --> 00:14:52,460
+Speaker 1: They are making a new show that picks up exactly immediately after where the old one left off.
+
+173
+00:14:52,601 --> 00:14:54,899
+Speaker 1: It's just like another season of that show.
+
+174
+00:14:55,301 --> 00:14:56,067
+Speaker 1: It's even in the same style.
+
+175
+00:14:58,160 --> 00:15:02,660
+Speaker 1: Like it's just one more animation style, just obviously using computers.
+
+176
+00:15:03,225 --> 00:15:04,480
+Speaker 0: It's the best Wolverine too.
+
+177
+00:15:05,300 --> 00:15:05,481
+Speaker 1: Yeah.
+
+178
+00:15:05,882 --> 00:15:23,642
+Speaker 1: And it's literally just picking up exactly where that show left off as if there was just going to be a new season, but only with, you know, the writing sensibilities of the year 2024 and the animation technology of the year 2024 mimicking the style of 1997.
+
+179
+00:15:23,642 --> 00:15:26,780
+Speaker 1: And so I kind of want to watch it even though I'm not on D+ right now.
+
+180
+00:15:26,960 --> 00:15:32,420
+Speaker 1: I'll eventually turn it on again at some point or pirate the show or we'll see what happens.
+
+181
+00:15:35,080 --> 00:15:40,300
+Speaker 1: But it's going to start, I think, March 20, like a week from now, I think is when it's going to go up.
+
+182
+00:15:40,480 --> 00:15:46,180
+Speaker 1: It's not on yet, but in a shocking twist, there are trailers for it.
+
+183
+00:15:46,280 --> 00:15:50,760
+Speaker 1: But basically the person who made the show just got fired.
+
+184
+00:15:51,681 --> 00:15:58,580
+Speaker 1: Even though the show is even before it aired, it's not on D+ yet as already getting a second season.
+
+185
+00:15:58,922 --> 00:16:02,700
+Speaker 1: And they're talking about a third season because the hype is so big they can order.
+
+186
+00:16:02,840 --> 00:16:04,180
+Speaker 1: Basically, they're feeling it right.
+
+187
+00:16:04,581 --> 00:16:05,886
+Speaker 1: They're already decided.
+
+188
+00:16:05,926 --> 00:16:09,500
+Speaker 1: this is a success, but the person who made the show was fired mysteriously.
+
+189
+00:16:10,765 --> 00:16:14,980
+Speaker 1: So that's a real, uh, this is a mystery now.
+
+190
+00:16:15,420 --> 00:16:21,340
+Speaker 1: Maybe they're doing that to like, maybe they're sort of doing that to like, you got to assume, I don't know.
+
+191
+00:16:21,840 --> 00:16:24,819
+Speaker 1: I can't even imagine what would happen there.
+
+192
+00:16:25,501 --> 00:16:32,820
+Speaker 0: I mean, I can, I could do a lot of speculation that I'm not going to do, but yeah, it's easy to just make shit up.
+
+193
+00:16:33,401 --> 00:16:41,720
+Speaker 0: I mean, generally when someone suddenly gets fired from something that nobody expected him to be fired from at an inauspicious time,
+
+194
+00:16:42,640 --> 00:16:42,821
+Speaker 1: and
+
+195
+00:16:44,186 --> 00:16:53,900
+Speaker 0: no one will say anything, like there's no information from anywhere, usually it's either because there's a lawsuit of some kind or something bad happened behind the scenes.
+
+196
+00:16:54,462 --> 00:16:59,580
+Speaker 0: But at the same time, it could be like a completely unrelated personal thing that we have no business knowing.
+
+197
+00:17:03,421 --> 00:17:07,800
+Speaker 1: But yeah, that's a real question mark for everybody.
+
+198
+00:17:08,701 --> 00:17:11,979
+Speaker 1: But if you're excited about some X-Men's, here you go.
+
+199
+00:17:12,319 --> 00:17:26,839
+Speaker 0: I'm pretty excited about this because the last X-Men's that I watched that is like a TV serial was actually the 2009 Wolverine and the X-Men, which if you haven't seen it out there, I will say that it is one of the best X-Men's.
+
+200
+00:17:27,000 --> 00:17:30,739
+Speaker 0: It is absolutely fantastic and I kind of want to watch it again at some point.
+
+201
+00:17:31,381 --> 00:17:38,399
+Speaker 1: No, you know, it was Spider-Man seasons, but the Spider-Man is heavily delayed, so it's X-Men seasons right now.
+
+202
+00:17:40,341 --> 00:17:46,720
+Speaker 0: The best part about Wolverine and the X-Men is the premise is Scott Summers is like missing, so Wolverine has to run the X-Men.
+
+203
+00:17:47,200 --> 00:17:51,979
+Speaker 0: And you might think, but Rym, Wolverine is like the least capable person to lead a team.
+
+204
+00:17:52,803 --> 00:17:54,379
+Speaker 1: It depends which Wolverine you're talking about.
+
+205
+00:17:54,580 --> 00:18:05,660
+Speaker 0: The Wolverine from Fox X-Men and X-Men '97, that Wolverine is not capable of managing anyone, let alone Wolverine.
+
+206
+00:18:07,602 --> 00:18:12,840
+Speaker 0: So the whole plot is Wolverine has to lead the X-Men because Professor X is gone and Scott Summers can't deal with it.
+
+207
+00:18:13,401 --> 00:18:14,268
+Speaker 1: Is Storm still there?
+
+208
+00:18:14,288 --> 00:18:15,458
+Speaker 1: Storm is way better.
+
+209
+00:18:16,020 --> 00:18:16,743
+Speaker 0: Storm's around.
+
+210
+00:18:17,426 --> 00:18:21,020
+Speaker 0: There's a lot going on, but White Queen ends up playing a big part in that one.
+
+211
+00:18:21,700 --> 00:18:22,858
+Speaker 1: Yeah, the comic books do that too.
+
+212
+00:18:23,140 --> 00:18:25,527
+Speaker 1: All these shows and movies are really just picking pieces from the actual comics.
+
+213
+00:18:33,828 --> 00:18:35,380
+Speaker 1: They don't have any new ideas in them.
+
+214
+00:18:35,460 --> 00:18:44,720
+Speaker 1: If you've read every X-Men comic, then there is absolutely nothing new to be had from watching any animated or live action X-Men because you've seen it before.
+
+215
+00:18:45,201 --> 00:18:48,226
+Speaker 0: I haven't read a ton of X-Men, but I've read enough to where.
+
+216
+00:18:48,627 --> 00:18:54,378
+Speaker 0: when Dark Phoenix was clearly about to happen and any other X-Men thing, I just feel like, "Oh, they're doing Dark Phoenix again.
+
+217
+00:18:54,478 --> 00:18:54,759
+Speaker 0: Okay.".
+
+218
+00:18:56,282 --> 00:19:01,519
+Speaker 1: If anyone out there does, you decide, "Huh, I should read some X-Men," and you probably should.
+
+219
+00:19:02,940 --> 00:19:15,200
+Speaker 1: The way to do it actually is the crappy but functional Marvel Unlimited app, which is... I forget how much it costs, but basically you can pay per year.
+
+220
+00:19:17,480 --> 00:19:19,520
+Speaker 1: Let's see, what is the... I can't find the pricing on the internet.
+
+221
+00:19:19,540 --> 00:19:20,385
+Speaker 0: I was thinking about it.
+
+222
+00:19:20,425 --> 00:19:21,772
+Speaker 0: I kind of want to refill my X-Men cup.
+
+223
+00:19:24,221 --> 00:19:36,640
+Speaker 1: Basically, if you pay for the Marvel Unlimited app and you have an iPad, I guess you could read on a phone, but it won't be that great, you can basically read most Marvel comics that have ever existed.
+
+224
+00:19:36,860 --> 00:19:37,222
+Speaker 1: Oh, here it is.
+
+225
+00:19:37,303 --> 00:19:39,135
+Speaker 1: Monthly, $10 a month, annual, $70 a year.
+
+226
+00:19:41,062 --> 00:19:43,780
+Speaker 1: How many Marvel comics can you read in a year for $70?
+
+227
+00:19:43,780 --> 00:19:47,460
+Speaker 1: Considering that one floppy-ass comic book is going to cost you several dollars.
+
+228
+00:19:48,402 --> 00:19:55,240
+Speaker 1: It's like if you're buying more than 11 comics a year, you're getting almost the entire history of Marvel comics with this thing.
+
+229
+00:19:56,760 --> 00:20:11,080
+Speaker 1: You can go there and basically read Uncanny X-Men from the beginning for way cheaper than buying even the cheap combined volumes or whatever in full color, high res on your thing.
+
+230
+00:20:11,160 --> 00:20:13,419
+Speaker 1: It's just navigating the app really sucks.
+
+231
+00:20:14,540 --> 00:20:15,598
+Speaker 0: Yeah, I can imagine that.
+
+232
+00:20:16,022 --> 00:20:19,060
+Speaker 1: It's not a very good app, but reading comics in it functions.
+
+233
+00:20:22,192 --> 00:20:25,070
+Speaker 0: But anyway, things of the day!
+
+234
+00:20:26,010 --> 00:20:30,050
+Speaker 0: I think Scott found this a little while ago and can't say how long it'll stay up.
+
+235
+00:20:30,190 --> 00:20:47,033
+Speaker 0: This YouTube video has less than 600 views and was uploaded two months ago, but it's a very important YouTube video because it is the entirety of a movie that we used to talk about and reference a lot on Geek Nights like back in 2006, 2005.
+
+236
+00:20:47,033 --> 00:20:51,950
+Speaker 0: And it's a movie that we reference a lot in our daily lives to this day that we saw in college.
+
+237
+00:20:52,471 --> 00:21:01,330
+Speaker 0: And this movie is the first Korean movie I ever saw, like way before Cool Korea and like the modern K-pop invasion and K-drama.
+
+238
+00:21:01,410 --> 00:21:04,189
+Speaker 1: I might have seen a Korean animated movie before I saw this.
+
+239
+00:21:05,172 --> 00:21:07,090
+Speaker 0: I'm not sure, I'd have to think back.
+
+240
+00:21:07,410 --> 00:21:09,590
+Speaker 1: There was one we saw, I forget what the name of it was.
+
+241
+00:21:09,852 --> 00:21:12,690
+Speaker 1: But I don't remember if it was before or after Attack the Gas Station.
+
+242
+00:21:12,990 --> 00:21:24,770
+Speaker 0: But we watched this movie and Attack the Gas Station remains just one of my favorite comedy movies for a lot of reasons that we don't really have time to get into right now.
+
+243
+00:21:24,850 --> 00:21:26,570
+Speaker 0: I'm pretty sure we've reviewed it on Geek Nights.
+
+244
+00:21:27,190 --> 00:21:29,070
+Speaker 1: We've definitely talked about this on Geek Nights a lot.
+
+245
+00:21:29,610 --> 00:21:40,650
+Speaker 0: Yeah, but if you've never seen it, Attack the Gas Station is a movie about a bunch of delinquents who rob a gas station comedically and then they're hanging out like in a convenience store eating some noodles and they're bored.
+
+246
+00:21:40,930 --> 00:21:41,684
+Speaker 0: Not sure what to do.
+
+247
+00:21:42,476 --> 00:21:43,690
+Speaker 1: Across the street from the gas station.
+
+248
+00:21:43,850 --> 00:21:44,447
+Speaker 0: Yeah, like right there.
+
+249
+00:21:45,051 --> 00:21:48,668
+Speaker 0: And then one of them just says, "Why don't we just rob the gas station
+
+250
+00:21:48,709 --> 00:21:48,950
+Speaker 0: again?".
+
+251
+00:21:49,971 --> 00:21:55,730
+Speaker 0: And that is where the movie starts, the second time they rob the same gas station in the same night.
+
+252
+00:21:56,792 --> 00:21:58,770
+Speaker 1: I think it was consecutive nights.
+
+253
+00:21:59,812 --> 00:22:01,566
+Speaker 0: I haven't seen this movie in at least 15 years.
+
+254
+00:22:02,990 --> 00:22:07,090
+Speaker 1: Yeah, and then basically the second robbery takes all night.
+
+255
+00:22:08,391 --> 00:22:16,343
+Speaker 0: Let's just say the second robbery encounters a few complications, ranging from the manager of the gas station saying, "What the fuck?
+
+256
+00:22:16,363 --> 00:22:17,285
+Speaker 0: You already robbed me.
+
+257
+00:22:17,345 --> 00:22:18,146
+Speaker 0: There's no money.
+
+258
+00:22:18,166 --> 00:22:18,787
+Speaker 0: What do you
+
+259
+00:22:18,847 --> 00:22:19,008
+Speaker 0: want?".
+
+260
+00:22:22,592 --> 00:22:24,141
+Speaker 0: And it escalates rapidly.
+
+261
+00:22:24,161 --> 00:22:25,629
+Speaker 0: This movie just really stuck with us.
+
+262
+00:22:26,090 --> 00:22:27,498
+Speaker 0: It's also really long.
+
+263
+00:22:27,518 --> 00:22:28,524
+Speaker 0: It's almost two hours long.
+
+264
+00:22:30,971 --> 00:22:31,995
+Speaker 0: I recommend this movie.
+
+265
+00:22:32,196 --> 00:22:36,370
+Speaker 0: I recommend you watch it on YouTube if you've never seen it before, before this video is taken down.
+
+266
+00:22:38,114 --> 00:22:38,642
+Speaker 0: So what do you got?
+
+267
+00:22:40,611 --> 00:22:46,870
+Speaker 1: So we all know that old adage about you can't fold a piece of paper in half more than so many times, right?
+
+268
+00:22:47,471 --> 00:22:50,849
+Speaker 1: It depends on the paper, obviously, what the exact limit is and whatnot.
+
+269
+00:22:51,833 --> 00:22:54,950
+Speaker 1: But it's like, yeah, because then the paper gets too thick and you can't fold it anymore.
+
+270
+00:22:55,650 --> 00:23:00,370
+Speaker 1: But what if there was a way to fold the paper that wasn't in half, right?
+
+271
+00:23:00,790 --> 00:23:04,950
+Speaker 1: Of course, there are many ways to fold paper, an infinite number of ways, actually.
+
+272
+00:23:06,130 --> 00:23:11,970
+Speaker 0: Well, not technically an infinite number because of the plank length and the size of an atom, but I digress.
+
+273
+00:23:12,470 --> 00:23:21,650
+Speaker 1: Regardless, if you have a piece of paper that is large and you want to get it into a small space, right?
+
+274
+00:23:22,091 --> 00:23:24,930
+Speaker 1: Say you've got, I don't know, a map, right?
+
+275
+00:23:25,090 --> 00:23:32,150
+Speaker 1: And you want to have like a big map of like a large area with great detail, but you don't want to carry around it unfolded, right?
+
+276
+00:23:32,170 --> 00:23:34,287
+Speaker 1: You want to squeeze it down so you can put it in your pocket.
+
+277
+00:23:34,871 --> 00:23:37,670
+Speaker 1: Usually you just fold it in half and sort of do a little brochure deal.
+
+278
+00:23:38,054 --> 00:23:39,409
+Speaker 1: And that usually is good enough.
+
+279
+00:23:39,852 --> 00:23:43,870
+Speaker 1: But what if there was a more efficient way to fold it into a small area?
+
+280
+00:23:45,032 --> 00:23:49,350
+Speaker 1: And what if you're in a case where you really need to fold it into a small area?
+
+281
+00:23:49,690 --> 00:23:53,650
+Speaker 1: Like maybe you're launching something into space, like, I don't know, a solar panel.
+
+282
+00:23:54,152 --> 00:23:55,804
+Speaker 1: And the solar panel is going to be big.
+
+283
+00:23:57,010 --> 00:24:02,950
+Speaker 1: So it captures a lot of sun, but you can't launch a big flat thing on your rocket, right?
+
+284
+00:24:03,191 --> 00:24:06,190
+Speaker 1: You need to fold that shit up, put it inside the rocket.
+
+285
+00:24:06,652 --> 00:24:09,450
+Speaker 1: And then once it gets up there, it unfolds, right?
+
+286
+00:24:10,711 --> 00:24:15,890
+Speaker 1: And so the way one way to do such a fold is called the Miura Ori fold.
+
+287
+00:24:16,291 --> 00:24:22,009
+Speaker 1: And here is a video on how to do this fold, which I think is really fun.
+
+288
+00:24:23,151 --> 00:24:31,330
+Speaker 1: And if you have large pieces of paper that you work with, blueprints, it could be fun to fold them in the Miura Ori and then file them without having to use folders.
+
+289
+00:24:32,411 --> 00:24:44,270
+Speaker 1: Or if you were, say, distributing a large brochure to people at maybe a booth and you folded all your brochures in the Miura Ori, and then people unfolded it and the brochure was a lot larger than they thought it was going to be.
+
+290
+00:24:45,396 --> 00:24:46,829
+Speaker 1: You could fit a lot of stuff on there.
+
+291
+00:24:47,350 --> 00:24:54,750
+Speaker 1: Obviously, it'll cost you more in ink and time because I don't think a machine, I don't know if a machine can do this fold for you if you're doing high quantities.
+
+292
+00:24:55,291 --> 00:25:05,670
+Speaker 0: I'll bet a machine could, but I also would bet because I went way back, way back when Scott and I used to try to print, we used to print a flyer for specific conventions because we used to do so many panels.
+
+293
+00:25:06,011 --> 00:25:09,070
+Speaker 0: So we'd print a flyer that had our panel scheduled for that convention.
+
+294
+00:25:09,632 --> 00:25:12,010
+Speaker 0: And I remember there were a lot of options for crazy folds.
+
+295
+00:25:12,710 --> 00:25:17,330
+Speaker 0: And depending on the number of folds, the price was exponentially more for the flyer.
+
+296
+00:25:18,011 --> 00:25:23,090
+Speaker 0: So I imagine you could get a specialized machine to do this, and I also imagine it would be so expensive, nobody would.
+
+297
+00:25:25,332 --> 00:25:28,230
+Speaker 1: Anyway, it's cool and useful to learn this fold, I guess.
+
+298
+00:25:29,011 --> 00:25:35,470
+Speaker 1: It's a practical origami and not a, I guess it's somewhat artistic, but it's not like you're making cranes and frogs and, you know.
+
+299
+00:25:35,854 --> 00:25:36,090
+Speaker 1: Yeah.
+
+300
+00:25:37,612 --> 00:25:40,870
+Speaker 0: In the meantime, the Geek Nights Book Club book remains.
+
+301
+00:25:41,090 --> 00:25:41,779
+Speaker 0: The night is short.
+
+302
+00:25:41,880 --> 00:25:42,690
+Speaker 0: Walk on, girl.
+
+303
+00:25:42,891 --> 00:25:45,390
+Speaker 0: I imagine we'll do the show like within a few weeks after PAX.
+
+304
+00:25:45,911 --> 00:25:50,430
+Speaker 0: It's not a long read, but I expect we've both been really busy lately and I've been sick.
+
+305
+00:25:50,550 --> 00:25:54,930
+Speaker 0: So I will hazard that Scott has not read more of it since the last time we talked.
+
+306
+00:25:55,710 --> 00:25:55,831
+Speaker 1: Nope.
+
+307
+00:25:55,931 --> 00:25:58,568
+Speaker 1: I got a long train ride to PAX East to read.
+
+308
+00:25:59,150 --> 00:25:59,321
+Speaker 0: Yep.
+
+309
+00:26:00,430 --> 00:26:06,070
+Speaker 0: Speaking of PAX East, we will be live at PAX East with two brand new panels.
+
+310
+00:26:06,952 --> 00:26:09,510
+Speaker 0: And yeah, the slides are almost done for those panels.
+
+311
+00:26:09,670 --> 00:26:13,290
+Speaker 0: We're actually, we're catching up and we'll be ready and everything's going to be fine.
+
+312
+00:26:14,032 --> 00:26:21,670
+Speaker 0: Every game is the same game, which is the actual, for real, brand new academic serious talk that I think is going to be really good.
+
+313
+00:26:21,950 --> 00:26:28,170
+Speaker 0: I think it's one of those topics where the more we think about it, the more spicy stuff there is to talk about.
+
+314
+00:26:28,270 --> 00:26:30,509
+Speaker 0: I think it's a really good thing to explore in games.
+
+315
+00:26:31,110 --> 00:26:38,690
+Speaker 0: And the 39 games you must play, which is sort of the inversion of the 40 games you must play that we did a long time ago.
+
+316
+00:26:39,131 --> 00:26:48,528
+Speaker 0: Instead of 40 games that we have some idea as being like a representative set of all the different kinds of games to make you a well-rounded person or whatever.
+
+317
+00:26:48,568 --> 00:26:49,730
+Speaker 0: our shtick was for that panel.
+
+318
+00:26:50,290 --> 00:26:58,430
+Speaker 0: The shtick on this one is, here's 39 games that me and Scott specifically still have stuck in our craw, regardless of if they're good or if you would like them or if you could even play them.
+
+319
+00:26:59,011 --> 00:27:01,170
+Speaker 1: A self-aggrandizing panel.
+
+320
+00:27:02,291 --> 00:27:06,570
+Speaker 0: I think it'll be fun though, because as I started putting the list together, there's some good stuff to talk about.
+
+321
+00:27:07,334 --> 00:27:09,729
+Speaker 0: For example, Tokimeki Memorial on the SNES.
+
+322
+00:27:12,733 --> 00:27:16,450
+Speaker 0: So yeah, let's get into it because we have some stuff to do right after this.
+
+323
+00:27:16,770 --> 00:27:21,130
+Speaker 0: We went to, of course, the New York International Children's Film Festival, one of our favorite things.
+
+324
+00:27:21,130 --> 00:27:22,390
+Speaker 1: I'm going back there again on Saturday.
+
+325
+00:27:22,650 --> 00:27:24,168
+Speaker 0: Oh yeah, concierge.
+
+326
+00:27:25,630 --> 00:27:32,090
+Speaker 0: But the New York International Children's Film Festival is one of the best film festivals every year in New York City.
+
+327
+00:27:32,170 --> 00:27:36,370
+Speaker 1: It is the film festival that I have been to the most, and I have been to several.
+
+328
+00:27:37,193 --> 00:27:37,475
+Speaker 0: Yep.
+
+329
+00:27:37,495 --> 00:27:39,145
+Speaker 0: I look forward to it every year.
+
+330
+00:27:39,206 --> 00:27:39,870
+Speaker 0: It's one of those things.
+
+331
+00:27:40,151 --> 00:27:42,790
+Speaker 1: I sometimes forget when it's happening.
+
+332
+00:27:43,652 --> 00:27:47,049
+Speaker 1: Some years I remember and I go, and some years I'm like, "Oh, I missed
+
+333
+00:27:47,089 --> 00:27:47,130
+Speaker 1: it.".
+
+334
+00:27:47,751 --> 00:27:49,930
+Speaker 0: But it is just top notch.
+
+335
+00:27:50,250 --> 00:27:56,170
+Speaker 0: But one side effect is a lot of times, especially if there's a new anime movie that year, it's always in the festival.
+
+336
+00:27:56,290 --> 00:28:02,108
+Speaker 0: But two, the movies they pick for the festival are extremely well-curated.
+
+337
+00:28:02,228 --> 00:28:02,890
+Speaker 0: It's all hits.
+
+338
+00:28:03,630 --> 00:28:11,930
+Speaker 1: They basically get the best children's movies of the year and show them all together, plus a bunch of shorts that you could never see anywhere else easily, probably.
+
+339
+00:28:13,212 --> 00:28:14,296
+Speaker 1: And a lot of U.S.
+
+340
+00:28:14,336 --> 00:28:17,950
+Speaker 1: premieres of foreign ones, which is always the big deal.
+
+341
+00:28:18,971 --> 00:28:26,030
+Speaker 1: But it's like, hey, a lot of these are never going to screen anywhere or won't screen anywhere in the U.S.
+
+342
+00:28:27,372 --> 00:28:31,910
+Speaker 1: And so this is your only chance, and it's a good time.
+
+343
+00:28:32,490 --> 00:28:45,010
+Speaker 0: And one nuance that's part of the reason why the festival, I think, is so good and why we go to it so consistently is that the best children's movies are the ones that are equally enjoyable for the kids and the adults.
+
+344
+00:28:45,071 --> 00:28:47,249
+Speaker 0: So that is also one of the hardest kinds of movies to make.
+
+345
+00:28:48,551 --> 00:28:48,712
+Speaker 1: Yeah.
+
+346
+00:28:48,772 --> 00:28:54,290
+Speaker 1: If there was a movie that was like straight up children's movie, I don't think it would make the cut in the film festival.
+
+347
+00:28:54,750 --> 00:28:54,830
+Speaker 0: Yeah.
+
+348
+00:28:56,092 --> 00:29:11,270
+Speaker 0: So what we saw was a Spanish-French collaboration called Robot Dreams, which this movie is 102 minutes long, and it is one of those high concept, zero dialogue movies.
+
+349
+00:29:12,431 --> 00:29:13,974
+Speaker 1: Well, the comic book was right.
+
+350
+00:29:13,994 --> 00:29:21,450
+Speaker 1: So it's based on a comic book, which is published by first second, which I bought at the MOCA a very long time ago.
+
+351
+00:29:21,570 --> 00:29:22,996
+Speaker 1: When did the comic come out?
+
+352
+00:29:23,277 --> 00:29:24,140
+Speaker 1: Had to be at least 2007.
+
+353
+00:29:24,140 --> 00:29:24,241
+Speaker 0: Yeah.
+
+354
+00:29:26,750 --> 00:29:32,889
+Speaker 1: So I bought this comic in the early days of Geek Nights and I had it on my shelf and I read it.
+
+355
+00:29:33,652 --> 00:29:36,163
+Speaker 1: And I remember clearly remember owning it.
+
+356
+00:29:36,404 --> 00:29:37,750
+Speaker 1: I clearly remember its existence.
+
+357
+00:29:38,653 --> 00:29:41,661
+Speaker 1: I can probably prove that I had it somehow.
+
+358
+00:29:42,022 --> 00:29:44,710
+Speaker 0: But do you remember the 21st night of September?
+
+359
+00:29:45,130 --> 00:29:45,250
+Speaker 1: Right.
+
+360
+00:29:45,310 --> 00:29:48,077
+Speaker 1: But I don't remember actually anything.
+
+361
+00:29:48,137 --> 00:29:54,050
+Speaker 1: I haven't read the comic in probably over a decade and I couldn't find it on my shelf anywhere.
+
+362
+00:29:54,712 --> 00:29:58,166
+Speaker 1: So I either gave it away or sold it or donated it or something.
+
+363
+00:29:59,430 --> 00:30:01,162
+Speaker 0: I think there's a 20% chance you read it.
+
+364
+00:30:03,551 --> 00:30:05,880
+Speaker 1: No, I definitely read it 100%.
+
+365
+00:30:05,880 --> 00:30:07,607
+Speaker 1: But I don't remember what happened in it.
+
+366
+00:30:08,109 --> 00:30:08,330
+Speaker 1: Right.
+
+367
+00:30:08,530 --> 00:30:10,297
+Speaker 1: Other than that, you know, what it looked like.
+
+368
+00:30:10,337 --> 00:30:13,409
+Speaker 1: There was a robot who had dreams and that's pretty much it.
+
+369
+00:30:15,275 --> 00:30:15,435
+Speaker 0: Yep.
+
+370
+00:30:15,455 --> 00:30:16,218
+Speaker 0: So this movie is great.
+
+371
+00:30:16,358 --> 00:30:18,385
+Speaker 0: Like I thoroughly enjoyed it.
+
+372
+00:30:18,486 --> 00:30:19,670
+Speaker 0: I would recommend everyone watch it.
+
+373
+00:30:19,730 --> 00:30:22,239
+Speaker 0: Like there's a lot going on in this movie.
+
+374
+00:30:23,062 --> 00:30:25,150
+Speaker 0: It's there's a lot we could say.
+
+375
+00:30:25,310 --> 00:30:31,810
+Speaker 0: But what I'm going to try to avoid is I have a feel like there's a lot of late create you can do and a lot of ways to interpret aspects of this movie.
+
+376
+00:30:32,312 --> 00:30:33,475
+Speaker 0: And it's a good movie.
+
+377
+00:30:33,496 --> 00:30:34,218
+Speaker 1: It's not that deep.
+
+378
+00:30:34,539 --> 00:30:37,790
+Speaker 0: No, it's not that deep, but there are multiple different layers of interpretation.
+
+379
+00:30:38,030 --> 00:30:44,750
+Speaker 0: However, because right before we saw it, Emily and I finished watching the Pluto anime.
+
+380
+00:30:44,910 --> 00:30:46,252
+Speaker 0: So Pluto was fresh in my mind.
+
+381
+00:30:46,272 --> 00:30:55,850
+Speaker 0: And that definitely colored this a little bit because in this universe, these robots are clearly sentient and yet clearly have zero rights.
+
+382
+00:30:58,692 --> 00:31:03,210
+Speaker 0: And that juxtaposition was a little bit jarring and added.
+
+383
+00:31:03,370 --> 00:31:04,135
+Speaker 1: I don't think that that was.
+
+384
+00:31:04,196 --> 00:31:06,250
+Speaker 1: that was just sort of not the point of it at all.
+
+385
+00:31:09,295 --> 00:31:16,610
+Speaker 0: The third darker reading of this is probably not intentional and not super relevant.
+
+386
+00:31:17,291 --> 00:31:18,856
+Speaker 0: And I'm going to try to avoid that.
+
+387
+00:31:18,916 --> 00:31:22,730
+Speaker 0: But I kept thinking back to Pluto the entire movie as a result.
+
+388
+00:31:24,052 --> 00:31:24,333
+Speaker 1: Yeah.
+
+389
+00:31:24,494 --> 00:31:27,144
+Speaker 1: So what happens in robot dreams is there is a dog.
+
+390
+00:31:27,225 --> 00:31:28,510
+Speaker 1: It's all animal people.
+
+391
+00:31:28,852 --> 00:31:32,229
+Speaker 1: But of course, there's also actual animal animals like the birds.
+
+392
+00:31:33,752 --> 00:31:36,300
+Speaker 1: But it does animal people and the animal.
+
+393
+00:31:36,661 --> 00:31:39,710
+Speaker 1: one animal dog who seems pretty cool is lonely.
+
+394
+00:31:40,472 --> 00:31:45,830
+Speaker 1: And so they buy a robot to be their friend and the robot is their friend.
+
+395
+00:31:45,990 --> 00:31:46,711
+Speaker 1: And it's awesome.
+
+396
+00:31:47,352 --> 00:32:01,290
+Speaker 1: But then due to sort of far fetched circumstances, the the the robot is separated from the dog and the robot has dreams during the separated period, even though they're a robot.
+
+397
+00:32:02,031 --> 00:32:02,996
+Speaker 1: And the dog is sad.
+
+398
+00:32:03,016 --> 00:32:06,189
+Speaker 1: And then, you know, things happen.
+
+399
+00:32:08,411 --> 00:32:12,398
+Speaker 1: What the story is about is obviously about loneliness, right?
+
+400
+00:32:12,699 --> 00:32:18,550
+Speaker 1: Friendship, moving on, you know, loss, trying to meet people.
+
+401
+00:32:19,130 --> 00:32:30,330
+Speaker 1: But the thing that really surprised me, which I don't know if it was in the book or not, because I remember the book, even though I read it, was that this is a super strong 80s New York period piece.
+
+402
+00:32:30,531 --> 00:32:35,690
+Speaker 1: Like it is more about New York than it is about the robots and the friendship and all that stuff.
+
+403
+00:32:35,890 --> 00:32:46,350
+Speaker 0: And it is like, as someone who's lived in New York for a long time now, it is more true to New York than a lot of things that very directly and intentionally try to be said in New York.
+
+404
+00:32:46,630 --> 00:32:55,030
+Speaker 0: Like the specific details it highlighted along the way were what I would say edge into inside New Yorker territory.
+
+405
+00:32:55,671 --> 00:32:55,831
+Speaker 1: Right.
+
+406
+00:32:55,852 --> 00:33:05,730
+Speaker 1: If you look at some other New York movies, right, you got your your taxi driver, your, you know, Dog Day Afternoon, your Ghostbusters, right?
+
+407
+00:33:05,910 --> 00:33:08,256
+Speaker 1: You're like extreme New York movies out there.
+
+408
+00:33:08,857 --> 00:33:14,270
+Speaker 1: But those movies are about what they're about more than they're about New York.
+
+409
+00:33:14,390 --> 00:33:20,350
+Speaker 1: They take place in New York and might be authentic to New York, but they're not necessarily about New York.
+
+410
+00:33:21,133 --> 00:33:24,490
+Speaker 1: Robot Dreams is at least 50 percent about New York.
+
+411
+00:33:24,730 --> 00:33:29,490
+Speaker 0: I would argue that Ghostbusters is the one exception where Ghostbusters is at least 20 percent about New York.
+
+412
+00:33:29,630 --> 00:33:31,893
+Speaker 0: I've read a lot of 20 percent, but it's not about.
+
+413
+00:33:31,933 --> 00:33:44,830
+Speaker 0: New York is specifically, effectively a character in Ghostbusters, partly due to the fact that New York is the one city in the world where literal hell rises up from the spirit realm and nobody gives a shit.
+
+414
+00:33:45,470 --> 00:33:49,130
+Speaker 1: But it's not as much about New York as Robot Dreams is.
+
+415
+00:33:49,471 --> 00:33:57,450
+Speaker 0: There is only one inaccurate moment in Robot Dreams, but it is inaccurate clearly intentionally about the 80s in New York.
+
+416
+00:33:58,650 --> 00:33:59,148
+Speaker 0: The Mets Yankees.
+
+417
+00:34:00,390 --> 00:34:00,711
+Speaker 1: Oh, yeah.
+
+418
+00:34:00,851 --> 00:34:01,754
+Speaker 1: That was that was in my.
+
+419
+00:34:02,034 --> 00:34:08,010
+Speaker 1: I did appreciate that the people who made this movie, first of all, set in the late 80s when the Mets were good and the Yankees were not as good.
+
+420
+00:34:08,530 --> 00:34:16,850
+Speaker 1: So but also I was so surprised not at the fact that it was a New York period piece, but that this is made by European people.
+
+421
+00:34:17,351 --> 00:34:17,732
+Speaker 1: I don't know.
+
+422
+00:34:17,831 --> 00:34:24,949
+Speaker 1: They must have been people who spent a lot of time in New York or had researched insanely because how else could they get so much right.
+
+423
+00:34:26,489 --> 00:34:27,694
+Speaker 1: And also they were.
+
+424
+00:34:28,376 --> 00:34:32,370
+Speaker 1: there is no doubt that they were Mets fans because basically, like all good people are.
+
+425
+00:34:33,011 --> 00:34:34,801
+Speaker 1: Yes, everything.
+
+426
+00:34:34,842 --> 00:34:35,606
+Speaker 1: They were 100 percent.
+
+427
+00:34:36,510 --> 00:34:39,889
+Speaker 1: They did not try to hide in any way that they were Mets fans.
+
+428
+00:34:39,969 --> 00:34:41,743
+Speaker 1: This movie was like, let's go, Mets.
+
+429
+00:34:41,824 --> 00:34:42,650
+Speaker 1: Fuck the Yankees.
+
+430
+00:34:43,710 --> 00:34:49,489
+Speaker 1: And without saying any words of dialog in the whole movie, they managed to say, let's go, Mets.
+
+431
+00:34:49,889 --> 00:34:50,011
+Speaker 0: Yeah.
+
+432
+00:34:50,813 --> 00:34:54,330
+Speaker 0: Not literally, but another character in the movie.
+
+433
+00:34:54,971 --> 00:34:55,431
+Speaker 0: Not really.
+
+434
+00:34:55,471 --> 00:35:06,350
+Speaker 0: It's more like a motif, but it is like it is so strong and central to everything that's going on in this movie is the Earth, Wind and Fire song September.
+
+435
+00:35:07,211 --> 00:35:07,492
+Speaker 1: Yes.
+
+436
+00:35:07,672 --> 00:35:13,189
+Speaker 1: So already that's a big song because of, you know, the guy who did all the videos.
+
+437
+00:35:13,530 --> 00:35:19,710
+Speaker 0: In the late 70s, when that song appeared on Earth through the 80s and even continuing into today.
+
+438
+00:35:19,790 --> 00:35:21,155
+Speaker 0: But that's a separate conversation.
+
+439
+00:35:21,677 --> 00:35:25,430
+Speaker 0: That song was big, like 78 through like 1984.
+
+440
+00:35:25,430 --> 00:35:26,630
+Speaker 0: The song was like still in the charts.
+
+441
+00:35:27,370 --> 00:35:29,030
+Speaker 1: It's a legendary hit song.
+
+442
+00:35:29,250 --> 00:35:29,890
+Speaker 0: It's one of the best songs.
+
+443
+00:35:31,270 --> 00:35:48,050
+Speaker 1: So and so I guess I was surprised in this movie at how much a actual licensed copyrighted trademarked things appeared that they must have either paid for or didn't care about legal consequences or there are no legal consequences.
+
+444
+00:35:48,732 --> 00:35:52,010
+Speaker 1: But they definitely paid for this song right to be used.
+
+445
+00:35:52,210 --> 00:35:54,370
+Speaker 0: Well, they played it like 30 times in the movie.
+
+446
+00:35:54,730 --> 00:35:55,541
+Speaker 1: They played it like 100 times.
+
+447
+00:35:56,953 --> 00:35:58,587
+Speaker 1: So they paid for it once and they played it.
+
+448
+00:35:59,753 --> 00:36:00,601
+Speaker 1: There's no dialogues.
+
+449
+00:36:00,642 --> 00:36:01,430
+Speaker 1: They got to do something.
+
+450
+00:36:01,650 --> 00:36:05,342
+Speaker 1: I guess there is dialogues because there's the lyrics of the song being sung as they play it.
+
+451
+00:36:08,690 --> 00:36:10,060
+Speaker 0: Well, you've also got the motifs of like.
+
+452
+00:36:10,241 --> 00:36:11,430
+Speaker 1: you hear Maurice White's voice.
+
+453
+00:36:11,590 --> 00:36:12,544
+Speaker 1: That's the only voice you hear.
+
+454
+00:36:13,131 --> 00:36:17,189
+Speaker 0: You hear Dog make a few grunts and exclamation noises at various points.
+
+455
+00:36:19,550 --> 00:36:22,910
+Speaker 1: Yeah, but there were also like in the image, right?
+
+456
+00:36:23,030 --> 00:36:26,150
+Speaker 1: It's like they're just like it just says Mets, Yankees, right?
+
+457
+00:36:26,310 --> 00:36:28,475
+Speaker 1: You know, there were some brands.
+
+458
+00:36:28,535 --> 00:36:35,670
+Speaker 0: I think there might have been like there were a handful of brands that were fakie versions, but most of them were actual things from that.
+
+459
+00:36:36,070 --> 00:36:40,070
+Speaker 1: It was literally just like Yankee Stadium, Mets, Mets, right?
+
+460
+00:36:40,150 --> 00:36:41,929
+Speaker 1: It's just like they're not hiding anything.
+
+461
+00:36:43,253 --> 00:36:45,248
+Speaker 1: And you it's I'm like, did they pay for that too?
+
+462
+00:36:45,875 --> 00:36:46,308
+Speaker 1: Can they?
+
+463
+00:36:46,713 --> 00:36:47,117
+Speaker 1: I don't know.
+
+464
+00:36:47,380 --> 00:36:48,369
+Speaker 1: Do you have to pay for that?
+
+465
+00:36:49,915 --> 00:36:50,870
+Speaker 1: It was really interesting.
+
+466
+00:36:51,070 --> 00:36:52,890
+Speaker 1: But hey, it's pretty great also.
+
+467
+00:36:53,270 --> 00:36:53,370
+Speaker 1: Yeah.
+
+468
+00:36:53,490 --> 00:36:53,776
+Speaker 1: I like it.
+
+469
+00:36:54,750 --> 00:37:05,130
+Speaker 0: And, you know, it's generally when something goes completely dialogue free, that is the longer the movie is, the harder it is to pull that off without the thing dragging.
+
+470
+00:37:05,790 --> 00:37:06,191
+Speaker 0: Like that is.
+
+471
+00:37:06,572 --> 00:37:12,629
+Speaker 0: that is an artistic feat to be able to make a movie this long that is purely dialogue free and make it so compelling the whole way.
+
+472
+00:37:13,393 --> 00:37:15,590
+Speaker 1: I mean, what used to be you had to make a silent movie.
+
+473
+00:37:15,752 --> 00:37:16,626
+Speaker 1: You couldn't make a talkie.
+
+474
+00:37:16,990 --> 00:37:17,170
+Speaker 0: Yeah.
+
+475
+00:37:17,771 --> 00:37:26,530
+Speaker 1: And then once you could make a talkie, it's like, oh, finally we're fucking silent movies and silent movies are really rare kind of, you know, film school things or whatever.
+
+476
+00:37:26,830 --> 00:37:32,570
+Speaker 1: It's like, you know, sort of a niche cultural, you know, kind of kind of thing, right?
+
+477
+00:37:32,630 --> 00:37:39,390
+Speaker 1: No one is like, I can't remember any silent movie that was like in theaters, you know, any time recently.
+
+478
+00:37:39,992 --> 00:37:44,610
+Speaker 1: So this isn't a silent movie because there is plenty of audio all the time.
+
+479
+00:37:45,151 --> 00:37:50,010
+Speaker 1: But there is no spoken dialogue, which, you know, a really makes it great for a children's film.
+
+480
+00:37:50,651 --> 00:37:55,930
+Speaker 1: But I think there were a lot of things that in the movie are written down in English text.
+
+481
+00:37:56,590 --> 00:38:05,510
+Speaker 1: So someone near me because it's Children's Film Festival was basically any time there was text on the screen was telling their child what you know, what it said.
+
+482
+00:38:06,193 --> 00:38:08,929
+Speaker 1: And that makes it less of a children's movie, I think.
+
+483
+00:38:09,490 --> 00:38:09,591
+Speaker 1: Right.
+
+484
+00:38:09,611 --> 00:38:11,570
+Speaker 1: That you have to read, you know, children.
+
+485
+00:38:11,870 --> 00:38:12,591
+Speaker 0: Like the postcard from Duck.
+
+486
+00:38:12,631 --> 00:38:22,830
+Speaker 0: Like if you can't read what that postcard says, I guess, you know, actually you'd be fine because you'd still know how that went down because there's a picture of a clearly not American place.
+
+487
+00:38:23,295 --> 00:38:24,389
+Speaker 0: And then dog is sad.
+
+488
+00:38:25,470 --> 00:38:33,310
+Speaker 1: Yeah, but it's still not, you know, text is less accessible than spoken language to the children.
+
+489
+00:38:34,238 --> 00:38:35,409
+Speaker 1: At least if the children can hear.
+
+490
+00:38:37,631 --> 00:38:47,750
+Speaker 0: But aside from being a period piece to like the setting of New York, it was also very much a period piece to the vibe of the pre-internet, pre-cell phone era.
+
+491
+00:38:47,870 --> 00:38:58,710
+Speaker 0: Because this era of New York, like this era of the world, at least the industrialized world, the late 70s through the 90s was where technology had advanced a lot.
+
+492
+00:38:59,111 --> 00:39:07,670
+Speaker 0: And the super modern world was fully in effect, except we still didn't have smartphones and like portable devices.
+
+493
+00:39:08,150 --> 00:39:14,050
+Speaker 0: So how adults make friends, how adults meet people changed so radically after that.
+
+494
+00:39:14,451 --> 00:39:23,870
+Speaker 0: And I think a lot of younger people won't quite, I think they might experience or at least feel what it was like to interact with people as adults before smartphones.
+
+495
+00:39:24,151 --> 00:39:28,730
+Speaker 0: Like literally, if your friend doesn't pick up the phone and you don't know where they live, there's no way to find them.
+
+496
+00:39:29,531 --> 00:39:30,293
+Speaker 0: Like that's it.
+
+497
+00:39:30,934 --> 00:39:34,625
+Speaker 0: Like looking someone's name up in the phone book to try to get a hold of them.
+
+498
+00:39:34,885 --> 00:39:36,570
+Speaker 0: That's not a thing anyone does anymore.
+
+499
+00:39:38,790 --> 00:39:38,950
+Speaker 1: Yep.
+
+500
+00:39:39,471 --> 00:39:49,710
+Speaker 1: I think also, despite being, you know, old in that way, it's also relevant to the present because I think despite having cell phones, everyone has a smartphone, you know, or at least a lot of people smartphones.
+
+501
+00:39:50,110 --> 00:39:51,549
+Speaker 1: People are still crazy lonely.
+
+502
+00:39:51,811 --> 00:39:52,033
+Speaker 0: Yep.
+
+503
+00:39:52,355 --> 00:39:54,550
+Speaker 0: Oh, there's perhaps even more lonely.
+
+504
+00:39:54,710 --> 00:40:04,430
+Speaker 0: The US government, there's a report they just issued where they've identified, they're saying that loneliness among adults is getting to the point of being a national security and a national health crisis.
+
+505
+00:40:05,130 --> 00:40:05,211
+Speaker 1: Yeah.
+
+506
+00:40:05,231 --> 00:40:07,298
+Speaker 1: I mean, you're talking about people getting robot friends.
+
+507
+00:40:07,358 --> 00:40:10,549
+Speaker 1: It's like, yeah, I think people are getting robot friends now, right?
+
+508
+00:40:11,311 --> 00:40:15,500
+Speaker 1: They imagine a robot friend of the eighties is like a thing that didn't actually happen.
+
+509
+00:40:15,900 --> 00:40:17,844
+Speaker 1: where it's like, it's 2024.
+
+510
+00:40:17,844 --> 00:40:19,768
+Speaker 1: People are getting robot friends now.
+
+511
+00:40:19,868 --> 00:40:20,670
+Speaker 1: They're that lonely.
+
+512
+00:40:22,471 --> 00:40:30,409
+Speaker 1: So it's interesting to sort of take a problem of the present and put it in the past, you know, and I look at it in a difference.
+
+513
+00:40:32,011 --> 00:40:42,550
+Speaker 0: And in terms of the movie itself, like it really deals with not just adult friendship and relationships, but the like the nature of those without spoiling anything, like just go watch this movie, obviously.
+
+514
+00:40:42,790 --> 00:40:51,010
+Speaker 0: But like some people at certain stages in their lives are better or worse friends for other people, depending on the stages they're in in their lives.
+
+515
+00:40:51,070 --> 00:40:57,021
+Speaker 0: Like Dog, not a great friend to Robot, considering Robot's particular needs.
+
+516
+00:40:57,562 --> 00:41:01,690
+Speaker 0: Dog gives up pretty quick on trying to get Robot out of its situation.
+
+517
+00:41:02,470 --> 00:41:09,090
+Speaker 1: I think they do a pretty, you know, I think they did try a lot, but they, you know, basically could have tried harder.
+
+518
+00:41:09,770 --> 00:41:09,951
+Speaker 0: Yeah.
+
+519
+00:41:10,071 --> 00:41:12,018
+Speaker 0: Well, because Monkey was able to get in there just fine.
+
+520
+00:41:13,524 --> 00:41:15,190
+Speaker 0: So was Rabbit, Rabbit and Rabbit.
+
+521
+00:41:16,157 --> 00:41:16,589
+Speaker 1: And birds.
+
+522
+00:41:16,911 --> 00:41:17,193
+Speaker 0: Yup.
+
+523
+00:41:17,454 --> 00:41:21,170
+Speaker 0: Granted, Rabbit, Rabbit, Rabbit, as well as Monkey were bad people.
+
+524
+00:41:22,156 --> 00:41:22,387
+Speaker 1: Sure.
+
+525
+00:41:24,951 --> 00:41:31,530
+Speaker 0: But also about how people, when they separate, whether intentional or not, might change and become different.
+
+526
+00:41:31,790 --> 00:41:42,010
+Speaker 0: And how just because you had a good relationship or good memories of the past, you can hold on to those even if you were in a different place and your lives have diverged since then.
+
+527
+00:41:42,612 --> 00:41:46,108
+Speaker 0: All those themes are woven into this movie, I would say, expertly.
+
+528
+00:41:47,690 --> 00:41:50,835
+Speaker 1: So the movie did get nominated for Oscar.
+
+529
+00:41:51,476 --> 00:42:00,790
+Speaker 1: I think, you know, they gave the Oscar to Miyazaki, which I think they would have just given it to him, even if he had put up two hours of just a white screen.
+
+530
+00:42:01,412 --> 00:42:03,169
+Speaker 1: Because the people who vote don't watch it.
+
+531
+00:42:05,074 --> 00:42:07,970
+Speaker 0: I will admit, I did not realize the Oscars already happened for some reason.
+
+532
+00:42:08,476 --> 00:42:09,190
+Speaker 1: They just happened.
+
+533
+00:42:09,190 --> 00:42:11,269
+Speaker 0: For some reason, I thought they were like in a couple of weeks.
+
+534
+00:42:12,752 --> 00:42:14,869
+Speaker 1: In my opinion, Spider-Man should have won, but you know.
+
+535
+00:42:15,210 --> 00:42:22,650
+Speaker 0: I mean, Spider-Man 2 is the best movie I have seen since Spider-Man and Spider-Man is the best movie I've seen since Terminator 2.
+
+536
+00:42:22,650 --> 00:42:23,253
+Speaker 1: I'm just saying.
+
+537
+00:42:23,494 --> 00:42:26,630
+Speaker 1: So that's my opinion anyway.
+
+538
+00:42:28,031 --> 00:42:35,649
+Speaker 1: But, you know, Robot Dreams was definitely, I think, you know, I would put it up, you know, if I had to rank those Oscar nominees, I would put it again above Miyazaki.
+
+539
+00:42:37,233 --> 00:42:37,645
+Speaker 0: I would too.
+
+540
+00:42:38,613 --> 00:42:40,722
+Speaker 1: Not to say The Boy and the Heron is bad.
+
+541
+00:42:40,742 --> 00:42:42,610
+Speaker 1: It's just, you know.
+
+542
+00:42:43,130 --> 00:42:57,430
+Speaker 0: The Boy and the Heron is a challenging movie that requires a lot of the viewer and is not necessarily what the average person wants or expects when they hear, "I'm gonna go see a Ghibli
+
+543
+00:42:57,450 --> 00:42:57,770
+Speaker 0: movie.".
+
+544
+00:43:00,011 --> 00:43:10,210
+Speaker 1: So yeah, the other movie we're gonna see at the film festival on Saturday is the Concierge, which is an anime film from Netflix, which they're bringing over.
+
+545
+00:43:11,090 --> 00:43:14,290
+Speaker 1: And the thing about it is that it's quite short, actually.
+
+546
+00:43:14,370 --> 00:43:18,770
+Speaker 1: I think it's only maybe like maybe an hour and not even, I don't know.
+
+547
+00:43:19,091 --> 00:43:23,610
+Speaker 1: It's not a long one, but it's basically about, it's one of those sort of cute anime ones.
+
+548
+00:43:23,670 --> 00:43:27,189
+Speaker 1: I guess there must be a thing with concierges now because we just had Pokemon Concierge.
+
+549
+00:43:28,013 --> 00:43:29,538
+Speaker 0: I was about to say, where's the trifecta?
+
+550
+00:43:29,618 --> 00:43:32,870
+Speaker 0: If a third concierge thing happens, then we know it's a thing.
+
+551
+00:43:33,610 --> 00:43:36,490
+Speaker 1: Yeah, it's gonna be like zombies, pirates, ninjas, concierges.
+
+552
+00:43:38,671 --> 00:43:47,050
+Speaker 1: But basically what it's about is a human woman is a concierge in like some sort of shopping mall, department store kind of mall, hotel place.
+
+553
+00:43:47,130 --> 00:43:52,630
+Speaker 0: You know, that's another weird similarity because Pokemon Concierge is a human woman is a concierge at a resort for Pokemon.
+
+554
+00:43:52,630 --> 00:43:56,430
+Speaker 1: And all the customers are like animal people, right?
+
+555
+00:43:57,012 --> 00:43:59,303
+Speaker 1: So we're gonna see what that's like.
+
+556
+00:43:59,343 --> 00:44:00,710
+Speaker 1: It should be, you know, cute.
+
+557
+00:44:00,951 --> 00:44:02,330
+Speaker 1: I don't think it'll be Robot Dreams good.
+
+558
+00:44:04,132 --> 00:44:13,910
+Speaker 0: I mean, Robot Dreams was just one of the rare confluences of it tried to do something that's somewhat difficult to do and it executed fully on every aspect of that thing.
+
+559
+00:44:15,512 --> 00:44:22,230
+Speaker 1: I think it's cool that these people who, just some animators over in Europe, Spain, it's like, you know, the dark times happened.
+
+560
+00:44:22,710 --> 00:44:29,490
+Speaker 1: And so they picked something and just started animating and it turned into, they got an Oscar nomination doing that.
+
+561
+00:44:30,011 --> 00:44:33,970
+Speaker 1: So hey, artists out there, that's an example to follow.
+
+562
+00:44:39,710 --> 00:44:42,080
+Speaker 0: This has been Geek Nights with Rym and Scott.
+
+563
+00:44:42,140 --> 00:44:44,650
+Speaker 0: Special thanks to DJ Pretzel for the opening theme.
+
+564
+00:44:44,831 --> 00:44:50,850
+Speaker 1: Be sure to visit our website at FrontRowClue.com for show notes, discussion, links and more.
+
+565
+00:44:51,350 --> 00:44:53,970
+Speaker 0: Remember, Geek Nights is not one but four different shows.
+
+566
+00:44:54,350 --> 00:44:55,890
+Speaker 0: Mondays are science and technology.
+
+567
+00:44:56,050 --> 00:44:57,709
+Speaker 0: Tuesdays, gaming and games.
+
+568
+00:44:57,910 --> 00:44:59,670
+Speaker 0: Wednesdays are animation and comics.
+
+569
+00:45:00,090 --> 00:45:02,510
+Speaker 0: Thursdays are arbitrary and indiscriminate.
+
+570
+00:45:03,210 --> 00:45:08,070
+Speaker 0: Geek Nights is distributed under a Creative Commons Attribution 4.0 International License.
+
+571
+00:45:08,610 --> 00:45:12,850
+Speaker 1: Geek Nights is recorded live with no studio and no audience.
+
+572
+00:45:13,372 --> 00:45:16,850
+Speaker 1: But unlike those other late shows, it's actually recorded at night.
+
+573
+00:45:44,272 --> 00:45:48,710
+Speaker 0: So if you're at the concert, I will very likely be hanging out, house left.
+
+574
+00:45:49,830 --> 00:45:50,760
+Speaker 0: Keep an eye on the crowd.
+
+575
+00:45:50,801 --> 00:45:51,569
+Speaker 0: You can come say hi.
+
+576
+00:45:52,050 --> 00:45:55,166
+Speaker 0: But for now, tonight, I will leave you with...
+

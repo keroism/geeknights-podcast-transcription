@@ -1,0 +1,2652 @@
+﻿1
+00:00:07,820 --> 00:00:09,360
+Speaker 1: It's Tuesday, June 11th, 2024.
+
+2
+00:00:09,360 --> 00:00:09,681
+Speaker 1: I'm Rym.
+
+3
+00:00:12,115 --> 00:00:12,570
+Speaker 0: I'm Scott.
+
+4
+00:00:12,830 --> 00:00:13,914
+Speaker 1: And this is Geek Nights.
+
+5
+00:00:13,954 --> 00:00:19,290
+Speaker 1: Tonight we are reviewing the 2024 Metroidvania Animal Well.
+
+6
+00:00:20,350 --> 00:00:21,367
+Speaker 0: Let's do this.
+
+7
+00:00:22,611 --> 00:00:34,310
+Speaker 1: So, when you're a fan of a sports team that makes it deep into, say, a playoffs like the Stanley Cup, and then it gets eliminated, there's two different ways to look at how you feel about the team that eliminated you.
+
+8
+00:00:35,531 --> 00:00:40,690
+Speaker 1: Usually, you can either look at it from the perspective of, say they go on to win the cup.
+
+9
+00:00:41,370 --> 00:00:44,121
+Speaker 1: Then at least you can say, "Well, we got as far as we could.
+
+10
+00:00:44,141 --> 00:00:46,249
+Speaker 1: They were the ones who were going to win it
+
+11
+00:00:46,329 --> 00:00:46,450
+Speaker 1: anyway.".
+
+12
+00:00:47,131 --> 00:00:49,650
+Speaker 0: Well, that's just the nature of a single-elimination tournament.
+
+13
+00:00:49,890 --> 00:00:54,230
+Speaker 0: A single-elimination tournament only semi-ranks everyone.
+
+14
+00:00:54,390 --> 00:00:59,850
+Speaker 0: If you don't have third-place matches and all these extra matches, you don't really get a full ranking.
+
+15
+00:00:59,971 --> 00:01:03,728
+Speaker 0: You just know, like, "Well, I beat those three people, and then I
+
+16
+00:01:03,768 --> 00:01:04,108
+Speaker 0: lost.".
+
+17
+00:01:04,370 --> 00:01:05,950
+Speaker 1: And the seating matters so much.
+
+18
+00:01:06,010 --> 00:01:13,930
+Speaker 0: Therefore, I'm no worse than the third worst, because I know I'm better than those two, but I lost to them.
+
+19
+00:01:14,631 --> 00:01:23,310
+Speaker 0: So, it's possible that anyone that they beat could actually be in between me and the people who beat me, and I could be worse than all of them.
+
+20
+00:01:24,112 --> 00:01:28,010
+Speaker 0: And it's possible that I could be worse than every single team on the other side of the bracket.
+
+21
+00:01:28,812 --> 00:01:36,090
+Speaker 0: Or, if the team that beats me wins the whole thing, yeah, I could still be worse than all those teams.
+
+22
+00:01:36,371 --> 00:01:41,150
+Speaker 0: Or, I could literally be the second best, even though I didn't make it to the final round.
+
+23
+00:01:42,531 --> 00:01:45,169
+Speaker 0: And that single-elimination tournament isn't there.
+
+24
+00:01:46,893 --> 00:01:50,090
+Speaker 0: The purpose of it isn't to rank everyone from first to last accurately.
+
+25
+00:01:50,830 --> 00:01:56,210
+Speaker 0: The purpose of it is just we only care about first, and we don't care about any other ranking, because only first matters.
+
+26
+00:01:56,431 --> 00:02:00,309
+Speaker 0: And it accurately determines who is first.
+
+27
+00:02:01,871 --> 00:02:13,230
+Speaker 1: So, when I was in Quiz Bowl, like Varsity Quiz Bowl in high school, there was one tournament every year where there's this one Catholic school that would always be the number one seed, because they seeded based on other tournaments.
+
+28
+00:02:14,434 --> 00:02:16,469
+Speaker 1: And we could beat the shit out of them.
+
+29
+00:02:16,870 --> 00:02:29,650
+Speaker 1: So, we would specifically tank and try to come in last place in every tournament that counted for seeding to make sure we played them in the first round of this other tournament, and we'd always crush them.
+
+30
+00:02:29,670 --> 00:02:30,553
+Speaker 0: Wait, wait, wait, wait, wait.
+
+31
+00:02:30,613 --> 00:02:35,270
+Speaker 0: You tank, and then they match the two worst teams against each other?
+
+32
+00:02:35,470 --> 00:02:35,731
+Speaker 1: No, no, no.
+
+33
+00:02:35,812 --> 00:02:39,830
+Speaker 1: This team would always be seeded number one for varies like one or two.
+
+34
+00:02:39,930 --> 00:02:41,850
+Speaker 1: Like, they'd be near the top seed reliably.
+
+35
+00:02:42,313 --> 00:02:42,705
+Speaker 0: Oh, okay.
+
+36
+00:02:43,011 --> 00:02:47,850
+Speaker 1: We wanted to face them because we pretty much always beat them whenever we faced them, for whatever reason.
+
+37
+00:02:48,939 --> 00:02:49,050
+Speaker 0: Okay.
+
+38
+00:02:50,131 --> 00:02:59,090
+Speaker 0: So, we would tank on purpose, and I remember- Wouldn't it be better to win and then beat them in the finals?
+
+39
+00:02:59,450 --> 00:03:00,993
+Speaker 1: Well, because we often lost a lot of the other teams.
+
+40
+00:03:01,013 --> 00:03:01,695
+Speaker 1: We weren't the best.
+
+41
+00:03:01,755 --> 00:03:08,850
+Speaker 1: We were not great, but if we could win that first round, like getting past the first round, we often did pretty well.
+
+42
+00:03:08,930 --> 00:03:12,710
+Speaker 0: If you weren't great, how could this first ranked team reliably lose to you?
+
+43
+00:03:12,770 --> 00:03:20,630
+Speaker 1: Because of, I think, I mean, this is only over the course of like three years, so I have three years of bi-annual tournaments to go on.
+
+44
+00:03:21,170 --> 00:03:32,490
+Speaker 1: But, another factor in a single elimination tournament is the rock, paper, scissors of what if Rym is better than Scott at this game, but Scott is better than- Right, but this is a game of trivia.
+
+45
+00:03:33,133 --> 00:03:35,852
+Speaker 1: It is, but the tournament- It's just knowledge.
+
+46
+00:03:36,093 --> 00:03:39,040
+Speaker 0: It's like if they know, they'd either know more than you or less than you.
+
+47
+00:03:39,100 --> 00:03:56,830
+Speaker 1: It's not like there's- I guess different blind spots on Team A versus Team B. Our team was always really good at mythology and literature and European history, but we didn't know shit about architecture or art history.
+
+48
+00:03:58,071 --> 00:04:10,670
+Speaker 1: So, depending on what set of things the people on your team know versus the other team, and then depending on what is chosen to be the topics, which you often don't know in advance, but many tournaments tended to draw from similar pools.
+
+49
+00:04:12,231 --> 00:04:20,050
+Speaker 1: All I'm saying is they're gonna be a hockey team that's really good against one specific other hockey team, but is not the best hockey team otherwise by a wide margin.
+
+50
+00:04:21,470 --> 00:04:28,948
+Speaker 1: But, the other way to approach this is the team that beats you, you want to get their asses handed to them just to show them up like, "Well, I don't want you to win.
+
+51
+00:04:28,968 --> 00:04:29,469
+Speaker 1: You beat us.
+
+52
+00:04:29,549 --> 00:04:29,750
+Speaker 1: Fuck
+
+53
+00:04:29,790 --> 00:04:29,890
+Speaker 1: you.".
+
+54
+00:04:30,630 --> 00:04:32,475
+Speaker 0: Well, there's all sorts of motivations, right?
+
+55
+00:04:32,515 --> 00:04:38,530
+Speaker 0: So, take for example fans of the Calgary Flames, a team that did not make the playoffs this year, right?
+
+56
+00:04:39,191 --> 00:04:42,878
+Speaker 0: They are, you know, as much as New York Rangers and Islanders.
+
+57
+00:04:42,938 --> 00:04:49,730
+Speaker 0: fans hate each other, Calgary and Edmonton fans are the two hockey teams from the province of Alberta.
+
+58
+00:04:50,170 --> 00:04:50,892
+Speaker 0: They hate each other.
+
+59
+00:04:51,112 --> 00:04:52,977
+Speaker 0: They hate each other a lot, right?
+
+60
+00:04:53,398 --> 00:04:58,490
+Speaker 0: So, the Calgary fans really do not want Edmonton to win the Stanley Cup, right?
+
+61
+00:04:58,971 --> 00:05:13,690
+Speaker 0: However, you also have to consider that just a couple years ago, right, Calgary made a huge trade, right, with the Florida Panthers to send them Matthew Tkachuk, right?
+
+62
+00:05:14,050 --> 00:05:35,070
+Speaker 0: Which basically, a player who is like, you know, mega star caliber, right, in the NHL, who effectively that player sort of gave up on their team and didn't play, you know, the best he could have went to Florida and is now playing, you know, and now is doing much better.
+
+63
+00:05:36,772 --> 00:05:44,702
+Speaker 0: And so, yeah, they have very good reason to be incredibly upset and not want the Florida Panthers to succeed.
+
+64
+00:05:46,043 --> 00:05:49,167
+Speaker 0: And yet, here they are, and those are the only two possibilities.
+
+65
+00:05:49,488 --> 00:05:50,829
+Speaker 0: One of those teams will hoist.
+
+66
+00:05:51,630 --> 00:05:58,470
+Speaker 0: But no matter what, Calgary Flames fans are already buried in salt before it's even over.
+
+67
+00:05:58,790 --> 00:06:05,750
+Speaker 1: The Edmonton Oilers are already getting shut down very similarly to how the Rangers got shut down against this team.
+
+68
+00:06:06,211 --> 00:06:10,610
+Speaker 0: Well, they got more shots on the goalie than the Rangers did.
+
+69
+00:06:11,130 --> 00:06:12,956
+Speaker 1: But they're still getting shut down in the neutral zone.
+
+70
+00:06:12,976 --> 00:06:15,244
+Speaker 1: They're not like the top tier opportunities.
+
+71
+00:06:15,264 --> 00:06:16,890
+Speaker 1: I feel like Florida is going to win it.
+
+72
+00:06:17,912 --> 00:06:20,778
+Speaker 0: I mean, yeah, that's what everyone thought.
+
+73
+00:06:20,939 --> 00:06:25,649
+Speaker 0: I mean, it's still not guaranteed, but yeah, I wouldn't bet against it.
+
+74
+00:06:28,053 --> 00:06:30,290
+Speaker 1: So, yeah, all that aside, you got any news?
+
+75
+00:06:31,570 --> 00:06:33,193
+Speaker 0: Well, we knew this news already.
+
+76
+00:06:33,273 --> 00:06:42,590
+Speaker 0: This seems to be a pattern in my life now, where I read so much internet that, like, I know things, and then eventually they get announced officially.
+
+77
+00:06:43,372 --> 00:06:45,258
+Speaker 0: And it's like, it doesn't feel like it's news.
+
+78
+00:06:45,338 --> 00:06:47,806
+Speaker 0: It feels like someone's just repeating the news, right?
+
+79
+00:06:47,966 --> 00:06:48,748
+Speaker 0: Where it's like, "I already knew
+
+80
+00:06:48,789 --> 00:06:48,929
+Speaker 0: that.".
+
+81
+00:06:49,692 --> 00:06:52,423
+Speaker 1: Like, "Oh, there's gonna be a PAX East in the year
+
+82
+00:06:52,423 --> 00:06:54,233
+Speaker 1: 2028.".
+
+83
+00:06:54,233 --> 00:06:55,247
+Speaker 0: You don't say, right?
+
+84
+00:06:55,611 --> 00:06:57,390
+Speaker 1: It'll be sometime in the late spring.
+
+85
+00:06:58,370 --> 00:07:02,280
+Speaker 0: Yeah, but it's, you know, some months a while ago, right?
+
+86
+00:07:02,601 --> 00:07:04,746
+Speaker 0: We got wind that this was occurring.
+
+87
+00:07:04,786 --> 00:07:06,090
+Speaker 0: There was lots of rumblings.
+
+88
+00:07:06,491 --> 00:07:15,706
+Speaker 0: But now there is an official announcement and trailer from, I guess, the Summer Games Fest, which is some sort of, I don't know, game-announce-y thing.
+
+89
+00:07:15,766 --> 00:07:17,850
+Speaker 0: I don't even fully understand where it comes from.
+
+90
+00:07:18,050 --> 00:07:21,110
+Speaker 1: Uploaded to YouTube four days ago, coming in 2025.
+
+91
+00:07:21,110 --> 00:07:22,855
+Speaker 0: Yeah, it's Civilization VII.
+
+92
+00:07:22,935 --> 00:07:26,525
+Speaker 0: So, I mean, there's nothing else that needs to be said.
+
+93
+00:07:26,586 --> 00:07:27,428
+Speaker 0: We knew, right?
+
+94
+00:07:28,871 --> 00:07:30,938
+Speaker 1: I played every Civ a lot.
+
+95
+00:07:31,620 --> 00:07:34,450
+Speaker 1: If I had to rank them, I actually think VI is the best.
+
+96
+00:07:36,252 --> 00:07:36,813
+Speaker 0: I don't know about that.
+
+97
+00:07:36,834 --> 00:07:39,721
+Speaker 0: But anyway, the point is, what do we know about this game?
+
+98
+00:07:39,741 --> 00:07:43,050
+Speaker 0: I mean, who knows, right?
+
+99
+00:07:43,150 --> 00:07:48,609
+Speaker 1: Well, I would note there are, in the history of Civ, there have been two kinds of new Civs.
+
+100
+00:07:48,990 --> 00:07:56,610
+Speaker 1: There's the kind that takes the broad pattern of how the previous one went and refines it and shuffles it a little bit.
+
+101
+00:07:56,950 --> 00:08:02,290
+Speaker 1: But it's like, it's basically the same blueprint, but they've updated it and made it better in some way.
+
+102
+00:08:03,610 --> 00:08:06,275
+Speaker 1: Or they do something radical like, "Yeah, hexes!
+
+103
+00:08:06,736 --> 00:08:07,497
+Speaker 1: One unit per hex!
+
+104
+00:08:07,537 --> 00:08:07,918
+Speaker 1: Fuck you!
+
+105
+00:08:07,938 --> 00:08:14,049
+Speaker 1: We've completely changed a core aspect of the game absolutely and fundamentally in a way that's going to completely change how the game gets
+
+106
+00:08:14,089 --> 00:08:14,350
+Speaker 1: played.".
+
+107
+00:08:15,071 --> 00:08:16,650
+Speaker 0: We don't know which kind of Civ this is going to be.
+
+108
+00:08:16,670 --> 00:08:20,010
+Speaker 1: We never know what kind it's going to be until they announce, until they tell us how it works.
+
+109
+00:08:20,770 --> 00:08:27,930
+Speaker 0: But the point is, is that I'm worried that, you know, just because of the way, I don't have any specific information about this game.
+
+110
+00:08:28,010 --> 00:08:29,070
+Speaker 1: I think I have the same worry.
+
+111
+00:08:29,673 --> 00:08:33,169
+Speaker 0: Yeah, just, I know about how the industry and the world is going.
+
+112
+00:08:33,169 --> 00:08:35,590
+Speaker 1: I'm going to write something down and then I'm going to see what you say.
+
+113
+00:08:35,789 --> 00:08:39,870
+Speaker 0: Will this become microtransaction, gambling bullshit?
+
+114
+00:08:40,909 --> 00:08:45,010
+Speaker 0: Or will it still be a game that you buy once and you can play Civ to your heart's content?
+
+115
+00:08:46,771 --> 00:08:47,797
+Speaker 0: Because they could do that.
+
+116
+00:08:47,838 --> 00:08:48,904
+Speaker 0: They could make Civ pay to win.
+
+117
+00:08:48,924 --> 00:08:49,830
+Speaker 0: What are you going to do about it?
+
+118
+00:08:50,371 --> 00:08:53,670
+Speaker 1: Yeah, I mean, just continue to play Civ V and Civ VI forever.
+
+119
+00:08:54,893 --> 00:08:55,295
+Speaker 0: Yeah, okay.
+
+120
+00:08:55,416 --> 00:08:56,121
+Speaker 0: Or make our own.
+
+121
+00:08:56,282 --> 00:08:57,610
+Speaker 0: There are some open-source-y ones.
+
+122
+00:08:58,072 --> 00:09:03,410
+Speaker 0: But anyway, or the other question is, will they finally make a multiplayer function?
+
+123
+00:09:03,790 --> 00:09:04,658
+Speaker 0: There's no universe.
+
+124
+00:09:04,840 --> 00:09:05,889
+Speaker 1: They've never done it.
+
+125
+00:09:06,351 --> 00:09:26,690
+Speaker 1: Every time they have tried to make multiplayer work for real, they somehow fuck it up in like amazing ways to the fact that even in Civ VI, the latest and greatest, which has like asynchronous and synchronous multiplayer built in, in the UI is supposed to just work.
+
+126
+00:09:27,175 --> 00:09:28,127
+Speaker 1: One, it just fucking crashes.
+
+127
+00:09:30,951 --> 00:09:39,650
+Speaker 0: If I was them, what I would do is, you know, they're always trying to make money, at least with Civ VI, they tried to make money selling all these DLCs over time.
+
+128
+00:09:39,810 --> 00:09:43,790
+Speaker 1: I don't think I ever engaged with any expansion other than the core ones at any point.
+
+129
+00:09:44,730 --> 00:09:46,335
+Speaker 0: Other than the ones that give you.
+
+130
+00:09:46,396 --> 00:09:54,230
+Speaker 0: like the major expansions that like change the rules of the game and stuff, most of them are like scenarios for people who want to play single player.
+
+131
+00:09:55,034 --> 00:09:57,910
+Speaker 1: I gotta say, the scenarios in all Civ games.
+
+132
+00:09:58,150 --> 00:09:59,790
+Speaker 0: Or like extra leaders, you know.
+
+133
+00:09:59,950 --> 00:10:04,370
+Speaker 1: In my, I guess, "Gig Knights" technically makes money, so technically this is a professional opinion.
+
+134
+00:10:04,970 --> 00:10:11,130
+Speaker 1: In my professional opinion, no scenario in any Civilization game has ever been good.
+
+135
+00:10:12,010 --> 00:10:14,430
+Speaker 0: I mean, I don't know if they're good or not because I just don't care about them.
+
+136
+00:10:14,450 --> 00:10:15,037
+Speaker 1: People play them though.
+
+137
+00:10:15,118 --> 00:10:19,130
+Speaker 0: Like people seem to- Yeah, there are people who are interested in those, but I'm not.
+
+138
+00:10:21,034 --> 00:10:28,330
+Speaker 1: They just feel like an okay video game implemented in a mediocre way, like hacked into Civ.
+
+139
+00:10:28,570 --> 00:10:29,749
+Speaker 1: Like they don't feel like they're good.
+
+140
+00:10:30,510 --> 00:10:35,410
+Speaker 0: I'm not interested in like trying to recreate some real world, you know, real history thing.
+
+141
+00:10:35,530 --> 00:10:42,170
+Speaker 1: But they're never even recreating real history because they're so bound by the mechanics of the Civ game that they're never actually good or historic.
+
+142
+00:10:42,510 --> 00:10:45,090
+Speaker 0: Like they can't- I don't know if they're good or historic because I haven't played them.
+
+143
+00:10:45,150 --> 00:10:45,979
+Speaker 1: I've played a ton of them.
+
+144
+00:10:46,060 --> 00:10:46,627
+Speaker 1: I've tried them out.
+
+145
+00:10:47,111 --> 00:10:51,630
+Speaker 1: I stopped with six because everyone I've ever tried has been deeply unsatisfying.
+
+146
+00:10:52,270 --> 00:10:55,590
+Speaker 0: Okay, well I've never played any of those scenarios because I don't give a shit about scenarios.
+
+147
+00:10:55,671 --> 00:10:58,409
+Speaker 1: I played a ton of them in four and they were all so bad.
+
+148
+00:10:59,290 --> 00:11:12,010
+Speaker 0: Okay, well anyway, what they could do and should do in my opinion to sort of split the baby and make money is they should make Civ 7 multiplayer first.
+
+149
+00:11:13,132 --> 00:11:14,770
+Speaker 0: Don't disregard the single player.
+
+150
+00:11:15,371 --> 00:11:19,330
+Speaker 0: But Civ has always been single player first with multiplayer tacked on.
+
+151
+00:11:19,430 --> 00:11:22,710
+Speaker 1: For a lot of reasons because in the old days like multiplayer was impossible.
+
+152
+00:11:23,950 --> 00:11:32,530
+Speaker 0: I'm saying go multiplayer, make the game multiplayer first and then just program some AIs even if they're crappy ones that single player works.
+
+153
+00:11:32,912 --> 00:11:34,670
+Speaker 0: It's just the multiplayer game against computers.
+
+154
+00:11:35,271 --> 00:11:43,649
+Speaker 0: And then sell all sorts of cosmetic bullshit that I don't have to buy and I can ignore that other people will buy to fund the game.
+
+155
+00:11:45,738 --> 00:11:48,170
+Speaker 0: They could skin their units and such and such.
+
+156
+00:11:48,210 --> 00:11:52,790
+Speaker 1: I refuse to elaborate because it would take me quite a while to explain how this would work.
+
+157
+00:11:53,210 --> 00:12:04,810
+Speaker 1: But I am confident if they made a multiplayer first Civ that just worked that a significant and serious esports league could form around it and be popular and successful.
+
+158
+00:12:05,050 --> 00:12:07,330
+Speaker 0: It had to make the game more, you know, better.
+
+159
+00:12:09,456 --> 00:12:13,250
+Speaker 1: I think it would work but it's a radically different kind of esport.
+
+160
+00:12:13,410 --> 00:12:16,350
+Speaker 1: And again I'm unwilling to elaborate in the context of this episode.
+
+161
+00:12:16,770 --> 00:12:18,376
+Speaker 0: Well the problem is in Civ.
+
+162
+00:12:18,396 --> 00:12:21,870
+Speaker 0: they've never balanced it properly because it's not a game about balance.
+
+163
+00:12:22,431 --> 00:12:25,910
+Speaker 0: So you can't really have it be a competitive, a serious competitive thing.
+
+164
+00:12:25,910 --> 00:12:28,270
+Speaker 1: I don't think esports need to be fair.
+
+165
+00:12:29,190 --> 00:12:30,458
+Speaker 0: There's also a lot of vote.
+
+166
+00:12:30,498 --> 00:12:32,530
+Speaker 0: who wins in a Civ game with more than two players.
+
+167
+00:12:32,590 --> 00:12:36,530
+Speaker 1: I don't think they need to be fair or anything need to be serious but not fair.
+
+168
+00:12:36,570 --> 00:12:37,307
+Speaker 0: Which of a sport then?
+
+169
+00:12:38,491 --> 00:12:45,450
+Speaker 1: It's about as good a sport as the WWE and again I refuse to elaborate because it would take the entire episode.
+
+170
+00:12:46,190 --> 00:12:48,070
+Speaker 0: Yeah well no one wants that.
+
+171
+00:12:50,371 --> 00:12:56,130
+Speaker 0: Even people who play video games competitively seriously invest their time in them.
+
+172
+00:12:57,071 --> 00:13:02,748
+Speaker 0: They don't say the things that we say but they inherently understand the things that we say internally.
+
+173
+00:13:03,932 --> 00:13:07,925
+Speaker 0: And no one would invest the time to be competitive in a game.
+
+174
+00:13:07,986 --> 00:13:09,330
+Speaker 0: that wasn't, you know, at least.
+
+175
+00:13:09,651 --> 00:13:12,230
+Speaker 0: It's not like it has to be devoid of all luck, right?
+
+176
+00:13:12,290 --> 00:13:14,549
+Speaker 0: There's plenty of people playing competitive card games out there.
+
+177
+00:13:15,051 --> 00:13:18,270
+Speaker 0: But it has to be, you know, not Civ.
+
+178
+00:13:19,613 --> 00:13:22,070
+Speaker 1: I think it could work but again I refuse to elaborate.
+
+179
+00:13:22,532 --> 00:13:23,450
+Speaker 1: I would have to outright.
+
+180
+00:13:24,451 --> 00:13:28,890
+Speaker 0: You'd have to make Civ, you'd have to basically make it significantly different from the past.
+
+181
+00:13:29,351 --> 00:13:34,570
+Speaker 0: You'd have to have, you know, first of all you'd have to start with some sort of drafting or something to pick your leaders.
+
+182
+00:13:35,711 --> 00:13:38,190
+Speaker 1: Which frankly Civ fucking 6 should have.
+
+183
+00:13:38,650 --> 00:13:43,110
+Speaker 0: And then you'd have to eliminate the randomness of the starting position so you don't get hosed immediately.
+
+184
+00:13:44,110 --> 00:13:48,150
+Speaker 0: And then you'd have to write all the random events like oh yeah it just floods and kills you.
+
+185
+00:13:49,112 --> 00:13:52,830
+Speaker 1: I think actually you could keep all of those and you could make something that would be popular.
+
+186
+00:13:53,290 --> 00:13:55,570
+Speaker 1: But it would be popular with a different demographic.
+
+187
+00:13:55,912 --> 00:13:58,910
+Speaker 1: But to get away from all that because that's a whole different side thing.
+
+188
+00:13:59,853 --> 00:14:02,610
+Speaker 1: The thing I wrote down, the thing I'm actually worried about with this Civ.
+
+189
+00:14:03,170 --> 00:14:12,730
+Speaker 1: Is something that every modern Civ game has been literally not worth playing until at least one full on expansion has been released.
+
+190
+00:14:12,971 --> 00:14:13,629
+Speaker 1: And sometimes two.
+
+191
+00:14:15,253 --> 00:14:19,890
+Speaker 1: Like Civ 5 was a terrible game until they fully expanded it.
+
+192
+00:14:20,451 --> 00:14:23,230
+Speaker 1: Civ 4 was a terrible game until they fully expanded it.
+
+193
+00:14:23,511 --> 00:14:26,329
+Speaker 1: Civ 6 was not that fun until they expanded it.
+
+194
+00:14:26,871 --> 00:14:29,170
+Speaker 1: I'm not going to play Civ 7 for at least a year.
+
+195
+00:14:29,950 --> 00:14:30,393
+Speaker 0: Oh you think?
+
+196
+00:14:30,494 --> 00:14:31,179
+Speaker 0: Alright.
+
+197
+00:14:31,360 --> 00:14:32,770
+Speaker 0: That's a valid, entirely valid.
+
+198
+00:14:32,930 --> 00:14:37,990
+Speaker 0: I think that is partially a strategy for game design and development.
+
+199
+00:14:38,170 --> 00:14:40,150
+Speaker 0: And also a strategy for making money, right?
+
+200
+00:14:40,230 --> 00:14:48,010
+Speaker 0: Is that they put the game out and then it's like they finally get, you know, you're basically playtesting and seeing with these core systems.
+
+201
+00:14:48,450 --> 00:14:49,670
+Speaker 0: And they're seeing what's happening.
+
+202
+00:14:49,890 --> 00:14:51,690
+Speaker 0: They collect data from real players.
+
+203
+00:14:52,232 --> 00:14:56,350
+Speaker 0: And then an expansion is, they sell it as an expansion.
+
+204
+00:14:56,530 --> 00:14:58,369
+Speaker 0: Everyone pays a bunch of money for it.
+
+205
+00:14:58,792 --> 00:15:02,469
+Speaker 0: It adds a bunch of systems to the game significantly expanding it.
+
+206
+00:15:02,731 --> 00:15:04,350
+Speaker 0: So it feels like you're getting your money's worth.
+
+207
+00:15:04,390 --> 00:15:07,790
+Speaker 1: But really, like for me, what it feels like is oh they gave me the rest of the game.
+
+208
+00:15:08,650 --> 00:15:09,031
+Speaker 0: Right.
+
+209
+00:15:09,111 --> 00:15:15,650
+Speaker 0: It's actually kind of just finishing, like you said, finishing the game that was original release was unfinished.
+
+210
+00:15:16,210 --> 00:15:18,130
+Speaker 0: So yeah, if you want to wait, you know what I mean?
+
+211
+00:15:18,631 --> 00:15:21,130
+Speaker 0: Civ 6 is how many years old and it's still being played.
+
+212
+00:15:21,230 --> 00:15:21,973
+Speaker 0: I am still in.
+
+213
+00:15:22,073 --> 00:15:26,267
+Speaker 1: I have one remaining multiplayer Civ 5 game that is not over.
+
+214
+00:15:26,307 --> 00:15:27,049
+Speaker 1: that I'm still in.
+
+215
+00:15:28,010 --> 00:15:28,312
+Speaker 0: Okay.
+
+216
+00:15:28,695 --> 00:15:29,984
+Speaker 1: But it would be perfectly valid.
+
+217
+00:15:31,190 --> 00:15:41,150
+Speaker 0: It would be valid and perhaps even intelligent to wait for Civ 7 to basically get a mega pack that includes all DLCs and then play it and not immediately.
+
+218
+00:15:41,791 --> 00:15:42,012
+Speaker 1: Yup.
+
+219
+00:15:43,114 --> 00:15:51,890
+Speaker 1: But the other thing about Civ games is, and the reason why I'm really on board with your multiplayer first idea is that on one hand I'm old.
+
+220
+00:15:52,150 --> 00:15:56,546
+Speaker 1: When I was young I could play Civ 2 against AI's single player forever.
+
+221
+00:15:56,686 --> 00:15:57,630
+Speaker 1: Like all night overnight.
+
+222
+00:15:58,010 --> 00:15:58,915
+Speaker 1: Because I had infinite time.
+
+223
+00:15:58,995 --> 00:15:59,880
+Speaker 1: No responsibilities.
+
+224
+00:16:00,121 --> 00:16:01,709
+Speaker 1: I was young and stupid and it was real fun.
+
+225
+00:16:02,310 --> 00:16:03,876
+Speaker 1: But as an adult I don't have time for that shit.
+
+226
+00:16:03,936 --> 00:16:07,590
+Speaker 1: Like I have to ration long single player games that I play.
+
+227
+00:16:08,432 --> 00:16:16,850
+Speaker 1: But that aside, I have found that Civilization is the most fun when you are playing it with other humans.
+
+228
+00:16:18,031 --> 00:16:26,590
+Speaker 1: And it is such a different game that I actually have almost zero interest in single player Civ anymore because of how much fucking fun multiplayer is.
+
+229
+00:16:26,950 --> 00:16:33,630
+Speaker 0: Well single player Civ is basically like, do you know how the AI will behave and can you exploit it?
+
+230
+00:16:33,670 --> 00:16:35,677
+Speaker 0: Because it's not actually very intelligent.
+
+231
+00:16:36,801 --> 00:16:39,630
+Speaker 0: So that's what the game comes down to at the higher difficulties.
+
+232
+00:16:40,291 --> 00:16:47,690
+Speaker 1: Civ 5 is like, or Civ multiplayer, can I do diplomacy with real humans in a real contextual scenario?
+
+233
+00:16:48,230 --> 00:16:57,070
+Speaker 0: Yeah a lot of the systems in the game, despite it being single player first, only make sense against real humans like trading and making deals and all that.
+
+234
+00:16:57,370 --> 00:17:00,369
+Speaker 0: And they don't make any sense when you're trying to make a deal with an AI.
+
+235
+00:17:03,672 --> 00:17:07,782
+Speaker 1: When I knocked you out of that Civ 5 game, I should show you the picture sometime.
+
+236
+00:17:07,803 --> 00:17:10,589
+Speaker 1: I have a long thread with multiple people in DMs.
+
+237
+00:17:11,089 --> 00:17:13,127
+Speaker 0: The World Congress makes no sense against AI.
+
+238
+00:17:14,810 --> 00:17:27,290
+Speaker 1: But we made deals like, we're going to petition Scott, I'm going to take these cities, you take these cities, you stay the fuck out of this and don't tell Scott about the armada that you accidentally saw that's heading his way.
+
+239
+00:17:28,653 --> 00:17:31,530
+Speaker 1: Like that's real fun and that does not exist in single player Civ.
+
+240
+00:17:33,570 --> 00:17:42,850
+Speaker 1: And it's very, you know this is true because of the fact that there are so many third party things to facilitate multiplayer.
+
+241
+00:17:43,190 --> 00:17:55,830
+Speaker 1: Before Civ even allowed multiplayer, like even in Civ 2, people were literally passing save files around and just fucking hacking like asynchronous multiplayer in by emailing files to each other because of how fun it was.
+
+242
+00:17:59,441 --> 00:18:00,683
+Speaker 1: So I don't really have a news.
+
+243
+00:18:00,783 --> 00:18:09,220
+Speaker 1: I got a little bit of a geek bite in the sense that I, around the time of the pandemic when that started, started playing Blades in the Dark.
+
+244
+00:18:09,481 --> 00:18:14,900
+Speaker 1: One of many role playing systems that we have enjoyed and care a lot about and have talked about in the past.
+
+245
+00:18:15,441 --> 00:18:21,138
+Speaker 1: But I've actually kept playing that game every other week unless something major came up.
+
+246
+00:18:22,321 --> 00:18:31,200
+Speaker 1: Since then, to the point that I can say now that I have basically done the equivalent of play D&D from level 1 to level 20 in Blades in the Dark.
+
+247
+00:18:31,660 --> 00:18:41,120
+Speaker 1: Like it is rare as an adult that I have fully explored the systems of a role playing game end to end where like I know the book, everything.
+
+248
+00:18:41,881 --> 00:18:45,960
+Speaker 1: We're playing a crew that went from nothing to like tier 4, end game content.
+
+249
+00:18:46,360 --> 00:18:51,250
+Speaker 1: Unless we do some expansions and start making shit up, we run out of stuff to do mechanically.
+
+250
+00:18:52,601 --> 00:18:57,520
+Speaker 1: And as a result, I want to give a little review of Blades in the Dark as an end game system.
+
+251
+00:18:58,382 --> 00:19:04,340
+Speaker 1: And for one, this is now one of my top three role playing systems.
+
+252
+00:19:04,540 --> 00:19:11,680
+Speaker 1: Blades in the Dark gets past so many of the things that make other role playing games hard to play.
+
+253
+00:19:13,641 --> 00:19:19,700
+Speaker 1: The flashback mechanisms of flashing back to a plan instead of having a plan in advance.
+
+254
+00:19:20,280 --> 00:19:27,000
+Speaker 1: That alone, adding something like that to almost any other role playing game, indie or not, would just literally make it better.
+
+255
+00:19:27,501 --> 00:19:36,940
+Speaker 1: Like so much time gets wasted at the table with meta planning around systems instead of just doing something cool and then bringing a flashback in to figure out how you got there.
+
+256
+00:19:37,120 --> 00:19:38,138
+Speaker 1: Like skipping to the cool part.
+
+257
+00:19:39,761 --> 00:19:47,900
+Speaker 1: The dye pools, like the way the mechanics work for leveling up is just so simple and yet rich enough to give you a lot of variety in characters.
+
+258
+00:19:48,320 --> 00:20:03,580
+Speaker 1: Gets past the problem we've had with systems like say Burning Wheel, where as much as I love it, it's very hard to play a game like Burning Wheel with anyone who does not know the rules as well as you do, assuming that you know the rules very well.
+
+259
+00:20:04,820 --> 00:20:18,659
+Speaker 1: And the burden of playing most indie RPGs with someone who does not fully understand the rules and is not willing to learn them all, that burden is so high that I'm increasingly unwilling to do it.
+
+260
+00:20:19,241 --> 00:20:29,280
+Speaker 1: And yet Blades in the Dark just works with people who don't fucking know the rules at all and the whole table supports them almost effortlessly just by the nature of the mechanics.
+
+261
+00:20:31,481 --> 00:20:40,380
+Speaker 1: But the other thing that really stood out, having played all the way through to the end, is that Blades in the Dark does this balance that I think very few systems have done well.
+
+262
+00:20:41,141 --> 00:20:59,260
+Speaker 1: In that it includes a setting and the setting has just enough proper nouns and numbers to make it very easy to just pull things into the game and make them work and have them all be contextual without a game master having to write a grand opus.
+
+263
+00:20:59,280 --> 00:21:10,480
+Speaker 1: Because I'm sure we've all played a role-playing game where you've got the friend, like for us it was Alex, who will orchestrate the grand story of a custom world and play a campaign through it.
+
+264
+00:21:11,080 --> 00:21:21,420
+Speaker 1: But as we all know, there aren't that many humans on Earth who are willing and able to put that kind of effort in and a very small percentage of the humans who are willing to put in that effort are any good at it.
+
+265
+00:21:22,161 --> 00:21:28,516
+Speaker 0: And when you do play a game like that, how much are you the player really contributing?
+
+266
+00:21:28,536 --> 00:21:30,400
+Speaker 0: You're mostly just having someone tell you a story.
+
+267
+00:21:30,860 --> 00:21:34,630
+Speaker 0: If you're just having someone tell you a story, why are you playing a tabletop RPG?
+
+268
+00:21:34,650 --> 00:21:38,820
+Speaker 0: You could just have them tell you the story and furthermore you could just watch a movie.
+
+269
+00:21:39,820 --> 00:21:50,200
+Speaker 0: So the tabletop RPG means that it's not worth it unless everyone is contributing and creating something that no one person foresaw before they arrived.
+
+270
+00:21:50,561 --> 00:21:58,360
+Speaker 1: So right before I tried Blades in the Dark for the first time, I had been writing a campaign that I was going to run with some of our friends in Burning Rail.
+
+271
+00:21:59,140 --> 00:22:08,540
+Speaker 1: And the idea was like, I'll go a city, and you're thieves in a thieves guild, and thief shit happens, like run your thieves guild in this medieval city with a bunch of drama happening.
+
+272
+00:22:09,400 --> 00:22:11,986
+Speaker 1: And it took a long time to try to start putting this together.
+
+273
+00:22:12,086 --> 00:22:18,620
+Speaker 1: And then I played Blades in the Dark, and Blades in the Dark mechanically just makes that happen without the game master having to do fucking anything.
+
+274
+00:22:20,581 --> 00:22:49,356
+Speaker 1: Like, if I had to recommend a system, if you have a small group of friends you want to play roleplaying games with, and it's hard to get them going, Blades in the Dark might not be the best at this, but it is near the top of all the RPGs I have ever played in terms of the likelihood of getting a bunch of people with varying levels of experience with RPGs or even the system, saying let's play a game,
+
+275
+00:22:49,737 --> 00:22:49,977
+Speaker 0: and then
+
+276
+00:22:50,297 --> 00:22:52,620
+Speaker 1: actually getting past session zero and playing a session.
+
+277
+00:22:53,180 --> 00:22:57,579
+Speaker 1: Blades in the Dark I think has the highest success rate of almost any system I can think of.
+
+278
+00:22:58,742 --> 00:23:02,639
+Speaker 1: I think it'll do better than D&D, because D&D is really fucking complicated, actually.
+
+279
+00:23:05,861 --> 00:23:18,560
+Speaker 1: And I guess the final note I'd like to say is having played this system all the way through to its endgame now, it is surprising to me how radically different it plays just based on the numbers that change as you level up.
+
+280
+00:23:19,201 --> 00:23:21,407
+Speaker 1: Like, the game plays radically differently.
+
+281
+00:23:21,447 --> 00:23:26,300
+Speaker 1: It's almost like completely different games that just sort of stack on top of each other.
+
+282
+00:23:26,920 --> 00:23:44,100
+Speaker 1: Every one of them is different, and every one of them is equally compelling to the point that you kind of never get bored, and I think that is a consequence of the numbers in the system and the mechanics more so than is the consequence of anything any human playing the game is doing.
+
+283
+00:23:45,120 --> 00:24:00,420
+Speaker 1: So, I don't want to elaborate super deep, I feel like this is more of a deep dive topic for another time, but my Geek Byte is, if you haven't played Blades in the Dark, ten out of ten, go play, use this system to play RPGs with your friends.
+
+284
+00:24:01,681 --> 00:24:08,639
+Speaker 1: I can think of very few games I'd recommend more highly than Blades in the Dark at this time, knowing what I know about it.
+
+285
+00:24:13,910 --> 00:24:16,372
+Speaker 1: But anyway, things of the day!
+
+286
+00:24:16,793 --> 00:24:18,354
+Speaker 1: So, a few things people don't know.
+
+287
+00:24:18,895 --> 00:24:37,590
+Speaker 1: One thing you might not know, if you see a big antenna, if that antenna is many things, like one of those big tower antennas you see up on a mountain, if you climb up there and you see one of those antennas, a lot of them, if you walk over and touch the bottom of that big structure, you'll probably be fine.
+
+288
+00:24:37,910 --> 00:24:43,376
+Speaker 1: Because it's like FM or something, and that tower is there mostly, so the antenna can be even higher.
+
+289
+00:24:44,097 --> 00:24:56,190
+Speaker 1: But a lot of people don't know that AM, like AM radio, amplitude modulation radio, the old school stuff, that structure, the entire thing is the antenna.
+
+290
+00:24:56,630 --> 00:25:00,495
+Speaker 1: It's not a tower to put an antenna on top of, it is an antenna.
+
+291
+00:25:01,256 --> 00:25:10,826
+Speaker 1: And two, the way AM works, if you even get close to that antenna, there's a good chance it's going to kill you, because of the sheer amount of electricity that is coursing through it.
+
+292
+00:25:11,147 --> 00:25:14,230
+Speaker 1: That whole thing is electrified to an insane degree.
+
+293
+00:25:16,291 --> 00:25:22,715
+Speaker 1: But, the other cool thing is that AM radio is amplitude modulation.
+
+294
+00:25:23,116 --> 00:25:31,262
+Speaker 1: And what that means is that the amplitude of the radio frequency signal is itself the data.
+
+295
+00:25:31,762 --> 00:25:41,810
+Speaker 1: It gets louder or softer at a ratio to how much strong or weak the RF signal itself is, like it's pulsing almost.
+
+296
+00:25:42,671 --> 00:25:56,126
+Speaker 1: So if you, say, put a hot dog on the end of a stick, and you ground that hot dog, and you touch that hot dog to an AM antenna, you will hear fucking radio coming out of the hot dog as the hot dog disintegrates.
+
+297
+00:25:57,588 --> 00:25:59,810
+Speaker 1: And this video is exactly that, and it's super cool.
+
+298
+00:26:01,876 --> 00:26:02,118
+Speaker 0: Okay.
+
+299
+00:26:02,158 --> 00:26:03,590
+Speaker 1: So what do you got?
+
+300
+00:26:30,950 --> 00:26:32,172
+Speaker 0: It's called Project Random.
+
+301
+00:26:32,832 --> 00:26:34,554
+Speaker 0: It's a really kind of simple thing.
+
+302
+00:26:34,594 --> 00:26:37,878
+Speaker 0: You go to this web page, and it's like, hey, what do you want to see?
+
+303
+00:26:37,938 --> 00:26:39,900
+Speaker 0: Video, audio, or games?
+
+304
+00:26:40,500 --> 00:26:42,202
+Speaker 0: And from which platform, right?
+
+305
+00:26:42,242 --> 00:26:45,466
+Speaker 0: So for example, show me a song on Spotify.
+
+306
+00:26:45,786 --> 00:26:47,248
+Speaker 0: Show me a YouTube video.
+
+307
+00:26:47,508 --> 00:26:49,610
+Speaker 0: Show me a TikTok video.
+
+308
+00:26:50,731 --> 00:27:02,870
+Speaker 0: And it's going to show you one at random, complete random, but it's going to try to show you something that basically nobody's ever looked at, like a YouTube video with no views.
+
+309
+00:27:03,170 --> 00:27:07,008
+Speaker 1: Those are some of the best hidden, a YouTube video that has one like and 13 views.
+
+310
+00:27:08,111 --> 00:27:08,932
+Speaker 1: No, no, no.
+
+311
+00:27:08,952 --> 00:27:11,115
+Speaker 0: We're talking things with like no views.
+
+312
+00:27:11,515 --> 00:27:14,779
+Speaker 0: Like someone uploaded this, and nobody's ever watched it, right?
+
+313
+00:27:15,280 --> 00:27:17,223
+Speaker 0: Or like, you know, a radio station.
+
+314
+00:27:17,263 --> 00:27:21,248
+Speaker 0: Someone's streaming audio onto the internet, and nobody's listening to that.
+
+315
+00:27:21,388 --> 00:27:22,770
+Speaker 0: But that person still do, right?
+
+316
+00:27:22,790 --> 00:27:26,955
+Speaker 0: It's like, you could find radio stations like that and listen to them at random.
+
+317
+00:27:27,096 --> 00:27:28,938
+Speaker 0: So you never know what kind of nonsense you're going to get.
+
+318
+00:27:29,659 --> 00:27:34,886
+Speaker 0: And obviously, the hit rate for things that are good is low.
+
+319
+00:27:35,186 --> 00:27:38,230
+Speaker 0: It's really low because it's just a bunch of garbage.
+
+320
+00:27:41,814 --> 00:27:55,227
+Speaker 0: But on the other hand, there's a certain charm and sort of the kind of vibe that you get, like going through public access TV late at night kind of deal, especially with the YouTube videos.
+
+321
+00:27:56,048 --> 00:27:57,990
+Speaker 0: And it is not completely without worth.
+
+322
+00:28:00,192 --> 00:28:01,894
+Speaker 0: And so, here it is.
+
+323
+00:28:03,717 --> 00:28:05,661
+Speaker 0: Maybe, you know, you'll find something.
+
+324
+00:28:06,001 --> 00:28:06,582
+Speaker 0: Or maybe not.
+
+325
+00:28:07,163 --> 00:28:07,604
+Speaker 0: Who knows?
+
+326
+00:28:08,605 --> 00:28:10,088
+Speaker 0: But it's good that this exists.
+
+327
+00:28:11,009 --> 00:28:11,310
+Speaker 0: Hooray.
+
+328
+00:28:12,071 --> 00:28:20,650
+Speaker 1: So we'll dive right into the main bit, partly because actually right after this episode, I'm going to go play Blades in the Dark to continue that game that I mentioned that we've been playing this whole time.
+
+329
+00:28:21,230 --> 00:28:28,723
+Speaker 1: So we played an absolutely delightful Metroidvania that came out this year called Animal Well.
+
+330
+00:28:28,864 --> 00:28:30,166
+Speaker 1: I'm sure you've seen it.
+
+331
+00:28:30,226 --> 00:28:32,430
+Speaker 1: It actually made a pretty good buzz around the internet.
+
+332
+00:28:33,730 --> 00:28:35,152
+Speaker 1: But if you haven't, this game is beautiful.
+
+333
+00:28:35,212 --> 00:28:39,338
+Speaker 1: And we're going to talk about it because Scott, you at least you got an any percent in.
+
+334
+00:28:39,938 --> 00:28:43,363
+Speaker 1: And I've got three of the flames.
+
+335
+00:28:43,423 --> 00:28:46,547
+Speaker 1: So I think I'm nearing an any percent completion.
+
+336
+00:28:47,188 --> 00:28:48,810
+Speaker 1: But there's a lot to say about this game.
+
+337
+00:28:50,371 --> 00:28:50,571
+Speaker 0: Yes.
+
+338
+00:28:50,611 --> 00:29:00,130
+Speaker 0: So what happened is, you know, this game got announced some while ago and I saw that it was like a cute looking pixely Metroidvania added to the wish list.
+
+339
+00:29:00,930 --> 00:29:05,438
+Speaker 0: And then it actually came out and I came out at like an exact perfect timing.
+
+340
+00:29:05,478 --> 00:29:06,980
+Speaker 0: We're like, I had it.
+
+341
+00:29:07,001 --> 00:29:09,224
+Speaker 0: I had stuff to do, but not too much stuff.
+
+342
+00:29:09,304 --> 00:29:12,730
+Speaker 0: And I had like a weekend and I was like, I'm going to go buy a video game.
+
+343
+00:29:12,850 --> 00:29:15,615
+Speaker 0: Oh, look, a video game literally just got released.
+
+344
+00:29:15,635 --> 00:29:17,297
+Speaker 0: This is like everything.
+
+345
+00:29:17,337 --> 00:29:19,581
+Speaker 0: The stars align somehow for this game.
+
+346
+00:29:20,222 --> 00:29:24,950
+Speaker 0: And I bought it and I beat it in like two days, a few hours the first day, a few hours the second day.
+
+347
+00:29:25,750 --> 00:29:31,459
+Speaker 0: And this game, despite looking like, you know, another one of those indie games.
+
+348
+00:29:31,639 --> 00:29:31,939
+Speaker 0: Oh yeah.
+
+349
+00:29:31,979 --> 00:29:36,125
+Speaker 0: We've, you know, all these indie people making Metroidvania's pixely looking games.
+
+350
+00:29:36,165 --> 00:29:39,290
+Speaker 0: There's so many of these, this doesn't seem new or refreshing or different.
+
+351
+00:29:40,631 --> 00:29:43,755
+Speaker 0: But no, it was, it's not just another one of those.
+
+352
+00:29:45,397 --> 00:29:47,240
+Speaker 0: It's very well made, right?
+
+353
+00:29:47,300 --> 00:29:50,764
+Speaker 0: The controls are basically as good as they're going to be.
+
+354
+00:29:51,566 --> 00:29:54,790
+Speaker 0: Even though it's pixely art, it's really high end pixely art.
+
+355
+00:29:54,930 --> 00:30:01,800
+Speaker 1: I'd say it is the most fully realized, beautiful pixel art in a modern video game I have seen.
+
+356
+00:30:01,860 --> 00:30:03,262
+Speaker 1: It's definitely in the top list.
+
+357
+00:30:04,784 --> 00:30:08,650
+Speaker 1: Like it maximally does what you could do with pixels that big.
+
+358
+00:30:09,371 --> 00:30:09,531
+Speaker 0: Yeah.
+
+359
+00:30:09,671 --> 00:30:17,261
+Speaker 0: Even though the math isn't that large, it's large enough and it's very densely packed, right?
+
+360
+00:30:17,441 --> 00:30:23,970
+Speaker 0: You know, you'll, you know, each screen, a lot of the screens are like, you know, most of them I'd say are like works of art in their own right.
+
+361
+00:30:24,631 --> 00:30:28,499
+Speaker 0: Just about every screen has some sort of puzzle or thing to do or discover.
+
+362
+00:30:28,859 --> 00:30:33,970
+Speaker 0: And a lot of them have multiple things to do or discover that you might not realize on the first walkthrough.
+
+363
+00:30:34,090 --> 00:30:40,641
+Speaker 0: So it's like, you know, a lot of times even super Metroid, you go to a room, there's a lot of rooms that are just, it's a room of bad guys.
+
+364
+00:30:40,721 --> 00:30:44,026
+Speaker 0: It's a hallway or there's one secret in the room.
+
+365
+00:30:44,227 --> 00:30:44,908
+Speaker 0: You found it.
+
+366
+00:30:45,228 --> 00:30:46,150
+Speaker 0: That's the end of that room.
+
+367
+00:30:46,510 --> 00:30:47,772
+Speaker 0: No reason to ever go back there.
+
+368
+00:30:48,153 --> 00:30:48,393
+Speaker 0: Right.
+
+369
+00:30:48,734 --> 00:30:58,130
+Speaker 0: And to that, whereas in animal, well, it's like, yeah, there's not that many, as many, it's not as big as like a symphony of the night, which is upside down on top of it.
+
+370
+00:30:58,510 --> 00:30:58,691
+Speaker 0: Right.
+
+371
+00:30:58,891 --> 00:31:05,020
+Speaker 0: But you'll go to a room and you'll feel like you're done with that room, but then you might come back to that room later and be like, wait a minute.
+
+372
+00:31:05,281 --> 00:31:06,162
+Speaker 0: There was a thing here.
+
+373
+00:31:06,402 --> 00:31:08,746
+Speaker 0: I didn't see the room is, it has got more.
+
+374
+00:31:09,046 --> 00:31:09,707
+Speaker 0: It's so dense.
+
+375
+00:31:10,248 --> 00:31:11,330
+Speaker 0: What's going on in this game.
+
+376
+00:31:11,490 --> 00:31:11,670
+Speaker 0: Yep.
+
+377
+00:31:11,931 --> 00:31:14,874
+Speaker 1: The density is a lot like the density of links awakening.
+
+378
+00:31:14,994 --> 00:31:19,178
+Speaker 1: Cause that's a pretty small map, but yet the game, by the way, it's more dense than that.
+
+379
+00:31:19,238 --> 00:31:21,220
+Speaker 1: I'd say, but it's the same style of density.
+
+380
+00:31:21,260 --> 00:31:30,950
+Speaker 1: We're a relatively small map, but like one screen will have potentially have five or six different ways to get into that screen that cannot all connect to each other.
+
+381
+00:31:31,651 --> 00:31:41,430
+Speaker 1: And like each screen is doing so much in this game, not even counting for the fact that every screen is absolutely visually distinct and stunning.
+
+382
+00:31:42,730 --> 00:31:42,891
+Speaker 0: Hmm.
+
+383
+00:31:43,992 --> 00:31:56,648
+Speaker 0: Uh, the other thing about this game is that you look, you know, most of the Metroidvania games, they have, you know, not in addition to the exploring and the puzzling and all those other things that go on.
+
+384
+00:31:56,708 --> 00:31:58,430
+Speaker 0: There's basically combat, right?
+
+385
+00:31:58,430 --> 00:32:06,642
+Speaker 0: You're Samus is constantly every screen, almost there's at least boring bad guys to shoot and get in the way and damage you and kill you.
+
+386
+00:32:06,662 --> 00:32:09,245
+Speaker 0: Um, you know, Castlevania even more.
+
+387
+00:32:09,306 --> 00:32:11,889
+Speaker 0: So it's like, you're constantly whipping bats nonstop.
+
+388
+00:32:12,270 --> 00:32:12,430
+Speaker 0: Right.
+
+389
+00:32:12,770 --> 00:32:18,677
+Speaker 0: And in some cases, you know, that is actually, you know, good, good gaming, right?
+
+390
+00:32:18,737 --> 00:32:22,802
+Speaker 0: There's some sort of like, you know, you're, you're sort of getting two games mixed together, you're exploring.
+
+391
+00:32:23,122 --> 00:32:30,390
+Speaker 0: And then occasionally you're stopping to play sort of an action game, you know, shoot the guy in the weak spot, figure out how to beat the enemy.
+
+392
+00:32:30,670 --> 00:32:31,971
+Speaker 0: What weapons do I use?
+
+393
+00:32:31,991 --> 00:32:33,112
+Speaker 0: How do I navigate this?
+
+394
+00:32:33,813 --> 00:32:40,639
+Speaker 0: Um, you know, it's additional things to do, especially in like Metroid Dread, where you got the, the Emmy thing and figure out how to get away from it.
+
+395
+00:32:40,719 --> 00:32:40,859
+Speaker 0: Right.
+
+396
+00:32:41,240 --> 00:32:52,470
+Speaker 0: It's not that those components don't add anything to the game or that they should be eliminated totally, but a lot of times, if you think about it, what do those things add most of the time?
+
+397
+00:32:52,490 --> 00:32:58,298
+Speaker 0: Like how often is like, you watch Metroid speed runners, it's like, they just run through the room and ignore the bad guys.
+
+398
+00:32:58,358 --> 00:33:00,682
+Speaker 0: It's like, they're just in the way you hope you don't bump into them.
+
+399
+00:33:01,102 --> 00:33:01,322
+Speaker 0: Right.
+
+400
+00:33:01,763 --> 00:33:06,650
+Speaker 0: Or, you know, a casual player will go into a room and just shoot all the bad guys until they're dead.
+
+401
+00:33:07,231 --> 00:33:11,177
+Speaker 0: And it's like, it's sort of, you know, mindless, like just pee, pee, pee, pee, pee, pee, pee.
+
+402
+00:33:11,217 --> 00:33:18,370
+Speaker 1: Like you're, it's not really, it's like, it would be fine if the progression I had with Metroid specifically was when I first started playing the game.
+
+403
+00:33:18,751 --> 00:33:19,793
+Speaker 1: I'd kill every bad guy.
+
+404
+00:33:19,834 --> 00:33:21,197
+Speaker 1: Cause that's just what you do in video games.
+
+405
+00:33:21,598 --> 00:33:26,029
+Speaker 1: And the longer I played the game, the more I just got annoyed by them and just tried to avoid them.
+
+406
+00:33:28,290 --> 00:33:40,530
+Speaker 0: It's like, yeah, you know, what would it be so bad if we removed that part of the game, the sort of mindless, constant, just combat and, you know, and, and focus more on the other parts of the game.
+
+407
+00:33:41,091 --> 00:33:42,553
+Speaker 0: And so that's what animal well does.
+
+408
+00:33:42,613 --> 00:33:44,936
+Speaker 0: is there isn't really combat.
+
+409
+00:33:45,157 --> 00:33:51,586
+Speaker 0: and in the way that there is in a Metroid or a Castlevania, um, there aren't like there might, there are things that damage you.
+
+410
+00:33:51,826 --> 00:33:54,330
+Speaker 0: You can die, uh, like on spikes.
+
+411
+00:33:54,931 --> 00:33:58,720
+Speaker 0: Uh, and there are things that you can get touched by that will hurt, damage you.
+
+412
+00:33:58,740 --> 00:34:00,084
+Speaker 0: You lose your hit points.
+
+413
+00:34:00,104 --> 00:34:00,485
+Speaker 0: You'll die.
+
+414
+00:34:00,505 --> 00:34:02,510
+Speaker 0: You'll go back to the last save point you made.
+
+415
+00:34:03,211 --> 00:34:12,460
+Speaker 0: Um, and there's little telephones that you can make a call on to save the game, but you don't shoot the bad guys or whip them or attack them directly.
+
+416
+00:34:13,022 --> 00:34:20,230
+Speaker 0: Um, you know, you, they're just sort of part, they're really just part of the obstacles, part of the puzzle, um, of any particular room.
+
+417
+00:34:20,831 --> 00:34:22,233
+Speaker 0: How do I get from here to there?
+
+418
+00:34:22,672 --> 00:34:33,810
+Speaker 0: You know, how do I, uh, without them, you know, killing me or, uh, how can I, you know, use these bad guys to, to get the puzzle solved, to open the door or whatever I got to do.
+
+419
+00:34:33,870 --> 00:34:43,944
+Speaker 1: And I think that's where it sort of distilled a core component of a Metroidvania, which is not, not this combat piece, but just the, you're thinking, how do I get to there from here?
+
+420
+00:34:44,605 --> 00:34:45,786
+Speaker 1: How do I find a thing?
+
+421
+00:34:45,887 --> 00:34:47,007
+Speaker 1: Where am I going next?
+
+422
+00:34:47,369 --> 00:34:48,370
+Speaker 1: Is there a secret here?
+
+423
+00:34:48,693 --> 00:34:50,409
+Speaker 1: Like the game is basically just that.
+
+424
+00:34:53,351 --> 00:35:04,110
+Speaker 0: Uh, the other thing about this game is that, you know, the typical pattern in all these sorts of games is, you know, any explorer exploring a map game is that you're sort of gated, right?
+
+425
+00:35:04,770 --> 00:35:10,820
+Speaker 0: Zelda's are the, are the Kings of this also Metroids where you start the game with few things, not a lot of items.
+
+426
+00:35:11,281 --> 00:35:16,390
+Speaker 0: And because you don't have a lot of items, you could only get to a certain amount of the map.
+
+427
+00:35:16,871 --> 00:35:23,270
+Speaker 0: And many areas of the map are inaccessible to you until you get, say, I don't know, a hook shot or a double job.
+
+428
+00:35:23,771 --> 00:35:34,730
+Speaker 0: The power gloves, you can pick up the different colored rock that's in your way, a gravity suit, a various suit, you know, any of these sorts of items that will then let you go to a new place, explore a new area.
+
+429
+00:35:35,111 --> 00:35:39,479
+Speaker 0: And that sort of guides you into doing the game in a certain order, right?
+
+430
+00:35:39,579 --> 00:35:44,990
+Speaker 0: Following roughly a certain path of progression towards the final boss animal.
+
+431
+00:35:46,572 --> 00:35:51,004
+Speaker 0: You can explore basically the entire map from the get go.
+
+432
+00:35:51,145 --> 00:35:52,890
+Speaker 0: There's nothing really stopping you.
+
+433
+00:35:53,670 --> 00:36:06,430
+Speaker 0: There are some things that are extremely difficult to achieve or impossible without certain items, but there is a set of base items that if you can, if you just keep exploring, like you'll just get them in whatever order.
+
+434
+00:36:06,511 --> 00:36:08,830
+Speaker 0: Like I got them in completely different orders than other people.
+
+435
+00:36:09,792 --> 00:36:12,710
+Speaker 1: I got the firecracker first, then I got the disc.
+
+436
+00:36:12,951 --> 00:36:14,690
+Speaker 0: Well, everyone's going to get the firecracker.
+
+437
+00:36:14,811 --> 00:36:16,227
+Speaker 1: I hope you're going to get the firecracker first.
+
+438
+00:36:17,010 --> 00:36:20,700
+Speaker 0: That's sort of, because there is a starting area you have to get out of.
+
+439
+00:36:21,703 --> 00:36:22,967
+Speaker 0: I don't think there's any avoiding that.
+
+440
+00:36:23,007 --> 00:36:24,210
+Speaker 0: There might be that I don't know about.
+
+441
+00:36:24,330 --> 00:36:31,386
+Speaker 1: I don't want to take a moment that the firecracker effect is absolutely stunning in this game.
+
+442
+00:36:31,787 --> 00:36:32,829
+Speaker 1: It just looks so good.
+
+443
+00:36:35,671 --> 00:36:38,461
+Speaker 0: But after that, it's like, yeah, you could rim got the disc first.
+
+444
+00:36:38,561 --> 00:36:40,989
+Speaker 0: I got the, the bee wand first, you know?
+
+445
+00:36:43,031 --> 00:36:47,963
+Speaker 0: And so, you know, these base items that like you're gonna get, right?
+
+446
+00:36:48,043 --> 00:36:50,950
+Speaker 0: That are just sort of, you can reach them directly from the start.
+
+447
+00:36:51,311 --> 00:36:54,303
+Speaker 0: They are kind of all you really need to beat the game.
+
+448
+00:36:54,704 --> 00:36:56,190
+Speaker 0: It's one of the, it's a lot like Super Metroid.
+
+449
+00:36:56,230 --> 00:36:57,694
+Speaker 0: There are these four flames.
+
+450
+00:36:57,735 --> 00:36:59,941
+Speaker 0: You can see them on the map when you start basically.
+
+451
+00:37:00,362 --> 00:37:03,030
+Speaker 0: And if you get those, the final area will unlock.
+
+452
+00:37:03,391 --> 00:37:06,490
+Speaker 0: You can go there and beat in quotes the final boss.
+
+453
+00:37:06,570 --> 00:37:07,996
+Speaker 1: I didn't even go for those right away.
+
+454
+00:37:08,177 --> 00:37:11,350
+Speaker 1: I just started looking for eggs and I found a lot of eggs.
+
+455
+00:37:11,910 --> 00:37:12,512
+Speaker 0: Yeah, that's it.
+
+456
+00:37:12,532 --> 00:37:16,822
+Speaker 0: You don't have to do the eggs, but you can and you maybe should, but you don't have to.
+
+457
+00:37:17,704 --> 00:37:19,448
+Speaker 0: You'll be rewarded for it if you do.
+
+458
+00:37:21,311 --> 00:37:24,639
+Speaker 0: But yeah, it's like, that's not all there is to the game, right?
+
+459
+00:37:24,799 --> 00:37:28,930
+Speaker 0: I beat the game by getting the four flames and go into the end.
+
+460
+00:37:29,050 --> 00:37:32,882
+Speaker 0: And it took me, like I said, two days on a weekend, a few hours each day.
+
+461
+00:37:33,404 --> 00:37:35,150
+Speaker 0: And then I watched some streamers play the game.
+
+462
+00:37:35,611 --> 00:37:41,630
+Speaker 0: And like they had ridiculous items that I never saw because they were actually trying to be more completionist, right?
+
+463
+00:37:41,791 --> 00:37:43,015
+Speaker 0: And not just go straight to the end.
+
+464
+00:37:44,320 --> 00:37:45,424
+Speaker 0: They were finding shit.
+
+465
+00:37:45,564 --> 00:37:46,548
+Speaker 0: I didn't even know items.
+
+466
+00:37:47,250 --> 00:37:48,835
+Speaker 0: I never even realized existed.
+
+467
+00:37:49,217 --> 00:37:53,350
+Speaker 0: Imagine like beating a Zelda game and like there was a hook shot.
+
+468
+00:37:53,670 --> 00:37:57,680
+Speaker 0: You just beat Ganon without ever getting the hook shot without knowing it existed.
+
+469
+00:37:58,081 --> 00:38:01,970
+Speaker 0: There were whole areas and places you could go and things you could get with the hook shot.
+
+470
+00:38:02,070 --> 00:38:05,502
+Speaker 0: You just never saw that part of the game because it wasn't required to beat the game.
+
+471
+00:38:06,947 --> 00:38:07,870
+Speaker 0: But yet you beat the game.
+
+472
+00:38:08,411 --> 00:38:09,736
+Speaker 0: And that's what this game is like.
+
+473
+00:38:09,797 --> 00:38:13,170
+Speaker 0: If I go back to it, there's a ton of shit I can get.
+
+474
+00:38:13,330 --> 00:38:16,998
+Speaker 0: Like maybe I haven't even done half the game probably.
+
+475
+00:38:17,058 --> 00:38:18,742
+Speaker 0: I felt like I did when I beat it.
+
+476
+00:38:19,203 --> 00:38:22,230
+Speaker 0: I had so much of the map uncovered and I had all these items.
+
+477
+00:38:22,530 --> 00:38:25,356
+Speaker 0: I felt like I had done 75% of the game.
+
+478
+00:38:25,697 --> 00:38:28,663
+Speaker 0: I probably did more like 40 if that, right?
+
+479
+00:38:29,464 --> 00:38:32,330
+Speaker 0: Even though the entire map almost was visible.
+
+480
+00:38:32,890 --> 00:38:39,750
+Speaker 1: Yeah, then I spent more hours playing than Scott and I basically got all these eggs and uncovered all this like cool secret stuff.
+
+481
+00:38:39,750 --> 00:38:40,592
+Speaker 0: I got a lot of eggs.
+
+482
+00:38:40,633 --> 00:38:43,220
+Speaker 0: I opened up two out of the four egg doors.
+
+483
+00:38:43,642 --> 00:38:46,209
+Speaker 0: But to get the fourth egg door, I think you need every egg.
+
+484
+00:38:48,074 --> 00:38:50,850
+Speaker 1: I haven't read anything about the parts I haven't encountered yet.
+
+485
+00:38:53,191 --> 00:38:54,754
+Speaker 0: Yeah.
+
+486
+00:38:54,814 --> 00:38:58,619
+Speaker 0: If you beat the game, then I guess you can check.
+
+487
+00:38:58,900 --> 00:39:05,710
+Speaker 0: But it's shocking just how much stuff you may have missed that you didn't realize you missed.
+
+488
+00:39:06,151 --> 00:39:16,730
+Speaker 1: But in terms of like the actual puzzles and design, because the puzzles in this game are very well designed in that you can logic your way through them pretty well.
+
+489
+00:39:17,290 --> 00:39:18,212
+Speaker 1: A lot of them are clever.
+
+490
+00:39:18,613 --> 00:39:26,790
+Speaker 1: The game has a lot of mechanics to where there are often three or four different ways to get past the same obstacle.
+
+491
+00:39:26,890 --> 00:39:28,395
+Speaker 1: And they're all kind of equally valid.
+
+492
+00:39:29,257 --> 00:39:33,370
+Speaker 1: And there might be an obstacle or a puzzle where there's three or four different ways to do it.
+
+493
+00:39:33,711 --> 00:39:36,865
+Speaker 1: And yet you'll just feel stupid for a while like, "How do I get up there?
+
+494
+00:39:36,906 --> 00:39:37,649
+Speaker 1: There's no way to get up
+
+495
+00:39:37,669 --> 00:39:37,810
+Speaker 1: there!".
+
+496
+00:39:37,890 --> 00:39:40,289
+Speaker 1: And then like you realize something obvious and then you can get up there.
+
+497
+00:39:41,050 --> 00:39:48,830
+Speaker 1: The game also does a really good job of showing you where there is something to interact with and guiding you toward solving puzzles.
+
+498
+00:39:49,410 --> 00:39:53,549
+Speaker 1: Without doing the thing that a lot of less well designed Metroid voices that have puzzles do.
+
+499
+00:39:55,031 --> 00:39:59,690
+Speaker 1: Where if you go where the game's guiding you, it kind of just naturally solves everything because it's right in your path.
+
+500
+00:40:00,091 --> 00:40:05,310
+Speaker 1: Some of the puzzles require surprisingly oblique strategies.
+
+501
+00:40:05,850 --> 00:40:12,810
+Speaker 1: Like, let me go into this area from the other side and try to fall in from the top and then I can do a thing because there's like a fish head in there or something.
+
+502
+00:40:15,431 --> 00:40:17,076
+Speaker 1: Some of the puzzles are really funny too.
+
+503
+00:40:17,116 --> 00:40:21,570
+Speaker 1: I think the moment where I laughed out loud, like literally laughed out loud, I had to pause the game.
+
+504
+00:40:22,871 --> 00:40:27,070
+Speaker 1: It's like not really a spoiler, but so early in the game, the first item I got was this disc.
+
+505
+00:40:27,130 --> 00:40:28,213
+Speaker 1: But you see this shrine.
+
+506
+00:40:28,935 --> 00:40:29,738
+Speaker 1: You got like nothing.
+
+507
+00:40:29,999 --> 00:40:33,790
+Speaker 1: You see this shrine, it's like a big wolf head and there's a disc in it, like a frisbee.
+
+508
+00:40:34,491 --> 00:40:41,129
+Speaker 1: If you take the disc, a giant ghost wolf pops out and starts chasing you and if it grabs you, it'll kill you.
+
+509
+00:40:41,750 --> 00:40:43,600
+Speaker 1: So you think, "Okay, I'll run away with this item.
+
+510
+00:40:43,821 --> 00:40:44,786
+Speaker 1: I clearly need this
+
+511
+00:40:44,887 --> 00:40:45,047
+Speaker 1: item.".
+
+512
+00:40:45,851 --> 00:40:47,036
+Speaker 1: That wolf doesn't go away.
+
+513
+00:40:47,659 --> 00:40:50,310
+Speaker 1: You can't just play the whole game with that wolf following you.
+
+514
+00:40:50,692 --> 00:40:51,829
+Speaker 1: That is not going to work.
+
+515
+00:40:53,010 --> 00:40:55,628
+Speaker 1: So, eventually I realize, "Alright, I can't do anything with
+
+516
+00:40:55,668 --> 00:40:55,809
+Speaker 1: this.".
+
+517
+00:40:56,253 --> 00:40:57,748
+Speaker 1: And I put the disc back and like, "Okay,
+
+518
+00:40:57,768 --> 00:40:57,950
+Speaker 1: whatever.".
+
+519
+00:40:58,551 --> 00:41:03,730
+Speaker 1: I keep going through the game and then I find the M disc, the mock disc.
+
+520
+00:41:04,410 --> 00:41:10,465
+Speaker 1: And obviously, I'm going to take that mock disc and Indiana Jones it with the disc.
+
+521
+00:41:10,846 --> 00:41:12,270
+Speaker 1: so the wolf spirit doesn't chase me.
+
+522
+00:41:12,410 --> 00:41:14,056
+Speaker 1: Like that makes sense to me logically.
+
+523
+00:41:14,076 --> 00:41:16,545
+Speaker 1: I go back and do it and yeah, now I got the disc.
+
+524
+00:41:16,826 --> 00:41:17,690
+Speaker 1: Wolf's not chasing me.
+
+525
+00:41:18,393 --> 00:41:20,160
+Speaker 1: Fast forward about three hours later.
+
+526
+00:41:20,180 --> 00:41:22,370
+Speaker 1: I am in a completely different part of the game.
+
+527
+00:41:22,550 --> 00:41:23,514
+Speaker 1: I've forgotten about that.
+
+528
+00:41:23,534 --> 00:41:24,820
+Speaker 1: Not even thinking about that anymore.
+
+529
+00:41:25,363 --> 00:41:26,930
+Speaker 1: Way off in the game going after a thing.
+
+530
+00:41:27,490 --> 00:41:34,150
+Speaker 1: I see a shrine and it's called, instead of the disc shrine, it's called the M disc shrine.
+
+531
+00:41:34,771 --> 00:41:41,790
+Speaker 1: It wants me to put the mock disc in it and now I got to go back and deal with that wolf spirit.
+
+532
+00:41:42,431 --> 00:41:47,369
+Speaker 1: And like the nature of that puzzle was just indicative of how this game goes.
+
+533
+00:41:49,092 --> 00:41:50,437
+Speaker 1: Also, a shout out to the slinky.
+
+534
+00:41:50,478 --> 00:41:51,482
+Speaker 1: I think we both agree.
+
+535
+00:41:51,502 --> 00:41:53,410
+Speaker 1: The slinky in this game.
+
+536
+00:41:54,530 --> 00:42:02,050
+Speaker 1: The sheer variety of puzzles that they make you solve using that slinky is possibly legendary.
+
+537
+00:42:02,850 --> 00:42:05,523
+Speaker 1: That slinky is used in so many clever ways.
+
+538
+00:42:05,563 --> 00:42:06,970
+Speaker 1: My hat is off to this designer.
+
+539
+00:42:07,630 --> 00:42:14,430
+Speaker 0: Yeah, I think that in a lot of games, you'll have some items that are used very frequently all over the place.
+
+540
+00:42:14,851 --> 00:42:20,590
+Speaker 0: They're like super useful and some items that like get used only when the game like has a specific slot.
+
+541
+00:42:20,830 --> 00:42:25,007
+Speaker 0: Like it's time to use that one item and there's maybe like 10 places that it interacts with.
+
+542
+00:42:25,067 --> 00:42:25,509
+Speaker 0: and that's it.
+
+543
+00:42:26,031 --> 00:42:33,470
+Speaker 0: Whereas in this game, most of the items are useful in a lot of places in a lot of different ways.
+
+544
+00:42:34,872 --> 00:42:39,509
+Speaker 0: And you can get really, you could actually get really creative and not completely.
+
+545
+00:42:40,372 --> 00:42:45,750
+Speaker 0: It's not completely a physics based way like Tears of the Kingdom, but it's like it's actually on that path, right?
+
+546
+00:42:45,830 --> 00:42:49,181
+Speaker 0: It's somewhere in between a Metroid and a Tears of the Kingdom.
+
+547
+00:42:49,261 --> 00:42:51,890
+Speaker 1: in terms of what if I dropped a bubble and jumped on the bubble?
+
+548
+00:42:52,290 --> 00:42:56,950
+Speaker 1: But then I like I throw a disc and I wait for it to bounce and I jump on the disc and then right now I'm cooking.
+
+549
+00:42:57,570 --> 00:43:02,350
+Speaker 0: Because of the way the items work, you can get really creative.
+
+550
+00:43:02,591 --> 00:43:09,270
+Speaker 0: And I watched people much better than me like get in secrets like the way that was clearly not intended from the back.
+
+551
+00:43:09,471 --> 00:43:13,230
+Speaker 0: Like navigating through spike tunnels that were clearly the exit.
+
+552
+00:43:13,450 --> 00:43:15,370
+Speaker 0: It's like is that the exit to the secret or the entrance?
+
+553
+00:43:15,450 --> 00:43:16,839
+Speaker 0: And it's like it doesn't matter.
+
+554
+00:43:16,899 --> 00:43:18,690
+Speaker 0: You can get through somehow, right?
+
+555
+00:43:19,090 --> 00:43:23,990
+Speaker 0: There's you can clearly see like when you get certain things like that there was a designed way.
+
+556
+00:43:24,270 --> 00:43:32,350
+Speaker 0: Like, ah, yes, this you'll if you play the game according to the logic of the creator, you will, you know, go here and then fall down this big pit.
+
+557
+00:43:32,430 --> 00:43:44,870
+Speaker 0: But actually you could climb up that pit if you did things a certain way and go into a thing from the back door that you weren't supposed to like, you know, was it intended or was it not?
+
+558
+00:43:44,990 --> 00:43:45,151
+Speaker 0: Right.
+
+559
+00:43:45,211 --> 00:43:51,350
+Speaker 0: It's sort of on the one hand feels unintended because there's an easier way to do it from the other side.
+
+560
+00:43:51,811 --> 00:43:52,072
+Speaker 0: Right.
+
+561
+00:43:52,132 --> 00:43:53,297
+Speaker 0: That was sort of meant to be.
+
+562
+00:43:53,679 --> 00:43:56,330
+Speaker 0: But on the other hand, there's so many things like that.
+
+563
+00:43:56,490 --> 00:44:01,330
+Speaker 0: It's like they designed it on purpose to let you go into back doors.
+
+564
+00:44:01,591 --> 00:44:08,710
+Speaker 0: If you are clever, lots of ways to cheese and, you know, do things in a non intended way.
+
+565
+00:44:09,111 --> 00:44:09,251
+Speaker 0: Right.
+
+566
+00:44:09,351 --> 00:44:21,050
+Speaker 0: I saw somebody basically there was a. there's a part in the game where there's a boss and you're supposed to drop the boss into this hole and it's going to hit these switches when it falls in the hole.
+
+567
+00:44:21,191 --> 00:44:23,729
+Speaker 0: And that's going to and that's going to unlock something.
+
+568
+00:44:24,993 --> 00:44:31,670
+Speaker 0: I saw somebody basically use some items cleverly to hit all the switches without ever going to the boss and unlock.
+
+569
+00:44:32,490 --> 00:44:43,050
+Speaker 0: That would be like if you went into a Zelda one dungeon and you got the door to open behind, you know, the boss and went in and grabbed the triforce piece and never grabbed the triforce leave.
+
+570
+00:44:43,673 --> 00:44:45,067
+Speaker 0: That's basically what the person did.
+
+571
+00:44:45,148 --> 00:44:45,330
+Speaker 0: Right.
+
+572
+00:44:45,350 --> 00:44:51,929
+Speaker 0: It's like the game is programmed in such a way that it's just the systems follow the rules of how they work.
+
+573
+00:44:53,410 --> 00:45:09,190
+Speaker 0: And while there is an obvious designed way to to solve, in quotes, every room and every secret and every puzzle and get every egg, you if you can make the systems work a different way, the game lets you encourages you and rewards you.
+
+574
+00:45:09,993 --> 00:45:11,002
+Speaker 0: Yeah, it doesn't care.
+
+575
+00:45:11,123 --> 00:45:11,930
+Speaker 0: It's like, go right ahead.
+
+576
+00:45:11,950 --> 00:45:13,033
+Speaker 0: Yeah.
+
+577
+00:45:13,293 --> 00:45:20,189
+Speaker 1: And the fact that you can basically if you when you start the game, if you walk in literally any direction, you will find interesting things to do.
+
+578
+00:45:21,451 --> 00:45:29,430
+Speaker 1: I think if you took a map of like how different people played through this game the first time, I think almost everyone did everything in a completely different order.
+
+579
+00:45:32,161 --> 00:45:38,795
+Speaker 1: I think the game also does a really good job specifically of letting you know there is there is a way past this or there isn't a way past this.
+
+580
+00:45:41,400 --> 00:45:43,707
+Speaker 1: Or in the very least, there isn't a normal way past this.
+
+581
+00:45:43,767 --> 00:45:48,200
+Speaker 1: Like you never are banging your head against something that is actually impossible.
+
+582
+00:45:48,320 --> 00:45:52,920
+Speaker 1: The game does a good job of making clear what is impossible or what you really should think is impossible.
+
+583
+00:45:55,721 --> 00:45:56,983
+Speaker 0: Basically, nothing's impossible.
+
+584
+00:45:57,003 --> 00:45:58,545
+Speaker 0: There's always a way.
+
+585
+00:45:59,567 --> 00:46:00,168
+Speaker 0: And there are.
+
+586
+00:46:00,849 --> 00:46:07,220
+Speaker 0: if you if you can't find a way, occasionally there's going to the answer is going to be an item you don't have yet.
+
+587
+00:46:08,343 --> 00:46:09,166
+Speaker 0: But you can it's.
+
+588
+00:46:09,587 --> 00:46:12,960
+Speaker 0: you can get a really far with just like these four or five base items.
+
+589
+00:46:13,461 --> 00:46:21,880
+Speaker 1: If you find the bee wand, the disk, a firecracker, obviously, all of those are basically freebies that you're going to get just by exploring.
+
+590
+00:46:22,001 --> 00:46:25,040
+Speaker 0: Nothing stops you from getting those if you just keep pressing.
+
+591
+00:46:25,300 --> 00:46:30,040
+Speaker 1: There's a few puzzles that absolutely, as best I can tell, require the slinky.
+
+592
+00:46:31,280 --> 00:46:36,534
+Speaker 1: And there's a few things that you need the yo-yo for, but you can get pretty far with that.
+
+593
+00:46:36,574 --> 00:46:38,720
+Speaker 1: I didn't get the yo-yo until way late.
+
+594
+00:46:39,640 --> 00:46:40,863
+Speaker 0: Oh, yeah.
+
+595
+00:46:41,264 --> 00:46:43,048
+Speaker 0: And there are some items that are just like.
+
+596
+00:46:43,469 --> 00:46:48,140
+Speaker 0: they don't do anything that you couldn't do without them, but they just make life a lot easier.
+
+597
+00:46:48,460 --> 00:46:51,320
+Speaker 0: Like quality of life items out there that you might not have gotten.
+
+598
+00:46:51,521 --> 00:46:55,460
+Speaker 1: Items also just act in a really intuitive way, like one little example.
+
+599
+00:46:56,000 --> 00:47:01,940
+Speaker 1: When you're running away from that ghost dog, if you throw a firecracker, it gets distracted by it, goes over and pokes at it for a while.
+
+600
+00:47:02,060 --> 00:47:02,880
+Speaker 1: And that was really helpful.
+
+601
+00:47:05,201 --> 00:47:09,500
+Speaker 1: I particularly like the puzzles that involve all the animals because they'll as well.
+
+602
+00:47:10,120 --> 00:47:18,520
+Speaker 1: There are like there's a few enemies that hurt you, but there's also just a ton of animals everywhere and they all have specific behaviors and a lot of puzzles involved.
+
+603
+00:47:18,962 --> 00:47:22,780
+Speaker 1: Can you interact with these animals in a way that is useful to you?
+
+604
+00:47:23,023 --> 00:47:23,977
+Speaker 0: Well, it is an animal.
+
+605
+00:47:23,997 --> 00:47:24,160
+Speaker 0: well.
+
+606
+00:47:24,400 --> 00:47:25,366
+Speaker 1: Yeah, it is a well.
+
+607
+00:47:25,386 --> 00:47:27,359
+Speaker 1: Just lousy with animals in this.
+
+608
+00:47:27,399 --> 00:47:27,560
+Speaker 1: well.
+
+609
+00:47:28,702 --> 00:47:30,455
+Speaker 0: There's nothing else in there besides you and the animals.
+
+610
+00:47:30,516 --> 00:47:30,898
+Speaker 0: That's it.
+
+611
+00:47:33,521 --> 00:47:34,906
+Speaker 1: Cute animals, spiky animals.
+
+612
+00:47:34,946 --> 00:47:36,010
+Speaker 1: The animals are just great.
+
+613
+00:47:36,030 --> 00:47:38,820
+Speaker 1: They're stunning, visually stunning in the game of these pixels.
+
+614
+00:47:40,421 --> 00:47:46,060
+Speaker 0: So, yeah, I would, you know, if you got a few hours or if you're the kind of person who wants to spend even more than a few hours, right?
+
+615
+00:47:46,180 --> 00:47:48,408
+Speaker 0: It's like this game is basically perfect, right?
+
+616
+00:47:48,448 --> 00:47:48,528
+Speaker 0: Is?
+
+617
+00:47:48,548 --> 00:47:52,019
+Speaker 0: you can go and just do the few hours and beat it.
+
+618
+00:47:52,601 --> 00:47:56,220
+Speaker 0: You can really invest into it and squeeze every last drop of juice.
+
+619
+00:47:57,541 --> 00:48:05,080
+Speaker 0: You know, as long as you like a little bit of platforming, a little bit of exploring, a lot of exploring and a lot of puzzle solving.
+
+620
+00:48:05,301 --> 00:48:10,838
+Speaker 1: Mostly exploring, like even most of the puzzles are more around exploring something sufficiently to understand it.
+
+621
+00:48:13,400 --> 00:48:15,565
+Speaker 0: Then you're going to have a good time with this game.
+
+622
+00:48:16,588 --> 00:48:17,790
+Speaker 0: It's worth every penny.
+
+623
+00:48:17,810 --> 00:48:21,940
+Speaker 0: It's maybe one of the best new games, at least, I've played in quite a while.
+
+624
+00:48:23,100 --> 00:48:24,297
+Speaker 0: I lived up to the hype animal.
+
+625
+00:48:24,317 --> 00:48:24,479
+Speaker 0: well.
+
+626
+00:48:25,581 --> 00:48:26,003
+Speaker 1: Yeah.
+
+627
+00:48:26,023 --> 00:48:29,520
+Speaker 1: The one specific note for anyone who cares about this kind of thing in the game.
+
+628
+00:48:30,402 --> 00:48:33,552
+Speaker 1: Most of the game is not under any time pressure.
+
+629
+00:48:33,712 --> 00:48:36,420
+Speaker 1: It's just a matter of execute or understand.
+
+630
+00:48:36,982 --> 00:48:40,580
+Speaker 1: There are a small number of puzzles that have a very slight time pressure.
+
+631
+00:48:41,120 --> 00:48:48,780
+Speaker 1: And there are a vanishingly small number of puzzles that require, have significant time or execution pressure combined.
+
+632
+00:48:48,920 --> 00:48:50,304
+Speaker 1: But they're pretty rare.
+
+633
+00:48:50,806 --> 00:48:53,613
+Speaker 1: Most of this game is you're under no pressure.
+
+634
+00:48:53,714 --> 00:48:55,900
+Speaker 1: Just sit here and walk around and figure it out.
+
+635
+00:48:56,381 --> 00:48:57,928
+Speaker 0: Dying is very unpunishing.
+
+636
+00:48:57,948 --> 00:49:00,560
+Speaker 0: In the worst case, you just get sent back to the last safe spot.
+
+637
+00:49:01,800 --> 00:49:05,728
+Speaker 0: And in fact, there is, spoilers, I guess.
+
+638
+00:49:06,349 --> 00:49:07,431
+Speaker 0: You can press the mute button.
+
+639
+00:49:07,752 --> 00:49:11,860
+Speaker 0: There may be a reward for dying enough times.
+
+640
+00:49:12,881 --> 00:49:14,179
+Speaker 1: I haven't died that many times.
+
+641
+00:49:14,600 --> 00:49:16,339
+Speaker 0: Well, if you haven't beaten the game, you wouldn't know.
+
+642
+00:49:16,541 --> 00:49:17,399
+Speaker 1: Okay, I'll find out.
+
+643
+00:49:18,200 --> 00:49:23,820
+Speaker 0: Well, I don't know if you'll find out because I didn't, even though I beat the whole game, I didn't find out until I saw someone say it somewhere.
+
+644
+00:49:25,842 --> 00:49:29,873
+Speaker 0: But after you beat the game, we'll see if you've died enough times.
+
+645
+00:49:30,575 --> 00:49:32,260
+Speaker 0: And then I'll, you know, I'll tell you.
+
+646
+00:49:33,603 --> 00:49:34,111
+Speaker 1: So yeah, A+ game.
+
+647
+00:49:36,561 --> 00:49:38,950
+Speaker 1: This has been Geek Nights with Rim and Scott.
+
+648
+00:49:39,010 --> 00:49:41,500
+Speaker 1: Special thanks to DJ Pretzel for the opening theme.
+
+649
+00:49:41,700 --> 00:49:47,740
+Speaker 0: Be sure to visit our website at FrontRowClue.com for show notes, discussion, links, and more.
+
+650
+00:49:48,201 --> 00:49:50,885
+Speaker 1: Remember, Geek Nights is not one but four different shows.
+
+651
+00:49:51,186 --> 00:49:52,849
+Speaker 1: Mondays are science and technology.
+
+652
+00:49:52,909 --> 00:49:54,652
+Speaker 1: Tuesdays, gaming and games.
+
+653
+00:49:54,772 --> 00:49:56,595
+Speaker 1: Wednesdays are animation and comics.
+
+654
+00:49:56,916 --> 00:49:59,380
+Speaker 1: Thursdays are arbitrary and indiscriminate.
+
+655
+00:50:00,080 --> 00:50:04,940
+Speaker 1: Geek Nights is distributed under a Creative Commons Attribution 4.0 international license.
+
+656
+00:50:05,500 --> 00:50:09,750
+Speaker 0: Geek Nights is recorded live with no studio and no audience.
+
+657
+00:50:10,252 --> 00:50:13,700
+Speaker 0: But unlike those other late shows, it's actually recorded at night.
+
+658
+00:50:14,161 --> 00:50:28,280
+Speaker 1: And the Patreon patrons for this episode of Geek Nights are Alan Joyce, Ligeti, Dred Alune, LieutenantBrayer, KaceKare, MakesMusicKris, TheDawg, Chris Rourke, Clinton Walton, Finn, Joel Hayes, Penny Reimer, Rebecca Dunn, Sam Erickson, Jervon Von Harl, and a bunch of people whose names I'm not gonna say.
+
+659
+00:50:29,262 --> 00:50:31,371
+Speaker 1: We should be doing an episode on Thursday like normal.
+
+660
+00:50:31,492 --> 00:50:33,200
+Speaker 1: We're pretty much back up on our biz.
+
+661
+00:50:34,961 --> 00:50:35,783
+Speaker 1: We'll see.
+
+662
+00:50:35,963 --> 00:50:37,769
+Speaker 1: We're gonna be reviewing some anime next week.
+
+663
+00:50:38,230 --> 00:50:42,898
+Speaker 1: So I think tonight I'll leave you with... Whoa!
+

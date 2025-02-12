@@ -1,0 +1,3276 @@
+1
+00:00:08,220 --> 00:00:10,348
+Rym: It's Tuesday, October 15th, 2024.
+
+2
+00:00:10,348 --> 00:00:10,609
+Rym: I'm Rym.
+
+3
+00:00:14,122 --> 00:00:14,560
+Scott: I'm Scott.
+
+4
+00:00:14,840 --> 00:00:15,984
+Rym: And this is GeekNights.
+
+5
+00:00:16,024 --> 00:00:20,920
+Rym: Tonight, we are talking about The Legend of Zelda Echoes of Wisdom.
+
+6
+00:00:22,961 --> 00:00:23,978
+Scott: Let's do this!
+
+7
+00:00:27,220 --> 00:00:44,632
+Rym: So, uh, a few weeks ago, bike at home, you know, typical opening GeekNights anecdote about Rym bike at home, but, uh, I get on a city bike, and it feels weird, like one of the white e-bikes, but it's... I would characterize it as less maneuverable, but more stable.
+
+8
+00:00:44,773 --> 00:00:47,493
+Rym: Like, it took more effort to turn it.
+
+9
+00:00:48,501 --> 00:00:55,209
+Rym: Uh, you had to lean, and if you-- and, like, it was more stable, like, you had to turn the handlebars more to get it to actually turn appropriately.
+
+10
+00:00:55,229 --> 00:01:02,860
+Rym: And I didn't think much of it, because, you know, the-- not all those city bikes are necessarily equally to spec, and I'm just, like, sensitive to my biking nonsense.
+
+11
+00:01:03,560 --> 00:01:13,040
+Rym: But, uh, then the other day, last week, I, uh, started a third bike like this, so I started googling around, like, are they changing the city bike?
+
+12
+00:01:13,140 --> 00:01:14,627
+Rym: Like, is there a version 2?
+
+13
+00:01:14,627 --> 00:01:16,376
+Rym: Like, is there a slight change in the thing?
+
+14
+00:01:16,838 --> 00:01:26,887
+Rym: Because it felt like it was more stable, and, like, you'd get less wobble at a higher speed if you were a bad biker, and I wondered if maybe they're making some change.
+
+15
+00:01:26,927 --> 00:01:29,297
+Rym: Like, maybe people are falling off of these things if they don't know how to bike.
+
+16
+00:01:29,317 --> 00:01:29,840
+Rym: Like, I don't know.
+
+17
+00:01:30,263 --> 00:01:31,494
+Rym: And I can't find any information.
+
+18
+00:01:31,515 --> 00:01:32,080
+Rym: Like, I get nothing.
+
+19
+00:01:32,800 --> 00:01:38,428
+Rym: So, I-- and finally, uh, ride a city bike and have the feeling.
+
+20
+00:01:38,689 --> 00:01:42,700
+Rym: So I stopped, and I spent some time inspecting the city bike and comparing it to another city bike.
+
+21
+00:01:43,483 --> 00:01:45,158
+Rym: And, uh, I figured out what's going on.
+
+22
+00:01:46,100 --> 00:02:05,160
+Rym: Uh, every city bike I have ridden that feels like this has clearly been in an extreme front-end collision that has bent the front fork inward, so that the stem is pointing more downward, and the wheel is, like, closer to your body.
+
+23
+00:02:05,661 --> 00:02:09,559
+Rym: They have all suffered significant impact collisions that have bent them.
+
+24
+00:02:10,520 --> 00:02:19,420
+Rym: Okay, and I just-- and poking around a little bit further, it seems like that is possibly a thing, that people crash these things a lot.
+
+25
+00:02:20,140 --> 00:02:27,231
+Rym: And that would track, because almost every city bike I ride, the basket is pushed all the way down because people sit on it, even though that's extremely dangerous.
+
+26
+00:02:27,272 --> 00:02:28,340
+Rym: You should never do that on a bike.
+
+27
+00:02:28,621 --> 00:02:36,260
+Rym: They're always dented in the middle, because they've always hit stuff with it, but it seems like people are hitting things hard enough to bend, like, the front of the frame.
+
+28
+00:02:37,701 --> 00:02:42,584
+Scott: I mean, I slammed the bike into the dock really hard to make sure it locks, but that doesn't hit.
+
+29
+00:02:42,604 --> 00:02:43,309
+Rym: See, you don't have to do that.
+
+30
+00:02:43,329 --> 00:02:44,034
+Rym: You just slide it in gently.
+
+31
+00:02:44,074 --> 00:02:44,800
+Rym: It always just locks.
+
+32
+00:02:45,340 --> 00:02:45,822
+Scott: It does not.
+
+33
+00:02:45,862 --> 00:02:46,184
+Scott: It goes, "Eh,
+
+34
+00:02:46,364 --> 00:02:46,866
+Scott: eh.".
+
+35
+00:02:47,107 --> 00:02:48,372
+Scott: It complains, and it doesn't work.
+
+36
+00:02:48,413 --> 00:02:50,180
+Scott: But if I slam it, it works every time.
+
+37
+00:02:50,861 --> 00:02:51,564
+Rym: I find it works every time.
+
+38
+00:02:51,604 --> 00:02:53,914
+Scott: I don't got patience to sit there going in and out doing it gently.
+
+39
+00:02:53,954 --> 00:02:55,360
+Rym: You don't have to go in and out patiently.
+
+40
+00:02:55,480 --> 00:02:56,808
+Rym: You just gently put it in.
+
+41
+00:02:56,828 --> 00:02:58,860
+Rym: You lift the back up a tiny bit, and it always just clocks.
+
+42
+00:02:59,682 --> 00:03:00,711
+Scott: No, it goes, "Eh,
+
+43
+00:03:00,872 --> 00:03:00,994
+Scott: eh.".
+
+44
+00:03:01,135 --> 00:03:01,720
+Rym: I don't like it.
+
+45
+00:03:01,720 --> 00:03:07,320
+Rym: But even if Scott's slam-a-jamma strategy, that wouldn't bend the part of the bike that's busted.
+
+46
+00:03:07,380 --> 00:03:07,982
+Scott: No, that would hit.
+
+47
+00:03:08,043 --> 00:03:08,525
+Scott: No, it wouldn't.
+
+48
+00:03:08,605 --> 00:03:09,207
+Scott: It hits the bike.
+
+49
+00:03:09,247 --> 00:03:12,400
+Scott: That contact between the dock and the bike is much too high up.
+
+50
+00:03:12,460 --> 00:03:13,143
+Scott: It wouldn't do that.
+
+51
+00:03:13,263 --> 00:03:26,544
+Rym: And if you haven't seen one of these e-bikes, I guess the main thing I'm thinking about here is that, one, these things weigh, like, 75 pounds with the battery, and two, they are extremely sturdy.
+
+52
+00:03:27,186 --> 00:03:40,300
+Rym: So if people are crashing these into objects head-on, frequently enough to where I encounter so many bikes that are bent this way, how the hell are people not hurting themselves and making the news?
+
+53
+00:03:41,081 --> 00:03:46,177
+Rym: Or are the bikes so heavy that they just hit something, ruin the bike, and they're fine.
+
+54
+00:03:46,217 --> 00:03:47,060
+Rym: Like, I don't know what's up.
+
+55
+00:03:48,102 --> 00:03:52,240
+Rym: I would imagine people are just hitting stuff, though, because I have seen people hit cars with these things.
+
+56
+00:03:52,542 --> 00:03:53,729
+Rym: I've seen pedestrians get hit.
+
+57
+00:03:53,749 --> 00:03:55,600
+Rym: I've seen people hit each other on the Queensborough.
+
+58
+00:03:56,340 --> 00:03:57,608
+Scott: Have you seen a car hit someone?
+
+59
+00:03:57,628 --> 00:03:58,573
+Rym: It's a lot worse.
+
+60
+00:03:58,754 --> 00:03:59,036
+Rym: I have.
+
+61
+00:03:59,217 --> 00:04:08,369
+Rym: I have seen, I have seen, in my life, two different decapitated car incidents, one of which was on my commute to work.
+
+62
+00:04:08,911 --> 00:04:10,759
+Scott: Yeah, the city bike's not decapitating anybody.
+
+63
+00:04:10,839 --> 00:04:11,040
+Rym: Nope.
+
+64
+00:04:13,241 --> 00:04:15,574
+Rym: But, yeah, I think people are just crashing these things like crazy.
+
+65
+00:04:15,614 --> 00:04:16,779
+Rym: It's not a design change.
+
+66
+00:04:16,860 --> 00:04:18,677
+Rym: It's just people are crashing them and bending them.
+
+67
+00:04:20,182 --> 00:04:22,057
+Scott: It's a possible explanation.
+
+68
+00:04:22,077 --> 00:04:22,299
+Scott: Yeah.
+
+69
+00:04:23,340 --> 00:04:26,515
+Rym: But, otherwise, last night we were at the Red Wings Rangers game.
+
+70
+00:04:26,576 --> 00:04:29,430
+Rym: It was a pretty good game, but it was extra fun because we're there.
+
+71
+00:04:29,450 --> 00:04:39,795
+Rym: Of course, the Mets are also potentially Metsing, but every time I checked, they were not Metsing, but the only data I had to go on was the current score and inning.
+
+72
+00:04:39,815 --> 00:04:45,700
+Rym: I did not see how they were achieving that and whether or not they were Metsing or attempting to Mets along the way.
+
+73
+00:04:45,841 --> 00:04:49,079
+Scott: They started off strong, but, of course, nothing was safe, as you know.
+
+74
+00:04:49,960 --> 00:04:52,695
+Scott: And then they gave up some runs and you've said, "Oh, here we go
+
+75
+00:04:52,755 --> 00:04:53,157
+Scott: again.".
+
+76
+00:04:53,178 --> 00:04:59,660
+Scott: And then they were basically, like, the tying run was at the plate at certain points in the game, right?
+
+77
+00:05:01,142 --> 00:05:06,020
+Scott: And they were, like, tried to find a way to lose and barely didn't lose.
+
+78
+00:05:06,861 --> 00:05:12,364
+Rym: So, we're at the Rangers game and there are a lot of people wearing Mets jerseys at the Rangers game, which, sure.
+
+79
+00:05:12,405 --> 00:05:17,149
+Scott: There should be Yankees people, too, because the Yankees are not eliminated yet either, as far as I'm aware.
+
+80
+00:05:17,310 --> 00:05:25,879
+Rym: I didn't see a lot of Yankees people, but I saw a lot of Mets people, but the moment the Yankees are playing today, the Mets are playing yesterday, so that could also have an impact.
+
+81
+00:05:26,420 --> 00:05:33,159
+Rym: Because all those little TVs down below were all showing the Mets game, but when the Mets- There's no Yankees game to show.
+
+82
+00:05:33,801 --> 00:05:42,132
+Rym: Yup, but when the Mets actually won, at the next break of play, when the Blue Crew came out to shovel the snow, they immediately showed the out.
+
+83
+00:05:42,172 --> 00:05:44,763
+Rym: that ended the game and everyone stood up and gave a big cheer.
+
+84
+00:05:44,783 --> 00:05:46,350
+Rym: It's a good time.
+
+85
+00:05:46,391 --> 00:05:51,936
+Scott: I also heard, while watching the game on television, they were playing the OMG Mets song at the Garden.
+
+86
+00:05:52,740 --> 00:05:57,424
+Rym: They played the OMG Mets song at the Garden and everyone stood up and did a thing and it was pretty good.
+
+87
+00:05:58,989 --> 00:06:13,548
+Rym: Though, unrelatedly, after the last time the Mets won, the previous round, I was in an Overwatch game and someone on my team, when the match starts, just says, "Mets win, Rangers win, I'm gonna
+
+88
+00:06:13,589 --> 00:06:13,889
+Rym: win.".
+
+89
+00:06:13,909 --> 00:06:19,860
+Rym: And we lost that game by a comical amount.
+
+90
+00:06:21,420 --> 00:06:23,280
+Scott: Geographical matchmaking is in effect.
+
+91
+00:06:26,302 --> 00:06:29,920
+Rym: That guy is the Mets and Rangers portrait of Dorian Gray playing Overwatch.
+
+92
+00:06:32,182 --> 00:06:38,264
+Rym: So, there's a big news and we're not gonna go through all the details that were leaked, if you actually care.
+
+93
+00:06:38,284 --> 00:06:41,741
+Scott: We've done these news like 10,000 times already and they're gonna happen again.
+
+94
+00:06:42,202 --> 00:06:47,257
+Rym: But this one, at least for the nerds, nerds are really excited about this one.
+
+95
+00:06:47,398 --> 00:06:53,360
+Rym: and part of what I want to talk about is, I don't understand why, because we didn't actually learn anything important.
+
+96
+00:06:55,180 --> 00:07:00,890
+Rym: Like, Nostradamus could have guessed some of the things that were leaked here, like, "Switch 2 is coming, you don't say?
+
+97
+00:07:01,272 --> 00:07:02,418
+Rym: It's coming somewhat
+
+98
+00:07:02,499 --> 00:07:02,680
+Rym: soon?".
+
+99
+00:07:03,483 --> 00:07:15,969
+Scott: Yet, the only thing Nintendo has said about another console is that when they have Nintendo Directs, they say, "This Nintendo Direct will not contain any information about Nintendo's next
+
+100
+00:07:16,009 --> 00:07:16,491
+Scott: console.".
+
+101
+00:07:17,595 --> 00:07:26,912
+Scott: That's all, that's the only acknowledgement of the possible existence of a next console was saying that they were not going to talk about it in the following Nintendo Direct.
+
+102
+00:07:26,993 --> 00:07:39,281
+Scott: And if there is a Nintendo Direct where they are going to talk about it, it'll either be a canary where they don't say they're not and therefore we assume they are or they just say they are like, "The next Nintendo Direct is about a new
+
+103
+00:07:39,342 --> 00:07:41,406
+Scott: console.".
+
+104
+00:07:42,028 --> 00:07:43,992
+Scott: And meanwhile, it's like.
+
+105
+00:07:44,413 --> 00:07:52,480
+Scott: the only other news is that the only other way we know is because it's been enough years since the Switch that it's like, "Yeah, you're on the schedule
+
+106
+00:07:53,562 --> 00:07:53,983
+Scott: here.".
+
+107
+00:07:54,304 --> 00:08:01,006
+Scott: Of course, and then of course everyone knows the various game developers, Nintendo can keep Nintendo employees' traps shut.
+
+108
+00:08:01,828 --> 00:08:06,081
+Scott: But other people have to work on launch titles for this thing.
+
+109
+00:08:06,423 --> 00:08:11,142
+Scott: and so other people know that something's coming, someone has a dev kit and they sign an NDA.
+
+110
+00:08:11,222 --> 00:08:13,549
+Scott: Sure, they can't say that much, but it's like.
+
+111
+00:08:13,569 --> 00:08:22,456
+Scott: the people at least know that this work is ongoing to develop software for a console that no one knows.
+
+112
+00:08:22,576 --> 00:08:26,047
+Scott: And people keep calling it different things like Switch 2 or whatever.
+
+113
+00:08:26,067 --> 00:08:30,623
+Scott: I think, and I mean this sincerely, they should just call it the Nintendo Revolution.
+
+114
+00:08:31,186 --> 00:08:32,611
+Scott: They should just call it the Super Switch.
+
+115
+00:08:32,953 --> 00:08:35,363
+Scott: It's like, I think that's a good idea actually.
+
+116
+00:08:35,383 --> 00:08:42,308
+Scott: It's like because they don't want to lose the connection to the Switch and make go something totally brand new that might fly.
+
+117
+00:08:42,328 --> 00:08:46,848
+Rym: But then you get a nice parallel to the earliest, most successful days of Nintendo.
+
+118
+00:08:47,270 --> 00:08:55,360
+Scott: Right, it's like when the other times they tried to do consoles with the same name but just adding something like there was Wii, Wii U didn't work.
+
+119
+00:08:55,940 --> 00:08:58,709
+Scott: Nintendo DS and Nintendo 3DS, that worked.
+
+120
+00:08:58,890 --> 00:08:59,110
+Scott: Yep.
+
+121
+00:08:59,271 --> 00:08:59,893
+Scott: Right, kind of.
+
+122
+00:09:00,294 --> 00:09:02,020
+Scott: DSi though, not as much.
+
+123
+00:09:02,661 --> 00:09:03,944
+Scott: So what was the difference?
+
+124
+00:09:04,305 --> 00:09:14,776
+Scott: is that with Wii U and DSi, they added letters after the end, but with Super Switch and 3DS, they added characters before.
+
+125
+00:09:15,097 --> 00:09:18,207
+Scott: So as long as the new, so Switch 2, no good.
+
+126
+00:09:18,247 --> 00:09:20,013
+Scott: It has to be Super Switch.
+
+127
+00:09:20,033 --> 00:09:21,900
+Scott: You have to add something before the word Switch.
+
+128
+00:09:21,980 --> 00:09:25,549
+Rym: So we'll get the Switch, the Super Switch, the Switch 64, the Switch Cube.
+
+129
+00:09:25,589 --> 00:09:32,290
+Scott: No, Switch 64 and Switch Cube would fail because that's coming after the word Switch.
+
+130
+00:09:32,511 --> 00:09:33,274
+Rym: True, true.
+
+131
+00:09:33,355 --> 00:09:37,746
+Rym: But I point out the Nintendo 64 did, arguably did not fail.
+
+132
+00:09:37,766 --> 00:09:44,640
+Scott: Nintendo 64 wasn't a rename, like a reused name.
+
+133
+00:09:45,541 --> 00:09:52,658
+Scott: The only times they reused a name was NES, Super NES, right, was a reuse that worked.
+
+134
+00:09:53,079 --> 00:09:55,023
+Scott: You know, DS, 3DS.
+
+135
+00:09:55,424 --> 00:09:55,665
+Rym: Yep.
+
+136
+00:09:56,146 --> 00:09:57,791
+Rym: Game Boy, Game Boy Color.
+
+137
+00:09:57,811 --> 00:10:00,959
+Scott: Yeah, Game Boy Color didn't work out too well.
+
+138
+00:10:00,979 --> 00:10:04,758
+Scott: Actually, Game Boy Advance was the most successful and that one, the name came after.
+
+139
+00:10:04,798 --> 00:10:06,023
+Scott: That's the only exception.
+
+140
+00:10:06,063 --> 00:10:09,756
+Rym: The Game Boy Advance was like, that's the exception right there.
+
+141
+00:10:09,776 --> 00:10:11,782
+Scott: Game Boy Advance was super successful.
+
+142
+00:10:12,243 --> 00:10:17,212
+Rym: The Game Boy Advance was like, it was big, big.
+
+143
+00:10:17,232 --> 00:10:23,364
+Rym: Game Boy Advance was my primary console for a long time.
+
+144
+00:10:23,384 --> 00:10:24,245
+Scott: Oh yeah.
+
+145
+00:10:25,127 --> 00:10:35,663
+Rym: But per this leak, the code name of the next gen console, which again, code names don't mean anything because the Nintendo's, the Game Cube's code name was Revolution.
+
+146
+00:10:35,683 --> 00:10:42,989
+Rym: Like code names do not turn into names, especially with Nintendo, but reportedly the code name of the next console is Ounce.
+
+147
+00:10:44,152 --> 00:10:44,473
+Scott: Okay.
+
+148
+00:10:44,874 --> 00:10:45,275
+Scott: Yeah, sure.
+
+149
+00:10:45,797 --> 00:10:46,057
+Rym: Cool.
+
+150
+00:10:46,117 --> 00:10:58,598
+Rym: And I guess that's, I see so many people like freaking out about, oh my God, there's a, there's a new Pokemon game coming and oh, there's a Pokemon game they didn't actually make that they talked about.
+
+151
+00:10:59,620 --> 00:11:00,202
+Scott: Like clockwork.
+
+152
+00:11:00,504 --> 00:11:03,798
+Scott: That's like being, oh my God, is the sun going to rise tomorrow?
+
+153
+00:11:03,838 --> 00:11:04,139
+Scott: I don't know.
+
+154
+00:11:04,179 --> 00:11:09,854
+Scott: It rose, you know, to yesterday, like, you know, 18 hours ago.
+
+155
+00:11:09,875 --> 00:11:12,542
+Scott: Is it going to rise in six hours from now again?
+
+156
+00:11:12,803 --> 00:11:13,887
+Scott: Just like it always has.
+
+157
+00:11:13,967 --> 00:11:17,600
+Scott: It's like Nintendo releases a Pokemon game every few years.
+
+158
+00:11:18,240 --> 00:11:18,501
+Scott: Yeah.
+
+159
+00:11:18,582 --> 00:11:20,068
+Scott: Is it, are they going to do it again?
+
+160
+00:11:20,168 --> 00:11:21,975
+Scott: It's like, yeah, it's good.
+
+161
+00:11:22,397 --> 00:11:22,658
+Scott: Yeah.
+
+162
+00:11:22,859 --> 00:11:24,426
+Scott: That's, that's how cycles work.
+
+163
+00:11:24,607 --> 00:11:24,828
+Rym: Yep.
+
+164
+00:11:24,889 --> 00:11:27,040
+Rym: Though I will say some cool things came out of this leak.
+
+165
+00:11:27,160 --> 00:11:31,299
+Rym: That'll just be probably good for society in the long run because they're out there.
+
+166
+00:11:32,341 --> 00:11:36,520
+Rym: The source code for Pokemon HeartGold, SoulSilver, Black2 and White2 are leaked.
+
+167
+00:11:37,481 --> 00:11:38,906
+Scott: And speed runners rejoice.
+
+168
+00:11:39,066 --> 00:11:40,350
+Scott: They're going to find some hacks.
+
+169
+00:11:40,732 --> 00:11:44,506
+Rym: And all the assets are now available widely on the internet.
+
+170
+00:11:44,526 --> 00:11:49,312
+Rym: If you know where to look, if you want to just have them like little sprites and things, a lot of them people had already.
+
+171
+00:11:49,333 --> 00:11:49,554
+Rym: Yeah.
+
+172
+00:11:49,574 --> 00:11:52,727
+Rym: I mean, people have this stuff anyway, but now it's pretty comprehensive.
+
+173
+00:11:52,747 --> 00:11:54,915
+Rym: A lot of unused assets were found.
+
+174
+00:11:55,396 --> 00:12:04,369
+Rym: Plot information for the unreleased sequel to Detective Pikachu, which sure, like there's plot information about a lot of movies that never got made out there.
+
+175
+00:12:04,469 --> 00:12:04,690
+Rym: Yeah.
+
+176
+00:12:05,072 --> 00:12:07,000
+Scott: Movies are like the least secret industry.
+
+177
+00:12:07,360 --> 00:12:11,660
+Scott: And I keep bringing this up all the time, but it's like companies try to keep things so secret.
+
+178
+00:12:12,341 --> 00:12:16,017
+Scott: Movies don't keep anything secret and it doesn't seem to hurt them at all.
+
+179
+00:12:16,097 --> 00:12:16,238
+Rym: Yeah.
+
+180
+00:12:16,278 --> 00:12:23,358
+Rym: Movie studios will be like, yeah, we optioned name of famous guy to rework script of famous novel.
+
+181
+00:12:23,779 --> 00:12:27,715
+Scott: And you can probably read the script if you really wanted to, or the screenplay.
+
+182
+00:12:27,836 --> 00:12:28,820
+Scott: it's out there somewhere.
+
+183
+00:12:29,161 --> 00:12:43,874
+Scott: And Oh, by the way, every time we think about casting someone it's in the news and also exactly how much money we grossed using totally fake formulas that are probably full of bullshit, but comparable to the number, the same evil wrong formula other movies use.
+
+184
+00:12:44,155 --> 00:12:45,379
+Scott: So you can compare it.
+
+185
+00:12:46,762 --> 00:12:47,867
+Scott: We just let everyone know that.
+
+186
+00:12:47,927 --> 00:12:48,108
+Scott: Yep.
+
+187
+00:12:48,510 --> 00:12:58,251
+Rym: As an aside, if you ever want to, if you ever want to feel better about your first drafts of anything you do in your life, I'd advise you to find the original treatment for a movie you think is good.
+
+188
+00:12:58,312 --> 00:13:04,360
+Rym: A lot of those are just available online, like the original treatment, meaning like baby's first script, like, Hey, here's the script.
+
+189
+00:13:04,640 --> 00:13:06,625
+Rym: This is a movie about terminators from the future.
+
+190
+00:13:07,949 --> 00:13:13,201
+Rym: Those things are usually unreadable, absolute garbage.
+
+191
+00:13:13,723 --> 00:13:18,583
+Rym: Uh, the one for Monty Python and the Holy grail is unrecognizable compared to the movie they actually made.
+
+192
+00:13:18,603 --> 00:13:18,663
+Rym: Yep.
+
+193
+00:13:20,589 --> 00:13:35,078
+Rym: But uh, yeah, this hack is out there and you can go read all the details, but, uh, this does not change anything other than Game Freak probably needs to have better server security because it was a data breach that, uh, happened.
+
+194
+00:13:35,098 --> 00:13:36,203
+Rym: That's how the data all got out.
+
+195
+00:13:36,484 --> 00:13:38,774
+Rym: Someone busted into what I assume are some Game Freak servers.
+
+196
+00:13:39,678 --> 00:13:39,859
+Scott: Yeah.
+
+197
+00:13:39,939 --> 00:13:48,613
+Rym: I mean, they also access a lot of employee information, which is probably just going to be used to scam people or steal money or open credit cards, identity thefts.
+
+198
+00:13:48,734 --> 00:13:49,015
+Rym: Yep.
+
+199
+00:13:49,617 --> 00:13:58,027
+Scott: I think, you know, the other thing is that, Hey, if you're more public with your info, right, people want to get this info because you're so secretive.
+
+200
+00:13:58,087 --> 00:13:59,735
+Scott: So it's like, what are they hiding?
+
+201
+00:13:59,835 --> 00:14:02,183
+Scott: People really want to see what's behind the curtain, right?
+
+202
+00:14:02,745 --> 00:14:09,384
+Scott: It's like, Hey, uh, if you weren't all secretive, then people wouldn't even try that hard.
+
+203
+00:14:09,444 --> 00:14:13,238
+Scott: And you probably wouldn't need more security actually, because why?
+
+204
+00:14:13,258 --> 00:14:13,640
+Scott: Right.
+
+205
+00:14:13,740 --> 00:14:22,214
+Scott: But, and it wouldn't even be news if someone did breach, but yet, you know, if you want to be secretive, you've got to be like Apple where it actually is super tight.
+
+206
+00:14:22,515 --> 00:14:30,063
+Scott: And you ever seen a data breach of, of Apple where it's like, Oh, we actually got, you know, schematics, like the diagram.
+
+207
+00:14:30,103 --> 00:14:32,011
+Scott: It's like those, all these things exist right.
+
+208
+00:14:32,132 --> 00:14:33,960
+Scott: And in Apple servers somewhere, right?
+
+209
+00:14:34,000 --> 00:14:47,908
+Scott: Like, you know, diagrams and documentation and internal, none of those, if I've ever seen anywhere for any, you know, even for like the first iPhone, you can't get like, you know, you want to do something crazy.
+
+210
+00:14:47,968 --> 00:14:51,807
+Rym: What a company could do, especially if it's a company like Nintendo now, no one would ever do this.
+
+211
+00:14:51,887 --> 00:15:11,569
+Rym: And it's a crazy idea, but what you could do is list pieces of information or data that, you know, people would want to see that you have somehow successfully kept secret and, uh, let people bid like, Hey, you want, you want this information, uh, make us an offer.
+
+212
+00:15:11,669 --> 00:15:12,352
+Rym: We might respond.
+
+213
+00:15:12,393 --> 00:15:12,654
+Rym: Yes.
+
+214
+00:15:12,694 --> 00:15:13,316
+Rym: Cut us a check.
+
+215
+00:15:13,337 --> 00:15:13,999
+Rym: We'll give you the info.
+
+216
+00:15:14,762 --> 00:15:20,402
+Scott: Your company is becomes a significant company and you have proprietary information and then you just sell it.
+
+217
+00:15:20,985 --> 00:15:26,729
+Rym: I mean, it's, it's we, as we've talked about, this is proprietary information that isn't actually that actionable or important.
+
+218
+00:15:27,131 --> 00:15:28,175
+Rym: It's not like, all right.
+
+219
+00:15:28,195 --> 00:15:36,246
+Scott: So, so Apple is like, if you pay us enough, we will tell you, we will just, you know, you can't obviously use it to make a competing product.
+
+220
+00:15:36,286 --> 00:15:38,055
+Scott: That would be at least in the United States.
+
+221
+00:15:38,075 --> 00:15:43,340
+Scott: So you would be stopped from doing so, but it's like, yeah, circuit diagram and, and all the, all the chips and everything.
+
+222
+00:15:44,421 --> 00:15:45,145
+Rym: Important things.
+
+223
+00:15:45,226 --> 00:15:51,158
+Rym: I would do it like, like imagine Nintendo was like, you want to know what the name of the next Pokemon game is going to be?
+
+224
+00:15:51,278 --> 00:15:54,389
+Rym: Well, make us an offer and we'll tell you and only you.
+
+225
+00:15:54,409 --> 00:15:59,066
+Scott: I think if a better idea for making money as Nintendo, it's just make games.
+
+226
+00:16:00,390 --> 00:16:00,671
+Scott: No.
+
+227
+00:16:01,494 --> 00:16:05,206
+Scott: What you would do is you would say, all right, look, we got this new Pokemon game.
+
+228
+00:16:05,267 --> 00:16:06,391
+Scott: It's coming, right?
+
+229
+00:16:06,833 --> 00:16:07,756
+Scott: We actually finished it.
+
+230
+00:16:07,837 --> 00:16:08,559
+Scott: It's ready to go.
+
+231
+00:16:09,541 --> 00:16:18,168
+Scott: And when it's out, it's going to be the usual 60 bucks and everyone can buy it and play it normally, but we're not going to put it out.
+
+232
+00:16:18,389 --> 00:16:20,355
+Scott: the release date, question mark.
+
+233
+00:16:20,896 --> 00:16:27,656
+Scott: We will put it out when we receive enough pre-orders and the pre-orders are a thousand dollars.
+
+234
+00:16:28,057 --> 00:16:29,160
+Scott: So we need enough.
+
+235
+00:16:29,720 --> 00:16:39,434
+Scott: We will not release this new Pokemon game to the world until there are enough poke maniacs who will overspend on the game and spend buy it for a thousand dollars.
+
+236
+00:16:39,796 --> 00:16:43,669
+Scott: And then we'll make it available to everyone else for the normal $60.
+
+237
+00:16:43,669 --> 00:16:45,876
+Rym: That's not a bad way to go.
+
+238
+00:16:45,896 --> 00:16:51,694
+Scott: We're basically holding our own product ransom from ravaging fans, right?
+
+239
+00:16:51,995 --> 00:16:54,864
+Scott: Until we basically extort them, the whales.
+
+240
+00:16:54,884 --> 00:16:56,170
+Scott: You want to extort even further.
+
+241
+00:16:56,190 --> 00:16:58,320
+Rym: Here's, here's an even more extreme idea.
+
+242
+00:16:58,861 --> 00:17:04,980
+Rym: You announced the date and on that date, the game goes up for sale and it costs $1 million.
+
+243
+00:17:05,761 --> 00:17:09,640
+Rym: And then every second the price ticks down a small amount.
+
+244
+00:17:10,321 --> 00:17:12,919
+Scott: I'll use the Dutch auction until you can buy it.
+
+245
+00:17:13,420 --> 00:17:15,717
+Rym: But we don't change the price base and how many people bought it.
+
+246
+00:17:15,797 --> 00:17:18,930
+Rym: It's just, you can buy it earlier than other people.
+
+247
+00:17:19,010 --> 00:17:26,397
+Rym: If you spend more money until it eventually ticks down to $65, you're actually going to just a normal duck auction where the time ticks down.
+
+248
+00:17:26,539 --> 00:17:35,430
+Scott: So there's always going to, so basically there's a, there's a, there's a quick release date and then there's guaranteed, like already set in stone, normal release date when the price hits the minimum.
+
+249
+00:17:35,750 --> 00:17:37,677
+Rym: On October 31st, you can buy this game for $50,000.
+
+250
+00:17:37,677 --> 00:17:42,050
+Rym: By January 1st, the game will be $65.
+
+251
+00:17:42,050 --> 00:17:42,854
+Rym: Buy it at any time.
+
+252
+00:17:43,136 --> 00:17:48,743
+Scott: I would do the other thing where I'd say, look, we're only going to tick down the clock when someone buys a copy.
+
+253
+00:17:48,783 --> 00:17:51,054
+Rym: Or you go even further, do the witching clang option.
+
+254
+00:17:51,074 --> 00:17:53,950
+Rym: There is one copy of the new Pokemon game.
+
+255
+00:17:54,010 --> 00:17:55,338
+Scott: That didn't work out that well.
+
+256
+00:17:55,439 --> 00:17:59,604
+Rym: No, that actually, the story, I would like to listen to that album.
+
+257
+00:17:59,624 --> 00:18:00,229
+Scott: That one didn't work.
+
+258
+00:18:00,590 --> 00:18:00,851
+Rym: Yeah.
+
+259
+00:18:01,776 --> 00:18:04,750
+Scott: You know, somewhat good theory at least.
+
+260
+00:18:05,312 --> 00:18:07,862
+Rym: The right way to do that, you sell that album.
+
+261
+00:18:08,123 --> 00:18:13,646
+Rym: And then if you're the Wu-Tang Clan, you decide, all right, the person who bought it, are they a good person or a bad person?
+
+262
+00:18:13,927 --> 00:18:18,030
+Rym: And if you decide they're a bad person, then you release the album for a penny for everybody else.
+
+263
+00:18:18,210 --> 00:18:25,646
+Scott: But the problem is the person, you can't sell it to the one person without the already binding agreement that you won't make more.
+
+264
+00:18:25,666 --> 00:18:26,150
+Scott: Yeah.
+
+265
+00:18:26,430 --> 00:18:27,939
+Scott: Otherwise you won't sell the first one.
+
+266
+00:18:28,221 --> 00:18:32,201
+Rym: Of course, I feel like someone who would buy that might be easily tricked and out-lawyered.
+
+267
+00:18:33,084 --> 00:18:34,290
+Scott: Well, they, you know.
+
+268
+00:18:35,070 --> 00:18:35,412
+Rym: We'll see.
+
+269
+00:18:35,473 --> 00:18:37,224
+Rym: I mean, doesn't the federal government own it now?
+
+270
+00:18:37,244 --> 00:18:38,515
+Rym: I even forget what happened to that thing.
+
+271
+00:18:38,678 --> 00:18:39,350
+Scott: I don't fucking know.
+
+272
+00:18:40,391 --> 00:18:41,214
+Rym: I'd lost interest.
+
+273
+00:18:41,675 --> 00:18:45,970
+Rym: Anyway, you got some news about our favorite alien overlord manipulator.
+
+274
+00:18:46,790 --> 00:18:50,705
+Scott: Yeah, so Rainer Knizia has been back to his board game nonsense.
+
+275
+00:18:50,766 --> 00:18:51,890
+Scott: He's back on his bullshit.
+
+276
+00:18:52,711 --> 00:18:53,914
+Scott: Pretty strongly lately.
+
+277
+00:18:54,657 --> 00:19:01,423
+Scott: And there was actually a Knizia direct, which came out this morning at nine, eight more, nine o'clock New York time.
+
+278
+00:19:01,443 --> 00:19:02,750
+Rym: It's not as a treasure.
+
+279
+00:19:03,610 --> 00:19:03,771
+Scott: Yeah.
+
+280
+00:19:04,012 --> 00:19:06,889
+Scott: And so they even styled the thumbnail just like a Nintendo one.
+
+281
+00:19:09,432 --> 00:19:12,242
+Scott: And he comes out and he basically is role-playing.
+
+282
+00:19:12,262 --> 00:19:23,570
+Scott: And the story he's role-playing is that he's an alien and he's made games to brainwash humans, right?
+
+283
+00:19:25,072 --> 00:19:28,646
+Scott: And he's made so many tabletop games to like mess with and manipulate people.
+
+284
+00:19:29,188 --> 00:19:31,657
+Scott: And that was, he's an alien and that's been his secret plan.
+
+285
+00:19:32,179 --> 00:19:35,711
+Scott: And now he's got three new games that he's putting out.
+
+286
+00:19:35,812 --> 00:19:37,016
+Scott: There's a Kickstarter for them.
+
+287
+00:19:37,056 --> 00:19:37,759
+Scott: It's a trilogy.
+
+288
+00:19:38,542 --> 00:19:49,288
+Scott: And the three games themselves tell the story of him making games and brainwashing people.
+
+289
+00:19:49,308 --> 00:20:04,713
+Scott: So the three games are silos, secret interlopers from outer space, which is like the arrival of the aliens, which is described as a dynamic three pronged area majority game where players race to take over human society.
+
+290
+00:20:04,874 --> 00:20:10,633
+Rym: But see, I get a little bit, I get really excited about those, that combination of words.
+
+291
+00:20:11,375 --> 00:20:12,821
+Scott: So that's the game about the past.
+
+292
+00:20:12,881 --> 00:20:17,176
+Scott: He's telling you the past that you didn't know already, right?
+
+293
+00:20:17,216 --> 00:20:23,237
+Scott: Then the second game is Ego, extraterrestrial greeting organization, which is about the near future.
+
+294
+00:20:25,083 --> 00:20:29,396
+Scott: You know, he says for him, it's a few seconds from now, but for us it's years from now.
+
+295
+00:20:30,099 --> 00:20:36,924
+Scott: An epic push your luck galactic trek featuring Game of Chicken auctions as you navigate precarious cosmic politics.
+
+296
+00:20:37,266 --> 00:20:38,330
+Rym: Oh, that sounds even better.
+
+297
+00:20:39,151 --> 00:20:43,785
+Scott: And the third game, which is about the distant future, uh, called orbit.
+
+298
+00:20:44,326 --> 00:20:53,054
+Scott: orbital race between interstellar terrorists is a tactical space race across a system of unique orbiting planets and useful space station.
+
+299
+00:20:53,114 --> 00:21:00,882
+Scott: So it doesn't look like these games actually like they're in a trilogy, but there doesn't seem to be any connection between them.
+
+300
+00:21:00,922 --> 00:21:05,160
+Scott: Like they're not expansions or there's no mechanical connection between them.
+
+301
+00:21:05,180 --> 00:21:06,687
+Scott: There are three distinct games.
+
+302
+00:21:06,747 --> 00:21:09,099
+Scott: It could be one of them is good and the others suck.
+
+303
+00:21:09,119 --> 00:21:09,943
+Scott: They could all suck.
+
+304
+00:21:10,305 --> 00:21:11,853
+Scott: You know, you can play them in any order.
+
+305
+00:21:11,873 --> 00:21:12,877
+Scott: It doesn't really matter.
+
+306
+00:21:13,339 --> 00:21:15,429
+Scott: You could just play one and not ignore the others.
+
+307
+00:21:15,589 --> 00:21:22,475
+Rym: Well, kind of like a Kramer and Keyslings, uh, Tikal, Java and Mexico are vaguely related, but they're completely different.
+
+308
+00:21:22,576 --> 00:21:26,592
+Scott: They're in this, they're in the same box, the same box shape, uh, different artwork.
+
+309
+00:21:26,934 --> 00:21:29,964
+Scott: Um, the same, you know, release time.
+
+310
+00:21:29,984 --> 00:21:36,321
+Scott: There's a Kickstarter to get all three, a retailer pledge, a hundred dollars.
+
+311
+00:21:36,341 --> 00:21:41,774
+Scott: Uh, one of those 49 ones, 49 and other ones, the silos one is more money.
+
+312
+00:21:41,814 --> 00:21:44,241
+Scott: The silos one is 55.
+
+313
+00:21:44,241 --> 00:21:51,100
+Scott: Um, uh, standard bundle receive silos, ego and orbit plus get a expansions for all three for free.
+
+314
+00:21:51,100 --> 00:21:56,433
+Scott: $192 value for $152.
+
+315
+00:21:56,433 --> 00:22:00,310
+Scott: Uh, and there's a deluxe bundle where you get fancy extra shit.
+
+316
+00:22:01,433 --> 00:22:08,455
+Rym: As we were talking about, two of them are effectively re themed older games and only the orbit one is brand new.
+
+317
+00:22:08,476 --> 00:22:10,000
+Scott: Ah, okay.
+
+318
+00:22:10,261 --> 00:22:10,823
+Scott: Well, how about that?
+
+319
+00:22:11,586 --> 00:22:12,870
+Rym: Not that I played every kinesia.
+
+320
+00:22:13,651 --> 00:22:16,568
+Scott: No, I couldn't, I probably couldn't tell you which kinesias they were.
+
+321
+00:22:16,648 --> 00:22:25,473
+Rym: unless someone told me is if, if the fiction were true and that literally is what his deal was, he's doing a bad job.
+
+322
+00:22:25,514 --> 00:22:30,889
+Rym: because well, those games to a degree made people like us.
+
+323
+00:22:30,949 --> 00:22:34,160
+Rym: So you have to decide if that is a good thing or a bad thing.
+
+324
+00:22:35,023 --> 00:22:35,244
+Rym: Yeah.
+
+325
+00:22:35,385 --> 00:22:39,663
+Rym: I feel like kinesia games did deeply influence our game design and game playing sensibilities.
+
+326
+00:22:39,683 --> 00:22:41,692
+Scott: I mean, the man knows how to make a game.
+
+327
+00:22:41,712 --> 00:22:47,350
+Scott: I may as well make a hell of a game, but yeah, this is a fun way to announce the game.
+
+328
+00:22:47,610 --> 00:22:49,192
+Scott: Fun way to sell the game.
+
+329
+00:22:49,212 --> 00:22:53,275
+Scott: Uh, good job as expected.
+
+330
+00:22:56,057 --> 00:23:05,381
+Rym: But anyway, things of the day, my thing of the day is, uh, the speed run records of a game that I don't think many of you have played.
+
+331
+00:23:05,401 --> 00:23:09,495
+Rym: Uh, Bart, uh, you may know this as bay area rapid transit.
+
+332
+00:23:09,856 --> 00:23:11,100
+Scott: It is the, that's not a game.
+
+333
+00:23:11,180 --> 00:23:12,584
+Scott: That's a train network.
+
+334
+00:23:12,824 --> 00:23:13,085
+Rym: Yes.
+
+335
+00:23:13,185 --> 00:23:19,703
+Rym: This is just the mass transit network and the bay area and the bay area transit website.
+
+336
+00:23:19,843 --> 00:23:23,032
+Rym: Bart.gov has an official speed run section.
+
+337
+00:23:23,514 --> 00:23:28,930
+Rym: They have rules for speed running the system, uh, and they maintain a leaderboard.
+
+338
+00:23:28,990 --> 00:23:36,192
+Rym: The current official record is five hours, 47 minutes and 42 seconds to using the system itself.
+
+339
+00:23:36,272 --> 00:23:37,376
+Rym: Visit every station.
+
+340
+00:23:38,098 --> 00:23:38,339
+Scott: Yeah.
+
+341
+00:23:38,399 --> 00:23:39,021
+Scott: Good luck doing that.
+
+342
+00:23:39,062 --> 00:23:39,323
+Scott: New York.
+
+343
+00:23:39,343 --> 00:23:42,756
+Rym: I was about to say doing that in New York would take days.
+
+344
+00:23:42,796 --> 00:23:45,325
+Scott: Just hitting all the seven train stops alone.
+
+345
+00:23:45,366 --> 00:23:46,931
+Scott: You're already losing like an hour.
+
+346
+00:23:46,951 --> 00:23:47,353
+Scott: Yeah.
+
+347
+00:23:47,794 --> 00:23:48,677
+Rym: I don't know.
+
+348
+00:23:48,979 --> 00:23:58,490
+Rym: I think it would take two or three, at least two, like 48 hours minimum to hit every station in the New York subway system just because of how fucking big it is.
+
+349
+00:23:58,510 --> 00:24:11,180
+Rym: And especially like some of the ones, like, you know, you take the, what, the a train or is it you're going to get down, you're going to take that fucking the, not the S in Manhattan, but the other S over by the botanical gardens.
+
+350
+00:24:11,941 --> 00:24:13,527
+Scott: That's only like one stop though.
+
+351
+00:24:13,708 --> 00:24:13,929
+Scott: Yeah.
+
+352
+00:24:13,989 --> 00:24:17,002
+Rym: But that's one stop in between that hits the middle of other lines.
+
+353
+00:24:17,042 --> 00:24:21,242
+Scott: There's no, that's actually probably useful for your strategy that there's that little connector.
+
+354
+00:24:21,322 --> 00:24:24,272
+Scott: I'm saying the problem is going to be the a train.
+
+355
+00:24:24,533 --> 00:24:26,922
+Scott: You take the a train to far rock away, right?
+
+356
+00:24:27,103 --> 00:24:28,329
+Scott: What the fuck are you going to do now?
+
+357
+00:24:28,490 --> 00:24:30,720
+Scott: You're going to take the a train back, right?
+
+358
+00:24:31,161 --> 00:24:34,094
+Scott: And then you got to take, then you got to switch over, right?
+
+359
+00:24:34,134 --> 00:24:37,108
+Scott: To go to the other eight, like the other a train branch.
+
+360
+00:24:37,309 --> 00:24:38,756
+Rym: You got to get it all those spindles.
+
+361
+00:24:38,777 --> 00:24:40,123
+Rym: You got to get out to marshaloo.
+
+362
+00:24:40,163 --> 00:24:41,569
+Rym: You got to get out to Pelham Bay.
+
+363
+00:24:41,589 --> 00:24:41,669
+Rym: Yeah.
+
+364
+00:24:41,690 --> 00:24:44,602
+Scott: Well, some of those are a little closer together.
+
+365
+00:24:44,622 --> 00:24:53,872
+Scott: It's like, if you get to Pelham Bay, you could probably like, but get to the Eastchester and go down and save some time that way using some non-train methods.
+
+366
+00:24:54,614 --> 00:24:58,709
+Scott: Um, you know, but it's like, you go all the way to the end of the a train.
+
+367
+00:24:58,749 --> 00:25:00,477
+Scott: There's no other train nearby.
+
+368
+00:25:00,497 --> 00:25:03,389
+Scott: It's just one train that goes off into the distance and comes back.
+
+369
+00:25:03,530 --> 00:25:12,267
+Scott: There's no, like the Bronx ones that you can, you know, if you're in Woodlawn, you could just run over to Norwood and switch from the four to the D or whatever, right?
+
+370
+00:25:12,287 --> 00:25:13,412
+Rym: You know, it might be faster.
+
+371
+00:25:13,452 --> 00:25:17,652
+Scott: You can take the four up and the D back, but if you take the a out, you got to take the a back.
+
+372
+00:25:17,672 --> 00:25:18,697
+Scott: You got nothing else to do.
+
+373
+00:25:18,858 --> 00:25:20,646
+Scott: I think it would be, you just lose time.
+
+374
+00:25:20,666 --> 00:25:23,819
+Rym: If you, you'd have to allow people to do overland transits.
+
+375
+00:25:23,939 --> 00:25:30,425
+Rym: And I think you'd, I think to do the New York city subway in under 48 hours, you would not only have to ride the system.
+
+376
+00:25:30,445 --> 00:25:31,570
+Scott: I don't know if it's possible.
+
+377
+00:25:31,690 --> 00:25:39,839
+Rym: But you'd also have to be a like marathon runner and run between cross town and cry like East West stations in like the Bronx.
+
+378
+00:25:41,204 --> 00:25:41,486
+Scott: All right.
+
+379
+00:25:41,728 --> 00:25:43,480
+Scott: Subway challenge history.
+
+380
+00:25:45,721 --> 00:25:51,036
+Rym: So yeah, the Bay Area transit just does an official Guinness record time is 22 hours.
+
+381
+00:25:53,181 --> 00:25:54,566
+Rym: Every New York city subway station.
+
+382
+00:25:55,529 --> 00:25:56,151
+Scott: I think so.
+
+383
+00:25:56,211 --> 00:25:56,492
+Scott: Yes.
+
+384
+00:25:56,592 --> 00:25:57,194
+Rym: Interesting.
+
+385
+00:25:58,338 --> 00:26:00,383
+Rym: That's still a long by Kate.
+
+386
+00:26:00,503 --> 00:26:02,449
+Scott: Kate Jones did it in 2023.
+
+387
+00:26:02,449 --> 00:26:03,131
+Scott: All right.
+
+388
+00:26:03,472 --> 00:26:03,934
+Scott: All right.
+
+389
+00:26:04,536 --> 00:26:06,743
+Scott: The fastest trip through the New York city subway.
+
+390
+00:26:07,286 --> 00:26:07,507
+Rym: All right.
+
+391
+00:26:07,527 --> 00:26:08,230
+Rym: Then Kate Jones.
+
+392
+00:26:08,270 --> 00:26:10,760
+Rym: I salute you because that's about half what I thought it would be.
+
+393
+00:26:15,025 --> 00:26:16,287
+Rym: So, uh, you got to think of the day.
+
+394
+00:26:17,067 --> 00:26:17,668
+Scott: Oh yeah.
+
+395
+00:26:17,708 --> 00:26:18,449
+Scott: So there's the site.
+
+396
+00:26:18,489 --> 00:26:20,755
+Scott: I'm sure everyone's, everyone's seen this site already.
+
+397
+00:26:21,377 --> 00:26:24,026
+Scott: Um, big bugs, db.com and what it is.
+
+398
+00:26:24,107 --> 00:26:28,604
+Scott: It's a little interactive website that has a little 3d action going on.
+
+399
+00:26:28,624 --> 00:26:33,805
+Scott: So you're gonna need to make sure you have a, you know, any device you have now, it's probably gonna work, but it's a little janky.
+
+400
+00:26:34,588 --> 00:26:36,876
+Scott: Um, but it uses, you know, browser 3d biz.
+
+401
+00:26:36,916 --> 00:26:38,924
+Scott: So always, you know, a little janky.
+
+402
+00:26:39,506 --> 00:26:55,099
+Scott: And basically what they did is they scanned in boxes from old PC games in the nineties, mostly, but also early two thousands when PC games were on CD roms that came in very large boxes because you would go to comp USA or software, et cetera, or Babbage's or whatever.
+
+403
+00:26:55,119 --> 00:26:58,392
+Scott: And they would be on a shelf trying to vie for attention.
+
+404
+00:26:58,412 --> 00:27:03,933
+Rym: There was like an arms raise of boxes got bigger and bigger as the media games came on, got smaller and smaller.
+
+405
+00:27:04,454 --> 00:27:04,675
+Scott: Yeah.
+
+406
+00:27:05,276 --> 00:27:22,544
+Scott: Uh, and so, uh, those boxes themselves were works of art in a way and they, people who made this website scanned in all the sides of the boxes and then made a really simple 3d model and slapped the images as textures on the side of the box.
+
+407
+00:27:23,186 --> 00:27:25,412
+Scott: And it's like a simulation of the box.
+
+408
+00:27:25,853 --> 00:27:27,397
+Rym: Yeah.
+
+409
+00:27:27,417 --> 00:27:29,703
+Scott: I got that one for free.
+
+410
+00:27:30,104 --> 00:27:33,976
+Scott: When I bought a three button gaming mouse, you introduced me to that game.
+
+411
+00:27:34,539 --> 00:27:35,122
+Scott: It's a good game.
+
+412
+00:27:35,182 --> 00:27:37,051
+Scott: It's a, there's not a lot of games like that anyway.
+
+413
+00:27:37,733 --> 00:27:48,083
+Scott: Um, and they set up a shelf, a virtual shelf with all the boxes on it in alphabetical order, and you can click on the boxes to examine them one at a time.
+
+414
+00:27:48,103 --> 00:28:01,245
+Scott: And it's really shocking how, despite it being at least 20 years since I've, I threw out all my boxes in 20 years, plus since I've gone into any store that was, had these kinds of boxes.
+
+415
+00:28:01,968 --> 00:28:09,670
+Scott: And yet, even though I owned only a small portion of these boxes, I remember 90 plus percent of them.
+
+416
+00:28:09,971 --> 00:28:16,769
+Rym: I both, I owned physically, I think a majority of the boxes in our family.
+
+417
+00:28:17,492 --> 00:28:18,255
+Scott: You're so rich.
+
+418
+00:28:18,295 --> 00:28:18,918
+Scott: You bought all these.
+
+419
+00:28:19,441 --> 00:28:21,148
+Rym: I think it's more that we prioritize it.
+
+420
+00:28:21,169 --> 00:28:22,112
+Rym: I'll get to that in a second.
+
+421
+00:28:22,152 --> 00:28:26,125
+Rym: But two, there are a lot of PC games from these areas.
+
+422
+00:28:26,205 --> 00:28:28,553
+Rym: we owned and had boxes for that are not here.
+
+423
+00:28:28,573 --> 00:28:30,681
+Rym: Yeah.
+
+424
+00:28:30,701 --> 00:28:31,464
+Scott: It's not complete.
+
+425
+00:28:31,544 --> 00:28:32,889
+Scott: I mean, sieve two isn't even on there.
+
+426
+00:28:32,909 --> 00:28:34,877
+Scott: They got sieve one and three, but not two.
+
+427
+00:28:35,238 --> 00:28:36,403
+Scott: So yeah, it's there.
+
+428
+00:28:36,564 --> 00:28:44,270
+Scott: I think there's ongoing work because like, as I'm going to the site, even just now, they just, they literally added a shelf since before.
+
+429
+00:28:44,411 --> 00:28:44,773
+Scott: Oh yeah.
+
+430
+00:28:44,793 --> 00:28:46,865
+Rym: I see that little shelf at the bottom with XCOM apocalypse.
+
+431
+00:28:46,885 --> 00:28:47,629
+Rym: That game was bad.
+
+432
+00:28:48,790 --> 00:28:49,011
+Scott: Yeah.
+
+433
+00:28:49,051 --> 00:28:52,725
+Scott: But I'm saying like they have added shelves, right?
+
+434
+00:28:52,765 --> 00:28:54,070
+Scott: The scanning is ongoing.
+
+435
+00:28:54,470 --> 00:28:57,503
+Rym: So part of what it was is my family, like we were always gamers.
+
+436
+00:28:57,604 --> 00:29:00,335
+Rym: Like the family was playing video games before I was born.
+
+437
+00:29:00,576 --> 00:29:02,002
+Rym: Every relative had an Atari.
+
+438
+00:29:02,544 --> 00:29:04,612
+Rym: Uh, like there were multiple game consoles in every house.
+
+439
+00:29:04,893 --> 00:29:07,502
+Rym: Go to grandma's house and grandma has multiple game consoles.
+
+440
+00:29:07,964 --> 00:29:18,120
+Rym: So when the PC gaming era really took off, uh, everyone like my mom, my dad, my brother and me all played PC games primarily to the exclusion of all other games.
+
+441
+00:29:18,441 --> 00:29:21,253
+Rym: So anytime we went to like a Babbages, we came home with four games.
+
+442
+00:29:21,354 --> 00:29:27,476
+Rym: Like everyone in the family would pick one and we prioritize PC gaming over other forms of entertainment.
+
+443
+00:29:27,516 --> 00:29:32,014
+Scott: But you know how many games they were, you'd have to go to Babbages like hundreds of times and spend $200 each time.
+
+444
+00:29:32,034 --> 00:29:43,761
+Rym: We bought after their heyday, like five years after they'd come out, uh, usually in discount bins.
+
+445
+00:29:45,186 --> 00:29:50,922
+Rym: I bought a lot of games on floppy with CGA graphics after I had a four 86 that could do more.
+
+446
+00:29:52,165 --> 00:29:59,251
+Scott: They're not just including games on the shelves, by the way, there are various Microsoft like windows, dos, you know, things like of that nature.
+
+447
+00:29:59,271 --> 00:30:06,877
+Scott: The best thing I saw on the shelves that I didn't know about that I really want now is Super Mario brothers print world.
+
+448
+00:30:07,519 --> 00:30:12,154
+Rym: I was about to mention that I knew of it and wanted it and was unable to acquire it.
+
+449
+00:30:12,475 --> 00:30:18,033
+Scott: I really want to emulate that and print out, you know, like, like.
+
+450
+00:30:18,254 --> 00:30:19,841
+Scott: this has to be possible, right?
+
+451
+00:30:20,102 --> 00:30:21,166
+Rym: I mean, that is from the era.
+
+452
+00:30:21,186 --> 00:30:27,530
+Rym: I just want to point out it's, it notes that it comes with both five and a quarter and three and a half inch disks.
+
+453
+00:30:28,212 --> 00:30:28,914
+Scott: Mm hmm.
+
+454
+00:30:30,879 --> 00:30:31,722
+Rym: Well, this is good stuff.
+
+455
+00:30:31,822 --> 00:30:39,464
+Rym: I can, the saddest thing is we kept every box, every NES box, every SNES box, every PC game box.
+
+456
+00:30:39,825 --> 00:30:44,784
+Rym: And once I went to college at one point, my parents were like, do you need any of these boxes?
+
+457
+00:30:44,804 --> 00:30:45,729
+Rym: And I was like, fuck now.
+
+458
+00:30:48,171 --> 00:30:48,633
+Scott: And you know what?
+
+459
+00:30:48,693 --> 00:30:49,235
+Rym: I don't regret it.
+
+460
+00:30:50,399 --> 00:30:53,893
+Scott: Let the past really do not tie yourself to material possessions.
+
+461
+00:30:53,913 --> 00:30:59,277
+Rym: Your life will be way better if you just throw that stuff away or give it to someone as a burden for them to bear.
+
+462
+00:30:59,297 --> 00:31:07,362
+Scott: I really appreciate how, because of the alphabetical order, Master of Orion 2 is right next to Mecha Warrior 2.
+
+463
+00:31:07,362 --> 00:31:08,184
+Scott: My best bros.
+
+464
+00:31:08,304 --> 00:31:10,651
+Rym: That is a very powerful area of the shelf.
+
+465
+00:31:11,133 --> 00:31:12,638
+Scott: That is extremely powerful.
+
+466
+00:31:12,758 --> 00:31:16,952
+Scott: Also, I'm terrible at Master of Orion 2, even though I've played it a lot.
+
+467
+00:31:17,554 --> 00:31:22,912
+Rym: I like specifically which boxes are facing forward, like a Tie Fighter is facing forward.
+
+468
+00:31:23,073 --> 00:31:25,503
+Scott: I think it's different every time you load the site.
+
+469
+00:31:25,945 --> 00:31:28,796
+Scott: I think there are some, I don't think it's like consistently locked in.
+
+470
+00:31:28,816 --> 00:31:32,468
+Rym: Tie Fighter is consistently locked in at least.
+
+471
+00:31:32,508 --> 00:31:34,035
+Rym: I can say that every couple times.
+
+472
+00:31:34,196 --> 00:31:36,166
+Scott: It might change when the shelf expands some more.
+
+473
+00:31:36,407 --> 00:31:39,498
+Rym: I think in that era, Tie Fighter might have been the best PC game I'd ever seen.
+
+474
+00:31:41,204 --> 00:31:43,171
+Scott: They do have many of the Star Wars games.
+
+475
+00:31:43,191 --> 00:31:44,777
+Scott: They also have every Starcraft box.
+
+476
+00:31:45,320 --> 00:31:47,288
+Scott: Starcraft came in three different boxes.
+
+477
+00:31:47,428 --> 00:31:52,750
+Scott: One for you could choose, even though what was inside was the same no matter which box you bought.
+
+478
+00:31:53,670 --> 00:31:59,062
+Rym: In a moment, we will be live at PAX Unplugged 2024, which is December 6th through 8th.
+
+479
+00:31:59,122 --> 00:32:05,690
+Rym: We're going to be enforcing at night, so you won't see us unless you go to the places we're working.
+
+480
+00:32:06,251 --> 00:32:14,810
+Rym: On Friday, we're going to be doing a learn and play of a fantastic push your luck game, and we're also going to be doing a panel, a slightly updated version of Take Your Fucking Turn.
+
+481
+00:32:15,771 --> 00:32:18,321
+Rym: If you're listening to this, you don't need to go to that.
+
+482
+00:32:18,702 --> 00:32:19,606
+Rym: It's not for you.
+
+483
+00:32:19,927 --> 00:32:20,750
+Rym: It's already on YouTube.
+
+484
+00:32:21,170 --> 00:32:22,355
+Rym: You already know our deal with that.
+
+485
+00:32:22,657 --> 00:32:30,490
+Rym: It's for the people who do not know how to take their fucking turn, and I feel like PAX Unplugged is an audience that needs to hear this message.
+
+486
+00:32:31,170 --> 00:32:39,210
+Scott: I should also mention that at PAX Unplugged, there is going to be some sort of indie game night market, and you should not miss that part of PAX Unplugged.
+
+487
+00:32:39,470 --> 00:32:39,591
+Rym: Yep.
+
+488
+00:32:39,913 --> 00:32:50,516
+Rym: I also note if you scroll down in the special guest highlights that added between Laura Stringer and Jerry Hawkins is Paul Storm and Jonathan Colton, some names we haven't seen in a while.
+
+489
+00:32:51,300 --> 00:32:57,848
+Scott: I guess for the 20th anniversary of PAX, they are reprising the old days, and for the first time, concerts at Unplugged.
+
+490
+00:32:57,868 --> 00:32:59,425
+Scott: There have never been concerts at Unplugged.
+
+491
+00:32:59,587 --> 00:32:59,668
+Rym: Yeah.
+
+492
+00:33:00,030 --> 00:33:05,443
+Scott: And it seems that the concerts are Saturday night, so it's like, does that mean that the act ink must be Friday night, or what?
+
+493
+00:33:05,544 --> 00:33:06,309
+Scott: I don't know what the deal is.
+
+494
+00:33:07,092 --> 00:33:16,810
+Rym: And I see Chris Straub also listed as act ink among other things, so I'm assuming without prior knowledge that act ink will just be on Friday, but we'll find out.
+
+495
+00:33:18,313 --> 00:33:19,525
+Scott: I didn't look at the schedule, so I don't know.
+
+496
+00:33:19,545 --> 00:33:20,050
+Scott: I'm just guessing.
+
+497
+00:33:20,271 --> 00:33:21,402
+Rym: I don't think the schedule is up yet.
+
+498
+00:33:21,765 --> 00:33:22,189
+Rym: Let's see.
+
+499
+00:33:23,090 --> 00:33:33,490
+Scott: I will say that at West, I went to act ink for a brief period, and I was basically falling asleep and disinterested, so I left.
+
+500
+00:33:33,670 --> 00:33:42,956
+Rym: I like act ink, but I will say, in full disclosure, the C-Team was like 150% better than the original act ink.
+
+501
+00:33:42,976 --> 00:33:45,570
+Rym: The C-Team was way funnier and tighter.
+
+502
+00:33:46,210 --> 00:33:53,590
+Scott: I mean, if it entertains you, I'm happy for you, but for me, it was like watching paint dry.
+
+503
+00:33:55,653 --> 00:34:16,949
+Rym: I do enjoy act ink, but I think act ink is the, well, I'm gonna qualify, I'm gonna say something, but some people might take a different thing away from it, from what Scott's gonna take away, because while I like act ink, I'm just gonna say that act ink is, in my opinion, the best Dungeons & Dragons stream there is, and I say that.
+
+504
+00:34:17,230 --> 00:34:18,050
+Scott: You watched all of them?
+
+505
+00:34:18,411 --> 00:34:21,429
+Rym: I'm just saying, of all the ones I have watched, I haven't seen any others.
+
+506
+00:34:21,810 --> 00:34:21,871
+Scott: I
+
+507
+00:34:21,911 --> 00:34:40,810
+Rym: have seen minutes of many other ones, and regardless of the absolute level of quality, I would say in terms of relative quality, it's the best fucking one, and you, specifically, should take heart to the fact that it is the best one, in case you accidentally encounter another Dungeons & Dragons livestream.
+
+508
+00:34:42,616 --> 00:34:43,510
+Scott: I don't think that's gonna happen.
+
+509
+00:34:43,750 --> 00:34:46,069
+Rym: All right, so a new Zelda game came out.
+
+510
+00:34:47,210 --> 00:34:57,110
+Scott: Yeah, we were awaiting this game, and then it arrived, and I used my vouchers to save $10, and I've been playing it, and I'm not done yet, but I am a significant way through.
+
+511
+00:34:57,271 --> 00:35:02,410
+Scott: I beat, like, one, two, three, four, a bunch of dungeons.
+
+512
+00:35:03,453 --> 00:35:11,270
+Rym: I've beaten one dungeon, interacted with the second dungeon, but otherwise, I've explored a surprisingly large amount of the map, despite not having a lot of stuff yet.
+
+513
+00:35:11,490 --> 00:35:18,169
+Scott: Well, yeah, I only went to an area of the map when it was time to go there for the dungeon, but then when I go to that area of the map, I clean house.
+
+514
+00:35:18,610 --> 00:35:22,770
+Rym: As soon as I beat the first dungeon, I just went in every direction as far as I could go on a horse.
+
+515
+00:35:23,032 --> 00:35:28,450
+Scott: So you just opened up the whole overworld, and then didn't do any dungeons, or really clean up anything.
+
+516
+00:35:28,570 --> 00:35:31,930
+Rym: I did a lot, that's how I approached Tears of the Kingdom, too.
+
+517
+00:35:32,070 --> 00:35:34,125
+Rym: I mostly was just like, "What's over here?
+
+518
+00:35:34,205 --> 00:35:34,628
+Rym: What's over
+
+519
+00:35:34,668 --> 00:35:34,769
+Rym: here?".
+
+520
+00:35:36,171 --> 00:35:39,710
+Scott: See, I go to an area, and I clean house, then I go to the next area, and I clean house.
+
+521
+00:35:39,910 --> 00:35:47,750
+Scott: I don't, you know, there's no reason to expose areas of the map and not clean house, because then what happens is, it's like-- Now you don't remember what areas you cleaned up.
+
+522
+00:35:48,510 --> 00:35:56,769
+Scott: Exactly, you gotta go to an area and make sure you do everything as much as you can before going to the next area, then you know, "Done there, now let's go to the next
+
+523
+00:35:56,890 --> 00:35:56,970
+Scott: one.".
+
+524
+00:35:56,990 --> 00:36:04,330
+Scott: If you open the whole map, it's like, "All right, I know at least at the start, I can go to any area and clean it up, but then, all right, where do I go second?
+
+525
+00:36:04,670 --> 00:36:05,617
+Scott: Where do I go third?
+
+526
+00:36:06,120 --> 00:36:07,127
+Scott: Where have I already been?
+
+527
+00:36:07,147 --> 00:36:07,369
+Scott: Uh-oh.".
+
+528
+00:36:09,072 --> 00:36:10,061
+Scott: -I'm going back to somewhere I've been.
+
+529
+00:36:10,081 --> 00:36:14,670
+Rym: -The thing is, at least historically, Zelda games, starting with Zelda 3 onward.
+
+530
+00:36:15,191 --> 00:36:16,590
+Rym: Actually, no, starting with Link's Awakening.
+
+531
+00:36:16,990 --> 00:36:19,269
+Rym: I think that was the-- Link's Awakening and Zelda 3 both did this.
+
+532
+00:36:20,411 --> 00:36:22,910
+Rym: They're very good at telling you where to go if you forgot.
+
+533
+00:36:23,792 --> 00:36:24,034
+Scott: Oh, yeah.
+
+534
+00:36:24,477 --> 00:36:29,210
+Scott: To continue the plot, you know where to go, but knowing where you cleaned house, that's a little trickier.
+
+535
+00:36:29,270 --> 00:36:30,829
+Scott: You actually have to go there and sort of see.
+
+536
+00:36:31,512 --> 00:36:37,630
+Scott: And one interesting thing, though, is that each area of the game, of the map, it gives you quite a bit to do, right?
+
+537
+00:36:37,670 --> 00:36:42,639
+Scott: Because there's, like, the initial exploring when you get to a new area of, like, "What's going on here?
+
+538
+00:36:43,102 --> 00:36:43,465
+Scott: What is
+
+539
+00:36:43,525 --> 00:36:43,989
+Scott: happening?".
+
+540
+00:36:44,150 --> 00:36:44,473
+Scott: -Right?
+
+541
+00:36:44,493 --> 00:36:44,735
+Scott: "Who's good?
+
+542
+00:36:44,796 --> 00:36:44,977
+Scott: Who's
+
+543
+00:36:44,998 --> 00:36:45,119
+Scott: bad?".
+
+544
+00:36:45,139 --> 00:36:45,906
+Rym: -"What's the deal with this
+
+545
+00:36:45,926 --> 00:36:46,289
+Rym: place?".
+
+546
+00:36:46,611 --> 00:36:46,792
+Scott: Right.
+
+547
+00:36:47,153 --> 00:36:50,810
+Scott: And then, there's, like, mini-quests to do, side-quests.
+
+548
+00:36:51,231 --> 00:36:53,490
+Rym: A lot like Tears of the Kingdom, Breath of the Wild style.
+
+549
+00:36:53,710 --> 00:36:53,871
+Rym: Right.
+
+550
+00:36:54,234 --> 00:36:56,110
+Scott: And then there's, like, some rifts to close.
+
+551
+00:36:56,630 --> 00:37:01,470
+Scott: There's some kind of evil shit to deal with that are sort of, like, mini-dungeons, right?
+
+552
+00:37:01,872 --> 00:37:03,109
+Scott: And then, you know, there's caves.
+
+553
+00:37:03,531 --> 00:37:06,709
+Scott: And then there's the main plot of the area, and you clean that up.
+
+554
+00:37:07,410 --> 00:37:13,170
+Scott: And then after that, there will be, like, new, refreshed, extra mini-quests, like, after.
+
+555
+00:37:13,652 --> 00:37:21,770
+Scott: So it's, like, it actually takes quite a significant amount of time, and really going over, you know, in one area.
+
+556
+00:37:21,850 --> 00:37:23,483
+Scott: Because the map isn't that big, right?
+
+557
+00:37:23,523 --> 00:37:24,370
+Scott: It's not large.
+
+558
+00:37:25,890 --> 00:37:29,530
+Scott: -You know, you can-- -It's very Link's Awakening-style-sized map.
+
+559
+00:37:29,590 --> 00:37:32,830
+Scott: Well, because it's based on the same engine they used for Link's Awakening remake.
+
+560
+00:37:32,970 --> 00:37:33,252
+Scott: -Yep.
+
+561
+00:37:33,272 --> 00:37:35,710
+Scott: -And it's a very small kind of map.
+
+562
+00:37:36,010 --> 00:37:36,573
+Scott: -Small and dense.
+
+563
+00:37:36,594 --> 00:37:40,569
+Scott: -They cram a lot into each area, so that it doesn't run out.
+
+564
+00:37:41,012 --> 00:37:46,949
+Rym: Yep, it's a really dense game in terms of, like, what's going on in every, like, square square of the game.
+
+565
+00:37:47,650 --> 00:38:01,670
+Rym: But if I have to give a super high-level impression, the game is really fun, but what I appreciate the most is that after the initial sort of tutorial, you know, it's a game where you get-- You basically can get items to clone and stick out into the world and use those to solve puzzles.
+
+566
+00:38:02,430 --> 00:38:06,350
+Rym: But what it doesn't do is be stingy with the items.
+
+567
+00:38:06,771 --> 00:38:12,290
+Rym: But an hour in, you've got so many items you can throw out into the world.
+
+568
+00:38:12,850 --> 00:38:15,185
+Rym: Like, you think, "Oh, I'm gonna get a Moblin.
+
+569
+00:38:15,205 --> 00:38:15,749
+Rym: That's gonna be
+
+570
+00:38:15,769 --> 00:38:15,870
+Rym: cool.".
+
+571
+00:38:15,991 --> 00:38:17,768
+Rym: "No, I got, like, five different kinds of Moblins right
+
+572
+00:38:17,788 --> 00:38:17,990
+Rym: away.".
+
+573
+00:38:17,990 --> 00:38:22,509
+Scott: They're mostly-- And most of the things you can summon are enemies, which are-- When you summon them are friends.
+
+574
+00:38:24,412 --> 00:38:28,930
+Scott: In terms of non-enemy items, there actually aren't that many, and they're quite significant when you get them.
+
+575
+00:38:29,090 --> 00:38:29,202
+Scott: Yep.
+
+576
+00:38:30,953 --> 00:38:33,650
+Rym: I still find Bed gets a lot of use so far.
+
+577
+00:38:34,372 --> 00:38:35,549
+Scott: Bed gets a lot of use.
+
+578
+00:38:35,850 --> 00:38:41,790
+Scott: You know, trampoline, wooden box, pot that you can hop into.
+
+579
+00:38:41,830 --> 00:38:42,257
+Scott: I like that.
+
+580
+00:38:42,297 --> 00:38:43,130
+Rym: you can hide in the pot.
+
+581
+00:38:43,350 --> 00:38:43,879
+Rym: I like that a lot.
+
+582
+00:38:43,920 --> 00:38:44,470
+Rym: It's really cute.
+
+583
+00:38:44,750 --> 00:38:45,850
+Scott: Rock is really strong.
+
+584
+00:38:47,834 --> 00:38:49,150
+Scott: You know, all those sorts of items.
+
+585
+00:38:49,890 --> 00:39:00,262
+Rym: But I guess the fact that the game is just not stingy and just lets you have a lot of stuff, it really does echo how Tears of the Kingdom was in terms of, "Here's a bunch of stuff.
+
+586
+00:39:00,905 --> 00:39:01,548
+Rym: Do what thou
+
+587
+00:39:01,608 --> 00:39:01,849
+Rym: wilt.".
+
+588
+00:39:02,131 --> 00:39:02,836
+Rym: "Here's a puzzle.
+
+589
+00:39:02,877 --> 00:39:04,670
+Rym: There's probably four or five different ways to do it.
+
+590
+00:39:04,710 --> 00:39:05,662
+Rym: I don't care how you do it.
+
+591
+00:39:05,702 --> 00:39:06,128
+Rym: Just play your
+
+592
+00:39:06,168 --> 00:39:06,330
+Rym: game.".
+
+593
+00:39:07,178 --> 00:39:07,369
+Scott: Yeah.
+
+594
+00:39:08,773 --> 00:39:13,607
+Scott: Once you get into dungeons, it's a little bit more restrained in terms of, like, "How am I going to get through
+
+595
+00:39:13,647 --> 00:39:13,869
+Scott: there?".
+
+596
+00:39:14,031 --> 00:39:16,090
+Scott: And there's several different ways, usually.
+
+597
+00:39:16,350 --> 00:39:20,050
+Scott: You know, you can get creative, but there are going to be that many ways, right?
+
+598
+00:39:20,110 --> 00:39:28,668
+Scott: There'll be a puzzle that's, like, pretty tight, where it's like, "Okay, how can I possibly hit that switch over there with the items available in this room and the things I can
+
+599
+00:39:28,709 --> 00:39:28,970
+Scott: summon?".
+
+600
+00:39:29,050 --> 00:39:37,270
+Scott: It's like, there's only so many ways without hacking or cheating or clipping or whatever or something, out of bounds or whatever, you know.
+
+601
+00:39:39,131 --> 00:39:43,370
+Scott: But the thing I like is that, for example, the bottom right area of the map, right?
+
+602
+00:39:44,014 --> 00:39:44,883
+Scott: There was a dungeon there.
+
+603
+00:39:44,984 --> 00:39:46,987
+Scott: The game was like, "Hey, there's a dungeon in the bottom
+
+604
+00:39:47,027 --> 00:39:47,209
+Scott: right.".
+
+605
+00:39:47,431 --> 00:39:49,266
+Scott: And I'm like, "All right, I decide I'm going to do that one
+
+606
+00:39:49,327 --> 00:39:49,549
+Scott: next.".
+
+607
+00:39:50,296 --> 00:39:51,348
+Scott: And so I try to go down there.
+
+608
+00:39:52,811 --> 00:39:57,929
+Scott: And there may have been something I missed, another way to get into the bottom right area of the map.
+
+609
+00:39:58,131 --> 00:40:05,848
+Scott: But on the overworld, the bottom right area of the map was pretty much sealed tight with, like, a wall of trees and mountains all along the edge.
+
+610
+00:40:06,770 --> 00:40:15,510
+Scott: And it's like, yeah, there's various ways of using the items you can summon, crates and beds and trampolines, but you can only summon so many at once.
+
+611
+00:40:16,032 --> 00:40:19,270
+Scott: It's not like there's unlimited crates where you can just make a mountain of them.
+
+612
+00:40:19,550 --> 00:40:27,409
+Scott: It only lets you, depending on how much you've leveled yourself up and how many other dungeons you've done, your limits on how many you can make might be low.
+
+613
+00:40:28,232 --> 00:40:29,729
+Scott: So it's like, well, how can I get in there?
+
+614
+00:40:30,171 --> 00:40:35,670
+Scott: And I thought I was pretty clever, and I did, like, creatively found a way to get just enough height.
+
+615
+00:40:36,570 --> 00:40:41,668
+Scott: And it felt like I wasn't supposed to be where I was, like, up on top of some trees.
+
+616
+00:40:42,973 --> 00:40:45,268
+Scott: Like, this can't be the official entrance, can it?
+
+617
+00:40:45,751 --> 00:40:47,130
+Scott: Feels like the wrong entrance.
+
+618
+00:40:47,491 --> 00:40:52,070
+Scott: Like, I pulled off a fast one, but the game didn't care.
+
+619
+00:40:52,110 --> 00:40:52,608
+Scott: It just worked.
+
+620
+00:40:53,451 --> 00:40:57,090
+Rym: And I like that, because that's, you know, Tears of the Kingdom and Breath of the Wild also had that feeling.
+
+621
+00:40:57,151 --> 00:40:58,187
+Rym: We don't care how you get there.
+
+622
+00:40:58,772 --> 00:40:59,389
+Rym: It's right there.
+
+623
+00:40:59,512 --> 00:41:00,150
+Rym: That's the puzzle.
+
+624
+00:41:00,231 --> 00:41:00,705
+Rym: Can you get in?
+
+625
+00:41:00,990 --> 00:41:01,080
+Rym: Cool.
+
+626
+00:41:02,070 --> 00:41:02,157
+Scott: Yeah.
+
+627
+00:41:02,470 --> 00:41:09,570
+Scott: I don't, you know, maybe I did go in, like, the intended way, because, you know, the other areas that I had tried to get in were much more difficult.
+
+628
+00:41:09,650 --> 00:41:13,090
+Scott: And I found, like, this one area where I could just barely get enough height.
+
+629
+00:41:13,190 --> 00:41:15,190
+Scott: Maybe that was the right entrance, right?
+
+630
+00:41:15,230 --> 00:41:17,130
+Scott: And I did, or maybe it wasn't.
+
+631
+00:41:17,411 --> 00:41:23,049
+Scott: Maybe they expected you to go a different way, or they accounted for every different way you might go in.
+
+632
+00:41:24,052 --> 00:41:25,790
+Scott: But everything worked out just fine.
+
+633
+00:41:26,032 --> 00:41:28,970
+Scott: The game, you know, the plot proceeded accordingly.
+
+634
+00:41:30,010 --> 00:41:30,602
+Scott: And I was like, "Oh,
+
+635
+00:41:30,827 --> 00:41:30,990
+Scott: okay.".
+
+636
+00:41:32,112 --> 00:41:43,427
+Scott: And that's the thing, is that the fun of the game is that, a lot of times, it's either showing you something that looks so impossible, like, "How can I possibly do that, even with all these crazy
+
+637
+00:41:43,548 --> 00:41:43,750
+Scott: items?".
+
+638
+00:41:44,115 --> 00:41:44,989
+Scott: But there is a way.
+
+639
+00:41:45,671 --> 00:41:47,050
+Scott: You know there has to be a way, right?
+
+640
+00:41:47,150 --> 00:41:48,049
+Scott: Why would they show it to you?
+
+641
+00:41:48,110 --> 00:41:48,242
+Rym: Yep.
+
+642
+00:41:48,410 --> 00:41:49,976
+Rym: And the game is good at bounding.
+
+643
+00:41:50,157 --> 00:41:53,170
+Rym: what ways would even be remotely feasible to try.
+
+644
+00:41:53,592 --> 00:41:56,169
+Rym: So you're not, like, trying something that's completely fruitless.
+
+645
+00:41:57,183 --> 00:41:57,369
+Scott: Yeah, yeah.
+
+646
+00:41:57,711 --> 00:42:06,890
+Scott: And at the same time, there are times where you can figure out a way to do something that feels like you're being naughty, and you're getting away with one, right?
+
+647
+00:42:06,972 --> 00:42:07,869
+Scott: And so that's fun, too.
+
+648
+00:42:07,970 --> 00:42:09,249
+Scott: And the same thing with the bad guys.
+
+649
+00:42:09,750 --> 00:42:14,450
+Scott: Fighting bad guys, you can just turn into Link and fight the bad guys normally.
+
+650
+00:42:14,590 --> 00:42:17,970
+Rym: Yep, you get plenty of that energy to do that if you really want to do that.
+
+651
+00:42:18,251 --> 00:42:21,110
+Scott: Yeah, you can do it, and sometimes it's the best way to do it.
+
+652
+00:42:21,472 --> 00:42:26,650
+Scott: Really, what you want to do is summon enemies to fight for you, and then just sit and wait like a necromancer in Diablo.
+
+653
+00:42:26,870 --> 00:42:27,488
+Scott: That's way more fun.
+
+654
+00:42:28,050 --> 00:42:29,670
+Rym: Even in the beginning, you get so many enemies.
+
+655
+00:42:29,910 --> 00:42:35,970
+Rym: Like, right away, the first thing I did is summon three bats and have them follow me around, and that's still pretty effective for a while.
+
+656
+00:42:36,572 --> 00:42:43,489
+Scott: And depending on the opponent enemies, different strategies of which enemies you're going to summon to fight with them will be more effective, you know?
+
+657
+00:42:43,851 --> 00:42:47,090
+Scott: If the enemies are made of fire, you probably don't want to summon Gibdo.
+
+658
+00:42:48,470 --> 00:42:48,702
+Scott: Right?
+
+659
+00:42:48,990 --> 00:42:50,730
+Scott: That's probably not going to work, you know?
+
+660
+00:42:51,231 --> 00:42:56,030
+Scott: If the enemies are knights with armor, you probably don't want to summon Moblins throwing spears.
+
+661
+00:42:56,310 --> 00:42:57,710
+Scott: They're kind of going to bounce off, right?
+
+662
+00:42:57,730 --> 00:42:58,470
+Scott: It's not going to work out to you.
+
+663
+00:42:58,470 --> 00:43:04,650
+Rym: I really like how they let you encounter a pretty strong enemy really early and get the summon.
+
+664
+00:43:05,110 --> 00:43:07,825
+Rym: Like, you get the Darknut, and then you're like, "I can just summon
+
+665
+00:43:07,845 --> 00:43:07,947
+Rym: him?".
+
+666
+00:43:08,150 --> 00:43:12,090
+Rym: And you summon him, and he's fucking badass in the beginning of the game with a giant axe.
+
+667
+00:43:12,650 --> 00:43:13,829
+Scott: Yeah, and then soon enough, he's garbage.
+
+668
+00:43:14,351 --> 00:43:15,330
+Rym: Yep, he's garbage pretty quick.
+
+669
+00:43:15,831 --> 00:43:21,603
+Rym: Well, you said as soon as you get Zelda 3 spinning a chain over my head guy, Yeah.
+
+670
+00:43:22,832 --> 00:43:24,330
+Rym: Actually, I've been having a lot of fun with the P-hat.
+
+671
+00:43:24,490 --> 00:43:26,028
+Rym: The P-hat just chases goblins down.
+
+672
+00:43:26,591 --> 00:43:26,930
+Rym: Or Moblins down.
+
+673
+00:43:27,430 --> 00:43:28,289
+Scott: Where do you get Wizrobe?
+
+674
+00:43:28,973 --> 00:43:30,230
+Rym: Oh, Wizrobe is always my favorite.
+
+675
+00:43:31,272 --> 00:43:32,829
+Scott: Ah, there's different kinds of Wizrobes, too.
+
+676
+00:43:33,512 --> 00:43:35,950
+Rym: No, in the original Zelda, there was blue, and there was orange.
+
+677
+00:43:36,610 --> 00:43:42,469
+Scott: I also, when you're in the water, very few things beat shark, but there is some case to use piranha.
+
+678
+00:43:43,970 --> 00:43:50,370
+Scott: But yeah, it's like you have all these bad guys you can summon to fight for you, or some of the bad guys do things that aren't fighting.
+
+679
+00:43:50,471 --> 00:43:52,390
+Scott: The spider is the earliest one in the game.
+
+680
+00:43:52,891 --> 00:44:04,830
+Scott: When you summon the spider in the 2D sort of side view areas, the spider makes a web going up, and you can jump and climb on the web, and it's very useful for getting around and getting higher elevation.
+
+681
+00:44:04,991 --> 00:44:07,290
+Rym: In the 3D areas, it also works.
+
+682
+00:44:07,450 --> 00:44:10,090
+Rym: It hooks to an invisible ceiling in a lot of places.
+
+683
+00:44:10,130 --> 00:44:12,230
+Scott: Yeah, but it's not as useful as the 2D area.
+
+684
+00:44:12,250 --> 00:44:17,129
+Rym: I used it a few times already to climb up and get onto something that I otherwise couldn't easily get onto.
+
+685
+00:44:17,931 --> 00:44:34,289
+Scott: Hmm, it's not completely useless, but it's not as... But yeah, it's like, hey, I don't know if it has the insane creative flexibility that the Tears of the Kingdom has, because it doesn't have the physics engine going on in there.
+
+686
+00:44:36,231 --> 00:44:42,930
+Scott: You're basically just summoning game objects into the world that is already built to accommodate game objects.
+
+687
+00:44:43,553 --> 00:44:49,770
+Scott: So there is a lot of creativity, but it doesn't go overboard where nonsense can go on.
+
+688
+00:44:49,950 --> 00:44:56,430
+Rym: Yeah, but at the same time, that keeps it a little more constrained so that the puzzles can be fairly 2D Zelda puzzle-y in a way that is satisfying.
+
+689
+00:44:57,150 --> 00:45:01,550
+Scott: It would be boring if everything became so easy because you could just cheese your way through the game.
+
+690
+00:45:01,710 --> 00:45:03,310
+Scott: Like, oh, I beat Ganon with a bed.
+
+691
+00:45:03,472 --> 00:45:04,269
+Scott: It's like, that's funny.
+
+692
+00:45:04,871 --> 00:45:11,509
+Scott: But it would be kind of anti-climactic in a way if you did it too easily.
+
+693
+00:45:11,852 --> 00:45:17,570
+Scott: And it does a good balance of that, especially with the enemies, is that sometimes if you're clever, you could just blow enemies away.
+
+694
+00:45:17,810 --> 00:45:19,710
+Scott: Like, ha ha ha ha ha, you're so weak.
+
+695
+00:45:20,152 --> 00:45:25,329
+Scott: And then other times it's like, yeah, really, no matter what you do, you're kind of going to have to fight this enemy, especially the bosses.
+
+696
+00:45:26,913 --> 00:45:31,290
+Scott: I haven't found a way to cheese a boss and just beat it instantly or something.
+
+697
+00:45:31,610 --> 00:45:36,749
+Scott: You always have to kind of do something to deal with it, follow its pattern of some kind.
+
+698
+00:45:37,431 --> 00:45:46,127
+Rym: There is one interesting, because I noted this quality of life thing that this game does, that I remember being a frustration in the original Link's Awakening when I replayed it.
+
+699
+00:45:47,252 --> 00:45:49,830
+Rym: There is fast travel fucking everywhere in this game.
+
+700
+00:45:49,970 --> 00:45:51,624
+Rym: You find one, like, every few feet.
+
+701
+00:45:51,664 --> 00:45:52,410
+Rym: there's a fast travel.
+
+702
+00:45:52,690 --> 00:45:56,250
+Rym: You can fast travel to anywhere you've ever been, like, so easily.
+
+703
+00:45:56,654 --> 00:45:57,988
+Rym: So you can just be where you want to be.
+
+704
+00:45:58,891 --> 00:46:09,365
+Scott: And, I mean, it's, you know, don't waste time making someone, like, you know, earlier Zelda games, it's like, okay, you can fast travel once you get the flute or once you get the ocarina, right?
+
+705
+00:46:10,051 --> 00:46:11,690
+Scott: Until then, you got to walk everywhere.
+
+706
+00:46:11,890 --> 00:46:14,870
+Scott: This game's like, ah, fuck it, we don't even need an item.
+
+707
+00:46:15,070 --> 00:46:18,869
+Scott: You just, if you hit a checkpoint, you can teleport between checkpoints for free at the end.
+
+708
+00:46:19,132 --> 00:46:19,290
+Rym: Yep.
+
+709
+00:46:20,210 --> 00:46:28,530
+Rym: In fact, in the first dungeon, the one they make you go into to sort of teach you what's going on with the rifts, they, there's multiple fast travel points even inside the dungeon.
+
+710
+00:46:28,912 --> 00:46:34,149
+Rym: There's one right next to the boss door, and then you find the boss key and you're like, okay, I guess I'll just teleport straight to the boss door.
+
+711
+00:46:35,135 --> 00:46:35,270
+Scott: Yep.
+
+712
+00:46:37,412 --> 00:46:46,790
+Scott: So, yeah, I don't know how long the game is, because on the one hand, like, it could be that I've only got two more dungeons and then the boss final dungeon.
+
+713
+00:46:47,812 --> 00:46:51,650
+Scott: But if that's the case, that means I'm only gonna get three more heart containers.
+
+714
+00:46:52,053 --> 00:46:59,048
+Scott: and I look at my heart container meter and it's like, and I look at how much healing the various potions do in terms of how many hearts they heal.
+
+715
+00:46:59,210 --> 00:47:01,631
+Rym: Oh, yeah, the first potion I made heals like 13.
+
+716
+00:47:01,631 --> 00:47:09,230
+Scott: It's like, yeah, and it's like, either there's a lot more pieces of heart that I'm missing because I am getting quite a few pieces of heart.
+
+717
+00:47:10,113 --> 00:47:13,530
+Scott: It's possible that I just, there's way more that I'm still not getting.
+
+718
+00:47:13,650 --> 00:47:17,130
+Rym: Or maybe it's just number three of beat these dungeons to then beat these dungeons.
+
+719
+00:47:17,712 --> 00:47:23,330
+Scott: It could be that there are even more dungeons than I suspect in this game, which would be pretty great, actually.
+
+720
+00:47:23,350 --> 00:47:28,989
+Scott: If there was one more set of dungeons, because I already, I cleared out like the first set and I'm on the second set.
+
+721
+00:47:29,671 --> 00:47:34,810
+Scott: If there was a third set, that would be like the ideal number of dungeons, it would be so great.
+
+722
+00:47:35,233 --> 00:47:45,989
+Scott: If the second set is the final set, it's like, that would be sort of expected, but a little bit, you know, leaving me wanting a little bit more.
+
+723
+00:47:47,431 --> 00:47:48,686
+Rym: The internet seems to agree.
+
+724
+00:47:48,727 --> 00:47:50,830
+Rym: the game is about a 20-ish hour game.
+
+725
+00:47:51,530 --> 00:47:57,730
+Scott: I don't know how many hours I've spent, but basically every time I sit down to play, I beat a dungeon and then I put it down.
+
+726
+00:47:58,190 --> 00:48:02,950
+Rym: The game, I would say, I would characterize the game as not being hard, like it's pretty easy.
+
+727
+00:48:02,970 --> 00:48:08,550
+Scott: No, it's way easy, especially because you don't need to do the action combat if you don't want to.
+
+728
+00:48:08,690 --> 00:48:10,330
+Scott: You can just let enemies do it all for you.
+
+729
+00:48:10,550 --> 00:48:14,809
+Rym: You really just need to figure out the puzzle, which mostly is, how do I get there?
+
+730
+00:48:15,151 --> 00:48:16,070
+Rym: How do I hit that switch?
+
+731
+00:48:16,491 --> 00:48:17,870
+Rym: How do I get through this area?
+
+732
+00:48:18,270 --> 00:48:19,770
+Rym: Like, it's that kind of game, mostly.
+
+733
+00:48:19,930 --> 00:48:26,970
+Scott: Nothing is challenging to the video game hands, except maybe the bosses and even then, not really.
+
+734
+00:48:28,470 --> 00:48:33,010
+Scott: But some of the puzzles are a little bit brain-teasy, even for adults, so.
+
+735
+00:48:33,090 --> 00:48:33,950
+Rym: But I appreciate that.
+
+736
+00:48:34,212 --> 00:48:43,389
+Rym: Some games, you have to figure out a solution and execute with timing, but then there's games where you just have to figure out the solution, like those Lolo games.
+
+737
+00:48:44,331 --> 00:48:48,809
+Rym: As an old example from the NES days, if you figured out the solution, the execution was pretty easy.
+
+738
+00:48:49,150 --> 00:48:50,150
+Scott: Figuring out the solution was the hard part.
+
+739
+00:48:50,170 --> 00:48:52,190
+Scott: - Yeah, Lolo's a Sokoban, so it's all the same.
+
+740
+00:48:53,614 --> 00:48:54,769
+Rym: But I'm enjoying this game.
+
+741
+00:48:56,076 --> 00:48:56,670
+Rym: It's beautiful.
+
+742
+00:48:56,870 --> 00:48:58,350
+Rym: It looks just like, I mean, it's the same engine.
+
+743
+00:48:58,410 --> 00:49:16,090
+Rym: It looks just like The Link's Awakening, though I did notice it actually gets, it drops its frame rate a lot along the way, and I feel like this game will also be released on Ounce, because I feel like it is pushing the limits of what pre-Ounce is capable of doing.
+
+744
+00:49:16,650 --> 00:49:27,589
+Scott: - Well, I think it's pretty clear by now that we know that if they've got this eShop, they've got the Nintendo Switch online, everyone has a count, Nintendo accounts.
+
+745
+00:49:28,175 --> 00:49:33,930
+Scott: When you log into the Ounce, you're gonna be able, all your digital games are gonna be there, right?
+
+746
+00:49:34,231 --> 00:49:40,870
+Scott: It's gonna be probably, I would be surprised if it wasn't fully backward compatible with the Switch, so you won't need your Switch anymore.
+
+747
+00:49:41,711 --> 00:49:46,109
+Scott: And there are just gonna be a lot of games early next year, whenever this console comes out.
+
+748
+00:49:46,731 --> 00:49:49,249
+Scott: I presume the Pokemon one, which they seem to have leaked.
+
+749
+00:49:49,690 --> 00:49:58,930
+Scott: Also, I presume, based on just educated knowledge, but not actual knowledge, that Metroid Prime 4 also will be on both consoles.
+
+750
+00:49:59,210 --> 00:50:05,929
+Scott: Nintendo's done this in the past, where they've had games as recently as Breath of the Wild, which were dual console games.
+
+751
+00:50:06,750 --> 00:50:12,989
+Scott: And so there's gonna be a bunch of dual console releases, and there's gonna be eventually exclusives.
+
+752
+00:50:14,071 --> 00:50:28,630
+Scott: But I think a lot of third-party developers making games, just go in the eShop, it's like, as long as the game doesn't require the advanced hardware power of the newer console, why would you make it not work on Switch?
+
+753
+00:50:28,890 --> 00:50:30,530
+Scott: Why would you make it exclusive to the new one?
+
+754
+00:50:30,610 --> 00:50:33,890
+Scott: You're just costing yourself money, considering how many Switch consoles are out in the world.
+
+755
+00:50:35,292 --> 00:50:36,488
+Scott: So that's how it's gonna be.
+
+756
+00:50:37,230 --> 00:50:42,289
+Rym: - So yeah, this is, if you like Zelda games, I feel like this is just an obvious buy.
+
+757
+00:50:43,893 --> 00:50:46,470
+Rym: I can't think of anyone who likes Zelda games who won't like this game.
+
+758
+00:50:47,530 --> 00:50:52,950
+Scott: - Yeah, I mean, if you like a 2D Zelda, it's not some one of the bad, like there's the bad train one or whatever.
+
+759
+00:50:54,293 --> 00:50:55,789
+Scott: And this is better than a lot of them.
+
+760
+00:50:56,751 --> 00:50:58,660
+Scott: It's not a waste of your $60 or $50 if you use the voucher.
+
+761
+00:51:01,390 --> 00:51:08,048
+Rym: - Also interestingly, it canonically, in the context of this game itself, Link is mute.
+
+762
+00:51:08,370 --> 00:51:09,430
+Rym: Like Link cannot speak.
+
+763
+00:51:09,631 --> 00:51:10,729
+Rym: That is like talked about.
+
+764
+00:51:11,192 --> 00:51:12,610
+Rym: It is part of the story.
+
+765
+00:51:13,030 --> 00:51:13,909
+Rym: Characters reference it.
+
+766
+00:51:14,290 --> 00:51:17,509
+Rym: Link is just mute as a person, and the game just, that's a matter of fact.
+
+767
+00:51:18,310 --> 00:51:21,949
+Scott: - It is funny how plot-wise in this one, Zelda and Link don't even know each other.
+
+768
+00:51:22,571 --> 00:51:37,450
+Scott: But it's like, Zelda finds out about Link, and there's all these other people in Hyrule who know Link, and Zelda is like learning about Link from these other villagers and Hyruleans who are like, "Oh yeah, that adventurer kid, "he promised my kid he'd bring him a toy, "but he hasn't come back.
+
+769
+00:51:37,550 --> 00:51:38,361
+Scott: "I wonder what happened to
+
+770
+00:51:38,421 --> 00:51:38,482
+Scott: him.".
+
+771
+00:51:39,130 --> 00:51:46,950
+Scott: And like, Zelda sees Link like once or twice, but like doesn't know him, and they've never met effectively speaking.
+
+772
+00:51:47,170 --> 00:51:48,449
+Rym: - I guess we should take a moment too.
+
+773
+00:51:48,590 --> 00:51:53,810
+Rym: I wanna highlight, when you play this game, early, early on, you're gonna see a wanted poster for Zelda.
+
+774
+00:51:54,271 --> 00:51:56,069
+Rym: That is an A+ wanted poster.
+
+775
+00:51:56,910 --> 00:52:06,587
+Scott: - Well, not only is that A+, the detail, because it's like a 2D game, and they, you know, it's not 2D, but it's not, you know, it's a 3/4 overhead view.
+
+776
+00:52:07,250 --> 00:52:11,010
+Scott: They didn't have to put in like insane, high resolution details into everything.
+
+777
+00:52:11,671 --> 00:52:19,769
+Scott: There are a lot of really subtle touches, especially in places like the villagers' homes, or people's rooms.
+
+778
+00:52:20,310 --> 00:52:25,410
+Scott: Like, there's the lady, of course, if you go to Kakariko Village, there's the woman with the escaped cuckoos.
+
+779
+00:52:25,790 --> 00:52:26,988
+Rym: - I was about to bring her up.
+
+780
+00:52:27,410 --> 00:52:28,629
+Scott: - You gotta throw them in the fence.
+
+781
+00:52:28,792 --> 00:52:29,410
+Scott: It's a classic.
+
+782
+00:52:29,611 --> 00:52:30,968
+Scott: Of course you have to do that, right?
+
+783
+00:52:31,613 --> 00:52:32,410
+Scott: It's a Zelda game.
+
+784
+00:52:32,650 --> 00:52:33,629
+Scott: You gotta collect the cuckoos.
+
+785
+00:52:34,090 --> 00:52:40,690
+Scott: You go in her house, and on her bedside nightstand is photos, there's like a photo of her holding a cuckoo, right?
+
+786
+00:52:40,890 --> 00:52:53,589
+Scott: It's like, all these small details, in everyone's house, and on the villagers' clothing, and all these around, they put in small things like that all over the place.
+
+787
+00:52:55,632 --> 00:53:01,190
+Scott: That kind of Disney World level of attention to detail really adds a lot of life to the game.
+
+788
+00:53:01,730 --> 00:53:02,110
+Rym: - Absolutely does.
+
+789
+00:53:02,230 --> 00:53:05,470
+Rym: And I think, take your time to just sort of poke around and look at stuff.
+
+790
+00:53:05,710 --> 00:53:07,670
+Rym: Don't just laser focus on solving the puzzles.
+
+791
+00:53:08,413 --> 00:53:11,730
+Rym: Go into all the places, like any good person who plays a Zelda game should.
+
+792
+00:53:11,810 --> 00:53:12,850
+Rym: You should see every pixel.
+
+793
+00:53:14,710 --> 00:53:15,169
+Scott: - Yeah.
+
+794
+00:53:15,533 --> 00:53:23,790
+Scott: Oh, the other thing is, another example is like, you go to the desert area, and it's like, there's a desert in the bottom left of the map.
+
+795
+00:53:23,891 --> 00:53:25,129
+Scott: Where have I seen that before?
+
+796
+00:53:25,570 --> 00:53:26,709
+Rym: - Ah, that's your favorite kind of thing.
+
+797
+00:53:27,530 --> 00:53:30,689
+Scott: - Yeah, I've seen other Zelda games of the desert in the bottom left of the map.
+
+798
+00:53:30,831 --> 00:53:44,150
+Scott: And also, you go down there, and there's some objects and a little entrance that looks really similar to an entrance from another Zelda game desert in the bottom left, right?
+
+799
+00:53:45,310 --> 00:53:56,486
+Scott: There's no direct connection to any other Zelda game, but there's these really minor allusions to people who know we know.
+
+800
+00:53:58,090 --> 00:53:59,709
+Scott: And that, you know, it's always nice to see.
+
+801
+00:54:05,240 --> 00:54:07,379
+Rym: - This has been GeekNights with Rym and Scott.
+
+802
+00:54:07,620 --> 00:54:10,120
+Rym: Special thanks to DJ Pretzel for the opening theme.
+
+803
+00:54:10,300 --> 00:54:16,320
+Scott: - Be sure to visit our website at frontrowclue.com for show notes, discussion, links, and more.
+
+804
+00:54:16,900 --> 00:54:19,459
+Rym: - Remember, GeekNights is not one, but four different shows.
+
+805
+00:54:19,820 --> 00:54:21,360
+Rym: Mondays are science and technology.
+
+806
+00:54:21,500 --> 00:54:23,179
+Rym: Tuesdays, gaming and games.
+
+807
+00:54:23,380 --> 00:54:25,140
+Rym: Wednesdays are animation and comics.
+
+808
+00:54:25,540 --> 00:54:27,980
+Rym: Thursdays are arbitrary and indiscriminate.
+
+809
+00:54:28,700 --> 00:54:33,540
+Rym: GeekNights is distributed under a Creative Commons Attribution 4.0 international license.
+
+810
+00:54:34,060 --> 00:54:38,299
+Scott: - GeekNights is recorded live with no studio and no audience.
+
+811
+00:54:38,841 --> 00:54:42,300
+Scott: But unlike those other late shows, it's actually recorded at night.
+
+812
+00:54:42,680 --> 00:54:59,280
+Rym: - And the Patreon patrons for this episode of GeekNights are Alan Joyce, Linky, Jeeves, Red Lillings, Annabelle Case, Cara Makes Music, Krista Dodd, Christopher Orlinson, Walton, Finn, Joel Hayes, Penny Ronger, Rebecca Dunn, Sam Erickson, Shervin, Von Horrell, and a bunch of people whose names I will not say at their request.
+
+813
+00:55:00,744 --> 00:55:02,480
+Rym: So yeah, Zelda's pretty good.
+
+814
+00:55:02,720 --> 00:55:03,435
+Rym: You should probably play it.
+
+815
+00:55:04,081 --> 00:55:10,220
+Rym: Looks like right before the show, I learned that they nerfed Sombra, so I'm gonna have to start playing someone else in Overwatch.
+
+816
+00:55:10,560 --> 00:55:14,359
+Rym: And tonight, I leave you with... - There.
+
+817
+00:55:15,490 --> 00:55:16,479
+Rym: That was a first for me.
+
+818
+00:55:16,900 --> 00:55:19,740
+Rym: I've severed a dragon's scrotum before, but never his liver.
+
+819
+00:55:20,321 --> 00:55:20,798
+Rym: It was fun.
+
